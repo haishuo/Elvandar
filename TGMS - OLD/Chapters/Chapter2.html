@@ -1,0 +1,1268 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>body {
+  max-width: 980px;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 45px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAABE0AA8AAAAAHWwAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABWAAAADsAAABUIIslek9TLzIAAAGUAAAAQwAAAFY3d1HZY21hcAAAAdgAAACqAAACOvWLi0FjdnQgAAAChAAAABMAAAAgBtX/BGZwZ20AAAKYAAAFkAAAC3CKkZBZZ2FzcAAACCgAAAAIAAAACAAAABBnbHlmAAAIMAAABdQAAAjkYT9TNWhlYWQAAA4EAAAAMwAAADYQ6WvNaGhlYQAADjgAAAAfAAAAJAc6A1pobXR4AAAOWAAAACAAAAA0Kmz/7mxvY2EAAA54AAAAHAAAABwQPBJubWF4cAAADpQAAAAgAAAAIAEHC/NuYW1lAAAOtAAAAYQAAALxhQT4h3Bvc3QAABA4AAAAfgAAAMS3SYh9cHJlcAAAELgAAAB6AAAAhuVBK7x4nGNgZGBg4GIwYLBjYHJx8wlh4MtJLMljkGJgYYAAkDwymzEnMz2RgQPGA8qxgGkOIGaDiAIAJjsFSAB4nGNgZHZmnMDAysDAVMW0h4GBoQdCMz5gMGRkAooysDIzYAUBaa4pDA4Pwz+yMwf9z2KIYg5imAYUZgTJAQDcoQvQAHic7ZHNDYJAFIRnBXf94cDRIiyCKkCpwFCPJ092RcKNDoYKcN4+EmMPvpdvk539zQyAPYBCXEUJhBcCrJ5SQ9YLnLJe4qF5rdb+uWPDngNHTkta101pNyWa8lMhn6xx2dqUnW4q9YOIhAOOeueMSgsR/6ry+P7O5s6xVNg4chBsHUuFnWNJ8uZYwrw7chrsHXkODo7cB0dHOYCTY8kv0VE2WJKD6gOlWjsxAAB4nGNgQAMSEMgc9D8LhAESbAPdAHicrVZpd9NGFB15SZyELCULLWphxMRpsEYmbMGACUGyYyBdnK2VoIsUO+m+8Ynf4F/zZNpz6Dd+Wu8bLySQtOdwmpOjd+fN1czbZRJaktgL65GUmy/F1NYmjew8CemGTctRfCg7eyFlisnfBVEQrZbatx2HREQiULWusEQQ+x5ZmmR86FFGy7akV03KLT3pLlvjQb1V334aOsqxO6GkZjN0aD2yJVUYVaJIpj1S0qZlqPorSSu8v8LMV81QwohOImm8GcbQSN4bZ7TKaDW24yiKbLLcKFIkmuFBFHmU1RLn5IoJDMoHzZDyyqcR5cP8iKzYo5xWsEu20/y+L3mndzk/sV9vUbbkQB/Ijuzg7HQlX4RbW2HctJPtKFQRdtd3QmzZ7FT/Zo/ymkYDtysyvdCMYKl8hRArP6HM/iFZLZxP+ZJHo1qykRNB62VO7Es+gdbjiClxzRhZ0N3RCRHU/ZIzDPaYPh788d4plgsTAngcy3pHJZwIEylhczRJ2jByYCVliyqp9a6YOOV1WsRbwn7t2tGXzmjjUHdiPFsPHVs5UcnxaFKnmUyd2knNoykNopR0JnjMrwMoP6JJXm1jNYmVR9M4ZsaERCICLdxLU0EsO7GkKQTNoxm9uRumuXYtWqTJA/Xco/f05la4udNT2g70s0Z/VqdiOtgL0+lp5C/xadrlIkXp+ukZfkziQdYCMpEtNsOUgwdv/Q7Sy9eWHIXXBtju7fMrqH3WRPCkAfsb0B5P1SkJTIWYVYhWQGKta1mWydWsFqnI1HdDmla+rNMEinIcF8e+jHH9XzMzlpgSvt+J07MjLj1z7UsI0xx8m3U9mtepxXIBcWZ5TqdZlu/rNMfyA53mWZ7X6QhLW6ejLD/UaYHlRzodY3lBC5p038GQizDkAg6QMISlA0NYXoIhLBUMYbkIQ1gWYQjLJRjC8mMYwnIZhrC8rGXV1FNJ49qZWAZsQmBijh65zEXlaiq5VEK7aFRqQ54SbpVUFM+qf2WgXjzyhjmwFkiXyJpfMc6Vj0bl+NYVLW8aO1fAsepvH472OfFS1ouFPwX/1dZUJb1izcOTq/Abhp5sJ6o2qXh0TZfPVT26/l9UVFgL9BtIhVgoyrJscGcihI86nYZqoJVDzGzMPLTrdcuan8P9NzFCFlD9+DcUGgvcg05ZSVnt4KzV19uy3DuDcjgTLEkxN/P6VvgiI7PSfpFZyp6PfB5wBYxKZdhqA60VvNknMQ+Z3iTPBHFbUTZI2tjOBIkNHPOAefOdBCZh6qoN5E7hhg34BWFuwXknXKJ6oyyH7kXs8yik/Fun4kT2qGiMwLPZG2Gv70LKb3EMJDT5pX4MVBWhqRg1FdA0Um6oBl/G2bptQsYO9CMqdsOyrOLDxxb3lZJtGYR8pIjVo6Of1l6iTqrcfmYUl++dvgXBIDUxf3vfdHGQyrtayTJHbQNTtxqVU9eaQ+NVh+rmUfW94+wTOWuabronHnpf06rbwcVcLLD2bQ7SUiYX1PVhhQ2iy8WlUOplNEnvuAcYFhjQ71CKjf+r+th8nitVhdFxJN9O1LfR52AM/A/Yf0f1A9D3Y+hyDS7P95oTn2704WyZrqIX66foNzBrrblZugbc0HQD4iFHrY64yg18pwZxeqS5HOkh4GPdFeIBwCaAxeAT3bWM5lMAo/mMOT7A58xh0GQOgy3mMNhmzhrADnMY7DKHwR5zGHzBnHWAL5nDIGQOg4g5DJ4wJwB4yhwGXzGHwdfMYfANc+4DfMscBjFzGCTMYbCv6dYwzC1e0F2gtkFVoANTT1jcw+JQU2XI/o4Xhv29Qcz+wSCm/qjp9pD6Ey8M9WeDmPqLQUz9VdOdIfU3Xhjq7wYx9Q+DmPpMvxjLZQa/jHyXCgeUXWw+5++J9w/bxUC5AAEAAf//AA94nIVVX2hbZRQ/5/t7893s5ja9f7ouzdZ0TTqz3bRJmogbWya6bG6Cq0VbSV2ddIJjFtfIQHEig80Hda8yUN/0YQz8AyriiyD+xQd92R4HCnaCb3samnpumrpsCsLlfPf7zvedc37nL3CAtc/5W/wQZGA3tOBSY/g+TMjHmwzEoM1Q8+ZjRZY4oJhmBw5/YB6Za0yC5AkhlwA1A1yCBIBOwCII0Cj0U8BAMdUCzq05sKwkP7SlUY6fcJk4Fb/RyE79/6P5hjM/F4aZiXBoeMgzcqQ4Xi1hPqfDLG5FT+lchCVU3lYMyvuwhl1mqndQL0RsuloLywHtthLXI06OblTrhfWVnpSJ5+mwu/JdbtuN3IAnkW0LLMcRwaC7ktrlzridM6kVdyf9uO1UNBByI7JhwtG2sEwab07ORBeilWhqavJCqV0qzZTOl/7ZXQ5TbTcdcFelyGhhRDAQpdqp1FEX3w3cFTc1k9pJQkmm4ySCbSikxRP2QOfN+0tHS5MrpQuTU1Mk5nw0E5Xa0WvrOwDyGax9yB9ma6DAg82wHc43SAGTI4GjBWebOePAERFE8/AHaQpZASSTy8A4WwZiLQMQ82mFKATO0ILicRAoDm9p5P99E5b/fXG+kQYY3TYUuqmERWYoT0u/GNYL2q/4WB3LaVS+VynXsVYIcWw6DkCh3nX1D+VzlYN4LClF5yexSQos8exqZ3KVP+wtrC54u4Nznq6cq+xpMpUUnZ8FUYzE86ud0g28NOIv3Gj5/rmA3ABs7S/ywzFuQ4qyd6QxfNtiQIaEgp3w/entQg4Vcbqa16M5FfpeUB8t1+qeg7mI7cUyOe79wOk86gSxkVec4KPTX69++5x68Yubn5/F+w52z7u08sJX7fZXv8ekT/d2mILJxq6sn+SC6qEJknzLJCxyZEKwWVqYmAPBxBE/9DLeZiWHu7lcr/VytrCRuHojncNuTt9h46tmacmYisnSamdN2bZptcsmSysdVsy1PrOvOzF3xN64Rb937t/og9KHxYdcjIUqFAmIAHGHNzlns+RTPgeUYAQm9DwpNxfxbhhBHPaw3/gfTcXO2L+eJVIx5nsyGkvm9X4/f+bGkH45G0PaSjcMXTjcZyTvi3UdHoCDjQd3IDUVsgwYmUoJK/gp4JJxeRI0MKHZIkgynyIBqBTOUs6rOVCojvjZ4mCQz49ZMlMcp8QoYk6NoBfsxnJtsBohpa8iGJS+ZH7gU7NxME6cmF+t7cO9vB8d3jTWSct0ycW9ranXmolNDwmVkNnxe+8JtoztwS5rKJ0xWS95tQ/1zMYzg69MzUZnNtl1ofNbsml/OJm6f9wjRjpnu2o4MzHzn77IQkRd+1DjwMQ2pqSjGMMhyjrgTbBAKksuUm0iU7hI0aN2wOKOq7WYBSH0HGihj/jkiPxAfmwsEbfYrjMG+j3ij932Db/LV7I/xruNrhnroxjR9HRMb2nTvO0ZXOoHPk8H2ZhDPx93qcE/53sH5np/dkIP7zzhTVKdR/BAY/9ElkkR+A6lJGsqpJ4oQcTxpvBT3Kn58VkaJjgHyPEIws57xkaHh9KuVpDEpJZeMbZ5w/zBHi5NMQ4r5VphsFqID7TyB9eR4pX216c3AHxpdAwoqU9qg0ZJ6yVLKmMSz1iG2z27ifx18NkY0LPx1W/wCc2l5LrznrIsiKsqbmB78A9wIGx4tI8rjihVHJyY9pgMirenVq0yWg7Iw7eogG7ZgYM3qR9959A/fZkg6MnD/exlkmc+jWV4SB15XUR+eqC6l6ZmgPtN9z5JMfik05OV8ljylunJ4J+wA/FUaQSSKotsYsCWqaPBidBLcxkWx7XKFRIb45TGaEhjlF9uUVPqXOtcIwsXbBvfoZXIyRYFdkfnqjExH98xpnPczqzjX/uNdO1Y17Wpi5+6Ts8BXtjVFasp9KZ1mOiNbH65c5w6HgmyF2jFCZywM8mWjRc7T5Pmt0lRy7Y71+jYbpGyvwG4sH0XeJxjYGRgYADiwBB/53h+m68M3MwvgCIM1z5N/g6j///9v5H5BbMnkMvBwAQSBQCIcA9gAHicY2BkYGAO+p8FJF/8//v/F/MLBqAICuAFALYQB5kAeJxjfsHAwLwAiCNB+P9fbJjJmoGBMRUo/wKCAfO2EnQAAAAAANoBXgGcAgICVALaA1IDvAPkBAYEPARyAAEAAAANAF0ABAAAAAAAAgAUACQAcwAAAG4LcAAAAAB4nHWRzWrCQBSFT+pPqUIXLXTTzayKUohGKIibCoLuhbrrYtTRxCYZmYyKyz5Fd32HvlDfoO/QkziIFJtw9bvnnpl7ZwLgBt/wcHieGAf2UGd24Atcou+4RH3kuEweO66QXx1XyaHjGh6ROa7jFp/cwStfMVvhy7GHO+/e8QWuvcBxifqz4zL5xXGF/Oa4Sn53XMPE+3Bcx4P3M9DrvYmWoRWNQVN02kFXTPdCU4pSGQu5saE2meiLhU6timPtz3SSs9ypTCdqrJabWJoT5QQnymSRTkXgt0/UkUqVkVbN807ZdtmxdiEWRidi6HqItdErNbN+aO2612qd9sYAGmvsYRBhyUu0EGhQbfK/gzYCdElTOgSdB1eEFBIxFYkNV4RFJWPeZyyYpVQVHTHZx4y/yVGX2LGWFZri51TccUOn5B7nPefVCSPvGhVVwUl9znveO2KkhV8Wk82PZ8qwZf8OVcu1+fSmWCMw/HMOwXvKaysqM+p+cVuWag8tvv+c+xdd+4+teJxtjUEOwiAURJla24KliQfhUA2g/Sl+CKXx+loNrpzVezOLEY34Ron/0WhwQoszOvQYIKFwwQiNSbSBeO2SZ0tBP4j3zVjKNng32ZmtD1VVXCuOiw/pJ8S3WOU6l+K5UOTaDC4+2TjKMtN9KQf1ezLx/Sg/00FCvABHhjDjAAB4nGPw3sFwIihiIyNjX+QGxp0cDBwMyQUbGVidNjEwMmiBGJu5mBg5ICw+BjCLzWkX0wGgNCeQze60i8EBwmZmcNmowtgRGLHBoSNiI3OKy0Y1EG8XRwMDI4tDR3JIBEhJJBBs5mFi5NHawfi/dQNL70YmBhcADHYj9AAA) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable,
+.markdown-body .highlighttable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr,
+.markdown-body .highlighttable {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite,
+.markdown-body .highlighttable pre,
+.markdown-body .highlighttable div.highlight {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td,
+.markdown-body .highlighttable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headerlink {
+  font: normal 400 16px fontawesome-mini;
+  vertical-align: middle;
+  margin-left: -16px;
+  float: left;
+  display: inline-block;
+  text-decoration: none;
+  opacity: 0;
+  color: #333;
+}
+
+.markdown-body .headerlink:focus {
+  outline: none;
+}
+
+.markdown-body h1 .headerlink {
+  margin-top: 0.8rem;
+}
+
+.markdown-body h2 .headerlink,
+.markdown-body h3 .headerlink {
+  margin-top: 0.6rem;
+}
+
+.markdown-body h4 .headerlink {
+  margin-top: 0.2rem;
+}
+
+.markdown-body h5 .headerlink,
+.markdown-body h6 .headerlink {
+  margin-top: 0;
+}
+
+.markdown-body .headerlink:hover,
+.markdown-body h1:hover .headerlink,
+.markdown-body h2:hover .headerlink,
+.markdown-body h3:hover .headerlink,
+.markdown-body h4:hover .headerlink,
+.markdown-body h5:hover .headerlink,
+.markdown-body h6:hover .headerlink {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  border-radius: 3px;
+}
+
+.markdown-body code:not(.highlight):not(.codehilite), .markdown-body samp {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite,
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body .highlight pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+}
+
+.markdown-body .codehilite,
+.markdown-body .highlight,
+.markdown-body pre {
+  border-radius: 3px;
+}
+
+.markdown-body :not(.highlight) > pre {
+  background-color: #f7f7f7;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* MultiMarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px fontawesome-mini;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\e157';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+.markdown-body diagram-div, .markdown-body div.uml-sequence-diagram, .markdown-body, div.uml-flowchart {
+  overflow: auto;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><style>/*GitHub*/
+.highlight {background-color:#f7f7f7;color:#333333;}
+.highlight .hll {background-color:#ffffcc;}
+.highlight .c{color:#999988;font-style:italic}
+.highlight .err{color:#a61717;background-color:#e3d2d2}
+.highlight .k{font-weight:bold}
+.highlight .o{font-weight:bold}
+.highlight .cm{color:#999988;font-style:italic}
+.highlight .cp{color:#999999;font-weight:bold}
+.highlight .c1{color:#999988;font-style:italic}
+.highlight .cs{color:#999999;font-weight:bold;font-style:italic}
+.highlight .gd{color:#000000;background-color:#ffdddd}
+.highlight .ge{font-style:italic}
+.highlight .gr{color:#aa0000}
+.highlight .gh{color:#999999}
+.highlight .gi{color:#000000;background-color:#ddffdd}
+.highlight .go{color:#888888}
+.highlight .gp{color:#555555}
+.highlight .gs{font-weight:bold}
+.highlight .gu{color:#800080;font-weight:bold}
+.highlight .gt{color:#aa0000}
+.highlight .kc{font-weight:bold}
+.highlight .kd{font-weight:bold}
+.highlight .kn{font-weight:bold}
+.highlight .kp{font-weight:bold}
+.highlight .kr{font-weight:bold}
+.highlight .kt{color:#445588;font-weight:bold}
+.highlight .m{color:#009999}
+.highlight .s{color:#dd1144}
+.highlight .n{color:#333333}
+.highlight .na{color:teal}
+.highlight .nb{color:#0086b3}
+.highlight .nc{color:#445588;font-weight:bold}
+.highlight .no{color:teal}
+.highlight .ni{color:purple}
+.highlight .ne{color:#990000;font-weight:bold}
+.highlight .nf{color:#990000;font-weight:bold}
+.highlight .nn{color:#555555}
+.highlight .nt{color:navy}
+.highlight .nv{color:teal}
+.highlight .ow{font-weight:bold}
+.highlight .w{color:#bbbbbb}
+.highlight .mf{color:#009999}
+.highlight .mh{color:#009999}
+.highlight .mi{color:#009999}
+.highlight .mo{color:#009999}
+.highlight .sb{color:#dd1144}
+.highlight .sc{color:#dd1144}
+.highlight .sd{color:#dd1144}
+.highlight .s2{color:#dd1144}
+.highlight .se{color:#dd1144}
+.highlight .sh{color:#dd1144}
+.highlight .si{color:#dd1144}
+.highlight .sx{color:#dd1144}
+.highlight .sr{color:#009926}
+.highlight .s1{color:#dd1144}
+.highlight .ss{color:#990073}
+.highlight .bp{color:#999999}
+.highlight .vc{color:teal}
+.highlight .vg{color:teal}
+.highlight .vi{color:teal}
+.highlight .il{color:#009999}
+.highlight .gc{color:#999;background-color:#EAF2F5}
+</style><title>Chapter2</title></head><body><article class="markdown-body"><h2 id="chapter-2-shadows-and-whispers">Chapter 2: Shadows and Whispers<a class="headerlink" href="#chapter-2-shadows-and-whispers" title="Permanent link"></a></h2>
+<p>Xion Kemvimore slipped through the side entrance of his family&rsquo;s estate, nodding briefly to the guards who maintained their stoic expressions. Neither commented on his absence since dawn. It wasn&rsquo;t the first time the young heir to the Grain had disappeared into the middle districts, and the guards had learned long ago that discretion was more valuable than curiosity in House Kemvimore.</p>
+<p>The morning light cast long shadows across the immaculate courtyard, highlighting the stark contrast between the poverty Xion had just left behind and the opulence of his own home. The irony wasn&rsquo;t lost on him. Never was.</p>
+<p>&ldquo;Master Xion.&rdquo; </p>
+<p>A steward intercepted him before he could reach the stairs to his chambers. The man&rsquo;s expression was carefully blank, but Xion could read the tension in his shoulders.</p>
+<p>&ldquo;Your father requests your presence in his study. Immediately.&rdquo;</p>
+<p>Something cold settled in Xion&rsquo;s stomach. Immediately. That particular word, when coming from Rosik Kemvimore, was never a good sign. Still, he nodded calmly, as if his father&rsquo;s summons after his clandestine morning activities was perfectly ordinary.</p>
+<p>&ldquo;Thank you, Halven. I&rsquo;ll go now.&rdquo;</p>
+<p>The walk to his father&rsquo;s study felt longer than usual. Xion passed beneath tapestries depicting Kaha&rsquo;an before The Rending – lush fields surrounding a gleaming city, nothing like the desert that now stretched beyond the walls. He wondered, not for the first time, what the world might have been like had the catastrophe never occurred. Would the cartels still rule? Would children still starve in the shadow of grain silos?</p>
+<p>A waste of time, such thoughts. The world was what it was.</p>
+<p>Xion rapped his knuckles against the heavy wooden door of his father&rsquo;s study.</p>
+<p>&ldquo;Enter.&rdquo; The voice from within was level, unhurried.</p>
+<p>Rosik Kemvimore sat behind his massive desk, reviewing ledgers with the same intense focus he brought to everything. He didn&rsquo;t look up as Xion entered, nor as his son stood waiting for acknowledgment. The silence stretched, a tactic Xion had experienced countless times before.</p>
+<p>Finally, Rosik set down his quill and raised his gaze. Those eyes – calculating, cold, yet undeniably intelligent – studied Xion as one might study a ledger that didn&rsquo;t quite balance.</p>
+<p>&ldquo;You were in the middle districts this morning,&rdquo; Rosik stated. Not a question.</p>
+<p>There was no point in denial. &ldquo;Yes, Father.&rdquo;</p>
+<p>&ldquo;With Silvanno Larannas.&rdquo; Again, not a question.</p>
+<p>That gave Xion pause. He&rsquo;d been careful. They&rsquo;d both been careful. If his father knew about Silvanno, what else did he know? About Farleen? About Kael? About their meetings at The Amber Leaf?</p>
+<p>&ldquo;We crossed paths briefly,&rdquo; Xion replied, a half-truth that felt flimsy even to his own ears.</p>
+<p>&ldquo;Hm.&rdquo; Rosik leaned back in his chair, eyes never leaving his son&rsquo;s face. &ldquo;Your&hellip; charitable activities have not gone unnoticed, Xion.&rdquo;</p>
+<p>&ldquo;They&rsquo;re hardly worth noticing,&rdquo; Xion countered. &ldquo;I simply—&rdquo;</p>
+<p>&ldquo;You simply waste resources that could be more efficiently allocated.&rdquo; Rosik cut him off with a dismissive gesture. &ldquo;But that&rsquo;s an old argument, isn&rsquo;t it? And not why I called you here today.&rdquo;</p>
+<p>Xion watched his father carefully. The man revealed so little, gave away nothing without purpose. Whatever this conversation was truly about, it wasn&rsquo;t yet on the table.</p>
+<p>&ldquo;Your mother was an idealist too,&rdquo; Rosik said suddenly, the unexpected mention causing Xion to tense. His father almost never spoke of his mother. &ldquo;She believed in small acts of kindness, individual connections. It&rsquo;s clear where you get this&hellip; tendency.&rdquo;</p>
+<p>The unspoken rebuke hung in the air. Weakness, his father meant. A weakness Xion had inherited.</p>
+<p>&ldquo;You called me here for a reason, Father,&rdquo; Xion prompted, unwilling to be drawn into an argument they&rsquo;d had too many times before.</p>
+<p>Rosik&rsquo;s lips twitched in what might have been amusement. &ldquo;Direct. Good. Yes, I called you for a reason.&rdquo; He stood, moving to the window that overlooked the courtyard. &ldquo;There will be a gathering tonight. All four cartels. You will attend.&rdquo;</p>
+<p>Xion couldn&rsquo;t hide his surprise. A gathering of all four cartels was rare, reserved for matters that affected the very fabric of Kaha&rsquo;an&rsquo;s power structure. For his father to include him&hellip;</p>
+<p>&ldquo;May I ask why?&rdquo; Xion ventured.</p>
+<p>&ldquo;You may ask,&rdquo; Rosik replied, &ldquo;though I may not answer.&rdquo; He turned back to face his son. &ldquo;Certain&hellip; rumors have been circulating. Rumors that concern all four cartels.&rdquo;</p>
+<p>&ldquo;What kind of rumors?&rdquo;</p>
+<p>&ldquo;The kind that make even Tania Larannas nervous.&rdquo; That was significant. The head of the Water cartel was known for her unflappable composure. &ldquo;You will observe. You will learn. And you will not speak unless spoken to.&rdquo;</p>
+<p>Xion nodded. &ldquo;I understand.&rdquo;</p>
+<p>&ldquo;Do you?&rdquo; Rosik&rsquo;s gaze sharpened. &ldquo;I wonder. Your interest in Arlo Berakailen, for instance. That suggests to me that perhaps you don&rsquo;t fully understand the weight of certain&hellip; curiosities.&rdquo;</p>
+<p>The floor seemed to shift beneath Xion&rsquo;s feet. How could his father possibly know about his interest in the information broker? They&rsquo;d only just decided to seek him out yesterday.</p>
+<p>&ldquo;Berakailen&rsquo;s services come at a price, Xion. Not just in coin, though that&rsquo;s substantial enough.&rdquo; Rosik&rsquo;s voice had dropped, becoming almost intimate in its quiet warning. &ldquo;Information is never neutral. Never harmless. Remember that.&rdquo;</p>
+<p>&ldquo;Yes, Father,&rdquo; Xion replied, struggling to keep his expression neutral. </p>
+<p>Rosik studied him a moment longer before nodding dismissively. &ldquo;Go. Prepare yourself for tonight. The main hall, two hours past sunset.&rdquo;</p>
+<p>Xion bowed slightly and turned to leave, his mind racing. Only when the heavy door closed behind him did he allow himself to breathe deeply. His father knew. Not everything, perhaps, but enough. The question was: what did Rosik intend to do with that knowledge?</p>
+<p>And why tell Xion he knew at all?</p>
+<hr />
+<p>&ldquo;You&rsquo;re sure about this?&rdquo; Xion asked, his voice barely above a whisper despite the privacy of their meeting place – a small shrine to Varenos nestled between two merchant houses.</p>
+<p>Kael nodded, his thin face grave in the dappled sunlight that filtered through the leaves above them. &ldquo;Three separate sources confirmed it. The Cracked Cup tavern in the middle districts. You order the house bitter ale, but ask for it &lsquo;mild as fresh rain.&rsquo; That gets you to the barkeeper, Verro.&rdquo; </p>
+<p>Xion frowned. &ldquo;Seems&hellip; theatrical.&rdquo;</p>
+<p>&ldquo;Information brokers love their little rituals,&rdquo; Kael shrugged. &ldquo;Part showmanship, part security, I suppose. Anyway, Verro takes your request to contact Berakailen. And the price&hellip;&rdquo; He hesitated.</p>
+<p>&ldquo;How much?&rdquo;</p>
+<p>&ldquo;Five hundred imperials. Just to get his attention.&rdquo;</p>
+<p>Xion couldn&rsquo;t hide his shock. Five hundred imperials was a fortune – more than most merchants saw in a year. &ldquo;And for actual information?&rdquo;</p>
+<p>Kael winced. &ldquo;Double that. At least. Maybe more, depending on what you&rsquo;re asking.&rdquo;</p>
+<p>&ldquo;Gods,&rdquo; Xion breathed. He quickly calculated the sum against his personal funds. His inheritance from his mother, plus his allowance saved over years&hellip; he could manage it. Barely. &ldquo;And there&rsquo;s no guarantee he even knows anything useful?&rdquo;</p>
+<p>&ldquo;None,&rdquo; Kael confirmed. &ldquo;That&rsquo;s the nature of information brokers. You pay for the chance to ask, not the certainty of an answer.&rdquo;</p>
+<p>Xion paced the small shrine, mind working furiously. It was a massive gamble. If Berakailen knew nothing about the rumored imperial heir, or worse, if the entire thing was a fantasy&hellip; but if it was true? If there really was a legitimate heir to the Ruby Throne hidden somewhere in Kaha&rsquo;an? The possibilities made his head spin.</p>
+<p>&ldquo;I&rsquo;ll do it,&rdquo; he decided suddenly. &ldquo;I can cover the cost.&rdquo;</p>
+<p>Kael&rsquo;s eyebrows shot up. &ldquo;All of it? Xion, that&rsquo;s—&rdquo;</p>
+<p>&ldquo;Necessary,&rdquo; Xion cut him off. &ldquo;If there&rsquo;s even a chance this could change things, really change things, it&rsquo;s worth the risk.&rdquo; He&rsquo;d spend every imperial he had to break the cartels&rsquo; stranglehold on Kaha&rsquo;an. To fulfill the promise he&rsquo;d made standing over his mentor&rsquo;s grave.</p>
+<p>&ldquo;I&rsquo;ll make arrangements to meet the others later,&rdquo; Xion continued. &ldquo;Silvanno needs to know what I&rsquo;m planning, and Farleen—&rdquo; He paused, a warmth spreading through his chest at the thought of her.</p>
+<p>&ldquo;You should be careful,&rdquo; Kael said quietly. &ldquo;Your father&rsquo;s interest in your activities&hellip; it&rsquo;s concerning.&rdquo;</p>
+<p>Xion froze. &ldquo;How do you know about that?&rdquo;</p>
+<p>&ldquo;I have my own sources,&rdquo; Kael replied with a small, mirthless smile. &ldquo;Not as expensive as Berakailen, but useful all the same. Word is, Rosik has been asking questions about you. Specific questions.&rdquo;</p>
+<p>The chill Xion had felt in his father&rsquo;s study returned, stronger now. &ldquo;We&rsquo;ll discuss it with the others. The garden behind the Temple of Saranis, midday.&rdquo;</p>
+<p>Kael nodded, his thin frame already turning to leave. &ldquo;Until then. And Xion?&rdquo; He paused. &ldquo;Watch your back.&rdquo;</p>
+<hr />
+<p>The garden behind the Temple of Saranis was quiet at midday, most worshippers having returned to their daily obligations. Silvanno arrived first, his blue tunic subtly marking him as part of House Larannas without being ostentatious enough to draw undue attention. His eyes lit up when he spotted Xion approaching through the flowering jasmine bushes.</p>
+<p>&ldquo;Twice in two days,&rdquo; Silvanno grinned. &ldquo;People will talk.&rdquo;</p>
+<p>Xion couldn&rsquo;t help but smile in return. Silvanno&rsquo;s easy charm was infectious, even in tense times. &ldquo;Let them. Might distract from what we&rsquo;re actually doing.&rdquo;</p>
+<p>They settled on a stone bench partially hidden from the main garden path. Kael joined them moments later, and finally Farleen hurried in, slightly breathless.</p>
+<p>&ldquo;Sorry I&rsquo;m late,&rdquo; she said, brushing a strand of dark hair from her face. &ldquo;My father had unexpected guests. I couldn&rsquo;t get away.&rdquo;</p>
+<p>Xion felt that familiar flutter in his chest at the sight of her. Focus, he chided himself. This isn&rsquo;t the time.</p>
+<p>&ldquo;Tell them what you found,&rdquo; he prompted Kael.</p>
+<p>As Kael explained the protocol for contacting Berakailen, Xion watched the reactions play across his friends&rsquo; faces. Silvanno whistled low at the mention of the cost. Farleen&rsquo;s brow furrowed in concern.</p>
+<p>&ldquo;That&rsquo;s a small fortune,&rdquo; Silvanno said when Kael finished. &ldquo;We should split the cost between us. I can contribute—&rdquo;</p>
+<p>&ldquo;No,&rdquo; Xion interrupted. &ldquo;I&rsquo;ll handle it.&rdquo;</p>
+<p>&ldquo;Xion,&rdquo; Farleen protested, &ldquo;that&rsquo;s too much for one person to bear. Let us help.&rdquo;</p>
+<p>He shook his head firmly. &ldquo;This was my idea. My risk to take. Besides,&rdquo; he added with a wry smile, &ldquo;I&rsquo;m the heir to the Grain. If anyone can afford it, it&rsquo;s me.&rdquo;</p>
+<p>&ldquo;And if your father discovers you&rsquo;ve emptied your accounts?&rdquo; Kael asked quietly.</p>
+<p>A valid concern. One Xion had been wrestling with since their meeting that morning. &ldquo;He already knows something,&rdquo; Xion admitted. &ldquo;He mentioned Berakailen by name today.&rdquo;</p>
+<p>That got their attention. Silvanno sat up straighter, his usual languid posture vanishing. &ldquo;How is that possible? We only decided to seek him out yesterday.&rdquo;</p>
+<p>&ldquo;I don&rsquo;t know,&rdquo; Xion replied. &ldquo;But there&rsquo;s more. My father has summoned me to a gathering of all four cartels tonight.&rdquo;</p>
+<p>&ldquo;All four?&rdquo; Farleen&rsquo;s eyes widened. &ldquo;That never happens unless—&rdquo;</p>
+<p>&ldquo;Unless something threatens all of them,&rdquo; Kael finished grimly. &ldquo;The timing can&rsquo;t be coincidence.&rdquo;</p>
+<p>&ldquo;Which is why I need to move quickly,&rdquo; Xion insisted. &ldquo;If the cartels are already discussing these rumors, we don&rsquo;t have much time. I&rsquo;ll visit the Cracked Cup tomorrow at dawn.&rdquo;</p>
+<p>Farleen leaned closer, her amber eyes intense. &ldquo;You shouldn&rsquo;t go alone.&rdquo;</p>
+<p>&ldquo;I&rsquo;ll go with him,&rdquo; Silvanno offered immediately.</p>
+<p>&ldquo;No,&rdquo; Xion shook his head. &ldquo;Two nobles would draw too much attention. I can blend in better on my own.&rdquo; He didn&rsquo;t add that he was trying to protect them, to bear the worst of the risk himself. They&rsquo;d only argue.</p>
+<p>&ldquo;At least tell us what you learn at this gathering tonight,&rdquo; Farleen insisted. &ldquo;Pay attention to their reactions more than their words. My father always says what people don&rsquo;t say reveals more than what they do.&rdquo;</p>
+<p>A shadow passed over the garden as clouds momentarily blocked the sun. It felt like an omen, though of what, Xion couldn&rsquo;t say.</p>
+<p>&ldquo;I should go,&rdquo; he said, rising. &ldquo;I need to prepare for tonight.&rdquo;</p>
+<p>&ldquo;I&rsquo;ll come with you to the tavern tomorrow,&rdquo; Farleen declared, her tone brooking no argument. &ldquo;I won&rsquo;t go inside, but I can watch the street. Make sure no one follows you.&rdquo;</p>
+<p>Xion knew that stubborn set to her jaw. There would be no dissuading her. &ldquo;Dawn, then. The eastern market.&rdquo;</p>
+<p>As they prepared to leave separately to avoid drawing attention, Kael caught Xion&rsquo;s arm, holding him back as the others departed.</p>
+<p>&ldquo;Be careful with Farleen,&rdquo; he murmured, his eyes tracking the woman&rsquo;s retreating form.</p>
+<p>Xion frowned. &ldquo;What does that mean?&rdquo;</p>
+<p>&ldquo;It means she&rsquo;s intense. Passionate. That&rsquo;s admirable, but it can lead to risks. Unnecessary ones.&rdquo; Kael&rsquo;s gaze was uncharacteristically direct. &ldquo;Just&hellip; be cautious, that&rsquo;s all.&rdquo;</p>
+<p>Before Xion could press him further, Kael slipped away, leaving Xion alone with his troubled thoughts and the scent of jasmine hanging heavy in the air.</p>
+<hr />
+<p>The main hall of the Kemvimore estate had been transformed for the evening&rsquo;s gathering. Extra lamps cast a warm glow over the polished stone floor and detailed tapestries depicting the family&rsquo;s history. The long table that dominated the center of the room had been arranged with four ornate chairs at the head, equally spaced to avoid any implication of hierarchy among the cartel leaders.</p>
+<p>Xion took his place in the second row of seats behind his father&rsquo;s position. His sister Melina sat closer, her dark hair elegantly styled, her expression carefully neutral. She shot him a quick glance as he settled in, a subtle warning in her eyes. Be careful, that look said.</p>
+<p>The doors opened to admit Tania Larannas, her tall figure draped in blue silks that whispered of water even in their movement. Her silver-streaked dark hair was pulled back severely, highlighting sharp cheekbones and eyes that missed nothing. Two attendants followed at a respectful distance, maintaining the careful balance of power – each cartel leader would bring exactly the same number of supporters.</p>
+<p>Silvanno wasn&rsquo;t among them, Xion noted. Interesting.</p>
+<p>Next came Sa Ko Ren, the Iron Lady. Her Terinok heritage obvious in her tawny complexion and the subtle patterns woven into her clothing. Unlike the other cartel leaders, she wore no ostentatious displays of wealth – just functional, well-crafted attire with iron buckles and clasps that served as her only ornamentation. Her gaze swept the room with military precision before settling briefly on Xion. Something flickered in her expression, gone too quickly to interpret.</p>
+<p>The atmosphere changed perceptibly when Ronas Dermir entered. The leader of the Slavers made no attempt to disguise his origins or adopt noble affectations. His scarred hands and face spoke of a life of violence, his clothing utilitarian except for a single gold chain – a deliberate mockery of restraint. Behind him, his two attendants loomed like silent threats.</p>
+<p>Ronas&rsquo;s expression was a study in controlled resentment. He strode into the room with a swagger that dared anyone to comment on his presence, his eyes darting around as if cataloging exactly how much everything was worth. Unlike the other cartel leaders who wore their power like a second skin, Ronas carried his like a weapon, held ready.</p>
+<p>&ldquo;Well, well,&rdquo; he drawled, his voice deliberately coarse. &ldquo;Must be something serious to drag me out from the Warrens. What was it this time? The usual excuses were getting boring. &lsquo;Venue not suitable.&rsquo; &lsquo;Weather concerns.&rsquo; At least be creative when you&rsquo;re avoiding me.&rdquo;</p>
+<p>Tania Larannas&rsquo;s lips tightened almost imperceptibly. Sa Ko Ren remained impassive, though her posture shifted slightly – a warrior&rsquo;s adjustment, recognizing potential conflict.</p>
+<p>&ldquo;Welcome to our home,&rdquo; Rosik stated smoothly, ignoring Ronas&rsquo;s barb with practiced ease. &ldquo;I appreciate you all making time for this&hellip; discussion.&rdquo;</p>
+<p>&ldquo;Let&rsquo;s dispense with pleasantries, Rosik,&rdquo; Tania replied coolly. &ldquo;You called this gathering for a reason. These rumors trouble you enough to break five years of standard protocol.&rdquo;</p>
+<p>A subtle rebuke – cartel matters were usually handled in the neutral territory of the Hall of Cartels in the Imperial Quarter, not in any leader&rsquo;s personal domain.</p>
+<p>&ldquo;The rumors trouble me,&rdquo; Rosik acknowledged, &ldquo;because they&rsquo;ve reached the ears of those in the Erulian Principality.&rdquo;</p>
+<p>That caused a stir. Xion leaned forward slightly, careful to maintain his neutral expression despite the shock. The Erulian Principality – Kaha&rsquo;an&rsquo;s rival claimant to imperial legacy, whose prince had spent decades collecting imperial artifacts and building alliances.</p>
+<p>&ldquo;You have confirmation?&rdquo; Sa Ko Ren asked sharply.</p>
+<p>&ldquo;I do,&rdquo; Rosik nodded. &ldquo;Prince Kalden has dispatched agents to Kaha&rsquo;an. They&rsquo;re seeking information about a potential surviving member of the imperial family.&rdquo;</p>
+<p>Ronas Dermir barked a laugh, the sound jarringly rough in the refined setting. &ldquo;Always the same song with Erulius. Twenty years they&rsquo;ve been gathering trinkets and playing emperor. What makes this time different?&rdquo;</p>
+<p>&ldquo;The specificity of their inquiries,&rdquo; Rosik replied. &ldquo;They&rsquo;re looking for someone with a particular&hellip; trait associated with the Valanar bloodline.&rdquo;</p>
+<p>Xion&rsquo;s pulse quickened. This was it – the same rumors they&rsquo;d been investigating. His father continued, outlining reports of unusual activities around the Noble District, of questions being asked in taverns frequented by palace staff.</p>
+<p>As the discussion progressed, Xion noted something odd – not once did anyone directly mention the Arol Batae, the former imperial guard who had disappeared into seclusion after The Rending. They spoke around it, referenced &ldquo;certain reclusive elements&rdquo; and &ldquo;those with outdated loyalties,&rdquo; but the name itself never crossed anyone&rsquo;s lips.</p>
+<p>A deliberate omission? Or something more significant?</p>
+<p>&ldquo;We should increase surveillance around certain areas,&rdquo; Tania suggested, her fingers tracing patterns on the table&rsquo;s surface. &ldquo;Particularly where these&hellip; loyalists might be gathering.&rdquo;</p>
+<p>&ldquo;Throwing more guards at the problem just advertises our concern,&rdquo; Sa Ko Ren countered. &ldquo;Better to use more subtle methods.&rdquo;</p>
+<p>&ldquo;Subtle?&rdquo; Ronas snorted, leaning forward with his elbows on the table – a deliberate breach of etiquette that made Tania wince. &ldquo;When have any of you been subtle? You want information from the Warrens, come to me directly. My people see everything.&rdquo;</p>
+<p>&ldquo;Your people see what they&rsquo;re allowed to see,&rdquo; Rosik remarked drily. &ldquo;That&rsquo;s how the Warrens work, isn&rsquo;t it, Ronas? Everyone in their assigned corners?&rdquo;</p>
+<p>Ronas&rsquo;s eyes narrowed dangerously. &ldquo;At least I&rsquo;m honest about what I am, Rosik. I don&rsquo;t hide my thugs behind pretty clothes and fancy titles.&rdquo; He gestured broadly at the opulent room. &ldquo;All this&hellip; it&rsquo;s just gilding on the same blade we all use. You slice people up with contracts and tariffs, I use more direct methods. The result&rsquo;s the same.&rdquo;</p>
+<p>The threatening undercurrent was unmistakable. Xion watched Rosik&rsquo;s expression, seeing the momentary flash of something cold and dangerous before his father&rsquo;s mask slid perfectly back into place.</p>
+<p>&ldquo;We all have our methods,&rdquo; Rosik replied evenly. &ldquo;And our territories.&rdquo;</p>
+<p>&ldquo;Yes,&rdquo; Ronas leaned back, a calculating gleam in his eye. &ldquo;How interesting that you only remember mine exists when you need something from it.&rdquo;</p>
+<p>The meeting continued in this vein for another hour, strategies proposed and debated, information shared with careful calculation. Nothing was decided definitively – that wasn&rsquo;t the purpose of such gatherings. This was about taking measure, about each leader assessing where the others stood.</p>
+<p>Throughout it all, Ronas maintained his deliberately coarse manner, though Xion noticed something else beneath it – a shrewd intelligence that belied his thug-like appearance. When Ronas spoke about patrol patterns in the Warrens or the movement of information through the district, his assessments were surprisingly nuanced, revealing a man far more calculating than his reputation suggested.</p>
+<p>As the formal portion concluded and attendants brought wine, Sa Ko Ren surprisingly made her way directly to Xion. Up close, her presence was even more imposing – a woman who had built her cartel from nothing, a foreigner who had mastered Kaha&rsquo;an&rsquo;s brutal politics.</p>
+<p>&ldquo;Xion Kemvimore,&rdquo; she stated, her accent adding an exotic cadence to his name. &ldquo;You&rsquo;ve been watching carefully tonight.&rdquo;</p>
+<p>&ldquo;Lady Ren,&rdquo; he acknowledged with a respectful nod. &ldquo;It&rsquo;s an educational experience.&rdquo;</p>
+<p>&ldquo;I knew your mother,&rdquo; she said unexpectedly, her voice dropping slightly. &ldquo;Before The Rending.&rdquo;</p>
+<p>Xion concealed his surprise. His father rarely spoke of his mother, and others almost never mentioned her. &ldquo;Did you?&rdquo;</p>
+<p>&ldquo;She understood something important,&rdquo; Sa Ko Ren continued, her dark eyes studying him intently. &ldquo;That walls can be both protection and prison. It depends which side you&rsquo;re standing on.&rdquo; She tilted her head slightly. &ldquo;You have her eyes.&rdquo;</p>
+<p>Before Xion could respond to this cryptic statement, she moved away, leaving him unsettled. What had she meant? And why tell him now, in this gathering of all places?</p>
+<p>As the cartel leaders departed with their retinues, Rosik beckoned Xion and Melina to his private study. Once the heavy door closed behind them, he turned to his children with an unreadable expression.</p>
+<p>&ldquo;Your observations?&rdquo;</p>
+<p>Melina spoke first, outlining the political alignments she&rsquo;d noticed, the subtle hostilities, the careful positioning. Xion listened, impressed despite himself. His sister saw far more of the political game than he did.</p>
+<p>When she finished, Rosik turned to Xion. &ldquo;And you?&rdquo;</p>
+<p>&ldquo;They never mentioned the Arol Batae directly,&rdquo; Xion said, deciding honesty was his best approach. &ldquo;Despite it being the obvious connection to any imperial heir. That suggests they either don&rsquo;t want to acknowledge their continued existence, or&hellip;&rdquo;</p>
+<p>&ldquo;Or?&rdquo; Rosik prompted.</p>
+<p>&ldquo;Or there&rsquo;s some arrangement in place. Some understanding that the Arol Batae are not to be directly interfered with.&rdquo;</p>
+<p>A small smile touched Rosik&rsquo;s lips. &ldquo;Perceptive. What else?&rdquo;</p>
+<p>&ldquo;Sa Ko Ren seems least concerned about a potential imperial heir,&rdquo; Xion continued. &ldquo;Perhaps because of her Terinok background, she has less investment in Kaha&rsquo;ani power structures.&rdquo;</p>
+<p>&ldquo;Don&rsquo;t mistake her pragmatism for indifference,&rdquo; Rosik corrected. &ldquo;Sa Ko Ren understands power transitions better than most of us. She engineered one herself.&rdquo;</p>
+<p>&ldquo;You know where they are, don&rsquo;t you?&rdquo; Xion asked suddenly. &ldquo;The Arol Batae.&rdquo;</p>
+<p>Rosik regarded him silently for a long moment. &ldquo;They maintain a compound in the northern section of the Noble District,&rdquo; he finally answered. &ldquo;They receive regular food deliveries. They keep to themselves. And they&rsquo;ve harmed no one in twenty years.&rdquo;</p>
+<p>Xion struggled to hide his shock at this direct confirmation. His father was giving him information freely – information that could potentially be used against cartel interests. Why?</p>
+<p>&ldquo;Watch yourself carefully in the coming days, Xion,&rdquo; Melina said softly. &ldquo;Father&rsquo;s attention is not the only one you&rsquo;ve drawn.&rdquo;</p>
+<p>&ldquo;Your sister is right,&rdquo; Rosik nodded. &ldquo;Navigate carefully. That&rsquo;s all for tonight.&rdquo;</p>
+<p>As Xion turned to leave, Melina caught his arm, her grip surprisingly strong. &ldquo;He knows more than he&rsquo;s saying,&rdquo; she whispered. &ldquo;About everything. Remember that.&rdquo;</p>
+<hr />
+<p>The eastern market was barely stirring as dawn painted the sky in shades of amber and gold. Vendors were setting up their stalls, unloading carts of produce and textiles as the city gradually awoke around them. Xion spotted Farleen instantly despite her simple clothing – a practical brown dress and headscarf that would help her blend with the common folk of the middle districts.</p>
+<p>Something had changed since yesterday. Something significant. Xion could feel it in the way his father had spoken to him, in Sa Ko Ren&rsquo;s cryptic reference to his mother, in Melina&rsquo;s warning. Events were accelerating, moving toward some culmination he couldn&rsquo;t yet see.</p>
+<p>&ldquo;You look troubled,&rdquo; Farleen observed as she fell into step beside him. &ldquo;The gathering last night?&rdquo;</p>
+<p>Xion nodded, keeping his voice low as they navigated the increasingly crowded market. &ldquo;The cartels know about the rumors. All of them. They&rsquo;re already taking steps.&rdquo;</p>
+<p>&ldquo;Tell me everything,&rdquo; she urged.</p>
+<p>As they walked toward the middle districts, Xion recounted the gathering in detail – the cartel leaders&rsquo; reactions, their strategies, the conspicuous absence of direct references to the Arol Batae. Farleen listened intently, occasionally asking sharp questions that helped clarify his own thinking.</p>
+<p>&ldquo;And your father confirmed they&rsquo;re in the Noble District?&rdquo; she asked, her amber eyes wide. &ldquo;That&rsquo;s&hellip; significant.&rdquo;</p>
+<p>&ldquo;It&rsquo;s why we need to move quickly,&rdquo; Xion agreed. &ldquo;Before the cartels decide how to respond.&rdquo;</p>
+<p>They had reached a quieter section of the city, the buildings growing gradually shabbier as they entered the middle districts. The Cracked Cup tavern stood on a corner, its weathered sign barely legible in the morning light. Unlike most taverns, it opened early, catering to laborers finishing night shifts and merchants starting their day with a hot meal.</p>
+<p>&ldquo;I&rsquo;ll wait across the street,&rdquo; Farleen said, squeezing his hand briefly. &ldquo;Be careful in there.&rdquo;</p>
+<p>The tavern&rsquo;s interior was dimly lit and smelled of stale beer and old smoke. A few patrons hunched over bowls of porridge or mugs of ale, none paying Xion any attention as he made his way to the bar. The barkeeper – a burly man with a scar running across his left cheek – glanced up without interest.</p>
+<p>&ldquo;What&rsquo;ll it be?&rdquo;</p>
+<p>Xion cleared his throat. &ldquo;House bitter ale. Mild as fresh rain, if you have it.&rdquo;</p>
+<p>The barkeeper&rsquo;s expression didn&rsquo;t change, but something shifted in his eyes. He studied Xion more carefully, noting the quality of his clothing despite its deliberate plainness, the smooth hands that had never done manual labor.</p>
+<p>&ldquo;Wait here,&rdquo; he grunted before disappearing through a door behind the bar.</p>
+<p>Xion stood very still, acutely aware of his vulnerability. If this was a trap, he had walked right into it. But the barkeeper returned moments later, wiping his hands on a dirty cloth.</p>
+<p>&ldquo;Name&rsquo;s Verro,&rdquo; he said quietly. &ldquo;You&rsquo;re looking to speak with someone. That right?&rdquo;</p>
+<p>&ldquo;Yes,&rdquo; Xion confirmed. &ldquo;Berakailen.&rdquo;</p>
+<p>&ldquo;That&rsquo;ll cost you. Five hundred imperials. Just to ask.&rdquo;</p>
+<p>Xion reached into his tunic and withdrew a heavy pouch, sliding it across the bar. &ldquo;Count it if you wish.&rdquo;</p>
+<p>Verro&rsquo;s rough fingers untied the pouch, skillfully assessing its contents by weight and touch without obviously counting in public. Satisfied, he tucked it beneath the bar.</p>
+<p>&ldquo;What information do you seek?&rdquo;</p>
+<p>&ldquo;The imperial family,&rdquo; Xion said simply. &ldquo;What happened after The Rending.&rdquo;</p>
+<p>Verro&rsquo;s expression remained impassive, but something flickered in his eyes – surprise, perhaps, or recognition. &ldquo;Wait here,&rdquo; he said again, disappearing once more.</p>
+<p>This time he was gone longer. Xion fought the urge to fidget, to look over his shoulder. Every instinct told him he was being observed, assessed.</p>
+<p>When Verro returned, his demeanor had subtly changed. There was a new wariness to him, a careful distance. &ldquo;Tonight,&rdquo; he said. &ldquo;Midnight. Behind the Silver Palm bathhouse. Come alone. Bring three times what you brought today.&rdquo;</p>
+<p>Fifteen hundred imperials. Almost everything Xion had.</p>
+<p>&ldquo;And if I do?&rdquo;</p>
+<p>&ldquo;Then you get your answers.&rdquo; Verro leaned closer. &ldquo;Or not. That&rsquo;s the game.&rdquo;</p>
+<p>Xion nodded once. &ldquo;I&rsquo;ll be there.&rdquo;</p>
+<p>Outside, Farleen waited in the shadow of a textile merchant&rsquo;s stall. Her face lit up when she spotted him, then quickly shifted to concern as she read his expression.</p>
+<p>&ldquo;What happened?&rdquo; she asked, falling into step beside him as they moved away from the tavern.</p>
+<p>&ldquo;I have a meeting. Tonight, midnight. Behind the Silver Palm bathhouse.&rdquo; He ran a hand through his hair, a nervous habit he thought he&rsquo;d outgrown. &ldquo;Fifteen hundred imperials.&rdquo;</p>
+<p>Farleen stopped short, grabbing his arm. &ldquo;Xion, that&rsquo;s&hellip; that&rsquo;s everything you have, isn&rsquo;t it?&rdquo;</p>
+<p>&ldquo;Nearly,&rdquo; he admitted. &ldquo;But if there&rsquo;s even a chance—&rdquo;</p>
+<p>&ldquo;I know,&rdquo; she nodded. &ldquo;I know why you&rsquo;re doing this.&rdquo; Her hand moved to his face, fingers light against his cheek. &ldquo;Just be careful. Please. I can&rsquo;t bear the thought of losing you to&hellip;&rdquo; She trailed off, her eyes suddenly bright with unshed tears.</p>
+<p>Something shifted between them in that moment, the air growing heavy with unspoken feelings. Xion found himself staring at her lips, wondering what it would be like to close that final distance between them.</p>
+<p>Farleen solved the dilemma for him, rising on her toes to press a soft kiss to his cheek. &ldquo;Come find me tomorrow,&rdquo; she whispered. &ldquo;Tell me everything.&rdquo;</p>
+<p>As she turned to leave, Xion stood rooted to the spot, his cheek burning where her lips had touched him. He was standing at a crossroads – he could feel it. Whatever happened tonight would change everything, for better or worse.</p>
+<p>The path forward was fraught with danger, deception, and the very real possibility of betrayal. But for the first time since his mentor&rsquo;s execution, Xion felt something dangerously close to hope stirring in his chest.</p></article></body></html>
