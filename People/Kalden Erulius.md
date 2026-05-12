@@ -4,13 +4,13 @@
 
 In his opulent chambers in the Amber Palace, Kalden Erulius stands before a mirror adjusting his imperial-style collar — a deliberate fashion choice modeled after portraits of emperors who sat upon the Ruby Throne. The reflection shows perfect composure. The collar sits exactly right. Every detail of his appearance has been calibrated to project the image of a man who belongs on a throne he does not occupy.
 
-Here is the thing about Kalden Erulius: before the Rending, he was a perfectly competent ruler of a perfectly stable state. The Erulian Principality wants for nothing — second to Terinok in military strength, second to Kaha'an in wealth, second to Gunastran in industrial capacity, second to Uratha in academic achievement. The perennial runner-up, but a comfortable and secure one. House Erulius's distant relation to the Valanars — a third cousin, twice removed, on the mother's side, many centuries back — was purely academic. No sane person would base an imperial claim on it while actual Valanars sat on the Ruby Throne.
+Here is the thing about Kalden Erulius: before the Rending, he was a perfectly competent ruler of a perfectly stable state. The Erulian Principality wants for nothing — second to Terinok in military strength, second to Balisha in wealth, second to Gunastran in industrial capacity, second to Uratha in academic achievement. The perennial runner-up, but a comfortable and secure one. House Erulius's distant relation to the Valanars — a third cousin, twice removed, on the mother's side, many centuries back — was purely academic. No sane person would base an imperial claim on it while actual Valanars sat on the Ruby Throne.
 
 Then the Rending killed every known Valanar. And overnight, the academic connection became the strongest surviving link to the imperial line. Not strong enough to claim the throne outright — but genuine. Real. The closest anyone had. Kalden could *taste* it. He was *at* the finish line.
 
 For twenty years, he ran toward that line. He transformed the principality — not through incompetence or fantasy, but through genuine administrative capability. The Amber Palace, the Imperial Chancellery, the Aspirant Guard, the new currency — these were real institutions that really worked. The Erulian Principality became more powerful, more organized, more prepared for the destiny Kalden believed was approaching.
 
-And then a girl no one knew about walked into Kaha'an and sat on the Ruby Throne, and the ancient wards blazed to life for her, and twenty years of legitimate ambition became something else entirely. Because the tragedy of Kalden Erulius is not that he was always delusional. It is that he *became* delusional — gradually, painfully, one refusal to accept reality at a time — as the man who once had a genuine claim clung to it long after it ceased to exist.
+And then a girl no one knew about walked into Balisha and sat on the Ruby Throne, and the ancient wards blazed to life for her, and twenty years of legitimate ambition became something else entirely. Because the tragedy of Kalden Erulius is not that he was always delusional. It is that he *became* delusional — gradually, painfully, one refusal to accept reality at a time — as the man who once had a genuine claim clung to it long after it ceased to exist.
 
 ---
 
@@ -34,7 +34,7 @@ So he doesn't accept it. And that is where the legitimate ambition becomes somet
 
 Kalden measures himself against others constantly — and the measurement always comes back to the same conclusion: he was cheated. His competitive drive is not the healthy kind that pushes toward improvement. It is the wounded kind that sees every success by others as evidence of his own dispossession.
 
-The marriage proposal to Elara in Book 3 is Competition at its most revealing. He doesn't love her. He never did. She represents legitimacy — the thing he lacks, the thing that would complete the image in the mirror. When she rejects him for Xion, the competitive wound becomes personal. The "nobody healer" — and in Kalden's telling, Xion is always a nobody, despite being heir to one of Kaha'an's most powerful houses — has now beaten him twice: once by helping Elara claim the throne that should have been Kalden's path to power, and again by claiming the woman whose hand would have given him everything.
+The marriage proposal to Elara in Book 3 is Competition at its most revealing. He doesn't love her. He never did. She represents legitimacy — the thing he lacks, the thing that would complete the image in the mirror. When she rejects him for Xion, the competitive wound becomes personal. The "nobody healer" — and in Kalden's telling, Xion is always a nobody, despite being heir to one of Balisha's most powerful houses — has now beaten him twice: once by helping Elara claim the throne that should have been Kalden's path to power, and again by claiming the woman whose hand would have given him everything.
 
 That Kalden signs the Gunastran Compact *that evening* — joining a military alliance against the woman he proposed to hours earlier — reveals how thin the diplomatic veneer always was. Spurned pride moves faster than strategy.
 
@@ -44,9 +44,9 @@ His hatred for Xion burns across the series with an intensity that is inversely 
 
 ### Engineer (Third)
 
-Kalden is genuinely competent at building systems. This is the uncomfortable truth about him — the Erulian Principality's transformation under his rule is not merely cosmetic. He established an effective bureaucracy, modernized military training with Terinok advisors, expanded port facilities, developed mining operations, built trade relationships with Gunastran. The infrastructure is real. The administrative competence is real. The diplomatic networks — forming alliances with Gunastran and Vartonne, leveraging shared fears of Kaha'an's growing power — demonstrate sophisticated strategic thinking.
+Kalden is genuinely competent at building systems. This is the uncomfortable truth about him — the Erulian Principality's transformation under his rule is not merely cosmetic. He established an effective bureaucracy, modernized military training with Terinok advisors, expanded port facilities, developed mining operations, built trade relationships with Gunastran. The infrastructure is real. The administrative competence is real. The diplomatic networks — forming alliances with Gunastran and Vartonne, leveraging shared fears of Balisha's growing power — demonstrate sophisticated strategic thinking.
 
-His Engineering serves his Founder and Competitor drives. Every system he builds is designed to support the claim to legitimacy. Every alliance is structured to isolate Kaha'an. Every institution mirrors or deliberately "improves upon" old imperial models. The systems work. They just work in service of a delusion.
+His Engineering serves his Founder and Competitor drives. Every system he builds is designed to support the claim to legitimacy. Every alliance is structured to isolate Balisha. Every institution mirrors or deliberately "improves upon" old imperial models. The systems work. They just work in service of a delusion.
 
 **Shadow:** His engineering competence gives his delusions *teeth*. A less capable man with Kalden's psychology would be a bitter provincial lord ranting about stolen thrones. Kalden's competence means he can actually mobilize armies, form coalitions, and wage wars — turning wounded pride into continental catastrophe.
 
@@ -114,9 +114,9 @@ We never return to Kalden's POV in Book 2. He remains the unseen architect of a 
 
 ## Book 3: The Spurned Prince
 
-After the failed assassination, Kalden had months to calm down. The attempt was never traced back to Eruliath — Kaha'an's internal politics pinned it on Rosik Kemvimore — and in the breathing room that followed, the patient strategist reasserted himself over the impulsive one. Violence had failed. But there was another path.
+After the failed assassination, Kalden had months to calm down. The attempt was never traced back to Eruliath — Balisha's internal politics pinned it on Rosik Kemvimore — and in the breathing room that followed, the patient strategist reasserted himself over the impulsive one. Violence had failed. But there was another path.
 
-The discovery of Lathion — the City of Gears, a lost repository of magi-tech — changed the continental balance of power. Gunastran, whose entire economy rests on technological superiority, faced existential threat. If Uratha and Kaha'an unlocked Lathion's secrets, Gunastran risked obsolescence. They approached Kalden about forming a military compact.
+The discovery of Lathion — the City of Gears, a lost repository of magi-tech — changed the continental balance of power. Gunastran, whose entire economy rests on technological superiority, faced existential threat. If Uratha and Balisha unlocked Lathion's secrets, Gunastran risked obsolescence. They approached Kalden about forming a military compact.
 
 Kalden saw the opportunity and pivoted. He sent Elara a marriage proposal — and this is the critical thing: it was *genuinely good geopolitics*. Unite the bloodlines, quash the forming Compact before it solidifies (Kalden won't attack his own wife, Gunastran probably backs down rather than fight alone), and in return he gets the imperial recognition he craved. Everyone wins. Had Elara been raised in the Ruby Palace by her birth parents — had she been trained as a courtier rather than a soldier — she might well have accepted. It was, arguably, the *correct* decision from a purely strategic standpoint.
 
@@ -124,7 +124,7 @@ But Elara was raised by the Arol Batae, not by diplomats. She went to Xion with 
 
 Kalden signed the Gunastran Compact that evening. The speed reveals the wound beneath the strategy. The offer had been genuine — both self-serving *and* genuinely beneficial — and having it rejected was not merely a political setback but a personal humiliation. Impulse overwhelmed patience again. The man who had spent months crafting a diplomatically sound proposal threw it away in hours because his pride couldn't survive rejection.
 
-The Compact brings together Gunastran (existential terror of obsolescence), the Erulian Principality (Kalden's wounded pride now fused with strategic ambition), and Vartonne (fresh from a failed diplomatic approach to Kaha'an that wounded their pride — Kalden doesn't just promise restoration of old imperial glory, he *validates* their reading of events: "the new Kaha'an disrespects the old ways"). Against them: Kaha'an, Uratha, and eventually Terinok. A continental war, triggered in part by a rejected marriage proposal that was, in another world, the right decision.
+The Compact brings together Gunastran (existential terror of obsolescence), the Erulian Principality (Kalden's wounded pride now fused with strategic ambition), and Vartonne (fresh from a failed diplomatic approach to Balisha that wounded their pride — Kalden doesn't just promise restoration of old imperial glory, he *validates* their reading of events: "the new Balisha disrespects the old ways"). Against them: Balisha, Uratha, and eventually Terinok. A continental war, triggered in part by a rejected marriage proposal that was, in another world, the right decision.
 
 ---
 
@@ -214,7 +214,7 @@ To Kalden, Elara is not a person. She is a position — the thing standing betwe
 
 ### Xion Kemvimore
 
-The fixation develops gradually and then consumes everything. In Book 2, Kalden barely knows Xion exists — his rage is directed at Elara's existence, not at the people around her. By Book 3, Xion enters Kalden's awareness as the man Elara chose over him — "the nobody healer," despite Xion being heir to one of Kaha'an's most powerful houses. The characterization reveals Kalden's need to diminish a rival rather than any honest assessment. By Book 7, the fixation has calcified into full delusion: Kalden has constructed an entire mythology in which Xion is personally responsible for every disaster in his life. This narrative is entirely false, but it serves a critical psychological function — it means Kalden's failures are not his own. If Xion is the architect of his suffering, then Kalden's choices were correct and only an external villain prevented their success.
+The fixation develops gradually and then consumes everything. In Book 2, Kalden barely knows Xion exists — his rage is directed at Elara's existence, not at the people around her. By Book 3, Xion enters Kalden's awareness as the man Elara chose over him — "the nobody healer," despite Xion being heir to one of Balisha's most powerful houses. The characterization reveals Kalden's need to diminish a rival rather than any honest assessment. By Book 7, the fixation has calcified into full delusion: Kalden has constructed an entire mythology in which Xion is personally responsible for every disaster in his life. This narrative is entirely false, but it serves a critical psychological function — it means Kalden's failures are not his own. If Xion is the architect of his suffering, then Kalden's choices were correct and only an external villain prevented their success.
 
 ### Rosik Kemvimore
 
@@ -232,7 +232,7 @@ It is the most damning judgment on Kalden's leadership: not that he was overthro
 
 ### Gunastran and Vartonne
 
-Alliance partners of convenience rather than conviction. Gunastran's Nadira views Kalden as a useful tool — his personal vendetta against Elara serves her strategic interests without her needing to share it. Vartonne arrives with a fresh, specific grievance — Kaha'an expelled their envoy days earlier for offering sincere diplomatic counsel — and Kalden doesn't just promise restoration of old imperial glory: he confirms their reading of events. They weren't wrong. The new Kaha'an *does* disrespect the old ways. He doesn't buy their allegiance; he validates it. Neither alliance survives contact with reality, because alliances built on shared grievance rather than shared purpose rarely do.
+Alliance partners of convenience rather than conviction. Gunastran's Nadira views Kalden as a useful tool — his personal vendetta against Elara serves her strategic interests without her needing to share it. Vartonne arrives with a fresh, specific grievance — Balisha expelled their envoy days earlier for offering sincere diplomatic counsel — and Kalden doesn't just promise restoration of old imperial glory: he confirms their reading of events. They weren't wrong. The new Balisha *does* disrespect the old ways. He doesn't buy their allegiance; he validates it. Neither alliance survives contact with reality, because alliances built on shared grievance rather than shared purpose rarely do.
 
 ---
 
@@ -240,7 +240,7 @@ Alliance partners of convenience rather than conviction. Gunastran's Nadira view
 
 ### Physical Presence
 
-At the start of the series, Kalden is meticulously groomed, with features that suggest imperial lineage — though more distant than he claims. His wardrobe intentionally echoes imperial styles from Balisha's height, with subtle modifications that suggest improvement rather than imitation. Every gesture carries the affected gravitas of someone who believes rulership is his birthright. His charm is a polished tool, deployed strategically to create the impression of warmth while revealing nothing of his true thoughts.
+At the start of the series, Kalden is meticulously groomed, with features that suggest imperial lineage — though more distant than he claims. His wardrobe intentionally echoes imperial styles from Kaha'an's height, with subtle modifications that suggest improvement rather than imitation. Every gesture carries the affected gravitas of someone who believes rulership is his birthright. His charm is a polished tool, deployed strategically to create the impression of warmth while revealing nothing of his true thoughts.
 
 In his early forties at the series' opening, Kalden presents the image of a man completely in command — of his court, his principality, his destiny. The image is almost perfect. What those closest to him recognize beneath the dignity is carefully controlled envy — the desperate need to possess what others have and transform it into something bearing his signature.
 

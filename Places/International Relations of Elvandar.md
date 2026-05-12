@@ -17,16 +17,16 @@ Uratha's High Exam creates a strict two-tiered society that significantly impact
 - Uratha's foreign policy partly focuses on ensuring continued access to resources needed to maintain the scholars' comfortable lifestyle at the bakarn's expense
 - The bakarn system is diplomatically defended as a "meritocratic" arrangement rather than bondage
 
-The bakarn system creates particular tension with Terinok, whose warrior ethos values physical capability that Uratha openly denigrates, while Kaha'an privately mocks Uratha's elaborate justifications for what they see as simply another form of slavery.
+The bakarn system creates particular tension with Terinok, whose warrior ethos values physical capability that Uratha openly denigrates, while Balisha privately mocks Uratha's elaborate justifications for what they see as simply another form of slavery.
 
-### Relations with Kaha'an (Greed)
+### Relations with Balisha (Greed)
 - **Diplomatic Status**: Severely strained
-- **Primary Tension**: Dispute over the Scholar's Crown, which Kaha'an claims as imperial property
-- **Economic Ties**: Limited but necessary trade, as Uratha requires access to Kaha'an's position as a trade crossroads
-- **Cultural Perception**: Uratha views Kaha'an's mercantile focus as shallow and materialistic
+- **Primary Tension**: Dispute over the Scholar's Crown, which Balisha claims as imperial property
+- **Economic Ties**: Limited but necessary trade, as Uratha requires access to Balisha's position as a trade crossroads
+- **Cultural Perception**: Uratha views Balisha's mercantile focus as shallow and materialistic
 - **Notable Interactions**: Diplomatic meetings are notoriously tense and filled with academic posturing by Urathan representatives
-- **Current Issues**: Increasing tensions over Kaha'an's renewed demands for the return of the Scholar's Crown
-- **Bondage Dynamics**: Uratha's scholars publicly denounce Kaha'an's slavery practices while carefully avoiding mention of their own bakarn system; Kaha'an's diplomats subtly highlight this hypocrisy in negotiations
+- **Current Issues**: Increasing tensions over Balisha's renewed demands for the return of the Scholar's Crown
+- **Bondage Dynamics**: Uratha's scholars publicly denounce Balisha's slavery practices while carefully avoiding mention of their own bakarn system; Balisha's diplomats subtly highlight this hypocrisy in negotiations
 
 ### Relations with Silaris (Lust)
 - **Diplomatic Status**: Friendly rivalry
@@ -57,7 +57,7 @@ The bakarn system creates particular tension with Terinok, whose warrior ethos v
 - **Economic Interest**: Erulian natural resources are valuable to Uratha, particularly rare materials used in magical research
 - **Academic Approach**: Urathan scholars study Erulian political maneuvering with anthropological interest
 - **Political Intersection**: The Principality sometimes commissions Urathan scholars to legitimize their claims to imperial heritage
-- **Strategic Position**: Uratha carefully maintains neutrality in Erulius' ongoing feud with Kaha'an
+- **Strategic Position**: Uratha carefully maintains neutrality in Erulius' ongoing feud with Balisha
 - **Bondage Dynamics**: Uratha subtly employs bakarn as spies within Erulian delegations, exploiting Erulius' tendency to ignore servants
 
 ### Relations with Gunastran (Gluttony)
@@ -76,21 +76,21 @@ As the first province to break from the empire and a society defined by martial 
 
 Terinok's management of its large slave population influences every aspect of its foreign relations:
 
-- The need for new slaves drives many of Terinok's border conflicts, especially with Kaha'an
+- The need for new slaves drives many of Terinok's border conflicts, especially with Balisha
 - Young Terinok warriors prove themselves by hunting slaves who attempt escape, creating warriors skilled in tracking and ambush
 - Human sacrifice ceremonies are conducted before major diplomatic meetings or military campaigns
 - Foreign delegations are often uncomfortably aware that their failed negotiations might result in themselves becoming sacrifices or slaves
 - The constant need for slave labor inhibits Terinok's ability to adopt more advanced agricultural methods from other nations
 
-This system creates particular tensions with Kaha'an, which views Terinok's practices as wasteful (sacrificing potentially profitable slaves), while Uratha finds the entire system barbaric yet fascinating from an anthropological perspective.
+This system creates particular tensions with Balisha, which views Terinok's practices as wasteful (sacrificing potentially profitable slaves), while Uratha finds the entire system barbaric yet fascinating from an anthropological perspective.
 
-### Relations with Kaha'an (Greed)
+### Relations with Balisha (Greed)
 - **Diplomatic Status**: Hostile
-- **Historical Context**: As the first to break from the empire, Terinok views Kaha'an's claims to imperial succession with particular hostility
+- **Historical Context**: As the first to break from the empire, Terinok views Balisha's claims to imperial succession with particular hostility
 - **Military Posture**: Regular border skirmishes occur, particularly over mountain passes that connect their territories
 - **Economic Relationship**: Limited to essential resources, conducted largely through neutral intermediaries
-- **Current Tension**: Kaha'an's attempts to impose trade tariffs on goods moving between Terinok and other nations
-- **Bondage Dynamics**: Fierce competition over the same human resources; Terinok raids for slaves while Kaha'an attempts to capture potential laborers for its own systems; both nations refuse to return escaped slaves to the other
+- **Current Tension**: Balisha's attempts to impose trade tariffs on goods moving between Terinok and other nations
+- **Bondage Dynamics**: Fierce competition over the same human resources; Terinok raids for slaves while Balisha attempts to capture potential laborers for its own systems; both nations refuse to return escaped slaves to the other
 
 ### Relations with Silaris (Lust)
 - **Diplomatic Status**: Limited engagement
@@ -118,9 +118,9 @@ This system creates particular tensions with Kaha'an, which views Terinok's prac
 
 ### Relations with the Erulian Principality (Envy)
 - **Diplomatic Status**: Wary alliance
-- **Strategic Cooperation**: Mutual distrust of Kaha'an creates common ground
+- **Strategic Cooperation**: Mutual distrust of Balisha creates common ground
 - **Military Exchange**: Terinok trains some Erulian forces in exchange for access to resources
-- **Political Stance**: Terinok is indifferent to Erulius' imperial ambitions but values them as a counter to Kaha'an
+- **Political Stance**: Terinok is indifferent to Erulius' imperial ambitions but values them as a counter to Balisha
 - **Current Issues**: Growing concern about Erulius' increasingly aggressive territorial posturing
 - **Bondage Dynamics**: Erulius occasionally purchases slaves from Terinok rather than capturing them directly, creating a morally complicated trade relationship
 
@@ -132,21 +132,21 @@ This system creates particular tensions with Kaha'an, which views Terinok's prac
 - **Notable Tension**: Increasing concern about Gunastran's environmental impact on traditional Terinok hunting grounds
 - **Bondage Dynamics**: Terinok occasionally supplies slaves to work in Gunastran's more dangerous industries; Gunastran values this arrangement as it reduces casualties among their own workforce
 
-## Kaha'an (Greed)
+## Balisha (Greed)
 
-As the self-proclaimed heir to the Balishan Empire and the unavoidable crossroads of continental trade, Kaha'an's international relations are defined by economic leverage, imperial claims, and strategic positioning.
+As the self-proclaimed heir to the Balishan Empire and the unavoidable crossroads of continental trade, Balisha's international relations are defined by economic leverage, imperial claims, and strategic positioning.
 
 ### The Dual Bondage System
 
-Kaha'an's complex system of both chattel slavery and wage slavery significantly impacts its diplomatic relations:
+Balisha's complex system of both chattel slavery and wage slavery significantly impacts its diplomatic relations:
 
 - The Slavers cartel requires constant influx of new slaves, influencing border policies and raids
-- Kaha'an's diplomats present their system as more "humane" than others because slaves can theoretically purchase freedom (though the price is deliberately prohibitive)
-- Foreign merchants visiting Kaha'an must navigate complex regulations regarding slave ownership and transportation
+- Balisha's diplomats present their system as more "humane" than others because slaves can theoretically purchase freedom (though the price is deliberately prohibitive)
+- Foreign merchants visiting Balisha must navigate complex regulations regarding slave ownership and transportation
 - The false promise of economic mobility is extended to foreign visitors and potential immigrants, creating a constant influx of desperate people
-- Kaha'an uses its position as a trade hub to influence other nations' labor practices to its advantage
+- Balisha uses its position as a trade hub to influence other nations' labor practices to its advantage
 
-This system puts Kaha'an in complex relationships with both Terinok (competing for the same human resources) and Uratha (which publicly criticizes while privately envying Kaha'an's efficiency in resource extraction from its enslaved populations).
+This system puts Balisha in complex relationships with both Terinok (competing for the same human resources) and Uratha (which publicly criticizes while privately envying Balisha's efficiency in resource extraction from its enslaved populations).
 
 ### Relations with Terinok (Wrath)
 - **Diplomatic Status**: Hostile
@@ -154,15 +154,15 @@ This system puts Kaha'an in complex relationships with both Terinok (competing f
 - **Economic Leverage**: Attempts to control trade routes to and from Terinok
 - **Military Posture**: Maintains fortified border positions but avoids direct conflict
 - **Current Strategy**: Using economic pressure to undermine Terinok's independence
-- **Bondage Dynamics**: Direct competition for the same human resources; each nation refuses to return escaped slaves to the other; Kaha'an portrays its slavery as more "civilized" than Terinok's sacrificial practices
+- **Bondage Dynamics**: Direct competition for the same human resources; each nation refuses to return escaped slaves to the other; Balisha portrays its slavery as more "civilized" than Terinok's sacrificial practices
 
 ### Relations with Silaris (Lust)
 - **Diplomatic Status**: Exploitative partnership
-- **Economic Aspect**: Kaha'an merchants profit extensively from trading Silaris artworks
+- **Economic Aspect**: Balisha merchants profit extensively from trading Silaris artworks
 - **Cultural Leverage**: Positions itself as the patron and protector of Silaris' artistic heritage
 - **Practical Support**: Provides essential resources to Silaris in exchange for exclusive trading rights
 - **Current Tension**: Growing resentment in Silaris over unfavorable trade terms
-- **Bondage Dynamics**: Kaha'an merchants occasionally "commission" works that require Silaris artists to work in effective indentured servitude until the piece is completed
+- **Bondage Dynamics**: Balisha merchants occasionally "commission" works that require Silaris artists to work in effective indentured servitude until the piece is completed
 
 ### Relations with Uratha (Pride)
 - **Diplomatic Status**: Openly antagonistic
@@ -170,7 +170,7 @@ This system puts Kaha'an in complex relationships with both Terinok (competing f
 - **Economic Reality**: Maintains trade despite tensions, as both nations recognize their mutual dependence
 - **Political Stance**: Refuses to recognize Uratha's legitimacy as the heir to the imperial academic tradition
 - **Current Tactic**: Attempting to sow discord within Uratha's academic hierarchy
-- **Bondage Dynamics**: Kaha'an diplomats subtly highlight Uratha's hypocrisy in condemning slavery while maintaining the bakarn system; occasionally offers refuge to escaped bakarn as a political tool
+- **Bondage Dynamics**: Balisha diplomats subtly highlight Uratha's hypocrisy in condemning slavery while maintaining the bakarn system; occasionally offers refuge to escaped bakarn as a political tool
 
 ### Relations with Vartonne (Sloth)
 - **Diplomatic Status**: Dismissive patronage → active rupture (Book 3 era)
@@ -178,8 +178,8 @@ This system puts Kaha'an in complex relationships with both Terinok (competing f
 - **Economic Control**: Exploits Vartonne's agricultural resources through unfavorable trade agreements
 - **Diplomatic Approach**: Maintains a façade of respect for Vartonne's former status while treating it as a vassal
 - **Strategic Interest**: Values Vartonne primarily as a buffer between itself and other powers
-- **Recent Development (Book 3)**: A Vartonne diplomatic mission arrived with sincere counsel on dynastic propriety — the envoy's argument (that House Kemvimore, though ancient and respected as a founding house of the Balishan Empire, was never *royal*) was sound by Vartonne's own standards. Kaha'an's new leadership expelled the envoy without satisfactory explanation. Vartonne perceived this as confirmation that the new Kaha'an court disrespects the old ways. Kalden Erulius subsequently approached Vartonne for the Compact, not merely offering restoration of former glories but *validating* their reading of events. The expulsion that was meant to preempt complications instead contributed to completing the Compact.
-- **Bondage Dynamics**: Kaha'an merchants effectively control Vartonne's economy, creating debt-bondage arrangements that extract wealth without formal slavery
+- **Recent Development (Book 3)**: A Vartonne diplomatic mission arrived with sincere counsel on dynastic propriety — the envoy's argument (that House Kemvimore, though ancient and respected as a founding house of the Balishan Empire, was never *royal*) was sound by Vartonne's own standards. Balisha's new leadership expelled the envoy without satisfactory explanation. Vartonne perceived this as confirmation that the new Balisha court disrespects the old ways. Kalden Erulius subsequently approached Vartonne for the Compact, not merely offering restoration of former glories but *validating* their reading of events. The expulsion that was meant to preempt complications instead contributed to completing the Compact.
+- **Bondage Dynamics**: Balisha merchants effectively control Vartonne's economy, creating debt-bondage arrangements that extract wealth without formal slavery
 
 ### Relations with the Erulian Principality (Envy)
 - **Diplomatic Status**: Cold hostility
@@ -187,28 +187,28 @@ This system puts Kaha'an in complex relationships with both Terinok (competing f
 - **Economic Warfare**: Uses trade policies to limit Erulian economic development
 - **Diplomatic Effort**: Works to isolate Erulius in international relations
 - **Current Concern**: Growing alliance between Erulius and Terinok
-- **Bondage Dynamics**: Kaha'an actively undermines Erulius' attempts to establish its own slave trade, while spreading rumors about brutal treatment of workers in Erulian mines
+- **Bondage Dynamics**: Balisha actively undermines Erulius' attempts to establish its own slave trade, while spreading rumors about brutal treatment of workers in Erulian mines
 
 ### Relations with Gunastran (Gluttony)
 - **Diplomatic Status**: Essential trading partners
-- **Economic Interdependence**: Kaha'an distributes Gunastran products throughout Elvandar
+- **Economic Interdependence**: Balisha distributes Gunastran products throughout Elvandar
 - **Leverage Point**: Controls many of the raw materials Gunastran requires
 - **Diplomatic Approach**: Maintains cordial relations while ensuring Gunastran dependence
 - **Current Objective**: Securing exclusive distribution rights for new Gunastran innovations
-- **Bondage Dynamics**: Kaha'an serves as the primary market for Gunastran's labor-saving devices, which ironically further entrench slave dependency in Kaha'an
+- **Bondage Dynamics**: Balisha serves as the primary market for Gunastran's labor-saving devices, which ironically further entrench slave dependency in Balisha
 
 ## Vartonne (Sloth)
 
 Once the imperial capital and now a nation trapped in nostalgia, Vartonne's international relations are characterized by desperate attempts to maintain relevance, invocation of past glories, and a failure to adapt to post-imperial realities.
 
-### Relations with Kaha'an (Greed)
+### Relations with Balisha (Greed)
 - **Diplomatic Status**: Subservient deference → active opposition (Book 3 era)
-- **Historical Context**: Bitter over the historical transfer of imperial power to Kaha'an
-- **Economic Reality**: Heavily dependent on Kaha'an for trade and resources
-- **Political Position**: Officially maintains that Kaha'an is a temporary capital, while practically accepting its dominance
+- **Historical Context**: Bitter over the historical transfer of imperial power to Balisha
+- **Economic Reality**: Heavily dependent on Balisha for trade and resources
+- **Political Position**: Officially maintains that Balisha is a temporary capital, while practically accepting its dominance
 - **Current Strategy**: Attempts to leverage historical legitimacy for better treatment
-- **Fresh Wound (Book 3)**: Vartonne dispatched an envoy to Kaha'an's new court with sincere counsel — the argument that House Kemvimore, founding house of the Balishan Empire though it is, was never *royal*, and that the Valanar line should marry into genuine royalty. The counsel was offered in good faith by Vartonne's standards. Kaha'an's leadership expelled the envoy without satisfactory explanation, wounding Vartonne's pride: they had given correct guidance and been inexplicably snubbed. When Kalden Erulius arrived offering Compact membership, he did not merely promise to "restore Vartonne's old glory" — he confirmed what they already felt. The new Kaha'an disrespects the old ways. Vartonne's historical bitterness now has a specific, recent grievance at its center, and Kalden validated it rather than merely exploiting it.
-- **Bondage Dynamics**: Vartonne's elite are effectively debt-slaves to Kaha'an's merchants, though they maintain the pretense of independent nobility
+- **Fresh Wound (Book 3)**: Vartonne dispatched an envoy to Balisha's new court with sincere counsel — the argument that House Kemvimore, founding house of the Balishan Empire though it is, was never *royal*, and that the Valanar line should marry into genuine royalty. The counsel was offered in good faith by Vartonne's standards. Balisha's leadership expelled the envoy without satisfactory explanation, wounding Vartonne's pride: they had given correct guidance and been inexplicably snubbed. When Kalden Erulius arrived offering Compact membership, he did not merely promise to "restore Vartonne's old glory" — he confirmed what they already felt. The new Balisha disrespects the old ways. Vartonne's historical bitterness now has a specific, recent grievance at its center, and Kalden validated it rather than merely exploiting it.
+- **Bondage Dynamics**: Vartonne's elite are effectively debt-slaves to Balisha's merchants, though they maintain the pretense of independent nobility
 
 ### Relations with Terinok (Wrath)
 - **Diplomatic Status**: Fearful respect
@@ -254,17 +254,17 @@ Once the imperial capital and now a nation trapped in nostalgia, Vartonne's inte
 
 As almost-heirs to the imperial throne with abundant natural resources, the Erulian Principality's international relations are shaped by imperial ambitions, resource leverage, and strategic positioning between more powerful neighbors.
 
-### Relations with Kaha'an (Greed)
+### Relations with Balisha (Greed)
 - **Diplomatic Status**: Thinly veiled hostility
 - **Imperial Rivalry**: Both claim to be the true heir to the Balishan Empire
-- **Economic Competition**: Uses its natural resources to challenge Kaha'an's trade dominance
-- **Political Strategy**: Forms alliances with Kaha'an's enemies while maintaining diplomatic protocols
+- **Economic Competition**: Uses its natural resources to challenge Balisha's trade dominance
+- **Political Strategy**: Forms alliances with Balisha's enemies while maintaining diplomatic protocols
 - **Current Tension**: Increasing proxy conflicts in border regions
-- **Bondage Dynamics**: Erulius attempts to establish its own slave trade network to compete with Kaha'an, leading to frequent clashes between slave traders
+- **Bondage Dynamics**: Erulius attempts to establish its own slave trade network to compete with Balisha, leading to frequent clashes between slave traders
 
 ### Relations with Terinok (Wrath)
 - **Diplomatic Status**: Strategic alliance
-- **Military Cooperation**: Receives training and occasional support against Kaha'an
+- **Military Cooperation**: Receives training and occasional support against Balisha
 - **Economic Exchange**: Provides resources in exchange for martial expertise
 - **Current Objective**: Strengthening ties without becoming dependent
 - **Notable Challenge**: Cultural differences create frequent misunderstandings
@@ -276,7 +276,7 @@ As almost-heirs to the imperial throne with abundant natural resources, the Erul
 - **Economic Relationship**: Trades raw materials for luxury goods and artwork
 - **Current Trend**: Increasingly lavish patronage to compete with Vartonne's historical prestige
 - **Notable Development**: Establishment of an Erulian Academy of Arts to rival Silaris
-- **Bondage Dynamics**: Erulius presents itself as a more ethical patron than Kaha'an, though its treatment of mine workers is often equally harsh
+- **Bondage Dynamics**: Erulius presents itself as a more ethical patron than Balisha, though its treatment of mine workers is often equally harsh
 
 ### Relations with Uratha (Pride)
 - **Diplomatic Status**: Academic alliance
@@ -306,13 +306,13 @@ As almost-heirs to the imperial throne with abundant natural resources, the Erul
 
 As a haven for artists with deteriorating infrastructure, Silaris' international relations are defined by cultural exchange, artistic patronage, and increasingly desperate attempts to maintain basic necessities while pursuing aesthetic perfection.
 
-### Relations with Kaha'an (Greed)
+### Relations with Balisha (Greed)
 - **Diplomatic Status**: Exploitative partnership
-- **Economic Reality**: Heavily dependent on Kaha'an merchant networks to distribute artwork
-- **Cultural Exchange**: Kaha'an elites collect Silaris masterpieces while imposing unfavorable trade terms
+- **Economic Reality**: Heavily dependent on Balisha merchant networks to distribute artwork
+- **Cultural Exchange**: Balisha elites collect Silaris masterpieces while imposing unfavorable trade terms
 - **Current Challenge**: Attempting to establish independent trade connections
-- **Notable Concern**: Increasing Kaha'an influence over artistic direction
-- **Bondage Dynamics**: Silaris artists often work under effectively indentured conditions to fulfill commissions from Kaha'ani patrons
+- **Notable Concern**: Increasing Balisha influence over artistic direction
+- **Bondage Dynamics**: Silaris artists often work under effectively indentured conditions to fulfill commissions from Balishan patrons
 
 ### Relations with Terinok (Wrath)
 - **Diplomatic Status**: Distant admiration
@@ -358,13 +358,13 @@ As a haven for artists with deteriorating infrastructure, Silaris' international
 
 As the industrial powerhouse with an insatiable appetite for resources, Gunastran's international relations are characterized by resource acquisition, product distribution, and technological exchange, with little interest in the political maneuverings of other nations.
 
-### Relations with Kaha'an (Greed)
+### Relations with Balisha (Greed)
 - **Diplomatic Status**: Practical partnership
-- **Economic Reality**: Depends on Kaha'an's trade networks for distribution
+- **Economic Reality**: Depends on Balisha's trade networks for distribution
 - **Negotiating Position**: Leverages unique products to secure favorable terms
 - **Current Strategy**: Developing alternative trade routes to reduce dependence
 - **Notable Tension**: Disputes over pricing and exclusivity deals
-- **Bondage Dynamics**: Gunastran technology enables more efficient slave management in Kaha'an, creating moral complications for Gunastran innovators
+- **Bondage Dynamics**: Gunastran technology enables more efficient slave management in Balisha, creating moral complications for Gunastran innovators
 
 ### Relations with Terinok (Wrath)
 - **Diplomatic Status**: Mutually beneficial exchange
@@ -411,7 +411,7 @@ As the industrial powerhouse with an insatiable appetite for resources, Gunastra
 ## Key Alliance Blocks and Conflicts
 
 ### The Imperial Succession Dispute
-- **Primary Antagonists**: Kaha'an vs. Erulian Principality vs. Vartonne
+- **Primary Antagonists**: Balisha vs. Erulian Principality vs. Vartonne
 - **Secondary Participants**: Uratha (holds the Scholar's Crown)
 - **Nature of Conflict**: Competing claims to be the legitimate successor of the Balishan Empire
 - **Current Status**: Primarily diplomatic and economic conflict with occasional proxy skirmishes
@@ -425,15 +425,15 @@ As the industrial powerhouse with an insatiable appetite for resources, Gunastra
 - **Bondage Dynamics**: Resource extraction increasingly relies on exploited labor from various systems of bondage
 
 ### The Knowledge Authority Dispute
-- **Primary Antagonists**: Uratha vs. Kaha'an
+- **Primary Antagonists**: Uratha vs. Balisha
 - **Focal Point**: The Scholar's Crown
 - **Nature of Conflict**: Question of whether knowledge authority derives from imperial succession or academic achievement
 - **Current Status**: Ongoing diplomatic tension with occasional espionage
-- **Bondage Dynamics**: Uratha employs bakarn as spies while Kaha'an uses slaves as infiltrators, creating a shadow war beneath the diplomatic surface
+- **Bondage Dynamics**: Uratha employs bakarn as spies while Balisha uses slaves as infiltrators, creating a shadow war beneath the diplomatic surface
 
 ### The Northern Alliance
 - **Members**: Terinok and Erulian Principality
-- **Common Ground**: Opposition to Kaha'an's dominance
+- **Common Ground**: Opposition to Balisha's dominance
 - **Nature of Alliance**: Military and economic cooperation
 - **Current Status**: Strengthening ties with increased military exercises
 - **Bondage Dynamics**: Complicated slave trading relationship that both parties find pragmatically useful while maintaining public distance from
@@ -450,7 +450,7 @@ As the industrial powerhouse with an insatiable appetite for resources, Gunastra
 1. **The Scholar's Crown Dispute**
    - **Risk Level**: High
    - **Potential Trigger**: Discovery of new information about the Crown's powers or legitimacy
-   - **Likely Participants**: Uratha, Kaha'an, potentially Erulius
+   - **Likely Participants**: Uratha, Balisha, potentially Erulius
    - **Bondage Connection**: Questions about whether the bakarn system affects the Crown's judgment of worthiness
 
 2. **Resource Depletion Crisis**
@@ -462,13 +462,13 @@ As the industrial powerhouse with an insatiable appetite for resources, Gunastra
 3. **Imperial Succession Crisis**
    - **Risk Level**: Moderate
    - **Potential Trigger**: Discovery of a legitimate imperial heir or imperial artifact
-   - **Likely Participants**: Kaha'an, Erulius, Vartonne
+   - **Likely Participants**: Balisha, Erulius, Vartonne
    - **Bondage Connection**: Questions about how an imperial heir would view the various bondage systems
 
 4. **Border Dispute Escalation**
    - **Risk Level**: Persistent
    - **Potential Trigger**: Resource discovery in contested territory
-   - **Likely Participants**: Terinok-Kaha'an border is particularly volatile
+   - **Likely Participants**: Terinok-Balisha border is particularly volatile
    - **Bondage Connection**: Competition for new populations to enslave often drives border conflicts
 
 5. **Slave/Servant Rebellion**
@@ -480,7 +480,7 @@ As the industrial powerhouse with an insatiable appetite for resources, Gunastra
 6. **Bakarn Knowledge Theft**
    - **Risk Level**: Moderate
    - **Potential Trigger**: Discovery that bakarn have been secretly learning and documenting Urathan knowledge
-   - **Likely Participants**: Uratha internally, potentially with Kaha'an involvement
+   - **Likely Participants**: Uratha internally, potentially with Balisha involvement
    - **Bondage Connection**: The fundamental contradiction of keeping intelligent people as servants while surrounded by knowledge
 
 7. **Humanitarian Intervention Attempt**
@@ -495,13 +495,13 @@ Each nation's system of servitude has evolved beyond mere economic necessity to 
 
 ### Intelligence Gathering
 - Bakarn in Uratha observe foreign delegations and report back to their masters
-- Slaves in Kaha'an serve as unwitting infiltrators when given as "gifts" to other nations
+- Slaves in Balisha serve as unwitting infiltrators when given as "gifts" to other nations
 - Terinok's helots monitor border activities that warriors might miss
 - Servants in all nations are often invisible to visiting dignitaries, allowing them to overhear sensitive conversations
 
 ### Leverage and Manipulation
 - Erulius threatens to cut off the slave trade to pressure Terinok on certain issues
-- Kaha'an occasionally frees particularly valuable slaves from other nations to create diplomatic incidents
+- Balisha occasionally frees particularly valuable slaves from other nations to create diplomatic incidents
 - Uratha sometimes offers to educate children of foreign elites, subtly influencing the next generation
 - Gunastran provides labor-saving technology that ultimately entrenches bondage systems while creating dependency
 

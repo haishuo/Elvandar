@@ -1,6 +1,6 @@
 # Chapter 10: The Proposal
 
-**Timeline:** Days after the Gunastran decision (which Kaha'an has not yet received)
+**Timeline:** Days after the Gunastran decision (which Balisha has not yet received)
 **Characters:** Xion, Elara, Kalden's envoy
 **Emotional work:** The reader must hold two incompatible truths at once — that this offer is genuinely good, and that accepting it is genuinely impossible. By the end, the reader understands why Elara will refuse, and is not sure she should.
 **POV:** Xion
@@ -9,11 +9,11 @@
 
 ## Beats
 
-1. The envoy arrives in form. Not a courier with a sealed letter slipped through a side gate — a formal Erulian delegation, announced at the palace doors, bearing the seals of the Principality and requesting official audience with the Empress of Kaha'an. The ceremony of it is itself a message: Kalden is not making a private approach that can be privately declined. He is placing this offer in the diplomatic record where it exists whether Elara responds to it or not.
+1. The envoy arrives in form. Not a courier with a sealed letter slipped through a side gate — a formal Erulian delegation, announced at the palace doors, bearing the seals of the Principality and requesting official audience with the Empress of Balisha. The ceremony of it is itself a message: Kalden is not making a private approach that can be privately declined. He is placing this offer in the diplomatic record where it exists whether Elara responds to it or not.
 
 2. The delegation is received in one of the formal audience chambers — not the throne room, not the informal rooms where Elara actually governs, but the middle register of ceremonial space that says *we are taking this seriously without committing to anything yet*. Xion is present. The reader should register that without explanation — his presence in formal proceedings has become normalized enough that no one remarks on it, even though he holds no title that justifies it. He is there because Elara wants him there.
 
-3. The envoy is good at his job. He does not read awkwardly from a scroll. He speaks the offer as though he believes in it — which he may, because Kalden has sent someone who genuinely thinks this is a good idea, not a functionary who knows it's theater. The offer as presented: Prince Kalden of Erulius proposes formal marriage alliance with the Empress of Kaha'an. The Erulian Principality, upon marriage, pledges full military and diplomatic realignment — away from the forming Compact, toward Kaha'an and its sphere. In plain terms: marry Kalden, and the strongest piece on the opposing board switches sides.
+3. The envoy is good at his job. He does not read awkwardly from a scroll. He speaks the offer as though he believes in it — which he may, because Kalden has sent someone who genuinely thinks this is a good idea, not a functionary who knows it's theater. The offer as presented: Prince Kalden of Erulius proposes formal marriage alliance with the Empress of Balisha. The Erulian Principality, upon marriage, pledges full military and diplomatic realignment — away from the forming Compact, toward Balisha and its sphere. In plain terms: marry Kalden, and the strongest piece on the opposing board switches sides.
 
 4. The envoy does not dress this up beyond its logic. He does not speak of Kalden's personal qualities or the beauty of Erulius in spring. He speaks like someone who understands he is delivering a political instrument, and the instrument's value is self-evident. This, too, is a signal from Kalden — that the offer respects Elara's intelligence, that it is not trying to seduce her through flattery but to convince her through math. It is, in this way, almost respectful.
 
@@ -31,7 +31,7 @@
 
 11. What Elara does not do: she does not immediately refuse. She sits with it. The reader needs to see that Elara is someone who takes the offer seriously enough to actually weigh it — that her refusal, when it comes, is not reflexive but considered. The Arol Batae trained her to fight, not to negotiate with her body; but the Arol Batae also trained her to evaluate terrain before she moves. She is evaluating terrain.
 
-12. What Elara thinks about, in the silence, is not Kalden. She does not know Kalden — not his face, not his voice, not what kind of man he is in the rooms where no one is watching. What she thinks about is the architecture of the offer: that she would be traded, however willingly, for the peace she was put on the throne to create. That the thing she offers Kalden is her body and her name. That the thing Kalden offers Kaha'an is the lives of thousands of people who will not die if she says yes.
+12. What Elara thinks about, in the silence, is not Kalden. She does not know Kalden — not his face, not his voice, not what kind of man he is in the rooms where no one is watching. What she thinks about is the architecture of the offer: that she would be traded, however willingly, for the peace she was put on the throne to create. That the thing she offers Kalden is her body and her name. That the thing Kalden offers Balisha is the lives of thousands of people who will not die if she says yes.
 
 13. She asks Xion — and the question costs her something to ask — whether he thinks she should accept. This is not a request for permission. It is something closer to wanting to hear him say what she knows he won't say. What she is actually asking is whether he would let her go, and whether he would call it the right choice if he did.
 

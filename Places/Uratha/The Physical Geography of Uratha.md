@@ -4,16 +4,17 @@
 
 Uratha occupies a large region in the eastern portion of Elvandar:
 
-- **Northern Border**: Defined by the Sentinel Mountains, a formidable range separating Uratha from Terinok  
-- **Eastern Border**: The Azure Sea forms a natural boundary  
-- **Southern Border**: The Verdant Plains gradually transition into Vartonne's territories  
-- **Western Border**: The Scholar's River creates a boundary with lands claimed by Gunastran
+- **Northern Border**: The Scholar's River, a major waterway that defines the boundary with Gunastran
+- **Eastern Border**: The Azure Sea forms a natural boundary
+- **Southern Border**: A soft administrative transition into the northern reaches of the Erulian Principality (no major natural feature; the line is one of treaty rather than terrain)
+- **Western Border**: The Sentinel Mountains, the great north-south range that bisects Elvandar; across the Sentinels at Uratha's latitude lies the eastern edge of Vartonne
 
 The landscape is remarkably diverse:
 
 ### The Northern Highlands
 
-- Foothills of the Sentinel Mountains  
+- Foothills descending south from the Smokepeaks of Gunastran, and the western flanks rising toward the Sentinels
+
 - Cool, temperate climate with distinct seasons  
 - Coniferous forests cover much of the terrain  
 - Rich mineral deposits, particularly crystals used in magical research  

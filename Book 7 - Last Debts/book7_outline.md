@@ -4,7 +4,7 @@
 
 **POV:** Primarily Tiberian and Melina. Possible interlude from Kalden's perspective (mirroring the Kalden/Gunastran interludes of earlier books) to show the alliance forming from his side — the useful idiot who doesn't know he's being used. Xion and Elara are present but the defense is their children's to lead.
 
-**Timeline:** Several months — from the formation of the Kalden-Rosik alliance through the assault on Kaha'an and its aftermath.
+**Timeline:** Several months — from the formation of the Kalden-Rosik alliance through the assault on Balisha and its aftermath.
 
 **Core Theme:** "Settling accounts with the past." This is the book where the ghosts of the original trilogy are finally laid to rest. Kalden's imperial delusion. Rosik's need to prove he was the best. The cartel system's last breath. The succession crisis that has haunted Elvandar since the Rending. All of it ends here.
 
@@ -61,11 +61,11 @@ This is the world the old enemies are about to try to destroy. The reader needs 
 Intelligence arrives in Kaha'an: Kalden is mobilizing. Not the pathetic remnant of the Aspirant Guard — mercenaries, purchased with mortgaged territory. And Rosik Kemvimore has been seen in Eruliath.
 
 This news hits the Valanar family differently:
-- **Tiberian** recognizes the military threat and begins preparing defenses. His instinct is to meet it head-on — ride out, crush the mercenary force before it reaches Kaha'an. The tiger wants to charge.
-- **Melina** recognizes something deeper. Rosik's involvement changes the calculus entirely. This isn't just a military threat — it's a combined external/internal assault. Rosik knows Kaha'an's defenses intimately. He knows the palace, the infrastructure, the vulnerabilities. A straight military response plays into his hands.
+- **Tiberian** recognizes the military threat and begins preparing defenses. His instinct is to meet it head-on — ride out, crush the mercenary force before it reaches Balisha. The tiger wants to charge.
+- **Melina** recognizes something deeper. Rosik's involvement changes the calculus entirely. This isn't just a military threat — it's a combined external/internal assault. Rosik knows Balisha's defenses intimately. He knows the palace, the infrastructure, the vulnerabilities. A straight military response plays into his hands.
 - **Xion** hears his father's name and knows. Not the details — but the shape of it. He knows Rosik. He knows what Rosik is capable of when pushed to the wall. And he knows that Rosik's real target isn't the throne or the city. It's him.
 
-The preparation phase. Tiberian coordinates external defense — fortifications, troop positioning, alliance mobilization. Melina begins the harder work: counterintelligence. If Rosik is involved, there are agents already inside Kaha'an. Networks already activated. The assault began before the army marched.
+The preparation phase. Tiberian coordinates external defense — fortifications, troop positioning, alliance mobilization. Melina begins the harder work: counterintelligence. If Rosik is involved, there are agents already inside Balisha. Networks already activated. The assault began before the army marched.
 
 ---
 
@@ -73,7 +73,7 @@ The preparation phase. Tiberian coordinates external defense — fortifications,
 
 **Emotional arc: The greatest test — external threat meets internal subversion**
 
-The mercenary army approaches Kaha'an. Simultaneously, Rosik's infiltration network activates — sabotage, intelligence leaks, attempts to compromise key positions. The twin threat forces the siblings to split their focus:
+The mercenary army approaches Balisha. Simultaneously, Rosik's infiltration network activates — sabotage, intelligence leaks, attempts to compromise key positions. The twin threat forces the siblings to split their focus:
 
 **Tiberian** must apply the strategic patience he learned in Silaris. Every instinct screams *charge* — meet the enemy in the field, crush them, protect the city. But Melina's analysis shows the danger: Rosik designed this to draw Tiberian out. The mercenary assault is structured to bait an aggressive response — gaps in the formation that invite flanking maneuvers, feints that look like weaknesses. Classic misdirection. If Tiberian charges, he opens the city to Rosik's real play.
 

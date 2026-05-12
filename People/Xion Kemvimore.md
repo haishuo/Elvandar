@@ -3,11 +3,11 @@
 
 ## The Reluctant Heir
 
-In a city defined by greed and the ruthless pursuit of power, Xion Kemvimore stands as something of an anomaly — the heir to one of Kaha'an's most powerful cartels and a member of one of the founding houses of the Balishan Empire, yet a young man whose heart lies far from the cutthroat politics of his father's world. Born before The Rending to Rosik Kemvimore and Lady Kemvimore, Xion lost his mother during that catastrophic event, growing up afterward in the shadow of his father's harsh pragmatism and under the weight of expectations he never asked for.
+In a city defined by greed and the ruthless pursuit of power, Xion Kemvimore stands as something of an anomaly — the heir to one of Balisha's most powerful cartels and a member of one of the founding houses of the Balishan Empire, yet a young man whose heart lies far from the cutthroat politics of his father's world. Born before The Rending to Rosik Kemvimore and Lady Kemvimore, Xion lost his mother during that catastrophic event, growing up afterward in the shadow of his father's harsh pragmatism and under the weight of expectations he never asked for.
 
-As the only son and primary heir to House Kemvimore, Xion's future was predetermined before he could walk — he would one day assume control of the Grain cartel, continuing his father's iron grip on Kaha'an's food supply. Yet from an early age, it became clear that Xion possessed little of his father's ruthless ambition or calculating nature. Where Rosik sees necessary control, Xion sees systemic oppression. Where his father demands order through strength, Xion seeks healing through compassion.
+As the only son and primary heir to House Kemvimore, Xion's future was predetermined before he could walk — he would one day assume control of the Grain cartel, continuing his father's iron grip on Balisha's food supply. Yet from an early age, it became clear that Xion possessed little of his father's ruthless ambition or calculating nature. Where Rosik sees necessary control, Xion sees systemic oppression. Where his father demands order through strength, Xion seeks healing through compassion.
 
-This fundamental disconnect between father and son has created one of Kaha'an's most tragic figures — a young man with genuine power to help people, yet trapped within a system that demands he become everything he despises.
+This fundamental disconnect between father and son has created one of Balisha's most tragic figures — a young man with genuine power to help people, yet trapped within a system that demands he become everything he despises.
 
 ---
 
@@ -45,7 +45,7 @@ When planning the extraction of Tam from the Warrens, he approaches it methodica
 
 ### Creator (Fourth)
 
-Xion creates new approaches when existing solutions fail. His entire identity as Master Fen is an act of creation — building an alternate self that can do the work his real identity forbids. His vision of a reformed Kaha'an, his ability to imagine systems that don't yet exist, and his instinct for finding creative solutions (like using Arlo's favor-based economy to get information about Tam) all reflect Creator energy in service of his higher drives.
+Xion creates new approaches when existing solutions fail. His entire identity as Master Fen is an act of creation — building an alternate self that can do the work his real identity forbids. His vision of a reformed Balisha, his ability to imagine systems that don't yet exist, and his instinct for finding creative solutions (like using Arlo's favor-based economy to get information about Tam) all reflect Creator energy in service of his higher drives.
 
 **Shadow:** Relatively underdeveloped. Xion doesn't create for expression's sake — he creates because the world as it exists doesn't serve people well enough.
 
@@ -79,7 +79,7 @@ This is why his friends are frightened. Not because he's become someone else. Be
 
 ## Early Years and Illness
 
-Unlike his sister Melina, who embraced the social responsibilities of noble life, Xion was plagued by a delicate constitution as a child. Frequent illnesses confined him to the Kemvimore estate while other children of noble houses attended balls and social functions. This isolation bred both loneliness and a quiet introspection rare among Kaha'an's privileged youth.
+Unlike his sister Melina, who embraced the social responsibilities of noble life, Xion was plagued by a delicate constitution as a child. Frequent illnesses confined him to the Kemvimore estate while other children of noble houses attended balls and social functions. This isolation bred both loneliness and a quiet introspection rare among Balisha's privileged youth.
 
 During these long periods of confinement, Xion found companionship in books and in the estate's servants — particularly **Mira Fen**, a young woman who served as the estate's apothecary and healer. After Lady Kemvimore perished in The Rending, Mira became something of a surrogate mother. Where others saw a sickly boy to be pitied, she saw a curious mind eager for knowledge.
 
@@ -87,7 +87,7 @@ The contrast between her gentle care and Rosik's increasingly harsh methods beca
 
 ## The Forbidden Art
 
-Against all conventions of Kaha'an's nobility, Mira secretly taught Xion healing during his long illnesses. For a noble to learn such practical skills was considered demeaning, but the young heir took to the apothecary's art with natural aptitude and genuine passion. In the mixing of herbs and creation of remedies, Xion found purpose that the politics of his father's world never provided.
+Against all conventions of Balisha's nobility, Mira secretly taught Xion healing during his long illnesses. For a noble to learn such practical skills was considered demeaning, but the young heir took to the apothecary's art with natural aptitude and genuine passion. In the mixing of herbs and creation of remedies, Xion found purpose that the politics of his father's world never provided.
 
 These lessons were conducted in secret, away from Rosik's watchful eye. For years the clandestine education continued, creating not just a competent healer but a young man with a growing understanding of life beyond the privileged walls of the Noble District.
 
@@ -95,7 +95,7 @@ Mira taught him more than medicine — she taught him that knowledge should serv
 
 ## The Tragedy That Defined Him
 
-On a fateful night, determined to surprise his mentor with a rare flower she had mentioned, fifteen-year-old Xion snuck out of the estate. His expedition led him dangerously close to the Warrens. One of Kaha'an's rare but torrential rainstorms caught him unprepared. Disoriented by the downpour, Xion slipped, struck his head, and lost consciousness in one of the most dangerous parts of the city.
+On a fateful night, determined to surprise his mentor with a rare flower she had mentioned, fifteen-year-old Xion snuck out of the estate. His expedition led him dangerously close to the Warrens. One of Balisha's rare but torrential rainstorms caught him unprepared. Disoriented by the downpour, Xion slipped, struck his head, and lost consciousness in one of the most dangerous parts of the city.
 
 Mira, discovering his absence and guessing his intent, braved the storm to find him and carried him back to safety.
 
@@ -115,7 +115,7 @@ He took her name for his secret identity. He became Master Fen.
 
 ## Master Fen
 
-By twenty, Xion had established a hidden clinic in the back room of Mistress Janice's weaver shop in the Middle District. Operating as "Master Fen," he provided free medical care to Kaha'an's poor — treating injuries, infections, malnutrition, and the countless ailments produced by the cartel system. The clinic was modest but well-organized, with proper supplies and detailed patient records documenting the human cost of institutional cruelty.
+By twenty, Xion had established a hidden clinic in the back room of Mistress Janice's weaver shop in the Middle District. Operating as "Master Fen," he provided free medical care to Balisha's poor — treating injuries, infections, malnutrition, and the countless ailments produced by the cartel system. The clinic was modest but well-organized, with proper supplies and detailed patient records documenting the human cost of institutional cruelty.
 
 The clinic was the truest expression of who Xion Kemvimore is — and the most complicated. It was genuine vocation: the work Mira trained him for, the healer she saw in him before he saw it himself. It was also penance. Every patient was proof that he was not the boy who stood frozen. Every treatment answered the question that had haunted him for five years: *what would you have done if you'd been brave?* This. He would have done this. Both things were true every time he mixed a remedy or cleaned a wound — the good man doing good work, and the guilty one trying to outrun a fifteen-year-old's paralysis.
 
@@ -151,7 +151,7 @@ When Xion emerged elated, Farleen revealed the truth. She was a spy, ordered to 
 
 ### The Partnership
 
-Elara treated Xion's wound in a hidden alcove and proposed an unlikely partnership: she would stay in the city and truly learn what she'd be ruling, with Xion as her guide. Over the following days, he showed her the reality of Kaha'an — the water tokens, the fabricated debts, the proclamations of cruelty issued in her family's name, the obscene fountain waste of the Noble District. He watched her academic understanding of injustice transform into visceral fury.
+Elara treated Xion's wound in a hidden alcove and proposed an unlikely partnership: she would stay in the city and truly learn what she'd be ruling, with Xion as her guide. Over the following days, he showed her the reality of Balisha — the water tokens, the fabricated debts, the proclamations of cruelty issued in her family's name, the obscene fountain waste of the Noble District. He watched her academic understanding of injustice transform into visceral fury.
 
 He trained her for a masquerade ball at the Larannas estate, teaching her noble codes and behavior. The infiltration ended in disaster when nobles casually discussed hunting people from the Warrens for sport, and Elara's rage overwhelmed her control. Her eyes cycling through colors betrayed the royal trait. They fled.
 
@@ -315,7 +315,7 @@ Quiet, reserved, practical. Kael's Iron cartel connections provide muscle and le
 
 ### Physical Presence
 
-In his early twenties, Xion has outgrown the frailty of his childhood but remains slender rather than imposing. His dark hair is typically worn longer than is fashionable among Kaha'an nobility, and his features favor his mother, with expressive eyes that betray his emotions too easily for a city built on deception.
+In his early twenties, Xion has outgrown the frailty of his childhood but remains slender rather than imposing. His dark hair is typically worn longer than is fashionable among Balisha nobility, and his features favor his mother, with expressive eyes that betray his emotions too easily for a city built on deception.
 
 He dresses simply by noble standards, often wearing practical clothing that wouldn't draw attention in the Middle District. His hands show the careful dexterity of someone trained in delicate work — mixing medicines, treating wounds, handling the tools of healing rather than weapons of war. He carries a medical bag everywhere.
 

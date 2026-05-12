@@ -35,7 +35,7 @@ Fire Magic manipulates energy—the force that drives motion, creates heat, gene
 #### Regional Variations:
 - **Terinok**: Combat-focused applications, enhancing weapons and physical abilities
 - **Gunastran**: Industrial applications, powering machinery and manufacturing
-- **Kaha'an**: Ceremonial displays, defensive barriers, desert survival techniques
+- **Balisha**: Ceremonial displays, defensive barriers, desert survival techniques
 - **Silaris**: Aesthetic applications, creating light shows and atmospheric effects
 
 ### Earth Magic: The Domain of Matter
@@ -96,7 +96,7 @@ Lathion's Destiny Engine represents the only known successful alteration of esta
 
 #### Regional Variations:
 - **Uratha**: Historical research, preserving knowledge, academic foresight
-- **Kaha'an**: Imperial prophecy, understanding seasonal patterns
+- **Balisha**: Imperial prophecy, understanding seasonal patterns
 - **Vartonne**: Maintaining connection to imperial past, predicting harvests
 - **Silaris**: Capturing perfect moments, enhancing artistic inspiration
 
@@ -132,7 +132,7 @@ Air Magic alone cannot create lasting effects like teleportation or portals. The
 #### Regional Variations:
 - **Gunastran**: Improving transportation, enhancing communication networks
 - **Uratha**: Expanding library spaces, connecting distant research facilities
-- **Kaha'an**: Desert navigation, connecting remote outposts
+- **Balisha**: Desert navigation, connecting remote outposts
 - **Terinok**: Military applications, strategic positioning
 
 ## Combinations and Interactions
@@ -200,7 +200,7 @@ The massive gear door beneath Kaha'an represents triple-school mastery:
 - Tactical advantages from rapid Earth + Fire constructions
 - Personal enhancement magic combining multiple schools
 
-#### Kaha'an: Infrastructure Magic
+#### Balisha: Infrastructure Magic
 - Desert survival combining all four schools
 - Water production using Earth + Water techniques
 - Temperature control through Fire + Air combinations
@@ -284,7 +284,7 @@ These energy constraints create significant strategic considerations:
 - Focus on reproducible, scalable applications
 - Innovation through experimentation rather than theory
 
-### Kaha'an: Imperial Tradition
+### Balisha: Imperial Tradition
 - Magic as symbol of legitimate authority
 - Ceremonial applications emphasizing grandeur
 - Desert-adapted techniques for survival and governance

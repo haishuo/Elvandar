@@ -2,18 +2,18 @@
 
 ## **Geographic Overview and Regional Divisions**
 
-The Erulian Principality occupies a strategically advantageous position in west-central Elvandar, bordered by mountains to the north, forests to the east, the Cerulean River to the south, and disputed territories with Kaha'an to the west. This diverse landscape has enabled the Principality to develop into one of Elvandar's most resource-rich successor states, though its geographic advantages also fuel Prince Kalden's imperial ambitions.
+The Erulian Principality occupies a strategically advantageous position in southeastern Elvandar, with the Azure Sea along its eastern coast, a soft northern administrative border with Uratha, the Cerulean River and Lyric Mountains separating it from Silaris to the south, and the Balishan Desert (with Balisha beyond) to the west. This diverse landscape has enabled the Principality to develop into one of Elvandar's most resource-rich successor states, though its geographic advantages also fuel Prince Kalden's imperial ambitions.
 
 ### **The Northern Reaches**
 
-The mineral-rich mountains forming the border with Terinok represent the Principality's greatest economic asset:
+The mineral-rich mountains of northern Erulius represent the Principality's greatest economic asset. These ranges sit well inside the Principality — they are not a border with another nation, but rather the rugged interior of the north before the land softens into the Heartlands:
 
 * **The Ironwall Mountains**: The primary range containing extensive iron, copper, and silver deposits  
-* **The Gemspire Peaks**: Smaller formations rich in precious stones and rare crystals  
+* **The Gemspire Peaks**: A separate range east of the Ironwall, rich in precious stones and rare crystals  
 * **Mining Infrastructure**: Extensive tunnel networks, processing facilities, and transport systems  
 * **Conscript Labor Camps**: Fortified compounds housing the bound workforce that extracts the Principality's wealth  
 * **Administrative Centers**: Northcrest serves as the bureaucratic hub coordinating all mining operations  
-* **Defensive Installations**: Mountain fortresses protecting against potential Terinok incursions  
+* **Defensive Installations**: Fortresses on the higher passes — though their primary purpose is internal control of the conscript-labor zones, not defense against an external neighbor  
 * **Climate**: Harsh alpine conditions with severe winters limiting access during certain seasons  
 * **Population**: Primarily mining conscripts, overseers, and specialized workers, with minimal permanent settlement
 
@@ -31,29 +31,29 @@ The fertile central plains form the agricultural and population core of the Prin
 * **Climate**: Moderate continental climate ideal for diverse agricultural production  
 * **Population**: Mix of free farmers, noble estates, and the largest concentration of Erulian citizens
 
-### **The Eastern Woods**
+### **The Northern Woods**
 
-Dense forests providing valuable timber and natural barriers:
+Dense forests providing valuable timber and natural barriers along the soft Urathan border:
 
 * **The Elderoak Forest**: Ancient woodland with valuable hardwood trees  
-* **The Boundary Woods**: Forested hills forming the transition to Gunastran territory  
-* **Logging Operations**: Sustainable forestry managed through partnerships with Gunastran engineers  
+* **The Boundary Woods**: Forested hills forming the transition to Urathan territory  
+* **Logging Operations**: Managed timber extraction supplying both the Principality and (via long-haul trade) the Gunastran foundries further north  
 * **Hunting Preserves**: Traditional noble recreational areas maintained as status symbols  
-* **Research Stations**: Collaborative facilities studying forest management techniques  
-* **Border Outposts**: Defensive installations monitoring the Gunastran frontier  
+* **Research Stations**: Collaborative facilities studying forest management techniques (some staffed jointly with Urathan scholars)
+* **Border Outposts**: Modest installations along the Urathan frontier — by treaty rather than by hostility, since the border is administrative rather than fortified  
 * **Climate**: Continental forest climate with substantial rainfall  
-* **Population**: Loggers, foresters, border guards, and scattered settlements
+* **Population**: Loggers, foresters, border officials, and scattered settlements
 
 ### **The Western Marches**
 
-The contested borderlands transitioning toward Kaha'an's desert:
+The arid transitional lands where the Principality fades into the Balishan Desert (and beyond it, the city of Kaha'an):
 
-* **The Disputed Territories**: Regions claimed by both the Principality and Kaha'an  
-* **The Transition Zone**: Areas becoming increasingly arid as they approach the Balishan Desert  
+* **The Former Provinces**: Lands annexed from the old Province of Balisha after the Rending isolated the city — the Principality holds these by right of effective occupation  
+* **The Transition Zone**: Areas becoming increasingly arid as they approach the desert proper  
 * **Salt Flats**: Valuable mineral deposits extracted through specialized techniques  
 * **Quarry Operations**: Stone extraction for construction projects throughout the Principality  
-* **Frontier Settlements**: Fortified communities serving as forward bases  
-* **Military Installations**: Heavily defended positions facing the Kaha'ani border  
+* **Frontier Settlements**: Fortified communities serving as forward bases and as termini for the Erulian arm of the Golden Path  
+* **Military Installations**: Defended positions facing the desert; tension with Balisha is conducted across the Balishan Desert rather than along a shared land border  
 * **Climate**: Increasingly arid continental climate with hot, dry summers  
 * **Population**: Soldiers, miners, and hardy frontier families
 
@@ -67,7 +67,7 @@ Eruliath represents Prince Kalden's vision of imperial grandeur made manifest. O
 
 #### **The Imperial Quarter**
 
-The heart of Eruliath, deliberately constructed to rival Vartonne and Kaha'an:
+The heart of Eruliath, deliberately constructed to rival Vartonne and Balisha:
 
 * **The Amber Palace**: Prince Kalden's residence, built with honey-colored stone and elaborate architectural flourishes  
 * **The Hall of Ancestors**: Massive gallery featuring portraits connecting current Erulian nobles to imperial figures  
@@ -394,7 +394,7 @@ Protecting against potential Terinok aggression:
 
 #### **The Western Marches**
 
-Defensive installations facing the Kaha'ani border:
+Defensive installations facing the Balishan border:
 
 * **The Frontier Line**: Series of fortified positions along the disputed territories  
 * **Desert Watch Posts**: Installations monitoring activity from the Balishan Desert  
@@ -402,7 +402,7 @@ Defensive installations facing the Kaha'ani border:
 * **Communications Centers**: Facilities maintaining contact with central command  
 * **Supply Lines**: Protected transportation routes serving frontier installations  
 * **Emergency Response**: Rapid deployment capabilities for border incidents  
-* **Intelligence Operations**: Facilities monitoring Kaha'ani activities and intentions  
+* **Intelligence Operations**: Facilities monitoring Balishan activities and intentions  
 * **Diplomatic Security**: Protected areas for border negotiations and communications
 
 ### **The Aspirant Guard**

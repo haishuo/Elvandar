@@ -1,7 +1,7 @@
 # Chapter 14: The Destiny Engine
 
 **Timeline:** Weeks later — deeper into Lathion
-**Characters:** Xion, Elara, research teams (Urathan scholars, Kaha'ani expedition)
+**Characters:** Xion, Elara, research teams (Urathan scholars, Balishan expedition)
 **Emotional work:** Wonder curdling into something heavier and more permanent. The city they have been moving through with awe and curiosity reveals what it cost to be beautiful. By the end, the reader understands Lathion differently — not as a wonder, but as a monument to a choice, and the weight of that understanding lands on Elara most of all.
 **POV:** Xion
 
@@ -9,13 +9,13 @@
 
 ## Beats
 
-1. The chapter opens not with Lathion, but with the news. Word has reached the expedition: the Compact is forming. Kalden's rejection has moved from private diplomatic insult to continental realignment — the northern powers organizing around shared opposition to Kaha'an, naming Elara's marriage as the provocation, the absence of the alliance as proof of ambition, and Xion, by extension, as the reason it happened. The report arrives in whatever form dispatches reach them out here — courier, signal, whatever the expedition's communication line allows — and Xion reads it with the particular quality of attention he gives to things he already knew were coming.
+1. The chapter opens not with Lathion, but with the news. Word has reached the expedition: the Compact is forming. Kalden's rejection has moved from private diplomatic insult to continental realignment — the northern powers organizing around shared opposition to Balisha, naming Elara's marriage as the provocation, the absence of the alliance as proof of ambition, and Xion, by extension, as the reason it happened. The report arrives in whatever form dispatches reach them out here — courier, signal, whatever the expedition's communication line allows — and Xion reads it with the particular quality of attention he gives to things he already knew were coming.
 
 2. He knew. He said yes in that private room with full knowledge of what he was starting. The reckoning now is not surprise — it is the difference between understanding a cost theoretically and seeing the first invoice. A continental war is taking shape on the horizon, and his name is threaded through the cause of it, and the woman he chose is the woman who asked him to choose. He holds this. He does not share the specific weight of it with Elara immediately — not because he's hiding it, but because this is his reckoning, not hers. She made the decision too, with open eyes. She already knows.
 
 3. Elara receives the same news separately, through the expedition's official channels. What Xion watches is not her reaction to the information — she has been preparing for this outcome since Chapter 11 — but the way she receives it in public, in front of the scholars, in front of the researchers who look to her for register. She is an empress. She takes the report, she acknowledges it, she does not let the room see the weight settle onto her. Later, in private, there will be something else. Right now she is already thinking about what needs to happen next.
 
-4. The emotional undercurrent between them in these early beats is not voiced. They have a shared knowledge of what they started together, and they carry it alongside everything else — the work, the expedition, the ongoing task of understanding Lathion well enough to potentially defend Kaha'an with it. The chapter does not pause to give them a private conversation about the Compact, not yet. The news arrives; the expedition continues. The war is on the horizon. What's underneath them, right now, is still this city.
+4. The emotional undercurrent between them in these early beats is not voiced. They have a shared knowledge of what they started together, and they carry it alongside everything else — the work, the expedition, the ongoing task of understanding Lathion well enough to potentially defend Balisha with it. The chapter does not pause to give them a private conversation about the Compact, not yet. The news arrives; the expedition continues. The war is on the horizon. What's underneath them, right now, is still this city.
 
 5. The nature of the expedition work as the chapter finds it: weeks into Lathion, the research teams are no longer marveling at surfaces. They are inside the machinery now — literally, as they move deeper into the city's center, and figuratively, as the scholars' understanding of the mechanisms grows into something more technical and more unsettling. The initial wonder hasn't disappeared, but it has a different quality. They are studying this place with urgency now. War is coming. Understanding becomes operational. The scholars translate; the engineers assess; Elara moves through the city like a key being tested against every lock, and the city responds to her every time.
 

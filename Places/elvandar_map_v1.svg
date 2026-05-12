@@ -1,0 +1,349 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" font-family="Georgia, 'Iowan Old Style', serif">
+  <!-- Background / ocean -->
+  <rect width="1200" height="900" fill="#f5efe1"/>
+
+  <!-- Continent landmass (unchanged) -->
+  <path d="
+      M 150 220
+      L 130 200 L 115 165 L 100 130 L 95 95 L 110 75 L 145 65
+      L 200 60 L 280 55 L 380 52 L 500 50 L 620 52 L 740 55
+      L 850 60 L 940 70 L 1010 90 L 1055 120 L 1075 155 L 1070 195
+      L 1050 230 L 1020 270 L 1000 280
+      L 1020 360 L 1010 440 L 990 510
+      L 970 560 L 940 595 L 900 615
+      L 870 625 L 840 660 L 825 715 L 850 760 L 870 800
+      L 855 825 L 815 815 L 780 775 L 755 720 L 740 670
+      L 710 645 L 670 635 L 630 622 L 590 612 L 545 608 L 500 612
+      L 460 620 L 420 638 L 380 670 L 340 700 L 305 695 L 280 660
+      L 240 615 L 195 560 L 165 490 L 145 410 L 140 330 L 150 220
+      Z"
+      fill="#e9dfc4" stroke="#2b2b2b" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- ============ FROZEN NORTH region overlay (cool tint over the upper continent) ============ -->
+  <path d="
+      M 100 130 L 95 95 L 110 75 L 145 65
+      L 200 60 L 280 55 L 380 52 L 500 50 L 620 52 L 740 55
+      L 850 60 L 940 70 L 1010 90 L 1055 120 L 1075 155
+      L 1050 175 L 1010 165 L 960 200 L 920 175 L 880 195
+      L 840 170 L 800 200 L 760 175 L 720 205 L 680 175
+      L 640 200 L 600 175 L 560 200 L 520 170 L 480 200
+      L 440 175 L 400 200 L 360 175 L 320 205 L 280 180
+      L 240 200 L 200 170 L 160 195 L 130 170 L 100 130 Z"
+      fill="#dde8ee" opacity="0.55" stroke="none"/>
+
+  <!-- ============ RIVERS (drawn before borders so borders overlay cleanly) ============ -->
+  <g fill="none" stroke="#3a6a8a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.75">
+    <!-- Blood River (Terinok): flows from northern highlands south through central plateau -->
+    <path d="M 380 200 Q 360 260 365 320 Q 380 360 410 380"/>
+    <!-- Imperial Vein (Vartonne): flows northwest-to-south through the heart of Vartonne -->
+    <path d="M 215 270 Q 200 360 225 450 Q 240 510 255 555"/>
+    <!-- Scholar's River: forms Uratha/Gunastran border -->
+    <path d="M 700 220 Q 690 280 695 330 Q 700 360 720 395"/>
+    <!-- Cerulean River: forms Erulius/Silaris border (along the new boundary) -->
+    <path d="M 850 685 Q 858 720 860 760"/>
+  </g>
+
+  <!-- ============ REGION BOUNDARIES ============ -->
+  <g fill="none" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M 175 330 Q 320 345 470 330"/>            <!-- Terinok / Vartonne -->
+    <path d="M 590 320 Q 760 335 950 320"/>            <!-- Gunastran / Uratha -->
+    <path d="M 620 440 Q 780 455 970 450"/>            <!-- Uratha / Erulius -->
+    <!-- Erulius / Silaris (unchanged — inland line on the SE peninsula) -->
+    <path d="M 750 685 Q 790 715 825 745"/>
+    <!-- Balishan Desert: wraps Kaha'an on its land sides only.
+         South side IS the coastline (the city's harbor opens onto the sea).
+         Dashed = transformed-during-Rending boundary. -->
+    <path d="M 455 525 Q 430 580 460 615 L 500 612 L 545 608 L 590 612 L 635 620
+             Q 660 580 640 540 Q 600 510 540 510 Q 480 508 455 525 Z"
+          stroke-dasharray="6 4"/>
+    <!-- (No Kaha'an habitable boundary — the city is walled and isolated; desert reaches its gates.) -->
+  </g>
+
+  <!-- ============ MOUNTAINS ============ -->
+  <!-- Central N-S range (the SENTINEL MOUNTAINS): splits continent, ends ~30mi N of Kaha'an -->
+  <g stroke="#2b2b2b" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 520 215 L 535 195 L 550 215"/>
+    <path d="M 525 320 L 540 300 L 555 320"/>
+    <path d="M 520 355 L 535 335 L 550 355"/>
+    <path d="M 525 390 L 540 370 L 555 390"/>
+    <path d="M 520 425 L 535 405 L 550 425"/>
+    <path d="M 525 460 L 540 440 L 555 460"/>
+    <path d="M 520 495 L 535 475 L 550 495"/>
+  </g>
+
+  <!-- Mount Karagh (Red Mountain): prominent volcano in the central range, upper section.
+       Drawn larger and red-tinted with a smoke plume. -->
+  <g>
+    <path d="M 515 275 L 540 230 L 565 275 Z" fill="#a83232" stroke="#2b2b2b" stroke-width="2"/>
+    <path d="M 528 250 L 540 240 L 552 250 L 545 260 L 535 260 Z" fill="#f5efe1" stroke="none"/>
+    <!-- smoke plume rising -->
+    <path d="M 540 230 q -8 -15 4 -25 q 12 -8 0 -22 q -10 -10 6 -22"
+          fill="none" stroke="#7a7a7a" stroke-width="1.6" opacity="0.65"/>
+  </g>
+
+  <!-- Smokepeaks (central Gunastran spine) -->
+  <g stroke="#2b2b2b" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 720 270 L 735 252 L 750 270"/>
+    <path d="M 745 285 L 760 267 L 775 285"/>
+    <path d="M 770 270 L 785 252 L 800 270"/>
+    <path d="M 795 285 L 810 267 L 825 285"/>
+  </g>
+
+  <!-- Ironwall Mountains (northern Erulius) -->
+  <g stroke="#2b2b2b" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 720 380 L 733 364 L 746 380"/>
+    <path d="M 742 392 L 755 376 L 768 392"/>
+    <path d="M 765 380 L 778 364 L 791 380"/>
+  </g>
+
+  <!-- Gemspire Peaks (further east in northern Erulius) -->
+  <g stroke="#2b2b2b" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 850 395 L 862 380 L 874 395"/>
+    <path d="M 870 405 L 882 390 L 894 405"/>
+    <path d="M 895 395 L 907 380 L 919 395"/>
+  </g>
+
+  <!-- Lyric Mountains (between Erulius and northern Silaris) -->
+  <g stroke="#2b2b2b" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 760 660 L 770 647 L 780 660"/>
+    <path d="M 778 672 L 788 659 L 798 672"/>
+    <path d="M 798 660 L 808 647 L 818 660"/>
+  </g>
+
+  <!-- ============ FROST SPINE MOUNTAINS (W-E range; southern boundary of Frozen North) ============ -->
+  <g stroke="#2b2b2b" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 160 220 L 180 195 L 200 220"/>
+    <path d="M 195 215 L 215 188 L 235 215"/>
+    <path d="M 230 222 L 252 195 L 274 222"/>
+    <path d="M 270 215 L 292 185 L 314 215"/>
+    <path d="M 310 222 L 332 192 L 354 222"/>
+    <path d="M 350 215 L 372 188 L 394 215"/>
+    <path d="M 390 222 L 412 195 L 434 222"/>
+    <path d="M 430 215 L 452 185 L 474 215"/>
+    <path d="M 470 220 L 492 192 L 514 220"/>
+    <!-- gap for the central N-S Sentinels meeting the Frost Spine -->
+    <path d="M 565 220 L 588 192 L 611 220"/>
+    <path d="M 605 215 L 628 185 L 651 215"/>
+    <path d="M 645 222 L 668 195 L 691 222"/>
+    <path d="M 685 215 L 708 188 L 731 215"/>
+    <path d="M 725 222 L 748 192 L 771 222"/>
+    <path d="M 765 215 L 788 185 L 811 215"/>
+    <path d="M 805 222 L 828 195 L 851 222"/>
+    <path d="M 845 215 L 868 188 L 891 215"/>
+    <path d="M 885 222 L 908 192 L 931 222"/>
+    <path d="M 925 218 L 948 190 L 971 218"/>
+  </g>
+
+  <!-- ============ TUNDRA / TAIGA TEXTURE in the Frozen North ============ -->
+  <g opacity="0.7">
+    <!-- scattered small evergreen marks (taiga) -->
+    <g fill="#3a4d4a">
+      <circle cx="180" cy="110" r="2"/><circle cx="240" cy="125" r="2"/>
+      <circle cx="310" cy="105" r="2"/><circle cx="380" cy="120" r="2"/>
+      <circle cx="450" cy="100" r="2"/><circle cx="520" cy="115" r="2"/>
+      <circle cx="600" cy="105" r="2"/><circle cx="680" cy="120" r="2"/>
+      <circle cx="760" cy="105" r="2"/><circle cx="840" cy="115" r="2"/>
+      <circle cx="920" cy="105" r="2"/><circle cx="980" cy="125" r="2"/>
+      <circle cx="220" cy="155" r="2"/><circle cx="290" cy="160" r="2"/>
+      <circle cx="370" cy="155" r="2"/><circle cx="450" cy="160" r="2"/>
+      <circle cx="540" cy="155" r="2"/><circle cx="620" cy="160" r="2"/>
+      <circle cx="710" cy="155" r="2"/><circle cx="790" cy="160" r="2"/>
+      <circle cx="870" cy="155" r="2"/><circle cx="950" cy="160" r="2"/>
+    </g>
+    <!-- ice / snow stipples -->
+    <g fill="#aac6d4">
+      <circle cx="150" cy="85" r="1.5"/><circle cx="220" cy="80" r="1.5"/>
+      <circle cx="320" cy="75" r="1.5"/><circle cx="430" cy="78" r="1.5"/>
+      <circle cx="540" cy="75" r="1.5"/><circle cx="650" cy="80" r="1.5"/>
+      <circle cx="760" cy="75" r="1.5"/><circle cx="870" cy="85" r="1.5"/>
+      <circle cx="970" cy="100" r="1.5"/>
+      <circle cx="180" cy="135" r="1.5"/><circle cx="270" cy="140" r="1.5"/>
+      <circle cx="350" cy="135" r="1.5"/><circle cx="490" cy="135" r="1.5"/>
+      <circle cx="640" cy="138" r="1.5"/><circle cx="800" cy="135" r="1.5"/>
+      <circle cx="900" cy="138" r="1.5"/>
+    </g>
+    <!-- frozen river (squiggle suggesting a glacial waterway) -->
+    <path d="M 580 60 q -5 30 5 50 q -8 25 4 45 q -6 20 2 40"
+          stroke="#7aa3b8" stroke-width="1.4" fill="none" opacity="0.7"/>
+    <path d="M 320 55 q -3 35 7 55 q -10 22 0 45"
+          stroke="#7aa3b8" stroke-width="1.4" fill="none" opacity="0.7"/>
+  </g>
+
+  <!-- ============ WHISPERING FOREST (western Silaris, east of the Cerulean) ============ -->
+  <g fill="#3e5b3a" opacity="0.7">
+    <circle cx="810" cy="755" r="5"/>
+    <circle cx="825" cy="770" r="5"/>
+    <circle cx="800" cy="775" r="5"/>
+    <circle cx="815" cy="790" r="5"/>
+    <circle cx="830" cy="800" r="5"/>
+    <circle cx="800" cy="800" r="5"/>
+  </g>
+
+  <!-- ============ DESERT TEXTURE for Balishan ============
+       Wraps Kaha'an on N/E/W; south is open coast. -->
+  <g fill="#c9a76a" opacity="0.55">
+    <!-- north arc (between mountains-end and Kaha'an) -->
+    <circle cx="475" cy="525" r="1.8"/><circle cx="510" cy="520" r="1.8"/>
+    <circle cx="545" cy="520" r="1.8"/><circle cx="580" cy="522" r="1.8"/>
+    <circle cx="615" cy="528" r="1.8"/><circle cx="495" cy="540" r="1.8"/>
+    <circle cx="535" cy="538" r="1.8"/><circle cx="575" cy="540" r="1.8"/>
+    <!-- west arc -->
+    <circle cx="455" cy="555" r="1.8"/><circle cx="445" cy="585" r="1.8"/>
+    <circle cx="455" cy="610" r="1.8"/>
+    <!-- east arc -->
+    <circle cx="625" cy="555" r="1.8"/><circle cx="635" cy="585" r="1.8"/>
+    <circle cx="625" cy="610" r="1.8"/>
+  </g>
+  <!-- Gray Wastes: warped epicenter, in the desert north of Kaha'an (between the city and the mountains) -->
+  <g opacity="0.6">
+    <path d="M 500 540 q 18 -6 36 0 q 8 9 -5 16 q -20 5 -30 -3 q -8 -7 -1 -13 Z"
+          fill="#888888" stroke="#444" stroke-width="1" stroke-dasharray="3 3"/>
+  </g>
+
+  <!-- ============ THE GOLDEN PATH ============ -->
+  <path d="M 200 615 Q 320 650 410 625 Q 480 605 545 600 Q 640 600 740 615 Q 850 635 950 600"
+        fill="none" stroke="#b8860b" stroke-width="3"
+        stroke-dasharray="3 7" stroke-linecap="round"/>
+
+  <!-- ============ CITIES ============ -->
+  <!-- City marker style: filled black circle, white pip for capitals; just circle for others -->
+  <g font-family="Georgia, serif" font-size="13" fill="#1a1a1a">
+    <!-- Kaha'an (already established, capital style with star) -->
+    <g>
+      <circle cx="545" cy="600" r="7" fill="#2b2b2b"/>
+      <circle cx="545" cy="600" r="3" fill="#f5efe1"/>
+    </g>
+    <text x="558" y="596" font-size="16" font-weight="bold">Kaha'an</text>
+
+    <!-- Takama (Terinok capital) -->
+    <circle cx="350" cy="295" r="6" fill="#2b2b2b"/>
+    <circle cx="350" cy="295" r="2.5" fill="#f5efe1"/>
+    <text x="362" y="299">Takama</text>
+
+    <!-- Mechanus (Gunastran capital) -->
+    <circle cx="760" cy="305" r="6" fill="#2b2b2b"/>
+    <circle cx="760" cy="305" r="2.5" fill="#f5efe1"/>
+    <text x="772" y="309">Mechanus</text>
+
+    <!-- Ivory Tower (Uratha capital) -->
+    <circle cx="820" cy="410" r="6" fill="#2b2b2b"/>
+    <circle cx="820" cy="410" r="2.5" fill="#f5efe1"/>
+    <text x="832" y="414">The Ivory Tower</text>
+
+    <!-- Eruliath (Erulius capital) - moved east into current Erulius territory -->
+    <circle cx="900" cy="540" r="6" fill="#2b2b2b"/>
+    <circle cx="900" cy="540" r="2.5" fill="#f5efe1"/>
+    <text x="912" y="544">Eruliath</text>
+
+    <!-- Port Valen (Erulian coast) -->
+    <circle cx="965" cy="525" r="4" fill="#2b2b2b"/>
+    <text x="958" y="518" font-size="11" font-style="italic" text-anchor="end">Port Valen</text>
+
+    <!-- Northcrest (northern Erulius mining city) -->
+    <circle cx="880" cy="475" r="4" fill="#2b2b2b"/>
+    <text x="888" y="478" font-size="11" font-style="italic">Northcrest</text>
+
+    <!-- Shizan (southern Terinok, controls Sentinel passes) -->
+    <circle cx="430" cy="345" r="4" fill="#2b2b2b"/>
+    <text x="438" y="348" font-size="11" font-style="italic">Shizan</text>
+
+    <!-- Lumina Vale (50 mi east of Ivory Tower, magical research) -->
+    <circle cx="900" cy="390" r="4" fill="#2b2b2b"/>
+    <text x="908" y="393" font-size="11" font-style="italic">Lumina Vale</text>
+
+    <!-- Empirica (eastern coast Uratha, near the Gunastran border) -->
+    <circle cx="975" cy="355" r="4" fill="#2b2b2b"/>
+    <text x="970" y="350" font-size="11" font-style="italic" text-anchor="end">Empirica</text>
+
+    <!-- Vartonne (city in Vartonne province) -->
+    <circle cx="240" cy="465" r="6" fill="#2b2b2b"/>
+    <circle cx="240" cy="465" r="2.5" fill="#f5efe1"/>
+    <text x="252" y="469">Vartonne</text>
+
+    <!-- Silaris (city in Silaris) -->
+    <circle cx="830" cy="780" r="6" fill="#2b2b2b"/>
+    <circle cx="830" cy="780" r="2.5" fill="#f5efe1"/>
+    <text x="842" y="784">Silaris</text>
+  </g>
+
+  <!-- ============ REGION & FEATURE LABELS ============ -->
+  <g fill="#1a1a1a" text-anchor="middle">
+    <!-- Frozen North banner -->
+    <text x="540" y="105" font-size="30" font-style="italic" letter-spacing="6" fill="#2a3e4a">The Frozen North</text>
+    <text x="540" y="125" font-size="11" font-style="italic" fill="#3a5a78" letter-spacing="2">tundra · taiga · ice</text>
+
+    <!-- Region labels (italic, larger) -->
+    <text x="320" y="245" font-size="26" font-style="italic">Terinok</text>
+    <text x="780" y="245" font-size="26" font-style="italic">Gunastran</text>
+    <text x="180" y="395" font-size="22" font-style="italic">Vartonne</text>
+    <text x="870" y="365" font-size="22" font-style="italic">Uratha</text>
+    <text x="870" y="495" font-size="22" font-style="italic">Erulius</text>
+
+    <!-- Mount Karagh label -->
+    <text x="540" y="220" font-size="11" font-weight="bold" fill="#7a1d1d">Mt. Karagh</text>
+    <text x="540" y="232" font-size="9" fill="#7a1d1d" font-style="italic">(Red Mountain)</text>
+
+    <!-- Sentinel Mountains label, rotated along the range -->
+    <text x="500" y="430" font-size="12" fill="#444" font-style="italic"
+          transform="rotate(-90 500 430)">Sentinel Mountains</text>
+
+    <!-- Frost Spine label (placed below the W-E range, in northern Terinok/Gunastran) -->
+    <text x="395" y="247" font-size="11" fill="#3a5a78" font-style="italic">Frost Spine Mountains</text>
+
+    <!-- Smokepeaks label -->
+    <text x="770" y="248" font-size="10" fill="#444" font-style="italic">Smokepeaks</text>
+
+    <!-- Ironwall + Gemspire labels -->
+    <text x="755" y="358" font-size="10" fill="#444" font-style="italic">Ironwall Mts</text>
+    <text x="882" y="375" font-size="10" fill="#444" font-style="italic">Gemspire Peaks</text>
+
+    <!-- Lyric Mts label -->
+    <text x="790" y="640" font-size="10" fill="#444" font-style="italic">Lyric Mts</text>
+
+    <!-- River labels -->
+    <text x="358" y="350" font-size="9" fill="#3a6a8a" font-style="italic">Blood R.</text>
+    <text x="200" y="430" font-size="9" fill="#3a6a8a" font-style="italic">Imperial Vein</text>
+    <text x="685" y="280" font-size="9" fill="#3a6a8a" font-style="italic">Scholar's R.</text>
+    <text x="775" y="685" font-size="9" fill="#3a6a8a" font-style="italic">Cerulean R.</text>
+
+    <!-- Whispering Forest label -->
+    <text x="780" y="785" font-size="10" fill="#3e5b3a" font-style="italic">Whispering Forest</text>
+
+    <!-- Balishan Desert: label placed below the desert with a leader, since the desert is small -->
+    <text x="700" y="600" font-size="14" font-style="italic">Balishan Desert</text>
+    <text x="700" y="615" font-size="9" fill="#5a4a2a">(former Province of Balisha)</text>
+    <text x="518" y="568" font-size="8" fill="#444" font-style="italic">Gray Wastes</text>
+
+    <!-- Golden Path label -->
+    <text x="430" y="613" font-size="11" fill="#8a6508" font-style="italic">The Golden Path</text>
+
+    <!-- Ocean labels -->
+    <text x="1100" y="450" font-size="20" font-style="italic" fill="#3a6a8a" letter-spacing="3">Azure Sea</text>
+    <text x="600" y="870" font-size="16" font-style="italic" fill="#3a6a8a" letter-spacing="3">Azure Sea</text>
+    <text x="80" y="500" font-size="16" font-style="italic" fill="#3a6a8a" letter-spacing="3" text-anchor="start">Western Sea</text>
+    <text x="280" y="32" font-size="14" font-style="italic" fill="#3a5a78" letter-spacing="3" text-anchor="start">Northern Ice Sea</text>
+  </g>
+
+  <!-- Compass rose -->
+  <g transform="translate(1100,800)" stroke="#2b2b2b" fill="#2b2b2b">
+    <circle r="22" fill="none" stroke-width="1"/>
+    <path d="M 0 -22 L 4 0 L 0 22 L -4 0 Z" fill="#2b2b2b"/>
+    <path d="M -22 0 L 0 -4 L 22 0 L 0 4 Z" fill="none" stroke-width="1"/>
+    <text x="0" y="-28" font-size="10" text-anchor="middle">N</text>
+  </g>
+
+  <!-- Title -->
+  <text x="60" y="80" font-size="28" font-style="italic" fill="#1a1a1a">Elvandar</text>
+  <text x="60" y="100" font-size="12" fill="#5a4a2a">working sketch · v6</text>
+
+  <!-- Legend -->
+  <g transform="translate(60, 760)" font-family="Georgia, serif" font-size="10" fill="#333">
+    <rect x="-5" y="-15" width="200" height="115" fill="#f5efe1" stroke="#5a4a2a" stroke-width="0.5"/>
+    <text x="0" y="0" font-size="11" font-weight="bold">Legend</text>
+    <g transform="translate(0,15)"><circle cx="6" cy="-3" r="6" fill="#2b2b2b"/><circle cx="6" cy="-3" r="2.5" fill="#f5efe1"/><text x="20" y="0">Capital city</text></g>
+    <g transform="translate(0,32)"><circle cx="6" cy="-3" r="4" fill="#2b2b2b"/><text x="20" y="0">Major city</text></g>
+    <g transform="translate(0,49)"><line x1="0" y1="-3" x2="14" y2="-3" stroke="#b8860b" stroke-width="3" stroke-dasharray="3 4"/><text x="20" y="0">The Golden Path</text></g>
+    <g transform="translate(0,66)"><line x1="0" y1="-3" x2="14" y2="-3" stroke="#5a4a2a" stroke-width="1.5" stroke-dasharray="6 4"/><text x="20" y="0">Historical border</text></g>
+    <g transform="translate(0,83)"><path d="M 0 0 L 7 -10 L 14 0" stroke="#2b2b2b" stroke-width="1.6" fill="none"/><text x="20" y="0">Mountains</text></g>
+  </g>
+</svg>

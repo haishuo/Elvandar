@@ -415,7 +415,7 @@ Not because he feels nothing. Because he feels *exactly* what he's become, and c
 
 Rosik sees the writing on the wall. He's lost everything — money, coalition, allies, daughter, son. Options: execution or exile. He chooses exile. Still controlled, still strategic — recognizing when the game is lost and cutting losses.
 
-He flees Kaha'an under cover of darkness.
+He flees Balisha under cover of darkness.
 
 The contrast with his masquerade entrance in Book 1 is total: the man who entered a room without a mask, who claimed spaces like a king, who refused to hide behind pretense — leaving in the dark. The man whose physical presence reorganized rooms, slipping out when no one is watching.
 

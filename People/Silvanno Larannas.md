@@ -56,7 +56,7 @@ His initial resistance to Xion's claims functions partly as competitive challeng
 
 ### Founder (Fifth)
 
-Silvanno understands institutional politics — his mother is one of Kaha'an's master political operators, and he grew up watching her navigate the cartel system. He knows how power flows, how alliances form and fracture, how institutions endure. His comment about Tania at the coronation march shows sophisticated political literacy.
+Silvanno understands institutional politics — his mother is one of Balisha's master political operators, and he grew up watching her navigate the cartel system. He knows how power flows, how alliances form and fracture, how institutions endure. His comment about Tania at the coronation march shows sophisticated political literacy.
 
 But he doesn't think in terms of legacy or institutional endurance for himself. He isn't trying to build something that outlasts him. His understanding of power structures is observational, not aspirational — a tool inherited from proximity to his mother, not a drive that shapes his own choices.
 
@@ -72,7 +72,7 @@ The text provides no evidence of creative or expressive drive in Silvanno. He do
 
 ## Backstory
 
-Silvanno Larannas grew up in the Noble District as the son and heir of Tania Larannas, who controls the Water cartel — one of Kaha'an's most powerful economic institutions. His family estate is grand enough to host the social season's most important masquerade ball. He has a private study and a personal library. Servants greet him. He navigates noble society with the ease of someone who was born to it.
+Silvanno Larannas grew up in the Noble District as the son and heir of Tania Larannas, who controls the Water cartel — one of Balisha's most powerful economic institutions. His family estate is grand enough to host the social season's most important masquerade ball. He has a private study and a personal library. Servants greet him. He navigates noble society with the ease of someone who was born to it.
 
 But somewhere in that privileged upbringing, something went sideways. Instead of becoming his mother's heir in temperament as well as title, Silvanno developed a moral conscience that his environment didn't teach him. He joined Xion's reform group at The Amber Leaf and spent six months doing small-scale charity work — distributing food, arranging medicine for the sick — and arrived at the conclusion that such work was futile. Not because he stopped caring, but because he cared enough to see the truth: "They deserve a system that doesn't grind them up in the first place."
 

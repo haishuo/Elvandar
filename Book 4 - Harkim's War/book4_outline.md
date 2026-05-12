@@ -1,6 +1,6 @@
 # Book 4: Harkim's War — High-Level Outline
 
-**Narrative Engine:** The Compact War has begun. Gunastran and the Erulian Principality strike Uratha first — cut it off from Kaha'an and Terinok before Lathion technology can be fully implemented. This book shows what the political decisions of Books 1-3 cost ordinary people, and what happens when the system those people believed in is tested to destruction.
+**Narrative Engine:** The Compact War has begun. Gunastran and the Erulian Principality strike Uratha first — cut it off from Balisha and Terinok before Lathion technology can be fully implemented. This book shows what the political decisions of Books 1-3 cost ordinary people, and what happens when the system those people believed in is tested to destruction.
 
 **POV:** Entirely Danshall Harkim. We do not meet Xion, Elara, or Farleen. They exist only as distant names — the empress's decree heard third-hand, the consort referenced in whispered rumors. The deliberate absence of the series protagonists forces the reader to experience the war from the ground, without the comfort of familiar faces.
 
@@ -149,5 +149,5 @@ In the years between Book 4 and Book 8, this notebook becomes a network. The net
 
 **Seeds for future books:**
 - **Book 5:** The post-war landscape. Kalden's reparations burden. Silaris's vulnerability. The bakarn "reforms" that aren't really reforms.
-- **Book 6:** If Uratha can even *partially* transform its classification system under wartime pressure, the argument strengthens for addressing Kaha'an's own Warrens.
+- **Book 6:** If Uratha can even *partially* transform its classification system under wartime pressure, the argument strengthens for addressing Balisha's own Warrens.
 - **Book 8:** Harkim's notebook becomes a network becomes an underground. The Provosts' strange indifference explained at last: they had the Globehall the whole time. The reader who watched Uratha's wartime cooperation in Book 4 discovers in Book 8 that the cooperation was real at the ground level — but the institution that permitted it did so because the surface system was never where the real horror lived.
