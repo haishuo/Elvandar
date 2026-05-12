@@ -112,7 +112,7 @@ The fountains still flowed. Water still cascaded in wasteful abundance while peo
 
 And ahead—rising like a monument to absence—the Imperial Palace.
 
-Xion had passed it countless times. Everyone in Kaha'an had. It dominated the eastern quarter, impossible to ignore or forget. But it had always felt like a beautiful corpse. Something dead that refused to fall down.
+Xion had passed it countless times. Everyone in Kaha'an had. It dominated the city's heart, impossible to ignore or forget. But it had always felt like a beautiful corpse. Something dead that refused to fall down.
 
 Now, it felt different. Waiting. Ready to wake.
 
