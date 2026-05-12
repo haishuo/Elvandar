@@ -2,7 +2,7 @@
 
 ## The Unbroken Heart
 
-In a city where power flows through manipulation and merchant calculation, Elara Valanar represents something the cartels never planned for — legitimate authority backed not by inherited right or divine favor, but by the deliberate choice to witness what power costs the powerless. Raised in isolation by the Arol Batae after The Rending claimed her parents, she spent twenty years learning the arts of war while remaining hidden from the political games that defined post-imperial Kaha'an. She could have stayed hidden indefinitely.
+In a city where power flows through manipulation and merchant calculation, Elara Valanar represents something the cartels never planned for — legitimate authority backed not by inherited right or divine favor, but by the deliberate choice to witness what power costs the powerless. Raised in isolation by the Arol Batae after The Rending claimed her parents, she spent twenty years learning the arts of war while remaining hidden from the political games that defined post-imperial Balisha. She could have stayed hidden indefinitely.
 
 She chose not to.
 
@@ -34,7 +34,7 @@ Elara pursues truth not for its own sake but because understanding is a prerequi
 
 Her Truth Seeker drive manifests as an insistence on firsthand witness. She does not accept secondhand accounts of suffering. She refuses to rule from behind compound walls or palace protocols. When the Arol Batae raised her on strategy, tactics, and combat, she valued the education but recognized its fundamental gap: they taught her everything except what ruling actually costs the people being ruled. She filled that gap herself, sneaking out to observe a city she might one day govern.
 
-This drive deepens throughout Book 1. Each revelation about the real Kaha'an hits her anew — the water tokens, the fabricated debts, the proclamations of cruelty, the obscene waste of the Noble District. By the time she's seen the fountains, her understanding has transformed from abstract knowledge to visceral fury. She tells Xion: "How do you stand it? Watching this every day, knowing what it costs, and being powerless to change it?"
+This drive deepens throughout Book 1. Each revelation about the real Balisha hits her anew — the water tokens, the fabricated debts, the proclamations of cruelty, the obscene waste of the Noble District. By the time she's seen the fountains, her understanding has transformed from abstract knowledge to visceral fury. She tells Xion: "How do you stand it? Watching this every day, knowing what it costs, and being powerless to change it?"
 
 Her Truth Seeker secondary also manifests as radical honesty. When the Mistress of the Long Knives asks if she understands her connection to the ancient brass structures, Elara admits plainly: "I'm the last surviving member of House Valanar. The imperial bloodline. I have the eyes. I passed the trial of the Spirit's Reflection. But beyond that... I don't know what any of this means." She does not pretend to knowledge she lacks, even when doing so might gain her an ally.
 
@@ -62,7 +62,7 @@ Her Engineer drive is instrumental — it serves her Caretaker and Truth Seeker 
 
 ### Creator (Fifth)
 
-Creative expression and vision rank low in Elara's motivational stack. She creates when necessity demands it — her cover identity as "Elara Sarif" for the masquerade, her improvised solutions in the Warrens — but creation for its own sake does not drive her. Her vision of a reformed Kaha'an is real and deeply felt, but it is a Caretaker's vision expressed through whatever channels are available, not a Creator's need to bring internal worlds into external form.
+Creative expression and vision rank low in Elara's motivational stack. She creates when necessity demands it — her cover identity as "Elara Sarif" for the masquerade, her improvised solutions in the Warrens — but creation for its own sake does not drive her. Her vision of a reformed Balisha is real and deeply felt, but it is a Caretaker's vision expressed through whatever channels are available, not a Creator's need to bring internal worlds into external form.
 
 **Shadow:** Underdeveloped. She envisions what Kaha'an should become but struggles with the creative work of building it.
 
@@ -125,7 +125,7 @@ This is Elara in miniature: someone who witnesses injustice, who burns to interv
 
 After Xion finds her in the compound and Farleen's betrayal forces both their hands, Elara proposes the partnership that drives the story: she will stay in the city and truly learn what she would be ruling, with Xion as her guide. Her terms are significant — she does not frame this as a princess accepting a subject's service. She frames it as equals entering an arrangement: "I don't need rescuing. But I could use a guide. Someone who knows the city, who cares about its people."
 
-What follows is Elara's moral education. Xion shows her the reality of Kaha'an — the water rationing, the fabricated debts, the proclamations bearing her family's name, the Noble District's obscene waste. Each revelation transforms abstract knowledge into visceral understanding. At the public well, she watches a child denied water. At the notice board, she discovers her family's authority has been weaponized against the people it should protect. At the fountains of the Noble District, where decorative water features waste more in a day than families receive in a week, her eyes cycle so rapidly she has to squeeze them shut.
+What follows is Elara's moral education. Xion shows her the reality of Balisha — the water rationing, the fabricated debts, the proclamations bearing her family's name, the Noble District's obscene waste. Each revelation transforms abstract knowledge into visceral understanding. At the public well, she watches a child denied water. At the notice board, she discovers her family's authority has been weaponized against the people it should protect. At the fountains of the Noble District, where decorative water features waste more in a day than families receive in a week, her eyes cycle so rapidly she has to squeeze them shut.
 
 By midday of their first day in the city, "she looked older than her twenty years." When Xion suggests she needs time to process, she pushes back: "Do I have time? Every moment I delay, more people suffer under laws signed with my name."
 
@@ -285,7 +285,7 @@ The closest thing Elara has to a father figure, and all the tension of a child w
 
 His fury when she returns to the compound is explicitly described as "fear bleeding into relief, carefully controlled rage masking profound emotion." His words — "We thought you were dead. Again" — carry the weight of twenty years of vigilance. When he asks if she knows what her absence did to the men who swore to protect her, the accusation is personal.
 
-Elara's response is respectful but unyielding: "You taught me strategy, combat, politics. Everything an empress should know. But you couldn't teach me what it means to actually rule Kaha'an. Not from inside these walls." When he asks if she now knows enough, she replies: "Now I know enough to try."
+Elara's response is respectful but unyielding: "You taught me strategy, combat, politics. Everything an empress should know. But you couldn't teach me what it means to actually rule Balisha. Not from inside these walls." When he asks if she now knows enough, she replies: "Now I know enough to try."
 
 Something shifts in Vesk's expression — "not quite approval, but acceptance. Recognition that the girl he'd spent two decades protecting had become someone capable of making her own choices." In Chapter 25, when he calls her "Empress" for the first time, his expression is "something closer to joy." His life's purpose finally fulfilled.
 

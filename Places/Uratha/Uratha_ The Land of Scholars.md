@@ -6,7 +6,7 @@ What began as a single Imperial Academy in the Balishan Empire evolved into an e
 
 The foundation of Uratha's power and legitimacy lies in the Scholar's Crown, a semi-intelligent divine artifact originally loaned to the academy by an ancient Balishan emperor. This remarkable relic serves as both symbol and substance of Uratha's intellectual heritage, granting its bearer (if found worthy) the accumulated knowledge, skills, and abilities of all worthy individuals who have worn it before. Worthiness is determined by the Crown itself based on whether the wearer contributes novel knowledge to it.
 
-For centuries, the Crown marked the Imperial Academy Chancellor (and later, the Scholar-Kings of Uratha) as legitimate heirs to an academic legacy. When the empire collapsed, Uratha refused to return the Scholar's Crown to Kaha'an, creating a bitter feud that continues to this day. Uratha's continued possession of the Crown is justified, in their eyes, by their superior stewardship of knowledge. They dismiss Kaha'an's claims with intellectual hauteur, seeing themselves as the true custodians of Elvandar's intellectual heritage.
+For centuries, the Crown marked the Imperial Academy Chancellor (and later, the Scholar-Kings of Uratha) as legitimate heirs to an academic legacy. When the empire collapsed, Uratha refused to return the Scholar's Crown to Balisha, creating a bitter feud that continues to this day. Uratha's continued possession of the Crown is justified, in their eyes, by their superior stewardship of knowledge. They dismiss Balisha's claims with intellectual hauteur, seeing themselves as the true custodians of Elvandar's intellectual heritage.
 
 ### The Silent Crown: Uratha's Darkest Secret
 
@@ -94,7 +94,7 @@ Where it excels is precisely where a scholarly culture would be expected to exce
 
 What the Ruby Tower produces less reliably is the other kind of soldier — the kind forged by a lifetime of practice rather than study, capable of fluid battlefield adaptability and the particular morale that comes from a warrior culture rather than an academic one. Uratha's officers plan campaigns well. They execute them adequately. Against Terinok, that gap would be punishing. Against most opponents, it is manageable.
 
-The Compact War's opening strike targeted Uratha specifically, and this is worth noting: Gunastran and the Erulian Principality are not fools. They hit Uratha first not because they considered it a soft target, but because the Tripartite Alliance as a combined force — Uratha's technological and magical sophistication, Kaha'an's political and economic weight, Terinok's martial excellence — is a coalition that needs to be disrupted before it can coordinate. The strike is a strategic compliment, of a sort.
+The Compact War's opening strike targeted Uratha specifically, and this is worth noting: Gunastran and the Erulian Principality are not fools. They hit Uratha first not because they considered it a soft target, but because the Tripartite Alliance as a combined force — Uratha's technological and magical sophistication, Balisha's political and economic weight, Terinok's martial excellence — is a coalition that needs to be disrupted before it can coordinate. The strike is a strategic compliment, of a sort.
 
 That the Ruby Tower's limitations were then partly absorbed by Terinok's presence in the alliance is both true and embarrassing. Uratha's military college was shored up in the field by the nation its scholars condescend to most openly. The War Provost, Kandor Belus, has been warning about the preparedness gap for years. The Council listens politely and returns to its position papers.
 
@@ -368,11 +368,11 @@ While not as industrially focused as Gunastran, Uratha has developed significant
 
 ## International Relations
 
-### Relations with Kaha'an (Greed)
+### Relations with Balisha (Greed)
 - **Diplomatic Status**: Severely strained
-- **Primary Tension**: Dispute over the Scholar's Crown, which Kaha'an claims as imperial property
-- **Cultural Perception**: Uratha views Kaha'an's mercantile focus as shallow and materialistic
-- **Current Issues**: Increasing tensions over Kaha'an's renewed demands for the Crown's return; the truth about the Crown's silence would be devastating if revealed
+- **Primary Tension**: Dispute over the Scholar's Crown, which Balisha claims as imperial property
+- **Cultural Perception**: Uratha views Balisha's mercantile focus as shallow and materialistic
+- **Current Issues**: Increasing tensions over Balisha's renewed demands for the Crown's return; the truth about the Crown's silence would be devastating if revealed
 
 ### Relations with Silaris (Lust)
 - **Diplomatic Status**: Friendly rivalry
@@ -381,7 +381,7 @@ While not as industrially focused as Gunastran, Uratha has developed significant
 
 ### Relations with Terinok (Wrath)
 - **Diplomatic Status**: Cautious mutual respect, formalized into military alliance during the Compact War
-- **Practical Cooperation**: Terinok warriors occasionally protect Urathan expeditions into dangerous regions — a mercenary relationship that evolves into something more significant when both join the Tripartite Alliance alongside Kaha'an
+- **Practical Cooperation**: Terinok warriors occasionally protect Urathan expeditions into dangerous regions — a mercenary relationship that evolves into something more significant when both join the Tripartite Alliance alongside Balisha
 - **Compact War**: Uratha's inclusion in the Tripartite Alliance is, militarily speaking, enormously improved by Terinok's presence. Uratha's Ruby Tower is not fully equipped to fight a land war; Terinok is. The alliance is uncomfortable culturally but strategically sound — Uratha provides the knowledge and Lathion-derived technological advantage, Terinok provides the martial force the Ruby Tower's theorists cannot
 - **Cultural Disconnect**: Scholarly works on combat theory are largely ignored by Terinok's practical warriors; Urathan analysis of Terinok tactics is extensive but frequently misses cultural context. Terinok finds Uratha's academic approach to warfare faintly absurd. Uratha finds Terinok's disdain for theory frustrating but has the good sense not to say so during a war
 - **Bondage Dynamics**: Deep mutual disdain — Terinok views the bakarn system as weakness disguised as philosophy; Uratha views Terinok's slave system as barbaric and intellectually wasteful. Neither is entirely wrong about the other.

@@ -8,15 +8,15 @@ Once merely a province governed by a distant relative of the emperor who held th
 
 For approximately 80 years after the empire's collapse, the Erulian Principality existed in relative obscurity. While maintaining theoretical claims to imperial connection, the pre-Rending principality was content to manage its abundant resources and maintain its autonomy, with only a simmering undercurrent of jealousy toward Kaha'an's more direct imperial lineage.
 
-The Rending changed everything. The catastrophic magical event that transformed Kaha'an's surroundings into desert and presumably ended the imperial line created a power vacuum that Prince Kalden Erulius, then a young ruler newly ascended to the principality's throne, recognized as a once-in-a-lifetime opportunity. What had been a dormant claim to imperial legitimacy suddenly became viable—if not to claim the Ruby Throne directly, then at least to position Erulius as the most legitimate heir to imperial tradition.
+The Rending changed everything. The catastrophic magical event that transformed Balisha's surroundings into desert and presumably ended the imperial line created a power vacuum that Prince Kalden Erulius, then a young ruler newly ascended to the principality's throne, recognized as a once-in-a-lifetime opportunity. What had been a dormant claim to imperial legitimacy suddenly became viable—if not to claim the Ruby Throne directly, then at least to position Erulius as the most legitimate heir to imperial tradition.
 
-Prince Kalden transformed this opportunity into an organizing principle for his realm. The previously modest provincial capital rapidly expanded, imperial traditions were revived and adapted, and Erulian diplomatic efforts became increasingly focused on undermining Kaha'an's claims while building a coalition of supporters. The principality's abundant resources, previously dedicated to comfortable self-sufficiency, were redirected toward this greater ambition.
+Prince Kalden transformed this opportunity into an organizing principle for his realm. The previously modest provincial capital rapidly expanded, imperial traditions were revived and adapted, and Erulian diplomatic efforts became increasingly focused on undermining Balisha's claims while building a coalition of supporters. The principality's abundant resources, previously dedicated to comfortable self-sufficiency, were redirected toward this greater ambition.
 
 This transformation was not universally welcomed within Erulius. Some of the original noble houses counseled moderation, suggesting that the principality would be better served by developing its considerable advantages rather than competing for imperial legitimacy. Their voices, however, were increasingly marginalized as Prince Kalden consolidated power and the Erulian population embraced the intoxicating vision of reclaiming imperial glory.
 
 ## Geography and Environment
 
-The Erulian Principality occupies a geographically advantageous position within Elvandar, bordered by mountains to the north that separate it from Terinok and rolling hills to the south that gradually transition into the Vartonne plains. The eastern border features dense forests that provide natural protection from Gunastran's industrial expansion, while the western regions contain disputed territories with Kaha'an.
+The Erulian Principality occupies a geographically advantageous position within Elvandar, bordered by mountains to the north that separate it from Terinok and rolling hills to the south that gradually transition into the Vartonne plains. The eastern border features dense forests that provide natural protection from Gunastran's industrial expansion, while the western regions contain disputed territories with Balisha.
 
 The landscape is remarkably diverse:
 
@@ -39,7 +39,7 @@ The Erulian government operates as a feudal principality with imperial adaptatio
     
 - **The Aspirant Guard**: An elite military force personally loyal to Prince Kalden, equipped with the finest Gunastran weapons and trained by Terinok advisors. Formed within the last decade, the Guard embodies the principality's new martial aspirations.
 
-The capital city, Eruliath, was once a modest provincial center but has been aggressively expanded over the past two decades to create the impression of imperial grandeur. New construction deliberately mimics the architectural styles of both Kaha'an and Vartonne, often with exaggerated elements to suggest superiority.
+The capital city, Eruliath, was once a modest provincial center but has been aggressively expanded over the past two decades to create the impression of imperial grandeur. New construction deliberately mimics the architectural styles of both Balisha and Vartonne, often with exaggerated elements to suggest superiority.
 
 ## Economy and Resources
 
@@ -61,7 +61,7 @@ Erulius maintains a complex social hierarchy that combines elements of imperial 
 - **Provincial Freeholders**: Independent farmers and merchants who maintain their own lands and businesses, taxed heavily but still prosperous  
 - **Mining Conscripts**: A bound labor force that works in the northern mines under harsh conditions
 
-The mining conscription system represents Erulius' form of bondage—not traditional slavery, but a form of indentured servitude with imperial justifications. Criminals, debtors, and political dissidents are sentenced to mine work for terms ranging from five years to life. While technically not inheritable, families of conscripts often fall into debt themselves, creating de facto generational servitude. The Principality presents this system as more "humane" than Kaha'an's slavery or Terinok's practices, pointing to the possibility of sentence reduction through exemplary service.
+The mining conscription system represents Erulius' form of bondage—not traditional slavery, but a form of indentured servitude with imperial justifications. Criminals, debtors, and political dissidents are sentenced to mine work for terms ranging from five years to life. While technically not inheritable, families of conscripts often fall into debt themselves, creating de facto generational servitude. The Principality presents this system as more "humane" than Balisha's slavery or Terinok's practices, pointing to the possibility of sentence reduction through exemplary service.
 
 This labor system is justified through elaborate legal theory claiming it continues ancient imperial punitive practices, though historians from Uratha quietly note that the actual imperial system bore little resemblance to current Erulian practices.
 
@@ -130,7 +130,7 @@ The Principality faces several critical challenges:
 - **Resource Exploitation**: The intensive mining operations are creating environmental problems in the northern regions that may prove unsustainable  
 - **The Princess Problem**: Rumors of a surviving direct heir to the imperial throne represent an existential threat to Erulian claims of imperial connection
 
-Additionally, the recent strengthening of ties with Terinok has created internal divisions, with some counselors advocating for a more balanced diplomatic approach while others push for even stronger military alliance against Kaha'an.
+Additionally, the recent strengthening of ties with Terinok has created internal divisions, with some counselors advocating for a more balanced diplomatic approach while others push for even stronger military alliance against Balisha.
 
 ## The Imperial Museum
 
@@ -147,13 +147,13 @@ The museum has become a key diplomatic tool, with foreign dignitaries invariably
 
 The Erulian Principality maintains complex relationships with the other successor states:
 
-### With Kaha'an (Greed)
+### With Balisha (Greed)
 
-Their diplomatic status with Kaha'an is one of thinly veiled hostility. Both claim to be the true heir to the Balishan Empire, creating an imperial rivalry. The Principality uses its natural resources to challenge Kaha'an's trade dominance and forms alliances with Kaha'an's enemies while maintaining diplomatic protocols. Currently, there are increasing proxy conflicts in border regions between them.
+Their diplomatic status with Balisha is one of thinly veiled hostility. Both claim to be the true heir to the Balishan Empire, creating an imperial rivalry. The Principality uses its natural resources to challenge Balisha's trade dominance and forms alliances with Balisha's enemies while maintaining diplomatic protocols. Currently, there are increasing proxy conflicts in border regions between them.
 
 ### With Terinok (Wrath)
 
-The Erulian Principality maintains a strategic alliance with Terinok. They receive military training and occasional support against Kaha'an, while providing resources in exchange for martial expertise. Their current objective is strengthening ties without becoming dependent, though cultural differences create frequent misunderstandings between them.
+The Erulian Principality maintains a strategic alliance with Terinok. They receive military training and occasional support against Balisha, while providing resources in exchange for martial expertise. Their current objective is strengthening ties without becoming dependent, though cultural differences create frequent misunderstandings between them.
 
 ### With Silaris (Lust)
 
@@ -173,7 +173,7 @@ The Erulian Principality has a mutually beneficial partnership with Gunastran. T
 
 ## The Principality's Vision
 
-Prince Kalden's ultimate ambition goes beyond merely claiming connection to the imperial past—he envisions a reunified Elvandar under Erulian leadership. Unlike Kaha'an's greed-driven ambitions or Vartonne's nostalgia, the Erulian vision combines genuine administrative competence with an envy-fueled determination to prove their worthiness.
+Prince Kalden's ultimate ambition goes beyond merely claiming connection to the imperial past—he envisions a reunified Elvandar under Erulian leadership. Unlike Balisha's greed-driven ambitions or Vartonne's nostalgia, the Erulian vision combines genuine administrative competence with an envy-fueled determination to prove their worthiness.
 
 This vision manifests in practical policies:
 

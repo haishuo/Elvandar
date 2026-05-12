@@ -54,7 +54,7 @@
 
 ---
 
-**Rosik's first direct encounter:** The reader finally meets the man behind the reputation. Critical that he reads as *competent*, not cartoonishly villainous. He genuinely believes he's the best person to lead Kaha'an. He has evidence. His frustration is real — the Empress is rejecting functional governance for ideological purity, and people are dying from the paralysis. He's wrong about the bigger picture. He's not wrong about the immediate crisis. The reader should feel the grey.
+**Rosik's first direct encounter:** The reader finally meets the man behind the reputation. Critical that he reads as *competent*, not cartoonishly villainous. He genuinely believes he's the best person to lead Balisha. He has evidence. His frustration is real — the Empress is rejecting functional governance for ideological purity, and people are dying from the paralysis. He's wrong about the bigger picture. He's not wrong about the immediate crisis. The reader should feel the grey.
 
 **Melina attachment work:** She's present for the confrontation, navigating between father and brother — trying to soften, trying to mediate, failing at both. The reader sees her trapped in the role she's always played: the translator between two men who have made themselves irreconcilable. Her exhaustion is deeper here, in her father's house, where the weight of both relationships presses down at once.
 

@@ -2,7 +2,7 @@
 
 ## Origins and Philosophy
 
-Within Terinok's already martial society exists a canton so devoted to warfare that even other warriors view them with a mixture of respect and unease. They call themselves the *Krev'han Thuum* — the Blood Sworn — though outsiders often refer to them simply as "the Zealots" or, more commonly, "the Red Mountain." Their canton occupies the slopes and high valleys surrounding Mount Karagh, an active volcano that dominates the Sentinel Mountains on Terinok's southern border with Uratha. The mountain is officially named for an ancient warlord; in common usage, everyone calls it the Red Mountain, a name earned through both the volcanic stone that bleeds from its flanks and the extraordinary amount of blood spilled upon its slopes over the centuries.
+Within Terinok's already martial society exists a canton so devoted to warfare that even other warriors view them with a mixture of respect and unease. They call themselves the *Krev'han Thuum* — the Blood Sworn — though outsiders often refer to them simply as "the Zealots" or, more commonly, "the Red Mountain." Their canton occupies the slopes and high valleys surrounding Mount Karagh, an active volcano that dominates the upper Sentinel Mountains on Terinok's eastern border with Gunastran — at the convergence where the Sentinels meet the Frost Spine in the high north. The mountain is officially named for an ancient warlord; in common usage, everyone calls it the Red Mountain, a name earned through both the volcanic stone that bleeds from its flanks and the extraordinary amount of blood spilled upon its slopes over the centuries.
 
 The Bloodsworn predate the Balishan Empire. Their ancestor clans refused imperial integration even when the rest of Terinok served as the empire's military backbone, retreating to the Red Mountain and continuing their practices undisturbed. When the confederation formed, they were recognized as a canton — not because the other eleven wanted them as peers, exactly, but because denying them recognition would have meant fighting them, and no one wanted to do that.
 
@@ -45,7 +45,7 @@ Their Voice at the War Table is traditionally the most formally dressed represen
 
 The other eleven cantons maintain a careful, mutually agreed policy toward the Bloodsworn that no one writes down officially:
 
-- Bloodsworn territory is positioned at the most volatile border regions, where skirmishes with Kaha'an are frequent and the Bloodsworn's need for combat is reliably met by geography
+- Bloodsworn territory is positioned at the most volatile border regions, where skirmishes with Balisha are frequent and the Bloodsworn's need for combat is reliably met by geography
 - When confederation forces assemble for major campaigns, Bloodsworn contingents are integrated into the vanguard, given the most dangerous assignments, and kept physically separated from other canton forces during downtime
 - After major battles with high enemy casualties, Bloodsworn units are immediately dispersed to different sectors rather than quartered together
 - When external conflicts go quiet for extended periods, neighboring cantons have been known to arrange "training disputes" with each other in territory adjacent to Bloodsworn lands — incidents that escalate just enough to require the Bloodsworn to "intervene," providing the violence they need without anything formally escalating
@@ -306,7 +306,7 @@ In practice, the Vel'thuum are a small and particular population. Children raise
 
 They arrive, typically, at the edges of the gray wolf territories or the nearest Terinok canton settlements, which in the Sentinel range means Shizan or Sundrak. Both communities have developed informal protocols for receiving them. The gray wolves' response is typically practical: if you survived the descent, you're useful; we will not ask what you chose, and you will not volunteer it unless asked. The Terinok warrior cantons receive them as free persons of demonstrated capability, though the Bloodsworn training and the circumstances of their arrival are generally known and noted.
 
-The Vel'thuum rarely speak of what they left. Some integrate fully into Terinok canton life; others remain in a permanent in-between, recognized everywhere and fully belonging nowhere. A few have made their way further — to Kaha'an, to Uratha — carrying knowledge of Red Mountain's interior that no other outsiders possess.
+The Vel'thuum rarely speak of what they left. Some integrate fully into Terinok canton life; others remain in a permanent in-between, recognized everywhere and fully belonging nowhere. A few have made their way further — to Balisha, to Uratha — carrying knowledge of Red Mountain's interior that no other outsiders possess.
 
 What the Vel'thuum privately think about the Final Chant varies. Some left precisely because they did not believe the world was ending and found the belief oppressive. Some left because they believed it entirely and found the inevitability of it more than they could carry at fourteen. Some simply could not sustain the absolute certainty required, and had the self-knowledge to say so.
 

@@ -1,0 +1,412 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif">
+  <!-- ============================================================
+       ELVANDAR — Reference Map
+       Clean political/reference style. Color-coded regions, modern
+       typography, organized legend, distance scale.
+       Geometry matches working sketch v6.
+       ============================================================ -->
+
+  <defs>
+    <!-- subtle paper-like gradient on the sea -->
+    <linearGradient id="seaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d3e0e8"/>
+      <stop offset="100%" stop-color="#c2d3dd"/>
+    </linearGradient>
+
+    <!-- continent clip so region tints stay on land -->
+    <clipPath id="continent">
+      <path d="
+          M 150 220
+          L 130 200 L 115 165 L 100 130 L 95 95 L 110 75 L 145 65
+          L 200 60 L 280 55 L 380 52 L 500 50 L 620 52 L 740 55
+          L 850 60 L 940 70 L 1010 90 L 1055 120 L 1075 155 L 1070 195
+          L 1050 230 L 1020 270 L 1000 280
+          L 1020 360 L 1010 440 L 990 510
+          L 970 560 L 940 595 L 900 615
+          L 870 625 L 840 660 L 825 715 L 850 760 L 870 800
+          L 855 825 L 815 815 L 780 775 L 755 720 L 740 670
+          L 710 645 L 670 635 L 630 622 L 590 612 L 545 608 L 500 612
+          L 460 620 L 420 638 L 380 670 L 340 700 L 305 695 L 280 660
+          L 240 615 L 195 560 L 165 490 L 145 410 L 140 330 L 150 220
+          Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- ============ SEA ============ -->
+  <rect width="1200" height="900" fill="url(#seaGrad)"/>
+
+  <!-- ============ LAND base ============ -->
+  <path d="
+      M 150 220
+      L 130 200 L 115 165 L 100 130 L 95 95 L 110 75 L 145 65
+      L 200 60 L 280 55 L 380 52 L 500 50 L 620 52 L 740 55
+      L 850 60 L 940 70 L 1010 90 L 1055 120 L 1075 155 L 1070 195
+      L 1050 230 L 1020 270 L 1000 280
+      L 1020 360 L 1010 440 L 990 510
+      L 970 560 L 940 595 L 900 615
+      L 870 625 L 840 660 L 825 715 L 850 760 L 870 800
+      L 855 825 L 815 815 L 780 775 L 755 720 L 740 670
+      L 710 645 L 670 635 L 630 622 L 590 612 L 545 608 L 500 612
+      L 460 620 L 420 638 L 380 670 L 340 700 L 305 695 L 280 660
+      L 240 615 L 195 560 L 165 490 L 145 410 L 140 330 L 150 220
+      Z"
+      fill="#f0e8d2" stroke="#3a3a3a" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- ============ REGION FILLS (color-coded, clipped to continent) ============ -->
+  <g clip-path="url(#continent)" opacity="0.85">
+    <!-- Frozen North (icy blue) -->
+    <path d="M 50 0 L 1200 0 L 1200 215 L 50 215 Z" fill="#d3e3ec"/>
+
+    <!-- Terinok (warm rust — wrath) -->
+    <path d="M 50 215 L 525 215 L 525 340 Q 380 350 175 340 L 50 340 Z"
+          fill="#e8c6b8"/>
+
+    <!-- Gunastran (smoke gray — gluttony) -->
+    <path d="M 555 215 L 1200 215 L 1200 340 Q 950 335 760 340 Q 600 340 555 330 Z"
+          fill="#d2cdc2"/>
+
+    <!-- Vartonne (faded gold — sloth) -->
+    <path d="M 50 340 Q 220 350 320 348 Q 470 345 525 340 L 525 510
+             L 460 525 Q 430 580 460 615 L 420 638 L 380 670 L 340 700
+             L 305 695 L 280 660 L 240 615 L 195 560 L 165 490 L 145 410
+             L 140 340 L 50 340 Z"
+          fill="#e8d8a8"/>
+
+    <!-- Uratha (lavender — pride) -->
+    <path d="M 555 340 Q 760 345 950 340 L 1010 380 L 1010 460
+             Q 780 462 620 450 L 555 430 Z"
+          fill="#d8d0e0"/>
+
+    <!-- Erulius (green — envy) -->
+    <path d="M 555 430 Q 780 462 1010 460 L 1020 510 L 990 555 L 940 595
+             L 900 615 L 870 625 L 840 660 L 750 685 L 720 670
+             L 660 660 L 640 620 L 635 540 L 555 540 Z"
+          fill="#cfdcc8"/>
+
+    <!-- Silaris (rose — lust) -->
+    <path d="M 750 685 Q 790 715 825 745 L 850 760 L 870 800 L 855 825
+             L 815 815 L 780 775 L 755 720 L 740 670 L 750 685 Z"
+          fill="#e8d2d6"/>
+
+    <!-- Balishan Desert (tan — Kaha'an / Greed) -->
+    <path d="M 455 525 Q 430 580 460 615 L 500 612 L 545 608 L 590 612 L 635 620
+             Q 660 580 640 540 Q 600 510 540 510 Q 480 508 455 525 Z"
+          fill="#e6cf9a"/>
+  </g>
+
+  <!-- ============ FROST SPINE MTS (W-E boundary of Frozen North) ============ -->
+  <g stroke="#3a3a3a" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 160 220 L 180 195 L 200 220 L 215 188 L 235 215 L 252 195 L 274 222
+             L 292 185 L 314 215 L 332 192 L 354 222 L 372 188 L 394 215
+             L 412 195 L 434 222 L 452 185 L 474 215 L 492 192 L 514 220"/>
+    <path d="M 565 220 L 588 192 L 611 220 L 628 185 L 651 215 L 668 195 L 691 222
+             L 708 188 L 731 215 L 748 192 L 771 222 L 788 185 L 811 215
+             L 828 195 L 851 222 L 868 188 L 891 215 L 908 192 L 931 222
+             L 948 190 L 971 218"/>
+  </g>
+
+  <!-- ============ SENTINEL MTS (central N-S range) ============ -->
+  <g stroke="#3a3a3a" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 520 215 L 535 195 L 550 215"/>
+    <path d="M 525 320 L 540 300 L 555 320"/>
+    <path d="M 520 355 L 535 335 L 550 355"/>
+    <path d="M 525 390 L 540 370 L 555 390"/>
+    <path d="M 520 425 L 535 405 L 550 425"/>
+    <path d="M 525 460 L 540 440 L 555 460"/>
+    <path d="M 520 495 L 535 475 L 550 495"/>
+  </g>
+
+  <!-- Mt Karagh (volcano) -->
+  <g>
+    <path d="M 515 275 L 540 230 L 565 275 Z" fill="#a83232" stroke="#3a3a3a" stroke-width="1.8"/>
+    <path d="M 528 250 L 540 240 L 552 250 L 545 260 L 535 260 Z" fill="#f0e8d2"/>
+    <path d="M 540 230 q -8 -15 4 -25 q 12 -8 0 -22 q -10 -10 6 -22"
+          fill="none" stroke="#888" stroke-width="1.3" opacity="0.55"/>
+  </g>
+
+  <!-- Other ranges -->
+  <g stroke="#3a3a3a" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Smokepeaks -->
+    <path d="M 720 270 L 735 252 L 750 270"/><path d="M 745 285 L 760 267 L 775 285"/>
+    <path d="M 770 270 L 785 252 L 800 270"/><path d="M 795 285 L 810 267 L 825 285"/>
+    <!-- Ironwall -->
+    <path d="M 720 380 L 733 364 L 746 380"/><path d="M 742 392 L 755 376 L 768 392"/>
+    <path d="M 765 380 L 778 364 L 791 380"/>
+    <!-- Gemspire -->
+    <path d="M 850 395 L 862 380 L 874 395"/><path d="M 870 405 L 882 390 L 894 405"/>
+    <path d="M 895 395 L 907 380 L 919 395"/>
+    <!-- Lyric -->
+    <path d="M 760 660 L 770 647 L 780 660"/><path d="M 778 672 L 788 659 L 798 672"/>
+    <path d="M 798 660 L 808 647 L 818 660"/>
+  </g>
+
+  <!-- ============ RIVERS ============ -->
+  <g fill="none" stroke="#3a6a8a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 380 200 Q 360 260 365 320 Q 380 360 410 380"/>
+    <path d="M 215 270 Q 200 360 225 450 Q 240 510 255 555"/>
+    <path d="M 700 220 Q 690 280 695 330 Q 700 360 720 395"/>
+    <path d="M 850 685 Q 858 720 860 760"/>
+  </g>
+
+  <!-- ============ FOREST ============ -->
+  <g fill="#3e5b3a" opacity="0.6">
+    <circle cx="810" cy="755" r="5"/><circle cx="825" cy="770" r="5"/>
+    <circle cx="800" cy="775" r="5"/><circle cx="815" cy="790" r="5"/>
+    <circle cx="830" cy="800" r="5"/><circle cx="800" cy="800" r="5"/>
+  </g>
+
+  <!-- ============ DESERT TEXTURE ============ -->
+  <g fill="#9d7d3f" opacity="0.5">
+    <circle cx="475" cy="525" r="1.6"/><circle cx="510" cy="520" r="1.6"/>
+    <circle cx="545" cy="520" r="1.6"/><circle cx="580" cy="522" r="1.6"/>
+    <circle cx="615" cy="528" r="1.6"/><circle cx="495" cy="540" r="1.6"/>
+    <circle cx="535" cy="538" r="1.6"/><circle cx="575" cy="540" r="1.6"/>
+    <circle cx="455" cy="555" r="1.6"/><circle cx="445" cy="585" r="1.6"/>
+    <circle cx="455" cy="610" r="1.6"/>
+    <circle cx="625" cy="555" r="1.6"/><circle cx="635" cy="585" r="1.6"/>
+    <circle cx="625" cy="610" r="1.6"/>
+  </g>
+  <!-- Gray Wastes -->
+  <path d="M 500 540 q 18 -6 36 0 q 8 9 -5 16 q -20 5 -30 -3 q -8 -7 -1 -13 Z"
+        fill="#888" stroke="#444" stroke-width="1" stroke-dasharray="3 3" opacity="0.55"/>
+
+  <!-- ============ REGION BORDERS (drawn over fills) ============ -->
+  <g fill="none" stroke="#5a4a2a" stroke-width="1.4" stroke-linejoin="round">
+    <path d="M 175 330 Q 320 345 470 330"/>
+    <path d="M 590 320 Q 760 335 950 320"/>
+    <path d="M 620 440 Q 780 455 970 450"/>
+    <path d="M 750 685 Q 790 715 825 745"/>
+    <path d="M 455 525 Q 430 580 460 615 L 500 612 L 545 608 L 590 612 L 635 620
+             Q 660 580 640 540 Q 600 510 540 510 Q 480 508 455 525 Z"
+          stroke-dasharray="6 4"/>
+  </g>
+
+  <!-- ============ THE GOLDEN PATH ============ -->
+  <path d="M 200 615 Q 320 650 410 625 Q 480 605 545 600 Q 640 600 740 615 Q 850 635 950 600"
+        fill="none" stroke="#b8860b" stroke-width="2.6"
+        stroke-dasharray="3 6" stroke-linecap="round"/>
+
+  <!-- ============ LAT/LONG GRID (very subtle) ============ -->
+  <g stroke="#7a6a4a" stroke-width="0.4" opacity="0.18" fill="none">
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="350" x2="1200" y2="350"/>
+    <line x1="0" y1="500" x2="1200" y2="500"/>
+    <line x1="0" y1="650" x2="1200" y2="650"/>
+    <line x1="0" y1="800" x2="1200" y2="800"/>
+    <line x1="200" y1="0" x2="200" y2="900"/>
+    <line x1="400" y1="0" x2="400" y2="900"/>
+    <line x1="600" y1="0" x2="600" y2="900"/>
+    <line x1="800" y1="0" x2="800" y2="900"/>
+    <line x1="1000" y1="0" x2="1000" y2="900"/>
+  </g>
+
+  <!-- ============ CITIES ============ -->
+  <g font-size="12" fill="#1a1a1a" font-weight="500">
+    <!-- Capitals (filled square + black ring) -->
+    <g>
+      <rect x="540" y="595" width="10" height="10" fill="#1a1a1a"/>
+      <text x="558" y="604" font-size="14" font-weight="700">Kaha'an</text>
+    </g>
+    <g>
+      <rect x="345" y="290" width="10" height="10" fill="#1a1a1a"/>
+      <text x="362" y="299">Takama</text>
+    </g>
+    <g>
+      <rect x="755" y="300" width="10" height="10" fill="#1a1a1a"/>
+      <text x="772" y="309">Mechanus</text>
+    </g>
+    <g>
+      <rect x="815" y="405" width="10" height="10" fill="#1a1a1a"/>
+      <text x="832" y="414">The Ivory Tower</text>
+    </g>
+    <g>
+      <rect x="895" y="535" width="10" height="10" fill="#1a1a1a"/>
+      <text x="912" y="544">Eruliath</text>
+    </g>
+    <g>
+      <rect x="235" y="460" width="10" height="10" fill="#1a1a1a"/>
+      <text x="252" y="469">Vartonne</text>
+    </g>
+    <g>
+      <rect x="825" y="775" width="10" height="10" fill="#1a1a1a"/>
+      <text x="842" y="784">Silaris</text>
+    </g>
+
+    <!-- Major cities (open circle) -->
+    <g font-weight="400">
+      <circle cx="965" cy="525" r="3.5" fill="white" stroke="#1a1a1a" stroke-width="1.6"/>
+      <text x="958" y="518" font-size="11" text-anchor="end">Port Valen</text>
+      <circle cx="880" cy="475" r="3.5" fill="white" stroke="#1a1a1a" stroke-width="1.6"/>
+      <text x="888" y="478" font-size="11">Northcrest</text>
+      <circle cx="430" cy="345" r="3.5" fill="white" stroke="#1a1a1a" stroke-width="1.6"/>
+      <text x="438" y="348" font-size="11">Shizan</text>
+      <circle cx="900" cy="390" r="3.5" fill="white" stroke="#1a1a1a" stroke-width="1.6"/>
+      <text x="908" y="393" font-size="11">Lumina Vale</text>
+      <circle cx="975" cy="355" r="3.5" fill="white" stroke="#1a1a1a" stroke-width="1.6"/>
+      <text x="970" y="350" font-size="11" text-anchor="end">Empirica</text>
+    </g>
+  </g>
+
+  <!-- ============ LABELS ============ -->
+  <g fill="#1a1a1a" text-anchor="middle">
+    <!-- Region labels (uppercase tracking, sans-serif, color-tinted) -->
+    <text x="540" y="125" font-size="22" letter-spacing="8" font-weight="600" fill="#2a4a5a">THE FROZEN NORTH</text>
+    <text x="540" y="142" font-size="9" letter-spacing="3" fill="#3a5a78">tundra · taiga · ice</text>
+
+    <text x="320" y="265" font-size="18" letter-spacing="6" font-weight="600" fill="#7a3a2a">TERINOK</text>
+    <text x="780" y="265" font-size="18" letter-spacing="6" font-weight="600" fill="#5a564a">GUNASTRAN</text>
+    <text x="200" y="395" font-size="16" letter-spacing="5" font-weight="600" fill="#7a6228">VARTONNE</text>
+    <text x="870" y="365" font-size="16" letter-spacing="5" font-weight="600" fill="#5a508a">URATHA</text>
+    <text x="870" y="495" font-size="16" letter-spacing="5" font-weight="600" fill="#3a6a3a">ERULIUS</text>
+    <text x="830" y="820" font-size="13" letter-spacing="4" font-weight="600" fill="#8a4a5a">SILARIS</text>
+
+    <!-- Mt Karagh -->
+    <text x="540" y="220" font-size="10" font-weight="700" fill="#7a1d1d">MT. KARAGH</text>
+    <text x="540" y="231" font-size="8" fill="#7a1d1d">(Red Mountain)</text>
+
+    <!-- Mountain ranges -->
+    <text x="500" y="430" font-size="10" fill="#444" font-weight="500"
+          transform="rotate(-90 500 430)">SENTINEL MOUNTAINS</text>
+    <text x="395" y="247" font-size="10" fill="#3a5a78" font-weight="500">FROST SPINE MOUNTAINS</text>
+    <text x="770" y="248" font-size="9" fill="#444">Smokepeaks</text>
+    <text x="755" y="358" font-size="9" fill="#444">Ironwall Mts</text>
+    <text x="882" y="375" font-size="9" fill="#444">Gemspire Peaks</text>
+    <text x="790" y="640" font-size="9" fill="#444">Lyric Mts</text>
+
+    <!-- Rivers -->
+    <text x="358" y="350" font-size="9" fill="#3a6a8a" font-style="italic">Blood R.</text>
+    <text x="200" y="430" font-size="9" fill="#3a6a8a" font-style="italic">Imperial Vein</text>
+    <text x="685" y="280" font-size="9" fill="#3a6a8a" font-style="italic">Scholar's R.</text>
+    <text x="775" y="685" font-size="9" fill="#3a6a8a" font-style="italic">Cerulean R.</text>
+
+    <!-- Forest -->
+    <text x="780" y="785" font-size="9" fill="#3e5b3a" font-style="italic">Whispering Forest</text>
+
+    <!-- Balishan -->
+    <text x="700" y="600" font-size="12" font-style="italic" fill="#5a4a1a">Balishan Desert</text>
+    <text x="518" y="568" font-size="8" fill="#444" font-style="italic">Gray Wastes</text>
+
+    <!-- Golden Path -->
+    <text x="430" y="613" font-size="10" fill="#8a6508" font-style="italic" font-weight="600">The Golden Path</text>
+
+    <!-- Oceans -->
+    <text x="1100" y="450" font-size="16" letter-spacing="4" fill="#3a6a8a" font-style="italic">Azure Sea</text>
+    <text x="600" y="870" font-size="14" letter-spacing="4" fill="#3a6a8a" font-style="italic">Azure Sea</text>
+    <text x="120" y="500" font-size="14" letter-spacing="4" fill="#3a6a8a" font-style="italic" text-anchor="start">Western Sea</text>
+    <text x="320" y="32" font-size="13" letter-spacing="4" fill="#3a5a78" font-style="italic" text-anchor="start">Northern Ice Sea</text>
+  </g>
+
+  <!-- ============ TITLE BLOCK ============ -->
+  <g>
+    <text x="60" y="55" font-size="32" font-weight="700" fill="#1a1a1a" letter-spacing="4">ELVANDAR</text>
+    <text x="60" y="75" font-size="11" letter-spacing="3" fill="#5a4a2a">REFERENCE MAP · POST-RENDING ERA</text>
+    <line x1="60" y1="85" x2="280" y2="85" stroke="#5a4a2a" stroke-width="0.5"/>
+  </g>
+
+  <!-- ============ COMPASS ROSE ============ -->
+  <g transform="translate(1100,800)" stroke="#3a3a3a" fill="#3a3a3a">
+    <circle r="26" fill="white" stroke-width="1"/>
+    <circle r="20" fill="none" stroke-width="0.5"/>
+    <path d="M 0 -22 L 5 0 L 0 22 L -5 0 Z" fill="#3a3a3a"/>
+    <path d="M -22 0 L 0 -5 L 22 0 L 0 5 Z" fill="#bbb" stroke="#3a3a3a" stroke-width="0.6"/>
+    <text x="0" y="-30" font-size="10" text-anchor="middle" fill="#3a3a3a" font-weight="600">N</text>
+    <text x="32" y="3" font-size="9" fill="#3a3a3a">E</text>
+    <text x="-32" y="3" font-size="9" text-anchor="end" fill="#3a3a3a">W</text>
+    <text x="0" y="40" font-size="9" text-anchor="middle" fill="#3a3a3a">S</text>
+  </g>
+
+  <!-- ============ DISTANCE SCALE ============ -->
+  <g transform="translate(900,840)" font-size="9" fill="#3a3a3a">
+    <text x="0" y="-6" font-weight="600">SCALE</text>
+    <!-- 200px = 200 mi (rough) -->
+    <rect x="0" y="0" width="50" height="6" fill="#1a1a1a"/>
+    <rect x="50" y="0" width="50" height="6" fill="white" stroke="#1a1a1a" stroke-width="0.6"/>
+    <rect x="100" y="0" width="50" height="6" fill="#1a1a1a"/>
+    <rect x="150" y="0" width="50" height="6" fill="white" stroke="#1a1a1a" stroke-width="0.6"/>
+    <text x="0" y="20">0</text>
+    <text x="100" y="20" text-anchor="middle">100 mi</text>
+    <text x="200" y="20" text-anchor="end">200 mi</text>
+  </g>
+
+  <!-- ============ LEGEND ============ -->
+  <g transform="translate(60, 720)" font-size="10" fill="#1a1a1a">
+    <rect x="-10" y="-22" width="240" height="170" fill="white" fill-opacity="0.9" stroke="#5a4a2a" stroke-width="0.6"/>
+    <text x="0" y="-6" font-size="11" font-weight="700" letter-spacing="2">LEGEND</text>
+
+    <g transform="translate(0,12)">
+      <rect x="2" y="-4" width="10" height="10" fill="#1a1a1a"/>
+      <text x="22" y="4">Capital</text>
+    </g>
+    <g transform="translate(0,28)">
+      <circle cx="7" cy="1" r="3.5" fill="white" stroke="#1a1a1a" stroke-width="1.6"/>
+      <text x="22" y="4">Major city</text>
+    </g>
+    <g transform="translate(0,44)">
+      <line x1="0" y1="1" x2="14" y2="1" stroke="#b8860b" stroke-width="2.6" stroke-dasharray="3 4"/>
+      <text x="22" y="4">The Golden Path</text>
+    </g>
+    <g transform="translate(0,60)">
+      <line x1="0" y1="1" x2="14" y2="1" stroke="#5a4a2a" stroke-width="1.4"/>
+      <text x="22" y="4">Nation border</text>
+    </g>
+    <g transform="translate(0,76)">
+      <line x1="0" y1="1" x2="14" y2="1" stroke="#5a4a2a" stroke-width="1.4" stroke-dasharray="6 4"/>
+      <text x="22" y="4">Pre-Rending border (Balisha)</text>
+    </g>
+    <g transform="translate(0,92)">
+      <path d="M 0 4 L 7 -6 L 14 4" stroke="#3a3a3a" stroke-width="1.6" fill="none"/>
+      <text x="22" y="4">Mountains</text>
+    </g>
+    <g transform="translate(0,108)">
+      <line x1="0" y1="1" x2="14" y2="1" stroke="#3a6a8a" stroke-width="1.8"/>
+      <text x="22" y="4">River</text>
+    </g>
+    <g transform="translate(0,124)">
+      <circle cx="3" cy="1" r="2" fill="#3e5b3a"/>
+      <circle cx="9" cy="-2" r="2" fill="#3e5b3a"/>
+      <circle cx="13" cy="2" r="2" fill="#3e5b3a"/>
+      <text x="22" y="4">Forest</text>
+    </g>
+  </g>
+
+  <!-- ============ NATION COLOR KEY ============ -->
+  <g transform="translate(940, 60)" font-size="10" fill="#1a1a1a">
+    <rect x="-10" y="-18" width="220" height="180" fill="white" fill-opacity="0.9" stroke="#5a4a2a" stroke-width="0.6"/>
+    <text x="0" y="-4" font-size="11" font-weight="700" letter-spacing="2">NATIONS</text>
+    <g transform="translate(0,10)">
+      <rect x="0" y="0" width="14" height="10" fill="#d3e3ec" stroke="#5a4a2a" stroke-width="0.4"/>
+      <text x="22" y="9">Frozen North</text>
+    </g>
+    <g transform="translate(0,26)">
+      <rect x="0" y="0" width="14" height="10" fill="#e8c6b8" stroke="#5a4a2a" stroke-width="0.4"/>
+      <text x="22" y="9">Terinok · Wrath</text>
+    </g>
+    <g transform="translate(0,42)">
+      <rect x="0" y="0" width="14" height="10" fill="#d2cdc2" stroke="#5a4a2a" stroke-width="0.4"/>
+      <text x="22" y="9">Gunastran · Gluttony</text>
+    </g>
+    <g transform="translate(0,58)">
+      <rect x="0" y="0" width="14" height="10" fill="#e8d8a8" stroke="#5a4a2a" stroke-width="0.4"/>
+      <text x="22" y="9">Vartonne · Sloth</text>
+    </g>
+    <g transform="translate(0,74)">
+      <rect x="0" y="0" width="14" height="10" fill="#d8d0e0" stroke="#5a4a2a" stroke-width="0.4"/>
+      <text x="22" y="9">Uratha · Pride</text>
+    </g>
+    <g transform="translate(0,90)">
+      <rect x="0" y="0" width="14" height="10" fill="#cfdcc8" stroke="#5a4a2a" stroke-width="0.4"/>
+      <text x="22" y="9">Erulius · Envy</text>
+    </g>
+    <g transform="translate(0,106)">
+      <rect x="0" y="0" width="14" height="10" fill="#e8d2d6" stroke="#5a4a2a" stroke-width="0.4"/>
+      <text x="22" y="9">Silaris · Lust</text>
+    </g>
+    <g transform="translate(0,122)">
+      <rect x="0" y="0" width="14" height="10" fill="#e6cf9a" stroke="#5a4a2a" stroke-width="0.4"/>
+      <text x="22" y="9">Balisha · Greed (cap. Kaha'an)</text>
+    </g>
+    <g transform="translate(0,140)">
+      <text x="0" y="9" font-style="italic" fill="#5a4a2a" font-size="9">Seven Sins · Seven Successors</text>
+    </g>
+  </g>
+</svg>

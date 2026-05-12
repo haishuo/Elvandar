@@ -4,7 +4,7 @@
 
 "People are suffering RIGHT NOW while we debate!"
 
-That's Tiberian Valanar at eighteen — Crown Prince of the restored Kaha'ani Empire, son of Empress Elara and Emperor Consort Xion, twin brother of Melina — standing in a council chamber and failing to understand why anyone would choose analysis over action when people are dying. He has his father's compassion and his mother's fury, and the combination produces something neither parent entirely expected: a young man who experiences moral clarity as an imperative to move.
+That's Tiberian Valanar at eighteen — Crown Prince of the restored Balishan Empire, son of Empress Elara and Emperor Consort Xion, twin brother of Melina — standing in a council chamber and failing to understand why anyone would choose analysis over action when people are dying. He has his father's compassion and his mother's fury, and the combination produces something neither parent entirely expected: a young man who experiences moral clarity as an imperative to move.
 
 Named for his grandfather Emperor Tiberan Valanar IV, Tiberian inherited the weight of imperial legacy but forged something distinctly his own. Where his mother learned to wield power from the throne and his father learned to heal from the shadows, Tiberian leads from the front. He is the prince who rides at the head of the column, not because he craves glory, but because he cannot ask others to face what he won't face himself.
 
@@ -20,7 +20,7 @@ His mother, when imprisoned in Uratha and promising consequences to her captors,
 
 Tiberian's core motivation is the same as his father's — the drive to protect those who cannot protect themselves. But where Xion's Caretaker instinct expresses itself through healing (moving toward the wound, treating the injury), Tiberian's expresses itself through intervention (moving toward the threat, eliminating the source of harm). Same drive, different vector. Xion treats the injured; Tiberian stops the thing that's injuring them.
 
-Every major decision he makes across the trilogy traces back to this core. In Walled Garden, he sees through Kalden's rhetoric about "protecting" Silaris and recognizes what's actually happening: a cultural treasure is being looted, people are suffering, and artists are fleeing. His response isn't strategic calculation — it's moral fury: "Kaha'an has both resources and moral obligation to preserve Elvandar's greatest cultural treasure!" He intervenes with a small force against his parents' initial wishes, not because he's reckless, but because he cannot stand still while harm is being done.
+Every major decision he makes across the trilogy traces back to this core. In Walled Garden, he sees through Kalden's rhetoric about "protecting" Silaris and recognizes what's actually happening: a cultural treasure is being looted, people are suffering, and artists are fleeing. His response isn't strategic calculation — it's moral fury: "Balisha has both resources and moral obligation to preserve Elvandar's greatest cultural treasure!" He intervenes with a small force against his parents' initial wishes, not because he's reckless, but because he cannot stand still while harm is being done.
 
 In Necessary Measures, his confrontation with Melina over the Warrens relocation is Caretaker energy directed at his own sister. He finds her at midnight surrounded by another round of plan revisions, and his frustration isn't intellectual — it's visceral: "You've been 'perfecting' this plan for three years while children die in those tunnels." He experiences her analysis paralysis as a moral failure, because to him, delay is complicity.
 
@@ -86,7 +86,7 @@ The trilogy's closing note — the slate wiped clean, allowing Tiberian and Meli
 
 ## Backstory
 
-Born during the Continental War (or the Compact War, depending which history book you read) — a conflict that tested the restored empire in its early years — Tiberian and his twin sister Melina entered a world still rebuilding from The Rending. Their parents had transformed Kaha'an from a cartel-controlled city-state into the heart of a new empire, but that transformation was ongoing, fragile, and contested.
+Born during the Continental War (or the Compact War, depending which history book you read) — a conflict that tested the restored empire in its early years — Tiberian and his twin sister Melina entered a world still rebuilding from The Rending. Their parents had transformed Balisha from a cartel-controlled city-state into the heart of a new empire, but that transformation was ongoing, fragile, and contested.
 
 Tiberian grew up in the Imperial Palace, raised with the weight of the Valanar legacy but encouraged to forge his own path. His father — the former grain merchant's son who became a healer, a revolutionary, and an emperor consort — modeled compassion as the foundation of leadership. His mother — the hidden princess who claimed the Ruby Throne and rebuilt an empire — modeled decisive authority and the willingness to fight for what matters.
 
@@ -104,7 +104,7 @@ The Silaris crisis is Tiberian's proving ground. When Kalden moves to seize Sila
 
 Tiberian grows "increasingly frustrated with analysis paralysis" until the crisis forces his hand. Kalden moves to forcibly "protect" Silaris's greatest artworks. Tiberian, with a small force and against his parents' initial wishes, intervenes to prevent what he calls "cultural rape."
 
-The Gallery War plays out in Silaris's narrow streets and galleries, where every building has cultural significance and every casualty represents irreplaceable artistic knowledge. Tiberian's bold maneuvering and diplomatic genius — the Relief of Silaris — prevents Kalden from seizing the cultural capital and establishes Kaha'an as guardian of Elvandar's heritage.
+The Gallery War plays out in Silaris's narrow streets and galleries, where every building has cultural significance and every casualty represents irreplaceable artistic knowledge. Tiberian's bold maneuvering and diplomatic genius — the Relief of Silaris — prevents Kalden from seizing the cultural capital and establishes Balisha as guardian of Elvandar's heritage.
 
 **The Lesson:** Moral passion without strategic thinking causes more harm than good. The intervention succeeds, but its costs teach Tiberian that charging in isn't always the same as saving people. Sometimes the charge itself creates casualties.
 
@@ -122,7 +122,7 @@ Together, the twins present their plan to their parents: not a perfect solution,
 
 ### Book 7: Last Debts (Age 20)
 
-The combined assault of Kalden and Rosik represents the greatest threat the twins have ever faced — external military attack paired with internal subversion from enemies who know Kaha'an's weaknesses intimately.
+The combined assault of Kalden and Rosik represents the greatest threat the twins have ever faced — external military attack paired with internal subversion from enemies who know Balisha's weaknesses intimately.
 
 Tiberian must apply the strategic patience he learned in Silaris and the decisive courage he taught Melina in the Warrens. He coordinates external defense, resisting the urge to rush into Rosik's traps — the hardest thing for a man whose instinct is to charge.
 

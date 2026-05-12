@@ -21,7 +21,7 @@
 
 6. The team prepares. There is a pause before the sequence is engaged — partly practical, partly something else. People check their lamps, confirm positions, go through the practical motions of readiness. But the pause is also something none of them quite acknowledge: a held breath before history opens. The expedition has been working toward this moment for weeks. Now that it's here, nobody rushes it.
 
-7. Elara engages the sequence. She is the one who does it. Not the scholars, not Xion. The Empress of Kaha'an, who grew up in an Arol Batae compound and spent years seeking out things no one told her to seek, opens the door.
+7. Elara engages the sequence. She is the one who does it. Not the scholars, not Xion. The Empress of Balisha, who grew up in an Arol Batae compound and spent years seeking out things no one told her to seek, opens the door.
 
 8. Before anything moves: the pulse changes. The expedition has been living next to the Brass Door for weeks. Everyone knows its sound by now — one deep beat every three seconds, the rhythm so steady and so old that the mind eventually stops noticing it. When Elara completes the sequence, the pulse doesn't stop. It shifts. Not louder — more present, as if something below acknowledged what just happened. The scholars go very still. Everyone waits.
 
@@ -57,7 +57,7 @@
 
 ---
 
-**The chapter's structural function:** Lathion has to be real before it can be a problem. Everything that follows in Book 3 — the technology race, Kalden's acceleration, the Compact, the existential question of whether Kaha'an survives contact with what it finds here — depends on the reader having felt what Xion felt at the threshold. The wonder is load-bearing.
+**The chapter's structural function:** Lathion has to be real before it can be a problem. Everything that follows in Book 3 — the technology race, Kalden's acceleration, the Compact, the existential question of whether Balisha survives contact with what it finds here — depends on the reader having felt what Xion felt at the threshold. The wonder is load-bearing.
 
 **Earned simplicity:** Book 2 rationed joy the way a siege rations water. The series has been morally complicated, ethically grey, full of victories that cost more than they were worth. This chapter does something the series hasn't done in a long time: it gives the characters — and the reader — something good, and it doesn't immediately take it away. There is no catch at the end of this chapter. The wonder is real. The temptation to foreshadow the dangers of Lathion in this chapter should be resisted entirely. The darkness is coming. Let this be light.
 
@@ -67,4 +67,4 @@
 
 **The Elara-scholar dynamic:** The disagreement-and-triangulation sequence establishes the collaborative model that will govern the Lathion work going forward. Neither Elara's intuition nor Urathan scholarship is sufficient alone. Both are necessary. The reader needs to see this working before the complications begin — because when the scholarship and the intuition start pointing in different directions under pressure, later, the reader will understand why that's frightening.
 
-**What this chapter sets up:** Everything. Lathion is the engine of the book. The technology inside it is why Kalden accelerates his timeline, why the Compact becomes necessary, why Kaha'an's future is genuinely at stake rather than simply contested. But none of that machinery operates unless the reader has stood at the Door and seen the light coming through.
+**What this chapter sets up:** Everything. Lathion is the engine of the book. The technology inside it is why Kalden accelerates his timeline, why the Compact becomes necessary, why Balisha's future is genuinely at stake rather than simply contested. But none of that machinery operates unless the reader has stood at the Door and seen the light coming through.

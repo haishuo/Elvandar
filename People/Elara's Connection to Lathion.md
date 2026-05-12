@@ -8,7 +8,7 @@ Princess Elara Valanar possesses a unique connection to Lathion due to a cosmic 
 
 The Ruby Palace was built directly above the Destiny Engine chamber - not by design but due to common urban planning logic. Both civilizations naturally placed their most important structures at the center of their respective cities:
 - The ancient Lathionese built the Destiny Engine at the heart of their underground city
-- Millennia later, the Balishan Empire constructed the Ruby Palace at the center of Kaha'an, unknowingly directly above Lathion
+- Millennia later, the Balishan Empire constructed the Ruby Palace at the center of Balisha, unknowingly directly above Lathion
 
 ### The Destiny Engine's Activation
 

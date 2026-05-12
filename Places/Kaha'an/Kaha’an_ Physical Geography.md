@@ -14,14 +14,14 @@ Kaha'an stands as the last major city in a region transformed by catastrophe. Bu
 
 ## **City Structure**
 
-Kaha'an is divided into five major surface districts, each with distinct character and controlling faction. Unknown to most surface dwellers, extensive ancient tunnels lie beneath the city, now inhabited by tens of thousands of refugees.
+Kaha'an is divided into seven major surface districts, each with distinct character and controlling faction. Unknown to most surface dwellers, extensive ancient tunnels lie beneath the city, now inhabited by tens of thousands of refugees.
 
 ### **The Imperial Quarter (City Center)**
 
-**Location:** Central Kaha'an  
+**Location:** The geographic and political center of Kaha'an, with the Ruby Palace occupying its own city block at the very heart of the district  
  **Controlling Authority:** Joint administration by all four cartels (neutral ground)
 
-The heart of the city and its oldest section, home to the Ruby Palace where the empty throne awaits an occupant. This district serves as the political and administrative center of Kaha'an.
+The heart of the city and its oldest section, home to the Ruby Palace where the empty throne awaits an occupant. This district serves as the political and administrative center of Kaha'an. The palace's central placement is not coincidence — both the Balishan Empire (when Kaha'an was its capital) and the ancient Lathionese (whose city lies sealed beneath) sited their most important structures at the city's center; the Ruby Palace sits, by accident or design, directly above the Destiny Engine chamber of Lathion.
 
 **Key Features:**
 
@@ -41,10 +41,10 @@ The heart of the city and its oldest section, home to the Ruby Palace where the 
 
 ### **The Noble District (Western) \- Grain Cartel**
 
-**Location:** West of Imperial Quarter  
+**Location:** Western Kaha'an, separated from the Imperial Quarter by the Middle District  
  **Controlling Faction:** House Kemvimore (Grain Cartel)
 
-The domain of Kaha'an's aristocracy, featuring elegant manors, private gardens, and refined architecture adjacent to the Imperial Quarter.
+The domain of Kaha'an's aristocracy, featuring elegant manors, private gardens, and refined architecture. Cobblestoned streets give way to smooth marble at the district's edge — a transition any visitor crossing from the Middle District feels under their feet before they look up. The Noble District is famously water-rich for a desert city, with seventeen public fountains within its boundaries alone.
 
 **Key Features:**
 
@@ -64,9 +64,31 @@ The domain of Kaha'an's aristocracy, featuring elegant manors, private gardens, 
 
 ---
 
-### **The Docks District (Eastern) \- Water Cartel**
+### **The Middle District (Central) \- Mixed**
 
-**Location:** Eastern edge of the city, meeting the sea  
+**Location:** The central band of the city, sitting between the Noble District (west) and the Imperial Quarter (east), with the Surface Warrens to its north and the Merchant Quarter to its south  
+ **Controlling Faction:** No single cartel dominates; mixed Grain, Water, and Iron interests overlap here, creating de facto neutral territory for the city's commoner classes
+
+The Middle District is where the daily life of ordinary Kaha'an actually happens. Cracked cobblestone streets, weaver shops, clinics, modest tradehouses, public wells, and the small businesses that serve everyone but belong to no cartel. Less spectacular than the Noble District's marble or the Imperial Quarter's columns, less noisy than the Foundry, less salt-touched than the Docks — but it is where most of the city's population spends most of its hours.
+
+**Key Features:**
+
+* Public wells (regulated and stamp-tokened by the Water Cartel)
+* Mistress Janice's weaver shop and the network of small workshops along the central streets
+* Master Fen's clinic, a back-alley medical practice off the weaver shop
+* The Market Square (the city's largest public marketplace, distinct from the Iron Cartel's Grand Bazaar in the Merchant Quarter)
+* Notice boards where official proclamations are posted
+* Modest tenement housing for the artisan and clerk classes
+
+**Population:** Artisans, clerks, scribes, healers, weavers, midwives, neighborhood priests, the city's middle layer
+
+**Atmosphere:** Hot, busy, surprisingly varied. The Middle District is the closest Kaha'an comes to a place where the four cartels' interests genuinely overlap rather than divide.
+
+---
+
+### **The Docks District (Southern / Southeastern) \- Water Cartel**
+
+**Location:** The city's southern frontage, where the wall meets the Azure Sea, extending east along the southeastern stretch of coastline. The harbor and breakwaters lie on this southern face — Kaha'an's south is sea, and this is the district built into that meeting.  
  **Controlling Faction:** House Larannas (Water Cartel)
 
 Kaha'an's maritime gateway, featuring a protected harbor and the infrastructure of a trading port.
@@ -223,13 +245,13 @@ The commercial and industrial heart of Kaha'an, containing markets, workshops, a
 
 **Note:** Some aqueduct maintenance tunnels may connect to the ancient tunnel network beneath the city (unconfirmed, but persistent rumors).
 
-### **The Temple District**
+### **The Temple District (Northeastern)**
 
-**Location:** Small enclave within Imperial Quarter
+**Location:** The northeastern quarter of the city, sitting between the Imperial Quarter to its south and the Surface Warrens to its west. The old Sanctuary stands at its heart — a partially intact pre-Rending stone temple with a bell tower visible from much of the city.
 
-**Description:** Places of worship from various traditions. One of few areas where citizens from all districts mix freely.
+**Description:** A proper district in its own right, not merely an enclave. Places of worship from various traditions cluster here: the Sanctuary, smaller shrines, the homes of monks and lay clergy, and the modest tenement streets where the temple-serving classes live. One of the few areas where citizens from all districts mix freely. Tunnel entrances from the Surface Warrens are sometimes accessed by emerging into the back streets of the Temple District, particularly near the old Sanctuary itself.
 
-**Status:** Nominal independence from cartel politics (though all rely on cartel patronage).
+**Status:** Nominal independence from cartel politics (though all rely on cartel patronage). The district straddles the line between the proper city and the Northern Ruins — the Sanctuary is technically in the Temple District, but the refugee monks who run it operate as much in the Surface Warrens as out of it.
 
 ### **The Arena**
 
@@ -315,7 +337,7 @@ The commercial and industrial heart of Kaha'an, containing markets, workshops, a
 
 ### **The City Walls**
 
-**Construction:** Massive sandstone and marble walls on three sides (fourth side is harbor)
+**Construction:** Massive sandstone and marble walls on three landward sides (north, east, west); the southern face opens onto the Azure Sea, where the harbor's breakwaters and a chain-and-ballista defense substitute for a wall
 
 **Height:** Up to 100 feet in some sections
 
@@ -407,16 +429,18 @@ The commercial and industrial heart of Kaha'an, containing markets, workshops, a
 
 ## **The Surrounding Lands**
 
-### **The Dunes (The Transformed Desert)**
+### **The Dunes (The Transformed Desert / Balishan Desert)**
 
-**Overview:** The Dunes is the name given to the vast desert that surrounds Kaha'an, created by the Rending twenty years ago. What was once fertile farmland, forests, and thriving settlements is now an endless expanse of sand and rock.
+**Overview:** The Dunes — formally the Balishan Desert — is the name given to the desert that surrounds Kaha'an on its three landward sides, created by the Rending twenty years ago. What was once the fertile heart of the Province of Kaha'an — farmland, forests, and thriving settlements — is now an arid ring of sand and rock pressed up against the city walls.
 
-**Extent:** The Dunes stretch in all directions from Kaha'an for hundreds of kilometers:
+**Extent:** The desert is small in the absolute sense (a determined caravan can cross it in days, not weeks), but it is utterly hostile, and that small extent is all the Rending was permitted by the surrounding geography. The Rending's effects stopped abruptly at certain geographical boundaries — particularly mountain ranges and major rivers — and the Balishan Desert is what remains. From Kaha'an, the desert extends:
 
-* **North:** Desert extends to the distant mountains (weeks of travel)  
-* **East:** Meets the sea (Kaha'an's harbor provides access)  
-* **South:** Transitions into the Badlands (even more dangerous)  
-* **West:** Endless sand to the horizon
+* **North:** A few miles of open dune to the southern terminus of the Sentinel Mountains, which form the desert's northern wall. Beyond the Sentinels lies impassable mountain country, not more desert.
+* **East:** A few miles of dune until the desert gives way to the western marches of the Erulian Principality, which annexed the former eastern provinces of Kaha'an after the Rending isolated the city.
+* **West:** A similar few miles until the desert fades into the eastern reaches of Vartonne, which annexed the former western provinces.
+* **South:** The southern coast itself. The Azure Sea reaches Kaha'an's walls on the south side; the city's harbor opens directly onto it.
+
+The Balishan Desert is dwarfed by the great deserts of legend, but it does not need to be vast to be lethal — it only needs to encircle Kaha'an, and it does. The Golden Path threads through it east-to-west, and stepping off the Path is fatal regardless of how short the crossing.
 
 **Characteristics:**
 
@@ -444,7 +468,7 @@ The commercial and industrial heart of Kaha'an, containing markets, workshops, a
 * **Getting lost:** Landmarks shift, navigation is extremely difficult  
 * **Desert creatures:** Some animals adapted to post-Rending conditions (dangerous)  
 * **Bandits:** Desperate people prey on caravans  
-* **The Badlands influence:** Strange effects near the southern boundary
+* **The Gray Wastes:** Strange reality-bending effects in the patch of warped desert north of Kaha'an (caravans skirt this zone)
 
 **Travel:** Only organized, well-supplied caravans attempt crossing. Solo travelers die. The Golden Path is the only reliable route, maintained by collective effort of trading houses.
 
@@ -490,11 +514,140 @@ The commercial and industrial heart of Kaha'an, containing markets, workshops, a
 
 **Economics:** Maintaining the Golden Path is expensive but essential. Without it, Kaha'an would be completely isolated. Trading houses cooperate on maintenance even while competing for profits.
 
-### **The Badlands (Southern Wasteland)**
+**Patrols and Security:** The Coterie — the joint council of Kaha'an's four cartels — authorizes and funds the Golden Path's protection as a matter of shared interest; safe caravans benefit every cartel, so the patrols are one of the few activities all four reliably cooperate on. The actual patrols are the **Kaha'ani Footmen**, the formal name for the elements of the Kaha'an City Guard deployed beyond the city walls. They garrison the waystations, sweep the patrolled lanes, and respond to caravan distress signals. Bandit lords occasionally test the patrols by mounting bold attacks on caravans within the patrolled zone; the Footmen treat these as priority engagements and pursue the responsible bands across the dunes when they can. Most of the time, however, the Path itself is safe — which is precisely the value the Coterie sells.
 
-**Overview:** The Badlands lie south of Kaha'an, where the Rending's effects were most intense and reality itself seems damaged. The desert here is not merely transformed—it's twisted.
+---
 
-**Extent:** Begins roughly 50-80 kilometers south of Kaha'an and extends for unknown distance. No one has crossed the Badlands and returned to report its far boundary.
+### **The Wild Sands (the Outlying Desert)**
+
+**Overview:** Beyond the Coterie-patrolled lanes of the Golden Path lies the bulk of the Balishan Desert — uncharted, unpatrolled, and dangerous. This is not territory anyone willingly traverses for trade; it is what the Path's existence is supposed to make unnecessary. But it is full of things people occasionally want, and that has produced a small, persistent culture of risk-takers willing to brave it.
+
+**Inhabitants and Hazards:**
+
+* **Bandits** — bandit camps and small warbands cluster in defensible sand-formations and ruined pre-Rending structures across the Wild Sands. They prey on travelers who stray from the Path, occasionally raid the patrolled lanes when a bandit lord grows ambitious, and constitute a permanent low-grade military problem for the Coterie. The Footmen kill or scatter them when they can, but the desert is large and the bandits are mobile.
+* **Sand scorpions** — venomous, fast, and the size of large dogs. Hunt by ambush; their venom is paralytic before it is lethal, which means most bandit kills are made by their accomplices rather than the scorpions themselves.
+* **Shimmerflies** — swarms of small luminous insects that appear at dusk in greater numbers near the Gray Wastes. They are not directly venomous, but their presence in numbers disorients navigation (visual interference) and they cluster on living warmth, smothering small animals and occasionally smothering sleeping humans.
+* **The sand itself** — sudden sinkholes, shifting dunes that bury landmarks overnight, and dust-storms that strip flesh from bone over hours. The Wild Sands kills passively even when nothing alive is hunting you.
+
+**Treasure Hunters and Adventurers:**
+
+In the twenty years since the Rending, an informal subculture of treasure hunters has emerged in Kaha'an. They are not respectable — the Coterie does not recognize them, the noble houses do not employ them openly — but they exist, organize their own expeditions, and occasionally return with finds that change their lives. The most common find, especially in the early years, was **refugee caches**: small hoards of jewelry, coin, or family valuables left by people who attempted to reach Kaha'an during the Rending and did not make it. These caches were buried in shallow graves, hidden under stones, or simply dropped where their owners fell. The first wave of treasure hunters picked the most accessible of these clean within the first five years. What remains now is what was hidden harder, buried deeper, or lies in places where the desert has since become more dangerous.
+
+A handful of finders' guilds operate semi-openly in Kaha'an's Middle District, selling maps of varying reliability and brokering buyers for whatever expeditions return with. Most expeditions do not return.
+
+**The Refugee-Cache Years (and Why People Believe):**
+
+It is critical to understand that, in the early post-Rending years, refugee-cache hunting *worked*. The promise that successful treasure-hunting could meaningfully improve one's situation was **not a lie** — it was empirical fact, demonstrated repeatedly. A slave who returned with a recovered jewelry-box could buy their freedom and a modest tradehouse, becoming a merchant. A miller's son who recovered a noblewoman's strongbox of imperial coin could buy a small estate at the edge of the Noble District and have his children received as **lesser nobility**. The mobility was real. The transformation was real.
+
+The **heyday was years one through five** post-Rending. Treasure hunting began roughly a year after the Rending — once the dunes had begun to settle and survivors who had fled into the desert had been confirmed by their absence — and the first few years were a window when refugee caches were both plentiful and reachable. A small handful of **lesser noble houses** were founded during this window: families whose patriarch or matriarch walked out of the Wild Sands with a cache and converted it, within a year or two, into an estate at the edge of the Noble District and a presence at lesser banquets. By roughly year five, the easiest caches had been picked clean. By year ten, the harder caches were also gone. Since then no new houses have been founded on Wild Sands wealth — but the houses that *were* founded still exist, still hold their estates, still attend the lesser banquets. Their continued visible existence is what keeps the dream alive.
+
+The timeline matters: it has only been twenty years. The founders themselves are mostly **still alive**, middle-aged, in many cases still running their houses. Their children are the first generation born or raised in lesser nobility, now coming of age. There has not yet been time for a "forgetting where the money came from" generation — that would require a third generation, which would require at least another twenty or thirty years of stable peace. For now, every lesser-noble founder family knows exactly what they are: cache-hunters who got lucky and built quickly.
+
+Most of these families have not remained independent. A lesser-noble house with one generation of money and no political weight is vulnerable; the safest move is to swear to a great house, becoming a sworn or vassal house under one of the Coterie's four cartels. The cartel gets a sworn vassal whose loyalty is bought with continued protection; the lesser house gets political cover that its founder's gold alone cannot purchase. Most of the year-one-to-five founder houses have made this arrangement.
+
+But the bargain is asymmetrical, and it differs from what a sworn *old-blood* vassal house provides. An old-blood vassal pays its cartel in **prestige** — ceremonial weight, marriage alliances, daughters of impeccable breeding for old-blood-to-old-blood political matches. A cache-founded vassal has no prestige to trade on (the old-blood houses know exactly where the money came from and refer to the founders' families with politely-veiled contempt: *"having bought their nobility,"* *"barely noble — practically parochial,"* *"merchants in velvet"*). So cache-founded vassal houses pay their cartel in **utility** instead — bodies and services that old-blood families would refuse to provide. Footwork. Intelligence work. Negotiations conducted across class lines that an old-blood matron would find demeaning. The arrangement is mutually understood without being spoken: gold buys you the address, but the cartel keeps you only as long as you pay the *other* tax, which is the willingness to do work that real nobles wouldn't.
+
+**House Darfi, sworn to House Larannas (Water Cartel), is a canonical example.** Founded in the first few years post-Rending by a former Footman who walked out of the Wild Sands with a substantial cache, the Darfis swore to Tania Larannas's part of the Water Cartel apparatus within a few years of elevation. Their standing payment to Larannas: a daughter trained as an intelligence operative from a young age — Farleen Darfi, deployed across various Larannas assignments. The arrangement is exactly the kind of thing old blood would refuse and the kind of thing the Darfis cannot refuse. Several other Noble District families have similar quietly-acknowledged origins and similar quietly-extracted payments.
+
+But: **the mobility was bounded.** Refugee caches were modest in size. Even an excellent one was enough to buy one step up the ladder — slave to merchant, miller's son to lesser-noble, dockworker to comfortable craftsman — not two. **No great house was founded this way.** No cache was ever big enough to seat a hunter at the Coterie. The ceiling on cache-driven mobility was firm: you could buy your way into the Noble District's lower fringes, almost always under the sworn protection of an existing great house, but not into the cartel oligarchy itself.
+
+This is the foundation that makes the Vault legend culturally credible. The lottery has paid out before. Everyone in the Surface Warrens or the working stretches of the Middle District knows somebody who knows somebody whose father walked out of the Wild Sands with a cache — the stories are not fabrications, the storytellers are not lying, the founder is often still alive and can be pointed to. What is *new* with the Vault legend is the implicit promise that the cache-driven mobility could be done at *Coterie scale*, not just sworn-lesser-noble scale. The Vault is the same machine the refugee-cache hunters worked with, scaled up by an order of magnitude. The people who believe it generally believe it because they have personally seen the smaller version work, within their own lifetimes.
+
+**On the Maps of the Wild Sands:**
+
+The Wild Sands have been mapped, however imperfectly. Twenty years of bandits, treasure-hunters, scouts, and the occasional Footmen pursuit have produced a body of cartographic knowledge that is rough but real: the major dune systems, the persistent landmarks (a particular rock outcrop, a buried tower whose tip still juts above the sand, a cluster of bones too large to be quickly buried), known bandit territories, known oases (the few that remain), known killing-grounds where past expeditions vanished and are best avoided. The maps are inconsistent, the maps go out of date as the dunes shift, the maps are sold by people of variable honesty — but they exist, and an experienced finder can cross the Wild Sands with one in hand and a reasonable expectation of arriving where they meant to arrive.
+
+The Deep Desert is different.
+
+---
+
+### **The Valanar Vault (in the Deep Desert)**
+
+**Status:** Real. Locked behind geography so hostile that "real" has become an open question to anyone except those who placed it there generations ago. No living person can confirm the Vault exists; no expedition has ever returned with proof. No one who has gone looking has come back intact — they either do not come back, or they come back as sun-parched, hollow-eyed lunatics whose accounts can't be reconciled with each other or with reality. The Vault is the kind of legend that filters out everyone except the most desperate, and then it kills them too. *That the Vault exists at all is a fact known to the world only by hearsay and inference; the world has not been given any other way to verify it.*
+
+**The Deep Desert: Elvandar's Only Unmapped Place.**
+
+Every other part of Elvandar has been mapped at some level of fidelity. The mountain passes of the Sentinels and the Frost Spine have been surveyed by Terinok and Gunastran for military reasons. The forests of Vartonne and Erulius have been logged and resurveyed for centuries. The coastlines have charts updated within the past decade. Even the Wild Sands have rough working maps. The Deep Desert is the single exception: a stretch of the post-Rending Balishan Desert lying past the Wild Sands, edging toward the Gray Wastes, which has *never* been mapped in any form that an experienced finder would call usable.
+
+The reason is straightforward: anyone who has ever gone deep enough into the Deep Desert to begin mapping it has either died there or returned in no condition to deliver a coherent map. Whatever they saw, they did not return whole enough to draw it. The handful of "Deep Desert maps" that circulate in Kaha'an's underground markets are pre-Rending parchments — and pre-Rending parchments describe a landscape that no longer exists. The Deepwood Forest is gone. Fort Dinkarth is gone. The river bends, the named hills, the imperial outposts, the milestones along the imperial highway — all gone, buried, scoured. Even an authentic pre-Rending Vault-map describes a featureless dune now. *Useless* is the right word; some of the people selling these maps know it, and some of them don't.
+
+This is one of the things that makes the Vault legend unique among Elvandar's lost treasures. Other lost things — sunken ships, ruined towns, abandoned shrines — sit in places that *can* be searched. The Vault sits in a place that effectively cannot.
+
+**The Story:** Several generations before the Rending, one of the earlier Valanar emperors — fearing a coup or a sacking of the capital — moved a substantial portion of the imperial treasury (gold, gem-stones, magical artifacts, and a number of minor divine relics) out of Kaha'an's Ruby Palace into a secured vault elsewhere in Balisha. The intent was redundancy: a store of imperial wealth that no usurper could seize merely by taking the capital. **Imperial records confirm the Vault's existence and hint, in fragmentary inventory references, at the scale of the wealth involved — somewhere on the order of a third of the national treasury at the time of its placement.** The Vault is not, in this sense, *legendary*. It is *documented*. What is missing is reach.
+
+In its day, the Vault was housed in the basement of **Fort Dinkarth**, an imperial fortress on the plains just south of the **Deepwood Forest** in the north of old Balisha. While the empire stood, it was simply secure: well-garrisoned, accessible only to a small circle of imperial officials, not advertised but not exactly secret. Records of its location existed in the Ruby Palace's archives. Routine imperial inspections of Fort Dinkarth and its vault occurred on a defined schedule.
+
+Then the Rending happened. The Deepwood died with the rest of the surface. Fort Dinkarth — including everything that stood above the Vault — was reduced to nothing recognizable, and the dunes have buried whatever remained of its foundations in the twenty years since. The Vault itself, being subterranean, *may* have survived intact, but no living person can confirm this. The Ruby Palace's archives were lost when the city was sealed by its wards during the Rending; anything not in the small set of rooms the post-Rending Coterie could access went down with the rest of the imperial bureaucracy. So the location of the Valanar Vault is now known only at the level of generality recorded in surviving imperial fragments: *somewhere on the plains south of the (former) Deepwood, beneath the (former) Fort Dinkarth*. Both landmarks are now featureless dune. Somewhere in the Deep Desert.
+
+**The Pitch (As a Hunter Hears It):**
+
+In the dock-district taverns and Middle District back rooms where finders' guilds recruit, the story is told something like this:
+
+> *Imperial records record that a Valanar Emperor, fearing coup, hid a substantial portion of the imperial treasury — gold, jewels, priceless artifacts — in a basement vault beneath Fort Dinkarth in the north, just outside the Deepwood Forest (back when both still stood). The wealth was almost a third of the nation's wealth. A substantial sum.*
+>
+> *When the Rending struck, that Vault was buried under sand. We have no maps that reliably point to its location. But we know it's out there. Waiting. Anyone who can find it and loot it is set for life. There's enough gold in there to set them up as a fifth seat at the Table.*
+>
+> *That is, of course, if they find it.*
+
+The pitch is repeated almost word-for-word across every finders' guild in Kaha'an, with slight stylistic variations depending on whether the speaker is genuinely trying to recruit or trying to extract a fee from a credulous noble's third son. The pitch's consistency is itself part of the legend: nobody embellishes it because it doesn't need embellishing.
+
+**Why People Still Go Looking:**
+
+The legend persists because the rumored reward is proportionate to the rumored risk. If the Vault is real, and if the contents match the stories, recovering even a fraction would not just make you wealthy — it would make you *Coterie-wealthy*. Enough gold, gems, and imperial relics to buy your way into the cartel oligarchy itself. The phrase that circulates in dock-district taverns and Middle District back rooms is "**a fifth seat at the Table**" — meaning the Coterie's four-cartel council would have to admit a fifth member rather than try to absorb or eliminate the recoverer, because the recoverer's wealth would make them functionally a peer to the four existing cartels. Most factions that have tried to force their way to the table have failed; Ronas Dermir is the only example in living memory of someone who succeeded, and he did it through control of the Warrens labor supply, not gold. The Vault would be a second, different way.
+
+So the calculus works out, in the heads of the desperate, like this: an effectively 100% chance of death or insanity, weighed against a vanishingly small chance of becoming the fifth great house of Kaha'an. People take that bet. Not many, not often, but enough — and the bet has been on the table for twenty years.
+
+The legend's persistence is itself a kind of evidence. Small-reward legends fade as the failures pile up. This one hasn't. Whether that means the reward is real, or just that the reward is *imagined* large enough to keep drawing the desperate, is one of the things about the Vault no one can answer without coming back, and no one comes back.
+
+Other secondary motives also exist:
+
+* **Imperial nostalgia.** The Vault, if found, would be a relic of the old empire's strength — a symbolic prize as much as a material one. Some hunters care more about the symbol than the gold.
+* **The artifacts**, if any. Minor divine relics or unique magical items would be irreplaceable regardless of monetary value.
+* **End-of-rope desperation.** People with nothing left to lose have always reached for legends. The Vault is the legend they reach for.
+
+**Who Goes Looking (and Why It's Almost Always the Poor):**
+
+Kaha'an's social structure is, for practical purposes, sealed. The Coterie's four cartels are dynastic — entry by birth, by marriage, or (rarely, and only with the right combination of leverage and bloodlust) by force, as Ronas Dermir proved. The Noble District is similarly closed; its houses do not adopt the talented from the streets. The Middle District's craftspeople and clerks live comfortable enough lives, but the ceiling is firm: a successful weaver's son becomes a slightly more successful weaver, not a baron. A foundry-worker's daughter at her best becomes a foreman of foundry-workers. Real upward mobility requires wealth, and wealth at the scale required to *count* — to be invited to dine in the Noble District, to be addressed by a cartel functionary, to have an iron lock on your warehouse door instead of a wooden bar — that scale of wealth is not accumulable by working at one's trade for one lifetime. Not in twenty post-Rending years. Not in fifty.
+
+So the treasure-hunting subculture is, with very few exceptions, **poor**. Some are Middle District at best — a clerk's son who has heard his father's bitterness about ceilings all his life and decided to spend his inheritance gambling on the legend, an artisan's widow who needs to provide for her children and has run out of orthodox options. Most are Surface Warrens — refugees and refugees' children for whom Kaha'an itself was the last hope and didn't keep its promises, who have nothing to lose in the desert that they have not already lost in the city. A few are former slaves, manumitted or escaped, who know that the ordinary paths to a free life will keep them just barely above destitution and have decided that "barely above destitution" is not an outcome worth surviving for.
+
+What essentially never happens is for a Coterie scion or a Noble District heir to mount a Vault expedition. They have no need. They are already on the right side of every closed door. For the poor, the Vault is — quite literally — *the only path that exists* between a working-class life in post-Rending Kaha'an and a position at the **great house** table. (The lesser-noble path, via refugee-cache hunting, also still nominally exists, but the caches are picked clean enough that even that ladder has effectively retracted; what remains for someone hoping to climb is the Vault, or nothing.) There is no other lottery. There is no other ladder. So the desperate take a bet whose probability they understand, because the alternative bet (working hard, hoping, staying poor) is also a bet, and its payoff is *nothing*.
+
+The legend's cultural weight comes precisely from the fact that, at smaller scale, it has *demonstrably worked*. Everyone making the Vault bet knows of someone whose family rose into the lesser nobility on a Wild Sands find. The story isn't fabricated. The promise isn't empty. What is being implicitly assumed — and what is mathematically not warranted — is that the same machine that produced those lesser-noble fortunes can be operated at Coterie scale by walking further into the desert. The refugee-cache hunters who succeeded did it within a few months' march of Kaha'an, in territory the Footmen occasionally patrolled, against modest dangers, recovering modest sums. The Vault is months further out, in unmappable terrain, against unknown horrors, for vastly larger wealth. The class of risks scales with the class of reward, but **the hunters are extrapolating from a regime where they have personally seen the system work** — which makes them harder to dissuade than they would be if the lottery were pure fiction.
+
+This is the cruelest implication of the legend, and one the Coterie privately enjoys: the Vault filters for exactly the demographic that the cartels' rhetoric about "earned advancement" is supposed to reward. Working-class Kaha'ani who believe the myth that hard work and risk can elevate them — and who have *seen* the smaller version of that myth deliver real lesser-noble houses within living memory — go looking for the Vault. They die. The lesser-noble houses founded by their predecessors remain as visible proof that the system *can* work, which keeps the next generation believing. The myth survives. The class structure holds. Greed in its post-Rending Balishan form is not just the cartels' wealth-hoarding; it is the production of a hope so concentrated and so unreachable that the people chasing it kill themselves before they can become a problem. The Vault is part of how Kaha'an stays Kaha'an.
+
+**Why None of Them Come Back:**
+
+The Vault, if it lies anywhere, lies in the **Deep Desert** — the territory past the Wild Sands, edging toward or against the Gray Wastes. The hazards escalate the further out you go, and they do not escalate linearly. Shimmerflies and sand scorpions are the Wild Sands' problems; the Deep Desert has *worse*, and surviving accounts of those worse things are fragmentary, contradictory, and delivered by people whose minds have not survived the journey. Whatever they are, they are sufficient. The dunes are mobile, so even crews who claim to have found a structure once have no reliable way to find it again. The phenomena thicken as you near the Wastes — dreams that linger past waking, voices in the wind that name you, mirages with the wrong proportions, time that does not measure cleanly — and these may be heat-and-dehydration effects, or they may be the bleed-edges of whatever damaged reality at the Gray Wastes' core. Either way, the people who emerge from the Deep Desert do not emerge correctly.
+
+Three categories of outcome are reported. **First:** the expedition does not return at all, and is presumed dead. **Second:** a single survivor returns, alone, dehydrated past most physiological limits, mumbling, unable to give a coherent account, and dies within days or weeks regardless of care — sometimes physically intact, sometimes not. **Third (rarest):** a survivor returns sun-parched and visibly damaged but technically functional, takes up residence on a Middle District street corner or in a Surface Warrens tunnel, and spends the rest of their life telling anyone who will listen what they saw, in accounts that contradict each other day to day. These survivors are sometimes hired by next-generation hunters for the supposed value of their information. The hunters do not come back either.
+
+**The Final Hazard: Each Other.**
+
+A subtler reason expeditions don't return — and one that deserves its own consideration, because it explains the second and third categories above as much as the desert does — is this: the moment a party actually *finds* the Vault, the party becomes the next problem.
+
+Think it through. You and your mates have crossed the Wild Sands, survived the Deep Desert, navigated by guesswork over featureless dunes where pre-Rending landmarks no longer exist, lost members to scorpions and shimmerflies and worse, and against odds that no sane person would have taken — you have done it. The Vault is in front of you. You are alive. You are not insane. You have *won*.
+
+And then someone in your party has a thought. The thought has occurred to every one of you, simultaneously and independently, the moment you saw the gold: *if my mates are dead, this gold and these artifacts are the sole property of one man.* Divided equally among five, the share is life-changing — a comfortable retirement, a small fortune, the kind of money that buys a noble house's least daughter and a quiet villa in the Noble District. Undivided, the share is a **fifth seat at the Table.** The marginal value of being the sole survivor is, mathematically, a *qualitative jump in social class.* The marginal cost of betraying four comrades is one bad decision at the end of a very long journey.
+
+Every member of the party knows every other member is doing this arithmetic. That knowledge is itself the danger. The rational move — at the moment of discovery, with no witnesses, with the Coterie hundreds of miles away, with the desert ready to swallow any inconvenient body — may be to strike first.
+
+So the Vault's wealth becomes its own final guard. Parties that have crossed the desert in perfect solidarity dissolve the moment the gold is in view. Sworn brothers turn on each other. Spouses turn on each other. A few accounts (the few coherent ones) suggest that party leaders sometimes plan for this in advance — staging an "accident" once the goal is in sight — but the planners are not exempt; they too can be planned against.
+
+This explains a great deal about who comes back, and in what condition. The sun-parched lunatic who returns alone is sometimes a victim of the desert. Sometimes they are the only one who survived because they killed their mates and the journey back, alone with the weight of what they did under a sun that does not forgive, broke them. The contradictions in their stories day-to-day are sometimes simply confusion, and sometimes the slow oscillation of a person reconstructing alibis under the pressure of a memory they cannot bear to keep but cannot bring themselves to release. Outside observers cannot reliably tell the two apart, and neither can the survivors themselves anymore.
+
+The Vault, in other words, doesn't just lie in the Deep Desert. It lies behind the moral equivalent of a moat, and the moat is *the people who get there with you*. Greed reached its arm into the legend itself.
+
+**Cultural Effect:** The Vault is a constant low background hum in Kaha'an's cultural imagination — folk songs, drunken tales in dock-district taverns, the patter of map-sellers in the Middle District. By the present day, twenty years on, enough expeditions have failed that the legend has acquired the folkloric weight of a cautionary tale: a story about Balishan Greed reaching for one too many imperial relics. It has not stopped anyone. It has only filtered for the kind of desperation that does not stop for cautionary tales.
+
+It is a story for those with nothing left to lose, and even for them, it is a bad story.
+
+### **The Gray Wastes (also called "the Badlands" by older folk)**
+
+**Overview:** The Gray Wastes lie within the Balishan Desert, just north of Kaha'an in the open dune country between the city and the southern terminus of the Sentinel Mountains. This is where the Rending's effects were most intense and reality itself seems damaged. The desert here is not merely transformed — it's twisted. Older texts and folk songs sometimes call this place "the Badlands," and conflicting older sources locate it south of the city, but those accounts predate any reliable post-Rending survey: the Wastes are a small zone *within* the desert ring, not a separate southern region (no such region exists — Kaha'an's south side is open sea).
+
+**Extent:** A patch of warped land roughly the size of a large city, set in the open desert a short ride north of Kaha'an. Caravans on the Golden Path skirt it carefully. No one has thoroughly mapped its interior; the Wastes seem to resist surveying.
 
 **Characteristics:**
 
@@ -529,31 +682,30 @@ The commercial and industrial heart of Kaha'an, containing markets, workshops, a
 * Some areas are completely lifeless (sterile at a fundamental level)  
 * Occasional refugees emerge (traumatized, often mad)
 
-**Why It Exists:** The Badlands mark where the Rending's reality-altering effects were strongest. Whatever happened twenty years ago didn't just transform the land—it damaged the fabric of reality itself. The Badlands are a wound in the world that hasn't healed.
+**Why It Exists:** The Gray Wastes mark the epicenter of the Rending — where its reality-altering effects were strongest. Whatever happened twenty years ago didn't just transform the land — it damaged the fabric of reality itself. The Wastes are a wound in the world that hasn't healed.
 
 **Approach:**
 
-* No sane person enters the Badlands voluntarily  
-* Caravan routes carefully avoid the southern boundary  
+* No sane person enters the Wastes voluntarily  
+* The Golden Path threads carefully east-to-west across the Balishan Desert, giving the Wastes a wide berth
 * Even approaching the edge is considered dangerous (effects bleed outward)  
 * Some cultists claim to worship what lies within  
 * Occasional expeditions attempt entry (none return intact)
 
 **Rumors:**
 
-* The Rending started here (possibly true—epicenter theories)  
-* A second Rending could emanate from the Badlands  
-* Lost treasures from destroyed cities lie within  
-* The Badlands are slowly expanding (unconfirmed but feared)  
+* The Rending started here (true — epicenter theories are correct)  
+* A second Rending could emanate from the Wastes  
+* Lost treasures from the destroyed villages of pre-Rending Kaha'an Province lie within  
+* The Wastes are slowly expanding (unconfirmed but feared)  
 * Strange lights and sounds emerge at night
 
-**Strategic Significance:** The Badlands' presence south of Kaha'an means the city is effectively surrounded:
+**Strategic Significance:** Kaha'an is more isolated than it first appears. The city sits on the southern coast — its south face opens onto the Azure Sea — but the other three sides are pinned in by the desert and what surrounds it:
 
-* North and West: Endless desert (passable with difficulty)  
-* South: The Badlands (impassable)  
-* East: The sea (accessible but limited destinations)
-
-Kaha'an is more isolated than it appears.
+* **North:** A few miles of open desert, then the southern terminus of the Sentinel Mountains. The Gray Wastes lie in this corridor; the Golden Path crosses it laterally rather than running through it.
+* **East:** Desert giving way to the western marches of the Erulian Principality.
+* **West:** Desert giving way to the eastern reaches of Vartonne.
+* **South:** The Azure Sea, accessible by Kaha'an's harbor but offering only seaborne destinations and exposing the city to maritime threats.
 
 ### **Ruins and Lost Settlements**
 
@@ -678,7 +830,7 @@ Kaha'an is more isolated than it appears.
 
 * Sun, stars, moon positions (when visible)  
 * Requires clear skies and knowledge  
-* Unreliable near Badlands (celestial bodies move wrong)
+* Unreliable near the Gray Wastes (celestial bodies move wrong)
 
 **Landmarks:**
 
