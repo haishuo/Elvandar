@@ -124,7 +124,7 @@ Then they're very late. Still not panic — but Tiberian sends a message to the 
 
 Then they're *really* late, and Melina starts making inquiries. Discrete ones, then less discrete ones. The Urathan responses shift subtly each time — not contradictory enough to call a lie, but never quite the same story twice. Experienced diplomats know the difference between an inconvenient truth being managed and an answer being given. Melina knows. This is the pivot.
 
-Tiberian freaks out. The Tiger General's first instinct: march on Uratha. Demand answers. If answers aren't forthcoming, demand them louder, with an army.
+Tiberian freaks out. The Tiger Prince's first instinct: march on Uratha. Demand answers. If answers aren't forthcoming, demand them louder, with an army.
 
 Melina's eyes change color. For the normally tightly controlled princess — the woman who maintains royal blue under extreme stress — this IS freaking out. The composure that defines her, the Kaleidoscope that only engages during complex processing, the emotional control she perfected beyond what even her mother achieved... all of it cracks.
 

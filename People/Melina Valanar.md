@@ -156,7 +156,7 @@ When the twins reach their parents, they face the impossible question: what to d
 
 ### Tiberian Valanar (Twin Brother)
 
-The central relationship. He is her push to action; she is his strategic conscience. Born hours apart during the war, inseparable ever since. She teases him as "Tiber the Tiger" when his aggression needs checking — the affectionate diminutive that reminds him he's still her brother before he's the Tiger General. He tells her "stop analyzing and start DOING" when her brilliance becomes a cage.
+The central relationship. He is her push to action; she is his strategic conscience. Born hours apart during the war, inseparable ever since. She teases him as "Tiber the Tiger" when his aggression needs checking — the affectionate diminutive that reminds him he's still her brother before he's the Tiger Prince. He tells her "stop analyzing and start DOING" when her brilliance becomes a cage.
 
 Their partnership is the emotional and strategic core of the Five Pillars. When they work in concert — her planning creating space for his action, his boldness executing what her analysis designs — they are formidable. When they operate alone, each defaults to their worst tendency: he charges without thinking; she thinks without charging.
 
