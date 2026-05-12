@@ -1,6 +1,6 @@
 # Chapter 16: Valanar
 
-**Timeline:** Return to Kaha'an
+**Timeline:** Return to Balisha
 **Characters:** Xion, Elara, court, Farleen, friends
 **Emotional work:** Formalization — Xion becomes Xion Valanar. The chapter earns its feeling not through celebration but through the weight of what is gained and what is acknowledged as irretrievably lost. By the end, the reader feels the name settle on him the way it actually settles: as something real, something chosen, something that required losing everything else first.
 **POV:** Xion
@@ -9,7 +9,7 @@
 
 ## Beats
 
-1. The return to Kaha'an is not triumphant — or rather, it is, but Xion has learned to hold triumph with both hands rather than with one open palm. The city receives them. There is ceremony, as there must be: the Empress returning to her seat after whatever absence the preceding chapters required, the court reassembling, the institutional momentum of governance that does not pause because the people running it have been through something. Xion moves through the ceremony with competence. He has learned to do this. The reader sees the grain merchant's son from Book 1 — who couldn't get past a polite guard at a palace gate — in the body of a man who is received into the palace as a matter of course, and feels the distance between those two versions.
+1. The return to Balisha is not triumphant — or rather, it is, but Xion has learned to hold triumph with both hands rather than with one open palm. The city receives them. There is ceremony, as there must be: the Empress returning to her seat after whatever absence the preceding chapters required, the court reassembling, the institutional momentum of governance that does not pause because the people running it have been through something. Xion moves through the ceremony with competence. He has learned to do this. The reader sees the grain merchant's son from Book 1 — who couldn't get past a polite guard at a palace gate — in the body of a man who is received into the palace as a matter of course, and feels the distance between those two versions.
 
 2. In the days following the return, before the ceremony itself, Xion is aware of what is coming. The question of the Valanar name has been in the air for some time. The practical architecture of it — what marriage means in the legal and dynastic register, what name he will take, what Xion Fen becomes — has been worked out in the background by people whose job it is to work out such things. This is not a surprise. It is a thing that has been approaching, and it is almost here.
 
@@ -27,7 +27,7 @@
 
 9. He also takes it because it is hers. Not Elara as a political entity — not the Empress, not the imperial line, not the crown. Elara, specifically: the woman he found in a compound and walked to a throne and then watched do something extraordinary with the throne once she had it. Taking her name is not subordination. It is the choice of which house to build on. Kemvimore was not a choice — it was an inheritance, and one that Rosik eventually revoked anyway. Fen was transitional, a name taken for what it honored, not for what it built toward. Valanar is chosen for what it means to become.
 
-10. The ceremony. The format should feel appropriate to the Kaha'ani court — not imported pageantry, but something that fits the world. What matters structurally: Elara is present, the court is present, and the thing that is formally declared has already been made real through everything that preceded it. The ceremony is not the moment of transformation. The moment of transformation happened incrementally, across two books, in a series of much smaller scenes — the gate that didn't open, the sessions where he spoke with the authority of someone who had earned the room's attention, the negotiations he conducted in her name, the things he gave up to stay beside her. The ceremony formalizes something that is already true. The reader should feel that.
+10. The ceremony. The format should feel appropriate to the Balishan court — not imported pageantry, but something that fits the world. What matters structurally: Elara is present, the court is present, and the thing that is formally declared has already been made real through everything that preceded it. The ceremony is not the moment of transformation. The moment of transformation happened incrementally, across two books, in a series of much smaller scenes — the gate that didn't open, the sessions where he spoke with the authority of someone who had earned the room's attention, the negotiations he conducted in her name, the things he gave up to stay beside her. The ceremony formalizes something that is already true. The reader should feel that.
 
 11. The moment when he says the name — when Xion Valanar is said aloud for the first time in a formal register, attached to him rather than to the abstract house — is the beat where the chapter earns its emotional work. It should not be overwrought. The prose draft will handle how this lands; the beat draft notes only that the moment must be allowed to exist without being rushed past. What happens in Xion in that moment is complex: satisfaction and grief and something that is neither, the strange quality of a thing that has been anticipated arriving and becoming real.
 
@@ -41,7 +41,7 @@
 
 16. The private moment, small and unannounced. Somewhere in the margin of the day — not the ceremony, not the formal reception, not any of the parts that will make it into the official record — there is a moment between Xion and Elara that is just the two of them. What they say is not a speech. They have been speaking for two books. What this moment carries is the texture of two people who have become what they chose to become, together, at considerable cost, and who know it. The grain merchant's son became the Empress's consort. The man who was disinherited by Rosik Kemvimore chose a new house. The man who stood outside a palace gate became the man inside it. This is not stated. It is simply present.
 
-17. Final beat: the name Xion Valanar enters the official record. Somewhere in the administrative close of the day, a clerk writes it down, files it in whatever archive Kaha'an keeps. The record does not know what it took to get to this line. It simply records the name. Xion Valanar, First Counselor to the Crown. The Empress's consort. The man who was the grain merchant's son. That part is over. What is building is this.
+17. Final beat: the name Xion Valanar enters the official record. Somewhere in the administrative close of the day, a clerk writes it down, files it in whatever archive Balisha keeps. The record does not know what it took to get to this line. It simply records the name. Xion Valanar, First Counselor to the Crown. The Empress's consort. The man who was the grain merchant's son. That part is over. What is building is this.
 
 ---
 

@@ -40,7 +40,7 @@
 
 16. Xion turns back to the palace. The gate is still closed. The guard is still polite. He leaves.
 
-17. Final beat: Xion walks through the city. The streets of Kaha'an around him — the contrast between the palace district and what lies beyond it. He passes through the transition zone where wealth gives way to need. The healer in him sees the symptoms everywhere. The reformer in him knows the disease. The man who put an empress on the throne stands outside her gate and wonders if he cured anything at all.
+17. Final beat: Xion walks through the city. The streets of Balisha around him — the contrast between the palace district and what lies beyond it. He passes through the transition zone where wealth gives way to need. The healer in him sees the symptoms everywhere. The reformer in him knows the disease. The man who put an empress on the throne stands outside her gate and wonders if he cured anything at all.
 
 ---
 

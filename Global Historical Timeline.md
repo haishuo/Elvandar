@@ -32,7 +32,7 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 > Dependent on foreign imports and trade, Silaris had clung to the empire until isolation forced its independence.
 
 **Year 750 BR** — **De Facto Dissolution of the Balishan Empire**
-> With no provinces left under direct control, Kaha’an becomes the final remnant of imperial authority. The empire is no longer recognized in any practical sense. Kaha'an demands the **Scholar's Crown** back from Uratha. Uratha once again, refuses. For the next few hundred years, this will repeat - various monarchs of Kaha'an will demand the return of the Crown and be rebuffed. It serves as the source of great friction between the two nation-states.
+> With no provinces left under direct control, Kaha’an becomes the final remnant of imperial authority. The empire is no longer recognized in any practical sense. Balisha demands the **Scholar's Crown** back from Uratha. Uratha once again, refuses. For the next few hundred years, this will repeat - various monarchs of Balisha will demand the return of the Crown and be rebuffed. It serves as the source of great friction between the two nation-states.
 
 **Year 900 BR** — **Kaha’an Emerges as a Trade Power**
 > Kaha’an embraces its new role as a neutral city-state and commercial powerhouse, leveraging its legacy and infrastructure.

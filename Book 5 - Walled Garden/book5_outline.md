@@ -60,13 +60,13 @@ Before the crisis arrives, the reader meets **Kai Issamil** — Kael's son. A si
 
 Kai has his father's practical temperament, his economical speech, his understated competence. Where Tiberian runs hot, Kai runs steady. They complement each other the way Xion and Kael always did — and the parallel should feel natural, not forced.
 
-### The Crisis Reaches Kaha'an
+### The Crisis Reaches Balisha
 
 Reports reach the Valanar court: Silaris is failing. The intelligence is detailed and dire — food riots, infrastructure collapse, master artists seeking asylum in Gunastran and Uratha, creditors threatening to seize cultural assets as collateral. The reader already knows what's at stake — they were just there.
 
-**Tiberian's response** is immediate and moral. Kaha'an has resources. Kaha'an has Lathion technology that could solve Silaris's infrastructure problems overnight. Kaha'an has a moral obligation to preserve Elvandar's greatest cultural treasure. People are suffering RIGHT NOW. The path is obvious.
+**Tiberian's response** is immediate and moral. Balisha has resources. Balisha has Lathion technology that could solve Silaris's infrastructure problems overnight. Balisha has a moral obligation to preserve Elvandar's greatest cultural treasure. People are suffering RIGHT NOW. The path is obvious.
 
-**Melina's response** is analytical and cautious. What's Kaha'an's actual capacity to integrate a failing city-state? What are the resource requirements? The political ramifications with other successor states? The legal frameworks? "Brother, your heart is in the right place, but we need a plan, not just good intentions."
+**Melina's response** is analytical and cautious. What's Balisha's actual capacity to integrate a failing city-state? What are the resource requirements? The political ramifications with other successor states? The legal frameworks? "Brother, your heart is in the right place, but we need a plan, not just good intentions."
 
 **The family debate:** Elara is torn — Tiberian's moral clarity resonates with the soldier in her, but Melina's caution echoes the hard lessons of governance. Xion worries about repeating imperialistic patterns — a powerful empire absorbing a weaker neighbor under the banner of "help" is a story as old as empire itself. The family tension is real and unresolvable through discussion alone.
 
@@ -124,13 +124,13 @@ Silaris is stabilized — but not through the simple application of resources th
 
 **The next-generation transition:** This is the hardest structural challenge of the series — shifting protagonists mid-saga. Tiberian and Melina must earn the reader's investment independently. Their relationship to Xion and Elara should feel organic, not derivative. They are their parents' children but not their parents' copies.
 
-**Farleen's evolution:** By this point in the series, Farleen has transformed from romantic rival into something else entirely — the head of Kaha'an's intelligence network, the spy who found her purpose in protection. Her role in Book 5 is behind the scenes: the intelligence that informs the Silaris response, the agents who track Kalden's movements. She has become indispensable in a way that has nothing to do with the love triangle.
+**Farleen's evolution:** By this point in the series, Farleen has transformed from romantic rival into something else entirely — the head of Balisha's intelligence network, the spy who found her purpose in protection. Her role in Book 5 is behind the scenes: the intelligence that informs the Silaris response, the agents who track Kalden's movements. She has become indispensable in a way that has nothing to do with the love triangle.
 
 **Kai Issamil — three beats, one book:** Beat one: low-stakes friendship scene, whetstone and banter, the reader learns who Kai is and how long these two have known each other. Beat two: Kai is the first person Tiberian tells about Silaris, and his response is operational — *let me make sure we don't burn the wrong half*. Beat three: under fire in the Gallery War, covering each other, *told you this was a bad idea*. By the time Kai descends into the Warrens with Tiberian in Book 6, the reader has spent a full book watching this partnership work. The Melina principle: if someone's going to matter, the reader needs to know them first.
 
 **Tone:** Broader than Book 4's survival narrative, but more personal than Book 3's geopolitics. The focus is on character — two young people learning who they are through a crisis that tests everything they assumed about themselves.
 
 **Seeds for future books:**
-- **Book 6:** The Silaris intervention establishes the pattern — Kaha'an has the resources and technology to transform broken places. The Warrens are next, and they're the hardest case because they're in Kaha'an's own backyard.
+- **Book 6:** The Silaris intervention establishes the pattern — Balisha has the resources and technology to transform broken places. The Warrens are next, and they're the hardest case because they're in Kaha'an's own backyard.
 - **Book 7:** Kalden's humiliation in Silaris is another step down the spiral. The hatred sharpens. The resources diminish. Rosik enters the picture during this period of maximum desperation.
 - **Book 6:** Ronas's position — his "last stand" in the Warrens depends on the political landscape the Silaris intervention helped shape. The precedent of external intervention to protect vulnerable populations provides the philosophical framework for addressing the Warrens.

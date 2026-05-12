@@ -2,11 +2,11 @@
 
 ## The Observable Facts
 
-Twenty years ago, a catastrophic magical event known as The Rending transformed the once-fertile lands surrounding Kaha'an into a vast desert. The following facts are widely agreed upon by witnesses and historians:
+Twenty years ago, a catastrophic magical event known as The Rending transformed the once-fertile lands surrounding Balisha into a vast desert. The following facts are widely agreed upon by witnesses and historians:
 
 - The event occurred suddenly, with the transformation from fertile land to desert happening over a matter of hours rather than days or years
 - The Emperor Tiberan Valanar IV and Empress Lyra Valanar were outside the city walls when The Rending struck and never returned
-- Kaha'an itself was protected by ancient imperial wards, though the force of the event nearly overwhelmed them
+- Balisha itself was protected by ancient imperial wards, though the force of the event nearly overwhelmed them
 - The area now known as the Gray Wastes was the apparent epicenter, suffering the most complete devastation
 - Plant and animal life died almost instantly throughout the affected region
 - Water sources dried up or became corrupted and undrinkable
@@ -20,18 +20,18 @@ Beyond these basic observations, accounts begin to diverge significantly, and th
 
 The various successor states have each developed their own "official" explanation for The Rending, usually one that aligns with their political interests and cultural biases.
 
-### Kaha'an's Official Narrative
+### Balisha's Official Narrative
 
-The four cartels of Kaha'an promote a carefully crafted explanation:
+The four cartels of Balisha promote a carefully crafted explanation:
 
 - The Rending was a natural magical catastrophe, similar to earthquakes but on a magical scale
 - Such events, while rare, have precedent in ancient historical records (a claim Urathan scholars dispute)
-- The imperial wards protecting Kaha'an demonstrate the city's special status and legitimacy
+- The imperial wards protecting Balisha demonstrate the city's special status and legitimacy
 - The survival of the city amid such devastation proves its divine favor and rightful place as the true imperial successor
 - The loss of the Emperor and Empress was a tragic coincidence, not directly connected to the cause
 - Research into The Rending is discouraged as "unnecessarily dwelling on past tragedies"
 
-This narrative serves the cartels by discouraging investigation while reinforcing Kaha'an's claims to imperial legitimacy. It also conveniently avoids assigning any responsibility to Kaha'ani citizens or authorities.
+This narrative serves the cartels by discouraging investigation while reinforcing Balisha's claims to imperial legitimacy. It also conveniently avoids assigning any responsibility to Balishan citizens or authorities.
 
 ### Uratha's Academic Theories
 
@@ -85,7 +85,7 @@ Many religious communities view The Rending as divine retribution:
 
 ### The Imperial Curse
 
-A popular legend among the lower classes of Kaha'an:
+A popular legend among the lower classes of Balisha:
 
 - The dying Emperor, betrayed by court officials, used his last breath to curse the land
 - The curse specifically spared the city while blighting the surrounding countryside
@@ -167,7 +167,7 @@ This flood of necrotic energy immediately killed all living things it touched, e
 
 The devastation would have consumed all of Elvandar had it not been for an extraordinary intervention. Deep beneath Kaha'an, in the legendary city of Lathion, advanced magical sensors detected the catastrophe unfolding above. Recognizing an existential threat to all life, the inhabitants of Lathion activated their greatest and most terrible creation—the Destiny Engine.
 
-This device, capable of rewriting reality itself at tremendous cost, was used to seal the Gray Gate. The price was the complete sacrifice of Lathion itself—every inhabitant gave their existence to power the Engine, which fundamentally rewrote reality to repair the breach. The Destiny Engine's activation created a metaphysical shockwave that interacted with Kaha'an's imperial wards, strengthening them enough to protect the city from the worst effects of both the necrotic wave and the reality-altering backlash.
+This device, capable of rewriting reality itself at tremendous cost, was used to seal the Gray Gate. The price was the complete sacrifice of Lathion itself—every inhabitant gave their existence to power the Engine, which fundamentally rewrote reality to repair the breach. The Destiny Engine's activation created a metaphysical shockwave that interacted with Balisha's imperial wards, strengthening them enough to protect the city from the worst effects of both the necrotic wave and the reality-altering backlash.
 
 The Gray Wastes remain "thin" because the boundary between worlds was permanently damaged there—a scar in reality that never fully healed. The gray coloration of the sand is actually the result of minute particles of death essence that permeated the soil during the event. The strange phenomena experienced by visitors are echoes of both the original catastrophe and Lathion's reality-altering countermeasure.
 
@@ -177,7 +177,7 @@ Whether or not the true cause of The Rending is ever uncovered, its effects cont
 
 - The environmental devastation created resource scarcities that exacerbate tensions between successor states
 - The loss of the imperial family created a power vacuum that the various successor states seek to fill
-- The transformation of Kaha'an from imperial capital to desert crossroads fundamentally altered trade patterns
+- The transformation of Balisha from imperial capital to desert crossroads fundamentally altered trade patterns
 - The seven successor states, once united under imperial rule, have each embraced one of the seven deadly sins in the catastrophe's aftermath
 - The Gray Wastes serve as a constant reminder of forces beyond human understanding or control
 - The discovery of Lathion beneath the Warrens offers both promise and peril—access to advanced knowledge but also to potentially destructive power

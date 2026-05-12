@@ -24,9 +24,9 @@
 
 7. The Erulian Principality, seen in glimpses through the palace windows and in the details of the chamber: a prosperous nation. Not the wealthiest, not the strongest — second in military strength, second in wealth, second in industry. The perennial runner-up. Comfortable. Stable. And for twenty years, reorganized around the promise that second-best was about to become first.
 
-8. An aide enters. A messenger has arrived from Kaha'an. Kalden receives this news with anticipation — he has been expecting developments. The political situation in Kaha'an after the Rending has been evolving for twenty years, and Kalden has been tracking it through the Shadow Corps, his intelligence operation. Every report has confirmed what he already believes: the throne is waiting. The only question has been timing.
+8. An aide enters. A messenger has arrived from Balisha. Kalden receives this news with anticipation — he has been expecting developments. The political situation in Kaha'an after the Rending has been evolving for twenty years, and Kalden has been tracking it through the Shadow Corps, his intelligence operation. Every report has confirmed what he already believes: the throne is waiting. The only question has been timing.
 
-9. The messenger is brought in. And here is where the chapter turns. The messenger is *joyful*. Radiating it. This man has ridden hard from Kaha'an to deliver what he considers the most wonderful news in twenty years. His face is flushed. His eyes are bright. He can barely contain himself. He is a man who has been given the privilege of delivering tidings of great joy.
+9. The messenger is brought in. And here is where the chapter turns. The messenger is *joyful*. Radiating it. This man has ridden hard from Balisha to deliver what he considers the most wonderful news in twenty years. His face is flushed. His eyes are bright. He can barely contain himself. He is a man who has been given the privilege of delivering tidings of great joy.
 
 10. The message: A Valanar has been found. She lives. She sits upon the Ruby Throne. The ancient wards blazed to life for her — the wards that have been dark for twenty years, that no pretender could activate, that respond only to true Valanar blood. Her legitimacy is unquestionable. A Valanar sits upon the Ruby Throne.
 
@@ -42,7 +42,7 @@
 
 16. Kalden thanks the messenger. His voice is calm. Too calm. Controlled in the way that a man's voice is controlled when the alternative is something he cannot afford to show. The messenger is dismissed. Generously — there may even be a reward, because Kalden is performing normalcy with the same precision he used to adjust the collar. The messenger leaves believing he delivered good news to a grateful prince.
 
-17. The room empties. Kalden is alone with the mirror. The same mirror that showed him "Emperor Kalden Erulius" now shows him a man wearing an imperial collar in a provincial palace, and the distance between the two images is the distance between twenty years of preparation and one sentence from Kaha'an.
+17. The room empties. Kalden is alone with the mirror. The same mirror that showed him "Emperor Kalden Erulius" now shows him a man wearing an imperial collar in a provincial palace, and the distance between the two images is the distance between twenty years of preparation and one sentence from Balisha.
 
 18. He does not explode. He does not rage, or throw things, or weep. What he does is worse. He is *still*. The stillness of a man whose mind is already moving past grief and into something colder. The patient strategist who built institutions for twenty years has been obliterated. What is replacing him, in real time, is the impulse — the rash, wounded, visceral thing that lives beneath the polish.
 

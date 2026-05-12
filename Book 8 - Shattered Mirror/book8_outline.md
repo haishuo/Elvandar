@@ -50,7 +50,7 @@ The book opens on an ordinary morning. No ominous feelings. No lingering goodbye
 
 Xion and Elara arrive in Uratha. It is a triumph. The alliance that survived the Compact War. The Crown that was returned and blazed to life. The reforms Elara championed in Alliance territory now reflected in Uratha's own abolished bakarn system. Everything suggests progress. Partnership. Vindication.
 
-The Provosts are gracious hosts. As a gesture of trust — an honor extended to almost no foreign visitors — they invite Xion and Elara into the Ivory Tower itself. Not the Sapphire Tower where all prior Kaha'ani diplomacy was conducted, but the inner sanctum. *We consider you our closest allies. Come see where we truly work.* It is a genuine gesture of openness. No one intends for anything to go wrong.
+The Provosts are gracious hosts. As a gesture of trust — an honor extended to almost no foreign visitors — they invite Xion and Elara into the Ivory Tower itself. Not the Sapphire Tower where all prior Balishan diplomacy was conducted, but the inner sanctum. *We consider you our closest allies. Come see where we truly work.* It is a genuine gesture of openness. No one intends for anything to go wrong.
 
 **Critically:** The Provosts have no reason to fear this visit. The Globehall's existence is known to almost no one outside the inner Provost circle. They have no particular reason to worry about Elara — Lathion-essence is not a common trait and they have never encountered it in a visitor. They are not setting a trap. They are being hospitable. The catastrophe that follows is not a plan unfolding. It is an accident happening.
 
@@ -132,7 +132,7 @@ And then it reforms. The Engineer reasserts itself. Panic is a data point. Her p
 
 ### The Investigation
 
-Melina begins a campaign to discover the truth — spy thriller investigation, deploying the intelligence network that Farleen built and that Melina inherited as a strategic asset. Pieces come in fragments: the state visit went as planned for the first few days. Then communications stopped. The Urathan delegation claims Xion and Elara extended their stay voluntarily. This is obviously false — Elara would never leave Kaha'an without word to her children.
+Melina begins a campaign to discover the truth — spy thriller investigation, deploying the intelligence network that Farleen built and that Melina inherited as a strategic asset. Pieces come in fragments: the state visit went as planned for the first few days. Then communications stopped. The Urathan delegation claims Xion and Elara extended their stay voluntarily. This is obviously false — Elara would never leave Balisha without word to her children.
 
 Melina traces the lie backward. The diplomatic communications are fabricated. The Provosts' explanations shift subtly each time they're questioned. There are inconsistencies in the security reports. The Ilhamori deployment patterns changed on a specific date — the same date the last genuine communication from her parents was sent.
 
@@ -204,7 +204,7 @@ The series ends with the Valanar family's story complete.
 
 The Globehall is resolved — however the impossible choice plays out, the horror is ended. Uratha must rebuild itself honestly, without the crutch of extracted minds, without the lie of the silent Crown. The shattered mirror — the beautiful civilization that hid atrocity in its basement — is swept away.
 
-The Valanars return to Kaha'an. The empire is whole. The enemies are all gone — Kalden dead, Rosik dead, the cartels dismantled, the Warrens transformed, and now Uratha's secret exposed and addressed. The world is changed. The old order is gone. The next generation has proven themselves.
+The Valanars return to Balisha. The empire is whole. The enemies are all gone — Kalden dead, Rosik dead, the cartels dismantled, the Warrens transformed, and now Uratha's secret exposed and addressed. The world is changed. The old order is gone. The next generation has proven themselves.
 
 **For Harkim:** The war that started in Book 4 is over. Not the Continental War — that ended in six months. *Harkim's* war. The private one, fought against a system he once believed in, then doubted, then quietly mapped from the inside for years. The notebook became a network. The network helped break open the worst secret on the continent. And Lira — his sister, the woman he hid out of love and not conviction — can finally live in a world where no one needs to hide what they are.
 

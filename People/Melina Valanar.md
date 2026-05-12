@@ -50,7 +50,7 @@ In Walled Garden, she learns "to trust her analytical instincts even when they a
 
 ### Caretaker (Third)
 
-Melina genuinely cares about the people she's analyzing. The Warrens aren't an abstract optimization problem for her — she knows "intellectually, morally, statistically" that they represent fundamental injustice contradicting everything Kaha'an claims to stand for. Her internal justifications for delay all center on care: "We can't afford to get this wrong — people's lives are at stake." "Social disruption could destabilize the entire kingdom if not managed perfectly."
+Melina genuinely cares about the people she's analyzing. The Warrens aren't an abstract optimization problem for her — she knows "intellectually, morally, statistically" that they represent fundamental injustice contradicting everything Balisha claims to stand for. Her internal justifications for delay all center on care: "We can't afford to get this wrong — people's lives are at stake." "Social disruption could destabilize the entire kingdom if not managed perfectly."
 
 The tragedy of her analysis paralysis is that it's driven by genuine compassion. She doesn't delay because she doesn't care. She delays because she cares so much that the prospect of getting it wrong — of causing harm through imperfect action — paralyzes her. Her Caretaker drive, filtered through her Engineer primary and Truth Seeker secondary, produces a pathological perfectionism that, in a vicious irony, causes exactly the suffering it's trying to prevent.
 
