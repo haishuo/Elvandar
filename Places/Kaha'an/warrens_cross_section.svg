@@ -1,0 +1,446 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif">
+  <!-- ============================================================
+       THE WARRENS — Vertical Cross-Section
+       Reference style. Geometry derived from Book 1 prose (Chs.
+       13–22) with supporting detail from Places/Kaha'an/ docs.
+       Prose-canonical: where docs conflict, prose wins.
+       ============================================================ -->
+
+  <defs>
+    <linearGradient id="surfaceTint" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8d4a4"/>
+      <stop offset="100%" stop-color="#d8bd80"/>
+    </linearGradient>
+    <linearGradient id="layerGrad1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c8b694"/>
+      <stop offset="100%" stop-color="#b8a484"/>
+    </linearGradient>
+    <linearGradient id="layerGrad2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a89884"/>
+      <stop offset="100%" stop-color="#988874"/>
+    </linearGradient>
+    <linearGradient id="layerGrad3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8a7864"/>
+      <stop offset="100%" stop-color="#7a6854"/>
+    </linearGradient>
+    <linearGradient id="layerGrad4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6a5848"/>
+      <stop offset="100%" stop-color="#5a4838"/>
+    </linearGradient>
+    <linearGradient id="lathionGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a3848"/>
+      <stop offset="100%" stop-color="#1a2838"/>
+    </linearGradient>
+    <radialGradient id="brassGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5a8ab8" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#1a2838" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="1600" fill="#f0e8d2"/>
+
+  <!-- ============ TITLE ============ -->
+  <g>
+    <text x="600" y="55" font-size="34" font-weight="700" letter-spacing="6" text-anchor="middle" fill="#1a1a1a">THE WARRENS</text>
+    <text x="600" y="78" font-size="11" letter-spacing="3" text-anchor="middle" fill="#5a4a2a">VERTICAL CROSS-SECTION · BENEATH KAHA'AN</text>
+    <line x1="380" y1="86" x2="820" y2="86" stroke="#5a4a2a" stroke-width="0.6"/>
+  </g>
+
+  <!-- ============ SKY (just above the city) ============ -->
+  <rect x="60" y="100" width="1080" height="60" fill="#c9d6dc" opacity="0.5"/>
+  <text x="100" y="125" font-size="9" fill="#4a5a6a" font-style="italic">desert sky</text>
+
+  <!-- ============ SURFACE: CITY PROFILE ============
+       Side-view of Kaha'an, oriented N (left) to S (right).
+       Surface Warrens / Northern district on the left.
+       Imperial Quarter / Ruby Palace center.
+       Harbor on the right (south coast). -->
+  <rect x="60" y="160" width="1080" height="80" fill="url(#surfaceTint)" stroke="#3a2a18" stroke-width="1.5"/>
+
+  <!-- North compass marker -->
+  <text x="80" y="190" font-size="14" font-weight="700" fill="#3a2a18">N ←</text>
+  <text x="1095" y="190" font-size="14" font-weight="700" fill="#3a2a18" text-anchor="end">→ S</text>
+
+  <!-- Surface walls (north and south wall stubs) -->
+  <rect x="100" y="150" width="14" height="100" fill="#a89880" stroke="#3a2a18" stroke-width="1.4"/>
+  <rect x="1086" y="150" width="14" height="100" fill="#a89880" stroke="#3a2a18" stroke-width="1.4"/>
+  <text x="107" y="148" font-size="8" text-anchor="middle" fill="#3a2a18">N. wall</text>
+  <text x="1093" y="148" font-size="8" text-anchor="middle" fill="#3a2a18">S. wall</text>
+
+  <!-- Northern Ruins (left) — ruined silhouettes -->
+  <g fill="#7a5a3a" stroke="#3a2a18" stroke-width="0.6">
+    <rect x="125" y="180" width="20" height="60"/>
+    <rect x="150" y="195" width="14" height="45"/>
+    <rect x="170" y="175" width="18" height="65"/>
+    <rect x="193" y="200" width="12" height="40"/>
+    <rect x="210" y="185" width="16" height="55"/>
+    <rect x="232" y="195" width="14" height="45"/>
+    <rect x="252" y="180" width="20" height="60"/>
+    <rect x="278" y="200" width="12" height="40"/>
+    <rect x="295" y="190" width="16" height="50"/>
+  </g>
+  <text x="215" y="262" font-size="11" font-weight="600" text-anchor="middle" fill="#3a2a18">SURFACE WARRENS</text>
+  <text x="215" y="275" font-size="9" font-style="italic" text-anchor="middle" fill="#3a2a18">(Northern Ruins)</text>
+
+  <!-- Hidden granary -->
+  <rect x="340" y="200" width="24" height="40" fill="#5a3a1a" stroke="#1a0a08" stroke-width="1"/>
+  <text x="352" y="195" font-size="7" text-anchor="middle" fill="#1a0a08" font-style="italic">granary</text>
+
+  <!-- Middle / Imperial districts (center) — domes and towers -->
+  <g fill="#c8a878" stroke="#3a2a18" stroke-width="0.8">
+    <rect x="400" y="195" width="40" height="45"/>
+    <rect x="450" y="200" width="36" height="40"/>
+    <rect x="495" y="190" width="50" height="50"/>
+  </g>
+
+  <!-- Ruby Palace silhouette (south-central, prominent) -->
+  <g>
+    <rect x="555" y="190" width="80" height="50" fill="#a83232" stroke="#3a2a18" stroke-width="1.6"/>
+    <ellipse cx="595" cy="190" rx="28" ry="14" fill="#a83232" stroke="#3a2a18" stroke-width="1.4"/>
+    <line x1="595" y1="176" x2="595" y2="162" stroke="#3a2a18" stroke-width="1.8"/>
+    <circle cx="595" cy="160" r="3" fill="#a83232" stroke="#3a2a18" stroke-width="1"/>
+  </g>
+  <text x="595" y="258" font-size="11" font-weight="700" text-anchor="middle" fill="#7a1d1d">RUBY PALACE</text>
+  <text x="595" y="270" font-size="8" font-style="italic" text-anchor="middle" fill="#7a1d1d">(directly above Lathion)</text>
+
+  <!-- Temple District (right of palace) - Sanctuary bell tower -->
+  <g fill="#c8a878" stroke="#3a2a18" stroke-width="0.8">
+    <rect x="660" y="205" width="30" height="35"/>
+    <rect x="695" y="195" width="22" height="45"/>
+    <rect x="725" y="200" width="26" height="40"/>
+  </g>
+  <!-- Sanctuary bell tower -->
+  <rect x="700" y="170" width="12" height="30" fill="#c8a878" stroke="#3a2a18" stroke-width="0.8"/>
+  <text x="706" y="166" font-size="6" text-anchor="middle" fill="#3a2a18">Sanctuary</text>
+
+  <!-- Eastern districts -->
+  <g fill="#c8a878" stroke="#3a2a18" stroke-width="0.8">
+    <rect x="760" y="200" width="34" height="40"/>
+    <rect x="800" y="195" width="28" height="45"/>
+    <rect x="835" y="205" width="32" height="35"/>
+    <rect x="875" y="200" width="28" height="40"/>
+    <rect x="910" y="195" width="36" height="45"/>
+    <rect x="952" y="205" width="30" height="35"/>
+    <rect x="990" y="200" width="36" height="40"/>
+    <rect x="1035" y="195" width="40" height="45"/>
+  </g>
+
+  <!-- Surface label band -->
+  <rect x="60" y="158" width="1080" height="2" fill="#3a2a18"/>
+
+  <!-- ============ DEPTH AXIS (left side) ============ -->
+  <g font-size="10" fill="#3a2a18" font-family="'Helvetica', sans-serif">
+    <line x1="60" y1="240" x2="60" y2="1500" stroke="#3a2a18" stroke-width="1.2"/>
+    <!-- depth ticks -->
+    <line x1="55" y1="290" x2="65" y2="290" stroke="#3a2a18"/>
+    <text x="50" y="294" text-anchor="end">SURFACE</text>
+    <line x1="55" y1="370" x2="65" y2="370" stroke="#3a2a18"/>
+    <text x="50" y="374" text-anchor="end">−20 m</text>
+    <line x1="55" y1="540" x2="65" y2="540" stroke="#3a2a18"/>
+    <text x="50" y="544" text-anchor="end">−100 m</text>
+    <line x1="55" y1="660" x2="65" y2="660" stroke="#3a2a18"/>
+    <text x="50" y="664" text-anchor="end">−180 m</text>
+    <line x1="55" y1="820" x2="65" y2="820" stroke="#3a2a18"/>
+    <text x="50" y="824" text-anchor="end">−300 m</text>
+    <line x1="55" y1="1100" x2="65" y2="1100" stroke="#3a2a18"/>
+    <text x="50" y="1104" text-anchor="end">−500 m</text>
+    <line x1="55" y1="1300" x2="65" y2="1300" stroke="#3a2a18"/>
+    <text x="50" y="1304" text-anchor="end">−700 m</text>
+    <text x="22" y="850" font-size="11" font-weight="700" fill="#3a2a18" transform="rotate(-90 22 850)">D E P T H</text>
+  </g>
+
+  <!-- ============ LAYER BANDS ============ -->
+
+  <!-- ===== Layer 1: Surface Warrens (extends from surface buildings down to -20m) ===== -->
+  <rect x="80" y="240" width="1020" height="130" fill="url(#layerGrad1)" opacity="0.85" stroke="#5a4a2a" stroke-width="0.6"/>
+  <!-- granary shaft -->
+  <rect x="345" y="240" width="14" height="120" fill="#3a2a18" opacity="0.7"/>
+  <text x="352" y="305" font-size="7" text-anchor="middle" fill="#f0e8d2" transform="rotate(-90 352 305)">granary shaft</text>
+  <!-- main ramp from Northern Ruins -->
+  <path d="M 210 240 L 230 370 L 250 370 L 230 240 Z" fill="#3a2a18" opacity="0.65"/>
+  <text x="240" y="310" font-size="7" fill="#f0e8d2" transform="rotate(70 240 310)">main ramp</text>
+  <!-- Sanctuary stairs (right side) -->
+  <path d="M 700 240 L 690 320 L 706 320 L 712 240 Z" fill="#3a2a18" opacity="0.65"/>
+  <text x="700" y="290" font-size="7" fill="#f0e8d2" transform="rotate(-75 700 290)">temple stairs</text>
+
+  <!-- Layer label -->
+  <text x="900" y="280" font-size="14" font-weight="700" letter-spacing="3" fill="#3a2a18">SURFACE WARRENS</text>
+  <text x="900" y="295" font-size="9" font-style="italic" fill="#3a2a18">Northern Ruins · 0 to −20 m · pop. 8–10,000</text>
+  <text x="900" y="310" font-size="8" fill="#5a4a2a">Gate Clans · Slavers · refugees · dozens of tunnel entrances</text>
+  <text x="900" y="325" font-size="8" fill="#5a4a2a">Bone Market · The Scaffold · the Sanctuary above</text>
+  <text x="900" y="345" font-size="7" fill="#5a4a2a" font-style="italic">"sunlit chaos" — direct sunlight; full weather; brutal heat by day</text>
+
+  <!-- ===== Layer 2: The Tiers (-20 to -100m) ===== -->
+  <rect x="80" y="370" width="1020" height="170" fill="url(#layerGrad2)" opacity="0.85" stroke="#5a4a2a" stroke-width="0.6"/>
+  <text x="900" y="410" font-size="14" font-weight="700" letter-spacing="3" fill="#3a2a18">THE TIERS</text>
+  <text x="900" y="425" font-size="9" font-style="italic" fill="#3a2a18">−20 to −100 m · pop. 15–18,000</text>
+  <text x="900" y="440" font-size="8" fill="#3a2a18">"practically open air compared to deeper down" (Ch. 13)</text>
+  <text x="900" y="455" font-size="8" fill="#5a4a2a">larger chambers · cooler air · indirect light penetrates upper levels</text>
+  <text x="900" y="470" font-size="8" fill="#5a4a2a">Long Knives territory (nearly complete control)</text>
+  <text x="900" y="490" font-size="8" fill="#5a4a2a">→ The Clear Spring (water station, −60m)</text>
+  <text x="900" y="505" font-size="8" fill="#5a4a2a">→ The Ascent (4m-wide main passage)</text>
+  <text x="900" y="525" font-size="7" font-style="italic" fill="#5a4a2a">temp: 70–80°F summer, 50–60°F winter</text>
+
+  <!-- Vertical passages connecting Tiers to Midlevels -->
+  <g stroke="#3a2a18" stroke-width="2" fill="none" stroke-dasharray="4 3" opacity="0.7">
+    <line x1="260" y1="370" x2="290" y2="540"/>
+    <line x1="450" y1="370" x2="430" y2="540"/>
+    <line x1="700" y1="370" x2="720" y2="540"/>
+  </g>
+  <text x="270" y="455" font-size="7" font-style="italic" fill="#3a2a18" transform="rotate(80 270 455)">ramp</text>
+
+  <!-- ===== Layer 3: The Midlevels (-100 to -300m) ===== -->
+  <rect x="80" y="540" width="1020" height="280" fill="url(#layerGrad3)" opacity="0.92" stroke="#5a4a2a" stroke-width="0.6"/>
+  <text x="900" y="580" font-size="14" font-weight="700" letter-spacing="3" fill="#f0e8d2">THE MIDLEVELS</text>
+  <text x="900" y="595" font-size="9" font-style="italic" fill="#f0e8d2">−100 to −300 m · pop. 25–30,000 (the most populous layer)</text>
+  <text x="900" y="610" font-size="8" fill="#f0e8d2">complete darkness · resident-provided lighting · stable 65–70°F</text>
+  <text x="900" y="625" font-size="8" fill="#e8d8a4">"the true city" — most of the Warrens' population lives here</text>
+  <text x="900" y="645" font-size="8" fill="#e8d8a4">Long Knives + Slavers' contested edge</text>
+
+  <!-- Named chambers in Midlevels -->
+  <!-- The Crossroads -->
+  <g transform="translate(280,660)">
+    <circle r="36" fill="#c8a070" stroke="#3a2a18" stroke-width="1.6"/>
+    <!-- platform layers -->
+    <circle r="22" fill="none" stroke="#3a2a18" stroke-width="0.6"/>
+    <circle r="10" fill="#a87a48" stroke="#3a2a18" stroke-width="0.8"/>
+    <!-- tunnel mouths (5 streets meeting) -->
+    <g fill="#1a0a08">
+      <rect x="-40" y="-3" width="8" height="6"/>
+      <rect x="32" y="-3" width="8" height="6"/>
+      <rect x="-3" y="-40" width="6" height="8"/>
+      <rect x="-3" y="32" width="6" height="8"/>
+      <rect x="22" y="-28" width="6" height="6" transform="rotate(45)"/>
+    </g>
+  </g>
+  <text x="280" y="710" font-size="10" font-weight="700" text-anchor="middle" fill="#f0e8d2">THE CROSSROADS</text>
+  <text x="280" y="722" font-size="7" font-style="italic" text-anchor="middle" fill="#e8d8a4">−150 m · five streets · Long Knives neutral ground</text>
+  <text x="280" y="734" font-size="7" font-style="italic" text-anchor="middle" fill="#e8d8a4">Arlo's platform · info brokerage</text>
+
+  <!-- The Iron Hall -->
+  <g transform="translate(540,690)">
+    <ellipse cx="0" cy="0" rx="46" ry="34" fill="#6a4828" stroke="#1a0a08" stroke-width="1.8"/>
+    <ellipse cx="0" cy="0" rx="20" ry="14" fill="#3a2a18" stroke="#1a0a08" stroke-width="0.8"/>
+    <!-- iron sconces -->
+    <g fill="#e8a838">
+      <circle cx="-32" cy="-20" r="1.6"/>
+      <circle cx="32" cy="-20" r="1.6"/>
+      <circle cx="-32" cy="20" r="1.6"/>
+      <circle cx="32" cy="20" r="1.6"/>
+    </g>
+    <!-- guard posts on tunnel entrances -->
+    <g fill="#1a0a08">
+      <rect x="-50" y="-4" width="6" height="8"/>
+      <rect x="44" y="-4" width="6" height="8"/>
+      <rect x="-4" y="-38" width="8" height="6"/>
+      <rect x="-4" y="32" width="8" height="6"/>
+    </g>
+  </g>
+  <text x="540" y="745" font-size="10" font-weight="700" text-anchor="middle" fill="#f0e8d2">THE IRON HALL</text>
+  <text x="540" y="757" font-size="7" font-style="italic" text-anchor="middle" fill="#e8d8a4">−185 m · 45–50 m across · Slavers' HQ · Ronas Dermir</text>
+  <text x="540" y="769" font-size="7" font-style="italic" text-anchor="middle" fill="#e8d8a4">ancient brass-walled chamber, 8–9 m ceiling</text>
+
+  <!-- Vex's stronghold (eastern Midlevels) -->
+  <g transform="translate(780,700)">
+    <rect x="-12" y="-20" width="24" height="40" fill="#5a4838" stroke="#1a0a08" stroke-width="1"/>
+    <line x1="-12" y1="-7" x2="12" y2="-7" stroke="#1a0a08" stroke-width="0.5"/>
+    <line x1="-12" y1="7" x2="12" y2="7" stroke="#1a0a08" stroke-width="0.5"/>
+  </g>
+  <text x="780" y="750" font-size="8" font-style="italic" text-anchor="middle" fill="#e8d8a4">Vex's stronghold</text>
+  <text x="780" y="761" font-size="7" font-style="italic" text-anchor="middle" fill="#e8d8a4">three-story · eastern quarter</text>
+
+  <!-- Water station markers -->
+  <g fill="#4a90c0" stroke="#1a3a4a" stroke-width="0.8">
+    <circle cx="180" cy="620" r="4"/>
+    <circle cx="420" cy="620" r="4"/>
+    <circle cx="700" cy="620" r="4"/>
+    <circle cx="980" cy="630" r="4"/>
+  </g>
+  <text x="180" y="640" font-size="7" text-anchor="middle" fill="#a8d4e8" font-style="italic">water</text>
+
+  <!-- Descent into Depths -->
+  <g stroke="#1a0a08" stroke-width="2" fill="none" stroke-dasharray="3 4" opacity="0.85">
+    <line x1="240" y1="820" x2="280" y2="900"/>
+    <line x1="460" y1="820" x2="430" y2="900"/>
+    <line x1="640" y1="820" x2="680" y2="900"/>
+    <line x1="820" y1="820" x2="780" y2="900"/>
+  </g>
+
+  <!-- ===== Layer 4: The Depths (-300 to -500m) ===== -->
+  <rect x="80" y="820" width="1020" height="280" fill="url(#layerGrad4)" opacity="0.95" stroke="#5a4a2a" stroke-width="0.6"/>
+  <text x="900" y="860" font-size="14" font-weight="700" letter-spacing="3" fill="#f0e8d2">THE DEPTHS</text>
+  <text x="900" y="875" font-size="9" font-style="italic" fill="#f0e8d2">−300 to −500 m · pop. 8–10,000 (desperate, hunted)</text>
+  <text x="900" y="890" font-size="8" fill="#e8d8a4">80–95°F · poor air · ancient mechanisms increasingly active</text>
+  <text x="900" y="905" font-size="8" fill="#e8d8a4">primary Slaver hunting ground · little Long Knives presence</text>
+  <text x="900" y="920" font-size="8" fill="#e8d8a4">strange blue conduits glow faintly in deeper passages</text>
+
+  <!-- Tunnel 7 scavenger ops -->
+  <g transform="translate(360,960)">
+    <rect x="-30" y="-15" width="60" height="30" fill="#4a3828" stroke="#1a0a08" stroke-width="1.2"/>
+    <!-- chains / cages -->
+    <g stroke="#a87838" stroke-width="0.8" fill="none">
+      <line x1="-22" y1="-15" x2="-22" y2="15"/>
+      <line x1="-14" y1="-15" x2="-14" y2="15"/>
+      <line x1="-6" y1="-15" x2="-6" y2="15"/>
+      <line x1="2" y1="-15" x2="2" y2="15"/>
+    </g>
+    <!-- pile of rubble -->
+    <path d="M 8 5 L 18 -10 L 26 5 Z" fill="#7a5a3a" stroke="#1a0a08" stroke-width="0.5"/>
+  </g>
+  <text x="360" y="1000" font-size="10" font-weight="600" text-anchor="middle" fill="#f0e8d2">TUNNEL 7</text>
+  <text x="360" y="1011" font-size="7" font-style="italic" text-anchor="middle" fill="#e8d8a4">scavenger ops · collapsed sections cleared</text>
+  <text x="360" y="1022" font-size="7" font-style="italic" text-anchor="middle" fill="#e8d8a4">where Tam was sold</text>
+
+  <!-- Hot Spring water station -->
+  <g fill="#c83838" stroke="#3a1a08" stroke-width="0.8">
+    <circle cx="700" cy="1000" r="5"/>
+  </g>
+  <text x="700" y="1018" font-size="7" text-anchor="middle" fill="#e8a8a8" font-style="italic">The Hot Spring</text>
+
+  <!-- Long Knives' guarded descent to Dead Man's Passage -->
+  <g stroke="#aa3838" stroke-width="2.6" fill="none" opacity="0.9">
+    <path d="M 280 900 Q 290 950 320 1000 Q 360 1060 420 1100"/>
+  </g>
+  <text x="240" y="1050" font-size="7" font-style="italic" fill="#aa3838" transform="rotate(60 240 1050)">→ Long Knives' guarded route</text>
+
+  <!-- Ancient passage symbols -->
+  <g fill="#5a8ab8" opacity="0.6">
+    <circle cx="500" cy="1050" r="2"/>
+    <circle cx="540" cy="1080" r="2"/>
+    <circle cx="580" cy="1040" r="2"/>
+    <circle cx="640" cy="1070" r="2"/>
+    <circle cx="700" cy="1050" r="2"/>
+  </g>
+
+  <!-- ===== Layer 5: Dead Man's Passage (-500m+) ===== -->
+  <rect x="80" y="1100" width="1020" height="200" fill="url(#lathionGrad)" opacity="0.95" stroke="#5a4a2a" stroke-width="0.6"/>
+  <text x="900" y="1140" font-size="14" font-weight="700" letter-spacing="3" fill="#a8c4d8">DEAD MAN'S PASSAGE</text>
+  <text x="900" y="1155" font-size="9" font-style="italic" fill="#a8c4d8">−500 m+ · pop. 0 (lethal maze)</text>
+  <text x="900" y="1170" font-size="8" fill="#a8c4d8">3D labyrinth · branches up, down, sideways · pristine ancient construction</text>
+  <text x="900" y="1185" font-size="8" fill="#a8c4d8">temp rises with descent · faint blue ancient lighting in walls</text>
+  <text x="900" y="1200" font-size="8" fill="#a8c4d8">only the Long Knives (and Elara, in trance) navigate it</text>
+  <text x="900" y="1215" font-size="8" fill="#a8c4d8">8–12 hours descent with guide</text>
+
+  <!-- Maze of passages -->
+  <g stroke="#5a8ab8" stroke-width="1.2" fill="none" opacity="0.7">
+    <path d="M 280 1130 L 320 1170 L 290 1210 L 340 1240 L 310 1280"/>
+    <path d="M 360 1140 L 400 1180 L 380 1220 L 430 1260"/>
+    <path d="M 200 1160 L 240 1200 L 220 1250"/>
+    <path d="M 440 1130 L 480 1170 L 460 1220 L 500 1260"/>
+    <path d="M 520 1140 L 560 1180 L 530 1230 L 580 1270"/>
+  </g>
+
+  <!-- Brass door chamber -->
+  <g transform="translate(595,1280)">
+    <circle r="50" fill="url(#brassGlow)"/>
+    <ellipse cx="0" cy="0" rx="40" ry="14" fill="#1a2a3a" stroke="#5a8ab8" stroke-width="1.5"/>
+    <!-- the brass door (vertical, prominent) -->
+    <rect x="-8" y="-22" width="16" height="36" fill="#b8862c" stroke="#3a2a18" stroke-width="1.4"/>
+    <!-- engravings (decorative lines) -->
+    <g stroke="#3a2a18" stroke-width="0.5" opacity="0.7">
+      <line x1="-5" y1="-18" x2="5" y2="-18"/>
+      <line x1="-5" y1="-12" x2="5" y2="-12"/>
+      <line x1="-5" y1="-6" x2="5" y2="-6"/>
+      <line x1="-5" y1="0" x2="5" y2="0"/>
+      <line x1="-5" y1="6" x2="5" y2="6"/>
+      <line x1="-5" y1="12" x2="5" y2="12"/>
+    </g>
+    <!-- spirit's reflection (mirror) in alcove -->
+    <circle cx="-30" cy="-2" r="4" fill="#a8c4d8" stroke="#1a2a3a" stroke-width="0.6"/>
+  </g>
+  <text x="595" y="1230" font-size="11" font-weight="700" text-anchor="middle" fill="#e8c878">THE BRASS DOOR</text>
+  <text x="595" y="1244" font-size="8" font-style="italic" text-anchor="middle" fill="#a8c4d8">5 m × 3 m · sealed · engraved · pulses like a heartbeat</text>
+  <text x="490" y="1280" font-size="7" font-style="italic" text-anchor="end" fill="#a8c4d8">Spirit's Reflection</text>
+  <text x="490" y="1290" font-size="7" font-style="italic" text-anchor="end" fill="#a8c4d8">(mirror in alcove)</text>
+
+  <!-- ===== Layer 6: Lathion (sealed, below the door) ===== -->
+  <rect x="80" y="1300" width="1020" height="220" fill="#0a1828" stroke="#3a2a18" stroke-width="1.2"/>
+  <text x="600" y="1345" font-size="20" font-weight="700" letter-spacing="6" text-anchor="middle" fill="#5a8ab8" font-style="italic">~ LATHION ~</text>
+  <text x="600" y="1366" font-size="10" letter-spacing="3" text-anchor="middle" fill="#5a8ab8">The Lost City of Gears · sealed beyond the brass door</text>
+  <text x="600" y="1385" font-size="9" font-style="italic" text-anchor="middle" fill="#4a7ab0">5,000 years old · pre-imperial elven metropolis</text>
+  <text x="600" y="1400" font-size="9" font-style="italic" text-anchor="middle" fill="#4a7ab0">contains the Destiny Engine (geographically beneath the Ruby Palace)</text>
+  <text x="600" y="1415" font-size="9" font-style="italic" text-anchor="middle" fill="#4a7ab0">unknown to all but a few — its inhabitants gave their existence to seal the Rending</text>
+
+  <!-- Faint city silhouette of Lathion -->
+  <g fill="#1a2a3a" opacity="0.7">
+    <rect x="200" y="1430" width="14" height="40"/>
+    <rect x="220" y="1440" width="10" height="30"/>
+    <rect x="240" y="1420" width="18" height="50"/>
+    <rect x="265" y="1435" width="12" height="35"/>
+    <rect x="285" y="1425" width="16" height="45"/>
+    <rect x="310" y="1440" width="10" height="30"/>
+    <rect x="330" y="1430" width="14" height="40"/>
+    <rect x="355" y="1420" width="20" height="50"/>
+    <rect x="380" y="1435" width="12" height="35"/>
+    <rect x="400" y="1425" width="16" height="45"/>
+    <rect x="425" y="1440" width="10" height="30"/>
+    <rect x="445" y="1430" width="14" height="40"/>
+    <rect x="470" y="1425" width="18" height="45"/>
+    <rect x="495" y="1435" width="12" height="35"/>
+    <!-- central Destiny Engine — directly below Ruby Palace (x=595 above) -->
+    <rect x="565" y="1410" width="60" height="80" fill="#5a8ab8" opacity="0.5" stroke="#a8c4d8" stroke-width="0.8"/>
+    <text x="595" y="1455" font-size="8" font-weight="700" text-anchor="middle" fill="#e8c878">DESTINY</text>
+    <text x="595" y="1465" font-size="8" font-weight="700" text-anchor="middle" fill="#e8c878">ENGINE</text>
+    <rect x="635" y="1430" width="14" height="40"/>
+    <rect x="660" y="1425" width="20" height="45"/>
+    <rect x="685" y="1440" width="10" height="30"/>
+    <rect x="705" y="1430" width="14" height="40"/>
+    <rect x="730" y="1420" width="18" height="50"/>
+    <rect x="755" y="1435" width="12" height="35"/>
+    <rect x="775" y="1425" width="16" height="45"/>
+    <rect x="800" y="1440" width="10" height="30"/>
+    <rect x="820" y="1430" width="14" height="40"/>
+    <rect x="845" y="1425" width="18" height="45"/>
+    <rect x="870" y="1435" width="12" height="35"/>
+    <rect x="890" y="1430" width="14" height="40"/>
+    <rect x="915" y="1420" width="20" height="50"/>
+    <rect x="940" y="1435" width="12" height="35"/>
+    <rect x="960" y="1425" width="16" height="45"/>
+    <rect x="985" y="1440" width="10" height="30"/>
+  </g>
+
+  <!-- Vertical alignment line from Ruby Palace down to Destiny Engine -->
+  <line x1="595" y1="160" x2="595" y2="1410" stroke="#a83232" stroke-width="0.6" stroke-dasharray="2 6" opacity="0.5"/>
+  <text x="600" y="240" font-size="6" fill="#7a1d1d" font-style="italic" opacity="0.7">(vertical alignment: palace → engine)</text>
+
+  <!-- ============ RIGHT-SIDE ANNOTATION BANDS ============ -->
+  <g font-size="8" fill="#3a2a18" font-style="italic" font-family="'Helvetica',sans-serif">
+    <!-- temperature -->
+    <text x="1115" y="280" text-anchor="middle" font-weight="700">TEMP</text>
+    <text x="1115" y="305" text-anchor="middle">110°F+</text>
+    <text x="1115" y="450" text-anchor="middle">70–80°F</text>
+    <text x="1115" y="680" text-anchor="middle" fill="#e8d8a4">65–70°F</text>
+    <text x="1115" y="960" text-anchor="middle" fill="#e8d8a4">80–95°F</text>
+    <text x="1115" y="1200" text-anchor="middle" fill="#a8c4d8">warmer ↓</text>
+  </g>
+
+  <!-- ============ LEGEND ============ -->
+  <g transform="translate(80, 1540)" font-size="9" fill="#1a1a1a">
+    <rect x="-10" y="-22" width="1100" height="50" fill="white" fill-opacity="0.9" stroke="#5a4a2a" stroke-width="0.5"/>
+    <text x="0" y="-8" font-size="10" font-weight="700" letter-spacing="2">LEGEND</text>
+    <g transform="translate(0,8)">
+      <line x1="0" y1="0" x2="20" y2="0" stroke="#3a2a18" stroke-width="2" stroke-dasharray="4 3"/>
+      <text x="28" y="3">vertical passage / ramp</text>
+    </g>
+    <g transform="translate(200,8)">
+      <line x1="0" y1="0" x2="20" y2="0" stroke="#aa3838" stroke-width="2.6"/>
+      <text x="28" y="3">Long Knives' guarded route</text>
+    </g>
+    <g transform="translate(440,8)">
+      <circle cx="6" cy="0" r="4" fill="#4a90c0" stroke="#1a3a4a" stroke-width="0.6"/>
+      <text x="18" y="3">water station</text>
+    </g>
+    <g transform="translate(580,8)">
+      <circle cx="6" cy="0" r="2" fill="#5a8ab8"/>
+      <text x="14" y="3">ancient blue-glow conduit (Lathionese)</text>
+    </g>
+    <g transform="translate(820,8)">
+      <line x1="0" y1="0" x2="20" y2="0" stroke="#a83232" stroke-width="0.8" stroke-dasharray="2 4"/>
+      <text x="28" y="3">vertical alignment (Ruby Palace ↔ Destiny Engine)</text>
+    </g>
+  </g>
+
+  <!-- Compass / scale note -->
+  <text x="1120" y="1590" font-size="8" font-style="italic" fill="#5a4a2a" text-anchor="end">cross-section oriented N (left) ↔ S (right); not to scale</text>
+</svg>
