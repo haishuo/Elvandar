@@ -213,4 +213,4 @@ But the proof of his thesis is also his prison. He cannot reform his methods wit
 
 His greatest fear is not death or defeat but *replacement* — not by someone stronger, but by someone worse. Someone without his discipline, his pragmatism, his capacity for calculated restraint. Because Ronas knows, better than anyone, exactly what his lieutenants would do if he weren't standing between them and the people of the Warrens. He's seen glimpses of it. In Book 2, when the leash came off, the whole city saw it too.
 
-The Slaver King is Kaha'an's least comfortable truth: that the worst corner of the city is held together by a man who is honest about being terrible, competent at being necessary, and irreplaceable precisely because of the things that make him reviled.
+The Slaver King is Balisha's least comfortable truth: that the worst corner of the city is held together by a man who is honest about being terrible, competent at being necessary, and irreplaceable precisely because of the things that make him reviled.

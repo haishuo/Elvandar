@@ -136,7 +136,7 @@ The Engine represents not just advanced technology, but the work of someone who 
 - Personal enhancement through combined magics
 - Squad-based cooperative casting
 
-### Kaha'an: Infrastructure Magic
+### Balisha: Infrastructure Magic
 - Desert survival using all available schools
 - Communication networks spanning vast distances
 - Resource generation through combination techniques

@@ -2,7 +2,7 @@
 
 ## The Man Who Won
 
-In a city where power is measured by necessity rather than nobility, Rosik Kemvimore stands as perhaps the most essential — and most dangerous — of Kaha'an's rulers. The man who controls every grain of wheat that enters the desert crossroads possesses a legitimacy that none of the other cartel leaders can match: he quite literally saved Kaha'an from collapse in the aftermath of The Rending. Without his immediate, ruthless intervention, the city would have descended into anarchy. Blood would have flowed in the streets as desperate people fought over dwindling resources. The last vestige of the Balishan Empire would have torn itself apart from within.
+In a city where power is measured by necessity rather than nobility, Rosik Kemvimore stands as perhaps the most essential — and most dangerous — of Balisha's rulers. The man who controls every grain of wheat that enters the desert crossroads possesses a legitimacy that none of the other cartel leaders can match: he quite literally saved Balisha from collapse in the aftermath of The Rending. Without his immediate, ruthless intervention, the city would have descended into anarchy. Blood would have flowed in the streets as desperate people fought over dwindling resources. The last vestige of the Balishan Empire would have torn itself apart from within.
 
 This is not just true. It is the core of his identity.
 
@@ -10,7 +10,7 @@ Rosik Kemvimore does not think of himself as an institution or a dynasty. He thi
 
 And he has never stopped winning. Not because he craves victory for its own sake, but because the alternative is admitting that someone else could do this. That the city doesn't need *him specifically.* That the Coterie could govern by committee, that Elara could rule through idealism, that the machinery he built could run without the man who built it. Rosik cannot accept that — not because it threatens his legacy, but because he has spent twenty years proving he's the best person in the room, and he cannot conceive of a room where that isn't true.
 
-The grief helps him not think about it. After the Rending killed his wife, he threw himself into the work with manic energy — not to build a monument to her memory, but because the sheer scale of the crisis was the only thing large enough to fill the void she left. Saving Kaha'an was, among other things, an extraordinarily effective way to not feel anything. And now the city is saved, and the numbness has calcified into conviction, and Rosik cannot distinguish between "I am the best leader Kaha'an has" and "I need to be the best leader Kaha'an has, because if I stop, I will have to sit alone with what I lost."
+The grief helps him not think about it. After the Rending killed his wife, he threw himself into the work with manic energy — not to build a monument to her memory, but because the sheer scale of the crisis was the only thing large enough to fill the void she left. Saving Balisha was, among other things, an extraordinarily effective way to not feel anything. And now the city is saved, and the numbness has calcified into conviction, and Rosik cannot distinguish between "I am the best leader Balisha has" and "I need to be the best leader Balisha has, because if I stop, I will have to sit alone with what I lost."
 
 He would rather run a city than grieve a wife. He has been making that choice every day for twenty years.
 
@@ -24,7 +24,7 @@ He would rather run a city than grieve a wife. He has been making that choice ev
 
 Rosik's core motivation is proving that he is the most capable person in any room he enters. Not for applause, not for recognition — for the bone-deep satisfaction of being *right* that he is the best. He was the best assassin in the Long Knives. He was the best crisis leader during the Rending. He is the best administrator in Kaha'an. These are not boasts. They are empirical facts, demonstrated through decades of performance, and Rosik's identity is built entirely on that demonstration.
 
-This is what separates him from the dynasty-builder archetype. Rosik does not care about House Kemvimore enduring for generations. He does not think about legacy in the abstract. He cares about solving the problem in front of him better than anyone else could, and the problem in front of him has been "keep Kaha'an from collapsing" for twenty years. He threw himself into that problem after the Rending not to build a monument to his dead wife but because the sheer scale of the crisis demanded the best, and he *was* the best, and the manic energy of grief needed somewhere to go that wasn't a locked room with a portrait.
+This is what separates him from the dynasty-builder archetype. Rosik does not care about House Kemvimore enduring for generations. He does not think about legacy in the abstract. He cares about solving the problem in front of him better than anyone else could, and the problem in front of him has been "keep Balisha from collapsing" for twenty years. He threw himself into that problem after the Rending not to build a monument to his dead wife but because the sheer scale of the crisis demanded the best, and he *was* the best, and the manic energy of grief needed somewhere to go that wasn't a locked room with a portrait.
 
 His frustration with the Coterie is pure Competitor impatience. He does not object to the council because it threatens his dynasty — he objects because it is *slow*. Committees debate. Rosik decides. Tania needs consensus. Sa Ko needs honor. Ronas needs to be managed. If Rosik could simply govern alone — autocracy, not dynasty — he could solve in an afternoon what the Coterie takes months to fumble through. The inefficiency offends him the way a missed note offends a musician. He doesn't want to be king because kings have crowns. He wants to be king because kings don't need permission to act.
 
@@ -40,7 +40,7 @@ Because the grief hasn't gone anywhere. It has been compounding behind that door
 
 The room exists as proof that Rosik Kemvimore once loved someone enough to build a monument. The fact that he no longer visits is proof of what twenty years of not-feeling does to a man: eventually, the callouses don't just protect you from the pain. They protect you from remembering that there was something worth feeling pain about.
 
-The portrait tells us what the public performance conceals. Every system he built, every crisis he solved, every decisive act was also — simultaneously, inseparably — a way to avoid sitting still with loss. The work and the grief are fused. He cannot stop governing because governing is what keeps the grief at bay, and the grief is what fuels the governing, and somewhere in the engine of that cycle, Rosik Kemvimore stopped being able to tell the difference between "I am the best leader Kaha'an has" and "I need to keep leading or I will have to feel what I lost."
+The portrait tells us what the public performance conceals. Every system he built, every crisis he solved, every decisive act was also — simultaneously, inseparably — a way to avoid sitting still with loss. The work and the grief are fused. He cannot stop governing because governing is what keeps the grief at bay, and the grief is what fuels the governing, and somewhere in the engine of that cycle, Rosik Kemvimore stopped being able to tell the difference between "I am the best leader Balisha has" and "I need to keep leading or I will have to feel what I lost."
 
 **Shadow:** He cannot stop competing even when there is nothing left to win. He unleashes Ronas rather than accepting defeat — choosing chaos over concession, because concession is what people do when they aren't good enough, and Rosik has never not been good enough. His daughter dies because he could not tolerate losing. The Competitor's shadow is not cruelty — it is the inability to stop.
 
@@ -102,7 +102,7 @@ In Book 2, his explicit philosophy — "Help people now, not in some theoretical
 
 ### From the Slums to the Long Knives
 
-Few in Kaha'an know the truth of Rosik Kemvimore's origins — a secret he guards as fiercely as the city's grain supplies. The man who presides over House Kemvimore from the Noble District began life in the pre-Rending slums of Kaha'an, in the district that would later expand into the Warrens. He was raised in poverty by the woman who would later become the Mistress of the Long Knives.
+Few in Kaha'an know the truth of Rosik Kemvimore's origins — a secret he guards as fiercely as the city's grain supplies. The man who presides over House Kemvimore from the Noble District began life in the pre-Rending slums of Balisha, in the district that would later expand into the Warrens. He was raised in poverty by the woman who would later become the Mistress of the Long Knives.
 
 Recruited into the assassins' guild at a young age, Rosik showed remarkable aptitude. He rose to become one of their premier killers by his early twenties — not merely competent but the best, through relentless drive to prove himself superior to his peers. He developed a reputation for cold efficiency and meticulous planning. His lowborn status was an asset, allowing him to move unnoticed through various social contexts.
 
@@ -122,7 +122,7 @@ She saw enough of the real man and chose him anyway. This may be why her death b
 
 ## The Rending: Loss and Rebirth
 
-The Rending killed Lady Kemvimore. It destroyed the fertile lands surrounding Kaha'an. It eliminated the imperial family. It left the city on the edge of total collapse.
+The Rending killed Lady Kemvimore. It destroyed the fertile lands surrounding Balisha. It eliminated the imperial family. It left the city on the edge of total collapse.
 
 While others stood paralyzed, Rosik acted. Not from noble heroism — from the collision of grief, competence, and the desperate need to be doing something other than mourning. The woman he loved was dead. The world was ending. And Rosik Kemvimore was the most capable person in the room, as usual, and there was an impossible problem that needed solving, and solving impossible problems was the one thing that could keep him from feeling what he'd lost.
 
@@ -130,7 +130,7 @@ He organized emergency refugee response, coordinated food distribution after all
 
 Then he proposed the Coterie — a three-way power-sharing arrangement with Tania Larannas and Sa Ko Ren — not from generosity but because a war between the three of them would destroy everything he'd just won. He shared power because the alternative was losing, and losing was unacceptable. The Slavers forced their way to the table afterward. No one invited them. No one could stop them. Ronas Dermir has occupied a seat at the Coterie that was never offered, and every person in that room has known it from the beginning — none more than Ronas himself.
 
-Whatever his motivations, the results are inarguable. Kaha'an survived. The cartel system emerged. And Rosik Kemvimore sat at the center of it — the man who won, the man who solved it, the Lord of the Grain — with a dead wife, two young children, and an absolute conviction that he was the only person in Kaha'an capable of doing what he had just done.
+Whatever his motivations, the results are inarguable. Balisha survived. The cartel system emerged. And Rosik Kemvimore sat at the center of it — the man who won, the man who solved it, the Lord of the Grain — with a dead wife, two young children, and an absolute conviction that he was the only person in Kaha'an capable of doing what he had just done.
 
 ---
 
@@ -188,7 +188,7 @@ Elara's assessment: "He doesn't look like a monster." Because he doesn't. He loo
 
 Then the exchange that lays out the entire philosophical divide:
 
-"He believes he's doing good. Maintaining order, ensuring stability, protecting Kaha'an from chaos."
+"He believes he's doing good. Maintaining order, ensuring stability, protecting Balisha from chaos."
 
 "By starving its people."
 
@@ -218,7 +218,7 @@ What it created. By executing Mira, Rosik created Master Fen. He created the ide
 
 ### Prime Minister in All But Name
 
-After Elara's coronation, Rosik positions himself as head of the Coterie — the council of cartel leaders that forms the actual governing infrastructure of Kaha'an. The council itself irritates him — another committee full of people who aren't as good at this as he is — but it's the tool available, so he uses it. His affect when he summons Xion is clinical: no begging, no pleading, no visible emotion. Just a man presenting a problem he's already diagnosed and already knows how to solve, if everyone would stop getting in his way.
+After Elara's coronation, Rosik positions himself as head of the Coterie — the council of cartel leaders that forms the actual governing infrastructure of Balisha. The council itself irritates him — another committee full of people who aren't as good at this as he is — but it's the tool available, so he uses it. His affect when he summons Xion is clinical: no begging, no pleading, no visible emotion. Just a man presenting a problem he's already diagnosed and already knows how to solve, if everyone would stop getting in his way.
 
 The empress is blocking every reform the Coterie proposes. Sa Ko Ren — a *junior* member — has more influence than the Prime Minister. The government is paralyzed. This is, to Rosik, intolerable. Not because it threatens his dynasty but because it is *incompetent*. People are dying of the paralysis. He could fix it. He is being prevented from fixing it by an idealist with no governing experience and a council that can't agree on anything.
 
@@ -286,7 +286,7 @@ Xion walks away with nothing but his medical bag. Free for the first time in his
 
 Rosik sees the writing on the wall. He has lost everything — money, coalition, allies, daughter, son. His options are execution or exile.
 
-He chooses exile. Still controlled, still strategic — recognizing when the game is lost and cutting losses. He flees Kaha'an under cover of darkness.
+He chooses exile. Still controlled, still strategic — recognizing when the game is lost and cutting losses. He flees Balisha under cover of darkness.
 
 The man who entered the masquerade without a mask — who claimed rooms like a king, who refused to hide behind pretense — leaves in the dark. The contrast between his entrance in Chapter 10 and his exit in Book 2 is the full arc of his fall.
 
@@ -310,9 +310,9 @@ Rosik tells Kalden exactly what Kalden wants to hear. That his cause is just. Th
 
 But Rosik's real plan has nothing to do with Kalden's war.
 
-The war is the distraction. Kalden's mercenary army — funded by mortgaging the last scraps of the Erulian Principality — exists to pull Tiberian Valanar and the kingdom's military attention outward. To create noise, chaos, threat. To put Kaha'an's defenders where Rosik needs them: anywhere except between him and Xion.
+The war is the distraction. Kalden's mercenary army — funded by mortgaging the last scraps of the Erulian Principality — exists to pull Tiberian Valanar and the kingdom's military attention outward. To create noise, chaos, threat. To put Balisha's defenders where Rosik needs them: anywhere except between him and Xion.
 
-Because the target was always Xion. From the moment Rosik walked out of Kaha'an in the dark, the only thing that mattered was getting back to the son who destroyed him. Not to reclaim the Grain cartel. Not to restore House Kemvimore. Not to prove he was the best administrator in the room. Just to kill the boy who turned his own methods against him and took everything — coalition, wealth, daughter, name.
+Because the target was always Xion. From the moment Rosik walked out of Balisha in the dark, the only thing that mattered was getting back to the son who destroyed him. Not to reclaim the Grain cartel. Not to restore House Kemvimore. Not to prove he was the best administrator in the room. Just to kill the boy who turned his own methods against him and took everything — coalition, wealth, daughter, name.
 
 This is where the Competitor drive reveals its final, ugliest form. Rosik does not want to *win* anymore. He wants to *end* the person who proved he could lose. The distinction matters. Winning implies a future — something built on the victory, some next problem to solve. Rosik has no future. He has a target.
 

@@ -122,7 +122,7 @@ Her reasons for joining the coalition are purely practical. Rosik's faction prop
 
 ### Under Suspicion
 
-After the assassination attempt on Elara — poison in her wine at a formal dinner — Tania comes under suspicion because "her servants prepared the dinner." The text does not resolve whether Tania had any involvement (the reader knows from an earlier chapter that the attempt was actually Kalden's doing from outside Kaha'an). But the suspicion itself is characteristically dangerous for someone in Tania's position: she is close enough to power to be suspected, but the accusation — if believed — could destroy everything she has maintained.
+After the assassination attempt on Elara — poison in her wine at a formal dinner — Tania comes under suspicion because "her servants prepared the dinner." The text does not resolve whether Tania had any involvement (the reader knows from an earlier chapter that the attempt was actually Kalden's doing from outside Balisha). But the suspicion itself is characteristically dangerous for someone in Tania's position: she is close enough to power to be suspected, but the accusation — if believed — could destroy everything she has maintained.
 
 ### Pure Transactional Fear
 

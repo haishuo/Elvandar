@@ -5,13 +5,13 @@
 ### Book 1: The Grain Merchant's Son
 **Status:** COMPLETE
 
-Xion Kemvimore, secret healer to Kaha'an's poor, witnesses a woman whose eyes shift from blue to amber to violet—the legendary royal trait of House Valanar. When he sees the boy he treated (Tam) dragged away by Slavers on fabricated charges, he becomes obsessed with finding the woman, despite his friends' concerns that he's processing trauma through hallucination. After systematically eliminating every possibility, logic points to one place: the Arol Batae compound, where former imperial guards have lived in isolation for twenty years. Xion infiltrates the compound and finds Princess Elara, the last heir to the Ruby Throne.
+Xion Kemvimore, secret healer to Balisha's poor, witnesses a woman whose eyes shift from blue to amber to violet—the legendary royal trait of House Valanar. When he sees the boy he treated (Tam) dragged away by Slavers on fabricated charges, he becomes obsessed with finding the woman, despite his friends' concerns that he's processing trauma through hallucination. After systematically eliminating every possibility, logic points to one place: the Arol Batae compound, where former imperial guards have lived in isolation for twenty years. Xion infiltrates the compound and finds Princess Elara, the last heir to the Ruby Throne.
 
 But his search attracts attention. Farleen, his closest friend and secret love, reveals she's been a spy all along, ordered to watch his reformist group. When he discovers the princess, Farleen receives orders to kill him. She tries but can't bring herself to strike true—her blade tears his shoulder instead of piercing his heart. Elara, who'd been following Xion, saves him and knocks Farleen unconscious.
 
-Unable to return to their old lives, Xion and Elara become fugitives together. He shows her the reality of Kaha'an: water rights that exclude the poor, Slavers fabricating debts, nobles wasting resources while children starve. With each injustice witnessed, Elara's control over her color-changing eyes weakens, her rage building at the cruelty committed in her family's name.
+Unable to return to their old lives, Xion and Elara become fugitives together. He shows her the reality of Balisha: water rights that exclude the poor, Slavers fabricating debts, nobles wasting resources while children starve. With each injustice witnessed, Elara's control over her color-changing eyes weakens, her rage building at the cruelty committed in her family's name.
 
-The book ends with Elara sitting on the Ruby Throne as ancient wards blaze to life, the palace recognizing its empress after twenty years of silence. Bells ring throughout Kaha'an. The impossible has become real.
+The book ends with Elara sitting on the Ruby Throne as ancient wards blaze to life, the palace recognizing its empress after twenty years of silence. Bells ring throughout Balisha. The impossible has become real.
 
 ---
 
@@ -47,9 +47,9 @@ Ronas executes the psychotic lieutenant immediately to re-establish control. But
 
 Xion is more determined than ever. He convinces Ronas to stand down: "Why are you taking orders from him anyway? While you're bleeding, Rosik sits in his mansion drinking wine and laughing at you. You're Ronas Dermir, king of the Warrens! You bow to no one!"
 
-Xion systematically dismantles Rosik's remaining advantages until his father is forced to flee Kaha'an.
+Xion systematically dismantles Rosik's remaining advantages until his father is forced to flee Balisha.
 
-They won, but at terrible cost. The shadow war drained Kaha'an's coffers. Xion returns to being himself, but his soul is scarred by the knowledge he had to use his father's tactics—and worse, that it felt GOOD. He vows never to be that person again.
+They won, but at terrible cost. The shadow war drained Balisha's coffers. Xion returns to being himself, but his soul is scarred by the knowledge he had to use his father's tactics—and worse, that it felt GOOD. He vows never to be that person again.
 
 Elara desperately wants to comfort him, but she's bedridden and the bedchamber visit was a one-time exception. To her chagrin, it's Farleen who comforts Xion in his darkest moment.
 
@@ -61,11 +61,11 @@ The future seems uncertain. Book 2 ends on scars and hollow victory.
 
 **The Name He Chose:** In the opening weeks of Book 3, as Elara begins formalizing the governance structure that will replace the Coterie's informal arrangements, she names Xion as **First Counselor to the Crown** — her chief political advisor, with the institutional access that has been denied him since the day after her coronation. When a representative of the old noble houses questions his standing (the Kemvimore name, the procedural ambiguity), Elara makes the case directly: the expulsion the day after coronation; the months of blockade while Rosik consolidated; the one exceptional palace visit she had to command by imperial authority; Melina; and Rosik's own public disinheritance — the "enemy Kemvimore" argument collapses when Rosik himself rejected Xion. The appointment stands. Separately, and quietly, Xion changes his name: no longer Kemvimore, now **Fen**. Mira Fen's name. The readers who know what that means carry it forward. He takes the Valanar name upon marriage later in Book 3.
 
-Elara and Xion realize Kaha'an is nearly bankrupt from the shadow war. They remember the Brass Door from Book 1—it responded to Elara but didn't open. They need help opening it.
+Elara and Xion realize Balisha is nearly bankrupt from the shadow war. They remember the Brass Door from Book 1—it responded to Elara but didn't open. They need help opening it.
 
 They approach Gunastran first, but are laughed out: "You want our best engineers on an IOU, for unknown rewards behind a mysterious door? For all you know it's a broom closet! Pass!"
 
-They turn to Uratha. Xion suggests leveraging the Scholar's Crown—a divine artifact that Kaha'an once lent to Uratha when both were provinces in the old Balishan Empire. The Crown grants worthy wearers the insight and knowledge of all worthy bearers before them. When the empire fell, Kaha'an demanded its return and was steadfastly refused for over 300 years.
+They turn to Uratha. Xion suggests leveraging the Scholar's Crown—a divine artifact that Balisha once lent to Uratha when both were provinces in the old Balishan Empire. The Crown grants worthy wearers the insight and knowledge of all worthy bearers before them. When the empire fell, Balisha demanded its return and was steadfastly refused for over 300 years.
 
 Xion's proposal: Promise to stop asking for the Crown's return (they were never getting it back anyway) in exchange for Urathan assistance opening the door.
 
@@ -75,11 +75,11 @@ They're wrong.
 
 Behind the door lies Lathion, the City of Gears—a lost city filled with magi-tech so advanced it makes Gunastran look primitive.
 
-Uratha immediately wants in. New deal: They'll RETURN the Scholar's Crown to Kaha'an (something Elara's predecessors demanded in vain for 300 years) in exchange for exclusive access to Lathion's technological treasures.
+Uratha immediately wants in. New deal: They'll RETURN the Scholar's Crown to Balisha (something Elara's predecessors demanded in vain for 300 years) in exchange for exclusive access to Lathion's technological treasures.
 
 Elara agrees.
 
-**Consequences:** Gunastran feels existentially threatened. Their entire economy is magi-tech. If Uratha and Kaha'an unlock Lathion's power, Gunastran becomes obsolete. They begin preparing for war, looking for allies.
+**Consequences:** Gunastran feels existentially threatened. Their entire economy is magi-tech. If Uratha and Balisha unlock Lathion's power, Gunastran becomes obsolete. They begin preparing for war, looking for allies.
 
 Prince Kalden Erulius sees opportunity. He sends a marriage proposal to Elara: marry him for legitimacy and imperial power, and in exchange he'll destroy the forming Gunastrani Compact by refusing to attack his own wife.
 
@@ -95,17 +95,17 @@ He arrives with a sincere, carefully prepared argument: House Kemvimore, one of 
 
 This is his mistake. Xion can absorb personal insults — Rosik trained him well. But the implied dynastic compromise for his children is one of his genuine red lines. He goes quiet. Still. He withdraws his moderating influence. The envoy, reading this as "he knows his place," never realizes that the thermostat in the room has an off switch. By the time he does, Elara has expelled him.
 
-The envoy returns to Vartonne and reports with complete sincerity that the Kaha'ani court has become alarmingly sensitive. He never understands what he actually did. Vartonne's pride is wounded — they gave good counsel and were inexplicably snubbed.
+The envoy returns to Vartonne and reports with complete sincerity that the Balishan court has become alarmingly sensitive. He never understands what he actually did. Vartonne's pride is wounded — they gave good counsel and were inexplicably snubbed.
 
 Kalden, spurned and furious, signs Gunastran's Compact that evening.
 
 **The Compact Forms:**
 - **Gunastran:** Joins from existential terror of technological obsolescence
 - **Erulian Principality:** Kalden joins out of spite and wounded pride
-- **Vartonne:** Arrives with a fresh, specific grievance — Kaha'an expelled their envoy days ago for giving sincere counsel. Kalden doesn't just promise restoration of old glory; he *validates* their reading of events: "the new Kaha'an disrespects the old ways." Vartonne doesn't get bought. They get confirmed.
+- **Vartonne:** Arrives with a fresh, specific grievance — Balisha expelled their envoy days ago for giving sincere counsel. Kalden doesn't just promise restoration of old glory; he *validates* their reading of events: "the new Balisha disrespects the old ways." Vartonne doesn't get bought. They get confirmed.
 
 **The Tripartite Alliance:**
-- **Kaha'an:** Obviously
+- **Balisha:** Obviously
 - **Uratha:** Can't give up their Lathion advantage, dearly bought with the Scholar's Crown
 - **Terinok:** Now existentially necessary — with Vartonne in the Compact rather than neutral, the Alliance cannot cover its military gap with technology alone
 
@@ -129,7 +129,7 @@ The Terinok cantons, legendary mercenaries who respect strength above all, are i
 
 **POV Shift:** Entirely from Danshall Harkim's perspective. We don't meet Xion/Elara/Farleen in this book.
 
-The Continental War (or Compact War) has begun. Gunastran and the Erulian Principality strike Uratha first—strategic logic similar to the British plan at Saratoga during the American Revolution, aiming to cut Uratha off from Kaha'an and Terinok. They also want to slow Uratha's progress on understanding Lathion technology.
+The Continental War (or Compact War) has begun. Gunastran and the Erulian Principality strike Uratha first—strategic logic similar to the British plan at Saratoga during the American Revolution, aiming to cut Uratha off from Balisha and Terinok. They also want to slow Uratha's progress on understanding Lathion technology.
 
 **Danshall Harkim** is a young researcher in Uratha. He has a dark secret: In Uratha, the "bakarn" (beast-kin) are those who fail the High Exam—a test even more extreme than China's gaokao that relegates failures to near-slave status.
 
@@ -179,7 +179,7 @@ Prince Kalden Erulius, humiliated by his defeats in the Compact War, sees Silari
 **Tiberian's Moral Crusade:**
 
 Crown Prince Tiberian sees through Kalden's rhetoric and wants immediate action:
-- "Kaha'an has both resources and moral obligation to preserve Elvandar's greatest cultural treasure!"
+- "Balisha has both resources and moral obligation to preserve Elvandar's greatest cultural treasure!"
 - "People are suffering RIGHT NOW while we debate!"
 - "We have Lathion technology that could solve their infrastructure problems!"
 - "Every day we wait, more artists flee and more history is lost!"
@@ -215,7 +215,7 @@ The conflict plays out in Silaris's narrow streets and galleries, where every bu
 
 **The Warrens Question:**
 
-With Silaris resolved, attention turns to Kaha'an's unfinished business. The Warrens—built as temporary refugee housing after The Rending—have become permanent underclass contradicting everything Elara and Xion claim to represent.
+With Silaris resolved, attention turns to Balisha's unfinished business. The Warrens—built as temporary refugee housing after The Rending—have become permanent underclass contradicting everything Elara and Xion claim to represent.
 
 **The Uncomfortable Truth:**
 
@@ -231,7 +231,7 @@ It's not money or technology stopping them. It's human tendency to postpone unco
 
 **Melina's Analytical Paralysis:**
 
-Princess Melina knows—intellectually, morally, statistically—that the Warrens represent fundamental injustice contradicting everything Kaha'an claims to stand for.
+Princess Melina knows—intellectually, morally, statistically—that the Warrens represent fundamental injustice contradicting everything Balisha claims to stand for.
 
 She has comprehensive analysis: charts, projections, cost-benefit analyses, risk assessments, implementation timelines, infrastructure requirements, political ramifications, contingency plans for seventeen scenarios. She's calculated:
 - Exact resource requirements for relocating 200,000 people
@@ -282,12 +282,12 @@ Tiberian finds Melina in her study at midnight, surrounded by latest revisions. 
 
 Ronas likely thought his support during Elara's rise bought permanent immunity. He'd helped put her on throne; surely that meant he was untouchable? He probably convinced himself the status quo was sustainable.
 
-**The Political Problem:** Ronas built his identity around being indispensable to Kaha'an's functioning. The Slavers cartel controls the Warrens not just through force but by providing services the state failed to deliver. Eliminating the Warrens threatens to prove his entire life's work was unnecessary brutality.
+**The Political Problem:** Ronas built his identity around being indispensable to Balisha's functioning. The Slavers cartel controls the Warrens not just through force but by providing services the state failed to deliver. Eliminating the Warrens threatens to prove his entire life's work was unnecessary brutality.
 
 **His Public Arguments** (which aren't entirely wrong):
 - "Where exactly are you moving 200,000 people? Have you built these cities yet?"
 - "Who protects them during transition? The royal guard doesn't know the Warrens."
-- "What about economic disruption? Half of Kaha'an depends on Warrens labor."
+- "What about economic disruption? Half of Balisha depends on Warrens labor."
 - "You're destroying communities that have existed for decades."
 
 **His Private Fears:**
@@ -325,11 +325,11 @@ Kalden convinced himself Xion is architect of all his suffering, and destroying 
 
 Rosik emerges from exile with carefully preserved network and unquenched thirst for revenge. He recognizes in Kalden's desperation the perfect tool—someone he can manipulate while appearing to serve.
 
-Rosik offers insider knowledge of Kaha'an's defenses and vulnerabilities, promising to undermine the kingdom from within while Kalden attacks from without.
+Rosik offers insider knowledge of Balisha's defenses and vulnerabilities, promising to undermine the kingdom from within while Kalden attacks from without.
 
 **The Two-Front War:**
 
-Greatest threat Tiberian and Melina have ever faced combines external military assault with internal subversion. Unlike previous conflicts, this enemy knows Kaha'an's weaknesses intimately and has nothing left to lose.
+Greatest threat Tiberian and Melina have ever faced combines external military assault with internal subversion. Unlike previous conflicts, this enemy knows Balisha's weaknesses intimately and has nothing left to lose.
 
 **Tiberian** must apply hard-learned patience and strategic thinking to coordinate external defense, resisting urge to rush into Rosik's traps.
 
@@ -341,7 +341,7 @@ This time, there's no escape for the architects of old order. Unlike previous co
 
 When they fail:
 - Kalden's story ends definitively—his claims to imperial legitimacy die with him
-- Rosik's network is completely dismantled, his vision for Kaha'an buried forever
+- Rosik's network is completely dismantled, his vision for Balisha buried forever
 - The cartel system breathes its last breath
 - The imperial succession crisis is permanently resolved
 
@@ -400,7 +400,7 @@ In desperation, Xion "locks" the Globehall with a magical mechanism and refuses 
 - But Globehall is "locked" and they can't access the knowledge inside
 - Need Xion's "password" to unlock it
 - Their entire academic and intellectual dominance was consequence OF the Globehall—they can't just leave it locked or they'll fall behind
-- The Scholar's Crown isn't even IN Uratha anymore (returned to Kaha'an in Book 3), and even if it was, it hasn't worked in a century
+- The Scholar's Crown isn't even IN Uratha anymore (returned to Balisha in Book 3), and even if it was, it hasn't worked in a century
 - They need that knowledge to study Lathion tech—they're so reliant they almost can't do it themselves anymore
 
 **The Interrogations:**

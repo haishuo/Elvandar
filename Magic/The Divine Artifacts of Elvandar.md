@@ -32,7 +32,7 @@ A wicked blade forged in volcanic fire and cursed with the blood of a hundred hu
 
 The Terinok wanted quick power without the discipline and patience required by the Titan's Heart, and they found it in the Demon's Edge, though they had cause to regret it.
 
-## 🧿 The Spirit's Reflection (Soul) - Kaha'an
+## 🧿 The Spirit's Reflection (Soul) - Balisha
 
 > *"To understand another's fear, you must first understand your own."*
 
@@ -45,7 +45,7 @@ The Balishans were unwilling to face their own fears and be found worthy of the 
 ### The Corrupted Version: Trinket
 A seemingly simple coin that inspires greed in all who see it. Those who glimpse it are struck by an overwhelming desire to possess it. The coin is enchanted to always return to its owner, even if unwanted, discarded, traded away, or sold. It possesses minor clairvoyant powers—when flipped to answer a yes/no question, it will provide guidance like a set of runes.
 
-Unlike the Spirit's Reflection, which required the difficult work of confronting one's own fears, Trinket offers easy answers and plays into the greed that now defines Kaha'an.
+Unlike the Spirit's Reflection, which required the difficult work of confronting one's own fears, Trinket offers easy answers and plays into the greed that now defines Balisha.
 
 ---
 
