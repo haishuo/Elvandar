@@ -36,9 +36,11 @@ Rosik finds Kalden and reads him in seconds: a broken man with resources (mortga
 
 **Kalden's response:** He believes it because he has to. The alliance feels like destiny — two wronged men united against a common enemy. He mortgages his remaining territory to hire mercenaries. He borrows against the northern mines, against the Amber Palace itself, against everything that remains. He commits every last resource to what he believes is his final vindication.
 
-**The truth Kalden can't see:** Rosik's real plan has nothing to do with the war. The mercenary army is a distraction — something loud and threatening enough to pull Tiberian and the kingdom's military attention outward. While everyone watches the army at the gates, Rosik does what he was trained to do: infiltrate, get close, and kill. He doesn't need an invasion. He needs proximity and a blade.
+**The truth Kalden can't see:** Rosik's real plan has nothing to do with the war. The mercenary army is not a distraction in the abstract — it is a precision instrument, calibrated to produce a specific behavioral response in a specific person. Rosik has spent years modeling Balisha's defenses, and the bulk of that work focused on personalities, not walls. He knows Tiberian's character: the Tiger Prince will not let a foreign mercenary force camp on Balishan soil. He will ride out to engage. He knows Kess Ashwood's pattern: she goes where Tiberian goes. He knows the Arol Batae deployment logic: a substantial contingent will accompany them. Kalden's army is sized and positioned to draw exactly that response — enough threat to require a field engagement, not so much that the city would batten down behind its walls. The plan is a Rube Goldberg device with Kalden as its trigger and Tiberian's character as its lever.
 
-Kalden is the useful idiot. The loud, angry, delusional front man. Rosik doesn't care whether Kalden wins or loses. He doesn't care about the Erulian Principality, the Ruby Throne, or imperial legitimacy. He cares about killing the son who destroyed him.
+This intelligence-gathering came at a price. Rosik burned his entire Kaha'an network getting it. Every contact, every coin, every favor accumulated across thirty years went into reading the city. He arrives for the actual infiltration with no operational support whatsoever — no sabotage cells to activate, no informants to coordinate, no fallback assets. Just the knowledge, a blade, and the skills the Long Knives taught him forty years ago.
+
+Kalden is the useful idiot. The loud, angry, delusional front man. Rosik doesn't care whether Kalden wins or loses — he only needs him to *last*. An hour. Maybe two. Enough field engagement time for Tiberian and Kess and the Arol Batae contingent to be committed somewhere Rosik isn't. After that, Rosik doesn't care if Kalden dies in the field; in fact, he probably will. Rosik also has no illusions about his own survival. He expects the Arol Batae to descend on him like locusts the moment the deed is done. He has accepted this. He cares about killing the son who destroyed him, and there is nothing else left to want.
 
 ---
 
@@ -61,27 +63,29 @@ This is the world the old enemies are about to try to destroy. The reader needs 
 Intelligence arrives in Kaha'an: Kalden is mobilizing. Not the pathetic remnant of the Aspirant Guard — mercenaries, purchased with mortgaged territory. And Rosik Kemvimore has been seen in Eruliath.
 
 This news hits the Valanar family differently:
-- **Tiberian** recognizes the military threat and begins preparing defenses. His instinct is to meet it head-on — ride out, crush the mercenary force before it reaches Balisha. The tiger wants to charge.
-- **Melina** recognizes something deeper. Rosik's involvement changes the calculus entirely. This isn't just a military threat — it's a combined external/internal assault. Rosik knows Balisha's defenses intimately. He knows the palace, the infrastructure, the vulnerabilities. A straight military response plays into his hands.
+- **Tiberian** recognizes the military threat and begins preparing the response. A foreign mercenary army on Balishan soil cannot be allowed to entrench. He will ride out — not in the impulsive Silaris register but with the full apparatus Silaris taught him to build: forward intelligence, contingent reserves, supply lines, Kai handling logistics. The Tiger Prince has learned what charging without infrastructure costs. He has not learned, and will never learn, to sit on a wall while a foreign army camps on his border.
+- **Melina** recognizes something deeper. Rosik's involvement changes the calculus entirely. This isn't just a military threat — there is something else going on. Rosik knows Balisha's defenses intimately. He knows the palace, the infrastructure, the vulnerabilities. A straight military response may be exactly what he wants.
 - **Xion** hears his father's name and knows. Not the details — but the shape of it. He knows Rosik. He knows what Rosik is capable of when pushed to the wall. And he knows that Rosik's real target isn't the throne or the city. It's him.
 
-The preparation phase. Tiberian coordinates external defense — fortifications, troop positioning, alliance mobilization. Melina begins the harder work: counterintelligence. If Rosik is involved, there are agents already inside Balisha. Networks already activated. The assault began before the army marched.
+The preparation phase. Tiberian organizes the field response — the force that will ride out, the intelligence apparatus that will track Kalden's mercenaries, the logistics that will keep the column supplied. Melina begins the harder work: city defense and counterintelligence. If Rosik is involved, there may be agents already inside Balisha — sleeper networks, infiltrators, sabotage assets. She prepares for the assault that may have already begun before the army marched. What she does not know — what no one can know — is that Rosik burned his network getting to this point. The sleeper cells she is preparing for do not exist. The threat she is hunting is one man.
 
 ---
 
 ## ACT II: THE TWO-FRONT WAR
 
-**Emotional arc: The greatest test — external threat meets internal subversion**
+**Emotional arc: The greatest test — the partnership at maximum specialization**
 
-The mercenary army approaches Balisha. Simultaneously, Rosik's infiltration network activates — sabotage, intelligence leaks, attempts to compromise key positions. The twin threat forces the siblings to split their focus:
+The mercenary army crosses into Balishan territory. Scouts report its size, composition, and line of march. The decision in the war room is fast: this is not a force that can be allowed to root anywhere on Balishan soil. Tiberian rides out with the column he has spent the preparation phase assembling — Kess at his side, Kai handling logistics, a substantial Arol Batae contingent integrated into the formation. The Tiger Prince has learned what Silaris taught him, and the lesson is *not* to wait. The lesson is to charge with infrastructure underneath the charge.
 
-**Tiberian** must apply the strategic patience he learned in Silaris. Every instinct screams *charge* — meet the enemy in the field, crush them, protect the city. But Melina's analysis shows the danger: Rosik designed this to draw Tiberian out. The mercenary assault is structured to bait an aggressive response — gaps in the formation that invite flanking maneuvers, feints that look like weaknesses. Classic misdirection. If Tiberian charges, he opens the city to Rosik's real play.
+This is exactly what Rosik counted on. The moment Tiberian's force clears the city's primary defensive perimeter, the plan is working.
 
-The hardest thing for the Tiger General: waiting. Holding defensive position. Trusting that patience, not aggression, wins this fight. Every day the mercenaries maintain siege, the urge to break out grows. Every day, he has to choose the leash over the lunge.
+**Melina stays.** The city is hers to hold. This is the harder test for someone with her temperament — not planning a response from inside the data, but running a defense from inside the moment. She coordinates the Arol Batae who remain. She manages communications with Tiberian's force. She makes calls on partial intelligence about a master strategist she knows is out there somewhere, with no idea what he can still do or what resources he has left. There is no clean model. There is only the city, the data as it arrives, and the decisions that have to be made before the next decision arrives.
 
-**Melina** must do the opposite of what her nature demands. Instead of comprehensive analysis and perfect planning, she must make rapid decisions on partial intelligence. Rosik's agents don't wait for her to model seventeen scenarios. They move. They adapt. They exploit every gap between decision and action. Melina must identify and neutralize internal threats faster than she's comfortable working — acting on sufficient evidence rather than complete evidence, trusting her instincts where her models can't keep up.
+She is preparing for sabotage that will never come — and the absence of any sabotage signals is itself part of what disturbs her. She has been told Rosik is involved. She knows what Rosik does. She is seeing none of it. Either Rosik has not yet activated, or he has nothing to activate. Both possibilities are bad in different ways.
 
-This is the culmination of both siblings' arcs: Tiberian learning to wait, Melina learning to act fast. Each doing the thing the other taught them. The partnership functioning at its highest level — her web catching what his charge would miss, his decisiveness executing what her analysis identifies.
+**Xion** is not in the war room for much of this. He is doing what he has always done — healer work, imperial advisory, the quiet labor of running a court while his children handle the crisis. He does not know he is the target. Rosik's plan depends on Xion being approachable in the way emperor-consorts become approachable in peacetime: in his study, in the gardens, in the corridors where a Long Knife of sufficient skill can reach a man whose son is the general and whose wife is no longer the Desert Dragon she once was.
+
+This is the culmination of both siblings' arcs: Tiberian executing decisive action with the planning his earlier self lacked, Melina running real-time defense with the speed her earlier self resisted. Each doing the *correct* version of the thing their nature demands. The partnership functioning at its highest level — not by blurring into each other but by specializing into their strongest forms. The Tiger in the field where he belongs. The Analyst at the heart where she belongs. Neither trying to be the other.
 
 ---
 
@@ -91,37 +95,53 @@ This is the culmination of both siblings' arcs: Tiberian learning to wait, Melin
 
 ### The Death of Kalden Erulius
 
-The mercenary army arrives at Kaha'an's walls. Kalden expects his moment — the confrontation with Xion, the final chapter of the story he's been telling himself for the entire second half of his life.
+The two forces meet in the field, well clear of Kaha'an's walls. Tiberian's outriders make contact first; the formal engagement begins shortly after. Kalden, mounted at the head of his mercenary line, expects his moment — the confrontation with Xion, the final chapter of the story he's been telling himself for the entire second half of his life. Twenty years of mirror-rehearsals. The imperial collar adjusted just so. The lines memorized.
 
 He finds Tiberian.
 
-"Where is he?! WHERE IS XION?!!" And then, staring at the eighteen-year-old prince on the wall where the king should be: *"And I must now suffer the indignity of dealing with that man's bastard son?!"*
+"WHERE IS HE?! WHERE IS XION?!!"
 
-Tiberian grins, quirking an eyebrow. "I've been called many things, but I gotta admit, *bastard* is a new one."
+Tiberian quirks an eyebrow. The military logic confuses him for a half-second — it would make zero sense for Xion to be here. Xion is emperor-consort, much older now, a *healer* by training and temperament. Why would he be on a battlefield his teenage son was already deployed to handle? Before Tiberian can formulate a response, Kalden roars on, the imperial register collapsing into something closer to a personal grievance from a barroom:
 
-Kalden turns purple. Then green. Then falls down dead.
+*"And I must now suffer the indignity of dealing with that man's BASTARD SON?!"*
 
-A massive stroke — the culmination of years of drinking, weight gain, uncontrolled fury, and the catastrophic blood pressure spike that comes when reality delivers its final, unanswerable contradiction. The finish line he ran toward for decades had no one standing at it. Not even the right opponent.
+Tiberian grins. Not cruelly. Almost amused. "Huh. *Bastard.* That's a new one." A small shrug. "Last I checked, my mother really was Elara Valanar."
 
-The mercenaries look at each other. Their client is dead. No one will pay them. They disband — quickly, quietly, without sentiment. The army that was supposed to restore the Erulian Principality to imperial glory dissolves the way mercenary armies always dissolve when the money stops.
+Kalden turns purple. Then green. Then falls off his horse, dead.
 
-The external threat collapses. But Rosik never needed the army to succeed.
+A massive stroke — the culmination of years of drinking, weight gain, gout, uncontrolled fury, and the catastrophic blood pressure spike that comes when reality delivers its final, unanswerable contradiction. The finish line he ran toward for decades had no one standing at it. Not even the right opponent. He died approximately two minutes into a battle he'd mortgaged a principality to start.
+
+The mercenaries pause. Survey the situation. Conclude with admirable speed that their employer is no longer in a position to pay them. They loot Kalden's corpse first — the imperial collar, the rings, the purse, the sword — and then disband. The army that was supposed to restore the Erulian Principality to imperial glory dissolves the way mercenary armies always dissolve when the money stops, except faster, because the money is now in their saddlebags.
+
+The external threat collapses inside of an hour. Word of the engagement's astonishing brevity races back toward Kaha'an. But Rosik never needed the army to succeed. He just needed it to last.
 
 ### The Death of Rosik Kemvimore
 
-The distraction failed. The noise that was supposed to cover his approach never materialized — or materialized and collapsed within hours. A strategic thinker would abort. Reassess. Wait.
+Rosik does not know any of this. He has no network left to tell him. He committed weeks ago, on the model he built, and the model said Tiberian and Kess and a chunk of the Arol Batae would be outside the city for the better part of a day. That was the window. He moves into the window.
 
-Rosik goes in anyway.
+He's still one of the best. The Long Knife skills never atrophied — they just went underground for thirty years and emerged sharper than before. The first perimeter falls to him quietly. The second falls. He's inside.
+
+And then he notices the patrol cadence is wrong.
+
+Not by much. A second-shift route running too frequently. A two-man watch where his intelligence said one. The almost-imperceptible elevation of a security posture that, by his model, should be at its lowest ebb right now. He stops in a corridor he has memorized and runs the numbers and gets *no answer that fits.* Something has happened outside the walls. His model is broken. He cannot know how, or when, or what.
+
+A strategic thinker would abort. Reassess. Wait.
+
+Rosik goes forward anyway.
 
 Because stopping would mean sitting still with the loss. And Rosik Kemvimore has spent his entire life — every system he built, every crisis he solved, every decisive act — avoiding exactly that. The work kept the grief at bay. Now there is no work. There is only the mission. And if the mission fails, there is nothing between him and the locked room with the portrait.
 
-He infiltrates. He's still one of the best. The Long Knife skills never atrophied — they just went underground for thirty years and emerged sharper than before. He gets closer than anyone should be able to get.
+He gets closer than anyone should be able to get.
 
-But this time, the man who never failed a mission (except once, when love got in the way) meets someone he didn't account for.
+Inside the palace, Melina has been running the city's defense for hours. The reports from the field arrived too fast and too clean — Kalden dead in minutes, the mercenaries dispersing without a fight. The arithmetic doesn't work. Whatever Kalden thought he was doing was not what *Rosik* thought he was doing. Melina makes the call her father would not have made twenty years ago and her brother would not have made two years ago: *increase patrols everywhere, immediately, on the assumption that something else is happening that we haven't seen yet.* The order goes out. The Arol Batae redeploy.
 
-He dies unceremoniously at the end of an Arol Batae spear. Not in a dramatic confrontation with his son. Not in a battle of wits with Tiberian. Not even face-to-face with anyone who knows his name. An Arol Batae warrior — one of the desert people who raised Elara, who protect the Ruby Throne through loyalty rather than leverage — puts a spear through him the way they would put a spear through any intruder. No speech. No final words. No recognition of who he was.
+Rosik turns a corner that, by his model, should have been clear for another twenty minutes.
 
-The Competitor's final contest ends not with defeat but with irrelevance. He did not lose to a better opponent. He simply didn't matter enough to notice.
+He dies at the end of an Arol Batae spear. Not in a dramatic confrontation with his son. Not in a battle of wits with Tiberian. Not even face-to-face with anyone who knows his name. An Arol Batae warrior — one of the desert people who raised Elara, who protect the Ruby Throne through loyalty rather than leverage — puts a spear through him the way they would put a spear through any intruder. No speech. No final words. No recognition of who he was.
+
+What he does not know — what he will never know — is that the woman whose order killed him is named after the daughter he failed to protect. Melina Valanar, niece-by-name to the aunt Rosik's own decisions killed twenty years ago, makes the call that ends him. The Kemvimore-line failure that began with Rosik unleashing Ronas's lieutenants is closed by Rosik's grand-niece-by-name acting decisively under partial information — exactly the lesson she paid for in the Warrens.
+
+The Competitor's final contest ends not with defeat but with irrelevance. He did not lose to a better opponent. He was defeated by the variables his model could not include — a patsy whose body failed an hour too soon, and an analyst who acted on instinct before all the data was in. The body of meat and the mind willing to commit. Both the things he never quite trusted, killing him together.
 
 ---
 
@@ -147,15 +167,17 @@ The next generation can build the future instead of managing the past.
 
 ## Structural Notes
 
-**Kalden's death scene:** This is the darkest comedy in the series. A man who mortgaged everything — literally everything — to confront his nemesis, and dies of a stroke when he discovers his nemesis didn't even bother to show up. Kalden's "bastard" line is pure Kalden — the imperial register, the theatricality, the refusal to acknowledge that the world has moved on. Tiberian's response — the casual quip, the raised eyebrow — is perfect because it's not cruelty. It's the total indifference of someone who doesn't understand the weight of what just happened in Kalden's head. Tiberian doesn't know about the twenty years of rehearsal, the mirror, the collar. He just sees a fat, angry man screaming about his father. The quip only works because Kalden handed him the word.
+**Kalden's death scene:** This is the darkest comedy in the series. A man who mortgaged everything — literally everything — to confront his nemesis, and dies of a stroke when he discovers his nemesis didn't even bother to show up. Kalden's "bastard" line is pure Kalden — the imperial register, the theatricality, the refusal to acknowledge that the world has moved on. Tiberian's response — the casual quip, the raised eyebrow — is perfect because it's not cruelty. It's the total indifference of someone who doesn't understand the weight of what just happened in Kalden's head. Tiberian doesn't know about the twenty years of rehearsal, the mirror, the collar. He just sees a bloated, angry man screaming about his father. The quip only works because Kalden handed him the word. And the mercenaries looting the corpse is the perfect coda: the man who treated empire as theater dies and is immediately stripped of his costumes by men he hired two hours ago.
 
-**Rosik's death scene:** The anti-climax is the point. The man who reorganized rooms by his mere presence is killed by someone who didn't know his name. This is not unsatisfying — it's the truest possible ending for a man who was always more important in his own narrative than in anyone else's. The Competitor's final loss isn't to a better Competitor. It's to irrelevance.
+**Rosik's death scene:** The anti-climax is the point. The man who reorganized rooms by his mere presence is killed by someone who didn't know his name. This is not unsatisfying — it's the truest possible ending for a man who was always more important in his own narrative than in anyone else's. The Competitor's final loss isn't to a better Competitor. It's to two variables his model could not include: a patsy's cardiovascular system failing too fast, and an analyst willing to act on insufficient evidence before the analyst's own father would have.
 
-**The two deaths as counterpoint:** Kalden dies because reality finally caught up to his delusion — his body couldn't sustain the lie anymore. Rosik dies because reality didn't care about his competence — the Arol Batae warrior saw an intruder, not a master strategist. One dies from the inside out. The other from the outside in.
+**The two deaths as counterpoint:** Kalden dies because reality finally caught up to his delusion — his body couldn't sustain the lie anymore. Rosik dies because the model he trusted was defeated by exactly the kind of human variable he spent his life refusing to model. One dies from the inside out, undone by his own body. The other from the outside in, undone by the bodies and minds of others.
+
+**The causal chain:** Kalden's stroke kills Rosik as surely as the Arol Batae spear does. The two-minute battle produces an anomalous report; the anomalous report triggers Melina's decision; Melina's decision elevates patrols; the elevated patrols put a spear in Rosik's path. Rosik never learns this. He dies still trusting the model. The reader sees the chain that he doesn't, which is the appropriate final cruelty for a strategist who weaponized other people's blindness.
 
 **Xion's role:** Xion is NOT the one who defeats Rosik. This is critical. The father-son confrontation that the reader might expect — and that Rosik certainly planned for — never happens. Rosik never reaches Xion. He dies in the attempt. The denial of the dramatic confrontation is itself the statement: Rosik's war with his son ended years ago, in Book 2. Everything since has been a dead man walking toward a conclusion he already reached.
 
-**Tiberian and Melina's culmination:** This book represents the fullest expression of their mature partnership. Tiberian's patience (learned in Book 5) and Melina's decisiveness (learned in Book 6) combine under maximum pressure. They are not their parents — they are something new, forged from their parents' strengths and their own hard-won lessons.
+**Tiberian and Melina's culmination:** This book represents the fullest expression of their mature partnership — but the maturity is *specialization*, not blurring. Tiberian rides out because that is who he is; what Silaris taught him was not to wait but to charge with planning, infrastructure, and Kai underneath the charge. Melina holds the city because that is who she is; what the Warrens taught her was not to hesitate but to act on partial intelligence when the data demands it. Each plays to their strongest form rather than trying to be the other. And it is Melina's call — increase patrols, act before all the data is in — that ultimately kills Rosik. The grand-niece-by-name to the aunt Rosik's decisions destroyed in Book 2 closes the loop her father couldn't.
 
 **Tone:** Tense, urgent, with a undercurrent of tragic inevitability. The reader knows from Kalden and Rosik's profiles that this ends badly for both antagonists. The tension comes not from whether they'll succeed but from how their failure plays out — and what it costs the people trying to stop them.
 

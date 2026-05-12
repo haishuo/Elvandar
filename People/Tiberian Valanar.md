@@ -1,4 +1,4 @@
-# Tiberian Valanar: The Tiger General
+# Tiberian Valanar: The Tiger Prince
 
 ## The Son Who Charges
 
@@ -8,7 +8,7 @@ That's Tiberian Valanar at eighteen — Crown Prince of the restored Balishan Em
 
 Named for his grandfather Emperor Tiberan Valanar IV, Tiberian inherited the weight of imperial legacy but forged something distinctly his own. Where his mother learned to wield power from the throne and his father learned to heal from the shadows, Tiberian leads from the front. He is the prince who rides at the head of the column, not because he craves glory, but because he cannot ask others to face what he won't face himself.
 
-His mother, when imprisoned in Uratha and promising consequences to her captors, describes him with devastating precision: "My son has his father's compassion and my fury." That's the Tiger General — not a strategist who deploys compassion tactically, but a man in whom empathy and aggression are the same impulse, pointed in the same direction, arriving at the same moment.
+His mother, when imprisoned in Uratha and promising consequences to her captors, describes him with devastating precision: "My son has his father's compassion and my fury." That's the Tiger Prince — not a strategist who deploys compassion tactically, but a man in whom empathy and aggression are the same impulse, pointed in the same direction, arriving at the same moment.
 
 ---
 
@@ -160,7 +160,7 @@ The rescue is quintessential Tiberian: he cannot walk past suffering, even when 
 
 ### Kai
 
-Professional respect grounded in complementary capability. Tiberian attacks aggressively; Kai holds critical defensive positions. The Tiger General can charge because the Iron Boar is holding the line behind him. Their relationship is tactical rather than emotional — mutual reliance built on proven competence.
+Professional respect grounded in complementary capability. Tiberian attacks aggressively; Kai holds critical defensive positions. The Tiger Prince can charge because the Iron Boar is holding the line behind him. Their relationship is tactical rather than emotional — mutual reliance built on proven competence.
 
 ### Silvanno Larannas
 
