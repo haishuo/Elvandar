@@ -17,40 +17,35 @@ Terinok occupies the northern reaches of what was once the Balishan Empire, a la
 
 ### Eastern Border
 
-- A transitional zone where mountains gradually give way to foothills  
-- Disputed territories with Gunastran marked by changing boundary stones  
-- Dense coniferous forests providing valuable timber resources  
-- Numerous small streams creating natural defensive lines  
-- Rich hunting grounds supporting diverse wildlife  
-- Several valuable ore deposits creating ongoing territorial tensions  
-- A network of watchtowers monitors movement along this frequently contested frontier  
-- Small buffer settlements maintain uneasy neutrality between the powers
-
-### Southern Boundary
-
-- Defined by the Sentinel Mountains separating Terinok from Uratha
-- Dominated by Mount Karagh — the Red Mountain — an active volcano that is the range's highest and most forbidding peak, visible from deep within Uratha on clear days as a column of smoke against the sky
+- Defined by the Sentinel Mountains, the great north-south range that bisects Elvandar
+- Separates Terinok from Gunastran along the entire eastern frontier
+- Dominated by **Mount Karagh — the Red Mountain** — an active volcano in the upper Sentinels, the range's highest and most forbidding peak, visible from much of northern Elvandar (and on clear days from deep within Uratha to the south) as a column of smoke against the sky
 - Deceptive in character: the lower foothills and forest slopes give an impression of passability that the true interior does not support
-- The high interior is alpine, volcanic, and actively hostile: lava field approaches, unstable terrain, sulfurous vents, and passes that shift seasonally as volcanic activity alters the landscape
+- The high interior is alpine, volcanic, and actively hostile: lava-field approaches, unstable terrain, sulfurous vents, and passes that shift seasonally as volcanic activity alters the landscape
 - Home to the gray wolf packs, who hold the high passes with the particular authority of predators who have occupied the same ground for generations
 - The Bloodsworn Canton's sanctuaries are built into Red Mountain's slopes — the deepest interior of the range is effectively their territory
-- A series of fortified mountain passes control all major transit routes; the fortresses are manned by Shizan Canton
+- A series of fortified mountain passes control all major transit routes between Terinok and Gunastran; the fortresses are manned by Shizan Canton
 - Ancient boundary markers dating to early imperial times — several have been buried by lava flows and never replaced
 - Several natural hot springs with ritual significance, concentrated around Red Mountain's geothermal activity
 - Rich in medicinal herbs and plants not found elsewhere in Elvandar
 - Mixed deciduous and coniferous forests covering the lower slopes, giving way to bare alpine rock, and then to volcanic terrain near the peaks
-- No invading force from Uratha has ever successfully penetrated the Sentinel interior; the combination of terrain, gray wolf packs, and the Bloodsworn makes the military calculus straightforwardly prohibitive
+- No invading force from Gunastran has ever successfully penetrated the Sentinel interior; the combination of terrain, gray wolf packs, and the Bloodsworn makes the military calculus straightforwardly prohibitive
+
+### Southern Boundary
+
+- A soft, ill-defined transition into Vartonne across the central plateau
+- Disputed and shifting borderline rather than a clear natural feature; both nations claim portions of the upper plateau
+- Marked in places by ancient boundary stones, in others by simple changes in dialect and tribute collector
+- A network of watchtowers and small forts maintains Terinok's military presence along the contested zones
+- Periodic skirmishes when Vartonne attempts to enforce older imperial-era claims; Terinok's military culture ensures these are always settled in Terinok's favor
 
 ### Western Territories
 
-- Contested borderlands with Kaha'an marked by frequent skirmishes  
-- Transitional terrain where mountains gradually yield to arid highlands  
-- Strategic river valleys serving as invasion routes for both sides  
-- A chain of fortified outposts monitoring movement through the region  
-- Disputed water sources creating perpetual tension  
-- Rich pastureland supporting Terinok's prized war horses  
-- Ancient battlefields now considered sacred ground  
-- Abandoned settlements in the most contested areas, creating buffer zones
+- The Western Sea forms Terinok's western coastline
+- Coastal cliffs and small fishing harbors, with limited natural deep-water ports
+- Maritime trade is modest compared to eastern Elvandar's Azure Sea ports — the Western Sea is colder, rougher, and bordered only by Terinok and Vartonne
+- Several minor coastal settlements support fishing fleets and seasonal whaling
+- Ancient watchtowers along the coast guard against the rare seaborne raid
 
 ## Major Geographical Regions
 
@@ -111,7 +106,7 @@ These valleys represent Terinok's agricultural heartland, supporting the populat
 
 ### The Southern Foothills
 
-Transitional zones where the Sentinel Mountains descend toward Uratha:
+Transitional zones where the central plateau descends toward Vartonne to the south, and where the Sentinel Mountains' western flanks begin to drop:
 
 - Gentler topography with gradual elevation changes  
 - Mixed forests with valuable hardwoods and medicinal plants  
@@ -122,10 +117,10 @@ Transitional zones where the Sentinel Mountains descend toward Uratha:
 - Distinctive stone formations serving as territorial markers  
 - Small upland meadows supporting specialized agriculture  
 - Prized grazing areas for war horse breeding programs  
-- Ancient pathways connecting to Urathan territories, now heavily guarded  
+- Ancient pathways connecting south to the Vartonnian plateau and east through the Sentinels into Gunastran, now heavily guarded  
 - Scattered ruins from failed imperial attempts to standardize the border
 
-This region serves as both buffer zone and resource frontier, providing specialized products while creating defensive depth against potential Urathan incursions. Its varied landscape supports diverse economic activities that complement the agricultural focus of the river valleys.
+This region serves as both buffer zone and resource frontier, providing specialized products while creating defensive depth against potential incursions from Vartonne (south) and Gunastran (east). Its varied landscape supports diverse economic activities that complement the agricultural focus of the river valleys.
 
 ## Climate and Weather Patterns
 
@@ -198,11 +193,11 @@ Three major river systems dominate Terinok's hydrology:
 
 #### The Thunder River
 
-- Western waterway forming part of the contested border with Kaha'an  
+- Western waterway forming part of the contested border with Balisha  
 - Characterized by dramatic waterfalls and rapids  
 - Significant hydropower utilized for metalworking facilities  
 - Deep gorges creating natural defensive positions  
-- Major trade route when relations with Kaha'an permit  
+- Major trade route when relations with Balisha permit  
 - Sites of numerous historical battles at strategic crossing points  
 - Provides irrigation for western agricultural communities  
 - Several sacred pools associated with purification rituals before battle
@@ -301,7 +296,7 @@ Several unique geographical elements distinguish Terinok's landscape:
 
 The most significant geographical feature in Terinok, and the only active volcano in the known territories of the former Balishan Empire:
 
-- Located in the Sentinel Mountains on Terinok's southern border with Uratha — the dominant peak of the range, visible from deep within Uratha as a permanent smoke-column on the northern horizon
+- Located in the upper Sentinel Mountains on Terinok's eastern border with Gunastran — the dominant peak of the range, its smoke column visible from much of northern Elvandar and on clear days from as far south as Uratha
 - Known officially as Mount Karagh, named for an ancient warlord of the pre-imperial era
 - Called "the Red Mountain" in common speech — a name earned by the rust-red volcanic stone that bleeds from its flanks and the extraordinary blood spilled on its slopes across centuries of ritual and warfare
 - Constantly active, with periodic minor eruptions and a permanent plume of smoke and ash visible from great distances

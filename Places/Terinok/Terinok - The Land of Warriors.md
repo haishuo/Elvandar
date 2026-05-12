@@ -46,14 +46,14 @@ There are twelve recognized cantons, varying considerably in size, military stre
 - **Shizan Canton** — Controls the primary southern mountain passes into Uratha territory. Fortress-builders and strategists, they manage much of the confederation's border infrastructure.
 - **Vharak Canton** — The ore-rich northern highland canton. Produces the finest weapon smiths in Terinok; their blade-making traditions are considered semi-sacred.
 - **Orath Canton** — Controls the Blood River's upper course. Their warriors specialize in river combat and swift-strike tactics.
-- **Thuun Canton** — Western border canton, perpetually engaged with Kaha'an. Their warriors are battle-hardened by constant skirmishing; they rarely need to be hired — war comes to them.
+- **Thuun Canton** — Western border canton, perpetually engaged with Balisha. Their warriors are battle-hardened by constant skirmishing; they rarely need to be hired — war comes to them.
 - **Keth'mar Canton** — Eastern border canton abutting Gunastran territory. Known for their Mountain Hunters and scouts.
 - **Deshara Canton** — Controls the fertile Red Valley and surrounding agricultural lands. Wealthiest of the cantons; their warriors are sometimes derided as "soft" by less prosperous cantons, which they take as an invitation to prove otherwise.
 - **Haluth Canton** — Masters of infiltration and the "shadow arts." Their warriors hold lower ritual status by official canon but are highly sought as mercenaries for specific campaigns.
 - **Varath Canton** — Small but renowned for producing the finest cavalry in the confederation. Their horse-breeding programs are trade secrets fiercely guarded.
 - **Moru Canton** — Controls the Thousand Falls and the northern highland approaches. Their warriors are experts in avalanche warfare and extreme cold survival.
-- **Sundrak Canton** — Southern foothills canton, managing the buffer zone with Uratha. Known for their healers and ritual scholars as much as their warriors.
-- **The Bloodsworn Canton** — The twelfth canton, occupying the Red Mountain region in the Sentinel Mountains on Terinok's southern border with Uratha. *See: The Bloodsworn.*
+- **Sundrak Canton** — Southern foothills canton, managing the buffer zone with Vartonne across the disputed plateau border. Known for their healers and ritual scholars as much as their warriors.
+- **The Bloodsworn Canton** — The twelfth canton, occupying the Red Mountain region in the upper Sentinel Mountains, on Terinok's eastern border with Gunastran where the Sentinels meet the Frost Spine. *See: The Bloodsworn.*
 
 ### The Mercenary Tradition
 
@@ -315,7 +315,7 @@ The mercenary trade represents Terinok's most significant source of external wea
 
 While predominantly self-sufficient in military necessities, Terinok engages in specific trade relationships:
 
-- Export of slaves to other nations, particularly Kaha'an
+- Export of slaves to other nations, particularly Balisha
 - Import of specific metals not found in Terinok mountains
 - Export of specialized mercenary services — both confederation contracts and individual canton arrangements
 - Import of certain luxury goods for the warrior elite
@@ -407,13 +407,13 @@ Ritual movements combine religious observance with combat preparation:
 
 As a confederation defined by martial traditions, Terinok's foreign relations are characterized by directness, honor-based diplomacy, and military pragmatism. The mercenary trade adds a layer of calculated pragmatism to what might otherwise be pure aggression — it is difficult to massacre a nation whose gold you are currently spending.
 
-### With Kaha'an (Greed)
+### With Balisha (Greed)
 
 - **Diplomatic Status**: Hostile
-- **Historical Context**: As the first to break from the empire, Terinok views Kaha'an's claims to imperial succession with particular hostility
+- **Historical Context**: As the first to break from the empire, Terinok views Balisha's claims to imperial succession with particular hostility
 - **Military Posture**: Regular border skirmishes occur, particularly over mountain passes that connect their territories
-- **Mercenary Complication**: Kaha'an has attempted to hire Terinok mercenaries to use against other Terinok cantons; the War Table has twice formally prohibited such contracts, though enforcement is imperfect
-- **Bondage Dynamics**: Fierce competition over the same human resources; Terinok raids for slaves while Kaha'an attempts to capture potential laborers for its own systems; both nations refuse to return escaped slaves to the other
+- **Mercenary Complication**: Balisha has attempted to hire Terinok mercenaries to use against other Terinok cantons; the War Table has twice formally prohibited such contracts, though enforcement is imperfect
+- **Bondage Dynamics**: Fierce competition over the same human resources; Terinok raids for slaves while Balisha attempts to capture potential laborers for its own systems; both nations refuse to return escaped slaves to the other
 
 ### With Uratha (Pride)
 
@@ -443,9 +443,9 @@ As a confederation defined by martial traditions, Terinok's foreign relations ar
 ### With the Erulian Principality (Envy)
 
 - **Diplomatic Status**: Wary alliance
-- **Strategic Cooperation**: Mutual distrust of Kaha'an creates common ground
+- **Strategic Cooperation**: Mutual distrust of Balisha creates common ground
 - **Mercenary Role**: Erulius is one of Terinok's most consistent clients; several cantons have long-standing contracts with Erulian noble houses
-- **Political Stance**: Terinok is indifferent to Erulius' imperial ambitions but values them as a counter to Kaha'an
+- **Political Stance**: Terinok is indifferent to Erulius' imperial ambitions but values them as a counter to Balisha
 - **Bondage Dynamics**: Erulius occasionally purchases slaves from Terinok rather than capturing them directly, creating a morally complicated trade relationship
 
 ### With Gunastran (Gluttony)
