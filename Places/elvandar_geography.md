@@ -2,225 +2,213 @@
 
 ## Continental Overview
 
-Elvandar is a diverse continent once unified under the Balishan Empire, now fractured into seven successor states. The geography ranges from mountainous northern regions to fertile central plains, coastal lowlands, and a recently formed desert in the southwest. Major waterways and mountain ranges often define political borders between the successor states.
+Elvandar is a single continent once unified under the Balishan Empire, now fractured into seven successor states. The continent is bisected lengthwise by the Sentinel Mountains, a north-south range that runs nearly the full height of the continent, terminating only thirty miles north of the city of Kaha'an. Across the top of the continent runs the Frost Spine Mountains, a west-east range that walls off the Frozen North — a vast expanse of taiga, tundra, and glacial peaks — from the populated lands south of it.
+
+The two ranges intersect at the continent's center, forming a great inverted "T" that has shaped Elvandari history more than any other geographic feature. The lengthwise Sentinel range divides the continent into a western half (Vartonne, Terinok in the north) and an eastern half (Gunastran, Uratha, Erulius); the only passable connection between the two halves at any season of the year lies south of the mountains, through Kaha'an.
+
+The continent's coastlines:
+- **North** — the Frost Spine descends to the **Northern Ice Sea**, a frozen and largely impassable shore.
+- **East** — the **Azure Sea**, deep and rich in trade lanes, washes the long eastern coastline of Gunastran, Uratha, Erulius, and Silaris.
+- **South** — the southern coast bends northward at Kaha'an, giving the city its critical harbor; the Azure Sea continues eastward along the southern peninsula of Silaris.
+- **West** — the **Western Sea** runs the length of Vartonne's coast.
 
 ## The Unavoidable Crossroads: Why Kaha'an Controls Continental Trade
 
-Similar to Constantinople's historical control of the Bosphorus, Kaha'an functions as the only viable passage point between major regions of Elvandar due to a combination of natural barriers and supernatural effects:
+Like Constantinople's historical control of the Bosphorus, Kaha'an functions as the only viable land passage between the eastern and western halves of Elvandar. Three forces conspire to make this so:
 
-### The Balishan Desert Barrier
-- The Balishan Desert forms an impassable barrier stretching across the entire southwestern quarter of Elvandar
-- Attempting to cross it outside the Golden Path is effectively a death sentence due to:
-  - Extreme temperatures (120°F/49°C during daylight)
-  - Complete absence of water sources
-  - Unpredictable and lethal sandstorms
-  - Magical anomalies from The Rending that disorient travelers and disable conventional navigation
+### The Sentinel Wall
+The Sentinel Mountains run north–south for nearly the full length of the continent and end only thirty miles north of Kaha'an. North of Kaha'an, the range is impassable by any meaningful caravan: peaks too high, weather too violent, and what few passes exist are seasonal at best. The continent is effectively cut in half by this range, and Kaha'an sits at the southern terminus — the one geographic seam where east and west can meet.
 
-### The Mountain Blockade
-- The northern mountain ranges form an almost continuous wall across the continent
-- The few viable mountain passes are:
-  - Heavily fortified by Terinok
-  - Subject to extreme weather conditions for much of the year
-  - Suitable only for limited trade, not bulk commerce
+### The Balishan Desert
+Surrounding Kaha'an on its three landward sides — north toward the Sentinels' end, west toward Vartonne, and east toward Erulius — lies the Balishan Desert. Though small compared to the great deserts of the imagined world (a traveler can cross it in a matter of days, not weeks), the Balishan is utterly hostile:
+- Daytime heat exceeding 120°F (49°C)
+- No reliable surface water sources
+- Lethal sandstorms with little warning
+- Magical anomalies left over from The Rending that disorient navigation and disable mundane wayfinding
+
+The Balishan Desert is not the size of an ocean, but it is the size of a death sentence to any party that leaves the Golden Path.
 
 ### The Coastal Constraint
-- The southern coastline is characterized by:
-  - Treacherous reefs that have claimed countless ships
-  - Cliffs rather than harbors along most of the coast
-  - The aftermath of The Rending, which altered currents and created magical maritime hazards
-- Kaha'an's harbor is one of the only safe deep-water ports in the region
+The Azure Sea is navigable, but reaching Kaha'an by water from anywhere except its own harbor requires rounding the entire eastern half of the continent — a journey that bypasses the very thing Kaha'an is selling. The southern coast outside Kaha'an's bay is largely cliff-bound or reef-laden, the legacy of the Rending's effects on currents and seabed.
 
 ### The Golden Path: Sole Lifeline Through the Desert
-- Maintained exclusively by Kaha'an with:
-  - Magically warded waystations providing essential water and protection
-  - Regular patrols ensuring safety from both natural threats and bandits
-  - Specialized knowledge of the terrain that only Kaha'ani guides possess
+- Maintained exclusively by Balisha
+- Magically warded waystations spaced approximately one day's travel apart, providing water and shelter
+- Patrolled against bandits and sandstorm-stranded travelers
+- Specialized navigation knowledge held only by Balishan guides
 
-This geographical reality ensures that virtually all trade between the eastern and western regions of Elvandar must pass through Kaha'an, cementing its position as the continent's unavoidable crossroads despite its otherwise peripheral location.
+This geographical reality ensures that virtually all overland trade between the eastern and western halves of Elvandar must pass through Kaha'an, cementing Balisha's position as the continent's unavoidable crossroads despite the surrounding wasteland.
 
 ## The Seven Successor States
 
-### Kaha'an (Greed)
-- **Location**: Southwestern Elvandar, transformed into a desert city-state after The Rending
-- **Terrain**: Vast Balishan Desert surrounding the walled city
+### Balisha (Greed)
+- **Location**: South-central Elvandar — the rump state of the fallen empire, now reduced to the walled city of Kaha'an and the Balishan Desert that surrounds it
+- **Terrain**: A walled coastal city in a small ring of lethal desert; no habitable countryside remains — the desert reaches Kaha'an's walls
 - **Borders**:
-  - East: Contested regions with the Erulian Principality
-  - North: Limited mountain passes leading to Terinok, heavily controlled
-  - West and South: Expansive impassable desert with no clear natural boundaries
+  - North: Balishan Desert, then the southern terminus of the Sentinel Mountains
+  - East: Balishan Desert, then Erulius
+  - South: The Azure Sea (Kaha'an's harbor opens directly onto it)
+  - West: Balishan Desert, then Vartonne
 - **Major Features**:
-  - The Golden Path: The only safe trade route connecting Elvandar's regions, exclusively controlled by Kaha'an
-  - The Gray Wastes: The epicenter of The Rending, with dangerous magical anomalies
-  - Magically protected harbor: One of the few safe deep-water ports along the southern coast
-- **Major City**: Kaha'an (former imperial capital and unavoidable trade nexus)
-- **Strategic Importance**: Controls the only viable routes between eastern and western Elvandar, forcing all major trade to pass through its territory and pay its tolls
+  - The Golden Path: the only safe land route across the Balishan Desert, controlled by Balisha
+  - The Gray Wastes: the warped epicenter of the Rending, lying within the desert just north of the city
+  - The harbor of Kaha'an: a deep-water port and one of the few safe anchorages on the southern coast
+- **Major City**: Kaha'an, the capital and only surviving city — former imperial capital and unavoidable trade nexus. The original Province of Balisha, before the Rending, encompassed a much larger swath of fertile country now lost to the desert; many of the outlying territories were annexed by Terinok and Erulius once the desert isolated the city. The cartels' insistence on retaining the imperial name "Balisha" for what is effectively a single-city state is itself the purest expression of Greed — clinging to the claim long after the substance has burned away.
+- **Historical Arc**: The name *Balisha* has progressively shrunk: from the **Balishan Empire** (the entire continent under one administration), to the **Province of Balisha** (the prosperous imperial heartland after the other six provinces broke away), to the **Successor State of Balisha** (the same lands persisting as an independent polity post-collapse), and finally — after the Rending — to its present form: a single walled city plus a ring of poisoned desert.
+- **Pre-Rending Balisha**: A real country, not a city-state. Fertile fields, varied terrain — including the **Deepwood Forest**, a thick deciduous woodland in the northern reaches between Kaha'an and the southern foothills of the Sentinels — market towns, the imperial fortress of **Fort Dinkarth** on the plains just south of the Deepwood, and a competent national army (the **Balishan Army**) supplementing the elite **Kaha'ani City Guard** within the capital. Trade flowed *through Balisha*, not just through Kaha'an — overland caravans regularly bypassed the capital's tariffs by routing through the Deepwood and the back-country tracks beyond it. Those alternative routes were longer and a little less safe (the deep woods being far from Balishan Army patrols, with caravans often hiring private mercenaries for the unwatched stretches), but Balisha was not a bandit-ridden country; the bypasses were inconvenient rather than impossible. Kaha'an was important, not unavoidable. The Rending destroyed all of this in a matter of hours: the Deepwood died, Fort Dinkarth was reduced to dust above the imperial Vault that lay beneath it, the market towns vanished, and the bypass routes ceased to exist as routes.
+- **Naming Evolution**: For several years after the Rending, the dead lands surrounding Kaha'an were still simply called *Balisha* — the country didn't stop being Balisha just because nothing grew there. But the polity was no longer in any meaningful sense the country; it was just Kaha'an. Usage drifted. People began calling the uninhabited expanse "the Balishan Desert" — adjectival, distinguishing the dead body from the surviving city. By the present day, **Balisha** refers to the rump state (effectively just Kaha'an); **the Balishan Desert** refers to its lifeless surround.
+- **The Inverse-Leverage Paradox**: Pre-Rending Balisha was wealthy and influential because Kaha'an sat at a *natural* crossroads — but its leverage was bounded by the existence of overland alternatives. Post-Rending Balisha is more strategically important still, despite being a fraction of its former size, because the desert and the Sentinels together close every alternative: Kaha'an is the only east-west land passage, and its harbor is the only safe deep-water port on the otherwise reef-riddled southern coast. Smaller polity, larger chokehold. The Greed sin's pre-Rending form was the comfortable accumulation of a thriving merchant nation; its post-Rending form is the monopolistic grip of the only city left holding any cards.
 
 ### Terinok (Wrath)
-- **Location**: Northern reaches of Elvandar
-- **Terrain**: Mountainous with valleys and plateaus
+- **Location**: Northwestern Elvandar, between the Frost Spine Mountains and the Sentinel Mountains
+- **Terrain**: Highlands and central plateau, bounded by mountains on two sides
 - **Borders**:
-  - North: The Frost Spine Mountains (natural boundary)
-  - East: Disputed borderlands with Gunastran
-  - South: Sentinel Mountains separating from Uratha
-  - West: Contested territory with Kaha'an
+  - North: The Frost Spine Mountains (boundary with the Frozen North)
+  - East: The Sentinel Mountains (boundary with Gunastran)
+  - South: Disputed and ill-defined border with Vartonne, running across the central plateau
+  - West: The Western Sea
 - **Major Features**:
-  - The Blood River: Flows from northern highlands through the central plateau
-  - The Thunder River: Western waterway forming part of the contested border with Kaha'an
-  - The Silent River: Eastern waterway flowing toward Gunastran
-  - The Northern Highlands: Extreme alpine environment with valuable minerals
-  - The Central Plateau: Heart of Terinok civilization where most population resides
-  - The River Valleys: Fertile corridors supporting agriculture
-- **Major Cities**: Takama (seat of the Internal Warlord) and Shizan (seat of the External Warlord)
+  - The Blood River: flows from the northern highlands south through the central plateau
+  - The Northern Highlands: extreme alpine environment with valuable minerals
+  - The Central Plateau: heart of Terinok civilization, where most of the population lives
+- **Major Cities**: Takama (capital, seat of the Internal Warlord) and Shizan (southern Terinok, near the Sentinel passes — seat of the External Warlord)
+
+### Gunastran (Gluttony)
+- **Location**: Northeastern Elvandar, between the Frost Spine and the Sentinel Mountains, mirroring Terinok across the central spine
+- **Terrain**: Foundry plains around a central spine of volcanic peaks
+- **Borders**:
+  - North: The Frost Spine Mountains
+  - East: The Azure Sea
+  - South: A gradual transition to Uratha
+  - West: The Sentinel Mountains
+- **Major Features**:
+  - The Smokepeaks: central mountain range running through Gunastran's interior, source of geothermal heat that powers its foundries
+  - The Foundry Plains: lowlands surrounding the Smokepeaks
+  - The Eastern Harbors: maritime trade frontage on the Azure Sea
+- **Major City**: Mechanus (capital, home to the Central Foundry and Industrial Consortium)
+
+### Vartonne (Sloth)
+- **Location**: Western Elvandar, south of Terinok
+- **Terrain**: Gently rolling fertile plains
+- **Borders**:
+  - North: Disputed plateau border with Terinok
+  - East: The Sentinel Mountains
+  - South: The Balishan Desert
+  - West: The Western Sea
+- **Major Features**:
+  - The Imperial Vein: largest waterway, flowing northwest-to-south through the heart of Vartonne
+  - The Aureate Plains: fertile flatlands surrounding the capital
+  - The Eastern Foothills: gentle elevations rising toward the Sentinels
+- **Major City**: Vartonne (the original imperial capital before Kaha'an)
 
 ### Uratha (Pride)
-- **Location**: Eastern portion of Elvandar
-- **Terrain**: Varied landscape from northern highlands to coastal regions
+- **Location**: East-central Elvandar, south of Gunastran
+- **Terrain**: Varied — northern foothills, central plateau, eastern coast
 - **Borders**:
-  - North: Sentinel Mountains separating from Terinok
-  - East: Azure Sea coastline
-  - South: Gradual transition to Vartonne's plains
-  - West: Scholar's River creating boundary with Gunastran
+  - North: Scholar's River, forming the boundary with Gunastran
+  - East: The Azure Sea
+  - South: Gradual transition to Erulius (a soft administrative border)
+  - West: The Sentinel Mountains
 - **Major Features**:
-  - The Northern Highlands: Foothills of the Sentinel Mountains
-  - The Central Plateaus: Elevated flatlands where most academic centers are located
-  - The Southern Farmlands: Agricultural regions
-  - The Coastal Regions: Eastern shores along the Azure Sea
-- **Major Cities**: 
+  - The Northern Highlands: foothills running south from the Smokepeaks
+  - The Central Plateaus: elevated flatlands hosting most of Uratha's academies
+  - The Southern Farmlands: agricultural belt
+  - Coastal frontage along the Azure Sea
+- **Major Cities**:
   - The Ivory Tower (capital)
-  - Lumina Vale (magical research center)
-  - Empirica (coastal research city)
+  - Lumina Vale (magical research center, inland of the capital)
+  - Empirica (coastal research city near the Gunastran border, hosting Uratha's largest observatory)
   - Memorium (historical center)
   - Agraria (agricultural center)
 
-### Vartonne (Sloth)
-- **Location**: Central lowlands of Elvandar
-- **Terrain**: Gently rolling fertile plains
-- **Borders**:
-  - North: Lyric Mountains separating from Silaris
-  - East: Gradual transition to Erulian territories
-  - South and West: Less defined natural boundaries
-- **Major Features**:
-  - The Imperial Vein: Largest waterway flowing from northwest to south
-  - The Silverflow: Tributary from the northeast
-  - The Verdant Stream: Smaller river from the west
-  - The Aureate Plains: Extensive fertile flatlands surrounding the capital
-  - The Eastern Foothills: Gentle elevations rising toward Gunastran
-  - The Southern Wetlands: Marshy transition zones
-- **Major City**: Vartonne (original imperial capital before Kaha'an)
-
 ### The Erulian Principality (Envy)
-- **Location**: West-central Elvandar
-- **Terrain**: Diverse landscape from mountains to valleys and plains
+- **Location**: Southeastern Elvandar, south of Uratha
+- **Terrain**: Diverse — northern mineral mountains, central heartlands, fertile coast
 - **Borders**:
-  - North: Mountains separating from Terinok
-  - East: Transitional zone with Gunastran
-  - South: Cerulean River separating from Silaris
-  - West: Disputed border with Kaha'an
+  - North: Soft transition to Uratha
+  - East: The Azure Sea
+  - South: Erulius/Silaris border, partly along the Cerulean River
+  - West: The Balishan Desert (and across it, Kaha'an)
 - **Major Features**:
-  - The Northern Reaches: Mineral-rich mountains
-  - The Heartlands: Fertile agricultural regions
-  - The Eastern Woods: Dense forests
-  - The Western Marches: More arid regions transitioning toward Kaha'an's desert
-  - Three major rivers: the Ennor, the Tethian, and the Alder
-- **Major Cities**: 
+  - The Ironwall Mountains: mineral-rich range in the Northern Reaches (iron, copper, silver)
+  - The Gemspire Peaks: precious-stone range east of the Ironwall
+  - The Heartlands: fertile agricultural region around the capital
+  - The Eastern Woods: Elderoak Forest and Boundary Woods
+  - Three river systems: Ennor, Tethian, Alder
+- **Major Cities**:
   - Eruliath (capital)
-  - Port Valen (seaport)
+  - Port Valen (seaport — the largest port facilities in Elvandar; home to the Naval Academy)
   - Northcrest (mining administrative center)
-  - Verdant Plains (agricultural heart)
+  - Verdant Plains (agricultural settlement complex)
 
 ### Silaris (Lust)
-- **Location**: Southwestern portion of Elvandar
-- **Terrain**: Varied landscape from mountains to coastal regions
+- **Location**: The southern peninsula of Elvandar, south of Erulius
+- **Terrain**: Coastal lowlands, central valley, modest northern range
 - **Borders**:
-  - North: Lyric Mountains separating from Vartonne
-  - East: Cerulean River forming boundary with the Erulian Principality
-  - South: Azure Sea coastline, mostly characterized by treacherous reefs and cliffs
-  - West: The Whispering Forest creating a natural barrier
+  - North: The Lyric Mountains (boundary with Erulius)
+  - East: The Cerulean River, then Azure Sea coastline (mostly cliff and reef)
+  - South: The Azure Sea
+  - West: The Whispering Forest, then open coast (the Whispering Forest sits in western Silaris)
 - **Major Features**:
-  - The Coastal Lowlands: Southern region facing the Azure Sea
-  - The Central Valley: Heart of Silaris with the meandering Harmonius River
-  - The Northern Highlands: Mountainous region bordering Vartonne
-  - The Western Woodlands: The Whispering Forest with unique acoustic properties
+  - The Whispering Forest: dense woodland with unusual acoustic properties
+  - The Central Valley: heart of Silaris, organized around the Harmonius River
+  - The Coastal Lowlands: facing the Azure Sea
+  - The Northern Highlands: the Lyric range marks Silaris's boundary with Erulius
 - **Major City**: Silaris (the Conservatory City, organized around artistic disciplines)
 
-### Gunastran (Gluttony)
-- **Location**: East-central region of Elvandar
-- **Terrain**: Varied from mountains to plains and coast
+### The Frozen North
+The Frozen North is not a successor state — there is no organized polity here that survived The Rending — but it is a major geographic region and worth treating in its own right.
+
+- **Location**: The entire upper portion of the continent, north of the Frost Spine Mountains
+- **Terrain**: Tundra, taiga (vast pine forests), permafrost, frozen rivers, glacial peaks
 - **Borders**:
-  - North: Transitional zone with Terinok, mountains giving way to foothills
-  - East: Azure Sea coastline
-  - South: Gradual transition to Urathan territories
-  - West: Border with the Erulian Principality
-- **Major Features**:
-  - The Smokepeaks: Central mountain range forming Gunastran's spine
-  - The Foundry Plains: Central lowlands surrounding the mountains
-  - The Eastern Harbors: Coastal region connecting to maritime trade
-  - The Verdant Buffer: Western region representing Gunastran's most traditional landscape
-- **Major City**: Mechanus (capital, home to the Central Foundry and Industrial Consortium)
+  - North, East, West: The Northern Ice Sea
+  - South: The Frost Spine Mountains
+- **Significance**: An imposing natural barrier on Elvandar's northern flank. The few populations who live here are nomadic; the cold, the distance, and the Frost Spine itself make sustained settlement nearly impossible. The Frozen North walls off the populated continent from the north as effectively as the Sentinels split it east-from-west.
 
 ## Major Shared Geographical Features
 
-### Waterways
-- **Azure Sea**: Major body of water bordering Kaha'an, Uratha, Silaris, and Gunastran
-  - Made treacherous by The Rending's effects along much of the coastline
-  - Safe harbors are rare and highly valued
-- **Scholar's River**: Forms the boundary between Uratha and Gunastran
-- **Cerulean River**: Creates the border between the Erulian Principality and Silaris
-- **Imperial Vein**: Major river flowing through Vartonne's territories
-
 ### Mountain Ranges
-- **Frost Spine Mountains**: Northern boundary of Terinok
-- **Sentinel Mountains**: Separate Terinok from Uratha
-  - Form part of the nearly continuous mountain wall across northern Elvandar
-  - Few passes remain viable, and those are heavily fortified
-- **Lyric Mountains**: Form the border between Vartonne and Silaris
-- **Smokepeaks**: Central mountain range of Gunastran
+- **Frost Spine Mountains**: The west-east range that forms the southern boundary of the Frozen North. Runs nearly the full width of the continent. Walls off Terinok, the central reaches, and Gunastran from the tundra beyond.
+- **Sentinel Mountains**: The north-south range that bisects the continent. Runs from where it meets the Frost Spine in the north down to its terminus thirty miles north of Kaha'an. Separates Terinok and Vartonne (west) from Gunastran, Uratha, and the Balishan Desert (east). The Sentinels are the structural reason Kaha'an matters: they are the wall, and Kaha'an is the gate.
+- **Mt. Karagh (the Red Mountain)**: A prominent active volcano in the upper Sentinel range. Visible smoke column on clear days; a landmark for navigation across half the continent. Home to the Bloodsworn Canton in Terinok's far east.
+- **Smokepeaks**: Central spine of Gunastran. Geothermally active.
+- **Ironwall Mountains** & **Gemspire Peaks**: Two ranges in the Northern Reaches of Erulius, mineral-rich.
+- **Lyric Mountains**: A modest range marking the boundary between Erulius and Silaris.
 
-### Forests and Other Features
-- **The Whispering Forest**: Dense woodland forming Silaris's western border
-- **The Balishan Desert**: Created by The Rending, an impassable barrier stretching across southwestern Elvandar
-  - Deadly to cross except via the Golden Path
-  - Subject to magical anomalies that defeat conventional navigation
-- **The Gray Wastes**: Epicenter of The Rending with dangerous magical properties
-  - Areas of warped reality that can trap travelers for eternity
-  - Temporal distortions that make alternative routes unpredictably longer
-  - Zones where conventional physics behave erratically, making transport impossible
-- **The Golden Path**: The only safe route through the Balishan Desert
-  - Maintained exclusively by Kaha'an
-  - Features magical protections against the desert's dangers
-  - Dotted with essential waystations approximately one day's travel apart
+### Waterways
+- **Azure Sea**: The eastern and southern ocean. Borders Gunastran, Uratha, Erulius, Silaris, and reaches Kaha'an's harbor. Some stretches are made treacherous by Rending-altered currents and reefs.
+- **Western Sea**: The western ocean. Borders Terinok and Vartonne.
+- **Northern Ice Sea**: The frozen waters north of the continent. Largely unnavigable.
+- **Blood River**: Northern Terinok, flowing south.
+- **Imperial Vein**: Vartonne's main river.
+- **Scholar's River**: The Uratha/Gunastran border.
+- **Cerulean River**: The Erulius/Silaris border.
+
+### Forests & Other Features
+- **The Whispering Forest**: Dense woodland in western Silaris, known for its unusual acoustics.
+- **Taiga of the Frozen North**: A vast pine belt across the southern Frozen North.
+- **The Balishan Desert**: A small but lethal desert ring surrounding Kaha'an. Created in hours by The Rending. The desert is bounded north by the terminus of the Sentinels, south by the coastline, and east/west by the limits of the Rending's effect (which stopped abruptly at certain geographical boundaries — the desert extends only a few miles past the city before fading back into the territories now held by Vartonne and Erulius). It is the dashed historical boundary of the former Province of Balisha (which under the empire encompassed a far larger fertile region), much of whose original territory was annexed by Terinok and Erulius after the Rending isolated the city.
+- **The Gray Wastes**: A patch of warped reality within the Balishan Desert, north of Kaha'an. The epicenter of The Rending. Magic behaves unreliably; reality itself is thin here.
+- **The Golden Path**: A maintained caravan route running west-to-east across the Balishan Desert, threading through Kaha'an. The continent's only safe overland east-west connection.
 
 ## Key Trade Routes and Connections
 
-- The Golden Path, controlled entirely by Kaha'an, radiates in three branches:
-  - Northern Route: To Terinok and Erulius
-  - Eastern Route: To Gunastran and Uratha
-  - Southern Route: To Vartonne and Silaris
-
-- Maritime trade routes connect coastal cities but must contend with treacherous conditions:
-  - Port Valen (Erulian Principality)
-  - Kaha'an's harbor district (one of the few safe deep-water ports)
-  - Empirica (Uratha)
-  - Eastern Harbors of Gunastran
-  - Coastal settlements of Silaris
-
-- Mountain passes provide limited connections:
-  - Between Terinok and Uratha through the Sentinel Mountains
-  - Between Vartonne and Silaris via the Lyric Mountains
-  - Between Terinok and Erulius through the northern mountains
-  - All are subject to seasonal closure and heavily fortified, making them unsuitable for major trade
+- **The Golden Path** (overland east-west, through Kaha'an): the dominant route for any continental trade that cannot be carried by sea. Branches reach toward Vartonne (west), Erulius (east), and (in difficult seasons) the Sentinel passes north toward Terinok and Gunastran.
+- **Maritime trade** (Azure Sea): connects Port Valen (Erulius), Empirica and other coastal cities of Uratha, the Eastern Harbors of Gunastran, the southern coast of Silaris, and Kaha'an's harbor. Subject to reef hazards but vastly cheaper than overland transport.
+- **Mountain passes** (Sentinel and Frost Spine): few, seasonal, fortified, suitable only for limited or military traffic. Not commercially viable for bulk goods.
 
 ## The Magical Impact of The Rending
 
 The Rending transformed Elvandar's geography in ways that centralized trade through Kaha'an:
 
-- Created the impassable Balishan Desert where fertile lands once existed
-- Introduced magical anomalies that make alternative routes deadly
-- Altered coastlines and maritime currents, rendering many harbors unusable
-- Established zones of warped reality that defeat conventional navigation
-- Left Kaha'an protected by ancient imperial wards as the only safe corridor through these dangers
+- Created the Balishan Desert from what had been the rich agricultural heart of the Province of Balisha
+- Introduced magical anomalies (concentrated in the Gray Wastes) that make off-Path travel deadly
+- Altered coastlines and maritime currents along the southern coast, rendering many former harbors unusable
+- Left Kaha'an itself protected by ancient imperial wards — saved from the fate of its surrounding lands
 
-This combination of natural barriers enhanced by magical effects has made Kaha'an truly the unavoidable crossroads of Elvandar, controlling continental trade much as Constantinople once controlled passage between the Black Sea and the Mediterranean.
+This combination of natural barrier (the Sentinels) and post-Rending barrier (the Balishan Desert) has made Kaha'an truly the unavoidable crossroads of Elvandar, controlling continental trade much as Constantinople once controlled passage between the Black Sea and the Mediterranean.
 
 ---
 
-This overview provides a foundation for understanding the physical geography of Elvandar and the spatial relationships between its successor states. The mountain ranges, rivers, seas, and magical barriers not only define natural borders but have also shaped the cultural and economic development of each region, contributing to their embodiment of the seven deadly sins that now characterize the fractured continent.
+This overview matches the canonical map (`elvandar_map_v1.svg` and the reference/fantasy variants). Where individual nation files describe geography in more detail, those details should be reconciled to this overview and the map; the map is ground truth for location, the overview is ground truth for descriptive prose.
