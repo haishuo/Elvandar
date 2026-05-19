@@ -45,7 +45,7 @@ Tragedy strikes: Melina Kemvimore (Xion's sister, who'd been trying to mediate b
 
 Ronas executes the psychotic lieutenant immediately to re-establish control. But it doesn't bring Melina back.
 
-Xion is more determined than ever. He convinces Ronas to stand down: "Why are you taking orders from him anyway? While you're bleeding, Rosik sits in his mansion drinking wine and laughing at you. You're Ronas Dermir, king of the Warrens! You bow to no one!"
+Xion is more determined than ever. He convinces Ronas to stand down: "Why are you taking orders from him anyway? While you're bleeding, Rosik sits in his mansion drinking wine and laughing at you. You're Ronas Dermir, the Slaver King! You bow to no one!"
 
 Xion systematically dismantles Rosik's remaining advantages until his father is forced to flee Balisha.
 
@@ -215,7 +215,7 @@ The conflict plays out in Silaris's narrow streets and galleries, where every bu
 
 **The Warrens Question:**
 
-With Silaris resolved, attention turns to Balisha's unfinished business. The Warrens—built as temporary refugee housing after The Rending—have become permanent underclass contradicting everything Elara and Xion claim to represent.
+With Silaris resolved, attention turns to Balisha's unfinished business. The Warrens—improvised as temporary refugee housing after The Rending—have become permanent underclass contradicting everything Elara and Xion claim to represent.
 
 **The Uncomfortable Truth:**
 
@@ -234,7 +234,7 @@ It's not money or technology stopping them. It's human tendency to postpone unco
 Princess Melina knows—intellectually, morally, statistically—that the Warrens represent fundamental injustice contradicting everything Balisha claims to stand for.
 
 She has comprehensive analysis: charts, projections, cost-benefit analyses, risk assessments, implementation timelines, infrastructure requirements, political ramifications, contingency plans for seventeen scenarios. She's calculated:
-- Exact resource requirements for relocating 200,000 people
+- Exact resource requirements for relocating 60,000 people
 - Optimal construction schedules
 - Economic impacts of labor redistribution
 - Social integration challenges and mitigation strategies
@@ -285,7 +285,7 @@ Ronas likely thought his support during Elara's rise bought permanent immunity. 
 **The Political Problem:** Ronas built his identity around being indispensable to Balisha's functioning. The Slavers cartel controls the Warrens not just through force but by providing services the state failed to deliver. Eliminating the Warrens threatens to prove his entire life's work was unnecessary brutality.
 
 **His Public Arguments** (which aren't entirely wrong):
-- "Where exactly are you moving 200,000 people? Have you built these cities yet?"
+- "Where exactly are you moving 60,000 people? Have you built these cities yet?"
 - "Who protects them during transition? The royal guard doesn't know the Warrens."
 - "What about economic disruption? Half of Balisha depends on Warrens labor."
 - "You're destroying communities that have existed for decades."

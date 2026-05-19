@@ -24,7 +24,7 @@ The Warrens has no unified government. Power is fragmented among multiple compet
 
 **Personal History:** The Mistress joined the Long Knives in her youth when the organization was smaller and more purely criminal. She proved herself exceptional—intelligent, ruthless when necessary, but with a strategic mind that saw beyond immediate profit to long-term power.
 
-Her son, Rosik, was one of her best agents. She trained him personally, groomed him for leadership. Then he betrayed the organization by defecting to marry Lady Kemvimore of the Grain Cartel—choosing surface nobility over the Warrens. This was a massive blow to The Mistress both personally and professionally. Her career stalled for years as she dealt with the political fallout of having raised a "traitor."
+Her son, Rosik, was one of her best agents. She trained him personally, groomed him for leadership. Then he betrayed the organization by defecting to marry Lady Kemvimore of the Grain Cartel—choosing surface nobility over the guild. This was a massive blow to The Mistress both personally and professionally. Her career stalled for years as she dealt with the political fallout of having raised a "traitor."
 
 She eventually proved herself again through a combination of ruthless efficiency and genuine results. When the previous leader died (circumstances unclear), The Mistress claimed leadership and has held it for approximately 8-10 years.
 
@@ -198,11 +198,11 @@ She's assigned a rotating guard detail that doesn't know why they're guarding an
 **Ronas Dermir "the Slaver King"**
 
 * Age: Early 50s  
-* Background: Former criminal enforcer from surface Kaha'an  
+* Background: Rose from the pre-Rending slaver gangs of surface Kaha'an  
 * Appearance: Large, physically imposing, scarred, well-fed (unusual in the Warrens)  
 * Reputation: Ruthless pragmatist, treats slavery as pure business
 
-**Background:** Ronas was a street thug in surface Kaha'an before the Rending. When refugees flooded underground, he saw opportunity where others saw crisis. He descended into the Warrens and built the Slavers from scratch over fifteen years, consolidating smaller criminal operations through violence and superior organization.
+**Background:** Before the Rending, Ronas was a slaver—a rising figure in one of the disconnected gangs that plied the trade in surface Kaha'an, though whether he led that gang or was only its most ambitious lieutenant is a detail lost to the Rending's chaos. When the catastrophe drove the city's criminals underground along with everyone else, he saw opportunity where others saw ruin. Over the years that followed, he consolidated the scattered, feuding slaver gangs into a single organization—the Slaver cartel—through violence, alliance, and superior organization.
 
 **Leadership Style:**
 
@@ -216,7 +216,7 @@ She's assigned a rotating guard detail that doesn't know why they're guarding an
 
 **Core Leadership:**
 
-* Eshara (absolute authority)  
+* Ronas Dermir (absolute authority)  
 * Three Captains (each specializes: kidnapping, trafficking, forced labor)  
 * Inner circle of \~30 senior slavers (trusted lieutenants)
 
@@ -309,7 +309,7 @@ The Slavers move dozens of people monthly, generating enormous wealth.
 
 ### **Surface Connections**
 
-**Corrupt Officials:** Eshara has contacts among Kaha'an's nobility and officials:
+**Corrupt Officials:** Ronas has contacts among Kaha'an's nobility and officials:
 
 * Nobles who buy slaves (domestic help, sex slaves)  
 * Officials who ignore slaver activity (paid off)  
@@ -1180,7 +1180,7 @@ The Red Marks are symptom of Warren desperation—young people with no future cr
 
 **Impact:** The Warren residents benefit from Lathion's continued maintenance without understanding it. The ancient city still cares for its service tunnels through tireless mechanical servants, keeping the systems functional for the refugees who now inhabit them.
 
-**The Irony:** Thousands of humans live in desperate poverty in tunnels maintained by robots that have outlived their creators by five millennia. The Lathionese are gone, but their servants continue working, indifferent to who benefits from their labor.
+**The Irony:** Thousands of humans live in desperate poverty in tunnels maintained by machines that have run for five thousand years—and that, in the last twenty, have outlived the very people they were built to serve. The Lathionese are gone, but their servants continue working, indifferent to who benefits from their labor.
 
 **Relationship with Other Factions:** None. The constructs have no awareness of factions, politics, or human society. They simply maintain the systems as programmed 5,000 years ago.
 
