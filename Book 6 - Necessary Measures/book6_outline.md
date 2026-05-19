@@ -1,6 +1,6 @@
 # Book 6: Necessary Measures — High-Level Outline
 
-**Narrative Engine:** The external crises are resolved — the Compact War won, Silaris stabilized. Now the empire turns inward to the problem it has been avoiding for twenty years: the Warrens. Two hundred thousand people living underground in tunnels that, unbeknownst to anyone, are ancient Lathionese infrastructure — systems that have been running for millennia without maintenance. Those systems are now failing. The water is dying. People are dying with it.
+**Narrative Engine:** The external crises are resolved — the Compact War won, Silaris stabilized. Now the empire turns inward to the problem it has been avoiding for twenty years: the Warrens. Sixty thousand people living underground in tunnels that, unbeknownst to anyone, are ancient Lathionese infrastructure — systems that have been running for millennia without maintenance. Those systems are now failing. The water is dying. People are dying with it.
 
 **POV:** Tiberian and Melina, continuing from Book 5. This is the book where their partnership matures under the most painful possible conditions.
 
@@ -24,11 +24,11 @@ It's not money or technology stopping them. It's the same thing that always stop
 
 ## THE WARRENS ARE DYING
 
-What no one understands — because no one alive has the knowledge to understand it — is that the Warrens tunnels are ancient Lathionese infrastructure. Not crude refugee housing dug by desperate people. Precision-engineered subterranean systems built by the civilization that created the City of Gears — systems for water filtration, air circulation, structural reinforcement, and environmental maintenance that have been running autonomously for over a thousand years.
+What no one understands — because no one alive has the knowledge to understand it — is that the Warrens tunnels are ancient Lathionese infrastructure. Not crude refugee housing dug by desperate people. Precision-engineered subterranean systems built by the civilization that created the City of Gears — systems for water filtration, air circulation, structural reinforcement, and environmental maintenance that have been running autonomously for five thousand years.
 
-It's a miracle they lasted this long. A testament to Lathionese engineering that these systems kept two hundred thousand people alive for generations without a single person knowing how to maintain them. But everything fails eventually. And when Lathionese systems fail, they don't degrade gracefully — they were never designed to. They were designed to be maintained by people who understood them.
+It's a miracle they lasted this long. A testament to Lathionese engineering that these systems kept sixty thousand people alive for generations without a single person knowing how to maintain them. But everything fails eventually. And when Lathionese systems fail, they don't degrade gracefully — they were never designed to. They were designed to be maintained by people who understood them.
 
-The water supply is the first critical failure. Filtration systems that have been processing groundwater for a millennium begin to falter. The water turns brackish, then unreliable, then intermittent. People start getting sick. Then people start dying.
+The water supply is the first critical failure. Filtration systems that have been processing groundwater for five thousand years begin to falter. The water turns brackish, then unreliable, then intermittent. People start getting sick. Then people start dying.
 
 The surface response to the water crisis creates its own nightmare: piping water down from above means controlling who gets water and when. It means the infrastructure of distribution. It means, inevitably, someone controlling that infrastructure for leverage. It means creating Water Cartel 2.0 in the tunnels — a new power structure built on the most basic human need.
 
@@ -44,7 +44,7 @@ The Warrens water supply is failing. Reports arrive at court: increased illness,
 
 Melina's response is characteristically thorough. She assembles teams. She maps the tunnel systems. She builds relocation models — population transfer logistics, construction schedules, economic integration plans, social adjustment frameworks. The plan grows. The plan improves. The plan is never quite ready.
 
-Tiberian pushes for immediate action. Melina pushes back: "We can't afford to get this wrong. Two hundred thousand people. If we move too fast and the receiving infrastructure isn't ready, we create a humanitarian crisis above ground instead of below it."
+Tiberian pushes for immediate action. Melina pushes back: "We can't afford to get this wrong. Sixty thousand people. If we move too fast and the receiving infrastructure isn't ready, we create a humanitarian crisis above ground instead of below it."
 
 She's not wrong. The complexity is real. But the complexity is also a shield.
 

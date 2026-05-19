@@ -113,20 +113,22 @@ Meanwhile, dispatches are sent back to Uratha. The scholars cannot help themselv
 
 ---
 
-### Chapter 6: The Naming
+### Chapter 6: Inhabitants
 **Timeline: First days inside Lathion**
 **Characters present: Xion, Elara, Urathan scholars, Farleen, Kaiden Voss**
-**Emotional work: Wonder becoming context — the impossible becoming the daily**
+**Emotional work: Wonder becoming something stranger — the discovery that the city is ancient, but its emptiness is not**
 
 The expedition establishes a working camp. The wonder of Chapter 5 hasn't faded — it has simply become the air they breathe, which is its own kind of extraordinary. The lights never change. The temperature never shifts. The slow rotation of the uppermost level underfoot takes getting used to. The self-repair automatons move through corridors at odd hours, cleaning surfaces no one has dirtied. The expedition learns not to startle at them.
 
 They begin, out of practical necessity, to give things names. Not Lathionese names — those died with the civilization that made them. Working names, coined by scholars who need to refer to locations and have nothing else to call them. The uppermost level becomes "the Crown" (it sits at the top, like one). The vast chamber of brass objects becomes "the Repository." The threshold space at the conveyor's base gets called "the Gatehouse." These names spread through the camp and stick, the way improvised names always do. The reader gets the terminology the same way the characters do: coined on the spot, practical, entirely human.
 
+**The discovery that reframes everything.** The expedition walked in assuming what anyone would assume — that Lathion is an ancient ruin, a city five thousand years lost. The architecture *is* that old: the brass, the scale, the engineering all genuinely belong to deep antiquity. But as they begin to truly explore — not gawking now, but *looking* — the signs accumulate, and they do not fit a five-thousand-year absence. This city was inhabited, and not in legend — recently. The evidence is quiet, and the quiet is itself the clue: no meal half-eaten, nothing caught and stopped mid-gesture. This is a city that was *closed* — deliberately, by people who had time. Affairs put in order. Things set down, not dropped. A civilization that knew it was leaving and tidied the house behind it. The realization lands slowly and then all at once: Lathion is five thousand years old, but it was *alive* a generation ago — emptied within living memory, within Elara's own lifetime. The chapter ends on the question no one wants to hold: the city is ancient, but its people have been gone only twenty years. *What happened twenty years ago?* The characters cannot answer it yet. The reader, who knows what twenty years ago means, begins to dread the answer.
+
 Elara begins reading fragments. Not fluently — she cannot explain how she reads any of it — but she can parse enough to confirm the scholars' working theories, correct their errors, and occasionally point at a section of text and say *that one is important* without being able to say why. The scholars find this professionally maddening and practically indispensable, the same accommodation they reached at the Door.
 
 Xion and Engineer Kaiden Voss begin working the practical track: what can be used, what can be understood well enough to implement, what does Balisha actually need from this place. Voss has an engineer's eye for organizing logic. He and Xion form a working partnership that runs parallel to the scholarly track — two different relationships with the same city.
 
-**Sets up:** The Repository chapter, and the distinction between scholarly and practical responses to Lathion that will matter later.
+**Sets up:** The Repository chapter; the distinction between scholarly and practical responses to Lathion; and — through the recency discovery — the dread that pays off in Chapter 8, when Elara learns *what* happened twenty years ago.
 
 ---
 
@@ -152,19 +154,19 @@ He thinks about the dispatches already sent to Uratha. He doesn't know yet what 
 ### Chapter 8: The Destiny Engine
 **Timeline: The final discovery**
 **Characters present: Xion, Elara, research teams**
-**Emotional work: Wonder turns to something older and more terrible — what Lathion actually cost**
+**Emotional work: Wonder turns to horror — what Lathion cost, and how recently it cost it**
 
 They have been exploring for weeks. The city has become familiar in the way that impossible things become familiar when you live inside them. Then Elara finds something that doesn't fit — a passage the scholars hadn't mapped, leading deeper than the Repository, to a level the expedition's working names haven't reached yet.
 
 Deep in Lathion's heart: a massive chamber housing an enormous machine. The inscriptions are in Lathionese — Elara intuits fragments but not enough to read the warnings. It is clearly still active in some dormant way. The scholars want to study it. Elara approaches. The machine responds to her the way everything Lathionese responds to her — recognition, resonance. She touches something. The wrong thing. Or the right thing.
 
-The Destiny Engine fires one last time, using whatever residual Lathion-essence Elara carries. She is briefly, involuntarily sent into the past — or shown it. Fragmentary, overwhelming, visceral. She sees the people of Lathion. The civilization that built this beautiful city, alive. And then she sees the end — a catastrophe threatening to destroy everything, and the Lathionese making a choice. Willingly. Knowingly. They fed themselves into this machine to stop it. Not through inscriptions she half-understands. Through witnessing.
+The Destiny Engine fires one last time, using whatever residual Lathion-essence Elara carries. She is briefly, involuntarily shown the past — fragmentary, overwhelming, visceral. She sees the people of Lathion: the civilization that built this city, alive, going about its life. And then she sees the end — and it is not an ancient cataclysm. It is the Rending. The same catastrophe that killed her parents and burned the province around Kaha'an to desert — witnessed now from the other side, measured by Lathion's instruments as it spread toward all life. She sees the Lathionese make their choice, willingly and knowingly: in their last desperate months they build this machine and feed themselves into it, to stop the Rending from consuming the world. Elara does not piece this together from inscriptions she half-understands. She witnesses it — and understands, with a horror that will never fully leave her, that Lathion died in the very disaster that orphaned her.
 
-The vision ends. Elara is shaking. She may not understand the full mechanics — the nature of the machine, the rules it breaks, the scope of what it prevented — but the emotional truth is seared into her: an entire civilization chose to die to save the world. The beautiful City of Gears is empty because its people gave themselves to stop something worse.
+The vision ends. Elara is shaking. She may not understand the full mechanics — the nature of the machine, the rules it breaks, the scope of what it prevented — but the emotional truth is seared into her: an entire civilization chose to die to save the world. The beautiful City of Gears has stood empty not for five thousand years, but for twenty — because that is when its people gave themselves, all at once, to stop the Rending.
 
 She seals the chamber immediately. No debate, no committee, no "let the scholars study it first." A command decision made in seconds by a woman raised by soldiers. The Urathan scholars protest. They want access. Elara doesn't care. The chamber is sealed and declared off-limits to everyone.
 
-Xion sees her face and knows something terrible happened in there. She tells him what she saw. The city they've been marveling at for weeks is a tomb. Its builders chose that.
+Xion sees her face and knows something terrible happened in there. She tells him what she saw. The city they've been marveling at for weeks is a tomb — and a barely-cold one. Its builders chose that.
 
 They emerge from Lathion. The world above has not been standing still.
 
@@ -177,7 +179,7 @@ They emerge from Lathion. The world above has not been standing still.
 **Characters present: Xion, Elara, Scholar-King Leowin Vrek, High Provost Venn**
 **Emotional work: The deal shifts — Uratha reveals how badly it wants in**
 
-The Scholar-King arrives in Kaha'an. The dispatches sent during the exploration reached Uratha and landed like a stone in still water. What was behind the Brass Door was not a library, not a sealed chamber, not the broom closet the pessimists predicted. It was Lathion. The lost city. The City of Gears. A functioning civilization five thousand years preserved underground, with technology that makes everything Gunastran has built look provisional.
+The Scholar-King arrives in Kaha'an. The dispatches sent during the exploration reached Uratha and landed like a stone in still water. What was behind the Brass Door was not a library, not a sealed chamber, not the broom closet the pessimists predicted. It was Lathion. The lost city. The City of Gears. A whole civilization, sealed underground for five thousand years and preserved in near-perfect condition, with technology that makes everything Gunastran has built look provisional.
 
 Uratha's original position was "help you open the door in exchange for you stopping the Crown demands." That deal was struck in ignorance of what lay behind it. Now Uratha knows, and the position reverses dramatically.
 

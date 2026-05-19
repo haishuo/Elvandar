@@ -309,6 +309,33 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 **Usage:** Avoided except for specific purposes  
  **Hazard:** Dehydration if you stay too long
 
+### **The Iron Hall**
+
+**Type:** Slaver headquarters  
+ **Location:** \-185m, central Midlevels  
+ **Size:** 45 meters diameter  
+ **Description:** Large, well-ventilated chamber serving as Ronas Dermir's headquarters and primary slave-holding facility. Single defensible entrance with heavy guards. Well-maintained (slavers are wealthy). Iron chains mounted to walls for restraining captives.
+
+**Purpose:**
+
+* Headquarters for Slaver operations  
+* "Processing" center for captives (sorting, evaluation, preparation for sale)  
+* Meeting place with surface buyers  
+* Ronas's residence (has private quarters)  
+* Well-ventilated and temperature-controlled (keeps "product" healthy)
+
+**Population:** \~120 (Slavers, guards, captives)  
+ **Control:** Slavers (Ronas Dermir)  
+ **Hazard Level:** Extreme—heavily guarded
+
+**Why This Location:** Ronas chose this chamber for strategic reasons:
+
+* Accessible from surface (buyers can reach it)  
+* Well-ventilated (captives don't die of heat)  
+* Near major routes (easy transport)  
+* Defensible (single entrance, well-guarded)  
+* Comfortable (Ronas isn't going to sweat in the Depths)
+
 ### **The Lantern Chamber**
 
 **Type:** Medium chamber, Lantern Boys gathering point  
@@ -441,7 +468,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 **Type:** Former name, now abandoned  
  **Location:** \-340m, central Depths  
- **Description:** This was briefly used as a Slaver stronghold in the early days, but Ronas abandoned it years ago. Too hot, too far from surface buyers, impractical for keeping captives alive. Now it's just an abandoned chamber. The name persists in rumor even though it's no longer used.
+ **Description:** Named for "the Collector"—an epithet Ronas Dermir carried in the early consolidation years, before the Warrens learned to call him the Slaver King. This was briefly his stronghold in those days, but he abandoned it long ago: too hot, too far from surface buyers, impractical for keeping captives alive. Now it's just an abandoned chamber, though the name persists in rumor.
 
 **Population:** 0 (abandoned)  
  **Historical Note:** Residents still think this is Slaver headquarters (it's not—that's the Iron Hall in the Midlevels)
@@ -477,33 +504,6 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
  **Population:** \~30 Well Mothers  
  **Control:** Well Mothers  
  **Temperature:** 90-95°F ambient
-
-### **The Iron Hall**
-
-**Type:** Slaver headquarters  
- **Location:** \-185m, central Midlevels  
- **Size:** 45 meters diameter  
- **Description:** Large, well-ventilated chamber serving as Ronas Dermir's headquarters and primary slave-holding facility. Single defensible entrance with heavy guards. Well-maintained (slavers are wealthy). Iron chains mounted to walls for restraining captives.
-
-**Purpose:**
-
-* Headquarters for Slaver operations  
-* "Processing" center for captives (sorting, evaluation, preparation for sale)  
-* Meeting place with surface buyers  
-* Ronas's residence (has private quarters)  
-* Well-ventilated and temperature-controlled (keeps "product" healthy)
-
-**Population:** \~120 (Slavers, guards, captives)  
- **Control:** Slavers (Ronas Dermir)  
- **Hazard Level:** Extreme—heavily guarded
-
-**Why This Location:** Ronas chose this chamber for strategic reasons:
-
-* Accessible from surface (buyers can reach it)  
-* Well-ventilated (captives don't die of heat)  
-* Near major routes (easy transport)  
-* Defensible (single entrance, well-guarded)  
-* Comfortable (Ronas isn't going to sweat in the Depths)
 
 ### **The Lost Chamber**
 

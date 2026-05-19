@@ -18,9 +18,11 @@ The name "Warrens" is grimly appropriate. The tunnels form a rat's warren of pas
 
 ### **Before the Rending: The Old Slums**
 
-Pre-Rending Kaha'an had a typical urban slum in its northern district—a rough neighborhood housing perhaps 3,000-5,000 people in poverty. Overcrowded tenements, narrow streets, high crime, but ultimately manageable for an imperial capital of 200,000-300,000 people.
+Pre-Rending Kaha'an had a typical urban slum in its northern district—known plainly as the Slums District, a rough neighborhood housing perhaps 3,000-5,000 people in poverty. Overcrowded tenements, narrow streets, high crime, but ultimately manageable for an imperial capital of 200,000-300,000 people. That same neighborhood is what residents today call the **Surface Warrens**—the name "Warrens" having crept upward, over twenty years, to swallow the district that sat atop the tunnel-mouths.
 
-Beneath the city lay something else entirely: an extensive network of ancient tunnels. Built thousands of years ago by unknown builders, these passages had been abandoned for millennia. If anyone remembered them, they were dismissed as unstable ruins, possibly haunted, certainly not suitable for habitation.
+Beneath the city lay something else entirely: an extensive network of ancient tunnels, built thousands of years ago by unknown builders. The surface world called them the **Arol Rhutan**—simply "the old tunnels"—and gave them little more thought than the name. They had stood empty for millennia. To anyone who recalled they existed at all, they were unstable ruins, possibly haunted, and plainly never meant for habitation: the proportions were wrong, the dark was total, and nothing about them invited a living soul. The one exception was the Long Knives, the city's old assassins' guild, who now and then sent recruits down into the empty Arol Rhutan to train. No one else had any use for the place.
+
+Kaha'an's underworld in those days included slavers—but not *the* Slavers. Slaving was the trade of a scatter of disconnected gangs who fought one another over territory and victims nearly as often as they fought the city guard that hunted them. There was no Slaver cartel, and no Slaver King. That would come later—and it would come from below.
 
 ### **The Rending: Catastrophe**
 
@@ -46,6 +48,14 @@ Over twenty years, the Warrens developed its own economy, power structures, and 
 
 The Warrens is no longer an emergency shelter. It's a city.
 
+### **The Slavers: From Gangs to Cartel**
+
+The refugee flood swept everyone underground—including Kaha'an's criminals. The slaver gangs that had once squabbled in the surface alleys found themselves displaced into the same tunnels as everyone else, in a lawless dark where the city guard would not follow.
+
+It was perfect soil for consolidation, and one figure understood that faster than the rest: Ronas Dermir. He had come up through one of the larger gangs—whether as its leader or merely its most ambitious lieutenant is a detail the Rending's chaos swallowed—and in the years that followed he did what no slaver before him had managed. One by one he absorbed the rival crews: by alliance, by force, by simply outlasting them, until the scatter of warring gangs had become a single organization answering to a single master.
+
+That organization is the Slaver cartel, and it is unlike the others. Grain, Water, and Iron all trace their power to the old imperial order; the Slaver cartel was *born of the Rending*, forged underground from refugee-era gangs barely twenty years ago. It is the youngest of Kaha'an's four ruling cartels, and the only one with no roots in the world above—a fact the other three have never let Ronas forget. He rules the Depths as the Slaver King, sits among the cartel lords as the newest and least respected of them, and remembers every slight.
+
 ---
 
 ## **The Warrens Today**
@@ -54,7 +64,7 @@ The Warrens is no longer an emergency shelter. It's a city.
 
 **Total: \~60,000 residents**
 
-**Surface Warrens (8,000-10,000):** The gateway population living in the ruins of the northern district. They control access to the tunnels below and manage trade with surface Kaha'an. More privileged than underground residents—they have sunlight, easier access to surface goods, and can grow limited crops in the ruins.
+**Surface Warrens (8,000-10,000):** The gateway population, living in the old Slums District—the pre-Rending northern slum, now half-ruined and absorbed into the Warrens in name and in fate. They control access to the tunnels below and manage trade with surface Kaha'an. More privileged than underground residents—they have sunlight, easier access to surface goods, and can grow limited crops in the ruins.
 
 **The Tiers (15,000-18,000):** Upper tunnels closest to the surface. Successful merchants, skilled craftspeople, and those with faction protection live here. Better air quality, easier access to surface, and larger living spaces. This is the "middle class" of the Warrens.
 
@@ -279,9 +289,9 @@ The Warrens has no central authority. Instead, multiple factions compete for con
 
 ### **Major Factions**
 
-**The Long Knives:** The largest and most organized faction, controlling the Tiers and key passages. Led by The Mistress, they started as protection for refugees and evolved into the closest thing the Warrens has to government. They extract tribute but actually provide protection and maintain order. Many residents view them as legitimate authority.
+**The Long Knives:** The largest and most organized faction, controlling the Tiers and key passages. Led by The Mistress, they are no Warren-born group but Kaha'an's old assassins' guild—one of the few powers that knew the Arol Rhutan before the Rending, having long used its empty passages to train recruits in the dark. When the refugees flooded down, the Long Knives already held the deep tunnels. Rather than be displaced, they extended their grip into a role of protection and order over the new population, and have become the closest thing the Warrens has to a government. They extract tribute but genuinely provide protection and maintain order. Many residents view them as legitimate authority.
 
-**The Slavers:** Universally hated but powerful. They kidnap vulnerable residents (especially from the Depths) and sell them to surface buyers or keep them for forced labor. Led by Eshara "the Collector," they control the Depths through terror. They persist because they have protection from corrupt surface nobility.
+**The Slavers:** Universally hated but powerful. They kidnap vulnerable residents (especially from the Depths) and sell them to surface buyers or keep them for forced labor. Led by Ronas Dermir, the Slaver King—who welded the old surface slaver gangs into a single cartel in the years after the Rending (see *The Slavers: From Gangs to Cartel*, above)—they control the Depths through terror. They persist because the Slaver cartel is itself one of Kaha'an's four ruling powers: the other cartels find its services too useful, and its reach too long, to move against it.
 
 **The Well Mothers:** Control all major water sources. Led by Grandmother Shira, they distribute water based on need and protect vulnerable populations (especially children). Near-universally respected. Even other factions don't attack them—cutting off water would unite everyone against you.
 

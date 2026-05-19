@@ -304,7 +304,7 @@ No. No, this isn't happening.
 
 "Lord Kemvimore... I'm so sorry. Your sister..."
 
-**What the reader learns (what Xion pieces together afterward):** Melina arranged to meet one of Ronas's lieutenants in the Surface Slums. Neutral ground, theoretically safe for someone of her status. She came with good intentions — trying to mediate, offering peaceful resolution. She believed in her father's world, the one she grew up in, where everything is transactional and deals can always be made.
+**What the reader learns (what Xion pieces together afterward):** Melina arranged to meet one of Ronas's lieutenants in the Surface Warrens. Neutral ground, theoretically safe for someone of her status. She came with good intentions — trying to mediate, offering peaceful resolution. She believed in her father's world, the one she grew up in, where everything is transactional and deals can always be made.
 
 The lieutenant killed her mid-sentence. Not because she threatened him. Because the leash was off and he could. Chaos doesn't negotiate.
 
