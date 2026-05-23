@@ -4,7 +4,7 @@
 
 Lathion, known in legend as "The City of Gears," is an underground elven metropolis built five thousand years ago beneath what would become Kaha'an. It represents the pinnacle of Lathionese civilization—a seamless integration of advanced technology, magical theory, and architectural mastery that has never been equaled.
 
-**Status:** Sealed five thousand years ago; inhabited until the Rending; silent for twenty years, its systems still functioning
+**Status:** Built ~5,000 years ago; maintained open relations with the surface for nearly three millennia; sealed ~2,000 years ago; inhabited until the Rending; silent for the twenty years since, its systems still functioning
 **Location:** Beneath Kaha'an (unknown to surface dwellers)
 **Size:** Approximately half of modern Kaha'an's surface area
 **Population:** ~500,000 Lathionese elves — a living civilization until twenty years ago
@@ -45,7 +45,7 @@ Five thousand years ago, the Lathionese elves were one of the most advanced civi
 - Emphasis on knowledge preservation
 - Long-term strategic thinking (planning in centuries)
 
-**Relationship with the Surface World:** In their early history, the Lathionese maintained open diplomatic relations with surface civilizations, including the young Balishan Empire. They were known but mysterious—elves who lived underground in a city of wonders, trading knowledge for resources, keeping a careful neutrality in surface conflicts. That openness ended five thousand years ago, when Lathion sealed itself away. From that point the relationship became wholly one-sided: Lathion watched the surface, and the surface forgot Lathion.
+**Relationship with the Surface World:** For nearly three millennia after the city's founding, the Lathionese maintained open relations with surface civilizations. They were known but mysterious — elves who lived underground in a city of wonders, trading knowledge for resources, keeping a careful neutrality in surface conflicts. During this long open period, Lathionese magical theory and engineering passed into surface use in countless small ways: techniques borrowed, refined, simplified, taught to apprentices who never knew the original source. **Much of what surface civilizations now call "magitech" — particularly Gunastran's industrial tradition — descends in degraded and incomplete form from Lathionese arts transmitted during this period.** The Lathionese were the originators; modern magitech practitioners are the latter-day inheritors, working with broken pieces of a knowledge system whose source they have forgotten. That openness ended approximately 2,000 years ago, when Lathion sealed itself away. From that point the relationship became wholly one-sided: Lathion watched the surface, and the surface gradually forgot Lathion.
 
 ### Why Underground?
 
@@ -75,23 +75,24 @@ The Lathionese chose to build underground for several reasons:
 
 ### The Decision to Seal
 
-Five thousand years ago, the Lathionese made a momentous decision: they sealed their city away from the surface world.
+Approximately 2,000 years ago — roughly three millennia into Lathion's existence, after a long flourishing in which the city had been a known and active partner of surface civilizations — the Lathionese made a momentous decision: they sealed their city away from the surface world.
 
 **What Is Known (from records):**
 
 - The sealing was deliberate, not forced
 - The population participated willingly
-- The brass door was closed from within
-- The service tunnels above the door were left open and accessible—the surface was not collapsed away, merely shut out at the threshold (across the long empty centuries that followed, the surface world would know these tunnels only as the *Arol Rhutan*, the "old tunnels," and give them little more thought than the name)
+- The Great Shaft — Lathion's primary surface access during the open period — was deliberately collapsed and filled from below; the magitech elevator that had served it was destroyed
+- The Brass Door — a long-disused back entrance behind a network of natural caves — was sealed as a contingency, though the Lathionese reasoned that no one would ever reach it through the caves
+- The service tunnels above the door (now the Warrens) were left fully operational, since the city continued to need its HVAC, water, and maintenance infrastructure — but these were never designed to serve as a route INTO the city
 - The city's systems were configured for indefinite, self-sustaining operation
 
-**What the sealing was *not*:** It was not an ending. The Lathionese did not die or vanish when they closed the brass door—they *withdrew*. Behind the seal, Lathion lived on: a complete, self-sufficient civilization that had simply chosen to step out of surface history. For five thousand years it endured—generations born, lived, and died in a sealed city of wonders—while on the surface above, empires rose and shattered and rose again. Nor was the city blind to that surface. Lathionese instruments observed the world overhead throughout those fifty centuries. The Lathionese watched. They simply, deliberately, chose never again to touch.
+**What the sealing was *not*:** It was not an ending. The Lathionese did not die or vanish when they sealed the city — they *withdrew*. Behind the seal, Lathion lived on: a complete, self-sufficient civilization that had simply chosen to step out of surface history. For two thousand years it endured — generations born, lived, and died in a sealed city of wonders — while on the surface above, empires rose and shattered and rose again. Nor was the city blind to that surface. Lathionese instruments observed the world overhead throughout those twenty centuries. The Lathionese watched. They simply, deliberately, chose never again to touch.
 
-**Why they sealed themselves away** is the genuine mystery, and it may never be answered, because everyone who knew the reason is now gone. Theories abound—a wish to escape some surface danger, a philosophical turn toward perfect isolation, a research undertaking that demanded total seclusion—but they remain theories. Whatever drove an entire civilization behind a closed door, the Lathionese took the reason with them.
+**Why they sealed themselves away** is the genuine mystery, and it may never be answered, because everyone who knew the reason is now gone. Theories abound — a wish to escape some surface danger, a philosophical turn toward perfect isolation, a research undertaking that demanded total seclusion, a catastrophic event whose nature has been deliberately erased from the surface record — but they remain theories. Whatever drove an entire civilization behind a closed door, the Lathionese took the reason with them.
 
-**The end of Lathion** came not with the sealing but five thousand years later. Twenty years ago, the Rending tore a breach between the living world and the realm of the dead, and Lathion's instruments measured a catastrophe that would not stop until all life on Elvandar was gone. Lathion broke its long isolation in the only way left to it—by ending itself. Its inhabitants built the Destiny Engine and gave their existence to power it, sealing the breach and saving the surface world that had forgotten them. The "final act"—every Lathionese entering the city's heart to be given to the Engine—belongs to that day, twenty years ago, not to the sealing five millennia before. (The full account is given in the Rending document, to which the truth of Lathion's death properly belongs.)
+**The end of Lathion** came not with the sealing but two thousand years later. Twenty years ago, the Rending tore a breach between the living world and the realm of the dead, and Lathion's instruments measured a catastrophe that would not stop until all life on Elvandar was gone. Lathion broke its long isolation in the only way left to it — by ending itself. Its inhabitants built the Destiny Engine and gave their existence to power it, sealing the breach and saving the surface world that had largely forgotten them. The "final act" — every Lathionese entering the city's heart to be given to the Engine — belongs to that day, twenty years ago, not to the sealing two millennia before. (The full account is given in the Rending document, to which the truth of Lathion's death properly belongs.)
 
-**The Result:** For five thousand years after the sealing, Lathion was a living city—hidden and silent to the surface, but vibrant within. Only twenty years ago did it truly end. Since that day the city has stood empty: intact, powered, and tended by self-repair machines that do not know, and cannot be told, that the hands which built them are gone.
+**The Result:** For two thousand years after the sealing, Lathion was a living city — hidden and silent to the surface, but vibrant within. Only twenty years ago did it truly end. Since that day the city has stood empty: intact, powered, and tended by self-repair machines that do not know, and cannot be told, that the hands which built them are gone.
 
 ---
 
@@ -330,7 +331,7 @@ To the surface world—which knows none of the truth—Lathion remains a knot of
 
 ## The Warning
 
-Lathion was sealed deliberately, five thousand years ago, by a civilization that understood far more than modern Elvandar—and the reason for that sealing was never recorded anywhere the surface can reach.
+Lathion was sealed deliberately, approximately two thousand years ago, by a civilization that understood far more than modern Elvandar — and the reason for that sealing was never recorded anywhere the surface can reach.
 
 **Why That Matters:** The Lathionese possessed:
 
@@ -345,7 +346,7 @@ And they chose, at the height of all of it, to close the brass door and step out
 
 **The Counterargument:** They did not seal the city to destroy it. They left the systems running, the tunnels accessible, the city preserved—the arrangements of people who intended their work to endure, perhaps for someone, someday. And in the end it was Lathion's preservation that saved the world: a city kept alive behind a door was a city still able to act when the Rending came.
 
-**The Uncertainty:** But *why* remains unanswered. The Lathionese sealed themselves away for a reason urgent enough to commit an entire civilization to five thousand years of isolation—and that reason is lost. To open Lathion is to act in ignorance of the very fear that closed it.
+**The Uncertainty:** But *why* remains unanswered. The Lathionese sealed themselves away for a reason urgent enough to commit an entire civilization to two thousand years of isolation — and that reason is lost. To open Lathion is to act in ignorance of the very fear that closed it.
 
 ---
 
@@ -368,7 +369,7 @@ And they chose, at the height of all of it, to close the brass door and step out
 
 **Temporal:**
 
-- Sealed five thousand years ago
+- Sealed approximately two thousand years ago (after roughly three millennia of open relations with the surface)
 - A living city until twenty years ago
 - Silent and empty for the two decades since
 - To the machines that tend it, the distinction means nothing—they will maintain Lathion until they fail, and they show no sign of failing
@@ -393,7 +394,7 @@ Even sealed, dead, and forgotten, Lathion shapes the world above it:
 
 ## Summary
 
-Lathion stands as testament to heights once achieved and deliberately set aside—and then, at the very end, spent. For five thousand years it was a civilization that chose to watch the world rather than live in it. For one final year it was a civilization that chose to die for that world anyway.
+Lathion stands as testament to heights once achieved and deliberately set aside — and then, at the very end, spent. For nearly three thousand years it was a civilization that lived openly alongside the surface, sharing its arts and watching the world grow. For two thousand years after that it was a civilization that chose to watch the world rather than live in it. For one final year it was a civilization that chose to die for that world anyway.
 
 The city waits now—powered, maintained, preserved—for whatever comes next. Its machines continue their eternal tasks, indifferent to the passage of years, tending the halls of a people two decades dead. The brass door remains sealed, requiring knowledge and capability that has not existed since the night Lathion ended.
 

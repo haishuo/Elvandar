@@ -8,7 +8,7 @@ Lathion, known in legend as "The City of Gears," is an underground elven metropo
  **Depth:** Extends from \-500 meters to approximately \-2,000 meters below surface  
  **Size:** Roughly half the area of modern Kaha'an's surface footprint  
  **Population at Peak:** \~500,000 Lathionese elves  
- **Current Status:** Abandoned for 5,000 years, sealed, systems still functioning
+ **Current Status:** Sealed from the surface ~2,000 years ago; inhabited until the Rending; empty for the twenty years since; systems still functioning
 
 ---
 
@@ -165,7 +165,7 @@ Still deadly. The security maze functions as designed, killing anyone who enters
   * Mathematical sequence (numerical code)  
   * Magical resonance (attunement to Lathionese magical signature)
 
-**Why It's Sealed:** The Lathionese sealed the door when they departed Lathion for the final time. The door has remained sealed for 5,000 years, keeping Lathion isolated from the surface world.
+**Why It's Sealed:** The Brass Door was sealed approximately 2,000 years ago, when Lathion withdrew from surface relations and collapsed the Great Shaft that had been its primary surface gate. The Brass Door — a long-disused back entrance behind a network of natural caves (Dead Man's Passage) — was sealed as a contingency, on the reasonable assumption that no one would brave the caves to reach it. The Lathionese did not "depart" — they continued to live in Lathion for the next two millennia behind the seal, ending only twenty years ago in the Rending. The door has remained sealed throughout: 2,000 years of Lathionese choosing isolation, followed by 20 years of nobody being left to open it.
 
 ### **The Antechamber**
 

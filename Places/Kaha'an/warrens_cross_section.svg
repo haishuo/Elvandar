@@ -180,7 +180,7 @@
   <text x="900" y="470" font-size="8" fill="#5a4a2a">Long Knives territory (nearly complete control)</text>
   <text x="900" y="490" font-size="8" fill="#5a4a2a">→ The Clear Spring (water station, −60m)</text>
   <text x="900" y="505" font-size="8" fill="#5a4a2a">→ The Ascent (4m-wide main passage)</text>
-  <text x="900" y="525" font-size="7" font-style="italic" fill="#5a4a2a">temp: 70–80°F summer, 50–60°F winter</text>
+  <text x="900" y="525" font-size="7" font-style="italic" fill="#5a4a2a">temp: stable · engineered Lathionese climate ("suspiciously livable")</text>
 
   <!-- Vertical passages connecting Tiers to Midlevels -->
   <g stroke="#3a2a18" stroke-width="2" fill="none" stroke-dasharray="4 3" opacity="0.7">
@@ -194,7 +194,7 @@
   <rect x="80" y="540" width="1020" height="280" fill="url(#layerGrad3)" opacity="0.92" stroke="#5a4a2a" stroke-width="0.6"/>
   <text x="900" y="580" font-size="14" font-weight="700" letter-spacing="3" fill="#f0e8d2">THE MIDLEVELS</text>
   <text x="900" y="595" font-size="9" font-style="italic" fill="#f0e8d2">−100 to −300 m · pop. 25–30,000 (the most populous layer)</text>
-  <text x="900" y="610" font-size="8" fill="#f0e8d2">complete darkness · resident-provided lighting · stable 65–70°F</text>
+  <text x="900" y="610" font-size="8" fill="#f0e8d2">complete darkness · resident lighting · stable 65–70°F (HVAC still running)</text>
   <text x="900" y="625" font-size="8" fill="#e8d8a4">"the true city" — most of the Warrens' population lives here</text>
   <text x="900" y="645" font-size="8" fill="#e8d8a4">Long Knives + Slavers' contested edge</text>
 
@@ -271,7 +271,7 @@
   <rect x="80" y="820" width="1020" height="280" fill="url(#layerGrad4)" opacity="0.95" stroke="#5a4a2a" stroke-width="0.6"/>
   <text x="900" y="860" font-size="14" font-weight="700" letter-spacing="3" fill="#f0e8d2">THE DEPTHS</text>
   <text x="900" y="875" font-size="9" font-style="italic" fill="#f0e8d2">−300 to −500 m · pop. 8–10,000 (desperate, hunted)</text>
-  <text x="900" y="890" font-size="8" fill="#e8d8a4">80–95°F · poor air · ancient mechanisms increasingly active</text>
+  <text x="900" y="890" font-size="8" fill="#e8d8a4">80–95°F · climate envelope tapering · ancient mechanisms increasingly active</text>
   <text x="900" y="905" font-size="8" fill="#e8d8a4">primary Slaver hunting ground · little Long Knives presence</text>
   <text x="900" y="920" font-size="8" fill="#e8d8a4">strange blue conduits glow faintly in deeper passages</text>
 
@@ -318,7 +318,7 @@
   <text x="900" y="1140" font-size="14" font-weight="700" letter-spacing="3" fill="#a8c4d8">DEAD MAN'S PASSAGE</text>
   <text x="900" y="1155" font-size="9" font-style="italic" fill="#a8c4d8">−500 m+ · pop. 0 (lethal maze)</text>
   <text x="900" y="1170" font-size="8" fill="#a8c4d8">3D labyrinth · branches up, down, sideways · pristine ancient construction</text>
-  <text x="900" y="1185" font-size="8" fill="#a8c4d8">temp rises with descent · faint blue ancient lighting in walls</text>
+  <text x="900" y="1185" font-size="8" fill="#a8c4d8">natural caverns (not Lathionese) · hot from natural geothermal · winds, dead-ends</text>
   <text x="900" y="1200" font-size="8" fill="#a8c4d8">only the Long Knives (and Elara, in trance) navigate it</text>
   <text x="900" y="1215" font-size="8" fill="#a8c4d8">8–12 hours descent with guide</text>
 
@@ -357,10 +357,10 @@
   <!-- ===== Layer 6: Lathion (sealed, below the door) ===== -->
   <rect x="80" y="1300" width="1020" height="220" fill="#0a1828" stroke="#3a2a18" stroke-width="1.2"/>
   <text x="600" y="1345" font-size="20" font-weight="700" letter-spacing="6" text-anchor="middle" fill="#5a8ab8" font-style="italic">~ LATHION ~</text>
-  <text x="600" y="1366" font-size="10" letter-spacing="3" text-anchor="middle" fill="#5a8ab8">The Lost City of Gears · sealed beyond the brass door</text>
-  <text x="600" y="1385" font-size="9" font-style="italic" text-anchor="middle" fill="#4a7ab0">5,000 years old · pre-imperial elven metropolis</text>
+  <text x="600" y="1366" font-size="10" letter-spacing="3" text-anchor="middle" fill="#5a8ab8">The Lost City of Gears · climate-controlled · perfectly livable · sealed beyond the brass door</text>
+  <text x="600" y="1385" font-size="9" font-style="italic" text-anchor="middle" fill="#4a7ab0">built ~5,000 years ago · sealed ~2,000 years ago · for three millennia kept relations with the surface</text>
   <text x="600" y="1400" font-size="9" font-style="italic" text-anchor="middle" fill="#4a7ab0">contains the Destiny Engine (geographically beneath the Ruby Palace)</text>
-  <text x="600" y="1415" font-size="9" font-style="italic" text-anchor="middle" fill="#4a7ab0">unknown to all but a few — its inhabitants gave their existence to seal the Rending</text>
+  <text x="600" y="1415" font-size="9" font-style="italic" text-anchor="middle" fill="#4a7ab0">its long-isolated inhabitants gave their existence to seal the Rending — 20 years ago</text>
 
   <!-- Faint city silhouette of Lathion -->
   <g fill="#1a2a3a" opacity="0.7">
@@ -406,13 +406,21 @@
 
   <!-- ============ RIGHT-SIDE ANNOTATION BANDS ============ -->
   <g font-size="8" fill="#3a2a18" font-style="italic" font-family="'Helvetica',sans-serif">
-    <!-- temperature -->
+    <!-- temperature — engineered Lathionese climate; deliberate kill-zone in Dead Man's Passage -->
     <text x="1115" y="280" text-anchor="middle" font-weight="700">TEMP</text>
     <text x="1115" y="305" text-anchor="middle">110°F+</text>
-    <text x="1115" y="450" text-anchor="middle">70–80°F</text>
-    <text x="1115" y="680" text-anchor="middle" fill="#e8d8a4">65–70°F</text>
-    <text x="1115" y="960" text-anchor="middle" fill="#e8d8a4">80–95°F</text>
-    <text x="1115" y="1200" text-anchor="middle" fill="#a8c4d8">warmer ↓</text>
+    <text x="1115" y="318" font-size="6" text-anchor="middle" font-style="italic">surface desert</text>
+    <text x="1115" y="445" text-anchor="middle">stable</text>
+    <text x="1115" y="458" font-size="6" text-anchor="middle" font-style="italic">HVAC active</text>
+    <text x="1115" y="675" text-anchor="middle" fill="#e8d8a4">65–70°F</text>
+    <text x="1115" y="688" font-size="6" text-anchor="middle" fill="#e8d8a4" font-style="italic">engineered</text>
+    <text x="1115" y="955" text-anchor="middle" fill="#e8d8a4">80–95°F</text>
+    <text x="1115" y="968" font-size="6" text-anchor="middle" fill="#e8d8a4" font-style="italic">envelope tapers</text>
+    <text x="1115" y="1170" text-anchor="middle" fill="#a8c4d8">HOT</text>
+    <text x="1115" y="1183" font-size="6" text-anchor="middle" fill="#a8c4d8" font-style="italic">natural caves</text>
+    <text x="1115" y="1196" font-size="6" text-anchor="middle" fill="#a8c4d8" font-style="italic">(geothermal)</text>
+    <text x="1115" y="1350" text-anchor="middle" fill="#a8c4d8">stable</text>
+    <text x="1115" y="1363" font-size="6" text-anchor="middle" fill="#a8c4d8" font-style="italic">Lathion: a city</text>
   </g>
 
   <!-- ============ LEGEND ============ -->

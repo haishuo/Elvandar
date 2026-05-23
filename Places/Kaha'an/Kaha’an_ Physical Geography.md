@@ -189,23 +189,62 @@ The commercial and industrial heart of Kaha'an, containing markets, workshops, a
  **Population:** \~50,000-52,000 underground residents  
  **Total Warrens Population:** \~60,000 (including surface ruins)
 
-**Physical Reality:** The Warrens is not just the surface ruins—the true city is underground. Tens of thousands live in an ancient network of tunnels and chambers built 5,000 years ago as service infrastructure for the lost city of Lathion.
+**Physical Reality:** The Warrens is not just the surface ruins — the true city is underground. Tens of thousands live in an ancient network of tunnels and chambers built roughly 5,000 years ago as **the HVAC, water, and maintenance infrastructure** for the lost city of Lathion below.
+
+This is the key fact about the Warrens, and it explains everything else: **these tunnels were not designed to be a city. They were designed to be the service plant for a city.** Ventilation shafts, water mains, maintenance corridors, technician staging chambers, emergency escape routes — the entire system is Lathionese engineering meant to keep Lathion proper habitable and operating. The refugees who flooded into the Warrens after the Rending are squatting in what was, originally, the basement utilities of a civilization that no longer exists.
+
+**A note on Lathion's history.** Lathion was built ~5,000 years ago by the Lathionese — an elven civilization whose origins and motives for building so deep underground are no longer recorded. For approximately three millennia after construction, **Lathion was not sealed**. The city maintained relations with the surface — trade, cultural exchange, possibly migration in both directions. Surface access was via **the Great Shaft**, a massive vertical conduit reaching from the city up to the surface, served by a magitech elevator capable of moving people and goods between worlds. The Great Shaft was Lathion's front door; the Warrens were always the service entrance.
+
+Approximately 2,000 years ago — for reasons not preserved in any surviving record — Lathion chose to seal itself off from the surface. The Great Shaft was deliberately collapsed and filled. The magitech elevator was destroyed. The Lathionese turned inward, and the surface gradually forgot Lathion existed. By the time the Balishan Empire rose on the surface a few centuries later, Lathion was already legend.
+
+What remained, after the Great Shaft was destroyed, were two access routes — neither of them intended for routine traffic:
+
+1. **The Warrens service tunnels above** — still operational, still climate-controlled, still pumping water and air; but service-only, not designed to bring visitors *into* the city, only to support it from above
+2. **A network of natural caverns connecting (somewhere deep) to a sealed back entrance** — the Brass Door chamber, which the Lathionese fortified as a contingency seal "just in case." They reasoned, not unreasonably, that no one would be insane enough to traverse the natural caves to reach a door that wouldn't open anyway.
+
+The natural cavern network is what we now call **Dead Man's Passage** (see below). It is not Lathionese construction. The Lathionese inherited it as a geological feature of the bedrock beneath their city, and they sealed the access point (the Brass Door) rather than try to fill in or rework the caves themselves.
+
+One important implication of the open period: **much of what surface civilizations now call "magitech" likely descends, in degraded and incomplete form, from Lathionese arts transmitted during the three millennia of contact.** Gunastran's industrial magitech is the most advanced surface tradition — and may, without knowing it, be a long-distant inheritance from the Lathionese themselves. The Lathionese were the theorists; Gunastran are the latter-day engineers working with degraded recipes. (See *Magic/The Rending.md* for the dual significance of this for the Destiny Engine.)
+
+**Why the Warrens are "suspiciously livable":**
+
+A geologist visiting these depths in any other underground formation would expect natural cave conditions — stable cool temperature (around 55–60°F), poor air circulation, no reliable water flow, total darkness. The Warrens have none of those problems. The air is fresh. The temperature is *engineered* — comfortable in the upper and middle levels in a way that natural geology cannot produce. The ventilation fans still turn. The water pumps still pump. Acoustically muffled corridors carry the faint, steady sound of mechanisms operating somewhere out of sight. After 5,000 years.
+
+This is not because the systems are simple. It is because the Lathionese built systems that *do their job* — and were built to a tolerance that did not contemplate the operators being gone.
+
+**The original design philosophy** assumed Lathionese maintenance workers would traverse these passages on routine duty rotations. The corridors are sized for *people*; staging chambers are sized for *crews*; access doors have *handles*. The whole infrastructure has a human-scale ergonomic assumption baked into it. At some point — well before the sealing, in the latter centuries of Lathion's flourishing — the maintenance work was **automated**. Brass-and-arcane constructs took over the routine inspections. Lathionese citizens stopped going up into the service tunnels personally. The automatons handled it. This is partly why, when the city eventually sealed itself with the Destiny Engine, the service infrastructure could continue running indefinitely without occupants — it had already been designed to run that way.
+
+Whether any of those automatons are *still operating* in the deeper Warrens or behind the brass door in Lathion proper is one of the questions no surface dweller knows to ask. Faint, distant sounds reported by residents of the Depths (rhythmic mechanical noise, occasionally moving past at distance, never visible) are dismissed as imagination by most. Some refugees who have lived in the Depths for years are less sure.
 
 **The Tunnel Network:**
 
-* Ventilation shafts (3-5 meters diameter, still-functioning ancient fans)  
-* Water access tunnels (2-3 meters wide, ancient pumping stations still work)  
-* Maintenance corridors (1.5-2.5 meters, most common passages)  
-* Emergency escape routes (4-6 meters, designed for mass movement)  
-* Carved chambers at intervals (living spaces, 8-60 meters diameter)
+* Ventilation shafts (3–5 meters diameter, still-functioning ancient fans)
+* Water access tunnels (2–3 meters wide, ancient pumping stations still work)
+* Maintenance corridors (1.5–2.5 meters, most common passages)
+* Emergency escape routes (4–6 meters, designed for mass movement)
+* Carved chambers at intervals (8–60 meters diameter — originally crew staging, foreman offices, equipment storage; now living spaces)
 
 **Vertical Stratification:**
 
-* **Surface Warrens:** Ruins with tunnel entrances (8,000-10,000)  
-* **The Tiers** (-20 to \-100m): Upper chambers, relatively better conditions (15,000-18,000)  
-* **The Midlevels** (-100 to \-300m): Where most residents live (25,000-30,000)  
-* **The Depths** (-300 to \-500m): Hot, dangerous, desperate (8,000-10,000)  
-* **Dead Man's Passage** (-500m+): Lethal maze leading to sealed brass door (0 permanent residents)
+* **Surface Warrens:** Ruins with tunnel entrances (8,000–10,000). Above the engineered envelope; surface weather and desert heat reach here.
+* **The Tiers** (−20 to −100m): Upper service corridors. Engineered climate fully effective — air circulating, temperature stable, water flowing. *Suspiciously livable.* 15,000–18,000 residents.
+* **The Midlevels** (−100 to −300m): The bulk of the service infrastructure. Engineered climate still effective — most of the population lives here precisely because the conditions are stable. 25,000–30,000.
+* **The Depths** (−300 to −500m): The boundary zone where the climate engineering begins to taper. Warmer (80–95°F), poorer air, the engineering doing less of the work. Closer to Lathion's heat sources. 8,000–10,000 desperate residents who could not afford or were not permitted to live higher.
+* **Dead Man's Passage** (−500m+): **Natural caverns, not Lathionese construction.** A network of caves formed by ordinary geological processes — water erosion, fault movement, mineral precipitation — that happen to connect, somewhere in their depths, to the back wall of Lathion's outer chamber. The Lathionese inherited these caves as a feature of the bedrock; they did not build them. This is why the prose descriptions of the passage emphasize crude rock, unfinished walls, branching that leads nowhere, and dead ends: those are normal cave features, not design choices. The caves wind because that's what caves do.
+
+The passage is hot for the same reason: natural geology. At this depth, the geothermal gradient produces ambient temperatures in the 80–95°F range, and there is no climate control to mitigate it because nothing was built to occupy these spaces. The air is bad for the same reason — no ventilation engineering exists. The labyrinthine quality is geological happenstance, not design.
+
+The Lathionese, when they sealed their city, chose not to fill in or restructure the natural cave system. They reasoned (correctly, for two thousand years and counting) that the caves were sufficiently hostile that no one would brave them, and that even if someone did, the Brass Door at the far end would not open for them. So the caves remain as they always were — a hostile geological dead-zone separating the bottom of Lathion's service infrastructure from the back wall of the city itself. The Lathionese didn't engineer a kill-zone; they identified one and trusted it.
+
+The faint blue ancient glow that appears in the deepest parts of the passage is the visible signature of Lathionese power conduits running *behind* the cave walls — not embedded in the caves themselves, but in the city's outer structure that the caves abut. The glow gets stronger as you approach the Brass Door because you are getting closer to where the natural caves meet the city's engineered wall.
+
+Lethal maze, 0 permanent residents. Only the Long Knives know a reliable route through.
+
+* **The Brass Door Chamber** (−500m+, at the far end of the natural caves): **Lathionese construction resumes.** Stable temperature, breathable air, ancient blue lighting working as designed. This chamber is the official back entry to Lathion — the contingency seal — and the climate-control system treats it as Lathion proper. The walls become smooth, finished, precise. The temperature drops sharply from the cave heat behind you to a comfortable engineered stable. Characters who survive Dead Man's Passage and reach the Brass Door experience a sudden, dramatic temperature drop back to comfortable conditions. The relief is sensory and immediate. They are no longer in the caves; they are at the city's door.
+
+* **Lathion proper** (below and beyond the Brass Door): **Fully habitable.** It is a *city*. Lathion's climate envelope is stable, comfortable, designed for civilization. The Destiny Engine, despite being the city's power source, is not a free-radiating furnace — its output is channeled into the city's systems (climate, lighting, mechanical operations), not dumped as ambient heat. Walking through Lathion proper, a visitor would find the temperature roughly equivalent to a comfortable spring day. The city was built to be *lived in* — for three thousand years it *was* lived in — and the climate engineering reflects that.
+
+The thing to notice — and which Urathan scholars would notice immediately if any of them ever surveyed the Warrens and Lathion properly — is that the temperature profile has a sharply **discontinuous structure that no natural process produces**: stable engineered (Warrens) → tapering at the boundary → *natural geothermal hot zone (Dead Man's Passage)* → stable engineered again on the other side (Brass Door + Lathion). The hot zone in the middle is *bracketed* by climate-controlled engineered habitats above and below. The discontinuity at each transition is sharp. No natural cave system produces that shape — it is the thermodynamic signature of two separate engineered habitats *separated by* a natural feature, rather than a single continuous environment. Nobody has done the survey, because the Warrens are not the kind of place Urathan scholars survey, and Lathion proper is sealed. But the data would be there if they did.
 
 **Major Factions:**
 
