@@ -1,0 +1,163 @@
+# Languages of Elvandar
+
+A reference for the linguistic layers underlying Elvandar's names, titles, and ceremonial vocabulary. Not a full conlang — phonological signatures, a starter morpheme list, and naming conventions per culture, sufficient to keep names consistent and to coin new ones in-register when needed.
+
+---
+
+## The Core Premise
+
+Lathion's 3,000-year open period (5,000 – 2,000 years ago) gave surface humans extended contact with the most advanced civilization on the continent. Lathionese was, throughout that period, the prestige scholarly and technical language of the region — the way Latin was for medieval Europe, but for thirty centuries rather than fifteen and with a *living* donor culture rather than a memory of one. When Lathion sealed itself away two thousand years ago, the donor culture vanished mid-sentence. The form of Lathionese that surface humans had learned at the moment of the seal *froze* — became a dead prestige tongue — and from that point evolved no further on the surface. Modern Lathionese, still spoken inside the sealed city until twenty years ago, has drifted in its own direction for two millennia and would now be only partially intelligible to even the best surface Lathionese scholar.
+
+This gives four layers of language relevant to surface civilization.
+
+---
+
+## The Four Layers
+
+### **1. Lathionese (proper)**
+
+The living elven tongue of Lathion. Spoken continuously from the city's founding ~5,000 years ago until its end twenty years ago. **Note that this language continued to evolve inside the seal for the final 2,000 years of its existence** — so the form spoken by the last generation of Lathionese is meaningfully different from the form surface humans remember. Inscriptions dating from the late sealed period would be readable by a surface scholar with effort, the way a modern English speaker can read Chaucer; texts from the final centuries would be effectively a different language. No native speakers survive.
+
+### **2. Old Lathionese (Hieratic Lathionese)**
+
+The form of Lathionese that surface civilizations learned during the open period — specifically, the version that had stabilized as a scholarly lingua franca by roughly the time of the sealing. **From that point it became a frozen prestige tongue, exactly analogous to medieval Latin.** It does not evolve. It is studied. It is cited. It is used for royal titles, religious inscriptions, scholarly treatises, legal formulae, and ceremonial naming. Every literate person in the old empire could read it; only scholars could compose in it.
+
+This is the language behind almost every "ancient" or "imperial" name on the continent.
+
+### **3. Proto-Balishan**
+
+The native human language of the Balishan heartland, spoken on the surface alongside Lathionese contact and never displaced by it. Genuinely a separate language family from Lathionese — humans were already there with their own tongue when the elves first opened their doors. Proto-Balishan absorbed extensive Lathionese vocabulary, especially in technical, ritual, and place-name domains, but kept its own grammatical bones, its own phonology, and a large core vocabulary of native words (kinship, weather, body, food, work). Compare English: Germanic skeleton, French-and-Latin upholstery.
+
+### **4. Imperial Balishan**
+
+The standardized administrative form of Proto-Balishan adopted by the Balishan Empire. Proto-Balishan grammatical base, but with the high register saturated by Old Lathionese — law, religion, royal title, formal oratory. The empire's "court speech." After imperial collapse, regional descendants of Imperial Balishan diverged: modern Kaha'ani is the Balishan successor dialect, and other successor states speak their own drifted forms.
+
+---
+
+## Beyond Balisha
+
+The above describes the imperial-heartland linguistic situation. The continent has several other unrelated language families, used by peoples beyond the original Balishan/Lathionese contact zone:
+
+- **Urathan** — not a separate language family. Urathan is a *scholarly-conservative dialect of Imperial Balishan*, descended from the speech of the imperial colonists who staffed the founding academy and drifted in its own academic direction over centuries. It retains far more Old Lathionese vocabulary than even the empire's own court dialect, the way ecclesiastical Latin was preserved more rigorously by scholars than by laypeople. Modern Urathans pride themselves on speaking what they consider the "purest" descendant of Imperial Balishan, which the Vartonnese find ridiculous and the Kaha'ani simply ignore.
+- **Terinoki** — northern, the language of Terinok and the wolf-clan peoples. Unrelated to anything south of the Sentinels. Hard consonants, *-ok / -ama / -an* endings, no Lathionese vocabulary at all.
+- **Old Gunastran** — distinct family. Heavy consonant clusters, harsh phonology. The Gunastrans inherited Lathionese magitech without inheriting the prestige language as deeply, which is part of why Vartonne looks down on them.
+- **Erulian** — Latinate-feeling, possibly a distant cousin of Old Lathionese or possibly a parallel-developed prestige tongue. Linguistic affinity unclear.
+- **Far Eastern (working name)** — the language of peoples beyond the empire's old reach. Distinctly monosyllabic feel (e.g. *Sa Ko Ren*). Rare in current Elvandar; speakers are typically foreign-born or descended from displaced eastern minorities.
+
+These are sketched here only enough to keep new names in-register. The deep work is in the Lathionese/Balishan side.
+
+---
+
+## Phonological Signatures
+
+### Old Lathionese
+
+- **Syllable shape:** CV(C), strongly preferred open syllables
+- **Vowels:** clear five-vowel system *a, e, i, o, u*; long vowels possible but unmarked in transliteration
+- **Glottal stop `'`** is a real consonant — its presence in a name almost always signals Lathionese origin
+- **Common consonants:** *k, l, m, n, r, t, th, h, s, sh, v*
+- **Rare consonants:** *b, d, g* (almost absent — their presence in a "Lathionese-sounding" name usually marks a loanword going the other way or a corruption)
+- **Signature endings:** *-an, -ion, -isha, -ara, -uth, -eth, -anar*
+- **Stress:** penultimate syllable
+
+### Proto-Balishan / Modern Balishan
+
+- **Syllable shape:** CVC freely; consonant clusters allowed
+- **Vowels:** same five-vowel system, but with reduced unstressed vowels in modern Balishan
+- **No glottal stop** (loanwords with `'` retain it only in ceremonial speech; in casual modern Balishan, "Kaha'an" is often pronounced *kahan* with the glottal stop softened)
+- **V-initial words common** (*Vartonne, Vrek, Valor, Valan*)
+- **Hard stops freely:** *b, d, g, k, t, p*
+- **Doubled consonants:** *-nn, -tt, -ss*
+- **Signature endings:** *-onne, -ore, -annas, -imore, -ek, -in*
+- **Stress:** initial or penultimate, varies by word
+
+---
+
+## Etymologies of Major Names
+
+A starter list. Treat as canonical unless contradicted by existing prose; extend as needed.
+
+### Place Names
+
+| Name | Language | Morphemes | Meaning |
+|---|---|---|---|
+| **Kaha'an** *(title)* | Old Lathionese | *kah-* (to sit, to hold, to abide) + *-'an* (sacred locative) | "The Seated Place" / "Royal Seat" — a transferable imperial title, applied to whichever city holds the throne |
+| **Vartonne** | Proto-Balishan | *vart-* (heart, hearth, center) + *-tonne* (place, settled seat) | "Heart-place" / "Hearthstead" — the native human name for the original imperial heartland city. Held the *Kaha'an* title for the empire's first ~500 years, then reverted to *Vartonne* alone when the title moved |
+| **Marrethonne** *(the city now called Kaha'an)* | Proto-Balishan | *marr-* (sea, salt water) + *-eth-* (linking morpheme) + *-onne* (place, settled seat) | "Sea-place" / "Settlement by the Sea" — the native human name of the coastal trade city, in use for centuries before the imperial court arrived. Shares the *-onne* morpheme with *Vartonne* (*Heart-place*), marking the two as ancient sister-cities of the Balishan heartland. When the Valanars relocated the throne, the *Kaha'an* title transferred to Marrethonne and the original name fell out of common use within two generations. Preserved in Vartonne's archives, in pre-imperial Urathan scholarly indices, and in the deepest pre-imperial Vault inventories. No one in Kaha'an today remembers it |
+| **Balisha** | Old Lathionese | *bal-* (green, growing, fertile) + *-isha* (country, land) | "The Green Country" — originally the Lathionese name for the fertile region around modern Kaha'an, adopted by human settlers and never replaced. The empire took its dynastic name *Balishan* from the region. The post-Rending insistence on retaining the name is doubly ironic: a Lathionese word meaning "fertile," still applied to dead sand, by people who do not know it was elven |
+| **Lathion** | Lathionese (self-name) | *lath-* (light, dawn, knowing) + *-ion* (realm, dwelling, city) | "Realm of Light" / "City of Light" — the elves' own name for their city, retained unchanged across the open period |
+| **Uratha** | Old Lathionese | *Urath* (the founding emperor's name; *ur-* "high, first, above" + *-ath* ending — "The High One") + *-a* (locative suffix, "of, belonging to") | "[The place] of Urath" — founded by **Emperor Urath IV Valanar** as a single imperial academy, named after himself in the prestige tongue (an emperor's vanity foundation). Over generations the academy grew into a city, then a province; the founder's name traveled with the institution. The Old Lathionese form is not evidence of ancient elven contact — it is evidence of imperial branding. The closest historical parallel is something like Alexandria: a city named for the ruler who founded it and never quite escaping that origin |
+| **Gunastran** | Old Gunastran | (native, not Lathionese-derived) | Etymology not yet established. Gunastrans speak of *gun-* as an old root meaning "forge" or "make," and *-stran* as a territorial suffix; folk etymology gives *"The Forged Land"* but this is uncertain |
+| **Terinok** | Terinoki | *teri-* (cold, stone) + *-nok* (high place, peak) | "The High Cold" / "Cold Heights" — descriptive native name |
+
+### Dynastic and Personal Names
+
+| Name | Language | Notes |
+|---|---|---|
+| **Valanar** | Old Lathionese | *val-* (high, true, noble) + *-anar* (line, blood, bearing). "The High Line" / "The True Blood." A *human* dynasty wearing a Lathionese-derived name — a deliberate prestige claim, the same gesture by which the dynasty later renamed its capital *Kaha'an*. The Valanars do not claim elven descent; they claim Lathionese *authority*, in the same way medieval European emperors claimed Rome |
+| **Elara** | Old Lathionese | *el-* (star, bright) + *-ara* (-feminine name suffix, "she who is"). "She of the Star" / "Star-Born." A traditional Valanar princess name |
+| **Xion** | shortened from Old Lathionese | Likely shortened from a longer form (*Xi-on*, *Xi'on*?). Modern Balishan personal names often clip ceremonial Lathionese to a single syllable |
+| **Kalden** | Proto-Balishan | Native human name. *Kal-* (strong, firm) + *-den* (man, one who). "The Steady One" |
+| **Kemvimore** | Modern Balishan | House name, native-Balishan roots. *Kem-* + *-vimore* (a compound likely originating in a personal name centuries back, no longer transparent) |
+| **Larannas** | Modern Balishan | House name, native-Balishan roots. *Lar-* + doubled *-annas* (an old patronymic-style ending) |
+| **Vrek** | Proto-Balishan | Native human surname. The unrelieved consonant cluster is classic Proto-Balishan |
+| **Leowin** | Proto-Balishan | Native human given name. *Leo-* (lion, courage) + *-win* (joy, friend) |
+| **Farleen** | Proto-Balishan | Native human given name |
+| **Melina** | Old Lathionese | *Mel-* (honey, sweetness) + *-ina* (feminine name suffix). A Lathionese-register personal name, fashionable among Balishan nobility |
+| **Sa Ko Ren** | Far Eastern | Three-monosyllable structure marks origin outside the old imperial linguistic zone |
+
+---
+
+## Naming Conventions by Culture
+
+When coining new names in-register, use these rules of thumb.
+
+### Balishan (ceremonial / imperial / aristocratic)
+- Draw from Old Lathionese roots
+- Open vowels, soft consonants, *-an / -ion / -ara / -eth / -anar* endings
+- Glottal stop reserved for highest-prestige names (royal titles, sacred sites, ancient artifacts)
+- Examples to coin from: *Tharen, Velana, Korin'al, Selathan, Marianor*
+
+**Regnal-name convention:** Valanar monarchs do not reign under their birth names. Upon coronation, the new emperor or empress *takes* a throne-name from a small fixed pool of Old Lathionese dynastic names — *Urath, Valan, Tharen, Sera, Mariath, Korin* — and is numbered in sequence with every prior bearer (*Urath I–IV, Valan I–VII, Tharen I–II, Sera I–VIII*, and so on). The numeral asserts continuity with the entire line of that name; the dynasty's legitimacy is partly constructed out of those sequences. The birth name is set aside at coronation and survives only in family records.
+
+This is the convention behind **Emperor Urath IV Valanar**, founder of Uratha: born under some other name now of interest only to genealogists, he took the throne-name *Urath* upon ascension because it was his turn in a sequence — the fourth emperor of that name in the Valanar line. The throne-name choice itself was an imperial statement (he could have picked any name then due in rotation; he picked the one that signaled "*the High One, returning*").
+
+The Vartonnese imperial tradition treats throne-name taking as part of what *constitutes* a valid coronation — not a decorative flourish but a load-bearing ritual act. By that reading, **Empress Elara** has not quite performed the rite. She was raised by the Arol Batae and never taught the convention; she takes the throne under her birth name, with no Old Lathionese throne-name and no numeral, because that is who she is and no one ever told her there was anything else to do. Vartonne reads this not as a chosen snub from a pool of throne-names (there *is* no Elara in the pool — the construction is incoherent in their tradition, the equivalent of *King Joe of England*) but as a procedural defect: a coronation that omitted one of its essential ritual elements. The fact that she calls herself *Empress* at all is, in their view, a kind of polite fiction the rest of the continent is going along with. See [Elara Valanar.md](../People/Elara Valanar.md) for the full beat.
+
+### Balishan (common / native human / non-noble)
+- Draw from Proto-Balishan roots
+- Harder consonants, consonant clusters, V-initial common, *-onne / -ore / -ek / -in / -annas* endings
+- No glottal stop
+- Examples: *Brennek, Tovanne, Halmore, Doric, Vannas*
+
+### Lathionese (when surface characters encounter Lathionese inscriptions or, in extraordinary circumstances, living Lathionese)
+- Pure Old Lathionese forms, but with archaic or unusual constructions a surface scholar might struggle with
+- Compound nouns and long descriptive forms common
+- The Lathionese themselves never used short-form names casually — their full given names ran to four or five syllables minimum
+
+### Urathan
+- Old Lathionese ceremonial register for institutions, scholarly titles, the Tower system
+- Old Urathan (Proto-Balishan cousin) for personal and place names outside the capital
+
+### Gunastran
+- Heavy consonant clusters, *-stran / -grav / -dorn* endings
+- Examples: *Korstran, Belgrav, Hadorn, Ungost*
+
+### Terinoki
+- Hard consonants, *-ok / -ama / -an / -in* endings
+- Examples: *Takama, Shizan, Vorinok, Daman*
+
+### Far Eastern
+- Monosyllabic compounds, three or four short syllables strung together
+- Examples: *Sa Ko Ren, Tan Wei, Mi Ko*
+
+---
+
+## Open Threads
+
+A few questions left deliberately open. Decide as the prose demands.
+
+- **Human-Lathionese ancestry.** The 3,000-year open period was long enough that genuine ancestral mixing is possible. Whether any Balishan noble bloodlines carry distant Lathionese ancestry — and whether anyone alive knows it — is undecided
+- **Modern Lathionese drift.** Two thousand years of internal evolution means inscriptions inside Lathion from the final centuries are effectively a different language from the Old Lathionese surface scholars know. This is a useful mystery beat if any Book 3+ character enters Lathion and tries to read recent records
+- ~~**The forgotten name of modern Kaha'an.**~~ *Resolved:* **Marrethonne**, Proto-Balishan for "Sea-place," sister-named to Vartonne ("Heart-place") by the shared *-onne* morpheme. See etymology table.
+- **Archaic Lathionese.** The form of Lathionese spoken in Lathion's founding centuries (5,000–4,000 years ago) — almost certainly different from the form transmitted to humans much later. Survives only in the oldest inscriptions inside Lathion itself. Probably never needs to surface in the prose

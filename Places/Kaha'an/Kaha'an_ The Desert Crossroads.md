@@ -6,6 +6,20 @@ Kaha'an stands as the last major city in what was once a thriving region, now tr
 
 ---
 
+## **The Name: A Title, Not a Place**
+
+*Kaha'an* is not, strictly speaking, the name of a city. It is a title — *Royal Seat* in the old imperial tongue — conferred by the Balishan Empire upon whichever city holds the imperial throne. Like the standard that travels with a monarch, the name travels with the court. The place beneath it changes; the title does not.
+
+For the first five centuries of the empire, Kaha'an *was* Vartonne. The imperial capital sat in the heartland, ringed by concentric boulevards and the great cosmological architecture for which Vartonne is still known, and the city was called Kaha'an by everyone in the empire who had cause to name it. What the city was called *before* it became the imperial seat is a matter for Vartonne's own historians; in imperial usage, it was Kaha'an, and that was the only name that mattered.
+
+The move came generations later, under one of the middle Valanars. The empire's center of gravity had shifted seaward — trade had grown faster than tribute, and Vartonne's small inland lake could not host a fleet. The Valanars looked east, to their summer palace on the coast: a vibrant trade city built around the only true deep-water harbor in the region, where the imperial family had long retreated from the summer heat. The court was moved there, permanently. The harbor city became Kaha'an. Vartonne reverted to Vartonne — its older name, its proper name, the name it had carried before the empire chose it and would carry long after the empire abandoned it.
+
+What the coastal city had been called before it became Kaha'an is, in practical terms, lost — in Kaha'an itself, no one alive remembers it. The city was called **Marrethonne**: Proto-Balishan for *Sea-place*, the plain native name of a working port-city whose defining feature had always been its deep-water harbor. The name shares the *-onne* morpheme with *Vartonne* — *Heart-place* — and marks the two cities as ancient sister-settlements of the Balishan heartland, paired by their naming-tradition long before either ever wore an imperial title. Common usage forgot the name within two generations of the title's transfer; the imperial bureaucracy had no reason to preserve it, and the inhabitants themselves found it convenient to be addressed by the title their city now wore. *Marrethonne* survives now only in Vartonne's archives — pointedly catalogued there, as a reminder of what was taken — in pre-imperial Urathan scholarly indices, and in the deepest pre-imperial Vault inventories. The title has fused to the place so completely that the distinction has gone soft, and most Kaha'ani would be surprised to learn there was a distinction at all, let alone that their city was once named in the same plain register as the Vartonne they affect to look down upon.
+
+There is an irony in this that the cartels do not advertise. The empire that conferred the title is gone. The throne in the Ruby Palace sits empty. The Coterie rules from a city whose very name is an imperial honorific they have no standing to confer or revoke — and which, in strict imperial usage, would follow the throne wherever a legitimate Valanar restoration chose to place it. The name *Kaha'an* is, like the name *Balisha*, a piece of borrowed grandeur the cartels have grown too comfortable in to give up.
+
+---
+
 ## **The Rending: Catalyst of Change**
 
 Twenty years ago, a catastrophic event known as The Rending transformed the world. Within moments, fertile lands became barren desert, rivers vanished, forests died, and countless lives were lost. The exact cause remains unknown to most—whispered theories speak of magical catastrophe, divine punishment, or ancient forces unleashed—but the result was undeniable: the world fundamentally changed.
