@@ -28,7 +28,7 @@ The Iron cartel had declared for the throne on the day of the march — Sa Ko Re
 
 He arrived at Xion's rooms without ceremony, nodded once, and set down what he'd gathered the way another man might set down a crate — squarely, without flourish, arranged by weight.
 
-"The Coterie sits every day now," he said. "Your father chairs. The Empress attends. She proposes; it goes to a vote; it loses. Yesterday she proposed suspending the hereditary claim on the deep wells for a season, just a season, to see what breaks. Lost four to one." A beat. "Sa Ko voted with her. The other three against."
+"The Coterie sits every day now," he said. "Your father chairs. The Empress attends. She proposes; it goes to a vote; it loses. Yesterday she proposed suspending the hereditary claim on the deep wells for a season, just a season, to see what breaks. Lost three to two." A beat. "Sa Ko voted with her. The other three against."
 
 "And Elara?"
 
@@ -42,45 +42,49 @@ Xion said nothing for a moment. It was, almost word for word, the thing he had s
 
 ---
 
-Silvanno came later, and by a different door, and looked over his shoulder before he took it.
+Silvanno came later, and he came to get Xion out of the room.
 
-He could not afford to be here, and they both knew it, and he came anyway, which was its own kind of statement from a man whose entire inheritance was the art of not committing. The Water cartel had declared for no one. That was Tania Larannas's genius and her leash both: while every other house had planted a flag and could be counted, Water stood in the doorway watching, and everything her son did in the meantime could be read as a flag she hadn't meant to plant. If the Noble District saw Silvanno Larannas breaking bread with the man who'd put an empress over the cartels' heads, it would decide Water was leaning crown-ward, and his mother would hear about it by supper.
+He rapped twice, put his head through the door, and took in the whole of it — the two folded letters on the table, the single chair, the shutters drawn against the afternoon — with the pained look of a man pricing a horse he has no intention of buying. "No," he said. "You've been shut in this box breathing your own bad temper since Kael left; I can see it on you. You want to get out of here? You look about ready to climb the walls. You could use the air, and I—" the easy humor slid into place, worn a little thin but still good tailoring "—could use an alibi. Come look at horses with me."
 
-So he came the back way, in unremarkable clothes, with the easy humor he wore like good tailoring worn a little thin at the seams.
+"You can't be seen with me, Silvanno."
 
-"I can't stay," he said, which was how he always started now. "If anyone asks, I was buying a horse."
+"I can't be caught *conspiring* with you. Wholly different animal." He was already turning back toward the stairs, trusting Xion to follow, which was a small tyranny of its own. The Water cartel had declared for no one — that was Tania Larannas's genius and her leash both, the whole house standing in the doorway while every other flag in the city got planted and counted — and it meant anything her son did could be read as a lean she hadn't authorized. A closed-door meeting with the man who'd set an empress over the cartels' heads would be around the Noble District by supper. "A shut door is the most dangerous object in Kaha'an," Silvanno said over his shoulder. "My mother's people hear two men met behind one, they find out why. They hear I ran into an old friend at the horse-lines and we insulted a gelding neither of us bought — nothing. There's nothing to find. Be boring in the open, Xion. It's the last privacy left."
 
-"Were you?"
+So they went to look at horses.
 
-"I looked at a horse. On the way. So it's not even a lie, which is the only kind of alibi I trust." He didn't sit. He leaned by the shuttered window where the light wouldn't catch him and gave his report in the flat, precise voice Xion had learned to recognize — the one Silvanno used for exactly one subject, which was his mother and the machine she ran. "Rosik is consolidating. Faster than the gossip's caught up to. Two of the little houses have already folded into the Grain coalition — sworn in quietly, no announcement, which means he's not building for show, he's building to *have* it before anyone thinks to stop him. And my mother —" a thin smile "— my mother is watching the weather."
+The market at the western edge of the city was all dust and din and the warm animal reek of the place — dealers bawling their strings, hooves knocking the rails, a hundred haggles colliding into one wall of noise that swallowed any single voice whole. That, Xion understood as they stepped into it, was the point. You could say anything here and the din would take it. Two young men drifting the lines with their hands in their pockets were the least remarkable thing in sight.
+
+Silvanno stopped at a rail, ran a considering hand down the neck of a rangy bay, and gave his report the way he might have run down the animal's faults — unhurried, half his attention on the horse, the flat precise voice he kept for one subject only sliding in beneath the market noise. "Rosik's consolidating. Faster than the gossip's caught up to." He thumbed the bay's lip back and studied its teeth. "Two of the little houses have already folded into the Grain coalition. Sworn in quiet, no announcement — which means he's not building for show. He's building to *have* it before anyone thinks to stop him." He moved on down the rail; Xion moved with him, and a dealer started toward them, read something in the set of Silvanno's shoulders, and found somewhere else to be. "And my mother is watching the weather."
 
 "Meaning she hasn't chosen."
 
-"Meaning she's chosen to be whatever the winner needs her to have been." Silvanno spread his hands. "It's not cowardice, before you make that face. It's the only skill she has that's kept us alive twenty years. She'll bend before she breaks and she'll swear afterward she was leaning that way the whole time. The trouble is, Xion, she's very good at reading weather, and the weather she's reading says your father." He let the smile go. "Water's watching to see if Rosik wins. That's the actual news. Not that she's against Elara. That she thinks Rosik might beat her, and my mother has never once bet against the man she thought would win."
+"Meaning she's chosen to be whatever the winner needs her to have been." He crouched, ran a thumb down the bay's foreleg, straightened. "Don't make that face — it isn't cowardice. It's the one trick that's kept us breathing twenty years. She'll bend before she breaks and swear after that she was leaning that way the whole time." And then the humor left him, the way it only ever left him for this. "The trouble is she reads weather better than anyone alive, and the weather says your father. Water's waiting to see if Rosik wins. That's the news, Xion — not that she's against Elara. That she thinks Rosik might beat her. And my mother has never once bet against the man she thought would win."
+
+He gave the bay a farewell pat and did not buy it.
 
 ---
 
-It took the three of them, and it was worse than any one of them had carried in alone.
+It took the three of them, and it was worse than any one of them had carried alone.
 
-That was the thing Xion understood, sitting between what Melina had told him and what Kael had counted and what Silvanno had overheard — no single one of them could see the whole of it, because each of them could only see the part their particular door opened onto. Melina saw the room where the Empress and the council failed each other. Kael saw the record it left behind. Silvanno heard what the Noble District whispered about which way it was all going to fall. And when Xion laid the three beside each other on the table of his own mind, the picture that assembled was not *the Coterie is blocking Elara.* It was: *the Coterie is not blocking her, it is going around her.* Rosik was not fighting the Empress for control of the machinery. He was quietly making sure the machinery no longer needed her permission to run — swearing in houses, chairing sessions, letting her propose and lose and propose and lose until the losing was simply the weather, and Water and everyone else drew the obvious conclusion about which way to bend.
+He understood it on the walk back, the market noise thinning behind him — what Melina had told him, what Kael had counted, what Silvanno had heard in the weather. No single one of them could see the whole, because each could only see the part their own door opened onto. Melina saw the room where the Empress and the council failed each other. Kael saw the record it left behind. Silvanno heard what the Noble District whispered about which way it would all fall. Laid side by side, the three pieces made a shape that was not *the Coterie is blocking Elara.* It was: *the Coterie is not blocking her — it is going around her.* Rosik wasn't fighting the Empress for the machinery. He was quietly seeing to it that the machinery no longer needed her permission to run — swearing in houses, chairing the sessions, letting her propose and lose and propose and lose until the losing was simply the weather, and Water and everyone else drew the obvious conclusion about which way to bend.
 
-No one said the word *network*. No one proposed anything. It was only that by the time Kael gathered his ledger and Silvanno slipped back out to go finish not-buying his horse, the three of them had agreed to nothing except to keep bringing each other the pieces, because none of them could afford to be the one who saw only his own.
+No one had said the word *network*. No one had proposed anything. It was only that by the time Kael had gathered his ledger and Silvanno had left him at the horse-lines, the three of them had agreed to nothing except to keep bringing each other the pieces, because none of them could afford to be the one who saw only his own.
 
-The frustrating part — the part Xion would live inside for weeks — was that a picture assembled from pieces was still only a picture of pieces. Every fragment sharpened it and none of them completed it, and every time it got sharper it got worse.
+The frustrating part was that a picture assembled from pieces was still only a picture of pieces. Every fragment sharpened it, and none of them completed it, and every time it got sharper it got worse.
 
 ---
 
 Farleen was not part of any of it, which was exactly why she was the one who saw the thing that mattered.
 
-She found him after, as he walked home in the failing light — or she was already there to be found, which with Farleen was never quite possible to tell. She fell into step beside him near the fountain-market as though she'd been walking that way all along, and she held out, without a word about it, a twist of fried dough dark and sticky with date syrup, the kind he'd liked since before any of this, from the stall he'd stopped mentioning years ago and she had evidently never forgotten.
+She found him after, as he walked home in the failing light — or she was already there to be found, which with Farleen was never quite possible to tell. She fell into step beside him near the fountain-market as though she'd been walking that way all along, and she held out, without a word about it, a twist of fried dough dark and sticky with date syrup — the kind he'd loved since he was a boy, from the little stall by the old fountain he'd mentioned to her once, in passing, months back, and she had evidently never forgotten.
 
 "You didn't eat," she said. It was not a question. She always seemed to know.
 
-He took it. Their fingers didn't quite touch, and the shoulder she'd put a knife into two years ago gave its small familiar ache anyway, the way it did whenever she came near, the body remembering what the two of them had agreed, mostly, not to say. He had learned to let the ache pass without looking at it. She had learned to hand him a pastry instead of an apology, because an apology was a thing you offered once and a pastry was a thing you could offer every day, and every day was the argument she was actually making.
+He took it. Their fingers didn't quite touch, and the old wound in his shoulder — the one she'd put there — gave its small familiar ache anyway, the way it did whenever she came near, the body remembering what the two of them had agreed, mostly, not to say. He had learned to let the ache pass without looking at it. She had learned to hand him a pastry instead of an apology, because an apology was a thing you offered once and a pastry was a thing you could offer every day, and every day was the argument she was actually making.
 
 "Thank you," he said, and meant more than the pastry, and she heard more than the pastry, and neither of them touched it.
 
-"What did you learn?" she asked instead, and he told her — Kael's count, Silvanno's weather, the shape that had assembled on the table of his mind. She took it in the way she took everything, turning it over for the parts that could be used, and when he finished she was quiet for a few steps in a way that meant she had something and was deciding whether he was ready for it.
+"What did you learn?" she asked instead, and he told her — Kael's count, Silvanno's weather, the shape it had all assembled into. She took it in the way she took everything, turning it over for the parts that could be used, and when he finished she was quiet for a few steps in a way that meant she had something and was deciding whether he was ready for it.
 
 "You're looking at the wrong wall," she said finally. "You keep looking at the gate. The gate's the part they want you looking at." She nodded down the slope of the city, toward the layers of it the Noble District had never once had to think about. "I've been watching the palace from underneath. The service entrances. The kitchens, the laundries, the delivery yards, the people who go in and out of that place a hundred times a day and nobody counts because counting them is beneath everyone. That's where you see how a house actually breathes." She glanced at him. "It's not breathing. Somebody's closing it up. Two weeks ago half those doors had a stream of unofficial traffic — petitioners' notes carried in by a friendly cook, a coin to a laundress to walk a message to the right hallway. The old ways in. All the little unwatched channels a person on the outside uses to reach a person on the inside." A pause. "They're being shut. One at a time. Quietly. Not the front gate — you'd notice the front gate. The seams. The ways nobody's supposed to know about are being closed by somebody who knows about all of them."
 
@@ -90,7 +94,7 @@ Xion stopped walking.
 
 "I'm saying procedure doesn't know where the laundress walks." Farleen held his eyes, amber and steady in the last of the light. "Somebody is sealing the Empress off from every way of reaching her that doesn't go through official hands. The front door and the back ones. And a thing like that isn't an accident, Xion. Accidents leave gaps. This doesn't have gaps."
 
-He should have followed it. Some part of him even felt the shape of where it led — if every unofficial road to Elara was being closed by a hand that knew all of them, then his four pages and her four lines were not two people drifting apart but two people being *held* apart, and the difference between those two things was the difference between a wound and a design. He felt the shape of it. He did not pick it up. Because underneath the strategist his father had trained was a man who had spent the walk home with a folded letter in his coat that thanked him for his concern, and that man could not yet make himself believe the cause was anything but her — that she had stopped reaching for him — because believing it was the walls and not the woman would mean hoping, and he had run out of the nerve to hope by daylight.
+Some part of him felt the shape of where it led — if every unofficial road to Elara was being closed by a hand that knew all of them, then his four pages and her four lines were not two people drifting apart but two people being *held* apart, and the difference between those two things was the difference between a wound and a design. He felt the shape of it. He did not pick it up. Because underneath the strategist his father had trained was a man who had spent the walk home with a folded letter in his coat that thanked him for his concern, and that man could not make himself believe the cause was anything but her — that she had stopped reaching for him — because believing it was the walls and not the woman would mean hoping, and he had run out of the nerve to hope by daylight.
 
 Farleen watched him not pick it up. She didn't push. She had made her case; that was the part she could control. She fell back into step beside him and walked him the rest of the way to his door, present and unhurried, the way she was always present, and when they reached it she didn't come in and didn't ask to.
 
@@ -112,10 +116,8 @@ He knew better now than he had that morning. He knew, from Kael, that the machin
 
 He sealed it.
 
-He would carry it to the courier at the outer wall in the morning, and hand it into the machinery himself, and the machinery would take it with perfect courtesy.
-
-And somewhere between his hand and hers, he was almost sure now, it would become something else — smaller, softer, emptied of everything that made it worth sending. He didn't know how he knew. He simply did, the way you know a fever's turning before the skin admits it.
+In the morning he would carry it to the courier at the outer wall and hand it into the machinery himself, and the machinery would take it with perfect courtesy — and there was no way for him to know whether a single word of it would reach her the way he'd meant it, or whether what reached her would be his at all.
 
 He sent it anyway.
 
-Tomorrow, he would find another way to reach her. He had said that yesterday too.
+Tomorrow he would find another way to reach her. He had told himself that yesterday too.
