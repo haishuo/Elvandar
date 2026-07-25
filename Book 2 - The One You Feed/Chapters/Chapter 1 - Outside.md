@@ -44,7 +44,7 @@ He heard her before he saw her — the particular unhurried step of someone who 
 
 She let it sit, then let it go, which was one more thing she was better at than he had ever deserved. It was the whole map of them in four exchanges: he left their father's world and she stayed in it, and the staying had made her the one who reached across the distance, every time, because he never learned how.
 
-Now that the teasing had spent itself he could see how tired she was — not the performed weariness of someone who wants you to know how hard they work, but the real kind, the kind that settles into the shoulders and does not lift. She had been standing between people all day. He knew the posture. He had grown up watching her hold it.
+Now that the teasing had spent itself he could see how tired she was — not the performed kind that wants you to notice, but the real kind, worked deep into the shoulders from a day spent standing between people. He knew the posture. He'd grown up watching her hold it.
 
 "How is she?" he asked.
 
@@ -92,7 +92,7 @@ She didn't push it. She'd said the thing; whether it landed was for him to decid
 
 "I know what he thinks." Melina's voice was even. "I'm not telling you he's right. I'm telling you the door to him is the one door in this city that's still open to you, and you're a man standing outside a lot of closed ones." She saw his face and lifted a hand before he could answer. "I'm not going to make you. I've spent long enough trying to make the two of you into something you won't be. I only —" She stopped. Started again, smaller. "I'd rather not be the only one holding both ends of it. That's all."
 
-There it was — the thing she almost never let him see. She had been carrying the whole family across the distance between him and their father for years, one exhausting translation at a time, softening Rosik's instructions until they were bearable and framing Xion's convictions until they were audible, and no one had ever once carried her. She would deny it if he named it. So he didn't. He only bumped his shoulder against hers, the way he had when they were small, and felt her lean back into it for exactly a moment before the composure returned.
+He didn't have an answer for that — nothing that wasn't a promise he might not keep — so he didn't reach for one. He only bumped his shoulder against hers, the way he had when they were small, and she let herself lean into it for a moment before she straightened and put the composure back on.
 
 "I should go," she said, and stood, and smoothed her skirts, and was Melina Kemvimore of the House of Grain again, all grace and no visible seams. "There's a supper I have to be a face at."
 
@@ -102,11 +102,9 @@ There it was — the thing she almost never let him see. She had been carrying t
 
 "You assume I have plans."
 
-"You always have plans. You just call them worries until they're too late to be anything else." She said it fondly, already turning, already going, back across the square toward the estate, toward the palace, toward all the rooms with her in them and him outside. He watched her the whole way, and what he thought was not about the Coterie, or Elara, or Ronas's people who were worse.
+"You always have plans. You just call them worries until they're too late to be anything else." She said it fondly, already turning, already going, back across the square toward the estate, toward the palace, toward all the rooms with her in them and him outside. He watched her until she reached the corner — the straight back, the unhurried step, a woman walking into the rest of her afternoon like it was a thing she meant to win.
 
-What he thought was: *she's so tired.* And: *she's been tired for years, and I never once asked whether anyone was helping her.*
-
-Then she was gone around the corner, and he was alone in the square with the swept, dry fountain.
+Then she was gone, and he was alone in the square with the swept, dry fountain.
 
 ---
 
