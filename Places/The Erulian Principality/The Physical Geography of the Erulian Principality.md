@@ -381,16 +381,16 @@ The Principality maintains extensive defensive installations:
 
 #### **The Northern Defenses**
 
-Protecting against potential Terinok aggression:
+Securing the mineral-rich interior and the soft northern approaches toward Uratha — these installations face inward, guarding the conscript-labor zones and mountain passes rather than an external neighbor (the north is not a hostile frontier; beyond Uratha, far to the north, lies Gunastran):
 
 * **The Ironwall Fortresses**: Mountain strongholds protecting mining operations  
-* **Border Watch Posts**: Observation installations monitoring Terinok territory  
+* **Interior Watch Posts**: Observation installations overseeing the mountain passes and labor zones  
 * **The Signal Network**: Communication systems enabling rapid response to threats  
 * **Supply Depots**: Storage facilities supporting extended military operations  
 * **Emergency Shelters**: Protected areas for civilian populations during conflicts  
 * **Defensive Engineering**: Fortified positions taking advantage of mountainous terrain  
 * **Rapid Response Bases**: Military installations enabling quick deployment of forces  
-* **Intelligence Stations**: Facilities gathering information about Terinok activities
+* **Intelligence Stations**: Facilities gathering information on unrest in the mining reaches
 
 #### **The Western Marches**
 
@@ -423,7 +423,7 @@ Elite military installations supporting Prince Kalden's personal forces:
 #### **Regional Commands**
 
 * **Northern Command**: Military coordination for mining region security  
-* **Eastern Command**: Forces monitoring the Gunastran border  
+* **Eastern Command**: Forces securing the Azure Sea coast and Port Valen approaches  
 * **Southern Command**: Military presence along the Silaris border  
 * **Western Command**: Forces managing the disputed territories  
 * **Capital Command**: Military installations protecting Eruliath  

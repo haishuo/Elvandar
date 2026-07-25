@@ -2,17 +2,17 @@
 
 ## Geographic Position and Borders
 
-Gunastran occupies the east-central region of Elvandar, strategically positioned to access various resources while maintaining multiple trade routes:
+Gunastran occupies the northeastern region of Elvandar, east of the central Sentinel spine and mirroring Terinok across it, strategically positioned to access various resources while maintaining multiple trade routes:
 
 ### Northern Border
 
-- Meets the territories of Terinok, with disputed borderlands  
-- Transitional zone where mountains gradually give way to foothills  
-- Dense coniferous forests providing valuable timber resources  
-- Numerous small streams creating natural defensive lines  
-- Several valuable ore deposits creating ongoing territorial tensions  
-- A network of watchtowers with enchanted viewing glasses allows monitoring of the frequently contested frontier  
-- Small buffer settlements maintain uneasy neutrality between the powers
+- Meets the Frost Spine Mountains, the great west-east range that walls off the Frozen North  
+- High, largely impassable peaks marking the northern edge of settled Gunastran  
+- Dense coniferous forests and alpine slopes on the southern flanks providing valuable timber and ore  
+- Frozen watercourses descending from the range in the warmer months  
+- Several valuable ore deposits high in the foothills drawing hardy prospecting expeditions  
+- A network of watchtowers with enchanted viewing glasses allows monitoring of the wild northern frontier  
+- Small, hardy settlements cling to the mountains' feet; beyond the range lies only the taiga and nomadic peoples of the Frozen North
 
 ### Eastern Border
 
@@ -29,7 +29,7 @@ Gunastran occupies the east-central region of Elvandar, strategically positioned
 
 - Transitions into Urathan territories through gradually changing landscapes  
 - Rolling hills covered with managed woodlands  
-- Several rivers creating natural boundary markers  
+- The Scholar's River and its tributaries forming the natural boundary with Uratha  
 - Occasional joint research outposts studying the fusion of theoretical and practical magic  
 - Simple border crossings facilitating trade in magical components and materials  
 - Distinctive vegetation changes marking different magical land management approaches  
@@ -38,14 +38,15 @@ Gunastran occupies the east-central region of Elvandar, strategically positioned
 
 ### Western Border
 
-- Shares boundaries with the Erulian Principality  
-- Contested mining regions with deposits of magically reactive ores creating periodic tensions  
-- Joint resource extraction operations incorporating magical extraction techniques  
-- Simple marker stones with warning enchantments establishing territorial claims  
-- Early magitech roads connecting resource sites to production facilities  
-- Border markets facilitating trade in raw materials and magical components  
-- Periodic boundary disputes as new magical resource deposits are discovered  
-- Formal treaties establishing extraction rights frequently renegotiated
+- Defined by the Sentinel Mountains, the great north-south spine that bisects the continent  
+- Across the range lies Terinok, Gunastran's mirror in the western half; the shared frontier runs along the high passes  
+- Contested mining regions with deposits of magically reactive ores creating periodic tensions with Terinok  
+- Joint and rival resource extraction operations incorporating magical extraction techniques  
+- Enchanted marker stones and fortified pass-forts establishing territorial claims  
+- Early magitech roads connecting mountain resource sites to interior production facilities  
+- Border markets at the pass-mouths facilitating trade in raw materials and magical components  
+- Periodic boundary disputes as new magical resource deposits are discovered high in the Sentinels  
+- The passes themselves few, seasonal, and fortified — the only land link to the continent's western half, and never a route for bulk commerce
 
 ## Major Geographical Regions
 
@@ -134,7 +135,7 @@ The western region represents Gunastran's most traditional landscape:
 - Limited mining operations focusing on easily accessible magical ore deposits  
 - Wildlife still abundant compared to more developed regions, though some species show subtle magical adaptations  
 - Less visible magitech impact than other regions  
-- Gradual transition toward neighboring Erulian territories  
+- Gradual rise westward toward the Sentinel Mountains, beyond which lies Terinok  
 - Subject of occasional debate between traditionalists and magitech innovators
 
 This region maintains closer connections to pre-industrial patterns, though the influence of magitech gradually extends westward as resource demands grow. The Buffer represents a living example of Gunastran's transition from traditional to magitech society.

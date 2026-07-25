@@ -16,7 +16,13 @@ She is fundamentally a tragic character. Not because she dies (though she does),
 
 ## Paradigm Analysis
 
-**Caretaker → Engineer → Founder → Truth Seeker → Spirited Competitor → Creator**
+**Caretaker → Engineer → Founder → Truth Seeker → Spirited Competitor → Creator → Merchant**
+
+Melina has only one paradigm that intrinsically motivates her — Caretaker — and it accounts for more than half of her drive on its own. Everything else in her stack is instrumental: tools she developed because the people she's trying to protect require them, not drives that call to her in their own right. She is a *pure* Caretaker in a way that even Xion and Elara are not. Xion has Truth Seeker as a genuine secondary engine — he investigates, diagnoses, and finds new fulfillment in understanding even when caretaking is blocked. Elara has the same. Melina has only the one engine. When it runs, she is formidable. When it fails, there is nothing else inside her to take over.
+
+This is the structural source of her tragedy, and it explains the specific shape of her death. A character with a genuine secondary intrinsic drive would have had somewhere to retreat to when reconciliation between her father and her brother became impossible — into truth-seeking, into system-building for its own sake, into creative reinvention, into something. Melina has nowhere to retreat. The only thing she can do is keep mediating, because mediating is the only motion her single-engine soul knows how to make. She dies walking into a doomed negotiation because *not walking in* would have required a paradigm she does not have.
+
+It also explains her relationship to House Kemvimore. She is the public face of an accumulating empire — the daughter of a Merchant primary, operationally embedded in a cartel whose entire purpose is expansion. But she has no Merchant drive of her own. She executes Merchant work because doing so keeps her close to the people she loves. If you stripped out the family ties, she would not engage with the cartel at all. Her father's empire is foreign to her drives. She lives inside it the way a pacifist might live inside a fortress — accepting the walls because the people she loves are inside them, not because the walls themselves mean anything to her.
 
 ### Caretaker (Primary)
 
@@ -46,7 +52,7 @@ Rosik recognizes her engineering capability and uses it. By filtering much of hi
 
 Melina cares about House Kemvimore as a family — not primarily as an institution, but as the structure that holds the people she loves in proximity. When she thinks about the family's position, its legacy, its survival, she is thinking about what happens to her father and her brother if the house falls. The Founder drive is real but subordinate to her Caretaker primary: she wants the institution to endure because the people inside it are the people she's trying to protect.
 
-This gives her a different relationship to institutional loyalty than Rosik has. His Founder drive is primary — the house must endure regardless of personal cost. Melina's is third — the house should endure because its people matter, but if forced to choose between the institution and the people, she would choose the people.
+This gives her a different relationship to House Kemvimore than Rosik has. Rosik's relationship to the house is *acquisitive* — the cartel structure is the largest accumulation he has built, and he preserves it because he built it and it serves the engine. Melina's relationship is *protective* — the structure exists, in her mental geometry, as the room that contains her family. Rosik would liquidate the house the moment it stopped serving accumulation. Melina would liquidate the house the moment doing so would save the actual people. Same institution, completely different reasons to value it.
 
 She never gets the chance to make that choice. The institution and the people collapse together.
 
@@ -64,15 +70,23 @@ The most devastating truth Melina carries — the one she cannot speak — is th
 
 ### Spirited Competitor (Fifth)
 
-Minimal competitive drive in the canonical text. What exists is reactive: she developed her social fluency partly because Xion refused to develop his, occupying the space he vacated. There may be a competitive dimension to this — the elder sibling who excels in the arena the younger one rejects — but it's subordinate to her Caretaker motivation for filling that role.
+Very low. What exists is reactive: she developed her social fluency partly because Xion refused to develop his, occupying the space he vacated. There may be a faint competitive dimension to this — the elder sibling who excels in the arena the younger one rejects — but it's subordinate to her Caretaker motivation for filling that role. Victory itself has no pull for her. She would happily lose every social contest in Kaha'an if losing kept her family together.
 
-**Shadow:** Minimal. She doesn't compete for its own sake.
+**Shadow:** Minimal. She doesn't compete for its own sake, and the absence of competitive drive means she never deploys her social gifts for status gain even when she easily could.
 
 ### Creator (Sixth)
 
-No evidence of creative or expressive drive. Melina's contributions are diplomatic and operational, never artistic or visionary. This is her lowest paradigm.
+Very low, but not absent. Melina's contributions are diplomatic and operational rather than artistic or visionary, but the daily work of mediation does involve a kind of instrumental creation — inventing new framings, finding new ways to translate between her father's and her brother's worldviews. She creates *bridges*, repeatedly, from whatever materials each conversation gives her. That counts as Creator energy, but it is so thoroughly subordinated to Caretaker that the creative impulse never expresses itself except as a tool of reconciliation.
 
-**Shadow:** Minimal. She doesn't operate in this space.
+**Shadow:** Minimal. She does not create for expression's sake, and beyond the mediation she shows no interest in making anything new.
+
+### Merchant (Seventh)
+
+The lowest drive in Melina's stack — and a paradigm she lives entirely surrounded by without ever inhabiting. She is the public face of the Grain cartel. She executes Rosik's accumulative agenda. She softens his Merchant work for outside audiences. Yet personally she feels no pull toward accumulation, expansion, or leverage. The growing pile means nothing to her. The cartel's reach means nothing to her. What matters is her father and her brother, and the cartel is simply the room they happen to live in.
+
+This is a second paradigm-mismatch with her father, parallel to but distinct from Xion's. Xion is Caretaker-primary with Merchant *last* — and he *actively opposes* his father's accumulative work, creating Master Fen as a counter-operation. Melina is Caretaker-primary with Merchant also last — but she *accepts* the accumulative work because rejecting it would mean leaving her father alone. Same paradigm gap, opposite expression. Xion fights the empire to honor his Caretaker drive. Melina cooperates with the empire to honor hers. Both are right by their own engines, and both engines are the same engine. The family produced two children who reject the Merchant drive entirely and one father whose entire identity is built on it — which is why the family was never going to survive its own structure.
+
+**Shadow:** Because she feels none of the Merchant pull, she also has no instinct for self-preservation through accumulation. She does not accumulate allies, leverage, or escape options. When the Surface Slums meeting goes wrong, she has no positional fallback because she never built one — accumulating positional safety is not how she thinks. She walks in carrying her father's name and her own composure, and when the name stops mattering, she has nothing else.
 
 ---
 
@@ -195,7 +209,7 @@ Dark hair. Mid-to-late twenties. Composed, socially fluent, with the practiced g
 
 ### The Central Tension
 
-Melina Kemvimore's tragedy is that her deepest drive — holding people together — is aimed at a situation that was broken before she started. The gulf between Rosik and Xion was never one person's failure to bridge. It was the inevitable consequence of two fundamentally different paradigms — Rosik's Founder-Engineer drive to preserve institutional power, Xion's Caretaker drive to protect the people that power harms. No diplomat, however skilled, can reconcile drives that are genuinely in opposition.
+Melina Kemvimore's tragedy is that her deepest drive — holding people together — is aimed at a situation that was broken before she started. The gulf between Rosik and Xion was never one person's failure to bridge. It was the inevitable consequence of paradigm-inverted drives: Rosik's Merchant-Competitor engine to accumulate and prove superiority, Xion's Caretaker-Truth-Seeker engine to protect the people that accumulation harms. They are not just disagreeing — they are *paradigm-mirror-images* on the exact drives the family was organized around. No diplomat, however skilled, can reconcile drives that are inverted at the foundation.
 
 Melina knows this. Deep down, in the place where her composure doesn't reach, she has known it for years. She watches Xion retreat further into his own world. She watches Rosik harden further into his. She watches the distance between them grow past the point where her translations can cross it. And she keeps trying, because the alternative — accepting that the family is already lost — is a truth her Caretaker drive cannot absorb.
 

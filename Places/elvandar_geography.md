@@ -211,4 +211,4 @@ This combination of natural barrier (the Sentinels) and post-Rending barrier (th
 
 ---
 
-This overview matches the canonical map (`elvandar_map_v1.svg` and the reference/fantasy variants). Where individual nation files describe geography in more detail, those details should be reconciled to this overview and the map; the map is ground truth for location, the overview is ground truth for descriptive prose.
+This overview matches the canonical map (`elvandar_map_painted.png`). Where individual nation files describe geography in more detail, those details should be reconciled to this overview and the map; the map is ground truth for location, the overview is ground truth for descriptive prose.

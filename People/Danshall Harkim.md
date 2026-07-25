@@ -20,7 +20,9 @@ Those notes will become the most important document in Elvandar.
 
 ## Paradigm Analysis
 
-**Truth Seeker → Engineer → Caretaker → Founder → Spirited Competitor → Creator**
+**Truth Seeker → Engineer → Caretaker → Founder → Spirited Competitor → Creator → Merchant**
+
+Harkim is a paradigm-defining example of a Truth Seeker — not just primary, but extreme. His Truth Seeker drive accounts for a disproportionate share of his motivational stack, and his arc is specifically about what happens when a Truth Seeker's drive is *weaponized against itself* by the framework that taught him what counted as evidence. The drive is real. The framework was rigged. Everything else in his stack is in service to the central project of seeing the world correctly, and the great irony of his life is that the same disposition that made him slow to question Uratha's system is the disposition that, once the framework cracked, made him *unable to stop documenting until he had mapped the truth in full*. Below the Truth Seeker primary, Engineer and Caretaker both have substantial intrinsic components (he genuinely loves problem-solving, he genuinely loves Lira), but they are organized around and in service to the central truth-seeking project. The bottom of his stack is essentially flat: he is not competitive, not creative for expression's sake, and almost completely uninterested in accumulation.
 
 ### Truth Seeker (Primary)
 
@@ -76,9 +78,17 @@ He is also, in the resistance, quietly competent in a situation that rewards com
 
 ### Creator (Sixth)
 
-No evidence of creative or expressive impulse. He does not make art. He makes systems. This is his lowest paradigm.
+Very low, but not absent. Harkim does not make art and shows no expressive impulse — but the *form* the underground eventually takes does involve quiet Creator-instrumental work. The codes, the contact protocols, the architecture of plausible deniability that lets watchers communicate without attracting Ilhamori attention — these are *invented* structures, not just optimized ones. Lira's encoded-knowledge network in Book 4 is the same energy expressed in Harkim's vicinity: creative solutions to constraints, deployed instrumentally. He himself would not describe any of this as creative. He would say he was solving the problem the situation presented.
 
-**Shadow:** Minimal.
+**Shadow:** Minimal. He does not create for expression's sake, and beyond the instrumental inventions the underground requires, he has no creative impulse to speak of.
+
+### Merchant (Seventh)
+
+Harkim's lowest drive, by some distance. He does not accumulate for accumulation's sake. The notebook is *Truth Seeker* accumulation — evidence gathered toward an eventual revelation — not Merchant accumulation, which would treat the data as wealth or leverage in its own right. He never tries to *profit* from what he knows. He never deploys it for personal advantage. He sits on a decade of Ivory Tower anomaly data and uses it for exactly one purpose: to hand off to someone who can act on it when the moment comes.
+
+The contrast with Uratha's institutional culture is sharp. The Provosts run an actively Merchant-coded operation underneath their meritocratic skin — the bakarn classification is, in retrospect, a *harvesting* mechanism, which is Merchant logic at its most monstrous (people-as-inventory, with no terminal state on how many minds the Globehall could consume). Harkim grew up inside that institution and absorbed essentially none of its Merchant drive. He absorbed the *forms* — the institutional fluency, the deferences, the language — but never the engine. This is part of what makes him useful to Melina: he can operate inside a Merchant-architected institution without ever becoming one of its agents, because the drive simply isn't in him to be activated.
+
+**Shadow:** Minimal in any conventional sense. The one cost of his near-zero Merchant is structural: his underground has no resource reserves, no financial fat, no contingencies. It runs on patience and trust rather than accumulated capital. When Melina arrives, she brings the institutional resources Harkim never thought to acquire — and the handoff works precisely because his Merchant-free network produced clean evidence, uncorrupted by the protective instincts an accumulating network would have developed about its own assets.
 
 ---
 

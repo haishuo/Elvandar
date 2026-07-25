@@ -12,14 +12,14 @@ Unlike most imperial provinces that defined themselves through administrative or
 
 ## Geographic Position and Natural Features
 
-Silaris occupies the southwestern portion of what was once the Balishan Empire:
+Silaris occupies the far southern peninsula of what was once the Balishan Empire, jutting into the Azure Sea south of the Erulian Principality:
 
 ### Location and Borders
 
-- **Northern Border**: The Lyric Mountains separate Silaris from Vartonne, with several passages maintaining traditional trade routes  
-- **Eastern Border**: The Cerulean River forms a natural boundary with the Erulian Principality  
+- **Northern Border**: The Lyric Mountains separate Silaris from the Erulian Principality, with several passages maintaining traditional trade routes; the Cerulean River runs along this same northern frontier  
+- **Eastern Border**: The Azure Sea, its coastline a succession of dramatic cliffs and reefs  
 - **Southern Border**: The Azure Sea provides access to maritime trade routes  
-- **Western Border**: Dense woodlands known as the Whispering Forest create a natural barrier with minimal formal boundaries
+- **Western Border**: Dense woodlands known as the Whispering Forest create a natural barrier, beyond which the land gives way to open Azure Sea coast
 
 This positioning grants Silaris both natural beauty and strategic advantages, though the region has historically focused more on the former than the latter. The varied landscape provides inspiration and materials for diverse artistic traditions, from marble quarries in the northern mountains to vibrant pigment sources in the southern coastal regions.
 
@@ -57,7 +57,7 @@ This region serves as Silaris's agricultural backbone while also providing essen
 
 ### The Northern Highlands
 
-The mountainous northern region bordering Vartonne:
+The mountainous northern region bordering the Erulian Principality:
 
 - The Lyric Mountains providing dramatic vistas and valuable stone  
 - Higher elevations with cooler temperatures and distinctive seasonal changes  
@@ -69,7 +69,7 @@ The mountainous northern region bordering Vartonne:
 - Forests providing specialized woods for instrument making and fine furniture  
 - Remote monasteries that preserve ancient artistic techniques and manuscripts
 
-These highlands have historically been less developed but provide essential materials for Silaris's artistic traditions. The mountain passes to Vartonne remain culturally significant, though increasingly difficult to maintain without proper engineering resources.
+These highlands have historically been less developed but provide essential materials for Silaris's artistic traditions. The mountain passes to Erulius remain culturally significant, though increasingly difficult to maintain without proper engineering resources.
 
 ### The Western Woodlands
 

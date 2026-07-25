@@ -2,7 +2,7 @@
 
 ## Geographic Location and Natural Setting
 
-Vartonne occupies a privileged position in central Elvandar, situated on gently rolling plains that provide ideal conditions for agriculture while offering natural defensive advantages:
+Vartonne occupies a privileged position in western Elvandar, situated on gently rolling plains that provide ideal conditions for agriculture while offering natural defensive advantages:
 
 ### The Aureate Plains
 
@@ -19,7 +19,7 @@ Vartonne occupies a privileged position in central Elvandar, situated on gently 
 
 The region is defined by three significant rivers that converge near the capital:
 
-- **The Imperial Vein** \- The largest waterway, flowing from the northwest highlands through the capital to the southern seas  
+- **The Imperial Vein** \- The largest waterway, flowing from the northwestern highlands through the capital to the Western Sea  
 - **The Silverflow** \- A tributary approaching from the northeast, known for clear waters and abundance of fish  
 - **The Verdant Stream** \- A smaller river from the west, its banks lined with unusually dense vegetation
 
@@ -39,7 +39,7 @@ Beyond the Aureate Plains, Vartonne's territories encompass varied landscapes:
 
 #### The Eastern Foothills
 
-- Gentle elevations that gradually rise toward the borderlands with Gunastran  
+- Gentle elevations that gradually rise toward the Sentinel Mountains, beyond whose passes lies Gunastran  
 - Once-productive mines now operating at minimal capacity  
 - Scattered vineyards on south-facing slopes producing prestigious wines  
 - Traditional quarries providing distinctive golden limestone for imperial architecture  
@@ -49,7 +49,7 @@ Beyond the Aureate Plains, Vartonne's territories encompass varied landscapes:
 
 #### The Southern Wetlands
 
-- Marshy transition zones where the rivers approach the distant sea  
+- Marshy transition zones where the rivers approach the Western Sea  
 - Rich biodiversity supporting unique flora and fauna  
 - Traditional source of rare medicinal herbs and plants  
 - Once actively managed through an elaborate drainage system now falling into disrepair  

@@ -16,6 +16,8 @@
 
 4. The gate does not open. Xion eventually steps back from it — not leaving, but acknowledging the wall. This is the door of the chapter's title: not locked, not barred, just... closed. Politely. Definitively.
 
+(Background texture, not a scene beat: somewhere behind those walls, technically Elara's to command, sit the Ver'anar — Balisha's old war-magic corps, as publicly known as the Arol Batae and sworn to the same blood. Nobody is thinking about them. Not Xion, standing outside a gate the Arol Batae are guarding. Not Elara, who was raised by the Arol Batae and reaches for them the way you reach for family, not a relation you've only been told about.)
+
 5. Melina finds him at a spot away from the palace gates — a low wall near a courtyard, or a bench in a quiet square, somewhere between the Noble District and the rest of the city. She's coming from the palace, not going to it — she has access Xion doesn't, through Rosik's position on the Coterie. She sits beside him. This is the first time. It will not be the last. The reader doesn't know yet that this spot, this routine — Xion arriving first, Melina coming from the direction of the estate or the palace, sitting where she sits — will become the most important structural fixture in the book. For now, it's just a sister finding her brother. She looks exhausted. Not the theatrical exhaustion of someone performing stress, but the genuine fatigue of someone who has been mediating between incompatible forces all day.
 
 6. Sibling greeting. There's warmth here — these two care about each other — but also the slight awkwardness of people whose lives have diverged. Melina stayed in their father's world. Xion left it. They meet in the gap.

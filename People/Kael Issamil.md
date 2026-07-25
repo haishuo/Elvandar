@@ -14,7 +14,13 @@ This is who Kael is. Not the loudest voice, not the most emotional, not the most
 
 ## Paradigm Analysis
 
-**Engineer → Truth Seeker → Caretaker → Founder → Spirited Competitor → Creator**
+**Engineer → Truth Seeker → Caretaker → Founder → Spirited Competitor → Creator → Merchant**
+
+Kael is Engineer primary in a specific flavor worth distinguishing in the framework. There are at least three Engineer styles visible in the cast — *building* (Sa Ko's forges and training halls), *optimizing* (Tania's water distribution and social machinery), and *diagnosing* (Kael himself). Kael does not build new systems or refine existing ones. He *reads* systems to find the lever — the precise point where pressure will produce movement. The "Sa Ko Ren might" moment in the warehouse is the cleanest diagnostic-Engineer act in the entire cast: he sees the political machinery of cartel legitimization clearly enough to identify the single human variable whose endorsement could unlock the throne, and he knows exactly what that variable requires (combat, not bloodline). Three words. The whole strategic problem solved.
+
+He shares Truth Seeker secondary with Silvanno — which is what makes their reform-group partnership functional. Below the primary they diverge sharply (Silvanno acts on Caretaker, Kael acts on Engineer), but both refuse to soften reality, and that mutual commitment to accurate perception is the basis of their unspoken trust.
+
+His position in the cartel hierarchy is also paradigm-significant. He is from a "minor Iron clan" — minor branch of the *least* Merchant-coded cartel — which makes his structural exposure to Merchant drive perhaps the lowest of any character in Kaha'an who interacts with cartel politics at all. The paradigm geometry of this matches the personality: Kael is operationally fluent in cartel logic without being motivationally captured by it. He understands the machine. He has never been the machine's heir.
 
 ### Engineer (Primary)
 
@@ -68,9 +74,19 @@ Kael shows minimal competitive drive. He debates at The Amber Leaf not for the p
 
 ### Creator (Sixth)
 
-No evidence of creative or expressive drive in the text. Kael doesn't envision, design, or make things. His contributions are analytical and operational, never artistic or imaginative. This is his lowest paradigm.
+Very low, but not absent. Kael's contributions are analytical and operational rather than artistic or imaginative — he doesn't envision new structures, design aesthetics, or make things for expression's sake. The closest he comes to Creator-instrumental work is *strategic invention*: the "Sa Ko Ren might" insight is, in one sense, a creative leap (no one else has seen it; he generates the move from observation). But the leap is in service of diagnostic understanding, not expression. He invents *paths*, not *things*.
 
 **Shadow:** Minimal. He doesn't operate in this space.
+
+### Merchant (Seventh)
+
+Kael's lowest drive — and likely one of the lowest Merchant placements in the cast. He comes from a *minor* branch of the *least Merchant-coded* of the four cartels. Both halves of that placement matter: minor clan standing means he was never being groomed for accumulation; Iron's production-cartel nature means even the institutional culture he absorbed in childhood was Engineer-led rather than Merchant-led. His structural exposure to the Merchant engine, growing up, was minimal.
+
+The personal expression matches. Kael shows no pull toward accumulation — not of wealth, not of position, not of leverage, not of recognition. His Book 2 freedom of movement comes from Iron's institutional alignment, not from any defensive reserves he has personally built. He doesn't hoard. He doesn't stockpile. When he provides "Iron muscle for security" during the shadow fund heists, he is deploying institutional capability, not personal accumulation. The minor clan boy who finally feels at home in Iron territory wants *belonging*, not *more*.
+
+This is what makes him operationally trustworthy to Xion in a way no one with higher Merchant could be. The other cartel-adjacent allies (Silvanno, even Farleen, who is from a Merchant-arranged house) all have to navigate around their own family's Merchant logic to act on their loyalties. Kael does not. The Merchant drive is so low in him that family-versus-friend tension never arises at the paradigm level — only at the institutional level, which is much more manageable.
+
+**Shadow:** His low Merchant means he has zero instinct for *self-promotion*. He proposed the single most consequential strategic insight of Book 1, and he did so quietly, in a warehouse, in three words, and someone else had to validate it before it became action. A character with even modest Merchant drive would have positioned that insight more visibly. Kael does not, because positioning insights for personal credit is a Merchant move and he has none of it. This serves him morally and costs him politically. He will likely remain underestimated for his entire arc — exactly the way he's underestimated in the Noble District — and the people who know him will know what he is, while the people who don't, won't.
 
 ---
 

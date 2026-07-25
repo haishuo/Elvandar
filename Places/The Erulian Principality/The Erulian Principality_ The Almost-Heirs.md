@@ -4,6 +4,10 @@
 
 Once merely a province governed by a distant relative of the emperor who held the largely ceremonial title of "prince," the Erulian Principality gained new significance after The Rending. With the imperial line of Balisha believed to be cut and the emperor and empress presumed dead, the ruling house of Erulius suddenly found itself as the closest surviving relatives to the throne—though still not close enough to legitimately claim it.
 
+### The Vanity Title
+
+The Principality's very name began as a way to end an argument. Its founder — the first Lord Erulius, a third cousin twice removed on the mother's side of the Valanar emperor of his age — was a man of no real consequence who could not stop reminding the court of his imperial blood. For years he petitioned for a commission befitting his supposed station, until the emperor, whose seat then stood at Vartonne, silenced him in the cheapest way available: a grand-sounding but empty title — *Prince* — and a strip of remote frontier land to go with it, about as far from the Vartonne court as the empire reached, on the eastern coast where Eruliath now stands. In substance the grant was a marquisate; in style it was a Principality, and the flattering discrepancy cost the crown nothing. For its first century the holding was exactly what it had been designed to be: a quiet border march whose lord could style himself a prince and trouble no one. Only much later — when Terinok's secession began the slow cascade that unmade the empire, and Erulius drifted loose along with the other provinces — did the vanity title come free of the throne that bestowed it. And only after the Rending, with every Valanar believed dead, did a title invented to shut a man up become the foundation of a claim to the world.
+
 ### From Provincial Outpost to Ambitious Power
 
 For approximately 80 years after the empire's collapse, the Erulian Principality existed in relative obscurity. While maintaining theoretical claims to imperial connection, the pre-Rending principality was content to manage its abundant resources and maintain its autonomy, with only a simmering undercurrent of jealousy toward Kaha'an's more direct imperial lineage.
@@ -16,13 +20,13 @@ This transformation was not universally welcomed within Erulius. Some of the ori
 
 ## Geography and Environment
 
-The Erulian Principality occupies a geographically advantageous position within Elvandar, bordered by mountains to the north that separate it from Terinok and rolling hills to the south that gradually transition into the Vartonne plains. The eastern border features dense forests that provide natural protection from Gunastran's industrial expansion, while the western regions contain disputed territories with Balisha.
+The Erulian Principality occupies the continent's **southeastern quarter**, and it is geographically well-favored. Its entire eastern edge faces the **Azure Sea** — the maritime frontier that gives it Port Valen and the Erulian Navy. To the **north** it borders **Uratha**, the scholars' land, with Gunastran beyond that; to the **west**, its arid marches fall away into the **Balishan Desert** and the long-disputed border with Kaha'an; to the **south**, its territory narrows toward the peninsula and the approaches to Silaris. One fact of its position mattered nothing for most of its history and everything at its founding: Erulius lies about as far from **Vartonne** — the old western capital, clear across the breadth of the continent on the Western Sea — as any holding the empire ever granted.
 
 The landscape is remarkably diverse:
 
 - The Northern Reaches feature mineral-rich mountains with extensive iron, copper, and precious gem deposits  
 - The Heartlands contain some of Elvandar's most fertile agricultural regions, with a moderate climate perfect for grain production  
-- The Eastern Woods remain largely untouched, housing ancient forests with rare timber and medicinal plants  
+- The Inland Woods remain largely untouched, housing ancient forests with rare timber and medicinal plants  
 - The Western Marches are more arid, transitioning toward Kaha'an's desert, but contain valuable salt flats and quarries
 
 Three major rivers flow through Erulian territory—the Ennor, the Tethian, and the Alder—providing both transportation networks and irrigation for the prosperous farmlands of the central province.

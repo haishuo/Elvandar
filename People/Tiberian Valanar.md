@@ -14,7 +14,13 @@ His mother, when imprisoned in Uratha and promising consequences to her captors,
 
 ## Paradigm Analysis
 
-**Caretaker → Spirited Competitor → Truth Seeker → Engineer → Creator → Founder**
+**Caretaker → Spirited Competitor → Truth Seeker → Engineer → Creator → Founder → Merchant**
+
+Tiberian inherits the *engine* from both parents — Caretaker primary, just like Xion and Elara — but the *vector* is his own, and so is the second-tier paradigm that distinguishes him from either of them. Xion's Caretaker moves toward the wound (healing). Elara's moves toward the throne (institutional protection of populations she will never meet). Tiberian's moves toward the threat (intervention). Same drive, three different orientations across one family.
+
+His Spirited Competitor at 2nd is the genuinely new piece of his stack. Xion's Competitor sits 6th and provides almost no satisfaction; Elara's sits 5th and serves only as combat reflex. Tiberian's is the highest Competitor placement among the three of them, and it is *partially intrinsic* — he genuinely finds combat command satisfying, finds the rush of a bold maneuver succeeding fulfilling in itself, finds the test of will against an adversary engaging in a way his father simply does not. He is not a Competitor primary like Sa Ko or Ronas; the contest is in service of Caretaker. But it is fulfilling enough that he would not gladly give it up the way Xion would.
+
+A structural note worth flagging: Tiberian's drives are unusually *undivided*. The engine is clean Caretaker fury; the secondary is clean Competitor energy; nothing muddies them (his Merchant is functionally zero, his Founder is low, his Truth Seeker is in undisguised service of his Caretaker). The phrase the original text uses about him — that he "acts from pure passion and moral conviction" — reads at the paradigm level as a description of someone whose primary and secondary drives operate without internal contradiction. This is rare in the cast. Most characters carry significant cross-drive tension (Rosik's denied wife-grief versus his Merchant, Ronas's denied Caretaker versus his Competitor, Melina V.'s asymptotic Truth Seeker versus her Caretaker urgency). Tiberian's stack lacks those internal contradictions almost entirely. The cost is reduced flexibility (he cannot easily simulate drives he does not feel). The benefit is the unusual moral clarity that defines him.
 
 ### Caretaker (Primary)
 
@@ -81,6 +87,16 @@ This isn't because he rejects his role. It's because he experiences kingship as 
 The trilogy's closing note — the slate wiped clean, allowing Tiberian and Melina "to focus entirely on building the future" — suggests that his Founder energy may develop as he matures. But across the trilogy proper, it remains his weakest drive.
 
 **Shadow:** His low Founder energy means he can be cavalier about institutional consequences. Charging into Silaris with a small force against his parents' wishes shows someone who prioritizes immediate moral action over long-term political stability. The empire his parents built requires maintenance, and maintenance doesn't come naturally to a tiger.
+
+### Merchant (Seventh)
+
+Tiberian's lowest drive, by some distance. The Merchant engine — accumulation as its own reward, expansion without terminal state, leverage hoarded for its own sake — has no purchase on him at all. He charges to *save*, not to *take*. He intervenes in Silaris to *protect* a cultural treasury, not to acquire it for Balisha. He frees Kess from the fighting pits because he cannot walk past her suffering, not because he wants a battlefield companion to add to his entourage. Every act of his that looks acquisitive on the surface is, on inspection, protective. The substrate of his behavior is the inverse of Kalden's.
+
+This is paradigm-significant for who he is *as Crown Prince*. He inherits an empire — the largest accumulation in Elvandar — and feels none of the engine that built it. His parents are Caretaker-primaries who used the throne as a tool of protection. Tiberian inherits the tool without inheriting any drive to extend it. The throne is, to him, a position from which to intervene more effectively, not a holding to grow. If asked what new territories Balisha should acquire under his eventual reign, the question would not register as motivating. He would think about what *threats* could be addressed, not what *holdings* could be gained.
+
+He shares this Merchant-bottom placement with everyone in his immediate orbit — both parents, his sister, Silvanno, Farleen. The Caretaker-primary cluster around the Valanar throne is also a Merchant-bottom cluster, which means the post-cartel-era Balisha is the first government in Kaha'an's living memory whose ruling family is not motivated by accumulation. This is the structural difference between the Valanar restoration and what came before, expressed at the paradigm level.
+
+**Shadow:** Because Merchant is so low in him, Tiberian has no instinct for the *strategic value of accumulation* — the way that wealth, leverage, and positional reserves can preserve options and prevent crises. His parents have absorbed this lesson institutionally even though they don't intrinsically feel it. Tiberian has not yet had to. When the future requires him to think like a long-game player about resource positioning — defensive reserves, contingency alliances, accumulated leverage that prevents the next emergency from becoming a catastrophe — this will be the drive he most has to *learn to fake*, because faking is the only way to do it. He cannot want what he does not want. But he can, with discipline, behave as though he did.
 
 ---
 

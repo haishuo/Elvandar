@@ -1,4 +1,4 @@
-# Chapter 17: First Strike
+# Chapter 18: First Strike
 
 **Timeline:** The war begins
 **Characters:** Xion, Elara, Farleen, war council

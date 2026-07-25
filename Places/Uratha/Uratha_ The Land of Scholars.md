@@ -16,6 +16,18 @@ Despite all their published papers and celebrated research, recent Scholar-Kings
 
 Unwilling to admit this uncomfortable truth, the Provosts have locked the Crown away, ostensibly for "safety reasons." Privately, they've convinced themselves that the divine artifact must be malfunctioning, unable to accept the more devastating reality that they have become unworthy of its power.
 
+### The Paradigm Drift (Reading the Silence)
+
+Why the Crown went silent is, under the Seven Paradigms framework, a structural rather than incidental question. The Crown reads the *engine*, not the *output*. Uratha still produces the outputs of scholarship — the towers, the High Exam, the libraries, the technical leadership, the celebrated papers. What has changed is the underlying *why*. The civilization that originally earned the Crown's blessing was Truth Seeker primary at the institutional level: a culture organized around following evidence wherever it led, contributing genuine new understanding, treating knowledge as a discovery rather than a possession. The Crown answered to that engine. It still would.
+
+The civilization the Provosts now lead is something else. Underneath the scholarly skin, the institutional engine has drifted from Truth Seeking toward **Merchant** — the accumulation of knowledge as inventory, the harvesting of minds when legitimate discovery proves too slow, the bakarn classification as a sorting mechanism for who is expendable and who is preserved. The Globehall is Merchant logic at its most monstrous: people-as-substrate, with no terminal state on how many minds can be consumed in service of the institution's intellectual position. The towers were built to *seek* truth; they are now used to *hoard* the appearance of it. Same furniture, different room.
+
+The Crown can tell the difference. It cannot be deceived by the appearance of scholarship when the drive underneath is accumulation. So it has gone quiet, and waited.
+
+The most damning aspect of the silence is not the silence itself. It is that the silence has been **reinterpreted rather than heeded**. A genuinely Truth-Seeker civilization would treat the Crown's silence as the single most important data point in the kingdom — an artifact that responded to their ancestors and won't respond to them is direct, unambiguous evidence of paradigm decline that demands investigation. The Provosts do not investigate. They have spent generations building elaborate justifications for why the Crown's silence does not mean what it obviously means, because investigating would require facing what the institution has actually become. This is the deepest irony available to the framework: **the Truth Seeker civilization has lost its capacity to perform the basic Truth Seeker act — following uncomfortable evidence — about itself.**
+
+This makes Harkim's personal arc the kingdom's story in miniature. He is a Truth Seeker primary whose framework prevented him from seeking the truth that mattered, until accumulated evidence finally broke the seal. Uratha is the same pattern at civilizational scale, and its seal has not yet broken. The day the Crown answers again will be the day Uratha has actually changed at the paradigm level — not the day the Provosts pass new committee reforms with softer language about "adjusted frameworks." The Crown knows the difference between reform and renewal. It cannot be fooled by either.
+
 ---
 
 ## Government and Political Structure

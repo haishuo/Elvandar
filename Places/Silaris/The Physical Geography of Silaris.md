@@ -2,14 +2,14 @@
 
 ## **Geographic Location and Natural Setting**
 
-Silaris occupies the southwestern portion of what was once the Balishan Empire, positioned in a naturally beautiful and artistically inspiring landscape that profoundly influences the character of the Conservatory City.
+Silaris occupies the far southern peninsula of what was once the Balishan Empire, jutting into the Azure Sea south of the Erulian Principality, positioned in a naturally beautiful and artistically inspiring landscape that profoundly influences the character of the Conservatory City.
 
 ### **Regional Position and Borders**
 
-* **Northern Border**: The Lyric Mountains separate Silaris from Vartonne, with several mountain passes maintaining traditional trade routes through breathtakingly scenic alpine valleys  
-* **Eastern Border**: The Cerulean River forms a natural boundary with the Erulian Principality, its blue-green waters providing both practical transportation and artistic inspiration  
+* **Northern Border**: The Lyric Mountains separate Silaris from the Erulian Principality, with several mountain passes maintaining traditional trade routes through breathtakingly scenic alpine valleys; the Cerulean River runs along this same northern frontier, its blue-green waters providing both practical transportation and artistic inspiration  
+* **Eastern Border**: The Azure Sea, its coastline a succession of dramatic cliffs and reefs that have inspired countless Silarian paintings  
 * **Southern Border**: The Azure Sea provides access to maritime trade routes and creates the dramatic coastal vistas that have inspired countless Silarian paintings  
-* **Western Border**: Dense woodlands known as the Whispering Forest create a natural barrier with minimal formal boundaries, their mysterious acoustic properties making them sacred to musicians and sound artists
+* **Western Border**: Dense woodlands known as the Whispering Forest create a natural barrier, beyond which the land gives way to open Azure Sea coast, their mysterious acoustic properties making them sacred to musicians and sound artists
 
 This positioning grants Silaris extraordinary natural beauty that has shaped its artistic identity for centuries. The varied landscape provides both inspiration and specialized materials for diverse artistic traditions, from marble quarries in the northern mountains to vibrant mineral pigment sources in the southern coastal regions.
 
@@ -76,13 +76,13 @@ The heart of Silaris features an expansive river valley that serves as both the 
 
 ### **The Northern Highlands**
 
-The mountainous northern region bordering Vartonne provides both dramatic scenery and essential materials for Silarian artistic traditions:
+The mountainous northern region bordering the Erulian Principality provides both dramatic scenery and essential materials for Silarian artistic traditions:
 
 #### **The Lyric Mountains**
 
 * Dramatic peaks providing both scenic inspiration and practical materials for artists  
 * Multiple peaks named for their acoustic properties—Echo Peak, Harmony Ridge, and Resonance Mountain  
-* Mountain passes connecting to Vartonne that feature traditional artistic installations marking the borders  
+* Mountain passes connecting to Erulius that feature traditional artistic installations marking the borders  
 * High-altitude meadows with unique flowers yielding rare pigments unavailable elsewhere in Elvandar  
 * Seasonal snow patterns that create temporary natural artworks celebrated by landscape painters
 

@@ -16,7 +16,11 @@ Farleen Darfi's entire story grows from that knife thrust. Everything before it 
 
 ## Paradigm Analysis
 
-**Caretaker → Engineer → Truth Seeker → Spirited Competitor → Founder → Creator**
+**Caretaker → Engineer → Truth Seeker → Spirited Competitor → Founder → Creator → Merchant**
+
+Farleen's stack has only one truly large intrinsic drive — Caretaker — but it presents as more balanced than Melina's because her secondary, Engineer, is *extensively developed* by cartel training. The result is a character whose surface behavior reads as a competent operative with sophisticated tactical instincts, when the actual motivational engine is simpler than that: she gets out of bed for one person. Everything else in her stack is a tool she's good at, not a drive she answers to. Strip out the Caretaker drive and the operative would have nothing to operate on. She is what happens when you spend twenty years training a person into an instrument and then give the instrument a heart.
+
+This is also the source of the *narrowness* of her Caretaker drive. Unlike Xion's Caretaker (which extends to anyone suffering in front of him) or Elara's (which extends to entire populations she will never meet), Farleen's Caretaker is aimed at a target population of one. This is not a smaller drive — it may be the largest single-person-focused drive in the cast. But it does not generalize. She does not love humanity. She loves Xion Kemvimore, and the world is mostly mapped according to whether it is currently threatening him.
 
 ### Caretaker (Primary)
 
@@ -56,13 +60,13 @@ Her confrontation with Elara in Chapter 14 is raw truth delivered as fury: "I st
 
 ### Spirited Competitor (Fourth)
 
-The rivalry with Elara runs on competitive fire. When Ronas Dermir mistakes Farleen for the princess, her reaction is involuntary and revealing: "her posture shifted. Straightened. Her chin lifted slightly, and Xion saw the ghost of satisfaction cross her face." When Elara corrects the mistake and Ronas's skeptical "Really" devastates her, Farleen's expression is "carefully neutral, but Xion caught the flash of something in her eyes before she looked away. Not quite triumph. But close."
+Farleen's competitive drive is narrow, specific, and aimed at exactly one target: Elara, on exactly one axis: who matters more to Xion. She does not seek victory abstractly. She does not measure herself against challenges. She does not enjoy contests for their own sake. The drive is *Caretaker-possessiveness expressed as rivalry* — a competition function running on a Caretaker engine, not an intrinsic competitive drive. A genuine Spirited Competitor primary would compete with anyone worthy. Farleen would happily concede every other contest in Kaha'an. She concedes nothing to Elara because Elara is standing where she wants to stand.
 
-This isn't malice. It's the competitive satisfaction of being perceived as *more* — more regal, more commanding, more convincing — than the actual princess. Farleen competes with Elara not for the throne but for the question of who matters more to Xion, who is more capable, who belongs at his side.
+The Ronas Dermir mistaken-princess moment is the cleanest tell. When Ronas reads her as the imperial heir, "her posture shifted. Straightened. Her chin lifted slightly, and Xion saw the ghost of satisfaction cross her face." When Elara corrects the mistake and Ronas's skeptical "Really" devastates her, Farleen's expression holds "not quite triumph. But close." Strip out Xion and that scene loses all its charge. Farleen does not want to be the princess in the abstract. She wants Xion to see, even for a heartbeat, that she *could be* what the princess is — and she doesn't have to be of imperial blood to be worthy of standing beside him.
 
-Their professional cooperation during missions — working together on the heist, the scouting, the Warrens navigation — becomes its own form of competition: two extremely capable women forced to demonstrate competence to each other while neither will admit to caring about the other's assessment.
+Their professional cooperation during missions reads similarly. Two extremely capable women working the same problem, neither willing to acknowledge caring about the other's assessment. The competence display is real, but its audience of one is the same audience of one she has for everything.
 
-**Shadow:** Her competitive edge with Elara occasionally overrides her better judgment. The near-triumph at Ronas's mistake is a moment where rivalry displaces empathy — she enjoys Elara's humiliation, however briefly, because the competition matters to her more than she'd like to admit.
+**Shadow:** Her Caretaker-driven rivalry occasionally overrides her better judgment. The near-triumph at Ronas's mistake is a moment where possessiveness displaces empathy — she enjoys Elara's humiliation, however briefly, because what she's fighting for matters to her more than she'd like to admit, even though what she's fighting for is not a contest at all. It's a man.
 
 ### Founder (Fifth)
 
@@ -76,9 +80,17 @@ In Book 2, this absence becomes paradoxically liberating. She is "most free" pre
 
 ### Creator (Sixth)
 
-No evidence of creative or expressive drive in the text. Farleen is tactical, emotional, honest, competitive — but never artistic or visionary. This is her lowest paradigm.
+Very low, but not absent. Farleen's creative work is almost entirely subsumed in her tactical work — inventing cover stories on the fly, improvising explanations for inconvenient evidence, constructing operational fictions that hold up to scrutiny. These are real Creator-instrumental acts: she has to *make new things* (false identities, plausible itineraries, fabricated reasons for being in the wrong neighborhood) and make them well enough to survive professional examination. But she does not create for expression's sake. The invented things exist to protect, deceive, or extract. The moment they've served, she discards them.
 
-**Shadow:** Minimal. She doesn't operate in this space.
+**Shadow:** Minimal in the artistic sense. She does not make things to make them. The cost of this is that when Xion is too damaged to be reached through conversation, she has no instinct to *create* something — a gesture, an object, a ritual — that might bridge to him. Her response to his collapse is presence, which is the right response, but it is the only response she has. A Creator-secondary character would have built him something. Farleen only knew how to sit beside him.
+
+### Merchant (Seventh)
+
+The lowest drive in Farleen's stack, and one she is particularly well-positioned to have rejected. She is the daughter of a man who *bought* his nobility — House Darfi's entire existence is the result of an explicit accumulation gamble (cache → estate → cartel sponsorship → useful daughter as standing payment). She grew up inside a Merchant logic that converted every relationship into transactional terms: the family owes Larannas service in exchange for protection, and Farleen herself was the principal item being traded. A character with any intrinsic Merchant pull, growing up in that environment, would have absorbed it as native. Farleen absorbed the *tactics* — the surveillance, the operational instincts, the ability to read leverage in a room — but not the engine. The accumulation logic of her own house felt foreign to her, even though it was literally how her house operated.
+
+This is the structural reason her chosen rebellion took the specific form it did. She did not break from House Darfi by becoming a better operative or by accumulating leverage of her own — that would have been a Merchant's rebellion, and she has no Merchant drive. She broke by *abandoning the entire ledger*: throwing away her position, her family's protection, her future. A Merchant-shaped person would have found a way to renegotiate. Farleen just walked out, because the only currency that ever motivated her was Xion, and the ledger had never been able to price him correctly.
+
+**Shadow:** Because she feels no Merchant pull, she has no instinct for accumulating positional safety, allies, or escape options of her own. Her freedom of movement in Book 2 is entirely a gift of structural circumstance (Tania too distracted to act), not the product of any defensive accumulation Farleen herself built. If the circumstances shifted, she would have nothing to fall back on except Xion's protection — which is exactly where she has chosen to live. The stack is internally consistent. It is also, quietly, fragile in a way she does not seem to notice.
 
 ---
 

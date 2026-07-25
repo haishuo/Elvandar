@@ -14,7 +14,15 @@ That is the central truth of Tania Larannas. She bends. She always bends. And Ho
 
 ## Paradigm Analysis
 
-**Founder → Engineer → Spirited Competitor → Truth Seeker → Caretaker → Creator**
+**Founder → Engineer → Merchant → Spirited Competitor → Truth Seeker → Caretaker → Creator**
+
+Tania is a clean example of a Founder primary — and the cleanest way to see this is the contrast with two other cast members who *look* similar on the surface but operate on different engines underneath. Kalden Erulius also speaks dynastic vocabulary; Rosik also runs a cartel. Tania's stack distinguishes itself from both by passing tests they fail.
+
+**Versus Kalden (also "dynastic"):** The decisive Founder test is *does the person subordinate personal status to institutional continuity?* Kalden cannot — his accumulation drive forbids it; he keeps the court gleaming while the army walks away. Tania does it reflexively. She hurries to welcome Rosik at *her own* masquerade. She defers to him as the most powerful man in the room. She does not need to be central. She needs House Larannas to be central. When Silvanno predicts she will "bend before she breaks," he is identifying the exact behavior Kalden could never produce: the willingness to lower one's head so the house keeps standing. Bending is the Founder test passed.
+
+**Versus Rosik (also a cartel leader):** Rosik is Merchant primary with no terminal state on accumulation — he builds shadow funds, runs surveillance networks, hoards beyond any need, keeps expanding. Tania does none of this. The Water cartel is bounded: she runs a monopoly within Kaha'an, not an expansion campaign. She does not try to take Grain or Iron territory. She does not build wealth reserves beyond what House Larannas requires. She *maintains*. Same external behavior (running a cartel), opposite engine. Rosik's cartel is a vehicle for endless growth; Tania's cartel is the body of an institution she is preserving.
+
+This places Merchant at the *operational* level for Tania (running a cartel is Merchant-coded work, the hereditary token system is Merchant logic at scale) without putting it at the *motivational* level. She thinks fluently in monopoly. She does not think in accumulation. The Merchant drive is real but bounded, serving the Founder engine the way Engineer also serves it.
 
 ### Founder (Primary)
 
@@ -38,7 +46,21 @@ In Book 2, her cartel's operations become a central point of political contentio
 
 **Shadow:** Her Engineering serves her Founder drive so completely that she cannot see her systems as anything other than necessary. The water distribution apparatus is not, to her, a mechanism of oppression. It is a mechanism that *works*. That it works by controlling who lives and dies is an implementation detail she has long since stopped examining.
 
-### Spirited Competitor (Third)
+### Merchant (Third)
+
+Tania runs a Merchant-coded operation. The Water cartel is, at its core, a monopoly on the most essential resource in a desert city, with a hereditary token system designed to extract maximum value from artificial scarcity. The accumulation logic is sophisticated and pervasive — graduated district access, ledgers tracking who has paid, enforcers in cartel colors checking papers at every well, the careful preservation of premium private-seller markets for those whose tokens are "apparently insufficient." This is Merchant work executed at expert level. Tania thinks fluently in monopoly the way Rosik thinks fluently in accumulation.
+
+But the engine driving the operation is Founder, not Merchant. The distinction shows up in two places where her behavior diverges sharply from a true Merchant primary's.
+
+First, she does not *expand*. The Water monopoly within Kaha'an is bounded — she does not try to extend her cartel's reach into Grain's domain, does not absorb Iron's mineral rights, does not build a shadow-funds analog the way Rosik does. The accumulation has a defined ceiling: enough to keep House Larannas dominant in its arena, no more. A Merchant primary cannot define an "enough." Tania defined one decades ago and has lived inside it ever since. The cartel is the size House Larannas requires, and growing it further would expose the institution to risks the Founder considers unacceptable.
+
+Second, when forced to choose between accumulation and institutional safety, she chooses safety. The Book 2 betrayal of Rosik is the cleanest example: backing him further would have meant *more* — more political reach, more leverage from continued alliance — but it would also have meant House Larannas going down with him. Tania abandons the additional accumulation without a second thought. A Merchant primary cannot make that trade easily. The drive to keep growing fights every concession. For Tania the trade is reflexive, because the engine underneath is preservation, not growth.
+
+The Water cartel is therefore the cleanest in-cast contrast with Rosik's Grain cartel: same external behavior (cartel head running a city monopoly), opposite engine (her Merchant is in service to a Founder; his Founder vocabulary is in service to a Merchant). They look interchangeable from the outside. They are paradigm-inverted underneath.
+
+**Shadow:** Because her Merchant drive is genuinely present but subordinated, she can extract value from a brutally extractive system without the appetite-driven excesses a true Merchant primary would produce. She does not push the token system to its breaking point. She does not chase every available marginal accumulation. The system is monstrously unjust but operates with a kind of restraint — restraint that exists because the *institution* is what matters, not the take. The Water cartel under a Merchant primary would be measurably worse for Kaha'an than the Water cartel under Tania. This is the smallest possible mercy. It is also real.
+
+### Spirited Competitor (Fourth)
 
 Tania competes, but always instrumentally. Her rivalry with other cartel leaders — Rosik especially — drives her to maintain House Larannas's competitive position, but she derives no intrinsic satisfaction from the contest itself. She doesn't want to beat Rosik because winning feels good. She wants to beat Rosik because losing means House Larannas loses ground.
 
@@ -48,7 +70,7 @@ When Elara fires back with her own coded response about "abundance," Tania's smi
 
 **Shadow:** Her instrumental approach to competition means she never commits fully to any contest. She will always withdraw rather than fight to the finish, which makes her predictable. Xion exploits exactly this: "pure transactional fear" works on Tania because she will always choose survival over pride.
 
-### Truth Seeker (Fourth)
+### Truth Seeker (Fifth)
 
 Tania gathers information with the same systematic precision she applies to water distribution. At the masquerade, she reads Xion's companion instantly — processing "potential alliance, possible marriage, definite political implications" — and deploys a social probe to gather more data. Her guest list curation suggests ongoing intelligence about who matters and who doesn't.
 
@@ -56,7 +78,7 @@ But her truth-seeking is narrowly instrumental. She wants to know things so she 
 
 **Shadow:** Her selective truth-seeking means she may be the cartel leader most vulnerable to being blindsided by realities she chose not to examine. She doesn't understand the depth of suffering her token system creates because understanding it would serve no purpose she values.
 
-### Caretaker (Fifth)
+### Caretaker (Sixth)
 
 There is a thin thread of genuine protectiveness in Tania — but it extends almost exclusively to House Larannas and its immediate members. Silvanno's assessment suggests a mother who, whatever her political nature, raised a son who is fundamentally decent and who speaks of her with clear-eyed affection rather than bitterness. She has not crushed the idealism out of him, which may indicate either indifference or a quiet refusal to damage her own child.
 
@@ -64,7 +86,7 @@ The Water cartel maintains basic access for common citizens — a pragmatic choi
 
 **Shadow:** Her Caretaker instinct is so deeply subordinated to her Founder drive that she can witness systemic suffering — children going thirsty — without it registering as a personal moral failure. The system works. The system serves House Larannas. The children are someone else's problem.
 
-### Creator (Sixth)
+### Creator (Seventh)
 
 Vision, expression, and aesthetic innovation provide Tania nothing beyond their utility for status signaling. The Larannas estate is magnificent — imported marble, cascading waterfalls, crystal wine glasses — but every beautiful object serves a political function. The beauty exists to demonstrate wealth and power, not because beauty itself matters to her. Her emerald silk gown matches Water cartel colors. Her minimal mask ensures recognition. Form follows function, always.
 

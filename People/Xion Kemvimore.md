@@ -13,7 +13,11 @@ This fundamental disconnect between father and son has created one of Balisha's 
 
 ## Paradigm Analysis
 
-**Caretaker → Truth Seeker → Engineer → Creator → Founder → Spirited Competitor**
+**Caretaker → Truth Seeker → Engineer → Creator → Founder → Spirited Competitor → Merchant**
+
+Like Elara, Xion has only two paradigms that intrinsically motivate him — Caretaker and Truth Seeker. Together they account for roughly 55–60% of his drive. Everything beneath those two is instrumental: drives he engages with because protection and understanding sometimes require them, not because they call to him in their own right. He does not get out of bed to build systems, create new things, preserve institutions, win contests, or accumulate holdings. He gets out of bed to ease suffering — Mira's, Tam's, anyone's — and to understand the world well enough to do it effectively. Everything else in his life is in service to those two WHYs.
+
+This shape is also the shape of Xion's life. He is the heir to the most Merchant-coded institution in Balisha — a cartel built on accumulation, leverage, and the conversion of human need into power — and Merchant sits *dead last* in his motivational hierarchy. The boy born to inherit a Merchant empire has the drive for accumulation as the thing he will sacrifice before any other. Everything tragic about House Kemvimore flows from this single structural fact: the house was built by a man whose stack inverts his son's on the exact drive the house was organized around. The disinheritance in Book 2 is not a rupture. It is the formal acknowledgement of a paradigm mismatch that was already total at birth.
 
 ### Caretaker (Primary)
 
@@ -60,6 +64,16 @@ Institutional endurance and legacy rank low in Xion's motivational stack. He und
 Competition for its own sake provides Xion almost no satisfaction. He opposes his father's methods and challenges the cartel system, but this stems from his Caretaker instincts rather than any enjoyment of conflict. He would gladly avoid every confrontation if that would better serve people. When he does fight — stealing shadow funds, rolling up allies, confronting Ronas — it's reluctantly, with full awareness of the cost, and only when every other path has closed.
 
 **Shadow:** His distaste for competition means he consistently underestimates how others will respond when cornered. He expected Rosik to surrender after losing his wealth. He didn't account for what happens when an unflappable chess master has nothing left to lose. And because his deepest wound is *inaction* — because the boy who stood frozen swore he would never hesitate again — he is constitutionally incapable of the one thing that might have saved Melina: pausing long enough to consider that his father might not react the way he expected.
+
+### Merchant (Seventh)
+
+The drive for accumulation — for the expansion of holdings, influence, or control as an end in itself — is functionally absent from Xion's stack. This is the paradigm he will sacrifice before any other, and the one he is most viscerally repelled by. Where another heir might have looked at the Grain cartel and seen patrimony — wealth flowing in, networks tightening, the satisfying scoreboard of *more* — Xion looks at it and sees the architecture of his father's soul. The accumulation itself disgusts him. Not because he holds an ideological objection to wealth, but because he has spent his entire conscious life watching what the drive for *more* does to a person who has nothing else to balance it.
+
+The cleanest tell is the heist. Xion locates his father's shadow funds, executes a flawless multi-target strike, and seizes the majority of the Grain cartel's real wealth in a single night. A Merchant-anywhere-in-the-stack character would have felt *some* pull — to keep a portion, to deploy the leverage, to convert the windfall into ongoing position. Xion redistributes it immediately. The funds flow to rebuild destroyed districts. He retains nothing. The accumulation is, to him, simply not satisfying — not even slightly, not even in the moment of total tactical victory. He took it because Rosik used it as a weapon, and the only way to disarm the weapon was to give it away.
+
+The same instinct governs his choice of name. Offered a path of inheritance — Kemvimore wealth, Kemvimore networks, Kemvimore standing — he writes "Fen" in the margin of an administrative record. He chooses the name of an executed apothecary over the name of a founding house. This is the structural rejection of Merchant in its purest form: the deliberate exchange of accumulation for meaning.
+
+**Shadow:** Because Merchant sits this low, Xion systematically underestimates how powerfully the drive operates in others. He cannot intuit, from the inside, what Rosik actually wants. He understands his father's *methods* — he absorbed them in childhood — but the *engine* beneath the methods is foreign to him. He thinks Rosik will retreat with whatever gold he can carry, because in Xion's mental model, gold is fuel for some external purpose; once the purpose is denied, the gold becomes inert. But for Rosik, the accumulation *is* the purpose. Taking it from him isn't denying him a means. It's denying him a self. Xion's failure to model this is not a tactical error. It is a paradigm-level blind spot, and Melina pays for it.
 
 ---
 

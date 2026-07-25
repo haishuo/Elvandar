@@ -193,11 +193,11 @@ Three major river systems dominate Terinok's hydrology:
 
 #### The Thunder River
 
-- Western waterway forming part of the contested border with Balisha  
+- Southwestern waterway forming part of the contested border with Vartonne  
 - Characterized by dramatic waterfalls and rapids  
 - Significant hydropower utilized for metalworking facilities  
 - Deep gorges creating natural defensive positions  
-- Major trade route when relations with Balisha permit  
+- Major trade route when relations with Vartonne permit  
 - Sites of numerous historical battles at strategic crossing points  
 - Provides irrigation for western agricultural communities  
 - Several sacred pools associated with purification rituals before battle
