@@ -7,7 +7,7 @@ Uratha occupies a large region in the eastern portion of Elvandar:
 - **Northern Border**: The Scholar's River, a major waterway that defines the boundary with Gunastran
 - **Eastern Border**: The Azure Sea forms a natural boundary
 - **Southern Border**: A soft administrative transition into the northern reaches of the Erulian Principality (no major natural feature; the line is one of treaty rather than terrain)
-- **Western Border**: The Sentinel Mountains, the great north-south range that bisects Elvandar; across the Sentinels at Uratha's latitude lies the eastern edge of Vartonne
+- **Western Border**: The Sentinel Mountains, the great north-south range that bisects Elvandar; across the Sentinels lies the central Balishan region, and at the range's southern terminus the city of Kaha'an
 
 The landscape is remarkably diverse:
 
@@ -268,9 +268,9 @@ Despite emphasizing scholarship over martial prowess, Uratha maintains necessary
 
 ### Border Fortifications
 
-- **The Northern Bulwarks** \- Mountain fortresses along the Terinok border  
+- **The Northern Bulwarks** \- Fortresses guarding the Scholar's River line along the Gunastran border  
 - **Coastal Watchtowers** \- Observation posts along the eastern shore  
-- **The River Bastions** \- Defensive positions along the western border  
+- **The Mountain Bastions** \- Defensive positions in the Sentinel Mountains along the western border  
 - **The Southern Markers** \- More symbolic than militaristic boundary indicators  
 - All fortifications incorporate magical defenses alongside physical barriers  
 - Many double as research outposts, particularly those studying border regions  

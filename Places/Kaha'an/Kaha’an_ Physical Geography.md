@@ -547,8 +547,9 @@ The Balishan Desert is dwarfed by the great deserts of legend, but it does not n
 
 **Branches:** The Golden Path splits at key junctions:
 
-* **Western Route:** Main trade route to surviving cities  
-* **Northern Route:** Toward mountain settlements (dangerous, less traveled)  
+* **Western Route:** Main trade route toward Vartonne and the surviving cities of the former western provinces  
+* **Eastern Route:** Toward Erulius and the western marches of the Erulian Principality (the former eastern provinces)  
+* **Northern Route:** Toward the Sentinel passes and the mountain settlements beyond (dangerous, less traveled)  
 * **Coastal Route:** Following the shoreline (longer but more water access)
 
 **Economics:** Maintaining the Golden Path is expensive but essential. Without it, Kaha'an would be completely isolated. Trading houses cooperate on maintenance even while competing for profits.
@@ -588,9 +589,15 @@ But the bargain is asymmetrical, and it differs from what a sworn *old-blood* va
 
 **House Darfi, sworn to House Larannas (Water Cartel), is a canonical example.** Founded in the first few years post-Rending by a former Footman who walked out of the Wild Sands with a substantial cache, the Darfis swore to Tania Larannas's part of the Water Cartel apparatus within a few years of elevation. Their standing payment to Larannas: a daughter trained as an intelligence operative from a young age — Farleen Darfi, deployed across various Larannas assignments. The arrangement is exactly the kind of thing old blood would refuse and the kind of thing the Darfis cannot refuse. Several other Noble District families have similar quietly-acknowledged origins and similar quietly-extracted payments.
 
-But: **the mobility was bounded.** Refugee caches were modest in size. Even an excellent one was enough to buy one step up the ladder — slave to merchant, miller's son to lesser-noble, dockworker to comfortable craftsman — not two. **No great house was founded this way.** No cache was ever big enough to seat a hunter at the Coterie. The ceiling on cache-driven mobility was firm: you could buy your way into the Noble District's lower fringes, almost always under the sworn protection of an existing great house, but not into the cartel oligarchy itself.
+But: **the mobility was, with a single exception, bounded.** Refugee caches were modest in size. Even an excellent one was enough to buy one step up the ladder — slave to merchant, miller's son to lesser-noble, dockworker to comfortable craftsman — not two. Founding a *great* house on a desert find should have been impossible, and for all but one finder it was.
 
-This is the foundation that makes the Vault legend culturally credible. The lottery has paid out before. Everyone in the Surface Warrens or the working stretches of the Middle District knows somebody who knows somebody whose father walked out of the Wild Sands with a cache — the stories are not fabrications, the storytellers are not lying, the founder is often still alive and can be pointed to. What is *new* with the Vault legend is the implicit promise that the cache-driven mobility could be done at *Coterie scale*, not just sworn-lesser-noble scale. The Vault is the same machine the refugee-cache hunters worked with, scaled up by an order of magnitude. The people who believe it generally believe it because they have personally seen the smaller version work, within their own lifetimes.
+**The exception is Sa Ko Ren and the Iron Cartel.** In the earliest window there existed one hoard on a wholly different scale from the ordinary refugee cache — a great-house-sized fortune sitting in killing terrain, reachable only by someone with the skill to survive the Wild Sands. Sa Ko, a Terinok warrior arriving roughly a year after the Rending, was early enough and hard enough to reach it and walk out alive, and she founded Iron on it. It is the only instance in Kaha'an's history of a Wild Sands find seating its finder at the Coterie's table, and it happened exactly once, for reasons that cannot recur: the great cache was singular, it lay close enough to reach only in the first years before the desert was combed over, and Sa Ko took it. It is gone now *because* she took it — the one large apple within reach, bought, leaving only the modest ones and the far, doubtful one no one can get to.
+
+For everyone else, the ceiling on cache-driven mobility was firm: you could buy your way into the Noble District's lower fringes, almost always under the sworn protection of an existing great house, but not into the cartel oligarchy itself.
+
+This is the foundation that makes the Vault legend culturally credible. The lottery has paid out before. Everyone in the Surface Warrens or the working stretches of the Middle District knows somebody who knows somebody whose father walked out of the Wild Sands with a cache — the stories are not fabrications, the storytellers are not lying, the founder is often still alive and can be pointed to. And once, at the very top, the lottery paid out to Coterie scale: Sa Ko Ren founded a *great* house on a Wild Sands find. What is *new* with the Vault legend is the implicit promise that this can be done *again* and at that scale — the same machine, scaled up by an order of magnitude, still running out in the Deep Desert.
+
+It does not follow, and Sa Ko is exactly the example that misleads. Her fortune came from the *reachable* Wild Sands, in a window that has since closed, from a single great cache she long ago spent — not from the Deep Desert the legend describes, where no one returns whole. The Vault and Sa Ko's windfall are not the same machine at different scales; they are different places, different danger-classes, and one of them may not exist at all. Believers point to her and mistake a closed door for an open one. Most of them believe because they have personally seen the *smaller* version work within their own lifetimes; the great-house version they have seen exactly once, and it cannot be repeated.
 
 **On the Maps of the Wild Sands:**
 
@@ -759,21 +766,21 @@ It is a story for those with nothing left to lose, and even for them, it is a ba
 
 **Notable Ruins:**
 
-**The Buried City (West, \~150km):**
+**The Buried City (West, \~30km):**
 
 * Large town that was partially buried during the Rending  
 * Upper floors of buildings still visible above sand  
 * Extensively scavenged but still occasionally yields finds  
 * Dangerous (unstable structures, sand flows)
 
-**The Glass Gardens (Southwest, \~80km):**
+**The Glass Gardens (Southwest, \~15km):**
 
 * Former agricultural community  
 * Everything fused into glass during the Rending (instant heat)  
 * Eerily preserved (glass statues of people and animals)  
 * Avoided (disturbing, possibly cursed)
 
-**The Stone Pillars (North, \~200km):**
+**The Stone Pillars (North, \~40km):**
 
 * Unknown pre-Rending purpose (ritual site? monument?)  
 * Survived the Rending intact  
@@ -803,9 +810,9 @@ It is a story for those with nothing left to lose, and even for them, it is a ba
 
 **Known Oases:**
 
-* **The Red Pool (Northwest, \~120km):** Largest known oasis, permanent water, controlled by armed trading house consortium  
-* **The Hidden Spring (West, \~180km):** Secret location known only to certain caravan masters (sharing location means death)  
-* **The Bitter Wells (North, \~250km):** Multiple wells with drinkable (barely) water, neutral ground by mutual agreement
+* **The Red Pool (Northwest, \~25km):** Largest known oasis, permanent water, controlled by armed trading house consortium  
+* **The Hidden Spring (West, \~35km):** Secret location known only to certain caravan masters (sharing location means death)  
+* **The Bitter Wells (North, \~50km):** Multiple wells with drinkable (barely) water, neutral ground by mutual agreement
 
 **Characteristics:**
 

@@ -19,6 +19,8 @@
 
 Xion is outside the palace. Not dramatically barred — bureaucratically delayed. The Arol Batae guard is polite, professional, and immovable. Xion has been here before, probably yesterday, and the day before. The routine is settling into place.
 
+(**Ver'anar — do NOT introduce in Book 2 prose.** Decision during Ch1 drafting; see the structural note at the end of this file. The war-magic corps are *not* seeded as background in Book 2. Naming a faction the reader can't yet place reads as awkward exposition — they earn their introduction by appearing on screen, which happens in Book 3 (their first active role: the Lathion security detachment). Elara's not-thinking-of-them, and the eventual "why did she never call them" reckoning, still work when introduced fresh in Book 3. Nothing about Book 2 changes; simply leave them out.)
+
 Through brief internal reference, the reader learns the first week was different. Xion *was* inside those walls. He helped Elara navigate her first meetings with the Coterie, offered political context she lacked, felt useful and necessary. That's over now. Security protocols are formalizing. "Lord Kemvimore" has no official title, no position, no reason to be in the palace beyond the Empress's personal preference — and personal preference is losing ground to institutional procedure.
 
 Melina finds him. She's come from a council session — exhausted, frustrated, running interference between their father and the Empress. Through their conversation, the reader gets the political picture: the Coterie has assumed governance as the natural continuation of twenty years of ruling "in the Valanar name." Rosik has positioned himself as de facto Prime Minister. Elara proposes reforms; the Coterie objects; nothing moves. Melina delivers this not as a political briefing but as a sister who's tired and worried: "She proposes things that would take years. We propose things that would actually help people now. She rejects everything. Nothing gets done."
@@ -76,7 +78,9 @@ The moment shatters almost immediately. A messenger: "Rosik Kemvimore expects yo
 
 Farleen gives him a small smile. "Go," she says. "I'll still be here."
 
-The chapter ends on the summons. The reader has been hearing about Rosik through Melina for three chapters. Now they're going to meet him. But the reader also carries the kiss — stolen, interrupted, real — into everything that follows.
+**Closing coda:** In the days after the expulsion (before Chapter 5 shows the actual Rosik confrontation), Xion tries to reopen the Master Fen clinic — and learns within a morning that it can't work anymore. He isn't anonymous. He's Lord Kemvimore, the man who found the Empress, a face people now recognize on sight. A regular patient places him immediately; by afternoon a merchant is offering to sponsor the clinic for the reputational benefit of association — exactly the kind of attention the old, unplaceable Master Fen never drew. Xion takes the sign back down within the week. He keeps the rooms (his only remaining base, referenced again in Chapters 15 and 16) and keeps quietly treating whoever finds him by word of mouth, but the clinic as it operated in Book 1 is over. This is why the clinic sits "unattended" later in the book (Chapter 15) — not simple neglect, but the fact that fame broke the thing that made it work in the first place.
+
+The reader has been hearing about Rosik through Melina for three chapters. Now they're going to meet him. But the reader also carries the kiss — stolen, interrupted, real — into everything that follows.
 
 **Sets up:** The Rosik confrontation. The emotional contrast between Xion's expulsion from one power center and his summons to another. But also: Farleen's unmitigated win. The triangle now has genuine tension because the reader has *evidence* that Farleen isn't the obvious loser — she's the answer to a different question. "I'll still be here" is her thesis statement for the entire series.
 
@@ -109,7 +113,7 @@ Not a plea. An instruction with a deadline. The unspoken logic: *you* found her,
 **Characters present: Xion, Kael, Silvanno, Farleen**
 **Emotional work: Futility crystallizes into desperation**
 
-The week of the deadline. Xion throws everything at getting a message to Elara — a real message, not the sanitized pleasantries. Every channel fails. Kael's Iron cartel access can't override Arol Batae security. Silvanno coordinates intelligence but the Water cartel is watching everything. Farleen tries to pass messages through palace staff connections.
+The week of the deadline. Xion throws everything at getting a message to Elara — a real message, not the sanitized pleasantries. Every channel fails. Kael's Iron cartel access can't get past the palace's own disconnected administrative wings — impersonal bureaucratic architecture, not a guard he can bargain with. Silvanno coordinates intelligence but the Water cartel is watching everything. Farleen tries to pass messages through palace staff connections.
 
 They're fighting a system that wasn't designed to keep them out — it was designed to keep order, and Xion falls on the wrong side of "order." The bureaucracy isn't malicious. It's just functioning exactly as bureaucracies function: filtering, sorting, protecting the person at the center from unauthorized contact.
 
@@ -141,7 +145,7 @@ Melina is torn. She can see what her father is doing. She can see why he's doing
 
 ### Chapter 8: Dream Deferred (Interlude)
 **Timeline: ~Week 10 post-coronation**
-**Characters present: Kalden Erulius (one-time POV break)**
+**Characters present: Kalden Erulius (one-time POV break), the messenger, the spymaster (unnamed)**
 **Emotional work: Plant the dramatic irony that drives the rest of the book**
 
 Hard cut to the Erulian Principality. The only non-Xion POV in the book.
@@ -186,6 +190,8 @@ This is the greyest moment in the book. Rosik is *right* that his reform saved l
 Someone tries to kill Elara. Poison at a formal dinner. Professional. Nearly succeeds. She survives but is badly injured, unconscious for days.
 
 Xion hears about this from outside the palace — probably through Kael, who has the best access. The palace locks down. Chaos. Arol Batae investigating. Tania Larannas under suspicion because her servants prepared the dinner.
+
+The Ver'anar do not appear, and no one — Xion included — thinks to ask why. Poisoning at a state dinner is a matter for the Arol Batae and for whatever the law can prove; it doesn't rise to the tier of threat the war-magic corps has spent twenty years holding itself apart for, and Elara hasn't ordered them to do anything else. If Kael or Silvanno were the type to notice the gap, it might register as strange that Elara's own sworn battle-mages are nowhere near her the week she nearly dies — but no one in Xion's circle has reason to think of the Ver'anar as a live option, so the absence passes without comment.
 
 The reader knows from Chapter 8 that this is Kalden's doing. Xion and everyone in Kaha'an have no idea. And Xion's mind goes exactly where it would go: "Who benefits? Who has the resources? Who has the motive?" The answer, in his mind, is obvious: Rosik.
 
@@ -240,7 +246,7 @@ And she pushes back — not with anger but with belief: "Father can be reasoned 
 Xion knows people will die from what he's about to set in motion. The knowledge sits like lead in his chest. But the terrible arithmetic keeps coming back: if he does nothing, people suffer. If he acts, people suffer. The only question is which suffering he can live with.
 
 **Sets up:** The heist itself, and the moral weight that makes Melina's death devastating rather than merely sad. Her line about reasoning with Rosik — "you just have to find the right angle" — becomes unbearable after Chapter 15, because she died doing exactly what she said could be done. She went to find the right angle with one of Ronas's lieutenants. She believed deals could be made. Chaos doesn't negotiate.
-**Melina attachment work:** Her last substantial scene before death. The quality of unknowing farewell — not telegraphed, but in retrospect, the last time she was herself: hopeful, sharp, believing in the system that was about to kill her.
+**Melina attachment work:** Her last major meeting-spot scene — but *not* her final appearance. She returns for one more living scene in Chapter 14, where she resolves to negotiate and parts with "Same time next week?" The quality of unknowing farewell belongs most sharply to that Chapter 14 exit — hopeful, sharp, believing in the system that was about to kill her.
 **Thematic work:** Melina's death kills the transactional worldview. After her, nobody can believe the old system's logic still applies. Book 3 cannot be about negotiation. It must be about open war. Her death is the escalation point — not just for this book's plot, but for the series.
 
 ---
@@ -266,16 +272,18 @@ He did it anyway. Because there was no other way.
 
 ### Chapter 14: Miscalculation
 **Timeline: Week 18 post-coronation**
-**Characters present: Xion (and Rosik, at a distance)**
+**Characters present: Xion, Melina, Kael, Silvanno, Farleen (Rosik offscreen throughout — his turn to chaos is inferred from the violence, never shown)**
 **Emotional work: The model breaks — Xion discovers his father has a mode he's never seen**
 
 Xion expects surrender. His entire model of Rosik is the unflappable chess master — cold, strategic, always calculating the optimal move. A man who's lost his economic base, whose coalition is fracturing, who has no remaining leverage, should do what rational actors do: negotiate the best exit available.
 
 But Xion has never seen his father desperate. He doesn't know what happens when the Competitor runs out of moves and refuses to concede. He doesn't understand that Rosik's identity — the man who wins, the man who solves it, the man who is always the most capable person in the room — cannot survive surrender. Surrender means being wrong. Being wrong means the last twenty years were a lie. The work that kept the grief at bay was pointless. The locked room with the portrait opens.
 
-Rosik chooses chaos. "The leash is off. Use whatever means necessary."
+Xion never witnesses the decision. Through scattered, strategically senseless violence in the Surface Warrens — reported by Kael's Iron contacts, Silvanno's channels, and Farleen — he slowly, sickeningly infers that his father, whom he has never once seen desperate, has abandoned strategy entirely. The reader infers Rosik's off-page order ("the leash is off, use whatever means necessary") alongside him. Ronas's less-controlled lieutenants begin operating independently; the city destabilizes.
 
-Ronas's less-controlled lieutenants begin operating independently. The city begins to destabilize.
+Melina appears here for the **last time alive**. Horrified by the violence but certain the transactional world still functions, she resolves to go negotiate with Ronas's people herself ("there's always an angle"). Xion argues against it and cannot land it — his own certainty about Rosik has just shattered, and hers hasn't. They part on an ordinary note: *"Be careful." / "I always am, brother… Same time next week?"* That line pays off directly in Chapter 15.
+
+Cartel-funded muscle running loose in the Warrens is a civil order problem, not an existential one — precisely the kind of thing that has never been the Ver'anar's jurisdiction, and still isn't. This is a Coterie failure, to be answered by Coterie means (or, as it turns out, by Xion). No one calls for the war-magic corps because no one — including Elara — has yet had reason to think of them as an answer to anything.
 
 **Sets up:** Melina's death. The reader should feel the gears turning and not be able to stop them.
 
@@ -286,7 +294,7 @@ Ronas's less-controlled lieutenants begin operating independently. The city begi
 **Characters present: Xion (and Melina — but only in memory after this)**
 **Emotional work: The cost arrives, and it has a name**
 
-**Critical structural device:** Across the preceding chapters, Xion and Melina have established a rhythm — a regular meeting, same place, same time. Maybe every third day, maybe weekly, but consistent enough that it has become a fixture. The reader has experienced this meeting point repeatedly across six chapters. It's where the political updates happen, where the sibling relationship lives, where the reader has come to expect Melina. The routine is comforting in its predictability in an unpredictable world.
+**Critical structural device:** Across the preceding chapters, Xion and Melina have established a rhythm — a regular meeting, same place, same time. Maybe every third day, maybe weekly, but consistent enough that it has become a fixture. The reader has experienced this meeting point repeatedly across seven chapters. It's where the political updates happen, where the sibling relationship lives, where the reader has come to expect Melina. The routine is comforting in its predictability in an unpredictable world.
 
 Xion arrives at the usual place. The usual time.
 
@@ -308,7 +316,7 @@ No. No, this isn't happening.
 
 The lieutenant killed her mid-sentence. Not because she threatened him. Because the leash was off and he could. Chaos doesn't negotiate.
 
-The reader has been meeting Melina at this same spot for half the book. They knew she was never late. They knew before the messenger arrived. The pattern — the comforting, predictable, reliable pattern — broke, and the reader felt the break in real time alongside Xion, in the silence of the empty meeting place before anyone said the words.
+The reader has been meeting Melina at this same spot for half the book. They knew she was never late. They knew before the messenger arrived. The pattern — the comforting, predictable, reliable pattern — broke, and the reader felt the break in real time alongside Xion, in the silence of the empty meeting place before anyone said the words. The single load-bearing textual echo is Melina's own last line from Chapter 14 — *"Same time next week?"* — which returns here uncredited, dropped into the empty square with no attribution. The reader remembers who said it. That's the whole mechanism.
 
 The causation chain is unbearable: Xion stole the shadow funds → Rosik was desperate → Rosik unleashed Ronas → Ronas's lieutenant killed Melina. Xion accepted people would die. He just never imagined the mathematics would include his sister.
 
@@ -341,6 +349,8 @@ But he doesn't. Not because he can't form the words, and not because he agrees w
 
 Xion's silence is the first act of the new Xion — the one who can read his father's methods clearly enough to refuse to play. He absorbs the blow. He walks away with nothing but his medical bag. And the reader understands that this silence is different from the silence at Mira's grave. The fifteen-year-old was frozen by fear. The twenty-something is choosing not to engage because engaging is what Rosik wants. A quiet victory inside a devastating loss.
 
+**The tell (Book 7 seed — the assassin under the administrator):** Somewhere in this confrontation — Rosik at his most stripped-down, daughter dead, empire crumbling, and *still* not breaking — Xion glimpses, for a half-second, something under his father's unbroken control that he has never consciously named. Not the administrator. Not the Lord of the Grain. A stillness that isn't managerial but *predatory* — the sense that this man could end him where he stands, with his own hands, and feel nothing doing it. It passes. Rosik is composed again, cold and verbal and tactical. But Xion never quite un-sees it, and neither does the reader. **Purpose:** Book 1 never links Rosik to the Long Knives or reveals he can personally kill; Book 7's climax ("the Long Knife returns") needs the reader to already believe Rosik is physically lethal. This is the *only* seed of that — and it is deliberately just the lethality. Do NOT name the Long Knives, the assassin's guild, or the Mistress-as-his-mother here; that backstory is Book 7's reveal to spend, not this book's. Keep it to a flicker Xion can't explain. (See Rosik Kemvimore profile, "Origins in Shadow" and Book 7 sections.)
+
 **Part Two: The Cold**
 
 This is the part that frightens his friends. After the disinheritance — after absorbing Rosik's blade and walking away with nothing but his medical bag — Xion does not break down. He does not freeze. He does not sit in the wreckage and process.
@@ -359,7 +369,7 @@ Farleen watches this happen. She is the one who sees it most clearly, because sh
 
 ### Chapter 17: Leverage
 **Timeline: Week 20 post-coronation**
-**Characters present: Xion, Ronas**
+**Characters present: Xion, Ronas (Farleen briefly, at the opening)**
 **Emotional work: Xion weaponizes empathy — the moral cost made visible**
 
 The chapter opens with Xion already in motion — and the reader should feel the *absence* of a seam. There was no dramatic decision to act. No moment of resolve. The cold from Chapter 16 didn't thaw into determination. It simply continued forward, because the cold is what moves now. The grief is locked somewhere he can't reach it, and what's left is the machinery his father gave him, running at full capacity with nothing in the way.
@@ -373,6 +383,8 @@ Ronas tests him: "You telling me to take *your* side, boy?" Xion doesn't take th
 Then the kill shot — and it works because it's *respect*, not manipulation. Xion genuinely saw the Warrens. He genuinely recognizes what it takes to survive down there: "Before you were a member of the Coterie, before all of this, you were a *survivor*. I saw that first-hand when I went down into the Warrens." Ronas: "What you saw? It was FAR from the worst of that place." Xion: "Oh I know. But even with what little I saw, I could tell — you didn't get to where you are by being soft. Or stupid. Rosik, right now, is sitting in his mansion, sipping wine, and *laughing* at you while you and yours are bleeding for him. Do you see *him* out here bleeding? No? Didn't think so. So why do what he tells you? You don't look like the type who fetches. You're the toughest sonofabitch I've ever seen."
 
 Ronas *laughs*. Actually laughs — and while crude, the laugh is genuine. "Alright, ya got me there kid."
+
+**The warning, surfaced (Book 6 seed — do not cut):** Somewhere in this exchange, Ronas references — bitterly, unprompted, in his own blunt register — that he *told* Rosik what taking the leash off would mean. That the wildfire couldn't be recalled once it was unchained. That Rosik didn't want to hear it. This is not a plea for sympathy; it's Ronas naming the fact that the man giving orders understood the system worse than the man following them. For Xion, it's one more confirmation that Rosik doesn't grasp what he's unleashed. For the *series*, it's load-bearing: Book 6's Act III ("Ronas's Last Warning") depends on the reader remembering that Ronas warned Rosik here and was right. Rosik stays off-page all book — so this reported warning, delivered through Ronas, is the only place the moment can live. Keep it. (See Ronas Dermir profile, Book 2 section; Book 6 outline, Act III.)
 
 Ronas doesn't explicitly say he's backing down. There's no handshake, no terms, no negotiated stand-down. But the Slavers retreat to the Warrens and stop acceding to Rosik's demands. The chaos begins to stabilize. The damage is done.
 
@@ -488,7 +500,7 @@ The book ends on this image: two people at a low wall in a quiet square, one of 
 **Chapter count:** 20 (reduced from 22 in previous outline)
 **Why the reduction:** Eliminated standalone Elara POV chapter (content folded into bedchamber reunion). Combined several thin chapters from the middle section where events can be compressed.
 
-**Melina appearances:** Chapters 1, 3, 5, 7, 9, 12 — six appearances before her death in Chapter 15. She is present in roughly a third of the book before she dies. Her role as primary information conduit makes these appearances organic rather than forced.
+**Melina appearances:** Chapters 1, 3, 5, 7, 9, 10, 12, 14 — eight appearances before her death in Chapter 15 (Ch. 10 is the assassination aftermath; Ch. 14 is her final living scene, ending on "Same time next week?"). She is present in roughly two-fifths of the book before she dies. Her role as primary information conduit makes these appearances organic rather than forced.
 
 **The meeting rhythm:** Xion and Melina establish a regular meeting — same place, same time, recurring across the book. This rhythm is comforting in its predictability and becomes a structural fixture the reader relies on. When Chapter 15 opens with Xion arriving at the usual place and Melina not being there — and not being there, and *still* not being there — the reader's own pattern breaks before the messenger arrives. The absence is felt before it is explained. This is the single most important structural device for making Melina's death land as a gut punch rather than an intellectual event.
 
@@ -500,8 +512,10 @@ The book ends on this image: two people at a low wall in a quiet square, one of 
 
 **The "two wolves" theme:** The title pays off in Xion's arc. He feeds the wolf that fights — weaponizes empathy, deploys his father's methods, accepts the cost of destruction. He *wins*. But the wolf he fed consumed things he can't get back. Melina. His family name. His sense of himself as someone fundamentally different from Rosik. The bench answers the question the book has been asking: was there ever another wolf to feed? Yes. The one that breaks. The one that sits down and misses his sister. The one Rosik would never feed. The cold was the wrong wolf. The bench is the other one.
 
-**The low wall (Chapter 20 final beat):** The meeting spot — the low wall, the quiet square — has been physically established across Chapters 1, 3, 9, 10, 12. Xion always arrives first. Melina always comes from the estate direction. The reader's body knows this rhythm. After Melina's death, Xion *actively avoids* the spot — taking different routes, never going near the quiet square. This avoidance is the geography of denial, and the reader should notice it across Chapters 16-19 even if Xion never names it. When his feet finally take him there in Chapter 20 — because the avoidance fails, because his body remembers what his mind won't — the cold breaks. Chapter 15 tells him she's dead. The avoidance is him refusing to believe it. Chapter 20 is when his body overrides the refusal. And Farleen finding him there — the silent arrival, the arms around him, the shoulder to cry on — pays off "I'll still be here" from Chapter 4 without a single word spoken. The book's final image is two people at a low wall: one broken open, the other holding him.
+**The low wall (Chapter 20 final beat):** The meeting spot — the low wall, the quiet square — has been physically established across Chapters 1, 3, 7, 9, 10, 12, 14. Xion always arrives first. Melina always comes from the estate direction. The reader's body knows this rhythm. After Melina's death, Xion *actively avoids* the spot — taking different routes, never going near the quiet square. This avoidance is the geography of denial, and the reader should notice it across Chapters 16-19 even if Xion never names it. When his feet finally take him there in Chapter 20 — because the avoidance fails, because his body remembers what his mind won't — the cold breaks. Chapter 15 tells him she's dead. The avoidance is him refusing to believe it. Chapter 20 is when his body overrides the refusal. And Farleen finding him there — the silent arrival, the arms around him, the shoulder to cry on — pays off "I'll still be here" from Chapter 4 without a single word spoken. The book's final image is two people at a low wall: one broken open, the other holding him.
 
 **The Rosik-Xion grief parallel:** Rosik lost his wife. The estate went from home to gallery. He locked the grief in a room with a portrait and spent twenty years not breaking. Xion loses his sister and goes cold in the same way — frightening operational efficiency, Rosik-like precision, grief locked away. His friends see the parallel. The reader sees the parallel. The question through Chapters 16-20 is: will he become his father permanently? The bench is the answer. He breaks. Rosik never did. That capacity to break — to sit in public and fall apart, to let the cold shatter, to be a brother instead of a machine — is the fundamental difference between father and son. It is the proof that the inheritance is incomplete. Rosik's methods were borrowed. Rosik's grief architecture was not.
+
+**The Ver'anar (CUT from Book 2 — introduce on screen in Book 3):** See [The Ver'anar_ Balisha's War-Magic Corps.md](../Places/Kaha'an/The%20Ver'anar_%20Balisha's%20War-Magic%20Corps.md) for full lore. **Decision (made during Ch1 drafting):** the corps are **not** seeded as background across Book 2. The original plan was to plant them as unremarked, publicly-known background so their conspicuous *absence* during the assassination (Ch10) and the Ronas chaos (Ch14+) would pay off in Book 3 — but in practice, naming a faction the reader has no way to place reads as clumsy exposition (it tripped the Ch1 draft). Per the project rule *earn the introduction on screen*, they are introduced properly in **Book 3**, when they take their first active role (the Lathion security detachment). Book 2's plot, causation chain, and character beats are unaffected either way: neither the assassination nor the Ronas chaos rises to the existential/strategic tier that is the Ver'anar's actual mandate (that's Arol Batae and civil-law territory), and Elara — raised by the Arol Batae — never thinks to call them. The Book 3 payoff (the reckoning over why she never used them) still lands with a fresh Book 3 introduction. **Bottom line: keep the Ver'anar out of Book 2 prose entirely.**
 
 **Farleen's win — the first kiss (Chapter 4):** The first real on-screen kiss in the series belongs to Farleen, not Elara. This is deliberate. The pastry gesture — small, recurring, established across Chapters 2-4 — breaks through at the moment of Xion's expulsion, when accumulated kindness becomes undeniable. The kiss is interrupted by Rosik's summons, making it stolen and unfinished, and Farleen's "I'll still be here" becomes her thesis statement. This gives the triangle genuine tension: the reader has evidence that Farleen isn't the wrong answer, she's the answer to a different question. When Xion eventually chooses Elara, the reader remembers the pastry, the kiss, and the line — and feels what's being given up. Every subsequent Farleen scene (Ch 16's silence after Melina, Ch 20's final image) now carries romantic weight, not just loyal friendship. The book's last image — Farleen finding Xion at the low wall, sitting down, holding him without a word — is the silent payoff of "I'll still be here." She said it in Chapter 4. She proved it in Chapter 20. Book 1's cheek-kiss was cover-story Farleen. This is real Farleen.

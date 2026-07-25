@@ -2,7 +2,7 @@
 
 **Narrative Engine:** Balisha's treasury is nearly depleted from the shadow war in Book 2. Xion distributed the stolen shadow funds to rebuild districts Ronas destroyed and compensate victims — morally right, practically ruinous. The kingdom needs money, resources, or something of extraordinary value, fast.
 
-**POV:** Primarily Xion, with deliberate cuts away for scenes he can't witness (Gunastran Consortium, possibly Kalden). Same principle as Book 2: minimize POV breaks, make them count when they happen.
+**POV:** Primarily Xion, with deliberate cuts away for scenes he can't witness (Gunastran Consortium in Ch11, Kalden in Ch15). Same principle as Book 2: minimize POV breaks, make them count when they happen.
 
 **Opens:** Shortly after Book 2's conclusion. Weeks, not months. The scars are fresh. Melina is recent. The disinheritance is raw. The hollow victory is the air Xion breathes.
 
@@ -183,11 +183,11 @@ The Scholar-King arrives in Kaha'an. The dispatches sent during the exploration 
 
 Uratha's original position was "help you open the door in exchange for you stopping the Crown demands." That deal was struck in ignorance of what lay behind it. Now Uratha knows, and the position reverses dramatically.
 
-New offer: Uratha will *return* the Scholar's Crown to Balisha — something Elara's predecessors demanded in vain for 300 years — in exchange for expanded, permanent research access to Lathion.
+New offer: Uratha will *return* the Scholar's Crown to Balisha — something Elara's predecessors demanded in vain for 300 years — in exchange for **exclusive** research access to Lathion (no other foreign body; this exclusivity is what later locks Gunastran out, and it is load-bearing for the war). Notably, Vrek comes in person but does *not* bring the Crown — hauling it across a continent before any agreement would presume acceptance, which is poor statecraft. The deal is struck first; the Crown is then sent for from the Ivory Tower and arrives weeks later, for the ceremony.
 
 The Crown for the City. The reader should feel the weight of this: a divine artifact returned after three centuries of refusal. Something every Balishan ruler failed to achieve, and Elara accomplished it by finding something Uratha wanted more.
 
-Xion negotiates the terms — sovereignty over Lathion stays with Balisha, artifacts stay in Lathion, Urathan scholars get research access under Kaha'ann authority. The scene is Xion doing what he does best: reading people, finding the angle, protecting Balisha's interests while giving the Urathans enough to keep them committed.
+Xion negotiates the terms — sovereignty over Lathion stays with Balisha, artifacts stay in Lathion, Urathan scholars get *exclusive* research access under Kaha'ani authority. The scene is Xion doing what he does best: reading people, finding the angle, protecting Balisha's interests while giving the Urathans enough to keep them committed.
 
 Xion notes the Urathans' hunger — Provost Venn's intensity, the Scholar-King's eagerness to finalize terms. He reads it as academic ambition — the opportunity of a millennium for a nation of scholars. A reasonable interpretation. The correct one would be unthinkable.
 
@@ -196,7 +196,7 @@ Xion notes the Urathans' hunger — Provost Venn's intensity, the Scholar-King's
 ---
 
 ### Chapter 10: Awakening
-**Timeline: The ceremony**
+**Timeline: The ceremony — weeks after the Ch9 deal, once the Crown completes its journey from Uratha**
 **Characters present: Xion, Elara, assembled court, Urathan delegation**
 **Emotional work: Wonder and legitimacy**
 
@@ -234,7 +234,9 @@ The reader should understand, even sympathize with, this decision. Nadira Vex is
 **Characters present: Xion, Elara, Kalden's envoy**
 **Emotional work: A genuinely good offer that happens to come from someone with terrible motives**
 
-Prince Kalden sends a marriage proposal. Not through back channels — formal, diplomatic, carrying the full weight of the Erulian Principality.
+The chapter opens on a **cold open**: a Gunastran delegation formally requests access to Lathion, and Elara refuses — treaty-bound by the Uratha exclusivity compact, she declines without a second thought, not knowing the refusal is a fuse (the reader, fresh from Ch11, does). Then the main event.
+
+Prince Kalden sends a marriage proposal — and, critically, he sends it in **secret**. Not a formal delegation on the record: a single confidential envoy, a sealed personal missive, deliberately off the diplomatic ledger. Kalden is double-gaming Gunastran (who has just approached him) — a public proposal would expose that he is courting the enemy, so it stays hidden. Xion registers the secrecy itself as information: a proposal this large, delivered this quietly, is one its author is hiding from someone (he cannot yet say who).
 
 The critical thing the reader must understand: this is genuinely good geopolitics. Marry Kalden, and the Erulian Principality — the strongest member of the forming Compact — switches sides. Without Erulius, there is no Compact. Without the Compact, there is no war. One marriage prevents a continental conflict.
 
@@ -253,17 +255,13 @@ Xion hears the proposal and understands the math immediately. The healer who rea
 **Characters present: Xion, Elara, (Farleen peripherally)**
 **Emotional work: The love triangle resolves — and starts a war**
 
-Elara confronts Xion privately. The ultimatum isn't cruel — it's honest. She needs to know. If Xion won't commit, if his feelings for Farleen remain unresolved, then the political marriage to Kalden is the responsible choice. She will not pine. She will not wait. She is an Empress, and empresses make decisions.
+Elara flips the board. Instead of deciding the Kalden question herself, she puts the choice in **Xion's** hands — to his shock. *"Enough. Pick one of us."* Crucially, she does NOT say the Kalden clause aloud; the *timing* says it. The answer to Kalden is due, and she makes this demand now — so Xion, too smart to miss it, hears the whole sentence in the half she spoke: if he does not choose her, she has no reason left to refuse Kalden. She refuses to keep him by default; she wants to be chosen, not settled for.
 
-"Pick one of us, or I'm marrying Kalden for political reasons."
+Then **Farleen makes her final play** — the one time in the series she argues for herself, not just shows up: *you don't owe them the rest of your life* / *is a small life with me so bad?* She offers him the road not taken (Master Fen again, the clinic, a small happy life). Xion is genuinely torn.
 
-Xion chooses Elara.
+Then the **cut**. We do not see him decide. Next morning, a wide-shot reveal: Xion approaches the throne in a **closed audience** (the Erulian envoy present, no public court, because the proposal was secret), his face settled but his choice withheld from the reader until the last second — the Hell's Kitchen pause. He chooses Elara. The refusal to Kalden is carried back **privately**. He chose love over the mathematically optimal outcome, knowing it means the war; they both know it, and they do it anyway.
 
-The weight of this choice should land on the reader. Xion is choosing love over the mathematically optimal political outcome. He's choosing personal happiness over preventing a continental war. He KNOWS this. Elara knows it. They both know that saying yes to each other means saying no to peace.
-
-And they do it anyway. Because sometimes the personal is political, and sometimes the political is personal, and sometimes there is no way to serve both.
-
-Farleen learns. The book doesn't dwell on her pain — it respects it. She channels everything into the intelligence network, into protecting what she cannot have. Her arc in this book is about transformation: from romantic rival to something more durable and ultimately more important.
+Farleen's aftermath is not staged as breakdown: one gesture, then she goes to work — pulling on her intelligence network, protecting what she cannot have. Her arc is transformation: from romantic rival to something more durable and ultimately more important.
 
 **Sets up:** Kalden's reaction, the Compact formation, everything that follows.
 
@@ -274,7 +272,7 @@ Farleen learns. The book doesn't dwell on her pain — it respects it. She chann
 **Characters present: Xion, Elara, Vartonne's envoy**
 **Emotional work: The intervention designed to prevent the Compact helps complete it**
 
-Elara's rejection of Kalden's proposal has been dispatched. There is a window — days, perhaps a week — before it arrives. Xion recognizes it immediately. They just insulted Kalden. They need to move fast to build their own alliance before the Compact solidifies. And Vartonne — the old imperial capital, obsessed with dynastic propriety — should respond well to the Valanar name.
+Elara's (private) rejection of Kalden is on its way back with his envoy. There is a window — days, perhaps a week — before it reaches him. Xion recognizes it immediately: they have made an enemy of Kalden, and need their own alliance before the forming coalition solidifies. He weighs Terinok — the only real army — and sets it aside: unwinnable in the time he has (four centuries of Valanar failure, and Terinok already rents its swords to Erulius). So he takes the safer bet: Vartonne — the old imperial capital, obsessed with dynastic propriety — which should respond well to the Valanar name. (It is the path of least resistance, which is exactly why its failure will cut so deep.)
 
 Sound strategic advice. Elara agrees. The envoy is invited.
 
@@ -303,9 +301,11 @@ The envoy returns to Vartonne and reports with complete sincerity that the Balis
 **Characters present: Kalden (full POV — second and final POV break in Book 3), senior advisor, spymaster**
 **Emotional work: The pattern repeats at a larger scale — patient man, clean wound, cold impulsive action**
 
-This is a full Kalden POV chapter — the second deliberate POV break in Book 3, after the Gunastran interlude in Chapter 9. It exists because Kalden is a major series antagonist across seven books, and this is the moment his defining flaw runs its course for the second time. The reader needs to be inside his head when it happens.
+This is a full Kalden POV chapter — the second deliberate POV break in Book 3, after the Gunastran interlude in Chapter 11. It exists because Kalden is a major series antagonist across seven books, and this is the moment his defining flaw runs its course for the second time. The reader needs to be inside his head when it happens.
 
 **Characterization note:** Kalden in Book 3 is still the composed, well-resourced man — the physical and political deterioration is all ahead of him. His reaction mirrors Book 2's assassination order in *register*, not intensity. He does not rage. He does not throw things. He goes still. The same cold stillness from Book 2 Chapter 8: the patient strategist obliterated, replaced by something colder. The escalation is in *scale* — assassination order then, military alliance now — while the manner stays identical. That consistency is what makes the pattern legible across books.
+
+**The chapter runs in two movements.** *Movement 1 (before the refusal even lands):* Kalden's fast intelligence outruns Elara's unhurried ceremonial courier, and he learns Balisha has just publicly insulted Vartonne. He recruits Vartonne HIMSELF, on-screen — because he alone among the coalition speaks their language (a fellow dispossessed heir, not Gunastran's cold industry). His method: convert the insult into a strategic forecast (*today your dignity, tomorrow your sovereignty*) and frame the war-pact as pure defense (*we have no wish for war / nor do I / that is why I propose an alliance*). It is sincere *and* manipulative at once — he genuinely shares the wound of dispossession (his own claim died to the same Balisha), which is what makes it land — while a defensive pact also costs him nothing with his own marriage bid still pending. *Movement 2 (the refusal arrives):*
 
 Elara's rejection arrives. Kalden reads it. Diplomatic, respectful, final.
 
@@ -337,7 +337,7 @@ The chapter closes on Kalden — still composed, still in possession of everythi
 
 The Tripartite Alliance needs a third member. Balisha and Uratha have technology but lack military might for a continental war. Terinok — the warrior cantons that broke away 400 years ago, declaring a Valanar emperor unworthy of their swords and extending that judgment to his line until proven otherwise — has the fighters.
 
-This is no longer a nice-to-have. With Vartonne in the Compact rather than neutral, the Alliance faces a military gap it cannot cover with Lathion technology alone. Every Valanar ruler since the schism sent diplomats. Every diplomat was laughed out. This cannot fail.
+This is no longer a nice-to-have. With Vartonne in the Compact rather than neutral, the Alliance faces a military gap it cannot cover with Lathion technology alone. And there is a bitter symmetry: Xion chose Vartonne first *precisely because* Terinok looked unwinnable — the safe bet not only failed, it defected, so now he must win the hard prize anyway. Terinok is not merely aloof; it is **contested** — the Compact has been courting it through Erulius (whose Aspirant Guard is Terinok-trained), and Terinok held out only on its own proud independence. Every Valanar ruler since the schism sent diplomats; every diplomat was laughed out. This cannot fail.
 
 Elara arrives already running hot. The Vartonne expulsion is recent; the Compact signing is recent; the war she and Xion chose each other into is no longer abstract. The Terinok mission lands in front of a woman already primed — and for once, running hot is exactly the right posture.
 
@@ -403,10 +403,10 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 
 ## Structural Notes
 
-**Chapter count:** 18 (expanded from original 17 — the Lathion exploration now occupies three chapters: Ch 6 "The Naming," Ch 7 "The Repository," Ch 8 "The Destiny Engine," with the Engine moved from its original late-book position to the natural end of the exploration phase.)
+**Chapter count:** 18 (expanded from original 17 — the Lathion exploration now occupies three chapters: Ch 6 "Inhabitants," Ch 7 "The Repository," Ch 8 "The Destiny Engine," with the Engine moved from its original late-book position to the natural end of the exploration phase.)
 **Why the restructure:** The Destiny Engine's original placement (Ch 14) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 8 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Lathion mid-crisis.
 
-**POV:** Primarily Xion with one deliberate cut to Gunastran (Chapter 11). This mirrors Book 2's structure (one Kalden interlude). The Gunastran scene works the same way — it plants dramatic irony. The reader knows war is coming; Xion and Elara don't yet know the Compact exists when they're resolving the love triangle.
+**POV:** Primarily Xion, with two deliberate POV breaks: Gunastran (Chapter 11) and Kalden (Chapter 15). This mirrors Book 2's use of rare, load-bearing interludes. The Gunastran scene plants dramatic irony: the reader knows Gunastran has committed to war; Xion and Elara can see only that a coalition is *forming*, not how far it has already gone, when they resolve the love triangle.
 
 **Kalden's proposal as good geopolitics:** This is critical. The reader must feel the weight of refusing Kalden. If the proposal is obviously a trap, refusing it is easy and cost-free. If it's genuinely the best political option — which it is — then refusing it for personal reasons carries genuine moral weight. Xion and Elara chose each other over preventing a war. That's not heroic. It's human. And it has consequences.
 
@@ -414,7 +414,7 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 
 **Tone shift from Book 2:** Book 2 was claustrophobic, dark, focused on political maneuvering in a single city. Book 3 opens up — literally (Uratha, Lathion, Terinok) and figuratively (from city politics to continental geopolitics). The wonder of Lathion provides genuine uplift after Book 2's darkness. But the wonder has teeth — every discovery makes war more likely.
 
-**The love triangle resolution:** Happens at the structural center of the book (Chapters 10-11), not at the end. This is deliberate. The resolution isn't the climax — the *consequences* of the resolution are the climax. Choosing Elara doesn't end the story. It starts the war.
+**The love triangle resolution:** Happens in Chapter 13 — past the midpoint, not at the end. This is deliberate. The resolution isn't the climax — the *consequences* of the resolution are the climax. Choosing Elara doesn't end the story. It starts the war.
 
 **Seeds for future books:**
 - **Book 4:** Compact War begins, Uratha attacked

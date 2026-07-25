@@ -12,7 +12,11 @@ Because Silvanno's defining trait isn't his easy confidence or his Water cartel 
 
 ## Paradigm Analysis
 
-**Caretaker → Truth Seeker → Engineer → Spirited Competitor → Founder → Creator**
+**Caretaker → Truth Seeker → Engineer → Spirited Competitor → Founder → Creator → Merchant**
+
+Silvanno is structurally parallel to Xion at the paradigm level: a *Caretaker primary heir to a Merchant-coded cartel who rejects the engine entirely*. Where Xion is heir to Grain (Rosik, Merchant primary) and built a counter-clinic, Silvanno is heir to Water (Tania, Founder primary running a Merchant-coded monopoly) and built a reform group. Both are the children of cartel heads whose own stacks place Merchant at the bottom — and in Silvanno's case, the rejection is even sharper than Xion's, because Silvanno's mother is institutionally smoother than Rosik. Tania is *easier* to inherit from than Rosik. Silvanno still chooses not to.
+
+He shares Truth Seeker secondary with Kael, which is what makes their partnership in Xion's reform group functional — they trust each other's accurate perception of reality even when their primaries diverge sharply. Silvanno acts on relational loyalty; Kael acts on diagnostic understanding; but they both refuse to soften reality, which is the common ground.
 
 ### Caretaker (Primary)
 
@@ -64,9 +68,19 @@ But he doesn't think in terms of legacy or institutional endurance for himself. 
 
 ### Creator (Sixth)
 
-The text provides no evidence of creative or expressive drive in Silvanno. He doesn't make things. He doesn't envision. His humor is reactive and warm, not performative or artistic. This is his lowest paradigm — the one he would sacrifice for any of the others.
+Very low, but not absent. Silvanno doesn't make things or envision new structures, and his humor is reactive rather than performative. Whatever Creator capacity exists in him is subsumed in his improvised acts of friendship — finding new ways to be present, inventing tactical moves around political constraints in Book 2, devising the communication protocols that let the reform group operate. He creates *small workarounds* in service of Caretaker, but nothing he would describe as creative work.
 
-**Shadow:** Minimal. He simply doesn't operate in this space.
+**Shadow:** Minimal. He doesn't operate in this space and shows no impulse to develop it.
+
+### Merchant (Seventh)
+
+Silvanno's lowest drive, and structurally important. He is the *primary heir* to the Water cartel — one of Kaha'an's most powerful Merchant-coded institutions, whose entire operation runs on accumulation through artificial scarcity. He has every cultural advantage and every institutional pathway available to absorb the Merchant engine. His mother is fluent in it. The cartel is *his* eventually, by birthright. And he wants none of it.
+
+This is the rejection-of-inheritance pattern that makes him structurally Xion's twin in the reform group. Both are Caretaker-primary children of cartel heads with Merchant near the bottom of their stacks. Both look at the cartel system that made them privileged and see the people the system grinds up. Both choose the harder road of working against family interest rather than the easier road of inheriting smoothly. Xion's rejection is sharper because Rosik is sharper; Silvanno's is quieter because Tania is quieter. The underlying paradigm geometry is the same.
+
+The "they deserve a system that doesn't grind them up in the first place" line from Chapter 2 is, in framework terms, the moment Silvanno's Merchant-bottom shows itself most clearly. A character with any meaningful Merchant pull could rationalize the cartel system as the necessary cost of order, or could find a way to inherit and reform from within, or could at least feel the seduction of the position before rejecting it. Silvanno does none of that. The Water cartel is not, for him, a tempting inheritance he must morally refuse. It is something foreign to his actual drives. The rejection requires no struggle, because the appetite was never there.
+
+**Shadow:** Because he has no Merchant pull, he has no instinct for accumulating positional leverage of his own. His Book 2 constraint is operational reality, but he hasn't built defensive accumulations that might mitigate it — no parallel resources, no political reserves, no leverage he could deploy independent of his mother's standing. His loyalty operates entirely through Caretaker, with no Merchant scaffolding underneath. If his mother were to actively turn against him, he would have very little to fall back on.
 
 ---
 

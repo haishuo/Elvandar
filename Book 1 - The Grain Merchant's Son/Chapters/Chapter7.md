@@ -132,7 +132,7 @@ She finished tying off the bandage, her movements thoughtful. "You're lucky to h
 
 "I am." The words felt both true and false.
 
-Elara moved around to face him, still close enough that he could see the exact moment her eyes shifted from blue to something warmer. "There," she said quietly. "That should hold until the infection clears."
+Elara moved around to face him, still close enough that he could see the exact moment her eyes shifted from blue to something warmer.
 
 For a moment, they simply looked at each other. Xion became acutely aware of how near she stood, how the afternoon light from the window caught in her dark hair, how her expression held something he couldn't quite name.
 

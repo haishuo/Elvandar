@@ -14,7 +14,13 @@ She is not the most powerful of the four cartel leaders. She may be the most hon
 
 ## Paradigm Analysis
 
-**Spirited Competitor → Truth Seeker → Engineer → Caretaker → Founder → Creator**
+**Spirited Competitor → Truth Seeker → Engineer → Caretaker → Merchant → Founder → Creator**
+
+Sa Ko Ren is the cleanest Spirited Competitor primary in the cast, the way Danshall is the cleanest Truth Seeker primary. She gets out of bed to test and to be tested, to face worthy contests, to find out what people are when the pretense burns away. The contest itself is the satisfaction. A clean victory closes the loop. A worthy loss honors the loser. The drive has terminal states everywhere — she can be *satisfied* by a single revealing contest, which is the signature of a true Competitor rather than a Merchant in Competitor's clothing.
+
+She is a useful contrast with Ronas, who is also Spirited Competitor primary but in an entirely different key. Both are competitive primaries with bounded ambition (neither expands endlessly the way a Merchant would). Both built their cartels from nothing. But the satisfaction profile differs sharply. Ronas competes in the **survival** mode — daily contest is dominance held against constant pressure, with no clean victory ever final, only the next day's defense. Sa Ko competes in the **honor** mode — contest is worth revealed under pressure, with each test offering a complete answer about a person's quality. Ronas wins to *hold*. Sa Ko wins to *know*. The Coterie therefore has two Spirited Competitor primaries running on the same paradigm in completely different registers, which is part of what makes them mutually unintelligible at Coterie meetings.
+
+She is also worth contrasting with the other two cartel heads at the structural level. Rosik (Grain) and Tania (Water) both run **extraction/monopoly** operations — Merchant-coded work at scale, where the cartel exists to control a flow of value. Ronas (Slavers) runs a hybrid of extraction (human labor as commodity) and territorial dominance. Sa Ko (Iron) is the *only* one of the four whose cartel is a **production operation** — forges, workshops, training halls, the honest work of making things. This is Engineer-led, not Merchant-led. It is why the Iron district has "no fountains wasting water, no decorative excess" and the other cartel territories don't: Sa Ko's wealth comes from output, not from controlling scarcity, so her aesthetic is the aesthetic of function. The framework reads cleanly here — the Iron cartel is the cleanest cartel-level Merchant-vs-Engineer contrast in the cast.
 
 ### Spirited Competitor (Primary)
 
@@ -64,7 +70,17 @@ In Book 2, her frustration with governmental paralysis has a Caretaker dimension
 
 **Shadow:** Her protectiveness extends only to those who have earned it through her competitive framework. Those who haven't proven themselves — the weak, the uncontested — may fall outside her circle of concern entirely.
 
-### Founder (Fifth)
+### Merchant (Fifth)
+
+Sa Ko is, structurally, the *least* Merchant of the four cartel heads — which is striking given that she runs a major cartel. The Iron operation has an accumulative aspect (cartels by their nature operate at some Merchant register), but the engine driving the operation is Competitor + Engineer, not Merchant. The Iron district makes things; it does not control a scarcity. Anyone could theoretically produce iron goods. Sa Ko's cartel wins by being *best* at it — by producing higher-quality output, training better artisans, running the most efficient forges — which is a Competitor's frame for market position, not a Merchant's frame.
+
+This is also the cleanest reading of her founding (see *The Founding: A Wild Sands Windfall*, below). Handed the single largest treasure-hunter's windfall in the city's history — capital enough to buy leverage, monopolies, and dependencies across Kaha'an — a Merchant primary would have bought exactly those. Sa Ko built skill capacity instead. She converted found wealth into *capability*, not *position*. The Iron cartel's strength is the quality of the people inside it and the things they produce, not the wealth it has stockpiled or the leverage it holds over the rest of Kaha'an. Strip out her Competitor drive and the cartel would not have come into being; strip out her Engineer drive and the cartel would not function; strip out her low Merchant drive and almost nothing changes, because her Merchant was never the engine.
+
+This is also why she would let the cartel dissolve before compromising her honor. A Merchant primary cannot make that trade — accumulation lost to honor is *less*, and the engine cannot accept less. Sa Ko can make the trade easily, because the accumulation was never the point. The honor was the point. The cartel was the proof of the honor, not the goal of it.
+
+**Shadow:** Because she has low Merchant, the Iron cartel is structurally fragile in an accumulation-attack scenario. She has not built wealth reserves, has not stockpiled political leverage, has not accumulated dependencies among other houses that would protect her in a downturn. If the contest she is fighting shifts from skill-based to leverage-based, Sa Ko has very little material capital to draw on. Her advantage is purely *current capability*, which is formidable but also brittle. A bad year for Iron's reputation is a bad year for everything Iron has.
+
+### Founder (Sixth)
 
 Institutional legacy barely registers in Sa Ko's motivational stack. She built the Iron cartel from nothing, which required tremendous effort, but the drive behind the building was competitive — proving that merit and skill could overcome inherited advantage — not a desire to create something that endures beyond her.
 
@@ -72,7 +88,7 @@ She doesn't think in dynasties. She doesn't maneuver for long-term institutional
 
 **Shadow:** Her indifference to institutional continuity means the Iron cartel's character depends entirely on her personal presence. A successor who lacks her values could transform it into something unrecognizable.
 
-### Creator (Sixth)
+### Creator (Seventh)
 
 Expression and vision for their own sake provide Sa Ko nothing. She creates through metalwork — she still works with her hands — but the satisfaction is in the *quality* of the creation, not its artistry. A well-forged blade is satisfying because it works, because it proves the maker's skill, not because it expresses an inner vision. Her training hall has "high windows to let in light without making the space decorative." The aesthetic of the Iron district is the aesthetic of function: honest, unadorned, effective.
 
@@ -86,7 +102,17 @@ The text provides limited explicit backstory for Sa Ko, but what exists is telli
 
 The Terinok culture that shaped her values direct contest over political maneuvering, proven strength over claimed status, honor earned through challenge rather than lineage. These are not principles Sa Ko adopted strategically — they are the bedrock of her identity, the lens through which she evaluates everything and everyone.
 
-Her rise to Iron cartel leadership from immigrant origins represents the ultimate proof of her philosophy: that demonstrated capability can overcome every disadvantage of birth, origin, and social position. She built the cartel through skill — metalwork and combat — and the industrial district she oversees reflects those origins. Forges, workshops, training halls. The honest work of making things. In a city of political fictions, Sa Ko Ren's territory is the most real place in Kaha'an.
+### The Founding: A Wild Sands Windfall
+
+Sa Ko did not arrive with the Iron Cartel; she arrived with nothing. She came to Kaha'an roughly a year after the Rending — a penniless Terinok warrior in a city drowning in refugees — into the brief, brutal window when the post-Rending desert still held its richest secrets. The Wild Sands were full of refugee caches then: the coin and jewelry and strongboxes of people who had tried to reach the city during the catastrophe and died within sight of its walls. Almost all of those caches were modest, enough to lift a lucky finder one rung and no further. But early enough, and in terrain deadly enough that only a real warrior could reach it and live, there was **one that was not** — a single great-house-scale hoard, the lone exception to the iron rule that no desert find was ever big enough to found a *great* house.
+
+Sa Ko was the one who reached it. A Terinok warrior could go where soft city-folk died, and she was early enough that the great cache still lay where its owners had fallen. She walked out of the Wild Sands with a fortune no treasure-hunter in Kaha'an before or since has matched — the one find large enough to seat its finder at the Coterie's table rather than the Noble District's fringe. It is gone now because she took it: the single large cache within reach, claimed first, leaving only the modest ones behind. (The Vault legend is a different thing entirely — a *deep*-desert myth, unconfirmed and likely unreachable. Sa Ko's was a real find in the reachable Wild Sands, and it was singular.)
+
+What she did *next* is the part that is purely hers. A Rosik or a Tania would have converted that windfall into *position* — leverage, monopoly, sworn dependencies, a war-chest of political debt. Sa Ko converted it into **production**: forges, trained artisans, training halls, the only cartel in Kaha'an whose wealth comes from *making things* rather than controlling a scarcity. The treasure was the launch; the two decades since are the empire she built on it with her hands. This is why the sheer size of the windfall does not make her a Merchant — the accumulation was never the point, the *forge* was. She took found gold and spent it on capability instead of power, which is the most Sa Ko thing a person could do.
+
+Her rise was also *fast* — fast enough to matter. Within a couple of years of the Rending she stood as a third great house beside Grain and Water, and it was precisely that arrival that turned a containable two-way standoff between Rosik and Tania into the three-way deadlock over the empty throne — none of the three willing to see any other crowned regent — that had to be papered over with the polite fiction of a Coterie ruling "in the Valanar name." Sa Ko did not block a bid for power so much as *become* the reason no single bid could close.
+
+All of this is the ultimate proof of her philosophy: that demonstrated capability can overcome every disadvantage of birth, origin, and social position. The industrial district she oversees reflects those origins — forges, workshops, training halls, the honest work of making things. In a city of political fictions, Sa Ko Ren's territory is the most real place in Kaha'an. It also marks her twice as an outsider: foreign-born *and* jumped up on a treasure-hunter's luck, the kind of origin the old blood names with veiled contempt. Sa Ko carries both without a flicker of shame. She proved her worth against the desert itself; she has never needed the Noble District's opinion of how.
 
 Her outsider status within the Coterie mirrors Ronas's in some ways — Rosik calls her a "junior member" despite her influence — but where Ronas's exclusion breeds resentment, Sa Ko's breeds indifference. She doesn't need the other cartel leaders to accept her. She needs them to recognize that Iron delivers.
 

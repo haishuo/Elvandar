@@ -14,7 +14,11 @@ When she finally steps into the open, she brings with her not the refined courtl
 
 ## Paradigm Analysis
 
-**Caretaker → Truth Seeker → Spirited Competitor → Engineer → Creator → Founder**
+**Caretaker → Truth Seeker → Engineer → Creator → Spirited Competitor → Founder → Merchant**
+
+Elara has only two paradigms that intrinsically motivate her — Caretaker and Truth Seeker — and together they account for roughly two-thirds of her drive. Everything beneath those two is instrumental: drives she engages with not because they call to her, but because the work of protection occasionally requires them. This is what makes her a moral force rather than a balanced ruler. She does not get out of bed to optimize systems, build institutions, win contests, accumulate holdings, or express a vision. She gets out of bed to protect suffering people, and to make sure she actually understands what protecting them requires.
+
+This shape also explains the paradigm-twinning with Xion. They share their two intrinsic WHYs (Caretaker primary, Truth Seeker secondary) *and* their lowest priority (Merchant last). That alignment at both ends of the stack is the structural basis of their partnership. Their arguments are about *how* to express their shared Caretaker drive — his methodical channels versus her direct confrontation — never about *whether* to protect, and never about the seductions of accumulation, because neither feels those seductions at all. The cartel system raised two children who repudiated its founding paradigm in identical fashion, and found each other.
 
 ### Caretaker (Primary)
 
@@ -40,41 +44,53 @@ Her Truth Seeker secondary also manifests as radical honesty. When the Mistress 
 
 **Shadow:** Her insistence on understanding everything before acting can become a form of moral perfectionism. In Book 2, this manifests as governmental paralysis — she rejects every Coterie proposal that preserves cartel structures, even proposals that would save lives immediately, because they don't dismantle the fundamental injustice. Her refusal to compromise means nothing gets done, and people die from the paralysis between her revolutionary vision and the Coterie's incremental reforms.
 
-### Spirited Competitor (Third)
+### Engineer (Third)
 
-Competition does not intrinsically motivate Elara. She does not seek victory for its own sake, does not crave measurable triumph, does not find satisfaction in defeating opponents. But her *refusal to surrender* is one of her most defining characteristics, and it runs deeper than Caretaker stubbornness. There is something in her that will not quit — that meets impossible odds not with strategic retreat but with harder attack.
+Engineer is Elara's most-developed instrumental drive — not because optimization satisfies her, but because Commander Vesk spent twenty years drilling systematic strategic thinking into her. The tactical scenarios, the contingency planning, the disciplined approach to problem decomposition: this is the *method* she reaches for when Caretaker reflex isn't enough on its own. In Book 2 she successfully resolves a trade dispute using a structured approach that appeals to both parties' honor, proving she can govern effectively when she operates outside cartel logic.
 
-When Sa Ko Ren demands single combat, Elara accepts without hesitation. No consultation, no calculation. She knows within the first exchanges that she cannot win — Sa Ko is in a completely different league, barely straining, absorbing impacts without concern. Elara's response is to attack harder. More aggressive. Sacrificing defense for offense, pushing the pace, refusing to acknowledge the obvious mismatch. When Sa Ko calls "Enough," Elara remains in fighting stance — not surrendering, just pausing. Waiting to see what comes next.
+But the satisfaction is never in the system itself. She does not optimize for the pleasure of optimization. She builds systems because protection sometimes requires them, and her training equipped her to build them. Strip out the Caretaker drive and the Engineer machinery would simply sit idle — there is no internal pull toward elegance for its own sake.
 
-Sa Ko's verdict crystallizes what makes this drive distinctive in Elara: "You can't beat me. But you knew that and fought anyway." She earns Iron cartel's allegiance not through victory but through the kind of determination that can't be faked or inherited or granted by divine favor.
+**Shadow:** Her Engineer competence is real but shallow. When she faces the Coterie's institutional resistance, she lacks the patience for incremental system-building. She wants revolutionary change — tear down and rebuild — rather than methodical improvement within existing structures. The training gave her tactical thinking, not the long-horizon institutional thinking that governing demands.
 
-This same refusal to quit appears throughout the story. When the masquerade collapses, she tears her ballgown from mid-thigh down and scales a twelve-foot wall. When thugs threaten them in the Warrens, she destroys three armed men in ten heartbeats. When everyone counsels retreat — Farleen begging them to stop going deeper, the odds clearly against them — Elara says "Yes" and keeps moving.
+### Creator (Fourth)
 
-**Shadow:** Her competitive stubbornness can override tactical sense. The masquerade disaster happens because she insisted on witnessing noble cruelty firsthand despite the extreme risk. The street fight in the Warrens destroys their anonymity because she responded with maximum force instead of evasion. Farleen's criticism — "You just told everyone in the Surface Warrens exactly what you are" — is valid.
+Creative expression and vision rank low in Elara's motivational stack, but the capacity is real when called on. She improvises a cover identity ("Elara Sarif"), resolves the Book 2 trade dispute with a non-obvious creative leap, and carries a genuine vision of what reformed Balisha could be. The vision is felt, not merely articulated — she imagines specifically *what should exist* in addition to what should be torn down.
 
-### Engineer (Fourth)
+But she does not create for expression's sake. Her vision serves protection; her improvisations serve immediate crisis. Creation for its own sake — making something because making is satisfying — is not what gets her out of bed. The trade dispute resolution gave her relief, not joy.
 
-Elara approaches problems systematically when her higher drives allow it. Her Arol Batae training gave her genuine strategic thinking — Commander Vesk supplemented physical training with tactical scenarios, and she absorbed the systematic approach to problem-solving. In Book 2, she successfully resolves a trade dispute using creative strategy that appeals to both parties' honor rather than transactional benefit, proving she can govern effectively when operating outside cartel logic.
+**Shadow:** Underdeveloped beyond the instrumental. She envisions what Kaha'an should become but struggles with the creative work of building it. She can see the destination; she has trouble inventing the road.
 
-Her Engineer drive is instrumental — it serves her Caretaker and Truth Seeker priorities rather than providing intrinsic satisfaction. She doesn't optimize for the pleasure of optimization. She builds systems because effective protection requires them.
+### Spirited Competitor (Fifth)
 
-**Shadow:** Her Engineer drive is genuinely underdeveloped compared to her emotional drives. When she faces the Coterie's institutional resistance, she lacks the patience for incremental system-building. She wants revolutionary change — tear down and rebuild — rather than methodical improvement within existing structures. This is partly principled (the existing structures are fundamentally unjust) and partly a limitation (she doesn't yet have the governing experience to build durable replacements).
+This is the placement most easily mistaken when reading Elara from the outside, because her surface behavior is so combative. But surface behavior is not motivational core. She fights — well, often, and with terrifying competence — but victory itself does not move her. She does not get out of bed to win. She gets out of bed to protect, and combat is one of the tools her training equipped her with.
 
-### Creator (Fifth)
+The Sa Ko Ren single combat is the cleanest demonstration of the misreading. She accepts the challenge instantly because *losing means failing the people who need her to claim this throne* — not because she wants the contest. She attacks harder when outmatched because surrender would forfeit the mission, not because the bout's outcome matters to her in itself. Sa Ko's verdict — "You can't beat me. But you knew that and fought anyway" — describes Caretaker determination expressed through combat. Not Competitor energy seeking its own satisfaction.
 
-Creative expression and vision rank low in Elara's motivational stack. She creates when necessity demands it — her cover identity as "Elara Sarif" for the masquerade, her improvised solutions in the Warrens — but creation for its own sake does not drive her. Her vision of a reformed Balisha is real and deeply felt, but it is a Caretaker's vision expressed through whatever channels are available, not a Creator's need to bring internal worlds into external form.
+The same pattern holds throughout. The three thugs in the Warrens: combat reflex protecting her party, not a contest. The masquerade wall-scaling: escape, not victory. The Book 2 paralysis: she would *gladly* never fight a political battle again if the cartels would simply stop hurting people. A genuine Spirited Competitor primary would *miss* the arena. Elara would feel relief.
 
-**Shadow:** Underdeveloped. She envisions what Kaha'an should become but struggles with the creative work of building it.
+**Shadow:** Because her combat capacity is so visible and her Competitor drive so low, she consistently underestimates how she reads to others. The street fight destroys their anonymity not because she enjoyed the fight but because she lacked the strategic restraint to choose evasion. Farleen's criticism — "You just told everyone in the Surface Warrens exactly what you are" — is valid. Elara fights like a champion but does not think like one, because the part of her that *thinks* is Caretaker and Truth Seeker, neither of which weighs reputational cost the way a Competitor would.
 
 ### Founder (Sixth)
 
-Institutional endurance and legacy are Elara's lowest motivational priority. She does not think in decades. She does not care about preserving structures for their own sake. She will happily destroy the Coterie, the cartel system, and centuries of institutional arrangement if they cause suffering.
+Institutional endurance and legacy sit near the bottom of Elara's stack — and unlike most of the low-ranked drives, Founder is actively *opposed* by her primary, not just absent from it. She does not think in decades. She does not care about preserving structures for their own sake. She will happily destroy the Coterie, the cartel system, and centuries of institutional arrangement if they cause suffering.
 
 She claims the throne not to found a dynasty but to dismantle one — or rather, to dismantle the parasitic system that grew in the dynasty's absence. Her contempt for legitimacy without substance is absolute: she throws the Spirit's Reflection on the ground because ceremonial approval is meaningless when a child is dying.
 
 In Book 2, her low Founder drive creates real problems. She proposes revolutionary changes with no implementation path. She rejects incremental improvements because they preserve structures she wants to destroy. She cannot build institutions because institution-building requires the patience and long-term thinking of a Founder, and that's not how she's wired.
 
 **Shadow:** She is far better at tearing down broken systems than building durable replacements. This is the central governmental crisis of Book 2.
+
+### Merchant (Seventh)
+
+The drive for accumulation — for the expansion of holdings, influence, or control as ends in themselves — is functionally absent from Elara's stack. She will sacrifice it before any other paradigm, and she carries a visceral repulsion toward it that sits even deeper than her Founder reluctance. She is the literal heir of an empire — the surviving Valanar, owner-by-blood of the largest accumulation in the known world — and her response to that inheritance is *fury*. The Imperial House has had cruelty proclaimed in its name for twenty years; the cartels have weaponized the Valanar seal to extract from the powerless. Her reaction is not "how do I take this back" but "how do I make it stop." She does not want to capture the flow. She wants to *open it*.
+
+The fountains of the Noble District are the cleanest tell. They are pure Merchant display — accumulated water deployed as ornament, status performed through visible waste while children die of thirst three streets away. Elara's reaction is not intellectual disagreement; it is physical revulsion. Her eyes cycle so rapidly she has to squeeze them shut. Her body cannot process the moral arithmetic of what she is seeing. A character with Merchant anywhere meaningful in the stack would feel at least the seductive pull of the display — the recognition that this is what *more* looks like at scale. Elara feels only horror. The accumulation itself is the obscenity.
+
+The Spirit's Reflection is the second tell. Offered the highest accumulation a ruler can be handed — divine sanction, the symbolic capital of legitimacy itself — she throws it on the floor. The mirror keeps glowing. She picks it up reluctantly, "like it was something dead," and keeps it only as evidence for doubters. Her assessment of its value comes in a single line, with Tam burning with fever beside her: "Lot of good it does him." A Merchant would have grasped that artifact as the ultimate addition to the ledger. Elara measures it against one sick child and finds it lighter.
+
+The same instinct shapes her response to the crown itself. She wants the throne *desperately* — but every prerogative the throne offers her, she gives away. She helps people up from their knees. She refuses ostentation. She wears practical clothing because function matters and display doesn't. She wants the structural authority to *redistribute*, not the personal benefit of having captured it. The throne is, for her, an instrument of Caretaker work, never an accumulation in its own right.
+
+**Shadow:** Because Merchant is this low, Elara systematically underestimates how powerfully the drive operates in others — exactly the same blind spot that produces Xion's Book 2 catastrophe. She models the cartels as obstacles, as ideologues, as bad-faith bureaucrats — anything but accumulators with no terminal state. Her Book 2 strategy assumes they can be reasoned into surrendering holdings if shown the suffering those holdings produce. They cannot. Rosik cannot. The drive is structurally indifferent to the suffering it produces. Elara's failure to perceive this is what produces the governmental paralysis: she keeps appealing to a moral calculus the Coterie's primary paradigms simply do not run on. Two Caretaker primaries, both blind to the Merchant engine, both repeatedly walking into the same wall.
 
 ---
 

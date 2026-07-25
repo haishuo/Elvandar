@@ -45,7 +45,7 @@ Their Voice at the War Table is traditionally the most formally dressed represen
 
 The other eleven cantons maintain a careful, mutually agreed policy toward the Bloodsworn that no one writes down officially:
 
-- Bloodsworn territory is positioned at the most volatile border regions, where skirmishes with Balisha are frequent and the Bloodsworn's need for combat is reliably met by geography
+- Bloodsworn territory is positioned at the most volatile border regions, where skirmishes with Gunastran across the Sentinel passes are frequent and the Bloodsworn's need for combat is reliably met by geography
 - When confederation forces assemble for major campaigns, Bloodsworn contingents are integrated into the vanguard, given the most dangerous assignments, and kept physically separated from other canton forces during downtime
 - After major battles with high enemy casualties, Bloodsworn units are immediately dispersed to different sectors rather than quartered together
 - When external conflicts go quiet for extended periods, neighboring cantons have been known to arrange "training disputes" with each other in territory adjacent to Bloodsworn lands — incidents that escalate just enough to require the Bloodsworn to "intervene," providing the violence they need without anything formally escalating
@@ -304,7 +304,7 @@ In practice, the Vel'thuum are a small and particular population. Children raise
 - No clan, no oath, no community
 - The experience of having descended Red Mountain alone
 
-They arrive, typically, at the edges of the gray wolf territories or the nearest Terinok canton settlements, which in the Sentinel range means Shizan or Sundrak. Both communities have developed informal protocols for receiving them. The gray wolves' response is typically practical: if you survived the descent, you're useful; we will not ask what you chose, and you will not volunteer it unless asked. The Terinok warrior cantons receive them as free persons of demonstrated capability, though the Bloodsworn training and the circumstances of their arrival are generally known and noted.
+They arrive, typically, at the edges of the gray wolf territories or the nearest Terinok canton settlements, which in the northern reaches of the Sentinel range means Vharak or Moru. Both communities have developed informal protocols for receiving them. The gray wolves' response is typically practical: if you survived the descent, you're useful; we will not ask what you chose, and you will not volunteer it unless asked. The Terinok warrior cantons receive them as free persons of demonstrated capability, though the Bloodsworn training and the circumstances of their arrival are generally known and noted.
 
 The Vel'thuum rarely speak of what they left. Some integrate fully into Terinok canton life; others remain in a permanent in-between, recognized everywhere and fully belonging nowhere. A few have made their way further — to Balisha, to Uratha — carrying knowledge of Red Mountain's interior that no other outsiders possess.
 

@@ -4,7 +4,7 @@ Dawn broke over Kaha’an, painting the Ruby of the Desert in ochre and gold. Fr
 
 Janice’s voice drifted in from the shop’s front. “Master Fen, there’s someone here to see you!”
 
-Master Fen. The name fit him better than his birth name ever had. Here, no one cared that he was the son of Rosik Kemvimore, master of the Grain. No one expected him to lord over the city’s hungry. The old healer who’d first taught him—the real Master Fen—had shown him how to listen, how to mix painkiller and poultice, how to weigh hope against hard reality. She was gone now, executed with two words, but Xion kept her memory alive as quietly and stubbornly as he kept this shop alive.
+Master Fen. The name fit him better than his birth name ever had. Here, no one cared that he was the son of Rosik Kemvimore, master of the Grain. No one expected him to lord over the city’s hungry. The healer who’d first taught him—the real Master Fen—had shown him how to listen, how to mix painkiller and poultice, how to weigh hope against hard reality. She was gone now, executed with two words, but Xion kept her memory alive as quietly and stubbornly as he kept this shop alive.
 
 He dusted the herbs from his hands and stepped through the beaded curtain, putting on the face he reserved for his patients: a touch gentler, quieter, eyes lowered to avoid the embarrassment of pity.
 

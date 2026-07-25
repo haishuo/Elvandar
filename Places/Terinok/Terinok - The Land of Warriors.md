@@ -43,10 +43,10 @@ On all other matters, canton law is supreme. A canton may conduct its own foreig
 There are twelve recognized cantons, varying considerably in size, military strength, and cultural emphasis:
 
 - **Takama Canton** — The largest and most politically powerful, controlling the central plateau and the War Table's meeting grounds. Known for producing skilled cavalry and diplomatic warriors.
-- **Shizan Canton** — Controls the primary southern mountain passes into Uratha territory. Fortress-builders and strategists, they manage much of the confederation's border infrastructure.
+- **Shizan Canton** — Controls the primary southern mountain passes east across the Sentinels into Gunastran territory. Fortress-builders and strategists, they manage much of the confederation's border infrastructure.
 - **Vharak Canton** — The ore-rich northern highland canton. Produces the finest weapon smiths in Terinok; their blade-making traditions are considered semi-sacred.
 - **Orath Canton** — Controls the Blood River's upper course. Their warriors specialize in river combat and swift-strike tactics.
-- **Thuun Canton** — Western border canton, perpetually engaged with Balisha. Their warriors are battle-hardened by constant skirmishing; they rarely need to be hired — war comes to them.
+- **Thuun Canton** — Southern border canton, perpetually engaged with Vartonne along the disputed plateau frontier. Their warriors are battle-hardened by constant skirmishing; they rarely need to be hired — war comes to them.
 - **Keth'mar Canton** — Eastern border canton abutting Gunastran territory. Known for their Mountain Hunters and scouts.
 - **Deshara Canton** — Controls the fertile Red Valley and surrounding agricultural lands. Wealthiest of the cantons; their warriors are sometimes derided as "soft" by less prosperous cantons, which they take as an invitation to prove otherwise.
 - **Haluth Canton** — Masters of infiltration and the "shadow arts." Their warriors hold lower ritual status by official canon but are highly sought as mercenaries for specific campaigns.
@@ -411,14 +411,14 @@ As a confederation defined by martial traditions, Terinok's foreign relations ar
 
 - **Diplomatic Status**: Hostile
 - **Historical Context**: As the first to break from the empire, Terinok views Balisha's claims to imperial succession with particular hostility
-- **Military Posture**: Regular border skirmishes occur, particularly over mountain passes that connect their territories
+- **Military Posture**: The two share no border — Vartonne and the Balishan Desert lie between them — so open warfare is rare; the hostility instead plays out through the contest for slaves and captives and through Balisha's attempts to turn Terinok's own mercenary trade against it
 - **Mercenary Complication**: Balisha has attempted to hire Terinok mercenaries to use against other Terinok cantons; the War Table has twice formally prohibited such contracts, though enforcement is imperfect
 - **Bondage Dynamics**: Fierce competition over the same human resources; Terinok raids for slaves while Balisha attempts to capture potential laborers for its own systems; both nations refuse to return escaped slaves to the other
 
 ### With Uratha (Pride)
 
 - **Diplomatic Status**: Cautious mutual respect
-- **The Sentinel Question**: Uratha shares a border with Terinok along the Sentinel Mountains — a range that contains an active volcano, the Bloodsworn Canton, and gray wolf packs who hold the high passes. Uratha has looked at this border carefully and arrived at the correct conclusion. Their caution is geographic as much as diplomatic.
+- **The Sentinel Question**: Uratha does not border Terinok directly — Gunastran lies between them on the eastern side of the great spine. But Uratha's own western frontier runs along the southern Sentinel Mountains, the same range whose northern reaches, inside Terinok, hold an active volcano, the Bloodsworn Canton, and gray wolf packs who hold the high passes. Uratha has looked at that range carefully and arrived at the correct conclusion about venturing into it. Their caution is geographic as much as diplomatic.
 - **Mercenary Role**: Terinok warriors occasionally serve as escorts protecting Urathan expeditions into the Sentinel range or other dangerous regions; having Terinok with you is a credible signal to the gray wolves that you are not a threat. Uratha pays well for this service and considers it money wisely spent.
 - **Cultural Disconnect**: Scholarly works on combat theory from Uratha are largely ignored by Terinok's practical warriors
 - **Academic Interest**: Urathan analysis of Terinok's battle tactics is extensive but often misses cultural context
