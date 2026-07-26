@@ -44,7 +44,7 @@ Elara looked like she wanted to argue, but Farleen continued before she could.
 
 "Like what?" Elara asked.
 
-"Like trying to rescue me." Farleen's voice was flat. "If I'm not back in an hour, assume I've been caught or killed. Do not come after me. Return to the Surface Warrens and reassess."
+"Like trying to rescue me." Farleen's voice was flat. "If I'm not back in an hour, assume I've been caught or killed. Do not come after me. Return to the Tiers and reassess."
 
 The casual way she discussed her own potential death made Xion's stomach turn. "Farleen—"
 
@@ -222,7 +222,7 @@ And Xion had failed him.
 
 The promise to Tam's parents echoed in his mind. *I'll try to help. I'll do everything I can.* But trying wasn't enough. Doing everything he could hadn't been enough.
 
-Maybe Farleen had been right all along. Maybe they should have stayed in the Surface Warrens. Waited. Survived.
+Maybe Farleen had been right all along. Maybe they should have stayed in the Tiers. Waited. Survived.
 
 The afternoon wore into evening. No one spoke much. They ate the food Korvin had left for them without appetite. The weight of failure hung over everything.
 

@@ -1,0 +1,69 @@
+# Chapter 13: Clean Hands
+
+The room where Master Fen had once mixed fever-draughts held, tonight, a map of the city with six marks on it and the plan for emptying all six in a single dark.
+
+Xion stood over the table and looked at what he had made of it. Six warehouses, in Kael's blunt charcoal. Beside each mark a window of time, an approach, a way back out; off to the side the running order — who moved when, who waited on whom, what each team did if the first plan met the world and lost. It was laid out with a clarity that would have looked, to anyone who wandered in, like the work of a man who had done this a dozen times. He had never done it once. He had only spent a childhood in rooms where men leaned over maps exactly like this and talked in exactly this register, and it had gone into him the way all his father's lessons had gone into him, without his leave, and stayed.
+
+They came in one at a time, out of the dark, because four people arriving together at a shuttered clinic was a thing a watcher could count, and one at a time was not.
+
+Silvanno brought the last of the weather. One site had thickened its guard in the past few days — fresh money, then, worth the extra care. One had gone quiet for a week, which meant it was either emptied or so trusted no one bothered watching it. One had Water cartel eyes on it, which meant his mother knew it existed, which meant the approach there had to change. He gave all of it flat and exact and without a word of opinion, working the narrow line his mother's neutrality left him, spending himself to the last inch of what he could spend and not a finger's-width past it.
+
+Farleen brought the ground. She had been out in the city for days doing the thing she had been made and trained to do, and she set it down now in the same clipped shorthand: routes clear, patterns holding, no sign anywhere that any of the six knew a thing was coming. The skills a cartel had honed in her, once aimed at Xion himself, turned tonight to robbing a cartel. She did not remark on it. He thought she felt it. He did not ask.
+
+Kael brought the hands. Iron men — haulers and dock laborers and night-carters, the kind of men who moved through the working districts after dark and drew no second look — broken into small units, each knowing its own target and nothing of the others, so that a team taken could give up only itself. It was good work, careful and cold, and Kael laid it out like a man who had learned discipline in a legitimate trade and something else in the spaces beside it.
+
+And then there was a moment — he felt it while it was happening, which was rare — where everything stood ready and nothing had yet been done. The teams were moving toward their marks or already sitting in the dark beside them. The timing was set. The four of them stood in the lamplight of a healer's back room, and the thing they had built was still, for one more breath, only a plan. He could end it here. He could say the word and they would all go home, and his father would keep his money, and his son would keep his hands the way they were.
+
+He looked at the map, and he thought of a girl gone still in a doorway, of a wellhead his name could open for one family and not the rest, of an Empress on a throne that would not let her save a soul. He did not say the word.
+
+"Go," he said instead.
+
+---
+
+What came after, he took the way his father must have taken a hundred nights like it: as information.
+
+He did not force a door. He did not lift a crate or lay a hand on a single guard. He stood in a still room while, across the city, six other rooms were opened in the dark, and word of them came back to him in pieces — carried by Kael's runners, by Farleen moving between the sites like a rumor — and his whole work was to hold the entire shape of it in his head at once and to decide, fast, each time the shape tore.
+
+The first word was good. The site in the industrial district opened clean: a service door Farleen had found weeks past, a lock Kael's men had drilled on until they could work it blind, crates going out into a covered wagon while the two guards across the yard learned nothing. The second was good. The third was Kael's own, and Kael's runner came in breathing hard — more men than they had counted, four extra where the last look had shown none, a rotation changed in the final hours. The question came relayed exact: *heavier than mapped. Take it or leave it.*
+
+And Xion did the thing he hated being able to do. He held the whole map in his mind and ran it forward, cold and fast and complete. Leave this site, and the money in it walked before dawn — because the instant the other five were found empty, Rosik would know, and Rosik would move whatever remained faster than they could turn and come back. The plan only worked whole. So: take it. With the extra care the extra men demanded, and the one standing rule unchanged.
+
+*Take it,* he sent back. *No one dies. That holds. Especially now.*
+
+He had said it at the outset and he said it again through the runner, because it was the single instruction that cost them and he meant to pay the cost. Killing the guards would have been faster. It would have been safer, and cleaner in the cold way his father would have measured cleanness — a dead man raises no alarm and names no one. He would not have it. Those were watchmen set to guard a thing in the dark that they likely did not understand, and they were not going to die to make his night run smoother. The rule slowed two of the teams and frightened everyone and it held, and no one died — and that was the one part of the night that stayed, unarguably, clean.
+
+Once, at the fourth site, it nearly came apart for a reason no plan could have caught. A city patrol turned down the wrong street at the wrong hour, and Kael's team went to ground behind the very crates they were carrying and did not breathe, and the patrol walked the length of the yard close enough to touch and out the far end and was gone. They had not seen. Or they had seen and done what the city guard had learned to do in these districts, which was to grow, at need, an excellent blindness. The same arrangement that kept Rosik's warehouses safe from official curiosity kept the men robbing them safe too. Every advantage they had that night was one his father's world had cut for them.
+
+What the teams carried out was not treasure the way a child pictures treasure. Some coin, some plate — but the bulk of it was stranger and worth more: bolts of dyed cloth and sealed jars of spice and the small dense valuable things that hold their price in any city and carry no name; strongboxes of promissory notes and debt-markers; and, in two of the sites, the ledgers — the books no magistrate would ever be shown, the written memory of twenty years of arrangements, who owed what and who had been paid to forget what. This was the true treasury of the House of Grain, the wealth behind the wealth, and its whole terrible strength — that it could never be admitted to exist — was tonight its one soft place. Xion had found the single vulnerable seam in all that hard money, and six teams at once were carrying it out into the dark, and there was not one lawful thing his father could do about any of it.
+
+---
+
+By the small hours it was done.
+
+Site by site the word came in — cleared; cleared; cleared, with two guards nursing broken heads and none of them dead; cleared; cleared; and at last the sixth, Kael's own, the heavy one, cleared. Six warehouses stood empty behind them, and the covered wagons had gone their separate careful ways to the separate careful places Kael had readied, because you did not pile a stolen fortune into one room and repeat the exact mistake you had just punished another man for making. By dawn there would be nothing to find but six robbed buildings, and a city that would decide, on no evidence at all, that some rival had made a play or some new crew had gotten ambitious. No one would look at a healer and his three friends. No one would think to.
+
+Kael came back to the clinic last, and gave it to him the way Kael gave everything — flat, squared, not a word wasted.
+
+"It's done, and it's worse for him than we let ourselves hope." He set it out like a report of a bridge brought down exactly on schedule. "It isn't only the money, though the money's the most of it. It's the paper. Every arrangement he can't prove, every man he was paying to stay bought — the record's in our hands now, not his, and he has to assume we've read it. He can't fund what he was funding. He can't buy what he was buying. He holds what he's already got for a few weeks on what's left in the open accounts, and after that—" a small movement of one shoulder "—after that he's a lord of grain with none to spare and a great many people used to being paid. You didn't dent him. You took the floor out from under him."
+
+---
+
+Then, one at a time, the way they had come, they went — Kael to see the last of it to ground, Silvanno back out into the drawing rooms where the first startled whisper of all this would surface by morning and he meant to be there to catch it, Farleen to wherever Farleen went. She was the last. She stopped in the doorway and looked back at him, and there was something in her face — something Xion had learned, over all this time, to read. He had never known her to misread a face. She was reading his now, and he could see that whatever she found there, she did not know it. She didn't say so. She never said the thing. Then she was gone, and the room was his again, and empty.
+
+He stood in it a while.
+
+The thing he had kept out of the room all night — kept out by main force, because there had been decisions to make and no room in him for anything but the making of them — came back now that the decisions were spent, and it came back all at once. He had done it. It was real, and it was behind him, and it could not be reached and unmade. Six warehouses. A fortune that would never be reported stolen, scattered now across the city in Kael's careful caches. His father cut off at the knees in a single night.
+
+And in those six warehouses, men had gone to work tonight who would have no work tomorrow. Carters and clerks and watchmen, the ordinary hired hands of the only employer half this city had — people who had never sat at a Coterie table or cared who did, who had hauled and counted and stood guard for a wage because a wage was a wage, and who would wake to find the thing they worked for gutted and their place in it gone. He had not thought of them at the little table when he drew the map. He thought of them now. He would go on thinking of them. They were the first of the bill, and he already knew they would not be the last.
+
+He looked down at his hands.
+
+They were clean. That was the thing he could not get past, standing in the wreckage he had made without once leaving his own back room. He had done the largest and most violent thing of his life tonight, and his hands were as clean as they had been at dusk — cleaner than a healer's at the end of an ordinary day, cleaner than they'd been the afternoon he drew a splinter of bone from a dockworker's palm. He had broken nothing, lifted nothing, bled no one. He had stood at a table and held a picture in his mind and spoken, and other hands had done the breaking, and the money had come to him. Clean hands. It was, he understood, with a slow horror that sat lower than guilt, the exact condition his father had lived inside his whole life — the man who ordered and never carried, decided and never bled, whose hands were always, always clean. Tonight Xion's were too. He had spent his life meaning to be the opposite of that man, and he had just spent a night being him to the letter, and the proof was there at the ends of his own wrists, unmarked.
+
+Tomorrow the answer would come. He made himself think toward it, because thinking was work and work held the rest of it at bay. His father would learn of this — was perhaps learning of it now — and his father would do what his father did: take the measure of a ruined position, and calculate, and adapt, and come back with the best a cornered man could make of it. Give up the ground he couldn't hold and dig into the ground he could. Reach for the angle, because there was always an angle — *Father can be reasoned with, he always can, you just have to find the right angle,* Melina had said it at the wall with the certainty of a woman who had lived every day in the room with him, and she would know him from the inside as Xion never had. Both of them were sure of it, the son who watched from the doorway and the daughter who lived in the house. Rosik Kemvimore would be rational about this, because Rosik Kemvimore had been rational about everything, always, for as long as either of his children had drawn breath.
+
+Xion was ready for that. He had spent his whole life learning to read the man; he could meet a calculated answer with a calculated answer, and he would. He turned it over — the shape of the coming negotiation, the things he'd give and the things he'd hold — and found himself almost steady again, because a fight he understood was a fight he could stand in.
+
+He had done it anyway. That was the last of it, the thing he set down at the bottom of the night and left there. Because the wells would fail again and the tokens would hold and the machine would grind on forever if no one broke it, and no one else could, and so he had. He had counted the cost and accepted it and paid the first of it tonight, and he would pay the rest as it came due, eyes open, in the coin his father had taught him to spend.
+
+He blew out the lamp. In the dark, his clean hands found the door.

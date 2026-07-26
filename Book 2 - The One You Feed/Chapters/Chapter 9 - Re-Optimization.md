@@ -58,6 +58,18 @@ She was quiet a moment, turning the ring.
 
 "And the cruelest part," she said, "is that I can't even want him to be wrong. Because wanting him to be wrong means wanting the wells to stop flowing. And I've stood in those streets too."
 
+She was quiet a moment, and something else surfaced in her then — not the political tiredness but a more personal impatience, the kind she usually kept a better hand on.
+
+"Come back to the house."
+
+He started to say something; she went over the top of it.
+
+"Let me say it once, because I've been holding it for weeks. When you didn't come home after the deadline, I understood it. You'd just failed the thing he set you, and you weren't going to walk back in and let him watch you do it. That's pride, and I've got the same blood, so I understood it." She looked at him straight on. "But that was weeks ago. And the part you won't let yourself see is that he *isn't watching*, Xion. He said 'Fine,' and he went back to his ledgers, and he has not once wondered where you sleep since. There's no one up there counting how long you can last out here. There's no satisfaction you're denying him, because he isn't waiting on it." A short breath. "So what is it *for*, now? You're sleeping in a dead clinic to spite a man who isn't looking at you. That stopped being principle a while ago. Now it's just stubbornness in an empty room, and I'm the only one who can even see you doing it."
+
+He had no answer, which was its own kind of answer, and she watched it land and didn't grind it in any further than it had already ground itself.
+
+"I'm not asking you to agree with him. I'd never." She got to her feet and shook the dust from her skirts. "I'm telling you there's a bed in that house that's still yours, and a sister who'd sooner have you across a supper table than up here at a wall, and the only thing standing between you and either of them, anymore, is you." The edge went out of her then, leaving just the tiredness and the fondness under it. "Think about it. That's all. Just think about it."
+
 ---
 
 The story turned exactly the way she said it would, and Xion watched it turn.
@@ -80,7 +92,7 @@ Whatever he did now — whatever he had been circling, in the part of him that h
 
 He walked home through wards that worked.
 
-The lines moved. The children played. The counting-houses had stopped screaming and the wagons rolled on their schedules and, somewhere up the hill, an Empress who had crossed a continent's worth of enemies to sit a throne was, tonight, queen of a city that had just learned to be grateful to the men she'd meant to destroy.
+The lines moved. The children played. The counting-houses had stopped screaming and the wagons rolled on their schedules and, somewhere up the hill, an Empress who had faced down every power in this city to sit a throne was, tonight, queen of a city that had just learned to be grateful to the men she'd meant to destroy.
 
 Xion could see the machine beneath the calm — could see it the way he'd always been able to see the disease beneath the fever, the token beneath the flowing water, the next crisis and the next and the one after that, all of them coming, all of them written into the hereditary arithmetic that no reweighted allotment had touched. He knew it was there. He knew it as surely as he knew anything.
 

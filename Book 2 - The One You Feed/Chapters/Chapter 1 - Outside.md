@@ -98,7 +98,7 @@ He didn't have an answer for that — nothing that wasn't a promise he might not
 
 "Whose?"
 
-"Does it matter?" A dry flick of a smile. "You know you never come to these functions anyway. Find me here in a few days. I'll know more, and you'll have thought yourself into some plan I'll have to talk you out of."
+"Does it matter?" A dry flick of a smile. "You know you never come to these functions anyway. Find me here the day after tomorrow. I'll know more by then, and you'll have thought yourself into some plan I'll have to talk you out of."
 
 "You assume I have plans."
 

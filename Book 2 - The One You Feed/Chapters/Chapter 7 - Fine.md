@@ -66,9 +66,9 @@ He didn't say any of it. Melina knew it already; he could see that she'd already
 
 "You could not go."
 
-"And leave him with no one at that table who loves him? No." She said it simply, without drama, a fact rather than a wound. "Somebody in that house has to still be a person and not a piece on his board. If I stop, there's no one. I'm not ready to let that be true yet." She stood, brushing the dust from her skirts, already half turned toward the estate and the supper and the long careful evening ahead. "I'll keep my ears open. If the timing on any of it firms up — when he actually moves, not just who he's flattering — you'll know it within the hour. Same place. You know where to find me."
+"And leave him with no one at that table who loves him? No." She said it simply, without drama, a fact rather than a wound. "Somebody in that house has to still be a person and not a piece on his board. If I stop, there's no one. I'm not ready to let that be true yet." She stood, brushing the dust from her skirts, already half turned toward the estate and the supper and the long careful evening ahead. "I'll keep my ears open. If the timing on any of it firms up — when he actually moves, not just who he's flattering — you'll know it within the hour. Come find me here in three days — the house should have loosened its grip on me by then, and I'll have more."
 
-"Same place."
+"Three days."
 
 "Good." A quick squeeze of his shoulder, and she went, back across the square the way she'd come, toward the flawless house and the working supper and the next round of the impossible arithmetic she'd been solving her whole life. A hard evening's work, the kind she'd rather have skipped and would do well regardless, because doing it well was the only lever she had left on a thing nobody could hold.
 

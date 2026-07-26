@@ -62,7 +62,7 @@ They continued toward the Crossroads, and the pattern repeated. A group of young
 
 "I don't understand," Xion said. "After last night, I thought we'd be targets."
 
-"We should be." Farleen's hand had drifted to her belt, where she'd hidden a knife. "After Elara's little display, every opportunist in the Surface Warrens should know we're here. We should be fighting off challenges, or running from enforcers, or—" She stopped herself. "This doesn't make sense."
+"We should be." Farleen's hand had drifted to her belt, where she'd hidden a knife. "After Elara's little display, every opportunist in the Tiers should know we're here. We should be fighting off challenges, or running from enforcers, or—" She stopped herself. "This doesn't make sense."
 
 "Maybe word spread that we're dangerous," Elara offered.
 
@@ -122,7 +122,7 @@ They moved away from the cart, and Xion noticed the vendor immediately turned hi
 
 "That was it?" Elara asked. "That's all we get?"
 
-"That was more than we should have gotten," Farleen said quietly. "Did you see how nervous he was? That man took a real risk talking to us. If the wrong people noticed..." She shook her head, then added with an edge to her voice, "Of course, we wouldn't be in this position if we'd stayed in the Surface Warrens like I suggested."
+"That was more than we should have gotten," Farleen said quietly. "Did you see how nervous he was? That man took a real risk talking to us. If the wrong people noticed..." She shook her head, then added with an edge to her voice, "Of course, we wouldn't be in this position if we'd stayed in the Tiers like I suggested."
 
 Xion didn't respond to the barb.
 
@@ -134,7 +134,7 @@ They continued through the marketplace more cautiously now. A woman loading a ca
 
 "Of being seen helping outsiders. Of drawing attention from the factions. Of making themselves targets." She navigated them around a group of hard-looking men, her movements precise. "Your reputation protects you from being robbed or attacked. But it doesn't make people brave enough to openly help you. Not down here." A pause. "Which makes this whole endeavor that much more difficult. As I predicted."
 
-The Crossroads turned out to be a large open area where five different streets met, creating a natural gathering point. Unlike the cramped quarters of the Surface Warrens, this space had room to breathe—which meant it also had room for commerce, negotiation, and the kind of business that required witnesses.
+The Crossroads turned out to be a large open area where five different streets met, creating a natural gathering point. Unlike the cramped quarters of the Tiers, this space had room to breathe—which meant it also had room for commerce, negotiation, and the kind of business that required witnesses.
 
 People clustered in groups, talking, trading, conducting deals that seemed to involve more conversation than actual exchange of goods. In the center of the space, elevated slightly on a makeshift platform, sat a middle-aged man with sharp eyes and an air of comfortable authority.
 

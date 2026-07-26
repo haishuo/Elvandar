@@ -1,6 +1,6 @@
 # Chapter 14: First Blood
 
-The stairs from the ledge descended into the heart of the Surface Warrens, and with each step the air grew thicker—sweat, cooking fires, too many bodies in too little space. Xion had been down here before, but never this deep, never at night when the scattered lamps created more shadows than light.
+The stairs from the ledge descended into the heart of the Tiers, and with each step the air grew thicker—sweat, cooking fires, too many bodies in too little space. Xion had been down here before, but never this deep, never at night when the scattered lamps created more shadows than light.
 
 Farleen moved ahead with practiced caution, choosing their path through narrow streets that wound between ramshackle buildings. People watched them pass with calculating eyes, noting their clean clothes, their uncertain movements, the packs that marked them as either fresh arrivals or easy targets.
 
@@ -182,13 +182,13 @@ Xion blinked. "What?"
 
 Elara straightened, her expression carefully neutral.
 
-"That little display back there?" Farleen's voice dropped even lower, forcing them to lean in to hear. "You just told everyone in the Surface Warrens exactly what you are. A fighter. Trained. Professional. The kind of person who destroys three armed men without breaking a sweat."
+"That little display back there?" Farleen's voice dropped even lower, forcing them to lean in to hear. "You just told everyone in the Tiers exactly what you are. A fighter. Trained. Professional. The kind of person who destroys three armed men without breaking a sweat."
 
 "They were going to—"
 
 "I don't care what they were going to do!" Farleen cut her off. "We needed to be invisible. Forgettable. Just three more outsiders passing through. But now?" She laughed, sharp and bitter. "Now we're interesting. Now people are talking. Now every faction down here knows there's a girl who fights like imperial guard wandering around asking questions."
 
-She turned back to Xion. "Do you have any idea how dangerous this is? We could have stayed in the Surface Warrens. Safe. Hidden. Waited for things to calm down on the surface. But no—" Her voice was rising and she forced it back down to a whisper. "—you want to go *deeper*. Into the Midlevels. Into Slaver territory. Looking for a boy you've never met because you made some promise to desperate parents."
+She turned back to Xion. "Do you have any idea how dangerous this is? We could have stayed in the Tiers. Safe. Hidden. Waited for things to calm down on the surface. But no—" Her voice was rising and she forced it back down to a whisper. "—you want to go *deeper*. Into the Midlevels. Into Slaver territory. Looking for a boy you've never met because you made some promise to desperate parents."
 
 "Farleen—"
 
@@ -208,7 +208,7 @@ She turned back to Xion. "Do you have any idea how dangerous this is? We could h
 
 "We're already here," Xion said. "We might as well—"
 
-"No." Farleen's voice went flat. "No, we are not 'already here so we might as well.' The Surface Warrens are safe enough. We don't *have* to go deeper. That's a choice. A stupid, dangerous choice that you're making for all of us."
+"No." Farleen's voice went flat. "No, we are not 'already here so we might as well.' The Tiers are safe enough. We don't *have* to go deeper. That's a choice. A stupid, dangerous choice that you're making for all of us."
 
 "Then why did you come at all?" Elara's voice cut through the tension. "If you don't care about helping people, why follow us down here?"
 
@@ -226,7 +226,7 @@ Farleen's head snapped toward her. "I didn't say I don't care about helping peop
 
 Farleen looked like she wanted to hit her. Instead she turned back to Xion, visibly forcing herself to calm down.
 
-"We could stay here," she said, her voice tight but controlled again. "In the Surface Warrens. Safe. Hidden. Wait for the situation on the surface to calm down. Maybe a few weeks, maybe a month. But we'd be alive. We'd have options." She met his eyes. "But if we go deeper, if we start asking questions about Slaver operations, if we draw more attention after that—" A gesture toward where the fight had happened. "—we might not get the chance to wait anything out."
+"We could stay here," she said, her voice tight but controlled again. "In the Tiers. Safe. Hidden. Wait for the situation on the surface to calm down. Maybe a few weeks, maybe a month. But we'd be alive. We'd have options." She met his eyes. "But if we go deeper, if we start asking questions about Slaver operations, if we draw more attention after that—" A gesture toward where the fight had happened. "—we might not get the chance to wait anything out."
 
 "I know," Xion said quietly.
 
@@ -254,7 +254,7 @@ Elara fell silent.
 
 Xion took the remaining spot near the cold stove. His shoulder ached where Farleen had stabbed him just days ago. The wound was healing, but it still hurt when he moved wrong.
 
-Outside, the Warrens continued its unknowing rhythms. But somewhere in that darkness, word was spreading. Three outsiders in the Surface Warrens. One who fought like imperial guard. One who moved with purpose and knowledge. One who carried a healer's bag and was recognized by the locals.
+Outside, the Warrens continued its unknowing rhythms. But somewhere in that darkness, word was spreading. Three outsiders in the Tiers. One who fought like imperial guard. One who moved with purpose and knowledge. One who carried a healer's bag and was recognized by the locals.
 
 People would be talking. Making connections. Drawing conclusions.
 
