@@ -56,7 +56,7 @@ Farleen was at the clinic when he returned.
 
 He had sent no word. No one in his network knew yet; he had told no one, done nothing, moved through the day like a body on a current. But Farleen had always been a thing more easily met than explained, and she was simply there in the dim of the shut clinic, the way she had been simply there at every gate and every low place of all these months. There was no pastry in her hands this time. She looked at his face, and whatever she found there, she did not ask what had happened. She only stepped aside to let him in.
 
-He was sitting down. He didn't remember crossing to the chair. The bag was somewhere — the table, the floor. He told her what had happened at the estate, or he didn't and she already knew; the order of it left no mark. What stayed was that she stayed.
+He was sitting down. The bag was somewhere — the table, the floor. He told her what had happened at the estate, or he didn't and she already knew; the order of it left no mark. What stayed was that she stayed.
 
 The cold came in over the hours, and it did not come like grief.
 
