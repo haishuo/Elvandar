@@ -8,9 +8,9 @@ Farleen was awake.
 
 She had been awake a while, he thought — she slept light around him now, tuned to whatever it was that had taken the place of the ordinary rhythm of him. She didn't ask where he was going. She knew. He knew she knew, and the small courtesy of pretending otherwise — one of them offering the lie, the other taking it so they could both rest — wasn't a thing either of them could reach for anymore.
 
-He looked at her once, on his way to the door. It was not fear on her face, or not only that. It was the look of someone watching a person they loved walk toward a thing they could not be called back from, who had already run the arithmetic and found that anything said aloud would spend the last of something and buy nothing back with it. She stayed where she was. She stayed close — it was what she did, what she had always done — but the thing she was staying close to had changed, and her face was where the change showed.
+He looked at her once, on his way past. She didn't try to stop him. She'd tried the night before — asked him to stop, to sleep, to let the work sit an hour — and learned what there was to learn from how little it moved him. Whatever was on her face now was not fear, or not only. It was quieter than fear, and harder to meet: the look of a person watching someone they love walk out toward a thing they can't be turned from, already certain that any word said aloud will only speed him to it.
 
-He closed the door. She didn't follow. There was nothing she could have done on the far side of it that wouldn't have cost her more than it saved.
+He closed the door behind him. She didn't follow. There was nothing on the other side of it she could have said that he would have heard.
 
 ---
 
@@ -42,7 +42,7 @@ Then the register changed, and Ronas felt it change; his head canted a fraction.
 
 "Before the Coterie," Xion said. "Before any of this. You were a survivor. I saw that with my own eyes when I went down into the Warrens."
 
-Ronas's mouth twitched — not quite a smile. "What you saw. That was a long way from the worst of that place."
+Ronas's mouth twitched — not quite a smile. "What you saw. That was a long way from the worst of this place."
 
 "I know it was." He didn't argue it upward; conceding it was truer, and the truth was the whole of the tool. "But even the little I saw told me you didn't get where you are by being soft. Or stupid." He stopped. "And right now Rosik's sitting in a clean room with a cup of wine, laughing, while you and yours bleed for him out here. You see him bleeding? No. So why do a single thing he says? You've never been the kind that fetches." A short pause. "You're the toughest sonofabitch I've ever met, and we both know it."
 
@@ -51,6 +51,12 @@ Ronas laughed.
 It came up out of him before he could dress it — not the gracious laugh of a man being a good loser, but the real thing, startled loose from someone touched somewhere honest, the response clearing his teeth before the filter could catch it. Crude, and warm in its crude way.
 
 "Alright." He shook his head, still grinning. "Ya got me there, kid."
+
+Then the grin went off him, and what was left under it was older, and tired. He looked at the ledgers instead of at Xion.
+
+"You want the joke of it." Not a question. "I told him. Sat across a table from your father, close as you're to me now, and told him plain — you let a thing like this off its chain, you don't get to whistle it back after. It's not a blade you set down when the work's done. It's a fire. Goes where it wants." He turned a page he wasn't reading. "He looked at me like I was a dog that'd started talking. Your father's spent his whole life certain he knows a thing better than the poor bastards who've got to live inside it." A grunt, no humor in it. "Turns out he knew it worse than me. And I'm the one standing out here in the smoke."
+
+Xion said nothing. He set it beside the rest — one more thing laid flat with the others — that the man running the whole of this understood it least of anyone caught in it.
 
 There were no terms. No handshake, no spoken stand-down, and Xion didn't reach for one — asking for a promise would have unmade the very thing he'd just built, which was not an alliance but a man being walked back to his own interest and left there to notice it in his own time. The negotiation had been finished before it started. He had led Ronas down a path the man's own mind would have found on its own, only sooner. The arriving was the same either way.
 
