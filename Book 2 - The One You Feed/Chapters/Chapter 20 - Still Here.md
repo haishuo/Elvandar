@@ -38,7 +38,7 @@ His body had done all of it without him — the turn into the square, the crossi
 
 The estate direction was quiet.
 
-She did not come around the corner. She did not cross the square from the estate side with her particular unhurried step. She was not going to. Not today, and not the next day he might come, and not ever again, on any day — and it reached him now not as a fact he had been given in careful language and understood in every sentence, which it was, but as the plain bodily truth of an empty path where a person should have been and never would be again. He had known it for weeks. He had never once sat here and let it be true.
+She did not come around the corner. She did not cross the square from the estate side with her particular unhurried step. She was not going to. Not today, not any day — and it reached him now not as a fact he had been given in careful language and understood in every sentence, which it was, but as the plain bodily truth of an empty path where a person should have been and never would be again. He had known it for weeks. He had never once sat here and let it be true.
 
 And the cold broke.
 
@@ -50,8 +50,4 @@ He put his face in his hands, and he wept.
 
 He did not hear her come. He did not know how long he had been there, or how she had known to look, or whether she had been somewhere near for days or had only guessed the one place his feet would finally betray him to. It did not matter, and he did not ask. She came around the corner of the square — not the estate direction; her own — and she saw him at the wall, and she crossed to him, and she sat down beside him with no space left between them, and she did not say anything.
 
-There was nothing that needed saying. She put her arms around him, and he did not stiffen and he did not pull away; he turned into her, and she took the weight of it, and gave him her shoulder, and held on. She had told him once, a long time and a whole life ago, over a pastry, with a kiss between them and an interruption after it, that she would still be here.
-
-She was still here.
-
-Around them the city went on doing what the city did. Somewhere behind its walls the palace was full of meetings and papers and the slow hard work of a new order teaching itself to be a real one, and none of it slowed, and none of it came to the quiet square. There was only the low wall, and the warm stone, and the tree leaning over it, and two people beneath it — one of them broken, at last, open, and the other holding him while he was.
+There was nothing that needed saying. She put her arms around him, and he did not stiffen and he did not pull away; he turned into her, and she took the weight of it, and gave him her shoulder, and held on.
