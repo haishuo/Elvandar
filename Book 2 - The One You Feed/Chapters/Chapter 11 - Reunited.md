@@ -2,7 +2,7 @@
 
 For three days the gate told him nothing, because he no longer went to the gate.
 
-There was no point in it. He sat in the two rooms that had been the clinic and were now just the place where a useless man waited, and he did the thing he had spent his life teaching other people not to do: nothing. Kael brought what he could, which was little. Silvanno brought less. Farleen brought herself and a pastry he did not eat and sat with him in the dark, and did not once pretend that any of it helped. *Elara is alive. Elara has not woken.* That was the whole of the news, handed back to him in slightly different shapes morning and evening, and not one of the shapes gave him a single thing to do about it.
+There was no point in it. He sat in the two rooms that had been the clinic and were now just the place where a useless man waited, and he did the thing he had spent a career teaching other people not to do: nothing. Kael brought what he could, which was little. Silvanno brought less. Farleen brought herself and a pastry he did not eat and sat with him in the dark, and did not once pretend that any of it helped. *Elara is alive. Elara has not woken.* That was the whole of the news, handed back to him in slightly different shapes morning and evening, and not one of the shapes gave him a single thing to do about it.
 
 Then, on the evening of the third day, someone knocked who had never knocked before.
 
@@ -116,7 +116,7 @@ And that was the whole of it, laid open in a single question, and neither of the
 
 The dim room held nothing for a while but the sound of her breathing, which he went on listening to, counting, because it was the sound of the thing he had been told he could not save.
 
-He had come into that room a man with nothing he could do. Sitting in the chair no one had given him leave to take, he understood that this had stopped being true — and that its stopping was the worst thing in the room, worse than the poison, worse than the wall. Because the thing he could do now was the thing he had spent his whole life making certain he would never do.
+He had come into that room a man with nothing he could do. Sitting in the chair no one had given him leave to take, he understood that this had stopped being true — and that its stopping was the worst thing in the room, worse than the poison, worse than the wall. Because the thing he could do now was the thing he had, all his life, made certain he would never do.
 
 "They won't reform," he said. "The Coterie. You've spent three months proving it, and it nearly cost you your life to prove it. They can't be talked onto a better road, because the road they're on *works* — it fills the wells, and it keeps the tokens, and it grinds people up so quietly that everyone thanks them for the water. You can't out-propose it. You can't out-vote it. You certainly can't out-wait it; waiting is the thing it does best of all." He heard his own voice go level and flat and somewhere he didn't quite recognize. "It can't be fixed from the inside. It can only be broken from the outside. And I am the only man in this city who was raised on the inside and is standing on the outside."
 
@@ -140,7 +140,7 @@ He stayed until the physician came to send him out — until Elara's eyes had lo
 
 Then he walked back out through the gate that had opened for him, into a city that was, for one more night, still his father's.
 
-He did not feel the cold settle. There was no moment he could have pointed to, no line he felt himself step across. He had spent his whole life becoming a healer precisely so that he would never have to become the other thing his blood had on offer — and walking downhill in the dark, already turning over warehouses whose locations he did not yet know and men whose names he had not yet learned, he understood that he was going to reach for the other thing now, and use the whole of it. Not the healer's eye — that one was Mira's, and she had only ever given it to him for mending; he would not drag it down into this. The other sight. His father's. The patience that could wait years for a thing to ripen. The reading of a system not for where it hurt, but for where it would break. All of it, turned around and aimed back up the hill at the man who had put it in him.
+He did not feel the cold settle. There was no moment he could have pointed to, no line he felt himself step across. He had made himself a healer, year by year, precisely so that he would never have to become the other thing his blood had on offer — and walking downhill in the dark, already turning over warehouses whose locations he did not yet know and men whose names he had not yet learned, he understood that he was going to reach for the other thing now, and use the whole of it. Not the healer's eye — that one was Mira's, and she had only ever given it to him for mending; he would not drag it down into this. The other sight. His father's. The patience that could wait years for a thing to ripen. The reading of a system not for where it hurt, but for where it would break. All of it, turned around and aimed back up the hill at the man who had put it in him.
 
 He was going to become his father, in order to break his father.
 

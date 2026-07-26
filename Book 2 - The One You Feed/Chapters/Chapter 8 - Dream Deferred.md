@@ -70,7 +70,7 @@ And underneath the stillness, in the place where the patient man had lived — t
 
 The girl could be made not to exist.
 
-It was not a plan. A plan would have consulted the intelligence he did not yet have — who she truly was, who stood around her, how the city held her, whether her death now would open the door back to his claim or slam it forever. The patient man would have gathered all of that first. But the patient man was, for the moment, simply gone, burned off in a single breath by a smiling boy, and what remained reached past every legitimate instrument of the state Kalden had spent his life constructing — past the Chancellery, past the Guard, past the chancellor and the general and the whole gleaming apparatus of a destiny — and reached for the one instrument that had never been meant to see the light.
+It was not a plan. A plan would have consulted the intelligence he did not yet have — who she truly was, who stood around her, how the city held her, whether her death now would open the door back to his claim or slam it forever. The patient man would have gathered all of that first. But the patient man was, for the moment, simply gone, burned off in a single breath by a smiling boy, and what remained reached past every legitimate instrument of the state Kalden had built over twenty years — past the Chancellery, past the Guard, past the chancellor and the general and the whole gleaming apparatus of a destiny — and reached for the one instrument that had never been meant to see the light.
 
 "Send for the master of the Shadow Corps," he said, to the empty room, and somewhere a servant heard, and went.
 

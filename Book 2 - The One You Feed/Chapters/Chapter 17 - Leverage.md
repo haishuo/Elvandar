@@ -52,13 +52,13 @@ It came up out of him before he could dress it — not the gracious laugh of a m
 
 Then the grin went off him, and what was left under it was older, and tired. He looked at the ledgers instead of at Xion.
 
-"You want the joke of it." Not a question. "I told him. Sat across a table from your father, close as you're to me now, and told him plain — you let a thing like this off its chain, you don't get to whistle it back after. It's not a blade you set down when the work's done. It's a fire. Goes where it wants." He turned a page he wasn't reading. "He looked at me like I was a dog that'd started talking. Your father's spent his whole life certain he knows a thing better than the poor bastards who've got to live inside it." A grunt, no humor in it. "Turns out he knew it worse than me. And I'm the one standing out here in the smoke."
+"You want the joke of it." Not a question. "I told him. Sat across a table from your father, close as you're to me now, and told him plain — you let a thing like this off its chain, you don't get to whistle it back after. It's not a blade you set down when the work's done. It's a fire. Goes where it wants." He turned a page he wasn't reading. "He looked at me like I was a dog that'd started talking. Your father's gone his whole life certain he knows a thing better than the poor bastards who've got to live inside it." A grunt, no humor in it. "Turns out he knew it worse than me. And I'm the one standing out here in the smoke."
 
 Xion said nothing. He set it beside the rest — one more thing laid flat with the others — that the man running the whole of this understood it least of anyone caught in it.
 
 There were no terms. No handshake, no spoken stand-down, and Xion didn't reach for one — asking for a promise would have unmade the very thing he'd just built, which was not an alliance but a man being walked back to his own interest and left there to notice it in his own time. The negotiation had been finished before it started. He had led Ronas down a path the man's own mind would have found on its own, only sooner. The arriving was the same either way.
 
-He picked up his bag. He walked out of the Iron Hall and back up through the Midlevels and the Tiers and the narrowing dark toward the light, and the people who had watched him come in watched him go, and not one of them moved to stop him. The shape of his father was still on him — Kemvimore, even with the name taken off him, even now — and the ones trained to know that shape on sight had not yet caught up to the fact that it no longer meant what they thought it meant.
+He took his bag and walked out of the Iron Hall and back up through the Midlevels and the Tiers and the narrowing dark toward the light, and the people who had watched him come in watched him go, and not one of them moved to stop him. The shape of his father was still on him — Kemvimore, even with the name taken off him, even now — and the ones trained to know that shape on sight had not yet caught up to the fact that it no longer meant what they thought it meant.
 
 ---
 

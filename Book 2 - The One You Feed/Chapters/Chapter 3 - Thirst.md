@@ -28,7 +28,7 @@ The tally-man looked up at his approach with the practiced irritation of a man w
 
 "…Lord Kemvimore." He actually straightened.
 
-Xion hated hearing it. He always would. Master Fen could read the girl's pulse and count out spoonfuls and coax a body back from the lip of drought — and Master Fen could not get one cup past this man's ledger. Only the other one could do that. Only the name he had spent his whole life trying to set down.
+Xion hated hearing it. He always would. Master Fen could read the girl's pulse and count out spoonfuls and coax a body back from the lip of drought — and Master Fen could not get one cup past this man's ledger. Only the other one could do that. Only the name he had spent years trying to set down.
 
 "The house in that doorway." He nodded back at it. "A full allotment. This week, next week, the month, if I take it into my head to come back and check. Put it on House Kemvimore."
 
@@ -56,7 +56,7 @@ It was the same quiet square as before, the same swept and waterless fountain at
 
 "There was a girl." He didn't elaborate. He found he couldn't, quite. "She'll live. This time."
 
-Melina closed her eyes for a moment, and when she opened them the report came out of her the way bad news comes out of someone who has decided the kindest thing is to be quick about it. "It's going to get worse before it does anything else, and I need you to hear how, because you'll hear it wrong from everyone else." She turned the ring on her finger, once. "Elara went for the whole thing this week. Not a reform. Abolition. Hereditary water tokens struck out entirely, root and branch, the whole distribution framework gone."
+Melina closed her eyes for a moment, and when she opened them the report came out of her the way bad news comes out of someone who has decided the kindest thing is to be quick about it. "It's going to get worse before it does anything else, and I need you to hear how, because you'll hear it wrong from everyone else." The ring turned once under her thumb. "Elara went for the whole thing this week. Not a reform. Abolition. Hereditary water tokens struck out entirely, root and branch, the whole distribution framework gone."
 
 "And the Coterie killed it."
 

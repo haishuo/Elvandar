@@ -10,7 +10,7 @@ Kael's contacts on the Warrens' upper edge brought it to him, secondhand and a d
 
 There wasn't one.
 
-That was what he could not get past. He had spent his whole life learning to read a man like Rosik — to find, beneath any act however ugly, the cold sum it was meant to come to. He read these the way he'd read a hundred others, waiting for the pattern to rise up out of them, and it did not rise, because there was nothing underneath to make a pattern with. The violence took nothing. It frightened no one toward any table. It guarded no asset, opened no negotiation, gained no ground. It was Ronas's less-leashed men in the Surface Warrens doing what such men do when the hand that holds them opens — and the hand had opened, and that was the whole of it, and it was killing people for no reason a ledger could hold.
+That was what he could not get past. He had been reading his father since he was a boy — finding, beneath any act however ugly, the cold sum it was meant to come to. He read these the way he'd read a hundred others, waiting for the pattern to rise up out of them, and it did not rise, because there was nothing underneath to make a pattern with. The violence took nothing. It frightened no one toward any table. It guarded no asset, opened no negotiation, gained no ground. It was Ronas's less-leashed men in the Surface Warrens doing what such men do when the hand that holds them opens — and the hand had opened, and that was the whole of it, and it was killing people for no reason a ledger could hold.
 
 And slowly, across those three days, sitting with report after report that refused to add up, Xion understood the thing he had been refusing to understand since the first body.
 
@@ -40,7 +40,7 @@ She didn't. She looked at him, and what was in her face he had never once seen t
 
 They sat with it a moment. It was the first thing they had ever agreed on about their father, and it was the worst possible thing to agree on.
 
-Then she gathered herself back up, the way she always did, and stood. "I'll keep at him. Somebody in that house has to." She brushed the dust from her skirt, and the old dryness came back, thin but real — but under it now was something harder. "I can't do it from the inside alone, though. He's shut every door I ever used. You've got the outside — your channels, your people, all the ways into this that I don't have. We have to get ahead of it before it eats the whole city." She looked down at him. "So put it together. What you find and what I find. Both ends."
+Then she gathered herself back up, the way she always did, and stood. "I'll keep at him. Somebody in that house has to." She brushed herself down, and the old dryness came back, thin but real — but under it now was something harder. "I can't do it from the inside alone, though. He's shut every door I ever used. You've got the outside — your channels, your people, all the ways into this that I don't have. We have to get ahead of it before it eats the whole city." She looked down at him. "So put it together. What you find and what I find. Both ends."
 
 He turned it over. He didn't want to admit how much sense it made — but things had gone further than either of them could hold from one side.
 
