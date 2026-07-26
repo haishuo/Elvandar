@@ -130,6 +130,10 @@ Her first act toward him was a systems correction — *your operation has a fata
 
 **Division of inheritance — keep this absolute:** *Mira gave him the practice; Janice gave him the cover.* Values from one, tradecraft from the other. If Janice begins supplying meaning as well as method, she crowds out Mira, who has to carry three books.
 
+**Corollary: Janice is never a source of absolution.** Xion's defining wound is that Mira was executed and he stood mute — every treatment since is a coin paid into a ledger that cannot balance. Janice must never forgive him, never tell him it wasn't his fault, never touch the guilt directly. She stays in the operational register permanently. The moment she offers comfort about Mira she is doing Mira's work, and both characters deflate.
+
+**This is also why he cannot take her copper.** Janice wants a number in the book; Xion is already keeping one. Hers is a business record meant to make the operation survivable. His is a debt to a dead woman that must never close — and a patient who pays converts restitution into commerce and voids the payment. Neither of them knows they are arguing about two different ledgers. It is why the argument has run a dozen times without moving, and why he has no answer for her: *"Xion opened his mouth and found there was nothing in it. There never was, at this part."* The honest answer is that the patients are not the point, and he cannot say that to her or to himself.
+
 ### Her Sight
 
 *(Proposed, not yet confirmed.)* Her injury is her eyes — a weaver losing her sight, which is a career-ending diagnosis and an unaffordable one.
