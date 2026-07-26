@@ -48,7 +48,7 @@ By the end of the second day there was no coalition. Not broken — dispersed. M
 
 ---
 
-Afterward — somewhere quiet, the two of them, because the cold did not celebrate and there was nothing in Xion to celebrate with — Silvanno went back over what was left, the way a man does when he means to be sure a finished thing is truly finished. The room held the flat, particular silence of something just ended.
+Afterward — somewhere quiet, the two of them, because the cold did not celebrate and there was nothing in Xion to celebrate with — Silvanno went back over what was left, the way a man does when he means to be sure a finished thing is truly finished. One of the five had been his own mother, and the intelligence that turned her had come up through him in the first place; neither of them said so. The room held the flat, particular silence of something just ended.
 
 "That was..." Silvanno said. He stopped. He chose. "Impressive."
 

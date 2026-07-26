@@ -66,7 +66,7 @@ He was dimly aware of Farleen watching him. She had always been able to read him
 
 By the time the light shifted at the window, he was working.
 
-It did not feel like a decision. Decisions had a texture, a moment of weighing, and there was no weighing in this — only that the operational picture was there, whole, assembled out of the heist and the network and months of gathered intelligence, and the part of him that read such pictures was the only part still fully awake. Rosik was cut off at the knees and reeling. Ronas's men were loose. The moment was exact and it would not hold. These were facts, and facts were a country he could still stand in when everything else had washed out from under him.
+It did not feel like a decision. Decisions had a texture, a moment of weighing, and there was no weighing in this — only that the operational picture was there, whole, assembled out of the heist and the network and months of gathered intelligence, and the part of him that read such pictures was the only part still fully awake. Rosik was cut off at the knees and reeling. Ronas's men were loose. The thing he had run to the low wall to put in Melina's hands — his father's move against Tania's money — was in his own hands now, and it was no longer a warning. It was a lever. In the operational picture, everything was. The moment was exact and it would not hold. These were facts, and facts were a country he could still stand in when everything else had washed out from under him.
 
 She let him work through the night. Then, when the grey at the window had warmed toward morning and he had not stopped or looked up in longer than was right, she came and put herself between him and the work.
 
