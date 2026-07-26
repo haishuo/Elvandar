@@ -104,15 +104,43 @@ She does not need Xion to concede. She needs the clinic to survive, and a humili
 
 ## Backstory
 
-Almost nothing is stated. What the text supports:
+She is older than Xion — enough to needle him, enough to have known the previous generation. She owns her weaver's shop outright, or near enough to decide who uses the back of it, and has run it through at least the twenty years since The Rending.
 
-She is older than Xion — enough to needle him, enough to have known the previous generation. She owns her shop outright, or near enough to make decisions about who uses the back of it. She has run it through at least the twenty years since The Rending.
+She knew Mira Fen. Her line *"the woman whose name you took wouldn't have argued with me about the copper"* establishes acquaintance, and Xion's reply — *"She'd have argued with you for an hour and then done exactly what she wanted"* — establishes that they knew her *the same way*, well enough to disagree about her temperament.
 
-Critically, **she knew Mira Fen.** Her line *"the woman whose name you took wouldn't have argued with me about the copper"* establishes acquaintance, and Xion's reply — *"She'd have argued with you for an hour and then done exactly what she wanted"* — establishes that they knew her *the same way*, well enough to disagree about her temperament. Whether Janice housed Mira's work as she now houses Xion's is unestablished and would be worth deciding.
+### The First Patient
 
-She took in a fifteen-year-old — or, more likely, a nineteen-year-old who had been working alone since he was fifteen — gave him a room, learned his cipher, and never asked his name. Her motive for that is the largest deliberate gap in her characterization and probably should stay one.
+**Janice was one of the first people Xion ever treated — before he had the name.**
 
-*Sourcing note: Janice appears in ch1, ch7, ch11, and ch13, and in the last three she is scenery — a location, a back door, and one line about three routine patients. Essentially all characterization above derives from the Chapter 1 rewrite. She has no independently established history, family, age, or physical description, and no dialogue anywhere outside Chapter 1.*
+He was fifteen. Mira had been executed with two words, and the boy came down out of the Noble District carrying what she had taught him and nothing else, and started working. Janice was among the earliest. He treated her because she needed it, under his own name, because at fifteen it had not yet occurred to him that he needed another one.
+
+She was the one who told him:
+
+> Janice looked at him. "You can't keep that name. Not if you want to keep doing this."
+>
+> Xion's face became thoughtful, then determined. "Fen. Master Fen."
+>
+> Janice's face broke into a grin. "Welcome, Master Fen."
+
+This is the load-bearing fact of the relationship, and it reverses the Chapter 1 argument entirely. Janice did not merely tolerate the clinic — **she authored its security**. The false name was her instruction. Five years later she is still giving the same instruction, about the copper, about the ledger, about the free care being the tell, and he is still not taking it. Her nagging is not nagging. It is the continuation of the single piece of advice that made his whole life possible, from the person who gave it.
+
+It also means the name she uses in Chapter 1 is not a nickname. **"Fen" is the name she was present for**, still in use after five years, while she has never once said the other one aloud.
+
+Her first act toward him was a systems correction — *your operation has a fatal flaw, fix it* — delivered by a patient to her healer, before she owed him anything. She was his security audit before she was his landlady. The Engineer primary is visible from the first minute they knew each other.
+
+**Division of inheritance — keep this absolute:** *Mira gave him the practice; Janice gave him the cover.* Values from one, tradecraft from the other. If Janice begins supplying meaning as well as method, she crowds out Mira, who has to carry three books.
+
+### Her Sight
+
+*(Proposed, not yet confirmed.)* Her injury is her eyes — a weaver losing her sight, which is a career-ending diagnosis and an unaffordable one.
+
+Hands are already taken three times over (Tam, Korvin in ch14, Xion's own), so a fourth would blur. Failing sight explains what she actually does on the page: front-of-house and counting rather than fine work, unpicking by feel, and the ch1 line *"She held the unpicked row up to the light, squinting at the gap in it."*
+
+A fifteen-year-old cannot cure it. He could slow it, and he could tell her the truth about it, which nobody had — and he would have asked permission before looking. The debt is not that he healed her. **The debt is that he asked, and then told her the truth.**
+
+Thematically: in a book whose central mechanism is a woman whose eyes reveal everything, Janice's eyes are the ones going out — and she is the one who has made not-seeing into a discipline. *"I've never asked where the money comes from."*
+
+*Sourcing note: Janice appears in ch1, ch7, ch11, and ch13. In ch11 and ch13 she is scenery — a back door and one line about three routine patients. Her ch1 and ch7 material derives from the review-pass rewrites; the first-patient backstory above is author-established and is not dramatized anywhere in Book 1.*
 
 ---
 
@@ -124,9 +152,13 @@ Her only real scene, and it carries the book's thesis in its second register. Sh
 
 He gives the coin anyway. The boy is taken. She does not gloat, and instead delivers the diagnosis Xion will spend twenty-four chapters trying to escape: he could not say his own name.
 
-### The Fixture (Chapters 7, 11, 13)
+### The Silence (Chapters 7, 11, 13)
 
-She recedes to setting. In ch7 the clinic is "the back entrance behind Mistress Janice's weaver shop." In ch11 it is the door Xion opens with his own key, in the scene where he confesses the alias to Elara — **she is not present for the unmasking of the secret she has kept for five years.** In ch13 she sees three routine patients while surveillance closes in on her shop, and then she is gone from the series.
+In ch7 she watches Xion come through her door grey-faced with a stranger, looks at Elara a beat longer than politeness allows, and then takes up watch at the front window with shears and cloth nobody ordered. She says nothing, and lets him keep lying about "a friend's clinic." Her shears are still going past closing.
+
+In ch11 the door is opened with Xion's own key and the alias is confessed to Elara — **she is not present for the unmasking of the secret she has kept for five years, and the name she gave him is handed to someone else without her in the room.**
+
+In ch13 she sees three routine patients while surveillance closes on her shop, and then she is gone from the series.
 
 ### The Debt (Unwritten)
 
@@ -154,7 +186,7 @@ She calls him "Fen," always. She has never said "Xion" and never said "Kemvimore
 
 ### Mira Fen
 
-Acquainted, and unsentimental about her. Janice's *"and look how that ended"* is the coldest line spoken to Xion in Book 1 — a reference to an execution, delivered as a closing argument about bookkeeping. That she can use Mira's death as a rhetorical instrument, to a man she is protecting, tells us she grieves operationally: the lesson she took from Mira's death was *this is what happens to healers who do exactly what they want*, and she has been trying to make Xion the exception ever since.
+Acquainted, and unsentimental about her. Janice met the boy in the weeks after Mira's execution and her practical response to a grieving fifteen-year-old was to tell him to change his name — which is either the coldest or the kindest thing anyone did for him that year, and is probably both. Janice's *"and look how that ended"* is the coldest line spoken to Xion in Book 1 — a reference to an execution, delivered as a closing argument about bookkeeping. That she can use Mira's death as a rhetorical instrument, to a man she is protecting, tells us she grieves operationally: the lesson she took from Mira's death was *this is what happens to healers who do exactly what they want*, and she has been trying to make Xion the exception ever since.
 
 ### Elara Valanar
 
@@ -190,6 +222,7 @@ Her tragedy is structural rather than dramatic: **she is correct, she is early, 
 ## Open Questions
 
 1. **What happens to her in the ch13 raid?** The largest debt the rewrite creates. Grain cartel forces hit her shop within the hour and the text never returns to her. Options: she is taken and it costs Xion something he cannot pay; she is warned and vanishes, leaving the coded patient book behind; she is unharmed because the cartel wants Xion, not a weaver, which is its own kind of insult. Doing nothing is no longer neutral.
-2. **Did she know Mira Fen professionally, or house her too?** If the clinic predates Xion, Janice's whole relationship to it changes — she becomes the institution's continuity rather than its landlord.
-3. **Does she ever learn who Elara is?** She is one of two people who can read the patient book, and Elara spends days in the clinic.
-4. **Who plays Janice in Book 2?** With the clinic gone and the alias burned, the chair she occupies — the ally with better information who tells Xion to stop and is right — is vacant. Farleen fills it in ch19 and Elara in ch22, both within Book 1. If nobody fills it in Book 2, Xion's central trait goes unchallenged, which is functionally the same as losing it.
+2. **Confirm or veto the failing-sight detail.** The rest of the first-patient backstory is settled; the specific injury is not.
+3. **Does the naming scene ever surface on the page?** It works as pure backstory. But two places could carry a two-line version without a flashback: Janice's exit around ch13, and Book 3 ch1, where Xion chooses "Fen" as a surname — if she is alive, she is the person to tell.
+4. **Does she ever learn who Elara is?** She is one of two people who can read the patient book, and Elara spends days in the clinic.
+5. **Who plays Janice in Book 2?** With the clinic gone and the alias burned, the chair she occupies — the ally with better information who tells Xion to stop and is right — is vacant. Farleen fills it in ch19 and Elara in ch22, both within Book 1. If nobody fills it in Book 2, Xion's central trait goes unchallenged, which is functionally the same as losing it.
