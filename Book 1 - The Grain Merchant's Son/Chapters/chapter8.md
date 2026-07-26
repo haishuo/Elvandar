@@ -36,7 +36,7 @@ Xion felt his shoulder beginning to ache—not from the wound, but from tension.
 
 "In the Water District," he said, voice tight, "people are turned away from wells because their tokens aren't current. Because their family's water rights were revoked over unpaid taxes. Because they were born to the wrong bloodline." He gestured to the fountain. "And here, they water *decorative plants*."
 
-Elara's breathing had gone shallow. When Xion glanced at her, he caught the flash of amber in her eyes before she forced them back to blue.
+Elara's breathing had gone shallow. When Xion glanced at her she was perfectly still, and he had learned by now that her stillness was the thing to watch.
 
 "Keep walking," he murmured. "Don't look too long."
 
@@ -80,7 +80,7 @@ Elara squeezed them shut, but not before he saw violet blaze like fire. When she
 
 "When you take the throne, they'll fight you every step of the way." Xion's shoulder was screaming now, but he pushed through it. "This system works for them. They profit from it. They won't give that up without a fight."
 
-"Then let them fight." Her eyes flashed violet again, held it for a heartbeat longer than was safe. "I'm not afraid of nobles who think wasting water is their birthright."
+"Then let them fight." She said it to the fountain, not to him. "I'm not afraid of nobles who think wasting water is their birthright."
 
 "You should be." He caught her arm, pulling her away from the fountain, away from the watching eyes. "They're dangerous precisely because they don't think they're doing anything wrong. They'll destroy you with clear consciences because in their minds, maintaining their privileges *is* the greater good."
 

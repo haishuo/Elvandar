@@ -30,7 +30,7 @@ He watched her process this, saw the moment everything clicked into place. The w
 
 "Yes."
 
-"The one whose name the Slavers used to fabricate Tam's debt." Her eyes flashed amber before she caught herself. "The one who tried to save him while I just stood there and watched."
+"The one whose name the Slavers used to fabricate Tam's debt." She said it flatly, the way she'd said *a sporting chance* to a man in a snake mask. "The one who tried to save him while I just stood there and watched."
 
 "You didn't just stand there. You wanted to help. I saw it in your face, in the way you moved forward before catching yourself." Xion set down the lamp. "You lost control because you cared. That's why I looked for you. That's why I knew you were real."
 
