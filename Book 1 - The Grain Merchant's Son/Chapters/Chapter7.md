@@ -24,7 +24,17 @@ Elara studied his face, clearly skeptical. "You're sure your friend won't ask qu
 
 The walk to Mistress Janice's weaver shop felt longer than he remembered. Each step jarred his shoulder, and by the time they reached the familiar back entrance, Xion's vision was swimming. He fumbled with the latch, muscle memory guiding hands that trembled slightly.
 
-"Through here," he managed, leading Elara through the beaded curtain into the back room.
+Janice was at her counter with a bolt of undyed linen half-measured across it. She looked up as they came through — at Xion, grey-faced and sweating; at the strange young woman holding him upright; at the door he had opened without knocking.
+
+Xion said nothing at all.
+
+Janice's eyes went to Elara and stayed there a moment longer than politeness allowed. Then she set the linen down, picked up her shears, and moved to the front window, where she began cutting a length she had no order for.
+
+"Through here," Xion managed, leading Elara through the beaded curtain into the back room.
+
+"Your friend's shopkeeper doesn't ask questions either," Elara observed.
+
+"No," he said. "She doesn't."
 
 The clinic looked exactly as he'd left it—shelves of carefully labeled tinctures, clean bandages stacked in neat rows, the smell of dried herbs and antiseptic. Home, in a way his rented room had never been.
 
@@ -172,7 +182,7 @@ She was right, of course. His body was already betraying him, exhaustion and fev
 
 But as Xion eased himself onto the cot, feeling Elara's eyes still on him, he wondered if either of them believed it.
 
-The clinic's familiar sounds settled around them—the creak of old wood, the rustle of dried herbs, the distant sounds of the city beyond. Tomorrow they would have to leave, to keep moving, to plan their next steps.
+The clinic's familiar sounds settled around them—the creak of old wood, the rustle of dried herbs, the distant sounds of the city beyond. Out front, well past the hour she usually closed, Xion could hear the small dry rhythm of Janice's shears, going on and on over cloth nobody had ordered. Tomorrow they would have to leave, to keep moving, to plan their next steps.
 
 Tonight, for the first time since Farleen's blade had found his shoulder, Xion let himself feel safe.
 
