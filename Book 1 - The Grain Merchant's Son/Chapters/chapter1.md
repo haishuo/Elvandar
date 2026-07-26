@@ -108,7 +108,7 @@ At the center of the throng, Tam stood against the wall, pale and shaking, his l
 
 The words were out of him before he knew he’d chosen them, ringing across the square in a voice that carried too well. Heads turned. Somewhere behind his own, in the part of him that was still standing in a doorway that morning, he heard Janice say it first.
 
-No one stepped forward to back him up. But a woman near the fruit stall looked at him a moment longer than the rest, and did not look away when he noticed.
+No one stepped forward to back him up.
 
 The slaver’s grin was slow and practiced. “Documentation says otherwise. Boy’s word against the city books. You have proof, friend?”
 
@@ -140,7 +140,7 @@ Xion stared at them, rage boiling up. He couldn’t do anything. Not here. Not l
 
 The crowd began to dissolve. The spell of spectacle was broken; there was no help coming. The slavers dragged Tam away, ignoring his protests, his pleas for his mother. Xion watched until the boy disappeared around a corner, the pain in his chest settling like a stone.
 
-He lingered, fists trembling, while the last onlookers slipped away. The sun was dipping low, shadows growing long across the square. He scanned the crowd for the woman in the hood, but she was gone. The woman by the fruit stall was gone too.
+He lingered, fists trembling, while the last onlookers slipped away. The sun was dipping low, shadows growing long across the square. He scanned the crowd for the woman in the hood, but she was gone.
 
 For a long moment, Xion stood alone. He should have run after Tam, should have chased the woman with impossible eyes. Instead he did nothing. His feet were rooted to the paving stones, as if the city itself were holding him in place.
 
