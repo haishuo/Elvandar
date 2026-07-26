@@ -1,6 +1,6 @@
 # Chapter 16: Disinheritance
 
-He did not remember the walk back to the clinic.
+He found himself at the clinic as if he had simply appeared there.
 
 There was the low wall, and the light going, and the messenger's shape retreating across the square — and then there was the clinic, and he was inside it, at the little table, and between the two there was nothing at all. His feet had carried him home without consulting him. He kept finding the gap the way your tongue keeps finding a missing tooth, absently, again and again, and it gave nothing back.
 
@@ -16,7 +16,7 @@ Xion read it once. Then his hand picked up the medical bag without asking him, a
 
 ---
 
-He did not remember that walk either.
+He was at the estate's gate before he had the sense of having left the clinic.
 
 The estate met him the way it always met him — flawless, swept, arranged for looking and not for living. He was through the gate and down the hall before any of it reached him as more than a sequence of surfaces. And then he was in the room, and the room was not empty, and that was the first thing that arrived whole.
 

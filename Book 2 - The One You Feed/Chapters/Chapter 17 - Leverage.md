@@ -14,9 +14,7 @@ He closed the door behind him. She didn't follow. There was nothing on the other
 
 ---
 
-He didn't remember the walk.
-
-There was the door, and then there was the Warrens, and in between only the gap where his mind hadn't bothered to keep anything. Somewhere in it the city had gone down around him — the streets narrowing, the stone dropping level by level, the mortar between the courses turning careless and then simply absent, lamplight standing in for a sun he'd left behind at the surface. The Tiers. Then lower. People at this hour who were either closing out a night or starting a day built to look no different from it, and who read him once and did the sum and let him pass.
+The descent had already happened by the time he registered it. The streets that had carried him down went by unrecorded; what reached him came late and secondhand — the city going down around him, the passages narrowing, the stone dropping level by level, the mortar between the courses turning careless and then simply absent, lamplight standing in for a sun he'd left behind at the surface. The Tiers. Then lower. People at this hour who were either closing out a night or starting a day built to look no different from it, and who read him once and did the sum and let him pass.
 
 He had been here before. He knew it the way a body knows a place it nearly died in.
 
