@@ -32,7 +32,7 @@ He arrived at Xion's rooms without ceremony, nodded once, and set down what he'd
 
 "And Elara?"
 
-"I haven't seen her. Iron business gets me the record rooms and the supply offices, not the throne room." Kael's eyes, which missed very little, stayed level on him. "But the clerks have seen her. She argues more than she did. She stays later. And the moment she's out of the room they stop being careful about their faces." He let that sit a moment, then gave Xion the whole of it in the shape he preferred, which was as short as the truth allowed. "She has the title. They have the machinery. Right now the machinery is winning, because a title has to be obeyed and machinery just runs."
+"I haven't seen her. Iron business gets me the record rooms and the supply offices, not the throne room." Kael's eyes, which missed very little, stayed level on him. "But the clerks have seen her. She argues more than she did. She stays later. And the moment she's out of the room they stop being careful about their faces." He let that sit a moment, then gave Xion the whole of it in the shape he preferred, which was as short as the truth allowed. "She has the title. They have the machinery. Right now it's winning, because a title has to be obeyed and machinery just runs."
 
 Xion said nothing for a moment. It was, almost word for word, the thing he had spent four pages trying to tell her and been thanked for his concern.
 
@@ -116,7 +116,7 @@ He knew better now than he had that morning. He knew, from Kael, that the machin
 
 He sealed it.
 
-In the morning he would carry it to the courier at the outer wall and hand it into the machinery himself, and the machinery would take it with perfect courtesy — and there was no way for him to know whether a single word of it would reach her the way he'd meant it, or whether what reached her would be his at all.
+In the morning he would carry it to the courier at the outer wall and hand it into the machinery himself, which would take it with perfect courtesy — and there was no way for him to know whether a single word of it would reach her the way he'd meant it, or whether what reached her would be his at all.
 
 He sent it anyway.
 
