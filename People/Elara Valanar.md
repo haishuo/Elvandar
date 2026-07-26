@@ -68,7 +68,7 @@ The Sa Ko Ren single combat is the cleanest demonstration of the misreading. She
 
 The same pattern holds throughout. The three thugs in the Warrens: combat reflex protecting her party, not a contest. The masquerade wall-scaling: escape, not victory. The Book 2 paralysis: she would *gladly* never fight a political battle again if the cartels would simply stop hurting people. A genuine Spirited Competitor primary would *miss* the arena. Elara would feel relief.
 
-**Shadow:** Because her combat capacity is so visible and her Competitor drive so low, she consistently underestimates how she reads to others. The street fight destroys their anonymity not because she enjoyed the fight but because she lacked the strategic restraint to choose evasion. Farleen's criticism — "You just told everyone in the Surface Warrens exactly what you are" — is valid. Elara fights like a champion but does not think like one, because the part of her that *thinks* is Caretaker and Truth Seeker, neither of which weighs reputational cost the way a Competitor would.
+**Shadow:** Because her combat capacity is so visible and her Competitor drive so low, she consistently underestimates how she reads to others. The street fight destroys their anonymity not because she enjoyed the fight but because she lacked the strategic restraint to choose evasion. Farleen's criticism — "You just told everyone in the Tiers exactly what you are" — is valid. Elara fights like a champion but does not think like one, because the part of her that *thinks* is Caretaker and Truth Seeker, neither of which weighs reputational cost the way a Competitor would.
 
 ### Founder (Sixth)
 

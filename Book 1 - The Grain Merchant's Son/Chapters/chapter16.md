@@ -64,7 +64,7 @@ Farleen spoke before anyone else could. "We don't have to do this."
 
 "We need the information—" Xion started.
 
-"No." Her voice was quiet but firm. "We don't *need* it. We could walk away right now. Stay in the Surface Warrens. Wait for things to calm down on the surface. This—" She gestured back toward Arlo. "—is a choice. The same choice I told you was insane yesterday."
+"No." Her voice was quiet but firm. "We don't *need* it. We could walk away right now. Stay in the Tiers. Wait for things to calm down on the surface. This—" She gestured back toward Arlo. "—is a choice. The same choice I told you was insane yesterday."
 
 "Tam is running out of time," Xion said.
 

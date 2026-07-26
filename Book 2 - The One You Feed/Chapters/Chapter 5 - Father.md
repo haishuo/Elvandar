@@ -68,7 +68,7 @@ Melina had come in at some point and set herself, without seeming to, at an angl
 
 ---
 
-Melina walked him as far as the garden gate, which was as far as she went, because she lived on the inside of it and he didn't anymore.
+Melina walked him as far as the garden gate, which was as far as she went, because she lived on the inside of it and he, by his own choice, did not.
 
 "He means it about the week," she said.
 
