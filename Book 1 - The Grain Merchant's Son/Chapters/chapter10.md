@@ -46,7 +46,7 @@ Four nobles clustered around one of the ballroom's many water features, their la
 
 They watched as one of the young nobles—a woman in an elaborate bird mask—gestured expansively with her wine glass, sloshing expensive vintage onto the marble floor. A servant appeared instantly to clean it, and the woman didn't even glance down.
 
-Elara's eyes flashed amber before she caught herself.
+Elara set her glass down on a passing servant's tray with great care, as though it were the one thing in the room she could still govern.
 
 "Dance with me," Xion said quickly, offering his hand. "Before you forget where we are."
 
@@ -70,9 +70,9 @@ The storyteller's audience found it hilarious.
 
 "I don't care."
 
-"Yes, you do." He met her eyes, saw them cycling—blue to amber to violet and back. "You care about changing this. And you can't change what you don't understand."
+"Yes, you do." He met her eyes. They were blue, and holding them blue was visibly costing her. "You care about changing this. And you can't change what you don't understand."
 
-She took a shuddering breath, forcing her eyes back to blue. "Then help me understand. Make me see what you see when you look at them."
+She took a breath and held it, the way she'd practiced. "Then help me understand. Make me see what you see when you look at them."
 
 The music shifted to something livelier, and new couples joined the floor. Xion guided Elara to the edge of the ballroom, claiming a small table in an alcove where they could observe without being surrounded.
 
@@ -82,7 +82,7 @@ The music shifted to something livelier, and new couples joined the floor. Xion 
 
 "Either they adapt—find ways to live with the contradiction—or they're destroyed by it." He thought of people he'd known who'd tried to push back, who'd challenged the system in small ways. None of them had ended well. "The system doesn't tolerate dissent."
 
-A new couple swept past their table—a man in an elaborate hawk mask partnered with a woman whose gown probably cost more than Xion's clinic earned in a year. They were laughing about something, their ease with each other speaking to long familiarity.
+A new couple swept past their table—a man in an elaborate hawk mask partnered with a woman whose gown probably cost more than Xion had ever managed to spend on the clinic in a year. They were laughing about something, their ease with each other speaking to long familiarity.
 
 "Lord Terrik and his wife," Xion identified. "Grain cartel, allied with my father. They donate generously to the temples, sponsor festivals, fund public works."
 

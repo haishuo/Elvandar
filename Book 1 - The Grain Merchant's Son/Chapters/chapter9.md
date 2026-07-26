@@ -44,13 +44,13 @@ Elara raised an eyebrow. "This should be interesting."
 
 Direct translation: *Your dress is unfashionable and poorly fitted.*
 
-He watched Elara's eyes flash amber before she caught herself. Her jaw tightened, and for a moment he thought she might respond as the Arol Batae had trained her—with either a verbal takedown or a physical one.
+He watched the amber start up in her eyes and watched her put it down again, fast, before it finished. Her jaw tightened, and for a moment he thought she might respond as the Arol Batae had trained her—with either a verbal takedown or a physical one.
 
 Instead, she smiled, though the expression didn't reach her eyes. "How kind of you to notice. I was just thinking your tailor must be terribly busy, given how... established your current fashion appears."
 
 Translation: *Your clothing is so outdated it's practically ancient.*
 
-"Good," Xion said, dropping the act. "But your eyes gave you away. They shifted the moment I insulted you."
+"Good," Xion said, dropping the act. "You caught your eyes. Barely."
 
 "I caught it."
 
@@ -116,7 +116,7 @@ This time when she moved, something shifted. The military precision softened int
 
 "Better," Xion murmured, and realized he'd moved closer without meaning to.
 
-Elara's eyes met his, and he saw them flicker—blue to amber, but not from anger this time. Something else. Something that made his breath catch.
+Elara's eyes met his and did not move at all, which he was beginning to understand cost her more than letting them.
 
 Then she stepped back, the moment breaking like a soap bubble.
 

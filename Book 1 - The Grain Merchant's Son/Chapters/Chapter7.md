@@ -2,7 +2,7 @@
 
 By the second day, Xion could no longer ignore the fever.
 
-He'd tried. Pride and stubbornness had kept him moving through their exploration of the Water District, explaining the intricate system of well permits and distribution quotas while sweat beaded on his forehead. But when Elara caught him swaying against a wall, her eyes flashing amber with concern, he knew the pretense was over.
+He'd tried. Pride and stubbornness had kept him moving through their exploration of the Water District, explaining the intricate system of well permits and distribution quotas while sweat beaded on his forehead. But when Elara caught him swaying against a wall and simply stopped walking — no question, no alarm, just stopped, and waited for him to admit it — he knew the pretense was over.
 
 "It's infected," she said flatly, reaching for his shoulder.
 
@@ -142,11 +142,11 @@ She finished tying off the bandage, her movements thoughtful. "You're lucky to h
 
 "I am." The words felt both true and false.
 
-Elara moved around to face him, still close enough that he could see the exact moment her eyes shifted from blue to something warmer.
+Elara moved around to face him, still close enough that he could hear her breathing change.
 
 For a moment, they simply looked at each other. Xion became acutely aware of how near she stood, how the afternoon light from the window caught in her dark hair, how her expression held something he couldn't quite name.
 
-This close, he could see the faint scar on her chin—probably from training. Could count the exact shades her eyes cycled through when she wasn't guarding them. Could feel the warmth radiating from her in the small space between them.
+This close, he could see the faint scar on her chin—probably from training. Could see how much of her stillness was training and how much was effort. Could feel the warmth radiating from her in the small space between them.
 
 She reached up, and he thought for a dizzying moment that she might touch his face. Instead, her fingers found the edge of the bandage, checking its security with professional detachment.
 

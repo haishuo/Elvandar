@@ -118,7 +118,7 @@ Elara stood as well, moving with fluid grace. "Then we understand each other. I'
 
 "And what do we do with that responsibility?"
 
-"We use it." Her eyes flashed violet—the color of royal determination. "We know how the system works because we're part of it. That makes us dangerous to it."
+"We use it." She said it evenly, without heat, which somehow made it worse. "We know how the system works because we're part of it. That makes us dangerous to it."
 
 "Or dangerous to ourselves."
 
