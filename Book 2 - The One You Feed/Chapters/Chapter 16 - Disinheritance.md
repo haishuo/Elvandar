@@ -40,7 +40,7 @@ Not because he couldn't. Because he saw the move. *Your sister* was bait — a d
 
 So he said nothing.
 
-It was not the silence of the boy he had been at fifteen — the one with no words in him at all, standing there while his father spoke two of his own and the only mother Xion had ever known was led off to die. That boy had been frozen; the silence had happened to him. This one he chose, with his eyes open, because it was the single thing in the room his father could not turn to his own use. He stood in the wreckage of his family and refused to hand the man the fight, and it was the nearest thing to a victory on offer anywhere in that house, and it tasted of nothing at all.
+It was not the silence of the boy he had been at fifteen — the one who had lain senseless while his father unmade the world in two words, and woke to find the only mother he had ever known already gone, and, understanding it, had no words of his own at all: no plea, no argument, only a boy standing dumb in a room. That boy had been frozen; the silence had happened to him. This one he chose, with his eyes open, because it was the single thing in the room his father could not turn to his own use. He stood in the wreckage of his family and refused to hand the man the fight, and it was the nearest thing to a victory on offer anywhere in that house, and it tasted of nothing at all.
 
 And then — for less than a breath, so brief that a part of him was already insisting he'd imagined it — something moved beneath his father's composure that Xion had no name for.
 
