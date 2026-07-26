@@ -283,13 +283,13 @@ He did it anyway. Because there was no other way.
 **Characters present: Xion, Melina, Kael, Silvanno, Farleen (Rosik offscreen throughout — his turn to chaos is inferred from the violence, never shown)**
 **Emotional work: The model breaks — Xion discovers his father has a mode he's never seen**
 
-Xion expects surrender. His entire model of Rosik is the unflappable chess master — cold, strategic, always calculating the optimal move. A man who's lost his economic base, whose coalition is fracturing, who has no remaining leverage, should do what rational actors do: negotiate the best exit available.
+Xion expects surrender. His entire model of Rosik is the unflappable strategist — cold, exact, a man who never spends a coin, of money or of blood, he can't see the return on. (Plain strategy language only — no chess/board/pieces, in prose or here.) A man who's lost his economic base, whose coalition is fracturing, who has no remaining leverage, should do what rational actors do: negotiate the best exit available.
 
 But Xion has never seen his father desperate. He doesn't know what happens when the Competitor runs out of moves and refuses to concede. He doesn't understand that Rosik's identity — the man who wins, the man who solves it, the man who is always the most capable person in the room — cannot survive surrender. Surrender means being wrong. Being wrong means the last twenty years were a lie. The work that kept the grief at bay was pointless. The locked room with the portrait opens.
 
 Xion never witnesses the decision. Through scattered, strategically senseless violence in the Surface Warrens — reported by Kael's Iron contacts, Silvanno's channels, and Farleen — he slowly, sickeningly infers that his father, whom he has never once seen desperate, has abandoned strategy entirely. The reader infers Rosik's off-page order ("the leash is off, use whatever means necessary") alongside him. Ronas's less-controlled lieutenants begin operating independently; the city destabilizes.
 
-Melina appears here for the **last time alive**. Horrified by the violence but certain the transactional world still functions, she resolves to go negotiate with Ronas's people herself ("there's always an angle"). Xion argues against it and cannot land it — his own certainty about Rosik has just shattered, and hers hasn't. They part on an ordinary note: *"Be careful." / "I always am, brother… Same time next week?"* That line pays off directly in Chapter 15.
+Melina appears here for the **last time alive** — but the beat is now **shared bewilderment**, not confidence. For the first time she cannot read their father either: *"It isn't like anything. I've always known what that man is doing. Always. And I don't."* It's the first thing the siblings have ever agreed on about Rosik, and the worst. Out of it they form an **alliance**: she keeps working him from inside the house, Xion works his channels from outside, and they will **reconvene** to put it side by side. She does **not** announce going into the Warrens herself — her fatal overreach happens off-page, a departure from this plan (revealed in Ch16). They part distracted, not lingering: *"Same time next week?" / "Same time next week,"* Xion already turning the problem over — *if Rosik has abandoned leverage, the question is not what he wants, but what he thinks he has already lost.* The reconvene is the appointment Ch15 is built to break. (No "be careful" farewell — that reads as a death-telegraph.)
 
 Cartel-funded muscle running loose in the Warrens is a civil order problem, not an existential one — precisely the kind of thing that has never been the Ver'anar's jurisdiction, and still isn't. This is a Coterie failure, to be answered by Coterie means (or, as it turns out, by Xion). No one calls for the war-magic corps because no one — including Elara — has yet had reason to think of them as an answer to anything.
 
@@ -302,15 +302,11 @@ Cartel-funded muscle running loose in the Warrens is a civil order problem, not 
 **Characters present: Xion (and Melina — but only in memory after this)**
 **Emotional work: The cost arrives, and it has a name**
 
-**Critical structural device:** Across the preceding chapters, Xion and Melina have established a rhythm — a regular meeting, same place, same time. Maybe every third day, maybe weekly, but consistent enough that it has become a fixture. The reader has experienced this meeting point repeatedly across seven chapters. It's where the political updates happen, where the sibling relationship lives, where the reader has come to expect Melina. The routine is comforting in its predictability in an unpredictable world.
+**Critical structural device:** Across the preceding chapters, Xion and Melina have met at the same **place** — the low wall — but the arranged **interval VARIES** (day after tomorrow, next week, three days, two days). The constant is the *place* and Melina's own reliability: she is never late. Do NOT read this as a fixed weekly ritual — a rigid schedule would telegraph the death like a Chekhov's gun; her dependability lives in *her*, not in a countdown. What the reader has internalized across the book is simply: when Xion is at the wall, Melina comes from the estate direction.
 
-Xion arrives at the usual place. The usual time.
+**The opening (the amputated future).** Before the wall, Xion is at the clinic, buried in the work, and finds the first real breakthrough in days — through Silvanno's Water channels: Rosik is about to *raid* Tania Larannas's shadow funds. Xion sees at once what it means — his father crossing a line he's never crossed (confirming the unraveling), *and* a lever. Warn Tania, peel Water off Rosik, then Sa Ko Ren, and bring the coalition down plank by plank with minimum harm. **Contain, not destroy** — the compassionate, unmistakably-Xion plan, and the mirror of Rosik (same strategic brain, opposite optimization). It's the kind of clean unmaking Melina would have admired, and he's electric to bring it to her — she's the one who'll spot the flaw. Absorbed, he loses the afternoon; a **temple bell** jogs him; he **rushes** to the wall, eager, and for once is nearly late himself. He makes it. He sits.
 
-And waits.
-
-And *waits*.
-
-A horrible feeling begins sinking into the pit of his stomach. Maybe she's just late. Like the zero times she's ever been late to their meetings. Maybe she got held up. Maybe she fell down and twisted an ankle. Maybe Rosik needed her for something and the council session ran long. Xion's mind spins through mundane explanations — desperately trying to stay in the world where Melina is alive and things like "running late" still apply.
+And waits. And *waits*. The eagerness has nowhere to land and curdles — *she should be here… where is she?* — into the cold-water hinge: **she is never late.** A horrible feeling begins sinking into the pit of his stomach. Maybe she's just late. Like the zero times she's ever been late to their meetings. Maybe she got held up. Maybe she fell down and twisted an ankle. Maybe Rosik needed her for something and the council session ran long. Xion's mind spins through mundane explanations — desperately trying to stay in the world where Melina is alive and things like "running late" still apply.
 
 Hours pass. The light changes. People walk by. Xion doesn't move.
 
@@ -412,7 +408,7 @@ Xion systematically dismantles Rosik's remaining coalition. Two days of pure psy
 
 To Sa Ko: "I thought Terinok warriors were honorable. Elara proved her valor to you in single combat. Yet you ally with the man who tried to have her assassinated?" (He believes this, even though it's wrong — the dramatic irony burns.) Appeals to shame.
 
-To Tania: "The winds blow against you now. Rosik's finished. Join the winning side before it's too late." Pure transactional fear.
+To Tania (the weathervane): Xion doesn't push — he lays it out and lets her do her own math, the restraint itself the respect. He gives her the one thing she may not have: that Rosik was about to *raid her own shadow funds* before the end (the Ch15 seed paid off), dropped as an offhand aside — and pointedly does NOT say the obvious drowning-man conclusion, which she reaches herself in the silence. She asks only *what do I get*; the answer is enough. (NOT the blunt "join the winning side" hard-sell — that register is Ronas's; Tania needs its opposite.)
 
 He's being everything Rosik was — calculating, strategic, weaponizing his understanding of human psychology. And it works. Every target falls. Rosik is completely isolated. No allies, no money, no leverage.
 
@@ -501,6 +497,8 @@ Curtains.
 
 The book ends on this image: two people at a low wall in a quiet square, one of them broken open, the other holding him. Not on the unsolved future — though the future is unsolved. Not on the political wreckage — though the wreckage is real. The book ends on the proof that the cold was temporary, that the Rosik path is not the only path, that the thing which makes Xion different from his father is the willingness to break — and that someone was there to hold him when he did.
 
+**Final-prose note (revision):** the book ends **wordless**, on the embrace — the last line is *"and held on."* The explicit Chapter 4 callback, the stated *"She was still here,"* and the closing city-wide-shot were all **cut** so the narrator never spells out the payoff. The chapter **title** ("Still Here") carries the thesis, and Farleen "coming around the corner" — *her own*, not the estate direction — lands the Ch15 corner-motif by proximity. Elara is rendered restrained (glad she's alive, the institution still separating them), never present at the break; the triangle stays open.
+
 ---
 
 ## Structural Notes
@@ -510,7 +508,7 @@ The book ends on this image: two people at a low wall in a quiet square, one of 
 
 **Melina appearances:** Chapters 1, 3, 5, 7, 9, 10, 12, 14 — eight appearances before her death in Chapter 15 (Ch. 10 is the assassination aftermath; Ch. 14 is her final living scene, ending on "Same time next week?"). She is present in roughly two-fifths of the book before she dies. Her role as primary information conduit makes these appearances organic rather than forced.
 
-**The meeting rhythm:** Xion and Melina establish a regular meeting — same place, same time, recurring across the book. This rhythm is comforting in its predictability and becomes a structural fixture the reader relies on. When Chapter 15 opens with Xion arriving at the usual place and Melina not being there — and not being there, and *still* not being there — the reader's own pattern breaks before the messenger arrives. The absence is felt before it is explained. This is the single most important structural device for making Melina's death land as a gut punch rather than an intellectual event.
+**The meeting rhythm:** Xion and Melina meet at the same *place* (the low wall), but the *interval VARIES* across the book (day after tomorrow, next week, three days, two days) — **never a fixed weekly ritual**, because a rigid schedule would telegraph the death like a Chekhov's gun. The constant the reader internalizes is the *place* plus Melina's own reliability: she is never late. When Chapter 15's wait runs long and Melina still doesn't come, the reader's own expectation breaks before the messenger arrives. The absence is felt before it is explained. This is the single most important structural device for making Melina's death land as a gut punch rather than an intellectual event.
 
 **Rosik's calculation (re: Melina-Xion contact):** Rosik deliberately permits Melina to meet with Xion because he views her as his proxy — a channel through which he can influence Xion's perception of events. Melina is his front woman in council; why not his front woman with his son? What Rosik doesn't fully account for is that Melina is a person, not a pipe. She transmits not just what Rosik wants Xion to hear but also her own observations, fears, and warnings — including the Ronas foreshadowing that Rosik never intended to share.
 
