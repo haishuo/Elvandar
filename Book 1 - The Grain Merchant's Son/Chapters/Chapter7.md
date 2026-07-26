@@ -120,7 +120,7 @@ Xion's pulse quickened. Had he given something away? "He's very particular about
 
 "People trying to survive long enough to change things."
 
-Elara's hands worked steadily, wrapping the bandage with surprising skill. "The Arol Batae taught me battlefield medicine. But this—" she gestured to the organized clinic, "—this is different. More refined."
+Elara's hands worked steadily, wrapping the bandage with surprising skill. "He labels everything twice," she said. "Once in script, and once in something that isn't script. That's a cipher."
 
 "Master Fen takes his work seriously." Xion kept his voice neutral, fighting the urge to elaborate. "He believes everyone deserves proper care, regardless of their station."
 

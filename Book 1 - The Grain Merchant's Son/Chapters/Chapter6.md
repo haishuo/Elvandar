@@ -1,6 +1,6 @@
 # Chapter 6: First Steps
 
-The morning sun cast long shadows through the narrow streets as Xion led Elara away from their hidden alcove. His shoulder ached with each step, but the pain felt distant compared to the surreal reality of walking beside the last heir to the Ruby Throne.
+The morning sun cast long shadows through the narrow streets as Xion led Elara out of the shuttered storeroom where they'd passed the night — a cooper's back building, rented by the week from a man who counted coins and asked nothing. His shoulder ached with each step, but the pain felt distant compared to the surreal reality of walking beside the last heir to the Ruby Throne.
 
 "Stay close," he murmured, pulling his hood up despite the growing heat. "And keep your eyes down until we're clear of the merchant district."
 
@@ -108,4 +108,4 @@ By late afternoon, his shoulder was beginning to throb, and he knew they'd need 
 
 Tomorrow would bring new challenges. Tonight, they would need shelter and time to plan their next move.
 
-Behind them, the temple bells chimed noon, marking another day of cartel rule in a city that called itself free while its people counted themselves lucky to survive until sunset.
+Behind them, the temple bells chimed the hour, marking another day of cartel rule in a city that called itself free while its people counted themselves lucky to survive until sunset.

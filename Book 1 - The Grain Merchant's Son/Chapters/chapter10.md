@@ -186,17 +186,17 @@ The group turned to regard her, surprise evident even behind their masks.
 
 "It's tradition," the snake-masked noble explained. "Admittedly evolved from its origins, but tradition nonetheless. The hunt builds camaraderie, allows nobles to demonstrate skill—"
 
-"By murdering human beings for entertainment."
+"How resourceful of you."
 
-The temperature in the conversation dropped precipitously. Xion reached for Elara's arm, but she'd already stepped forward, her posture shifting from bored socialite to something far more dangerous.
+She said it lightly. Xion, who had spent three days teaching her to say things exactly that lightly, felt the floor tilt.
 
-"My dear lady," Tervan said, his indulgence curdling into condescension. "I can see you're unfamiliar with how we maintain order in Kaha'an. Perhaps in Uratha—"
+"I imagine the wagering is the difficult part." Elara turned her wine glass a quarter turn, the way he'd shown her, the way a woman does when a conversation has begun to bore her. "So hard to set fair odds. When the field is starving."
 
-"In Uratha, we don't consider hunting people a social activity."
+For a moment—a heartbeat, no more—it landed as wit. Tervan's mouth moved toward a smile. The snake-masked noble began to laugh.
 
-"Then perhaps Uratha has grown soft." The snake-masked noble's voice hardened. "We do what's necessary to maintain civilization. If that offends your delicate sensibilities—"
+Then he stopped, because he had looked at her eyes.
 
-Xion saw it happening and couldn't stop it. Elara's eyes flashed amber, then violet, cycling through colors with her rising rage. 
+She was still smiling. Her voice had not changed. Her hand on the glass was perfectly steady, and her eyes had gone amber, then violet, cycling through the colors with nothing behind them she could reach.
 
 The conversation stopped mid-word.
 
@@ -244,12 +244,10 @@ They dropped together into the alley beyond, landing hard but rolling to absorb 
 
 "Where?" Elara asked.
 
-"Anywhere but here," Xion replied quickly. His mind raced. "The clinic—we can lay low there for a bit. They won't be looking for us there."
+"The clinic."
 
-"We've already put your friend Master Fen in enough danger," Elara objected, even as they dashed through the streets.
+"We've already put your friend Master Fen in enough danger."
 
-"I don't have time to explain," Xion shouted back, as they stormed away from the Larannas estate. "Just keep up, I promise I'll tell you everything."
+"I know." He didn't slow down. "Ask me again when we're inside."
 
-Xion swore he could hear something suspiciously close to "You damn well better" coming from Elara's direction, but when he glanced back her face betrayed nothing.
-
-They ran through the darkening streets as behind them, the alarm bells began to ring.
+Behind them the alarm bells began—the Larannas house first, then the bells of the district taking it up, then the whole Noble Quarter ringing into the dark. Xion ran, and understood as he ran that whatever they had been doing in this city until tonight, they were not doing it anymore.
