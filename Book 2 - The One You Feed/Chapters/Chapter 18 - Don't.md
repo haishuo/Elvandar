@@ -32,11 +32,13 @@ Tania Larannas was another instrument, and he played her in another key.
 
 She had spent her whole life reading the wind — everyone knew it of her — and she did not need telling which way it had turned now. Her people had laid the table the poison came off, and the weeks since had not been easy ones to be seen near Rosik in. Xion read her plain: no believer in anyone's cause, a survivor who had backed what looked like the winning side and would back the next the moment the figures were past arguing.
 
-He didn't ask her to care about Elara. He didn't reach for honor, or loyalty, or the good of the city. He set it in front of her the way she herself would have set it in front of someone else.
+He didn't ask her to care about Elara. He didn't reach for honor, or loyalty, or the good of the city. He didn't sell her anything at all. With Tania you set the thing on the table and let her count it herself; the restraint was the respect, and it was the only kind she had any use for.
 
-"The winds blow against you now. Rosik's finished." A beat. "And you'd want to know — he was going to come for you before the end. The quiet money. The accounts no one's meant to know you keep. He was going to open you up to hold himself upright one more month, and leave the theft standing under somebody else's name." He let it sit the length it needed. "Join the winning side. Before it's too late."
+"I don't think you need me to tell you which way things are going with Rosik." He said it mildly, almost as an aside. "And he was going to steal from you, before the end — the quiet money, the accounts no one's meant to know you keep. Thought you should know."
 
-She asked one question — not *will you keep me safe* but *what do I get* — and his answer was enough. She had been waiting, he was fairly sure, for nothing more than someone with better sight than her own to confirm the thing she already half-knew: that there was a winning side, that it had a plan, and that the door onto it had not yet shut.
+He didn't say the rest of it. The rest of it didn't want saying, and saying it would only have been an insult: that Rosik was a drowning man now, and a drowning man grasps at whatever's nearest and drags it under with him, and a woman still holding his hand when he went would go down inside his grip. Tania could run that sum faster than he could speak it. In the beat of silence before she answered, she already had.
+
+She asked one question — not *will you keep me safe* but *what do I get* — and his answer was enough. She had been waiting, he was fairly sure, for nothing more than someone with clearer sight than her own to confirm the thing she'd already half-settled: that there was a winning side, that it had a plan, and that the door onto it had not yet shut.
 
 ---
 
