@@ -188,7 +188,7 @@ She understood.
 
 Xion lay on his makeshift bed and listened to Elara's breathing gradually slow and deepen. Tomorrow they'd have to plan their next move, figure out where to go when the clinic inevitably became unsafe. Tomorrow they'd need to deal with guards and cartels and the consequences of her eyes revealing everything.
 
-But tonight, in this small space that represented everything he'd tried to be for the past ten years, he let himself feel something close to peace.
+But tonight, in this small space that represented everything he'd tried to be for the past five years, he let himself feel something close to peace.
 
 The grain merchant's son and the hidden empress, two people with secret identities and impossible dreams, finding unexpected shelter in the simple work of healing.
 

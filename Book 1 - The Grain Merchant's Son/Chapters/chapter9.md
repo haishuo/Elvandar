@@ -90,7 +90,7 @@ The observation touched something he usually kept carefully buried. "Maybe. Or m
 
 "You don't believe that."
 
-"I don't know what I believe anymore." He met her eyes. "Xion Kemvimore, dutiful son of the Grain cartel master—that's the mask I wear to survive. But who I am underneath..." He shrugged. "I'm still figuring that out."
+"I don't know what I believe anymore." He met her eyes. "There's a name I answer to that isn't the one my father gave me. Some days it fits better." He shrugged. "Most days, if I'm honest. I'm still working out what that makes me."
 
 They sat in companionable silence for a while, the afternoon sun slanting through the window to paint the dusty floor in gold. Outside, the city continued its daily rhythm—merchants calling their wares, children playing in the streets, the distant sound of temple bells marking the hour.
 
@@ -146,13 +146,13 @@ The second day, Xion brought clothes.
 
 He'd spent the morning visiting contacts throughout the city—discreet merchants who dealt in second-hand finery, a seamstress who owed Master Fen a favor, a friend from his noble days who kept old formal wear in storage. By the time he returned to the apartment, his arms were loaded with silk and brocade.
 
-Elara looked up from the etiquette manual he'd borrowed from Silvanno's library, her eyes widening slightly. "What is all that?"
+Elara looked up from the etiquette manual he'd taken from Silvanno's library two years ago and never returned, her eyes widening slightly. "What is all that?"
 
 "Your disguise." He laid the garments across the room's single bed. "We can't have you showing up in that same brown dress you've been wearing since you left the compound."
 
 She moved to examine the clothing, fingers brushing across expensive fabric. "This must have cost—"
 
-"Nothing we can't afford." He'd dipped into the funds he kept separate from his father's allowance, money earned through years of treating patients as Master Fen. "Besides, nobles expect a certain level of display. Show up underdressed and you might as well wear a sign saying 'I don't belong here.'"
+"Nothing we can't afford." He'd dipped into the funds he kept back from his father's allowance, skimmed a little at a time over five years — the same money that bought bandages and fever powder, spent now on silk. "Besides, nobles expect a certain level of display. Show up underdressed and you might as well wear a sign saying 'I don't belong here.'"
 
 Elara held up a gown in deep blue silk, its bodice embroidered with silver thread. "This is beautiful."
 
@@ -178,7 +178,7 @@ Xion stepped back to assess the full effect. The blue silk brought out the color
 
 "Like you belong," he said, which was both truth and evasion.
 
-TThey spent the rest of the day on the finer points—how to manage voluminous skirts, how to sit gracefully, how to use a fan for communication. Folded meant disinterest, slowly waving meant *I'm listening*, snapped shut meant *this conversation is over*.
+They spent the rest of the day on the finer points—how to manage voluminous skirts, how to sit gracefully, how to use a fan for communication. Folded meant disinterest, slowly waving meant *I'm listening*, snapped shut meant *this conversation is over*.
 
 "This is insane," Elara said, practicing with the borrowed fan. "How do people remember all these signals?"
 

@@ -36,7 +36,7 @@ Through the second door lay a maze of passages that felt more lived-in than the 
 
 Women. Not many, but they were there—moving through the corridors with quiet efficiency, carrying supplies or tending to household tasks. The Arol Batae weren't entirely a male preserve, then. His pulse quickened. If the princess was hidden here, she might be disguised among them.
 
-The first woman he encountered was middle-aged, her graying hair streaked with white. Too old. The second was young but fair-haired, nothing like the dark-haired figure he remembered from that night. The third—
+The first woman he encountered was middle-aged, her graying hair streaked with white. Too old. The second was young, but she glanced up at his footsteps with plain brown eyes and went back to her counting. The third—
 
 She knelt beside an open crate in a storage alcove, checking its contents against a written list. Dark hair pulled back in a practical style, the right build, the right age. From behind, she could be anyone. But something about her posture, the way she held herself...
 
@@ -44,11 +44,11 @@ Xion approached slowly, his heart hammering. "Excuse me."
 
 She turned.
 
-Those eyes. Beautiful and deep blue, exactly as he remembered them. He'd seen those eyes for only a moment in a crowd, but they'd haunted his dreams for weeks. Eyes that had watched a child being dragged away and couldn't hide their pain.
+Those eyes. Deep blue, and he had seen them for perhaps two heartbeats, in a crowd, at dusk, under a hood — and he would have known them anywhere. Eyes that had watched a child being dragged away and couldn't hide their pain.
 
 Recognition hit him like a physical blow. This was her. The woman from the crowd, the one who'd lost control when the Slavers took Tam.
 
-Her face confirmed it—the same delicate features, the same expression of carefully controlled emotion. But now her eyes were wide with something that looked like panic.
+He had never seen her face. He realized it standing there — that in five days of certainty he had not once known what she looked like. But he knew the stillness. The same held quality he'd seen at the edge of the market square, a body deciding whether to move. And now her eyes were wide with something that looked like panic.
 
 She recognized him too.
 
