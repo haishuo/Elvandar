@@ -60,9 +60,11 @@ He would. He had been sitting in the same corner all morning.
 
 Xion looked at the swept, dry fountain in the middle of the square and said nothing for a moment.
 
-He had done this. That was the thought that came to him, unwanted and exact. Not the paralysis — but the terms of it. When Elara had been nobody, a woman with impossible eyes learning her own city street by street, it had been Xion who showed her the truth of it. The water rights that priced the poor out of drinking. The debts conjured from nothing. The hunger the Grain cartel manufactured and called order. He had shown her the wounds because they were real and because she needed to see them to be worth anything on that throne, and he had been right to.
+He had done this. The thought came to him unwanted and only half-formed, and he did not finish it, because finishing it would have required a cost he could not yet put a face to. When Elara had been nobody, a woman with impossible eyes learning her own city street by street, it had been Xion who showed her the truth of it — the water rights that priced the poor out of drinking, the debts conjured from nothing, the hunger the Grain cartel manufactured and called order. He had shown her the wounds because they were real, and because she needed to see them to be worth anything on that throne, and he had been right to.
 
-And now she sat above a council of the people who ran those wounds, and she could not touch them, because he had taught her to see them clearly. She looked at the Coterie and saw the disease, correctly, and could not bring herself to use the only hands that knew how to move the city — because the hands were the disease. He had given her the truth. The truth had become the walls of her cell. He had put her on the throne and handed her, in the same motion, the reason she couldn't rule from it.
+And now she sat above a council of the people who ran those wounds, and could not touch them.
+
+He turned away from where that led.
 
 "You've gone somewhere," Melina said, watching him.
 
