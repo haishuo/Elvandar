@@ -10,7 +10,7 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 > what remade Rosik. At the old age of 20 he was an infant then and could hold no such memory.
 > **Xion is now 23.** To keep `age − 15 = duration` true, the fourteen Book 1 references to
 > Master Fen's "five years" became "eight years"; every "fifteen" is untouched, because the boy who
-> woke to find Mira executed and said nothing has to stay a boy. Elara remains 20 (locked by ch6 prose,
+> stood in the east hall and could not make himself speak has to stay a boy. Elara remains 20 (locked by ch6 prose,
 > "her twenty years"), so the two are no longer the same age. Book 1's prose is revisable on the
 > author's ruling — nothing in the series is published yet — but it is still the most authoritative
 > record there is, and sheets yield to it unless the author says otherwise.

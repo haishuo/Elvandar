@@ -130,35 +130,52 @@ age asks for a gap relative to Xion, not an absolute age, and six-against-three 
 
 ## 4. Character guardrails
 
-### Xion — the Mira moment (verified against B1 ch22 prose)
+### Xion — the Mira moment (B1 ch22, rewritten 2026-07-27)
 
-**He was unconscious for it. He did not witness Mira's execution and could never have prevented it.**
-B1 ch22 is unambiguous and the sequence is: he sneaks out for the flower → is caught in the rainstorm
-near the Warrens, slips, hits his head, **loses consciousness** → Mira guesses where he went, braves
-the storm, carries him back → Rosik demands an explanation, learns of the lessons, says *"Execute her"*
-→ **Xion wakes the next morning** to the flower on his bedside table, *"her final gift before they took
-her."* His own words: *"The execution was over before Xion even woke"* (sheet), and in ch22, *"I woke up
-the next morning and the flower was on my bedside table."*
+**He was there. He got there in time. He said nothing.** The canonical sequence:
 
-**What he is actually guilty of is a failure to protest, not a failure to rescue.** Told afterward, in
-front of his father, he did nothing — didn't beg, didn't argue, didn't throw himself at Rosik's feet.
-Ch22 has him concede the futility himself and refuse the comfort of it: *"You could say it wouldn't have
-mattered… And you'd probably be right. But I didn't even **try**."*
+1. At fifteen he sneaks out for a rare flower Mira had mentioned; a rainstorm catches him near the
+   Warrens; he slips, hits his head, and is knocked unconscious.
+2. Mira guesses where he went, braves the storm, and carries him home.
+3. Rosik is waiting. He demands an explanation and **she gives him one** — the lessons, the forbidden
+   knowledge, all of it. Xion is unconscious for this and learns it afterward, in pieces, from people
+   who were in the room.
+4. Before dawn Mira comes to his room, pries the flower out of his fist, sets it on his bedside table,
+   and leaves a note: *For my best student.* **She knows what is coming.**
+5. He wakes, reads it, understands, and runs barefoot through the house looking for his father.
+6. **He arrives in time.** Rosik is in the east hall with Mira and two of his men, and he *waits until
+   his son is through the door* before saying it. Two words. *"Execute her."*
+7. Then Rosik looks at him — not anger, which Xion had seen before, but the look of a man who has
+   finished deciding something and is watching to see whether anyone will be stupid enough to reopen
+   it. Xion understands it in half a second.
+8. He says nothing. They carry her out past him, **and he steps out of the way so they can.**
 
-**Why the distinction is load-bearing rather than pedantic.** A failure to save her could be reasoned
-away, because saving was impossible — so a guilt built on that would have dissolved years ago. A failure
-to *object* cannot be reasoned away, because objecting was always available and cost nothing but
-courage. He convicts himself on the one charge that has no defense, which is why eight years of medicine
-never settles it. Note also the slippage in his vow at the grave — he swears never again to stand still
-while someone who needs him *suffers*, converting a failure of speech into a failure of action, and then
-organizes his adult life around a debt he has misfiled. Keep the slippage; it is his, and it is the
-engine.
+**The wound is cowardice, and that is the whole point.** Not failure to save her — he concedes himself
+that nothing would have changed Rosik's mind. The charge he convicts himself on is that he was given
+the one chance he would spend his life claiming he wanted, and fear closed his mouth: *"But I didn't
+even **try**. There's a word for what that is."* A failure to save can be reasoned away as impossible.
+A failure of nerve cannot, because the proof it was available is that he was standing right there with
+the words in his mouth. He was also fifteen and afraid of a genuinely frightening man — a defense he
+has never once allowed himself.
 
-**The recurring error to watch for:** *"stood frozen while someone he loved was killed"* / *"stood mute
-at Mira's execution"* / *"did nothing to save her."* All three imply presence and a preventable death,
-and all three had drifted into Xion's sheet and this document while the sheet's own backstory section
-stated the facts correctly two sections earlier. Corrected 2026-07-27. If it reappears, the prose is
-B1 ch22 and the prose is right.
+**What this earns.** Xion quotes his father's exact two words; under any version where he is absent he
+has no way to have heard them. It also makes ch22's *"I watched what happens when someone plays judge
+over who deserves care and who deserves death"* literal rather than figurative. And it sets the rhyme
+the series runs on: **frozen silence → chosen silence.** B1 ch1, rooted to the paving stones while Tam
+is taken. B2 ch16, the same hall-silence in front of the same man, chosen this time and named as
+different in the text. Both are silences in front of Rosik; only one is a failure.
+
+**Keep the slippage in his vow at the grave.** What he failed to do was *speak*; what he swears is that
+he will never again fail to *act*. He converts a failure of nerve into a failure of duty and spends his
+adult life discharging it in the wrong currency — which is why the compulsion is *I must not hesitate*
+rather than *I must help*, and why the one move his wound forbids is the pause that would have saved
+Melina.
+
+**Superseded:** an earlier reading had him unconscious for the order and Mira dead before he woke
+(commit `1f5e53d`, and a guardrail here). That was a defensible reading of the old ch22, but it left the
+two-word quote unsourced and made the guilt merely a failure to protest a fait accompli. Do not restore
+it. If a document says he *"woke to find her already gone"* or *"was unconscious when the execution
+happened,"* it predates this revision.
 
 ### Janice
 
@@ -459,22 +476,34 @@ anyone across five years.
 develop on a six-month assignment, and a spy at the table half a year is a stranger with a knife where
 one who has been there five is family with a knife. Do not shorten it to tidy anything.
 
-**Sheets — Xion's Mira guilt conformed to B1 ch22**
+**B1 ch22 rewritten — Xion is present for Mira's sentencing, and the wound is cowardice**
 
-No prose changed; this was an internal contradiction inside `People/Xion Kemvimore.md`, which stated
-the facts correctly in its backstory section (*"Xion was unconscious when the execution happened… The
-execution was over before Xion even woke"*) and then contradicted itself four times in the thematic
-sections with *"stood frozen while someone he loved was killed."* B1 ch22 and B2 ch16 agree with the
-backstory section; the thematic passages were wrong and are now fixed.
+Two passes, and the second superseded the first. Recording both, because the intermediate state is
+still sitting in the git history and will confuse anyone who finds it.
 
-Corrected: the Caretaker-guilt passage, the grave-promise passage, the clinic-as-penance line, the
-closing "genuinely good man" passage, and the hesitation-in-Book-2 passage — plus one line in this
-document's own age-correction entry (*"the boy who stood mute at Mira's execution"*). Added a full
-guardrail under §4, because the error had reproduced itself five times in one file and will do so again
-if only the instances are fixed and not the reason.
+*Pass one (superseded):* `People/Xion Kemvimore.md` contradicted itself — its backstory section said
+Xion was unconscious for the execution, and four thematic passages said he *"stood frozen while someone
+he loved was killed."* The thematic passages were conformed to the backstory section.
 
-The correction *sharpens* the character rather than softening him: he is not a boy who watched a murder
-and froze, he is a boy who woke to a fait accompli and could not make himself say one word about it —
-and who refuses, in ch22, to let futility excuse him.
+*Pass two (current):* the author reopened it, on the grounds that ch22 is a stronger scene if Xion is
+physically there — and on a continuity hole neither reading had caught: **under the unconscious version
+Xion quotes his father's exact two words and has no way to have heard them.** The prose was rewritten
+so that he wakes, finds the flower and the note, understands, runs barefoot through the house, and
+**arrives in time** — and Rosik waits until his son is through the door before saying it, then looks at
+him. Xion says nothing. They carry her out past him and he steps out of the way so they can.
+
+The wound is therefore **cowardice**, not a failure to protest a fait accompli: he was handed the exact
+chance he would spend his life claiming he wanted, and fear closed his mouth. See the §4 guardrail for
+the full sequence and why it is load-bearing.
+
+Changed: **B1 ch22** (the account to Elara, rewritten); **B2 ch16** (the fifteen-year-old comparison —
+now one glancing clause, *"stood in a hall while his father ended the world in two words"*; an earlier
+draft imported ch22's specifics and read as recap rather than rhyme); `People/Xion Kemvimore.md`
+(backstory section plus five thematic passages); `Story Timeline.md`; the Ch16 beat draft; and the §4
+guardrail, which now locks this version and explicitly retires the old one.
+
+The change also makes ch22's *"I watched what happens when someone plays judge over who deserves care
+and who deserves death"* literal rather than figurative, and it tightens the series' central rhyme:
+**frozen silence → chosen silence**, B1 ch1 → B2 ch16, both in front of the same man.
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*

@@ -166,27 +166,41 @@ He could still remember that night. The excitement. The innocence.
 
 Elara's face had gone pale.
 
-"My father demanded an explanation. When the truth came out—the lessons, the forbidden knowledge—he…" Xion's throat closed.
+"My father was waiting when she brought me in. He demanded an explanation and she gave him one—the lessons, the forbidden knowledge, all of it. A servant teaching a noble." His mouth twisted. "That's what it cost her, in the end. Telling the truth to a man who had already decided what he was going to do with it. I wasn't awake for any of that. I learned it afterward, in pieces, from people who'd been standing in the room."
+
+"What I remember is waking up the next morning in my own bed with a splitting head. And the flower on my bedside table."
+
+He could see it so clearly. The delicate petals, bruised from the fall. The note beside it in her careful handwriting: *For my best student.*
+
+"I'd had it in my fist when she found me. She pried it out, and sometime before dawn she came into my room and set it where I'd see it, and wrote that." His voice went thin. "You don't write a note like that unless you already know what's coming."
+
+Elara's hand had come up to her mouth.
+
+"So I ran. I didn't dress, I didn't think. I just ran through that house looking for him."
+
+Xion's throat closed.
 
 He forced himself to say it.
 
-"Two words. 'Execute her.'"
+"And I got there in time. That's the thing. I got there *in time*. My father was in the east hall and she was standing there with two of his men, and I came through the door—and he waited. He waited until I was through it." A breath that didn't work. "Two words. 'Execute her.'"
 
 Elara made a small sound.
 
-"She saved my life that night. And he killed her for it." Xion's voice was barely above a whisper now. "I woke up the next morning and the flower was on my bedside table. Her final gift before they took her."
-
-He could see it so clearly. The delicate petals. The note in her careful handwriting: *For my best student.*
-
-"I was fifteen years old." His voice went flat. Quiet. The kind of quiet that costs something. "And you know what I did? When I found out? When I understood what he'd done?"
-
-Silence.
-
-"*Nothing.*" The word came out like he was spitting poison. "Absolutely nothing. I just stood there. Dumb. Mute. **Useless**. I didn't beg. Didn't argue. Didn't throw myself at his feet and scream that she didn't deserve it. I just… stood there."
+"And then he looked at me. That's the part I've never been able to put anywhere."
 
 His jaw worked.
 
-"You could say it wouldn't have mattered. That nothing I said would've changed his mind. And you'd probably be right." A breath. "But I didn't even **try**."
+"I've had eight years to find words for that look and I've never managed it. It wasn't anger—I'd seen him angry. It was the look of a man who has finished deciding something, watching to see whether anyone in the room is going to be stupid enough to reopen it." Quieter. "And I understood it. I was fifteen and I understood it perfectly, in about half a second."
+
+"I was fifteen years old." His voice went flat. Quiet. The kind of quiet that costs something. "And you know what I did? Standing right there. Close enough to touch him. With her looking at me."
+
+Silence.
+
+"*Nothing.*" The word came out like he was spitting poison. "Absolutely nothing. I just stood there. Dumb. Mute. **Useless**. I didn't beg. Didn't argue. Didn't throw myself at his feet and scream that she didn't deserve it. I just… stood there. And they took her out past me, and I moved out of the way so they could."
+
+His breath went out of him.
+
+"You could say it wouldn't have mattered. That nothing I said would've changed his mind. And you'd probably be right." A breath. "But I didn't even **try**. There's a word for what that is. I found it that morning, and I have never once been able to talk myself out of it."
 
 Tears were streaming down Elara's face now.
 
