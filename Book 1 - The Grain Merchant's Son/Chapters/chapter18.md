@@ -234,7 +234,39 @@ Tam sagged against him, trembling. "I thought—I didn't think anyone would—"
 
 "I'm here." Xion's throat was tight. "I'm getting you out."
 
-Tam nodded weakly. He couldn't seem to stand on his own. Xion shifted, getting an arm around him, taking most of his weight.
+And then the other thing took over, the way it always did, before Xion had decided anything at all.
+
+He got the boy down — a body this empty goes over the moment it stops being held — sat him against a crate and went to one knee in front of him.
+
+"Let me see your hand."
+
+Tam gave it over without being asked twice, the way he had in a back room in the Middle District a lifetime ago. Xion turned it into the torchlight and found what six weeks in a collapsed tunnel had made of his own work.
+
+The stitches were gone. Not cut — some pulled out, the rest simply given up on, the line of the wound opened along most of its length and closed again badly on its own terms. The edges stood thickened and shining, and the whole hand was fuller than its fellow.
+
+"Who's looked at this?"
+
+Nobody answered. He hadn't expected anyone to.
+
+He set the bag open on the brass floor and went to work with what was in it, which was what he had always gone to work with. Five years had taught him the arithmetic: you never had the thing you wanted, you had four things you didn't, and the craft was knowing which four and in what order.
+
+It had to come open. He told Tam so, and told him it would hurt, and did not tell him it would be quick, because it wouldn't be. Then he braced the wrist and worked the wound apart along the line it had already chosen, and pressed either side of it, and got out what had been shut in there since the surface. Tam made a sound. Xion kept talking through it — the weather, the color of a door, whatever came — the way he always talked, and kept pressing until what came was clean.
+
+The flask was light; most of it had gone on Varris's leg an hour ago. He spent what was left flushing the wound instead of putting it in the boy, and hated the trade, and made it. The last of the verbana went in after — ground weeks ago, carried since, nowhere near enough of it. Then he wrapped the hand in linen from the bottom of his bag, the last of what he'd taken off Janice's shelves before the smoke, and bound the wrist and the two fingers either side of the wound, because it would open again every time the boy closed his fist and the only way to stop that was to take the closing away from him. He knotted a sling from the same cloth and set the arm high against Tam's chest.
+
+It was good work. He knew it was good work. He had done it a thousand times with less, in a back room, by the light of one lamp.
+
+Then he laid the backs of his fingers against Tam's forehead and held them there, and the good work stopped mattering.
+
+Warm. Not hot yet. Warm, and going the wrong way.
+
+He had come to it too late. Whatever had been in that hand was in the blood now, and there was no poultice for blood. He could open the hand and clean it and dress it and splint it, and the fever would climb anyway, because it had stopped being about the hand days ago. What he carried could buy hours. It could not buy the boy.
+
+"He needs to be topside," he said — to Cullen, to Ronas, to the room. "Not tomorrow. Tonight."
+
+"That's the arrangement," Ronas said from somewhere behind him, with no particular interest in it.
+
+Tam couldn't seem to stand on his own. Xion shifted, getting an arm around him, taking most of his weight.
 
 Behind them, Ronas was already giving orders. "Cullen, get 'em topside. Market of Sighs, then straight up. Make sure they don't stop."
 
