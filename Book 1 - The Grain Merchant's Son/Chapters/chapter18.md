@@ -276,7 +276,7 @@ Xion adjusted his grip on Tam, the boy's weight pressing against his side. This 
 
 After everything—the chase, the ambush, the desperate flight through the tunnels—it felt wrong somehow. Too simple. Like the moment before something breaks.
 
-But Tam was breathing. Warm and solid and alive.
+But Tam was breathing. Solid and alive.
 
 That was what mattered.
 
