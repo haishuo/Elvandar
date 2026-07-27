@@ -14,6 +14,17 @@ Read this file before proposing any change to a chapter, beat draft, or characte
 This is the author's, it is binding, and it is ordered. When two considerations conflict, the
 lower number wins. Every proposed change gets checked against these in order.
 
+0. **Book 1 only — remember what the name of the book is.** The camera stays on Xion's
+   shoulder. This is not craft, it is the theme of the book. If someone like Janice must exist,
+   she exists through Xion's eyes and ears. The camera is either *in* Xion or *on* Xion, and by
+   default you do not describe things Xion neither sees nor does.
+
+   **Moving it off him is allowed, but it has to be argued for.** The argument must be about why
+   *this* scene earns the move in a book called *The Grain Merchant's Son* — "we are establishing
+   the entire book here," "we are ending the entire book here and this is a cinematic pull-away."
+   Those are real reasons. Inside the body of the book they are also rare: assume the move is
+   wrong roughly ninety-nine times in a hundred, and if the argument is not one you would write
+   down, don't make it.
 1. **Things must make sense.** If something becomes logically incoherent, the plot changes.
 2. **Characters must behave like themselves.** No changing people's personalities to make a
    point. *The plot serves at the sufferance of characterization, never vice versa.*

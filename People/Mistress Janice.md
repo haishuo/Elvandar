@@ -76,7 +76,7 @@ Her follow-up — *"I'd like it noted that not asking is work"* — is the singl
 
 ### Merchant (Fifth)
 
-Present, modest, and constantly misread — including, in-world, by Xion. She wants a number in the book. She runs a business. She notices that bandages have been out for three days and that nobody has budgeted for more.
+Present, modest, and constantly misread — including, in-world, by Xion. She wants a number in the book. She runs a business. She tracks what the clinic consumes and what nobody has budgeted for — though after the rule-0 pass she no longer *announces* the supply shortfall in ch1; Xion finds the last roll of linen himself and spends all of it, which shows the same fact without her narrating him.
 
 But the Merchant reading collapses on her own line: **"Hand it straight back out the door for all I care — I want a number in the book."** She does not want the copper. She wants the *ledger entry*. Accumulation is not the drive; legibility is. The Merchant energy is instrumental to the Engineer primary, which is exactly the Acquisitive Trap the framework warns about.
 
@@ -152,7 +152,9 @@ Thematically: in a book whose central mechanism is a woman whose eyes reveal eve
 
 ### The Argument (Chapter 1)
 
-Her only real scene, and it carries the book's thesis in its second register. She presses the copper, warns that free care is the tell, declines to name where the money comes from, needles him about Mira, watches him treat Tam, and objects to the silver coin — naming the exact mechanism of the coming disaster before it operates: *"Nobody down there can break a silver… So where's a boy like that going to say he got it, Fen? When they ask. And they will ask."*
+Her only real scene, and it carries the book's thesis in its second register. She presses the copper, warns that free care is the tell, declines to name where the money comes from, needles him about Mira, and objects to the silver coin — naming the exact mechanism of the coming disaster before it operates:
+
+*(Rule 0, added after the retrospective: she stays in the doorway during the treatment and is heard, not watched. The old cutaway — "She sat with her mending in her lap and watched him work… keeping whatever score it was she kept" — took the camera off Xion's hands mid-procedure and spent the needle early. What remains is "Behind him, in the doorway, the needle kept going," and then "Behind him, the needle stopped," which is her whole reaction to the silver and is stronger unspent. She is also no longer permitted the two italicised voiceovers inside the market scene; Xion reaches both realizations himself.)* *"Nobody down there can break a silver… So where's a boy like that going to say he got it, Fen? When they ask. And they will ask."*
 
 He gives the coin anyway. The boy is taken. She does not gloat, and instead delivers the diagnosis Xion will spend twenty-four chapters trying to escape: he could not say his own name.
 

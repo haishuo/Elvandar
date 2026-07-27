@@ -18,6 +18,7 @@ Organized by the rule hierarchy rather than by book, so the through-line is the 
 
 When these conflict, the lower number wins. Everything else in this document is subordinate to them.
 
+0. **Book 1 only — remember what the name of the book is.** The camera stays on Xion's shoulder. Not craft — the theme. Janice, Farleen, Elara and the rest exist through Xion's eyes and ears; the camera is *in* him or *on* him. Moving it off him is allowed but must be argued for, and the argument has to be about why *this* scene earns it in a book called *The Grain Merchant's Son* — establishing the whole book, or ending it on a cinematic pull-away. Inside the body of the book, assume the move is wrong ~99 times in 100.
 1. **Things must make sense.** If something becomes logically incoherent, the plot changes to fix it.
 2. **Characters must behave like themselves.** No adjusting a personality to make a point. *The plot serves at the sufferance of characterization, never the reverse.*
 3. **A scene designed for one emotion stays that way** — wonder, joy, triumph, despair. Resolution may happen around the edges. It must never dilute.
@@ -99,6 +100,10 @@ These are the spine. Each is already working; each could be broken by an unwary 
 | C-9 | ch23's Vesk — twenty years of fury evaporates in ten lines, and it is sequenced backwards (concedes, then attacks). |
 | C-10 | ch22 — Elara reaches for the ch15 slaver argument verbatim. Correct instinct; the text should register that she knows. |
 | C-11 | ch18 — Ronas's dialect wobbles between registers. |
+| C-16 | **Chapter endings are the weak zone in Act I** — ch1 (*"Tomorrow, he would act"*), ch2 (*"That mattered more than he wanted to admit"*), ch3 (*"Soon, he would learn if the impossible was, in fact, the truth"*) all close on narrator-stated feeling or forecast. Only ch4 closes on an event. The old draft's explain-the-theme habit did not disappear; it **retreated to the last paragraph**. ch1 fixed. Hypothesis worth testing across all 25: the later a passage sits in a chapter, the more likely it is to be un-revised. |
+| C-17 | ch3 states its best insight twice, 28 lines apart — *"spent four days building an argument for being believed"* (l.111) and *"He had spent four days wanting to be believed"* (l.139). The second adds the cost, which is new; the shared clause is repetition. |
+| C-18 | **ch4's betrayal scene is the least-revised prose in Act I.** Ten emotional descriptors (*voice cracked / burst out raw and anguished / tears gathered / crying openly / voice broke / dissolved into sobs / came out as a sob / came out as a wail / choked on the words / face breaking with grief and self-loathing*) against four purely physical ones in ch3's comparable Silvanno scene. The structural redesign of the scene is right — old-draft Farleen is cold and Xion survives by medallion; new Farleen breaks, which is what makes ch13–17 possible. The prose has not caught up to the redesign. |
+| C-19 | **Xion goes verbally passive opposite women who hold information he lacks.** ch1 (Janice) and ch4 (Farleen) both reduce him to interrupted fragments — four of eight ch4 lines are cut off mid-sentence — while ch2 gives him six speeches over fifty words opposite Silvanno and Kael. Each instance is individually defensible; the *pattern* is what a reader registers. **Check ch5 (Elara) before deciding whether this is design.** |
 
 ### Craft — Book 2
 
@@ -301,5 +306,72 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
   series. No effect on the exported HTML, which already normalized them.
 - Recorded the chapter-file conventions in CLAUDE.md §6 — filename pattern, no title heading
   inside the file, `---` scene breaks — and the regeneration step in §7.
+
+**Rule 0 established, and B1 ch1 rewritten to it**
+
+Arising from the Book 1 vs `TGMS - OLD/` retrospective. The comparison was read-only; this is
+the one change it produced.
+
+- **The finding.** The old draft's default mode is *someone more knowledgeable tells Xion
+  something*. Old ch3 hands him information **eight** times (Melina, Berakailen ×3, Farleen's
+  rescue, Kael proposing he test Farleen, Sa Ko Ren, Rosik handing over the infiltration plan)
+  and he generates none of it — he pays 1,500 imperials to ask three questions. New ch3 hands
+  him **one** ambiguous clue (Jorik's *"don't belong nowhere"*) and he converts it himself by
+  differential diagnosis. That mode is almost gone from the new draft. **Janice in ch1 was the
+  last of it**, done well enough to read as craft.
+- **The measurement.** In the opening scene of the book he is named after, Janice spoke 275
+  words to Xion's ~90 — 3:1 — with four speeches over 25 words against his longest of 15.
+  She was also on-page for 42% of the chapter *and* supplied two italicised voiceovers inside
+  the market scene she is not in, including the chapter's emotional summit. Every
+  thematically load-bearing fact about Xion arrived as her assessment of him.
+- **Not fixable by giving Xion better lines.** His muteness in the copper argument is doctrine
+  (his sheet: *the patients are not the point, and he cannot say that to her or to himself*).
+  Rule 2 closes that road. The fix was camera position, not dialogue volume.
+
+**Applied to ch1** (2,173 → 2,599 words). Janice's dialogue 275 → 210; Xion's essentially
+unchanged at ~90, which is correct.
+
+- **Opening.** *"Dawn broke over Kaha'an… Xion Kemvimore did not notice"* — the narrator
+  describing a sunrise and then stating the POV character didn't see it, in the book's first
+  three sentences. A straight rule-0 violation. Now opens inside the work: the verbana, the
+  heat, his hands. Janice arrives into a frame already his, and his habituation to her
+  (*"stopped hearing it years ago, the way a man stops hearing a clock"*) characterizes **him**.
+- **The bandages.** Her 29-word announcement that he's out cut; he now takes stock himself,
+  finds one roll, says nothing, and spends all of it on Tam. Same fact, his hands, and it
+  resolves a small incoherence — she said *"now you're out"* and he then used *"the last of his
+  clean bandages."*
+- **The mid-procedure cutaway** (*"She sat with her mending in her lap and watched him work… keeping whatever score it was she kept"*) cut to *"Behind him, in the doorway, the needle kept going."* It took the camera off his hands mid-operation and pre-loaded her verdict before he
+  gave the coin. **"Behind him, the needle stopped" preserved** — it is stronger unspent.
+- **Both market voiceovers returned to Xion.** *"He heard Janice say it first"* → he hears his
+  own voice come back off the far wall and understands what he has said in public. *"Where's a
+  boy like that going to say he got it"* → he reaches it himself, as a diagnosis: the coin is
+  evidence of a **source**, not a debt, and the paper was drawn up to give them a reason to ask.
+- **The market sag rebuilt on his instrument.** *"a tightening in the air, a ripple of unease"*
+  → he reads the crowd's **shape** (*"too dense at the middle, too still at the edges… He had
+  seen that shape at bedsides"*). The enforcer's grip lands above the wrist and Xion watches his
+  own seven stitches go dark under the linen. His half-step is stopped by correct triage, and
+  being correct does nothing for him.
+- **Two stated-theme sentences cut** (*"he could never outrun the city's hunger"*, *"Life
+  returned to its ordinary, merciless routine"*).
+- **New ending.** *"Tomorrow, he would act"* replaced. He does the arithmetic — seven silver
+  four copper, which he had on his belt at the time — and finds that paying it required being
+  somebody, and a name required an account of the money. Then the eyes come back anyway, and a
+  boy is gone and he is thinking about a woman's eyes and knows it. Hands to C-16, sets up ch2's
+  sleepless replaying, and makes ch12 (Tam's parents arriving) land far harder.
+- **Continuity.** ch1's *"gold"* → **amber**, the sole outlier in Book 1 and contradicted by ch2
+  recalling the same moment as *"Blue to amber to violet."* **Brown cloak** added, which ch3
+  already referenced and ch1 never established. *"He never saw her face"* made explicit, paying
+  ch4's *"He had never seen her face."*
+- **Preserved intact:** the verbana grinding (→ ch18's carried powder), Tam Corris / twelve /
+  left hand / glass / stitches (→ ch12, ch18, ch25), the silver coin, *"seven silver, four
+  copper"*, *"Can I have a look?"* and *"He waited. He always waited."*, every line of the copper
+  argument quoted on Janice's sheet, *"and look how that ended"*, *"eight years"*, the unpicking
+  and its three recurrences, *"Go home, Fen"*, the coded journals (→ ch13), Elara's stillness
+  and *"a body deciding whether to move"* (→ ch4).
+
+**Not applied, recorded instead:** C-16 through C-19 above — the Act I ending habit, ch3's
+double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity opposite women.
+C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the
+friends *believe* him and refuse anyway. Worth re-checking before acting on it.
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
