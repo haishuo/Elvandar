@@ -50,7 +50,7 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **The Janice chair** — the ally with better information who says stop and is right. Janice (B1 ch1, ch13) → Farleen (B1 ch14–19) → Elara (B1 ch15, ch22) → **Melina (B2 ch1–12)**. Melina is the terminal form: he doesn't dismiss her counsel, he *incorporates* it, stakes the plan on Rosik's reasonableness, and is wrong, and being wrong kills her.
 
-**His father's ledgers.** B1 ch5: Elara asks whether the arrangements exist on paper, and Xion answers *"On paper"* without thinking, because he has known which of the three rooms was shown to magistrates since he was nine and it has never once presented itself as a fact worth saying. She files it and doesn't follow up. → B2 ch12: *"he had understood that since he was old enough to notice which ledgers his father kept in which rooms"* → B2 ch13: six teams carry them out at once, and *"there was not one lawful thing his father could do about any of it."* The seed is a question Xion answers carelessly; the payoff is Xion using the answer three years later.
+**His father's ledgers.** B1 ch5: Elara asks whether the arrangements exist on paper, and Xion answers *"On paper"* without thinking, because he has known which of the three rooms was shown to magistrates since he was nine and it has never once presented itself as a fact worth saying. She files it and doesn't follow up. → B2 ch12: *"he had understood that since he was old enough to notice which ledgers his father kept in which rooms"* → B2 ch13: six teams carry them out at once, and *"there was not one lawful thing his father could do about any of it."* The seed is a question Xion answers carelessly; the payoff is Xion using the answer roughly a year later. (Series timing: the whole saga so far measures in **months**, never years — B2 spans ~5 months, B3 opens weeks after it.)
 
 **The ledger (the other one).** Everyone settles their account with Xion and states it — Korvin, the food vendor, Rykan's cousin (*"after this, we're even"*). His own never closes. Janice's B1 ch13 gift (*"You don't get to write it down"*) and Elara's B1 ch22 absolution are both things he cannot receive.
 
@@ -154,7 +154,10 @@ These are the spine. Each is already working; each could be broken by an unwary 
 ## 6. Open questions
 
 1. **Janice's failing eyesight** — confirm or veto.
-2. **Janice's return — CONFIRMED alive. Plan agreed; not yet written.**
+2. **Janice's return — CONFIRMED alive. Plan agreed; NOW LANDED IN THE BOOK 3 BEAT DRAFTS.**
+   - **As written:** B3 ch1 beats 18–19 (Xion makes a second administrative request beside the name change — does the Kemvimore seizure record account for persons the Grain cartel held?). B3 ch3 Movement One, beats A1–A14 (Kael finds her in Rosik's hidden ledgers; the meeting; the refusal; the question; the missing dismissal).
+   - **Constraint honoured:** she is not in ch1. She hears about the name-taking secondhand and has nothing to say about it, because to her nothing changed — she has called him Fen for eight years.
+   - Original planning notes retained below.
    - **Where:** Book 3, Act I. Book 3 is entirely at beat-draft stage, so insertion is cheap. Book 2 is finished and tight, and Xion's isolation there is load-bearing — handing him Janice back mid-Book-2 would soften the thing that book is about.
    - **Why she never came:** she has never asked anyone for anything. Five years housing an illegal clinic and the only thing she ever requested was one copper. She is blind or nearly, cannot work, and arriving on his doorstep would be the first request she had ever made — so she doesn't. She has been in the city the whole time. This is the trait she was built with, taken to its worst conclusion.
    - **What she says:** nothing grateful, nothing apologetic, nothing about Mira. Something operational. Best candidate is a version of the question she asked for five years — *did you ever start charging?* She burned the ledger and it is still the only thing she wants to know.
