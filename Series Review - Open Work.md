@@ -1,6 +1,6 @@
 # Series Review — Open Work
 
-Running record of the read-through review. Book 1 read in full (ch1–25). Book 2 not yet read.
+Running record of the read-through review. Book 1 read in full (ch1–25). Book 2 read through ch10.
 
 Everything here is either **outstanding** (not yet done) or a **guardrail** (a decision that a later revision could accidentally undo). Applied changes are listed at the bottom.
 
@@ -41,6 +41,8 @@ Roughly half the fixes so far were of this kind.
 
 ### Tier A — changes the book
 
+**A0. Ch18 ends with Xion holding a dangerously ill child and never treating him.** *(Promoted from scene-level on the hierarchy re-audit.)* This is a rule 2 item, not polish: a healer with a fevered boy in his arms treats him. The chapter closes on Xion's feeling instead of his hands, which is the character not behaving like himself at the exact moment his defining practice applies.
+
 **A1. Farleen's arc has no ending.** *(hold until Book 2 is read)*
 She argues in ch14, 16, 17, 19, 20 — same position, rising volume — then goes silent in ch21–25 (*"unreadable," "professionally neutral"*). She never chooses anything freely; she follows Xion five times under protest.
 
@@ -51,7 +53,9 @@ A possible hinge exists: **ch23's cover story**, where Xion lies to Silvanno to 
 This matters disproportionately: her character file has her as **Xion's closest companion and the operational core of his network through Books 2 and 3**, ending inside the imperial security apparatus. She has the longest runway of anyone and currently the flattest exit. *Deliberately deferred until her Book 2 chapters are read, so the Book 1 exit is built to match the Book 2 entrance.*
 
 **A2. The ch16–17 passivity block.**
-Xion waits outside three consecutive times (the heist, the scout, the attempt), and ch17 spends 3,069 words delivering an offstage failure. The *design* is right — the rescue fails and the ledger succeeds, which is the book proving its thesis structurally. The staging is wrong. Put him inside one of the three, and cut ch17 hard; a deflation should be fast, or it reads as accident rather than intent.
+Xion waits outside three consecutive times (the heist, the scout, the attempt), and ch17 spends 3,069 words delivering an offstage failure. The *design* is right — the rescue fails and the ledger succeeds, which is the book proving its thesis structurally.
+
+**Two parts, different standing.** The *length* is a straightforward craft fix: a deflation should be fast, or it reads as accident rather than intent. The *staging* change — putting Xion inside one of the three — is a **rule 2 question, not a fix**: Farleen is tactically correct that he is untrained and would be a liability, and the text says so. Making him present requires bending her judgment or his, and neither is the reviewer's to bend.
 
 ### Tier B — the repetition habit, concrete instances
 
@@ -67,13 +71,13 @@ Xion waits outside three consecutive times (the heist, the scout, the attempt), 
 
 - **C1.** Ch24's combat trial is almost entirely commentary (*"beautiful in a way Xion didn't have words for"*). The climactic test of the novel needs at least one concrete exchange before the analysis takes over.
 - **C2.** Ch25 is mostly told, and the closing roll call reads like the outline leaking into the prose. *(Note: fix the flatness, not the triumph — see principle 2.)*
-- **C3.** Ch5 — they agree to a life-destroying plan in ~40 lines with no resistance from either side.
+- **C3.** *(rule 2 question, not a fix.)* Ch5 — they agree to a life-destroying plan in ~40 lines with no resistance. But *"He didn't even really consider it"* (ch19) establishes this as how Xion decides. Fast acceptance may be characterization rather than a gap. Author's call.
 - **C4.** Ch9's marriage-alliance cover is set up as emotionally loaded and never tested at the ball.
 - **C5.** Ch21 raises a stake and dissolves it in the same chapter (*"You've spent time with his archrivals… that complicates your relationship with him"* — Ronas never reappears).
 - **C6.** Ch23's Vesk: twenty years of fury evaporates in ten lines, and it is sequenced backwards — he concedes (*"You learned what we couldn't teach you"*) before he attacks (*"You left. You abandoned our protection"*). Reverse.
 - **C7.** Ch22 — Elara reaches for the ch15 slaver argument verbatim. That is right (hurt people reuse the weapon that worked), but the text should register that she knows she's repeating herself.
 - **C8.** Ch18 — Ronas's dialect wobbles between registers (*"the one what tore through my men"* / *"'till you hit surface"* against *"Interesting group"*). Pick one.
-- **C9.** Ch18 ends with Xion holding a dangerously ill child and never treating him.
+
 
 ### Do not touch
 
