@@ -46,7 +46,7 @@ Nothing. She walked past him like he wasn't there.
 
 "Elara!" Farleen grabbed her arm.
 
-Elara pulled free without seeming to notice. Without acknowledgment. Without awareness. Her eyes cycled faster—blue, amber, violet, blue—and she walked with eerie certainty down the side passage.
+Elara pulled free without seeming to notice. Without acknowledgment. Without awareness. Her eyes cycled faster, and she walked with eerie certainty down the side passage.
 
 Away from their route. Away from the surface.
 
@@ -240,9 +240,9 @@ But he couldn't stop. Couldn't turn back even if he wanted to—they'd never fin
 
 They were committed now. For better or worse.
 
-Ahead, Elara kept walking. Her eyes still cycling colors. Blue, amber, violet, blue.
+Ahead, Elara kept walking, her eyes still turning over in the dark.
 
-Like a beacon in the dark.
+Like a beacon.
 
 Like a moth drawn to flame.
 

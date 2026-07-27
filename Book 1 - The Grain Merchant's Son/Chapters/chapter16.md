@@ -200,13 +200,23 @@ Maybe it was the tone, or maybe she was hurting too much to argue, but Farleen s
 
 "I killed him," Elara said quietly from near the window. Her voice held something complicated—not regret, exactly, but not satisfaction either.
 
-Xion's hands stilled. "You killed him."
+Xion's hands stilled on the bandage.
 
 "He was going to raise the alarm. We couldn't let him." Elara's tone was matter-of-fact, but her eyes were hard. "It was necessary."
 
-Xion looked at Farleen, who met his gaze steadily. "It was him or us. She made the right call."
+"How old was he?"
 
-He didn't know what to say to that, so he returned his attention to Farleen's injury. "I need to see the bruising. Can you lift your shirt?"
+The question landed oddly in the small room. Elara blinked.
+
+"I don't—" She stopped. "Thirty. Maybe less."
+
+"Will anyone come looking for him?"
+
+"Xion." Farleen's voice, quiet, warning.
+
+He looked down at his hands, still resting against Farleen's ribs, and made himself go on working. That morning in the Crossroads he had told Elara that nobody got to weigh the worth of a life. Now a man he had never met was dead in a stairwell in the eastern quarter, and the only questions he could find were how old, and who would miss him.
+
+"Never mind," he said. "I need to see the bruising. Can you lift your shirt?"
 
 She hesitated, then carefully pulled up the dark fabric, revealing her left side. The bruising was already spectacular—deep purple and black spreading across her ribs and up toward her shoulder. Xion examined it carefully, pressing gently to check for breaks.
 
@@ -252,7 +262,7 @@ Xion sat back on his heels, the answer clear in that silence. "I thought so."
 
 "Xion—"
 
-"What was it really? A fight? An assignment?" He kept his voice quiet, but he couldn't quite keep the hurt out of it. The moment—whatever it had been—was broken now, replaced by the familiar weight of betrayal. "Did you ever tell me the truth about anything?"
+"What was it really? A fight? An assignment?" He kept his voice quiet, but he couldn't quite keep the hurt out of it. "Did you ever tell me the truth about anything?"
 
 Farleen looked away, her jaw tight. When she spoke, her voice was barely above a whisper. "I told you the truth about things that mattered."
 
@@ -267,8 +277,6 @@ Farleen looked away, her jaw tight. When she spoke, her voice was barely above a
 "I know why you were placed there initially. I don't know why you stayed. Or what was true and what was lies."
 
 Farleen met his eyes, and for a moment he saw something raw there—guilt, maybe, or regret. "Some of it was real," she said quietly. "Not all of it. But some."
-
-The silence stretched between them.
 
 Xion stood, shouldering his medical bag. The moment—whatever it had been—was broken now, shattered by the weight of everything between them.
 
