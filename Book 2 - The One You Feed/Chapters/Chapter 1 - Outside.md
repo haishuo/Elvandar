@@ -1,5 +1,3 @@
-# Chapter 1: Outside
-
 The gate did not open, and the man in front of it did not tell Xion no.
 
 That was the part he had not gotten used to. There was no *no*. A *no* would have been something to push against, a wall he could look for the weak stone in. Instead there was the Arol Batae guardsman in his deep blue, standing with his spear grounded and his face composed into the particular blankness of a man doing his job well, and there was the answer that was not an answer.

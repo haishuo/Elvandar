@@ -1,5 +1,3 @@
-# Chapter 4: Nonessential
-
 He knew something had changed before anyone said a word, because the guard was waiting for him.
 
 Not standing his post the way the gate guards stood, eyes moving, weight easy — waiting, specifically, for Xion, the way you wait to deliver news you'd rather not. And it was Deshan on the gate, which made it worse. Deshan had been one of the friendly ones in the first week, a broad quiet Arol Batae with a scar through one eyebrow who had actually walked Xion down to the Empress's study himself once, back when the palace was still half-asleep and no one had decided yet who Xion was. He did not look easy now. He looked like a man who had been given an order he didn't love and intended to carry out cleanly anyway, because that was the job.

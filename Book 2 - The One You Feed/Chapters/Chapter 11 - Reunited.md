@@ -1,5 +1,3 @@
-# Chapter 11: Reunited
-
 For three days the gate told him nothing, because he no longer went to the gate.
 
 There was no point in it. He sat in the two rooms that had been the clinic and were now just the place where a useless man waited, and he did the thing he had spent a career teaching other people not to do: nothing. Kael brought what he could, which was little. Silvanno brought less. Farleen brought herself and a pastry he did not eat and sat with him in the dark, and did not once pretend that any of it helped. *Elara is alive. Elara has not woken.* That was the whole of the news, handed back to him in slightly different shapes morning and evening, and not one of the shapes gave him a single thing to do about it.

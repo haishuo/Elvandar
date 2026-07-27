@@ -1,5 +1,3 @@
-# Chapter 8: Dream Deferred
-
 The collar sat exactly right.
 
 Prince Kalden Erulius turned his chin a degree to the left and studied the line of it in the tall mirror, and was satisfied. It was a fine collar — high, stiff, worked in gold thread along a pattern no tailor in Eruliath had invented, because the pattern was not Erulian. It was imperial. He had copied it, thread for thread, from a portrait in a book: the collar worn by Aurelan the Third, who had sat the Ruby Throne four hundred years ago in the great days of the empire, before the provinces forgot what they were and wandered off one by one to play at being kingdoms. Kalden wore Aurelan's collar every morning. It reminded the mirror who it was looking at.

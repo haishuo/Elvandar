@@ -1,5 +1,3 @@
-# Chapter 19: Exile
-
 He knew what his father would do before his father did it, because he had been raised inside the machinery that would decide it.
 
 The options were two: execution or exile. Execution needed Elara's hand on it, and Elara would not put her hand there — she was a great many things, but she was not a woman who killed the man she had replaced when exile would answer as well, and Rosik had studied her too; he would know that about her as surely as Xion did. So, exile. And Rosik would not wait to be exiled. He would go before any process could take hold and arrange his leaving on another man's terms, because the leaving was the last thing left to control, and a man like that did not hand over the last thing. He would choose the hour himself. He would choose it early.

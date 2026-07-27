@@ -1,5 +1,3 @@
-# Chapter 2: Letters
-
 The letter he sent ran four pages. The letter that came back ran four lines.
 
 He had written the long one past midnight, at the little table in the rooms that had been the clinic and were now mostly just where he slept. He had tried to make it the kind of letter a ruler could act on — not a plea, not a complaint, a *brief*. The water tokens first, because the water tokens were killing people while two councils argued over whose plan to kill them with. Then the shape of the paralysis as Melina had drawn it for him: the Coterie proposing inside the system, Elara proposing to end the system, each refusing the other's frame while the wells kept their lines. Then the thing Melina had said last, turned over in his own words and made careful — *your council is talking to Ronas Dermir, and not the way councils talk to Slavers.* He had written it plainly. He had signed it plainly. He had walked it to the courier station at the palace's outer wall himself, because he no longer trusted anything he could not put into a hand.

@@ -1,5 +1,3 @@
-# Chapter 12: Descent
-
 He began the way his father would have begun: not with anger, and not yet with a plan, but with a map.
 
 Not a map of streets. There was another kind — the kind Rosik carried behind his eyes and had spent Xion's boyhood trying to teach him to draw, in the years when he still thought his son might inherit the use of him and not only the name. Every house, every cartel, every alliance was a structure, Rosik held, and every structure had a shape you could learn to see if you were patient enough and unsentimental enough to look; and somewhere in every shape there was one member bearing more of the load than all the rest. Find that, and you never had to raise your voice. You pulled the one beam and stood back and let the weight do the work of falling.

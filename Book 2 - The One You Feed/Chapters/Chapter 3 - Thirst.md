@@ -1,5 +1,3 @@
-# Chapter 3: Thirst
-
 He walked because the gate was no longer worth standing at, and because the streets were the last part of the city that still felt like his.
 
 He had gone up to the palace wall that morning out of habit more than hope, handed a letter into a courier's gloved hand, been assured the Empress trusted he was in good health, and then turned downhill and simply kept turning downhill — out of the Noble District's watered shade, past the fountains still throwing their bright wasteful arcs into the heat, and down into the parts of Kaha'an that did the actual work of being a city. He was not going anywhere. He had stopped pretending, somewhere around the third street, that he was.

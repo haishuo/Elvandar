@@ -1,5 +1,3 @@
-# Chapter 7: Fine.
-
 He went back to the estate to report a failure, and the strange thing was how little he dreaded it.
 
 There was nothing left to dread. Dread was for the space before a blow landed, and this blow had landed days ago, quietly, in a palace kitchen where a note went into a wall and never came out. He walked the swept paths and the flawless corridors the same way he'd walked them a week before, except that this time nothing in him was bracing, because there was nothing to brace for. He had failed. He knew he'd failed. He was here to hand his father a result, and the result was nothing, and he'd made a kind of peace with carrying nothing in his hands because there had never been any chance of carrying anything else.

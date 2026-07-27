@@ -1,5 +1,3 @@
-# Chapter 10: Poison
-
 There was nothing for him to do, and the city was the picture of a place with nothing wrong.
 
 That was the strangeness of the days after the reform. Xion walked wards that worked, past lines that moved, and the part of him that had spent fifteen weeks straining against gates and letters and the slow closing of every door found itself, suddenly, with nothing to push on. The crisis he could see had gone underground, back into the tokens and the ledger and the quiet arithmetic that would kill somebody eventually, somewhere he wasn't standing. The crisis everyone else could see was fixed. A man used to being needed does not know, at first, what to do with the feeling of being unnecessary. It sat on him like weather.

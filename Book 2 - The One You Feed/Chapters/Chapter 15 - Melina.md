@@ -1,5 +1,3 @@
-# Chapter 15: Melina
-
 Morning found him already at the little table, and the little table already buried.
 
 Farleen came and went through the low room with the ease of someone who had stopped knocking weeks ago, setting reports down at his elbow and carrying off the ones he'd bled dry. Between them they built the day the way they'd built the last several — a piece at a time, out of scraps. What she'd seen with her own eyes, walking the Warrens' edge in the dark while sensible people stayed in. Which alliances in the Coterie were holding, and which had begun, very quietly, to fray. Which of Ronas's names had gone quiet and which had gone loud. He turned each one over, looking for the seam, the place where it all resolved into the cold sum his father was surely driving it toward — and each one refused him, the way they had for days, and he set it down and reached for the next.

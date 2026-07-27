@@ -1,5 +1,3 @@
-# Chapter 13: Clean Hands
-
 The room where Master Fen had once mixed fever-draughts held, tonight, a map of the city with six marks on it and the plan for emptying all six in a single dark.
 
 Xion stood over the table and looked at what he had made of it. Six warehouses, in Kael's blunt charcoal. Beside each mark a window of time, an approach, a way back out; off to the side the running order — who moved when, who waited on whom, what each team did if the first plan met the world and lost. It was laid out with a clarity that would have looked, to anyone who wandered in, like the work of a man who had done this a dozen times. He had never done it once. He had only spent a childhood in rooms where men leaned over maps exactly like this and talked in exactly this register, and it had gone into him the way all his father's lessons had gone into him, without his leave, and stayed.

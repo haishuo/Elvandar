@@ -1,5 +1,3 @@
-# Chapter 5: Father
-
 He had not set foot on the estate since the morning he left it to follow a woman with impossible eyes, and the house met him the way it met everyone — by being beautiful, and by making very sure he understood he was not to touch anything.
 
 The gardens came first, and they were flawless. Every hedge clipped to a geometry a mason could have ruled with a straightedge. Every path swept so clean the desert might have agreed, as a personal favor, to keep its dust elsewhere. The fountains ran — of course they ran; water came cheap to the man who priced the city's bread, whatever it cost the wards below — arcing over pale stone in patterns chosen for the eye and no other reason. It was stunning. It had always been stunning. It looked like nowhere anyone had ever actually lived.

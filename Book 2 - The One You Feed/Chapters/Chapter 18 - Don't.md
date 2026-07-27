@@ -1,5 +1,3 @@
-# Chapter 18: Don't.
-
 The cold had a list.
 
 Not written down; it didn't need writing. The names sat in him in order, each paired with the reading that opened it, the way a physician carries his round in his head — which door, and what waits behind it. He had been assembling this longer than he'd known he was assembling it: through Melina's reports at the wall, through Farleen's walking and Silvanno's listening and Kael's errands into Iron, through every Coterie session and cartel table he had watched from the wrong side of. He knew these people. He knew, for each of them, the one thing that moved them. The cold did not intend to waste the knowing.

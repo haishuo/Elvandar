@@ -1,5 +1,3 @@
-# Chapter 20: Still Here
-
 What he had won looked, laid out, like a great deal of subtraction.
 
 Rosik was gone — not beaten in any way you could point at, only absent, somewhere on a road, moving toward whatever position he meant to hold next. The coalition was scattered. The shadow accounts were seized and already spent. The Grain cartel had come apart at the top, and its pieces were sorting themselves into new arrangements he had no hand in and could not have shaped now if he'd tried. He had spent these weeks taking a thing apart, and taking a thing apart and building one in its place were different skills, and he knew exactly which he had practiced. The old order was gone. Its replacement was months from existing. In between there was only the old thing's own momentum, running on the memory of the man who had wound it.

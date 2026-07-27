@@ -1,5 +1,3 @@
-# Chapter 16: Disinheritance
-
 He found himself at the clinic as if he had simply appeared there.
 
 There was the low wall, and the light going, and the messenger's shape retreating across the square — and then there was the clinic, and he was inside it, at the little table, and between the two there was nothing at all. His feet had carried him home without consulting him. He kept finding the gap the way your tongue keeps finding a missing tooth, absently, again and again, and it gave nothing back.

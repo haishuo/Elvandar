@@ -1,5 +1,3 @@
-# Chapter 17: Leverage
-
 Before dawn, he was dressing.
 
 There had been no moment of deciding it. He was aware, distantly, that other men would have needed one — a night spent turning it over, a stretch at the window while the resolve set hard enough to move on — and he had needed none of it. The planning was done. What remained was execution, and execution asked for sequence, not resolve. Coat. The bag, because the bag went where he went now; it was most of what he had left. He moved through the shut clinic without hurry and without hesitation, the way a man moves through a thing already finished in his head.

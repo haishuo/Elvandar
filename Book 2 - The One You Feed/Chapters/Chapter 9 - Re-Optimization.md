@@ -1,5 +1,3 @@
-# Chapter 9: Re-Optimization
-
 Time, which had been moving in days, began to move in weeks.
 
 That was the first thing Xion noticed, though it took him a while to have a word for it. For two months he had lived the way you live through a crisis — each morning its own event, each gate and letter and meeting a thing that happened at a specific hour and could be counted. Now the hours ran together. There was no single afternoon on which his father won. There was only a process, turning over out of sight, week by week, and the sum of the weeks was that the thing which had been a deadlock for two grinding months became, quietly, a government.

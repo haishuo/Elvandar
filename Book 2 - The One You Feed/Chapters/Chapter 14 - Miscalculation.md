@@ -1,5 +1,3 @@
-# Chapter 14: Miscalculation
-
 He had braced for his father, and his father did not come.
 
 That was the first wrongness, and for two days Xion told himself it meant nothing — that Rosik was only taking his time, measuring the ruin, arranging the approach the way he arranged everything. Xion had his answers ready. He had lain awake building them, the whole shape of the long bloodless bargaining he'd been certain would open within days of the warehouses going empty. He was ready for the move. He waited for it.
