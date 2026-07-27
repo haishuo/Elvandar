@@ -28,6 +28,8 @@ Elara joined him at the window, careful to keep back from the glass. "How many?"
 
 They spent the afternoon preparing while maintaining the appearance of normal clinic operations. Janice saw three patients, all routine cases that Xion treated through the connecting door while Elara organized supplies that would fit in two traveling packs.
 
+Once, between patients, Janice put her head through the beaded curtain. "The alley's covered too. Woman in grey, been mending the same basket since noon." She withdrew before he could answer.
+
 Between patients, Xion watched the street. The surveillance continued—professional, patient, methodical. Whoever had deployed these watchers knew what they were doing.
 
 As afternoon wore toward evening, a fourth watcher appeared. This one Xion recognized immediately, and his stomach dropped.
@@ -150,9 +152,65 @@ Xion made the decision he knew he'd probably regret. "Fine. But if this is a tra
 
 "It's not." Farleen was already moving, checking the alley's mouth. "The watcher's still there. We go through the service passages. Stay close and stay quiet."
 
-She led them deeper into the alley, moving with a confidence that spoke of prior planning. Xion followed with Elara close behind, acutely aware of the tension crackling between the two women.
+Xion had one foot in the alley when he remembered.
+
+"The logs."
+
+He was back through the door before Elara could catch his sleeve—into the clinic, to the shelf where five years of coded notation stood in six bound journals. Every patient. Every injury. Every district and date and name, written in a script that two people in Kaha'an could read.
+
+The shelf was empty.
+
+Janice stood at the front counter with all six of them stacked in front of her, squared edge to edge the way she squared everything, and the lamp lit beside them with the glass chimney already off.
+
+"Janice—"
+
+"How long have you got?" She didn't look up.
+
+"Minutes. Less."
+
+"Then you're wasting them."
+
+He crossed to the counter anyway. "Give them to me. I'll carry them—"
+
+"And you'll be caught with them." Now she looked up, and her face held the same flat patience it held every morning of five years. "Then it isn't you they hang. It's Korvin. It's the Corris family. It's every name in here." She laid one hand flat on the top journal. "Five years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
+
+Something cold moved through him. "They'll know it was you."
+
+"They'll know it was my shop." She said it the way she'd correct a figure. "That's been true since you were fifteen. I've had a long time to be ready for it, and you've had a long time not to think about it, and this is where that stops mattering."
+
+"Janice. I can't let you do that."
+
+She almost smiled. It was not a kind expression.
+
+"My choice."
+
+From the alley, low and urgent, Farleen said his name.
+
+"I'll come back for you," Xion said.
+
+"No, you won't." Janice picked up the lamp. "You'll go and find that boy, because it's the only thing you've ever been able to do with any of this."
+
+He didn't move.
+
+She looked at him a moment longer, and whatever was in her face then, he would spend a long time failing to name it.
+
+"Go, Master Fen."
+
+He went.
+
+---
+
+Farleen led them deeper into the alley, moving with a confidence that spoke of prior planning. Xion followed with Elara close behind, acutely aware of the tension crackling between the two women.
 
 They navigated the maze of back passages, Farleen setting a punishing pace. Behind them, raised voices erupted—the raid had begun. But Farleen knew every shortcut, every hidden turn, guiding them through the labyrinth with practiced ease.
+
+Four streets on, Elara caught his sleeve and made him look back. Above the rooflines of the weavers' row, against the low orange of the city's lamps, a thin column of smoke was going up perfectly straight in the windless air.
+
+"The records," she said.
+
+"Yes."
+
+Elara didn't say anything else. She had held those journals two nights ago and called them proof.
 
 They emerged six blocks south, in the transition zone where the Middle District bled into the rougher neighborhoods bordering the Warrens. Here, the buildings grew more ramshackle, the streets narrower, the lighting sporadic.
 

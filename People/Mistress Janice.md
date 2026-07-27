@@ -162,13 +162,35 @@ In ch7 she watches Xion come through her door grey-faced with a stranger, looks 
 
 In ch11 the door is opened with Xion's own key and the alias is confessed to Elara — **she is not present for the unmasking of the secret she has kept for five years, and the name she gave him is handed to someone else without her in the room.**
 
-In ch13 she sees three routine patients while surveillance closes on her shop, and then she is gone from the series.
+In ch13 she counts the watchers before Xion does — including the one on the alley he has missed — and reports it through the curtain without waiting for an answer.
 
-### The Debt (Unwritten)
+### The Choice (Chapter 13)
 
-The raid in ch13 comes to *her* building. Grain cartel forces arrive within the hour of Farleen's warning, the fugitives escape through hidden passages, and Janice is never mentioned again — not in the remaining twelve chapters of Book 1, not anywhere in Book 2.
+The raid comes to her building, as she has been telling him for five years that it would. Farleen supplies the escape route; Janice supplies the time.
 
-This was survivable when she was scenery. It is not survivable now. The woman who warned him, for five years, that this exact thing would happen is standing in the building when it happens, and the narrative does not look back at her. **See open questions below.**
+Xion turns back for the patient logs and finds the shelf empty and Janice at the front counter with all six journals squared edge to edge and the lamp already open. Her argument is not about her own safety and never touches his guilt. It is operational, and it is the last and best version of the copper argument:
+
+> "Then it isn't you they hang. It's Korvin. It's the Corris family. It's every name in here… Five years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
+
+She burns the records. It is the only act in the building that only she can perform — she is one of two people alive who can read the cipher, and ch11 has already established the logs as evidence against the cartels. **The woman who spent five years demanding he keep a proper ledger ends by destroying the only one that exists.**
+
+To his "I can't let you do that" she gives two words — *"My choice."* — and he obeys, which is the damning part. He offers to come back for her. She tells him he won't, and she is right.
+
+Her last words to him are the same three she used the day he took the name: **"Go, Master Fen."** She never says the other one.
+
+Four streets away, Elara makes him look back at the smoke. Elara is the one who held those journals two nights earlier and called them proof; she understands what is burning before Xion says it.
+
+### The Third Time
+
+This is the structural weight the scene carries, and it should never be stated on the page.
+
+Xion's defining wound is that Mira was destroyed by his father's power and he stood there. In ch1 it happens again with Tam, in a market square, and he cannot move. In ch13 it happens a third time — and this time he is an adult, he has warning, he has minutes, and he leaves anyway, because someone he loves told him to.
+
+Mira also chose. That is precisely what he has never been able to accept. Janice saying *"my choice"* does not absolve him; it replays the sentence he has spent five years unable to hear.
+
+**Outcome: taken.** Grain cartel forces arrest her. Xion does not learn what happened to her in ch13, ch14, or ch15 — the confirmation belongs later, most naturally with Silvanno and Kael in ch23, who searched the surface while he was underground. The debt stays open through Books 2 and 3, which is correct: he cannot discharge it, and he is a man who settles every account but his own.
+
+**She does not die.** A woman who taught him, sheltered him, and died protecting him from Rosik *is* Mira Fen, and the series cannot carry two without halving both.
 
 ---
 
@@ -225,7 +247,7 @@ Her tragedy is structural rather than dramatic: **she is correct, she is early, 
 
 ## Open Questions
 
-1. **What happens to her in the ch13 raid?** The largest debt the rewrite creates. Grain cartel forces hit her shop within the hour and the text never returns to her. Options: she is taken and it costs Xion something he cannot pay; she is warned and vanishes, leaving the coded patient book behind; she is unharmed because the cartel wants Xion, not a weaver, which is its own kind of insult. Doing nothing is no longer neutral.
+1. **Where does the confirmation that she was taken land?** Ch13 leaves it unresolved by design. The natural placement is ch23, with Silvanno and Kael, who were on the surface searching while Xion was in the Warrens. Not yet written.
 2. **Confirm or veto the failing-sight detail.** The rest of the first-patient backstory is settled; the specific injury is not.
 3. **Does the naming scene ever surface on the page?** It works as pure backstory. But two places could carry a two-line version without a flashback: Janice's exit around ch13, and Book 3 ch1, where Xion chooses "Fen" as a surname — if she is alive, she is the person to tell.
 4. **Does she ever learn who Elara is?** She is one of two people who can read the patient book, and Elara spends days in the clinic.
