@@ -22,7 +22,7 @@ He turned to find her sitting on the edge of the cot, hair disheveled, the ruine
 
 Elara moved to examine the morning's preparations. "You've thought about this."
 
-"For five years." He handed her a clean dress he'd pulled from storage—something left behind by a patient, simple but serviceable. "You should change. That ballgown will draw attention."
+"For ten years." He handed her a clean dress he'd pulled from storage—something left behind by a patient, simple but serviceable. "You should change. That ballgown will draw attention."
 
 She took the dress with a slight smile. "Not exactly imperial attire."
 
@@ -220,10 +220,10 @@ He was preparing his floor bed when Elara spoke from the cot.
 
 "What you do here—it matters. I know it feels like just treating symptoms while the system stays broken. But those people today, they'll remember that someone helped them. That someone cared. That has to count for something."
 
-He wanted to believe her. Wanted to think that five years of careful bandaging and gentle care added up to something more than guilt management.
+He wanted to believe her. Wanted to think that ten years of careful bandaging and gentle care added up to something more than guilt management.
 
 "Get some sleep," he said instead. "Tomorrow's going to be another long day."
 
-*Count for something.* He lay down on the floor in the dark and found he couldn't make the phrase mean anything. Count toward what? He had no idea what the total was supposed to be, or who was keeping it, and in five years he had never once caught himself getting nearer to it.
+*Count for something.* He lay down on the floor in the dark and found he couldn't make the phrase mean anything. Count toward what? He had no idea what the total was supposed to be, or who was keeping it, and in ten years he had never once caught himself getting nearer to it.
 
 Outside, the Middle District went quiet by degrees — shutters, latches, the last cart of the evening. Somewhere far below all of it, a twelve-year-old boy was working in the dark.

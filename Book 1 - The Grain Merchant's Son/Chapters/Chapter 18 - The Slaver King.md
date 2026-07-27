@@ -254,7 +254,7 @@ The stitches were gone. Not cut — some pulled out, the rest simply given up on
 
 Nobody answered. He hadn't expected anyone to.
 
-He set the bag open on the brass floor and went to work with what was in it, which was what he had always gone to work with. Five years had taught him the arithmetic: you never had the thing you wanted, you had four things you didn't, and the craft was knowing which four and in what order.
+He set the bag open on the brass floor and went to work with what was in it, which was what he had always gone to work with. Ten years had taught him the arithmetic: you never had the thing you wanted, you had four things you didn't, and the craft was knowing which four and in what order.
 
 It had to come open. He told Tam so, and told him it would hurt, and did not tell him it would be quick, because it wouldn't be. Then he braced the wrist and worked the wound apart along the line it had already chosen, and pressed either side of it, and got out what had been shut in there since the surface. Tam made a sound. Xion kept talking through it — the weather, the color of a door, whatever came — the way he always talked, and kept pressing until what came was clean.
 

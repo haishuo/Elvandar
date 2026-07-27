@@ -131,9 +131,9 @@ He took her name for his secret identity. He became Master Fen.
 
 By twenty, Xion had established a hidden clinic in the back room of Mistress Janice's weaver shop in the Middle District. Operating as "Master Fen," he provided free medical care to Balisha's poor — treating injuries, infections, malnutrition, and the countless ailments produced by the cartel system. The clinic was modest but well-organized, with proper supplies and detailed patient records documenting the human cost of institutional cruelty.
 
-The clinic was the truest expression of who Xion Kemvimore is — and the most complicated. It was genuine vocation: the work Mira trained him for, the healer she saw in him before he saw it himself. It was also penance. Every patient was proof that he was not the boy who stood frozen. Every treatment answered the question that had haunted him for five years: *what would you have done if you'd been brave?* This. He would have done this. Both things were true every time he mixed a remedy or cleaned a wound — the good man doing good work, and the guilty one trying to outrun a fifteen-year-old's paralysis.
+The clinic was the truest expression of who Xion Kemvimore is — and the most complicated. It was genuine vocation: the work Mira trained him for, the healer she saw in him before he saw it himself. It was also penance. Every patient was proof that he was not the boy who stood frozen. Every treatment answered the question that had haunted him for ten years: *what would you have done if you'd been brave?* This. He would have done this. Both things were true every time he mixed a remedy or cleaned a wound — the good man doing good work, and the guilty one trying to outrun a fifteen-year-old's paralysis.
 
-For five years he maintained this double life: Grain cartel heir by day, underground healer by night. The irony was never lost on him. Every coin he spent on medicine was subsidized by the system creating the suffering. He called it "guilt management — trying to heal wounds the system keeps inflicting while never actually challenging the system itself." The phrase was self-aware enough to sound like acceptance. It wasn't. It was a man who knew his forward motion wasn't solving anything but couldn't bear to stop moving.
+For ten years he maintained this double life: Grain cartel heir by day, underground healer by night. The irony was never lost on him. Every coin he spent on medicine was subsidized by the system creating the suffering. He called it "guilt management — trying to heal wounds the system keeps inflicting while never actually challenging the system itself." The phrase was self-aware enough to sound like acceptance. It wasn't. It was a man who knew his forward motion wasn't solving anything but couldn't bear to stop moving.
 
 His patients knew him only as Master Fen. They didn't know the healer who treated them for free was the son of the man whose policies kept them hungry. Some came regularly — chronic conditions worsened by poverty. Others came in crisis. All received the same care, regardless of who they were or what they'd done.
 
@@ -169,7 +169,7 @@ Elara treated Xion's wound in a hidden alcove and proposed an unlikely partnersh
 
 He trained her for a masquerade ball at the Larannas estate, teaching her noble codes and behavior. The infiltration ended in disaster when nobles casually discussed hunting people from the Warrens for sport, and Elara's rage overwhelmed her control. Her eyes cycling through colors betrayed the royal trait. They fled.
 
-Taking refuge at his clinic, Xion finally revealed his deepest secret: he IS Master Fen. The clinic, the patients, the five years of hidden work — all of it. Elara didn't judge him. She called it mutual vulnerability, the foundation of any good partnership.
+Taking refuge at his clinic, Xion finally revealed his deepest secret: he IS Master Fen. The clinic, the patients, the ten years of hidden work — all of it. Elara didn't judge him. She called it mutual vulnerability, the foundation of any good partnership.
 
 ### The Warrens
 
@@ -271,7 +271,7 @@ She formally names him **First Counselor to the Crown** — the first formal tit
 
 Separately from the appointment — not required, not ceremonial, not announced — Xion states quietly in the margins of the administrative record: *"If the records are being updated, I'd prefer Xion Fen."*
 
-"Fen" is Mira Fen's name. The estate apothecary who taught him to heal. Who was executed by Rosik. Whose name he carried forward for five years as Master Fen. Choosing "Fen" as his family name is choosing the woman who taught him compassion over the man who taught him cruelty — the healer over the Grain Lord, the clinic over the cartel. It is quiet, marginal, stated the way you state a filing preference. The room doesn't know who Mira Fen was. Elara does. Neither says anything. The moment passes.
+"Fen" is Mira Fen's name. The estate apothecary who taught him to heal. Who was executed by Rosik. Whose name he carried forward for ten years as Master Fen. Choosing "Fen" as his family name is choosing the woman who taught him compassion over the man who taught him cruelty — the healer over the Grain Lord, the clinic over the cartel. It is quiet, marginal, stated the way you state a filing preference. The room doesn't know who Mira Fen was. Elara does. Neither says anything. The moment passes.
 
 He is Xion Fen through the first half of Book 3. He takes the Valanar name at marriage to Elara later in the same book.
 

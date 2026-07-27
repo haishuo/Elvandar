@@ -154,7 +154,7 @@ Xion had one foot in the alley when he remembered.
 
 "The logs."
 
-He was back through the door before Elara could catch his sleeve—into the clinic, to the shelf where five years of coded notation stood in six bound journals. Every patient. Every injury. Every district and date and name, written in a script that two people in Kaha'an could read.
+He was back through the door before Elara could catch his sleeve—into the clinic, to the shelf where ten years of coded notation stood in six bound journals. Every patient. Every injury. Every district and date and name, written in a script that two people in Kaha'an could read.
 
 The shelf was empty.
 
@@ -170,7 +170,7 @@ Janice stood at the front counter with all six of them stacked in front of her, 
 
 He crossed to the counter anyway. "Give them to me. I'll carry them—"
 
-"And you'll be caught with them." Now she looked up, and her face held the same flat patience it held every morning of five years. "Then it isn't you they hang. It's Korvin. It's the Corris family. It's every name in here." She laid one hand flat on the top journal. "Five years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
+"And you'll be caught with them." Now she looked up, and her face held the same flat patience it held every morning of ten years. "Then it isn't you they hang. It's Korvin. It's the Corris family. It's every name in here." She laid one hand flat on the top journal. "Ten years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
 
 Something cold moved through him. "They'll know it was you."
 
@@ -184,7 +184,7 @@ Something cold moved through him. "They'll know it was you."
 
 Janice looked at him a long moment.
 
-"Five years I've asked you for one copper," she said. "One. And you've never once given me a number, because the whole point of the thing you do is that people take it and walk out owing you nothing." She squared the stack again, though it was already square. "So don't stand in my shop and tell me I don't get to do it too."
+"Ten years I've asked you for one copper," she said. "One. And you've never once given me a number, because the whole point of the thing you do is that people take it and walk out owing you nothing." She squared the stack again, though it was already square. "So don't stand in my shop and tell me I don't get to do it too."
 
 "It isn't the same—"
 
