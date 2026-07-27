@@ -4,16 +4,6 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 
 > **Canon rule:** **Book 1's prose is published and immovable.** Every age/date/fact below either comes straight from Book 1 prose (cited) or is derived to be consistent with it. If a character sheet or later-book draft ever disagrees with Book 1 prose, **the prose wins** and the other thing gets changed. Verify facts against `Book 1 - The Grain Merchant's Son/Chapters/*.md`, not the sheets.
 
-> **Amendment (Xion's age).** The rule above has been overridden exactly once, by the author, on
-> the grounds that correctness beats immovability. Book 2 ch20 gives Xion a firsthand memory of
-> Rosik lifting him onto a horse — warmth that must predate the Rending, since the Rending is
-> what remade Rosik. At the old age of 20 he was an infant then and could hold no such memory.
-> **Xion is now 25.** To keep `age − 15 = duration` true, the fourteen Book 1 references to
-> Master Fen's "five years" became "ten years"; every "fifteen" is untouched, because the boy who
-> stood mute at Mira's execution has to stay a boy. Elara remains 20 (locked by ch6 prose, "her
-> twenty years"), so the two are no longer the same age. Book 1's prose is otherwise still
-> immovable — treat this as a one-off, not a precedent.
-
 **Two hard anchors** (world timeline): **1024 BR — The Rending**; **1044 BR — Book 1 begins** (exactly 20 years later).
 
 ---
@@ -22,16 +12,16 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 
 | Fact | Source |
 |---|---|
-| **Xion is 25** at Book 1 | ch11 — "Ten years. Since I was fifteen." (Master Fen = 10 yrs, begun at 15 → age 25) |
+| **Xion is 20** at Book 1 | ch11 — "Five years. Since I was fifteen." (Master Fen = 5 yrs, begun at 15 → age 20) |
 | **Elara is ~20** | ch6 — "she looked older than her twenty years." |
 | **Mira Fen executed when Xion was 15** | ch22 — "I was fifteen years old." |
 | **Xion's mother died in the Rending** | ch22 — "After my mother died in the Rending, she [Mira]…" |
-| **Master Fen / the "second life" began at 15** | ch11 — "Ten years. Since I was fifteen." |
+| **Master Fen / the "second life" began at 15** | ch11 — "Five years. Since I was fifteen." |
 | **Rending = 20 years before Book 1** | ch4/5/6/24/25 — repeated "twenty years." |
 | **Reform group is only ~6 months old** at Book 1 | ch2 — "six months of gathering at The Amber Leaf"; Silvanno: "we've been meeting for six months." |
 | **Farleen is the Water cartel's (Tania's) plant** in the group | ch18 — Ronas: "you one of Tania's?"; ch4 — "asked to keep an eye on your group." |
 
-*Xion was **five** at the Rending, so the "stories his mother used to tell" (ch1) can be firsthand memory. This is what forces his age: Book 2 ch20 gives him a direct memory of Rosik lifting him onto a horse and steadying him — warmth that must predate the Rending, because the Rending is what remade Rosik. An infant cannot hold that memory. Melina's sheet still reads that Xion's memories are far thinner than hers; that remains true at five against her eleven-or-so.*
+*The "stories his mother used to tell" (ch1) is **inherited family lore**, not firsthand memory — Xion was an infant when she died in the Rending. This is consistent with Melina's sheet ("Xion lacks entirely" personal memories of their mother). No conflict; nothing to change.*
 
 ---
 
@@ -39,9 +29,9 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 
 | Character | Age | Born (approx.) | Notes |
 |---|---|---|---|
-| **Xion Kemvimore** | **25** (locked) | ~1019 BR | **Five** at the Rending — old enough to remember his mother, and to remember Rosik before the grief remade him. |
+| **Xion Kemvimore** | **20** (locked) | ~1024 BR | Infant at the Rending; no firsthand memory of his mother. |
 | **Elara Valanar** | **~20** (locked) | ~1024 BR | Infant at the Rending; hidden & raised by the Arol Batae 20 years. |
-| **Melina Kemvimore** | **~31–33** | ~1011–1013 BR | Elder sister; ~6 years Xion's senior. Old enough to *remember* their mother clearly where his memories are fragments. Not fixed by prose. |
+| **Melina Kemvimore** | **~26–28** | ~1016–1018 BR | Elder sister; old enough to *remember* their mother & the pre-Rending family. |
 | **Rosik Kemvimore** | **58** (sheet) | ~986 BR | Former Long Knife; widowed by the Rending. |
 
 ---
@@ -50,10 +40,10 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 
 | BR Year | Age | Event |
 |---|---|---|
-| ~1024 | **5** | **The Rending.** Lady Kemvimore dies. Xion is five — he remembers her, and remembers his father before it. |
-| **1034** | **15** | **Mira Fen** ("the real Master Fen") **executed** by Rosik. Xion takes up her name and work — the secret **"second life" as Master Fen begins** here. *(ch11, ch22)* |
-| 1034–~1043 | 15→~24 | Master Fen operates **alone** — the clinic in Janice's weaver shop, healing the poor in secret. (Xion may have known Silvanno & Kael as friends before this; the *group* comes later.) |
-| ~1043–44 | ~24½ | **The reform group forms** (~6 months before Book 1). Xion gathers his friends into organized meetings at The Amber Leaf — Silvanno (Tania's son) and Kael — and **Farleen joins last**, secretly the **Water cartel's plant**, placed by Tania to watch the group. Xion doesn't know. *(ch2, ch18)* |
+| ~1024 | 0 | **The Rending.** Lady Kemvimore dies. Xion is an infant; no memory of her. |
+| **1039** | **15** | **Mira Fen** ("the real Master Fen") **executed** by Rosik. Xion takes up her name and work — the secret **"second life" as Master Fen begins** here. *(ch11, ch22)* |
+| 1039–~1043 | 15→~19 | Master Fen operates **alone** — the clinic in Janice's weaver shop, healing the poor in secret. (Xion may have known Silvanno & Kael as friends before this; the *group* comes later.) |
+| ~1043–44 | ~19½ | **The reform group forms** (~6 months before Book 1). Xion gathers his friends into organized meetings at The Amber Leaf — Silvanno (Tania's son) and Kael — and **Farleen joins last**, secretly the **Water cartel's plant**, placed by Tania to watch the group. Xion doesn't know. *(ch2, ch18)* |
 
 **On Farleen's cover (flexible backstory):** Tania's placement of Farleen was a **multi-purpose op**, aimed first at her own son:
 - **Eyes on Silvanno.** He runs with these "delinquent" reform nobles, and Tania — who trained him from birth to answer everything with a polite non-answer — knows better than anyone that asking him directly gets her nothing. She needs an independent source.
@@ -62,8 +52,8 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 - **Reassure the Coterie** the little group is no real threat.
 
 Farleen's method with Silvanno was seduction; Silvanno — savvy, and trained by Tania herself to read exactly this game — didn't bite, and kept her at arm's length **without ever making her as a spy** (which is why Xion is blindsided by her confession in Book 1 ch4). Farleen reported the miss, stayed embedded, and **redirected to Xion**, judging her odds better there; Tania — disappointed about the match but pragmatic, since Xion and Silvanno are inseparable — kept the asset and approved the pivot. It began as pure manipulation; then Farleen got to know Xion and **genuinely fell for him** (which gives a spine to the Xion–Farleen intimacy Book 1 implies). Her reports downplaying the group as "harmless" (Book 1 canon) end up serving Tania *and* shielding the people she was sent to watch — the same lie doing both. *(No blood issue: House Darfi is ~20 years old, founded by Farleen's father; zero relation to House Larannas.)*
-| **1044** | **25** | **Book 1.** Sees Elara in the market; ~4 days of investigation; the compound; Farleen's knife; the Warrens & Brass Door; Sa Ko Ren's trial; coronation. *Book 1's action ≈ 1 month.* |
-| 1044 | 25 | **Book 2** begins ~2–3 weeks post-coronation. |
+| **1044** | **20** | **Book 1.** Sees Elara in the market; ~4 days of investigation; the compound; Farleen's knife; the Warrens & Brass Door; Sa Ko Ren's trial; coronation. *Book 1's action ≈ 1 month.* |
+| 1044 | 20 | **Book 2** begins ~2–3 weeks post-coronation. |
 
 ---
 

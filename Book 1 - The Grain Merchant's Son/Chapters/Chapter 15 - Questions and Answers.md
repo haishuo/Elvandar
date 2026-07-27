@@ -226,7 +226,7 @@ It wasn't a question.
 
 "Aren't they? They're all judgment calls about who deserves help and who doesn't. And the moment I start making those calls, I've betrayed what it means to be a healer."
 
-It was true. He had believed every word of it for ten years and would go on believing it.
+It was true. He had believed every word of it for five years and would go on believing it.
 
 But she hadn't asked him whether slavers deserved care. She had said *these are the people who took Tam* — and he had answered a different question instead, cleanly and well, the way a man reaches for the tool nearest his hand.
 

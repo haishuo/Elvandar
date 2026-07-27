@@ -160,7 +160,7 @@ He wanted to argue. He stood there in her front room with the smell of dye and l
 
 “I’ll get him back,” he said.
 
-“With what?” Janice said. Not unkindly — that was the worst of it. There was no cruelty in her at all. “You couldn’t say your own name out there. That’s the whole of it, and you’ve known it ten years, and you’re going to stand in my shop and be surprised.”
+“With what?” Janice said. Not unkindly — that was the worst of it. There was no cruelty in her at all. “You couldn’t say your own name out there. That’s the whole of it, and you’ve known it five years, and you’re going to stand in my shop and be surprised.”
 
 She held the row up to the lamp and studied the gap where the bad thread had been.
 

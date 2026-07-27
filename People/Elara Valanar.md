@@ -159,7 +159,7 @@ This moment perfectly captures her central tension. Her moral fury is genuine an
 
 ### Mutual Vulnerability
 
-Fleeing to the clinic, Xion finally admits the truth Elara has already half-guessed: there is no "friend" named Master Fen. He is Master Fen. This is his clinic, has been for ten years. He explains why he hid it — admitting he's Master Fen means admitting he's Xion Kemvimore, heir to the Grain cartel fortune. Every coin he spends on free care is subsidized by the system creating the suffering.
+Fleeing to the clinic, Xion finally admits the truth Elara has already half-guessed: there is no "friend" named Master Fen. He is Master Fen. This is his clinic, has been for five years. He explains why he hid it — admitting he's Master Fen means admitting he's Xion Kemvimore, heir to the Grain cartel fortune. Every coin he spends on free care is subsidized by the system creating the suffering.
 
 Elara does not judge him. She insists his choice to help when most do nothing matters. In the darkness of the clinic, she thanks him for trusting her with Master Fen; he notes she trusted him with the royal trait. She calls it "mutual vulnerability — the foundation of any good partnership."
 
