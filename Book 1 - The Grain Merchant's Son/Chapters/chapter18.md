@@ -206,7 +206,15 @@ Ronas was silent for a long moment. "So here's what happens. You take the boy—
 
 Xion blinked. "That's it?"
 
-Ronas raised a scarred eyebrow. "You *sure* you wanna be questioning this, kid?" He sighed. "Listen. You got me in a bind, and this here's the cheapest way out for everybody. If I kill you and your little friends, I'm gonna be staring down a war with your pops, and I don't think that'll go too well. Plus, half my crew uses Master Fen's services, and if word gets around, that won't be a good look for me. So yeah, 'that's it'."
+Ronas raised a scarred eyebrow. "You *sure* you wanna be questioning this, kid?" He sighed. "Listen. You got me in a bind, and this here's the cheapest way out for everybody."
+
+He held up one thick finger.
+
+"You robbed a house I had men standing in. Don't much care what Vex lost — I care it went missing off my watch, and every broker down here knows it did." A second finger. "Then you come askin' around the Crossroads after my business." A third. "Then she opens up one of mine on her way out of a job you'd no cause to be near in the first place." He let the hand drop. "Three times, inside two days, and every one of 'em with your name somewhere near it. That's not a run of luck, kid. That's a *pattern*, and patterns are what I get paid to notice."
+
+He sat back.
+
+"And still I ain't killin' you. On account of if I do, I'm starin' down a war with your pops, and that don't go well for me neither. And half my crew uses Master Fen's services, and word gets round I put him in the ground — that ain't a good look. So yeah. 'That's it'."
 
 ---
 
