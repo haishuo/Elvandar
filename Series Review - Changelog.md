@@ -169,8 +169,11 @@ to match what is actually on the page. No prose was touched. The substantive div
   Melina's stopgap-brokering plan and her *"stop deciding Elara's rejecting you."*
 - **ch4 → ch6** — the clinic material (the porter's recognition, the merchant's sponsorship offer, the
   sign coming down) was drafted in ch4 and now lives in ch6's prose. Moved, with a note in both.
-- **ch5** — the draft had neither the Mira passage nor Melina's *"don't hand him the argument,"* which
-  is the reason the confrontation has only one person in it.
+- **ch5** — the draft had neither the Mira passage nor Melina's *"don't hand him the argument."*
+  *(Corrected 2026-07-27: this entry originally called Melina's line "the reason the confrontation has
+  only one person in it." The prose has it the other way round — Xion reasons his own way to the
+  silence, on twenty-three years of knowing that Rosik feeds on arguments, and only then recalls her
+  line as corroboration. See Master List §2.)*
 - **ch9** — missing the one-child/all-children comparison and Melina's *"come back to the house."*
 - **ch10 → ch11** — reversed. Xion no longer reasons methodically to Rosik; he is "too frightened for
   arithmetic" and skips the middle, and Melina names it. The careful elimination now happens in ch11

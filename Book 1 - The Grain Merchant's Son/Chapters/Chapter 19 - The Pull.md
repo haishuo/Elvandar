@@ -86,13 +86,13 @@ He looked at the dark passage. Couldn't see Elara anymore. Just darkness.
 
 Xion stared at her.
 
-"Why should you die following her?" Farleen stepped closer, grabbed his free arm. "And Tam—gods, Xion, you're going to get him killed for this?"
+"We came down here for the boy. We have the boy." Farleen stepped closer and took his free arm. "There's a road up, and a man standing on it waiting to walk us along it. That's everything we came for, and it's forty feet behind you."
 
 She meant it. He could see it in her face. The tactical calculation. The ruthless practicality that kept people alive.
 
 "You're serious."
 
-"Yes!" Her grip tightened. "We have an exit! We have Tam! We can leave!"
+"I'm **right**." Her grip tightened. "Those aren't the same thing and I'll take either one."
 
 Behind them, Cullen's footsteps were already fading. Retreating back the way they'd come.
 
@@ -120,25 +120,17 @@ Her footsteps behind him. Quick and angry. Catching up.
 
 Relief flooded through him despite everything. She was coming. She was—
 
-"This is insane!" Her voice shook. "You're going to die down here, do you understand that? You're going to die!"
-
 The passage sloped downward immediately. Steeper than the tunnels above. The walls were different here—cruder, less finished. Like someone had carved through rock without caring about precision.
 
-"Do you even know where we are?" Farleen was right behind him now. "This is their territory! The Long Knives kill people just for being here!"
+"Do you know where we are?" Farleen was right behind him now. "This is their ground. Not their territory — their **ground**. They don't warn people off it, because there's nobody down here to warn. Every mark on that wall back there was a notice, and you walked past the lot of them."
 
 Xion's light barely penetrated the darkness ahead. But he could see movement. Elara's silhouette, still walking with that eerie certainty.
 
 The temperature was rising. Just slightly, but enough to notice. The air felt thicker.
 
-"She doesn't even know what she's doing!" Farleen's voice went higher, more desperate. "You can't—Xion, you can't help yourself, can you? She walks and you follow!"
-
 Tam's weight pressed down on Xion's shoulder. The boy mumbled something. His mother's name, maybe.
 
-"With Tam dying right there! He's burning up, Xion! Look at him!"
-
-Her anger wasn't directed at Elara. It was directed at him. At his choice. At the fact that he was here, in this place, risking everything.
-
-"I know." Xion's voice came out rough. "I know, Farleen."
+"I know," Xion said.
 
 "Then why?" Almost a scream now. "Why are you doing this?"
 
@@ -164,15 +156,9 @@ Elara never hesitated. She'd walk straight to a branching point, pause for half 
 
 Xion had no idea if her choices were right. Had no way to know. Could only follow and hope that whatever was pulling her wasn't leading them to their deaths.
 
-"Xion, please."
-
-Farleen's voice had lost most of its anger. Now it was just fear. Raw and desperate.
-
-"She doesn't even know where she's going. You're trusting—what? Magic? A trance? Gods, Xion, please listen to me!"
+"She doesn't know where she's going." Farleen's voice had lost most of the anger. What was underneath it was worse. "Understand what you're following. Not a map. Not a guide. A woman in a fit, choosing left."
 
 Tam was getting heavier. Or Xion was getting weaker. Hard to tell anymore. His shoulder burned where the boy's weight pressed down. His legs felt like they were made of lead.
-
-"You're going to die for her. Is that what you want? To die down here in the dark where no one will ever find you?"
 
 But Elara moved through the maze like she'd walked it a thousand times. Never backtracking. Never second-guessing.
 
@@ -180,7 +166,7 @@ Just walking deeper.
 
 The temperature kept rising. Xion's shirt stuck to his back with sweat. Tam's skin felt like it was on fire.
 
-"Is she worth your life?" Farleen's voice broke. "Tell me she's worth it, Xion. Tell me you're dying for something that matters."
+Farleen did not say anything else for a long while, and Xion discovered that he wanted her to.
 
 The passage opened into a chamber. Small, maybe ten meters across. Three exits at different heights. Water pooled on the floor—dark and still, reflecting their lights like black glass.
 
@@ -214,17 +200,21 @@ But Elara never faltered.
 
 Tam's fever was getting worse. Xion could feel it through the fabric. The boy was delirious now, mumbling constantly. Names. Fragments of conversation. Things that didn't make sense.
 
-"He's dying." Farleen's voice barely carried over the sound of their footsteps. "You know that, right? He's dying and we're taking him deeper."
+"He's dying," Farleen said.
 
-"I know."
+Xion stopped walking.
 
-"Every step we take, he gets worse. Every minute down here is a minute he's not getting help."
+He shifted the boy's weight onto the bad shoulder, got his free hand up, and laid the backs of his fingers against Tam's forehead — the way he had done four hours ago on a brass floor, in front of a man who had not been interested.
 
-The words hit like physical blows. Because they were true. Every step deeper into this maze was another step away from salvation. Another moment Tam wasn't getting the treatment he needed.
+He held them there.
 
-"For what?" Farleen's voice cracked. "What are we even doing this for?"
+It was worse. He had known it would be worse. He had known it for the better part of an hour and had not checked, because checking meant having the number, and having the number meant carrying that as well as the boy.
 
-Xion didn't answer. Couldn't answer. Just kept walking.
+"Well?" Farleen said.
+
+He took his hand away, and got it back under Tam, and started walking again.
+
+"You **checked**." Something had gone out of her voice. "You checked, and you're still going. You can't help it, can you. She goes and you go."
 
 His legs were shaking now. Each step required conscious effort. Lift. Move. Place. Lift. Move. Place.
 

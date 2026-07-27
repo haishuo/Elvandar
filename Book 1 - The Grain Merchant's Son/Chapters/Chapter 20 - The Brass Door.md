@@ -48,47 +48,31 @@ She was looking at Elara.
 
 "Do you understand what just happened?" Farleen's voice was cold. Precise. Each word sharp enough to cut.
 
-Elara flinched. "I'm sorry, I didn't—"
+"You walked into a death trap." Farleen stood slowly. Deliberately. "And Xion followed you, because of course he did. He could have died in that maze. We'd have lost the boy on top of it — the whole reason any of us came down here — and you could not have told a living soul why."
 
-"You walked into a death trap." Farleen stood slowly. Deliberately. "And Xion followed you because of course he did."
+Elara sat down on the platform steps.
 
-"Farleen, she wasn't—"
+She did it without any drama at all, which was somehow worse than if she had argued, and Xion understood watching her that she had gone past arguing some time ago.
 
-"He could have died down here." Farleen's eyes never left Elara's face. "Do you understand that? He could have died following you into that maze."
+"I know," she said.
 
-Elara's face was wet with tears. "I know. I'm so sorry. I don't know what—"
+"You don't get to just—" Farleen stopped. "You know."
 
-"And we'd have lost the boy on top of it." Farleen gestured at Tam without looking away from Elara. "The whole reason we came down here. Dead because you couldn't control yourself."
+"I wasn't there for any of it." Her hands hung between her knees. "I don't remember the border. I don't remember wading through water. There's a piece missing between Cullen saying something about the route and this room, and I don't know how long it is. Hours, from the state of him." A glance at Tam, and away. "I have been told what I did. I have not remembered one step of it."
 
-"I couldn't!" Elara's voice broke. "I don't even remember! One moment we were leaving with Cullen and then I'm here and Tam is—" She looked at the boy, her face crumpling. "Gods, what did I do?"
+Farleen said nothing.
 
-Farleen opened her mouth. Closed it. Opened it again.
+"So ask the useful question." Elara looked up. "If it starts again — now, in this room, with him on that floor. Can you stop me?"
 
-Then the fury broke through.
+Farleen opened her mouth.
 
-"We had an exit!" Her voice shook. "We had him! We were done! And you walked us into—into whatever the hell this is!"
+Xion watched her go looking for it. Three hours of maze behind them. A grip that had slid off Elara's arm like water. A Slaver captain who had backed away with his hands up rather than cross a line of blade marks.
 
-She gestured wildly at the chamber. The brass door. The impossible ancient perfection of it all.
+"No," she said.
 
-"I don't care if you couldn't control it! Xion could've died because of you! He followed you into that maze and he could've died!"
+"No," Elara agreed. "Neither can I."
 
-Her voice had gone ragged. Xion could see her hands trembling. See the fear under the anger.
-
-"I know." Elara was crying openly now. "I know, I'm sorry, I'm so—"
-
-"Stop saying you're sorry!" Farleen's hands were fists. "Sorry doesn't fix this! Sorry doesn't undo the last three hours! Sorry doesn't—"
-
-She stopped. Ran out of words. Just stood there breathing hard, staring at Elara with something close to hatred.
-
-The silence was worse than the shouting.
-
-Xion looked between them. Wanted to say something. Anything. But what was there to say? Farleen was right. They'd had an exit. They'd had Tam. And now they were here, in this impossible place, and the boy had nearly died getting to it.
-
-Elara sank down onto the platform steps. Put her face in her hands. Her shoulders shook.
-
-Farleen turned away. Went to check on Tam herself, hands still trembling.
-
-Xion stayed where he was. Caught between them. Useless.
+Farleen turned away and went to check on Tam herself, which Xion understood was not about Tam.
 
 The chamber waited around them. Ancient. Silent. The blue light from the walls painting everything in cold colors.
 

@@ -17,11 +17,11 @@ Applied changes live in **`Series Review - Changelog.md`** — history, not work
 | **Rule 1** — coherence | 0 | — |
 | **Rule 2** — characterization | 0 | — |
 | **Rule 3** — single-emotion integrity | 0 | — |
-| **Craft — Book 1** | 7 | C-3, C-16–C-21 |
+| **Craft — Book 1** | 6 | C-3, C-16–C-19, C-21 |
 | **Craft — Book 2** | 0 | — |
 | **Open questions** | 0 | — |
 
-**7 items outstanding, all craft-tier, all in Book 1.** Nothing in Books 1–2 currently breaks a rule.
+**6 items outstanding, all craft-tier, all in Book 1.** Nothing in Books 1–2 currently breaks a rule.
 
 **Before flagging anything here as outstanding, check the history.** Twelve entries in this document
 have turned out to be already fixed — six caught by re-reading the prose, six more only found by
@@ -59,7 +59,26 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **The hands.** B1 ch1 "The Healer's Hands" (tweezing glass, washing blood away) → B2 ch13 "Clean Hands" (*"he had just spent a night being him to the letter, and the proof was there at the ends of his own wrists, unmarked"*) → B2 ch17 (he takes his own pulse, finds it steady, and cannot make the diagnosis land on himself). Do not add a fourth without reason; three is the shape.
 
-**Frozen silence → chosen silence.** B1 ch1: rooted to the paving stones while Tam is taken, because acting means saying his own name. B2 ch16: he refuses Rosik the argument, and the text distinguishes the two explicitly. **This is the arc, and it spans two books.** Book 1 not closing it is correct.
+**Frozen silence → chosen silence.** B1 ch1: rooted to the paving stones while Tam is taken, because acting means saying his own name. → B1 ch8: Elara asks him at the gate why he didn't, and *"nothing came out of it. The same nothing, arriving in the same order."* → B1 ch19: Farleen argues him down a maze in five stages and he answers none of them. → B2 ch16: he refuses Rosik the argument, and the text distinguishes the two explicitly. **This is the arc, and it spans two books.** Book 1 not closing it is correct.
+
+**The test, for any silence not yet written.** Put the best available defence to him and see whether he takes it.
+
+| Silence | Defence | He says |
+|---|---|---|
+| Mira, at fifteen | terrified of his father, and it would have changed nothing | *"I didn't even try."* |
+| Tam, in the square | speaking ends Master Fen and eight years of work | *"I could have saved him then and worked the clinic out later."* |
+| Elara, at the gate | he still can't tell her what he is | *"She deserves the truth, not silence."* |
+| Rosik, B2 ch16 | Rosik twists anything said to him; there is no point | **he agrees** |
+
+**Rejects the defence → frozen. Accepts it → chosen.** A wound does not take mitigation; only a decision can be defended. Applies to scenes that don't exist yet, which the two-example version of this thread could not do.
+
+**Why the same defence gets opposite verdicts.** *"It would have changed nothing"* is offered for Mira and rejected, and the identical argument is offered for Rosik and accepted. The difference is what is on the table. With a person in front of him, weighing **is** the betrayal — that is Mira's rule, and B1 ch11 is him confessing he broke it. With nothing at stake but his own standing, weighing is just sense.
+
+**The Rosik silence is not on the same axis as the others — author's ruling.** The first three are wounds: fear at fifteen, calculation in the square, calculation he cannot even voice at the gate. The fourth is **expertise**, and B2 ch5 puts it on the page in the warm stretch, long before the cold: accused in the study of turning Elara against the Coterie, Xion has the reply *"whole and sharp, sitting behind his teeth"* — and swallows it, because *"**Rosik did not lose arguments — he fed on them**, turned every true thing you set in front of him into more ground to stand on."* That is Xion's own twenty-three years of data, stated flat.
+
+Note the **order** in that paragraph: he reasons his way to the decision, and *then* remembers *"Don't hand him the argument. Melina had known."* Her line arrives as corroboration, not instruction. She is an older sister worrying about her brother; he would have done it regardless.
+
+**Do not write this silence as contamination, and do not write it as ambiguous.** Xion is not stupid. Knowing your opponent is not the same as becoming him.
 
 **The name.** B1 ch1: he cannot say *"I am Xion Kemvimore"* to save Tam. → B1 ch8: he says it at a district gate to save himself a walk, and it works instantly — the guard never touches the ledger, while the man ahead of him is written down and turned away. Elara watches, and convicts him for it. → B1 ch11: the trade gets named — four words free the boy and end Master Fen in the same breath. → B2 ch3: he says it to save Sela, it works, and *"Master Fen could not get one cup past this man's ledger. Only the other one could do that."* The price of the outcome is the thing he was. **ch8's use must stay trivial.** The moment it costs him something there, B2 ch3 has nothing left to spend.
 
@@ -115,7 +134,6 @@ else.** Full reasoning in the changelog.
 | C-17 | ch9 — the dance lesson runs three times (day 1, day 2, day 3), each closing on near-contact broken by a step back. Cadence, not plot. |
 | C-18 | ch11 — *"Mutual vulnerability. The foundation of any good partnership."* Theme stated in dialogue. |
 | C-19 | ch11 and ch12 both close on Xion alone on the floor in the dark, reflecting. ch12's is far stronger (*"Count toward what?"* — the ledger image); ch11's is the disposable one. |
-| C-20 | ch19 — Farleen's objections repeat instead of escalating (*you're going to die / he's dying / is she worth your life / please*), and ch20 runs the same shape (Farleen shouts, Elara apologises, *"Stop saying you're sorry!"*). The one stretch in Book 1 where an argument re-runs rather than moving anyone's position. |
 | C-21 | Surviving closing swells — ch6 (*"a city that called itself free while its people counted themselves lucky to survive until sunset"*), ch22 (*"This was our first real fight." / "It was a good one."* landing a beat after the Mira confession), ch23 (four paragraphs of *"Tomorrow everything would change."*). |
 
 ### Craft — Book 2
@@ -328,6 +346,7 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 | C-13 | B2 ch6, ch7 and ch10 all close on a long summarizing paragraph of Xion alone. | `e006531`. ch7 now ends short, on the distinction that landed: *"an argument is a thing two people are having. You can lose an argument and still be in the room. / He was not in the room."* |
 | C-14 | B2 ch14 — Melina's death depends on the reader believing the Surface Warrens are lethal enough to kill a Kemvimore mid-sentence, and nothing established it. | `e006531`. ch14 l.9 now states the system before breaking it: *"The Surface Warrens had always run on a kind of arithmetic — who you were, who you belonged to, what it would cost a man to touch you. A good coat bought you passage. A cartel name bought you more."* |
 | C-15 | B2 ch2/ch3 both use *"You've gone somewhere" / "I'm here"*; confirm intent. | Void. ch2's instance is gone; only ch3 l.85 remains, and its *"again"* reads as a habit Melina has noticed over months rather than a callback to a scene — it needs no on-page antecedent. |
+| C-20 | ch19's objections repeat instead of escalating; ch20 runs the same shape (Farleen shouts, Elara apologises, *"Stop saying you're sorry!"*). | Rebuilt as a **descent through five arguments**, each abandoned as the last one fails: tactics (*"That's everything we came for, and it's forty feet behind you"*) → ground (*"their ground. Not their territory — their **ground**"*) → the trance (*"A woman in a fit, choosing left"*), after which she goes silent and *"Xion discovered that he wanted her to"* speak → medicine → the person. No argument now appears twice. **The medical rung is the chapter's spine:** Xion stops, lays the backs of his fingers against Tam's forehead — the ch18 gesture, returning to mean the opposite — finds she is right, and walks on. That is the first break of the consent guardrail, now on the page. ch20's fight rebuilt so Elara stops apologising and asks what Farleen cannot answer: *"If it starts again — can you stop me?" / "No." / "Neither can I."* Net length barely moved (2,427→2,410; 1,825→1,736) — substitution, not trimming. |
 | C-1 | ch2 and ch3 run the same argument; ch3 should be about what they committed to, not whether he's sane. | ch3 now **inverts** it — four days of elimination convince Kael and Silvanno he is *right*, and that is why they refuse. *"I'd rather my friend was mad. Because a mad friend I can walk home."* |
 | C-4 | ch17's "something feels wrong" runs four times with no new information; chapter also over-long. | One instance (l.22). Chapter is 1,680 words, the shortest in Book 1. |
 | C-5 | ch24's combat trial is almost entirely commentary; the climactic test needs one concrete exchange before the analysis. | ch24 l.79–87 — the feint high, the strike driving up under the arm into the short ribs, and Sa Ko taking it without moving her feet. The exchange is not merely placed before the analysis; it is what *triggers* it, and Farleen's ch16 ribs are the measuring instrument. |
