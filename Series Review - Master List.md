@@ -149,7 +149,7 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 - **Elara appears in one chapter of Book 2's twenty.** Thematically motivated — the institution separating them at the start still separates them at the end — but a reader who came for Book 1's partnership gets almost none of it. Worth holding consciously.
 - **Book 1's prose is the weaker half of the series by a wide margin.** Book 2 reads as though rules 1–3 were held firmly throughout; B2 ch5 works precisely because nobody is bent to make it work.
-- **The plot proves its own thesis in Book 1** — Xion doesn't rescue Tam; five years of free medicine do, through Korvin, a vendor, a Slaver's cousin, and Varris's leg.
+- **The plot proves its own thesis in Book 1** — Xion doesn't rescue Tam; eight years of free medicine do, through Korvin, a vendor, a Slaver's cousin, and Varris's leg.
 
 ---
 
@@ -161,8 +161,8 @@ These are the spine. Each is already working; each could be broken by an unwary 
    - **Constraint honoured:** she is not in ch1. She hears about the name-taking secondhand and has nothing to say about it, because to her nothing changed — she has called him Fen for eight years.
    - Original planning notes retained below.
    - **Where:** Book 3, Act I. Book 3 is entirely at beat-draft stage, so insertion is cheap. Book 2 is finished and tight, and Xion's isolation there is load-bearing — handing him Janice back mid-Book-2 would soften the thing that book is about.
-   - **Why she never came:** she has never asked anyone for anything. Five years housing an illegal clinic and the only thing she ever requested was one copper. She is blind or nearly, cannot work, and arriving on his doorstep would be the first request she had ever made — so she doesn't. She has been in the city the whole time. This is the trait she was built with, taken to its worst conclusion.
-   - **What she says:** nothing grateful, nothing apologetic, nothing about Mira. Something operational. Best candidate is a version of the question she asked for five years — *did you ever start charging?* She burned the ledger and it is still the only thing she wants to know.
+   - **Why she never came:** she has never asked anyone for anything. Eight years housing an illegal clinic and the only thing she ever requested was one copper. She is blind or nearly, cannot work, and arriving on his doorstep would be the first request she had ever made — so she doesn't. She has been in the city the whole time. This is the trait she was built with, taken to its worst conclusion.
+   - **What she says:** nothing grateful, nothing apologetic, nothing about Mira. Something operational. Best candidate is a version of the question she asked for eight years — *did you ever start charging?* She burned the ledger and it is still the only thing she wants to know.
    - **Hard constraint:** she must NOT be present for Book 3 ch1's name-taking. If she is in the room the scene becomes about her, and Mira is the entire point of it. Find her after, or well before, and let her hear about it secondhand — one dry line.
 3. ~~**Who tells Xion he has become his father, and when?**~~ **CLOSED — WRONG QUESTION. Author's ruling.**
 
@@ -216,7 +216,7 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
 
 **Book 1 — continuity corrections**
 - ch9: *"money earned through years of treating patients as Master Fen"* contradicted the free-clinic premise and ch11's *"every coin I spend on this clinic comes from my father's allowance"*
-- ch11: *"the past ten years"* against *"Five years. Since I was fifteen"* in the same chapter
+- ch11: *"the past ten years"* against *"Five years. Since I was fifteen"* in the same chapter — reconciled to "five" at the time. Note that the age correction has since made "ten" the right number everywhere, so the original phrasing turned out to be the correct one.
 - ch4: *"haunted his dreams for weeks"* — it had been five days
 - ch4: recognition claimed hair colour and "delicate features" after a hooded sighting at dusk
 - ch6: ran midday → late afternoon → *"the bells chimed noon"*; also opened with them leaving an alcove they had left at the end of ch5
@@ -232,6 +232,51 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
 - ch15: Xion notices he answered a question Elara didn't ask
 
 **Book 2** — no editorial changes applied. Read only. (Formatting passes below did touch it.)
+
+**Xion's age: 20 → 23 (continuity correction, spans both books)**
+- **The problem.** B2 ch20 gives Xion a firsthand memory of Rosik lifting him onto a horse and
+  steadying him — warmth that must predate the Rending, because the Rending is what remade Rosik.
+  At 20 he was an infant then and could hold no such memory. He must have been ~3, so he is 23.
+- **The author overrode the "Book 1 prose is immovable" rule** for this, on the grounds that
+  correctness beats immovability. Treat it as a one-off, not a precedent. Recorded at the top of
+  `Story Timeline.md`.
+- **What moved:** `age − 15 = duration`, so Master Fen's "five years" became **"eight years"** —
+  14 spans in Book 1 (ch1, 9, 11×3, 12×3, 13×4, 15, 18) and 30 in the sheets and this document.
+- **What did not move:** every **"fifteen."** The boy who stood mute at Mira's execution stays a
+  boy — B2 ch16's *"the boy he had been at fifteen"* depends on it, as does the whole
+  paralysis-guilt engine. Mira's execution shifts 1039 → **1036 BR**; Xion born ~**1021 BR**.
+- **Elara remains 20**, locked by ch6 prose (*"older than her twenty years"*). The two are no
+  longer the same age; nothing in Book 1 ever said they were.
+- **Melina** moved to around thirty (~29–31), six or seven years Xion's senior — ~9–11 at the
+  Rending, so she still remembers whole what he keeps only as feeling. Not fixed by any prose.
+- **Left alone deliberately:** the four unrelated "five years" — Varris's service to Ronas
+  (B1 ch18), "six fake princesses" (B1 ch2, and Silvanno's sheet ×2), and the water-reform
+  estimate (B2 ch3, ch11).
+- **Limit, recorded honestly:** at three, ch1's *"stories his mother used to tell"* is still best
+  read as mostly **inherited lore** — a three-year-old does not retain story content. What is his
+  own is the feeling attached to her. Age 5 would have bought the stories outright; the author
+  chose 3 deliberately, on the grounds that what survives earliest childhood is affect — safety,
+  warmth, laughter — and that this is the only register the ch20 memory actually needs.
+- **Rosik was a good father before the Rending — new canon, deliberately established.** The book
+  previously held that the estate was never warm and that Mira was the first person to make it a
+  home. That made Rosik merely cold and gave Xion an absence rather than a loss. Now: Rosik was
+  plainly, unremarkably a good father while his wife lived — he laughed, the house was a home —
+  and the Rending killed that man as surely as it killed her. Xion was three, too young to read
+  the change as grief. **B2 ch5 rewritten** accordingly: he *had* known the house another way,
+  stopped reaching for it because reaching felt like invention, and let the warmth he could still
+  reach belong to Mira — who made it a home *again*. Recorded on Rosik's sheet as a guardrail:
+  do not flatten him back into a patriarch with no before.
+- **The ch5/ch20 division of labour.** ch5 carries only the structural fact — there was a before,
+  he was three, he stopped reaching. ch20 keeps the flood: the laugh, the horse, the hand, and
+  the father rather than the Lord of the Grain. ch5 must never spend ch20's payoff.
+- **B2 ch20 trimmed twice, then extended.** The remembered joke ("landed badly and then, a beat later, landed
+  perfectly") cut to just the laugh — the remarkable thing is that Rosik laughed *at all*, and
+  comic mechanics were analysis inside a grief passage. Then *"and had not yet learned to be
+  ashamed of needing it"* cut from the horse sentence: it dated the memory to 4–6 and is the only
+  thing that did. What remains is affect alone, which is what a three-year-old keeps.
+  **Note for Book 3:** that clause was also the earliest statement of Xion's shame about being
+  given anything — the thread running through Janice's *"my choice"* and Elara's ch22 absolution.
+  It now has no origin beat. Worth re-planting somewhere that does not date the memory.
 
 **Books 1–2 — formatting passes (mechanical, no prose altered)**
 - Renamed all 25 Book 1 chapter files to `Chapter N - Title.md`, matching Book 2's existing

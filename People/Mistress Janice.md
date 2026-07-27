@@ -2,7 +2,7 @@
 
 ## The One Who Keeps the Book
 
-Janice runs a weaver's shop in the Middle District, and in the back room of that shop a man with a false name gives away medicine he does not charge for. She has housed him for five years. She has never once told him to stop.
+Janice runs a weaver's shop in the Middle District, and in the back room of that shop a man with a false name gives away medicine he does not charge for. She has housed him for eight years. She has never once told him to stop.
 
 She has also never once stopped asking him to charge a copper.
 
@@ -10,7 +10,7 @@ That is the whole of Janice, and it is not a contradiction. She is not arguing a
 
 "A man who charges nothing is a man somebody else is paying for. You've made a mystery of yourself, and mysteries get solved."
 
-She is right. She is right for five years, and then one afternoon a child is taken and the reason he is taken is a silver coin she warned about that morning, and she does not say *I told you so*, because she has no interest whatsoever in winning.
+She is right. She is right for eight years, and then one afternoon a child is taken and the reason he is taken is a silver coin she warned about that morning, and she does not say *I told you so*, because she has no interest whatsoever in winning.
 
 ---
 
@@ -38,7 +38,7 @@ Note also the Merchant asymmetry — her fifth, his seventh. She wants a number 
 
 Janice's core question is *does this work, and can it work better*. Her signature image is diagnostic and it is the first thing on the page: she unpicks a finished row, backward, stitch by stitch, because one thread was miscounted the day before. Sunk cost means nothing to her. A structure with a flaw in it is a structure that comes out.
 
-Her objection to the free clinic is entirely of this kind. She never proposes turning a patient away — not once, in five years. She proposes **a copper from anybody who has one, handed straight back out the door if he likes**, because what she wants is not the money but the *record*: a clinic that looks like a clinic, with intake and payment and a book, rather than an anomaly that invites the question *who is funding this*. She is trying to make a working system out of a beautiful one.
+Her objection to the free clinic is entirely of this kind. She never proposes turning a patient away — not once, in eight years. She proposes **a copper from anybody who has one, handed straight back out the door if he likes**, because what she wants is not the money but the *record*: a clinic that looks like a clinic, with intake and payment and a book, rather than an anomaly that invites the question *who is funding this*. She is trying to make a working system out of a beautiful one.
 
 Her front-of-house role is engineering, too. She screens. She takes names, or notices when they aren't given. She asks what people can pay — she says she asks everyone, and she does — and then she sends them back anyway. That is a triage protocol, and she built it.
 
@@ -46,7 +46,7 @@ Her front-of-house role is engineering, too. She screens. She takes names, or no
 
 ### Caretaker (Secondary)
 
-The load-bearing fact of Janice's life is that she has sheltered an illegal free clinic for five years at mortal risk to herself, her shop, and her livelihood. Nothing about her Engineer primary explains that. Only Caretaker does.
+The load-bearing fact of Janice's life is that she has sheltered an illegal free clinic for eight years at mortal risk to herself, her shop, and her livelihood. Nothing about her Engineer primary explains that. Only Caretaker does.
 
 She sees patients herself when Xion cannot (ch13 — three routine cases, handled through the connecting door). She learned to read his coded patient script, which means she chose to become fluent in the medical record of the city's poor. She noticed a boy's hand wrapped in a rag and formed an opinion about the rag. She heard a twelve-year-old say he would pay *back* rather than pay, and understood exactly what it meant, and told Xion so.
 
@@ -60,15 +60,15 @@ Janice thinks in years. Her real question about the clinic is *will this endure*
 
 This is the drive that separates her most sharply from Xion, whose Founder sits fifth. He is trying to save the patient in front of him; she is trying to ensure there is still a back room next spring. Both are correct. Only one of them is thinking about spring.
 
-Five years of holding a position without escalating it is itself Founder behavior: she is not trying to win the argument this morning, she is trying to still be having it next year, in a shop that still exists.
+Eight years of holding a position without escalating it is itself Founder behavior: she is not trying to win the argument this morning, she is trying to still be having it next year, in a shop that still exists.
 
-**Shadow:** Her long horizon can look like tolerance of an intolerable present. She has watched Xion subsidize the poor with his father's blood money for five years and has never demanded he stop, because a compromised clinic that endures beats a pure one that is discovered.
+**Shadow:** Her long horizon can look like tolerance of an intolerable present. She has watched Xion subsidize the poor with his father's blood money for eight years and has never demanded he stop, because a compromised clinic that endures beats a pure one that is discovered.
 
 ### Truth Seeker (Fourth)
 
-She is blunt to the point of bruising, refuses to soften a diagnosis, and delivers the most accurate sentence anyone says about Xion in the entire first act: *"You couldn't say your own name out there. That's the whole of it, and you've known it five years, and you're going to stand in my shop and be surprised."*
+She is blunt to the point of bruising, refuses to soften a diagnosis, and delivers the most accurate sentence anyone says about Xion in the entire first act: *"You couldn't say your own name out there. That's the whole of it, and you've known it eight years, and you're going to stand in my shop and be surprised."*
 
-But Truth Seeker is mid-stack, not top, and the proof is what she *refuses* to know. **"I've never asked where the money comes from."** She has worked out that Xion is a Kemvimore — the phrasing only makes sense if she has — and she has declined to confirm it for five years, because confirmed knowledge is a liability to the operation and to her. A Truth Seeker primary could not do that. She subordinates knowing to functioning.
+But Truth Seeker is mid-stack, not top, and the proof is what she *refuses* to know. **"I've never asked where the money comes from."** She has worked out that Xion is a Kemvimore — the phrasing only makes sense if she has — and she has declined to confirm it for eight years, because confirmed knowledge is a liability to the operation and to her. A Truth Seeker primary could not do that. She subordinates knowing to functioning.
 
 Her follow-up — *"I'd like it noted that not asking is work"* — is the single most revealing line she has. It tells us the silence is deliberate, effortful, and unthanked.
 
@@ -80,7 +80,7 @@ Present, modest, and constantly misread — including, in-world, by Xion. She wa
 
 But the Merchant reading collapses on her own line: **"Hand it straight back out the door for all I care — I want a number in the book."** She does not want the copper. She wants the *ledger entry*. Accumulation is not the drive; legibility is. The Merchant energy is instrumental to the Engineer primary, which is exactly the Acquisitive Trap the framework warns about.
 
-**Shadow:** Because Xion's Merchant is dead last, he cannot distinguish "I want a ledger" from "I want money," and hears greed where there is only bookkeeping. Five years of failed argument rest on this misreading.
+**Shadow:** Because Xion's Merchant is dead last, he cannot distinguish "I want a ledger" from "I want money," and hears greed where there is only bookkeeping. Eight years of failed argument rest on this misreading.
 
 ### Creator (Sixth)
 
@@ -98,7 +98,7 @@ Near zero, and it is her defining grace. She has had the copper argument a dozen
 
 She does not need Xion to concede. She needs the clinic to survive, and a humiliated Xion is not a safer Xion. The absence of the competitive drive is what makes her devastating: there is no ego in the room for him to push against, so the only thing left to argue with is the fact that she is right.
 
-**Shadow:** Her refusal to force the issue means she has been *correct and ignored* for five years, and will go on being correct and ignored until the day the flaw she identified takes the shop down. She has the diagnosis and no mechanism to compel treatment.
+**Shadow:** Her refusal to force the issue means she has been *correct and ignored* for eight years, and will go on being correct and ignored until the day the flaw she identified takes the shop down. She has the diagnosis and no mechanism to compel treatment.
 
 ---
 
@@ -122,9 +122,9 @@ She was the one who told him:
 >
 > Janice's face broke into a grin. "Welcome, Master Fen."
 
-This is the load-bearing fact of the relationship, and it reverses the Chapter 1 argument entirely. Janice did not merely tolerate the clinic — **she authored its security**. The false name was her instruction. Five years later she is still giving the same instruction, about the copper, about the ledger, about the free care being the tell, and he is still not taking it. Her nagging is not nagging. It is the continuation of the single piece of advice that made his whole life possible, from the person who gave it.
+This is the load-bearing fact of the relationship, and it reverses the Chapter 1 argument entirely. Janice did not merely tolerate the clinic — **she authored its security**. The false name was her instruction. Eight years later she is still giving the same instruction, about the copper, about the ledger, about the free care being the tell, and he is still not taking it. Her nagging is not nagging. It is the continuation of the single piece of advice that made his whole life possible, from the person who gave it.
 
-It also means the name she uses in Chapter 1 is not a nickname. **"Fen" is the name she was present for**, still in use after five years, while she has never once said the other one aloud.
+It also means the name she uses in Chapter 1 is not a nickname. **"Fen" is the name she was present for**, still in use after eight years, while she has never once said the other one aloud.
 
 Her first act toward him was a systems correction — *your operation has a fatal flaw, fix it* — delivered by a patient to her healer, before she owed him anything. She was his security audit before she was his landlady. The Engineer primary is visible from the first minute they knew each other.
 
@@ -160,19 +160,19 @@ He gives the coin anyway. The boy is taken. She does not gloat, and instead deli
 
 In ch7 she watches Xion come through her door grey-faced with a stranger, looks at Elara a beat longer than politeness allows, and then takes up watch at the front window with shears and cloth nobody ordered. She says nothing, and lets him keep lying about "a friend's clinic." Her shears are still going past closing.
 
-In ch11 the door is opened with Xion's own key and the alias is confessed to Elara — **she is not present for the unmasking of the secret she has kept for five years, and the name she gave him is handed to someone else without her in the room.**
+In ch11 the door is opened with Xion's own key and the alias is confessed to Elara — **she is not present for the unmasking of the secret she has kept for eight years, and the name she gave him is handed to someone else without her in the room.**
 
 In ch13 she counts the watchers before Xion does — including the one on the alley he has missed — and reports it through the curtain without waiting for an answer.
 
 ### The Choice (Chapter 13)
 
-The raid comes to her building, as she has been telling him for five years that it would. Farleen supplies the escape route; Janice supplies the time.
+The raid comes to her building, as she has been telling him for eight years that it would. Farleen supplies the escape route; Janice supplies the time.
 
 Xion turns back for the patient logs and finds the shelf empty and Janice at the front counter with all six journals squared edge to edge and the lamp already open. Her argument is not about her own safety and never touches his guilt. It is operational, and it is the last and best version of the copper argument:
 
-> "Then it isn't you they hang. It's Korvin. It's the Corris family. It's every name in here… Five years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
+> "Then it isn't you they hang. It's Korvin. It's the Corris family. It's every name in here… Eight years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
 
-She burns the records. It is the only act in the building that only she can perform — she is one of two people alive who can read the cipher, and ch11 has already established the logs as evidence against the cartels. **The woman who spent five years demanding he keep a proper ledger ends by destroying the only one that exists.**
+She burns the records. It is the only act in the building that only she can perform — she is one of two people alive who can read the cipher, and ch11 has already established the logs as evidence against the cartels. **The woman who spent eight years demanding he keep a proper ledger ends by destroying the only one that exists.**
 
 To his "I can't let you do that" she gives two words — *"My choice."* — and he obeys, which is the damning part. He offers to come back for her. She tells him he won't, and she is right.
 
@@ -180,15 +180,15 @@ To his "I can't let you do that" she gives two words — *"My choice."* — and 
 
 **Xion is not being tyrannical, and he must never read as tyrannical.** "I can't let you do that" is not a claim of authority over her. It is a man refusing another entry in a ledger he already cannot pay: *whatever happens to you becomes mine to carry, and I am already carrying more than I can hold.* Janice forces him to say it out loud — *"Why not?"* — and what comes out is guilt, not permission-granting.
 
-**Janice's answer is the resolution of the copper argument, and the only one available.** For five years she has demanded a number in the book, and he has refused, because his giving must never balance. So she concedes the whole argument and turns it around: she gives him something on *his* terms, and cites his own practice as the precedent.
+**Janice's answer is the resolution of the copper argument, and the only one available.** For eight years she has demanded a number in the book, and he has refused, because his giving must never balance. So she concedes the whole argument and turns it around: she gives him something on *his* terms, and cites his own practice as the precedent.
 
-> "Five years I've asked you for one copper. One. And you've never once given me a number, because the whole point of the thing you do is that people take it and walk out owing you nothing… So don't stand in my shop and tell me I don't get to do it too."
+> "Eight years I've asked you for one copper. One. And you've never once given me a number, because the whole point of the thing you do is that people take it and walk out owing you nothing… So don't stand in my shop and tell me I don't get to do it too."
 >
 > "It isn't the same—"
 >
 > "It's exactly the same. I'm giving you something. **You don't get to write it down.**"
 
-This is not a debt, not a favor, and not a sacrifice he must repay. It is a *gift* — the exact thing he has given strangers for five years and has never once been able to accept. His response is the same muteness Ch1 gave him: *He had no answer. There never was one, at this part.*
+This is not a debt, not a favor, and not a sacrifice he must repay. It is a *gift* — the exact thing he has given strangers for eight years and has never once been able to accept. His response is the same muteness Ch1 gave him: *He had no answer. There never was one, at this part.*
 
 Only then does "My choice" land, and by then it means *this is mine to decide, and it is not going on your account.*
 
@@ -206,7 +206,7 @@ This is the structural weight the scene carries, and it should never be stated o
 
 Xion's defining wound is that Mira was destroyed by his father's power and he stood there. In ch1 it happens again with Tam, in a market square, and he cannot move. In ch13 it happens a third time — and this time he is an adult, he has warning, he has minutes, and he leaves anyway, because someone he loves told him to.
 
-Mira also chose. That is precisely what he has never been able to accept. Janice saying *"my choice"* does not absolve him; it replays the sentence he has spent five years unable to hear.
+Mira also chose. That is precisely what he has never been able to accept. Janice saying *"my choice"* does not absolve him; it replays the sentence he has spent eight years unable to hear.
 
 **Outcome: taken.** Grain cartel forces arrest her. Xion does not learn what happened to her in ch13, ch14, or ch15 — the confirmation belongs later, most naturally with Silvanno and Kael in ch23, who searched the surface while he was underground. The debt stays open through Books 2 and 3, which is correct: he cannot discharge it, and he is a man who settles every account but his own.
 
@@ -261,7 +261,7 @@ If she is ever described, the description should be functional rather than warm 
 
 Janice is what Xion would be if his stack were reordered by one place — the same care, routed through function instead of feeling, and therefore invisible as care. She is the proof that his defining virtue is a *choice among alternatives* rather than the only decent option available, because she is standing right there being decent differently.
 
-Her tragedy is structural rather than dramatic: **she is correct, she is early, she has no power to compel, and she is not thanked.** She identified the flaw in the operation five years before it killed anyone and could do nothing with the diagnosis except repeat it to a man constitutionally unable to receive it. She will keep the roof on until the roof comes off.
+Her tragedy is structural rather than dramatic: **she is correct, she is early, she has no power to compel, and she is not thanked.** She identified the flaw in the operation eight years before it killed anyone and could do nothing with the diagnosis except repeat it to a man constitutionally unable to receive it. She will keep the roof on until the roof comes off.
 
 ---
 

@@ -150,7 +150,7 @@ Elara looked up from the etiquette manual he'd taken from Silvanno's library two
 
 She moved to examine the clothing, fingers brushing across expensive fabric. "This must have cost—"
 
-"Nothing we can't afford." He'd dipped into the funds he kept back from his father's allowance, skimmed a little at a time over five years — the same money that bought bandages and fever powder, spent now on silk. "Besides, nobles expect a certain level of display. Show up underdressed and you might as well wear a sign saying 'I don't belong here.'"
+"Nothing we can't afford." He'd dipped into the funds he kept back from his father's allowance, skimmed a little at a time over eight years — the same money that bought bandages and fever powder, spent now on silk. "Besides, nobles expect a certain level of display. Show up underdressed and you might as well wear a sign saying 'I don't belong here.'"
 
 Elara held up a gown in deep blue silk, its bodice embroidered with silver thread. "This is beautiful."
 
