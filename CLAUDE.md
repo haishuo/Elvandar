@@ -149,6 +149,17 @@ Avoid: stating the theme in dialogue; summarizing a scene's meaning after the sc
 articulating their own arcs; adverb-propped attribution; on-the-nose symbolism. When a paragraph
 explains what the previous paragraph already did, cut the explanation.
 
+**Emphasis:** single-word stress emphasis is **bold**. Italics carry everything else — interior
+thought, emphasis running to more than one word, letters and documents, and a word cited as a
+word. If more than one word needs the weight, it is italic, not bold.
+
+The cited-word case is the one that gets mishandled. A word being *named* is not being stressed,
+however short it is — "an officer of mine used the word `*body*`"; "`*no*` was a word for people
+without the right name"; Janice's `*Fen.*` landing after she says it; Rosik's `*Building.*`.
+The test: if the sentence is about the word, it stays italic; if the weight is in the voice
+saying it, it goes bold. Applied across Books 1–2; the full exclusion list is in the changelog
+in `Series Review - Master List.md`.
+
 **Beat drafts:** present-tense analytical scene outlines. Numbered beats, header block
 (Timeline / Characters / Emotional work / POV), footer notes on the load-bearing decisions.
 Functional planning documents, not prose. `Templates/Beat Draft Template.md` is the pattern.
