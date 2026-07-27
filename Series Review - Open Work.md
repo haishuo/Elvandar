@@ -6,9 +6,22 @@ Everything here is either **outstanding** (not yet done) or a **guardrail** (a d
 
 ---
 
+## The rule hierarchy (author's, binding)
+
+When these conflict, the lower number wins. Everything else in this file is subordinate to them.
+
+1. **Things must make sense.** If something becomes logically incoherent, the plot changes to fix it.
+2. **Characters must behave like themselves.** No adjusting a personality to make a point. *The plot serves at the sufferance of characterization, never the reverse.*
+3. **A scene designed for one emotion stays that way** — wonder, joy, triumph, despair. Resolution may happen around the edges. It must never dilute.
+4. **Thematic resonance ranks last.** Making something more thematic is permitted only when it does not conflict with 1, 2, or 3.
+
+**Reviewer's failure mode, recorded so it can be caught:** three separate suggestions this session reached for thematic shape and had to be paid for out of a higher rule — an invented watcher in ch1 that contradicted ch4's premise (rule 1), a downbeat added to ch25's closing roll call (rule 3), and a request that Rosik be given an interlocutor in Book 2 ch5 (rule 2 — Xion's silence there is in character, and Rosik facing no resistance *is* Rosik). The tell is the same each time: adding something because it *rhymes* rather than because the logic or the character requires it. "This would be more resonant" is a signal to check the three rules above it before proposing anything.
+
+---
+
 ## Craft principles established during the review
 
-These came out of specific problems and apply generally. They are the reason for most of the fixes below.
+These came out of specific problems and apply generally. They are the reason for most of the fixes below. All are subordinate to the hierarchy above.
 
 **1. A recurrence must change someone's position, not their volume.**
 The book's dominant structural habit is re-running an argument rather than escalating it. Ch2/Ch3, Ch6/Ch8, Ch15's four "why is everyone being polite" beats, Ch17's four "this feels wrong" beats, Farleen's five identical *stop-this* speeches across ch14–20. Ch22 is the correct model: Elara reaches for the same weapon she used in ch15, and this time he breaks.
@@ -31,7 +44,9 @@ Roughly half the fixes so far were of this kind.
 **A1. Farleen's arc has no ending.** *(hold until Book 2 is read)*
 She argues in ch14, 16, 17, 19, 20 — same position, rising volume — then goes silent in ch21–25 (*"unreadable," "professionally neutral"*). She never chooses anything freely; she follows Xion five times under protest.
 
-The hinge already exists: **ch23's cover story**, where Xion lies to Silvanno to protect her, and she registers it (*"surprise, then gratitude, then something more complicated"*). That is the first time anyone has protected her rather than deployed her, and it should be where she stops arguing and starts choosing. Ch24–25 should then show the new posture.
+A possible hinge exists: **ch23's cover story**, where Xion lies to Silvanno to protect her, and she registers it (*"surprise, then gratitude, then something more complicated"*) — arguably the first time anyone has protected her rather than deployed her.
+
+**This is a question, not a fix.** Whether Farleen would actually change position because of that is a rule-2 matter and belongs to the author, not to a structural slot that wants filling. The observation that stands on its own is only this: she holds one position at rising volume for seven chapters and then goes quiet, and a character with two more books to carry should probably not exit her first one unchanged.
 
 This matters disproportionately: her character file has her as **Xion's closest companion and the operational core of his network through Books 2 and 3**, ending inside the imperial security apparatus. She has the longest runway of anyone and currently the flattest exit. *Deliberately deferred until her Book 2 chapters are read, so the Book 1 exit is built to match the Book 2 entrance.*
 
