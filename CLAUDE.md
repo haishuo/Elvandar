@@ -108,6 +108,13 @@ These live in full in `People/`. The load-bearing ones:
 - **Mira Fen** is Xion's defining wound: *"she died, and I didn't do anything."* Every patient
   is a coin paid into a ledger that will never balance. Do not let another character take over
   that function.
+- **Xion does not become his father, and nobody tells him he has.** He already went there — four
+  chapters of Book 2 — and he knew it while he was doing it. B2 ch18 is titled `Don't.` because
+  *he* says it, to himself, mid-manoeuvre. Never write a scene where a character delivers that
+  verdict to his face; it would hand him something he reached alone and under his own power. The
+  difference between him and Rosik is not capability, and it is not virtue. Book 2 proves he is
+  capable. It is that afterward he **breaks** — B2 ch20, the low wall, *"the way a wall goes,
+  which is from the inside"* — and Rosik never does. He has a fault line. His father doesn't.
 
 ---
 
