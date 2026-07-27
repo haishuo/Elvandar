@@ -169,6 +169,26 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 ---
 
+## 6b. Chapter manifest — everything this review pass touched
+
+**Book 1 — The Grain Merchant's Son**
+Chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25
+*(every chapter except 20)* — plus `TGMS Book Summary.md`
+
+**Book 2 — The One You Feed**
+Chapters 1, 7, 14
+
+**Book 3 — Crown Jewel** *(beat drafts only; no prose exists yet)*
+Chapters 1, 3
+
+**Supporting files**
+- `People/Mistress Janice.md` — new character sheet
+- `Series Review - Master List.md` — this file, new
+
+Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 1,675 words), ch3, ch13, ch18, ch23, ch25.
+
+---
+
 ## 7. Applied changelog
 
 **Book 1 — structural**
