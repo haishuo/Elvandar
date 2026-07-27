@@ -72,9 +72,9 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **Three items demoted to author's questions** — each would require bending a character, so none is the reviewer's to decide:
 
-- **Q1. Farleen's Book 1 exit.** She holds one position at rising volume across ch14–20, then goes silent in ch21–25. Book 2 gives her a complete arc (pastry → kiss → *"I'll still be here"* → no pastry when it's too big → *"That's exactly what scares me"* → the chair at the edge of the lamplight → coming around her own corner), so Book 2 does not depend on a Book 1 handoff. The question stands anyway: should a character carrying two more books exit her first one unchanged? Whether ch23's cover story is what changes her is a rule 2 matter.
+- **Q1. Farleen's Book 1 exit — CLOSED. No change, and the reviewer's note was wrong, not merely overruled.** She has no role in Book 1's endgame and manufacturing one would be shoehorning. The better reason: Book 2 defines her by **presence without position** — *"a woman with no post, no title, no institutional reason to stay anywhere — and she stayed."* A character whose nature is unobtrusive constancy should not get a curtain call in the last act of someone else's book. The quiet exit is the correct shape. The handoff also needs nothing — Book 2 ch2 opens with the pastry already an established habit.
 - **Q2. B1 ch16–17 staging.** The *length* cut stands on craft (3,069 words for an offstage failure reads as accident, not intent). Putting Xion inside one of the three operations does not: Farleen is tactically right that he is untrained, and the text says so.
-- **Q3. B1 ch5's speed.** They agree to a life-destroying plan in ~40 lines. But *"He didn't even really consider it"* (ch19) establishes fast acceptance as how Xion decides. May be characterization rather than a gap.
+- **Q3. B1 ch5's speed — DEFERRED to a dedicated session at the author's request.** They agree to a life-destroying plan in ~40 lines. But *"He didn't even really consider it"* (ch19) establishes fast acceptance as how Xion decides. May be characterization rather than a gap.
 
 ### Rule 3 — single-emotion integrity
 
@@ -125,7 +125,8 @@ These are the spine. Each is already working; each could be broken by an unwary 
 - **Mira gives him the practice; Janice gives him the cover.** Values from one, tradecraft from the other.
 - **Janice never absolves him.** She stays operational permanently. Comfort about Mira would be doing Mira's work and deflates both characters.
 - **ch13's "My choice" is a gift, not a claim of authority and not noble sacrifice.** Xion's *"I can't let you do that"* must read as guilt (*whatever happens to you becomes mine to carry*), never permission-granting. Her answer closes the copper argument by conceding it: *"I'm giving you something. You don't get to write it down."*
-- **Unconfirmed:** her injury is failing eyesight rather than hands (hands are used three times already). Awaiting a decision.
+- **Confirmed:** her injury is failing eyesight, not hands (hands are used three times already — Tam, Korvin, Xion's own). It explains her front-of-house role, unpicking by feel, and the ch1 line about holding work up to the light and squinting. **Use lightly.** Her defining discipline is *not looking* (*"I've never asked where the money comes from"*), so blindness literalizes it — a rule 4 resonance that should never be pressed.
+- **Confirmed: she is alive.** See open question 2 for the return plan.
 
 ### Rosik
 
@@ -151,9 +152,13 @@ These are the spine. Each is already working; each could be broken by an unwary 
 ## 6. Open questions
 
 1. **Janice's failing eyesight** — confirm or veto.
-2. **Does Janice reappear alive?** B1 ch23 establishes she was taken and no record of her exists. Book 3 ch1 (Xion takes "Fen" as a surname) is the scene that most wants her alive.
+2. **Janice's return — CONFIRMED alive. Plan agreed; not yet written.**
+   - **Where:** Book 3, Act I. Book 3 is entirely at beat-draft stage, so insertion is cheap. Book 2 is finished and tight, and Xion's isolation there is load-bearing — handing him Janice back mid-Book-2 would soften the thing that book is about.
+   - **Why she never came:** she has never asked anyone for anything. Five years housing an illegal clinic and the only thing she ever requested was one copper. She is blind or nearly, cannot work, and arriving on his doorstep would be the first request she had ever made — so she doesn't. She has been in the city the whole time. This is the trait she was built with, taken to its worst conclusion.
+   - **What she says:** nothing grateful, nothing apologetic, nothing about Mira. Something operational. Best candidate is a version of the question she asked for five years — *did you ever start charging?* She burned the ledger and it is still the only thing she wants to know.
+   - **Hard constraint:** she must NOT be present for Book 3 ch1's name-taking. If she is in the room the scene becomes about her, and Mira is the entire point of it. Find her after, or well before, and let her hear about it secondhand — one dry line.
 3. **Who tells Xion he has become his father, and when?** Elara would be cruel in the right way; Farleen would be true; nobody — him arriving at it alone — may be worst. *(Partially answered by B2 ch18's "Don't." — but that is him refusing to hear it named, not being told.)*
-4. **Q1–Q3 above** (rule 2 questions).
+4. **Q2 above** — whether Xion is ever placed inside one of the ch16–17 operations, or stays outside and the chapter is simply cut hard. (Q1 closed; Q3 deferred to its own session.)
 
 ---
 
