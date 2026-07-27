@@ -252,5 +252,9 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
   - Verified: with asterisks stripped, every chapter file is byte-identical to its prior state.
 - Added `Tools/royalroad_export.py` and a generated `Royal Road/` folder per book (46 files) —
   paste-ready HTML for posting. Regenerate after any prose edit; never hand-edit the output.
+- Book 1 ch22: the two `-----` scene breaks normalized to `---`, matching the other 101 in the
+  series. No effect on the exported HTML, which already normalized them.
+- Recorded the chapter-file conventions in CLAUDE.md §6 — filename pattern, no title heading
+  inside the file, `---` scene breaks — and the regeneration step in §7.
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*

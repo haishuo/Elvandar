@@ -10,7 +10,7 @@ Xion helped Tam up the final slope, emerging into the temple district near sunse
 
 "Almost there," Xion said. "Let's get you home."
 
------
+---
 
 Tam's family lived in one of the poorest sections of the temple district—not quite the slums, but close enough. The building leaned slightly, its walls patched with mismatched wood and fabric. But when Tam's mother opened the door and saw her son, the poverty didn't matter.
 
@@ -48,7 +48,7 @@ Xion wanted to refuse. But they needed somewhere, and the man's pride was alread
 
 The father nodded. Gave them directions. His wife was already pulling Tam back inside, holding him like she'd never let go.
 
------
+---
 
 The warehouse was exactly what Tam's father had promised—abandoned, drafty, but private. The main room was bare except for scattered debris and a few crates someone had left behind. Farleen checked the perimeter, posted herself near the entrance where she could watch the street, and very deliberately gave Xion and Elara space.
 

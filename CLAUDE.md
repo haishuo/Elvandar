@@ -161,6 +161,21 @@ The test: if the sentence is about the word, it stays italic; if the weight is i
 saying it, it goes bold. Applied across Books 1–2; the full exclusion list is in the changelog
 in `Series Review - Master List.md`.
 
+**Chapter files:** one file per chapter in `Chapters/`, named `Chapter N - Title.md` — a space
+either side of a hyphen, the number unpadded, the title in Title Case. `Chapter 7 - Fine.md`,
+not `chapter7.md` or `Chapter 07 - Fine.md`.
+
+The filename is the only place the title lives. Do **not** put a `# Chapter N: Title` heading
+inside the file — it was redundant with the filename and has been stripped from every chapter.
+The file opens on its first line of prose.
+
+Scene break is exactly three hyphens on their own line, `---`, blank line either side. Not four,
+not five, not asterisks.
+
+These three rules are load-bearing: `Tools/royalroad_export.py` derives the Royal Road filename
+from the chapter filename, treats a leading heading as a paragraph, and renders a scene break as
+`<p>---</p>`. Rename or restructure a chapter and you must regenerate — see §7.
+
 **Beat drafts:** present-tense analytical scene outlines. Numbered beats, header block
 (Timeline / Characters / Emotional work / POV), footer notes on the load-bearing decisions.
 Functional planning documents, not prose. `Templates/Beat Draft Template.md` is the pattern.
@@ -190,3 +205,14 @@ Series Review - Master List.md   editorial record and outstanding work
 elvandar_series_outline.md
 TGMS - OLD/          NON-CANON. Ignore entirely.
 ```
+
+**Regenerating the Royal Road HTML.** `Royal Road/` is build output. After any prose edit,
+rename, or scene-break change, run it again and commit the result alongside the prose:
+
+```
+python3 Tools/royalroad_export.py            # every book
+python3 Tools/royalroad_export.py "Book 2"   # one book
+```
+
+It is idempotent — re-running over unchanged prose produces no diff, so it is safe to run at
+the end of any session. Never hand-edit a file under `Royal Road/`; the next run overwrites it.
