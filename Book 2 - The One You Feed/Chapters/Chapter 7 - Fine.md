@@ -60,7 +60,7 @@ He didn't say any of it. Melina knew it already; he could see that she'd already
 
 ---
 
-"I have to go back," she said, when the light started to go. She always had to go back. "There's a working supper — Father wants Tania relaxed before he asks her the real question, which means he wants me across the table being charming at her, which means I get to spend my evening helping build the exact thing I've just spent an hour telling you frightens me." A short, dry breath that wasn't quite a laugh. "You'd think I'd have found a way out of that particular knot by now. Twenty-six years old and still the family's smile."
+"I have to go back," she said, when the light started to go. She always had to go back. "There's a working supper — Father wants Tania relaxed before he asks her the real question, which means he wants me across the table being charming at her, which means I get to spend my evening helping build the exact thing I've just spent an hour telling you frightens me." A short, dry breath that wasn't quite a laugh. "You'd think I'd have found a way out of that particular knot by now. Thirty years old and still the family's smile."
 
 "You could not go."
 

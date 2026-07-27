@@ -68,7 +68,13 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 ### Rule 1 — coherence
 
-**None outstanding.** Every continuity error found in Book 1 has been fixed (see changelog). No coherence problems found in Book 2.
+**None outstanding.** Every continuity error found in Books 1 and 2 has been fixed (see changelog).
+
+The last one closed: B2 ch7 had Melina state her own age as twenty-six. The age-correction pass
+(`1ae458e`, Xion 20 → 23) moved her to ~29–31 and updated `Story Timeline.md`,
+`People/Melina Kemvimore.md`, B2 ch5 and B2 ch20 — but missed ch7, the only place in the series where
+her age is spoken in prose. Corrected to thirty on the author's ruling, and Melina's age is now **fixed
+by prose** rather than inferred.
 
 ### Rule 2 — characterization
 
@@ -301,5 +307,52 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
   series. No effect on the exported HTML, which already normalized them.
 - Recorded the chapter-file conventions in CLAUDE.md §6 — filename pattern, no title heading
   inside the file, `---` scene breaks — and the regeneration step in §7.
+
+**Book 2 — beat drafts resynced to final prose (all 20 chapters)**
+
+The beat drafts had last been synced 48 commits earlier; every prose pass since then had left them
+behind. Compared each `Beat Drafts/Chapter N` against its `Chapters/Chapter N` and rewrote the beats
+to match what is actually on the page. No prose was touched. The substantive divergences found:
+
+- **ch2** — Silvanno's scene was restaged entirely: he now refuses the closed-door meeting and takes
+  Xion to the horse market (*"be boring in the open"*). And Xion now *reaches* the letter-sanitization
+  theory twice and sets it down both times, because it is the reading that requires hope. The drafts
+  had him simply ignorant.
+- **ch3** — the draft was missing the chapter's biggest beat: Xion spending the Kemvimore name on a
+  tally-man to force a full allotment (*"no was a word for people without the right name"*), plus
+  Melina's stopgap-brokering plan and her *"stop deciding Elara's rejecting you."*
+- **ch4 → ch6** — the clinic material (the porter's recognition, the merchant's sponsorship offer, the
+  sign coming down) was drafted in ch4 and now lives in ch6's prose. Moved, with a note in both.
+- **ch5** — the draft had neither the Mira passage nor Melina's *"don't hand him the argument,"* which
+  is the reason the confrontation has only one person in it.
+- **ch9** — missing the one-child/all-children comparison and Melina's *"come back to the house."*
+- **ch10 → ch11** — reversed. Xion no longer reasons methodically to Rosik; he is "too frightened for
+  arithmetic" and skips the middle, and Melina names it. The careful elimination now happens in ch11
+  *after* the fact, with Elara, and he arranges for her to say the name.
+- **ch12** — the draft lacked the load-bearing error of the whole book: Xion's plan *depends* on Rosik
+  being reasonable, and Melina independently confirms the premise in the same scene.
+- **ch13** — the draft was missing its own title image. The clean hands are an indictment, not an alibi.
+- **ch14** — added Farleen's diagnosis (*"it's stopped being for anything"*); removed a closing line the
+  draft claimed that the prose had cut for telegraphing ch15.
+- **ch16** — added the assembly of how Melina died, and the thing that surfaces for less than a breath
+  beneath Rosik's composure. The old note said the chapter contained no crack in Rosik; it does now,
+  and it is not grief. Also corrected the Mira-execution continuity (he was unconscious, per B1 ch22).
+- **ch17** — corrected the geography (Tiers → Midlevels → Iron Hall; he leaves the clinic, not an
+  apartment) and removed an outcome the prose does not report.
+- **ch18** — added the beat that pays off ch15/ch16: one of the five was Silvanno's own mother, and the
+  lever used on her was intelligence Silvanno gathered. He says *"impressive"* anyway.
+- **ch20** — the memory had been revised by the age correction and the draft still carried the cut joke
+  and the cut *"ashamed of needing it"* clause. Added the *"not the Lord of the Grain"* paragraph and
+  its Mira confession, which closes the ch5 loop.
+- **ch15** — continuity footer still said "Xion is 20." Corrected to 23, with Elara 20 and Melina 30.
+
+**Book 2 — continuity correction**
+
+- **ch7: Melina's stated age, twenty-six → thirty.** The only place in the series where her age is spoken
+  in prose, and the one file the age-correction pass (`1ae458e`) failed to reach when it moved Xion to 23
+  and Melina to ~29–31. Her age is now fixed by prose rather than inferred; `Story Timeline.md` and
+  `People/Melina Kemvimore.md` updated to match (thirty, seven years Xion's senior, ~10 at the Rending).
+  The line's work is unchanged — it is her weariness at still being the family's smile, and thirty carries
+  it at least as well as twenty-six did.
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*

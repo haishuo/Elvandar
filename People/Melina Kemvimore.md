@@ -92,7 +92,7 @@ This is a second paradigm-mismatch with her father, parallel to but distinct fro
 
 ## Backstory
 
-Melina Kemvimore was born in the early years of Rosik and Lady Kemvimore's marriage, before The Rending. She is Xion's elder sister — around thirty in Book 1, six or seven years his senior — old enough to retain personal memories of their mother and the final years of the Balishan Empire. These memories give her a connection to the family's past that Xion has only in fragments: he was three when it broke, and what he keeps of it is not detail but feeling — a laugh, a hand at his back, a horse too tall for him. She remembers it whole — what the family was before their mother died in The Rending, before Rosik became the man he became.
+Melina Kemvimore was born in the early years of Rosik and Lady Kemvimore's marriage, before The Rending. She is Xion's elder sister — thirty by Book 2, seven years his senior — old enough to retain personal memories of their mother and the final years of the Balishan Empire. These memories give her a connection to the family's past that Xion has only in fragments: he was three when it broke, and what he keeps of it is not detail but feeling — a laugh, a hand at his back, a horse too tall for him. She remembers it whole — what the family was before their mother died in The Rending, before Rosik became the man he became.
 
 Whether these memories make her work harder to hold the family together — because she remembers when it was whole — or make her grief deeper — because she knows what was lost — is a question the text doesn't answer. Probably both.
 
