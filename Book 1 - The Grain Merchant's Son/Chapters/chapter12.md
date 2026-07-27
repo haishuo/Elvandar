@@ -226,10 +226,6 @@ He wanted to believe her. Wanted to think that five years of careful bandaging a
 
 "Get some sleep," he said instead. "Tomorrow's going to be another long day."
 
-"Goodnight, Master Fen."
+*Count for something.* He lay down on the floor in the dark and found he couldn't make the phrase mean anything. Count toward what? He had no idea what the total was supposed to be, or who was keeping it, and in five years he had never once caught himself getting nearer to it.
 
-He smiled in the darkness. "Goodnight, Elara."
-
-As her breathing slowed and deepened, Xion lay on his makeshift bed and thought about Tam. About the Warrens and the dangers they'd face. About the way Elara had watched him work today, like she was seeing something that mattered.
-
-Outside, the city continued its evening rhythms, unaware that somewhere in a modest clinic, an imperial heir and a grain merchant's son were planning to venture into the most dangerous place in Kaha'an.
+Outside, the Middle District went quiet by degrees — shutters, latches, the last cart of the evening. Somewhere far below all of it, a twelve-year-old boy was working in the dark.

@@ -52,23 +52,13 @@ They walked past in silence. Xion glanced back once and saw the group watching t
 
 "That was strange," he said.
 
-"That was *impossible*," Farleen corrected, her voice low and urgent. "Those men should have tried to shake us down. Or worse. They had numbers, we're obviously outsiders, and there's no guard presence down here to stop them."
-
-"Maybe they're just being polite," Elara suggested.
-
-"Nobody in the Warrens is *polite* to outsiders without a reason." Farleen was scanning their surroundings with new intensity. "Something's wrong."
-
-They continued toward the Crossroads, and the pattern repeated. A group of young men gave them a wide berth. A woman with a scarred face and hard eyes watched them pass without comment. Everywhere they went, people noticed them, assessed them, and then... did nothing.
-
-"I don't understand," Xion said. "After last night, I thought we'd be targets."
-
-"We should be." Farleen's hand had drifted to her belt, where she'd hidden a knife. "After Elara's little display, every opportunist in the Tiers should know we're here. We should be fighting off challenges, or running from enforcers, or—" She stopped herself. "This doesn't make sense."
+"That was *impossible*." Farleen's voice was low and urgent. "They had numbers. We're obviously outsiders. There's no guard down here to stop them, and they stepped aside."
 
 "Maybe word spread that we're dangerous," Elara offered.
 
-"Dangerous means worth testing. Worth taking down to prove you're tougher." Farleen shook her head. "This isn't fear of you. This is... something else. Like they're waiting for something."
+"Dangerous means worth testing. Worth taking down to prove you're tougher." Farleen's hand had drifted to her belt, where she'd hidden a knife, and her eyes hadn't stopped moving since the corner. "This isn't fear of you. It's something else. Like they're waiting for something."
 
-The unease in her voice made Xion's skin prickle. Farleen had proven herself capable of navigating dangerous situations—she'd gotten them into the Warrens, knew how to move through hostile territory. If she was confused, they were in deeper water than he'd realized.
+Farleen had gotten them into the Warrens. She knew how to move through hostile ground. If she was confused, they were in deeper water than Xion had realized.
 
 They reached a small marketplace—just a widening in the street where vendors had set up makeshift stalls. The smell of cooking food mixed with less pleasant odors, and the press of humanity made the air thick and close.
 
@@ -237,6 +227,12 @@ It wasn't a question.
 "Those aren't the same thing," Elara argued.
 
 "Aren't they? They're all judgment calls about who deserves help and who doesn't. And the moment I start making those calls, I've betrayed what it means to be a healer."
+
+It was true. He had believed every word of it for five years and would go on believing it.
+
+But she hadn't asked him whether slavers deserved care. She had said *these are the people who took Tam* — and he had answered a different question instead, cleanly and well, the way a man reaches for the tool nearest his hand.
+
+He put the thought where he kept the others.
 
 Elara looked like she wanted to argue further, but Farleen interrupted.
 
