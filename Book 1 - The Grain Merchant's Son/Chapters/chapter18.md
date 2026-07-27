@@ -148,7 +148,7 @@ Ronas didn't stand. Just leaned back in his chair, fingers steepled, and watched
 
 The escort leader stopped ten paces from the platform. "Got three from the upper levels, boss."
 
-"I can see that, Cullen." Ronas's voice was surprisingly mild. Conversational. He gestured to the space in front of his desk. "Come closer. Let's have a look at you."
+"I got eyes, Cullen." Ronas's voice was surprisingly mild. Conversational. He gestured at the space in front of his desk. "Bring 'em up. Let's have a look."
 
 Xion moved forward, acutely aware of Elara and Farleen flanking him. His heart was hammering against his ribs, but he kept his breathing steady. Controlled.
 
@@ -160,7 +160,7 @@ Then his gaze settled on Xion, and something shifted in his expression. Recognit
 
 Xion's stomach dropped. "You know who I am."
 
-"Met your father twice. Cartel negotiations, years back. You were there once—younger, quieter, but I remember the face." Ronas's eyes narrowed slightly. "Also heard you've been calling yourself Master Fen down here. Treating the sick. Making quite the reputation."
+"Met your father twice. Cartel negotiations, years back. You were there once—younger, quieter, but I remember the face." Ronas's eyes narrowed slightly. "Also heard you been callin' yourself Master Fen down here. Patchin' people up. Got yourself a name off it."
 
 There it was. Out in the open.
 
@@ -194,7 +194,7 @@ Ronas exhaled slowly, breaking the silence. His gaze moved back to Farleen, reas
 
 Elara said nothing. Her face was still tight.
 
-"Interesting group." Ronas leaned forward slightly, elbows on the desk. "Kemvimore heir. Imperial princess. Water spy. A real headache, 's what you three are." His eyes settled back on Xion. "You've created quite the problem for me, boy."
+"Hell of a set." Ronas leaned forward, elbows on the desk. "Kemvimore heir. Imperial princess. Water spy. A real headache, 's what you three are." His eyes settled back on Xion. "You made me a problem, boy."
 
 Xion's throat was dry. "I didn't mean—"
 
@@ -206,7 +206,7 @@ Ronas was silent for a long moment. "So here's what happens. You take the boy—
 
 Xion blinked. "That's it?"
 
-Ronas raised a scarred eyebrow. "You *sure* you wanna be questioning this, kid?" He sighed. "Listen, you've put me in a bit of a bind here, and this is the easiest way out for everybody. If I kill you and your little friends, I'm gonna be staring down a war with your pops, and I don't think that'll go too well. Plus, half my crew uses Master Fen's services, and if word gets around, that won't be a good look for me. So yeah, 'that's it'."
+Ronas raised a scarred eyebrow. "You *sure* you wanna be questioning this, kid?" He sighed. "Listen. You got me in a bind, and this here's the cheapest way out for everybody. If I kill you and your little friends, I'm gonna be staring down a war with your pops, and I don't think that'll go too well. Plus, half my crew uses Master Fen's services, and if word gets around, that won't be a good look for me. So yeah, 'that's it'."
 
 ---
 

@@ -72,6 +72,8 @@ He didn't say any of it. Melina knew it already; he could see that she'd already
 
 "Good." A quick squeeze of his shoulder, and she went, back across the square the way she'd come, toward the flawless house and the working supper and the next round of the impossible arithmetic she'd been solving her whole life. A hard evening's work, the kind she'd rather have skipped and would do well regardless, because doing it well was the only lever she had left on a thing nobody could hold.
 
-Xion watched her cross the square and turn up the street beyond, and when she was gone he sat a while longer with the dry fountain and the failing light and the size of the thing his father was building, and understood that the part of this he might have fought was already behind him — the part where any of it could still have been talked down across a table. His father had stopped arguing. His father had started building. And there was no letter he could write, no gate he could talk his way through, no true word he could smuggle past a wall, that would so much as slow it down.
+Xion watched her cross the square and turn up the street beyond.
 
-The city belonged to the quiet machinery of his father now, turning in the dark, making everything reasonable one sensible afternoon at a time. And Xion sat outside all of it, in a square with a fountain that had no water in it, and for the length of the failing light could not think of a single thing left to try.
+His father had stopped arguing. That was the whole of it, and it had taken him until now to see what it meant: an argument is a thing two people are having. You can lose an argument and still be in the room.
+
+He was not in the room.

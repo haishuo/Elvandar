@@ -100,6 +100,8 @@ But Elara wasn't done.
 
 "You want to talk about endangering people?" Her eyes flashed. "Fine. Let's talk about it. You treat slavers at your clinic, Xion."
 
+And Xion watched her pick it up — the same weapon, off the same shelf, from a public square in the Crossroads with Farleen telling them to take it somewhere less exposed. She knew where it was. She had known exactly where it was the whole time, and she had reached for it because the first time it had gone in.
+
 His stomach dropped.
 
 "People who kidnap children. People like the ones who took Tam." Her voice was sharp. Cutting. "You heal them. Fix their wounds so they can go back out and do it again. So don't talk to me about endangering innocent people."
