@@ -50,7 +50,7 @@ Xion didn't move back. "You're limping. If that gets infected, you'll be off you
 
 Silence.
 
-The escort leader studied him. Then glanced at the injured man. One of the men who'd been in the group that had cornered them earlier, Xion thought, though he couldn't be certain.
+The escort leader studied him. Then glanced at the injured man — and Xion understood, a beat late, exactly which corner this one had come round too fast.
 
 The injured guard's face was tight. Suspicious. "Your *girl's* the one who got me." He jerked his chin toward Elara.
 
