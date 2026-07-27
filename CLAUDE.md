@@ -47,6 +47,18 @@ returning for the third time has to *move* something. Saying it again louder is 
 recurrence, it is repetition, and repetition is this series' dominant structural failure mode.
 Watch especially for arguments that re-run instead of escalating.
 
+**One action, five meanings.** Show-don't-tell is the old saw; the operative test is **density**.
+Tywin field-dressing the stag says five things at once — steady hands and no fear of blood;
+destruction is what this man *does*; he does work he could delegate; he is so used to it he can
+hold a conversation through it; and the animal is his enemy's heraldic beast. One action. Five
+meanings. Not one line of dialogue decodes any of it.
+
+Measure actions against that. **An action carrying one meaning is an illustration**, and an
+illustration needs dialogue to explain what it illustrates — which is telling with extra steps,
+and worse when a supporting character does the illustrating, because then it costs screen time
+as well. Prefer the prop already in the character's hands for other reasons: the best ones mean
+several things because they *are* several things.
+
 **Fixes work when they use the character's actual instrument.** Xion is a healer, so he reads
 bodies — he does not narrate combat he cannot follow. Kael reads other men's books. Farleen
 counts doors and sight lines. Elara reads rooms and strikes. Generic competent description is
