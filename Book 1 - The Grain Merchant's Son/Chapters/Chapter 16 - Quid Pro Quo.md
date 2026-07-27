@@ -32,7 +32,7 @@ Arlo stood, moving to the edge of his platform. "There's a man who operates out 
 
 "You want us to steal it," Farleen said flatly.
 
-"I want you to *acquire* it." Arlo's smile widened. "Vex won't deal with me directly. And if I send my own people, well... that escalates things in ways that aren't productive for business. But three outsiders? Unknown quantities? If you were to obtain this ledger, Vex would have no idea who to blame."
+"I want you to **acquire** it." Arlo's smile widened. "Vex won't deal with me directly. And if I send my own people, well... that escalates things in ways that aren't productive for business. But three outsiders? Unknown quantities? If you were to obtain this ledger, Vex would have no idea who to blame."
 
 "And if we get caught?" Xion asked.
 
@@ -64,7 +64,7 @@ Farleen spoke before anyone else could. "We don't have to do this."
 
 "We need the information—" Xion started.
 
-"No." Her voice was quiet but firm. "We don't *need* it. We could walk away right now. Stay in the Tiers. Wait for things to calm down on the surface. This—" She gestured back toward Arlo. "—is a choice. The same choice I told you was insane yesterday."
+"No." Her voice was quiet but firm. "We don't **need** it. We could walk away right now. Stay in the Tiers. Wait for things to calm down on the surface. This—" She gestured back toward Arlo. "—is a choice. The same choice I told you was insane yesterday."
 
 "Tam is running out of time," Xion said.
 
@@ -180,7 +180,7 @@ Xion took the paper, scanning it quickly. The information was incredibly detaile
 
 "Thank you," he said.
 
-"Thank *you*." Arlo tucked the ledger away carefully. "Pleasure doing business with you, Master Fen. Do come back if you need anything else."
+"Thank **you**." Arlo tucked the ledger away carefully. "Pleasure doing business with you, Master Fen. Do come back if you need anything else."
 
 As they left the Crossroads, Farleen's movements were becoming more labored. By the time they reached Korvin's building, she was leaning heavily on Elara's arm.
 

@@ -184,7 +184,7 @@ Xion nodded slowly.
 
 "Such as?" Xion asked.
 
-"Such as the fact that your journey back up has now become significantly more... *interesting*." The Mistress looked at him. "He gave you safe passage. You didn't use it the way he expected. That matters to men like Ronas."
+"Such as the fact that your journey back up has now become significantly more... **interesting**." The Mistress looked at him. "He gave you safe passage. You didn't use it the way he expected. That matters to men like Ronas."
 
 Xion felt his stomach sink. They'd survived Dead Man's Passage. Survived the brass door. Tam was alive. And now—
 

@@ -52,7 +52,7 @@ Translation: *Your clothing is so outdated it's practically ancient.*
 
 "I caught it."
 
-"Not fast enough. At the ball, people will be watching for any reaction. The whole point of these coded insults is to provoke a response that reveals weakness." He leaned forward. "Try again, but this time, control your eyes *before* I finish speaking."
+"Not fast enough. At the ball, people will be watching for any reaction. The whole point of these coded insults is to provoke a response that reveals weakness." He leaned forward. "Try again, but this time, control your eyes **before** I finish speaking."
 
 They practiced through the afternoon, Xion drawing on every tedious dinner party and insufferable social gathering he'd endured over the years. He taught her how to hold a wine glass (delicately, as if it might break), how to laugh at jokes that weren't funny (lightly, as if privately amused), and how to excuse herself from conversation (with vague promises to return that everyone understood meant she wouldn't).
 

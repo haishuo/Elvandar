@@ -10,7 +10,7 @@ Xion had been considering that question all night, during the brief moments feve
 
 They walked through the awakening city, Xion leading them along routes he knew would avoid cartel patrols. The morning sun was already brutal, promising another scorching day, and by the time they reached the boundary between the Middle and Noble Districts, sweat had soaked through his shirt.
 
-The transition was stark. Suddenly the cracked cobblestones gave way to smooth marble. The cramped buildings opened into wide boulevards. And everywhere—*everywhere*—was water.
+The transition was stark. Suddenly the cracked cobblestones gave way to smooth marble. The cramped buildings opened into wide boulevards. And everywhere—**everywhere**—was water.
 
 Xion had seen it a hundred times before, but walking beside Elara, seeing it through her eyes, made the injustice feel fresh and raw.
 
@@ -46,7 +46,7 @@ A group of noble children played near the edge, laughing as they splashed each o
 
 "They don't even see it," Elara whispered. "To them, this is normal."
 
-"It's worse than that." Xion's wound was definitely aching now, pain radiating down his arm in time with his pulse. "They think this is their *right*. That their blood entitles them to waste what others die for."
+"It's worse than that." Xion's wound was definitely aching now, pain radiating down his arm in time with his pulse. "They think this is their **right**. That their blood entitles them to waste what others die for."
 
 One of the children shrieked with delight as another pushed him into the pool. The boy surfaced laughing, water streaming from his expensive clothes. The nursemaid barely looked up.
 
@@ -54,7 +54,7 @@ Xion watched Elara's hands clench at her sides. Her eyes had begun to cycle—bl
 
 "Elara," he said quietly. "We need to go."
 
-"No." The word came out sharp. "I need to see this. I need to *remember* this."
+"No." The word came out sharp. "I need to see this. I need to **remember** this."
 
 But her control was slipping. The colors in her eyes flashed brighter with each breath, and passersby were beginning to notice. An elderly merchant gave her a second glance. A servant paused in his duties, squinting.
 
@@ -80,7 +80,7 @@ Elara squeezed them shut, but not before he saw violet blaze like fire. When she
 
 "Then let them fight." She said it to the fountain, not to him. "I'm not afraid of nobles who think wasting water is their birthright."
 
-"You should be." He caught her arm, pulling her away from the fountain, away from the watching eyes. "They're dangerous precisely because they don't think they're doing anything wrong. They'll destroy you with clear consciences because in their minds, maintaining their privileges *is* the greater good."
+"You should be." He caught her arm, pulling her away from the fountain, away from the watching eyes. "They're dangerous precisely because they don't think they're doing anything wrong. They'll destroy you with clear consciences because in their minds, maintaining their privileges **is** the greater good."
 
 They walked in silence for several blocks, putting distance between themselves and the ostentatious display of wealth. Xion could feel Elara processing what she'd seen, could see it in the set of her shoulders and the controlled fury in her movements.
 
@@ -88,7 +88,7 @@ Finally, she spoke. "I want to see the Warrens."
 
 Xion stopped walking. "What?"
 
-"You've shown me the wealth. Show me the cost." Her voice was steady now, but no less intense. "I need to see where that water *should* be going. I need to see what my family's name has been used to justify."
+"You've shown me the wealth. Show me the cost." Her voice was steady now, but no less intense. "I need to see where that water **should** be going. I need to see what my family's name has been used to justify."
 
 "The Warrens are dangerous. Especially for—"
 
@@ -96,7 +96,7 @@ Xion stopped walking. "What?"
 
 "Elara, I'm serious. The cartels don't control the Warrens the way they control the rest of the city. There are factions down there, gangs, people desperate enough to kill for a handful of copper. Even I don't go there often, and I'm—" He stopped himself before saying "known there as Master Fen."
 
-"Then maybe we start somewhere else." She studied his face, clearly seeing the concern there. "Somewhere that shows me how the nobility *really* operates. Not just their waste, but their cruelty."
+"Then maybe we start somewhere else." She studied his face, clearly seeing the concern there. "Somewhere that shows me how the nobility **really** operates. Not just their waste, but their cruelty."
 
 An idea formed, dangerous but possible. "There's a masquerade ball in three days. The Larannas estate—Silvanno's mother is hosting. It's one of the major social events of the season."
 

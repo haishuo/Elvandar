@@ -86,7 +86,7 @@ She stopped abruptly, turning to face him. Her hands were shaking.
 
 He frowned, confused by the desperation in her tone. "Let it go? Farleen, this changes everything—"
 
-"No." She grabbed his arm, her grip almost painful. "No, you don't understand. You need to walk away from this. Right now. Tell everyone you were wrong, that you broke in and found nothing. Tell them the Arol Batae caught you and threw you out. Anything. Just *stop*."
+"No." She grabbed his arm, her grip almost painful. "No, you don't understand. You need to walk away from this. Right now. Tell everyone you were wrong, that you broke in and found nothing. Tell them the Arol Batae caught you and threw you out. Anything. Just **stop**."
 
 "Why would I do that? After everything we—"
 
@@ -102,11 +102,11 @@ The world tilted sideways. "You're a spy."
 
 "Before what came to this?" But even as he asked, his eyes dropped to her hand, which had moved to something concealed beneath her cloak.
 
-"I fell in love with you," she whispered. "That wasn't part of the assignment. That wasn't supposed to happen. Everything between us—my feelings, my attraction, all of it—that was *real*, Xion. You have to believe me."
+"I fell in love with you," she whispered. "That wasn't part of the assignment. That wasn't supposed to happen. Everything between us—my feelings, my attraction, all of it—that was **real**, Xion. You have to believe me."
 
 "Then don't do this." His voice was steady despite the fear rising in his chest. "Whatever they told you to do, don't do it. We can figure this out together—"
 
-"How?" The word came out as a sob. "How do we figure this out? You've already done the one thing they can't allow. You've proven the princess exists and you *know* where she is. Do you think they'll just let that go? The cartels have spent twenty years maintaining this balance. Your father, my father, all of them—they'll burn this city down before they let someone upset it."
+"How?" The word came out as a sob. "How do we figure this out? You've already done the one thing they can't allow. You've proven the princess exists and you **know** where she is. Do you think they'll just let that go? The cartels have spent twenty years maintaining this balance. Your father, my father, all of them—they'll burn this city down before they let someone upset it."
 
 She drew the dagger, and her hands were shaking so badly the blade caught the light. "I don't want to do this. God, Xion, I don't want to do this. But if I don't—if I go back and tell them I failed—"
 
@@ -114,7 +114,7 @@ Her voice broke. She couldn't finish the sentence.
 
 "There has to be another way—"
 
-"There isn't!" Her voice cracked. "I've been trying to find one for *weeks*. Every time I reported back, I kept telling them you were chasing shadows, that you'd give up soon. But you didn't. You just kept going, kept getting closer, and now..." She looked at the dagger in her hand as if seeing it for the first time. "Now we're here."
+"There isn't!" Her voice cracked. "I've been trying to find one for **weeks**. Every time I reported back, I kept telling them you were chasing shadows, that you'd give up soon. But you didn't. You just kept going, kept getting closer, and now..." She looked at the dagger in her hand as if seeing it for the first time. "Now we're here."
 
 Xion's mind raced. "Then run. Both of us. We'll leave Kaha'an, go somewhere they can't—"
 

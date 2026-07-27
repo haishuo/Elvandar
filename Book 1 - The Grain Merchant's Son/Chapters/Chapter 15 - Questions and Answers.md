@@ -12,7 +12,7 @@ Korvin's good eye moved to Elara, who was already dressed and checking the windo
 
 They ate quickly, the porridge bland but filling. When they were ready to leave, Korvin walked them to the door.
 
-"The Crossroads is maybe twenty minutes from here if you stick to the main paths," he said. "That's where people go when they need to know things—information brokers operate there. It's called that for a reason." He looked at Elara specifically. "But the Warrens aren't like the surface. Don't wander into areas you don't recognize, and if someone tells you to turn back, listen to them. Even if you *can* handle yourself, there's always someone tougher, or smarter, or more connected."
+"The Crossroads is maybe twenty minutes from here if you stick to the main paths," he said. "That's where people go when they need to know things—information brokers operate there. It's called that for a reason." He looked at Elara specifically. "But the Warrens aren't like the surface. Don't wander into areas you don't recognize, and if someone tells you to turn back, listen to them. Even if you **can** handle yourself, there's always someone tougher, or smarter, or more connected."
 
 "We'll be careful," Xion promised.
 
@@ -50,7 +50,7 @@ They walked past in silence. Xion glanced back once and saw the group watching t
 
 "That was strange," he said.
 
-"That was *impossible*." Farleen's voice was low and urgent. "They had numbers. We're obviously outsiders. There's no guard down here to stop them, and they stepped aside."
+"That was **impossible**." Farleen's voice was low and urgent. "They had numbers. We're obviously outsiders. There's no guard down here to stop them, and they stepped aside."
 
 "Maybe word spread that we're dangerous," Elara offered.
 
@@ -198,11 +198,11 @@ It wasn't a question.
 
 "I patch up anyone who comes to my clinic," Xion said carefully.
 
-"These are the people who took Tam." Elara's voice was getting louder. "The people who kidnap children and sell them. And you *helped* them?"
+"These are the people who took Tam." Elara's voice was getting louder. "The people who kidnap children and sell them. And you **helped** them?"
 
 "I helped injured people," Xion corrected. "I don't ask what they do for work. I don't make moral judgments about who deserves treatment."
 
-"That's not making a moral judgment—that's avoiding one!" Elara's eyes were bright with something fierce. "These people are *evil*. They destroy lives. And you just... what, stitch them up so they can go back to ruining more lives?"
+"That's not making a moral judgment—that's avoiding one!" Elara's eyes were bright with something fierce. "These people are **evil**. They destroy lives. And you just... what, stitch them up so they can go back to ruining more lives?"
 
 "I'm a healer," Xion said quietly. "That's what healers do. We treat the sick and injured. All of them."
 

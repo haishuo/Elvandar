@@ -18,7 +18,7 @@ She was tall—taller than Xion, nearly matching Elara's height—with the muscu
 
 Xion had seen her before at formal gatherings, but always from a distance, always as his father's shadow in rooms full of careful politics. Here, in her own training hall, stripped of diplomatic pretense, she was something else entirely. Raw power barely contained by discipline.
 
-Her eyes tracked them as they entered. Assessing. Evaluating. Xion felt measured and catalogued in the space of a heartbeat—the first time she'd actually *looked* at him rather than past him toward Rosik.
+Her eyes tracked them as they entered. Assessing. Evaluating. Xion felt measured and catalogued in the space of a heartbeat—the first time she'd actually **looked** at him rather than past him toward Rosik.
 
 Elara stepped forward, and Xion noticed she'd changed her posture. Not the casual stance of their journey or the military bearing of the Arol Batae. Something else. Something that acknowledged the woman before them as an equal worthy of respect.
 

@@ -186,7 +186,7 @@ Then his eyes moved, for the first time, past her — to Xion — and Xion felt 
 
 "Not a stranger." Elara's voice was calm and did not hurry. "The man who found me when every other soul in Kaha'an had agreed I was dead. The man who showed me what you couldn't."
 
-"What we couldn't." Vesk's jaw set. "We kept you alive. We kept you *breathing*, for twenty years, in a city that would have paid a great deal for you not to be. We prepared you—"
+"What we couldn't." Vesk's jaw set. "We kept you alive. We kept you **breathing**, for twenty years, in a city that would have paid a great deal for you not to be. We prepared you—"
 
 "For a throne I didn't understand." She cut him off, but gently. "You taught me strategy and combat and court politics and everything an empress is supposed to know. You could not teach me what it is to rule Kaha'an. Not from inside these walls. Nobody could have. That isn't a failure of yours."
 

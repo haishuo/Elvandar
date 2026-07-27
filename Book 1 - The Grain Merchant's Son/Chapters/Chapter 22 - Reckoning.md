@@ -182,15 +182,15 @@ He could see it so clearly. The delicate petals. The note in her careful handwri
 
 Silence.
 
-"*Nothing.*" The word came out like he was spitting poison. "Absolutely nothing. I just stood there. Dumb. Mute. *Useless*. I didn't beg. Didn't argue. Didn't throw myself at his feet and scream that she didn't deserve it. I just… stood there."
+"*Nothing.*" The word came out like he was spitting poison. "Absolutely nothing. I just stood there. Dumb. Mute. **Useless**. I didn't beg. Didn't argue. Didn't throw myself at his feet and scream that she didn't deserve it. I just… stood there."
 
 His jaw worked.
 
-"You could say it wouldn't have mattered. That nothing I said would've changed his mind. And you'd probably be right." A breath. "But I didn't even *try*."
+"You could say it wouldn't have mattered. That nothing I said would've changed his mind. And you'd probably be right." A breath. "But I didn't even **try**."
 
 Tears were streaming down Elara's face now.
 
-"I stood at her grave and I promised I would never again stand still while someone who needed me suffered. Never again would I just… freeze." His voice cracked. "Every patient I treat is for her. And every patient I treat is because of *me*. Because I can't stop seeing that boy who was too afraid of his father to open his mouth. That's why I became Master Fen. That's why I can't stop."
+"I stood at her grave and I promised I would never again stand still while someone who needed me suffered. Never again would I just… freeze." His voice cracked. "Every patient I treat is for her. And every patient I treat is because of **me**. Because I can't stop seeing that boy who was too afraid of his father to open his mouth. That's why I became Master Fen. That's why I can't stop."
 
 He met Elara's eyes.
 

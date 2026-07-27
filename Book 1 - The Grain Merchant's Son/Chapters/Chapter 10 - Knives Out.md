@@ -4,7 +4,7 @@ The Larannas estate blazed with light, every window glowing like a promise or a 
 
 "Charming but provincial," she repeated, and he caught the slight edge in her voice. Not nerves. Anger, already building.
 
-The entry hall was a study in ostentatious wealth. Marble floors imported from quarries three hundred miles away. Tapestries depicting Larannas family victories in trade wars that had starved thousands. And everywhere—*everywhere*—water. Fountains in alcoves, reflecting pools beneath carefully placed lights, even a small waterfall cascading down one wall for purely decorative effect.
+The entry hall was a study in ostentatious wealth. Marble floors imported from quarries three hundred miles away. Tapestries depicting Larannas family victories in trade wars that had starved thousands. And everywhere—**everywhere**—water. Fountains in alcoves, reflecting pools beneath carefully placed lights, even a small waterfall cascading down one wall for purely decorative effect.
 
 Elara's grip on his arm tightened.
 
@@ -124,7 +124,7 @@ Tania Larannas found them at the refreshment tables, and Xion understood at once
 
 Every word of it was true. None of it was true for the reason Tania meant. Xion felt the floor of the lie shift very slightly beneath him.
 
-He had spent three days preparing Elara for the insults. Three days on the fan and the wine glass and the art of answering condescension with condescension — and not one minute, in all of it, on what to do when somebody was *kind* to her about him. There had been no lesson for that. He had not thought of one, and standing here, he understood precisely why he hadn't.
+He had spent three days preparing Elara for the insults. Three days on the fan and the wine glass and the art of answering condescension with condescension — and not one minute, in all of it, on what to do when somebody was **kind** to her about him. There had been no lesson for that. He had not thought of one, and standing here, he understood precisely why he hadn't.
 
 "Should I have?" he said. Light. Nothing under it.
 

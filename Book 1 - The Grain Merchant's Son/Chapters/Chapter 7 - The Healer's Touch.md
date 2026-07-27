@@ -14,7 +14,7 @@ Xion didn't answer, which was answer enough.
 
 "Actually," Xion interrupted, an idea forming through the fever haze. "I know a place. A friend runs a clinic not far from here. He's... discrete about his patients."
 
-It wasn't entirely a lie. Master Fen *had* been his friend, once. The clinic was his. And he was being discrete about his patients—by pretending to be one of them.
+It wasn't entirely a lie. Master Fen **had** been his friend, once. The clinic was his. And he was being discrete about his patients—by pretending to be one of them.
 
 Elara studied his face, clearly skeptical. "You're sure your friend won't ask questions?"
 

@@ -6,7 +6,7 @@ Down here the fountains ended and the wells began, and the wells had lines, and 
 
 He almost walked past the girl.
 
-That was the cruelty of it done slowly — it did not announce itself the way a wound did. A wound had blood, urgency, a crowd. This was only a child sitting in a doorway out of the sun, very still, her head tipped against the frame, and it was the *stillness* that turned him back on his heel before he had finished deciding to. Children her age did not sit that still. Not the living ones.
+That was the cruelty of it done slowly — it did not announce itself the way a wound did. A wound had blood, urgency, a crowd. This was only a child sitting in a doorway out of the sun, very still, her head tipped against the frame, and it was the **stillness** that turned him back on his heel before he had finished deciding to. Children her age did not sit that still. Not the living ones.
 
 He crouched in front of her. Seven, perhaps eight, though hunger and the heat made that a guess. Her eyes were open and sunken, ringed in a bruised grey, and they moved to his face slowly, as though his face had arrived from a long way off. Her lips had cracked and split at the center. When he took her hand and pinched the skin on the back of it gently, the fold stood up for a moment before it sank — a tent of skin that should have flattened at once and didn't.
 
@@ -16,9 +16,9 @@ Her mouth worked. Nothing came.
 
 "She's called Sela." The mother was already there, out of the dark of the doorway and down on her knees beside them, her own face gone tight with the particular shame of the poor caught needing something. Her hands hovered, wanting to snatch the child back from the stranger and not daring to, because the stranger clearly knew what he was doing and she clearly did not know what else to do. "She was fine. She was fine yesterday, she was just tired, I thought she was just —"
 
-"You did nothing wrong." He said it flatly, because it was true and because she needed to hear it in a voice that wasn't asking anything of her. The mother's eyes went to the jar just inside the door — a hand-span of water in the bottom of it, rationed by the mouthful because it had to last. "It's not enough," she said, following his look, the words coming in a rush now that someone was here who might do something with them. "It's never enough. They cut the allotment again after the coronation, everyone swore it would get *better* —" She stopped herself. You did not say things about the cartels aloud, not even now, not even with a new empress on a throne somewhere up the hill.
+"You did nothing wrong." He said it flatly, because it was true and because she needed to hear it in a voice that wasn't asking anything of her. The mother's eyes went to the jar just inside the door — a hand-span of water in the bottom of it, rationed by the mouthful because it had to last. "It's not enough," she said, following his look, the words coming in a rush now that someone was here who might do something with them. "It's never enough. They cut the allotment again after the coronation, everyone swore it would get **better** —" She stopped herself. You did not say things about the cartels aloud, not even now, not even with a new empress on a throne somewhere up the hill.
 
-He was not going to take a dying child's water out of a dying child's house. He looked back the way he'd come instead — the wellhead on the corner, the tally-man with the cartel's mark on his sleeve, the bright ordinary fact of a full cistern not forty paces off. The girl was dying of *permission*, not of drought. The water had been there the whole time.
+He was not going to take a dying child's water out of a dying child's house. He looked back the way he'd come instead — the wellhead on the corner, the tally-man with the cartel's mark on his sleeve, the bright ordinary fact of a full cistern not forty paces off. The girl was dying of **permission**, not of drought. The water had been there the whole time.
 
 "Wet her lips with what's in the jar — just wet, not a mouthful," he told the mother, already rising. "Stay with her. I won't be a moment."
 
@@ -58,7 +58,7 @@ Melina closed her eyes for a moment, and when she opened them the report came ou
 
 "And the Coterie killed it."
 
-"The Coterie killed it, and Xion —" she looked at him "— they weren't lying about why. You can't strike out the framework overnight. It's the thing the wells actually *run* on. There's nothing built to catch the city if you pull it, and a whole city doesn't get to wait politely in the rubble while someone invents the replacement. Father said it would take five years to do safely. He's not wrong about the five years. That's the part nobody down in your wards will believe, and it's still true."
+"The Coterie killed it, and Xion —" she looked at him "— they weren't lying about why. You can't strike out the framework overnight. It's the thing the wells actually **run** on. There's nothing built to catch the city if you pull it, and a whole city doesn't get to wait politely in the rubble while someone invents the replacement. Father said it would take five years to do safely. He's not wrong about the five years. That's the part nobody down in your wards will believe, and it's still true."
 
 "So they blocked her and offered nothing."
 
@@ -66,7 +66,7 @@ Melina closed her eyes for a moment, and when she opened them the report came ou
 
 He already knew the shape of the ending. "Elara rejected it."
 
-"Because it saves the system by improving it. Because the day the token system starts working a little better is the day it becomes impossible to tear out, and she is not on that throne to make the cage more comfortable." Melina's mouth thinned. "And she's not wrong either. That's the whole horror of it. Father is right that you can't pull the framework without killing people, and Elara is right that fixing the framework means the framework wins, and both of them are *right*, and they cancel to nothing, and the nothing is what's standing in that girl's doorway."
+"Because it saves the system by improving it. Because the day the token system starts working a little better is the day it becomes impossible to tear out, and she is not on that throne to make the cage more comfortable." Melina's mouth thinned. "And she's not wrong either. That's the whole horror of it. Father is right that you can't pull the framework without killing people, and Elara is right that fixing the framework means the framework wins, and both of them are **right**, and they cancel to nothing, and the nothing is what's standing in that girl's doorway."
 
 For a while neither of them said anything. Out past the wall a cart went by, and a gull that had come up from the harbor picked its way across the dry fountain looking for water that wasn't there.
 
@@ -106,7 +106,7 @@ He didn't hear her come. He never did. One moment the step beside him was empty 
 
 "You didn't eat," she said. It was, again, not a question.
 
-He took it. This time there was nothing she needed to tell him and nothing he needed to ask, and so they didn't. She didn't want intelligence and she wasn't carrying any. She had simply worked out where his feet would run down to, the way she worked out everything, and come and sat in it with him. Nobody had followed her. Nobody ever did. The great watchful machine of the city that tracked every step Kael and Silvanno took did not spend a single eye on Farleen Darfi, and so the one person in Kaha'an who could simply *appear* beside him, needing no cover and leaving no pattern, was the one everyone had agreed to forget.
+He took it. This time there was nothing she needed to tell him and nothing he needed to ask, and so they didn't. She didn't want intelligence and she wasn't carrying any. She had simply worked out where his feet would run down to, the way she worked out everything, and come and sat in it with him. Nobody had followed her. Nobody ever did. The great watchful machine of the city that tracked every step Kael and Silvanno took did not spend a single eye on Farleen Darfi, and so the one person in Kaha'an who could simply **appear** beside him, needing no cover and leaving no pattern, was the one everyone had agreed to forget.
 
 He ate the pastry. It was very good. The city moved around them — the market winding down, a man stacking crates, two children chasing each other between the stalls, one of them shrieking with the particular joy of a child who has had enough water and does not know it is a kind of wealth. Farleen sat beside him with her forearms on her knees and watched the square with the habitual half-attention that never fully switched off, and said nothing, and did not need him to be all right.
 

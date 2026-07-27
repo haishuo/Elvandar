@@ -1,10 +1,10 @@
-Xion couldn't sleep. Every time he closed his eyes, he saw those color-shifting irises—blue to amber to violet. The royal trait. The possibility of *everything*.
+Xion couldn't sleep. Every time he closed his eyes, he saw those color-shifting irises—blue to amber to violet. The royal trait. The possibility of **everything**.
 
 For years now, he'd made his peace with limitations. His clinic helped people, yes. The small group's charity work saved a few families from starvation. But you could work yourself past exhaustion and the city would go on eating people at exactly the same rate. He'd learned to find meaning in the small victories, to accept that one person couldn't change a system built on grinding the poor into dust.
 
 But if what he'd seen was real...
 
-No. He couldn't let himself think like that. Not yet. Not until he *knew*.
+No. He couldn't let himself think like that. Not yet. Not until he **knew**.
 
 The morning after their meeting, he sat in his rented room mapping out their search with hands that trembled slightly from exhaustion and coffee. Before him lay a diagram of Kaha'an's districts, a list of contacts throughout the city, and a growing inventory of places to investigate. He approached it the same way he approached difficult diagnoses—eliminate possibilities until only the truth remained.
 
@@ -16,7 +16,7 @@ Xion's first stop was Master Keelen's apothecary, where the elderly healer liste
 
 Each inquiry yielded similar results. The pretenders were easy to identify—crude tricks, obvious props, performances rather than genuine emotion. None matched what he'd witnessed.
 
-By evening, when they reconvened at The Amber Leaf, Xion was practically vibrating with nervous energy. Each eliminated pretender meant he *hadn't* been fooled by street theater. Meant what he'd seen might actually be real.
+By evening, when they reconvened at The Amber Leaf, Xion was practically vibrating with nervous energy. Each eliminated pretender meant he **hadn't** been fooled by street theater. Meant what he'd seen might actually be real.
 
 "Nothing on my end," Silvanno reported. "Though I did track down four of the recent 'Princess Elaras.' One's currently working as an actress in the theater district. Two are in debtor's prison. The last one got caught when her 'color-changing' lenses fell out during a performance."
 
@@ -40,11 +40,11 @@ The next three days went the same way, and the sameness was the point.
 
 Silvanno worked the Noble District household staff. Kael took the Merchant Quarter. Xion took the healers, because healers heard things, and then the back-room clinics, and then the safer edges of the Warrens. Between them they emptied the city of pretenders. Every one of them broke on the first hard question.
 
-Still nothing. But that was *good*. That meant she wasn't a pretender, wasn't a fraud.
+Still nothing. But that was **good**. That meant she wasn't a pretender, wasn't a fraud.
 
 By the fourth day, Xion knew he looked terrible. He'd caught his reflection that morning and barely recognized himself—dark circles under his eyes, clothes wrinkled, hair uncombed. His friends had stopped meeting his gaze directly, their concern written in sidelong glances and careful words.
 
-But he couldn't stop. Not when he was so close to *knowing*.
+But he couldn't stop. Not when he was so close to **knowing**.
 
 He worked alone that day, following a lead to the docks district. A grain warehouse worker named Jorik had supposedly "seen things others don't." It was thin, but Xion was running out of options.
 
@@ -74,7 +74,7 @@ The Arol Batae compound.
 
 It was the only place left. The only place that made sense. Former imperial guard, men who'd sworn to protect the royal family with their lives. If anyone had survived that night, if Princess Elara had been saved, they would have hidden her. Raised her. Waited.
 
-His hands started shaking again, but this time not from exhaustion. From the terrifying possibility that he might actually be *right*.
+His hands started shaking again, but this time not from exhaustion. From the terrifying possibility that he might actually be **right**.
 
 ---
 
@@ -102,11 +102,11 @@ Silence.
 
 Xion looked at him.
 
-"Fine. I'll say it." Silvanno leaned in. "If you're wrong, you break into the Arol Batae compound and they throw you in the street and your father buys you out of it by supper, and we all laugh about this in a year. That's the *good* outcome, Xion. That's the one where you're insane." He held up a hand before Xion could speak. "And if you're right — if she's actually in there — then the last surviving Valanar is being hidden by a hundred and fifty armed men who have spent twenty years waiting for exactly one thing to go wrong. And you're it. You're the thing going wrong."
+"Fine. I'll say it." Silvanno leaned in. "If you're wrong, you break into the Arol Batae compound and they throw you in the street and your father buys you out of it by supper, and we all laugh about this in a year. That's the **good** outcome, Xion. That's the one where you're insane." He held up a hand before Xion could speak. "And if you're right — if she's actually in there — then the last surviving Valanar is being hidden by a hundred and fifty armed men who have spent twenty years waiting for exactly one thing to go wrong. And you're it. You're the thing going wrong."
 
 "They wouldn't—"
 
-"They would. In a heartbeat, and they'd be *right* to." Silvanno's jaw worked. "Four days ago I thought you'd cracked, and gods forgive me, I'd rather that. I'd rather my friend was mad. Because a mad friend I can walk home. This—" he gestured at the table, the notes, all of it "—this I can't do anything about at all."
+"They would. In a heartbeat, and they'd be **right** to." Silvanno's jaw worked. "Four days ago I thought you'd cracked, and gods forgive me, I'd rather that. I'd rather my friend was mad. Because a mad friend I can walk home. This—" he gestured at the table, the notes, all of it "—this I can't do anything about at all."
 
 It landed harder than any doubt would have. Xion had spent four days building an argument for being believed, and now he was believed, and the argument was worth nothing, because belief had never been the obstacle.
 

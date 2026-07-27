@@ -80,7 +80,7 @@ For a heartbeat, they froze—Farleen's eyes wide, Elara's grip firm enough to m
 
 Then Elara released her. "Don't grab me."
 
-"Fine." Farleen's voice was tight. "Then *move*. Now. Before every pair of eyes in this square decides we're worth investigating."
+"Fine." Farleen's voice was tight. "Then **move**. Now. Before every pair of eyes in this square decides we're worth investigating."
 
 They hurried through the crowd, which parted warily now, people backing away from the young woman who'd just destroyed three grown men. Xion followed, his mind still trying to process the speed, the precision, the complete absence of hesitation.
 
@@ -96,7 +96,7 @@ Xion froze. He knew that face—Korvin, a dockworker he'd treated two years ago 
 
 "Korvin," Xion said carefully.
 
-"Gods above, it *is* you." The man stepped forward, his good eye taking in the three of them—Xion's obvious distress, Elara's blood-spattered dress, Farleen's tense vigilance. "What are you doing down here? And after that—" He gestured back toward the square where people were still murmuring about the fight.
+"Gods above, it **is** you." The man stepped forward, his good eye taking in the three of them—Xion's obvious distress, Elara's blood-spattered dress, Farleen's tense vigilance. "What are you doing down here? And after that—" He gestured back toward the square where people were still murmuring about the fight.
 
 "We're just—" Xion started.
 
@@ -148,7 +148,7 @@ He settled onto a worn stool, cradling his cup. "But if you're looking for someo
 
 Xion committed the name to memory. "Thank you. For everything."
 
-"Thank *you*." Korvin flexed his scarred hand—the one Xion had saved. "My boy was five when I got hurt. If I'd lost this hand, lost my work... I don't like thinking about what would have happened to him. To my wife." He met Xion's eyes. "Whatever you're doing down here, whatever trouble you're in—you helped us when we had nothing. Least I can do is return the favor."
+"Thank **you**." Korvin flexed his scarred hand—the one Xion had saved. "My boy was five when I got hurt. If I'd lost this hand, lost my work... I don't like thinking about what would have happened to him. To my wife." He met Xion's eyes. "Whatever you're doing down here, whatever trouble you're in—you helped us when we had nothing. Least I can do is return the favor."
 
 The simple honesty of it made Xion's throat tight. This was what couldn't be explained through political calculations. Master Fen had accumulated something more valuable than coin or connections—he'd accumulated genuine gratitude, the kind that made a poor dockworker risk his own safety to help.
 
@@ -172,7 +172,7 @@ Xion blinked. "What?"
 
 "His parents came to my clinic—"
 
-"I don't care about his parents." Farleen's whisper grew sharper. "I care that we're in the Warrens to *hide*, Xion. Because you're wanted by your own father's organization. Because *she*—" A gesture at Elara. "—is being hunted by half the city. We came down here to disappear. Not to go hunting for some child I've never heard of!"
+"I don't care about his parents." Farleen's whisper grew sharper. "I care that we're in the Warrens to **hide**, Xion. Because you're wanted by your own father's organization. Because **she**—" A gesture at Elara. "—is being hunted by half the city. We came down here to disappear. Not to go hunting for some child I've never heard of!"
 
 "I made a promise—"
 
@@ -186,7 +186,7 @@ Elara straightened, her expression carefully neutral.
 
 "I don't care what they were going to do!" Farleen cut her off. "We needed to be invisible. Forgettable. Just three more outsiders passing through. But now?" She laughed, sharp and bitter. "Now we're interesting. Now people are talking. Now every faction down here knows there's a girl who fights like imperial guard wandering around asking questions."
 
-She turned back to Xion. "Do you have any idea how dangerous this is? We could have stayed in the Tiers. Safe. Hidden. Waited for things to calm down on the surface. But no—" Her voice was rising and she forced it back down to a whisper. "—you want to go *deeper*. Into the Midlevels. Into Slaver territory. Looking for a boy you've never met because you made some promise to desperate parents."
+She turned back to Xion. "Do you have any idea how dangerous this is? We could have stayed in the Tiers. Safe. Hidden. Waited for things to calm down on the surface. But no—" Her voice was rising and she forced it back down to a whisper. "—you want to go **deeper**. Into the Midlevels. Into Slaver territory. Looking for a boy you've never met because you made some promise to desperate parents."
 
 "Farleen—"
 
@@ -206,7 +206,7 @@ She turned back to Xion. "Do you have any idea how dangerous this is? We could h
 
 "We're already here," Xion said. "We might as well—"
 
-"No." Farleen's voice went flat. "No, we are not 'already here so we might as well.' The Tiers are safe enough. We don't *have* to go deeper. That's a choice. A stupid, dangerous choice that you're making for all of us."
+"No." Farleen's voice went flat. "No, we are not 'already here so we might as well.' The Tiers are safe enough. We don't **have** to go deeper. That's a choice. A stupid, dangerous choice that you're making for all of us."
 
 "Then why did you come at all?" Elara's voice cut through the tension. "If you don't care about helping people, why follow us down here?"
 

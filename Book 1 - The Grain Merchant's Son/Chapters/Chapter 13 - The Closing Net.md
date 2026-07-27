@@ -64,7 +64,7 @@ They waited for full darkness, watching the street traffic thin as honest mercha
 
 "So we can't leave."
 
-"So we can't leave *easily*." His mind worked through alternatives. "But we have to. Because if they're this organized now, by morning they'll have enough forces to simply take the building."
+"So we can't leave **easily**." His mind worked through alternatives. "But we have to. Because if they're this organized now, by morning they'll have enough forces to simply take the building."
 
 That's when he heard it—footsteps in the alley, approaching the back door with purpose rather than caution.
 
@@ -242,15 +242,15 @@ Xion peered into the darkness below. "You've used this before?"
 
 "As someone who does what's necessary to survive." Farleen's amber eyes flashed. "Not all of us get to grow up in compounds, protected and safe."
 
-"I can't believe you'd even let her within ten feet of you," Elara said to Xion, ignoring Farleen entirely. "At least *I've* never stabbed you."
+"I can't believe you'd even let her within ten feet of you," Elara said to Xion, ignoring Farleen entirely. "At least **I've** never stabbed you."
 
-"I'm *sorry*!" Farleen's control cracked. "What more do you want from me? I'm trying to make it right!"
+"I'm **sorry**!" Farleen's control cracked. "What more do you want from me? I'm trying to make it right!"
 
 "By leading us into the darkness? How convenient." Elara's voice dripped contempt. "Forgive me if I don't trust the woman who put a blade in his shoulder."
 
 "I didn't want to—"
 
-"But you did it anyway. Don't tell me you seriously *trust* her, Xion?"
+"But you did it anyway. Don't tell me you seriously **trust** her, Xion?"
 
 "I don't have to trust her," Xion said, his voice cutting through the building tension. "I just need her to get us into the Warrens. After that..." He looked at Farleen. "After that, we'll see."
 
@@ -308,7 +308,7 @@ She turned to him, eyes flashing amber. "You can't be serious. She tried to kill
 
 "Until you tried to murder him."
 
-"I didn't want to!" The words burst out of Farleen with shocking rawness. "I *loved* him. I still—" She stopped, breathing hard. "They gave me orders. They asked me questions I couldn't refuse to answer without exposing myself. I did what I could to buy time, to warn him, to—" Her voice broke. "I'm trying to make it right."
+"I didn't want to!" The words burst out of Farleen with shocking rawness. "I **loved** him. I still—" She stopped, breathing hard. "They gave me orders. They asked me questions I couldn't refuse to answer without exposing myself. I did what I could to buy time, to warn him, to—" Her voice broke. "I'm trying to make it right."
 
 Silence settled over the ledge. Below them, the Warrens continued its unknowing rhythms, sixty thousand lives oblivious to the drama playing out above.
 

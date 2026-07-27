@@ -28,7 +28,7 @@ He got there first. He always got there first.
 
 He heard her before he saw her — the particular unhurried step of someone who had learned to move through crowded rooms without disturbing them — and when he turned she was already crossing the square toward him from the direction of the estate. She sat down on the wall beside him without asking. Only family sat down like that.
 
-"The better part of a month," she said, by way of greeting. "You were gone the better part of a month, and do you know how I found out my little brother had turned up the lost heir to the empire and put her on the Ruby Throne? A crier. In the street. Same breath as the grain prices and a notice about somebody's missing dog." She shook her head, slow and wondering. "I had to stand there and be *surprised*, Xion. In public. As though I weren't related to the man who did it."
+"The better part of a month," she said, by way of greeting. "You were gone the better part of a month, and do you know how I found out my little brother had turned up the lost heir to the empire and put her on the Ruby Throne? A crier. In the street. Same breath as the grain prices and a notice about somebody's missing dog." She shook her head, slow and wondering. "I had to stand there and be **surprised**, Xion. In public. As though I weren't related to the man who did it."
 
 "Come on, Melina, you know that wasn't the sort of thing I could put in a letter."
 
@@ -76,7 +76,7 @@ Then, more quietly, in a different register: "There's something else. It's proba
 
 "You don't say *probably nothing* about nothing."
 
-A small, tired huff that was almost a laugh. "Father's been talking to Ronas again. Not the usual — not the seat at the table, the labor arrangements, the things everyone knows about. Something closer than that." She turned the ring on her finger, once, a habit he remembered from when they were children and she was worried and didn't want to show it. "I don't like it. Ronas himself, I understand. He's a monster but he's a *legible* monster; you know where his edges are. It's his people. Some of them —" She stopped, looking for the word, and didn't find a better one. "Some of Ronas's people aren't like him. They're worse. And Father's the sort of man who thinks a tool is a tool."
+A small, tired huff that was almost a laugh. "Father's been talking to Ronas again. Not the usual — not the seat at the table, the labor arrangements, the things everyone knows about. Something closer than that." She turned the ring on her finger, once, a habit he remembered from when they were children and she was worried and didn't want to show it. "I don't like it. Ronas himself, I understand. He's a monster but he's a **legible** monster; you know where his edges are. It's his people. Some of them —" She stopped, looking for the word, and didn't find a better one. "Some of Ronas's people aren't like him. They're worse. And Father's the sort of man who thinks a tool is a tool."
 
 Xion filed it the way he filed a symptom he couldn't place yet — noted, set aside, watch it. His mind was still at the gate, still on the closed door and the woman behind it who thought, maybe, that he had stopped writing. "He keeps them on a leash, doesn't he? Ronas. That's the whole point of Ronas."
 
@@ -88,7 +88,7 @@ She didn't push it. She'd said the thing; whether it landed was for him to decid
 
 "You could go and see him," she said, after a while. She said it the way she'd have recommended a medicine that tasted of tar. "He'd see you. He wants to."
 
-"He wants to *use* me. He wants me to walk back in there and un-say everything I said to her." Xion shook his head. "He thinks I have a key I'm just refusing to turn."
+"He wants to **use** me. He wants me to walk back in there and un-say everything I said to her." Xion shook his head. "He thinks I have a key I'm just refusing to turn."
 
 "I know what he thinks." Melina's voice was even. "I'm not telling you he's right. I'm telling you the door to him is the one door in this city that's still open to you, and you're a man standing outside a lot of closed ones." She saw his face and lifted a hand before he could answer. "I'm not going to make you. I've spent long enough trying to make the two of you into something you won't be. I only —" She stopped. Started again, smaller. "I'd rather not be the only one holding both ends of it. That's all."
 

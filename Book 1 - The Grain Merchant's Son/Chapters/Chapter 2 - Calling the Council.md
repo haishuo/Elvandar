@@ -10,7 +10,7 @@ Silvanno arrived first, settling into the booth with his usual easy confidence. 
 
 Xion tried to smile back but couldn't quite manage it.
 
-"Man, this *is* serious." Silvanno leaned forward, genuine concern replacing his casual demeanor. "What's this about?"
+"Man, this **is** serious." Silvanno leaned forward, genuine concern replacing his casual demeanor. "What's this about?"
 
 "We need to wait for Farleen," Xion replied, his voice tight.
 
@@ -30,9 +30,9 @@ Xion took a shuddering breath. "I think I saw her."
 
 Confusion rippled across the table.
 
-"I mean *her*—the royal heir. The princess." The words tumbled out now that the dam had broken. "Look, I know how insane it sounds, and believe me, I almost didn't believe it myself, but I swear I saw a woman whose eyes changed last night. I was trying to help a boy—Tam, his name was—and the Slavers were taking him away because of some made-up debt. I tried to intervene, and there was this woman in the crowd watching. When she saw what they were doing to him, her eyes changed color. Blue to amber to violet. The royal trait."
+"I mean **her**—the royal heir. The princess." The words tumbled out now that the dam had broken. "Look, I know how insane it sounds, and believe me, I almost didn't believe it myself, but I swear I saw a woman whose eyes changed last night. I was trying to help a boy—Tam, his name was—and the Slavers were taking him away because of some made-up debt. I tried to intervene, and there was this woman in the crowd watching. When she saw what they were doing to him, her eyes changed color. Blue to amber to violet. The royal trait."
 
-He leaned forward, excitement finally breaking through his exhaustion. "If this is real, you know what this means? We can make a *real* difference, not just patch things here and there, plugging a leaky boat while more leaks spring elsewhere. We can upturn the whole damn rotten edifice!"
+He leaned forward, excitement finally breaking through his exhaustion. "If this is real, you know what this means? We can make a **real** difference, not just patch things here and there, plugging a leaky boat while more leaks spring elsewhere. We can upturn the whole damn rotten edifice!"
 
 The silence that followed felt deafening. Silvanno stared at him, mouth slightly open. Kael's expression shifted from confusion to concern.
 
@@ -46,13 +46,13 @@ Farleen's hand found his on the table, her touch warm. "I understand why you're 
 
 Xion's heart skipped at the contact, but he forced himself to focus. Her concern felt genuine, and part of him wanted to believe her, wanted to let this go. But he couldn't.
 
-"Damn it, Sil, I *know* what I saw!" Xion's voice cracked like a whip. Several patrons glanced their way. He forced himself to lower his tone, but the intensity remained. "Sorry, I shouldn't have shouted."
+"Damn it, Sil, I **know** what I saw!" Xion's voice cracked like a whip. Several patrons glanced their way. He forced himself to lower his tone, but the intensity remained. "Sorry, I shouldn't have shouted."
 
 "I know you think you know what you saw," Silvanno replied gently. "But Xion, think about it. You were watching a kid get dragged away by Slavers. Your emotions were running high. Maybe the light was strange, or maybe someone in the crowd had those colored glass drops we've seen before."
 
 He spread his hands, his expression genuinely concerned. "I'm not saying you're lying. I'm saying maybe your mind filled in details that weren't really there."
 
-Xion felt his shoulders sag slightly. "I know. I know that's what I'm *supposed* to think, and trust me, I spent all last night trying to convince myself of exactly that. Why do you think I looked like hell when you walked in?" A wry grin flickered across his face before disappearing. "Sil, buddy... you know I wouldn't bring this up to you guys if I wasn't *sure*."
+Xion felt his shoulders sag slightly. "I know. I know that's what I'm **supposed** to think, and trust me, I spent all last night trying to convince myself of exactly that. Why do you think I looked like hell when you walked in?" A wry grin flickered across his face before disappearing. "Sil, buddy... you know I wouldn't bring this up to you guys if I wasn't **sure**."
 
 Kael drummed his fingers against the table—a nervous habit Xion had learned to recognize. "Even assuming you're completely certain about what you saw—"
 
@@ -68,13 +68,13 @@ Silvanno and Kael exchanged glances again. Xion could see the worry in their fac
 
 "Look," Silvanno said carefully, "let's say for a moment you're right. Where does that leave us? We're talking about the imperial heir, if she exists. You can't just walk up and introduce yourself."
 
-Xion sighed. That *was* the rub, wasn't it?
+Xion sighed. That **was** the rub, wasn't it?
 
-"We can make sure," he offered, hearing the weakness in his own argument. "Make sure she's *real*, that she's out there, that she *exists* at least." He held up a hand to forestall their objections. "Wait—before you all say it, I'll save you some time. 'What if she's not like I think she is?' Or, 'What if she won't help?'"
+"We can make sure," he offered, hearing the weakness in his own argument. "Make sure she's **real**, that she's out there, that she **exists** at least." He held up a hand to forestall their objections. "Wait—before you all say it, I'll save you some time. 'What if she's not like I think she is?' Or, 'What if she won't help?'"
 
 His expression grew pained. "I can't say you'd be wrong to bring up those things. Frankly, I don't know either. But look around us!" His arm swept around the tavern, encompassing all of Kaha'an beyond its walls. "How long have we been doing this, Sil? You and I both know we're not actually accomplishing anything with our group here. I mean sure, it feels good, and damned if I won't go to my grave trying to help, but we both know in our hearts we're just bailing water out of a sinking ship with a thimble."
 
-He turned his attention back to the group. "If I'm wrong, it just means a couple of fruitless days searching, and we're no worse off than we've been before. But if I'm *right*... if she exists, that means we could make real change maybe for the first time since The Rending itself. Isn't that worth a little risk?"
+He turned his attention back to the group. "If I'm wrong, it just means a couple of fruitless days searching, and we're no worse off than we've been before. But if I'm **right**... if she exists, that means we could make real change maybe for the first time since The Rending itself. Isn't that worth a little risk?"
 
 The weight of his words settled over the table like dust after a sandstorm. Silvanno stared down at his hands, clearly wrestling with something.
 
@@ -100,7 +100,7 @@ But he couldn't. Not when everything might change.
 
 The words hung in the air, heavy with implication. Xion watched his friends' faces, saw the moment they began to truly consider it—not just as his traumatic fantasy, but as something that might actually be real.
 
-"Two days," Xion announced, with far more conviction than he felt. "Just two days—we look for her. *Quietly*, of course. I saw her near the market square, so maybe we start there."
+"Two days," Xion announced, with far more conviction than he felt. "Just two days—we look for her. **Quietly**, of course. I saw her near the market square, so maybe we start there."
 
 "Two days," Silvanno repeated, tasting the words. "Starting at the market square."
 

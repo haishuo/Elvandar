@@ -231,6 +231,24 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
 - ch16: Elara's first kill now gets a response from Xion
 - ch15: Xion notices he answered a question Elara didn't ask
 
-**Book 2** — no changes applied. Read only.
+**Book 2** — no editorial changes applied. Read only. (Formatting passes below did touch it.)
+
+**Books 1–2 — formatting passes (mechanical, no prose altered)**
+- Renamed all 25 Book 1 chapter files to `Chapter N - Title.md`, matching Book 2's existing
+  convention. Titles taken from each file's own H1. Old names were inconsistent even among
+  themselves (`chapter1.md` but `Chapter4.md`).
+- Removed the redundant `# Chapter N: Title` H1 from all 25 Book 1 and all 20 Book 2 chapter
+  files — the filename now carries it. 90 lines deleted, 0 inserted.
+- **Emphasis discipline.** Single-word *stress emphasis* is now **bold**; italics are reserved
+  for thoughts, multi-word emphasis, letters and documents, and words cited as words.
+  161 of 185 single-word italics converted across both books.
+  - 24 single-word italics deliberately kept italic, because they are not emphasis: a word
+    being named or echoed rather than stressed — *Fen.*, *Warrens*, *Building.*, *network*,
+    *body* ("used the word *body*"), the several *no*s ("*no* was a word for people without
+    the right name"), *Fine.*, *radiant* ("that was the word for it") — plus single-word
+    interior thought (*No.* in ch15).
+  - All 107 multi-word italics untouched, including the letters (the Imperial Secretariat
+    reply) and interior monologue.
+  - Verified: with asterisks stripped, every chapter file is byte-identical to its prior state.
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*

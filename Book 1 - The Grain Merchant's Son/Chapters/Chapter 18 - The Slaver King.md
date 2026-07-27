@@ -42,7 +42,7 @@ The escort leader moved between them. Not aggressive, but firm. "We're on a sche
 
 "It'll take five minutes." Xion met his eyes. "Less, if the wound's clean."
 
-"It's *fine*," the injured man repeated. Harder this time. His hand drifted toward his belt, where a curved knife hung in a worn sheath.
+"It's **fine**," the injured man repeated. Harder this time. His hand drifted toward his belt, where a curved knife hung in a worn sheath.
 
 Xion didn't move back. "You're limping. If that gets infected, you'll be off your feet for weeks. Maybe permanently if it spreads."
 
@@ -50,7 +50,7 @@ Silence.
 
 The escort leader studied him. Then glanced at the injured man — and Xion understood, a beat late, exactly which corner this one had come round too fast.
 
-The injured guard's face was tight. Suspicious. "Your *girl's* the one who got me." He jerked his chin toward Elara.
+The injured guard's face was tight. Suspicious. "Your **girl's** the one who got me." He jerked his chin toward Elara.
 
 Elara straightened slightly. Just a fraction. Her chin lifted, and Xion caught the ghost of a smile at the corner of her mouth. Satisfaction.
 
@@ -94,7 +94,7 @@ The guard stared at him. "That's it?"
 
 "That's it." Xion sat back on his heels. "Keep it clean. Change the dressing daily. If you see red streaks moving up from the wound, find a healer immediately."
 
-"You *are* a healer."
+"You **are** a healer."
 
 "I mean someone who can treat infection if it sets in." Xion stood, brushing dust from his knees. "Shouldn't come to that if you're careful."
 
@@ -122,11 +122,11 @@ The Iron Hall.
 
 Xion stopped, taking it in.
 
-The chamber was massive—easily fifty meters across, the ceiling soaring eight or nine meters overhead. The walls were the same impossibly smooth brass as the tunnels, covered in the incomprehensible symbols and geometric patterns that marked all the ancient construction. Whatever the builders had intended this space for, the Slavers had claimed it and made it *theirs*.
+The chamber was massive—easily fifty meters across, the ceiling soaring eight or nine meters overhead. The walls were the same impossibly smooth brass as the tunnels, covered in the incomprehensible symbols and geometric patterns that marked all the ancient construction. Whatever the builders had intended this space for, the Slavers had claimed it and made it **theirs**.
 
 Wooden platforms lined the walls at multiple levels, connected by sturdy ramps and ladders. Storage rooms had been partitioned off with salvaged lumber. Guard posts occupied the tunnel entrances—six or seven openings at different heights around the chamber's perimeter, dark mouths leading deeper into the maze.
 
-The floor was level. Actually level—one of those perfect ancient surfaces no modern stonemason could replicate. The Slavers had kept the center clear, creating an open plaza maybe twenty meters across. Everything else was built *around* the ancient space, not into it. The ramshackle human construction didn't quite touch those perfect brass walls, as if even the Slavers hesitated to mark something they couldn't understand.
+The floor was level. Actually level—one of those perfect ancient surfaces no modern stonemason could replicate. The Slavers had kept the center clear, creating an open plaza maybe twenty meters across. Everything else was built **around** the ancient space, not into it. The ramshackle human construction didn't quite touch those perfect brass walls, as if even the Slavers hesitated to mark something they couldn't understand.
 
 Torches in iron sconces provided light, their smoke rising toward openings near the ceiling where it vanished into darkness. The air here was better than the upper levels—fresher somehow, though Xion couldn't say why.
 
@@ -136,9 +136,9 @@ At the far end of the hall, a raised platform held a large wooden desk. Behind i
 
 Ronas Dermir.
 
-Xion's stomach sank. He knew who Ronas was, of course; the Slavers were one of the Big Four, and Xion had been "invited"—forced, more like—to attend more than one Coterie meeting. He'd seen the man, but only from a distance, mostly discussing official Coterie business with Rosik or occasionally with Tania or Sa Ko. But he remembered the hard eyes, the upturned lip, the *look* that said Ronas knew he was never truly accepted there.
+Xion's stomach sank. He knew who Ronas was, of course; the Slavers were one of the Big Four, and Xion had been "invited"—forced, more like—to attend more than one Coterie meeting. He'd seen the man, but only from a distance, mostly discussing official Coterie business with Rosik or occasionally with Tania or Sa Ko. But he remembered the hard eyes, the upturned lip, the **look** that said Ronas knew he was never truly accepted there.
 
-None of that mattered now, of course. Then, Ronas had been the man out of his element—a thug amongst finery. Now Xion was in *Ronas's* domain.
+None of that mattered now, of course. Then, Ronas had been the man out of his element—a thug amongst finery. Now Xion was in **Ronas's** domain.
 
 He swallowed the lump in his throat as Ronas's gaze fell upon him, hard eyes showing recognition immediately.
 
@@ -188,7 +188,7 @@ The moment stretched out. Awkward.
 
 Farleen's expression was carefully neutral, but Xion caught the flash of something in her eyes before she looked away. Not quite triumph. But close.
 
-Ronas exhaled slowly, breaking the silence. His gaze moved back to Farleen, reassessing. "Gonna guess Water cartel—you one of Tania's? Guess it doesn't really matter." He didn't wait for confirmation. Just turned his attention to Elara. "And you're the one what tore through my men. The *actual* princess."
+Ronas exhaled slowly, breaking the silence. His gaze moved back to Farleen, reassessing. "Gonna guess Water cartel—you one of Tania's? Guess it doesn't really matter." He didn't wait for confirmation. Just turned his attention to Elara. "And you're the one what tore through my men. The **actual** princess."
 
 Elara said nothing. Her face was still tight.
 
@@ -204,11 +204,11 @@ Ronas was silent for a long moment. "So here's what happens. You take the boy—
 
 Xion blinked. "That's it?"
 
-Ronas raised a scarred eyebrow. "You *sure* you wanna be questioning this, kid?" He sighed. "Listen. You got me in a bind, and this here's the cheapest way out for everybody."
+Ronas raised a scarred eyebrow. "You **sure** you wanna be questioning this, kid?" He sighed. "Listen. You got me in a bind, and this here's the cheapest way out for everybody."
 
 He held up one thick finger.
 
-"You robbed a house I had men standing in. Don't much care what Vex lost — I care it went missing off my watch, and every broker down here knows it did." A second finger. "Then you come askin' around the Crossroads after my business." A third. "Then she opens up one of mine on her way out of a job you'd no cause to be near in the first place." He let the hand drop. "Three times, inside two days, and every one of 'em with your name somewhere near it. That's not a run of luck, kid. That's a *pattern*, and patterns are what I get paid to notice."
+"You robbed a house I had men standing in. Don't much care what Vex lost — I care it went missing off my watch, and every broker down here knows it did." A second finger. "Then you come askin' around the Crossroads after my business." A third. "Then she opens up one of mine on her way out of a job you'd no cause to be near in the first place." He let the hand drop. "Three times, inside two days, and every one of 'em with your name somewhere near it. That's not a run of luck, kid. That's a **pattern**, and patterns are what I get paid to notice."
 
 He sat back.
 

@@ -52,7 +52,7 @@ Xion knew before she opened her mouth. It was in the way she was standing.
 
 "Then what is?"
 
-"The problem is that it's *good*." She said it with something close to professional distaste. "The gaps are in the wrong places. There are two ways in that somebody like me finds, and both of them leave you visible for about nine seconds — and nine seconds is a very strange length of time for a gap to be. Too long to be an oversight. Too short to be a wall." She looked at him. "Either it's bad luck, or it's a room built to catch somebody. I can't tell you which. That's what I'm telling you."
+"The problem is that it's **good**." She said it with something close to professional distaste. "The gaps are in the wrong places. There are two ways in that somebody like me finds, and both of them leave you visible for about nine seconds — and nine seconds is a very strange length of time for a gap to be. Too long to be an oversight. Too short to be a wall." She looked at him. "Either it's bad luck, or it's a room built to catch somebody. I can't tell you which. That's what I'm telling you."
 
 "Can we get past them?"
 
@@ -68,7 +68,7 @@ Nobody said anything.
 
 "He's forty feet away."
 
-"He might as well be in Uratha." Her control cracked at the edges. "You keep talking as though the distance is the problem. The distance was never the problem." She stepped in closer. "I have been trained for this exact thing since I was fourteen years old. I know what an impossible room looks like. That is one. If we go in there we do not come out again — and if you die down here, then everything I threw away to get you out of that clinic was thrown away for *nothing*—"
+"He might as well be in Uratha." Her control cracked at the edges. "You keep talking as though the distance is the problem. The distance was never the problem." She stepped in closer. "I have been trained for this exact thing since I was fourteen years old. I know what an impossible room looks like. That is one. If we go in there we do not come out again — and if you die down here, then everything I threw away to get you out of that clinic was thrown away for **nothing**—"
 
 Her voice went on the last of it. She stopped.
 
