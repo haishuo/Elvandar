@@ -65,16 +65,30 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 | Silence | Defence | He says |
 |---|---|---|
-| Mira, at fifteen | terrified of his father, and it would have changed nothing | *"I didn't even try."* |
-| Tam, in the square | speaking ends Master Fen and eight years of work | *"I could have saved him then and worked the clinic out later."* |
-| Elara, at the gate | he still can't tell her what he is | *"She deserves the truth, not silence."* |
-| Rosik, B2 ch16 | Rosik twists anything said to him; there is no point | **he agrees** |
+| Mira, at fifteen — B1 ch22 | terrified of his father, and it would have changed nothing | *"I didn't even try."* |
+| Tam, in the square — B1 ch1 | speaking ends Master Fen and eight years of work | *"I could have saved him then and worked the clinic out later."* |
+| Elara, at the gate — B1 ch8 | he still can't tell her what he is | *"She deserves the truth, not silence."* |
+| Rosik's study — **B2** ch5 | Rosik feeds on arguments; it would move nothing | **he agrees** |
+| The disinheritance — **B2** ch16 | the same | **he agrees** |
+
+**Both accepted silences are in Book 2, and both are protecting Xion himself.** That is the whole of the difference.
 
 **Rejects the defence → frozen. Accepts it → chosen.** A wound does not take mitigation; only a decision can be defended. Applies to scenes that don't exist yet, which the two-example version of this thread could not do.
 
-**Why the same defence gets opposite verdicts.** *"It would have changed nothing"* is offered for Mira and rejected, and the identical argument is offered for Rosik and accepted. The difference is what is on the table. With a person in front of him, weighing **is** the betrayal — that is Mira's rule, and B1 ch11 is him confessing he broke it. With nothing at stake but his own standing, weighing is just sense.
+**"Chosen" does not mean "clean."** The Rosik silences are decisions, and he will argue for them — but see below: they rest on a wound he cannot see, which is why the test sorts them here rather than with the others.
 
-**The Rosik silence is not on the same axis as the others — author's ruling.** The first three are wounds: fear at fifteen, calculation in the square, calculation he cannot even voice at the gate. The fourth is **expertise**, and B2 ch5 puts it on the page in the warm stretch, long before the cold: accused in the study of turning Elara against the Coterie, Xion has the reply *"whole and sharp, sitting behind his teeth"* — and swallows it, because *"**Rosik did not lose arguments — he fed on them**, turned every true thing you set in front of him into more ground to stand on."* That is Xion's own twenty-three years of data, stated flat.
+**Why the same defence gets opposite verdicts.** *"It would have changed nothing"* is offered for Mira and rejected, and the identical argument is offered for Rosik and accepted. The difference is **who is being protected.** Every rejected silence had somebody else in the room. Both accepted ones have only him.
+
+There are two reasons stacked in the Rosik silences, and they must not be collapsed into one:
+
+1. **Tactical, and correct.** He has fought his father before and lost, repeatedly, and is not stupid enough to run the same play expecting a different outcome. B2 ch5 states it flat: *"Rosik did not lose arguments — he fed on them."*
+2. **Moral, and the wound.** Even winning would benefit nobody but him. At fifteen he convicts himself for not speaking for Mira — but put him against that wall instead, and he would not hold anyone else's silence against them for a moment. **Everyone is owed someone to speak for them. Except him.**
+
+The first reason is *true*, which is precisely what lets the second one hide behind it.
+
+**This is the same trait as the ledger** ([below](#2-cross-book-threads)) — he pays in and never draws. Janice's gift and Elara's absolution are refused for the identical reason he will not argue on his own behalf: he does not count himself among the people owed anything. B1 ch11's *"he left it shut"* is the one exception in two books, which is why it carries the weight it does.
+
+**Not the cold, and not inherited — author's ruling.** B2 ch5 puts it on the page in the warm stretch, long before the cold arrives: accused in the study of turning Elara against the Coterie, Xion has the reply *"whole and sharp, sitting behind his teeth"* — and swallows it, because *"**Rosik did not lose arguments — he fed on them**, turned every true thing you set in front of him into more ground to stand on."* That is Xion's own twenty-three years of data, stated flat.
 
 Note the **order** in that paragraph: he reasons his way to the decision, and *then* remembers *"Don't hand him the argument. Melina had known."* Her line arrives as corroboration, not instruction. She is an older sister worrying about her brother; he would have done it regardless.
 
