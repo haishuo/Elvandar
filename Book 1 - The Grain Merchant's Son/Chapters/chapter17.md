@@ -1,295 +1,171 @@
 # Chapter 17: The Attempt
 
-Morning came with the same sounds as the day before—the Warrens waking, voices echoing through stone, the clatter of commerce beginning in the streets below. But the atmosphere in Korvin's small room was different. Heavier.
+Morning in the Warrens sounded exactly like the morning before. Nothing else about the day was the same.
 
-Xion spread Arlo's information across the table, studying the details one more time. Routes, schedules, guard patterns. Everything they needed to know about where Tam was being held, where the scavenger crews worked, how to approach without being seen.
+Xion spread Arlo's information across Korvin's table one more time. Routes, schedules, guard patterns — everything they needed to know about where Tam was being held and how the scavenger crews moved and where the gaps in them were.
 
 Everything except how to actually get him out.
 
-Farleen stood near the window, already dressed in the dark clothing they'd acquired for the heist. Her face was carefully neutral, but Xion could see the tension in her shoulders, the way her jaw was set.
+"Shift change is at midday." Farleen was at the window, already dressed in the dark clothes they'd bought for Vex's building. She had been ready for an hour. "That's the window."
 
-"We should go soon," she said, her voice professionally detached. "Shift change happens at midday. That's our best window."
+Elara checked her gear and caught Xion's eye and nodded once.
 
-Elara was checking her own gear, moving with quiet efficiency. She caught Xion's eye and nodded once. Ready.
+They left Korvin sleeping in his loft.
 
-They left Korvin's place quietly, the dockworker still sleeping in his loft. The streets were busier now, people moving with purpose, conducting the business of survival. No one paid them much attention—just three more outsiders navigating the Warrens.
+---
 
-Farleen led them deeper, following Arlo's directions with practiced ease. Xion noticed how she moved differently now—not the careful navigation of someone exploring unfamiliar territory, but the purposeful stride of someone on a mission. Her eyes constantly scanned their surroundings, noting exits, marking potential threats, cataloging everything.
-
-This was Farleen in her element. Not the merchant's daughter. Not even the spy who'd infiltrated his life. This was the intelligence operative, moving through hostile territory with the confidence of training and experience.
-
-They descended through progressively darker levels of the Warrens, the air growing cooler, the sounds of habitation fading. Down here, the ancient construction was more evident—massive stone pillars that supported the weight of the city above, passages carved with precision that spoke of the civilization that had built this place before Kaha'an existed.
-
-Finally, Farleen raised a hand. Stop.
-
-They were in a wide passage that opened into what looked like a natural cavern, though the tool marks on the walls suggested it had been expanded deliberately. Somewhere ahead, Xion could hear the distant sounds of work—metal on stone, voices shouting orders, the rumble of moving equipment.
+Farleen took them down through levels Xion had never seen, following Arlo's directions with something that did not look like confidence so much as work. The air cooled as they descended. The sounds of habitation thinned out behind them. Somewhere ahead, metal rang on stone, and voices called instructions, and something heavy moved on rollers.
 
 The scavenger operations.
 
-Farleen studied the passage ahead with a frown. Not fear—calculation. Her eyes moved over the space with the practiced efficiency of someone reading a tactical situation.
+Then she raised a hand, and they stopped, and she stood a long moment looking at the passage ahead without moving at all.
 
-"Something's wrong," she said quietly.
+"Something's wrong," she said.
 
-"What?" Xion asked.
+"What?"
 
-"I don't know yet." She turned to face them both, her expression serious. "I'm going ahead to scout. Both of you stay here."
+"I don't know yet." She turned to face them both. "I'm going ahead to scout. You two stay here."
 
-"Farleen—" Xion started.
+"Farleen—"
 
-"This isn't a discussion." Her voice was firm. "I'm the only one of us trained to move silently. You—" She looked at Xion. "—are not a fighter and not a scout. You'd get caught immediately. And you—" Her gaze shifted to Elara. "—are too direct. Too ready for confrontation. This requires subtlety."
+"This isn't a discussion." Not raised. Just closed. "I'm the only one of us trained to move quietly. You—" to Xion "—are not a fighter and not a scout, and you'd be seen inside a minute. And you—" to Elara "—are neither of those things either. You're a weapon. That's a different job, and this isn't the moment for it."
 
-Elara looked like she wanted to argue, but Farleen continued before she could.
+Elara's jaw set. She didn't argue, which was its own kind of answer.
 
-"If this is going to work at all, we need information. Real information, not Arlo's notes. I need to see the actual security, the actual layout, the actual guard rotations." She paused. "And if something goes wrong while I'm scouting, I need to know you two aren't going to do something stupid."
+"If I'm not back inside the hour, I've been caught or killed. Don't come after me. Go back to the Tiers and think again."
 
-"Like what?" Elara asked.
+She said it the way another person might read out a supply list. Then she went into the dark ahead and made no sound doing it.
 
-"Like trying to rescue me." Farleen's voice was flat. "If I'm not back in an hour, assume I've been caught or killed. Do not come after me. Return to the Tiers and reassess."
+---
 
-The casual way she discussed her own potential death made Xion's stomach turn. "Farleen—"
+It was the longest hour of Xion's life, and afterward he could remember almost nothing of it — only the shape it left behind, which was the shape of a man with nothing to do standing in a corridor while somebody else spent herself on his behalf.
 
-"An hour," she repeated. Then she moved into the passage ahead, disappearing into the shadows with barely a sound.
+Elara paced. Twice she stopped and looked at the passage Farleen had gone into.
 
-And Xion and Elara were left to wait.
+"She'll come back," Xion said.
 
-Time stretched in the dim passage. Xion found himself counting heartbeats, trying to track how long she'd been gone. Five minutes. Ten. The sounds of the scavenger operations echoed strangely down the stone corridors, making it impossible to judge distance or direction.
+"Yes." Elara didn't look away from the dark. "That isn't the part I'm worried about."
 
-Elara paced, restless energy barely contained. She kept glancing toward where Farleen had disappeared, her hand drifting to her belt where she'd hidden a knife.
+At forty minutes there was a scrape of boot on stone, and Farleen came out of the black as quietly as she'd gone into it.
 
-"She'll be fine," Xion said, though he wasn't sure if he was trying to convince Elara or himself.
+Xion knew before she opened her mouth. It was in the way she was standing.
 
-"Will she?" Elara's voice was tight. "We don't know what's down there. What if there are more guards than Arlo said? What if they're better trained?"
-
-"Then she'll come back and tell us it's impossible."
-
-"Will she?" Elara turned to face him. "Or will she try anyway because she thinks she has to keep you safe?"
-
-Xion didn't have an answer for that.
-
-Twenty minutes passed. Thirty. The sounds from ahead seemed to shift—or maybe that was just Xion's imagination, his mind filling in threats that didn't exist. He caught himself straining to hear footsteps, voices, any indication of what was happening deeper in the tunnels.
-
-At forty minutes, he heard something. A scrape of boot on stone, too close to be one of the scavenger workers. Elara tensed, her hand going to her knife.
-
-Then Farleen emerged from the shadows, moving as silently as she'd left.
-
-But her face told the story before her words did.
-
-She was frowning. Not with fear or frustration, but with something deeper. Confusion, maybe. Or concern.
-
-"Well?" Xion asked.
-
-Farleen was quiet for a moment, her eyes distant as she processed what she'd seen. When she spoke, her voice was carefully controlled.
-
-"The security is heavier than Arlo indicated. More guards, better positioned. They're rotating on a tighter schedule than the notes suggested."
-
-"Can we get past them?" Elara asked.
-
-"Maybe." Farleen's frown deepened. "But that's not what's bothering me."
+"Heavier than Arlo had it," she said. "More men, better placed, tighter rotation." A pause. "That's not the problem."
 
 "Then what is?"
 
-"It felt like..." She paused, choosing her words carefully. "Like they knew someone was there. Not me specifically. But the patrols, the positioning—it felt less like they were guarding against general threats and more like they were watching for something specific."
+"The problem is that it's *good*." She said it with something close to professional distaste. "The gaps are in the wrong places. There are two ways in that somebody like me finds, and both of them leave you visible for about nine seconds — and nine seconds is a very strange length of time for a gap to be. Too long to be an oversight. Too short to be a wall." She looked at him. "Either it's bad luck, or it's a room built to catch somebody. I can't tell you which. That's what I'm telling you."
 
-"You think they know we're here?" Xion felt his heart sink.
+"Can we get past them?"
 
-"I don't know. Maybe." Farleen shook her head. "The access points exist. There are ways in. But they feel wrong. Like..." She struggled to articulate it. "Like traps. Or tests. Routes that would get us inside but make us visible in the process."
+"Probably. Once." She let that sit exactly as long as it needed to. "And then we're inside, carrying a child who can't walk, with six men between us and the way out."
 
-"So what do we do?" Elara asked.
+Nobody said anything.
 
-Farleen looked at them both, and Xion saw something complicated in her expression. Resignation, maybe. Or just exhaustion.
-
-"We walk away," she said quietly. "We did our best. We got Arlo's information. We scouted the site. But this—" She gestured toward the passage ahead. "—this is where smart people recognize they're outmatched and retreat."
+"So we walk away," Farleen said. "We tried. We bought the information, we scouted the ground, and this is the point at which people who intend to survive recognise they're outmatched and go home."
 
 "No," Xion said.
 
 "Xion—"
 
-"We're so close. Tam is right there. Just ahead." He could hear the desperation in his own voice but couldn't stop it. "We can't give up now."
+"He's forty feet away."
 
-"Yes, we can." Farleen's voice was firm. "That's exactly what we can do. We can recognize that this is impossible and choose to survive instead of throwing our lives away on—"
+"He might as well be in Uratha." Her control cracked at the edges. "You keep talking as though the distance is the problem. The distance was never the problem." She stepped in closer. "I have been trained for this exact thing since I was fourteen years old. I know what an impossible room looks like. That is one. If we go in there we do not come out again — and if you die down here, then everything I threw away to get you out of that clinic was thrown away for *nothing*—"
 
-"On what?" Elara interrupted. "On trying to save a child?"
+Her voice went on the last of it. She stopped.
 
-"On a mission that was always going to fail!" Farleen's control slipped for just a moment. "Don't you see? The security, the positioning, the way everything feels wrong—this isn't just difficult, it's designed to be impossible. Someone doesn't want us to succeed."
+Xion had no answer. There wasn't one. There was a promise made in a clinic doorway to two people who owned nothing, and a boy who had never once in his life been anybody's priority, and against that there was a woman who had already lost her family to keep him breathing.
 
-"Then we find another way," Xion said.
+"I'm not asking you to come," he said.
 
-"There is no other way!" Farleen stepped closer, her amber eyes intense. "I've been trained for this. I know what an impossible situation looks like. And this—" She gestured again toward the passage. "—this is it. If we go in there, we don't come back out. And if you die down here—" Her voice caught slightly. "—then everything I sacrificed becomes meaningless. Do you understand? All of it. For nothing."
+"You're not going at all." Flat. Finished. "Because I won't let you. You aren't trained for infiltration and you aren't trained for a fight, and the moment you're seen, Elara and I stop being a rescue and start being two people deciding whether to leave you behind."
 
-The raw emotion in her voice made Xion's chest tight. But he'd made a promise. To Tam's parents. To himself. He couldn't walk away now.
+He looked at Elara.
 
-"I'm not asking you to come with me," he said quietly.
+She had her arms folded and her mouth in a line, and she took a long moment before she said, clipped: "She's right."
 
-"You're not going at all." Farleen's voice was flat. "Because I won't let you. You're not trained for infiltration. You're not trained for combat. You'd get caught in the first thirty seconds and then Elara and I would have to choose between rescuing you and actually reaching Tam."
+"Then here's what happens," Farleen said. "You stay. We go as close as it can be gone. If there's a real opening, we take it. If there isn't, we come back — no heroics, no improvising, we look and we come back. That's the whole offer. Take it, or we all leave now."
 
-"Then what do you suggest?"
+The helplessness of it came down on him like water closing over his head.
 
-Farleen was quiet for a long moment. Then she sighed, the sound carrying the weight of resignation.
+"All right," he said.
 
-"You stay here. Elara and I go in. We get as close as we can. If we see a real opportunity, we take it. If we don't—" She met his eyes. "—we come back. No heroics. No stupid risks. We assess and we act rationally."
+---
 
-"Farleen—"
+They were gone thirty-one minutes.
 
-"That's the only way this happens, Xion." Her voice was firm. "Either you agree to stay here and let us do this properly, or we all walk away right now. Those are the only options."
+He knew because he counted. It was the only thing left he was any use for.
 
-Xion looked at Elara, who was staring at Farleen with an expression like she'd bitten into something sour. She opened her mouth. Closed it. Her jaw worked for a moment before she finally spoke.
+---
 
-"She's right." The words came out clipped. "You can't come with us. Not for this."
+They came back filthy and scraped and without a boy.
 
-The weight of helplessness settled over him. To come this far, to be this close, and to be told he had to wait while others risked their lives—
+"We couldn't reach him." Farleen's voice had gone entirely flat, professionally empty, which was how Xion understood what it had cost her. "We got close. Close enough to see the choke point. Six men on it and more behind them, and in a corridor that width, six is the same as sixty."
 
-But he also knew they were right. He wasn't trained for this. He'd be a liability, not an asset.
+There was blood on Elara's sleeve that was not hers.
 
-"Fine," he said quietly. "But if you're not back in an hour—"
+"We were seen coming out," she said, following his eyes. "One of them came round the corner faster than he should have." She said it without any satisfaction at all. "He'll live. He'll remember me."
 
-"We'll be back," Farleen interrupted. "One way or another."
+A moment later: "We could have fought through."
 
-She and Elara prepared quickly, checking their gear, reviewing what Farleen had seen. They moved with efficient coordination despite their mutual dislike—two professionals setting aside personal feelings for the mission at hand.
+"No."
 
-Then they were gone, disappearing into the shadows ahead, and Xion was left alone in the dim passage.
+"We could have—"
 
-Time became meaningless.
+"No." Farleen didn't raise her voice at all. "You'd have taken three of them. Possibly four. And then Xion would have had a princess and a spy dead in a tunnel and a boy still down there, and nothing about tomorrow would be one scrap better than it is right now."
 
-He tried counting at first, tracking seconds into minutes. But his mind kept wandering, replaying conversations, imagining scenarios. What if they were caught? What if Elara's combat skills weren't enough? What if Farleen's assessment was right and this was impossible?
+Elara said nothing. Her hands were fists.
 
-The sounds from the scavenger operations continued—metal on stone, shouted orders, the rumble of equipment. But underneath it, Xion thought he heard other sounds. Footsteps? Voices? Or just his imagination filling in threats that didn't exist?
+Xion looked at the passage where his sight ended, and at the forty feet beyond it, and could not make himself say the thing he was thinking, which was: *that's it, then.*
 
-He thought about Tam's parents. The desperation in their eyes when they'd begged him to help. The promise he'd made without fully understanding what it would cost.
+"We need to go," Farleen said. "Now. Before—"
 
-He thought about Tam himself. The thin boy with the injured hand, asking when he could work again because his family needed him. That careful politeness masking desperation.
+She stopped.
 
-He thought about every patient he'd treated, every promise he'd made to heal, to help, to fix what was broken. About the fundamental belief that had driven him to become Master Fen in the first place—that people mattered. That one life saved was worth the risk.
+Footsteps in the corridor behind them. Several sets, unhurried, coming down the way they had come in.
 
-But what if saving one life meant losing two others? What if his promise to strangers cost him the two women who'd followed him into the darkness?
+---
 
-At what point did principle become selfishness?
+They didn't run, because there was nowhere to run to, and Farleen understood it before Xion did — she put a flat hand on Elara's arm, and Elara, to her credit, stayed still.
 
-The questions spiraled through his mind as minutes stretched into what felt like hours. He found himself listening with desperate intensity for any sound that might indicate what was happening deeper in the tunnels.
+Six men came into the lamplight. Slavers, but not the opportunists from that first night in the Tiers. These were equipped, arranged, and entirely unhurried, and they had come down a corridor Farleen had chosen precisely because nobody used it.
 
-And then he heard it. Footsteps. Quick, purposeful, but not running. Not pursued.
+The lead man's eyes went over the three of them and stopped on Xion.
 
-Farleen and Elara emerged from the shadows.
+"Master Fen."
 
-They were scraped up—dirt on their clothes, a cut on Elara's arm, Farleen's hair disheveled. But they were alive. They were walking. They weren't being chased.
+Not a question.
 
-But they also weren't carrying a twelve-year-old boy.
+Xion's mouth had gone dry. "Yes."
 
-Xion's heart sank before either of them spoke.
+"You're being summoned." Calm. Nearly courteous. Not a threat and not an arrest — a man conveying something that had been decided elsewhere, by somebody senior, some time ago. "Come with us, please."
 
-Farleen's expression was controlled. Flat. The kind of carefully maintained neutrality that meant she was holding back something explosive.
+"By whom?" Farleen asked.
 
-"We couldn't reach him," she said, her voice professionally detached. "We got close. Very close. But the final approach—" She stopped herself, jaw tightening. "The guards were positioned exactly where they'd need to be to catch anyone trying what we were trying."
+"You'll find that out when you get there."
 
-"We could have fought through," Elara said, frustration evident in her voice.
+Elara shifted her weight, and Xion saw exactly what she was thinking. "And if we refuse?"
 
-"No, we couldn't." Farleen's tone was firm. "There were six guards at the choke point. Maybe we could have taken them in open ground. Maybe. But in those confined tunnels, with reinforcements able to arrive in seconds?" She shook her head. "We'd have been captured or killed. And Tam would still be there."
+The man considered her without a trace of hostility.
 
-Xion felt something break inside him. "So that's it? We just give up?"
+"You won't."
 
-Farleen met his eyes.
+It was not a threat. That was the whole of it. It was a statement of fact from a man who had already run the arithmetic and knew that they would run it too and arrive where he had — and standing there, far too late, Xion finally saw the shape of the entire day. The heavier guard. The rotation tightened in the last few hours. The gaps that were almost gaps, and the route that had felt like a room built to catch somebody.
 
-"We tried," she said quietly.
+It had been. They had been watched — not since this morning. Since the beginning. Every question at the Crossroads, every door Farleen had counted, all of it observed by people who had let it run because letting it run had cost them nothing at all.
 
-The implications of that settled over them like a weight. If the Slavers had known they'd attempt a rescue, if they'd been watching all along—
+"We'll come," Xion said.
 
-"We need to leave," Farleen said. "Now. Before—"
+Elara's head turned sharply.
 
-She stopped mid-sentence, her whole body going tense.
+"We don't have a choice." He met the lead man's eyes. "Do we."
 
-Xion heard it too. Footsteps. Multiple sets, moving with purpose through the passages behind them.
+"No," the man agreed, and there might have been something almost like respect in it. "You don't."
 
-"Back to Korvin's," Elara said, her hand going to her knife.
+They went up out of the corridor surrounded but not held, the Slavers moving around them in a formation that was as much escort as custody. People in the passages watched them pass and drew their own conclusions.
 
-They moved quickly through the tunnels, retracing their route, but not running—running would draw attention. By the time they reached the upper levels of the Warrens, Xion's heart was pounding not from exertion but from fear.
+Xion caught Farleen's eye. She gave him the smallest shake of her head — not *don't resist*. Something else. Something nearer to: *this was always coming.*
 
-Korvin's place was still safe, still quiet. They slipped inside and barred the door, and for a moment Xion thought they'd made it.
+He didn't know where they were being taken, or who had decided it, or whether any of them would come back up.
 
-But the atmosphere in the small room was heavy with defeat.
-
-Elara paced, restless and frustrated. Every few minutes she'd check the window, as if expecting pursuit. Her hands kept clenching into fists, all that combat training with nowhere to go.
-
-Farleen sat in her corner, back against the wall, eyes distant. She said nothing, but Xion could see her mind working, processing, reassessing everything.
-
-And Xion—
-
-Xion felt crushed.
-
-They'd come so far. Risked so much. Farleen had thrown away her entire life to warn him. Elara had trusted him enough to follow into the most dangerous part of the city. And for what?
-
-Tam was still in those tunnels. Still working himself to death in the darkness. Still suffering. The boy with the injured hand, the thin face, asking when he could work again because his family needed him.
-
-And Xion had failed him.
-
-The promise to Tam's parents echoed in his mind. *I'll try to help. I'll do everything I can.* But trying wasn't enough. Doing everything he could hadn't been enough.
-
-Maybe Farleen had been right all along. Maybe they should have stayed in the Tiers. Waited. Survived.
-
-The afternoon wore into evening. No one spoke much. They ate the food Korvin had left for them without appetite. The weight of failure hung over everything.
-
-As darkness settled over the Warrens, Xion found himself at the window, looking out over the scattered lights of the underground city. Somewhere out there, Tam was still trapped. Still suffering.
-
-And there was nothing Xion could do about it.
-
-Then he heard it. Footsteps in the street below. Multiple sets, moving with purpose.
-
-Stopping outside the building.
-
-Elara was on her feet instantly, knife in hand. Farleen had moved to a different vantage point, her whole body tense but controlled.
-
-The footsteps came up the stairs. Deliberate. Unhurried.
-
-A knock on the door. Firm. Professional.
-
-Xion's mouth went dry.
-
-Elara moved toward the door, ready for combat. But Farleen caught her arm, shaking her head. Her expression was grim but resigned—the look of someone who'd just had their suspicions confirmed.
-
-"Open it," Farleen said quietly.
-
-Xion did.
-
-Six men stood in the hallway. Slavers, based on their gear. But not the rough opportunists from the first night. These were professional. Organized. And they moved with the confidence of people executing orders from above.
-
-The lead man's eyes swept over the three of them, assessing. Then his gaze settled on Xion, and something shifted in his expression. Recognition.
-
-"Master Fen," he said. Not a question. A statement.
-
-Xion's heart hammered in his chest. "Yes."
-
-"You're being summoned." The man's tone was calm, professional. Not hostile, but absolutely certain. This wasn't a request. This wasn't even an arrest.
-
-This was something that had already been decided.
-
-"Summoned by whom?" Farleen asked, her voice carefully controlled.
-
-The Slaver's eyes moved to her, taking in the tactical stance, the controlled wariness. "You'll find out when you arrive. Now—" He gestured toward the stairs. "—please come with us."
-
-Elara's grip on her knife tightened. "And if we refuse?"
-
-The Slaver's expression didn't change. "You won't."
-
-It wasn't a threat. It was a statement of fact. Calm. Certain. And in that certainty, Xion understood.
-
-They'd been watched. This whole time. Every move they'd made, every decision, every attempt to rescue Tam—all of it had been observed. Allowed to happen.
-
-And now someone had decided it was time to talk.
-
-Xion looked at his companions. Elara was ready to fight, her whole body coiled for violence. Farleen's face was carefully neutral, but he could see the calculations happening behind her eyes.
-
-They could fight. Maybe win. But the Slavers were calm, professional, positioned efficiently in the narrow space. And even if they won, then what? More would come. They'd be hunted through the Warrens with nowhere to hide.
-
-"We'll come," Xion said quietly.
-
-Elara looked at him sharply. "Xion—"
-
-"We don't have a choice." He met the lead Slaver's eyes. "Do we?"
-
-The man's expression might have held a hint of respect. "No. You don't."
-
-They descended the stairs, surrounded but not restrained. The Slavers moved with more organization than Xion had seen from their kind before, creating a formation that was clearly protective as much as it was controlling. People on the streets watched them pass, noting the escort, drawing conclusions.
-
-Xion caught Farleen's eye. She gave the slightest shake of her head—not "don't resist," but something else. Something closer to: *This was always coming.*
-
-The evening air was cool on Xion's face as they moved through the Warrens. He didn't know where they were going. Didn't know who had summoned them. Didn't know if they'd ever come back.
-
-But he knew, with absolute certainty, that everything was about to change.
+He knew only that it had stopped being his day some hours ago, and that he had not noticed when.
