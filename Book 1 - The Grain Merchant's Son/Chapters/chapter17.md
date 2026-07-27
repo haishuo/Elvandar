@@ -186,7 +186,7 @@ Farleen's expression was controlled. Flat. The kind of carefully maintained neut
 
 Xion felt something break inside him. "So that's it? We just give up?"
 
-Farleen met his eyes. For a moment, something flickered across her face—something darker than simple failure. Then it was gone, replaced by professional composure.
+Farleen met his eyes.
 
 "We tried," she said quietly.
 
