@@ -384,4 +384,49 @@ prose; `Story Timeline.md` and `People/Melina Kemvimore.md` conform to ch7 rathe
 **Guardrail:** Melina's age is fixed by B2 ch7 and by nothing else. If a future pass finds a sheet
 claiming she remembers the Empire, the war, or the family "whole," the sheet is wrong.
 
+**Book 1 — the reform group is five years old, not six months**
+
+Author's ruling, on the grounds that six months does not *read* — Xion and Silvanno talk like men who
+have known each other since childhood, and the care among the four of them is not six months' worth.
+
+New sequence, hung off the existing anchors (Rending 1024 BR, Book 1 1044 BR, Xion born ~1021, Mira
+executed 1036, Master Fen for eight years — all unchanged):
+
+| Year | Xion | Event | At Book 1 |
+|---|---|---|---|
+| 1036 | 15 | Mira executed; Janice; clinic founded; the name chosen | clinic = 8 yrs |
+| 1037 | 16 | **Silvanno finds out** — the partnership begins | **7 years** |
+| 1038 | 17 | **Kael joins**, brought in by Silvanno | **6 years** |
+| 1039 | 18 | **Farleen embedded** — the group as the reader meets it | **5 years** |
+
+Prose changed — three sentences, all in Book 1, and they take two different numbers because the
+staggered joining gives Silvanno a figure nobody else at that table has:
+
+- ch2 narration: *"In six months of gathering at The Amber Leaf"* → **five years**
+- ch2 Silvanno: *"We've been meeting for six months"* → **five years**
+- ch3 Silvanno: *"I've been breaking the law beside you for six months"* → **seven years** (him and Xion,
+  not the group)
+
+**Why this is a strengthening rather than a retcon.** Book 1 already read longer in three places and was
+quietly inconsistent with itself: ch3's own opening says *"For years now… The small group's charity work
+saved a few families from starvation"* four lines before the six-months dialogue; ch2 has Silvanno
+saying they *"practically have to drag you away from that clinic of yours sometimes"* and gives them a
+*"usual corner booth"*; and ch9 has Xion holding a book taken from Silvanno's library *"two years ago."*
+The change resolves that tension instead of creating one. It also repairs the ch2 despair beat, which
+was the weakest thing in the scene: six months of charity failing to fix a city proves nothing and any
+of them could have said it, where five years is a verdict, and it is Silvanno's to deliver because he
+was there for all of them.
+
+Docs conformed: `Story Timeline.md` (the claims table and four new milestone rows, replacing the
+"operates alone 1036–1043" row, which is now one year); `People/Silvanno Larannas.md` ×3 — he now
+*starts* the group rather than joining it; `People/Kael Issamil.md` — the "how he came to know them is
+unspecified" gap is filled (Silvanno vouched for him, which is why his skepticism reads as licence
+rather than disloyalty); `People/Farleen Darfi.md` ×2, with a guardrail against shortening it;
+`People/Xion Kemvimore.md` — he is the group's center of gravity, not its founder, and never recruits
+anyone across five years.
+
+**Guardrail:** Farleen's five years are load-bearing. Genuine feelings and betrayable trust do not
+develop on a six-month assignment, and a spy at the table half a year is a stranger with a knife where
+one who has been there five is family with a knife. Do not shorten it to tidy anything.
+
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*

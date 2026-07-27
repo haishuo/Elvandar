@@ -94,7 +94,9 @@ This is what makes him operationally trustworthy to Xion in a way no one with hi
 
 Kael comes from a minor Iron clan — a family with enough standing to participate in Noble District social life but not enough to command attention there. The text doesn't name his clan, describe his parents, or detail his upbringing. What it reveals instead is more telling: his identity is anchored not in the noble world he technically belongs to, but in Iron territory, where his presence means something different than it does at masquerade balls and teahouse meetings.
 
-He has been part of Xion's reform group at The Amber Leaf for at least six months as of Chapter 2. How he came to know Xion, Silvanno, and Farleen is unspecified. What's clear is that he shares their discontent with the system — even as his skepticism about changing it runs deeper than theirs.
+He has been part of the reform group for **six years** as of Chapter 2 — the third of the four, brought in by **Silvanno**, two years after Silvanno and Xion started working together and a year before Farleen was embedded.
+
+That he arrived through Silvanno rather than Xion is worth holding onto, because it explains the particular shape of his loyalty. Kael did not sign up for Xion's cause; he was vouched for by a friend, turned up, found the work worth doing, and became Xion's man over six years rather than in a moment of conviction. It is also why his skepticism reads as licence rather than disloyalty — he is the one who says *that's not nothing, Xion* and *then you'll do it alone*, and he can say both because his standing at that table predates any of Xion's grand ideas and does not depend on agreeing with them.
 
 His clothes are "simple but well-made." His build is "practical." Everything about him signals someone who values function over display. In a city of cartel heirs and political maneuvering, Kael dresses like someone who actually works.
 

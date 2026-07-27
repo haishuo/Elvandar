@@ -118,7 +118,7 @@ Kael looked down at his hands, jaw working. When he finally spoke his voice was 
 
 "Neither will I."
 
-Silvanno said it softer than Kael, and there was nothing principled anywhere in it. "And don't you dare think it's the law. I've been breaking the law beside you for six months and I'd do it again tomorrow, twice, and you know it."
+Silvanno said it softer than Kael, and there was nothing principled anywhere in it. "And don't you dare think it's the law. I've been breaking the law beside you for seven years and I'd do it again tomorrow, twice, and you know it."
 
 "Then what?"
 

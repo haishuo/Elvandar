@@ -1,6 +1,6 @@
 Xion sent the messages before dawn, each one carried by different street runners to avoid drawing attention. The notes were identical, written in his careful script on scraps of torn parchment: *Urgent. Meet today. Something has happened.*
 
-He'd never called a meeting before. In six months of gathering at The Amber Leaf, he'd always been the one being summoned, dragged away from his clinic to discuss their small efforts at helping Kaha'an's poor. But last night had changed something fundamental, and he couldn't keep this knowledge to himself.
+He'd never called a meeting before. In five years of gathering at The Amber Leaf, he'd always been the one being summoned, dragged away from his clinic to discuss their small efforts at helping Kaha'an's poor. But last night had changed something fundamental, and he couldn't keep this knowledge to himself.
 
 By the time he arrived at the teahouse, his hands were shaking. He'd barely slept, replaying the moment over and over—those impossible eyes shifting color in the crowd. Every time he closed his own eyes, he saw it again. Blue to amber to violet. The royal trait.
 
@@ -78,7 +78,7 @@ He turned his attention back to the group. "If I'm wrong, it just means a couple
 
 The weight of his words settled over the table like dust after a sandstorm. Silvanno stared down at his hands, clearly wrestling with something.
 
-"Six months," Silvanno said quietly. "We've been meeting for six months, and what do we have to show for it? A few families with slightly less empty bellies. A handful of people who got medicine instead of dying in alleys."
+"Five years," Silvanno said quietly. "We've been meeting for five years, and what do we have to show for it? A few families with slightly less empty bellies. A handful of people who got medicine instead of dying in alleys."
 
 Kael's jaw tightened. "That's not nothing, Xion. Those people—"
 
