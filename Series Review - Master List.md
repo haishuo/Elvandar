@@ -55,7 +55,7 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **Frozen silence → chosen silence.** B1 ch1: rooted to the paving stones while Tam is taken, because acting means saying his own name. B2 ch16: he refuses Rosik the argument, and the text distinguishes the two explicitly. **This is the arc, and it spans two books.** Book 1 not closing it is correct.
 
-**The name.** B1 ch1: he cannot say "I am Xion Kemvimore" to save Tam. B2 ch3: he says it to save Sela, it works, and *"Master Fen could not get one cup past this man's ledger. Only the other one could do that."* The price of the outcome is the thing he was.
+**The name.** B1 ch1: he cannot say *"I am Xion Kemvimore"* to save Tam. → B1 ch8: he says it at a district gate to save himself a walk, and it works instantly — the guard never touches the ledger, while the man ahead of him is written down and turned away. Elara watches, and convicts him for it. → B1 ch11: the trade gets named — four words free the boy and end Master Fen in the same breath. → B2 ch3: he says it to save Sela, it works, and *"Master Fen could not get one cup past this man's ledger. Only the other one could do that."* The price of the outcome is the thing he was. **ch8's use must stay trivial.** The moment it costs him something there, B2 ch3 has nothing left to spend.
 
 **Two words.** B1 ch1 *"Two words. That was all it had taken."* → B1 ch22 *"Execute her."* → B1 ch13 Janice's *"My choice"* (a decision imposed, then a decision reclaimed). The compression is the unit of measurement in this world.
 
@@ -66,6 +66,8 @@ These are the spine. Each is already working; each could be broken by an unwary 
 **His father's ledgers.** B1 ch5: Elara asks whether the arrangements exist on paper, and Xion answers *"On paper"* without thinking, because he has known which of the three rooms was shown to magistrates since he was nine and it has never once presented itself as a fact worth saying. She files it and doesn't follow up. → B2 ch12: *"he had understood that since he was old enough to notice which ledgers his father kept in which rooms"* → B2 ch13: six teams carry them out at once, and *"there was not one lawful thing his father could do about any of it."* The seed is a question Xion answers carelessly; the payoff is Xion using the answer roughly a year later. (Series timing: the whole saga so far measures in **months**, never years — B2 spans ~5 months, B3 opens weeks after it.)
 
 **The ledger (the other one).** Everyone settles their account with Xion and states it — Korvin, the food vendor, Rykan's cousin (*"after this, we're even"*). His own never closes. Janice's B1 ch13 gift (*"You don't get to write it down"*) and Elara's B1 ch22 absolution are both things he cannot receive.
+
+**One exception, and it is load-bearing.** B1 ch11: Elara offers **complicity, not credit** — *"I was accusing you of doing what I did"* — which does not touch his ledger, so he can take it, and does, by not arguing: *"he left it shut."* It is the only gift in two books he fails to refuse. That is what makes ch22's absolution worse rather than redundant: he managed it once, and after Tam he cannot. Do not let ch11's version read as forgiveness, and do not let anyone offer him credit there.
 
 **Becoming Rosik, and the fault line.** B2 ch12–16: the operational picture assembles and the cold takes over — *"It did not feel like a decision… the part of him that read such pictures was the only part still fully awake."* → B2 ch18: he loads Melina's death as leverage on Sa Ko Ren, sees himself doing it, and says **"Don't."** → B2 ch20: the low wall, the engine with nothing left to burn, and *"the cold broke… the way a wall goes, which is from the inside."* He knows what he became. He arrives at it alone and mid-act. **The difference between him and his father is not capability — it is that he has a fault line.** Nobody says any of this aloud, ever.
 
@@ -102,7 +104,6 @@ else.** Full reasoning in the changelog.
 
 | # | Item |
 |---|---|
-| C-2 | ch6 and ch8 have the same shape (walk, witness, explain, vow). ch8's fountains are stronger; ch6 has the better single idea. |
 | C-3 | ch3's first movement is still summary — four days of elimination compressed, with only Jorik dramatized. The Amber Leaf refusal that follows is fully dramatized and carries the chapter, so this is a front-half weight question, not a whole-chapter one. |
 | C-8 | ch21 raises a stake and dissolves it in the same chapter (the Ronas complication). |
 | C-11 | ch18 — Ronas's dialect wobbles between registers. |
@@ -321,6 +322,7 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 
 | # | Was | Fixed by |
 |---|---|---|
+| C-2 | ch6 and ch8 have the same shape (walk, witness, explain, vow); ch6 has the better single idea. | **The framing was wrong** — the two chapters do different jobs (ch6 makes Elara the *signatory*; ch8 carries the injustice specific to a desert city) and it was never a choice between them. ch8 rewritten instead: the arch gate and its ledger, Xion spending the name on a convenience, Elara convicting him for it, **one** fountain with no statistics attached, the children in the basin left unexplained, and a single held amber. 1,906 → 1,214 words. |
 | C-1 | ch2 and ch3 run the same argument; ch3 should be about what they committed to, not whether he's sane. | ch3 now **inverts** it — four days of elimination convince Kael and Silvanno he is *right*, and that is why they refuse. *"I'd rather my friend was mad. Because a mad friend I can walk home."* |
 | C-4 | ch17's "something feels wrong" runs four times with no new information; chapter also over-long. | One instance (l.22). Chapter is 1,680 words, the shortest in Book 1. |
 | C-5 | ch24's combat trial is almost entirely commentary; the climactic test needs one concrete exchange before the analysis. | ch24 l.79–87 — the feint high, the strike driving up under the arm into the short ribs, and Sa Ko taking it without moving her feet. The exchange is not merely placed before the analysis; it is what *triggers* it, and Farleen's ch16 ribs are the measuring instrument. |

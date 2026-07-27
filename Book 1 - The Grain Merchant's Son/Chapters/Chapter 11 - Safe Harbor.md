@@ -28,9 +28,49 @@ He watched her process this, saw the moment everything clicked into place. The w
 
 "Yes."
 
-"The one whose name the Slavers used to fabricate Tam's debt." She said it flatly, the way she'd said *a sporting chance* to a man in a snake mask. "The one who tried to save him while I just stood there and watched."
+"The one whose name the Slavers used to fabricate Tam's debt." She said it flatly, the way she'd said *a sporting chance* to a man in a snake mask.
 
-"You didn't just stand there. You wanted to help. I saw it in your face, in the way you moved forward before catching yourself." Xion set down the lamp. "You lost control because you cared. That's why I looked for you. That's why I knew you were real."
+And then he watched her arrive.
+
+"The square," she said.
+
+"Yes."
+
+"If you'd said it." Working it as she went, and not hurrying it. "If you'd stood up in that market and said *I am Xion Kemvimore* — they'd have put him down on the spot. And every person there would have gone home knowing which one you were."
+
+"Yes."
+
+"So the boy walks free, and Master Fen is finished. In the same breath." Not a question. "That's what four words cost."
+
+"That's what four words cost."
+
+He should have left it there. He had left it there for three weeks.
+
+"I nearly said them."
+
+She looked up.
+
+"I want that on the record. Not because it helps." He heard exactly how it sounded and went on. "I had them. I had my mouth open. And then I did the arithmetic — the clinic, eight years, every name in the book — and the arithmetic came out the way arithmetic always comes out."
+
+He set the lamp down on the workbench, and then moved it, and then moved it back.
+
+"I stood in a market square and weighed a twelve-year-old against a room full of jars. And I still don't know whether I decided or whether I couldn't move. Both. I've never once got them apart."
+
+She let that sit.
+
+"I was there too," she said.
+
+He looked up.
+
+"In the crowd, with a hood up, watching a child get taken. And I did not move either." She said it the way she said things she had already checked. "I've had three days to work out what I was accusing you of at that gate. I was accusing you of doing what I did."
+
+"It isn't the same. You couldn't have—"
+
+"There it is." Not sharp. "Somebody hands you something and you go looking for the reason it doesn't count."
+
+He shut his mouth.
+
+And after a moment — because there was nothing to repair, and nobody in the room asking him to repair it — he left it shut.
 
 Elara was quiet for a long moment, her gaze sweeping the clinic with new understanding. "Why didn't you tell me before?"
 
