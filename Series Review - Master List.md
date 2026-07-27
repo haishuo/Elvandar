@@ -1,16 +1,29 @@
 # Series Review — Master List
 
-Both books read in full: **Book 1** (ch1–25), **Book 2** (ch1–20).
+The working editorial document for the series. Both books read in full: **Book 1** (ch1–25),
+**Book 2** (ch1–20).
 
-Organized by the rule hierarchy rather than by book, so the through-line is the structure of the document rather than an afterthought in it. Sections:
+Organized by the rule hierarchy rather than by book, so the through-line is the structure of the
+document rather than an afterthought in it.
 
-1. The rule hierarchy
-2. Cross-book threads — the load-bearing continuities, and what would break them
-3. Outstanding work, sorted by rule tier
-4. Character guardrails
-5. Observations that are not fixes
-6. Open questions
-7. Applied changelog
+Applied changes live in **`Series Review - Changelog.md`** — history, not work.
+
+---
+
+## Status at a glance
+
+| Tier | Outstanding | |
+|---|---:|---|
+| **Rule 1** — coherence | 0 | — |
+| **Rule 2** — characterization | 0 | — |
+| **Rule 3** — single-emotion integrity | 0 | — |
+| **Craft — Book 1** | 10 | C-2, C-3, C-8, C-11, C-16–C-21 |
+| **Craft — Book 2** | 4 | C-12–C-15 |
+| **Open questions** | 0 | — |
+
+**14 items outstanding, all craft-tier.** Nothing in Books 1–2 currently breaks a rule.
+
+**Sections:** [1. Rule hierarchy](#1-the-rule-hierarchy-authors-binding) · [2. Cross-book threads](#2-cross-book-threads) · [3. Outstanding work](#3-outstanding-work) · [4. Do not touch](#4-do-not-touch) · [5. Character guardrails](#5-character-guardrails) · [6. Settled rulings](#6-settled-rulings) · [7. Open questions](#7-open-questions) · [8. Observations that are not fixes](#8-observations-that-are-not-fixes)
 
 ---
 
@@ -64,28 +77,22 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 ---
 
-## 3. Outstanding work, by rule tier
+## 3. Outstanding work
+
+Resolved items and their closing evidence live in [§6](#6-settled-rulings), so nothing below is finished.
 
 ### Rule 1 — coherence
 
-**None outstanding.** Every continuity error found in Books 1 and 2 has been fixed (see changelog).
+**None outstanding.** Every continuity error found in Books 1 and 2 has been fixed (see the changelog).
 
-The last item closed here was not an error in the prose but an error in the sheets. B2 ch7's
-*"Twenty-six years old and still the family's smile"* was briefly changed to thirty to match the
-~29–31 figure the age-correction pass (`1ae458e`) had assigned Melina — then reverted, because that
-figure turned out to rest on nothing. The prose was right and the sheet was wrong. See the changelog
-entry for the reasoning; the short version is that the **only** line in Books 1–2 that constrains her
-age asks for a gap relative to Xion, not an absolute age, and six-against-three clears it.
+The last item closed here was not an error in the prose but an error in the sheets — B2 ch7's
+*"Twenty-six years old and still the family's smile"*, briefly changed to thirty and then reverted,
+because the prose was right and the sheet was wrong. **Melina's age is fixed by B2 ch7 and by nothing
+else.** Full reasoning in the changelog.
 
 ### Rule 2 — characterization
 
-**R2-1. B1 ch18 ends with Xion holding a dangerously ill child and never treating him.** A healer with a fevered boy in his arms treats him. The chapter closes on his feeling instead of his hands at the exact moment his defining practice applies. *This is the single highest-priority outstanding item in either book.*
-
-**Three items demoted to author's questions** — each would require bending a character, so none is the reviewer's to decide:
-
-- **Q1. Farleen's Book 1 exit — CLOSED. No change, and the reviewer's note was wrong, not merely overruled.** She has no role in Book 1's endgame and manufacturing one would be shoehorning. The better reason: Book 2 defines her by **presence without position** — *"a woman with no post, no title, no institutional reason to stay anywhere — and she stayed."* A character whose nature is unobtrusive constancy should not get a curtain call in the last act of someone else's book. The quiet exit is the correct shape. The handoff also needs nothing — Book 2 ch2 opens with the pastry already an established habit.
-- **Q2. B1 ch16–17 staging.** The *length* cut stands on craft (3,069 words for an offstage failure reads as accident, not intent). Putting Xion inside one of the three operations does not: Farleen is tactically right that he is untrained, and the text says so.
-- **Q3. B1 ch5's speed — DEFERRED to a dedicated session at the author's request.** They agree to a life-destroying plan in ~40 lines. But *"He didn't even really consider it"* (ch19) establishes fast acceptance as how Xion decides. May be characterization rather than a gap.
+**None outstanding.** R2-1 (B1 ch18's untreated child) was the last item and is closed — see [§6](#6-settled-rulings).
 
 ### Rule 3 — single-emotion integrity
 
@@ -95,17 +102,16 @@ age asks for a gap relative to Xion, not an absolute age, and six-against-three 
 
 | # | Item |
 |---|---|
-| C-1 | ch2 and ch3 run the same argument (friend skepticism → *"with or without you"*). ch3 should be about what they committed to, not whether he's sane. |
 | C-2 | ch6 and ch8 have the same shape (walk, witness, explain, vow). ch8's fountains are stronger; ch6 has the better single idea. |
-| C-3 | ch3 is a montage wearing a chapter's clothes — only Jorik is dramatized. |
-| C-4 | ch17's "something feels wrong" runs four times with no new information; chapter also over-long (see Q2). |
-| C-5 | ch24's combat trial is almost entirely commentary. The climactic test needs one concrete exchange before the analysis. |
-| C-6 | ch25 is mostly told; the closing roll call reads like the outline leaking through. **Fix the flatness, not the triumph.** |
-| C-7 | ch9's marriage-alliance cover is loaded and never tested at the ball. |
+| C-3 | ch3's first movement is still summary — four days of elimination compressed, with only Jorik dramatized. The Amber Leaf refusal that follows is fully dramatized and carries the chapter, so this is a front-half weight question, not a whole-chapter one. |
 | C-8 | ch21 raises a stake and dissolves it in the same chapter (the Ronas complication). |
-| C-9 | ch23's Vesk — twenty years of fury evaporates in ten lines, and it is sequenced backwards (concedes, then attacks). |
-| C-10 | ch22 — Elara reaches for the ch15 slaver argument verbatim. Correct instinct; the text should register that she knows. |
 | C-11 | ch18 — Ronas's dialect wobbles between registers. |
+| C-16 | ch5 — *"Her voice grew stronger, more certain"* appears twice, four lines apart (l.99, l.103). Typo-level. |
+| C-17 | ch9 — the dance lesson runs three times (day 1, day 2, day 3), each closing on near-contact broken by a step back. Cadence, not plot. |
+| C-18 | ch11 — *"Mutual vulnerability. The foundation of any good partnership."* Theme stated in dialogue. |
+| C-19 | ch11 and ch12 both close on Xion alone on the floor in the dark, reflecting. ch12's is far stronger (*"Count toward what?"* — the ledger image); ch11's is the disposable one. |
+| C-20 | ch19 — Farleen's objections repeat instead of escalating (*you're going to die / he's dying / is she worth your life / please*), and ch20 runs the same shape (Farleen shouts, Elara apologises, *"Stop saying you're sorry!"*). The one stretch in Book 1 where an argument re-runs rather than moving anyone's position. |
+| C-21 | Surviving closing swells — ch6 (*"a city that called itself free while its people counted themselves lucky to survive until sunset"*), ch22 (*"This was our first real fight." / "It was a good one."* landing a beat after the Mira confession), ch23 (four paragraphs of *"Tomorrow everything would change."*). |
 
 ### Craft — Book 2
 
@@ -116,11 +122,13 @@ age asks for a gap relative to Xion, not an absolute age, and six-against-three 
 | C-14 | ch14 (1,300 words) carries the city destabilizing, Xion's model of his father collapsing, *and* Melina's last living scene. The violence is ~400 words of summary, and Melina's death depends on the reader believing the Surface Warrens are lethal enough to kill a Kemvimore mid-sentence. POV is legitimately locked to Xion, so this is a weight question, not a rule violation. |
 | C-15 | ch2/ch3 both use *"You've gone somewhere"* / *"I'm here."* ch3's *"again"* may make it a deliberate running beat; confirm intent. |
 
-### Do not touch
+---
+
+## 4. Do not touch
 
 - **B1 ch18** — *"Did it anyway."*
 - **B1 ch20** — the mirror throw, *"Lot of good it does him."*
-- **B1 ch22** — the Mira confession (only C-10 applies).
+- **B1 ch22** — the Mira confession.
 - **B1 ch25** — the triumph.
 - **B2 ch8** — the Kalden interlude. Best single chapter in the series.
 - **B2 ch15** — Melina's death. Structurally exact.
@@ -128,7 +136,7 @@ age asks for a gap relative to Xion, not an absolute age, and six-against-three 
 
 ---
 
-## 4. Character guardrails
+## 5. Character guardrails
 
 ### Xion — the Mira moment (B1 ch22, rewritten 2026-07-27)
 
@@ -185,7 +193,7 @@ happened,"* it predates this revision.
 - **Janice never absolves him.** She stays operational permanently. Comfort about Mira would be doing Mira's work and deflates both characters.
 - **ch13's "My choice" is a gift, not a claim of authority and not noble sacrifice.** Xion's *"I can't let you do that"* must read as guilt (*whatever happens to you becomes mine to carry*), never permission-granting. Her answer closes the copper argument by conceding it: *"I'm giving you something. You don't get to write it down."*
 - **Confirmed:** her injury is failing eyesight, not hands (hands are used three times already — Tam, Korvin, Xion's own). It explains her front-of-house role, unpicking by feel, and the ch1 line about holding work up to the light and squinting. **Use lightly.** Her defining discipline is *not looking* (*"I've never asked where the money comes from"*), so blindness literalizes it — a rule 4 resonance that should never be pressed.
-- **Confirmed: she is alive.** See open question 2 for the return plan.
+- **Confirmed: she is alive.** See [§6](#6-settled-rulings) for the return plan.
 
 ### No chess metaphors — in the sheets as well as the prose
 
@@ -229,7 +237,107 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 ---
 
-## 5. Observations that are not fixes
+## 6. Settled rulings
+
+Decided. Retained so they are not reopened or re-flagged.
+
+### R2-1 — B1 ch18's untreated child — **CLOSED, fixed in the prose**
+
+*Was:* the chapter ended with Xion holding a dangerously ill child and never treating him — closing on
+his feeling instead of his hands at the exact moment his defining practice applied. Flagged as the
+single highest-priority outstanding item in either book.
+
+*Now:* ch18 l.243–273 is the field surgery. He asks for the hand he stitched in ch1 and finds what six
+weeks in a collapsed tunnel made of his own work; opens it along the line it had already chosen, drains
+it, spends the last of the flask flushing the wound rather than putting it in the boy (*"and hated the
+trade, and made it"*), the last of the verbana, the last of Janice's linen for a binding and a sling.
+Then: *"It was good work. He knew it was good work… Then he laid the backs of his fingers against Tam's
+forehead and held them there, and the good work stopped mattering."* The infection is in the blood and
+nothing he carries reaches blood.
+
+### Q1 — Farleen's Book 1 exit — **CLOSED. No change**
+
+The reviewer's note was wrong, not merely overruled. She has no role in Book 1's endgame and
+manufacturing one would be shoehorning. The better reason: Book 2 defines her by **presence without
+position** — *"a woman with no post, no title, no institutional reason to stay anywhere — and she
+stayed."* A character whose nature is unobtrusive constancy should not get a curtain call in the last
+act of someone else's book. The quiet exit is the correct shape. The handoff also needs nothing —
+Book 2 ch2 opens with the pastry already an established habit.
+
+### Q2 — B1 ch16–17 staging — **CLOSED. He stays outside; the chapter is cut hard**
+
+The *length* cut stands on craft (3,069 words for an offstage failure reads as accident, not intent);
+ch17 is now 1,680 words, the shortest chapter in Book 1. Putting Xion inside one of the three
+operations does not stand: Farleen is tactically right that he is untrained, and the text says so.
+What he does instead is count — *"He waited thirty-one minutes and counted them, because counting is
+the only thing left he is any use for."*
+
+### Q3 — B1 ch5's speed — **CLOSED, not a gap**
+
+Xion agrees to become a fugitive in ~40 lines. That is correct and must not be slowed. ch3 already
+establishes that refusal doesn't slow him (*"It won't stop me." / "I know."*), ch1 has Janice name the
+trap exactly and he goes anyway, and ch19 states it outright: *"He didn't even really consider it."*
+Fast acceptance **is** the characterization; deliberation added here would be rule 2 sacrificed to a
+pacing instinct. Nor is the cost unpaid — ch7 collects it two chapters later, when he walks into his
+own clinic and has to call Master Fen a friend of his. What ch5 actually had wrong was elsewhere; see
+the changelog.
+
+### Janice's failing eyesight — **CONFIRMED**
+
+Eyesight, not hands. See the Janice guardrail in [§5](#janice) for the reasoning and the "use lightly"
+constraint.
+
+### Janice's return — **CONFIRMED alive. Landed in the Book 3 beat drafts**
+
+- **As written:** B3 ch1 beats 18–19 (Xion makes a second administrative request beside the name change — does the Kemvimore seizure record account for persons the Grain cartel held?). B3 ch3 Movement One, beats A1–A14 (Kael finds her in Rosik's hidden ledgers; the meeting; the refusal; the question; the missing dismissal).
+- **Constraint honoured:** she is not in ch1. She hears about the name-taking secondhand and has nothing to say about it, because to her nothing changed — she has called him Fen for eight years.
+- **Where:** Book 3, Act I. Book 3 is entirely at beat-draft stage, so insertion is cheap. Book 2 is finished and tight, and Xion's isolation there is load-bearing — handing him Janice back mid-Book-2 would soften the thing that book is about.
+- **Why she never came:** she has never asked anyone for anything. Eight years housing an illegal clinic and the only thing she ever requested was one copper. She is blind or nearly, cannot work, and arriving on his doorstep would be the first request she had ever made — so she doesn't. She has been in the city the whole time. This is the trait she was built with, taken to its worst conclusion.
+- **What she says:** nothing grateful, nothing apologetic, nothing about Mira. Something operational. Best candidate is a version of the question she asked for eight years — *did you ever start charging?* She burned the ledger and it is still the only thing she wants to know.
+- **Hard constraint:** she must NOT be present for Book 3 ch1's name-taking. If she is in the room the scene becomes about her, and Mira is the entire point of it. Find her after, or well before, and let her hear about it secondhand — one dry line.
+
+### Who tells Xion he has become his father — **CLOSED. Wrong question. Author's ruling**
+
+**Xion does not become his father.** He *became* his father for four chapters of Book 2, and he **knows
+it**. Nobody needs to tell him and nobody should. B2 ch18 is not him refusing to hear it named — it is
+titled `"Don't."` because *he* is the one who says it, to himself, mid-manoeuvre, with Melina's death
+loaded and a woman in front of him he could spend it on. He sees exactly what he is doing while he is
+doing it.
+
+**The distinguishing fact is not that he can't do it. Book 2 proves he can.** It is that afterward,
+**he breaks**. B2 ch20, the low wall: *"And the cold broke. Not all at once — the way a wall goes, which
+is from the inside, out of a fault that was there long before any of it showed on the surface."* The
+engine that turned grief into precision runs out of things to burn and stops, and what was underneath is
+still a brother on a wall who is never going to see his sister come around that corner again.
+
+**Rosik never breaks.** That is the whole comparison, and it is structural rather than moral — not
+*Xion is better*, but *Xion has a fault line and his father does not*. Never write a scene in which a
+character delivers the verdict to his face. It would tell him something he arrived at alone, under his
+own power, in the middle of the act, which is worth immeasurably more.
+
+### Resolved craft items
+
+Fixed in the prose, verified against the chapters 2026-07-27.
+
+| # | Was | Fixed by |
+|---|---|---|
+| C-1 | ch2 and ch3 run the same argument; ch3 should be about what they committed to, not whether he's sane. | ch3 now **inverts** it — four days of elimination convince Kael and Silvanno he is *right*, and that is why they refuse. *"I'd rather my friend was mad. Because a mad friend I can walk home."* |
+| C-4 | ch17's "something feels wrong" runs four times with no new information; chapter also over-long. | One instance (l.22). Chapter is 1,680 words, the shortest in Book 1. |
+| C-5 | ch24's combat trial is almost entirely commentary; the climactic test needs one concrete exchange before the analysis. | ch24 l.79–87 — the feint high, the strike driving up under the arm into the short ribs, and Sa Ko taking it without moving her feet. The exchange is not merely placed before the analysis; it is what *triggers* it, and Farleen's ch16 ribs are the measuring instrument. |
+| C-6 | ch25 is mostly told; the closing roll call reads like the outline leaking through. | ch25 l.235 motivates the roll call from inside the POV — *"because he wanted to be able to remember, afterward, exactly where everyone had been standing"* — and l.237–243 then close four arcs in four sentences, all silent (Vesk's hands loose at his sides for the first time in weeks; *"Kael was counting the exits. Of course he was."*; Silvanno's raised hands; Farleen watching the room instead of the throne). The chapter ends on the dust rather than a summary: *"No one had breathed in here since the night it was sealed. / It was breathing now."* **The triumph was never the problem and remains protected — see [§4](#4-do-not-touch).** |
+| C-7 | ch9's marriage-alliance cover is loaded and never tested at the ball. | ch10 l.121–139 — Tania probes the cover directly (*"is he attentive, or is he merely thorough?"*), and the text registers that three days of training covered the insults and nothing at all covered someone being kind to Elara about him. |
+| C-9 | ch23's Vesk — twenty years of fury evaporates in ten lines, sequenced backwards (concedes, then attacks). | Re-sequenced and expanded to ~50 lines: the fourteen-days accounting first, Elara's account second (*"I didn't think about you"*), the concession last. |
+| C-10 | ch22 — Elara reaches for the ch15 slaver argument verbatim; the text should register that she knows. | ch22 l.101 — *"the same weapon, off the same shelf… she had reached for it because the first time it had gone in."* |
+
+---
+
+## 7. Open questions
+
+**None currently open.** Everything previously listed here has been decided; see [§6](#6-settled-rulings).
+
+---
+
+## 8. Observations that are not fixes
 
 - **Elara appears in one chapter of Book 2's twenty.** Thematically motivated — the institution separating them at the start still separates them at the end — but a reader who came for Book 1's partnership gets almost none of it. Worth holding consciously.
 - **Book 1's prose is the weaker half of the series by a wide margin.** Book 2 reads as though rules 1–3 were held firmly throughout; B2 ch5 works precisely because nobody is bent to make it work.
@@ -237,303 +345,6 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 ---
 
-## 6. Open questions
+*`TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
 
-1. **Janice's failing eyesight** — confirm or veto.
-2. **Janice's return — CONFIRMED alive. Plan agreed; NOW LANDED IN THE BOOK 3 BEAT DRAFTS.**
-   - **As written:** B3 ch1 beats 18–19 (Xion makes a second administrative request beside the name change — does the Kemvimore seizure record account for persons the Grain cartel held?). B3 ch3 Movement One, beats A1–A14 (Kael finds her in Rosik's hidden ledgers; the meeting; the refusal; the question; the missing dismissal).
-   - **Constraint honoured:** she is not in ch1. She hears about the name-taking secondhand and has nothing to say about it, because to her nothing changed — she has called him Fen for eight years.
-   - Original planning notes retained below.
-   - **Where:** Book 3, Act I. Book 3 is entirely at beat-draft stage, so insertion is cheap. Book 2 is finished and tight, and Xion's isolation there is load-bearing — handing him Janice back mid-Book-2 would soften the thing that book is about.
-   - **Why she never came:** she has never asked anyone for anything. Eight years housing an illegal clinic and the only thing she ever requested was one copper. She is blind or nearly, cannot work, and arriving on his doorstep would be the first request she had ever made — so she doesn't. She has been in the city the whole time. This is the trait she was built with, taken to its worst conclusion.
-   - **What she says:** nothing grateful, nothing apologetic, nothing about Mira. Something operational. Best candidate is a version of the question she asked for eight years — *did you ever start charging?* She burned the ledger and it is still the only thing she wants to know.
-   - **Hard constraint:** she must NOT be present for Book 3 ch1's name-taking. If she is in the room the scene becomes about her, and Mira is the entire point of it. Find her after, or well before, and let her hear about it secondhand — one dry line.
-3. ~~**Who tells Xion he has become his father, and when?**~~ **CLOSED — WRONG QUESTION. Author's ruling.**
-
-   **Xion does not become his father.** He *became* his father for four chapters of Book 2, and he **knows it**. Nobody needs to tell him and nobody should. B2 ch18 is not him refusing to hear it named — it is titled `"Don't."` because *he* is the one who says it, to himself, mid-manoeuvre, with Melina's death loaded and a woman in front of him he could spend it on. He sees exactly what he is doing while he is doing it.
-
-   **The distinguishing fact is not that he can't do it. Book 2 proves he can.** It is that afterward, **he breaks**. B2 ch20, the low wall: *"And the cold broke. Not all at once — the way a wall goes, which is from the inside, out of a fault that was there long before any of it showed on the surface."* The engine that turned grief into precision runs out of things to burn and stops, and what was underneath is still a brother on a wall who is never going to see his sister come around that corner again.
-
-   **Rosik never breaks.** That is the whole comparison, and it is structural rather than moral — not *Xion is better*, but *Xion has a fault line and his father does not*. Never write a scene in which a character delivers the verdict to his face. It would tell him something he arrived at alone, under his own power, in the middle of the act, which is worth immeasurably more.
-4. **Q2 above** — whether Xion is ever placed inside one of the ch16–17 operations, or stays outside and the chapter is simply cut hard. (Q1, Q2 and Q3 all closed.)
-
-**Q3 — B1 ch5's speed — CLOSED, not a gap.** Xion agrees to become a fugitive in ~40 lines. That is correct and must not be slowed. Ch.3 already establishes that refusal doesn't slow him (*"It won't stop me." / "I know."*), ch1 has Janice name the trap exactly and he goes anyway, and ch19 states it outright: *"He didn't even really consider it."* Fast acceptance **is** the characterization; deliberation added here would be rule 2 sacrificed to a pacing instinct. Nor is the cost unpaid — ch7 collects it two chapters later, when he walks into his own clinic and has to call Master Fen a friend of his. What ch5 actually had wrong was elsewhere; see the changelog.
-
----
-
-## 6b. Chapter manifest — everything this review pass touched
-
-**Book 1 — The Grain Merchant's Son**
-Chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25
-*(every chapter except 20)* — plus `TGMS Book Summary.md`
-
-**Book 2 — The One You Feed**
-Chapters 1, 7, 14
-
-**Book 3 — Crown Jewel** *(beat drafts only; no prose exists yet)*
-Chapters 1, 3
-
-**Supporting files**
-- `People/Mistress Janice.md` — new character sheet
-- `Series Review - Master List.md` — this file, new
-
-Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 1,675 words), ch3, ch13, ch18, ch23, ch25.
-
----
-
-## 7. Applied changelog
-
-**Book 1 — structural**
-1. Rewrote ch1 to use Janice as Xion's foil (1,341 → ~2,190 words)
-2. Added `People/Mistress Janice.md`
-3. Gave Janice presence in ch7 (present, silent, complicit)
-4. Established Janice as Xion's first patient, and as the one who told him he needed a false name — he chose "Fen" himself, for Mira
-5. Gave Janice the ch13 raid — she burns the patient logs and is taken
-6. Returned Janice to the narrative in ch23 (Kael reports the fire and her arrest)
-7. Closed Xion's ch22 beat — Elara offers absolution and he cannot take it
-8. Rationed Elara's royal trait to six involuntary shifts
-9. Recorded the two-ledgers reading, the absolution guardrail, and the "my choice" guardrail
-10. Corrected the ch13 exchange — a gift, not a claim of authority
-11. ch5: gave Xion the healer's reflex toward the woman who stabbed him (rule 2) — he asks where Elara hit her, how hard, whether she was breathing, hates himself for asking, and gets a soldier's answer
-12. ch5: gave Elara the read on the wound — *"I know the difference between a miss and a decision"* — planting why ch13's re-admission of Farleen is possible at all
-13. ch5: replaced the thesis speech (*"a throne built on suffering… we're both responsible"*) with Elara's real register — the ledger question
-
-**Book 1 — continuity corrections**
-- ch9: *"money earned through years of treating patients as Master Fen"* contradicted the free-clinic premise and ch11's *"every coin I spend on this clinic comes from my father's allowance"*
-- ch11: *"the past ten years"* against *"Five years. Since I was fifteen"* in the same chapter — reconciled to "five" at the time. Note that the age correction has since made "ten" the right number everywhere, so the original phrasing turned out to be the correct one.
-- ch4: *"haunted his dreams for weeks"* — it had been five days
-- ch4: recognition claimed hair colour and "delicate features" after a hooded sighting at dusk
-- ch6: ran midday → late afternoon → *"the bells chimed noon"*; also opened with them leaving an alcove they had left at the end of ch5
-- ch9: borrowed a book from Silvanno's library while Silvanno believed him dead
-- ch10: a gown *"cost more than Xion's clinic earned in a year"* — the clinic does not earn
-- ch14: an orphaned unattributed `"Yes."`; two characters with milky blind eyes eighty lines apart
-- ch16: a duplicated passage — two phrases each appearing twice, ~20 lines apart
-
-**Book 1 — cuts and duplications**
-- The thimble metaphor (ch2/ch3); the Arol Batae battlefield-medicine beat (ch7 ×2); *"a mask I wear"* (ch9/ch10); five hands-across-the-table beats (ch2–3); the identical goodnight endings (ch11/ch12); the ch1 fruit-stall watcher; ch25's *"The love triangle remained beautifully unresolved"*; ch17's unpaid *"something darker than simple failure"*; the ch25 roll-call Janice line; ch19's thrice-recited colour sequence
-- ch10: Elara now holds her voice and the eyes go anyway, honouring three chapters of training
-- ch16: Elara's first kill now gets a response from Xion
-- ch15: Xion notices he answered a question Elara didn't ask
-
-**Book 2** — no editorial changes applied. Read only. (Formatting passes below did touch it.)
-
-**Xion's age: 20 → 23 (continuity correction, spans both books)**
-- **The problem.** B2 ch20 gives Xion a firsthand memory of Rosik lifting him onto a horse and
-  steadying him — warmth that must predate the Rending, because the Rending is what remade Rosik.
-  At 20 he was an infant then and could hold no such memory. He must have been ~3, so he is 23.
-- **The author overrode the "Book 1 prose is immovable" rule** for this, on the grounds that
-  correctness beats immovability. Treat it as a one-off, not a precedent. Recorded at the top of
-  `Story Timeline.md`.
-- **What moved:** `age − 15 = duration`, so Master Fen's "five years" became **"eight years"** —
-  14 spans in Book 1 (ch1, 9, 11×3, 12×3, 13×4, 15, 18) and 30 in the sheets and this document.
-- **What did not move:** every **"fifteen."** The boy who woke to find Mira executed and said nothing
-  stays a boy — B2 ch16's *"the boy he had been at fifteen"* depends on it, as does the whole
-  paralysis-guilt engine. Mira's execution shifts 1039 → **1036 BR**; Xion born ~**1021 BR**.
-- **Elara remains 20**, locked by ch6 prose (*"older than her twenty years"*). The two are no
-  longer the same age; nothing in Book 1 ever said they were.
-- **Melina** moved to around thirty (~29–31), six or seven years Xion's senior — ~9–11 at the
-  Rending, so she still remembers whole what he keeps only as feeling. Not fixed by any prose.
-- **Left alone deliberately:** the four unrelated "five years" — Varris's service to Ronas
-  (B1 ch18), "six fake princesses" (B1 ch2, and Silvanno's sheet ×2), and the water-reform
-  estimate (B2 ch3, ch11).
-- **Limit, recorded honestly:** at three, ch1's *"stories his mother used to tell"* is still best
-  read as mostly **inherited lore** — a three-year-old does not retain story content. What is his
-  own is the feeling attached to her. Age 5 would have bought the stories outright; the author
-  chose 3 deliberately, on the grounds that what survives earliest childhood is affect — safety,
-  warmth, laughter — and that this is the only register the ch20 memory actually needs.
-- **Rosik was a good father before the Rending — new canon, deliberately established.** The book
-  previously held that the estate was never warm and that Mira was the first person to make it a
-  home. That made Rosik merely cold and gave Xion an absence rather than a loss. Now: Rosik was
-  plainly, unremarkably a good father while his wife lived — he laughed, the house was a home —
-  and the Rending killed that man as surely as it killed her. Xion was three, too young to read
-  the change as grief. **B2 ch5 rewritten** accordingly: he *had* known the house another way,
-  stopped reaching for it because reaching felt like invention, and let the warmth he could still
-  reach belong to Mira — who made it a home *again*. Recorded on Rosik's sheet as a guardrail:
-  do not flatten him back into a patriarch with no before.
-- **The ch5/ch20 division of labour.** ch5 carries only the structural fact — there was a before,
-  he was three, he stopped reaching. ch20 keeps the flood: the laugh, the horse, the hand, and
-  the father rather than the Lord of the Grain. ch5 must never spend ch20's payoff.
-- **B2 ch20 trimmed twice, then extended.** The remembered joke ("landed badly and then, a beat later, landed
-  perfectly") cut to just the laugh — the remarkable thing is that Rosik laughed *at all*, and
-  comic mechanics were analysis inside a grief passage. Then *"and had not yet learned to be
-  ashamed of needing it"* cut from the horse sentence: it dated the memory to 4–6 and is the only
-  thing that did. What remains is affect alone, which is what a three-year-old keeps.
-  **Note for Book 3:** that clause was also the earliest statement of Xion's shame about being
-  given anything — the thread running through Janice's *"my choice"* and Elara's ch22 absolution.
-  It now has no origin beat. Worth re-planting somewhere that does not date the memory.
-
-**Books 1–2 — formatting passes (mechanical, no prose altered)**
-- Renamed all 25 Book 1 chapter files to `Chapter N - Title.md`, matching Book 2's existing
-  convention. Titles taken from each file's own H1. Old names were inconsistent even among
-  themselves (`chapter1.md` but `Chapter4.md`).
-- Removed the redundant `# Chapter N: Title` H1 from all 25 Book 1 and all 20 Book 2 chapter
-  files — the filename now carries it. 90 lines deleted, 0 inserted.
-- **Emphasis discipline.** Single-word *stress emphasis* is now **bold**; italics are reserved
-  for thoughts, multi-word emphasis, letters and documents, and words cited as words.
-  161 of 185 single-word italics converted across both books.
-  - 24 single-word italics deliberately kept italic, because they are not emphasis: a word
-    being named or echoed rather than stressed — *Fen.*, *Warrens*, *Building.*, *network*,
-    *body* ("used the word *body*"), the several *no*s ("*no* was a word for people without
-    the right name"), *Fine.*, *radiant* ("that was the word for it") — plus single-word
-    interior thought (*No.* in ch15).
-  - All 107 multi-word italics untouched, including the letters (the Imperial Secretariat
-    reply) and interior monologue.
-  - Verified: with asterisks stripped, every chapter file is byte-identical to its prior state.
-- Added `Tools/royalroad_export.py` and a generated `Royal Road/` folder per book (46 files) —
-  paste-ready HTML for posting. Regenerate after any prose edit; never hand-edit the output.
-- Book 1 ch22: the two `-----` scene breaks normalized to `---`, matching the other 101 in the
-  series. No effect on the exported HTML, which already normalized them.
-- Recorded the chapter-file conventions in CLAUDE.md §6 — filename pattern, no title heading
-  inside the file, `---` scene breaks — and the regeneration step in §7.
-
-**Book 2 — beat drafts resynced to final prose (all 20 chapters)**
-
-The beat drafts had last been synced 48 commits earlier; every prose pass since then had left them
-behind. Compared each `Beat Drafts/Chapter N` against its `Chapters/Chapter N` and rewrote the beats
-to match what is actually on the page. No prose was touched. The substantive divergences found:
-
-- **ch2** — Silvanno's scene was restaged entirely: he now refuses the closed-door meeting and takes
-  Xion to the horse market (*"be boring in the open"*). And Xion now *reaches* the letter-sanitization
-  theory twice and sets it down both times, because it is the reading that requires hope. The drafts
-  had him simply ignorant.
-- **ch3** — the draft was missing the chapter's biggest beat: Xion spending the Kemvimore name on a
-  tally-man to force a full allotment (*"no was a word for people without the right name"*), plus
-  Melina's stopgap-brokering plan and her *"stop deciding Elara's rejecting you."*
-- **ch4 → ch6** — the clinic material (the porter's recognition, the merchant's sponsorship offer, the
-  sign coming down) was drafted in ch4 and now lives in ch6's prose. Moved, with a note in both.
-- **ch5** — the draft had neither the Mira passage nor Melina's *"don't hand him the argument,"* which
-  is the reason the confrontation has only one person in it.
-- **ch9** — missing the one-child/all-children comparison and Melina's *"come back to the house."*
-- **ch10 → ch11** — reversed. Xion no longer reasons methodically to Rosik; he is "too frightened for
-  arithmetic" and skips the middle, and Melina names it. The careful elimination now happens in ch11
-  *after* the fact, with Elara, and he arranges for her to say the name.
-- **ch12** — the draft lacked the load-bearing error of the whole book: Xion's plan *depends* on Rosik
-  being reasonable, and Melina independently confirms the premise in the same scene.
-- **ch13** — the draft was missing its own title image. The clean hands are an indictment, not an alibi.
-- **ch14** — added Farleen's diagnosis (*"it's stopped being for anything"*); removed a closing line the
-  draft claimed that the prose had cut for telegraphing ch15.
-- **ch16** — added the assembly of how Melina died, and the thing that surfaces for less than a breath
-  beneath Rosik's composure. The old note said the chapter contained no crack in Rosik; it does now,
-  and it is not grief. Also corrected the Mira-execution continuity (he was unconscious, per B1 ch22).
-- **ch17** — corrected the geography (Tiers → Midlevels → Iron Hall; he leaves the clinic, not an
-  apartment) and removed an outcome the prose does not report.
-- **ch18** — added the beat that pays off ch15/ch16: one of the five was Silvanno's own mother, and the
-  lever used on her was intelligence Silvanno gathered. He says *"impressive"* anyway.
-- **ch20** — the memory had been revised by the age correction and the draft still carried the cut joke
-  and the cut *"ashamed of needing it"* clause. Added the *"not the Lord of the Grain"* paragraph and
-  its Mira confession, which closes the ch5 loop.
-- **ch15** — continuity footer still said "Xion is 20." Corrected to 23, with Elara 20 and Melina 30.
-
-**Book 2 — Melina's age: raised to thirty, then reverted to twenty-six**
-
-Recording this one in full because the reasoning matters more than the number, and because the first
-move was wrong.
-
-B2 ch7 (*"Twenty-six years old and still the family's smile"*) is the only place in the series where
-Melina's age is spoken in prose. The age-correction pass (`1ae458e`) had moved her to ~29–31 in
-`Story Timeline.md` and on her sheet and never reached ch7, so ch7 looked like a stray contradiction
-and was "fixed" to thirty. It was then challenged, checked properly, and reverted.
-
-What the check found:
-
-- **Exactly one line in Books 1–2 constrains her age** — B2 ch5, *"a set of stories he'd been told by
-  a sister old enough to remember what he wasn't."* It predates `1ae458e` and survived it unchanged,
-  so it is real evidence and not circular.
-- **The bar it sets is relative to Xion, not absolute.** He was three; ch5 defines what three keeps —
-  *"not events but weather."* Six keeps a face, a voice, particular afternoons. Six against three is a
-  genuine gulf, and it is all the line asks for. A three-year gap clears it.
-- **Nothing else touches her age anywhere.** No marriage or heir pressure; no seniority requirement for
-  the Coterie and tariff work; no quasi-maternal framing (*"little brother"* works at any gap); nothing
-  in Book 3; and her role in the series outline — dying mid-negotiation, believing any deal can be
-  made — is entirely age-independent.
-- **The two claims that seemed to demand a wide gap were sheet-only and never dramatized**: "six or
-  seven years his senior" and "personal memories of… the final years of the Balishan Empire." The
-  second does not survive at any plausible age — at six the Empire is weather to her too — and has been
-  struck from her sheet along with the claim that she remembers the family "whole."
-- **And thirty cost the line something.** Twenty-six is a woman young enough that escape should still be
-  available and isn't; the trap is fresh and there is still fight in the protest. Thirty reads as settled
-  resignation. She dies a few chapters later still trying to fix her family, so the not-yet-resigned
-  register is the right one.
-
-Settled at **twenty-six, three years Xion's senior, six at the Rending** (~1018 BR). Now locked by
-prose; `Story Timeline.md` and `People/Melina Kemvimore.md` conform to ch7 rather than the reverse.
-
-**Guardrail:** Melina's age is fixed by B2 ch7 and by nothing else. If a future pass finds a sheet
-claiming she remembers the Empire, the war, or the family "whole," the sheet is wrong.
-
-**Book 1 — the reform group is five years old, not six months**
-
-Author's ruling, on the grounds that six months does not *read* — Xion and Silvanno talk like men who
-have known each other since childhood, and the care among the four of them is not six months' worth.
-
-New sequence, hung off the existing anchors (Rending 1024 BR, Book 1 1044 BR, Xion born ~1021, Mira
-executed 1036, Master Fen for eight years — all unchanged):
-
-| Year | Xion | Event | At Book 1 |
-|---|---|---|---|
-| 1036 | 15 | Mira executed; Janice; clinic founded; the name chosen | clinic = 8 yrs |
-| 1037 | 16 | **Silvanno finds out** — the partnership begins | **7 years** |
-| 1038 | 17 | **Kael joins**, brought in by Silvanno | **6 years** |
-| 1039 | 18 | **Farleen embedded** — the group as the reader meets it | **5 years** |
-
-Prose changed — three sentences, all in Book 1, and they take two different numbers because the
-staggered joining gives Silvanno a figure nobody else at that table has:
-
-- ch2 narration: *"In six months of gathering at The Amber Leaf"* → **five years**
-- ch2 Silvanno: *"We've been meeting for six months"* → **five years**
-- ch3 Silvanno: *"I've been breaking the law beside you for six months"* → **seven years** (him and Xion,
-  not the group)
-
-**Why this is a strengthening rather than a retcon.** Book 1 already read longer in three places and was
-quietly inconsistent with itself: ch3's own opening says *"For years now… The small group's charity work
-saved a few families from starvation"* four lines before the six-months dialogue; ch2 has Silvanno
-saying they *"practically have to drag you away from that clinic of yours sometimes"* and gives them a
-*"usual corner booth"*; and ch9 has Xion holding a book taken from Silvanno's library *"two years ago."*
-The change resolves that tension instead of creating one. It also repairs the ch2 despair beat, which
-was the weakest thing in the scene: six months of charity failing to fix a city proves nothing and any
-of them could have said it, where five years is a verdict, and it is Silvanno's to deliver because he
-was there for all of them.
-
-Docs conformed: `Story Timeline.md` (the claims table and four new milestone rows, replacing the
-"operates alone 1036–1043" row, which is now one year); `People/Silvanno Larannas.md` ×3 — he now
-*starts* the group rather than joining it; `People/Kael Issamil.md` — the "how he came to know them is
-unspecified" gap is filled (Silvanno vouched for him, which is why his skepticism reads as licence
-rather than disloyalty); `People/Farleen Darfi.md` ×2, with a guardrail against shortening it;
-`People/Xion Kemvimore.md` — he is the group's center of gravity, not its founder, and never recruits
-anyone across five years.
-
-**Guardrail:** Farleen's five years are load-bearing. Genuine feelings and betrayable trust do not
-develop on a six-month assignment, and a spy at the table half a year is a stranger with a knife where
-one who has been there five is family with a knife. Do not shorten it to tidy anything.
-
-**B1 ch22 rewritten — Xion is present for Mira's sentencing, and the wound is cowardice**
-
-Two passes, and the second superseded the first. Recording both, because the intermediate state is
-still sitting in the git history and will confuse anyone who finds it.
-
-*Pass one (superseded):* `People/Xion Kemvimore.md` contradicted itself — its backstory section said
-Xion was unconscious for the execution, and four thematic passages said he *"stood frozen while someone
-he loved was killed."* The thematic passages were conformed to the backstory section.
-
-*Pass two (current):* the author reopened it, on the grounds that ch22 is a stronger scene if Xion is
-physically there — and on a continuity hole neither reading had caught: **under the unconscious version
-Xion quotes his father's exact two words and has no way to have heard them.** The prose was rewritten
-so that he wakes, finds the flower and the note, understands, runs barefoot through the house, and
-**arrives in time** — and Rosik waits until his son is through the door before saying it, then looks at
-him. Xion says nothing. They carry her out past him and he steps out of the way so they can.
-
-The wound is therefore **cowardice**, not a failure to protest a fait accompli: he was handed the exact
-chance he would spend his life claiming he wanted, and fear closed his mouth. See the §4 guardrail for
-the full sequence and why it is load-bearing.
-
-Changed: **B1 ch22** (the account to Elara, rewritten); **B2 ch16** (the fifteen-year-old comparison —
-now one glancing clause, *"stood in a hall while his father ended the world in two words"*; an earlier
-draft imported ch22's specifics and read as recap rather than rhyme); `People/Xion Kemvimore.md`
-(backstory section plus five thematic passages); `Story Timeline.md`; the Ch16 beat draft; and the §4
-guardrail, which now locks this version and explicitly retires the old one.
-
-The change also makes ch22's *"I watched what happens when someone plays judge over who deserves care
-and who deserves death"* literal rather than figurative, and it tightens the series' central rhyme:
-**frozen silence → chosen silence**, B1 ch1 → B2 ch16, both in front of the same man.
-
-*Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
+*Applied changes: `Series Review - Changelog.md`.*

@@ -131,9 +131,16 @@ chapters independently and reconciling later has been tried and does not work.
 **Handle a class of problem in one pass, not piecemeal.** If a habit appears in nine places,
 fix all nine together so the books get one consistent through-line.
 
-**Record what you do.** `Series Review - Master List.md` is the canonical record — organized by
-rule tier, and carrying the cross-book threads, character guardrails, open questions, the
-chapter manifest, and the changelog. Update it in the same commit as the change.
+**Record what you do.** The editorial record is two files, and they have different jobs:
+
+- `Series Review - Master List.md` — the **working document**. Organized by rule tier, and carrying
+  the status block, the cross-book threads, outstanding work, the do-not-touch list, character
+  guardrails, settled rulings, and open questions. Read this one.
+- `Series Review - Changelog.md` — **append-only history** of changes actually applied, plus the
+  chapter manifest. Nothing in it is outstanding work.
+
+Update both in the same commit as the change: the fix goes in the changelog, and anything it
+closes, opens, or constrains goes in the master list.
 
 **Report honestly.** If a proposed fix was declined, say why. If a flag turned out not to be a
 real problem, say so plainly and record it rather than quietly inflating it into one. Do not
@@ -158,8 +165,8 @@ The cited-word case is the one that gets mishandled. A word being *named* is not
 however short it is — "an officer of mine used the word `*body*`"; "`*no*` was a word for people
 without the right name"; Janice's `*Fen.*` landing after she says it; Rosik's `*Building.*`.
 The test: if the sentence is about the word, it stays italic; if the weight is in the voice
-saying it, it goes bold. Applied across Books 1–2; the full exclusion list is in the changelog
-in `Series Review - Master List.md`.
+saying it, it goes bold. Applied across Books 1–2; the full exclusion list is in
+`Series Review - Changelog.md`.
 
 **Chapter files:** one file per chapter in `Chapters/`, named `Chapter N - Title.md` — a space
 either side of a hyphen, the number unpadded, the title in Title Case. `Chapter 7 - Fine.md`,
@@ -202,6 +209,7 @@ Story Timeline.md            in-series chronology (authoritative on timing)
 Global Historical Timeline.md
 The Seven Paradigms.md       the characterization framework
 Series Review - Master List.md   editorial record and outstanding work
+Series Review - Changelog.md     applied changes (append-only history)
 elvandar_series_outline.md
 TGMS - OLD/          NON-CANON. Ignore entirely.
 ```
