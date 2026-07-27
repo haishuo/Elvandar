@@ -42,7 +42,9 @@ Arlo stood, moving to the edge of his platform. "There's a man who operates out 
 
 Farleen's expression didn't change, but Xion saw her jaw tighten slightly.
 
-"The job is simple," Arlo continued. "Vex operates from a building in the eastern quarter. Third floor, back room. He keeps the ledger in a locked box—iron, nothing fancy. The building has guards, but they're just hired muscle. Competent, but not exceptional." He pulled a folded paper from his robes. "Here's the layout, guard rotations, everything you need."
+"The job is simple," Arlo continued. "Vex operates from a building in the eastern quarter. Third floor, back room. He keeps the ledger in a locked box—iron, nothing fancy. The building has guards, but they're just hired muscle. Dermir's, most of them — Vex rents by the month, same as half the eastern quarter. Competent. Not exceptional." He pulled a folded paper from his robes. "Here's the layout, guard rotations, everything you need."
+
+Farleen's eyes came up at *Dermir's*, and stayed on Arlo a moment, and Arlo smiled at her pleasantly and did not elaborate.
 
 "How do you have all this if you can't get the ledger yourself?" Elara asked.
 
