@@ -65,7 +65,7 @@ Institutional endurance and legacy rank low in Xion's motivational stack. He und
 
 Competition for its own sake provides Xion almost no satisfaction. He opposes his father's methods and challenges the cartel system, but this stems from his Caretaker instincts rather than any enjoyment of conflict. He would gladly avoid every confrontation if that would better serve people. When he does fight — stealing shadow funds, rolling up allies, confronting Ronas — it's reluctantly, with full awareness of the cost, and only when every other path has closed.
 
-**Shadow:** His distaste for competition means he consistently underestimates how others will respond when cornered. He expected Rosik to surrender after losing his wealth. He didn't account for what happens when an unflappable chess master has nothing left to lose. And because his deepest wound is *inaction* — because the boy who said nothing swore he would never hesitate again — he is constitutionally incapable of the one thing that might have saved Melina: pausing long enough to consider that his father might not react the way he expected.
+**Shadow:** His distaste for competition means he consistently underestimates how others will respond when cornered. He expected Rosik to surrender after losing his wealth. He didn't account for what happens when a man who has never once been cornered finally is, with nothing left to lose. And because his deepest wound is *inaction* — because the boy who said nothing swore he would never hesitate again — he is constitutionally incapable of the one thing that might have saved Melina: pausing long enough to consider that his father might not react the way he expected.
 
 ### Merchant (Seventh)
 
@@ -219,9 +219,9 @@ He wasn't numb to it. He felt everything — the weight of the choice, the accep
 
 ### The Catastrophe
 
-Xion *knows* a version of Rosik Kemvimore. He knows the unflappable chess master, the man who is never out of his element, who has an answer and a response to everything, who never rushes and never loses his cool. Xion has watched this man operate his entire life — at Coterie meetings, at cartel negotiations, at the estate where every surface gleams and every word is calibrated. His entire model of his father is built on this version: the strategic genius who always has three moves prepared, who absorbs setbacks without visible damage, who treats crisis as opportunity.
+Xion *knows* a version of Rosik Kemvimore. He knows the man who is never out of his element, who has an answer and a response to everything, who never rushes and never loses his cool — the one who taught him to look at a house or a cartel or an alliance and find the single member carrying more of the load than all the rest, and then pull that one and stand back while the weight does the work of falling. Xion has watched him operate his entire life — at Coterie meetings, at cartel negotiations, at the estate where every surface gleams and every word is calibrated. His entire model of his father is built on this version: the man who has already read the structure, who absorbs setbacks without visible damage, who treats crisis as opportunity.
 
-He expected this version of Rosik to respond to the heist by retreating — grabbing whatever gold he could get his hands on and fading into the shadows, or perhaps guttering out like a dying flame. A strategic withdrawal. A calculated surrender. The chess master recognizing checkmate and conceding with dignity.
+He expected this version of Rosik to respond to the heist by retreating — grabbing whatever gold he could get his hands on and fading into the shadows, or perhaps guttering out like a dying flame. A strategic withdrawal. A calculated surrender. A man surveying a ruined position, pricing it accurately, and declining to pay for it.
 
 But there is another version of Rosik Kemvimore. The version Xion has never seen — may not even believe exists. The version that is pushed to the edge, with nothing left to lose, betrayed by his own son and staring into the abyss. The boy from the slums who learned that when you're losing, you escalate.
 

@@ -186,6 +186,35 @@ happened,"* it predates this revision.
 - **Confirmed:** her injury is failing eyesight, not hands (hands are used three times already — Tam, Korvin, Xion's own). It explains her front-of-house role, unpicking by feel, and the ch1 line about holding work up to the light and squinting. **Use lightly.** Her defining discipline is *not looking* (*"I've never asked where the money comes from"*), so blindness literalizes it — a rule 4 resonance that should never be pressed.
 - **Confirmed: she is alive.** See open question 2 for the return plan.
 
+### No chess metaphors — in the sheets as well as the prose
+
+The prose rule was already in place and the prose is clean. **The sheets are now held to it too**, because
+the sheets are where the temptation originates: Xion's sheet described Rosik as an *"unflappable chess
+master"* twice and had him *"recognizing checkmate and conceding with dignity,"* which is precisely the
+image a drafting pass would reach for and then have to be told not to use.
+
+**A correction on the in-world question, because the obvious argument is wrong.** Chess *does* exist in
+Elvandar — `Places/Uratha/The Physical Geography of Uratha.md` gives Uratha's academy "The Game Courts —
+for strategic board games like chess." So the objection is not anachronism, and anyone who reaches for
+that reason is arguing from an assumption rather than the worldbuilding.
+
+The real objections are two. **Register:** chess is Urathan academy culture, not Balishan. Kaha'an runs
+on ledgers, water rights, granaries and load-bearing walls; a Kaha'an narrator reaching for a Uratha
+scholar's pastime to explain a grain lord is borrowing the wrong nation's vocabulary. (If a *Urathan*
+character ever thinks in board games, that is characterization and entirely fair.) **Craft:** it is the
+lazy default for "clever strategist," and this series already has a far better idiom of its own,
+established in B2 ch12 and belonging to Rosik specifically — *every structure has one member bearing
+more of the load than the rest; find it, pull it, and stand back while the weight does the work of
+falling.* Use that. It is his own teaching, it is what Xion turns against him, and it carries the
+architecture imagery the whole book already runs on.
+
+**Fixed:** `Xion Kemvimore.md` ×3 (both "chess master" instances and the checkmate line);
+`Elara Valanar.md` ("political pawn" → *a claim for other men to spend*).
+
+**Deliberately left:** *endgame*, *stalemate*, *gambit*. These are dead metaphors in English — nobody
+reads a board off them — and they appear in authorial framing rather than in any character's mouth. The
+line is **live chess imagery applied to a person**, not chess etymology.
+
 ### Rosik
 
 - **The Rosik charge is deferred through Book 1 and fires in Book 2.** He must read as innocent of tyranny in B1 ch13; *"I have turned into my father"* is the worst realization available to Xion and belongs to B2's arc.

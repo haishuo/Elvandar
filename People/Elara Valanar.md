@@ -115,7 +115,7 @@ In rare moments, the trait reveals something other than distress. When she treat
 
 ### The Arol Batae Legacy
 
-The Arol Batae — "Old Guard" — were once the elite Imperial Guard who chose to hide Elara rather than see her become a political pawn. Led by Commander Tarren Vesk, they created a secure compound within Kaha'an where they raised her according to their capabilities. They taught what they knew: combat, strategy, tactical thinking, and survival. They could not teach what they didn't know: what it actually means to rule a living city full of suffering people.
+The Arol Batae — "Old Guard" — were once the elite Imperial Guard who chose to hide Elara rather than see her become a claim for other men to spend. Led by Commander Tarren Vesk, they created a secure compound within Kaha'an where they raised her according to their capabilities. They taught what they knew: combat, strategy, tactical thinking, and survival. They could not teach what they didn't know: what it actually means to rule a living city full of suffering people.
 
 Elara's compound education was thorough within its limits. Commander Vesk oversaw her primary training in strategy and tactics. She received combat instruction that made her genuinely formidable — twenty years of daily practice that the Arol Batae called "the finest warriors in Kaha'an" could provide. She was offered etiquette tutors at age twelve but largely ignored them: "All I wanted to do was learn sword forms." She also received battlefield medicine training, because the Arol Batae believed an empress should understand how to treat injuries in the field.
 
