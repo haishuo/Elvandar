@@ -248,8 +248,6 @@ Farleen, who'd betrayed everything to save him.
 
 Silvanno and Kael, who'd stood by their friend when he needed them most.
 
-And Janice, who was not there.
-
 The Arol Batae, finally fulfilling their twenty-year vigil.
 
 Commander Vesk, his life's mission complete.
