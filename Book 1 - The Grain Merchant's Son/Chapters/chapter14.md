@@ -8,7 +8,7 @@ Farleen moved ahead with practiced caution, choosing their path through narrow s
 
 Too late for that. Xion caught the way eyes lingered on Elara's pack, on his medical bag. They stood out like torches in the darkness—three people who clearly didn't belong here, wandering deeper into a place that devoured the unwary.
 
-A child darted past, bare feet silent on stone, disappearing into an alley before Xion could fully register the movement. An old woman sat in a doorway, her milky eyes tracking them with unsettling precision despite obvious blindness. Somewhere in the distance, metal rang on metal—smithwork or something more violent, impossible to tell.
+A child darted past, bare feet silent on stone, disappearing into an alley before Xion could fully register the movement. An old woman sat in a doorway with an empty bowl in her lap, not begging and not selling, watching them pass the way a person watches weather. Somewhere in the distance, metal rang on metal—smithwork or something more violent, impossible to tell.
 
 "How far until we're less exposed?" Elara asked quietly.
 
@@ -238,11 +238,9 @@ She turned to Elara, and her voice held something desperate beneath the anger. "
 
 "Yes," Elara said simply.
 
-Farleen stared at her for a moment, something like disbelief crossing her face. Then she turned back to Xion.
+Farleen looked between them, something like disbelief crossing her face — two people giving her the same answer for reasons that had nothing to do with each other.
 
-"Yes."
-
-She stared at him for a long moment. "I hope he's worth it. I really do. Because if we die down there, it better be for a damn good reason."
+"I hope he's worth it," she said at last. "I really do. Because if we die down there, it better be for a damn good reason."
 
 Farleen claimed a corner of the room, settling with her back against the wall in a position that let her watch both the door and the window. Her movements were sharp, angry.
 
