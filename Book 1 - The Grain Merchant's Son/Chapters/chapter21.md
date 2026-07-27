@@ -44,7 +44,9 @@ Footsteps behind him. Supplies being set down. Xion turned, saw a collection of 
 
 Everything he needed.
 
-He worked without speaking. Mixed the fever reducer with water. Got it between Tam's lips. More went down this time. The boy swallowed reflexively.
+He took the hand out of its sling first and did it properly — the way he had wanted to do it on the floor of the Iron Hall and hadn't been able to. Opened along its whole length this time, cleaned until the water ran clear, packed, and dressed in linen that hadn't spent a week in the bottom of a bag. It should have been done days ago, in a lit room, by someone with shelves. He did it now, because now was what he had.
+
+Then he worked without speaking. Mixed the fever reducer with water. Got it between Tam's lips. More went down this time. The boy swallowed reflexively.
 
 Good. That was good.
 
@@ -192,7 +194,7 @@ Xion felt his stomach sink. They'd survived Dead Man's Passage. Survived the bra
 
 She was quiet for a moment. Thinking.
 
-"I'll provide safe passage to the surface," she said finally. "Not out of alliance. But because you interest me. A woman who can make that door respond..." She smiled slightly. "That's worth observing."
+"Which is why you'll go up with my people," she said finally. "Not out of alliance. Ronas gave you a straight road to the surface and you didn't walk it, and men like Ronas count that. You'll not get through his levels alone tonight — not the three of you, not carrying a sick child, not after this. My escort makes it somebody else's arithmetic." A brief, dry look. "And because you interest me. A woman who can make that door respond is worth the loan of four knives."
 
 "You're letting us go?" Farleen's voice held disbelief.
 

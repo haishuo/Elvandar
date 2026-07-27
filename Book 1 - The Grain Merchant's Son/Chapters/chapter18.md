@@ -50,7 +50,7 @@ Xion didn't move back. "You're limping. If that gets infected, you'll be off you
 
 Silence.
 
-The escort leader studied him. Then glanced at the injured man. One of the men who'd been in the group that had cornered them earlier, Xion thought, though he couldn't be certain.
+The escort leader studied him. Then glanced at the injured man — and Xion understood, a beat late, exactly which corner this one had come round too fast.
 
 The injured guard's face was tight. Suspicious. "Your *girl's* the one who got me." He jerked his chin toward Elara.
 
@@ -148,7 +148,7 @@ Ronas didn't stand. Just leaned back in his chair, fingers steepled, and watched
 
 The escort leader stopped ten paces from the platform. "Got three from the upper levels, boss."
 
-"I can see that, Cullen." Ronas's voice was surprisingly mild. Conversational. He gestured to the space in front of his desk. "Come closer. Let's have a look at you."
+"I got eyes, Cullen." Ronas's voice was surprisingly mild. Conversational. He gestured at the space in front of his desk. "Bring 'em up. Let's have a look."
 
 Xion moved forward, acutely aware of Elara and Farleen flanking him. His heart was hammering against his ribs, but he kept his breathing steady. Controlled.
 
@@ -160,7 +160,7 @@ Then his gaze settled on Xion, and something shifted in his expression. Recognit
 
 Xion's stomach dropped. "You know who I am."
 
-"Met your father twice. Cartel negotiations, years back. You were there once—younger, quieter, but I remember the face." Ronas's eyes narrowed slightly. "Also heard you've been calling yourself Master Fen down here. Treating the sick. Making quite the reputation."
+"Met your father twice. Cartel negotiations, years back. You were there once—younger, quieter, but I remember the face." Ronas's eyes narrowed slightly. "Also heard you been callin' yourself Master Fen down here. Patchin' people up. Got yourself a name off it."
 
 There it was. Out in the open.
 
@@ -194,7 +194,7 @@ Ronas exhaled slowly, breaking the silence. His gaze moved back to Farleen, reas
 
 Elara said nothing. Her face was still tight.
 
-"Interesting group." Ronas leaned forward slightly, elbows on the desk. "Kemvimore heir. Imperial princess. Water spy. A real headache, 's what you three are." His eyes settled back on Xion. "You've created quite the problem for me, boy."
+"Hell of a set." Ronas leaned forward, elbows on the desk. "Kemvimore heir. Imperial princess. Water spy. A real headache, 's what you three are." His eyes settled back on Xion. "You made me a problem, boy."
 
 Xion's throat was dry. "I didn't mean—"
 
@@ -206,7 +206,15 @@ Ronas was silent for a long moment. "So here's what happens. You take the boy—
 
 Xion blinked. "That's it?"
 
-Ronas raised a scarred eyebrow. "You *sure* you wanna be questioning this, kid?" He sighed. "Listen, you've put me in a bit of a bind here, and this is the easiest way out for everybody. If I kill you and your little friends, I'm gonna be staring down a war with your pops, and I don't think that'll go too well. Plus, half my crew uses Master Fen's services, and if word gets around, that won't be a good look for me. So yeah, 'that's it'."
+Ronas raised a scarred eyebrow. "You *sure* you wanna be questioning this, kid?" He sighed. "Listen. You got me in a bind, and this here's the cheapest way out for everybody."
+
+He held up one thick finger.
+
+"You robbed a house I had men standing in. Don't much care what Vex lost — I care it went missing off my watch, and every broker down here knows it did." A second finger. "Then you come askin' around the Crossroads after my business." A third. "Then she opens up one of mine on her way out of a job you'd no cause to be near in the first place." He let the hand drop. "Three times, inside two days, and every one of 'em with your name somewhere near it. That's not a run of luck, kid. That's a *pattern*, and patterns are what I get paid to notice."
+
+He sat back.
+
+"And still I ain't killin' you. On account of if I do, I'm starin' down a war with your pops, and that don't go well for me neither. And half my crew uses Master Fen's services, and word gets round I put him in the ground — that ain't a good look. So yeah. 'That's it'."
 
 ---
 
@@ -234,7 +242,39 @@ Tam sagged against him, trembling. "I thought—I didn't think anyone would—"
 
 "I'm here." Xion's throat was tight. "I'm getting you out."
 
-Tam nodded weakly. He couldn't seem to stand on his own. Xion shifted, getting an arm around him, taking most of his weight.
+And then the other thing took over, the way it always did, before Xion had decided anything at all.
+
+He got the boy down — a body this empty goes over the moment it stops being held — sat him against a crate and went to one knee in front of him.
+
+"Let me see your hand."
+
+Tam gave it over without being asked twice, the way he had in a back room in the Middle District a lifetime ago. Xion turned it into the torchlight and found what six weeks in a collapsed tunnel had made of his own work.
+
+The stitches were gone. Not cut — some pulled out, the rest simply given up on, the line of the wound opened along most of its length and closed again badly on its own terms. The edges stood thickened and shining, and the whole hand was fuller than its fellow.
+
+"Who's looked at this?"
+
+Nobody answered. He hadn't expected anyone to.
+
+He set the bag open on the brass floor and went to work with what was in it, which was what he had always gone to work with. Five years had taught him the arithmetic: you never had the thing you wanted, you had four things you didn't, and the craft was knowing which four and in what order.
+
+It had to come open. He told Tam so, and told him it would hurt, and did not tell him it would be quick, because it wouldn't be. Then he braced the wrist and worked the wound apart along the line it had already chosen, and pressed either side of it, and got out what had been shut in there since the surface. Tam made a sound. Xion kept talking through it — the weather, the color of a door, whatever came — the way he always talked, and kept pressing until what came was clean.
+
+The flask was light; most of it had gone on Varris's leg an hour ago. He spent what was left flushing the wound instead of putting it in the boy, and hated the trade, and made it. The last of the verbana went in after — ground weeks ago, carried since, nowhere near enough of it. Then he wrapped the hand in linen from the bottom of his bag, the last of what he'd taken off Janice's shelves before the smoke, and bound the wrist and the two fingers either side of the wound, because it would open again every time the boy closed his fist and the only way to stop that was to take the closing away from him. He knotted a sling from the same cloth and set the arm high against Tam's chest.
+
+It was good work. He knew it was good work. He had done it a thousand times with less, in a back room, by the light of one lamp.
+
+Then he laid the backs of his fingers against Tam's forehead and held them there, and the good work stopped mattering.
+
+Warm. Not hot yet. Warm, and going the wrong way.
+
+He had come to it too late. Whatever had been in that hand was in the blood now, and there was no poultice for blood. He could open the hand and clean it and dress it and splint it, and the fever would climb anyway, because it had stopped being about the hand days ago. What he carried could buy hours. It could not buy the boy.
+
+"He needs to be topside," he said — to Cullen, to Ronas, to the room. "Not tomorrow. Tonight."
+
+"That's the arrangement," Ronas said from somewhere behind him, with no particular interest in it.
+
+Tam couldn't seem to stand on his own. Xion shifted, getting an arm around him, taking most of his weight.
 
 Behind them, Ronas was already giving orders. "Cullen, get 'em topside. Market of Sighs, then straight up. Make sure they don't stop."
 
@@ -244,7 +284,7 @@ Xion adjusted his grip on Tam, the boy's weight pressing against his side. This 
 
 After everything—the chase, the ambush, the desperate flight through the tunnels—it felt wrong somehow. Too simple. Like the moment before something breaks.
 
-But Tam was breathing. Warm and solid and alive.
+But Tam was breathing. Solid and alive.
 
 That was what mattered.
 

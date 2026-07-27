@@ -214,17 +214,15 @@ Temple bells, throughout Kaha'an. One, then another, then more. The sound buildi
 
 The empire had an empress again.
 
-In the throne room, Elara sat bathed in ancient light. The Ruby Throne blazing beneath her, the palace alive around her, the wards that had slept for twenty years now awake and acknowledging her claim.
-
 Xion watched, feeling tears he didn't remember starting streak down his face.
 
-Everything they'd fought for. Everything they'd risked. Everything they'd lost and found and survived.
+The light went up through twenty years of dust and made every mote of it visible at once — the whole enormous room suddenly full of slow turning gold, drifting in the shafts from the high windows, stirred by nothing but the light itself.
 
-Culminating here. In this impossible triumph.
+No one had breathed in here since the night it was sealed.
 
-He didn't know what came next. The work of ruling. The political fallout. The complications of three people with tangled feelings trying to figure out what they were to each other.
+It was breathing now.
 
-Tomorrow would bring all those questions and more.
+He didn't know what came next. The work of ruling. The political fallout. Tomorrow would bring all of those and more.
 
 But today—today they'd done the impossible.
 
@@ -232,39 +230,23 @@ Today, the grain merchant's son who'd believed in impossible things while everyo
 
 Watching the hidden princess he'd found prove him right.
 
-The love triangle remained beautifully unresolved. Three people, complicated feelings, no easy answers. But that was for tomorrow.
-
 Tonight, Kaha'an had an empress.
 
-The throne room's ancient light blazed, visible from outside. Through the windows, Xion could see people gathering in the plaza. Watching. Processing. Beginning to understand.
+Elara sat on the Ruby Throne, her face calm, her eyes that impossible Valanar blue.
 
-Everything was about to change.
+Xion made himself look away from her and around the room, because he wanted to be able to remember, afterward, exactly where everyone had been standing.
 
-Elara sat on the Ruby Throne, her face calm, her eyes that impossible Valanar blue, her posture carrying the weight of choice and power and responsibility.
+Commander Vesk had not moved since the doors opened. He stood at the foot of the dais with his hands loose at his sides — not at attention, which in all these weeks Xion had never once seen him fail to be — and his face had come apart in a way a man of that discipline would very likely never permit again as long as he lived. Twenty years arriving all at once, with nowhere to put it. Xion looked away, because it felt like walking in on something.
 
-And standing beside her—not physically, but in spirit—the people who'd made it possible.
+Kael was counting the exits. Of course he was.
 
-Xion, who'd refused to stop believing.
+Silvanno was weeping and not troubling to hide it, and when he caught Xion looking he laughed, wetly, and lifted both hands as if to say *well, what did you expect of me.*
 
-Farleen, who'd betrayed everything to save him.
+Farleen stood a little apart, near the doors, watching the room instead of the throne — because somebody ought to, and because she had never in her life managed to stop.
 
-Silvanno and Kael, who'd stood by their friend when he needed them most.
+Beyond the high windows the plaza was filling. Xion could see them arriving from three streets at once, and stopping, and standing there with their faces turned up at a palace that had been a beautiful corpse for twenty years and was now, unmistakably, lit from within. Somewhere down there was a woman who had knelt on a doorstep in the temple district and made a sound between a sob and a prayer. She would be seeing this too.
 
-The Arol Batae, finally fulfilling their twenty-year vigil.
-
-Commander Vesk, his life's mission complete.
-
-And somewhere in the crowd outside, people like Tam's mother. People who'd survived grinding cruelty. People who'd learned not to hope.
-
-Learning to hope again.
-
-The light continued to pulse through the throne room. The bells continued to ring. And Elara—Princess Elara, Empress Elara, the last of House Valanar—sat on the throne her family had held for generations.
-
-Not because she'd simply claimed it.
-
-Not because she had the right blood or the divine sanction or the military force.
-
-But because she'd proven herself worthy. Through trials ancient and modern. Through choosing to see her city's suffering rather than hiding from it. Through walking into the darkness to understand what she'd rule.
+The light went on pulsing through the throne room. The bells went on ringing across the city, one tower taking it up from the next, all the way down to the harbor.
 
 The grain merchant's son had asked himself a question weeks ago, watching a woman's eyes change color in a crowd: *What if she's real?*
 

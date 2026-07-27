@@ -68,17 +68,25 @@ For a heartbeat, neither moved.
 
 Then Elara attacked.
 
-The opening exchanges were beautiful in a way Xion didn't have words for. Two trained fighters testing each other, strikes and blocks flowing like conversation. Elara demonstrated genuine skill—twenty years of Arol Batae training evident in every precise movement. Her footwork was exact, her strikes controlled but powerful, her defense solid.
+Xion lost the first exchange entirely. It went past at a speed his eye had no purchase on — the same way three men in the Tiers had gone past — and when it ended the two women stood a pace from where they'd begun and he could not have said what had happened in between.
 
-Xion could see the precision, the discipline, movements he'd never witnessed from her before. This was what the Arol Batae had spent two decades teaching her. This was what made her dangerous.
+So he stopped trying to watch it as fighting, and watched it the only way he had ever known how to watch anything.
 
-But then he noticed something else.
+Bodies. He could read bodies.
 
-Sa Ko seemed... relaxed. Not struggling. When Elara's strikes landed—and they did land, Xion saw them connect—Sa Ko simply absorbed them. Barely bothering to block. Taking the impacts on shoulders, arms, sides, without apparent concern.
+Elara's weight stayed on the front foot a beat too long after each combination — she was committing, which meant she was trying to end it. Her guard came back a finger lower every time it came back. And her breathing had begun to climb; not badly, not yet, but he had counted enough chests in his life to catch a rate change from across a room.
 
-Xion's medical training recognized the body language. The lack of tension. The measured breathing. This was someone not fully engaged, not exerting themselves, not—
+Sa Ko Ren's had not moved at all.
 
-Sa Ko was holding back.
+Then Elara got through, and that one he saw whole, because it was slow enough to see. A feint high. The real thing driving up underneath the older woman's arm, into the short ribs.
+
+It was a good strike. It was the strike you throw when you mean to end a thing.
+
+Days ago Xion had knelt on a dirt floor in the Warrens and wrapped ribs that had met a wall with less behind them than that, and he knew — precisely, the way he knew the colour of an infection — what it ought to have cost.
+
+Sa Ko took it. Her breath went out through her nose. Her feet did not move.
+
+And Xion understood, and the understanding sat cold under his sternum. She was not defending herself. She had not been defending herself since the first step. She was standing in the middle of that circle letting Elara Valanar hit her, and taking the readings.
 
 The question was whether Elara knew.
 
@@ -98,11 +106,11 @@ More aggressive now. Taking risks. Combinations that left her exposed but might 
 
 Xion's hands clenched. She was going to get hurt. Sa Ko could end this whenever she wanted, and Elara kept pressing like she could somehow force a victory through sheer determination.
 
-But that was exactly the point, wasn't it? Not trying to win anymore. Trying to prove something else. Something about will. About refusing to surrender even when outmatched. About fighting for what you claimed even when victory was impossible.
+The exchanges grew more intense. Elara adapted as she fought, learning Sa Ko's patterns, making the older woman work for what she took. And Xion, who could not stop doing it any more than he could stop breathing, kept the tally: the left forearm that would be black by morning, the hip she had begun favouring by a degree she did not know she was favouring, the shoulder she had stopped raising past a certain height.
 
-The exchanges grew more intense. Elara adapting even as she fought, learning Sa Ko's patterns, forcing the older woman to work for it. Still hopelessly outmatched, still obviously losing, but making Sa Ko earn every exchange.
+Nothing broken. Nothing that wouldn't mend.
 
-Xion saw what Sa Ko was measuring. Not skill—Elara had already demonstrated that. Not technique—the Arol Batae training spoke for itself. This was about something deeper. About what you did when you knew you couldn't win but fought anyway. About proving your worth through determination rather than victory.
+Yet.
 
 Minutes passed. Felt like hours. Elara was breathing hard now, sweat-soaked, but still attacking. Still refusing to quit. Still standing ready after every exchange like she believed the next strike might change everything.
 

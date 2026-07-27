@@ -6,7 +6,11 @@ That was the first wrongness, and for two days Xion told himself it meant nothin
 
 What came instead was a body in an alley in the Surface Warrens.
 
-Kael's contacts on the Warrens' upper edge brought it to him, secondhand and a day stale. One of Ronas's men, dead, over nothing anyone could name. Then another — not Ronas's this time, a porter, a nobody. Then a stall burned down to its posts with a family's whole livelihood inside it, and the family beaten and told nothing, because there was nothing to tell. Then more. Silvanno's channels caught the shape of it in the nervous chatter of the Noble District; Farleen walked the edge of it herself and came back quiet. Over three days the reports piled on the little table, and Xion did the thing his father had made him able to do. He looked for the plan.
+Kael's contacts on the Warrens' upper edge brought it to him, secondhand and a day stale. One of Ronas's men, dead, over nothing anyone could name. Then another — not Ronas's this time, a porter, a nobody. Then a stall burned down to its posts with a family's whole livelihood inside it, and the family beaten and told nothing, because there was nothing to tell. Then more. Silvanno's channels caught the shape of it in the nervous chatter of the Noble District; Farleen walked the edge of it herself and came back quiet.
+
+What she said, when she said anything, was the part that stayed with him. The Surface Warrens had always run on a kind of arithmetic — who you were, who you belonged to, what it would cost a man to touch you. A good coat bought you passage. A cartel name bought you more. It was an ugly system and it was a system, and everybody down there could do the sum in their head from ten paces.
+
+"It's not being done anymore," she said. "Nobody's counting. I watched a man in Larannas livery get put through a shopfront on Tuesday and the four who did it didn't even go through his pockets after." She had looked at Xion then, in the particular way she had. "That's what's changed. It isn't that it's violent. It's that it's stopped being *for* anything." Over three days the reports piled on the little table, and Xion did the thing his father had made him able to do. He looked for the plan.
 
 There wasn't one.
 

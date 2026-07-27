@@ -100,6 +100,8 @@ But Elara wasn't done.
 
 "You want to talk about endangering people?" Her eyes flashed. "Fine. Let's talk about it. You treat slavers at your clinic, Xion."
 
+And Xion watched her pick it up — the same weapon, off the same shelf, from a public square in the Crossroads with Farleen telling them to take it somewhere less exposed. She knew where it was. She had known exactly where it was the whole time, and she had reached for it because the first time it had gone in.
+
 His stomach dropped.
 
 "People who kidnap children. People like the ones who took Tam." Her voice was sharp. Cutting. "You heal them. Fix their wounds so they can go back out and do it again. So don't talk to me about endangering innocent people."
@@ -223,6 +225,22 @@ Elara's face crumpled. "I'm sorry."
 They stood there in the fading light. Both exhausted. Both hurt. Both trying to find their way back to each other.
 
 "I understand now," Elara said finally. "Why you can't choose. Why it matters so much."
+
+She was quiet a moment. Then, carefully, the way a person handles something that might come apart:
+
+"Today you carried a boy up out of the Warrens and put him back in his mother's arms."
+
+He didn't answer.
+
+"You told me you stood at her grave and promised you'd never stand still again." Her eyes searched his face. "You didn't stand still. Not today."
+
+The words went into him and found nothing to hold on to.
+
+He knew she was right. He could set it out the way he'd set out a case—the boy was alive, the boy was home, the boy would grow up and get old and one day tell someone about this. Every part of it true. And none of it reached the place it was meant to reach.
+
+"Thank you," he said, because that was what you said.
+
+Something moved across Elara's face. She had expected the words to land somewhere, and they hadn't, and she didn't know why.
 
 "And I understand why you're frustrated with me. Why you want me to take a stand." Xion managed a tired smile. "We just… we see the world differently."
 

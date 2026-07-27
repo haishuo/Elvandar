@@ -38,7 +38,7 @@ He leaned forward, excitement finally breaking through his exhaustion. "If this 
 
 The silence that followed felt deafening. Silvanno stared at him, mouth slightly open. Kael's expression shifted from confusion to concern.
 
-Farleen reached out and touched his arm gently. "Xion, you've been through something traumatic. Watching that boy get taken—"
+Farleen set down her cup. "Xion, you've been through something traumatic. Watching that boy get taken—"
 
 "Another one?" The words escaped Silvanno, tinged with exhaustion rather than excitement. "C'mon Xion, the last 'Princess Elara' had colored lenses in her eyes—not that it fooled anyone for long."
 
@@ -52,7 +52,7 @@ Xion's heart skipped at the contact, but he forced himself to focus. Her concern
 
 "I know you think you know what you saw," Silvanno replied gently. "But Xion, think about it. You were watching a kid get dragged away by Slavers. Your emotions were running high. Maybe the light was strange, or maybe someone in the crowd had those colored glass drops we've seen before."
 
-He reached across the table, his expression genuinely concerned. "I'm not saying you're lying. I'm saying maybe your mind filled in details that weren't really there."
+He spread his hands, his expression genuinely concerned. "I'm not saying you're lying. I'm saying maybe your mind filled in details that weren't really there."
 
 Xion felt his shoulders sag slightly. "I know. I know that's what I'm *supposed* to think, and trust me, I spent all last night trying to convince myself of exactly that. Why do you think I looked like hell when you walked in?" A wry grin flickered across his face before disappearing. "Sil, buddy... you know I wouldn't bring this up to you guys if I wasn't *sure*."
 

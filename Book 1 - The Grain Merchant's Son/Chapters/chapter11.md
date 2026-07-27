@@ -30,7 +30,7 @@ He watched her process this, saw the moment everything clicked into place. The w
 
 "Yes."
 
-"The one whose name the Slavers used to fabricate Tam's debt." Her eyes flashed amber before she caught herself. "The one who tried to save him while I just stood there and watched."
+"The one whose name the Slavers used to fabricate Tam's debt." She said it flatly, the way she'd said *a sporting chance* to a man in a snake mask. "The one who tried to save him while I just stood there and watched."
 
 "You didn't just stand there. You wanted to help. I saw it in your face, in the way you moved forward before catching yourself." Xion set down the lamp. "You lost control because you cared. That's why I looked for you. That's why I knew you were real."
 
@@ -188,7 +188,7 @@ She understood.
 
 Xion lay on his makeshift bed and listened to Elara's breathing gradually slow and deepen. Tomorrow they'd have to plan their next move, figure out where to go when the clinic inevitably became unsafe. Tomorrow they'd need to deal with guards and cartels and the consequences of her eyes revealing everything.
 
-But tonight, in this small space that represented everything he'd tried to be for the past ten years, he let himself feel something close to peace.
+But tonight, in this small space that represented everything he'd tried to be for the past five years, he let himself feel something close to peace.
 
 The grain merchant's son and the hidden empress, two people with secret identities and impossible dreams, finding unexpected shelter in the simple work of healing.
 

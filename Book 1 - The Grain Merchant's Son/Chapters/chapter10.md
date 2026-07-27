@@ -46,7 +46,7 @@ Four nobles clustered around one of the ballroom's many water features, their la
 
 They watched as one of the young nobles—a woman in an elaborate bird mask—gestured expansively with her wine glass, sloshing expensive vintage onto the marble floor. A servant appeared instantly to clean it, and the woman didn't even glance down.
 
-Elara's eyes flashed amber before she caught herself.
+Elara set her glass down on a passing servant's tray with great care, as though it were the one thing in the room she could still govern.
 
 "Dance with me," Xion said quickly, offering his hand. "Before you forget where we are."
 
@@ -70,9 +70,9 @@ The storyteller's audience found it hilarious.
 
 "I don't care."
 
-"Yes, you do." He met her eyes, saw them cycling—blue to amber to violet and back. "You care about changing this. And you can't change what you don't understand."
+"Yes, you do." He met her eyes. They were blue, and holding them blue was visibly costing her. "You care about changing this. And you can't change what you don't understand."
 
-She took a shuddering breath, forcing her eyes back to blue. "Then help me understand. Make me see what you see when you look at them."
+She took a breath and held it, the way she'd practiced. "Then help me understand. Make me see what you see when you look at them."
 
 The music shifted to something livelier, and new couples joined the floor. Xion guided Elara to the edge of the ballroom, claiming a small table in an alcove where they could observe without being surrounded.
 
@@ -82,7 +82,7 @@ The music shifted to something livelier, and new couples joined the floor. Xion 
 
 "Either they adapt—find ways to live with the contradiction—or they're destroyed by it." He thought of people he'd known who'd tried to push back, who'd challenged the system in small ways. None of them had ended well. "The system doesn't tolerate dissent."
 
-A new couple swept past their table—a man in an elaborate hawk mask partnered with a woman whose gown probably cost more than Xion's clinic earned in a year. They were laughing about something, their ease with each other speaking to long familiarity.
+A new couple swept past their table—a man in an elaborate hawk mask partnered with a woman whose gown probably cost more than Xion had ever managed to spend on the clinic in a year. They were laughing about something, their ease with each other speaking to long familiarity.
 
 "Lord Terrik and his wife," Xion identified. "Grain cartel, allied with my father. They donate generously to the temples, sponsor festivals, fund public works."
 
@@ -119,6 +119,26 @@ Rosik's gaze swept the ballroom, and for a horrible moment, Xion thought it migh
 "We should circulate," Xion said. "Staying in one place too long invites questions."
 
 They moved through the crowd, Xion introducing Elara to carefully selected nobles—people unlikely to have connections to Uratha, whose conversation would be predictable and safe. Elara played her part perfectly, the slightly bored merchant's daughter evaluating Kaha'an's social scene with polite interest.
+
+Tania Larannas found them at the refreshment tables, and Xion understood at once that it was not chance. She had been the length of the ballroom away five minutes ago. Hosts did not drift.
+
+"You've hardly let her out of your sight all evening," she said to Xion, pleasantly. And then, to Elara: "He hasn't, you know. I have been watching."
+
+Every word of it was true. None of it was true for the reason Tania meant. Xion felt the floor of the lie shift very slightly beneath him.
+
+He had spent three days preparing Elara for the insults. Three days on the fan and the wine glass and the art of answering condescension with condescension — and not one minute, in all of it, on what to do when somebody was *kind* to her about him. There had been no lesson for that. He had not thought of one, and standing here, he understood precisely why he hadn't.
+
+"Should I have?" he said. Light. Nothing under it.
+
+"Oh, quite the contrary. It's the first interesting thing your house has done in a year." Tania's eyes moved to Elara and stayed there a beat longer than the question warranted. "Lady Sarif. Between the two of us — is he attentive, or is he merely thorough? One does like to know which sort one is dealing with. Before anything is settled."
+
+The whole of the training was for this, and none of the training covered it. Xion did not look at Elara. Looking at her would have made it worse.
+
+"Both, I think," Elara said. "He's very difficult to distract."
+
+Tania laughed, delighted, and filed whatever she had come for, and went away to her other guests entirely satisfied — and did not appear to notice that in the length of the entire exchange neither of them had once looked at the other.
+
+They had survived it. Xion was reasonably sure they had survived it. He was considerably less sure what they had just survived, or why it had cost him more than the whole hour before it.
 
 But Xion could feel the tension building in her. Every wasteful display, every casual cruelty, every moment of oblivious privilege added weight to her already strained control.
 
@@ -186,17 +206,17 @@ The group turned to regard her, surprise evident even behind their masks.
 
 "It's tradition," the snake-masked noble explained. "Admittedly evolved from its origins, but tradition nonetheless. The hunt builds camaraderie, allows nobles to demonstrate skill—"
 
-"By murdering human beings for entertainment."
+"How resourceful of you."
 
-The temperature in the conversation dropped precipitously. Xion reached for Elara's arm, but she'd already stepped forward, her posture shifting from bored socialite to something far more dangerous.
+She said it lightly. Xion, who had spent three days teaching her to say things exactly that lightly, felt the floor tilt.
 
-"My dear lady," Tervan said, his indulgence curdling into condescension. "I can see you're unfamiliar with how we maintain order in Kaha'an. Perhaps in Uratha—"
+"I imagine the wagering is the difficult part." Elara turned her wine glass a quarter turn, the way he'd shown her, the way a woman does when a conversation has begun to bore her. "So hard to set fair odds. When the field is starving."
 
-"In Uratha, we don't consider hunting people a social activity."
+For a moment—a heartbeat, no more—it landed as wit. Tervan's mouth moved toward a smile. The snake-masked noble began to laugh.
 
-"Then perhaps Uratha has grown soft." The snake-masked noble's voice hardened. "We do what's necessary to maintain civilization. If that offends your delicate sensibilities—"
+Then he stopped, because he had looked at her eyes.
 
-Xion saw it happening and couldn't stop it. Elara's eyes flashed amber, then violet, cycling through colors with her rising rage. 
+She was still smiling. Her voice had not changed. Her hand on the glass was perfectly steady, and her eyes had gone amber, then violet, cycling through the colors with nothing behind them she could reach.
 
 The conversation stopped mid-word.
 
@@ -244,12 +264,10 @@ They dropped together into the alley beyond, landing hard but rolling to absorb 
 
 "Where?" Elara asked.
 
-"Anywhere but here," Xion replied quickly. His mind raced. "The clinic—we can lay low there for a bit. They won't be looking for us there."
+"The clinic."
 
-"We've already put your friend Master Fen in enough danger," Elara objected, even as they dashed through the streets.
+"We've already put your friend Master Fen in enough danger."
 
-"I don't have time to explain," Xion shouted back, as they stormed away from the Larannas estate. "Just keep up, I promise I'll tell you everything."
+"I know." He didn't slow down. "Ask me again when we're inside."
 
-Xion swore he could hear something suspiciously close to "You damn well better" coming from Elara's direction, but when he glanced back her face betrayed nothing.
-
-They ran through the darkening streets as behind them, the alarm bells began to ring.
+Behind them the alarm bells began—the Larannas house first, then the bells of the district taking it up, then the whole Noble Quarter ringing into the dark. Xion ran, and understood as he ran that whatever they had been doing in this city until tonight, they were not doing it anymore.

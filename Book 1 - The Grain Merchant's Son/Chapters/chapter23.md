@@ -46,6 +46,28 @@ His voice caught. He stopped himself, jaw working.
 
 "Just tell me what's going on." Silvanno's hand tightened on his shoulder. "Please. Before I lose my mind."
 
+"We started at the clinic," Kael said.
+
+It was the first thing he'd said since coming through the door. Xion turned.
+
+"It burned." Kael's voice was flat and careful, which was how Xion understood what was coming. "Four nights ago. The weaver's shop and two buildings either side of it, before the water crews got there."
+
+The room tilted, very slightly.
+
+"Janice," Xion said.
+
+"Grain cartel men brought her out the front before it caught properly. That's what the neighbours say. Walking. Hands bound." Kael didn't look away from him. "We've asked everywhere since. The Accounting Office has no record. The debtors' halls have no record. Silvanno's mother made inquiries and was told there is no such person." A pause. "She isn't anywhere, Xion."
+
+Xion looked down at his hands.
+
+He had not thought about her since the smoke. Four days — the Tiers, the Crossroads, the Iron Hall, the whole black length of Dead Man's Passage with a dying boy on his shoulder — and the woman who had given him his name had not once entered his head.
+
+"She burned the patient records," he said. "Before they got in. So they couldn't use the names."
+
+"She what?" Silvanno said.
+
+But Xion had already turned away.
+
 Xion tried to find the words. How did you explain infiltrating the Arol Batae compound, Farleen's betrayal, finding the actual princess, descending into the Warrens, rescuing Tam, the divine trial, the Long Knives, all of it?
 
 The words came out jumbled. Disjointed. He kept having to backtrack, to fill in context Silvanno and Kael didn't have.
@@ -136,39 +158,63 @@ The compound gates stood open. Guards in deep blue imperial colors watched their
 
 Xion's heart hammered as they crossed the threshold. Last time he'd been here, he'd been running for his life. Now—
 
-Commander Vesk waited in the courtyard.
+Commander Vesk was waiting in the courtyard.
 
-The fury on his face made Xion instinctively step closer to Elara. But as Vesk strode toward them, Xion realized the anger wasn't directed at her presence. It was something else. Fear bleeding into relief, carefully controlled rage masking profound emotion.
+He was not pacing. Xion had expected pacing and got instead a man standing perfectly still in the middle of a swept expanse of stone, hands behind his back, in the deep blue — as though he had taken up that position on the morning she left and had merely been interrupted, occasionally, by the requirements of running a fortress.
 
-"You survived." Vesk's voice was rough, like he'd spent days shouting orders. Or not sleeping. "You learned what we couldn't teach you."
+He waited until they were close enough that he did not have to raise his voice. That was the first frightening thing.
 
-He stopped three paces away, studying Elara with the intensity of someone confirming something they'd desperately hoped for.
+"Fourteen days," he said.
 
-His jaw worked for a moment before he continued. "We thought you were dead. Again. Do you have any idea what that did to the men who swore to protect you?"
+Elara said nothing.
 
-The words came out raw. Accusatory. But underneath the anger, Xion heard the fear that had been eating at Vesk for weeks.
+"We searched the Merchant Quarter twice. We searched the docks. I sent men into the Warrens who did not want to go and I sent them anyway, and two came back hurt, and one came back and could not tell me where he had been." His voice did not rise. It was worse for not rising. "On the fifth day I had a boat emptied to the boards at the river gate because a man told me a woman of your description had taken passage north. We opened forty crates of dried fish in front of a furious captain. I apologised to him personally. I would do it again tomorrow."
 
-"Now we finish what we started twenty years ago."
+Xion, standing a pace behind, understood that he was hearing something prepared. Somewhere in those fourteen days Vesk had begun composing what he would say if he ever got the chance, and here it was, and he was going to deliver the whole of it.
 
-The words carried the weight of two decades. Of waiting. Of preparation. Of a life's purpose finally within reach.
+"On the ninth day an officer of mine used the word *body*." Something moved then, under the flatness. "In the search plan. He said it because after nine days it is the correct word, it is what a competent man says, and I put him against a wall for saying it. He was right. I was wrong. I have not apologised to him yet."
 
-Elara straightened, meeting his gaze steadily. "I'm ready."
+He let that sit exactly as long as it needed to.
 
-"Are you?" Vesk's eyes were hard. "You left. You abandoned our protection. You risked everything we've worked for on—" He gestured at Xion. "—a stranger's promise to show you the city."
+"We are the men who were standing in the room," he said. "On the night. That is what the Arol Batae are — not the guard of the imperial house. What is left of the guard that was in the room and did not stop it."
 
-"Not a stranger." Elara's voice was calm. "The man who found me when everyone else had given up looking. The man who helped me see what you couldn't show me."
+He did not say anything further about the room. Xion had the sense that nobody in this compound ever did.
 
-"What we couldn't—" Vesk's jaw tightened. "We kept you alive. We kept you safe. We prepared you for—"
+"And you went out a side gate," Vesk said, "and let us live it a second time."
 
-"For a throne I didn't understand." Elara cut him off, but gently. "You taught me strategy, combat, politics. Everything an empress should know. But you couldn't teach me what it means to actually rule Kaha'an. Not from inside these walls."
+Then his eyes moved, for the first time, past her — to Xion — and Xion felt the full professional weight of that attention land on him like a hand.
 
-Vesk was silent for a long moment. Then: "And now you know?"
+"On a stranger's promise to show you the city."
 
-"Now I know enough to try."
+"Not a stranger." Elara's voice was calm and did not hurry. "The man who found me when every other soul in Kaha'an had agreed I was dead. The man who showed me what you couldn't."
 
-Something shifted in Vesk's expression. Not quite approval, but acceptance. Recognition that the girl he'd spent two decades protecting had become someone capable of making her own choices.
+"What we couldn't." Vesk's jaw set. "We kept you alive. We kept you *breathing*, for twenty years, in a city that would have paid a great deal for you not to be. We prepared you—"
 
-"Then come inside," he said finally. "We have work to do."
+"For a throne I didn't understand." She cut him off, but gently. "You taught me strategy and combat and court politics and everything an empress is supposed to know. You could not teach me what it is to rule Kaha'an. Not from inside these walls. Nobody could have. That isn't a failure of yours."
+
+"And now you know."
+
+"Now I know enough to begin."
+
+"That is not an answer."
+
+"No," Elara agreed. "It's an account. You taught me to give one."
+
+And then she did — and it was not what Xion had braced for, and from the way the courtyard went quiet it was not what anyone else had either.
+
+"I didn't think about you," she said. "That's the part I'd take back. Not the leaving; I'd leave again, and you would hate it, and I'd do it anyway, because I was no use to anyone in here. But in fourteen days I did not once sit down and think about a hundred and forty-seven men searching a city for me in the dark. I thought about what I'd find and what I'd do with it and what sort of empress it would make me." She held his eyes. "You're mine. I didn't understand that when I went out that gate. I do now. Next time you'll be told."
+
+Vesk's jaw worked.
+
+Whatever he had prepared for across fourteen days, it had not been that. Xion watched it happen the way he watched everything — the breath going out through the nose, the shoulders coming down half an inch, the particular moment a body stops bracing. He had seen it a thousand times in the doorways of sickrooms, in people who had been holding a thing up alone for longer than they could manage and had just been given permission to set it down.
+
+"Then we finish what we started twenty years ago," Vesk said.
+
+It came out rough. It carried two decades in it — the waiting, the preparation, a life's purpose arriving at last within reach of a man who had begun to believe he would not live to see it.
+
+Elara straightened. "I'm ready."
+
+"We'll see." But something had gone out of him that was not going to come back today. He turned toward the main building. "Come inside. We have work to do."
 
 ---
 
