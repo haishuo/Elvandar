@@ -120,6 +120,26 @@ Rosik's gaze swept the ballroom, and for a horrible moment, Xion thought it migh
 
 They moved through the crowd, Xion introducing Elara to carefully selected nobles—people unlikely to have connections to Uratha, whose conversation would be predictable and safe. Elara played her part perfectly, the slightly bored merchant's daughter evaluating Kaha'an's social scene with polite interest.
 
+Tania Larannas found them at the refreshment tables, and Xion understood at once that it was not chance. She had been the length of the ballroom away five minutes ago. Hosts did not drift.
+
+"You've hardly let her out of your sight all evening," she said to Xion, pleasantly. And then, to Elara: "He hasn't, you know. I have been watching."
+
+Every word of it was true. None of it was true for the reason Tania meant. Xion felt the floor of the lie shift very slightly beneath him.
+
+He had spent three days preparing Elara for the insults. Three days on the fan and the wine glass and the art of answering condescension with condescension — and not one minute, in all of it, on what to do when somebody was *kind* to her about him. There had been no lesson for that. He had not thought of one, and standing here, he understood precisely why he hadn't.
+
+"Should I have?" he said. Light. Nothing under it.
+
+"Oh, quite the contrary. It's the first interesting thing your house has done in a year." Tania's eyes moved to Elara and stayed there a beat longer than the question warranted. "Lady Sarif. Between the two of us — is he attentive, or is he merely thorough? One does like to know which sort one is dealing with. Before anything is settled."
+
+The whole of the training was for this, and none of the training covered it. Xion did not look at Elara. Looking at her would have made it worse.
+
+"Both, I think," Elara said. "He's very difficult to distract."
+
+Tania laughed, delighted, and filed whatever she had come for, and went away to her other guests entirely satisfied — and did not appear to notice that in the length of the entire exchange neither of them had once looked at the other.
+
+They had survived it. Xion was reasonably sure they had survived it. He was considerably less sure what they had just survived, or why it had cost him more than the whole hour before it.
+
 But Xion could feel the tension building in her. Every wasteful display, every casual cruelty, every moment of oblivious privilege added weight to her already strained control.
 
 Near the garden entrance, they encountered Silvanno.
