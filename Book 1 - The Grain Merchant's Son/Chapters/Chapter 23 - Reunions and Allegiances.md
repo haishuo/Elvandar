@@ -58,7 +58,7 @@ The room tilted, very slightly.
 
 Xion looked down at his hands.
 
-He had not thought about her since the smoke. Four days — the Tiers, the Crossroads, the Iron Hall, the whole black length of Dead Man's Passage with a dying boy on his shoulder — and the woman who had given him his name had not once entered his head.
+He had not thought about her since the smoke. Four days — the Tiers, the Crossroads, the Iron Hall, the whole black length of Dead Man's Passage with a dying boy on his shoulder — and the woman who had given him the back of her shop for eight years and never once asked whose son he was had not entered his head.
 
 "She burned the patient records," he said. "Before they got in. So they couldn't use the names."
 

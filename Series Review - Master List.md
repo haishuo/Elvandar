@@ -181,6 +181,7 @@ happened,"* it predates this revision.
 
 - **She never says "Xion" or "Kemvimore."** Her knowledge lives only in what she declines to ask (*"I've never asked where the money comes from"*).
 - **Mira gives him the practice; Janice gives him the cover.** Values from one, tradecraft from the other.
+- **Janice did not name him. She told him he needed a name.** The distinction is the relationship. Her instruction was *"You can't keep that name. Not if you want to keep doing this"* — a systems correction, delivered by a patient to her healer before she owed him anything. The word itself is Xion's, and it is Mira's: *"Fen. Master Fen."* Her answer is only *"Welcome, Master Fen."* So she **authored the security and witnessed the christening**, and that is why "Fen" in her mouth is not a nickname — it is the name she was present for, still in use eight years later, while she has never once said the other one aloud. B1 ch23 originally called her *"the woman who had given him his name"*, which collapses the two halves and hands Mira's gift to Janice; corrected 2026-07-27. If it recurs, the fix is not to re-attribute the name but to say what she actually gave him — the room, the years, and the questions she declined to ask.
 - **Janice never absolves him.** She stays operational permanently. Comfort about Mira would be doing Mira's work and deflates both characters.
 - **ch13's "My choice" is a gift, not a claim of authority and not noble sacrifice.** Xion's *"I can't let you do that"* must read as guilt (*whatever happens to you becomes mine to carry*), never permission-granting. Her answer closes the copper argument by conceding it: *"I'm giving you something. You don't get to write it down."*
 - **Confirmed:** her injury is failing eyesight, not hands (hands are used three times already — Tam, Korvin, Xion's own). It explains her front-of-house role, unpicking by feel, and the ch1 line about holding work up to the light and squinting. **Use lightly.** Her defining discipline is *not looking* (*"I've never asked where the money comes from"*), so blindness literalizes it — a rule 4 resonance that should never be pressed.
@@ -286,7 +287,7 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
 1. Rewrote ch1 to use Janice as Xion's foil (1,341 → ~2,190 words)
 2. Added `People/Mistress Janice.md`
 3. Gave Janice presence in ch7 (present, silent, complicit)
-4. Established Janice as Xion's first patient and the origin of the Fen name
+4. Established Janice as Xion's first patient, and as the one who told him he needed a false name — he chose "Fen" himself, for Mira
 5. Gave Janice the ch13 raid — she burns the patient logs and is taken
 6. Returned Janice to the narrative in ch23 (Kael reports the fire and her arrest)
 7. Closed Xion's ch22 beat — Elara offers absolution and he cannot take it
