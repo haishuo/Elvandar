@@ -88,7 +88,7 @@ The first reason is *true*, which is precisely what lets the second one hide beh
 
 **This is the same trait as the ledger** ([below](#2-cross-book-threads)) — he pays in and never draws. Janice's gift and Elara's absolution are refused for the identical reason he will not argue on his own behalf: he does not count himself among the people owed anything. B1 ch11's *"he left it shut"* is the one exception in two books, which is why it carries the weight it does.
 
-**Why he doesn't count himself** is in the Xion guardrail at [§5](#xion--the-mira-moment-b1-ch22-rewritten-2026-07-27), under *the verdict* — and note the asymmetry it produces: **Rosik is the only silence he lets himself off for.** He can exempt one. He declines to exempt the rest.
+**Why he doesn't count himself** is in the Xion guardrail at [§5](#xion--the-mira-moment-b1-ch22-rewritten-2026-07-27), under *the verdict*. Note that the Rosik silences are **not an exemption he grants himself** — in his own accounting they are not the same act and never arise, because there was nobody else in the room.
 
 **Not the cold, and not inherited — author's ruling.** B2 ch5 puts it on the page in the warm stretch, long before the cold arrives: accused in the study of turning Elara against the Coterie, Xion has the reply *"whole and sharp, sitting behind his teeth"* — and swallows it, because *"**Rosik did not lose arguments — he fed on them**, turned every true thing you set in front of him into more ground to stand on."* That is Xion's own twenty-three years of data, stated flat.
 
@@ -223,10 +223,14 @@ concludes it anyway. Three things follow, and all three are load-bearing.
 above are not repetitions — they accumulate, and every one is worse *for him* than the last, regardless
 of what was actually at stake.
 
-**He is capable of exempting a silence, and does — for Rosik, and only for Rosik.** There he accepts the
-defence and does not enter it against himself. Which means the refusal everywhere else is not an
-inability to reason himself out of blame. He has that capacity and demonstrably uses it. **Do not write
-him as a man who cannot see the excuses. He sees them. He declines them.**
+**The rule is narrow, and absolute inside its bounds:** *somebody else needed me to speak and I didn't.*
+No defence is admissible against it. **The Rosik silences are not an exemption from that rule** — they
+are not the same act, so in his own accounting they never come up at all. There was nobody else in the
+room. He is right about that, and writing it as special pleading makes him inconsistent, which he is not.
+
+**And he sees the excuses.** He can state each one in full — he does exactly that before rejecting it,
+and says outright that he could produce every excuse in the world. **Do not write him as a man blind to
+the argument.** He is not persuadable, which is a different thing and a worse one.
 
 **And the verdict is doing work for him** — this part is a reading, but it holds everything else
 together. If cowardice is simply what he is, then eight years of Master Fen is restitution and the whole
