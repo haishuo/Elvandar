@@ -250,5 +250,7 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
   - All 107 multi-word italics untouched, including the letters (the Imperial Secretariat
     reply) and interior monologue.
   - Verified: with asterisks stripped, every chapter file is byte-identical to its prior state.
+- Added `Tools/royalroad_export.py` and a generated `Royal Road/` folder per book (46 files) —
+  paste-ready HTML for posting. Regenerate after any prose edit; never hand-edit the output.
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
