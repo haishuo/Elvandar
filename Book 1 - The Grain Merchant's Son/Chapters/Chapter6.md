@@ -38,55 +38,43 @@ Elara's eyes flashed amber before she caught herself. "How long has this been th
 
 She was quiet for a long moment, watching the Water cartel guard turn away another supplicant. "What else should I see?"
 
-They continued deeper into the Middle District, where the real texture of life under cartel rule became apparent. At a public notice board, Xion showed her the official proclamations—all issued "by order of the Imperial House of Valanar" and bearing what purported to be her family's seal.
+He took her deeper into the Middle District, and it was a public notice board that stopped her.
 
-"New taxation schedules," he read. "Updated merchant licensing requirements. Revised debt collection procedures." He gestured to the elaborate signature at the bottom. "All signed with your name."
+It was nothing to look at — a stretch of boarded wall at a street corner, papered over in layers, the older proclamations gone soft and grey beneath the newer ones. People passed it without turning their heads. Xion had passed it ten thousand times.
 
-Elara stared at the documents, her face pale. "They've been ruling in my name for twenty years. Every policy, every cruelty—it's all been done with my family's authority."
+"Read the top of them," he said.
 
-"That's why your return changes everything. You could repudiate all of this, start fresh."
+She read. And then she read the second one, and the third, and he watched her go still in a way he had not seen her go still before.
 
-"Or I could be seen as the puppet who signed these orders." Her voice was bitter. "How do I prove I'm not just another tool of the cartels?"
+Every sheet on that wall opened the same way. *By order of the Imperial House of Valanar.* Beneath it, in each case, the seal — a good copy, or near enough that nobody in this street would ever have cause to test it. And beneath that, the business of the thing. New taxation schedules. Revised licensing requirements for merchants. Amended procedures for the collection of debt, and the terms of indenture available to those unable to satisfy a collection, and the schedule by which such indenture might be sold.
 
-Before Xion could answer, a commotion erupted near the notice board. Three men in brown leather—Slavers' colors—had surrounded a middle-aged merchant.
+"That's what puts the men in brown leather on that corner," Xion said quietly. "Not the men. That paper. They don't invent the debts because they're cruel — they invent them because that sheet sets a number they have to reach by the quarter, and it's easier to write a debt than to find one." He nodded at it. "Everything you've watched today was authorized. In writing. Publicly. Somebody stood exactly here and read the authorization and went to work."
 
-"You’re behind again, friend," the largest enforcer was saying, waving an official-looking document. "Twelve silver, or we take the shop.”
+Elara did not answer for a long moment.
 
-"I paid my rent last week!" the merchant protested. "And I've never taken any loans!"
+"They've been signing with my name," she said. "For twenty years."
 
-"Says here you did." The enforcer's tone was bored, practiced. "You can dispute it with the Accounting Office. Until then, you're coming with us."
+"Yes."
 
-Xion felt Elara tense beside him as the merchant was dragged away despite his protests. Her breathing became shallow, controlled, but he could see the struggle in her posture.
+"Not — not invoking it. Not *claiming descent from*, not *in the tradition of*." Her voice had gone very level, which he was learning was the dangerous register. "Signing. As me. Every one of these. Every schedule and every quota and every indenture, and the woman standing in front of it has never in her life held a pen over any of it." She reached out and touched the corner of the topmost sheet, and did not take it down. "I have been in a compound learning which fork to use. And I have been out here the whole time, doing this."
 
-"Breathe," he whispered. "Remember where we are."
+"That's why your return changes everything," Xion said. "You can repudiate all of it. Start fresh."
 
-She nodded tightly, forcing her shoulders to relax. But when she spoke, her voice carried an edge he hadn't heard before. "How often does this happen?"
+"Or I'm the puppet who signed them." She turned to look at him, and there was nothing bitter in it, which somehow made it worse; it was only accurate. "That's what they'll say, isn't it? Not *the empress has returned*. *The empress has changed her mind.* Twenty years of this, and my first act is to disown my own signature." She looked back at the wall. "How do I prove I was never here?"
 
-"Daily. Sometimes hourly." Xion guided her away from the crowd that had gathered. "The Slavers have quotas to meet. If they can't find genuine debtors, they create them."
+He had no answer for her. He had known the wall was there for years and had never once thought of it as a thing that had been done to a specific person.
 
-"And no one stops them?"
+They stood with it a while. A woman came, read the second sheet with her lips moving, and went away again with the particular set to her shoulders of someone who had just learned a thing she could not afford.
 
-"Who would? They have the law on their side. Officially, anyway."
+Then a boy of about eight came past them at a dead run, chasing a rolling orange down the gutter, and caught it, and held it up in triumph to nobody at all. He was thin enough that his ribs showed through his shirt. He was laughing.
 
-As they walked, Elara's questions became sharper, more pointed. She noticed things Xion had trained himself to overlook—the way people stepped aside when cartel members passed, the careful neutrality in shopkeepers' faces, the children who watched from doorways but never came too close to uniformed figures.
+Elara watched him go.
 
-"The fear is systematic," she observed as they paused in a small square where vendors sold fruit and bread. "It's not just about individual enforcers. It's about the certainty that resistance is futile."
+"That," she said. "I need you to make sure I remember that. Whatever else." Her voice was quiet but firm. "It isn't only about stopping the bad things. It's about the ones already going on despite them."
 
-"You sound like you've studied this."
+They walked on after that, and she was different in a way Xion could not have written down. She asked fewer questions and better ones. She noticed things he had trained himself to overlook — the way people stepped aside before a cartel man was close enough to require it, the careful neutrality of shopkeepers' faces, the children who watched from doorways and never came near a uniform. By midday she looked older than her twenty years, and none of it had come from the wells or the enforcers.
 
-"Strategy and tactics were part of my education. But seeing it..." She gestured around them. "This is different from reading about crowd control in books."
-
-A young boy, maybe eight years old, darted past them chasing a rolling orange. He was thin enough that his ribs showed through his shirt, but his face was bright with laughter as he retrieved his prize. For a moment, he reminded Xion painfully of Tam.
-
-Elara noticed his expression. "What is it?"
-
-"Nothing. Just..." He watched the boy return to his mother's vegetable stall. "Some of them still find reasons to smile. Despite everything."
-
-"That's important to remember." Her voice was quiet but firm. "When I... when this changes, I need to know that it's not just about stopping the bad things. It's about protecting the good ones too."
-
-They continued their circuit through the district, observing the intricate web of control and compliance that governed daily life. Elara proved surprisingly good at blending in—her months of secret excursions had taught her to move like someone who belonged among the common folk rather than above them.
-
-But Xion could see the cost of what she was learning. Each injustice they witnessed, each casual cruelty, each moment of pointless suffering added weight to her shoulders. By midday, she looked older than her twenty years.
+It had come from a wall of paper with her name at the bottom.
 
 "Enough for now," he said as they found a quiet spot in a small temple courtyard. "You need time to process this."
 

@@ -38,9 +38,9 @@ Silvanno and Kael exchanged a glance, but said nothing.
 
 ---
 
-The next three days blurred together in a haze of increasingly desperate investigation.
+The next three days went the same way, and the sameness was the point.
 
-Silvanno used his Water cartel connections to discretely question Noble District household staff. Kael worked the Merchant Quarter with methodical thoroughness. Xion questioned fellow healers and merchants, his questions growing more pointed, more urgent. They ventured into rougher territory—back-room clinics, merchants dealing in less reputable goods, careful inquiries at the safer edges of the Warrens.
+Silvanno worked the Noble District household staff. Kael took the Merchant Quarter. Xion took the healers, because healers heard things, and then the back-room clinics, and then the safer edges of the Warrens. Between them they emptied the city of pretenders. Every one of them broke on the first hard question.
 
 Still nothing. But that was *good*. That meant she wasn't a pretender, wasn't a fraud.
 
@@ -80,61 +80,55 @@ His hands started shaking again, but this time not from exhaustion. From the ter
 
 ---
 
-That evening, his friends gathered at The Amber Leaf with expressions of undisguised worry.
+That evening, his friends gathered at The Amber Leaf, and Xion knew before he sat down that something had changed in them.
 
-"We need to talk," Kael said without preamble. "About what you're doing to yourself."
+He laid it out. Four days of elimination. Every pretender in Kaha'an broken on the first hard question. Jorik on the dock with his hands full of barley — *walks wrong for the docks, talks wrong for the markets, too clean for the Warrens.* A woman who belonged nowhere in a city where everyone belonged somewhere.
 
-Xion opened his mouth to respond, but Silvanno cut him off. "You've barely slept in four days. You look like death. And we've checked everywhere, Xion. Every lead, every possibility. There's nothing to find."
+"So there's one place left," he finished. "The Arol Batae compound."
 
-"Maybe Kael's right," Silvanno added, his usual levity absent. "This search—it's not healthy. You need to let this go."
+He had braced for the same argument. For *you're exhausted*, for *the mind does strange things*, for the careful patient voices of two men steering a friend back from a cliff.
 
-Farleen reached across the table, her hand finding his. "We're worried about you. You were under extreme stress when Tam was taken. The mind can do strange things. Maybe you need to accept that he's gone, and that this princess thing is just... how you're dealing with it."
+It didn't come.
 
-Her touch made his heart skip, and for a moment he almost listened. Almost let himself believe they were right. But then he thought of Tam, of the woman's eyes shifting color, of Jorik's words.
+Kael was very still. He had a way of going still when a thing resolved for him, and Xion had watched it happen a hundred times over a hundred smaller problems, and he watched it happen now.
 
-"There's one place left," he said quietly.
+"You've eliminated everyone," Kael said. Not a question. He was working it the way he worked everything, and Xion could see him reach the end of it. "Every fraud in the city, in four days, and the one woman nobody can place is being kept by the only men in Kaha'an who'd have died for her mother."
 
-Silvanno's face went pale. "Xion, no. Please tell me you're not thinking—"
+"Yes."
 
-"The Arol Batae compound." Xion met each of their gazes in turn. "We've eliminated everywhere else. If she doesn't belong in the docks, the markets, the noble quarter, the Warrens—where else would someone hide? The former imperial guard, the men who swore to protect the royal family with their lives. If Princess Elara survived The Rending, if she's been protected all these years, that's the only place that makes sense."
+"Then you're probably right." Kael said it flatly, and set both hands on the table. "That's the problem."
 
-"That's insane!" Silvanno leaned forward urgently. "Even if you're right—which you're not—that place is impenetrable. And infiltrating it would be treason."
+Silence.
 
-"You're talking about breaching the most secure compound in the city based on what's probably grief-induced hallucination," Kael added flatly.
+"Say it plainly," Silvanno said. His voice had lost all its ease. "Say the plain version out loud, because I want to hear whether you can."
 
-Farleen pulled her hand back, and Xion saw something flash across her face—something sharp and desperate. "Those men chose isolation for a reason, Xion. They're mourning their failure, not hiding some secret princess! They blame themselves for not being there during The Rending. Why would you think they have anything to hide except their shame?"
+Xion looked at him.
 
-Her voice carried an urgency that penetrated even through his obsessive certainty. She was genuinely frightened for him. They all were. He could see it in their faces—the worry, the doubt, the fear that their friend had cracked under the weight of watching too many people suffer.
+"Fine. I'll say it." Silvanno leaned in. "If you're wrong, you break into the Arol Batae compound and they throw you in the street and your father buys you out of it by supper, and we all laugh about this in a year. That's the *good* outcome, Xion. That's the one where you're insane." He held up a hand before Xion could speak. "And if you're right — if she's actually in there — then the last surviving Valanar is being hidden by a hundred and fifty armed men who have spent twenty years waiting for exactly one thing to go wrong. And you're it. You're the thing going wrong."
 
-But that didn't change the logic. That didn't change what he'd seen.
+"They wouldn't—"
 
-"Because we've eliminated every other possibility," Xion said, and his voice came out steadier than he felt. "You rule out everything until only the truth remains. And if I'm wrong—if this is grief or delusion or whatever you think it is—then going to the Arol Batae will prove that. I'll see that she's not there, and I'll know I was wrong. But I *have* to know."
+"They would. In a heartbeat, and they'd be *right* to." Silvanno's jaw worked. "Four days ago I thought you'd cracked, and gods forgive me, I'd rather that. I'd rather my friend was mad. Because a mad friend I can walk home. This—" he gestured at the table, the notes, all of it "—this I can't do anything about at all."
 
-He looked around the table at his friends. "Don't you understand? I've spent years helping people one at a time, knowing it doesn't change anything. Knowing that tomorrow another Tam will get dragged away, another family will starve, another person will die from a wound I could have treated if they could afford to come to me. I've made my peace with that. But if there's even a *chance*—even the smallest possibility—that things could actually change..."
+It landed harder than any doubt would have. Xion had spent four days building an argument for being believed, and now he was believed, and the argument was worth nothing, because belief had never been the obstacle.
 
-His voice cracked. "I have to know. Either she's real and everything can change, or I'm going crazy and I just need to know that too."
+"I still have to know," he said.
 
-Silence settled over the table. His friends looked at each other, then back at him. Xion could see them wrestling with it—loyalty versus sanity, friendship versus enabling what might be a complete break from reality.
+"I know you do." Silvanno's voice was quiet. "That's what frightens me."
 
-"I'm going to find out if she's there," he said quietly. "With or without you."
+Kael looked down at his hands, jaw working. When he finally spoke his voice was flat and his expression was not. "Then you'll do it alone. I'm not walking into the Arol Batae to help you find something I think is actually in there. I won't be the reason it's found."
 
-Kael looked down at his hands, jaw working. When he finally spoke, his voice was flat but his expression pained. "Then you're doing it alone. I won't be part of something this reckless."
-
-Silvanno met Xion's eyes, and the guilt there was obvious. "Neither will I," he added, softer than Kael. "I'm sorry, Xion. But this has gone too far."
+"Neither will I." Silvanno said it softer than Kael, and the guilt in it was plain. "I'm sorry, Xion. Not because you're wrong. Because you're not."
 
 Xion looked at Farleen, expecting the same rejection. Instead, her amber eyes held something he couldn't quite read.
 
 "If you're determined to do this," she said quietly, "someone should watch your back."
 
-Relief washed through him, followed by something warmer. After everything—her desperate attempts to stop him, her obvious fear—she was still willing to stand by him. Still willing to help even when the others wouldn't. Maybe that meant...
+She did not argue. That was the thing he noticed and did not understand until much later — that of the three of them she was the only one who never once tried to talk him out of it, and that she volunteered in the same breath.
 
-He pushed the thought aside, not wanting to get ahead of himself. But the possibility sat there in his chest, making it easier to breathe. Making the terrifying prospect of what came next feel slightly less impossible.
+Relief washed through him, followed by something warmer. Both the men who had spent four days believing in him had just walked away from what the believing cost, and Farleen had not. "Thank you," he said, and meant it more than she could know.
 
-"Thank you," he said, and meant it more than she could know.
-
-As they left The Amber Leaf, Xion felt the weight of commitment settling on his shoulders. The systematic search had led exactly where logic dictated. Either he was about to discover the rightful heir to Kaha'an's throne, or he was about to prove himself completely insane.
-
-Either way, he'd finally *know*. And after years of treading water, of small mercies and futile kindnesses, that terrible certainty felt almost like hope.
+As they left The Amber Leaf, Xion felt the weight of commitment settling on his shoulders. The systematic search had led exactly where logic dictated, and the worst thing about the evening was that nobody at that table thought he was wrong anymore. He had spent four days wanting to be believed. He had it now, and it had cost him two of the three people who had come when he called.
 
 The grain merchant's son had eliminated every other possibility.
 
