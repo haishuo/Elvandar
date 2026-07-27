@@ -48,7 +48,7 @@
 
 ---
 
-18. Melina has to go back. She always has to go back, and the reason is specific and ugly: a working supper where their father wants Tania relaxed before he asks the real question, which means he wants Melina across the table being charming at her, which means she spends her evening helping build the exact thing she has just spent an hour saying frightens her. *Thirty years old and still the family's smile.*
+18. Melina has to go back. She always has to go back, and the reason is specific and ugly: a working supper where their father wants Tania relaxed before he asks the real question, which means he wants Melina across the table being charming at her, which means she spends her evening helping build the exact thing she has just spent an hour saying frightens her. *Twenty-six years old and still the family's smile.*
 
 19. Xion offers the obvious out — she could not go — and her refusal is the clearest statement of her position in the book: *and leave him with no one at that table who loves him? No.* Said simply, as fact rather than wound. Somebody in that house has to still be a person and not a piece on his board; if she stops, there's no one; she isn't ready to let that be true yet. This is not naivety and it is not martyrdom. It is a choice she is making with her eyes open, and it is the choice that keeps her inside the machine.
 

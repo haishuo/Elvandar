@@ -70,11 +70,12 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **None outstanding.** Every continuity error found in Books 1 and 2 has been fixed (see changelog).
 
-The last one closed: B2 ch7 had Melina state her own age as twenty-six. The age-correction pass
-(`1ae458e`, Xion 20 → 23) moved her to ~29–31 and updated `Story Timeline.md`,
-`People/Melina Kemvimore.md`, B2 ch5 and B2 ch20 — but missed ch7, the only place in the series where
-her age is spoken in prose. Corrected to thirty on the author's ruling, and Melina's age is now **fixed
-by prose** rather than inferred.
+The last item closed here was not an error in the prose but an error in the sheets. B2 ch7's
+*"Twenty-six years old and still the family's smile"* was briefly changed to thirty to match the
+~29–31 figure the age-correction pass (`1ae458e`) had assigned Melina — then reverted, because that
+figure turned out to rest on nothing. The prose was right and the sheet was wrong. See the changelog
+entry for the reasoning; the short version is that the **only** line in Books 1–2 that constrains her
+age asks for a gap relative to Xion, not an absolute age, and six-against-three clears it.
 
 ### Rule 2 — characterization
 
@@ -346,13 +347,41 @@ to match what is actually on the page. No prose was touched. The substantive div
   its Mira confession, which closes the ch5 loop.
 - **ch15** — continuity footer still said "Xion is 20." Corrected to 23, with Elara 20 and Melina 30.
 
-**Book 2 — continuity correction**
+**Book 2 — Melina's age: raised to thirty, then reverted to twenty-six**
 
-- **ch7: Melina's stated age, twenty-six → thirty.** The only place in the series where her age is spoken
-  in prose, and the one file the age-correction pass (`1ae458e`) failed to reach when it moved Xion to 23
-  and Melina to ~29–31. Her age is now fixed by prose rather than inferred; `Story Timeline.md` and
-  `People/Melina Kemvimore.md` updated to match (thirty, seven years Xion's senior, ~10 at the Rending).
-  The line's work is unchanged — it is her weariness at still being the family's smile, and thirty carries
-  it at least as well as twenty-six did.
+Recording this one in full because the reasoning matters more than the number, and because the first
+move was wrong.
+
+B2 ch7 (*"Twenty-six years old and still the family's smile"*) is the only place in the series where
+Melina's age is spoken in prose. The age-correction pass (`1ae458e`) had moved her to ~29–31 in
+`Story Timeline.md` and on her sheet and never reached ch7, so ch7 looked like a stray contradiction
+and was "fixed" to thirty. It was then challenged, checked properly, and reverted.
+
+What the check found:
+
+- **Exactly one line in Books 1–2 constrains her age** — B2 ch5, *"a set of stories he'd been told by
+  a sister old enough to remember what he wasn't."* It predates `1ae458e` and survived it unchanged,
+  so it is real evidence and not circular.
+- **The bar it sets is relative to Xion, not absolute.** He was three; ch5 defines what three keeps —
+  *"not events but weather."* Six keeps a face, a voice, particular afternoons. Six against three is a
+  genuine gulf, and it is all the line asks for. A three-year gap clears it.
+- **Nothing else touches her age anywhere.** No marriage or heir pressure; no seniority requirement for
+  the Coterie and tariff work; no quasi-maternal framing (*"little brother"* works at any gap); nothing
+  in Book 3; and her role in the series outline — dying mid-negotiation, believing any deal can be
+  made — is entirely age-independent.
+- **The two claims that seemed to demand a wide gap were sheet-only and never dramatized**: "six or
+  seven years his senior" and "personal memories of… the final years of the Balishan Empire." The
+  second does not survive at any plausible age — at six the Empire is weather to her too — and has been
+  struck from her sheet along with the claim that she remembers the family "whole."
+- **And thirty cost the line something.** Twenty-six is a woman young enough that escape should still be
+  available and isn't; the trap is fresh and there is still fight in the protest. Thirty reads as settled
+  resignation. She dies a few chapters later still trying to fix her family, so the not-yet-resigned
+  register is the right one.
+
+Settled at **twenty-six, three years Xion's senior, six at the Rending** (~1018 BR). Now locked by
+prose; `Story Timeline.md` and `People/Melina Kemvimore.md` conform to ch7 rather than the reverse.
+
+**Guardrail:** Melina's age is fixed by B2 ch7 and by nothing else. If a future pass finds a sheet
+claiming she remembers the Empire, the war, or the family "whole," the sheet is wrong.
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*

@@ -41,7 +41,7 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 |---|---|---|---|
 | **Xion Kemvimore** | **23** (locked) | ~1021 BR | **Three** at the Rending — old enough for affective memory: warmth, safety, a laugh, a hand at his back. Not for narrative. |
 | **Elara Valanar** | **~20** (locked) | ~1024 BR | Infant at the Rending; hidden & raised by the Arol Batae 20 years. |
-| **Melina Kemvimore** | **30** | ~1014 BR | Elder sister; seven years Xion's senior — ~10 at the Rending. Old enough to *remember* their mother whole where his memories are fragments. Fixed by prose: B2 ch7, *"Thirty years old and still the family's smile."* |
+| **Melina Kemvimore** | **26** (locked) | ~1018 BR | Elder sister; three years Xion's senior — **six** at the Rending. Enough for real memories of their mother where his are only weather; the bar the prose sets is relative to him, not absolute. Fixed by prose: B2 ch7, *"Twenty-six years old and still the family's smile."* |
 | **Rosik Kemvimore** | **58** (sheet) | ~986 BR | Former Long Knife; widowed by the Rending. |
 
 ---

@@ -92,7 +92,9 @@ This is a second paradigm-mismatch with her father, parallel to but distinct fro
 
 ## Backstory
 
-Melina Kemvimore was born in the early years of Rosik and Lady Kemvimore's marriage, before The Rending. She is Xion's elder sister — thirty by Book 2, seven years his senior — old enough to retain personal memories of their mother and the final years of the Balishan Empire. These memories give her a connection to the family's past that Xion has only in fragments: he was three when it broke, and what he keeps of it is not detail but feeling — a laugh, a hand at his back, a horse too tall for him. She remembers it whole — what the family was before their mother died in The Rending, before Rosik became the man he became.
+Melina Kemvimore was born in the early years of Rosik and Lady Kemvimore's marriage, before The Rending. She is Xion's elder sister — **twenty-six, three years his senior**, and six years old when the Rending took their mother. That is the whole of the gap the books require, and it is enough: six retains a face, a voice, particular afternoons, where three retains only weather. She has real memories of their mother. Xion has none, and knows he has none, and got the ones he carries from her — *a set of stories he'd been told by a sister old enough to remember what he wasn't* (B2 ch5). That single line is the only place in Books 1–2 where her age is load-bearing, and the bar it sets is **relative to Xion, not absolute**.
+
+Do not inflate this. She is not old enough to remember the Balishan Empire as a political era — at six that would be weather to her too — and she does not remember the family "whole." What she has is a child's memory of a mother and of a house before it became a monument, which is precisely what the prose asks of her and nothing more.
 
 Whether these memories make her work harder to hold the family together — because she remembers when it was whole — or make her grief deeper — because she knows what was lost — is a question the text doesn't answer. Probably both.
 
