@@ -1,5 +1,3 @@
-# Chapter 11: Safe Harbor
-
 The back entrance to the clinic was exactly where Xion had left it—a narrow door behind Mistress Janice's weaver shop, accessible through an alley most people didn't know existed. He checked over his shoulder one last time before fishing out his key.
 
 Elara noticed immediately. "You have a key to your friend's clinic?"

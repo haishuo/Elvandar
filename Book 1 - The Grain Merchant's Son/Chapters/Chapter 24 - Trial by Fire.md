@@ -1,5 +1,3 @@
-# Chapter 24: Trial by Fire
-
 Kael led them through Iron cartel territory as morning sun climbed higher, turning Kaha'an's sandstone buildings the color of rust. The industrial district felt different from the Noble Quarter's ostentation or the Middle District's desperate functionality. Here, everything served a purpose. Forges lined the streets, their heat bleeding into already warm air. Workshops stood open to catch the breeze, revealing workers bent over tables, crafting with focused intensity.
 
 No fountains wasting water. No decorative excess. Just production, efficiency, the honest work of making things.

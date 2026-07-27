@@ -1,5 +1,3 @@
-# Chapter 10: Knives Out
-
 The Larannas estate blazed with light, every window glowing like a promise or a threat. Xion helped Elara down from the hired carriage, acutely aware of how her hand trembled slightly in his. Behind her mask—a delicate thing of blue silk and silver wire—her eyes were carefully, perfectly blue.
 
 "Remember," he murmured as they joined the stream of guests flowing toward the entrance. "You're bored by all of this. It's charming but provincial compared to Uratha's social season."

@@ -1,5 +1,3 @@
-# Chapter 16: Quid Pro Quo
-
 Arlo's platform afforded him a view of the entire Crossroads, and he used it well. His eyes tracked the flow of people below with the practiced ease of someone who made his living reading human behavior.
 
 "So," he said, settling back on his cushioned seat. "Master Fen seeks a lost boy. Tam, you said? Twelve years old, taken by Slavers a few weeks ago." He tapped his fingers together thoughtfully. "That's very specific information. The kind that requires... effort to acquire."

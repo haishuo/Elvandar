@@ -1,5 +1,3 @@
-# Chapter 5: The Choice
-
 Pain dragged Xion back to consciousness like claws through fog. His shoulder burned with every heartbeat, sending waves of fire down his arm. The taste of copper filled his mouth.
 
 "Don't move." The voice was firm but gentle. Female. "I'm almost finished."

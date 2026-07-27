@@ -1,5 +1,3 @@
-# Chapter 18: The Slaver King
-
 The Midlevels were different at night.
 
 Xion had seen them during the day—busy, crowded, the press of bodies and commerce making the narrow passages feel claustrophobic. Now, with most of the market stalls shuttered and the crowds thinned to scattered groups of workers heading home, the space felt larger. Emptier. The shadows between the hanging lamps seemed to stretch further.

@@ -1,5 +1,3 @@
-# Chapter 17: The Attempt
-
 Morning in the Warrens sounded exactly like the morning before. Nothing else about the day was the same.
 
 Xion spread Arlo's information across Korvin's table one more time. Routes, schedules, guard patterns — everything they needed to know about where Tam was being held and how the scavenger crews moved and where the gaps in them were.

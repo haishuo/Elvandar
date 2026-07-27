@@ -1,5 +1,3 @@
-# Chapter 25: The Ruby Throne
-
 The Arol Batae compound hummed with purpose.
 
 Xion stood in the main courtyard, watching warriors prepare for the march. Armor was being checked, weapons secured, formations rehearsed with the precision of men who'd drilled for twenty years waiting for this moment. The morning sun painted everything in gold, as if the city itself sensed what was coming.

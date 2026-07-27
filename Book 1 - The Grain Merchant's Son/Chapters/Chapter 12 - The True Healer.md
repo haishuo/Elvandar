@@ -1,5 +1,3 @@
-# Chapter 12: The True Healer
-
 Dawn came too early, gray light filtering through the clinic's high window. Xion woke to the familiar ache in his shoulder and the unfamiliar awareness of Elara's steady breathing from the cot above him. For a moment, he let himself pretend this was normal—that he always woke to find an imperial heir sleeping in his clinic, that fleeing masked balls and revealing secret identities was just another Tuesday.
 
 Then his shoulder throbbed, reminding him that nothing about this was normal.

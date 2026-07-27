@@ -1,5 +1,3 @@
-# Chapter 22: Reckoning
-
 The climb to the surface was uneventful. The Long Knives' presence ensured that—people in the Warrens knew better than to bother assassins, and the three exhausted people they escorted weren't worth the risk. Tam's condition improved slowly as they climbed, his fever finally breaking, his color returning to something closer to human. By the time they reached the junction near the Sanctuary, he could walk on his own for short stretches, though Xion still supported most of his weight.
 
 The assassins left them there without ceremony. Just a nod and they were gone, melting back into the passages like they'd never been.

@@ -1,5 +1,3 @@
-# Chapter 2: Calling the Council
-
 Xion sent the messages before dawn, each one carried by different street runners to avoid drawing attention. The notes were identical, written in his careful script on scraps of torn parchment: *Urgent. Meet today. Something has happened.*
 
 He'd never called a meeting before. In six months of gathering at The Amber Leaf, he'd always been the one being summoned, dragged away from his clinic to discuss their small efforts at helping Kaha'an's poor. But last night had changed something fundamental, and he couldn't keep this knowledge to himself.

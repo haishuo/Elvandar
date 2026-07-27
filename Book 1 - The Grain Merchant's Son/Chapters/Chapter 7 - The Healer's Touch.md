@@ -1,5 +1,3 @@
-# Chapter 7: The Healer's Touch
-
 By the second day, Xion could no longer ignore the fever.
 
 He'd tried. Pride and stubbornness had kept him moving through their exploration of the Water District, explaining the intricate system of well permits and distribution quotas while sweat beaded on his forehead. But when Elara caught him swaying against a wall and simply stopped walking — no question, no alarm, just stopped, and waited for him to admit it — he knew the pretense was over.

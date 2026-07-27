@@ -1,5 +1,3 @@
-# Chapter 9: Codes and Signals
-
 The borrowed apartment smelled of dust and old incense, but it had what they needed—privacy, a decent view of the street below, and a landlady who accepted payment without asking questions. Xion had used the place before when patients needed somewhere to recover away from prying eyes.
 
 Now it served as a training ground for teaching a princess how to pretend she belonged among nobles.

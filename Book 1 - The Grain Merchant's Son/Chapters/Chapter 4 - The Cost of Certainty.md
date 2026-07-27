@@ -1,5 +1,3 @@
-# Chapter 4: The Cost of Certainty
-
 The grain delivery wagon creaked through the pre-dawn streets, its cargo of wheat and barley covered by coarse cloth. Xion sat beside the driver, wearing the brown uniform of a quality inspector and carrying a leather satchel filled with official-looking documents. His shoulder ached where Farleen had gripped it too tightly when saying goodbye.
 
 "You don't have to do this," she'd whispered, standing close enough that he could smell the lavender oil she wore. "We could just... walk away. Pretend none of this happened."

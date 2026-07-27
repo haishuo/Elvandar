@@ -1,5 +1,3 @@
-# Chapter 23: Reunions and Allegiances
-
 Morning light filtered through gaps in the warehouse roof, painting stripes across the dusty floor. Xion lay on his makeshift bedroll, staring at the ceiling, processing everything that had happened. Tam was home. Safe. Recovering with his family. That should have felt like victory.
 
 Instead, it felt like the calm before something inevitable.

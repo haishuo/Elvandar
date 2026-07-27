@@ -1,5 +1,3 @@
-# Chapter 13: The Closing Net
-
 The next morning brought the first sign something had changed.
 
 Xion noticed it while organizing medical supplies—the street outside Mistress Janice's shop felt wrong. Not obviously wrong. Just... different. The usual rhythm of the neighborhood had shifted by degrees too subtle to name but impossible to ignore.

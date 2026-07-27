@@ -1,5 +1,3 @@
-# Chapter 15: Questions and Answers
-
 Morning came too early, announced by the sounds of the Warrens waking—vendors calling out their wares, the clatter of carts on stone, children's voices echoing through narrow streets. Xion had barely slept, his mind churning through everything that had happened, his shoulder a constant dull ache.
 
 Korvin was already awake, preparing a thin porridge over his small stove. He glanced at them as they stirred. "You three look like you could use some food before you venture out."

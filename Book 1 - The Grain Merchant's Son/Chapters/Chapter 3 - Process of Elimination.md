@@ -1,5 +1,3 @@
-# Chapter 3: Process of Elimination
-
 Xion couldn't sleep. Every time he closed his eyes, he saw those color-shifting irises—blue to amber to violet. The royal trait. The possibility of *everything*.
 
 For years now, he'd made his peace with limitations. His clinic helped people, yes. The small group's charity work saved a few families from starvation. But you could work yourself past exhaustion and the city would go on eating people at exactly the same rate. He'd learned to find meaning in the small victories, to accept that one person couldn't change a system built on grinding the poor into dust.

@@ -1,5 +1,3 @@
-# Chapter 1: The Healer's Hands
-
 Dawn broke over Kaha’an, painting the Ruby of the Desert in ochre and gold. From the east, the sun struck the city’s spires and slanted rooftops, dazzling off colored tile and dust alike. Xion Kemvimore did not notice. He was already in the back room of Mistress Janice’s weaver shop, sleeves rolled, sweat beading on his brow as he ground verbana flowers to powder. The air back here was always stifling, thick with the scents of dried roots, vinegar, and musty cloth. But it was better than the world outside.
 
 Janice sat in the doorway with her work-basket in her lap, unpicking a row. She did that most mornings — one thread miscounted the day before, and out it all came, backward, patient, stitch by stitch, until she reached the place where she’d gone wrong.

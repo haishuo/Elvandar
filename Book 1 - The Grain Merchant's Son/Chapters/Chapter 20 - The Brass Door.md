@@ -1,5 +1,3 @@
-# Chapter 20: The Brass Door
-
 Tam's pulse was too fast. Thready. His skin burned under Xion's fingers.
 
 "Water." Xion's voice came out hoarse. "Farleen, water."

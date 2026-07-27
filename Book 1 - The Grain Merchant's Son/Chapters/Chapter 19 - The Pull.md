@@ -1,5 +1,3 @@
-# Chapter 19: The Pull
-
 The passages were different here. Cleaner. More organized.
 
 Xion shifted Tam's weight against his shoulder, trying to find a position that didn't make his back scream. The boy was getting heavier—or maybe Xion was just getting weaker. Either way, every step required more effort than the last.

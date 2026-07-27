@@ -1,5 +1,3 @@
-# Chapter 21: The Mistress of Knives
-
 The passages were different here.
 
 Xion noticed it first in the way the guards moved—visible now, not hiding. They stood at regular intervals, dressed in Long Knives colors, watching the group pass with professional disinterest. No threats. No posturing. Just observation.

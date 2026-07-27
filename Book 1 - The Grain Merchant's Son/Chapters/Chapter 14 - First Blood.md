@@ -1,5 +1,3 @@
-# Chapter 14: First Blood
-
 The stairs from the ledge descended into the heart of the Tiers, and with each step the air grew thicker—sweat, cooking fires, too many bodies in too little space. Xion had been down here before, but never this deep, never at night when the scattered lamps created more shadows than light.
 
 Farleen moved ahead with practiced caution, choosing their path through narrow streets that wound between ramshackle buildings. People watched them pass with calculating eyes, noting their clean clothes, their uncertain movements, the packs that marked them as either fresh arrivals or easy targets.

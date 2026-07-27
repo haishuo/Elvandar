@@ -1,5 +1,3 @@
-# Chapter 8: Waters of Rage
-
 The fever had broken by morning, leaving Xion weak but clearheaded. Elara had spent the night on watch, her back against the clinic door, and when he woke she was already preparing to leave—efficient, focused, revealing nothing of whether she'd slept at all.
 
 "Where to today?" she asked as they stepped into the early morning streets.

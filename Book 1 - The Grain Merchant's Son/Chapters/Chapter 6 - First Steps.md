@@ -1,5 +1,3 @@
-# Chapter 6: First Steps
-
 The morning sun cast long shadows through the narrow streets as Xion led Elara out of the shuttered storeroom where they'd passed the night — a cooper's back building, rented by the week from a man who counted coins and asked nothing. His shoulder ached with each step, but the pain felt distant compared to the surreal reality of walking beside the last heir to the Ruby Throne.
 
 "Stay close," he murmured, pulling his hood up despite the growing heat. "And keep your eyes down until we're clear of the merchant district."
