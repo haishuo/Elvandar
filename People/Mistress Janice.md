@@ -176,6 +176,21 @@ She burns the records. It is the only act in the building that only she can perf
 
 To his "I can't let you do that" she gives two words — *"My choice."* — and he obeys, which is the damning part. He offers to come back for her. She tells him he won't, and she is right.
 
+**What "my choice" actually means — protect this in revision.** It is not consent, and it is not noble sacrifice. It is an argument about authority, compressed to two words:
+
+> *This is mine to decide. You overruling it is its own kind of tyranny — the same tyranny you hate in your father. You don't get to decide* for *me. I am doing this for you because* I *want to.*
+
+The load-bearing word is **his**, not hers: "I can't ***let*** you do that." *Let* is the tyrant's verb — it claims the right to permit or forbid another adult's decision, which is precisely and exclusively what Rosik does. Rosik decides who eats. Rosik decided Mira should die. Here is his son, in a burning shop, frightened, reaching for his father's grammar.
+
+It also violates Xion's own defining practice. He asks permission — *"Can I have a look?"* — because Mira was never asked. "I can't let you do that" is him abandoning the one discipline he has built his life on, and Janice hands it straight back to him. **That is why he obeys.** Not weakness: the only counter-argument available to him is his father's, and he knows it before he can name it.
+
+**Two words are the unit of measurement in this book.** Ch1 establishes it — *"Two words. That was all it had taken, in the end"* — for Rosik ending Mira. The pairing is exact and inverted:
+
+> **"Execute her."** — a decision imposed on someone.
+> **"My choice."** — a decision reclaimed.
+
+**Revision hazards:** softening "let" to "I won't let you" or "please don't" destroys the argument. So does any warm or grateful beat following "My choice," which converts an assertion of autonomy into a sacrifice. So does giving Xion a second protest. And Janice must never explain any of this — the compression *is* the character. She has never once spent a word she didn't need.
+
 Her last words to him are the same three she used the day he took the name: **"Go, Master Fen."** She never says the other one.
 
 Four streets away, Elara makes him look back at the smoke. Elara is the one who held those journals two nights earlier and called them proof; she understands what is burning before Xion says it.
