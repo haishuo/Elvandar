@@ -17,11 +17,17 @@ Applied changes live in **`Series Review - Changelog.md`** — history, not work
 | **Rule 1** — coherence | 0 | — |
 | **Rule 2** — characterization | 0 | — |
 | **Rule 3** — single-emotion integrity | 0 | — |
-| **Craft — Book 1** | 10 | C-2, C-3, C-8, C-11, C-16–C-21 |
-| **Craft — Book 2** | 4 | C-12–C-15 |
+| **Craft — Book 1** | 7 | C-3, C-16–C-21 |
+| **Craft — Book 2** | 0 | — |
 | **Open questions** | 0 | — |
 
-**14 items outstanding, all craft-tier.** Nothing in Books 1–2 currently breaks a rule.
+**7 items outstanding, all craft-tier, all in Book 1.** Nothing in Books 1–2 currently breaks a rule.
+
+**Before flagging anything here as outstanding, check the history.** Twelve entries in this document
+have turned out to be already fixed — six caught by re-reading the prose, six more only found by
+searching commit messages (`git log --all --grep="C-N"`) and by grepping the prose for the exact
+phrase an entry quotes. Reading the chapter is not sufficient; an entry can describe a problem that
+a later commit solved in a way the entry never anticipated.
 
 **Sections:** [1. Rule hierarchy](#1-the-rule-hierarchy-authors-binding) · [2. Cross-book threads](#2-cross-book-threads) · [3. Outstanding work](#3-outstanding-work) · [4. Do not touch](#4-do-not-touch) · [5. Character guardrails](#5-character-guardrails) · [6. Settled rulings](#6-settled-rulings) · [7. Open questions](#7-open-questions) · [8. Observations that are not fixes](#8-observations-that-are-not-fixes)
 
@@ -105,8 +111,6 @@ else.** Full reasoning in the changelog.
 | # | Item |
 |---|---|
 | C-3 | ch3's first movement is still summary — four days of elimination compressed, with only Jorik dramatized. The Amber Leaf refusal that follows is fully dramatized and carries the chapter, so this is a front-half weight question, not a whole-chapter one. |
-| C-8 | ch21 raises a stake and dissolves it in the same chapter (the Ronas complication). |
-| C-11 | ch18 — Ronas's dialect wobbles between registers. |
 | C-16 | ch5 — *"Her voice grew stronger, more certain"* appears twice, four lines apart (l.99, l.103). Typo-level. |
 | C-17 | ch9 — the dance lesson runs three times (day 1, day 2, day 3), each closing on near-contact broken by a step back. Cadence, not plot. |
 | C-18 | ch11 — *"Mutual vulnerability. The foundation of any good partnership."* Theme stated in dialogue. |
@@ -116,12 +120,7 @@ else.** Full reasoning in the changelog.
 
 ### Craft — Book 2
 
-| # | Item |
-|---|---|
-| C-12 | **ch1 and ch3 state the same realization in the same metaphor** — *"the truth had become the walls of her cell"* / *"sight had become the cage."* Recommended: ch1 gets the suspicion, ch3 gets the conviction, so Sela's doorway completes the thought. |
-| C-13 | ch6, ch7 and ch10 all close on a long summarizing paragraph of Xion alone with nothing left to try. The *content* escalates correctly, so this is cadence, not repetition. ch9 breaks the pattern and is stronger for it. |
-| C-14 | ch14 (1,300 words) carries the city destabilizing, Xion's model of his father collapsing, *and* Melina's last living scene. The violence is ~400 words of summary, and Melina's death depends on the reader believing the Surface Warrens are lethal enough to kill a Kemvimore mid-sentence. POV is legitimately locked to Xion, so this is a weight question, not a rule violation. |
-| C-15 | ch2/ch3 both use *"You've gone somewhere"* / *"I'm here."* ch3's *"again"* may make it a deliberate running beat; confirm intent. |
+**None outstanding.** C-12 through C-15 are all closed — see [§6](#6-settled-rulings).
 
 ---
 
@@ -323,6 +322,12 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 | # | Was | Fixed by |
 |---|---|---|
 | C-2 | ch6 and ch8 have the same shape (walk, witness, explain, vow); ch6 has the better single idea. | **The framing was wrong** — the two chapters do different jobs (ch6 makes Elara the *signatory*; ch8 carries the injustice specific to a desert city) and it was never a choice between them. ch8 rewritten instead: the arch gate and its ledger, Xion spending the name on a convenience, Elara convicting him for it, **one** fountain with no statistics attached, the children in the basin left unexplained, and a single held amber. 1,906 → 1,214 words. |
+| C-8 | ch21 raises a stake and dissolves it in the same chapter (the Ronas complication). | `e006531`. ch21 l.195 — the escort is the answer to the complication rather than a favour: *"Ronas gave you a straight road to the surface and you didn't walk it, and men like Ronas count that… My escort makes it somebody else's arithmetic."* |
+| C-11 | ch18 — Ronas's dialect wobbles between registers. | `e006531`. Rough register held throughout — *"I got eyes, Cullen," "Patchin' people up," "the one what tore through my men," "that don't go well for me neither."* The one grammatically clean sentence (*"patterns are what I get paid to notice"*) is a deliberate shift at the punchline of the three-finger count, not a wobble: he stops sounding casual exactly where he makes the point. **Do not "fix" it.** |
+| C-12 | B2 ch1 and ch3 state the same realization in the same metaphor. | B2 ch1 no longer carries any cage/cell/wall image; only ch3's *"sight had become the cage"* survives. The prescribed split — ch1 the suspicion, ch3 the conviction — was applied. |
+| C-13 | B2 ch6, ch7 and ch10 all close on a long summarizing paragraph of Xion alone. | `e006531`. ch7 now ends short, on the distinction that landed: *"an argument is a thing two people are having. You can lose an argument and still be in the room. / He was not in the room."* |
+| C-14 | B2 ch14 — Melina's death depends on the reader believing the Surface Warrens are lethal enough to kill a Kemvimore mid-sentence, and nothing established it. | `e006531`. ch14 l.9 now states the system before breaking it: *"The Surface Warrens had always run on a kind of arithmetic — who you were, who you belonged to, what it would cost a man to touch you. A good coat bought you passage. A cartel name bought you more."* |
+| C-15 | B2 ch2/ch3 both use *"You've gone somewhere" / "I'm here"*; confirm intent. | Void. ch2's instance is gone; only ch3 l.85 remains, and its *"again"* reads as a habit Melina has noticed over months rather than a callback to a scene — it needs no on-page antecedent. |
 | C-1 | ch2 and ch3 run the same argument; ch3 should be about what they committed to, not whether he's sane. | ch3 now **inverts** it — four days of elimination convince Kael and Silvanno he is *right*, and that is why they refuse. *"I'd rather my friend was mad. Because a mad friend I can walk home."* |
 | C-4 | ch17's "something feels wrong" runs four times with no new information; chapter also over-long. | One instance (l.22). Chapter is 1,680 words, the shortest in Book 1. |
 | C-5 | ch24's combat trial is almost entirely commentary; the climactic test needs one concrete exchange before the analysis. | ch24 l.79–87 — the feint high, the strike driving up under the arm into the short ribs, and Sa Ko taking it without moving her feet. The exchange is not merely placed before the analysis; it is what *triggers* it, and Farleen's ch16 ribs are the measuring instrument. |
