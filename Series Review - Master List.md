@@ -130,6 +130,36 @@ age asks for a gap relative to Xion, not an absolute age, and six-against-three 
 
 ## 4. Character guardrails
 
+### Xion — the Mira moment (verified against B1 ch22 prose)
+
+**He was unconscious for it. He did not witness Mira's execution and could never have prevented it.**
+B1 ch22 is unambiguous and the sequence is: he sneaks out for the flower → is caught in the rainstorm
+near the Warrens, slips, hits his head, **loses consciousness** → Mira guesses where he went, braves
+the storm, carries him back → Rosik demands an explanation, learns of the lessons, says *"Execute her"*
+→ **Xion wakes the next morning** to the flower on his bedside table, *"her final gift before they took
+her."* His own words: *"The execution was over before Xion even woke"* (sheet), and in ch22, *"I woke up
+the next morning and the flower was on my bedside table."*
+
+**What he is actually guilty of is a failure to protest, not a failure to rescue.** Told afterward, in
+front of his father, he did nothing — didn't beg, didn't argue, didn't throw himself at Rosik's feet.
+Ch22 has him concede the futility himself and refuse the comfort of it: *"You could say it wouldn't have
+mattered… And you'd probably be right. But I didn't even **try**."*
+
+**Why the distinction is load-bearing rather than pedantic.** A failure to save her could be reasoned
+away, because saving was impossible — so a guilt built on that would have dissolved years ago. A failure
+to *object* cannot be reasoned away, because objecting was always available and cost nothing but
+courage. He convicts himself on the one charge that has no defense, which is why eight years of medicine
+never settles it. Note also the slippage in his vow at the grave — he swears never again to stand still
+while someone who needs him *suffers*, converting a failure of speech into a failure of action, and then
+organizes his adult life around a debt he has misfiled. Keep the slippage; it is his, and it is the
+engine.
+
+**The recurring error to watch for:** *"stood frozen while someone he loved was killed"* / *"stood mute
+at Mira's execution"* / *"did nothing to save her."* All three imply presence and a preventable death,
+and all three had drifted into Xion's sheet and this document while the sheet's own backstory section
+stated the facts correctly two sections earlier. Corrected 2026-07-27. If it reappears, the prose is
+B1 ch22 and the prose is right.
+
 ### Janice
 
 - **She never says "Xion" or "Kemvimore."** Her knowledge lives only in what she declines to ask (*"I've never asked where the money comes from"*).
@@ -249,8 +279,8 @@ Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 
   `Story Timeline.md`.
 - **What moved:** `age − 15 = duration`, so Master Fen's "five years" became **"eight years"** —
   14 spans in Book 1 (ch1, 9, 11×3, 12×3, 13×4, 15, 18) and 30 in the sheets and this document.
-- **What did not move:** every **"fifteen."** The boy who stood mute at Mira's execution stays a
-  boy — B2 ch16's *"the boy he had been at fifteen"* depends on it, as does the whole
+- **What did not move:** every **"fifteen."** The boy who woke to find Mira executed and said nothing
+  stays a boy — B2 ch16's *"the boy he had been at fifteen"* depends on it, as does the whole
   paralysis-guilt engine. Mira's execution shifts 1039 → **1036 BR**; Xion born ~**1021 BR**.
 - **Elara remains 20**, locked by ch6 prose (*"older than her twenty years"*). The two are no
   longer the same age; nothing in Book 1 ever said they were.
@@ -428,5 +458,23 @@ anyone across five years.
 **Guardrail:** Farleen's five years are load-bearing. Genuine feelings and betrayable trust do not
 develop on a six-month assignment, and a spy at the table half a year is a stranger with a knife where
 one who has been there five is family with a knife. Do not shorten it to tidy anything.
+
+**Sheets — Xion's Mira guilt conformed to B1 ch22**
+
+No prose changed; this was an internal contradiction inside `People/Xion Kemvimore.md`, which stated
+the facts correctly in its backstory section (*"Xion was unconscious when the execution happened… The
+execution was over before Xion even woke"*) and then contradicted itself four times in the thematic
+sections with *"stood frozen while someone he loved was killed."* B1 ch22 and B2 ch16 agree with the
+backstory section; the thematic passages were wrong and are now fixed.
+
+Corrected: the Caretaker-guilt passage, the grave-promise passage, the clinic-as-penance line, the
+closing "genuinely good man" passage, and the hesitation-in-Book-2 passage — plus one line in this
+document's own age-correction entry (*"the boy who stood mute at Mira's execution"*). Added a full
+guardrail under §4, because the error had reproduced itself five times in one file and will do so again
+if only the instances are fixed and not the reason.
+
+The correction *sharpens* the character rather than softening him: he is not a boy who watched a murder
+and froze, he is a boy who woke to a fait accompli and could not make himself say one word about it —
+and who refuses, in ch22, to let futility excuse him.
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
