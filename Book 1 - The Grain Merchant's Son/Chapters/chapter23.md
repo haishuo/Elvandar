@@ -46,6 +46,28 @@ His voice caught. He stopped himself, jaw working.
 
 "Just tell me what's going on." Silvanno's hand tightened on his shoulder. "Please. Before I lose my mind."
 
+"We started at the clinic," Kael said.
+
+It was the first thing he'd said since coming through the door. Xion turned.
+
+"It burned." Kael's voice was flat and careful, which was how Xion understood what was coming. "Four nights ago. The weaver's shop and two buildings either side of it, before the water crews got there."
+
+The room tilted, very slightly.
+
+"Janice," Xion said.
+
+"Grain cartel men brought her out the front before it caught properly. That's what the neighbours say. Walking. Hands bound." Kael didn't look away from him. "We've asked everywhere since. The Accounting Office has no record. The debtors' halls have no record. Silvanno's mother made inquiries and was told there is no such person." A pause. "She isn't anywhere, Xion."
+
+Xion looked down at his hands.
+
+He had not thought about her since the smoke. Four days — the Tiers, the Crossroads, the Iron Hall, the whole black length of Dead Man's Passage with a dying boy on his shoulder — and the woman who had given him his name had not once entered his head.
+
+"She burned the patient records," he said. "Before they got in. So they couldn't use the names."
+
+"She what?" Silvanno said.
+
+But Xion had already turned away.
+
 Xion tried to find the words. How did you explain infiltrating the Arol Batae compound, Farleen's betrayal, finding the actual princess, descending into the Warrens, rescuing Tam, the divine trial, the Long Knives, all of it?
 
 The words came out jumbled. Disjointed. He kept having to backtrack, to fill in context Silvanno and Kael didn't have.

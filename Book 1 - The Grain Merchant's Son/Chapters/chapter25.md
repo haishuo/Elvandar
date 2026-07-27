@@ -232,8 +232,6 @@ Today, the grain merchant's son who'd believed in impossible things while everyo
 
 Watching the hidden princess he'd found prove him right.
 
-The love triangle remained beautifully unresolved. Three people, complicated feelings, no easy answers. But that was for tomorrow.
-
 Tonight, Kaha'an had an empress.
 
 The throne room's ancient light blazed, visible from outside. Through the windows, Xion could see people gathering in the plaza. Watching. Processing. Beginning to understand.
@@ -249,6 +247,8 @@ Xion, who'd refused to stop believing.
 Farleen, who'd betrayed everything to save him.
 
 Silvanno and Kael, who'd stood by their friend when he needed them most.
+
+And Janice, who was not there.
 
 The Arol Batae, finally fulfilling their twenty-year vigil.
 
