@@ -44,7 +44,9 @@ Footsteps behind him. Supplies being set down. Xion turned, saw a collection of 
 
 Everything he needed.
 
-He worked without speaking. Mixed the fever reducer with water. Got it between Tam's lips. More went down this time. The boy swallowed reflexively.
+He took the hand out of its sling first and did it properly — the way he had wanted to do it on the floor of the Iron Hall and hadn't been able to. Opened along its whole length this time, cleaned until the water ran clear, packed, and dressed in linen that hadn't spent a week in the bottom of a bag. It should have been done days ago, in a lit room, by someone with shelves. He did it now, because now was what he had.
+
+Then he worked without speaking. Mixed the fever reducer with water. Got it between Tam's lips. More went down this time. The boy swallowed reflexively.
 
 Good. That was good.
 
