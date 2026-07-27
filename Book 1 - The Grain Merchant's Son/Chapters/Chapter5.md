@@ -16,17 +16,43 @@ Memory flooded back. Farleen's confession. The dagger aimed at his heart. The lo
 
 "Unconscious. I left her in the alley." Elara's voice carried no emotion. "She'll wake up soon enough and report to whoever sent her."
 
+"Where did you hit her?"
+
+Elara's hands stopped on the bandage.
+
+"Does it matter?"
+
+"Yes." It was out of him before he could weigh it, and he heard exactly how it sounded, and could not make himself take it back. "Where. How hard. Was she breathing when you left her."
+
+She looked up at him then, properly — the way a person looks at something they have not finished measuring.
+
+"Base of the skull. Flat of the hand." A pause. "And yes. She'll wake with a headache and be sick for a day and that will be the end of it."
+
+Something in his chest let go, and he despised it for letting go.
+
+"She put a knife in me," he said.
+
+"She did."
+
+"And I'm asking after her."
+
+"Yes." Elara went back to the bandage. "I noticed."
+
 Xion tried to sit up straighter and immediately regretted it. White-hot pain shot through his shoulder, making his vision blur. "How did you—"
 
 "I followed you." She tied off the bandage with quick, sure movements. "I saw her lead you into that alley and decided you might need help."
 
 "You saved my life."
 
-"You're welcome." Elara sat back on her heels, studying his face. "Though I have to say, your taste in allies leaves something to be desired."
+"No." Elara sat back on her heels. "She did."
 
-Despite everything, Xion almost smiled. "She wasn't always... that."
+He stared at her.
 
-"People rarely are. Until they are." Elara began cleaning blood from her hands with a damp cloth. "The question is: what happens now?"
+"She's trained. I watched her hands." She said it flatly, setting down a fact rather than offering a comfort. "She had the reach and she had the angle and she knew where your heart was, and the blade is in your shoulder." Her eyes came up. "I've spent twenty years among men who do this for a living. I know the difference between a miss and a decision."
+
+"She was crying," Xion said. It wasn't a defence. He didn't know what it was.
+
+"I saw." Elara began cleaning the blood from her hands with a damp cloth. "It doesn't make her safe. It only means they'll send somebody better next time." She wrung the cloth out. "The question is: what happens now?"
 
 Xion looked around the alcove—cramped, shadowed, hidden from the main street. "Where are we?"
 
@@ -114,15 +140,23 @@ Elara's eyes widened slightly, but her expression didn't change. "The man who co
 
 "My father taught me that power means making hard choices for the greater good. I just disagree with him about what that good looks like."
 
-Elara stood as well, moving with fluid grace. "Then we understand each other. I'm the last heir to a throne built on suffering. You're the son of a man who profits from that suffering. We're both responsible for what Kaha'an has become."
+Elara stood, brushing off her knees, and asked something he had not braced for.
 
-"And what do we do with that responsibility?"
+"Does he write any of it down?"
 
-"We use it." She said it evenly, without heat, which somehow made it worse. "We know how the system works because we're part of it. That makes us dangerous to it."
+"What?"
 
-"Or dangerous to ourselves."
+"Whatever decides the price of barley in the eastern quarter in a given month. Who's exempt from it. Who pays it twice." She said it the way she'd said *good sight lines, multiple exits*. "Does that live on paper, or does it live in men's heads?"
 
-"Probably both." She moved to gather the bloodied cloths and medical supplies. "But I'd rather die trying to fix what's broken than live safely while it gets worse."
+"On paper." He answered before he had thought about it, because it was simply true. His father kept ledgers in three rooms and only one of those rooms had ever been opened to a magistrate, and he had known which was which since he was nine years old. It had never once presented itself as a thing worth saying aloud. "Some of it."
+
+"Have you seen them?"
+
+"I've been in the room."
+
+Elara nodded slowly. She didn't follow it up, and she didn't make anything of it, and that was how he understood that she had put it somewhere and would be coming back for it.
+
+"Twenty years I've been taught the cartels are weather," she said, gathering the bloodied cloths and rolling them tight. "Something you build against and wait out. You're the first person who's told me they keep records."
 
 Xion looked at her—this young woman who'd traded safety for truth, comfort for understanding—and felt something shift inside him. Recognition, perhaps - a kindred spirit. They were both exiles now, both choosing the harder path.
 

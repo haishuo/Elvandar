@@ -50,7 +50,9 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **The Janice chair** — the ally with better information who says stop and is right. Janice (B1 ch1, ch13) → Farleen (B1 ch14–19) → Elara (B1 ch15, ch22) → **Melina (B2 ch1–12)**. Melina is the terminal form: he doesn't dismiss her counsel, he *incorporates* it, stakes the plan on Rosik's reasonableness, and is wrong, and being wrong kills her.
 
-**The ledger.** Everyone settles their account with Xion and states it — Korvin, the food vendor, Rykan's cousin (*"after this, we're even"*). His own never closes. Janice's B1 ch13 gift (*"You don't get to write it down"*) and Elara's B1 ch22 absolution are both things he cannot receive.
+**His father's ledgers.** B1 ch5: Elara asks whether the arrangements exist on paper, and Xion answers *"On paper"* without thinking, because he has known which of the three rooms was shown to magistrates since he was nine and it has never once presented itself as a fact worth saying. She files it and doesn't follow up. → B2 ch12: *"he had understood that since he was old enough to notice which ledgers his father kept in which rooms"* → B2 ch13: six teams carry them out at once, and *"there was not one lawful thing his father could do about any of it."* The seed is a question Xion answers carelessly; the payoff is Xion using the answer three years later.
+
+**The ledger (the other one).** Everyone settles their account with Xion and states it — Korvin, the food vendor, Rykan's cousin (*"after this, we're even"*). His own never closes. Janice's B1 ch13 gift (*"You don't get to write it down"*) and Elara's B1 ch22 absolution are both things he cannot receive.
 
 **Rosik unmasked → Rosik at the servants' gate.** B1 ch10 (no mask at a masquerade, the room reorders around him) → B2 ch19 (the back gate, in the dark, in a plain carriage). Explicitly recalled in the ch19 text.
 
@@ -158,7 +160,9 @@ These are the spine. Each is already working; each could be broken by an unwary 
    - **What she says:** nothing grateful, nothing apologetic, nothing about Mira. Something operational. Best candidate is a version of the question she asked for five years — *did you ever start charging?* She burned the ledger and it is still the only thing she wants to know.
    - **Hard constraint:** she must NOT be present for Book 3 ch1's name-taking. If she is in the room the scene becomes about her, and Mira is the entire point of it. Find her after, or well before, and let her hear about it secondhand — one dry line.
 3. **Who tells Xion he has become his father, and when?** Elara would be cruel in the right way; Farleen would be true; nobody — him arriving at it alone — may be worst. *(Partially answered by B2 ch18's "Don't." — but that is him refusing to hear it named, not being told.)*
-4. **Q2 above** — whether Xion is ever placed inside one of the ch16–17 operations, or stays outside and the chapter is simply cut hard. (Q1 closed; Q3 deferred to its own session.)
+4. **Q2 above** — whether Xion is ever placed inside one of the ch16–17 operations, or stays outside and the chapter is simply cut hard. (Q1, Q2 and Q3 all closed.)
+
+**Q3 — B1 ch5's speed — CLOSED, not a gap.** Xion agrees to become a fugitive in ~40 lines. That is correct and must not be slowed. Ch.3 already establishes that refusal doesn't slow him (*"It won't stop me." / "I know."*), ch1 has Janice name the trap exactly and he goes anyway, and ch19 states it outright: *"He didn't even really consider it."* Fast acceptance **is** the characterization; deliberation added here would be rule 2 sacrificed to a pacing instinct. Nor is the cost unpaid — ch7 collects it two chapters later, when he walks into his own clinic and has to call Master Fen a friend of his. What ch5 actually had wrong was elsewhere; see the changelog.
 
 ---
 
@@ -175,6 +179,9 @@ These are the spine. Each is already working; each could be broken by an unwary 
 8. Rationed Elara's royal trait to six involuntary shifts
 9. Recorded the two-ledgers reading, the absolution guardrail, and the "my choice" guardrail
 10. Corrected the ch13 exchange — a gift, not a claim of authority
+11. ch5: gave Xion the healer's reflex toward the woman who stabbed him (rule 2) — he asks where Elara hit her, how hard, whether she was breathing, hates himself for asking, and gets a soldier's answer
+12. ch5: gave Elara the read on the wound — *"I know the difference between a miss and a decision"* — planting why ch13's re-admission of Farleen is possible at all
+13. ch5: replaced the thesis speech (*"a throne built on suffering… we're both responsible"*) with Elara's real register — the ledger question
 
 **Book 1 — continuity corrections**
 - ch9: *"money earned through years of treating patients as Master Fen"* contradicted the free-clinic premise and ch11's *"every coin I spend on this clinic comes from my father's allowance"*
