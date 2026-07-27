@@ -176,20 +176,25 @@ She burns the records. It is the only act in the building that only she can perf
 
 To his "I can't let you do that" she gives two words — *"My choice."* — and he obeys, which is the damning part. He offers to come back for her. She tells him he won't, and she is right.
 
-**What "my choice" actually means — protect this in revision.** It is not consent, and it is not noble sacrifice. It is an argument about authority, compressed to two words:
+**What the exchange actually means — protect this in revision.**
 
-> *This is mine to decide. You overruling it is its own kind of tyranny — the same tyranny you hate in your father. You don't get to decide* for *me. I am doing this for you because* I *want to.*
+**Xion is not being tyrannical, and he must never read as tyrannical.** "I can't let you do that" is not a claim of authority over her. It is a man refusing another entry in a ledger he already cannot pay: *whatever happens to you becomes mine to carry, and I am already carrying more than I can hold.* Janice forces him to say it out loud — *"Why not?"* — and what comes out is guilt, not permission-granting.
 
-The load-bearing word is **his**, not hers: "I can't ***let*** you do that." *Let* is the tyrant's verb — it claims the right to permit or forbid another adult's decision, which is precisely and exclusively what Rosik does. Rosik decides who eats. Rosik decided Mira should die. Here is his son, in a burning shop, frightened, reaching for his father's grammar.
+**Janice's answer is the resolution of the copper argument, and the only one available.** For five years she has demanded a number in the book, and he has refused, because his giving must never balance. So she concedes the whole argument and turns it around: she gives him something on *his* terms, and cites his own practice as the precedent.
 
-It also violates Xion's own defining practice. He asks permission — *"Can I have a look?"* — because Mira was never asked. "I can't let you do that" is him abandoning the one discipline he has built his life on, and Janice hands it straight back to him. **That is why he obeys.** Not weakness: the only counter-argument available to him is his father's, and he knows it before he can name it.
+> "Five years I've asked you for one copper. One. And you've never once given me a number, because the whole point of the thing you do is that people take it and walk out owing you nothing… So don't stand in my shop and tell me I don't get to do it too."
+>
+> "It isn't the same—"
+>
+> "It's exactly the same. I'm giving you something. **You don't get to write it down.**"
 
-**Two words are the unit of measurement in this book.** Ch1 establishes it — *"Two words. That was all it had taken, in the end"* — for Rosik ending Mira. The pairing is exact and inverted:
+This is not a debt, not a favor, and not a sacrifice he must repay. It is a *gift* — the exact thing he has given strangers for five years and has never once been able to accept. His response is the same muteness Ch1 gave him: *He had no answer. There never was one, at this part.*
 
-> **"Execute her."** — a decision imposed on someone.
-> **"My choice."** — a decision reclaimed.
+Only then does "My choice" land, and by then it means *this is mine to decide, and it is not going on your account.*
 
-**Revision hazards:** softening "let" to "I won't let you" or "please don't" destroys the argument. So does any warm or grateful beat following "My choice," which converts an assertion of autonomy into a sacrifice. So does giving Xion a second protest. And Janice must never explain any of this — the compression *is* the character. She has never once spent a word she didn't need.
+**The Rosik charge is deferred, not absent.** A reader may notice that "I can't ***let*** you do that" is the grammar of a man who decides for other people — which is precisely and exclusively what Rosik does. Xion does not notice, and must not, here. He means it innocently and it is innocent. But *"my god, I have turned into my father"* is the worst realization available to this character, and it should detonate somewhere later, when someone puts it to him. Book 2's "Becoming His Father" is the natural charge point. Firing it in ch13 would make him self-aware nine chapters early and cost the later scene everything.
+
+**Revision hazards:** do not let Xion sound like he is claiming authority — his reason must stay visible as guilt. Do not add a warm or grateful beat after "My choice," which converts an assertion into a sacrifice. Do not give him a second protest after it. Do not let Janice explain the gift twice; she says it once and reaches for the lamp.
 
 Her last words to him are the same three she used the day he took the name: **"Go, Master Fen."** She never says the other one.
 
