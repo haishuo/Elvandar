@@ -180,7 +180,21 @@ Something cold moved through him. "They'll know it was you."
 
 "Janice. I can't let you do that."
 
-She almost smiled. It was not a kind expression.
+"Why not?"
+
+"Because then it's mine." It came out wrong—too fast, too raw. "Whatever happens to you. I'll be carrying it, and I'm already—" He stopped.
+
+Janice looked at him a long moment.
+
+"Five years I've asked you for one copper," she said. "One. And you've never once given me a number, because the whole point of the thing you do is that people take it and walk out owing you nothing." She squared the stack again, though it was already square. "So don't stand in my shop and tell me I don't get to do it too."
+
+"It isn't the same—"
+
+"It's exactly the same. I'm giving you something." Her hand closed around the lamp. "You don't get to write it down."
+
+He had no answer. There never was one, at this part.
+
+"Janice—"
 
 "My choice."
 
