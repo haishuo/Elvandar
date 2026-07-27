@@ -88,6 +88,8 @@ The first reason is *true*, which is precisely what lets the second one hide beh
 
 **This is the same trait as the ledger** ([below](#2-cross-book-threads)) — he pays in and never draws. Janice's gift and Elara's absolution are refused for the identical reason he will not argue on his own behalf: he does not count himself among the people owed anything. B1 ch11's *"he left it shut"* is the one exception in two books, which is why it carries the weight it does.
 
+**Why he doesn't count himself** is in the Xion guardrail at [§5](#xion--the-mira-moment-b1-ch22-rewritten-2026-07-27), under *the verdict* — and note the asymmetry it produces: **Rosik is the only silence he lets himself off for.** He can exempt one. He declines to exempt the rest.
+
 **Not the cold, and not inherited — author's ruling.** B2 ch5 puts it on the page in the warm stretch, long before the cold arrives: accused in the study of turning Elara against the Coterie, Xion has the reply *"whole and sharp, sitting behind his teeth"* — and swallows it, because *"**Rosik did not lose arguments — he fed on them**, turned every true thing you set in front of him into more ground to stand on."* That is Xion's own twenty-three years of data, stated flat.
 
 Note the **order** in that paragraph: he reasons his way to the decision, and *then* remembers *"Don't hand him the argument. Melina had known."* Her line arrives as corroboration, not instruction. She is an older sister worrying about her brother; he would have done it regardless.
@@ -210,6 +212,30 @@ he will never again fail to *act*. He converts a failure of nerve into a failure
 adult life discharging it in the wrong currency — which is why the compulsion is *I must not hesitate*
 rather than *I must help*, and why the one move his wound forbids is the pause that would have saved
 Melina.
+
+**The verdict, and why he will not revise it.** What he carries is not vague low self-worth. It is a
+*finding*, assembled from evidence and reviewed and upheld: **I froze when it mattered most, and I kept
+freezing at the critical moments afterward. I can produce every excuse in the world. In the end that
+only proves what I really am.** It is a horribly unfair thing to conclude about himself, and he
+concludes it anyway. Three things follow, and all three are load-bearing.
+
+**It compounds.** Each later silence is entered as further proof, so the instances in the silence thread
+above are not repetitions — they accumulate, and every one is worse *for him* than the last, regardless
+of what was actually at stake.
+
+**He is capable of exempting a silence, and does — for Rosik, and only for Rosik.** There he accepts the
+defence and does not enter it against himself. Which means the refusal everywhere else is not an
+inability to reason himself out of blame. He has that capacity and demonstrably uses it. **Do not write
+him as a man who cannot see the excuses. He sees them. He declines them.**
+
+**And the verdict is doing work for him** — this part is a reading, but it holds everything else
+together. If cowardice is simply what he is, then eight years of Master Fen is restitution and the whole
+architecture stands up. Absolution would take the foundation out from under it. That is why Elara's
+B1 ch22 offer **cannot** land rather than merely does not, and why Janice's ch13 gift has to be refused.
+He is not being modest. He is defending the reason he gets up in the morning.
+
+**Nobody tells him any of this**, ever — the same rule as the Rosik comparison in
+[§6](#6-settled-rulings). It is his to reach, alone, or not at all.
 
 **Superseded:** an earlier reading had him unconscious for the order and Mira dead before he woke
 (commit `1f5e53d`, and a guardrail here). That was a defensible reading of the old ch22, but it left the
