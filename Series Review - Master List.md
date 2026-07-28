@@ -710,7 +710,7 @@ Still to do: ch5–25, and a `book1_chapter_skeleton.md` to match Books 2 and 3.
 **Book 1 beat drafts — ch5–21 (Acts II and III)**
 
 Seventeen more drafts, same three-pass method: blueprint written cold, diffed against the page,
-then read blind. **Twenty-one of twenty-five now exist; ch22–25 remain.** House metrics across the
+then read blind. House metrics across the
 set: mean 2,240 words, 9–19 bold spans, 19–30 beats, cited text under 4%.
 
 **No structural change was proposed and none should have been.** The two cuts this method
@@ -750,7 +750,7 @@ the footer is written rather than after.
   throws it across the floor. The footer prohibits putting wonder in the chapter; ch19 already had
   the wonder and Tam paid for it.
 
-**On rhythm as a first-class field.** Every one of the twenty-one drafts now ends with an
+**On rhythm as a first-class field.** Every one of the drafts now ends with an
 `**On rhythm:**` note giving the chapter's word count and its position in its movement — twelve
 were retrofitted to ch1–11 and ch13, which had the argument embedded in other footers or not at
 all. Book 1 runs ~61,900 words across 25 chapters, mean 2,475, and it moves in blocks: ch1–8
@@ -760,6 +760,46 @@ over 3,100, 13,238 words together), then ch17–21 alternating (1,670 / 2,964 / 
 2,153). **Long-then-short is the book's signature for a disaster and its aftermath** and it fires
 three times: ch9–10 into ch11, ch16 into ch17, ch18–19 into ch20. Writing the profile down at the
 chapter it governs is what stopped the third bad cut proposal before it was made.
+
+**Book 1 beat drafts — ch22–25, and the chapter skeleton**
+
+**All twenty-five beat drafts now exist**, and `Book 1 - The Grain Merchant's Son/book1_chapter_skeleton.md`
+is built from them bottom-up — derived from what the chapters actually do, never a top-down outline
+the drafts were made to match. It is deliberately leaner than Book 2's (~230 words per chapter
+against ~520), because Book 2's skeleton preceded its beat drafts and had to carry the reasoning
+itself, whereas Book 1's reasoning already lives in twenty-five footers. The acts it names are
+ch1–4 (The Question), ch5–12 (The Education), ch13–21 (The Descent), ch22–25 (The Ascension).
+
+**Findings from the Act IV pass:**
+
+- **Ch22's most important beat is four lines long and is a refusal.** Elara reaches for the ch15
+  weapon; Xion has the identical weapon, fully formed and accurate — *and what about you, princess* —
+  and crushes it. Nobody notices, including her, and **nobody may ever praise him for it.** The
+  moment a character remarks on the restraint it becomes a virtue displayed rather than a thing
+  done alone.
+- **The ch15 → ch22 asymmetry is deliberate and calibrated.** Ch15 registers in two quiet sentences
+  that he answered a question she did not ask; ch22 names the mechanism outright. The plant must be
+  nearly invisible and the collection must be unmissable. Do not sharpen ch15, do not soften ch22.
+- **Ch23 delivers the take-over's invoice** and it is one sentence: he has not thought about Janice
+  since the smoke. Four days with a dying child on his shoulder and the woman who gave him his name
+  never once entered his head. Recorded as a cross-book beat rather than a flag — it is doing its
+  job. Do not let a character absolve him and do not let him defend himself. Also unremarked: the
+  men who took her wore Grain cartel livery, and nobody in the chapter says so.
+- **Ch24 is the clearest demonstration in the book that the character's own instrument beats generic
+  competent description.** Xion cannot follow the fight — the text links it to ch14 explicitly — so
+  he watches it as bodies, and *that* is what makes him the first person in the hall to know Sa Ko
+  is not fighting. The rib strike he can price exactly is ch16 collecting. The question he then asks
+  — whether Elara knew — is never answered and must not be.
+- **Ch25 needed no findings and that is the finding.** It is the Jurassic Park chapter and it holds
+  one feeling for 2,588 words with four open wounds standing right there. The Farleen thread gets
+  one clause — *not resolved, not simple, but acknowledged* — and that is the entire permitted
+  concession. Recorded at the chapter: the roll call C-6 nearly got deleted is the best passage in
+  it, and the four things left unpaid (Janice, Tam, Farleen, and a man who cannot receive anything)
+  are Book 2's opening material and must not be tidied.
+- **The epithet appears exactly once in the novel**, five sentences from the end. Verified by grep.
+
+Royal Road output regenerated at the end of the pass and produced no diff, confirming the prose
+exports are current.
 
 ---
 
