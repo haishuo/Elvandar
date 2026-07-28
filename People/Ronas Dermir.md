@@ -267,6 +267,28 @@ Ronas has hard eyes, a scarred eyebrow, and an upturned lip that suggests perman
 
 His speech patterns set him apart from every other power player in the story. He uses contractions heavily, drops words, speaks in casual shorthand: "s'what you three are," "'till you hit surface," "Tam or whatever." No diplomatic cushioning, no noble circumlocution. He sighs when forced to explain his reasoning, as if baffled that the logic isn't obvious. He calls Xion "boy" and "kid" with the familiarity of a man who has earned the right to condescend.
 
+### The voice — LOCKED. Do not let it drift in later books.
+
+**This is a guardrail, not a description.** B1 ch18 originally ran heavy dialect and clean standard English side by side — *"Also heard you been callin' yourself Master Fen down here. Patchin' people up"* forty lines from *"Then you spend five minutes patching his leg and suddenly he's vouching for you."* Same speech register, same scene, two different men. It has been corrected, and the correction has to hold when he returns.
+
+**The markers, all of which are already load-bearing on the page:**
+
+- **Dropped `-ing`** — callin', patchin', vouchin', askin', killin', starin'. **Never** the full form, in any register, however serious the line.
+- **Elision** — 'em, 's what, 'till, this here's.
+- **`got` for `have`** — *I got eyes*, *Got yourself a name off it*, *You got me in a bind*.
+- **Dropped auxiliaries and subjects** — *heard you been callin'*, *Met your father twice*, *Gonna guess Water cartel*.
+- **Non-standard agreement and relatives** — *it don't matter much*, *that don't go well for me neither*, *the one **what** tore through my men*, *I ain't killin' you*.
+- **Own vocabulary** — *your pops* for Rosik, *word gets round*, *on account of*, *that ain't a good look*.
+- **Address** — *boy*, *kid*, to men far above him socially.
+
+**Where the drift happens, and why:** always in his *longest and most serious* speeches. The temptation is to let him speak "properly" when he is being precise, reasonable, or genuinely threatening — as though dialect were a comic register he steps out of for important content. **That is exactly backwards and it is the thing to resist.** Ronas is at his most dangerous when he is most casual; the whole point of the character is that a man who talks like this runs a cartel and out-thinks everyone in the room. Precision and dialect are not in tension for him. His three-fingered summary of Xion's offences is the most analytically sharp speech he makes in Book 1 and it is also his broadest.
+
+**The one intentional exception:** the Grand Hunt speech, where he indicts the nobility for hunting people and calling it tradition. He rises in register there because he is making a *moral* argument and knows he is being judged for how he makes it. That is a man reaching for the enemy's language on purpose, once. It is not licence for general cleanliness elsewhere.
+
+**Book 2 status:** he speaks one line in the whole book (ch17) — short, unmarked, no contrastive formality. Checked and deliberately left alone; Book 2 has had no editorial changes applied.
+
+**Book 6:** he reappears. Read this section before writing a word of him.
+
 ### Behavioral Patterns
 
 * **Pragmatic Decisiveness**: He assesses situations rapidly and acts without deliberation. The decision to release Xion, Elara, and Tam is made before they finish explaining themselves — he has already calculated the cost-benefit and found the answer obvious.

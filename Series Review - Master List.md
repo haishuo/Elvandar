@@ -111,12 +111,7 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 
 ### Craft — Book 1
 
-**C-1 through C-7, C-9, C-10 and C-16 through C-19 are closed and purged to §7.** Two remain, both re-worded after re-reading the current text.
-
-| # | Item |
-|---|---|
-| C-8 | ch21's Ronas complication is raised and resolved inside the chapter — **but re-reading it, this may not be the fault it was filed as.** It is not a dangling stake; it is the *mechanism* that motivates the Mistress's escort (*"My escort makes it somebody else's arithmetic"*), and it leaves Ronas counting a breach against them, which is live for later books. **Author's call: fault or function.** |
-| C-11 | ch18 — Ronas's dialect is far more consistent than originally flagged (*"I got eyes, Cullen"*, *"heard you been callin' yourself Master Fen"*, *"A real headache, 's what you three are"*), but his longer serious speeches drop the markers entirely (*"Varris there has never spoken up for anyone in the five years he's worked for me"*). **Author's call: wobble, or a man who drops the performance when it matters?** If the latter, close it. |
+**All craft items closed and purged to §7.** Nothing outstanding for Book 1 except **Q3** (ch5's speed), which the author has deferred to a dedicated session.
 
 ### Craft — Book 2
 
@@ -729,6 +724,8 @@ Still to do: ch5–25, and a `book1_chapter_skeleton.md` to match Books 2 and 3.
 | C-16 | **Done** | All 25 endings audited; 8 already worked, 13 cut, ch9/ch23/ch24 written, ch25 handled. ch18's ending was a rule 1 contradiction and is fixed. |
 | C-17 | **Done** | l.111 trimmed; the realization lands once, at the chapter's end. |
 | C-18 | **Done** | POV bends replaced with misattribution; crying 12 → 5; exposition trimmed, tumbling kept. **Move 1 dead — do not revive.** |
+| C-8 | **Closed, no change** | Function, not fault. The Ronas complication is the *mechanism* that motivates the Mistress's escort — without it her help is unmotivated charity from a character who does not do charity — and it leaves Ronas counting a breach, which is unspent. |
+| C-11 | **Fixed** | Author ruled the dialect must be consistent. Four outliers corrected in ch18, one of which contradicted him inside forty lines (*"Patchin' people up"* vs *"patching his leg"*). **The voice is now LOCKED on his character sheet** with the full marker list, the drift diagnosis, and a Book 6 warning. |
 | C-19 | **Withdrawn** | Not a real pattern. ch5 is 2.3:1, same as post-fix ch1; only ch4 was lopsided, and that was C-18. Flagged off two data points and generalised. |
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
