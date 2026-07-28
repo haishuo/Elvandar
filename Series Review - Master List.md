@@ -59,6 +59,26 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **Rosik unmasked → Rosik at the servants' gate.** B1 ch10 (no mask at a masquerade, the room reorders around him) → B2 ch19 (the back gate, in the dark, in a plain carriage). Explicitly recalled in the ch19 text.
 
+**The take-over — one faculty engages, the world outside it goes dark.** *Author's observation, verified against both books; it was already in the text and neither of us put it there on purpose.*
+
+Xion's hallmark is not focus exactly. It is **a part of him taking over without consulting him**, and the phrasing is nearly identical across four years of drafting:
+
+- B1 ch1: *"He went in through the bodies **without deciding to**"*
+- B1 ch18 (healing): *"And then the other thing took over, the way it always did, **before Xion had decided anything at all**."*
+- B2 ch16 (the cold): *"**It did not feel like a decision.** Decisions had a texture, a moment of weighing, and there was no weighing in this."*
+
+Both versions narrow the world to a single channel. B2 ch16 — *"the part of him that read such pictures was **the only part still fully awake**"* — is the same sentence as B1 ch21, where the Mistress walks into the chamber and he never notices because he is treating Tam, and shushes Farleen for trying to tell him.
+
+**Similar in shape, different in kind — and the text already insists on it**, B2 ch11: *"**Not the healer's eye** — that one was Mira's, and she had only ever given it to him for mending; he would not drag it down into this. **The other sight. His father's**."* Same shape, different provenance. Xion knows the difference and refuses to let one do the other's work.
+
+**What separates them is what survives inside the tunnel.** Healing excludes the world but the *patient* is in it. The cold excludes the world and what remains is a *picture* — B2 ch16, flatly: *"It was a lever. **In the operational picture, everything was**."* Everything, including Melina, which is what ch18's *"Don't."* is about. Identical mechanism; what is standing inside it has stopped being a person.
+
+**The break is the Mistress entrance at scale.** B2 ch20: the memory *"came from **an angle the cold had never been made to guard**, because it had never been a threat, and so it came straight through."* A tunnel has walls and whatever is outside them is invisible until it is already inside. In ch21 that costs him a flush up the neck. In ch20 it costs him the ground he was standing on. The second only reads because the first taught us how he is built.
+
+**Corollary — the freeze is the same machinery returning *no*.** B1 ch1's version does not produce action, it prevents it: *"He stopped, and stayed stopped, and it was the correct decision, and being correct did nothing for him at all."* He does not freeze from cowardice. The assessment completes and the answer is *don't move*, which is worse, and it is why Janice's *"you couldn't say your own name out there"* is an accusation he cannot answer. **This reading stays in the notes.** Putting it on the page would be exactly the structural alibi for his paralysis that is prohibited above.
+
+**Open craft question — "the other thing" names three faculties.** B1 ch18 the healer; B2 ch11 Rosik's sight; B1 ch1 the triage arithmetic (*"that was the other thing he had never been able to stop doing"* — introduced during this review pass, not authorial). Either reserve the phrase for the take-over faculty and make the through-line deliberate, or break the collision. Note that B2 ch4, ch8, ch9 and ch10 all use "the other thing" for unrelated things, which dilutes it either way. **Not decided.**
+
 **Consent — "Can I have a look?"** B1 ch1 (asks a twelve-year-old's permission) → B1 ch19 (**first break**: carries a delirious Tam into Long Knife territory; the one person who cannot consent is the one endangered) → B2 ch3 (asks the child, *orders* the tally-man — both behaviors, correctly assigned, in one scene) → B2 ch11 (*"no one had said he could, and there was no one left in the room to say he couldn't"*). Watch this in Book 3: **the moment he stops asking is the moment the wound is driving him instead of the practice.**
 
 **The two sights.** Mira gave him the healer's eye; Rosik gave him the geometry. B2 ch11–12 has him partition them deliberately and use his father's on purpose for the first time (*"that one was Mira's… he would not drag it down into this"*). The inheritance is tracked, not blurred — keep it that way.
