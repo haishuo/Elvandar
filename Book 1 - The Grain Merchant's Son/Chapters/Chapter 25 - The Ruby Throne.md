@@ -120,7 +120,7 @@ The great doors stood closed. Massive things, carved wood reinforced with brass,
 
 Only Valanar blood could break that seal.
 
-The procession stopped before the doors. Xion felt the weight of the moment pressing down, making it hard to breathe. This was it. The final test. The ultimate proof.
+The procession stopped before the doors. Xion felt the weight of the moment pressing down, making it hard to breathe.
 
 What if the wards didn't recognize her? What if twenty years of isolation had broken something essential? What if—
 
@@ -174,8 +174,6 @@ Elara paused at the threshold.
 
 Xion saw her take a deep breath. Saw her shoulders straighten. Saw the moment she gathered herself for what came next.
 
-This was it. The final step. The claim that would make everything real.
-
 She walked forward.
 
 Each step deliberate. Carrying the weight of choice, of decision, of everything that had brought her here. The Arol Batae fanned out, forming an honor guard along the walls but giving her space. This moment was hers alone.
@@ -184,15 +182,9 @@ Xion and the others watched from near the entrance. Witnesses to history. He fou
 
 When Elara reached the throne, she turned.
 
-Her eyes swept across them all. The Arol Batae who'd raised her. Commander Vesk who'd trained her. The allies who'd helped her reach this moment.
+Her eyes swept across them all — the Arol Batae who'd raised her, Commander Vesk who'd trained her, everyone who'd got her here.
 
-Her gaze found Xion's, held it for a heartbeat. Gratitude. Determination. Something unspoken that made his chest tight.
-
-She looked at Farleen, and something complicated passed between them. Acknowledgment without resolution.
-
-She saw Silvanno and Kael, the friends who'd stood by Xion when everyone thought he was chasing shadows.
-
-Each person representing a different piece of the journey. Each part of the path that led here.
+Her gaze found Xion's and held it for a heartbeat. Something unspoken that made his chest tight.
 
 Then Elara turned back to the throne.
 
@@ -220,16 +212,6 @@ No one had breathed in here since the night it was sealed.
 
 It was breathing now.
 
-He didn't know what came next. The work of ruling. The political fallout. Tomorrow would bring all of those and more.
-
-But today—today they'd done the impossible.
-
-Today, the grain merchant's son who'd believed in impossible things while everyone called him crazy stood in the throne room of the Imperial Palace.
-
-Watching the hidden princess he'd found prove him right.
-
-Tonight, Kaha'an had an empress.
-
 Elara sat on the Ruby Throne, her face calm, her eyes that impossible Valanar blue.
 
 Xion made himself look away from her and around the room, because he wanted to be able to remember, afterward, exactly where everyone had been standing.
@@ -251,5 +233,3 @@ The grain merchant's son had asked himself a question weeks ago, watching a woma
 The answer blazed in the throne room's light.
 
 She was real.
-
-And Kaha'an would never be the same.

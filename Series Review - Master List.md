@@ -124,7 +124,7 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 | C-3 | ch3 is a montage wearing a chapter's clothes — only Jorik is dramatized. |
 | C-4 | ch17's "something feels wrong" runs four times with no new information; chapter also over-long (see Q2). |
 | C-5 | ch24's combat trial is almost entirely commentary. The climactic test needs one concrete exchange before the analysis. |
-| C-6 | ch25 is mostly told; the closing roll call reads like the outline leaking through. **Fix the flatness, not the triumph.** |
+| C-6 | **ch25 — DONE, and the original diagnosis was partly wrong.** The closing roll call is *not* the outline leaking through; it had been rewritten and is now the best passage in the chapter (Vesk's face come apart, Kael counting the exits, Silvanno lifting both hands, Farleen watching the room). The outline was leaking two other places. Fixed by deletion only — nothing added, nothing rueful, triumph untouched. See changelog. |
 | C-7 | ch9's marriage-alliance cover is loaded and never tested at the ball. |
 | C-8 | ch21 raises a stake and dissolves it in the same chapter (the Ronas complication). |
 | C-9 | ch23's Vesk — twenty years of fury evaporates in ten lines, and it is sequenced backwards (concedes, then attacks). |
@@ -612,6 +612,22 @@ He found her, and the institution is taking her back, and he is against a wall w
 > He kept the rest of the list to himself.
 
 His instrument, her character, and the relationship in three sentences, with none of the three stated. **Not a consent break** — he is declining to press, which is restraint, not overreach; the guardrail is about him acting without asking, not about him letting her keep a small lie she needs.
+
+**ch25 — closed, by deletion only.** Author's condition: improve it only if the emotional character is untouched. *"I do not want anything that takes away from triumph. That's a hard no."* Nothing was added. **Every change removes a line that tells the reader to feel triumph, leaving the line that makes them feel it.** ~150 words out of 2,734.
+
+**The buried old ending (the big one).** Nine lines sat between two strong passages, and the first of them was **the only deflation in the chapter**: *"He didn't know what came next. The work of ruling. The political fallout. Tomorrow would bring all of those and more."* Malcolm at the gate, imported into the gate reveal — rule 3 argues for the cut rather than against it. The rest was redundancy at lower voltage than its surroundings: *"today they'd done the impossible"* (the narrator applauding), *"prove him right"* (shrinking a coronation to Xion's vindication), and *"Tonight, Kaha'an had an empress"* (repeating *"The empire had an empress again"* eighteen lines earlier). It also broke the climb — the chapter peaked at *"It was breathing now,"* deflated for nine lines, then had to climb again. **The ascent is now unbroken:** the dust breathing → Elara on the throne → the roll call → the plaza filling → the bells to the harbour → *She was real.*
+
+**Bonus from that cut:** it leaves exactly **one** *"the grain merchant's son"* in the chapter, in the final paragraph. Previously the second of two and reading as a habit; now it is the title of the book arriving in its own last lines — and it is the legitimate rule 0 pull-away the author named ("we are ending the entire book here, this is a cinematic pull-away").
+
+**The last line.** *"And Kaha'an would never be the same"* cut. It is the narrator certifying that a big thing happened, placed immediately after the strongest line in the chapter. **Ends on "She was real."** — a full stop and a direct answer to the question the same paragraph poses.
+
+**The two "This was it"s** (at the great doors and at the throne). These *cost* suspense: *"the ultimate proof"* frames the doors as a thing that will be proven, so *"For a heartbeat, nothing happened"* was a heartbeat whose outcome the narrator had already promised. Cut, the reader arrives at the doors with Xion's fear (*"What if the wards didn't recognize her?"*) instead of a caption. **Triumph is a function of the doubt that preceded it.** Kept: *"Xion felt the weight of the moment pressing down, making it hard to breathe"* — that is sensation, not a label, and it is breathing room the chapter has earned.
+
+The Jurassic Park test settles it. That scene has a cue — the score swells. What it does not have is anyone saying *this is a big moment*. In prose the swelling score is rhythm, and ch25 already has it: *"Then—light."* / *"Smooth. Silent. No one touching them. Pure recognition."*
+
+**The chapter was doing its roll call twice.** Elara's sweep at the throne (*"Gratitude. Determination."* / *"something complicated passed between them. Acknowledgment without resolution"* / *"Each person representing a different piece of the journey"*) is the same list in the abstract, **twenty lines before** Xion's specific one — the worst possible order, since it tells the reader these people matter before the good passage shows it. The Farleen beat there also repeated line 55 nearly verbatim (*"something complicated passed between them. Not resolved. Not simple. But acknowledged"*), and she already gets a third and better beat in the real roll call. Enumeration cut; **her looking kept**, including her gaze finding Xion's, because that is theirs and it is not spent elsewhere.
+
+**Deliberately left alone.** The rest of the "weight of the moment" language. These lines are also breathing room, and ch25 is uncomplicated joy, which is generous by nature. Stripping all the connective tissue would make the chapter cooler and more trusting — more sophisticated, marginally less warm — and would risk sanding off the thing that makes it read as a gift to the reader. **Taste, not craft. Do not revisit without the author.**
 
 **Still outstanding:** (**both open their endings with the same sentence** — *"Everything came down to Sa Ko Ren
 now"* / *"Everything came down to one final step now"* — two chapters running); ch25 (C-6, and
