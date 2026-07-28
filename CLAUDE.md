@@ -74,6 +74,15 @@ almost always the wrong answer; the specific expertise is almost always the righ
 **Verify blast radius before any structural change.** Grep for downstream dependencies first.
 A beat cut in ch17 can be load-bearing in ch22.
 
+**Judge a chapter by the book's rhythm, not as a standalone unit.** A novel is not N maximally
+efficient chapters. Before proposing a cut, check the length profile and the chapter's position
+in its movement: Book 1's ch1–8 run 1,450–2,500 words and then ch9 nearly doubles, so a "talky"
+1,900-word chapter in that stretch is sitting exactly where it belongs. Ask what the chapter is a
+*runway* for — B1 ch8 is the last quiet chapter before the ch10 disaster, and the disaster only
+works if the reader has been allowed to get comfortable. **"This is talky" is not a finding on its
+own**, and neither is "it says this twice" when the second instance is the breath before the next
+chapter's blow.
+
 **Never plant what isn't paid.** Foreshadowing that never resolves gets cut, not kept "in case."
 If a seed is planted in one book and detonates in another, record it in the cross-book threads
 section of `Series Review - Master List.md`.
