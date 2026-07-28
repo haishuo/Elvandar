@@ -19,7 +19,7 @@
 
 5. A fourth watcher, and this one he recognises immediately — Grain cartel livery, his father's colours. They leave tonight, as soon as it is fully dark.
 
-6. Where. Noble and Middle districts belong to the cartels; the Merchant Quarter has more chaos but more cartel presence; the docks are Water's entirely. Which leaves one place they will not immediately follow, and Xion says *the Warrens* with the words tasting like defeat. His argument to Elara is not that it is safe but that it is danger they choose over danger that has already found them — here they are trapped, there they at least control their own movement.
+6. Where. Noble and Middle districts belong to the cartels; the Merchant Quarter has more chaos but more cartel presence; the docks are Water's entirely. Which leaves one place they will not immediately follow, and Xion says the Warrens with the words tasting like defeat. His argument to Elara is not that it is safe but that it is danger they choose over danger that has already found them — here they are trapped, there they at least control their own movement.
 
 7. Full darkness. The watchers have been joined by a fifth, and the alley is held. He says they cannot leave easily and then explains why they must anyway: if the surveillance is this organised now, by morning there will be enough force to simply take the building.
 
@@ -59,7 +59,7 @@
 
 23. The first Farleen–Elara collision, and both of them are right. Farleen has used this passage before, part of her training, and will not meet Xion's eyes saying so. Elara names it flatly as spy training; Farleen answers that not everyone gets to grow up in a compound, protected and safe. Elara says the cruellest true thing available — at least she has never stabbed him. Farleen's control cracks: she is trying to make it right and asks what more they want.
 
-24. Xion ends it without resolving it, which is the correct move for him: he does not have to trust her, he needs her to get them into the Warrens, and after that they will see. Something flashes in Farleen's face at *after that.*
+24. Xion ends it without resolving it, which is the correct move for him: he does not have to trust her, he needs her to get them into the Warrens, and after that they will see. Something flashes in Farleen's face at after that.
 
 25. The descent. Rough-cut stairs spiralling down, water dripping, air cooling. He counts fifty, then a hundred. Farleen identifies the construction as pre-imperial — from whatever civilisation was here before Kaha'an — and notes the Warrens are built in and around the ruins. The counting is his instrument and the archaeology is the first hint of Lathion.
 

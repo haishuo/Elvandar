@@ -13,7 +13,7 @@
 
 2. He gives her fieldcraft — hood up, eyes down until they clear the merchant district — and she notes drily that she is not completely helpless at subterfuge. He is sharper with her than he means to be, and it is stress rather than temper. She asks after the shoulder with something close to guilt, and he softens. Establish early that she feels responsible for the wound she did not cause, because it is the same reflex he has toward Farleen and it makes them legible to each other.
 
-3. Walking the transition between Noble and Middle districts, Xion sees a route he has taken hundreds of times differently because she is beside him — the subtle hierarchies, the careful distances people keep, prosperity fading by degrees. His expertise here is not knowledge but *familiarity*, and her presence is what makes it visible to him.
+3. Walking the transition between Noble and Middle districts, Xion sees a route he has taken hundreds of times differently because she is beside him — the subtle hierarchies, the careful distances people keep, prosperity fading by degrees. His expertise here is not knowledge but familiarity, and her presence is what makes it visible to him.
 
 4. The public well. He tells her to watch and says nothing else. At first glance it is an ordinary morning; then the structure surfaces. A man in Water cartel colours with a ledger, checking papers. A young woman's token examined before she may draw. An older man turned away entirely because his token is insufficient.
 
@@ -35,7 +35,7 @@
 
 12. Her response, after a long silence, is the chapter's line and must land verbatim: they have been signing with her name, for twenty years. Then she takes it apart — not invoking, not claiming descent from, not in the tradition of. *Signing. As her.* Every schedule, every quota, every indenture, and the woman standing in front of it has never held a pen over any of it. Her voice goes very level, which Xion is learning is her dangerous register.
 
-13. He offers the obvious consolation — she can repudiate all of it, start fresh — and she closes the trap on him. Or she is the puppet who signed them. What they will say is not *the empress has returned* but *the empress has changed her mind.* Twenty years of this and her first act is to disown her own signature. There is nothing bitter in it, which is what makes it unanswerable: it is only accurate. She finishes with the question the chapter exists to ask and does not answer — how does she prove she was never here.
+13. He offers the obvious consolation — she can repudiate all of it, start fresh — and she closes the trap on him. Or she is the puppet who signed them. What they will say is not *the empress has returned but *the empress has changed her mind. Twenty years of this and her first act is to disown her own signature. There is nothing bitter in it, which is what makes it unanswerable: it is only accurate. She finishes with the question the chapter exists to ask and does not answer — how does she prove she was never here.
 
 14. Xion has no answer. He has known the wall was there for years and has never once thought of it as a thing that had been done to a specific person. This is the chapter's actual subject and it belongs to him as much as to her.
 

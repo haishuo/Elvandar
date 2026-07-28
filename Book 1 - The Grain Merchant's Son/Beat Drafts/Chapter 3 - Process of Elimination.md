@@ -37,7 +37,7 @@
 
 14. Kael goes still — the stillness Xion has watched a hundred times over a hundred smaller problems — and works it aloud: every fraud in the city eliminated in four days, and the one woman nobody can place is being kept by the only men in Kaha'an who would have died for her mother. He concludes that Xion is probably right, sets both hands flat on the table, and says that this is the problem.
 
-15. Silvanno makes him say the plain version and then says it himself when Xion cannot. If Xion is wrong, he gets thrown into the street, his father buys him out by supper, and they all laugh about it in a year — and that is the good outcome. If he is right, the last surviving Valanar is being kept by a hundred and fifty armed men who have spent twenty years waiting for exactly one thing to go wrong, and Xion is the thing going wrong. The line that must land verbatim is the one about preferring a mad friend, **because a mad friend I can walk home.**
+15. Silvanno makes him say the plain version and then says it himself when Xion cannot. If Xion is wrong, he gets thrown into the street, his father buys him out by supper, and they all laugh about it in a year — and that is the good outcome. If he is right, the last surviving Valanar is being kept by a hundred and fifty armed men who have spent twenty years waiting for exactly one thing to go wrong, and Xion is the thing going wrong. The line that must land verbatim is the one about preferring a mad friend, because a mad friend I can walk home.
 
 16. It lands harder than any doubt would have, and the narration says so in one sentence and moves on. The full realisation belongs to the chapter's last line and must not be spent here.
 

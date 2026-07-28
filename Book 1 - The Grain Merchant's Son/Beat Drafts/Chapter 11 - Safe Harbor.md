@@ -27,7 +27,7 @@
 
 9. Her counter is one line and it reframes the whole book: until he challenged it by finding her. He agrees. Note that this is the first time anyone has offered him an account of his own life that he does not immediately refuse.
 
-10. She works out that the original Master Fen taught him medicine and asks what happened to them. His throat tightens and he says *later* — he cannot talk about Mira while his shoulder is bleeding and guards are searching clinics. Mira is named as an absence here and paid in ch22. Do not let him explain.
+10. She works out that the original Master Fen taught him medicine and asks what happened to them. His throat tightens and he says later — he cannot talk about Mira while his shoulder is bleeding and guards are searching clinics. Mira is named as an absence here and paid in ch22. Do not let him explain.
 
 11. The treatment, and it is the mirror of ch7 with the roles corrected. She orders him to sit in the imperial register; he starts to argue; she says his name and one word; he sits. She narrates the procedure back to herself from memory — remove the old bandage first, quickly, don't hesitate — and he tells her she has a good memory. She says she pays attention.
 
@@ -47,7 +47,7 @@
 
 19. Her reading of them is the beat the chapter exists to deliver. They are not notes, they are evidence — malnutrition rates, workplace injuries, preventable disease flourishing in overcrowded districts. Documentation of what the cartel system does to people, and proof that could challenge cartel authority. He says he never thought of it that way. She tells him he should.
 
-20. He deflects — if anyone with power cared enough to look — and she closes it: someone with power is looking right now, and when she takes the throne those records will tell her where to direct resources and which policies to change first. The casual confidence of *when* rather than *if* tightens something in his chest, because the masquerade has just destroyed any chance of a quiet ascension and she has not adjusted at all.
+20. He deflects — if anyone with power cared enough to look — and she closes it: someone with power is looking right now, and when she takes the throne those records will tell her where to direct resources and which policies to change first. The casual confidence of *when rather than *if tightens something in his chest, because the masquerade has just destroyed any chance of a quiet ascension and she has not adjusted at all.
 
 21. He says they should sleep, because the alternative is saying something he is not ready to articulate. Then she stops him: thank you for trusting her with Master Fen. He answers that she trusted him with the royal trait and it seemed fair. She names it — mutual vulnerability, the foundation of any good partnership — and when he asks whether that is what they are, she dates it precisely: partners from the moment he refused to stop looking for her when everyone said he was wrong, and definitely from helping her flee the fanciest party in Kaha'an.
 

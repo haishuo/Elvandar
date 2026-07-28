@@ -45,13 +45,13 @@
 
 17. Her argument, and it is not cowardice and the chapter must not let it read as cowardice. They are fugitives. They cannot afford this. He is playing hero because that is what he does — Master Fen, saving everyone, fixing everything — and he cannot fix this and trying might get all of them killed.
 
-18. Xion asks whether she would have him abandon the boy and she says yes, exactly that, and then catches herself before finishing a sentence about bigger problems. He reaches for *we're already here* and she refuses the framing outright: the Tiers are safe enough, they do not have to go deeper, that is a choice, and it is a stupid dangerous choice he is making for all of them.
+18. Xion asks whether she would have him abandon the boy and she says yes, exactly that, and then catches herself before finishing a sentence about bigger problems. He reaches for we're already here and she refuses the framing outright: the Tiers are safe enough, they do not have to go deeper, that is a choice, and it is a stupid dangerous choice he is making for all of them.
 
 19. Elara attacks from the other side — if Farleen does not care about helping people, why follow them down at all — and Farleen draws the distinction precisely: she did not say she does not care, she said they cannot afford it right now, and there is a difference.
 
 20. Elara calls it cowardice and Farleen detonates. She stabbed him to maintain her cover. She betrayed everything she believed in for cartel interests. And when she finally decided to do the right thing she threw away her entire life, her family, her position, everything. So do not dare call her a coward, princess. Elara's counter — what do you call someone who runs when things get difficult — gets the honest answer: smart, because you cannot help anyone if you are dead, and sometimes the smart choice is surviving today to fight tomorrow.
 
-21. She forces herself calm and makes the real offer, which is the strongest argument anyone makes in the chapter: stay in the Tiers, safe and hidden, wait a few weeks or a month for the surface to cool. They would be alive. They would have options. But if they go deeper and start asking about Slaver operations after *that* — a gesture toward the square — they may not get to wait anything out.
+21. She forces herself calm and makes the real offer, which is the strongest argument anyone makes in the chapter: stay in the Tiers, safe and hidden, wait a few weeks or a month for the surface to cool. They would be alive. They would have options. But if they go deeper and start asking about Slaver operations after that — a gesture toward the square — they may not get to wait anything out.
 
 22. Xion says he knows. She says but you are going anyway. Yes. She turns to Elara and asks, with something desperate under the anger, whether she is fine with this. Yes, simply. Farleen looks between them with something like disbelief — two people giving her the same answer for reasons that have nothing to do with each other. She hopes the boy is worth it, because if they die down there it had better be for a damn good reason.
 
