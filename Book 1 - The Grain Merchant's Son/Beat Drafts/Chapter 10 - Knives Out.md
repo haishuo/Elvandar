@@ -49,13 +49,13 @@
 
 20. She asks, perfectly controlled and perfectly polite, whether she understood correctly: do they hunt people. Tervan's answer is indulgent and is the worst thing anyone says in the book — not people precisely, but criminals and debtors, the sort who would be enslaved anyway, and this way they get a sporting chance, more than the mines or quarries would give them.
 
-21. She executes the training flawlessly and it destroys her. She repeats a sporting chance* flat, and then delivers a line in exactly the light register Xion spent three days teaching her — that the wagering must be the difficult part, so hard to set fair odds when the field is starving — turning her glass a quarter turn the way he showed her, the way a woman does when a conversation has begun to bore her. For one heartbeat it lands as wit. Tervan's mouth moves toward a smile. The snake-masked noble begins to laugh.
+21. She executes the training flawlessly and it destroys her. She repeats *a sporting chance* flat, and then delivers a line in exactly the light register Xion spent three days teaching her — that the wagering must be the difficult part, so hard to set fair odds when the field is starving — turning her glass a quarter turn the way he showed her, the way a woman does when a conversation has begun to bore her. For one heartbeat it lands as wit. Tervan's mouth moves toward a smile. The snake-masked noble begins to laugh.
 
 22. Then he stops, because he has looked at her eyes. She is still smiling, her voice has not changed, her hand on the glass is perfectly steady — and her eyes have gone amber, then violet, cycling with nothing behind them she can reach. The conversation stops mid-word. A glass shatters. Understanding ripples outward, because everyone knows what colour-changing eyes mean.
 
 23. Tervan breathes that it is impossible. The snake-masked noble pulls his mask aside and is Councilor Harvik, one of Rosik's inner circle. Xion says they need to leave. It is already too late: recognition spreads like circles on water, conversations die, and across the ballroom his father's head turns toward the commotion. Harvik calls for guards.
 
-24. Her hand finds his. She asks *run? He says run. They bolt for the garden entrance, her skirts hampering a warrior's instincts, shouts and mobilising guards behind them.
+24. Her hand finds his. She asks *run?* He says run. They bolt for the garden entrance, her skirts hampering a warrior's instincts, shouts and mobilising guards behind them.
 
 25. The gardens give shadow, hedges and multiple paths, and Xion knows these grounds from childhood parties — including the weak point in the eastern wall where the stones have shifted, which ch9 planted two chapters earlier. Through the hedge line, through ornamental gardens, startling couples among the roses. Twelve feet of rough stone; he boosts her and she scales it with twenty years of training, then reaches down for him. For a moment they balance on top with the estate on one side and the city on the other, and below them guards pour through the hedge line.
 
