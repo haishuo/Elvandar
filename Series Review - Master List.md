@@ -664,6 +664,46 @@ double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity o
 C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the
 friends *believe* him and refuse anyway. Worth re-checking before acting on it.
 
+**Book 1 beat drafts — Act I trial (ch1–4)**
+
+Book 1 was the only book in the series without beat drafts, and the author's observation is that
+Book 2 is measurably tighter for having them. The evidence supports it: **B1 carried 15 craft
+flags across 25 chapters (0.60/ch); B2 carries 4 across 20 (0.20/ch) — with zero editorial passes
+applied.** Its low count is not the result of being fixed. And the C-16 scan run across Book 2's
+twenty endings returns **nothing**: no narrator forecast, no *"and that was enough,"* no epithet
+pull-back. B2 ch2 even uses B1 ch1's construction on purpose — *"Tomorrow he would find another
+way to reach her. He had told himself that yesterday too."*
+
+**Why the template catches what a prose read misses.** `POV:` is a header field, so a rule 0 break
+is visible before it costs prose. `Emotional work:` is a header field, so ch25's *"the work of
+ruling, the political fallout"* is off-spec on sight. Contradictions land as **adjacent numbered
+beats** — ch18's *"it could not buy the boy"* and *"solid and alive"* would have been beats 14 and
+17 on one page instead of 400 words apart. And the final beat is an isolated object, so nine
+consecutive chapters forecasting the next one is impossible to miss.
+
+Written as blueprints and then diffed against the page. **Findings from the trial:**
+
+- **The drafts are the natural home for the do-not-touch reasoning**, which was scattered across
+  the changelog and easy to lose. Each now sits in the footer of the chapter it governs: ch1's
+  ending is not flat; ch4's Move 1 is dead; ch3's reversal must never revert to *is he sane*;
+  ch1's *"Her hands were shaking"* stays unglossed.
+- **Ch1's beat count came out at 29** against a 12–20 house norm, which is the draft reporting that
+  the chapter is doing a great deal — four scenes, six plants, and the book's POV contract. Not a
+  fault; worth knowing.
+- **The plant/collect lists write themselves once the beats are numbered**, and they surfaced one
+  thing a prose read had not: ch4 beat 1 has Farleen grip the shoulder the blade finds in beat 30.
+  Almost certainly accidental. Keep it.
+- **Ch3's footer names the ch4 mechanism** — elimination's shadow is that once you have your
+  answer everything confirms it — which is the connection that resolved C-18, and it is now
+  recorded at both ends instead of living in one session's memory.
+
+**Retro drafts have a specific failure mode, recorded for the remaining 21:** written by
+summarising the existing chapter, they inherit its flaws and launder them into "the plan." The
+discipline is to write the blueprint as if planning cold, then diff. **The gaps are the findings.**
+
+Still to do: ch5–25, and a `book1_chapter_skeleton.md` to match Books 2 and 3. Book 1's
+`TGMS Book Summary.md` is a summary of what exists, not a plan, and does not substitute.
+
 ---
 
 ## Closed items — purged from §3. DO NOT RE-RAISE.
