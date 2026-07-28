@@ -66,3 +66,5 @@ Three reasons it is wrong. **Rhythm:** ch1–8 is a deliberately compressed open
 **The general rule this chapter is the case study for:** a chapter's density is only meaningful relative to the chapters on either side of it and to what it is a runway for. Check the length profile and the position in the movement before recommending a cut. "This is talky" is not a finding on its own.
 
 **On the masquerade being Xion's idea:** worth protecting. He proposes taking the woman whose face he has just watched betray her into a room full of the people best positioned to recognise the trait, three days after meeting her. It is a catastrophically bad plan made for a good reason, by a man whose judgement about scale has been wrong since ch1, and ch10 collects on it in full.
+
+**On rhythm:** 1,898 words, dead centre of the 1,453–2,516 opening movement, and the do-not-thin note above is the long form of this. Ch9 immediately after runs 3,695. Ch8 is not long; the rest of the book is.

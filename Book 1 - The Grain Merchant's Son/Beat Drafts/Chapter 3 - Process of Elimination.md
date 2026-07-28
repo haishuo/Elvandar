@@ -60,3 +60,5 @@
 **On saying the four-days realisation once:** it ran three times across twenty-eight lines at one point, and the version that survives is the last, because it carries the cost as well as the insight. The others were the same sentence at lower voltage, arriving earlier, which is the worst possible order for a recurrence.
 
 **On Farleen's non-argument, the chapter's quietest plant and its most important:** everything about it must read on a first pass as loyalty, and nothing in the staging may lean on it. She is the only person in the room whose behaviour is fully explained by the next chapter.
+
+**On rhythm:** 1,855 words. Ch3 and ch4 are a pair — the deduction and its price — and ch4 runs 2,029, so the two read as one accelerating unit inside the compressed opening movement. Do not lengthen ch3 to give the reasoning more room; the speed of the elimination *is* the characterisation, and the chapter's brevity is what makes ch4's cost land.

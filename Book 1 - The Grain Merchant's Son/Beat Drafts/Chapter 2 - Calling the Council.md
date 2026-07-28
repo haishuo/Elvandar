@@ -58,3 +58,5 @@
 **On the handoff from ch1:** the previous chapter closes on a promise to act tomorrow, and this one opens with him acting — for the princess, not for the boy. The irony is structural and nobody remarks on it, here or later. Chapter 12 is where it is paid, and it is paid by Tam's parents rather than by any narrator.
 
 **On the ending:** the chapter previously closed on a paragraph naming his relief, gratitude and hope, and noting that Farleen's presence mattered more than he wanted to admit. It now ends on her line. The information is identical, the interpretation is gone, and the reread survives — which the old version did not, because it told the reader how to feel about a moment whose whole function is to be misread.
+
+**On rhythm:** 1,913 words, dead centre of the compressed ch1–8 movement. This is the first chapter after the establishing one and it is deliberately smaller — one room, one conversation, three friends. The whole of Act I fits inside 8,500 words, and that compression is what makes ch9's jump to 3,695 read as the floor opening rather than as a long chapter.

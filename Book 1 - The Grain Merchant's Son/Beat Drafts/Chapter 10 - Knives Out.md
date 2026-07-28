@@ -72,3 +72,5 @@
 **On Rosik in this chapter:** he does not speak, does not approach, and never learns his son is present. He arrives, the room rearranges, his gaze passes over them, and he turns toward a commotion at the end. That is correct and must not be improved into a confrontation. The reader needs him established as a physical fact in Xion's world before Book 2 makes him the antagonist, and the near-miss is worth more than a scene.
 
 **On the escape geography, planted in ch9:** the eastern wall was set up two chapters earlier precisely so it is not produced from nowhere mid-flight. Keep both ends.
+
+**On rhythm:** 3,139 words, the second half of the largest block in the first half of the book: ch9 and ch10 together run 6,834 words, more than the whole of ch1–5. Then ch11 drops to 1,776. **Long-then-short is this novel's signature for a disaster and its aftermath** and it is used three times — ch9–10 into ch11, ch16 into ch17, and ch18–19 into ch20. Keep the pattern legible.

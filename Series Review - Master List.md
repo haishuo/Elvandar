@@ -89,6 +89,16 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 
 **Consent — "Can I have a look?"** B1 ch1 (asks a twelve-year-old's permission) → B1 ch19 (**first break**: carries a delirious Tam into Long Knife territory; the one person who cannot consent is the one endangered) → B2 ch3 (asks the child, *orders* the tally-man — both behaviors, correctly assigned, in one scene) → B2 ch11 (*"no one had said he could, and there was no one left in the room to say he couldn't"*). Watch this in Book 3: **the moment he stops asking is the moment the wound is driving him instead of the practice.**
 
+**The Long Knives are waiting on Elara.** B1 ch21: the Mistress has guarded the brass door for
+generations without knowing what it is, meets the first person in centuries who can make it
+respond, and finds out Elara knows nothing. She lets one moment of disappointment show, closes,
+and issues a standing invitation — *if you ever figure out what you are, find me* — with the
+explicit note that **the Long Knives have waited this long and can wait longer.** Nothing in
+Book 1 collects it. It is the oldest open question any faction in the series has, it is held by
+somebody who is neither ally nor antagonist, and it is aimed at the one thing Elara cannot
+supply. Do not let a revision convert the Mistress into a mentor, a patron, or an enemy; her
+whole position is that she is *waiting*.
+
 **The two sights.** Mira gave him the healer's eye; Rosik gave him the geometry. B2 ch11–12 has him partition them deliberately and use his father's on purpose for the first time (*"that one was Mira's… he would not drag it down into this"*). The inheritance is tracked, not blurred — keep it that way.
 
 ---
@@ -696,6 +706,60 @@ discipline is to write the blueprint as if planning cold, then diff. **The gaps 
 
 Still to do: ch5–25, and a `book1_chapter_skeleton.md` to match Books 2 and 3. Book 1's
 `TGMS Book Summary.md` is a summary of what exists, not a plan, and does not substitute.
+
+**Book 1 beat drafts — ch5–21 (Acts II and III)**
+
+Seventeen more drafts, same three-pass method: blueprint written cold, diffed against the page,
+then read blind. **Twenty-one of twenty-five now exist; ch22–25 remain.** House metrics across the
+set: mean 2,240 words, 9–19 bold spans, 19–30 beats, cited text under 4%.
+
+**No structural change was proposed and none should have been.** The two cuts this method
+produced during the Act I/II passes — ch6's temple courtyard and ch8's middle conversation —
+were both wrong, and wrong in the same direction, which is why the rhythm rule now sits in
+`CLAUDE.md` and why both chapters' footers carry an explicit do-not-thin note naming the length
+profile. The Act III pass produced none, and the reason is that the check now happens before
+the footer is written rather than after.
+
+**What the drafts caught that a prose read had not:**
+
+- **Farleen's argument runs five times** (ch14, ch16, ch17, ch19, ch20) and looks like repetition
+  in isolation. Numbered side by side it is an escalation that terminates: risk assessment →
+  losing and planning the job anyway → winning, with one crack about what she threw away →
+  *I can't lose you*, whispered → shouted at Elara until she runs out of words. **That is her
+  whole Book 1 arc**, and a reviewer thinning the early instances would leave the confession
+  standing on nothing. Recorded in ch19's and ch20's footers at both ends.
+- **The flask in ch18 is an invoice nobody in the book ever reads.** Xion spends most of his
+  water on Varris's leg, and an hour later there is not enough for Tam, so he spends what remains
+  flushing the wound instead of putting it in the boy. The kindness that gets all three of them
+  out of the Warrens alive is paid for out of the dying child's ration. It is on the page already
+  and it is never remarked on. **Do not add a beat where he realises it.**
+- **Ch18's limp is the book's cleanest instance of the density standard** — one action carrying
+  five meanings with no dialogue decoding any of them. It is now the passage the rulebook's "one
+  action, five meanings" corollary can be pointed at.
+- **The ledger reading of the Warrens was mine, not the book's**, and it had got into the ch14 and
+  ch15 footers before the author caught it. Corrected: the only person keeping a ledger is Xion;
+  from outside, Master Fen is the kind doctor who never asks questions and is therefore the only
+  neutral ground in a place made entirely of factions. *"After this we're even"* is a frightened
+  person marking the edge of what they can afford, not a settlement. Korvin is the counter-example
+  and never closes the account.
+- **Ch21 is the model for rule 0 and the footer now says so at the chapter it governs**, not only
+  in the rulebook. The Mistress cannot be described until Xion turns around, because he has not
+  looked at her.
+- **Ch20 is the anti-triumph and needed protecting explicitly.** Divine sanction — the one thing
+  Elara's claim has lacked for twenty years — arrives ten feet from an unconscious child, and she
+  throws it across the floor. The footer prohibits putting wonder in the chapter; ch19 already had
+  the wonder and Tam paid for it.
+
+**On rhythm as a first-class field.** Every one of the twenty-one drafts now ends with an
+`**On rhythm:**` note giving the chapter's word count and its position in its movement — twelve
+were retrofitted to ch1–11 and ch13, which had the argument embedded in other footers or not at
+all. Book 1 runs ~61,900 words across 25 chapters, mean 2,475, and it moves in blocks: ch1–8
+compressed (1,453–2,516, mean ~1,900), ch9–10 the scale change (3,695 / 3,139), ch11–12 the
+breath (1,776 / 2,591), ch13–16 the descent and the longest sustained block in the novel (all
+over 3,100, 13,238 words together), then ch17–21 alternating (1,670 / 2,964 / 2,427 / 1,813 /
+2,153). **Long-then-short is the book's signature for a disaster and its aftermath** and it fires
+three times: ch9–10 into ch11, ch16 into ch17, ch18–19 into ch20. Writing the profile down at the
+chapter it governs is what stopped the third bad cut proposal before it was made.
 
 ---
 
