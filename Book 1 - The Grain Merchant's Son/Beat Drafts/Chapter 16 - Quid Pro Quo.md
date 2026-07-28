@@ -2,7 +2,7 @@
 
 **Timeline:** Day 16, continuous with ch15. Midday through night.
 **Characters:** Xion (POV), Elara, Farleen, Arlo Berakailen, a guard who does not survive
-**Emotional work:** They buy Tam's location and the reader should feel every part of the price. A man dies offstage for it, Farleen is injured for it, and Xion — who twelve hours earlier delivered a beautiful speech about nobody having the right to weigh a life — finds he can only ask how old the man was. The chapter ends by opening a door on Farleen's history that neither of them shuts.
+**Emotional work:** They buy Tam's location and the reader should feel every part of the price. A man dies offstage for it, Farleen is injured for it, and Xion — who twelve hours earlier delivered a beautiful speech about nobody having the right to weigh a life — finds he can only ask how old the man was. Then it gives them one genuinely warm scene — the first since the alley — and has him destroy it himself with a question he has been holding for months.
 **POV:** Xion — close third-person limited. He is not present for the heist and the chapter must not go without him.
 
 ---
@@ -55,7 +55,7 @@
 
 22. The examination. Deep purple and black across her left ribs and up toward the shoulder. Nothing broken, but a week of pain at least, maybe two. She says she has had worse. He says *I know* before he can stop himself, and her eyes come up, and she asks what.
 
-23. The wrapping, and the intimacy is produced entirely by the procedure — he has to be close, his hands moving around her torso, the lamplight on her shoulder and jaw, the tension in her face as she holds her breath against the pain. He says it is not the first time he has wrapped her ribs.
+23. The wrapping, and from here the scene is genuinely warm and must play that way — he has to be close, his hands moving around her torso, the lamplight on her shoulder and jaw, the tension in her face as she holds her breath against the pain. He says it is not the first time he has wrapped her ribs.
 
 24. Her expression shifts — surprise, then something softer and almost vulnerable — and she supplies the memory herself: she told him she fell down the stairs in the grain warehouse. He remembers. She was limping for a week; she corrects it to two, and admits she tried to hide it. He remembers being very concerned and checking on her.
 
@@ -63,7 +63,7 @@
 
 26. He ties off the bandage and does not move away, his hands resting on her ribs, feeling her breathe. This close he can see the exact amber of her eyes and a small scar near her temple he has never asked about. And the recognition: how many times has he patched her up over the years, small injuries, nothing serious, always with a plausible excuse — always with that same look, gratitude mixed with something he could never name.
 
-27. The question that has been sitting in him for months: did she really fall, that time? Her smile falters, the warmth flickers out, and what replaces it is guarded and careful. The silence stretches. End on it.
+27. And then he ruins it, on purpose, with a question that has been sitting in him for months — because the warmth is what finally makes him feel able to ask. Did she really fall, that time. Her smile falters, the warmth goes out, and what replaces it is guarded and careful. The silence stretches. End on it, and never let her answer.
 
 ---
 
@@ -73,7 +73,15 @@
 
 **On Farleen planning the job she argued against:** this is the most complete piece of characterisation she gets in Book 1. She tells him twice that this is insane, loses, and then executes professionally — and gets hurt doing it. **Her competence is never in question; only her willingness to be listened to.** Anyone revising the heist should keep the planning hers and keep Xion out of the building.
 
-**On the ribs scene, and why it is not a romance beat:** it is a diagnosis. He wraps her ribs, recognises the procedure, recognises that he has done it before, and then recognises the *pattern* — repeated injuries, plausible excuses, and a look he could never name. What the scene actually reveals is that Xion has been treating an abused woman for years without letting himself assemble it, which is the same faculty that walked past the notice board ten thousand times. **The question at the end is a healer's question, not a lover's**, and the chapter must end on her silence rather than on her answer.
+**On the ribs scene, which is a romance beat that gets destroyed, and must be both in that order.** The warmth is real and mutual and must play as real — this is the only tender moment these two have had since she put a knife in him, her guard comes down for the first time since the betrayal, and the prose says so outright: the walls she has been maintaining since last night come down, her eyes go soft in the lamplight watching his face while he works, and she tells him he is sweet, and always is, even when he probably should not be. **A reader who does not want this moment to keep going has not been given the scene.**
+
+Then he ruins it, and the mechanism is precise. He is not ambushed by a realisation — he *chooses*. The question has been sitting in him for months and the warmth is what makes him feel able to ask it, so the intimacy disarms both of them and he is the one who spends it. **That is worse than an involuntary slip and should stay that way.**
+
+And what it costs is not the discovery that she was hurt. It is that **the lying started years before ch4.** She was already inside something that was injuring her, she was already producing plausible excuses, and he was already believing them and being gentle about it — so every warm moment in their shared history is retroactively something she was managing. The betrayal in the alley was not the beginning; it was the first time he saw one.
+
+Underneath that, the thing he does not say: he had the evidence in his hands, repeatedly, over years, and never assembled it. **Same faculty that walked past the notice board ten thousand times.** Here it finally works, at the worst possible moment, on the one person he did not want it to work on.
+
+**Staging notes to protect:** Elara is in the room for all of it and gives the scene one small sound that is not quite a scoff, which is the only outside comment it gets. The chapter ends on Farleen's silence, not her answer — her smile faltering and the warmth going out and something guarded arriving in its place. **Do not let her answer, then or later**; the guardedness is the answer and the reader has it.
 
 **On the *Dermir's* beat, which is four words and load-bearing:** Arlo mentions in passing that Vex's hired muscle belongs to Ronas, and Farleen catches it and Arlo declines to elaborate. That is why the summons arrives in ch17 and why Ronas already knows everything in ch18 — they robbed a house Ronas had men standing in, and he says so directly. **Plant it exactly this lightly.** If the reader works it out here, ch17's ending stops being a surprise; if it is not planted at all, ch18's accounting arrives from nowhere.
 
