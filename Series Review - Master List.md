@@ -369,6 +369,47 @@ unchanged at ~90, which is correct.
   and its three recurrences, *"Go home, Fen"*, the coded journals (→ ch13), Elara's stillness
   and *"a body deciding whether to move"* (→ ch4).
 
+**Second ch1 pass — the density standard, and the ending reverted** (2,599 → 2,453 words)
+
+Applying *one action, five meanings*. Audited every action in ch1 by how many things it carries
+at once. The chapter's strongest is already Xion's — **the coin into the good hand carries six**
+(generosity; he heals one hand and destroys the boy with the other; compulsion 90 minutes after
+being warned; it is Rosik's money funding the charity; it is the murder weapon; and the warning
+attached to it is uselessly hedged). The two weakest were Janice's, at two apiece — and the
+unpicking was worse than a two, because **its second meaning only activated once her dialogue
+stated the argument it mapped to.** An illustration of a stated case, not a compression. That is
+the "oblique but forced" the author flagged, and it was previously filed here as a strength.
+
+- **The object in her lap is now one of Xion's tunics.** Not an invention: ch12 already states
+  the disguise clothing as fact — *"Master Fen doesn't dress like Xion Kemvimore"* — and the book
+  never said where it came from. She is a weaver. This assigns an existing fact. The prop now
+  carries six things with no dialogue decoding any of them; see her sheet for the enumeration.
+  The one that matters most: **it is unpaid**, which turns her copper demand from something that
+  could read as hypocrisy into its opposite.
+- **Fourteen words of telling cut** from her longest speech — *"It's also an easy thing to
+  notice"* and *"You've made a mystery of yourself, and mysteries get solved."* The second is the
+  real offender: it forecasts a consequence the market square proves four hours later.
+  *"Which is a fine thing to be, Fen"* kept — it is not telling, it carries the name that
+  triggers the *Fen.* paragraph, and giving him the credit before the blow is in character.
+  Followed by *"She looked back down at the sleeve in her lap."* Janice 210 → ~196.
+- **"I'd like it noted that not asking is work" kept.** Considered for cutting on the grounds
+  that the tunic makes the work visible; declined. "Redundant with the staging" is a thinner
+  argument than "it tells," and the line is the best one she has.
+
+**Ending reverted to the original, verbatim.** The replacement was wrong and the author caught
+it: *"paying it meant being somebody… every road out of the square ran into that same sentence"*
+is not a freeze, it is an **alibi**. It told the reader he had no choice, which inverts the
+wound. Janice's *"You couldn't say your own name out there"* is an accusation he cannot answer;
+the new ending converted it into an explanation he could. It was also Xion articulating his own
+arc in ch1, which is ch22's job and ch22's alone.
+
+*"Tomorrow, he would act"* is not flat. **It is the tell** — a man who did nothing promising
+himself tomorrow, which is presumably what he told himself after Mira. And ch2 ironises it
+immediately: he does act, and it is for the princess, not for the boy. Xion's defining wound is
+that when it mattered he froze, and then froze **again**; the chapter has to close on the freeze,
+not on a reason for it. Recorded so this is not re-attempted: **do not give Xion a structural
+explanation for his own paralysis anywhere in Book 1.**
+
 **Not applied, recorded instead:** C-16 through C-19 above — the Act I ending habit, ch3's
 double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity opposite women.
 C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the

@@ -8,7 +8,9 @@ She has also never once stopped asking him to charge a copper.
 
 That is the whole of Janice, and it is not a contradiction. She is not arguing about mercy. She has no objection to the boy on the table or the medicine in his hand. She is arguing about **the operation** — about a clinic with no ledger, no cover story, and no accounting, run by a man whose generosity is the single most identifiable thing about him in four districts. Every free patient is a thread in a row she can already see is miscounted. She has told him. He does not hear it, because he is not built to hear it.
 
-"A man who charges nothing is a man somebody else is paying for. You've made a mystery of yourself, and mysteries get solved."
+"A man who charges nothing is a man somebody else is paying for."
+
+She says it holding one of his tunics, which she made, and for which she has never charged him.
 
 She is right. She is right for eight years, and then one afternoon a child is taken and the reason he is taken is a silver coin she warned about that morning, and she does not say *I told you so*, because she has no interest whatsoever in winning.
 
@@ -37,6 +39,10 @@ Note also the Merchant asymmetry — her fifth, his seventh. She wants a number 
 ### Engineer (Primary)
 
 Janice's core question is *does this work, and can it work better*. Her signature image is diagnostic and it is the first thing on the page: she unpicks a finished row, backward, stitch by stitch, because one thread was miscounted the day before. Sunk cost means nothing to her. A structure with a flaw in it is a structure that comes out.
+
+**What is in her lap is one of Xion's tunics** — *"brown, plain, cut for a man who wanted to be looked past. She had made it, and the two before it, and had never told him what the cloth cost."* This is the character's load-bearing prop and it must carry six things at once without a line of dialogue decoding any of them: precise patient backward work to reach the origin of an error; that **she makes his cover**, physically, and has for eight years; that it is **unpaid**, which is what makes her copper demand the opposite of hypocrisy — she knows exactly what free costs because she is the one paying it; that a weaver prices cloth by feel, which is **how she knows he is a Kemvimore** and has never said; that she works by feel because her sight is going; and that the flaw is in **her own** work, which is precisely what she is asking him to do with his.
+
+Note the symmetry, which is never stated: he will not give her a number, and she has never given him one either. *"I've never asked where the money comes from"* and *"had never told him what the cloth cost"* are the same refusal running in opposite directions.
 
 Her objection to the free clinic is entirely of this kind. She never proposes turning a patient away — not once, in eight years. She proposes **a copper from anybody who has one, handed straight back out the door if he likes**, because what she wants is not the money but the *record*: a clinic that looks like a clinic, with intake and payment and a book, rather than an anomaly that invites the question *who is funding this*. She is trying to make a working system out of a beautiful one.
 
@@ -85,6 +91,8 @@ But the Merchant reading collapses on her own line: **"Hand it straight back out
 ### Creator (Sixth)
 
 A deliberate irony: Janice's profession is a Creator profession, and she is never once shown creating. She is shown *unpicking*. She holds finished work up to the lamp and studies the gap where the bad thread was. In two scenes with her loom-basket she does not weave a single row.
+
+Sharpened by the tunic: she **made** the thing in her lap, and the two garments before it, and the reader never sees her make anything. All we watch her do is take her own work apart.
 
 The craft is real and the aesthetic drive is not. She makes cloth the way an engineer makes cloth — correctly.
 

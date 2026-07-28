@@ -1,6 +1,6 @@
 The verbana had to go fine enough to pass through cloth, which took longer than anyone believed until they tried it, and Xion Kemvimore had been at it since before the light came up. The back room of Mistress Janice’s weaver shop held heat the way a kiln did — dried root, vinegar, wet wool, and no window worth the name. Sweat ran into his collar and he did not stop for it. The powder went from green to grey to something like dust, and the work was better than the world outside, and that was the whole of why he did it at this hour.
 
-Janice sat in the doorway with her work-basket in her lap, taking a row out. One thread miscounted the day before, and out it all came, backward, patient, stitch by stitch, until she reached the place where she’d gone wrong. She did that most mornings. He had stopped hearing it years ago, the way a man stops hearing a clock.
+Janice sat in the doorway with her work-basket in her lap, taking a row out. It was one of his — brown, plain, cut for a man who wanted to be looked past. She had made it, and the two before it, and had never told him what the cloth cost. One thread miscounted the day before, and out it all came, backward, patient, stitch by stitch, until she reached the place where she’d gone wrong. She did that most mornings. He had stopped hearing it years ago, the way a man stops hearing a clock.
 
 “There’s a boy at the front,” she said, without looking up. “Twelve, thereabouts. Left hand wrapped in something I wouldn’t use to wipe a table.”
 
@@ -22,7 +22,9 @@ He knew this road. They’d walked it a dozen times, and it went the same way ev
 
 “They come here **because** there’s no number in the book.”
 
-“They come here because you’re the only healer in four districts who doesn’t ask.” Her eyes came up then, flat and patient, and stayed on him. “Which is a fine thing to be, Fen. It’s also an easy thing to notice. A man who charges nothing is a man somebody else is paying for. You’ve made a mystery of yourself, and mysteries get solved.”
+“They come here because you’re the only healer in four districts who doesn’t ask.” Her eyes came up then, flat and patient, and stayed on him. “Which is a fine thing to be, Fen. A man who charges nothing is a man somebody else is paying for.”
+
+She looked back down at the sleeve in her lap.
 
 *Fen.* The name fit him better than his birth name ever had. Here, no one cared that he was the son of Rosik Kemvimore, master of the Grain. No one expected him to lord over the city’s hungry. Here he was a pair of hands and a box of tinctures, and that was the whole of him, and it was enough.
 
@@ -150,7 +152,7 @@ The stalls came down around him. A woman swept her step. Somewhere off the squar
 
 ---
 
-The shutters of the weaver shop were closed and the lamp was lit, and Janice was still unpicking the same row.
+The shutters of the weaver shop were closed and the lamp was lit, and Janice was still taking out the same sleeve.
 
 “They took him,” Xion said.
 
@@ -172,20 +174,10 @@ She held the row up to the lamp and studied the gap where the bad thread had bee
 
 ---
 
-By the time he reached his rented room above the baker’s, the ovens were cold and the city had gone quiet enough to hear itself.
-
-He sat down on the cot without lighting anything.
-
-Seven silver, four copper.
-
-He had it. He’d had it on his belt at the time, and there was more of it in a locked box in a house in the Noble District, and the number was so small that he had needed a moment in the square to be certain he’d heard it right. Any man in that crowd with a full purse could have stepped out and paid it and walked the boy home before supper.
-
-Paying it meant being somebody. Being somebody meant a name, and a name meant an account of where the name got its money, and every road out of the square ran into that same sentence and stopped there.
-
-He pressed his palms together and squeezed until the knuckles went white.
-
-And then, because he could not help it — because it had been standing behind everything all evening waiting for the room to go quiet enough — the eyes. Blue to amber to violet, in a brown hood, at the edge of a crowd.
-
-A boy was gone and he was thinking about a woman’s eyes. He knew he was doing it. He went on doing it.
+By the time he reached his tiny rented room above a baker’s shop, the city was quiet. He sat on his cot, staring at the wall, Tam’s face hovering before him, alongside the ghost of a woman he could not name.
 
 Two impossible things.
+
+He pressed his palms together, knuckles whitening.
+
+Tomorrow, he would act.
