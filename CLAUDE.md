@@ -240,6 +240,13 @@ launder them into "the plan." So — **write** the blueprint as if planning the 
 have never seen the prose.** If you could not write the chapter from it, it is describing rather
 than planning, and the third pass is the only one that catches that.
 
+The blind read asks two questions, not one. *Could I write the chapter from this?* — and **what is
+this chapter doing for the ones on either side of it?** The second is not optional, because the
+beat-draft format actively hides it: flattening a chapter into a numbered list makes every item
+look like it must justify itself locally, which is exactly the bias that produces bad tightening
+notes. Both structural cuts this method has proposed so far were wrong, and wrong in the same
+direction. Check the length profile before writing the footer.
+
 **Chapter skeletons are built from the beat drafts, not before them.** `*_skeleton.md` is a
 derived artifact — bottom-up from what the chapters actually do, never a top-down outline the
 drafts are then made to match.
