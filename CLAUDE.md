@@ -165,6 +165,14 @@ fix all nine together so the books get one consistent through-line.
 rule tier, and carrying the cross-book threads, character guardrails, open questions, the
 chapter manifest, and the changelog. Update it in the same commit as the change.
 
+**Purge what you clear.** The outstanding list is work to do, not a history. The moment an item
+is cleared it comes **out** of §3 and goes into the closed-items table at the end, with the
+evidence that cleared it. **Re-verify a flag against the current text before acting on it** — of
+the eleven original Book 1 craft flags, eight were stale, because the chapters had been rewritten
+and the flags never retired. A flag that outlives its problem is worse than no flag: the next
+reader trusts it and cuts good material. C-6 pointed at the best passage in ch25 and nearly got
+it deleted.
+
 **Report honestly.** If a proposed fix was declined, say why. If a flag turned out not to be a
 real problem, say so plainly and record it rather than quietly inflating it into one. Do not
 claim a change is applied without applying it.

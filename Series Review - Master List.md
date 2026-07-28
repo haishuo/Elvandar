@@ -101,14 +101,8 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 
 ### Rule 2 — characterization
 
-**R2-1 — CLOSED.** The treatment scene was written in an earlier pass (the hand opened and drained, the flask spent on the wound rather than the boy, the last of the verbana, Janice's linen for a binding and a sling). The **ending** stayed un-revised on top of it until the C-16 pass, and still closed on his feeling — *"tried to ignore the feeling that this couldn't possibly be the end of it."* Both halves are now done. Original entry retained below for the record.
+**None outstanding.** R2-1 and Q1 are closed and purged to §7. Q2 is closed. One item remains deferred by the author:
 
-~~**R2-1. B1 ch18 ends with Xion holding a dangerously ill child and never treating him.**~~ A healer with a fevered boy in his arms treats him. The chapter closes on his feeling instead of his hands at the exact moment his defining practice applies. *This is the single highest-priority outstanding item in either book.*
-
-**Three items demoted to author's questions** — each would require bending a character, so none is the reviewer's to decide:
-
-- **Q1. Farleen's Book 1 exit — CLOSED. No change, and the reviewer's note was wrong, not merely overruled.** She has no role in Book 1's endgame and manufacturing one would be shoehorning. The better reason: Book 2 defines her by **presence without position** — *"a woman with no post, no title, no institutional reason to stay anywhere — and she stayed."* A character whose nature is unobtrusive constancy should not get a curtain call in the last act of someone else's book. The quiet exit is the correct shape. The handoff also needs nothing — Book 2 ch2 opens with the pastry already an established habit.
-- **Q2. B1 ch16–17 staging.** The *length* cut stands on craft (3,069 words for an offstage failure reads as accident, not intent). Putting Xion inside one of the three operations does not: Farleen is tactically right that he is untrained, and the text says so.
 - **Q3. B1 ch5's speed — DEFERRED to a dedicated session at the author's request.** They agree to a life-destroying plan in ~40 lines. But *"He didn't even really consider it"* (ch19) establishes fast acceptance as how Xion decides. May be characterization rather than a gap.
 
 ### Rule 3 — single-emotion integrity
@@ -117,24 +111,12 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 
 ### Craft — Book 1
 
+**C-1 through C-7, C-9, C-10 and C-16 through C-19 are closed and purged to §7.** Two remain, both re-worded after re-reading the current text.
+
 | # | Item |
 |---|---|
-| C-1 | ch2 and ch3 run the same argument (friend skepticism → *"with or without you"*). ch3 should be about what they committed to, not whether he's sane. |
-| C-2 | ch6 and ch8 have the same shape (walk, witness, explain, vow). ch8's fountains are stronger; ch6 has the better single idea. |
-| C-3 | ch3 is a montage wearing a chapter's clothes — only Jorik is dramatized. |
-| C-4 | ch17's "something feels wrong" runs four times with no new information; chapter also over-long (see Q2). |
-| C-5 | ch24's combat trial is almost entirely commentary. The climactic test needs one concrete exchange before the analysis. |
-| C-6 | **ch25 — DONE, and the original diagnosis was partly wrong.** The closing roll call is *not* the outline leaking through; it had been rewritten and is now the best passage in the chapter (Vesk's face come apart, Kael counting the exits, Silvanno lifting both hands, Farleen watching the room). The outline was leaking two other places. Fixed by deletion only — nothing added, nothing rueful, triumph untouched. See changelog. |
-| C-7 | ch9's marriage-alliance cover is loaded and never tested at the ball. |
-| C-8 | ch21 raises a stake and dissolves it in the same chapter (the Ronas complication). |
-| C-9 | ch23's Vesk — twenty years of fury evaporates in ten lines, and it is sequenced backwards (concedes, then attacks). |
-| C-10 | ch22 — Elara reaches for the ch15 slaver argument verbatim. Correct instinct; the text should register that she knows. |
-| C-11 | ch18 — Ronas's dialect wobbles between registers. |
-| C-16 | **Chapter endings — LARGELY DONE.** Audited all 25; 8 already worked, 13 fixed by pure deletion, ch18 was a rule 1 contradiction and is fixed. **Outstanding: ch9** (needs writing, not cutting), **ch23/ch24** (both open their endings with *"Everything came down to…"* — proposals pending), **ch25** (C-6, and on the do-not-touch list). Full account in the changelog. The hypothesis held: the later a passage sits in a chapter, the more likely it is to be un-revised. |
-| C-17 | ch3 states its best insight twice, 28 lines apart — *"spent four days building an argument for being believed"* (l.111) and *"He had spent four days wanting to be believed"* (l.139). The second adds the cost, which is new; the shared clause is repetition. |
-| C-18 | **DONE.** The POV bends replaced with misattribution, crying descriptors thinned 12 → 5, Farleen's *exposition* trimmed while every self-interruption was kept. **Move 1 (Xion deduces the spy) is dead — do not revive:** the author's design is that he fails to catch it, and having him deduce it would destroy the chapter. See changelog. Original entry below. |
-| ~~C-18~~ | ~~**ch4's betrayal scene is the least-revised prose in Act I.**~~ Ten emotional descriptors (*voice cracked / burst out raw and anguished / tears gathered / crying openly / voice broke / dissolved into sobs / came out as a sob / came out as a wail / choked on the words / face breaking with grief and self-loathing*) against four purely physical ones in ch3's comparable Silvanno scene. The structural redesign of the scene is right — old-draft Farleen is cold and Xion survives by medallion; new Farleen breaks, which is what makes ch13–17 possible. The prose has not caught up to the redesign. |
-| C-19 | ~~Xion goes verbally passive opposite women who hold information he lacks.~~ **WITHDRAWN — not a real problem. DO NOT RELITIGATE.** ch5 breaks the pattern: Elara ~350 words to Xion's ~150 (2.3:1), the same ratio as post-fix ch1, and he has 18-, 25- and 30-word speeches there, confesses his father unprompted, and drives the chapter's hardest exchange. Only ch4 is lopsided (6.4:1), and ch4's problem is C-18. Flagged off two data points and generalised; the third killed it. Author dropped it. |
+| C-8 | ch21's Ronas complication is raised and resolved inside the chapter — **but re-reading it, this may not be the fault it was filed as.** It is not a dangling stake; it is the *mechanism* that motivates the Mistress's escort (*"My escort makes it somebody else's arithmetic"*), and it leaves Ronas counting a breach against them, which is live for later books. **Author's call: fault or function.** |
+| C-11 | ch18 — Ronas's dialect is far more consistent than originally flagged (*"I got eyes, Cullen"*, *"heard you been callin' yourself Master Fen"*, *"A real headache, 's what you three are"*), but his longer serious speeches drop the markers entirely (*"Varris there has never spoken up for anyone in the five years he's worked for me"*). **Author's call: wobble, or a man who drops the performance when it matters?** If the latter, close it. |
 
 ### Craft — Book 2
 
@@ -681,5 +663,32 @@ has nothing to say yet.
 double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity opposite women.
 C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the
 friends *believe* him and refuse anyway. Worth re-checking before acting on it.
+
+---
+
+## Closed items — purged from §3. DO NOT RE-RAISE.
+
+**Working rule, author's:** once an item is cleared it comes **out** of the outstanding list and goes here, with the evidence that cleared it. The list above is work to do, not a history. Anything below has been verified against the current text on the date of purge and must not be re-litigated without new evidence.
+
+**Eight of eleven Book 1 craft flags were stale** — the chapters had been rewritten and the flags never retired. That is the same failure that let C-6 point at a good passage and let R2-1 sit at "highest priority" after its scene was written. **A flag that outlives its problem is worse than no flag**, because the next reader trusts it and cuts good material.
+
+| # | Verdict | Evidence in the current text |
+|---|---|---|
+| R2-1 | **Done** | Treatment scene written (hand opened and drained, flask spent on the wound not the boy, last of the verbana, Janice's linen for binding and sling); ending fixed in the C-16 pass. |
+| Q1 | **Closed, no change** | Farleen's quiet Book 1 exit is correct. B2 defines her by presence without position; a character whose nature is unobtrusive constancy gets no curtain call in someone else's last act. The reviewer's note was wrong, not overruled. |
+| Q2 | **Closed** | Both halves. The length concern named 3,069 words; ch17 is now **1,670** — second-shortest in the book. Putting Xion inside an operation was already rejected: Farleen is tactically right that he is untrained, and the text says so. |
+| C-1 | **Stale** | ch3 no longer re-runs ch2's skepticism. The friends **believe** him and refuse anyway — *"I'd rather my friend was mad. Because a mad friend I can walk home."* The opposite of the flag. |
+| C-2 | **Stale** | ch6 is no longer walk/witness/explain/vow. It is the notice board, one idea, 1,453 words — *"They've been signing with my name. For twenty years."* No shape-rhyme with ch8 remains. |
+| C-3 | **Stale** | ch3 now has four scenes. Jorik is dramatized **and** so is the whole Amber Leaf refusal, which is the chapter's centre. No longer a montage. |
+| C-4 | **Stale** | *"Something's wrong"* appears **once**. Farleen's assessment carries real new information — *"nine seconds is a very strange length of time for a gap to be. Too long to be an oversight. Too short to be a wall."* Chapter is 1,670 words. |
+| C-5 | **Stale** | ch24 has its concrete exchange: *"A feint high. The real thing driving up underneath the older woman's arm, into the short ribs."* |
+| C-6 | **Done** | ch25 fixed by deletion only; triumph untouched. The original diagnosis was also wrong — the roll call is the best passage in the chapter, not outline leakage. |
+| C-7 | **Stale** | ch10 tests the marriage cover directly — Tania's second probe: *"is he attentive, or is he merely thorough?"* |
+| C-9 | **Stale** | ch23's Vesk now runs ~55 lines and is sequenced **attack → concede**: the prepared accounting, then *"you went out a side gate and let us live it a second time,"* then his defence, then *"Then we finish what we started twenty years ago."* |
+| C-10 | **Stale** | ch22 registers it explicitly: *"And Xion watched her pick it up — the same weapon, off the same shelf… She had known exactly where it was the whole time, and she had reached for it because the first time it had gone in."* |
+| C-16 | **Done** | All 25 endings audited; 8 already worked, 13 cut, ch9/ch23/ch24 written, ch25 handled. ch18's ending was a rule 1 contradiction and is fixed. |
+| C-17 | **Done** | l.111 trimmed; the realization lands once, at the chapter's end. |
+| C-18 | **Done** | POV bends replaced with misattribution; crying 12 → 5; exposition trimmed, tumbling kept. **Move 1 dead — do not revive.** |
+| C-19 | **Withdrawn** | Not a real pattern. ch5 is 2.3:1, same as post-fix ch1; only ch4 was lopsided, and that was C-18. Flagged off two data points and generalised. |
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
