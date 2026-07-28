@@ -1,6 +1,6 @@
 The verbana had to go fine enough to pass through cloth, which took longer than anyone believed until they tried it, and Xion Kemvimore had been at it since before the light came up. The back room of Mistress Janice’s weaver shop held heat the way a kiln did — dried root, vinegar, wet wool, and no window worth the name. Sweat ran into his collar and he did not stop for it. The powder went from green to grey to something like dust, and the work was better than the world outside, and that was the whole of why he did it at this hour.
 
-Behind him, in the doorway, Janice was working at something. She was always working at something. He had stopped hearing it years ago, the way a man stops hearing a clock.
+Behind him, in the doorway, Janice was working at something. She was always working at something.
 
 “There’s a boy at the front,” she said. “Twelve, thereabouts. Left hand wrapped in something I wouldn’t use to wipe a table.”
 
@@ -30,7 +30,7 @@ Something in the way she said it made him turn round. Her eyes were up, flat and
 
 “Which is a fine thing to be, Fen. A man who charges nothing is a man somebody else is paying for.”
 
-He went back to the shelf. Behind him, the needle started again.
+He went back to the shelf.
 
 *Fen.* The name fit him better than his birth name ever had. Here, no one cared that he was the son of Rosik Kemvimore, master of the Grain. No one expected him to lord over the city’s hungry. Here he was a pair of hands and a box of tinctures, and that was the whole of him, and it was enough.
 
@@ -46,7 +46,9 @@ He went back to the shelf. Behind him, the needle started again.
 
 Xion said nothing. Two words. That was all it had taken, in the end.
 
-Then the basket went down on the floor behind him, and the beaded curtain shuffled, and she was ushering the boy through.
+The needle had stopped somewhere behind him. He went back to the pestle. After a while it started again.
+
+Then the basket went down on the floor, and the beaded curtain shuffled, and she was ushering the boy through.
 
 His patient that morning was small for twelve, though malnutrition and worry made him look older in the face and younger everywhere else. His left hand, wrapped in a filthy rag, trembled as he offered it.
 
@@ -92,9 +94,9 @@ Xion opened his mouth and found there was nothing in it. There never was, at thi
 
 The water went pink and then clear. He worked the nail beds with his thumb, which took longer than it needed to, and when there was nothing left to do with his hands he looked up.
 
-She had gone back to her work and did not look up at him.
+She was looking at him. She had looked at him like that on and off for eight years and he had never once asked why.
 
-It was a tunic in her lap. Brown, plain, cut for a man who wanted to be looked past. His. She had made it, and the two before it, and had never once told him what the cloth cost. There was a bad row in the sleeve, and she was taking it out backward, stitch by stitch, patient, all the way down to the place where she had gone wrong.
+Then she went back to her work, and he saw what was in her lap. A tunic. Brown, plain, cut for a man who wanted to be looked past. His. She had made it, and the two before it, and had never once told him what the cloth cost. There was a bad row in the sleeve, and she was taking it out backward, stitch by stitch, patient, all the way down to the place where she had gone wrong.
 
 He dried his hands and went back to the pestle. Behind him the thread went on coming free, one small dry snap at a time.
 

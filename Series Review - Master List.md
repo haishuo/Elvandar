@@ -445,6 +445,36 @@ not a weighting error. It is Xion noticing something Xion would not notice.
 - Two words of dialogue cut in passing; the reduction is almost entirely stage direction, which
   is the correct place for it. No line of hers was lost to this pass.
 
+**Fourth ch1 pass — the quirk is staged instead of asserted**
+
+The third pass fixed the POV but left a contradiction the author caught: the narration *told* the
+reader Xion tunes the world out (*"He had stopped hearing it years ago, the way a man stops
+hearing a clock"*) and then the scene had him answer **every single line Janice spoke.** The
+quirk was announced and never dramatized.
+
+- **The clock sentence deleted.** It stated the thing the scene should demonstrate.
+- **The behaviour staged, in sound, once:** *"The needle had stopped somewhere behind him. He went
+  back to the pestle. After a while it started again."* She stopped and waited for an answer. He
+  didn't give one. She didn't ask again. Nobody comments — not her, not the narrator, not Xion,
+  who registers it only as a sound.
+- **This establishes the baseline that makes the coin land.** Pause-and-resume is eight years of
+  normal; at the coin the needle stops and **does not resume**. The later beat was previously
+  doing its work unsupported.
+- **The look, uninterpreted:** *"She was looking at him. She had looked at him like that on and
+  off for eight years and he had never once asked why."* Her emotion is never named — the reader
+  should not be able to settle between fondness, exasperation, grief and admiration, and neither
+  should Xion. **His not asking is the characterization; her looking is hers.** It also rhymes,
+  unstated, with *"I've never asked where the money comes from"*: neither of them asks the other
+  anything.
+- One redundant *"the needle started again"* cut earlier in the scene so the staged pause owns
+  the phrasing.
+
+**The principle, recorded because it has now misfired four times in the same direction:** the
+reviewer's reflex is to *assert* a character trait in narration and then write a scene that
+contradicts it. If a quirk is worth stating, it is worth staging — and if it is staged, the
+statement is redundant. Janice's whole register is what she declines to do; giving her a line, a
+gesture, or a narrator's gloss to carry it is the failure mode every time.
+
 **Not applied, recorded instead:** C-16 through C-19 above — the Act I ending habit, ch3's
 double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity opposite women.
 C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the
