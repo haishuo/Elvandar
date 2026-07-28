@@ -218,6 +218,23 @@ from the chapter filename, treats a leading heading as a paragraph, and renders 
 (Timeline / Characters / Emotional work / POV), footer notes on the load-bearing decisions.
 Functional planning documents, not prose. `Templates/Beat Draft Template.md` is the pattern.
 
+**Describe conversations; do not script them.** House measurements, for calibration: ~18–20 beats,
+~10 bold spans, footers of 400–750 words written as prose paragraphs under `**On X:**` headers,
+and **quoted or italicised text at roughly 10–15% of the draft.** A first attempt at Book 1's
+Act I came in at 39% quotation and 35 bold spans — a condensed transcript rather than a
+blueprint. Quote a line only when those exact words must land.
+
+**Writing a beat draft for prose that already exists takes three passes, not one.** Retro drafts
+have a specific failure mode: written by summarising the chapter, they inherit its flaws and
+launder them into "the plan." So — **write** the blueprint as if planning the chapter cold;
+**diff** it against the page, because the gaps are the findings; then **read the draft as if you
+have never seen the prose.** If you could not write the chapter from it, it is describing rather
+than planning, and the third pass is the only one that catches that.
+
+**Chapter skeletons are built from the beat drafts, not before them.** `*_skeleton.md` is a
+derived artifact — bottom-up from what the chapters actually do, never a top-down outline the
+drafts are then made to match.
+
 **Character sheets:** stack first, then function, then guardrails. The guardrails are the point —
 they are what stops a character from drifting between books.
 
