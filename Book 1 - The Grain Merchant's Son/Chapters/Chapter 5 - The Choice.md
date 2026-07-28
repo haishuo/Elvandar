@@ -106,17 +106,13 @@ Xion looked at his bandaged shoulder. "I noticed."
 
 "I don't need rescuing," Elara continued. "But I could use a guide. Someone who knows the city, who cares about its people. Someone who's already proven he's willing to risk everything for what's right."
 
-The offer hung between them, laden with possibility and peril. To stay here, to help her, meant abandoning any chance of returning to his old life. It meant becoming a fugitive in his own city.
-
-But the alternative—watching her disappear back into the compound while nothing changed, while children like Tam continued to suffer—was unbearable.
-
 "If we do this," he said slowly, "there's no going back."
 
 "No. There isn't." Elara's eyes were steady, certain. "For either of us."
 
-Xion thought of Tam's terrified face as the Slavers dragged him away. Of the fountain he'd passed that morning, wasting precious water while people died of thirst in other districts. Of all the small cruelties and systematic injustices he'd witnessed but felt powerless to change.
-
 "What would you want to see first?"
+
+He heard the question leave him and understood, a beat behind it, that it was the answer — that he had stopped weighing somewhere back before she finished speaking, and had not noticed doing it.
 
 Something shifted in Elara's expression—relief, perhaps, or determination. "Everything. But carefully. We can't afford to be recognized."
 

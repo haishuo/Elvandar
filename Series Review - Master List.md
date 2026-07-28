@@ -101,9 +101,7 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 
 ### Rule 2 — characterization
 
-**None outstanding.** R2-1 and Q1 are closed and purged to §7. Q2 is closed. One item remains deferred by the author:
-
-- **Q3. B1 ch5's speed — DEFERRED to a dedicated session at the author's request.** They agree to a life-destroying plan in ~40 lines. But *"He didn't even really consider it"* (ch19) establishes fast acceptance as how Xion decides. May be characterization rather than a gap.
+**None outstanding.** R2-1, Q1, Q2 and Q3 are all closed and purged to §7.
 
 ### Rule 3 — single-emotion integrity
 
@@ -712,6 +710,7 @@ Still to do: ch5–25, and a `book1_chapter_skeleton.md` to match Books 2 and 3.
 | R2-1 | **Done** | Treatment scene written (hand opened and drained, flask spent on the wound not the boy, last of the verbana, Janice's linen for binding and sling); ending fixed in the C-16 pass. |
 | Q1 | **Closed, no change** | Farleen's quiet Book 1 exit is correct. B2 defines her by presence without position; a character whose nature is unobtrusive constancy gets no curtain call in someone else's last act. The reviewer's note was wrong, not overruled. |
 | Q2 | **Closed** | Both halves. The length concern named 3,069 words; ch17 is now **1,670** — second-shortest in the book. Putting Xion inside an operation was already rejected: Farleen is tactically right that he is untrained, and the text says so. |
+| Q3 | **Closed — the filed diagnosis was wrong** | Not a pacing gap. **Deciding before he has weighed anything is the mechanism of the character**, established four times by ch5. The fault was that the chapter *staged a deliberation it had no room for* — ~90 words split either side of the acceptance, enough to invite the reader to audit the decision and nowhere near enough to survive the audit. Both passages cut. He now agrees the way he does everything: the question is the answer and he notices a beat late, rhyming with the ledger answer thirty lines on. A stray fountain he had not passed (the fountains are ch8) went out with the second passage. |
 | C-1 | **Stale** | ch3 no longer re-runs ch2's skepticism. The friends **believe** him and refuse anyway — *"I'd rather my friend was mad. Because a mad friend I can walk home."* The opposite of the flag. |
 | C-2 | **Stale** | ch6 is no longer walk/witness/explain/vow. It is the notice board, one idea, 1,453 words — *"They've been signing with my name. For twenty years."* No shape-rhyme with ch8 remains. |
 | C-3 | **Stale** | ch3 now has four scenes. Jorik is dramatized **and** so is the whole Amber Leaf refusal, which is the chapter's centre. No longer a montage. |
