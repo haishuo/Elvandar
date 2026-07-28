@@ -134,7 +134,7 @@ The enforcer took hold of the boy’s arm to move him along, and took it just ab
 
 His hands closed. He took a half step forward.
 
-Then he did the arithmetic, because that was the other thing he had never been able to stop doing. Three men. A square emptying by the second. A boy who could be hurt a great deal worse in the time it would take anyone to cross to him. He stopped, and stayed stopped, and it was the correct decision, and being correct did nothing for him at all.
+Then he did the arithmetic. Three men. A square emptying by the second. A boy who could be hurt a great deal worse in the time it would take anyone to cross to him. He stopped, and stayed stopped, and it was the correct decision, and being correct did nothing for him at all.
 
 That was when he saw her.
 
