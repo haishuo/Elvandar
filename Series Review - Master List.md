@@ -129,7 +129,7 @@ them.*
 
 | # | Item |
 |---|---|
-| C-20 | **The verdict-stamp habit.** *"That was the whole of it"* is used **seven times as a narration stamp** — ch3, ch7, ch9, ch10, ch11, ch14, ch20 — plus two variants (ch6 *"the sour heart of it"*, ch18 *"The stop was the whole of it"*). Every instance sits in the same syntactic slot doing the same job: telling the reader the preceding observation was the conclusion. Book 1 uses it in narration **once** (ch17); its two other Book 1 hits are dialogue and idiom. So this is a Book 2 drafting habit, not a motif. Supersedes C-13. **Proposal drafted, not applied — see the changelog.** |
+| C-20 | **The verdict-stamp habit.** *"That was the whole of it"* is used **seven times as a narration stamp** — ch3, ch7, ch9, ch10, ch11, ch14, ch20 — plus two variants (ch6 *"the sour heart of it"*, ch18 *"The stop was the whole of it"*). Every instance sits in the same syntactic slot doing the same job: telling the reader the preceding observation was the conclusion. Book 1 uses it in narration **once** (ch17); its two other Book 1 hits are dialogue and idiom. So this is a Book 2 drafting habit, not a motif. Supersedes C-13. **Proposal drafted and revised once after author review (ch20 added to the cuts); not applied. See the changelog.** |
 | C-21 | **ch6 and ch10 both close on an anaphoric enumeration of impotence**, four chapters apart, reaching the same verdict by the same device. ch6: *"He'd had a title once… He'd had an Empress to serve… He had a father still…"* ch10: five consecutive *"He could not…"* then *"no wound to close, no name to spend, no gate to talk his way through, no plan, no lever, no move anywhere in the world."* Same shape, same position, same conclusion. **No proposal yet** — this is a structural change to two chapter endings and needs its own pass. Note that C-13 wrongly included ch7 here; ch7's ending is four short lines and is one of the best in the book. |
 | C-22 | **ch3 reassigns "cage" mid-chapter.** Melina's line 69 — *"she is not on that throne to make the cage more comfortable"* — has cage = the token system. The narration twelve lines later at 81 — *"sight had become the cage"* — has cage = Elara's own knowledge. Two referents, one word, twelve lines apart. ch9's third use is earned (the tragedy of ch3 becomes the defeat of ch9). Line-level, small, and may not be worth doing. |
 
@@ -834,20 +834,40 @@ Proposed disposition — **cut five, keep two, leave the variants**:
 | ch10 | *"That was the whole of it. He could not reach her; …"* | Delete the sentence. The line immediately above it already says *"And there was nothing he could do with the knowing."* — **the strongest cut of the five, because the stamp is redundant with the line above it.** |
 | ch11 | *"And that was the whole of it, laid open in a single question, and neither of them had a thing to set against it."* | *"It was laid open in a single question, and neither of them had a thing to set against it."* Avoid *"And there it was"* as the replacement — ch9:53 already uses it with *"laid out."* |
 | ch14 | *"…and the hand had opened, and that was the whole of it, and it was killing people for no reason a ledger could hold."* | *"…and the hand had opened, and it was killing people for no reason a ledger could hold."* |
-| ch20 | *"And it was not the Lord of the Grain he was remembering. That was the whole of it."* | **Keep — do-not-touch chapter**, and see below. |
+| ch20 | *"And it was not the Lord of the Grain he was remembering. That was the whole of it. Not the man who kept his ledgers in three rooms…"* | **Cut — author's call, and correct.** Delete the sentence. See the note below on why this one is a repair rather than a tightening. |
 | ch6, ch18 | variants | **Leave.** ch18 is do-not-touch; ch6's ending is C-21's problem and should be handled there, not here. |
 
 Footprint: five sentences, ~30 words out, four words in. Every change is a deletion except ch11's.
 
-**The argued benefit, offered as a benefit and not as pre-existing design:** with the middle five
-gone, the formula survives at ch3 and ch20 only — the chapter where he understands he caged her with
-the truth, and the chapter seventeen later where he understands it was not the Lord of the Grain he
-was remembering. Same construction, same function, and the second reframes the first's subject. That
-is a recurrence that moves rather than a tic. **It is not currently designed that way**; the cut
-would make it so.
+**Revised after author review — the ch20 instance goes too, and my reasoning for keeping it was
+wrong.** I had proposed keeping ch20 on do-not-touch grounds and then argued that ch3 and ch20 would
+form a bookend once the middle five were cut. The author's instinct was that ch20 should change or go,
+and the passage settles it: **ch20's is the one instance that actively malfunctions.**
 
-**Alternative disposition, if the above over-reads:** cut all five *and* ch3, treating the phrase as
-pure habit. ch18 and ch20 stay either way, because both chapters are on the do-not-touch list.
+*"And it was not the Lord of the Grain he was remembering. That was the whole of it. Not the man who
+kept his ledgers in three rooms and knew which room a magistrate would be shown. A father — someone
+who had picked him up and set him somewhere high…"*
+
+It declares completeness and the paragraph then runs on for six more sentences carrying the actual
+content — Mira, the letting, the house that stops being a monument, the man who had once been a
+person. And it is wedged into the middle of a parallel: **not X, not Y, but Z.** Deleting it repairs
+the syntax rather than merely tightening the prose, which makes it the second-strongest cut in the
+set after ch10's. In ch3 the phrase completes its own sentence; here it interrupts one. That is the
+distinction, and it is the one I missed.
+
+**The bookend argument is dead, not weakened.** ch20's instance was never available to be a bookend,
+because it is the broken one. Six cuts, one keep.
+
+**Remaining decision — ch3, now the sole survivor.** One narration use across twenty chapters is
+exactly Book 1's ratio (ch17), so it reads as voice rather than habit; that is the recommendation.
+The counter-argument is that deleting it yields *"He had told her the truth. There was no untelling
+it"* — shorter and harder, and arguably better than what is on the page. The choice is between
+de-habituating the construction and removing it from the narrator's voice altogether.
+
+**ch18 stays regardless, and not only because the chapter is protected.** *"The stop was the whole of
+it"* is a different construction doing a different job: the subject is Silvanno's pause, and the
+sentence identifies which part of an utterance carried the meaning rather than stamping a conclusion
+onto the paragraph above it. Leave it.
 
 ---
 
