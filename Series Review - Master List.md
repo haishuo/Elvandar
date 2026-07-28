@@ -593,7 +593,27 @@ nowhere mid-flight. One detail, three meanings: he grew up inside this world, he
 burgle it, and the knowledge was innocent when he got it. *(Deliberately not "since he was nine" —
 that phrasing is already load-bearing in ch5 for the ledger rooms.)*
 
-**Still outstanding:** ch23/ch24 (**both open their endings with the same sentence** — *"Everything came down to Sa Ko Ren
+**ch23 and ch24 — written.** Both were far worse than the three lines first quoted: ch23 ran **nine** lines of narrator summary and ch24 **eight**, including a literal recap of the book's chapter list (*"That moment in the crowd… The desperate search… The infiltration of the compound… Farleen's betrayal… The descent into the Warrens… Tam's rescue… The divine trial… The Long Knives"*). Both also closed with the epithet construction — *"The grain merchant's son stood among warriors and nobles…"* / *"…walked beside the woman who'd proven herself worthy through fire"* — which is a camera pull-back as well as outline language.
+
+**ch23** now ends on Xion's position rather than Elara's ascent:
+
+> Elara was in the middle of it, Vesk at her shoulder, two of his officers standing by to be told things.
+>
+> Xion found a place along the wall and put his back against it. Nothing in the room had needed him for several minutes.
+
+He found her, and the institution is taking her back, and he is against a wall watching it happen. Being needed is his whole identity, so *"nothing in the room had needed him"* is the sharpest available knife and it names no feeling at all. **This is a Book 2 plant** — B2's premise is the institution separating them (Elara appears in one chapter of twenty), and that separation now begins on the page, two chapters before the coronation, with nobody remarking on it.
+
+**ch24** ends on the tally he has been keeping all chapter. Line 107 already had him counting her injuries mid-fight — *"the left forearm that would be black by morning, the hip she had begun favouring by a degree she did not know she was favouring, the shoulder she had stopped raising past a certain height"* — and the chapter then dropped it. Now it pays:
+
+> Ahead of them Elara had stopped limping. Xion watched what it cost her to stop — the forearm held still, the hip taken out of the stride, the shoulder kept level by deciding to keep it level.
+>
+> *Nothing broken.* True, and the smallest true thing available, and she had chosen it.
+>
+> He kept the rest of the list to himself.
+
+His instrument, her character, and the relationship in three sentences, with none of the three stated. **Not a consent break** — he is declining to press, which is restraint, not overreach; the guardrail is about him acting without asking, not about him letting her keep a small lie she needs.
+
+**Still outstanding:** (**both open their endings with the same sentence** — *"Everything came down to Sa Ko Ren
 now"* / *"Everything came down to one final step now"* — two chapters running); ch25 (C-6, and
 do-not-touch: fix the flatness, not the triumph).
 

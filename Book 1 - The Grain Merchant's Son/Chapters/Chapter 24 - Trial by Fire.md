@@ -194,26 +194,10 @@ Kael fell into step beside Xion. "That went better than I expected."
 
 "She proved what needed proving." Kael's voice was matter-of-fact. "Sa Ko doesn't care about winning. She cares about worth. Elara demonstrated worth."
 
-Vesk was already organizing the next steps, speaking quietly with his commanders about timing, routes, the approach to the Imperial Palace. The Arol Batae moved with renewed purpose—their twenty-year wait was ending. Today. Within hours.
+Vesk was already organizing the next steps, speaking quietly with his commanders about timing and routes and the approach to the palace.
 
-Farleen walked slightly apart from the group, her expression unreadable. Xion caught her eye and saw something complicated there. Understanding, maybe. Or acceptance that this was really happening. That the world they'd known was ending, and something new was beginning.
+Ahead of them Elara had stopped limping. Xion watched what it cost her to stop — the forearm held still, the hip taken out of the stride, the shoulder kept level by deciding to keep it level.
 
-"Tonight," Elara said quietly, more to herself than anyone else. "By tonight, everything changes."
+*Nothing broken.* True, and the smallest true thing available, and she had chosen it.
 
-Xion thought about the journey that had brought them here. That moment in the crowd when he'd seen her eyes change color. The desperate search. The infiltration of the compound. Farleen's betrayal. The descent into the Warrens. Tam's rescue. The divine trial. The Long Knives. All of it converging on this moment, this day, this final test that had just been passed.
-
-The path to the throne was open.
-
-Tomorrow they would be dealing with the reality of rule—the political consequences, the other cartels' responses, the work of actually transforming Kaha'an rather than just claiming authority over it. Tomorrow would bring all the complications they hadn't had time to think about.
-
-But that was tomorrow's problem.
-
-Today, they would walk to the Imperial Palace. Today, the heir would claim what had been stolen twenty years ago. Today, Kaha'an would have an empress again.
-
-The grain merchant's son walked beside the woman who'd proven herself worthy through fire, and felt the future opening before them like a door finally unlocked.
-
-Everything came down to one final step now.
-
-The throne itself, waiting in its empty palace.
-
-Waiting for someone brave enough to sit upon it and bear the weight of empire.
+He kept the rest of the list to himself.
