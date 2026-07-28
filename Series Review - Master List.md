@@ -563,9 +563,37 @@ twelve-year-old boy was working in the dark."* Strictly Xion cannot see this. It
 is picturing, having just learned where Tam is, and it is one of the strongest endings in the
 book. **Keep. Do not flag again.**
 
-**Still outstanding:** ch9 (deferred to a dedicated pass — cutting the three *"Tomorrow"*s leaves
-*"Even if it cost them everything,"* which is its own portent, so this one needs writing);
-ch23/ch24 (**both open their endings with the same sentence** — *"Everything came down to Sa Ko Ren
+**ch9 — written, not cut.** The only ending in the pass that had nothing good buried under it. The
+three *"Tomorrow"*s and the two paragraphs above them all went; the replacement puts him on the
+floor rehearsing, which is his instrument, and lets the chapter's real subject arrive without
+being named.
+
+The chapter is called *Codes and Signals* and has spent three days teaching Elara to say things
+she does not mean. It then builds a cover story in which Xion is courting her — and drops it.
+The new ending picks it back up **as a flaw in his own tradecraft**: he checks the story for the
+loose thread somebody will pull, and cannot find one, and *that* is the problem.
+
+> He couldn't find one. That was the trouble with it. It accounted for every hour he had spent
+> standing too close to her, and for his hand at the small of her back turning her through a
+> figure, and it would go on accounting for all of it, all evening, in front of everyone.
+>
+> Across the room her breathing had gone slow and even some time ago.
+>
+> He went back to the exits.
+
+A cover perfect for something that is not happening is indistinguishable from a cover perfect for
+something that is. Neither of them says so; the chapter does not say so. **"He went back to the
+exits" is the take-over in its benign form** — feeling arrives, a faculty engages, and the feeling
+is gone. Same mechanism as B2's cold, at no cost to anybody. Do not gloss it.
+
+Also plants ch10's escape: *"The place in the eastern wall where the stones had shifted, which he
+had known about since he was a child at somebody's party and had never once expected to need"* —
+ch10 has him know the weak point *"from childhood parties"* and previously produced it from
+nowhere mid-flight. One detail, three meanings: he grew up inside this world, he is about to
+burgle it, and the knowledge was innocent when he got it. *(Deliberately not "since he was nine" —
+that phrasing is already load-bearing in ch5 for the ledger rooms.)*
+
+**Still outstanding:** ch23/ch24 (**both open their endings with the same sentence** — *"Everything came down to Sa Ko Ren
 now"* / *"Everything came down to one final step now"* — two chapters running); ch25 (C-6, and
 do-not-touch: fix the flatness, not the triumph).
 

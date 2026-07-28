@@ -300,14 +300,12 @@ She nodded slowly. "Tomorrow night, then."
 
 "Tomorrow night." Xion released her hand, stepping back from the dance position they'd held. "Get some rest. It'll be a long evening."
 
-That night, Xion lay awake in his corner of the apartment (they'd maintained strict separation, him on the floor, her on the bed) and wondered if he was leading them both to disaster. Every scenario he'd planned for, every contingency he'd imagined—it still felt like too many things could go wrong.
+That night he lay on the floor of the borrowed apartment — the floor and the bed, an arrangement neither of them had ever proposed out loud — and went through the exits again. The garden doors. The hedge line. The place in the eastern wall where the stones had shifted, which he had known about since he was a child at somebody's party and had never once expected to need. He had it. He'd had it for two days.
 
-But Elara's steady breathing from across the room reminded him why they were taking this risk. She deserved to see her city, to understand her people, to witness the corruption being committed in her family's name.
+Then he went through the story. Elara Sarif of Uratha, textiles and dyes, in the capital for the season; the son of the house being gracious about it because her father's ships mattered. He turned it over the way he turned everything over, looking for the loose thread somebody would pull.
 
-Even if it cost them everything.
+He couldn't find one. That was the trouble with it. It accounted for every hour he had spent standing too close to her, and for his hand at the small of her back turning her through a figure, and it would go on accounting for all of it, all evening, in front of everyone.
 
-Tomorrow, they would walk into the lion's den wearing masks and false names, surrounded by people who would destroy them if they knew the truth.
+Across the room her breathing had gone slow and even some time ago.
 
-Tomorrow, Elara would see noble society with all its cruelty exposed.
-
-Tomorrow, they would discover if three days of training was enough to keep them alive.
+He went back to the exits.
