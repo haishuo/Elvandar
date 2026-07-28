@@ -1,30 +1,36 @@
 The verbana had to go fine enough to pass through cloth, which took longer than anyone believed until they tried it, and Xion Kemvimore had been at it since before the light came up. The back room of Mistress Janice’s weaver shop held heat the way a kiln did — dried root, vinegar, wet wool, and no window worth the name. Sweat ran into his collar and he did not stop for it. The powder went from green to grey to something like dust, and the work was better than the world outside, and that was the whole of why he did it at this hour.
 
-Janice sat in the doorway with her work-basket in her lap, taking a row out. It was one of his — brown, plain, cut for a man who wanted to be looked past. She had made it, and the two before it, and had never told him what the cloth cost. One thread miscounted the day before, and out it all came, backward, patient, stitch by stitch, until she reached the place where she’d gone wrong. She did that most mornings. He had stopped hearing it years ago, the way a man stops hearing a clock.
+Behind him, in the doorway, Janice was working at something. She was always working at something. He had stopped hearing it years ago, the way a man stops hearing a clock.
 
-“There’s a boy at the front,” she said, without looking up. “Twelve, thereabouts. Left hand wrapped in something I wouldn’t use to wipe a table.”
+“There’s a boy at the front,” she said. “Twelve, thereabouts. Left hand wrapped in something I wouldn’t use to wipe a table.”
 
 Xion set down the pestle. “Send him back.”
 
-“In a moment.” She drew another inch of thread free. “I asked him what he could pay.”
+“In a moment.” The needle kept working. “I asked him what he could pay.”
 
 “Janice—”
 
-“I ask everyone. You know I ask everyone.” She held the unpicked row up to the light, squinting at the gap in it. “He said he’d pay you back. Not that he’d pay. That he’d pay you **back**. There’s a difference, and he’s twelve, and he already knows it.”
+“I ask everyone. You know I ask everyone. He said he’d pay you back. Not that he’d pay. That he’d pay you **back**. There’s a difference, and he’s twelve, and he already knows it.”
 
 “Then he doesn’t pay.”
 
-“That’s what I told him. It’s what I always tell them.” She lowered the work into her lap. “And every time I tell them, I think about the day somebody sits in my front room who isn’t a starving child, and hears it.”
+“That’s what I told him. It’s what I always tell them. And every time I tell them, I think about the day somebody sits in my front room who isn’t a starving child, and hears it.”
 
 He knew this road. They’d walked it a dozen times, and it went the same way every time.
+
+He turned to the shelf while she talked, because it was easier than facing her, and took stock the way he did every morning. Clear liquor, most of a bottle. Verbana, enough for the week. Needle, gut, the good tweezers. He lifted the lid of the linen box and found one roll in it, and put the lid back down, and said nothing about that either.
 
 “One copper,” she said. “From anybody who’s got one. Hand it straight back out the door for all I care — I want a number in the book.”
 
 “They come here **because** there’s no number in the book.”
 
-“They come here because you’re the only healer in four districts who doesn’t ask.” Her eyes came up then, flat and patient, and stayed on him. “Which is a fine thing to be, Fen. A man who charges nothing is a man somebody else is paying for.”
+“They come here because you’re the only healer in four districts who doesn’t ask.”
 
-She looked back down at the sleeve in her lap.
+Something in the way she said it made him turn round. Her eyes were up, flat and patient, and they stayed on him.
+
+“Which is a fine thing to be, Fen. A man who charges nothing is a man somebody else is paying for.”
+
+He went back to the shelf. Behind him, the needle started again.
 
 *Fen.* The name fit him better than his birth name ever had. Here, no one cared that he was the son of Rosik Kemvimore, master of the Grain. No one expected him to lord over the city’s hungry. Here he was a pair of hands and a box of tinctures, and that was the whole of him, and it was enough.
 
@@ -32,15 +38,13 @@ She looked back down at the sleeve in her lap.
 
 “No. You haven’t.”
 
-“I’d like it noted that not asking is work.” She went back to her thread. “The woman whose name you took wouldn’t have argued with me about the copper.”
+“I’d like it noted that not asking is work. The woman whose name you took wouldn’t have argued with me about the copper.”
 
 “She’d have argued with you for an hour and then done exactly what she wanted.”
 
 “Yes.” A stitch came free with a small dry snap. “And look how that ended.”
 
 Xion said nothing. Two words. That was all it had taken, in the end.
-
-He turned to the shelf while she talked, because it was easier than facing her, and took stock the way he did every morning. Clear liquor, most of a bottle. Verbana, enough for the week. Needle, gut, the good tweezers. He lifted the lid of the linen box and found one roll in it, and put the lid back down, and said nothing about that either.
 
 Then the basket went down on the floor behind him, and the beaded curtain shuffled, and she was ushering the boy through.
 
@@ -60,7 +64,7 @@ Xion caught his eye. “You’re a brave one. Didn’t even cry.”
 
 The boy’s lips pressed tight. “Can’t work if you cry.” His voice was flat, and Xion heard a thousand other children in it — every orphan and cast-off this city chewed up.
 
-He worked quickly, tweezing out the glass and trying not to think about why the boy’s hands had been in broken bottles to begin with. Behind him, in the doorway, the needle kept going.
+He worked quickly, tweezing out the glass and trying not to think about why the boy’s hands had been in broken bottles to begin with. Behind him the needle kept going.
 
 Seven stitches. He dressed the hand with the linen from the box and used all of it. “Keep this hand still for three days at least,” he said. “A week would be better.”
 
@@ -84,7 +88,15 @@ The curtain clicked and settled. Janice did not pick her work back up.
 
 Xion opened his mouth and found there was nothing in it. There never was, at this part.
 
-“His mother’s sick,” he said again, and went to clean the blood off his hands.
+“His mother’s sick,” he said again, and went to the basin to clean the blood off his hands.
+
+The water went pink and then clear. He worked the nail beds with his thumb, which took longer than it needed to, and when there was nothing left to do with his hands he looked up.
+
+She had gone back to her work and did not look up at him.
+
+It was a tunic in her lap. Brown, plain, cut for a man who wanted to be looked past. His. She had made it, and the two before it, and had never once told him what the cloth cost. There was a bad row in the sleeve, and she was taking it out backward, stitch by stitch, patient, all the way down to the place where she had gone wrong.
+
+He dried his hands and went back to the pestle. Behind him the thread went on coming free, one small dry snap at a time.
 
 ---
 

@@ -410,6 +410,41 @@ that when it mattered he froze, and then froze **again**; the chapter has to clo
 not on a reason for it. Recorded so this is not re-attempted: **do not give Xion a structural
 explanation for his own paralysis anywhere in Book 1.**
 
+**Third ch1 pass — Janice becomes sound before she becomes sight**
+
+The remaining problem was not screen time, it was **POV**, and the author named it exactly: Jaime
+does not do a parallel symbolic action in the Tywin scene. He stands there and is lectured. The
+work belongs to one man. Giving Janice her own load-bearing prop in paragraph two made two
+characters do meaningful things at once, which halves both.
+
+Worse, it broke the book's own rule. **What Xion attends to is what the reader attends to**, and
+when he is working he attends to nothing else — ch21 states it outright: the Mistress walks into
+the chamber, he never notices because he is treating Tam, and he shushes Farleen for trying to
+tell him. A paragraph describing Janice's sewing while his hands are in the verbana is therefore
+not a weighting error. It is Xion noticing something Xion would not notice.
+
+- **Paragraph 2 reduced to sound.** *"Behind him, in the doorway, Janice was working at
+  something. She was always working at something. He had stopped hearing it years ago, the way a
+  man stops hearing a clock."* The line now does double duty: literally he is not attending, and
+  he has stopped noticing her at all.
+- **Every visual stage direction in the working section converted or cut** — *she drew another
+  inch of thread free*, *she held the unpicked row up to the light, squinting at the gap in it*,
+  *she lowered the work into her lap*, *she went back to her thread*, *she looked back down at
+  the sleeve in her lap*. What remains is audible: *the needle kept working*, *Behind him the
+  needle kept going*, *A stitch came free with a small dry snap*, and *Behind him, the needle
+  stopped.*
+- **She gets one look and has to earn it.** *"Something in the way she said it made him turn
+  round. Her eyes were up, flat and patient, and they stayed on him."* He sees her face, not her
+  hands, and goes straight back to the shelf.
+- **The stocktake moved earlier**, so his hands are busy through the second half of the argument.
+  He is the one working while being lectured — the Tywin position, correctly assigned.
+- **The tunic is revealed once, at the basin.** After the coin, after her warning, when he has
+  washed the blood off and there is nothing left to do with his hands. He looks up; she does not
+  look up at him. Escalation across the chapter is now **sound → sound → silence → sight**, and
+  the evening beat (*still taking out the same sleeve*) closes it.
+- Two words of dialogue cut in passing; the reduction is almost entirely stage direction, which
+  is the correct place for it. No line of hers was lost to this pass.
+
 **Not applied, recorded instead:** C-16 through C-19 above — the Act I ending habit, ch3's
 double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity opposite women.
 C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the

@@ -19,6 +19,13 @@ lower number wins. Every proposed change gets checked against these in order.
    she exists through Xion's eyes and ears. The camera is either *in* Xion or *on* Xion, and by
    default you do not describe things Xion neither sees nor does.
 
+   **What Xion attends to is what the reader attends to.** This is the operative form of the
+   rule, and it bites hardest when he is working: if it is about healing, he sees nothing else,
+   and so neither do we. B1 ch21 is the model — the Mistress walks into the chamber and he never
+   notices, because he is treating Tam, and he shushes Farleen for trying to tell him. So a
+   supporting character cannot be *described* while his hands are busy; she can be a voice and a
+   sound and nothing more. Give her the visual beat afterward, when he has attention to spare.
+
    **Moving it off him is allowed, but it has to be argued for.** The argument must be about why
    *this* scene earns the move in a book called *The Grain Merchant's Son* — "we are establishing
    the entire book here," "we are ending the entire book here and this is a cinematic pull-away."
