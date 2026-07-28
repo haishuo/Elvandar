@@ -129,7 +129,7 @@ them. C-20 has since been applied and is closed; C-21 and C-22 remain open.*
 
 | # | Item |
 |---|---|
-| C-21 | **ch6 and ch10 both close on an anaphoric enumeration of impotence**, four chapters apart, reaching the same verdict by the same device. ch6: *"He'd had a title once… He'd had an Empress to serve… He had a father still…"* ch10: five consecutive *"He could not…"* then *"no wound to close, no name to spend, no gate to talk his way through, no plan, no lever, no move anywhere in the world."* Same shape, same position, same conclusion. **No proposal yet** — this is a structural change to two chapter endings and needs its own pass. Note that C-13 wrongly included ch7 here; ch7's ending is four short lines and is one of the best in the book. |
+| C-21 | **REFRAMED after investigation — the filed version is weak and I would not act on it alone.** The claim was that ch6 and ch10 close on the same anaphoric enumeration of impotence. True but thin: the two lists differ in tense, grammar and content (ch6 is what he *had*, ch10 is what he *cannot do*) and sit four chapters apart. What is actually actionable is **internal to ch10 — it runs the same enumeration twice.** Three of the six items in the closing *"no wound to close, no name to spend, no gate to talk his way through"* are compressed restatements of three of the five *"He could not…"* clauses one paragraph above. **Proposal drafted, not applied — see the changelog.** |
 | C-22 | **ch3 reassigns "cage" mid-chapter.** Melina's line 69 — *"she is not on that throne to make the cage more comfortable"* — has cage = the token system. The narration twelve lines later at 81 — *"sight had become the cage"* — has cage = Elara's own knowledge. Two referents, one word, twelve lines apart. ch9's third use is earned (the tragedy of ch3 becomes the defeat of ch9). Line-level, small, and may not be worth doing. |
 
 ### Do not touch
@@ -860,6 +860,64 @@ because it is the broken one. Six cuts, one keep.
 
 **Author's ruling on ch3: cut it too.** So the construction leaves the narrator's voice entirely
 rather than being thinned to one use. Seven cuts, none kept.
+
+**Observed and deliberately left:** ch18's *"That was all of it. Not modesty; he had done the thing…"*
+is a cousin of the cut construction and was seen, not missed. It survives on two grounds — the
+chapter is do-not-touch, and the sentence after it *corrects* a likely inference rather than
+elaborating an already-finished one. Recorded so a later reader knows it was considered.
+
+**C-21 — the ch6/ch10 endings. INVESTIGATED, REFRAMED, PROPOSAL DRAFTED, NOT APPLIED.**
+
+Checked the length profile and scanned all twenty endings before proposing, per the rhythm rule.
+Two things came back.
+
+**Book 2's signature ending is short and hard**, which the flag did not account for and which makes
+the two long ones conspicuous. Thirteen of twenty close in one or two sentences — ch4's *"So he
+went."*, ch7's *"He was not in the room."*, ch8's *"He did not remove the collar."*, ch12's *"He
+meant to keep it."*, ch13's *"In the dark, his clean hands found the door."* Against that, ch6 and
+ch10 are the only two chapters that close on a long enumeration. So the flag was pointing at
+something real.
+
+**But the two lists are less alike than the flag claimed.** ch6's is past-tense loss — *he'd had a
+title, an Empress, a father.* ch10's is present-tense impossibility — *he could not reach her,
+could not put his hands on the hurt, could not carry a name.* Different tense, different grammar,
+different content, four chapters apart, and both beat drafts specify an alone-ending as the plan
+(ch6 beat 17, ch10 beat 21). **Two chapters ending on lists of different kinds is not a finding**,
+and cutting either enumeration wholesale would cost real material: ch6's ends on *"without any
+villain in the doorway at all,"* which is that chapter's thesis, and *"at the bottom of the
+chalice,"* which collects the title.
+
+**What is actually there is inside ch10, and the flag missed it.** The ending runs the same
+enumeration twice, one paragraph apart:
+
+| First list — *"He could not…"* | Restated in the closing aside |
+|---|---|
+| *"He could not put his hands on the one hurt in all the city…"* | *"no wound to close"* |
+| *"He could not carry a name to the Arol Batae…"* | *"no name to spend"* |
+| *"He could not reach her; the gate had been shut…"* | *"no gate to talk his way through"* |
+
+Three of the six items in the closing aside are compressed restatements of three of the five clauses
+above them. The remaining three — *no plan, no lever, no move anywhere in the world* — are new, and
+are the generalising tail the sentence actually needs.
+
+**Proposed fix, ch10 only:** delete the three restated items from the aside and keep the em-dash
+construction and the new tail.
+
+> Now he sat on a low wall in the failing light with the worst news he had ever been handed and his
+> hands hanging empty — no plan, no lever, no move anywhere in the world — and understood that this,
+> at last, was the thing there was no doing anything about.
+
+Fourteen words out, nothing added. The five-item *"He could not"* list stays intact — every item in
+it names a distinct closed door and says why it is closed, which is argument rather than lament, and
+it is what makes ch11's decision land.
+
+**Optional second cut, ch6:** *"That was the sour heart of it"* — the last surviving variant of the
+C-20 construction, more exposed now the seven are gone. Four words, pure deletion; *"There was, in
+truth, another roof"* already carries the weight. Offered separately because it belongs to C-20's
+family rather than to this item.
+
+**Withdrawn from C-21 as filed:** any cut to ch6's three-part list, and any change to ch10's *"He
+could not"* list. Both were the flag's actual target and both are correct as written.
 
 **ch18 stays regardless, and not only because the chapter is protected.** *"The stop was the whole of
 it"* is a different construction doing a different job: the subject is Silvanno's pause, and the
