@@ -132,7 +132,8 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 | C-11 | ch18 — Ronas's dialect wobbles between registers. |
 | C-16 | **Chapter endings — LARGELY DONE.** Audited all 25; 8 already worked, 13 fixed by pure deletion, ch18 was a rule 1 contradiction and is fixed. **Outstanding: ch9** (needs writing, not cutting), **ch23/ch24** (both open their endings with *"Everything came down to…"* — proposals pending), **ch25** (C-6, and on the do-not-touch list). Full account in the changelog. The hypothesis held: the later a passage sits in a chapter, the more likely it is to be un-revised. |
 | C-17 | ch3 states its best insight twice, 28 lines apart — *"spent four days building an argument for being believed"* (l.111) and *"He had spent four days wanting to be believed"* (l.139). The second adds the cost, which is new; the shared clause is repetition. |
-| C-18 | **ch4's betrayal scene is the least-revised prose in Act I.** Ten emotional descriptors (*voice cracked / burst out raw and anguished / tears gathered / crying openly / voice broke / dissolved into sobs / came out as a sob / came out as a wail / choked on the words / face breaking with grief and self-loathing*) against four purely physical ones in ch3's comparable Silvanno scene. The structural redesign of the scene is right — old-draft Farleen is cold and Xion survives by medallion; new Farleen breaks, which is what makes ch13–17 possible. The prose has not caught up to the redesign. |
+| C-18 | **DONE.** The POV bends replaced with misattribution, crying descriptors thinned 12 → 5, Farleen's *exposition* trimmed while every self-interruption was kept. **Move 1 (Xion deduces the spy) is dead — do not revive:** the author's design is that he fails to catch it, and having him deduce it would destroy the chapter. See changelog. Original entry below. |
+| ~~C-18~~ | ~~**ch4's betrayal scene is the least-revised prose in Act I.**~~ Ten emotional descriptors (*voice cracked / burst out raw and anguished / tears gathered / crying openly / voice broke / dissolved into sobs / came out as a sob / came out as a wail / choked on the words / face breaking with grief and self-loathing*) against four purely physical ones in ch3's comparable Silvanno scene. The structural redesign of the scene is right — old-draft Farleen is cold and Xion survives by medallion; new Farleen breaks, which is what makes ch13–17 possible. The prose has not caught up to the redesign. |
 | C-19 | ~~Xion goes verbally passive opposite women who hold information he lacks.~~ **WITHDRAWN — not a real problem. DO NOT RELITIGATE.** ch5 breaks the pattern: Elara ~350 words to Xion's ~150 (2.3:1), the same ratio as post-fix ch1, and he has 18-, 25- and 30-word speeches there, confesses his father unprompted, and drives the chapter's hardest exchange. Only ch4 is lopsided (6.4:1), and ch4's problem is C-18. Flagged off two data points and generalised; the third killed it. Author dropped it. |
 
 ### Craft — Book 2
@@ -633,7 +634,50 @@ The Jurassic Park test settles it. That scene has a cue — the score swells. Wh
 now"* / *"Everything came down to one final step now"* — two chapters running); ch25 (C-6, and
 do-not-touch: fix the flatness, not the triumph).
 
-**Not applied, recorded instead:** C-17 through C-19 above — the Act I ending habit, ch3's
+**C-18 — ch4's betrayal, and the author's design recovered**
+
+I filed this as a prose-register problem (ten emotional descriptors) and then as a density
+problem. **Both were wrong about the cause.** The author's clarification: Xion is *blinded by joy
+at having found Elara* and fails to notice signs his diagnostic mind would normally catch. The
+two *"he didn't notice"* constructions were a deliberate POV bend, chosen because there seemed no
+other way to give the reader the signs.
+
+**There is another way, and the book had already set it up.** Ch3 establishes his method as
+elimination — *"eliminate possibilities until only the truth remained."* The known failure mode of
+elimination is that once you reach your answer, every new datum confirms it. **Ch4's blindness is
+the shadow of ch3's method**, so the faculty stays *on* and produces the wrong result. He is not
+unobservant; he is **wrong**, which is better characterization, needs no POV bend, gives the
+reader *more* signal than before, and makes a reread devastating.
+
+Applied — three misattributions replacing two bends:
+
+- **The greeting.** *"…something moved in her own. He took it for the news arriving — he had been carrying it in his face the whole way back, he could feel that he had — and he was across the yard before she had finished composing herself."* He half-registers her **composing herself** and does not ask why.
+- **The flicker.** *"…her voice was very level — the level voice she used when she was frightened, and she was entitled to be frightened, because he had just told her the imperial heir was alive and that four people now knew where."* He reads the sign **correctly** (level voice = fear) and supplies the wrong cause. That is diagnostic error exactly.
+- **The alley.** *"He was glad of it. There was nothing he had to say that could be said in a yard."* She selects the killing ground and **he is grateful to her for her discretion.**
+- **Deliberately not glossed: "Her hands were shaking."** After two misattributions the reader has learned the pattern; a bare unglossed sign is stronger than a third gloss, because the reader supplies the misreading. **Do not add one.**
+
+**Crying descriptors 12 → 5**, now escalating rather than repeating: *voice cracked* → *the words
+burst out of her* → *she was crying now, openly* → *she couldn't finish the sentence* → the lunge.
+Cut: *raw and anguished*, *tears gathered*, both duplicate *her voice broke*s, the second *voice
+cracked*, *came out as a sob*, *dissolved into sobs*, *choked on the words*, *came out as a wail*,
+*tears streaming down her face*, and *her face breaking with grief and self-loathing* — the last
+leaving *"She looked at him one last time, and lunged,"* which is much stronger bare.
+
+**Move 3 applied lightly and on a principle, per the author.** *"Once the words come out it's like
+a dam breaks and the words tumble out almost against her will"* — so **the tumbling is the
+characterization and stays.** Every repetition, self-interruption and broken-off sentence was
+kept; three em-dash breaks were made to run on rather than being labelled, which is *more*
+dam-break, not less. Only **exposition** was cut — the places she explains to a cartel heir things
+he has known his whole life (*"they see this as destabilizing. Dangerous."*, *"The cartels have
+spent twenty years maintaining this balance."*, *"Do you think they'll just let that go?"*). Added
+in exchange: *"and you know they will. You know they will."* — a doubling, because that is what
+tumbling sounds like.
+
+**Net: 31 words out of ~431. Ratio 6.4:1 → 5.3:1.** The ratio barely moved and that is correct:
+the imbalance in this scene is not a fault, it is a woman who cannot stop talking and a man who
+has nothing to say yet.
+
+**Not applied, recorded instead:** — the Act I ending habit, ch3's
 double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity opposite women.
 C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the
 friends *believe* him and refuse anyway. Worth re-checking before acting on it.
