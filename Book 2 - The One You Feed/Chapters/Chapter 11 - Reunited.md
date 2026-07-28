@@ -106,7 +106,7 @@ He nodded. And hated that he nodded.
 
 "Then who," Elara said, "does it fit better?"
 
-And that was the whole of it, laid open in a single question, and neither of them had a thing to set against it. He turned it over one more time in front of her, the way he had turned it a hundred times alone — Ronas who would use a sword, Tania who would never take the risk, Sa Ko who would sooner die than stoop to it — and past those three there was no one. There was no fourth chair at that table. Every road out of the question ran straight into a wall, and there was exactly one gap in the wall, and his father's name stood over it, and the plain fact that his father had no good reason to walk through it was not the same thing as there being anyone else who could.
+It was laid open in a single question, and neither of them had a thing to set against it. He turned it over one more time in front of her, the way he had turned it a hundred times alone — Ronas who would use a sword, Tania who would never take the risk, Sa Ko who would sooner die than stoop to it — and past those three there was no one. There was no fourth chair at that table. Every road out of the question ran straight into a wall, and there was exactly one gap in the wall, and his father's name stood over it, and the plain fact that his father had no good reason to walk through it was not the same thing as there being anyone else who could.
 
 "No one," he said at last. "It doesn't fit him. And there is no one it fits better. I've tried, Elara. There's no one else with the reach to put a hand inside Tania's own household and turn it into a knife. No one else with the money and the patience to do it clean and leave her holding the cup. He doesn't fit — and he's the only one who fits at all."
 

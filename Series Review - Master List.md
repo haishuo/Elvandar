@@ -125,11 +125,10 @@ whole position is that she is *waiting*.
 
 *C-12 through C-15 were re-verified against the current text and all four are closed — three cleared,
 one retired as mis-specified and superseded. See the closed-items table. The three items below replace
-them.*
+them. C-20 has since been applied and is closed; C-21 and C-22 remain open.*
 
 | # | Item |
 |---|---|
-| C-20 | **The verdict-stamp habit.** *"That was the whole of it"* is used **seven times as a narration stamp** — ch3, ch7, ch9, ch10, ch11, ch14, ch20 — plus two variants (ch6 *"the sour heart of it"*, ch18 *"The stop was the whole of it"*). Every instance sits in the same syntactic slot doing the same job: telling the reader the preceding observation was the conclusion. Book 1 uses it in narration **once** (ch17); its two other Book 1 hits are dialogue and idiom. So this is a Book 2 drafting habit, not a motif. Supersedes C-13. **Proposal drafted and revised once after author review (ch20 added to the cuts); not applied. See the changelog.** |
 | C-21 | **ch6 and ch10 both close on an anaphoric enumeration of impotence**, four chapters apart, reaching the same verdict by the same device. ch6: *"He'd had a title once… He'd had an Empress to serve… He had a father still…"* ch10: five consecutive *"He could not…"* then *"no wound to close, no name to spend, no gate to talk his way through, no plan, no lever, no move anywhere in the world."* Same shape, same position, same conclusion. **No proposal yet** — this is a structural change to two chapter endings and needs its own pass. Note that C-13 wrongly included ch7 here; ch7's ending is four short lines and is one of the best in the book. |
 | C-22 | **ch3 reassigns "cage" mid-chapter.** Melina's line 69 — *"she is not on that throne to make the cage more comfortable"* — has cage = the token system. The narration twelve lines later at 81 — *"sight had become the cage"* — has cage = Elara's own knowledge. Two referents, one word, twelve lines apart. ch9's third use is earned (the tragedy of ch3 becomes the defeat of ch9). Line-level, small, and may not be worth doing. |
 
@@ -808,14 +807,15 @@ exports are current.
 
 Re-verified against the current text before acting, per the standing rule. **Three closed, one
 retired as mis-specified**, and three new items opened (C-20, C-21, C-22). Evidence for each is in
-the closed-items table. Nothing applied — Book 2 still has zero editorial changes.
+the closed-items table. **C-20 was then applied — the first editorial change ever made to Book 2.**
+C-21 and C-22 remain open and unproposed.
 
 The pattern from Book 1 repeated: **the flag that looked most substantial was the one that was
 wrong.** C-13 named ch6, ch7 and ch10 as closing on the same long summarizing paragraph. ch7 does
 not — its ending is four short lines and among the best in the book. Acting on C-13 as written would
 have thinned a good ending, which is precisely what C-6 nearly did to B1 ch25's roll call.
 
-**C-20 — the verdict-stamp habit. PROPOSAL DRAFTED, NOT APPLIED.**
+**C-20 — the verdict-stamp habit. APPLIED.**
 
 *"That was the whole of it"* appears **seven times as a narration stamp** across Book 2 — ch3, ch7,
 ch9, ch10, ch11, ch14, ch20 — always in the same syntactic slot, always doing the same job: telling
@@ -828,7 +828,7 @@ Proposed disposition — **cut five, keep two, leave the variants**:
 
 | Ch | Current | Proposed |
 |---|---|---|
-| ch3 | *"He had told her the truth. That was the whole of it, and there was no untelling it."* | **Keep.** The origin instance, and *"there was no untelling it"* is the actual content. |
+| ch3 | *"He had told her the truth. That was the whole of it, and there was no untelling it."* | **Cut — author's call.** *"He had told her the truth. There was no untelling it."* Shorter and harder, and it removes the construction from the narrator's voice rather than merely de-habituating it. |
 | ch7 | *"His father had stopped arguing. That was the whole of it, and it had taken him until now to see what it meant: …"* | *"His father had stopped arguing. It had taken him until now to see what that meant: …"* |
 | ch9 | *"Children were drinking who would otherwise be dying. That was the whole of it, and it was good, and it had come from the hand…"* | *"Children were drinking who would otherwise be dying. It was good, and it had come from the hand…"* |
 | ch10 | *"That was the whole of it. He could not reach her; …"* | Delete the sentence. The line immediately above it already says *"And there was nothing he could do with the knowing."* — **the strongest cut of the five, because the stamp is redundant with the line above it.** |
@@ -858,11 +858,8 @@ distinction, and it is the one I missed.
 **The bookend argument is dead, not weakened.** ch20's instance was never available to be a bookend,
 because it is the broken one. Six cuts, one keep.
 
-**Remaining decision — ch3, now the sole survivor.** One narration use across twenty chapters is
-exactly Book 1's ratio (ch17), so it reads as voice rather than habit; that is the recommendation.
-The counter-argument is that deleting it yields *"He had told her the truth. There was no untelling
-it"* — shorter and harder, and arguably better than what is on the page. The choice is between
-de-habituating the construction and removing it from the narrator's voice altogether.
+**Author's ruling on ch3: cut it too.** So the construction leaves the narrator's voice entirely
+rather than being thinned to one use. Seven cuts, none kept.
 
 **ch18 stays regardless, and not only because the chapter is protected.** *"The stop was the whole of
 it"* is a different construction doing a different job: the subject is Silvanno's pause, and the
@@ -900,7 +897,8 @@ onto the paragraph above it. Leave it.
 | C-19 | **Withdrawn** | Not a real pattern. ch5 is 2.3:1, same as post-fix ch1; only ch4 was lopsided, and that was C-18. Flagged off two data points and generalised. |
 | C-12 | **Stale** | The ch1 half does not exist. The word *cell* appears **nowhere in Book 2** — the only grep hit is inside "ex**cell**ent". What ch1 actually does (61–65) is the fix C-12 recommended, already in place: *"He had done this"*, an explicit refusal to finish the thought (*"finishing it would have required a cost he could not yet put a face to"*), and *"He turned away from where that led."* Ch3 completes it — *"He had told her the truth… He had given her sight, and sight had become the cage"* — and Sela's doorway closes it. Suspicion in ch1, conviction in ch3, as recommended. Residue split off as **C-22**. |
 | C-13 | **Retired — mis-specified, superseded by C-20** | Wrong about ch7: its ending is not a long summarizing paragraph but four short lines, and one of the best in the book — *"an argument is a thing two people are having. You can lose an argument and still be in the room. He was not in the room."* The real ending pattern is ch6 and ch10 only, now **C-21**. And the flag missed what was actually underneath it: a seven-instance narration verdict-stamp, now **C-20**. Recorded rather than silently rewritten, because a flag that was wrong about a good ending is exactly the failure mode the closed-items discipline exists for. |
-| C-14 | **Closed — diagnosis wrong, no change wanted** | ch14 is 1,436 words, not 1,300. The violence is ~250 words, not ~400, and it is summary **because Xion is not there** — it arrives through Kael's contacts, Silvanno's channels and Farleen, and rule 0 holds. The premise was that the reader must believe the Warrens lethal enough to kill a Kemvimore; the chapter does not need to establish lethality, it needs **unaccountability**, and Farleen establishes it in one line with her own instrument: *"I watched a man in Larannas livery get put through a shopfront on Tuesday and the four who did it didn't even go through his pockets… It's that it's stopped being **for** anything."* Melina dies in ch15 because the name that always bought passage has stopped being counted, and ch14 says so. The length also reads correctly — ch13 2,629 / ch14 1,436 / ch15 2,232, short chapter before the drop, the same runway logic that protects B1 ch8. |
+| C-14 | **Closed — diagnosis wrong, no change wanted** | ch14 was 1,436 words at the time of the check (1,429 after the C-20 pass), not 1,300. The violence is ~250 words, not ~400, and it is summary **because Xion is not there** — it arrives through Kael's contacts, Silvanno's channels and Farleen, and rule 0 holds. The premise was that the reader must believe the Warrens lethal enough to kill a Kemvimore; the chapter does not need to establish lethality, it needs **unaccountability**, and Farleen establishes it in one line with her own instrument: *"I watched a man in Larannas livery get put through a shopfront on Tuesday and the four who did it didn't even go through his pockets… It's that it's stopped being **for** anything."* Melina dies in ch15 because the name that always bought passage has stopped being counted, and ch14 says so. The length also reads correctly — ch13 2,629 / ch14 1,436 / ch15 2,232, short chapter before the drop, the same runway logic that protects B1 ch8. |
+| C-20 | **Done — the first editorial change ever applied to Book 2** | Seven narration verdict-stamps cut (ch3, ch7, ch9, ch10, ch11, ch14, ch20). Six were deletions; ch11 was rephrased to avoid colliding with ch9:53's *"And there it was… laid out."* Six legitimate uses of the phrase remain and were deliberately left: ch2 ×2 and ch7 ×1 and ch11 ×1 as idiom (*took in / laid out / use the whole of it*), ch4 as dialogue, and ch18's *"The stop was the whole of it"* — a different construction identifying which part of an utterance carried the meaning, rather than stamping a conclusion. Royal Road regenerated. |
 | C-15 | **Closed — deliberate, and the text answers it** | ch1: *"You've gone somewhere," Melina said, watching him.* / *"I'm here."* ch3: *"You've gone somewhere **again**," Melina said quietly.* / *"I'm here." He wasn't, quite, but he came back for her.* The *again* plus the narration conceding the lie makes it a running beat, and it moves — ch1 he deflects and she lets it go; ch3 he lies, the book says so, and he comes back **for her**, which is the last time it shows him choosing to. Melina-specific: she is the only person who notices, which is her entire function. Two instances, no third. **Do not add a third.** |
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
