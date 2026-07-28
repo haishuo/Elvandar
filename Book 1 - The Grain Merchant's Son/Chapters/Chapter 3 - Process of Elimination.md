@@ -108,7 +108,7 @@ Xion looked at him.
 
 "They would. In a heartbeat, and they'd be **right** to." Silvanno's jaw worked. "Four days ago I thought you'd cracked, and gods forgive me, I'd rather that. I'd rather my friend was mad. Because a mad friend I can walk home. This—" he gestured at the table, the notes, all of it "—this I can't do anything about at all."
 
-It landed harder than any doubt would have. Xion had spent four days building an argument for being believed, and now he was believed, and the argument was worth nothing, because belief had never been the obstacle.
+It landed harder than any doubt would have.
 
 "I still have to know," he said.
 
