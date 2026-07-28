@@ -141,5 +141,3 @@ The masquerade would be even more dangerous. Not because of physical threat, but
 But that was a problem for later. For now, they had three days to prepare. Three days to teach an imperial heir how to blend in with the very nobles whose system she intended to destroy.
 
 As they left the Noble District behind, Xion caught one last glimpse of the massive fountain, still flowing, still wasting, still beautiful in its terrible excess.
-
-Three days. It would have to be enough.

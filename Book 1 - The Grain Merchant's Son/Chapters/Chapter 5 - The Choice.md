@@ -166,6 +166,4 @@ Xion looked at her—this young woman who'd traded safety for truth, comfort for
 
 "Good." Her smile was sharp, determined. "An empress with an unbroken heart is useless to her people."
 
-They left the alcove together, stepping into the late afternoon sun of Kaha'an. Two fugitives, bound by choice rather than circumstance, beginning a journey that would either save their city or destroy them both.
-
-Behind them, hidden in the shadows they'd abandoned, the bloodstains on the cobblestones were already beginning to dry.
+They left the alcove together, stepping into the late afternoon sun of Kaha'an.

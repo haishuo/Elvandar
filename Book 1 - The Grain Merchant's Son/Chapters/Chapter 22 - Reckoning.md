@@ -254,10 +254,4 @@ She moved closer. Wrapped her arms around him. Held on tight.
 
 Xion held her back. Felt her shaking. Felt his own exhaustion pressing down.
 
-They stood there as the light faded. Two people who'd hurt each other and somehow found their way through it.
-
-Outside, Farleen kept watch. Giving them the space they needed. The privacy to break and heal.
-
-Tomorrow they'd have to face the Arol Batae. Tomorrow Elara would begin her claim to the throne. Tomorrow everything would change.
-
-But for now, they just held each other. And that was enough.
+They stood there as the light faded.

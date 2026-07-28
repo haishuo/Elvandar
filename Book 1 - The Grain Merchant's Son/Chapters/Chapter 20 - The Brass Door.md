@@ -289,5 +289,3 @@ The assassin watched without comment.
 They turned and walked into the darkness of the passage.
 
 After a moment, Xion followed. Tam's weight pressing down on his shoulder. Farleen beside him. Elara behind, the Spirit's Reflection tucked under her arm like an afterthought.
-
-Walking deeper into Long Knives territory. Into whatever the Mistress had planned.

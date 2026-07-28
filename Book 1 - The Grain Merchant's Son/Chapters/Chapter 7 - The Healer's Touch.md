@@ -180,8 +180,4 @@ She was right, of course. His body was already betraying him, exhaustion and fev
 
 But as Xion eased himself onto the cot, feeling Elara's eyes still on him, he wondered if either of them believed it.
 
-The clinic's familiar sounds settled around them—the creak of old wood, the rustle of dried herbs, the distant sounds of the city beyond. Out front, well past the hour she usually closed, Xion could hear the small dry rhythm of Janice's shears, going on and on over cloth nobody had ordered. Tomorrow they would have to leave, to keep moving, to plan their next steps.
-
-Tonight, for the first time since Farleen's blade had found his shoulder, Xion let himself feel safe.
-
-And maybe, just maybe, he wasn't entirely alone in that feeling.
+The clinic's familiar sounds settled around them—the creak of old wood, the rustle of dried herbs, the distant sounds of the city beyond. Out front, well past the hour she usually closed, Xion could hear the small dry rhythm of Janice's shears, going on and on over cloth nobody had ordered.

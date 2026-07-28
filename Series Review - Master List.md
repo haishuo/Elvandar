@@ -101,7 +101,9 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 
 ### Rule 2 — characterization
 
-**R2-1. B1 ch18 ends with Xion holding a dangerously ill child and never treating him.** A healer with a fevered boy in his arms treats him. The chapter closes on his feeling instead of his hands at the exact moment his defining practice applies. *This is the single highest-priority outstanding item in either book.*
+**R2-1 — CLOSED.** The treatment scene was written in an earlier pass (the hand opened and drained, the flask spent on the wound rather than the boy, the last of the verbana, Janice's linen for a binding and a sling). The **ending** stayed un-revised on top of it until the C-16 pass, and still closed on his feeling — *"tried to ignore the feeling that this couldn't possibly be the end of it."* Both halves are now done. Original entry retained below for the record.
+
+~~**R2-1. B1 ch18 ends with Xion holding a dangerously ill child and never treating him.**~~ A healer with a fevered boy in his arms treats him. The chapter closes on his feeling instead of his hands at the exact moment his defining practice applies. *This is the single highest-priority outstanding item in either book.*
 
 **Three items demoted to author's questions** — each would require bending a character, so none is the reviewer's to decide:
 
@@ -128,7 +130,7 @@ Standing note: *the other thing* is plain idiomatic English, it will keep wantin
 | C-9 | ch23's Vesk — twenty years of fury evaporates in ten lines, and it is sequenced backwards (concedes, then attacks). |
 | C-10 | ch22 — Elara reaches for the ch15 slaver argument verbatim. Correct instinct; the text should register that she knows. |
 | C-11 | ch18 — Ronas's dialect wobbles between registers. |
-| C-16 | **Chapter endings are the weak zone in Act I** — ch1 (*"Tomorrow, he would act"*), ch2 (*"That mattered more than he wanted to admit"*), ch3 (*"Soon, he would learn if the impossible was, in fact, the truth"*) all close on narrator-stated feeling or forecast. Only ch4 closes on an event. The old draft's explain-the-theme habit did not disappear; it **retreated to the last paragraph**. ch1 fixed. Hypothesis worth testing across all 25: the later a passage sits in a chapter, the more likely it is to be un-revised. |
+| C-16 | **Chapter endings — LARGELY DONE.** Audited all 25; 8 already worked, 13 fixed by pure deletion, ch18 was a rule 1 contradiction and is fixed. **Outstanding: ch9** (needs writing, not cutting), **ch23/ch24** (both open their endings with *"Everything came down to…"* — proposals pending), **ch25** (C-6, and on the do-not-touch list). Full account in the changelog. The hypothesis held: the later a passage sits in a chapter, the more likely it is to be un-revised. |
 | C-17 | ch3 states its best insight twice, 28 lines apart — *"spent four days building an argument for being believed"* (l.111) and *"He had spent four days wanting to be believed"* (l.139). The second adds the cost, which is new; the shared clause is repetition. |
 | C-18 | **ch4's betrayal scene is the least-revised prose in Act I.** Ten emotional descriptors (*voice cracked / burst out raw and anguished / tears gathered / crying openly / voice broke / dissolved into sobs / came out as a sob / came out as a wail / choked on the words / face breaking with grief and self-loathing*) against four purely physical ones in ch3's comparable Silvanno scene. The structural redesign of the scene is right — old-draft Farleen is cold and Xion survives by medallion; new Farleen breaks, which is what makes ch13–17 possible. The prose has not caught up to the redesign. |
 | C-19 | **Xion goes verbally passive opposite women who hold information he lacks.** ch1 (Janice) and ch4 (Farleen) both reduce him to interrupted fragments — four of eight ch4 lines are cut off mid-sentence — while ch2 gives him six speeches over fifty words opposite Silvanno and Kael. Each instance is individually defensible; the *pattern* is what a reader registers. **Check ch5 (Elara) before deciding whether this is design.** |
@@ -503,7 +505,71 @@ contradicts it. If a quirk is worth stating, it is worth staging — and if it i
 statement is redundant. Janice's whole register is what she declines to do; giving her a line, a
 gesture, or a narrator's gloss to carry it is the failure mode every time.
 
-**Not applied, recorded instead:** C-16 through C-19 above — the Act I ending habit, ch3's
+**C-16 — the chapter-ending pass (Book 1, 13 chapters)**
+
+Audited all 25 endings. **It was not one habit but five**, nesting in the last one to four sentences:
+**A.** the narrator previews the next chapter (*"Tomorrow they would…"* — 9 chapters); **B.** *"and
+that was enough"* (3); **C.** outline language, the narrator naming the pairing (*"two fugitives,
+bound by choice rather than circumstance"* — 7); **D.** the narrator stating the feeling (3);
+**E.** rule 0 breaks, camera leaving Xion (3).
+
+**The distinction that protects ch1, and must be preserved:** not all "tomorrow" is the tic.
+Ch1's *"Tomorrow, he would act"* is a **character's promise to himself** — self-deception, four
+words, ironised by ch2 when he acts for the princess instead of the boy. Ch9's triple *"Tomorrow,
+they would… Tomorrow, Elara would… Tomorrow, they would…"* is the narrator advertising the next
+chapter. **The test is whose sentence it is.** If Xion is lying to himself, keep it. If the book
+is telling the reader what is coming, cut it.
+
+**Rule 1 item found inside C-16, and fixed first.** B1 ch18's ending contradicted its own scene.
+The treatment passage establishes *"Whatever had been in that hand was in the blood now… What he
+carried could buy hours. **It could not buy the boy**"* — and twelve lines later the chapter closed
+on *"But Tam was breathing. **Solid and alive.** / That was what mattered."* That denies the
+diagnosis Xion has just made, describes a boy who cannot stand unaided as solid, and is
+contradicted again by ch19 opening on his deterioration. Rewritten to end on his instrument:
+
+> Tam's head found the hollow of his shoulder inside a dozen steps and stayed there, and through
+> two layers of cloth Xion could feel exactly how warm he was.
+>
+> He started counting the stairs.
+
+Counting is his established behaviour when he cannot act — ch17: *"He knew because he counted. It
+was the only thing left he was any use for."* This also closes **R2-1**.
+
+**Twelve fixed by deletion**, ~450 words out. In almost every case the working ending was already
+sitting one to four sentences up:
+
+| ch | now ends on | cut |
+|---|---|---|
+| 2 | *"We'll help you," she said quietly.* | 2 sentences |
+| 3 | *…cost him two of the three people who had come when he called.* | 2 lines |
+| 5 | *They left the alcove together, stepping into the late afternoon sun of Kaha'an.* | 2 paras |
+| 6 | *The woman walking beside him now carried something harder.* | 4 paras + trailing clause |
+| 7 | *…the small dry rhythm of Janice's shears, going on and on over cloth nobody had ordered.* | 2 sentences |
+| 8 | *…still flowing, still wasting, still beautiful in its terrible excess.* | 1 line |
+| 11 | **She understood.** | 4 paras |
+| 13 | *"…three obviously out-of-place outsiders just descended into the Warrens. Come on."* | 1 para |
+| 14 | *Both of them here because of him. Both of them angry for different reasons.* | 1 para |
+| 16 | *Farleen lay down carefully… her back to them, her breathing shallow and controlled.* | 3 paras |
+| 20 | *…the Spirit's Reflection tucked under her arm like an afterthought.* | 1 line |
+| 22 | *They stood there as the light faded.* | 3 paras |
+
+Ch16's is the biggest gain: the chapter now ends on Farleen turning her back and controlling her
+breathing, which is the injury she is hiding and the thing Xion has just failed to notice.
+
+**Untouched because they already worked:** ch1, 4, 10, 12, 15, 17, 19, 21.
+
+**ch12 — deliberate rule 0 exception, author-confirmed.** *"Somewhere far below all of it, a
+twelve-year-old boy was working in the dark."* Strictly Xion cannot see this. It reads as what he
+is picturing, having just learned where Tam is, and it is one of the strongest endings in the
+book. **Keep. Do not flag again.**
+
+**Still outstanding:** ch9 (deferred to a dedicated pass — cutting the three *"Tomorrow"*s leaves
+*"Even if it cost them everything,"* which is its own portent, so this one needs writing);
+ch23/ch24 (**both open their endings with the same sentence** — *"Everything came down to Sa Ko Ren
+now"* / *"Everything came down to one final step now"* — two chapters running); ch25 (C-6, and
+do-not-touch: fix the flatness, not the triumph).
+
+**Not applied, recorded instead:** C-17 through C-19 above — the Act I ending habit, ch3's
 double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity opposite women.
 C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the
 friends *believe* him and refuse anyway. Worth re-checking before acting on it.

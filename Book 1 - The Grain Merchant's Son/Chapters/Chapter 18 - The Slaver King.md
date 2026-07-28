@@ -280,10 +280,6 @@ Cullen nodded. Professional. Efficient.
 
 Xion adjusted his grip on Tam, the boy's weight pressing against his side. This was it. They were leaving. With Tam. Just... leaving.
 
-After everything—the chase, the ambush, the desperate flight through the tunnels—it felt wrong somehow. Too simple. Like the moment before something breaks.
+Tam's head found the hollow of his shoulder inside a dozen steps and stayed there, and through two layers of cloth Xion could feel exactly how warm he was.
 
-But Tam was breathing. Solid and alive.
-
-That was what mattered.
-
-Xion turned toward the exit, supporting Tam's weight, and tried to ignore the feeling that this couldn't possibly be the end of it.
+He started counting the stairs.

@@ -137,7 +137,3 @@ She did not argue. That was the thing he noticed and did not understand until mu
 Relief washed through him, followed by something warmer. Both the men who had spent four days believing in him had just walked away from what the believing cost, and Farleen had not. "Thank you," he said, and meant it more than she could know.
 
 As they left The Amber Leaf, Xion felt the weight of commitment settling on his shoulders. The systematic search had led exactly where logic dictated, and the worst thing about the evening was that nobody at that table thought he was wrong anymore. He had spent four days wanting to be believed. He had it now, and it had cost him two of the three people who had come when he called.
-
-The grain merchant's son had eliminated every other possibility.
-
-Soon, he would learn if the impossible was, in fact, the truth.
