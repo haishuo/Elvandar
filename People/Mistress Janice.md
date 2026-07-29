@@ -144,7 +144,18 @@ Her first act toward him was a systems correction — *your operation has a fata
 
 ### Her Sight
 
-*(Proposed, not yet confirmed.)* Her injury is her eyes — a weaver losing her sight, which is a career-ending diagnosis and an unaffordable one.
+**The outcome is canon.** By Book 3 she is blind, and the Book 3 beat drafts are built on it: ch3 calls
+her *a blind weaver*; her room is *arranged the way a space is arranged by someone who navigates it by
+touch — everything at a fixed distance from everything else, nothing on the floor, nothing moved*; she
+knows Xion's step before he speaks; what he comes to offer her includes *a physician for her eyes*; and
+the temptation beat turns on his being able to put *a name on a list she will never be able to read.*
+It is also the reason she never came to him — she cannot work, and arriving on his doorstep would have
+been the first request she had ever made of anybody, so she didn't.
+
+**What is still open is narrower: whether her eyes are the *first-patient* injury.** The backstory in
+which fifteen-year-old Xion treats her, cannot cure it, slows it, and tells her the truth about it —
+*(proposed, not yet confirmed)* — is a separate claim from the fact that she goes blind. A weaver losing
+her sight is a career-ending diagnosis and an unaffordable one.
 
 Hands are already taken three times over (Tam, Korvin in ch14, Xion's own), so a fourth would blur. Failing sight explains what she actually does on the page: front-of-house and counting rather than fine work, unpicking by feel, and the ch1 line *"She held the unpicked row up to the light, squinting at the gap in it."*
 
@@ -292,7 +303,7 @@ Her tragedy is structural rather than dramatic: **she is correct, she is early, 
 ## Open Questions
 
 1. **Where does the confirmation that she was taken land?** Ch13 leaves it unresolved by design. The natural placement is ch23, with Silvanno and Kael, who were on the surface searching while Xion was in the Warrens. Not yet written.
-2. **Confirm or veto the failing-sight detail.** The rest of the first-patient backstory is settled; the specific injury is not.
+2. **Confirm or veto the eyes as the *first-patient* injury.** That she goes blind is settled and load-bearing in the Book 3 drafts (see *Her Sight*); what is unconfirmed is whether the eyes are what Xion treated at fifteen. **Book 3 raised the stakes on this:** ch3 has him offer her *a physician for her eyes*, which is a whole relationship closing a loop if the eyes are the original injury and merely a kindness if they are not.
 3. **Does the naming scene ever surface on the page? — PARTIALLY ANSWERED.** Not as a scene, and not in B3 ch1: she must *not* be present for the name-taking, because the scene becomes about her instead of Mira. What landed instead is better and cheaper — B3 ch1 beat 19 notes, in Xion's interiority only, that she is the one who put the name on him; and B3 ch3 beat A6 pays it off without any flashback at all. He enters "Fen" into the imperial record in front of two cartel heads and three noble houses, and weeks later the first person to say it to him afterward says it exactly as she has said it for eight years, with no ceremony in it, because to her the name has never been in question. The naming scene stays backstory. Its weight arrives through her indifference to it.
 4. **Does she ever learn who Elara is?** She is one of two people who can read the patient book, and Elara spends days in the clinic.
 5. **Who plays Janice in Book 2?** With the clinic gone and the alias burned, the chair she occupies — the ally with better information who tells Xion to stop and is right — is vacant. Farleen fills it in ch19 and Elara in ch22, both within Book 1. If nobody fills it in Book 2, Xion's central trait goes unchallenged, which is functionally the same as losing it.
