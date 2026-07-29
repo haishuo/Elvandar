@@ -853,6 +853,42 @@ is a cousin of the cut construction and was seen, not missed. It survives on two
 chapter is do-not-touch, and the sentence after it *corrects* a likely inference rather than
 elaborating an already-finished one. Recorded so a later reader knows it was considered.
 
+**The old-draft retrospective — findings worth keeping**
+
+*Non-canon fence, restated: `TGMS - OLD/` was read once, for this document only. Nothing below is
+continuity, nothing in it was reconciled against the books, and none of it may be cited as canon. It
+is recorded because a few of the comparisons are useful craft evidence.*
+
+Full document published as an artifact: `claude.ai/code/artifact/15fa5bcc-be71-4e1c-b97b-5c5a9cadf220`.
+
+**The four findings that matter:**
+
+- **Rule 0 was invented late and the book had already been reaching for it.** The old draft breaks POV
+  three times in twenty chapters — a Commander Vesk chapter, an Elara chapter that also switches into
+  present tense, and a chapter that reaches into Elara's head while nominally with Xion. The book has
+  none in twenty-five, plus one deliberate widening in the last two pages of ch25.
+- **The Vesk inversion, which nobody planned.** Old ch14 opens *"Commander Vesk paced the length of the
+  Arol Batae's inner ward."* B1 ch23 opens the same man's scene with *"He was not pacing. Xion had
+  expected pacing and got instead a man standing perfectly still."* The canon line was written to
+  characterise Vesk, not to answer a discarded manuscript — and it is the whole argument in two
+  sentences.
+- **Tam is never taken in the old draft**, and this is the largest single difference between the two
+  manuscripts. He appears in ch1 only: cut hand, stitches, and then Xion presses a silver piece into
+  his good hand and he is never mentioned again across nineteen further chapters. The narration
+  explains the scene's meaning three times on the way out. **The book's entire thesis is the
+  correction** — Xion cannot help, because helping means saying his own name, and the rescue that
+  eventually happens is performed by people he treated for free years earlier.
+- **Janice does not exist.** She is *"Mistress Thera"*, named once, in a subordinate clause. Which makes
+  her arc three-stage, and the middle stage is worth remembering: **absent → over-weighted → sound
+  before sight.**
+
+**And one methodological note.** The old draft holds a single gear — 2,386 to 4,595 words, dynamic
+range 1.9× — against the book's 1,453 to 3,758 and 2.6×. That is the length-profile discipline showing
+up as a measurable difference between the two manuscripts, and it is the same instrument that stopped
+three bad cut proposals this pass.
+
+---
+
 **Janice's failing sight — VETOED and removed from the series**
 
 Author's ruling, immediately after the correction below: **the blindness is doing too little for what
