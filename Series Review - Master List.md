@@ -859,7 +859,10 @@ elaborating an already-finished one. Recorded so a later reader knows it was con
 continuity, nothing in it was reconciled against the books, and none of it may be cited as canon. It
 is recorded because a few of the comparisons are useful craft evidence.*
 
-Full document published as an artifact: `claude.ai/code/artifact/15fa5bcc-be71-4e1c-b97b-5c5a9cadf220`.
+Full document lives at **`TGMS - OLD/Retrospective.md`** — deliberately filed inside the non-canon
+folder so that it inherits the same exclusion as the draft it describes and does not sit among canon
+material. Also published as an artifact:
+`claude.ai/code/artifact/15fa5bcc-be71-4e1c-b97b-5c5a9cadf220`.
 
 **The four findings that matter:**
 
