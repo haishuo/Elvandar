@@ -12,7 +12,7 @@ What she said, when she said anything, was the part that stayed with him. The Su
 
 There wasn't one.
 
-That was what he could not get past. He had been reading his father since he was a boy — finding, beneath any act however ugly, the cold sum it was meant to come to. He read these the way he'd read a hundred others, waiting for the pattern to rise up out of them, and it did not rise, because there was nothing underneath to make a pattern with. The violence took nothing. It frightened no one toward any table. It guarded no asset, opened no negotiation, gained no ground. It was Ronas's less-leashed men in the Surface Warrens doing what such men do when the hand that holds them opens — and the hand had opened, and that was the whole of it, and it was killing people for no reason a ledger could hold.
+That was what he could not get past. He had been reading his father since he was a boy — finding, beneath any act however ugly, the cold sum it was meant to come to. He read these the way he'd read a hundred others, waiting for the pattern to rise up out of them, and it did not rise, because there was nothing underneath to make a pattern with. The violence took nothing. It frightened no one toward any table. It guarded no asset, opened no negotiation, gained no ground. It was Ronas's less-leashed men in the Surface Warrens doing what such men do when the hand that holds them opens — and the hand had opened, and it was killing people for no reason a ledger could hold.
 
 And slowly, across those three days, sitting with report after report that refused to add up, Xion understood the thing he had been refusing to understand since the first body.
 

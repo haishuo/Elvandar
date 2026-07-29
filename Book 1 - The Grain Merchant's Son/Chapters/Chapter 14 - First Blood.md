@@ -255,5 +255,3 @@ Outside, the Warrens continued its unknowing rhythms. But somewhere in that dark
 People would be talking. Making connections. Drawing conclusions.
 
 Xion looked at his companions—Farleen rigid with controlled fury in her corner, Elara silent and alert in hers. Both of them here because of him. Both of them angry for different reasons.
-
-Tomorrow they would go to the Crossroads. They would ask about Tam. They would go deeper into danger, by choice, for a child they'd both promised to find.

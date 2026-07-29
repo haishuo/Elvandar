@@ -88,10 +88,4 @@ Elara was quiet for a while, watching pigeons peck at crumbs near the temple ste
 
 "Everything." The word came out flat, final. "I plan to change everything."
 
-As they left the temple courtyard, Xion caught himself stealing glances at her profile. The princess who'd emerged from the compound yesterday had been uncertainty wrapped in royal authority. The woman walking beside him now carried something harder—the beginning of genuine understanding about what rule would actually cost.
-
-By late afternoon, his shoulder was beginning to throb, and he knew they'd need proper medical supplies soon. But more than that, he could see the weight of what she'd witnessed settling on Elara's shoulders like a physical burden.
-
-Tomorrow would bring new challenges. Tonight, they would need shelter and time to plan their next move.
-
-Behind them, the temple bells chimed the hour, marking another day of cartel rule in a city that called itself free while its people counted themselves lucky to survive until sunset.
+As they left the temple courtyard, Xion caught himself stealing glances at her profile. The princess who'd emerged from the compound yesterday had been uncertainty wrapped in royal authority. The woman walking beside him now carried something harder.

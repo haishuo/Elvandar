@@ -8,7 +8,9 @@ She has also never once stopped asking him to charge a copper.
 
 That is the whole of Janice, and it is not a contradiction. She is not arguing about mercy. She has no objection to the boy on the table or the medicine in his hand. She is arguing about **the operation** — about a clinic with no ledger, no cover story, and no accounting, run by a man whose generosity is the single most identifiable thing about him in four districts. Every free patient is a thread in a row she can already see is miscounted. She has told him. He does not hear it, because he is not built to hear it.
 
-"A man who charges nothing is a man somebody else is paying for. You've made a mystery of yourself, and mysteries get solved."
+"A man who charges nothing is a man somebody else is paying for."
+
+She says it holding one of his tunics, which she made, and for which she has never charged him.
 
 She is right. She is right for eight years, and then one afternoon a child is taken and the reason he is taken is a silver coin she warned about that morning, and she does not say *I told you so*, because she has no interest whatsoever in winning.
 
@@ -37,6 +39,10 @@ Note also the Merchant asymmetry — her fifth, his seventh. She wants a number 
 ### Engineer (Primary)
 
 Janice's core question is *does this work, and can it work better*. Her signature image is diagnostic and it is the first thing on the page: she unpicks a finished row, backward, stitch by stitch, because one thread was miscounted the day before. Sunk cost means nothing to her. A structure with a flaw in it is a structure that comes out.
+
+**What is in her lap is one of Xion's tunics** — *"Brown, plain, cut for a man who wanted to be looked past. His. She had made it, and the two before it, and had never once told him what the cloth cost."* This is the character's load-bearing prop and it must carry six things at once without a line of dialogue decoding any of them: precise patient backward work to reach the origin of an error; that **she makes his cover**, physically, and has for eight years; that it is **unpaid**, which is what makes her copper demand the opposite of hypocrisy — she knows exactly what free costs because she is the one paying it; that a weaver prices cloth by feel, which is **how she knows he is a Kemvimore** and has never said; that she works by feel because her sight is going; and that the flaw is in **her own** work, which is precisely what she is asking him to do with his.
+
+Note the symmetry, which is never stated: he will not give her a number, and she has never given him one either. *"I've never asked where the money comes from"* and *"had never told him what the cloth cost"* are the same refusal running in opposite directions.
 
 Her objection to the free clinic is entirely of this kind. She never proposes turning a patient away — not once, in eight years. She proposes **a copper from anybody who has one, handed straight back out the door if he likes**, because what she wants is not the money but the *record*: a clinic that looks like a clinic, with intake and payment and a book, rather than an anomaly that invites the question *who is funding this*. She is trying to make a working system out of a beautiful one.
 
@@ -76,7 +82,7 @@ Her follow-up — *"I'd like it noted that not asking is work"* — is the singl
 
 ### Merchant (Fifth)
 
-Present, modest, and constantly misread — including, in-world, by Xion. She wants a number in the book. She runs a business. She notices that bandages have been out for three days and that nobody has budgeted for more.
+Present, modest, and constantly misread — including, in-world, by Xion. She wants a number in the book. She runs a business. She tracks what the clinic consumes and what nobody has budgeted for — though after the rule-0 pass she no longer *announces* the supply shortfall in ch1; Xion finds the last roll of linen himself and spends all of it, which shows the same fact without her narrating him.
 
 But the Merchant reading collapses on her own line: **"Hand it straight back out the door for all I care — I want a number in the book."** She does not want the copper. She wants the *ledger entry*. Accumulation is not the drive; legibility is. The Merchant energy is instrumental to the Engineer primary, which is exactly the Acquisitive Trap the framework warns about.
 
@@ -85,6 +91,8 @@ But the Merchant reading collapses on her own line: **"Hand it straight back out
 ### Creator (Sixth)
 
 A deliberate irony: Janice's profession is a Creator profession, and she is never once shown creating. She is shown *unpicking*. She holds finished work up to the lamp and studies the gap where the bad thread was. In two scenes with her loom-basket she does not weave a single row.
+
+Sharpened by the tunic: she **made** the thing in her lap, and the two garments before it, and the reader never sees her make anything. All we watch her do is take her own work apart.
 
 The craft is real and the aesthetic drive is not. She makes cloth the way an engineer makes cloth — correctly.
 
@@ -112,7 +120,11 @@ She knew Mira Fen. Her line *"the woman whose name you took wouldn't have argued
 
 **Janice was one of the first people Xion ever treated — before he had the name.**
 
-He was fifteen. Mira had been executed with two words, and the boy came down out of the Noble District carrying what she had taught him and nothing else, and started working. Janice was among the earliest. He treated her because she needed it, under his own name, because at fifteen it had not yet occurred to him that he needed another one.
+He was fifteen. Mira had been executed with two words, and the boy came down out of the Noble District carrying what she had taught him and nothing else, and started working. Janice was among the earliest. He treated her because she needed it, under his own name, because at fifteen it had not yet occurred to him that he needed another one. **He cured it.** What the injury was is deliberately unspecified and must stay that way — the story is not about the ailment.
+
+**Author's ruling, and it settles the old open question:** the eyes were considered as the first-patient injury and are **rejected**, along with the whole failing-sight thread. It was doing too little for what it cost, and the book has enough going on. Janice's sight is fine. Do not reintroduce it in any book.
+
+**What removing it clarified.** The debt was never the treatment. He cured her and she owed him nothing, and her first act toward him was to hand back a correction he needed more than she had needed the cure — *you can't keep that name.* Two people fixed each other inside a week and neither opened an account. **She is the purest instance in the series of the thing Xion cannot understand:** help that simply happened, with no ledger under it. Eight years later she is still refusing to become an entry, and in B3 ch3 she refuses a shop, a pension, a house and a place on a register for exactly that reason.
 
 She was the one who told him:
 
@@ -134,25 +146,28 @@ Her first act toward him was a systems correction — *your operation has a fata
 
 **This is also why he cannot take her copper.** Janice wants a number in the book; Xion is already keeping one. Hers is a business record meant to make the operation survivable. His is a debt to a dead woman that must never close — and a patient who pays converts restitution into commerce and voids the payment. Neither of them knows they are arguing about two different ledgers. It is why the argument has run a dozen times without moving, and why he has no answer for her: *"Xion opened his mouth and found there was nothing in it. There never was, at this part."* The honest answer is that the patients are not the point, and he cannot say that to her or to himself.
 
-### Her Sight
-
-*(Proposed, not yet confirmed.)* Her injury is her eyes — a weaver losing her sight, which is a career-ending diagnosis and an unaffordable one.
-
-Hands are already taken three times over (Tam, Korvin in ch14, Xion's own), so a fourth would blur. Failing sight explains what she actually does on the page: front-of-house and counting rather than fine work, unpicking by feel, and the ch1 line *"She held the unpicked row up to the light, squinting at the gap in it."*
-
-A fifteen-year-old cannot cure it. He could slow it, and he could tell her the truth about it, which nobody had — and he would have asked permission before looking. The debt is not that he healed her. **The debt is that he asked, and then told her the truth.**
-
-Thematically: in a book whose central mechanism is a woman whose eyes reveal everything, Janice's eyes are the ones going out — and she is the one who has made not-seeing into a discipline. *"I've never asked where the money comes from."*
-
-*Sourcing note: Janice appears in ch1, ch7, ch11, and ch13. In ch11 and ch13 she is scenery — a back door and one line about three routine patients. Her ch1 and ch7 material derives from the review-pass rewrites; the first-patient backstory above is author-established and is not dramatized anywhere in Book 1.*
-
----
 
 ## Book 1: The Grain Merchant's Son
 
 ### The Argument (Chapter 1)
 
-Her only real scene, and it carries the book's thesis in its second register. She presses the copper, warns that free care is the tell, declines to name where the money comes from, needles him about Mira, watches him treat Tam, and objects to the silver coin — naming the exact mechanism of the coming disaster before it operates: *"Nobody down there can break a silver… So where's a boy like that going to say he got it, Fen? When they ask. And they will ask."*
+Her only real scene, and it carries the book's thesis in its second register. She presses the copper, warns that free care is the tell, declines to name where the money comes from, needles him about Mira, and objects to the silver coin — naming the exact mechanism of the coming disaster before it operates:
+
+**Staging rule, rule 0 — she is sound before she is sight.** For the whole of the working section she exists as a voice and a needle and nothing else. Xion is grinding, taking stock, then treating; and what Xion attends to is what the reader attends to, so a paragraph describing her sewing while his hands are busy is a POV error, not merely a screen-time one. The book states the rule itself in ch21: the Mistress walks into the chamber and he does not notice, because he is working on Tam — *"They'd been trying to warn him. And he'd shushed them."*
+
+So: no description of her hands, her lap, or her work until the patients are gone. She gets **one** look, and she has to earn it — *"Something in the way she said it made him turn round"* — and he sees her face, not her sewing. The rest is *"the needle kept working," "Behind him the needle kept going," "A stitch came free with a small dry snap,"* and then the loudest thing in the chapter, which is *"Behind him, the needle stopped."*
+
+**She never calls him out on it, and neither does the chapter.** She has known for eight years that once he is inside a wound the rest of the world stops existing. She is not angry about it. If anything it is among the things she admires in him. **None of that is ever said, by her or by the narrator.** It is carried entirely by what she declines to do: she asks nothing twice, she does not sharpen, she does not repeat herself, and she goes back to work.
+
+Staged once, in sound, and it is the load-bearing beat of the relationship — *"The needle had stopped somewhere behind him. He went back to the pestle. After a while it started again."* She stopped and waited for an answer. He did not give one. She did not ask again. That is the whole marriage of it, and it establishes the baseline that makes the coin land: at the coin the needle stops and **does not resume** — *"Janice did not pick her work back up."* Pause-and-resume is normal. Stop-and-stay-stopped is not.
+
+The look is the other half, and it must stay uninterpreted: *"She was looking at him. She had looked at him like that on and off for eight years and he had never once asked why."* Do **not** name the emotion in it. The reader should be unable to decide between fondness, exasperation, grief and admiration — and so should Xion. His not asking is the characterization; her looking is hers.
+
+**Deleted, and do not restore:** *"He had stopped hearing it years ago, the way a man stops hearing a clock."* It stated the quirk in narration and then the scene had him answer every line she spoke. The pause and the tunic show it; the sentence only announced it.
+
+**The tunic is revealed exactly once, at the basin**, after the coin, after her warning, when he has washed the blood off and there is nothing left to do with his hands. He looks up, and she does not look up at him, and only then does the reader see what she has been holding all morning. The escalation across the chapter is **sound → sound → silence → sight**, and the sight is the payoff. Do not spend it earlier.
+
+*(Rule 0, added after the retrospective: she stays in the doorway during the treatment and is heard, not watched. The old cutaway — "She sat with her mending in her lap and watched him work… keeping whatever score it was she kept" — took the camera off Xion's hands mid-procedure and spent the needle early. What remains is "Behind him, in the doorway, the needle kept going," and then "Behind him, the needle stopped," which is her whole reaction to the silver and is stronger unspent. She is also no longer permitted the two italicised voiceovers inside the market scene; Xion reaches both realizations himself.)* *"Nobody down there can break a silver… So where's a boy like that going to say he got it, Fen? When they ask. And they will ask."*
 
 He gives the coin anyway. The boy is taken. She does not gloat, and instead delivers the diagnosis Xion will spend twenty-four chapters trying to escape: he could not say his own name.
 
@@ -268,7 +283,7 @@ Her tragedy is structural rather than dramatic: **she is correct, she is early, 
 ## Open Questions
 
 1. **Where does the confirmation that she was taken land?** Ch13 leaves it unresolved by design. The natural placement is ch23, with Silvanno and Kael, who were on the surface searching while Xion was in the Warrens. Not yet written.
-2. **Confirm or veto the failing-sight detail.** The rest of the first-patient backstory is settled; the specific injury is not.
+2. ~~**Confirm or veto the eyes as the first-patient injury.**~~ **CLOSED — vetoed, author's ruling.** No failing sight, no blindness, in any book. The first injury is unspecified and Xion cured it. See *The First Patient*.
 3. **Does the naming scene ever surface on the page? — PARTIALLY ANSWERED.** Not as a scene, and not in B3 ch1: she must *not* be present for the name-taking, because the scene becomes about her instead of Mira. What landed instead is better and cheaper — B3 ch1 beat 19 notes, in Xion's interiority only, that she is the one who put the name on him; and B3 ch3 beat A6 pays it off without any flashback at all. He enters "Fen" into the imperial record in front of two cartel heads and three noble houses, and weeks later the first person to say it to him afterward says it exactly as she has said it for eight years, with no ceremony in it, because to her the name has never been in question. The naming scene stays backstory. Its weight arrives through her indifference to it.
 4. **Does she ever learn who Elara is?** She is one of two people who can read the patient book, and Elara spends days in the clinic.
 5. **Who plays Janice in Book 2?** With the clinic gone and the alias burned, the chair she occupies — the ally with better information who tells Xion to stop and is right — is vacant. Farleen fills it in ch19 and Elara in ch22, both within Book 1. If nobody fills it in Book 2, Xion's central trait goes unchallenged, which is functionally the same as losing it.

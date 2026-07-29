@@ -14,21 +14,25 @@ readable; nothing here was altered in the move.
 ## Chapter manifest — everything this review pass touched
 
 **Book 1 — The Grain Merchant's Son**
-Chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25
-*(every chapter except 20)* — plus `TGMS Book Summary.md`
+All twenty-five chapters — plus `TGMS Book Summary.md`, all twenty-five **beat drafts** (written
+retroactively from the finished prose), and `book1_chapter_skeleton.md`.
 
 **Book 2 — The One You Feed**
-Chapters 1, 7, 14
+Chapters 1, 3, 6, 7, 9, 10, 11, 14, 16, 20 — plus all twenty beat drafts, resynced to the final prose.
 
 **Book 3 — Crown Jewel** *(beat drafts only; no prose exists yet)*
 Chapters 1, 3
 
 **Supporting files**
 - `People/Mistress Janice.md` — new character sheet
+- `People/Ronas Dermir.md` — new character sheet, dialect locked
 - `Series Review - Master List.md` — the working document
 - `Series Review - Changelog.md` — this file
+- `TGMS - OLD/Retrospective.html` — the old-draft comparison, filed with the non-canon draft it reads
 
-Heaviest structural work: B1 ch1 (rewritten around Janice), ch17 (cut 3,049 → 1,675 words), ch3, ch13, ch18, ch23, ch25.
+Heaviest structural work: B1 ch1 (rewritten around Janice, then over four further passes), ch8
+(rewritten around the gate, 1,906 → 1,214 words), ch11, ch17 (cut 3,049 → 1,675 words), ch19–20
+(Farleen's objections rebuilt as a descent), ch22 (Mira's sentencing), ch3, ch13, ch18, ch23, ch25.
 
 ---
 
@@ -332,3 +336,788 @@ Three drift items were fixed in the same pass:
 - **Six craft items and one rule 2 item were stale** — fixed in the prose but never marked. Verified
   against the chapters and moved to Settled rulings with their closing evidence: R2-1, C-1, C-4, C-5,
   C-6, C-7, C-9, C-10.
+
+---
+
+## 2026-07-29 — merge of `claude/book1-tgms-retrospective-vz784d`
+
+A parallel line of work, 43 commits, run in the cloud between 2026-07-27 and 2026-07-29. It forked
+from `origin/main` rather than from the local branch, so it never saw the fifteen commits that
+produced the ch8/ch11 rewrite, the C-20 descent, the silence thread, or this file. Both lines edited
+the same books. Merged into `main` on 2026-07-29.
+
+**What the branch brought:** Rule 0; the density standard; the rhythm rule; the purge-what-you-clear
+rule; the three-pass method for retro beat drafts (all five now in `CLAUDE.md`). All twenty-five
+Book 1 beat drafts and `book1_chapter_skeleton.md`. A ch1 rewrite over four passes. A chapter-ending
+pass across thirteen Book 1 chapters. The first editorial changes ever applied to Book 2. The
+old-draft retrospective, filed as `TGMS - OLD/Retrospective.html`. And the author's veto of Janice's
+failing sight.
+
+**Two conflicts were resolved by hand.**
+
+- **B1 ch8** — the branch still carried the pre-rewrite chapter and its told ending (*"still flowing,
+  still wasting, still beautiful in its terrible excess"*). Local main's rewrite was taken whole; the
+  branch's two-line edit to the old text died with it. Royal Road regenerated.
+- **`Series Review - Master List.md`** — resolved in favour of the local structure, with the branch's
+  new cross-book threads, guardrail rulings and closed-items evidence folded in. Detail below.
+
+**The C-numbering had forked, and one side had to be renumbered.** At the fork point the register
+stopped at **C-15**. Both lines then invented C-16 onward independently, for different items — one
+side's C-18 was ch11's *"Mutual vulnerability"*, the other's was ch4's POV bends. The local numbers
+were kept because three of them are still open work; the branch's were shifted up by six. **The map,
+which is what makes `git log --grep` usable across the merge:**
+
+| In branch commits and in the block below | Now |
+|---|---|
+| C-16 — the Book 1 chapter-ending pass | **C-22** |
+| C-17 — ch9's realization trimmed | **C-23** |
+| C-18 — ch4's POV bends | **C-24** |
+| C-19 — dialogue ratio, withdrawn | **C-25** |
+| C-20 — B2's verdict-stamp habit | **C-26** |
+| C-21 — B2's ch6/ch10 endings | **C-27** |
+| C-22 — B2's *cage* referent | **C-28** |
+
+Commit messages on the merged branch still use the old numbers. Nothing else was altered: the block
+that follows is the branch's changelog verbatim, with only those seven tokens rewritten.
+
+**Two orderings in it are the branch's own and were left alone.** The Janice sight **veto** is filed
+above the earlier entry that still argues she goes blind — the veto is the later ruling and the
+operative one. And the entry on purged open questions describes the state before that veto.
+
+**What the branch closed that was open here.** Verified against the merged text, not taken on the
+branch's word:
+
+- **C-3** — ch3 now runs four scenes and the Amber Leaf refusal is fully dramatized. Two independent
+  readings landed on *not a finding*; closed on merit.
+- **C-17** — ch9's near-contact-broken-by-a-step-back beat now lands once (l.119) instead of closing
+  each of three lessons, and the chapter ends on the cover story and the exits.
+- **C-19** — ch11 no longer closes on Xion alone on the floor; the ending pass cut it, and it now
+  closes on *"She understood."* ch12's ledger ending is unique again.
+- **C-21, in part** — ch6's *"counted themselves lucky to survive until sunset"* and ch23's four
+  paragraphs of *"Tomorrow everything would change"* are gone. ch22's *"It was a good one."* survives
+  and the item stays open, narrowed to it.
+
+**What the branch did not close, checked line by line:** C-16 (ch5's *"Her voice grew stronger, more
+certain"* is still at l.99 **and** l.103) and C-18 (ch11 l.207 still carries *"Mutual vulnerability.
+The foundation of any good partnership."*).
+
+---
+
+### The branch changelog, verbatim (C-numbers remapped per the table above)
+
+**Rule 0 established, and B1 ch1 rewritten to it**
+
+Arising from the Book 1 vs `TGMS - OLD/` retrospective. The comparison was read-only; this is
+the one change it produced.
+
+- **The finding.** The old draft's default mode is *someone more knowledgeable tells Xion
+  something*. Old ch3 hands him information **eight** times (Melina, Berakailen ×3, Farleen's
+  rescue, Kael proposing he test Farleen, Sa Ko Ren, Rosik handing over the infiltration plan)
+  and he generates none of it — he pays 1,500 imperials to ask three questions. New ch3 hands
+  him **one** ambiguous clue (Jorik's *"don't belong nowhere"*) and he converts it himself by
+  differential diagnosis. That mode is almost gone from the new draft. **Janice in ch1 was the
+  last of it**, done well enough to read as craft.
+- **The measurement.** In the opening scene of the book he is named after, Janice spoke 275
+  words to Xion's ~90 — 3:1 — with four speeches over 25 words against his longest of 15.
+  She was also on-page for 42% of the chapter *and* supplied two italicised voiceovers inside
+  the market scene she is not in, including the chapter's emotional summit. Every
+  thematically load-bearing fact about Xion arrived as her assessment of him.
+- **Not fixable by giving Xion better lines.** His muteness in the copper argument is doctrine
+  (his sheet: *the patients are not the point, and he cannot say that to her or to himself*).
+  Rule 2 closes that road. The fix was camera position, not dialogue volume.
+
+**Applied to ch1** (2,173 → 2,599 words). Janice's dialogue 275 → 210; Xion's essentially
+unchanged at ~90, which is correct.
+
+- **Opening.** *"Dawn broke over Kaha'an… Xion Kemvimore did not notice"* — the narrator
+  describing a sunrise and then stating the POV character didn't see it, in the book's first
+  three sentences. A straight rule-0 violation. Now opens inside the work: the verbana, the
+  heat, his hands. Janice arrives into a frame already his, and his habituation to her
+  (*"stopped hearing it years ago, the way a man stops hearing a clock"*) characterizes **him**.
+- **The bandages.** Her 29-word announcement that he's out cut; he now takes stock himself,
+  finds one roll, says nothing, and spends all of it on Tam. Same fact, his hands, and it
+  resolves a small incoherence — she said *"now you're out"* and he then used *"the last of his
+  clean bandages."*
+- **The mid-procedure cutaway** (*"She sat with her mending in her lap and watched him work… keeping whatever score it was she kept"*) cut to *"Behind him, in the doorway, the needle kept going."* It took the camera off his hands mid-operation and pre-loaded her verdict before he
+  gave the coin. **"Behind him, the needle stopped" preserved** — it is stronger unspent.
+- **Both market voiceovers returned to Xion.** *"He heard Janice say it first"* → he hears his
+  own voice come back off the far wall and understands what he has said in public. *"Where's a
+  boy like that going to say he got it"* → he reaches it himself, as a diagnosis: the coin is
+  evidence of a **source**, not a debt, and the paper was drawn up to give them a reason to ask.
+- **The market sag rebuilt on his instrument.** *"a tightening in the air, a ripple of unease"*
+  → he reads the crowd's **shape** (*"too dense at the middle, too still at the edges… He had
+  seen that shape at bedsides"*). The enforcer's grip lands above the wrist and Xion watches his
+  own seven stitches go dark under the linen. His half-step is stopped by correct triage, and
+  being correct does nothing for him.
+- **Two stated-theme sentences cut** (*"he could never outrun the city's hunger"*, *"Life
+  returned to its ordinary, merciless routine"*).
+- **New ending.** *"Tomorrow, he would act"* replaced. He does the arithmetic — seven silver
+  four copper, which he had on his belt at the time — and finds that paying it required being
+  somebody, and a name required an account of the money. Then the eyes come back anyway, and a
+  boy is gone and he is thinking about a woman's eyes and knows it. Hands to C-22, sets up ch2's
+  sleepless replaying, and makes ch12 (Tam's parents arriving) land far harder.
+- **Continuity.** ch1's *"gold"* → **amber**, the sole outlier in Book 1 and contradicted by ch2
+  recalling the same moment as *"Blue to amber to violet."* **Brown cloak** added, which ch3
+  already referenced and ch1 never established. *"He never saw her face"* made explicit, paying
+  ch4's *"He had never seen her face."*
+- **Preserved intact:** the verbana grinding (→ ch18's carried powder), Tam Corris / twelve /
+  left hand / glass / stitches (→ ch12, ch18, ch25), the silver coin, *"seven silver, four
+  copper"*, *"Can I have a look?"* and *"He waited. He always waited."*, every line of the copper
+  argument quoted on Janice's sheet, *"and look how that ended"*, *"eight years"*, the unpicking
+  and its three recurrences, *"Go home, Fen"*, the coded journals (→ ch13), Elara's stillness
+  and *"a body deciding whether to move"* (→ ch4).
+
+**Second ch1 pass — the density standard, and the ending reverted** (2,599 → 2,453 words)
+
+Applying *one action, five meanings*. Audited every action in ch1 by how many things it carries
+at once. The chapter's strongest is already Xion's — **the coin into the good hand carries six**
+(generosity; he heals one hand and destroys the boy with the other; compulsion 90 minutes after
+being warned; it is Rosik's money funding the charity; it is the murder weapon; and the warning
+attached to it is uselessly hedged). The two weakest were Janice's, at two apiece — and the
+unpicking was worse than a two, because **its second meaning only activated once her dialogue
+stated the argument it mapped to.** An illustration of a stated case, not a compression. That is
+the "oblique but forced" the author flagged, and it was previously filed here as a strength.
+
+- **The object in her lap is now one of Xion's tunics.** Not an invention: ch12 already states
+  the disguise clothing as fact — *"Master Fen doesn't dress like Xion Kemvimore"* — and the book
+  never said where it came from. She is a weaver. This assigns an existing fact. The prop now
+  carries six things with no dialogue decoding any of them; see her sheet for the enumeration.
+  The one that matters most: **it is unpaid**, which turns her copper demand from something that
+  could read as hypocrisy into its opposite.
+- **Fourteen words of telling cut** from her longest speech — *"It's also an easy thing to
+  notice"* and *"You've made a mystery of yourself, and mysteries get solved."* The second is the
+  real offender: it forecasts a consequence the market square proves four hours later.
+  *"Which is a fine thing to be, Fen"* kept — it is not telling, it carries the name that
+  triggers the *Fen.* paragraph, and giving him the credit before the blow is in character.
+  Followed by *"She looked back down at the sleeve in her lap."* Janice 210 → ~196.
+- **"I'd like it noted that not asking is work" kept.** Considered for cutting on the grounds
+  that the tunic makes the work visible; declined. "Redundant with the staging" is a thinner
+  argument than "it tells," and the line is the best one she has.
+
+**Ending reverted to the original, verbatim.** The replacement was wrong and the author caught
+it: *"paying it meant being somebody… every road out of the square ran into that same sentence"*
+is not a freeze, it is an **alibi**. It told the reader he had no choice, which inverts the
+wound. Janice's *"You couldn't say your own name out there"* is an accusation he cannot answer;
+the new ending converted it into an explanation he could. It was also Xion articulating his own
+arc in ch1, which is ch22's job and ch22's alone.
+
+*"Tomorrow, he would act"* is not flat. **It is the tell** — a man who did nothing promising
+himself tomorrow, which is presumably what he told himself after Mira. And ch2 ironises it
+immediately: he does act, and it is for the princess, not for the boy. Xion's defining wound is
+that when it mattered he froze, and then froze **again**; the chapter has to close on the freeze,
+not on a reason for it. Recorded so this is not re-attempted: **do not give Xion a structural
+explanation for his own paralysis anywhere in Book 1.**
+
+**Third ch1 pass — Janice becomes sound before she becomes sight**
+
+The remaining problem was not screen time, it was **POV**, and the author named it exactly: Jaime
+does not do a parallel symbolic action in the Tywin scene. He stands there and is lectured. The
+work belongs to one man. Giving Janice her own load-bearing prop in paragraph two made two
+characters do meaningful things at once, which halves both.
+
+Worse, it broke the book's own rule. **What Xion attends to is what the reader attends to**, and
+when he is working he attends to nothing else — ch21 states it outright: the Mistress walks into
+the chamber, he never notices because he is treating Tam, and he shushes Farleen for trying to
+tell him. A paragraph describing Janice's sewing while his hands are in the verbana is therefore
+not a weighting error. It is Xion noticing something Xion would not notice.
+
+- **Paragraph 2 reduced to sound.** *"Behind him, in the doorway, Janice was working at
+  something. She was always working at something. He had stopped hearing it years ago, the way a
+  man stops hearing a clock."* The line now does double duty: literally he is not attending, and
+  he has stopped noticing her at all.
+- **Every visual stage direction in the working section converted or cut** — *she drew another
+  inch of thread free*, *she held the unpicked row up to the light, squinting at the gap in it*,
+  *she lowered the work into her lap*, *she went back to her thread*, *she looked back down at
+  the sleeve in her lap*. What remains is audible: *the needle kept working*, *Behind him the
+  needle kept going*, *A stitch came free with a small dry snap*, and *Behind him, the needle
+  stopped.*
+- **She gets one look and has to earn it.** *"Something in the way she said it made him turn
+  round. Her eyes were up, flat and patient, and they stayed on him."* He sees her face, not her
+  hands, and goes straight back to the shelf.
+- **The stocktake moved earlier**, so his hands are busy through the second half of the argument.
+  He is the one working while being lectured — the Tywin position, correctly assigned.
+- **The tunic is revealed once, at the basin.** After the coin, after her warning, when he has
+  washed the blood off and there is nothing left to do with his hands. He looks up; she does not
+  look up at him. Escalation across the chapter is now **sound → sound → silence → sight**, and
+  the evening beat (*still taking out the same sleeve*) closes it.
+- Two words of dialogue cut in passing; the reduction is almost entirely stage direction, which
+  is the correct place for it. No line of hers was lost to this pass.
+
+**Fourth ch1 pass — the quirk is staged instead of asserted**
+
+The third pass fixed the POV but left a contradiction the author caught: the narration *told* the
+reader Xion tunes the world out (*"He had stopped hearing it years ago, the way a man stops
+hearing a clock"*) and then the scene had him answer **every single line Janice spoke.** The
+quirk was announced and never dramatized.
+
+- **The clock sentence deleted.** It stated the thing the scene should demonstrate.
+- **The behaviour staged, in sound, once:** *"The needle had stopped somewhere behind him. He went
+  back to the pestle. After a while it started again."* She stopped and waited for an answer. He
+  didn't give one. She didn't ask again. Nobody comments — not her, not the narrator, not Xion,
+  who registers it only as a sound.
+- **This establishes the baseline that makes the coin land.** Pause-and-resume is eight years of
+  normal; at the coin the needle stops and **does not resume**. The later beat was previously
+  doing its work unsupported.
+- **The look, uninterpreted:** *"She was looking at him. She had looked at him like that on and
+  off for eight years and he had never once asked why."* Her emotion is never named — the reader
+  should not be able to settle between fondness, exasperation, grief and admiration, and neither
+  should Xion. **His not asking is the characterization; her looking is hers.** It also rhymes,
+  unstated, with *"I've never asked where the money comes from"*: neither of them asks the other
+  anything.
+- One redundant *"the needle started again"* cut earlier in the scene so the staged pause owns
+  the phrasing.
+
+**The principle, recorded because it has now misfired four times in the same direction:** the
+reviewer's reflex is to *assert* a character trait in narration and then write a scene that
+contradicts it. If a quirk is worth stating, it is worth staging — and if it is staged, the
+statement is redundant. Janice's whole register is what she declines to do; giving her a line, a
+gesture, or a narrator's gloss to carry it is the failure mode every time.
+
+**C-22 — the chapter-ending pass (Book 1, 13 chapters)**
+
+Audited all 25 endings. **It was not one habit but five**, nesting in the last one to four sentences:
+**A.** the narrator previews the next chapter (*"Tomorrow they would…"* — 9 chapters); **B.** *"and
+that was enough"* (3); **C.** outline language, the narrator naming the pairing (*"two fugitives,
+bound by choice rather than circumstance"* — 7); **D.** the narrator stating the feeling (3);
+**E.** rule 0 breaks, camera leaving Xion (3).
+
+**The distinction that protects ch1, and must be preserved:** not all "tomorrow" is the tic.
+Ch1's *"Tomorrow, he would act"* is a **character's promise to himself** — self-deception, four
+words, ironised by ch2 when he acts for the princess instead of the boy. Ch9's triple *"Tomorrow,
+they would… Tomorrow, Elara would… Tomorrow, they would…"* is the narrator advertising the next
+chapter. **The test is whose sentence it is.** If Xion is lying to himself, keep it. If the book
+is telling the reader what is coming, cut it.
+
+**Rule 1 item found inside C-22, and fixed first.** B1 ch18's ending contradicted its own scene.
+The treatment passage establishes *"Whatever had been in that hand was in the blood now… What he
+carried could buy hours. **It could not buy the boy**"* — and twelve lines later the chapter closed
+on *"But Tam was breathing. **Solid and alive.** / That was what mattered."* That denies the
+diagnosis Xion has just made, describes a boy who cannot stand unaided as solid, and is
+contradicted again by ch19 opening on his deterioration. Rewritten to end on his instrument:
+
+> Tam's head found the hollow of his shoulder inside a dozen steps and stayed there, and through
+> two layers of cloth Xion could feel exactly how warm he was.
+>
+> He started counting the stairs.
+
+Counting is his established behaviour when he cannot act — ch17: *"He knew because he counted. It
+was the only thing left he was any use for."* This also closes **R2-1**.
+
+**Twelve fixed by deletion**, ~450 words out. In almost every case the working ending was already
+sitting one to four sentences up:
+
+| ch | now ends on | cut |
+|---|---|---|
+| 2 | *"We'll help you," she said quietly.* | 2 sentences |
+| 3 | *…cost him two of the three people who had come when he called.* | 2 lines |
+| 5 | *They left the alcove together, stepping into the late afternoon sun of Kaha'an.* | 2 paras |
+| 6 | *The woman walking beside him now carried something harder.* | 4 paras + trailing clause |
+| 7 | *…the small dry rhythm of Janice's shears, going on and on over cloth nobody had ordered.* | 2 sentences |
+| 8 | *…still flowing, still wasting, still beautiful in its terrible excess.* | 1 line |
+| 11 | **She understood.** | 4 paras |
+| 13 | *"…three obviously out-of-place outsiders just descended into the Warrens. Come on."* | 1 para |
+| 14 | *Both of them here because of him. Both of them angry for different reasons.* | 1 para |
+| 16 | *Farleen lay down carefully… her back to them, her breathing shallow and controlled.* | 3 paras |
+| 20 | *…the Spirit's Reflection tucked under her arm like an afterthought.* | 1 line |
+| 22 | *They stood there as the light faded.* | 3 paras |
+
+Ch16's is the biggest gain: the chapter now ends on Farleen turning her back and controlling her
+breathing, which is the injury she is hiding and the thing Xion has just failed to notice.
+
+**Untouched because they already worked:** ch1, 4, 10, 12, 15, 17, 19, 21.
+
+**ch12 — deliberate rule 0 exception, author-confirmed.** *"Somewhere far below all of it, a
+twelve-year-old boy was working in the dark."* Strictly Xion cannot see this. It reads as what he
+is picturing, having just learned where Tam is, and it is one of the strongest endings in the
+book. **Keep. Do not flag again.**
+
+**ch9 — written, not cut.** The only ending in the pass that had nothing good buried under it. The
+three *"Tomorrow"*s and the two paragraphs above them all went; the replacement puts him on the
+floor rehearsing, which is his instrument, and lets the chapter's real subject arrive without
+being named.
+
+The chapter is called *Codes and Signals* and has spent three days teaching Elara to say things
+she does not mean. It then builds a cover story in which Xion is courting her — and drops it.
+The new ending picks it back up **as a flaw in his own tradecraft**: he checks the story for the
+loose thread somebody will pull, and cannot find one, and *that* is the problem.
+
+> He couldn't find one. That was the trouble with it. It accounted for every hour he had spent
+> standing too close to her, and for his hand at the small of her back turning her through a
+> figure, and it would go on accounting for all of it, all evening, in front of everyone.
+>
+> Across the room her breathing had gone slow and even some time ago.
+>
+> He went back to the exits.
+
+A cover perfect for something that is not happening is indistinguishable from a cover perfect for
+something that is. Neither of them says so; the chapter does not say so. **"He went back to the
+exits" is the take-over in its benign form** — feeling arrives, a faculty engages, and the feeling
+is gone. Same mechanism as B2's cold, at no cost to anybody. Do not gloss it.
+
+Also plants ch10's escape: *"The place in the eastern wall where the stones had shifted, which he
+had known about since he was a child at somebody's party and had never once expected to need"* —
+ch10 has him know the weak point *"from childhood parties"* and previously produced it from
+nowhere mid-flight. One detail, three meanings: he grew up inside this world, he is about to
+burgle it, and the knowledge was innocent when he got it. *(Deliberately not "since he was nine" —
+that phrasing is already load-bearing in ch5 for the ledger rooms.)*
+
+**ch23 and ch24 — written.** Both were far worse than the three lines first quoted: ch23 ran **nine** lines of narrator summary and ch24 **eight**, including a literal recap of the book's chapter list (*"That moment in the crowd… The desperate search… The infiltration of the compound… Farleen's betrayal… The descent into the Warrens… Tam's rescue… The divine trial… The Long Knives"*). Both also closed with the epithet construction — *"The grain merchant's son stood among warriors and nobles…"* / *"…walked beside the woman who'd proven herself worthy through fire"* — which is a camera pull-back as well as outline language.
+
+**ch23** now ends on Xion's position rather than Elara's ascent:
+
+> Elara was in the middle of it, Vesk at her shoulder, two of his officers standing by to be told things.
+>
+> Xion found a place along the wall and put his back against it. Nothing in the room had needed him for several minutes.
+
+He found her, and the institution is taking her back, and he is against a wall watching it happen. Being needed is his whole identity, so *"nothing in the room had needed him"* is the sharpest available knife and it names no feeling at all. **This is a Book 2 plant** — B2's premise is the institution separating them (Elara appears in one chapter of twenty), and that separation now begins on the page, two chapters before the coronation, with nobody remarking on it.
+
+**ch24** ends on the tally he has been keeping all chapter. Line 107 already had him counting her injuries mid-fight — *"the left forearm that would be black by morning, the hip she had begun favouring by a degree she did not know she was favouring, the shoulder she had stopped raising past a certain height"* — and the chapter then dropped it. Now it pays:
+
+> Ahead of them Elara had stopped limping. Xion watched what it cost her to stop — the forearm held still, the hip taken out of the stride, the shoulder kept level by deciding to keep it level.
+>
+> *Nothing broken.* True, and the smallest true thing available, and she had chosen it.
+>
+> He kept the rest of the list to himself.
+
+His instrument, her character, and the relationship in three sentences, with none of the three stated. **Not a consent break** — he is declining to press, which is restraint, not overreach; the guardrail is about him acting without asking, not about him letting her keep a small lie she needs.
+
+**ch25 — closed, by deletion only.** Author's condition: improve it only if the emotional character is untouched. *"I do not want anything that takes away from triumph. That's a hard no."* Nothing was added. **Every change removes a line that tells the reader to feel triumph, leaving the line that makes them feel it.** ~150 words out of 2,734.
+
+**The buried old ending (the big one).** Nine lines sat between two strong passages, and the first of them was **the only deflation in the chapter**: *"He didn't know what came next. The work of ruling. The political fallout. Tomorrow would bring all of those and more."* Malcolm at the gate, imported into the gate reveal — rule 3 argues for the cut rather than against it. The rest was redundancy at lower voltage than its surroundings: *"today they'd done the impossible"* (the narrator applauding), *"prove him right"* (shrinking a coronation to Xion's vindication), and *"Tonight, Kaha'an had an empress"* (repeating *"The empire had an empress again"* eighteen lines earlier). It also broke the climb — the chapter peaked at *"It was breathing now,"* deflated for nine lines, then had to climb again. **The ascent is now unbroken:** the dust breathing → Elara on the throne → the roll call → the plaza filling → the bells to the harbour → *She was real.*
+
+**Bonus from that cut:** it leaves exactly **one** *"the grain merchant's son"* in the chapter, in the final paragraph. Previously the second of two and reading as a habit; now it is the title of the book arriving in its own last lines — and it is the legitimate rule 0 pull-away the author named ("we are ending the entire book here, this is a cinematic pull-away").
+
+**The last line.** *"And Kaha'an would never be the same"* cut. It is the narrator certifying that a big thing happened, placed immediately after the strongest line in the chapter. **Ends on "She was real."** — a full stop and a direct answer to the question the same paragraph poses.
+
+**The two "This was it"s** (at the great doors and at the throne). These *cost* suspense: *"the ultimate proof"* frames the doors as a thing that will be proven, so *"For a heartbeat, nothing happened"* was a heartbeat whose outcome the narrator had already promised. Cut, the reader arrives at the doors with Xion's fear (*"What if the wards didn't recognize her?"*) instead of a caption. **Triumph is a function of the doubt that preceded it.** Kept: *"Xion felt the weight of the moment pressing down, making it hard to breathe"* — that is sensation, not a label, and it is breathing room the chapter has earned.
+
+The Jurassic Park test settles it. That scene has a cue — the score swells. What it does not have is anyone saying *this is a big moment*. In prose the swelling score is rhythm, and ch25 already has it: *"Then—light."* / *"Smooth. Silent. No one touching them. Pure recognition."*
+
+**The chapter was doing its roll call twice.** Elara's sweep at the throne (*"Gratitude. Determination."* / *"something complicated passed between them. Acknowledgment without resolution"* / *"Each person representing a different piece of the journey"*) is the same list in the abstract, **twenty lines before** Xion's specific one — the worst possible order, since it tells the reader these people matter before the good passage shows it. The Farleen beat there also repeated line 55 nearly verbatim (*"something complicated passed between them. Not resolved. Not simple. But acknowledged"*), and she already gets a third and better beat in the real roll call. Enumeration cut; **her looking kept**, including her gaze finding Xion's, because that is theirs and it is not spent elsewhere.
+
+**Deliberately left alone.** The rest of the "weight of the moment" language. These lines are also breathing room, and ch25 is uncomplicated joy, which is generous by nature. Stripping all the connective tissue would make the chapter cooler and more trusting — more sophisticated, marginally less warm — and would risk sanding off the thing that makes it read as a gift to the reader. **Taste, not craft. Do not revisit without the author.**
+
+**Still outstanding:** (**both open their endings with the same sentence** — *"Everything came down to Sa Ko Ren
+now"* / *"Everything came down to one final step now"* — two chapters running); ch25 (C-6, and
+do-not-touch: fix the flatness, not the triumph).
+
+**C-24 — ch4's betrayal, and the author's design recovered**
+
+I filed this as a prose-register problem (ten emotional descriptors) and then as a density
+problem. **Both were wrong about the cause.** The author's clarification: Xion is *blinded by joy
+at having found Elara* and fails to notice signs his diagnostic mind would normally catch. The
+two *"he didn't notice"* constructions were a deliberate POV bend, chosen because there seemed no
+other way to give the reader the signs.
+
+**There is another way, and the book had already set it up.** Ch3 establishes his method as
+elimination — *"eliminate possibilities until only the truth remained."* The known failure mode of
+elimination is that once you reach your answer, every new datum confirms it. **Ch4's blindness is
+the shadow of ch3's method**, so the faculty stays *on* and produces the wrong result. He is not
+unobservant; he is **wrong**, which is better characterization, needs no POV bend, gives the
+reader *more* signal than before, and makes a reread devastating.
+
+Applied — three misattributions replacing two bends:
+
+- **The greeting.** *"…something moved in her own. He took it for the news arriving — he had been carrying it in his face the whole way back, he could feel that he had — and he was across the yard before she had finished composing herself."* He half-registers her **composing herself** and does not ask why.
+- **The flicker.** *"…her voice was very level — the level voice she used when she was frightened, and she was entitled to be frightened, because he had just told her the imperial heir was alive and that four people now knew where."* He reads the sign **correctly** (level voice = fear) and supplies the wrong cause. That is diagnostic error exactly.
+- **The alley.** *"He was glad of it. There was nothing he had to say that could be said in a yard."* She selects the killing ground and **he is grateful to her for her discretion.**
+- **Deliberately not glossed: "Her hands were shaking."** After two misattributions the reader has learned the pattern; a bare unglossed sign is stronger than a third gloss, because the reader supplies the misreading. **Do not add one.**
+
+**Crying descriptors 12 → 5**, now escalating rather than repeating: *voice cracked* → *the words
+burst out of her* → *she was crying now, openly* → *she couldn't finish the sentence* → the lunge.
+Cut: *raw and anguished*, *tears gathered*, both duplicate *her voice broke*s, the second *voice
+cracked*, *came out as a sob*, *dissolved into sobs*, *choked on the words*, *came out as a wail*,
+*tears streaming down her face*, and *her face breaking with grief and self-loathing* — the last
+leaving *"She looked at him one last time, and lunged,"* which is much stronger bare.
+
+**Move 3 applied lightly and on a principle, per the author.** *"Once the words come out it's like
+a dam breaks and the words tumble out almost against her will"* — so **the tumbling is the
+characterization and stays.** Every repetition, self-interruption and broken-off sentence was
+kept; three em-dash breaks were made to run on rather than being labelled, which is *more*
+dam-break, not less. Only **exposition** was cut — the places she explains to a cartel heir things
+he has known his whole life (*"they see this as destabilizing. Dangerous."*, *"The cartels have
+spent twenty years maintaining this balance."*, *"Do you think they'll just let that go?"*). Added
+in exchange: *"and you know they will. You know they will."* — a doubling, because that is what
+tumbling sounds like.
+
+**Net: 31 words out of ~431. Ratio 6.4:1 → 5.3:1.** The ratio barely moved and that is correct:
+the imbalance in this scene is not a fault, it is a woman who cannot stop talking and a man who
+has nothing to say yet.
+
+**Not applied, recorded instead:** — the Act I ending habit, ch3's
+double statement, ch4's un-revised betrayal prose, and Xion's verbal passivity opposite women.
+C-1 (*"ch2 and ch3 run the same argument"*) now looks stale: ch3 has since been rewritten so the
+friends *believe* him and refuse anyway. Worth re-checking before acting on it.
+
+**Book 1 beat drafts — Act I trial (ch1–4)**
+
+Book 1 was the only book in the series without beat drafts, and the author's observation is that
+Book 2 is measurably tighter for having them. The evidence supports it: **B1 carried 15 craft
+flags across 25 chapters (0.60/ch); B2 carries 4 across 20 (0.20/ch) — with zero editorial passes
+applied.** Its low count is not the result of being fixed. And the C-22 scan run across Book 2's
+twenty endings returns **nothing**: no narrator forecast, no *"and that was enough,"* no epithet
+pull-back. B2 ch2 even uses B1 ch1's construction on purpose — *"Tomorrow he would find another
+way to reach her. He had told himself that yesterday too."*
+
+**Why the template catches what a prose read misses.** `POV:` is a header field, so a rule 0 break
+is visible before it costs prose. `Emotional work:` is a header field, so ch25's *"the work of
+ruling, the political fallout"* is off-spec on sight. Contradictions land as **adjacent numbered
+beats** — ch18's *"it could not buy the boy"* and *"solid and alive"* would have been beats 14 and
+17 on one page instead of 400 words apart. And the final beat is an isolated object, so nine
+consecutive chapters forecasting the next one is impossible to miss.
+
+Written as blueprints and then diffed against the page. **Findings from the trial:**
+
+- **The drafts are the natural home for the do-not-touch reasoning**, which was scattered across
+  the changelog and easy to lose. Each now sits in the footer of the chapter it governs: ch1's
+  ending is not flat; ch4's Move 1 is dead; ch3's reversal must never revert to *is he sane*;
+  ch1's *"Her hands were shaking"* stays unglossed.
+- **Ch1's beat count came out at 29** against a 12–20 house norm, which is the draft reporting that
+  the chapter is doing a great deal — four scenes, six plants, and the book's POV contract. Not a
+  fault; worth knowing.
+- **The plant/collect lists write themselves once the beats are numbered**, and they surfaced one
+  thing a prose read had not: ch4 beat 1 has Farleen grip the shoulder the blade finds in beat 30.
+  Almost certainly accidental. Keep it.
+- **Ch3's footer names the ch4 mechanism** — elimination's shadow is that once you have your
+  answer everything confirms it — which is the connection that resolved C-24, and it is now
+  recorded at both ends instead of living in one session's memory.
+
+**Retro drafts have a specific failure mode, recorded for the remaining 21:** written by
+summarising the existing chapter, they inherit its flaws and launder them into "the plan." The
+discipline is to write the blueprint as if planning cold, then diff. **The gaps are the findings.**
+
+Still to do: ch5–25, and a `book1_chapter_skeleton.md` to match Books 2 and 3. Book 1's
+`TGMS Book Summary.md` is a summary of what exists, not a plan, and does not substitute.
+
+**Book 1 beat drafts — ch5–21 (Acts II and III)**
+
+Seventeen more drafts, same three-pass method: blueprint written cold, diffed against the page,
+then read blind. House metrics across the
+set: mean 2,240 words, 9–19 bold spans, 19–30 beats, cited text under 4%.
+
+**No structural change was proposed and none should have been.** The two cuts this method
+produced during the Act I/II passes — ch6's temple courtyard and ch8's middle conversation —
+were both wrong, and wrong in the same direction, which is why the rhythm rule now sits in
+`CLAUDE.md` and why both chapters' footers carry an explicit do-not-thin note naming the length
+profile. The Act III pass produced none, and the reason is that the check now happens before
+the footer is written rather than after.
+
+**What the drafts caught that a prose read had not:**
+
+- **Farleen's argument runs five times** (ch14, ch16, ch17, ch19, ch20) and looks like repetition
+  in isolation. Numbered side by side it is an escalation that terminates: risk assessment →
+  losing and planning the job anyway → winning, with one crack about what she threw away →
+  *I can't lose you*, whispered → shouted at Elara until she runs out of words. **That is her
+  whole Book 1 arc**, and a reviewer thinning the early instances would leave the confession
+  standing on nothing. Recorded in ch19's and ch20's footers at both ends.
+- **The flask in ch18 is an invoice nobody in the book ever reads.** Xion spends most of his
+  water on Varris's leg, and an hour later there is not enough for Tam, so he spends what remains
+  flushing the wound instead of putting it in the boy. The kindness that gets all three of them
+  out of the Warrens alive is paid for out of the dying child's ration. It is on the page already
+  and it is never remarked on. **Do not add a beat where he realises it.**
+- **Ch18's limp is the book's cleanest instance of the density standard** — one action carrying
+  five meanings with no dialogue decoding any of them. It is now the passage the rulebook's "one
+  action, five meanings" corollary can be pointed at.
+- **The ledger reading of the Warrens was mine, not the book's**, and it had got into the ch14 and
+  ch15 footers before the author caught it. Corrected: the only person keeping a ledger is Xion;
+  from outside, Master Fen is the kind doctor who never asks questions and is therefore the only
+  neutral ground in a place made entirely of factions. *"After this we're even"* is a frightened
+  person marking the edge of what they can afford, not a settlement. Korvin is the counter-example
+  and never closes the account.
+- **Ch21 is the model for rule 0 and the footer now says so at the chapter it governs**, not only
+  in the rulebook. The Mistress cannot be described until Xion turns around, because he has not
+  looked at her.
+- **Ch20 is the anti-triumph and needed protecting explicitly.** Divine sanction — the one thing
+  Elara's claim has lacked for twenty years — arrives ten feet from an unconscious child, and she
+  throws it across the floor. The footer prohibits putting wonder in the chapter; ch19 already had
+  the wonder and Tam paid for it.
+
+**On rhythm as a first-class field.** Every one of the drafts now ends with an
+`**On rhythm:**` note giving the chapter's word count and its position in its movement — twelve
+were retrofitted to ch1–11 and ch13, which had the argument embedded in other footers or not at
+all. Book 1 runs ~61,900 words across 25 chapters, mean 2,475, and it moves in blocks: ch1–8
+compressed (1,453–2,516, mean ~1,900), ch9–10 the scale change (3,695 / 3,139), ch11–12 the
+breath (1,776 / 2,591), ch13–16 the descent and the longest sustained block in the novel (all
+over 3,100, 13,238 words together), then ch17–21 alternating (1,670 / 2,964 / 2,427 / 1,813 /
+2,153). **Long-then-short is the book's signature for a disaster and its aftermath** and it fires
+three times: ch9–10 into ch11, ch16 into ch17, ch18–19 into ch20. Writing the profile down at the
+chapter it governs is what stopped the third bad cut proposal before it was made.
+
+**Book 1 beat drafts — ch22–25, and the chapter skeleton**
+
+**All twenty-five beat drafts now exist**, and `Book 1 - The Grain Merchant's Son/book1_chapter_skeleton.md`
+is built from them bottom-up — derived from what the chapters actually do, never a top-down outline
+the drafts were made to match. It is deliberately leaner than Book 2's (~230 words per chapter
+against ~520), because Book 2's skeleton preceded its beat drafts and had to carry the reasoning
+itself, whereas Book 1's reasoning already lives in twenty-five footers. The acts it names are
+ch1–4 (The Question), ch5–12 (The Education), ch13–21 (The Descent), ch22–25 (The Ascension).
+
+**Findings from the Act IV pass:**
+
+- **Ch22's most important beat is four lines long and is a refusal.** Elara reaches for the ch15
+  weapon; Xion has the identical weapon, fully formed and accurate — *and what about you, princess* —
+  and crushes it. Nobody notices, including her, and **nobody may ever praise him for it.** The
+  moment a character remarks on the restraint it becomes a virtue displayed rather than a thing
+  done alone.
+- **The ch15 → ch22 asymmetry is deliberate and calibrated.** Ch15 registers in two quiet sentences
+  that he answered a question she did not ask; ch22 names the mechanism outright. The plant must be
+  nearly invisible and the collection must be unmissable. Do not sharpen ch15, do not soften ch22.
+- **Ch23 delivers the take-over's invoice** and it is one sentence: he has not thought about Janice
+  since the smoke. Four days with a dying child on his shoulder and the woman who gave him his name
+  never once entered his head. Recorded as a cross-book beat rather than a flag — it is doing its
+  job. Do not let a character absolve him and do not let him defend himself. Also unremarked: the
+  men who took her wore Grain cartel livery, and nobody in the chapter says so.
+- **Ch24 is the clearest demonstration in the book that the character's own instrument beats generic
+  competent description.** Xion cannot follow the fight — the text links it to ch14 explicitly — so
+  he watches it as bodies, and *that* is what makes him the first person in the hall to know Sa Ko
+  is not fighting. The rib strike he can price exactly is ch16 collecting. The question he then asks
+  — whether Elara knew — is never answered and must not be.
+- **Ch25 needed no findings and that is the finding.** It is the Jurassic Park chapter and it holds
+  one feeling for 2,588 words with four open wounds standing right there. The Farleen thread gets
+  one clause — *not resolved, not simple, but acknowledged* — and that is the entire permitted
+  concession. Recorded at the chapter: the roll call C-6 nearly got deleted is the best passage in
+  it, and the four things left unpaid (Janice, Tam, Farleen, and a man who cannot receive anything)
+  are Book 2's opening material and must not be tidied.
+- **The epithet appears exactly once in the novel**, five sentences from the end. Verified by grep.
+
+Royal Road output regenerated at the end of the pass and produced no diff, confirming the prose
+exports are current.
+
+**Book 2 craft items C-12 through C-15 — re-verified, and what came of it**
+
+Re-verified against the current text before acting, per the standing rule. **Three closed, one
+retired as mis-specified**, and three new items opened (C-26, C-27, C-28). Evidence for each is in
+the closed-items table. **C-26 was then applied — the first editorial change ever made to Book 2.**
+C-27 and C-28 remain open and unproposed.
+
+The pattern from Book 1 repeated: **the flag that looked most substantial was the one that was
+wrong.** C-13 named ch6, ch7 and ch10 as closing on the same long summarizing paragraph. ch7 does
+not — its ending is four short lines and among the best in the book. Acting on C-13 as written would
+have thinned a good ending, which is precisely what C-6 nearly did to B1 ch25's roll call.
+
+**C-26 — the verdict-stamp habit. APPLIED.**
+
+*"That was the whole of it"* appears **seven times as a narration stamp** across Book 2 — ch3, ch7,
+ch9, ch10, ch11, ch14, ch20 — always in the same syntactic slot, always doing the same job: telling
+the reader that the sentence before it was the conclusion. Book 1 uses it in narration exactly once
+(ch17); its other two hits are Janice's dialogue and an idiom in ch23. Variants add three more:
+ch6 *"the sour heart of it"*, ch18 *"The stop was the whole of it"*, ch9:53 *"the whole grey weight
+of it."*
+
+Proposed disposition — **cut five, keep two, leave the variants**:
+
+| Ch | Current | Proposed |
+|---|---|---|
+| ch3 | *"He had told her the truth. That was the whole of it, and there was no untelling it."* | **Cut — author's call.** *"He had told her the truth. There was no untelling it."* Shorter and harder, and it removes the construction from the narrator's voice rather than merely de-habituating it. |
+| ch7 | *"His father had stopped arguing. That was the whole of it, and it had taken him until now to see what it meant: …"* | *"His father had stopped arguing. It had taken him until now to see what that meant: …"* |
+| ch9 | *"Children were drinking who would otherwise be dying. That was the whole of it, and it was good, and it had come from the hand…"* | *"Children were drinking who would otherwise be dying. It was good, and it had come from the hand…"* |
+| ch10 | *"That was the whole of it. He could not reach her; …"* | Delete the sentence. The line immediately above it already says *"And there was nothing he could do with the knowing."* — **the strongest cut of the five, because the stamp is redundant with the line above it.** |
+| ch11 | *"And that was the whole of it, laid open in a single question, and neither of them had a thing to set against it."* | *"It was laid open in a single question, and neither of them had a thing to set against it."* Avoid *"And there it was"* as the replacement — ch9:53 already uses it with *"laid out."* |
+| ch14 | *"…and the hand had opened, and that was the whole of it, and it was killing people for no reason a ledger could hold."* | *"…and the hand had opened, and it was killing people for no reason a ledger could hold."* |
+| ch20 | *"And it was not the Lord of the Grain he was remembering. That was the whole of it. Not the man who kept his ledgers in three rooms…"* | **Cut — author's call, and correct.** Delete the sentence. See the note below on why this one is a repair rather than a tightening. |
+| ch6, ch18 | variants | **Leave.** ch18 is do-not-touch; ch6's ending is C-27's problem and should be handled there, not here. |
+
+Footprint: five sentences, ~30 words out, four words in. Every change is a deletion except ch11's.
+
+**Revised after author review — the ch20 instance goes too, and my reasoning for keeping it was
+wrong.** I had proposed keeping ch20 on do-not-touch grounds and then argued that ch3 and ch20 would
+form a bookend once the middle five were cut. The author's instinct was that ch20 should change or go,
+and the passage settles it: **ch20's is the one instance that actively malfunctions.**
+
+*"And it was not the Lord of the Grain he was remembering. That was the whole of it. Not the man who
+kept his ledgers in three rooms and knew which room a magistrate would be shown. A father — someone
+who had picked him up and set him somewhere high…"*
+
+It declares completeness and the paragraph then runs on for six more sentences carrying the actual
+content — Mira, the letting, the house that stops being a monument, the man who had once been a
+person. And it is wedged into the middle of a parallel: **not X, not Y, but Z.** Deleting it repairs
+the syntax rather than merely tightening the prose, which makes it the second-strongest cut in the
+set after ch10's. In ch3 the phrase completes its own sentence; here it interrupts one. That is the
+distinction, and it is the one I missed.
+
+**The bookend argument is dead, not weakened.** ch20's instance was never available to be a bookend,
+because it is the broken one. Six cuts, one keep.
+
+**Author's ruling on ch3: cut it too.** So the construction leaves the narrator's voice entirely
+rather than being thinned to one use. Seven cuts, none kept.
+
+**Observed and deliberately left:** ch18's *"That was all of it. Not modesty; he had done the thing…"*
+is a cousin of the cut construction and was seen, not missed. It survives on two grounds — the
+chapter is do-not-touch, and the sentence after it *corrects* a likely inference rather than
+elaborating an already-finished one. Recorded so a later reader knows it was considered.
+
+**The old-draft retrospective — findings worth keeping**
+
+*Non-canon fence, restated: `TGMS - OLD/` was read once, for this document only. Nothing below is
+continuity, nothing in it was reconciled against the books, and none of it may be cited as canon. It
+is recorded because a few of the comparisons are useful craft evidence.*
+
+Full document lives at **`TGMS - OLD/Retrospective.html`** — deliberately filed inside the non-canon
+folder so that it inherits the same exclusion as the draft it describes and does not sit among canon
+material. It is a self-contained page: open it in a browser, no network needed, and it carries the
+non-canon fence at the top rather than in a footnote. Also published as an artifact:
+`claude.ai/code/artifact/15fa5bcc-be71-4e1c-b97b-5c5a9cadf220`.
+
+*It is the one HTML file in the repository that is not build output, and it is deliberately not
+Markdown — it is a comparison document, and the side-by-side layout does work that prose would have to
+describe. `Tools/royalroad_export.py` does not see it; the exporter only globs `Book *`.*
+
+**The four findings that matter:**
+
+- **Rule 0 was invented late and the book had already been reaching for it.** The old draft breaks POV
+  three times in twenty chapters — a Commander Vesk chapter, an Elara chapter that also switches into
+  present tense, and a chapter that reaches into Elara's head while nominally with Xion. The book has
+  none in twenty-five, plus one deliberate widening in the last two pages of ch25.
+- **The Vesk inversion, which nobody planned.** Old ch14 opens *"Commander Vesk paced the length of the
+  Arol Batae's inner ward."* B1 ch23 opens the same man's scene with *"He was not pacing. Xion had
+  expected pacing and got instead a man standing perfectly still."* The canon line was written to
+  characterise Vesk, not to answer a discarded manuscript — and it is the whole argument in two
+  sentences.
+- **Tam is never taken in the old draft**, and this is the largest single difference between the two
+  manuscripts. He appears in ch1 only: cut hand, stitches, and then Xion presses a silver piece into
+  his good hand and he is never mentioned again across nineteen further chapters. The narration
+  explains the scene's meaning three times on the way out. **The book's entire thesis is the
+  correction** — Xion cannot help, because helping means saying his own name, and the rescue that
+  eventually happens is performed by people he treated for free years earlier.
+- **Janice does not exist.** She is *"Mistress Thera"*, named once, in a subordinate clause. Which makes
+  her arc three-stage, and the middle stage is worth remembering: **absent → over-weighted → sound
+  before sight.**
+- **Who named Master Fen, stated once so it stops being paraphrased.** Janice supplies the
+  *instruction* — *"You can't keep that name. Not if you want to keep doing this."* **Xion supplies the
+  name**: *"Fen. Master Fen."* Told at fifteen that he has to stop being himself, he reaches for the
+  surname of the woman his father had executed, and wears it for eight years. This is the
+  division-of-inheritance guardrail visible in four lines of dialogue — she gave him the cover, Mira
+  gave him everything the cover was protecting — and it is exactly what gets lost if the scene is
+  summarised as *Janice invented the alias.* **It was summarised that way once, in the first cut of the
+  retrospective, and corrected.** Do not let it drift back: the moment Janice supplies meaning as well
+  as method she crowds out Mira, who has to carry three books.
+
+**And one methodological note.** The old draft holds a single gear — 2,386 to 4,595 words, dynamic
+range 1.9× — against the book's 1,453 to 3,758 and 2.6×. That is the length-profile discipline showing
+up as a measurable difference between the two manuscripts, and it is the same instrument that stopped
+three bad cut proposals this pass.
+
+---
+
+**Janice's failing sight — VETOED and removed from the series**
+
+Author's ruling, immediately after the correction below: **the blindness is doing too little for what
+it costs, and the book has enough going on.** Janice's sight is fine. The first injury is unspecified
+and Xion cured it. Removed everywhere.
+
+**Blast radius, checked before applying.** Book 1's prose has **no dependency at all** — and the check
+turned up a second stale citation, since the character sheet had been justifying the thread with a ch1
+line, *"She held the unpicked row up to the light, squinting at the gap in it,"* that does not appear
+in the current text. Downstream was four beats of B3 ch3 and one section of the character sheet.
+
+**What changed in B3 ch3.** A3 loses *a blind weaver*. A8 loses the physician and gains **a shop** —
+the lease, the frontage, the stock, in a better street than the one that burned — which is a stronger
+offer anyway, because it is the thing she actually lost and would actually want, so refusing it costs
+her more. A10's *"a list she will never be able to read"* becomes *"a list without her ever being
+asked"*; the beat's force was never the blindness but the gap between what he could do unasked and
+what she has permitted.
+
+**A5 is the beat that improved most.** It was a room navigated by touch — everything at a fixed
+distance, nothing on the floor — and a paragraph explaining that she could do the work but no longer
+sell it. It is now a workroom: the chair set where the light is best, the basket within reach,
+everything else subordinate to that corner. She rebuilt the shop in miniature, alone, two streets from
+where it stood, and **it works.** The beat now contains no misfortune whatsoever and does far more
+damage, because it removes the last excuse: she did not come because there was nothing to come for.
+
+**And it tightens the ledger thread rather than loosening it.** The old logic ran *he could not cure
+it, only slow it, and the debt is that he asked and told her the truth.* With the cure, there is no
+debt at any point. He fixed her, she owed him nothing, and her first act toward him was to hand back
+the correction that made his whole life possible — *you can't keep that name.* Two people fixed each
+other inside a week and neither opened an account. **Janice is now the purest instance in the series
+of the thing Xion cannot understand**, which is help with no ledger under it — and it is why she
+refuses a shop, a pension, a house and a place on a register in B3 ch3.
+
+---
+
+**Open questions — purged, and one misreport corrected**
+
+§6 was carrying three closed questions under the heading "Open questions", numbered 1–4, while the
+closed-items table used a separate Q1/Q2/Q3 scheme for entirely different items. I read the list
+rather than the drafts and reported *"Janice's failing eyesight — confirm or veto"* to the author as
+live. It was not. **The author caught it.**
+
+That is the same failure this pass has been correcting all session, committed by the person
+correcting it: **a flag outlived its problem and the next reader trusted it.** The section is now
+purged to the one question that is actually open, and carries a warning about the numbering.
+
+**What is settled:** Janice is blind, and the Book 3 beat drafts are built on it — *a blind weaver*,
+a room navigated by touch, knowing his step before he speaks, an offer of *a physician for her eyes*,
+and a name on *a list she will never be able to read.* Recorded on her character sheet under **Her
+Sight**, which previously carried the whole thing as *(proposed, not yet confirmed)* and did not
+mention the blindness at all — the canonical sheet was silent on the trait an entire Book 3 movement
+runs on.
+
+**What is open, and it is narrower and more interesting than the flag said:** whether the eyes are the
+*first-patient* injury — the backstory in which fifteen-year-old Xion cannot cure it, slows it, and
+tells her the truth, and in which *the debt is not that he healed her; the debt is that he asked, and
+then told her the truth.* B3 ch3 A8 has him offer her a physician for her eyes. If the eyes are the
+original injury, the offer is the whole relationship closing a loop and her refusal costs accordingly;
+if not, it is one kindness among several. **The answer changes how hard B3 ch3 hits.**
+
+---
+
+**C-27 — the ch6/ch10 endings. INVESTIGATED, REFRAMED, APPLIED.**
+
+Checked the length profile and scanned all twenty endings before proposing, per the rhythm rule.
+Two things came back.
+
+**Book 2's signature ending is short and hard**, which the flag did not account for and which makes
+the two long ones conspicuous. Thirteen of twenty close in one or two sentences — ch4's *"So he
+went."*, ch7's *"He was not in the room."*, ch8's *"He did not remove the collar."*, ch12's *"He
+meant to keep it."*, ch13's *"In the dark, his clean hands found the door."* Against that, ch6 and
+ch10 are the only two chapters that close on a long enumeration. So the flag was pointing at
+something real.
+
+**But the two lists are less alike than the flag claimed.** ch6's is past-tense loss — *he'd had a
+title, an Empress, a father.* ch10's is present-tense impossibility — *he could not reach her,
+could not put his hands on the hurt, could not carry a name.* Different tense, different grammar,
+different content, four chapters apart, and both beat drafts specify an alone-ending as the plan
+(ch6 beat 17, ch10 beat 21). **Two chapters ending on lists of different kinds is not a finding**,
+and cutting either enumeration wholesale would cost real material: ch6's ends on *"without any
+villain in the doorway at all,"* which is that chapter's thesis, and *"at the bottom of the
+chalice,"* which collects the title.
+
+**What is actually there is inside ch10, and the flag missed it.** The ending runs the same
+enumeration twice, one paragraph apart:
+
+| First list — *"He could not…"* | Restated in the closing aside |
+|---|---|
+| *"He could not put his hands on the one hurt in all the city…"* | *"no wound to close"* |
+| *"He could not carry a name to the Arol Batae…"* | *"no name to spend"* |
+| *"He could not reach her; the gate had been shut…"* | *"no gate to talk his way through"* |
+
+Three of the six items in the closing aside are compressed restatements of three of the five clauses
+above them. The remaining three — *no plan, no lever, no move anywhere in the world* — are new, and
+are the generalising tail the sentence actually needs.
+
+**Proposed fix, ch10 only:** delete the three restated items from the aside and keep the em-dash
+construction and the new tail.
+
+> Now he sat on a low wall in the failing light with the worst news he had ever been handed and his
+> hands hanging empty — no plan, no lever, no move anywhere in the world — and understood that this,
+> at last, was the thing there was no doing anything about.
+
+Fourteen words out, nothing added. The five-item *"He could not"* list stays intact — every item in
+it names a distinct closed door and says why it is closed, which is argument rather than lament, and
+it is what makes ch11's decision land.
+
+**Second cut, ch6 — taken.** *"That was the sour heart of it"* deleted: the last surviving variant of
+the C-26 construction, more exposed once the seven were gone. *"There was, in truth, another roof"*
+already carries the weight. Belongs to C-26's family rather than to this item, and was offered and
+green-lit separately.
+
+**Withdrawn from C-27 as filed:** any cut to ch6's three-part list, and any change to ch10's *"He
+could not"* list. Both were the flag's actual target and both are correct as written.
+
+**ch18 stays regardless, and not only because the chapter is protected.** *"The stop was the whole of
+it"* is a different construction doing a different job: the subject is Silvanno's pause, and the
+sentence identifies which part of an utterance carried the meaning rather than stamping a conclusion
+onto the paragraph above it. Leave it.
+
+---
+

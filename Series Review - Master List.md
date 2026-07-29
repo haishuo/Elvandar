@@ -8,6 +8,10 @@ document rather than an afterthought in it.
 
 Applied changes live in **`Series Review - Changelog.md`** — history, not work.
 
+Both books also have a full set of beat drafts now — Book 1's twenty-five written retroactively from
+the finished prose, plus `book1_chapter_skeleton.md`. Anything structural should be checked against
+them before it is proposed against the prose.
+
 ---
 
 ## Status at a glance
@@ -17,17 +21,27 @@ Applied changes live in **`Series Review - Changelog.md`** — history, not work
 | **Rule 1** — coherence | 0 | — |
 | **Rule 2** — characterization | 0 | — |
 | **Rule 3** — single-emotion integrity | 0 | — |
-| **Craft — Book 1** | 6 | C-3, C-16–C-19, C-21 |
+| **Craft — Book 1** | 3 | C-16, C-18, C-21 |
 | **Craft — Book 2** | 0 | — |
 | **Open questions** | 0 | — |
 
-**6 items outstanding, all craft-tier, all in Book 1.** Nothing in Books 1–2 currently breaks a rule.
+**3 items outstanding, all craft-tier, all in Book 1, none structural.** Nothing in Books 1–2
+currently breaks a rule.
 
-**Before flagging anything here as outstanding, check the history.** Twelve entries in this document
-have turned out to be already fixed — six caught by re-reading the prose, six more only found by
-searching commit messages (`git log --all --grep="C-N"`) and by grepping the prose for the exact
-phrase an entry quotes. Reading the chapter is not sufficient; an entry can describe a problem that
-a later commit solved in a way the entry never anticipated.
+**Before flagging anything here as outstanding, check the history.** This document has now produced
+more stale entries than live ones. Eight of the original eleven Book 1 craft flags were stale — the
+chapters had been rewritten and the flags never retired — and a further twelve entries turned out to
+be already fixed, six caught by re-reading the prose and six more only found by searching commit
+messages (`git log --all --grep="C-N"`) and grepping for the exact phrase an entry quotes. Reading
+the chapter is not sufficient; an entry can describe a problem a later commit solved in a way the
+entry never anticipated. **A flag that outlives its problem is worse than no flag**, because the next
+reader trusts it and cuts good material — C-6 pointed at the best passage in ch25 and nearly got it
+deleted.
+
+**Numbering note.** C-16 through C-21 as filed below are the local series. **C-22 through C-28 came
+in from the cloud branch on 2026-07-29, where they were numbered C-16 through C-22**; both lines had
+invented C-16 onward independently for different items. The mapping is in the changelog under the
+merge entry, and the branch's own commit messages still use the old numbers.
 
 **Sections:** [1. Rule hierarchy](#1-the-rule-hierarchy-authors-binding) · [2. Cross-book threads](#2-cross-book-threads) · [3. Outstanding work](#3-outstanding-work) · [4. Do not touch](#4-do-not-touch) · [5. Character guardrails](#5-character-guardrails) · [6. Settled rulings](#6-settled-rulings) · [7. Open questions](#7-open-questions) · [8. Observations that are not fixes](#8-observations-that-are-not-fixes)
 
@@ -37,6 +51,7 @@ a later commit solved in a way the entry never anticipated.
 
 When these conflict, the lower number wins. Everything else in this document is subordinate to them.
 
+0. **Book 1 only — remember what the name of the book is.** The camera stays on Xion's shoulder. Not craft — the theme. Janice, Farleen, Elara and the rest exist through Xion's eyes and ears; the camera is *in* him or *on* him. **What Xion attends to is what the reader attends to**, and it bites hardest when he is working: B1 ch21 is the model, where the Mistress walks into the chamber and he never notices because he is treating Tam. Moving the camera off him is allowed but must be argued for, and the argument has to be about why *this* scene earns it in a book called *The Grain Merchant's Son* — establishing the whole book, or ending it on a cinematic pull-away. Inside the body of the book, assume the move is wrong ~99 times in 100.
 1. **Things must make sense.** If something becomes logically incoherent, the plot changes to fix it.
 2. **Characters must behave like themselves.** No adjusting a personality to make a point. *The plot serves at the sufferance of characterization, never the reverse.*
 3. **A scene designed for one emotion stays that way** — wonder, joy, triumph, despair. Resolution may happen around the edges. It must never dilute.
@@ -116,6 +131,54 @@ Note the **order** in that paragraph: he reasons his way to the decision, and *t
 
 **Consent — "Can I have a look?"** B1 ch1 (asks a twelve-year-old's permission) → B1 ch19 (**first break**: carries a delirious Tam into Long Knife territory; the one person who cannot consent is the one endangered) → B2 ch3 (asks the child, *orders* the tally-man — both behaviors, correctly assigned, in one scene) → B2 ch11 (*"no one had said he could, and there was no one left in the room to say he couldn't"*). Watch this in Book 3: **the moment he stops asking is the moment the wound is driving him instead of the practice.**
 
+**The take-over — one faculty engages, the world outside it goes dark.** *Author's observation,
+verified against both books; it was already in the text and neither of us put it there on purpose.*
+
+Xion's hallmark is not focus exactly. It is **a part of him taking over without consulting him**, and
+the phrasing is nearly identical across four years of drafting: B1 ch1 *"He went in through the bodies
+**without deciding to**"* → B1 ch18, healing, *"And then the other thing took over, the way it always
+did, **before Xion had decided anything at all**"* → B2 ch16, the cold, *"**It did not feel like a
+decision.** Decisions had a texture, a moment of weighing, and there was no weighing in this."*
+
+Both versions narrow the world to a single channel. B2 ch16's *"the only part still fully awake"* is
+the same sentence as B1 ch21, where the Mistress walks into the chamber and he never notices.
+
+**Similar in shape, different in kind — and the text already insists on it**, B2 ch11: *"**Not the
+healer's eye** — that one was Mira's… **The other sight. His father's**."* **What separates them is
+what survives inside the tunnel.** Healing excludes the world but the *patient* is in it. The cold
+excludes the world and what remains is a *picture* — B2 ch16, flatly: *"It was a lever. **In the
+operational picture, everything was**."* Everything, including Melina, which is what ch18's *"Don't."*
+is about.
+
+**The break is the Mistress entrance at scale.** B2 ch20: the memory *"came from **an angle the cold
+had never been made to guard**, because it had never been a threat, and so it came straight through."*
+In ch21 that costs him a flush up the neck. In ch20 it costs him the ground he was standing on.
+
+**Corollary — the freeze is the same machinery returning *no*.** B1 ch1: *"He stopped, and stayed
+stopped, and it was the correct decision, and being correct did nothing for him at all."* The
+assessment completes and the answer is *don't move*, which is worse. **This reading stays in the
+notes.** Putting it on the page would hand him the structural alibi for his paralysis that
+[§5](#5-character-guardrails) prohibits.
+
+**"The other thing" — CLOSED, and the phrase is deliberately *not* reserved.** Take-over uses: B1 ch18
+(the healer), B2 ch11 (Rosik's sight), B2 ch8 (**Kalden's**). Plain idiom: B2 ch4 ×2, ch9, ch10.
+Reserving was rejected on three grounds — the Kalden instance is in B2 ch8, which is do-not-touch;
+spending Book 2's first editorial changes on a phrase is bad economy; and the rhyme already exists at
+the only two places it needs to, where ch11 draws the contrast explicitly. It is plain idiomatic
+English and will keep wanting to appear across six more books. **Do not attempt to reserve it later.**
+*Applied:* the ch1 instance was cut — introduced during review rather than authorial, the weakest of
+the three (a habit, not a seizure of control), and a third statement of involuntariness in a chapter
+that already had two.
+
+**The Long Knives are waiting on Elara.** B1 ch21: the Mistress has guarded the brass door for
+generations without knowing what it is, meets the first person in centuries who can make it respond,
+and finds out Elara knows nothing. She lets one moment of disappointment show, closes, and issues a
+standing invitation — *if you ever figure out what you are, find me* — with the explicit note that
+**the Long Knives have waited this long and can wait longer.** Nothing in Book 1 collects it. It is
+the oldest open question any faction in the series has, it is held by somebody who is neither ally nor
+antagonist, and it is aimed at the one thing Elara cannot supply. Do not let a revision convert the
+Mistress into a mentor, a patron, or an enemy; her whole position is that she is *waiting*.
+
 **The two sights.** Mira gave him the healer's eye; Rosik gave him the geometry. B2 ch11–12 has him partition them deliberately and use his father's on purpose for the first time (*"that one was Mira's… he would not drag it down into this"*). The inheritance is tracked, not blurred — keep it that way.
 
 ---
@@ -145,16 +208,18 @@ else.** Full reasoning in the changelog.
 
 | # | Item |
 |---|---|
-| C-3 | ch3's first movement is still summary — four days of elimination compressed, with only Jorik dramatized. The Amber Leaf refusal that follows is fully dramatized and carries the chapter, so this is a front-half weight question, not a whole-chapter one. |
 | C-16 | ch5 — *"Her voice grew stronger, more certain"* appears twice, four lines apart (l.99, l.103). Typo-level. |
-| C-17 | ch9 — the dance lesson runs three times (day 1, day 2, day 3), each closing on near-contact broken by a step back. Cadence, not plot. |
-| C-18 | ch11 — *"Mutual vulnerability. The foundation of any good partnership."* Theme stated in dialogue. |
-| C-19 | ch11 and ch12 both close on Xion alone on the floor in the dark, reflecting. ch12's is far stronger (*"Count toward what?"* — the ledger image); ch11's is the disposable one. |
-| C-21 | Surviving closing swells — ch6 (*"a city that called itself free while its people counted themselves lucky to survive until sunset"*), ch22 (*"This was our first real fight." / "It was a good one."* landing a beat after the Mira confession), ch23 (four paragraphs of *"Tomorrow everything would change."*). |
+| C-18 | ch11 — *"Mutual vulnerability. The foundation of any good partnership."* Theme stated in dialogue, at l.207. |
+| C-21 | **Narrowed.** One surviving closing swell: ch22's *"This was our first real fight." / "It was a good one."*, landing a beat after the Mira confession. ch6's *"counted themselves lucky to survive until sunset"* and ch23's four paragraphs of *"Tomorrow everything would change"* were removed by the C-22 ending pass. **Note ch22 is do-not-touch for the confession itself** — this is the two lines after it, not the scene. |
+
+*C-3, C-17 and C-19 were closed by work that came in with the cloud-branch merge; evidence in
+[§6](#6-settled-rulings).*
 
 ### Craft — Book 2
 
-**None outstanding.** C-12 through C-15 are all closed — see [§6](#6-settled-rulings).
+**None outstanding, and empty for the first time.** C-12 through C-15 were re-verified and closed;
+C-26, C-27 and C-28 were opened in their place and all three are applied — see
+[§6](#6-settled-rulings).
 
 ---
 
@@ -254,7 +319,8 @@ happened,"* it predates this revision.
 - **Janice did not name him. She told him he needed a name.** The distinction is the relationship. Her instruction was *"You can't keep that name. Not if you want to keep doing this"* — a systems correction, delivered by a patient to her healer before she owed him anything. The word itself is Xion's, and it is Mira's: *"Fen. Master Fen."* Her answer is only *"Welcome, Master Fen."* So she **authored the security and witnessed the christening**, and that is why "Fen" in her mouth is not a nickname — it is the name she was present for, still in use eight years later, while she has never once said the other one aloud. B1 ch23 originally called her *"the woman who had given him his name"*, which collapses the two halves and hands Mira's gift to Janice; corrected 2026-07-27. If it recurs, the fix is not to re-attribute the name but to say what she actually gave him — the room, the years, and the questions she declined to ask.
 - **Janice never absolves him.** She stays operational permanently. Comfort about Mira would be doing Mira's work and deflates both characters.
 - **ch13's "My choice" is a gift, not a claim of authority and not noble sacrifice.** Xion's *"I can't let you do that"* must read as guilt (*whatever happens to you becomes mine to carry*), never permission-granting. Her answer closes the copper argument by conceding it: *"I'm giving you something. You don't get to write it down."*
-- **Confirmed:** her injury is failing eyesight, not hands (hands are used three times already — Tam, Korvin, Xion's own). It explains her front-of-house role, unpicking by feel, and the ch1 line about holding work up to the light and squinting. **Use lightly.** Her defining discipline is *not looking* (*"I've never asked where the money comes from"*), so blindness literalizes it — a rule 4 resonance that should never be pressed.
+- **Her sight is fine — author's ruling, 2026-07-29. VETOED and removed from the series.** The failing-sight thread was doing too little narrative work for what it cost. **Do not reintroduce it in any book.** What the first injury was is deliberately unspecified and must stay that way, and **Xion cured it**. See [§6](#6-settled-rulings).
+- **She is the purest instance in the series of help with no ledger under it.** He cured her and she owed him nothing; her first act toward him was to hand back the correction that made his whole life possible. Two people fixed each other inside a week and neither opened an account — which is exactly the thing Xion cannot understand, and exactly what she is still refusing to become eight years later.
 - **Confirmed: she is alive.** See [§6](#6-settled-rulings) for the return plan.
 
 ### No chess metaphors — in the sheets as well as the prose
@@ -341,20 +407,41 @@ establishes that refusal doesn't slow him (*"It won't stop me." / "I know."*), c
 trap exactly and he goes anyway, and ch19 states it outright: *"He didn't even really consider it."*
 Fast acceptance **is** the characterization; deliberation added here would be rule 2 sacrificed to a
 pacing instinct. Nor is the cost unpaid — ch7 collects it two chapters later, when he walks into his
-own clinic and has to call Master Fen a friend of his. What ch5 actually had wrong was elsewhere; see
-the changelog.
+own clinic and has to call Master Fen a friend of his.
 
-### Janice's failing eyesight — **CONFIRMED**
+**And the filed diagnosis was wrong in a specific way, since fixed.** The fault was never the speed.
+It was that the chapter *staged a deliberation it had no room for* — ~90 words split either side of
+the acceptance, enough to invite the reader to audit the decision and nowhere near enough to survive
+the audit. Both passages are cut. He now agrees the way he does everything: the question is the answer
+and he notices a beat late, rhyming with the ledger answer thirty lines on. A stray fountain he had
+not passed went out with the second passage — the fountains are ch8's.
 
-Eyesight, not hands. See the Janice guardrail in [§5](#janice) for the reasoning and the "use lightly"
-constraint.
+### Janice's failing sight — **VETOED. Author's ruling. Removed from the series**
+
+Considered as the first-patient injury and **rejected** — it was doing too little narrative work for
+what it cost, and the book has enough going on. **Janice's sight is fine. Do not reintroduce it in any
+book.** The first injury is deliberately unspecified and Xion **cured** it.
+
+*Applied:* `People/Mistress Janice.md` lost the whole *Her Sight* section; B3 ch3 lost the blindness
+from beats A3, A5, A8 and A10. **Blast radius was checked first and Book 1's prose has no dependency
+at all** — the check also turned up a second stale citation, since the sheet had been justifying the
+thread with a ch1 line (*"squinting at the gap in it"*) that does not exist in the current text.
+
+**It tightened the ledger thread rather than loosening it.** The old logic was that he could not cure
+it, only slow it, and the debt was that he asked and told her the truth. With the cure there is no
+debt at any point — and B3 ch3 A5 improves most: her workroom now contains no misfortune at all and
+does more damage for it, because it removes the last excuse. She did not come because there was
+nothing to come for.
+
+*Supersedes an earlier "CONFIRMED — eyesight, not hands" entry here. If a document still argues that
+she goes blind, or offers her a physician for her eyes, it predates this ruling.*
 
 ### Janice's return — **CONFIRMED alive. Landed in the Book 3 beat drafts**
 
 - **As written:** B3 ch1 beats 18–19 (Xion makes a second administrative request beside the name change — does the Kemvimore seizure record account for persons the Grain cartel held?). B3 ch3 Movement One, beats A1–A14 (Kael finds her in Rosik's hidden ledgers; the meeting; the refusal; the question; the missing dismissal).
 - **Constraint honoured:** she is not in ch1. She hears about the name-taking secondhand and has nothing to say about it, because to her nothing changed — she has called him Fen for eight years.
 - **Where:** Book 3, Act I. Book 3 is entirely at beat-draft stage, so insertion is cheap. Book 2 is finished and tight, and Xion's isolation there is load-bearing — handing him Janice back mid-Book-2 would soften the thing that book is about.
-- **Why she never came:** she has never asked anyone for anything. Eight years housing an illegal clinic and the only thing she ever requested was one copper. She is blind or nearly, cannot work, and arriving on his doorstep would be the first request she had ever made — so she doesn't. She has been in the city the whole time. This is the trait she was built with, taken to its worst conclusion.
+- **Why she never came:** she has never asked anyone for anything. Eight years housing an illegal clinic and the only thing she ever requested was one copper. She has rebuilt the shop in miniature two streets from where it stood, and it works — so there is nothing to come for, and arriving on his doorstep would be the first request she had ever made. She has been in the city the whole time. This is the trait she was built with, taken to its worst conclusion, and it does more damage without a misfortune propping it up.
 - **What she says:** nothing grateful, nothing apologetic, nothing about Mira. Something operational. Best candidate is a version of the question she asked for eight years — *did you ever start charging?* She burned the ledger and it is still the only thing she wants to know.
 - **Hard constraint:** she must NOT be present for Book 3 ch1's name-taking. If she is in the room the scene becomes about her, and Mira is the entire point of it. Find her after, or well before, and let her hear about it secondhand — one dry line.
 
@@ -384,12 +471,12 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 | # | Was | Fixed by |
 |---|---|---|
 | C-2 | ch6 and ch8 have the same shape (walk, witness, explain, vow); ch6 has the better single idea. | **The framing was wrong** — the two chapters do different jobs (ch6 makes Elara the *signatory*; ch8 carries the injustice specific to a desert city) and it was never a choice between them. ch8 rewritten instead: the arch gate and its ledger, Xion spending the name on a convenience, Elara convicting him for it, **one** fountain with no statistics attached, the children in the basin left unexplained, and a single held amber. 1,906 → 1,214 words. |
-| C-8 | ch21 raises a stake and dissolves it in the same chapter (the Ronas complication). | `e006531`. ch21 l.195 — the escort is the answer to the complication rather than a favour: *"Ronas gave you a straight road to the surface and you didn't walk it, and men like Ronas count that… My escort makes it somebody else's arithmetic."* |
-| C-11 | ch18 — Ronas's dialect wobbles between registers. | `e006531`. Rough register held throughout — *"I got eyes, Cullen," "Patchin' people up," "the one what tore through my men," "that don't go well for me neither."* The one grammatically clean sentence (*"patterns are what I get paid to notice"*) is a deliberate shift at the punchline of the three-finger count, not a wobble: he stops sounding casual exactly where he makes the point. **Do not "fix" it.** |
-| C-12 | B2 ch1 and ch3 state the same realization in the same metaphor. | B2 ch1 no longer carries any cage/cell/wall image; only ch3's *"sight had become the cage"* survives. The prescribed split — ch1 the suspicion, ch3 the conviction — was applied. |
-| C-13 | B2 ch6, ch7 and ch10 all close on a long summarizing paragraph of Xion alone. | `e006531`. ch7 now ends short, on the distinction that landed: *"an argument is a thing two people are having. You can lose an argument and still be in the room. / He was not in the room."* |
-| C-14 | B2 ch14 — Melina's death depends on the reader believing the Surface Warrens are lethal enough to kill a Kemvimore mid-sentence, and nothing established it. | `e006531`. ch14 l.9 now states the system before breaking it: *"The Surface Warrens had always run on a kind of arithmetic — who you were, who you belonged to, what it would cost a man to touch you. A good coat bought you passage. A cartel name bought you more."* |
-| C-15 | B2 ch2/ch3 both use *"You've gone somewhere" / "I'm here"*; confirm intent. | Void. ch2's instance is gone; only ch3 l.85 remains, and its *"again"* reads as a habit Melina has noticed over months rather than a callback to a scene — it needs no on-page antecedent. |
+| C-8 | ch21 raises a stake and dissolves it in the same chapter (the Ronas complication). | `e006531`, and on re-verification **function, not fault**. ch21 l.195 — the escort is the answer to the complication rather than a favour: *"Ronas gave you a straight road to the surface and you didn't walk it, and men like Ronas count that… My escort makes it somebody else's arithmetic."* The complication is the *mechanism* that motivates the Mistress's escort; without it her help is unmotivated charity from a character who does not do charity. **It also leaves Ronas counting a breach, which is unspent** — see [§2](#2-cross-book-threads) for the standing rule on unpaid seeds. |
+| C-11 | ch18 — Ronas's dialect wobbles between registers. | `e006531`, then finished on the author's ruling that the dialect must be consistent: four remaining outliers corrected in ch18, one of which contradicted him inside forty lines (*"Patchin' people up"* against *"patching his leg"*). Rough register now holds throughout — *"I got eyes, Cullen," "Also heard you been callin' yourself Master Fen," "then you come askin' around the Crossroads."* **The voice is LOCKED on `People/Ronas Dermir.md`** with the full marker list, the drift diagnosis and a Book 6 warning. The one grammatically clean sentence (*"patterns are what I get paid to notice"*) survives deliberately — it is a shift at the punchline of the three-finger count, not a wobble: he stops sounding casual exactly where he makes the point. **Do not "fix" it.** |
+| C-12 | B2 ch1 and ch3 state the same realization in the same metaphor. | **Stale — the ch1 half never existed.** The word *cell* appears **nowhere in Book 2**; the only grep hit is inside "ex**cell**ent". What ch1 l.61–65 actually does is the fix C-12 recommended, already in place: *"He had done this"*, an explicit refusal to finish the thought, and *"He turned away from where that led."* ch3 completes it and Sela's doorway closes it — suspicion in ch1, conviction in ch3, as prescribed. Residue split off as **C-28**. |
+| C-13 | B2 ch6, ch7 and ch10 all close on a long summarizing paragraph of Xion alone. | **Retired — mis-specified, superseded by C-26 and C-27.** Wrong about ch7: its ending is not a long summarizing paragraph but four short lines, and one of the best in the book — *"an argument is a thing two people are having. You can lose an argument and still be in the room. / He was not in the room."* The real ending pattern is ch6 and ch10 only, now **C-27**. And the flag missed what was underneath it: a seven-instance narration verdict-stamp, now **C-26**. Recorded rather than silently rewritten, because a flag that was wrong about a good ending is exactly the failure mode this table exists for. |
+| C-14 | B2 ch14 — Melina's death depends on the reader believing the Surface Warrens are lethal enough to kill a Kemvimore mid-sentence, and nothing established it. | **Closed — diagnosis wrong, no change wanted.** ch14 is 1,429 words, not 1,300; the violence is ~250 words, not ~400, and it is summary **because Xion is not there** — it arrives through Kael's contacts, Silvanno's channels and Farleen, and rule 0 holds. The chapter does not need to establish lethality, it needs **unaccountability**, and Farleen establishes it in one line with her own instrument: *"the four who did it didn't even go through his pockets… It's that it's stopped being **for** anything."* The length reads correctly too — ch13 2,629 / ch14 1,429 / ch15 2,232, short chapter before the drop, the same runway logic that protects B1 ch8. |
+| C-15 | B2 ch2/ch3 both use *"You've gone somewhere" / "I'm here"*; confirm intent. | **Closed — deliberate, and the text answers it.** ch3's *"again"* plus the narration conceding the lie (*"He wasn't, quite, but he came back for her"*) makes it a running beat, and it moves: ch1 he deflects and she lets it go; ch3 he lies, the book says so, and he comes back **for her**, the last time it shows him choosing to. Melina-specific — she is the only person who notices, which is her entire function. Two instances. **Do not add a third.** |
 | C-20 | ch19's objections repeat instead of escalating; ch20 runs the same shape (Farleen shouts, Elara apologises, *"Stop saying you're sorry!"*). | Rebuilt as a **descent through five arguments**, each abandoned as the last one fails: tactics (*"That's everything we came for, and it's forty feet behind you"*) → ground (*"their ground. Not their territory — their **ground**"*) → the trance (*"A woman in a fit, choosing left"*), after which she goes silent and *"Xion discovered that he wanted her to"* speak → medicine → the person. No argument now appears twice. **The medical rung is the chapter's spine:** Xion stops, lays the backs of his fingers against Tam's forehead — the ch18 gesture, returning to mean the opposite — finds she is right, and walks on. That is the first break of the consent guardrail, now on the page. ch20's fight rebuilt so Elara stops apologising and asks what Farleen cannot answer: *"If it starts again — can you stop me?" / "No." / "Neither can I."* Net length barely moved (2,427→2,410; 1,825→1,736) — substitution, not trimming. |
 | C-1 | ch2 and ch3 run the same argument; ch3 should be about what they committed to, not whether he's sane. | ch3 now **inverts** it — four days of elimination convince Kael and Silvanno he is *right*, and that is why they refuse. *"I'd rather my friend was mad. Because a mad friend I can walk home."* |
 | C-4 | ch17's "something feels wrong" runs four times with no new information; chapter also over-long. | One instance (l.22). Chapter is 1,680 words, the shortest in Book 1. |
@@ -398,12 +485,29 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 | C-7 | ch9's marriage-alliance cover is loaded and never tested at the ball. | ch10 l.121–139 — Tania probes the cover directly (*"is he attentive, or is he merely thorough?"*), and the text registers that three days of training covered the insults and nothing at all covered someone being kind to Elara about him. |
 | C-9 | ch23's Vesk — twenty years of fury evaporates in ten lines, sequenced backwards (concedes, then attacks). | Re-sequenced and expanded to ~50 lines: the fourteen-days accounting first, Elara's account second (*"I didn't think about you"*), the concession last. |
 | C-10 | ch22 — Elara reaches for the ch15 slaver argument verbatim; the text should register that she knows. | ch22 l.101 — *"the same weapon, off the same shelf… she had reached for it because the first time it had gone in."* |
+| C-3 | ch3's first movement is summary — four days of elimination compressed, with only Jorik dramatized. | **Closed on merit, not by a fix.** ch3 now runs four scenes, and the Amber Leaf refusal that carries the chapter is fully dramatized; the front-half compression is the chapter working, not a montage. Two independent readings reached *not a finding* separately. |
+| C-17 | ch9 — the dance lesson runs three times, each closing on near-contact broken by a step back. | Closed by the C-22 pass. The near-contact beat now lands **once**, at l.119; day two is the dress and day three the complications, and the chapter ends on the cover story and the exits rather than on a fourth near-miss. |
+| C-19 | ch11 and ch12 both close on Xion alone on the floor in the dark, reflecting. | Closed by the C-22 pass — ch11's reflective tail was cut and it now ends on *"She understood."* ch12's *"Count toward what?"* is unique again, and is a **deliberate rule 0 exception, author-confirmed**. |
+| C-22 | The Book 1 chapter-ending pass — the narrator previewing the next chapter (*"Tomorrow they would…"*, 9 chapters), the epithet pull-away, and camera-off-Xion breaks. *(Filed on the cloud branch as C-16.)* | All 25 endings audited: 8 already worked and were untouched (ch1, 4, 10, 12, 15, 17, 19, 21); 13 fixed by deletion, ~450 words out, the working ending in almost every case already sitting one paragraph up; ch9, ch23 and ch24 **written**; ch25 handled by deletion only, with the triumph untouched per the author's condition. A rule 1 item was found inside the pass and fixed first — ch18's ending contradicted its own scene. |
+| C-23 | ch9's realization stated twice. *(Branch C-17.)* | l.111 trimmed; it now lands once, at the chapter's end. |
+| C-24 | ch4's betrayal — POV bends, and the author's design not recovered. *(Branch C-18.)* | POV bends replaced with **misattribution** — the method ch3 established, turned against him. Crying descriptors 12 → 5 and now escalating rather than repeating; exposition trimmed, the tumbling kept. 31 words out of ~431. **Move 1 is dead — do not revive it.** |
+| C-25 | Dialogue-to-narration ratio lopsided across Act I. *(Branch C-19.)* | **Withdrawn — not a real pattern.** ch5 is 2.3:1, the same as post-fix ch1; only ch4 was lopsided, and that was C-24. Flagged off two data points and generalised. |
+| C-26 | B2's narration verdict-stamp habit — seven instances. *(Branch C-20.)* | **The first editorial change ever applied to Book 2.** Seven cut (ch3, ch7, ch9, ch10, ch11, ch14, ch20); six deletions, ch11 rephrased to avoid colliding with ch9:53. Six legitimate uses deliberately left — ch2 ×2, ch7, ch11 as idiom, ch4 as dialogue, and ch18's *"The stop was the whole of it"*, which identifies which part of an utterance carried the meaning rather than stamping a conclusion. **The bookend argument for keeping ch20's instance is dead, not weakened.** |
+| C-27 | B2 ch6 and ch10 both close on a long enumeration. *(Branch C-21.)* | **Investigated, reframed, then applied.** The flag as filed was largely withdrawn: the two lists differ in tense, grammar and content, sit four chapters apart, and both beat drafts specify an alone-ending as the plan. What was applied is what the flag missed — **ch10 ran the same enumeration twice**, three of six items in the closing aside being compressed restatements of three of the five *"He could not…"* clauses above them. Those three cut, the new tail (*no plan, no lever, no move anywhere in the world*) kept. Plus ch6's *"That was the sour heart of it"*, the last C-26 variant. Eighteen words out, nothing added. **Withdrawn and not to be re-raised: any cut to ch6's three-part list or to ch10's *"He could not"* list.** |
+| C-28 | B2 — *cage* carries two referents twelve lines apart in ch3. *(Branch C-22.)* | Fixed in the narration rather than the dialogue, because *cage* = the token system is the established usage and Melina's line escalates it in the same breath. *"He had given her sight, and sight had become the cage"* → *"He had given her sight, and the sight was what stayed her hand."* Also more precise: the failure is an inaction, not a confinement. Six words in, six out; *cage* now has one referent across Book 2. |
 
 ---
 
 ## 7. Open questions
 
 **None currently open.** Everything previously listed here has been decided; see [§6](#6-settled-rulings).
+
+**Numbering warning, kept because it caused a real misreport.** This section was once numbered 1–4
+while the closed-items list used a separate Q1/Q2/Q3 scheme for different items, and three
+already-closed questions were still sitting under the heading "Open questions". A reader trusted the
+list rather than the drafts and reported *"Janice's failing eyesight — confirm or veto"* to the author
+as live. It was not. **Do not reintroduce a parallel numbering, and do not leave closed questions
+under this heading.** Refer to questions by subject.
 
 ---
 

@@ -164,7 +164,7 @@ There it was. Out in the open.
 
 Xion said nothing. What could he say?
 
-Ronas's attention shifted to Farleen. His expression changed—a flicker of something that might have been respect. "And you must be the princess."
+Ronas's attention shifted to Farleen. His expression changed—a flicker of something that might have been respect. "And you'll be the princess."
 
 Farleen went very still.
 
@@ -188,7 +188,7 @@ The moment stretched out. Awkward.
 
 Farleen's expression was carefully neutral, but Xion caught the flash of something in her eyes before she looked away. Not quite triumph. But close.
 
-Ronas exhaled slowly, breaking the silence. His gaze moved back to Farleen, reassessing. "Gonna guess Water cartel—you one of Tania's? Guess it doesn't really matter." He didn't wait for confirmation. Just turned his attention to Elara. "And you're the one what tore through my men. The **actual** princess."
+Ronas exhaled slowly, breaking the silence. His gaze moved back to Farleen, reassessing. "Gonna guess Water cartel—you one of Tania's? Guess it don't matter much." He didn't wait for confirmation. Just turned his attention to Elara. "And you're the one what tore through my men. The **actual** princess."
 
 Elara said nothing. Her face was still tight.
 
@@ -196,11 +196,11 @@ Elara said nothing. Her face was still tight.
 
 Xion's throat was dry. "I didn't mean—"
 
-"No, you didn't." Ronas cut him off. He gestured vaguely toward the entrance behind them. "Varris there has never spoken up for anyone in the five years he's worked for me. Never. Then you spend five minutes patching his leg and suddenly he's vouching for you."
+"No, you didn't." Ronas cut him off. He gestured vaguely toward the entrance behind them. "Varris there never spoke up for anyone in the five years he's worked for me. Never. Then you spend five minutes patchin' his leg and suddenly he's vouchin' for you."
 
 Xion glanced back. The guard he'd treated—Varris—was standing near the entrance, his expression unreadable.
 
-Ronas was silent for a long moment. "So here's what happens. You take the boy—Tam or whatever. He's alive, last I heard. You take him. You leave the Warrens. You go directly up, through the Market of Sighs, and you don't stop 'till you hit surface. We're done."
+Ronas was silent for a long moment. "So here's what happens. You take the boy—Tam or whatever. He's alive, last I heard. You take him. You leave the Warrens. You go straight up, through the Market of Sighs, and you don't stop 'till you hit surface. We're done."
 
 Xion blinked. "That's it?"
 
@@ -280,10 +280,6 @@ Cullen nodded. Professional. Efficient.
 
 Xion adjusted his grip on Tam, the boy's weight pressing against his side. This was it. They were leaving. With Tam. Just... leaving.
 
-After everything—the chase, the ambush, the desperate flight through the tunnels—it felt wrong somehow. Too simple. Like the moment before something breaks.
+Tam's head found the hollow of his shoulder inside a dozen steps and stayed there, and through two layers of cloth Xion could feel exactly how warm he was.
 
-But Tam was breathing. Solid and alive.
-
-That was what mattered.
-
-Xion turned toward the exit, supporting Tam's weight, and tried to ignore the feeling that this couldn't possibly be the end of it.
+He started counting the stairs.

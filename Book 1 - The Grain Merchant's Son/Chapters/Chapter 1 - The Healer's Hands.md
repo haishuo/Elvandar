@@ -1,32 +1,36 @@
-Dawn broke over Kaha’an, painting the Ruby of the Desert in ochre and gold. From the east, the sun struck the city’s spires and slanted rooftops, dazzling off colored tile and dust alike. Xion Kemvimore did not notice. He was already in the back room of Mistress Janice’s weaver shop, sleeves rolled, sweat beading on his brow as he ground verbana flowers to powder. The air back here was always stifling, thick with the scents of dried roots, vinegar, and musty cloth. But it was better than the world outside.
+The verbana had to go fine enough to pass through cloth, which took longer than anyone believed until they tried it, and Xion Kemvimore had been at it since before the light came up. The back room of Mistress Janice’s weaver shop held heat the way a kiln did — dried root, vinegar, wet wool, and no window worth the name. Sweat ran into his collar and he did not stop for it. The powder went from green to grey to something like dust, and the work was better than the world outside, and that was the whole of why he did it at this hour.
 
-Janice sat in the doorway with her work-basket in her lap, unpicking a row. She did that most mornings — one thread miscounted the day before, and out it all came, backward, patient, stitch by stitch, until she reached the place where she’d gone wrong.
+Behind him, in the doorway, Janice was working at something. She was always working at something.
 
-“You’re low on bandages,” she said, without looking up.
-
-“I know.”
-
-“You were low three days ago. Now you’re out.” The needle kept working. “There’s a boy at the front. Twelve, thereabouts. Left hand wrapped in something I wouldn’t use to wipe a table.”
+“There’s a boy at the front,” she said. “Twelve, thereabouts. Left hand wrapped in something I wouldn’t use to wipe a table.”
 
 Xion set down the pestle. “Send him back.”
 
-“In a moment.” She drew another inch of thread free. “I asked him what he could pay.”
+“In a moment.” The needle kept working. “I asked him what he could pay.”
 
 “Janice—”
 
-“I ask everyone. You know I ask everyone.” She held the unpicked row up to the light, squinting at the gap in it. “He said he’d pay you back. Not that he’d pay. That he’d pay you **back**. There’s a difference, and he’s twelve, and he already knows it.”
+“I ask everyone. You know I ask everyone. He said he’d pay you back. Not that he’d pay. That he’d pay you **back**. There’s a difference, and he’s twelve, and he already knows it.”
 
 “Then he doesn’t pay.”
 
-“That’s what I told him. It’s what I always tell them.” She lowered the work into her lap. “And every time I tell them, I think about the day somebody sits in my front room who isn’t a starving child, and hears it.”
+“That’s what I told him. It’s what I always tell them. And every time I tell them, I think about the day somebody sits in my front room who isn’t a starving child, and hears it.”
 
 He knew this road. They’d walked it a dozen times, and it went the same way every time.
+
+He turned to the shelf while she talked, because it was easier than facing her, and took stock the way he did every morning. Clear liquor, most of a bottle. Verbana, enough for the week. Needle, gut, the good tweezers. He lifted the lid of the linen box and found one roll in it, and put the lid back down, and said nothing about that either.
 
 “One copper,” she said. “From anybody who’s got one. Hand it straight back out the door for all I care — I want a number in the book.”
 
 “They come here **because** there’s no number in the book.”
 
-“They come here because you’re the only healer in four districts who doesn’t ask.” Her eyes came up then, flat and patient, and stayed on him. “Which is a fine thing to be, Fen. It’s also an easy thing to notice. A man who charges nothing is a man somebody else is paying for. You’ve made a mystery of yourself, and mysteries get solved.”
+“They come here because you’re the only healer in four districts who doesn’t ask.”
+
+Something in the way she said it made him turn round. Her eyes were up, flat and patient, and they stayed on him.
+
+“Which is a fine thing to be, Fen. A man who charges nothing is a man somebody else is paying for.”
+
+He went back to the shelf.
 
 *Fen.* The name fit him better than his birth name ever had. Here, no one cared that he was the son of Rosik Kemvimore, master of the Grain. No one expected him to lord over the city’s hungry. Here he was a pair of hands and a box of tinctures, and that was the whole of him, and it was enough.
 
@@ -34,7 +38,7 @@ He knew this road. They’d walked it a dozen times, and it went the same way ev
 
 “No. You haven’t.”
 
-“I’d like it noted that not asking is work.” She went back to her thread. “The woman whose name you took wouldn’t have argued with me about the copper.”
+“I’d like it noted that not asking is work. The woman whose name you took wouldn’t have argued with me about the copper.”
 
 “She’d have argued with you for an hour and then done exactly what she wanted.”
 
@@ -42,7 +46,9 @@ He knew this road. They’d walked it a dozen times, and it went the same way ev
 
 Xion said nothing. Two words. That was all it had taken, in the end.
 
-After a moment he heard her set the basket down, and then the shuffle of the beaded curtain, and then she was ushering the boy through.
+The needle had stopped somewhere behind him. He went back to the pestle. After a while it started again.
+
+Then the basket went down on the floor, and the beaded curtain shuffled, and she was ushering the boy through.
 
 His patient that morning was small for twelve, though malnutrition and worry made him look older in the face and younger everywhere else. His left hand, wrapped in a filthy rag, trembled as he offered it.
 
@@ -54,15 +60,15 @@ His patient that morning was small for twelve, though malnutrition and worry mad
 
 He waited. He always waited. The boy glanced once at the door, once at Xion’s hands, and then nodded, and only then did Xion take the wrist and begin unwinding the cloth with practiced fingers.
 
-The wound was angry, red and purple around the edges, with glints of glass still embedded in the flesh. He cleaned it with clear liquor. Tam didn’t flinch — not even when the liquid hissed into the open cut.
+The wound was angry, red and purple around the edges, with glints of glass still embedded in the flesh. He cleaned it with the clear liquor. Tam didn’t flinch — not even when it hissed into the open cut.
 
 Xion caught his eye. “You’re a brave one. Didn’t even cry.”
 
 The boy’s lips pressed tight. “Can’t work if you cry.” His voice was flat, and Xion heard a thousand other children in it — every orphan and cast-off this city chewed up.
 
-He worked quickly, tweezing out the glass and trying not to think about why the boy’s hands were in broken bottles to begin with. From the doorway came the small, unhurried sound of Janice’s needle. She had not gone back to the front. She sat with her mending in her lap and watched him work, the way she always did, keeping whatever score it was she kept.
+He worked quickly, tweezing out the glass and trying not to think about why the boy’s hands had been in broken bottles to begin with. Behind him the needle kept going.
 
-He stitched the wound, then dressed it with the last of his clean bandages. “Keep this hand still for three days at least,” he said. “A week would be better.”
+Seven stitches. He dressed the hand with the linen from the box and used all of it. “Keep this hand still for three days at least,” he said. “A week would be better.”
 
 Tam’s eyes went wide. “But… my mom’s sick. I gotta—”
 
@@ -84,69 +90,83 @@ The curtain clicked and settled. Janice did not pick her work back up.
 
 Xion opened his mouth and found there was nothing in it. There never was, at this part.
 
-“His mother’s sick,” he said again, and went to clean the blood off his hands.
+“His mother’s sick,” he said again, and went to the basin to clean the blood off his hands.
+
+The water went pink and then clear. He worked the nail beds with his thumb, which took longer than it needed to, and when there was nothing left to do with his hands he looked up.
+
+She was looking at him. She had looked at him like that on and off for eight years and he had never once asked why.
+
+Then she went back to her work, and he saw what was in her lap. A tunic. Brown, plain, cut for a man who wanted to be looked past. His. She had made it, and the two before it, and had never once told him what the cloth cost. There was a bad row in the sleeve, and she was taking it out backward, stitch by stitch, patient, all the way down to the place where she had gone wrong.
+
+He dried his hands and went back to the pestle. Behind him the thread went on coming free, one small dry snap at a time.
 
 ---
 
-He lingered after Tam left, watching the morning sunlight slant through the cracks in the shutters. Somewhere outside, a town crier’s voice drifted on the air — lists of debts, names shouted. Xion shivered. No matter how many wounds he stitched or fevers he broke, he could never outrun the city’s hunger.
+The rest of the day went the way days went. He refilled two tinctures and mashed roots until his shoulders ached, and sat down three times to write up the morning in the coded script that two people in Kaha’an could read, and three times got as far as the date.
 
-He tried to lose himself in the day’s chores: refilling tinctures, mashing roots, recording patient notes in a coded script only he and Janice understood. Twice he came back to the page and found he’d written nothing. Tam’s face stayed with him — the desperation, the stubbornness, the edge of fear.
+By late afternoon he locked the back room, folded his apron into his satchel, and went out into a city closing itself up for the evening. Stalls coming down, carts jamming the narrow ways, two old men on a step arguing about grain prices with the passion of men who had never bought any. He walked with his head down. It was habit by now, and he could not remember anyone ever having to tell him to do it.
 
-By late afternoon, he locked up the back room and slipped out into the streets, tucking his apron into his satchel. Kaha’an at dusk was a riot of sound: merchants closing their stalls, children darting between carts, the drone of old men arguing over grain prices. He walked with his head down, shoulders hunched, trying to stay invisible.
+The crowd in the market square was the wrong shape.
 
-But as he passed the market square, he felt a shift — a tightening in the air, a ripple of unease. A crowd had gathered, pressing in around something Xion couldn’t see. He hesitated. Crowds in Kaha’an rarely meant anything good.
+He knew it before he knew why — too dense at the middle, too still at the edges, everybody facing in. He had seen that shape at bedsides. It meant the thing had already happened and nobody was going to be the one to move.
 
-He heard a name rise above the murmur. “Tam Corris!”
+Then a name came up out of it. “Tam Corris!”
 
-His heart lurched. He pushed his way through the wall of bodies, shoving aside a fishmonger and a woman with a basket of bread.
+He went in through the bodies without deciding to, shoving past a fishmonger and a woman with a basket of bread.
 
-At the center of the throng, Tam stood against the wall, pale and shaking, his left hand cradled to his chest. Three slaver-enforcers blocked any hope of escape. The biggest — thick-necked, with a jagged scar on his jaw — waved a document under Tam’s nose. “Seven silver, four copper — debts owed for medical care, housing, interest, and labor. You got that on you, boy?”
+Tam stood against the wall with his left hand held up against his chest, the way a man holds a hand that has become the most important thing he owns. Three slaver-enforcers had the angles covered. The big one — thick-necked, a jagged scar along the jaw — had a document open and was reading off it.
+
+“Seven silver, four copper — debts owed for medical care, housing, interest, and labor. You got that on you, boy?”
 
 “Everyone knows Master Fen doesn’t charge!”
 
-The words were out of him before he knew he’d chosen them, ringing across the square in a voice that carried too well. Heads turned. Somewhere behind his own, in the part of him that was still standing in a doorway that morning, he heard Janice say it first.
+The words were out of him before he knew he’d chosen them, ringing across the square in a voice that carried much too well. Heads turned. He heard his own voice come back off the far wall, and in the half second it took to arrive he understood exactly what he had just said in public, and to how many people, and that there was no version of the evening in which he had not said it.
 
 No one stepped forward to back him up.
 
 The slaver’s grin was slow and practiced. “Documentation says otherwise. Boy’s word against the city books. You have proof, friend?”
 
-Xion’s jaw clenched. He couldn’t declare who he was here. He couldn’t risk the questions, the attention. He glanced at the crowd — faces averted, eyes sliding away.
+He had proof. It was four streets away on a shelf, six bound journals in a cipher two people alive could read, and producing it meant producing himself. He kept his mouth shut and let the silence do what silence does.
 
-Tam’s voice shook. “He didn’t charge me! I swear it!”
+“He didn’t charge me!” Tam’s voice shook. “I swear it!”
 
-The enforcer’s grip tightened on Tam’s arm, making the boy gasp. “Debt’s a debt, son. Crying won’t change the numbers.”
+The enforcer took hold of the boy’s arm to move him along, and took it just above the wrist, and Xion watched Tam’s whole body fold around the hand. He saw it the way he saw everything: the grip, the angle, the seven stitches he had put into that palm that morning, and the linen going dark across them.
 
-Xion’s hands curled into fists. He took a half step forward, and stopped himself. If he pushed harder, if he made a scene, Tam would not be the only one to pay the price.
+His hands closed. He took a half step forward.
 
-That’s when he noticed her: a woman at the edge of the crowd, hood pulled low despite the heat. She stood utterly still, her gaze locked on Tam. There was something coiled in her stance, something Xion recognized — a readiness to intervene, barely held in check.
+Then he did the arithmetic. Three men. A square emptying by the second. A boy who could be hurt a great deal worse in the time it would take anyone to cross to him. He stopped, and stayed stopped, and it was the correct decision, and being correct did nothing for him at all.
 
-Their eyes met, and Xion’s world seemed to slow. Her irises shifted in the half-light — blue, then gold, then violet. The colors flickered, impossible. He blinked, and she yanked her hood lower, vanishing into the mass of bodies. Xion felt himself sway. The stories his mother used to tell — of Valanar eyes that changed with emotion, marks of the true blood — flooded back, absurd and undeniable.
+That was when he saw her.
 
-He almost chased after her, but Tam’s cry pulled him back.
+A woman at the edge of the crowd, brown cloak, hood up in weather that did not call for one. Everyone else was watching the way people watch — leaning, drifting, already half gone. She was doing none of it. She was still in the particular way a body goes still when it has decided to move and is waiting to be told it can.
 
-The slaver dug through Tam’s pocket and came up with the silver coin. He held it to the light, turning it, and something in his face changed — not surprise. Confirmation.
+He knew that stillness. Eight years had taught him to read what people did with themselves in the moment before they did something.
 
-“Looks like your debts just got worse, boy.”
+Their eyes met.
 
-The ground went out from under Xion. *Where’s a boy like that going to say he got it.*
+Her irises shifted in the failing light — blue, then amber, then violet — and did not stop, and he stood in a market square in the ordinary evening and watched an impossible thing happen twice more before she got the hood down and turned and the crowd took her.
+
+He never saw her face. He would keep coming back to that, afterward, for a long time: that he had not once seen her face.
+
+He got two steps after her. Then Tam cried out behind him, and the two steps were the whole of the argument, and he turned back.
+
+The slaver had been through the boy’s pockets and come up with the silver. He held it to the light and turned it over, and Xion watched the man’s face change and knew the change, because it was one he had seen across a hundred bedsides. Not surprise. Confirmation.
+
+It arrived then the way a diagnosis arrives — not as a guess but as the last explanation standing after the others have gone. A scavenger boy with a coin nobody in the Warrens could break. It was never evidence of a debt. It was evidence of a **source**. They had not come to collect anything; they had come to find out where a boy like that got silver, and the paper in the big man’s hand had been drawn up to give them a reason to ask.
+
+He had put it into the boy’s hand himself. He had been told what it would do, that morning, in a room he could very nearly see from where he was standing, by a woman with no cruelty in her at all.
 
 “That’s not yours!” His voice cracked.
 
-The enforcer shrugged, slipping the coin into his vest. “It is now. Unless you want to take it off me.” The other two laughed — a joyless, ugly sound.
+The enforcer shrugged and slipped the coin into his vest. “It is now. Unless you want to take it off me.” The other two laughed, and it was not really laughter.
 
-Xion stared at them, rage boiling up. He couldn’t do anything. Not here. Not like this.
+They took Tam out of the square. Xion watched until the corner took him, and did not follow, and could never afterward account for the time between the corner and the light going.
 
-The crowd began to dissolve. The spell of spectacle was broken; there was no help coming. The slavers dragged Tam away, ignoring his protests, his pleas for his mother. Xion watched until the boy disappeared around a corner, the pain in his chest settling like a stone.
-
-He lingered, fists trembling, while the last onlookers slipped away. The sun was dipping low, shadows growing long across the square. He scanned the crowd for the woman in the hood, but she was gone.
-
-For a long moment, Xion stood alone. He should have run after Tam, should have chased the woman with impossible eyes. Instead he did nothing. His feet were rooted to the paving stones, as if the city itself were holding him in place.
-
-A few merchants closed their shutters. An old woman swept dust from her doorstep. Life returned to its ordinary, merciless routine.
+The stalls came down around him. A woman swept her step. Somewhere off the square a child was called in to eat.
 
 ---
 
-The shutters of the weaver shop were closed and the lamp was lit, and Janice was still unpicking the same row.
+The shutters of the weaver shop were closed and the lamp was lit, and Janice was still taking out the same sleeve.
 
 “They took him,” Xion said.
 

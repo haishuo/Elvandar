@@ -312,24 +312,6 @@ Despite everything, Xion smiled. "I'll try."
 
 Across the room, Kael was already making arrangements, speaking quietly with one of Vesk's aides about sending messages to Iron territory. Farleen stood near the door, watching everything with that careful assessment Xion recognized from her spy training.
 
-And Elara stood at the center of it all, no longer the uncertain girl who'd asked him to show her the city. She'd become something else during their journey. Something harder and more certain.
+Elara was in the middle of it, Vesk at her shoulder, two of his officers standing by to be told things.
 
-An empress, preparing to claim her throne.
-
-One final test stood between her and that goal. One final proving before the path opened completely.
-
-Xion didn't know exactly what Sa Ko Ren would demand. But he knew, with the certainty of someone who'd watched Elara refuse to quit when every rational choice said to surrender, that she would face whatever came.
-
-And somehow, despite every impossible odd, he believed she would succeed.
-
-Tomorrow they would go to Iron territory. Tomorrow everything would change.
-
-Tonight, in the compound where Elara had been hidden for twenty years, where the Arol Batae had waited and prepared and hoped—tonight, the final pieces were falling into place.
-
-The grain merchant's son stood among warriors and nobles and a princess who'd proven herself through fire, and felt the future shifting into focus around them.
-
-Everything came down to Sa Ko Ren now.
-
-One woman's acknowledgment. One warrior's recognition.
-
-One final test before the throne.
+Xion found a place along the wall and put his back against it. Nothing in the room had needed him for several minutes.

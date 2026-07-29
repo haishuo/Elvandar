@@ -339,5 +339,3 @@ Farleen's expression had gone carefully neutral. "Watchers. The Long Knives, pro
 "And they just saw us."
 
 "They did." Farleen started moving again, faster now. "Which means we need to find shelter before word spreads that three obviously out-of-place outsiders just descended into the Warrens. Come on."
-
-They descended into the underground city, three fugitives bound together by necessity and divided by everything else, while somewhere in the darkness, eyes watched and word began to spread.

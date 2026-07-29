@@ -121,7 +121,3 @@ Silvanno leaned back in his chair, studying Xion's face. "You're really going to
 The weight of that simple declaration settled over them like desert heat. Xion saw resolve crystallize in Silvanno's face, saw Kael's reluctant acceptance. Farleen's expression had gone distant, her gaze fixed somewhere past Xion's shoulder. When she looked back at him, there was something in her eyes he couldn't quite name—sadness, maybe. Resignation.
 
 "We'll help you," she said quietly.
-
-They were going to help him. They were actually going to search for the princess.
-
-Xion felt something release in his chest—relief, gratitude, hope. He wasn't alone in this anymore. And Farleen was with him. That mattered more than he wanted to admit.

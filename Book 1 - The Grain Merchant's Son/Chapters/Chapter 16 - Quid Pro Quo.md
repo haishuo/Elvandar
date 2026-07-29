@@ -301,9 +301,3 @@ Elara was watching this exchange with an unreadable expression. When Xion approa
 Xion didn't know what to say to that. He stood beside Elara, both of them looking out at the Warrens below, neither speaking.
 
 Behind them, Farleen lay down carefully on one of the sleeping mats, her back to them, her breathing shallow and controlled.
-
-The information about Tam was spread on the table between them—detailed, thorough, everything they'd need to attempt a rescue.
-
-Tomorrow they would go into the Deep Warrens, into the tunnels where children were worked to death in the darkness. Tomorrow they would try to save a boy they'd never met, risking everything on a promise made to desperate parents.
-
-But tonight, the three of them sat in uncomfortable silence, each wrestling with their own thoughts, their own pain, their own complicated feelings about the others in this small room.

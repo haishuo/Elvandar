@@ -70,15 +70,15 @@ The return journey passed in a blur. Xion completed his inspection with mechanic
 
 ---
 
-Farleen was waiting in the shadow of a grain warehouse, her amber eyes scanning his face the moment he climbed down from the wagon. He didn't notice how her expression changed when she saw his excitement, too eager to share what had happened.
+Farleen was waiting in the shadow of a grain warehouse. Her eyes came up and went over his face the moment he climbed down, the way they went over everything, and something moved in her own. He took it for the news arriving — he had been carrying it in his face the whole way back, he could feel that he had — and he was across the yard before she had finished composing herself.
 
 "She's real," he said, his voice barely contained. "Farleen, she's actually real."
 
-Something flickered across her features—too quick for him to interpret in his euphoria. When she spoke, her voice was carefully steady.
+Something went across her face and was gone. When she spoke, her voice was very level — the level voice she used when she was frightened, and she was entitled to be frightened, because he had just told her the imperial heir was alive and that four people now knew where.
 
 "Walk with me," she said.
 
-They moved through the warehouse district in silence, past workers unloading cargo and merchants examining goods. Farleen led him to a narrow alley between two storage buildings, a place where their conversation wouldn't be overheard.
+They moved through the warehouse district in silence, past workers unloading cargo and merchants examining goods. Farleen led him to a narrow alley between two storage buildings, a place where their conversation wouldn't be overheard. He was glad of it. There was nothing he had to say that could be said in a yard.
 
 She stopped abruptly, turning to face him. Her hands were shaking.
 
@@ -90,47 +90,47 @@ He frowned, confused by the desperation in her tone. "Let it go? Farleen, this c
 
 "Why would I do that? After everything we—"
 
-"Because they'll kill you!" The words burst out of her, raw and anguished. "If you keep pursuing this, if you try to do anything with what you've learned, they will kill you, Xion. And they'll make me—"
+"Because they'll kill you!" The words burst out of her. "If you keep pursuing this, if you try to do anything with what you've learned, they will kill you, Xion. And they'll make me—"
 
 She stopped herself, but he'd heard enough. Ice formed in his stomach. "Make you what?"
 
-Tears gathered in her eyes. "I need to tell you something. Something I should have told you weeks ago." The words came out in a rush, as if she couldn't bear to hold them any longer. "I was asked to keep an eye on your group. Report back on your activities."
+"I need to tell you something. Something I should have told you weeks ago." The words came out in a rush, as if she couldn't bear to hold them any longer. "I was asked to keep an eye on your group. Report back on your activities."
 
 The world tilted sideways. "You're a spy."
 
-"I was supposed to watch and report. Nothing more!" She was crying now, openly. "Your little charity work wasn't a threat to anyone. But this... Xion, infiltrating the Arol Batae compound, finding the actual princess... they see this as destabilizing. Dangerous. They gave me orders and I—" Her voice broke. "I tried so hard to convince you to stop. Every argument, every warning. I was hoping you'd give up before it came to this."
+"I was supposed to watch and report. Nothing more!" She was crying now, openly. "Your little charity work wasn't a threat to anyone. But this... Xion, infiltrating the Arol Batae compound, finding the actual princess... They gave me orders and I— I tried so hard to convince you to stop. Every argument, every warning. I was hoping you'd give up before it came to this."
 
 "Before what came to this?" But even as he asked, his eyes dropped to her hand, which had moved to something concealed beneath her cloak.
 
-"I fell in love with you," she whispered. "That wasn't part of the assignment. That wasn't supposed to happen. Everything between us—my feelings, my attraction, all of it—that was **real**, Xion. You have to believe me."
+"I fell in love with you," she whispered. "That wasn't part of the assignment. That wasn't supposed to happen. Everything between us — that was **real**, Xion. You have to believe me."
 
 "Then don't do this." His voice was steady despite the fear rising in his chest. "Whatever they told you to do, don't do it. We can figure this out together—"
 
-"How?" The word came out as a sob. "How do we figure this out? You've already done the one thing they can't allow. You've proven the princess exists and you **know** where she is. Do you think they'll just let that go? The cartels have spent twenty years maintaining this balance. Your father, my father, all of them—they'll burn this city down before they let someone upset it."
+"How? How do we figure this out? You've proven she exists and you **know** where she is. Your father, my father, all of them—they'll burn this city down before they let someone upset it, and you know they will. You know they will."
 
 She drew the dagger, and her hands were shaking so badly the blade caught the light. "I don't want to do this. God, Xion, I don't want to do this. But if I don't—if I go back and tell them I failed—"
 
-Her voice broke. She couldn't finish the sentence.
+She couldn't finish the sentence.
 
 "There has to be another way—"
 
-"There isn't!" Her voice cracked. "I've been trying to find one for **weeks**. Every time I reported back, I kept telling them you were chasing shadows, that you'd give up soon. But you didn't. You just kept going, kept getting closer, and now..." She looked at the dagger in her hand as if seeing it for the first time. "Now we're here."
+"There isn't! I've been trying to find one for **weeks**. Every time I reported back, I kept telling them you were chasing shadows, that you'd give up soon. But you didn't. You just kept going, kept getting closer, and now..." She looked at the dagger in her hand as if seeing it for the first time. "Now we're here."
 
 Xion's mind raced. "Then run. Both of us. We'll leave Kaha'an, go somewhere they can't—"
 
-"They can always find us. You know that." She took a step toward him, tears streaming down her face. "And if I run, my mother, my sisters—everyone I care about..." The implication hung in the air, unspoken but understood. "I'm sorry. I'm so, so sorry. If there was any other way, if I could take your place, if I could—"
+"They can always find us. You know that." She took a step toward him. "And if I run, my mother, my sisters—everyone I care about..." The implication hung in the air, unspoken but understood. "I'm sorry. I'm so, so sorry. If there was any other way, if I could take your place, if I could—"
 
-Her voice dissolved into sobs. The dagger wavered in her grip.
+The dagger wavered in her grip.
 
 For a long moment, they stood there—Farleen crying, Xion frozen, the blade trembling between them. He could see her trying to make herself do it, trying to force her hand to move, but her body wouldn't obey.
 
-"I can't go back without—" She choked on the words. "They'll know I failed. They'll know I let you live because I—" 
+"I can't go back without— They'll know I failed. They'll know I let you live because I—" 
 
 "Then don't go back," Xion said desperately. "Come with me. We'll—"
 
-"There's nothing to figure out!" The words came out as a wail. "Don't you understand? There was never going to be another choice."
+"There's nothing to figure out! Don't you understand? There was never going to be another choice."
 
-She looked at him one last time, her face breaking with grief and self-loathing, and lunged.
+She looked at him one last time, and lunged.
 
 He saw the exact moment her resolve shattered. The dagger aimed for his heart, but her face twisted in anguish and the blade veered at the last second. Instead of piercing his chest, it tore across his shoulder—still deep, still dangerous, but not the clean kill she'd been ordered to make.
 

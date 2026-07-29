@@ -72,6 +72,6 @@ He didn't say any of it. Melina knew it already; he could see that she'd already
 
 Xion watched her cross the square and turn up the street beyond.
 
-His father had stopped arguing. That was the whole of it, and it had taken him until now to see what it meant: an argument is a thing two people are having. You can lose an argument and still be in the room.
+His father had stopped arguing. It had taken him until now to see what that meant: an argument is a thing two people are having. You can lose an argument and still be in the room.
 
 He was not in the room.
