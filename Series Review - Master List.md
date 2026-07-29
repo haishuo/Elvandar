@@ -176,31 +176,14 @@ in their place and all three are applied. Book 2's craft list is empty for the f
 
 ## 6. Open questions
 
-**Numbering warning, added after a misreport.** This section was numbered 1–4 while the closed-items
-table used a separate Q1/Q2/Q3 scheme for different items, and three already-closed questions were
-still sitting under the heading "Open questions". A reader — me — reported the list's item 1 as live
-without re-verifying it. **The section is now purged to what is actually open.** Closed material is in
-the table at the end. Do not renumber; refer to questions by their subject.
+**None outstanding.** Closed material is in the table at the end.
 
-1. **Are Janice's eyes the *first-patient* injury?** — the only genuinely open question in the review.
-
-   **Not open:** that she goes blind. That is settled and load-bearing in the Book 3 beat drafts — ch3
-   calls her *a blind weaver*, describes a room navigated by touch, has her know his step before he
-   speaks, has Xion offer *a physician for her eyes*, and turns the temptation beat on *a name on a
-   list she will never be able to read.* It is also the mechanism of why she never came: she cannot
-   work, and arriving on his doorstep would have been the first request she ever made of anyone.
-
-   **Open:** whether the eyes are what fifteen-year-old Xion treated — the first-patient backstory in
-   which he cannot cure it, slows it, and tells her the truth, and in which *the debt is not that he
-   healed her; the debt is that he asked, and then told her the truth.* Marked *(proposed, not yet
-   confirmed)* in `People/Mistress Janice.md`.
-
-   **Book 3 raised the stakes on the answer.** ch3 A8 has Xion offer her a physician for her eyes. If
-   the eyes are the original injury, that offer is the entire relationship closing a loop — the boy who
-   could only slow it comes back with a state behind him — and her refusal in A9 costs accordingly. If
-   they are unrelated, it is one item on a list of kindnesses. **This is now a question about how hard
-   B3 ch3 hits, not a piece of backstory trivia.**
-
+**Numbering warning, kept because it caused a real misreport.** This section was once numbered 1–4
+while the closed-items table used a separate Q1/Q2/Q3 scheme for different items, and three
+already-closed questions were still sitting under the heading "Open questions". A reader — me —
+reported the list's item 1 as live without re-verifying it against the drafts. **Do not reintroduce a
+parallel numbering, and do not leave closed questions under this heading.** Refer to questions by
+subject.
 
 ---
 
@@ -870,6 +853,41 @@ is a cousin of the cut construction and was seen, not missed. It survives on two
 chapter is do-not-touch, and the sentence after it *corrects* a likely inference rather than
 elaborating an already-finished one. Recorded so a later reader knows it was considered.
 
+**Janice's failing sight — VETOED and removed from the series**
+
+Author's ruling, immediately after the correction below: **the blindness is doing too little for what
+it costs, and the book has enough going on.** Janice's sight is fine. The first injury is unspecified
+and Xion cured it. Removed everywhere.
+
+**Blast radius, checked before applying.** Book 1's prose has **no dependency at all** — and the check
+turned up a second stale citation, since the character sheet had been justifying the thread with a ch1
+line, *"She held the unpicked row up to the light, squinting at the gap in it,"* that does not appear
+in the current text. Downstream was four beats of B3 ch3 and one section of the character sheet.
+
+**What changed in B3 ch3.** A3 loses *a blind weaver*. A8 loses the physician and gains **a shop** —
+the lease, the frontage, the stock, in a better street than the one that burned — which is a stronger
+offer anyway, because it is the thing she actually lost and would actually want, so refusing it costs
+her more. A10's *"a list she will never be able to read"* becomes *"a list without her ever being
+asked"*; the beat's force was never the blindness but the gap between what he could do unasked and
+what she has permitted.
+
+**A5 is the beat that improved most.** It was a room navigated by touch — everything at a fixed
+distance, nothing on the floor — and a paragraph explaining that she could do the work but no longer
+sell it. It is now a workroom: the chair set where the light is best, the basket within reach,
+everything else subordinate to that corner. She rebuilt the shop in miniature, alone, two streets from
+where it stood, and **it works.** The beat now contains no misfortune whatsoever and does far more
+damage, because it removes the last excuse: she did not come because there was nothing to come for.
+
+**And it tightens the ledger thread rather than loosening it.** The old logic ran *he could not cure
+it, only slow it, and the debt is that he asked and told her the truth.* With the cure, there is no
+debt at any point. He fixed her, she owed him nothing, and her first act toward him was to hand back
+the correction that made his whole life possible — *you can't keep that name.* Two people fixed each
+other inside a week and neither opened an account. **Janice is now the purest instance in the series
+of the thing Xion cannot understand**, which is help with no ledger under it — and it is why she
+refuses a shop, a pension, a house and a place on a register in B3 ch3.
+
+---
+
 **Open questions — purged, and one misreport corrected**
 
 §6 was carrying three closed questions under the heading "Open questions", numbered 1–4, while the
@@ -989,7 +1007,8 @@ onto the paragraph above it. Leave it.
 | C-14 | **Closed — diagnosis wrong, no change wanted** | ch14 was 1,436 words at the time of the check (1,429 after the C-20 pass), not 1,300. The violence is ~250 words, not ~400, and it is summary **because Xion is not there** — it arrives through Kael's contacts, Silvanno's channels and Farleen, and rule 0 holds. The premise was that the reader must believe the Warrens lethal enough to kill a Kemvimore; the chapter does not need to establish lethality, it needs **unaccountability**, and Farleen establishes it in one line with her own instrument: *"I watched a man in Larannas livery get put through a shopfront on Tuesday and the four who did it didn't even go through his pockets… It's that it's stopped being **for** anything."* Melina dies in ch15 because the name that always bought passage has stopped being counted, and ch14 says so. The length also reads correctly — ch13 2,629 / ch14 1,436 / ch15 2,232, short chapter before the drop, the same runway logic that protects B1 ch8. |
 | C-20 | **Done — the first editorial change ever applied to Book 2** | Seven narration verdict-stamps cut (ch3, ch7, ch9, ch10, ch11, ch14, ch20). Six were deletions; ch11 was rephrased to avoid colliding with ch9:53's *"And there it was… laid out."* Six legitimate uses of the phrase remain and were deliberately left: ch2 ×2 and ch7 ×1 and ch11 ×1 as idiom (*took in / laid out / use the whole of it*), ch4 as dialogue, and ch18's *"The stop was the whole of it"* — a different construction identifying which part of an utterance carried the meaning, rather than stamping a conclusion. Royal Road regenerated. |
 | C-21 | **Done — reframed first, then applied** | The filed version (ch6 and ch10 share an ending shape) was investigated and largely withdrawn: the two lists differ in tense, grammar and content, sit four chapters apart, and both beat drafts specify an alone-ending as the plan. What was applied is what the flag missed — **ch10 enumerated the same impossibilities twice**, three of six items in the closing aside being compressed restatements of three of the five *"He could not…"* clauses above them. Those three cut, the new tail (*no plan, no lever, no move anywhere in the world*) kept, the *"He could not"* list untouched. Plus ch6's *"That was the sour heart of it"*, the last C-20 variant. Eighteen words out, nothing added. Royal Road regenerated. **Withdrawn and not to be re-raised: any cut to ch6's three-part list or to ch10's *"He could not"* list.** |
-| Janice's return | **Closed — landed** | Confirmed alive, plan agreed, and now written into the Book 3 beat drafts: B3 ch1 beats 18–19 (the second administrative request beside the name change) and B3 ch3 Movement One, beats A1–A14 (Kael finds her in Rosik's hidden ledgers; the room; the refusal; the question; the missing dismissal). The live constraints from the planning notes now live where they are used — the hard constraint that she must **not** be present for B3 ch1's name-taking is on her character sheet, and *why she never came* and *what she says* are realised in A9 and A11 rather than pending. |
+| Janice's return | **Closed — landed** | Confirmed alive, plan agreed, and written into the Book 3 beat drafts: B3 ch1 beats 18–19 and B3 ch3 Movement One, beats A1–A14. The live constraints now live where they are used — the hard constraint that she must **not** be present for B3 ch1's name-taking is on her character sheet, and *why she never came* and *what she says* are realised in A5, A9 and A11 rather than pending. |
+| Janice's failing sight | **Closed — VETOED, author's ruling. Removed from the series.** | The thread was considered as the first-patient injury and rejected: it was doing too little narrative work for what it cost, and the book has enough going on. **Janice's sight is fine. Do not reintroduce it in any book.** The first injury is deliberately unspecified and Xion **cured** it. Applied: `People/Mistress Janice.md` lost the whole *Her Sight* section, and B3 ch3 lost the blindness from beats A3, A5, A8 and A10. **Blast radius was checked first and Book 1's prose has no dependency** — the sheet had been citing a ch1 line (*"squinting at the gap in it"*) that does not exist in the current text, which is a second stale citation found by the same check. |
 | Who tells Xion he has become his father | **Closed — wrong question, author's ruling** | He does not become his father; he *became* him for four chapters of Book 2 and knew it while doing it. B2 ch18 is titled `"Don't."` because **he** says it, to himself, mid-manoeuvre. The distinguishing fact is not capability — Book 2 proves the capability — it is that afterward he **breaks** (B2 ch20, the low wall) and Rosik never does. Never write a scene in which a character delivers the verdict to his face. |
 | B1 ch5's speed (listed as Q3) | **Closed — the filed diagnosis was wrong** | See the Q3 row above; kept here only so the §6 numbering collision that produced a misreport is traceable. |
 | C-22 | **Done** | ch3's narration borrowed *cage* for a second referent twelve lines after Melina used it for the first. Fixed in the narration rather than the dialogue, because *cage* = the token system is the established usage (Melina in ch3, Xion recalling Elara's council refusal in ch9), and Melina's line escalates *token system* into metaphor in the same breath — flattening it to fix a narration collision would be the wrong end. *"He had given her sight, and sight had become the cage"* → *"He had given her sight, and the sight was what stayed her hand."* Also more precise: the failure is an inaction, not a confinement. Six words in, six out; *cage* now has one referent across Book 2. |

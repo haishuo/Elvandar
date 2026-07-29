@@ -120,7 +120,11 @@ She knew Mira Fen. Her line *"the woman whose name you took wouldn't have argued
 
 **Janice was one of the first people Xion ever treated — before he had the name.**
 
-He was fifteen. Mira had been executed with two words, and the boy came down out of the Noble District carrying what she had taught him and nothing else, and started working. Janice was among the earliest. He treated her because she needed it, under his own name, because at fifteen it had not yet occurred to him that he needed another one.
+He was fifteen. Mira had been executed with two words, and the boy came down out of the Noble District carrying what she had taught him and nothing else, and started working. Janice was among the earliest. He treated her because she needed it, under his own name, because at fifteen it had not yet occurred to him that he needed another one. **He cured it.** What the injury was is deliberately unspecified and must stay that way — the story is not about the ailment.
+
+**Author's ruling, and it settles the old open question:** the eyes were considered as the first-patient injury and are **rejected**, along with the whole failing-sight thread. It was doing too little for what it cost, and the book has enough going on. Janice's sight is fine. Do not reintroduce it in any book.
+
+**What removing it clarified.** The debt was never the treatment. He cured her and she owed him nothing, and her first act toward him was to hand back a correction he needed more than she had needed the cure — *you can't keep that name.* Two people fixed each other inside a week and neither opened an account. **She is the purest instance in the series of the thing Xion cannot understand:** help that simply happened, with no ledger under it. Eight years later she is still refusing to become an entry, and in B3 ch3 she refuses a shop, a pension, a house and a place on a register for exactly that reason.
 
 She was the one who told him:
 
@@ -142,30 +146,6 @@ Her first act toward him was a systems correction — *your operation has a fata
 
 **This is also why he cannot take her copper.** Janice wants a number in the book; Xion is already keeping one. Hers is a business record meant to make the operation survivable. His is a debt to a dead woman that must never close — and a patient who pays converts restitution into commerce and voids the payment. Neither of them knows they are arguing about two different ledgers. It is why the argument has run a dozen times without moving, and why he has no answer for her: *"Xion opened his mouth and found there was nothing in it. There never was, at this part."* The honest answer is that the patients are not the point, and he cannot say that to her or to himself.
 
-### Her Sight
-
-**The outcome is canon.** By Book 3 she is blind, and the Book 3 beat drafts are built on it: ch3 calls
-her *a blind weaver*; her room is *arranged the way a space is arranged by someone who navigates it by
-touch — everything at a fixed distance from everything else, nothing on the floor, nothing moved*; she
-knows Xion's step before he speaks; what he comes to offer her includes *a physician for her eyes*; and
-the temptation beat turns on his being able to put *a name on a list she will never be able to read.*
-It is also the reason she never came to him — she cannot work, and arriving on his doorstep would have
-been the first request she had ever made of anybody, so she didn't.
-
-**What is still open is narrower: whether her eyes are the *first-patient* injury.** The backstory in
-which fifteen-year-old Xion treats her, cannot cure it, slows it, and tells her the truth about it —
-*(proposed, not yet confirmed)* — is a separate claim from the fact that she goes blind. A weaver losing
-her sight is a career-ending diagnosis and an unaffordable one.
-
-Hands are already taken three times over (Tam, Korvin in ch14, Xion's own), so a fourth would blur. Failing sight explains what she actually does on the page: front-of-house and counting rather than fine work, unpicking by feel, and the ch1 line *"She held the unpicked row up to the light, squinting at the gap in it."*
-
-A fifteen-year-old cannot cure it. He could slow it, and he could tell her the truth about it, which nobody had — and he would have asked permission before looking. The debt is not that he healed her. **The debt is that he asked, and then told her the truth.**
-
-Thematically: in a book whose central mechanism is a woman whose eyes reveal everything, Janice's eyes are the ones going out — and she is the one who has made not-seeing into a discipline. *"I've never asked where the money comes from."*
-
-*Sourcing note: Janice appears in ch1, ch7, ch11, and ch13. In ch11 and ch13 she is scenery — a back door and one line about three routine patients. Her ch1 and ch7 material derives from the review-pass rewrites; the first-patient backstory above is author-established and is not dramatized anywhere in Book 1.*
-
----
 
 ## Book 1: The Grain Merchant's Son
 
@@ -303,7 +283,7 @@ Her tragedy is structural rather than dramatic: **she is correct, she is early, 
 ## Open Questions
 
 1. **Where does the confirmation that she was taken land?** Ch13 leaves it unresolved by design. The natural placement is ch23, with Silvanno and Kael, who were on the surface searching while Xion was in the Warrens. Not yet written.
-2. **Confirm or veto the eyes as the *first-patient* injury.** That she goes blind is settled and load-bearing in the Book 3 drafts (see *Her Sight*); what is unconfirmed is whether the eyes are what Xion treated at fifteen. **Book 3 raised the stakes on this:** ch3 has him offer her *a physician for her eyes*, which is a whole relationship closing a loop if the eyes are the original injury and merely a kindness if they are not.
+2. ~~**Confirm or veto the eyes as the first-patient injury.**~~ **CLOSED — vetoed, author's ruling.** No failing sight, no blindness, in any book. The first injury is unspecified and Xion cured it. See *The First Patient*.
 3. **Does the naming scene ever surface on the page? — PARTIALLY ANSWERED.** Not as a scene, and not in B3 ch1: she must *not* be present for the name-taking, because the scene becomes about her instead of Mira. What landed instead is better and cheaper — B3 ch1 beat 19 notes, in Xion's interiority only, that she is the one who put the name on him; and B3 ch3 beat A6 pays it off without any flashback at all. He enters "Fen" into the imperial record in front of two cartel heads and three noble houses, and weeks later the first person to say it to him afterward says it exactly as she has said it for eight years, with no ceremony in it, because to her the name has never been in question. The naming scene stays backstory. Its weight arrives through her indifference to it.
 4. **Does she ever learn who Elara is?** She is one of two people who can read the patient book, and Elara spends days in the clinic.
 5. **Who plays Janice in Book 2?** With the clinic gone and the alias burned, the chair she occupies — the ally with better information who tells Xion to stop and is right — is vacant. Farleen fills it in ch19 and Elara in ch22, both within Book 1. If nobody fills it in Book 2, Xion's central trait goes unchallenged, which is functionally the same as losing it.
