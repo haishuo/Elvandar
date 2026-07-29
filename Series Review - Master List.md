@@ -881,6 +881,15 @@ Full document published as an artifact: `claude.ai/code/artifact/15fa5bcc-be71-4
 - **Janice does not exist.** She is *"Mistress Thera"*, named once, in a subordinate clause. Which makes
   her arc three-stage, and the middle stage is worth remembering: **absent → over-weighted → sound
   before sight.**
+- **Who named Master Fen, stated once so it stops being paraphrased.** Janice supplies the
+  *instruction* — *"You can't keep that name. Not if you want to keep doing this."* **Xion supplies the
+  name**: *"Fen. Master Fen."* Told at fifteen that he has to stop being himself, he reaches for the
+  surname of the woman his father had executed, and wears it for eight years. This is the
+  division-of-inheritance guardrail visible in four lines of dialogue — she gave him the cover, Mira
+  gave him everything the cover was protecting — and it is exactly what gets lost if the scene is
+  summarised as *Janice invented the alias.* **It was summarised that way once, in the first cut of the
+  retrospective, and corrected.** Do not let it drift back: the moment Janice supplies meaning as well
+  as method she crowds out Mira, who has to carry three books.
 
 **And one methodological note.** The old draft holds a single gear — 2,386 to 4,595 words, dynamic
 range 1.9× — against the book's 1,453 to 3,758 and 2.6×. That is the length-profile discipline showing
