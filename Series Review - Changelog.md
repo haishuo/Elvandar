@@ -1121,3 +1121,46 @@ onto the paragraph above it. Leave it.
 
 ---
 
+
+---
+
+## 2026-07-29 — C-16 and C-18 applied; Book 1 down to one craft item
+
+**C-16 — ch5's doubled attribution.** *"Her voice grew stronger, more certain"* ran twice four lines
+apart (l.99, l.103), with *"Elara's eyes were steady, certain"* eight lines after that — three
+`certain`s inside fourteen lines, in a chapter whose subject is her deciding.
+
+The second instance is cut rather than varied. She is not swelling at l.103; she is answering
+*"That's dangerous."*, and the swell contradicts what she is doing. The dialogue carries it alone:
+
+> "Everything is dangerous in this city. Besides, I'm not helpless. Twenty years of training with the
+> finest warriors in Kaha'an has its advantages."
+>
+> Xion looked at his bandaged shoulder. "I noticed."
+
+The joke lands harder without a pause in front of it. **l.99 keeps its swell** — that is where she is
+actually building, and the flag was never that the phrase is bad. l.111's *"steady, certain"* trimmed
+to *"steady"*, which already said it. Nine words out, nothing added.
+
+*Deliberately left:* l.77's *"something younger, more uncertain"*. It is the opposite word doing
+opposite work, and the distance from uncertain at l.77 to certain at l.99 is the chapter's movement.
+
+**C-18 — ch11's theme in dialogue.** *"Mutual vulnerability. The foundation of any good partnership."*
+— the book's thesis, stated by a character, one line after the confession scene the chapter was
+rebuilt around. Replaced with the concrete trade underneath it:
+
+> "You're carrying the thing that gets me taken. I'm carrying the thing that gets you executed. It
+> seemed only fair to me too."
+
+Both halves are sourced in the chapter rather than asserted — his execution is named twenty lines
+earlier (*"Or executes you for it"*), and *taken* is the book's own word for what happens to Tam. The
+last sentence answers his *"Seemed only fair"* two lines above, so the exchange closes on a callback
+instead of an abstraction.
+
+**What this buys is the assignment of the next line.** He still asks *"Is that what we are?
+Partners?"* — but he is now reaching for a word she declined to give him, rather than querying one she
+supplied. That is the right way round: he is the one who needs to know what a thing is, and she is the
+one who deals in what it costs. Nothing states the theme now.
+
+Royal Road regenerated for both chapters. **Book 1 is down to one craft item, C-21**, which is a
+judgment call on two lines of ch22 and needs the author rather than a pass.

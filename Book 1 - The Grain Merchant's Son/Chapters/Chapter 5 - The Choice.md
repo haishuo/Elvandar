@@ -100,7 +100,7 @@ Understanding began to dawn. "You want to stay out here."
 
 "That's dangerous."
 
-"Everything is dangerous in this city." Her voice grew stronger, more certain. "Besides, I'm not helpless. Twenty years of training with the finest warriors in Kaha'an has its advantages."
+"Everything is dangerous in this city. Besides, I'm not helpless. Twenty years of training with the finest warriors in Kaha'an has its advantages."
 
 Xion looked at his bandaged shoulder. "I noticed."
 
@@ -108,7 +108,7 @@ Xion looked at his bandaged shoulder. "I noticed."
 
 "If we do this," he said slowly, "there's no going back."
 
-"No. There isn't." Elara's eyes were steady, certain. "For either of us."
+"No. There isn't." Elara's eyes were steady. "For either of us."
 
 "What would you want to see first?"
 

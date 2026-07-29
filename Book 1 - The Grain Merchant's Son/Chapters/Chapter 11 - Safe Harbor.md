@@ -204,7 +204,7 @@ Elara nodded, moving toward the cot. Then she paused. "Xion?"
 
 "You trusted me with the royal trait. Seemed only fair."
 
-She smiled slightly, and the expression transformed her face into something that made his heart skip. "Mutual vulnerability. The foundation of any good partnership."
+She smiled slightly, and the expression transformed her face into something that made his heart skip. "You're carrying the thing that gets me taken. I'm carrying the thing that gets you executed. It seemed only fair to me too."
 
 "Is that what we are? Partners?"
 
