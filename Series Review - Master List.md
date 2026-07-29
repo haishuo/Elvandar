@@ -125,11 +125,10 @@ whole position is that she is *waiting*.
 
 *C-12 through C-15 were re-verified against the current text and all four are closed — three cleared,
 one retired as mis-specified and superseded. See the closed-items table. The three items below replace
-them. C-20 has since been applied and is closed; C-21 and C-22 remain open.*
+them. C-20 and C-21 have since been applied and are closed; C-22 remains open.*
 
 | # | Item |
 |---|---|
-| C-21 | **REFRAMED after investigation — the filed version is weak and I would not act on it alone.** The claim was that ch6 and ch10 close on the same anaphoric enumeration of impotence. True but thin: the two lists differ in tense, grammar and content (ch6 is what he *had*, ch10 is what he *cannot do*) and sit four chapters apart. What is actually actionable is **internal to ch10 — it runs the same enumeration twice.** Three of the six items in the closing *"no wound to close, no name to spend, no gate to talk his way through"* are compressed restatements of three of the five *"He could not…"* clauses one paragraph above. **Proposal drafted, not applied — see the changelog.** |
 | C-22 | **ch3 reassigns "cage" mid-chapter.** Melina's line 69 — *"she is not on that throne to make the cage more comfortable"* — has cage = the token system. The narration twelve lines later at 81 — *"sight had become the cage"* — has cage = Elara's own knowledge. Two referents, one word, twelve lines apart. ch9's third use is earned (the tragedy of ch3 becomes the defeat of ch9). Line-level, small, and may not be worth doing. |
 
 ### Do not touch
@@ -866,7 +865,7 @@ is a cousin of the cut construction and was seen, not missed. It survives on two
 chapter is do-not-touch, and the sentence after it *corrects* a likely inference rather than
 elaborating an already-finished one. Recorded so a later reader knows it was considered.
 
-**C-21 — the ch6/ch10 endings. INVESTIGATED, REFRAMED, PROPOSAL DRAFTED, NOT APPLIED.**
+**C-21 — the ch6/ch10 endings. INVESTIGATED, REFRAMED, APPLIED.**
 
 Checked the length profile and scanned all twenty endings before proposing, per the rhythm rule.
 Two things came back.
@@ -911,10 +910,10 @@ Fourteen words out, nothing added. The five-item *"He could not"* list stays int
 it names a distinct closed door and says why it is closed, which is argument rather than lament, and
 it is what makes ch11's decision land.
 
-**Optional second cut, ch6:** *"That was the sour heart of it"* — the last surviving variant of the
-C-20 construction, more exposed now the seven are gone. Four words, pure deletion; *"There was, in
-truth, another roof"* already carries the weight. Offered separately because it belongs to C-20's
-family rather than to this item.
+**Second cut, ch6 — taken.** *"That was the sour heart of it"* deleted: the last surviving variant of
+the C-20 construction, more exposed once the seven were gone. *"There was, in truth, another roof"*
+already carries the weight. Belongs to C-20's family rather than to this item, and was offered and
+green-lit separately.
 
 **Withdrawn from C-21 as filed:** any cut to ch6's three-part list, and any change to ch10's *"He
 could not"* list. Both were the flag's actual target and both are correct as written.
@@ -957,6 +956,7 @@ onto the paragraph above it. Leave it.
 | C-13 | **Retired — mis-specified, superseded by C-20** | Wrong about ch7: its ending is not a long summarizing paragraph but four short lines, and one of the best in the book — *"an argument is a thing two people are having. You can lose an argument and still be in the room. He was not in the room."* The real ending pattern is ch6 and ch10 only, now **C-21**. And the flag missed what was actually underneath it: a seven-instance narration verdict-stamp, now **C-20**. Recorded rather than silently rewritten, because a flag that was wrong about a good ending is exactly the failure mode the closed-items discipline exists for. |
 | C-14 | **Closed — diagnosis wrong, no change wanted** | ch14 was 1,436 words at the time of the check (1,429 after the C-20 pass), not 1,300. The violence is ~250 words, not ~400, and it is summary **because Xion is not there** — it arrives through Kael's contacts, Silvanno's channels and Farleen, and rule 0 holds. The premise was that the reader must believe the Warrens lethal enough to kill a Kemvimore; the chapter does not need to establish lethality, it needs **unaccountability**, and Farleen establishes it in one line with her own instrument: *"I watched a man in Larannas livery get put through a shopfront on Tuesday and the four who did it didn't even go through his pockets… It's that it's stopped being **for** anything."* Melina dies in ch15 because the name that always bought passage has stopped being counted, and ch14 says so. The length also reads correctly — ch13 2,629 / ch14 1,436 / ch15 2,232, short chapter before the drop, the same runway logic that protects B1 ch8. |
 | C-20 | **Done — the first editorial change ever applied to Book 2** | Seven narration verdict-stamps cut (ch3, ch7, ch9, ch10, ch11, ch14, ch20). Six were deletions; ch11 was rephrased to avoid colliding with ch9:53's *"And there it was… laid out."* Six legitimate uses of the phrase remain and were deliberately left: ch2 ×2 and ch7 ×1 and ch11 ×1 as idiom (*took in / laid out / use the whole of it*), ch4 as dialogue, and ch18's *"The stop was the whole of it"* — a different construction identifying which part of an utterance carried the meaning, rather than stamping a conclusion. Royal Road regenerated. |
+| C-21 | **Done — reframed first, then applied** | The filed version (ch6 and ch10 share an ending shape) was investigated and largely withdrawn: the two lists differ in tense, grammar and content, sit four chapters apart, and both beat drafts specify an alone-ending as the plan. What was applied is what the flag missed — **ch10 enumerated the same impossibilities twice**, three of six items in the closing aside being compressed restatements of three of the five *"He could not…"* clauses above them. Those three cut, the new tail (*no plan, no lever, no move anywhere in the world*) kept, the *"He could not"* list untouched. Plus ch6's *"That was the sour heart of it"*, the last C-20 variant. Eighteen words out, nothing added. Royal Road regenerated. **Withdrawn and not to be re-raised: any cut to ch6's three-part list or to ch10's *"He could not"* list.** |
 | C-15 | **Closed — deliberate, and the text answers it** | ch1: *"You've gone somewhere," Melina said, watching him.* / *"I'm here."* ch3: *"You've gone somewhere **again**," Melina said quietly.* / *"I'm here." He wasn't, quite, but he came back for her.* The *again* plus the narration conceding the lie makes it a running beat, and it moves — ch1 he deflects and she lets it go; ch3 he lies, the book says so, and he comes back **for her**, which is the last time it shows him choosing to. Melina-specific: she is the only person who notices, which is her entire function. Two instances, no third. **Do not add a third.** |
 
 *Note: `TGMS - OLD/` is non-canon and is excluded from all continuity checks.*
