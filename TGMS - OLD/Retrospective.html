@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--
+  The Grain Merchant's Son - old-draft retrospective.
+  NON-CANON, like everything else in this folder. See the fence at the top of the page.
+  Also published at claude.ai/code/artifact/15fa5bcc-be71-4e1c-b97b-5c5a9cadf220
+  Open this file in a browser; it is self-contained and needs no network.
+-->
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  body { margin: 0; }
+  img, svg { max-width: 100%; }
+</style>
+<title>What the Old Draft Tells Us</title>
+
+<style>
+  :root {
+    --ground:  #E8EAE9;
+    --surface: #F6F7F6;
+    --ink:     #14181A;
+    --muted:   #69726F;
+    --rule:    #C9CFCD;
+    --brass:   #8F6524;
+    --slate:   #7C8688;
+    --amber:   #B3740F;
+    --old-bg:  #E1E4E3;
+
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Hoefler Text", "Book Antiqua", Georgia, serif;
+    --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+
+    --measure: 34rem;
+    --wide: 52rem;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground:  #0E1213;
+      --surface: #171C1E;
+      --ink:     #E4E9E7;
+      --muted:   #8E9896;
+      --rule:    #2C3436;
+      --brass:   #CBA25D;
+      --slate:   #737F81;
+      --amber:   #E0A63F;
+      --old-bg:  #131819;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground:  #0E1213;
+    --surface: #171C1E;
+    --ink:     #E4E9E7;
+    --muted:   #8E9896;
+    --rule:    #2C3436;
+    --brass:   #CBA25D;
+    --slate:   #737F81;
+    --amber:   #E0A63F;
+    --old-bg:  #131819;
+  }
+  :root[data-theme="light"] {
+    --ground:  #E8EAE9;
+    --surface: #F6F7F6;
+    --ink:     #14181A;
+    --muted:   #69726F;
+    --rule:    #C9CFCD;
+    --brass:   #8F6524;
+    --slate:   #7C8688;
+    --amber:   #B3740F;
+    --old-bg:  #E1E4E3;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.62;
+    margin: 0;
+    padding: 0 1.5rem 7rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .col { max-width: var(--measure); margin-inline: auto; }
+  .col-wide { max-width: var(--wide); margin-inline: auto; }
+
+  p { margin: 0 0 1.1em; }
+  em { font-style: italic; }
+  strong { font-weight: 600; }
+
+  /* ---------- masthead ---------- */
+
+  header {
+    max-width: var(--wide);
+    margin: 0 auto;
+    padding: 5.5rem 0 3rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .kicker {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 1.6rem;
+  }
+  h1 {
+    font-size: clamp(2.1rem, 6vw, 3.4rem);
+    line-height: 1.06;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+    margin: 0 0 1.2rem;
+    max-width: 22ch;
+  }
+  .standfirst {
+    font-size: 1.12rem;
+    color: var(--muted);
+    max-width: 44ch;
+    margin: 0;
+  }
+
+  .tally {
+    max-width: var(--wide);
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+    gap: 1px;
+    background: var(--rule);
+    border-bottom: 1px solid var(--rule);
+  }
+  .tally div { background: var(--ground); padding: 1.4rem 1.1rem; }
+  .tally dt {
+    font-family: var(--mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 0.5rem;
+  }
+  .tally dd {
+    margin: 0;
+    font-family: var(--mono);
+    font-size: 1.28rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--brass);
+  }
+  .tally dd span { color: var(--slate); }
+
+  /* ---------- sections ---------- */
+
+  section { padding-top: 4.2rem; }
+
+  .evidence {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--brass);
+    margin: 0 0 0.75rem;
+  }
+  h2 {
+    font-size: clamp(1.45rem, 3.4vw, 1.85rem);
+    line-height: 1.16;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+    margin: 0 0 1.3rem;
+  }
+  h3 {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: var(--muted);
+    margin: 2.4rem 0 0.9rem;
+  }
+
+  /* ---------- the comparison device ---------- */
+
+  .pair {
+    max-width: var(--wide);
+    margin: 2rem auto 2.4rem;
+    display: grid;
+    gap: 1.5rem;
+  }
+  @media (min-width: 46rem) {
+    .pair { grid-template-columns: 1fr 1fr; gap: 2.2rem; align-items: start; }
+  }
+
+  .panel { padding-left: 1.1rem; }
+  .panel .tag {
+    font-family: var(--mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    display: block;
+    margin: 0 0 0.7rem;
+  }
+  .panel p { margin: 0 0 0.7em; }
+  .panel p:last-child { margin-bottom: 0; }
+
+  .old {
+    border-left: 1px dotted var(--slate);
+    color: var(--slate);
+    font-size: 0.94rem;
+  }
+  .old .tag { color: var(--slate); }
+
+  .now { border-left: 2px solid var(--brass); }
+  .now .tag { color: var(--brass); }
+
+  .note {
+    max-width: var(--measure);
+    margin: 0 auto;
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+
+  /* ---------- the one flourish ---------- */
+
+  .inversion {
+    max-width: var(--wide);
+    margin: 3.4rem auto;
+    padding: 2.6rem 1.8rem;
+    background: var(--surface);
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    text-align: center;
+  }
+  .inversion .from {
+    color: var(--slate);
+    font-size: 1.02rem;
+    margin: 0 0 1.5rem;
+  }
+  .inversion .to {
+    color: var(--amber);
+    font-size: clamp(1.2rem, 3.2vw, 1.6rem);
+    line-height: 1.35;
+    text-wrap: balance;
+    margin: 0 0 1.5rem;
+  }
+  .inversion .caption {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin: 0;
+    text-transform: uppercase;
+  }
+
+  /* ---------- chart ---------- */
+
+  figure { max-width: var(--wide); margin: 2.4rem auto 1rem; }
+  .chart { display: grid; gap: 1.6rem; }
+  .series { display: grid; grid-template-columns: 4.5rem 1fr; gap: 0.9rem; align-items: end; }
+  .series .label {
+    font-family: var(--mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    padding-bottom: 0.15rem;
+  }
+  .bars { display: flex; align-items: flex-end; gap: 2px; height: 5.5rem; }
+  .bars i { flex: 1; display: block; border-radius: 1px 1px 0 0; }
+  .series.a .label { color: var(--slate); }
+  .series.a .bars i { background: var(--slate); opacity: 0.55; }
+  .series.b .label { color: var(--brass); }
+  .series.b .bars i { background: var(--brass); }
+  figcaption {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    line-height: 1.6;
+    color: var(--muted);
+    max-width: 62ch;
+    margin-top: 1.4rem;
+  }
+
+  /* ---------- table ---------- */
+
+  .scroll { max-width: var(--wide); margin: 2rem auto; overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+  th, td { text-align: left; padding: 0.7rem 1rem 0.7rem 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+  th {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  td.n { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--brass); }
+
+  hr {
+    max-width: var(--wide);
+    margin: 4.6rem auto 0;
+    border: 0;
+    border-top: 1px solid var(--rule);
+  }
+
+  footer {
+    max-width: var(--measure);
+    margin: 3.4rem auto 0;
+    color: var(--muted);
+    font-size: 0.88rem;
+  }
+  footer p { margin-bottom: 0.7em; }
+
+  .fence {
+    max-width: var(--wide);
+    margin: 0 auto;
+    padding: 1.5rem 1.4rem;
+    border-bottom: 1px solid var(--rule);
+    border-left: 3px solid var(--slate);
+    background: var(--old-bg);
+    font-size: 0.92rem;
+    color: var(--muted);
+  }
+  .fence strong { color: var(--slate); }
+  .fence p { margin: 0; max-width: 68ch; }
+  .fence p + p { margin-top: 0.7em; }
+
+  a { color: var(--brass); }
+  a:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+</style>
+
+</head>
+<body>
+<header>
+  <p class="kicker">Elvandar · editorial retrospective · Book&nbsp;1</p>
+  <h1>The old draft is not a worse version of this book</h1>
+  <p class="standfirst">It is a different book that happens to contain the same man. Twenty chapters, seventy-one thousand words, read once and set aside — here is what it says about the one that replaced it.</p>
+</header>
+
+<dl class="tally">
+  <div><dt>Old draft</dt><dd>20&nbsp;ch <span>/ 71,391</span></dd></div>
+  <div><dt>The book</dt><dd>25&nbsp;ch <span>/ 61,885</span></dd></div>
+  <div><dt>Mean chapter</dt><dd>3,570&nbsp;<span>→</span>&nbsp;2,475</dd></div>
+  <div><dt>POV breaks</dt><dd>3&nbsp;<span>→</span>&nbsp;0</dd></div>
+</dl>
+
+<div class="fence">
+  <p><strong>Non-canon.</strong> This document compares the abandoned draft in <code>TGMS&nbsp;-&nbsp;OLD/</code> against the finished Book&nbsp;1, and it is filed inside that folder so it inherits the same exclusion as the draft it describes. Nothing here is continuity. Nothing in it was reconciled against the books. None of it may be cited as canon.</p>
+  <p>The old draft was read once, for this, and set down again.</p>
+</div>
+
+<section>
+  <div class="col">
+    <p class="evidence">Chapter 14 · Chapter 19 · Chapter 13</p>
+    <h2>Rule Zero did not exist, and you can watch the book discover it</h2>
+    <p>The rule the whole series now runs on — <em>the camera stays on Xion's shoulder; what he attends to is what the reader attends to</em> — was written down this month. The old draft had never heard of it, and broke it three times in twenty chapters.</p>
+    <p>Chapter&nbsp;14 is a Commander Vesk chapter. Chapter&nbsp;19 leaves Xion for Elara <em>and switches into present tense</em> to do it. Chapter&nbsp;13 stays nominally with Xion and then reaches into Elara's head anyway, explaining that her royal upbringing had never prepared her for the Warrens.</p>
+    <p>The finished book has none. Twenty-five chapters, one consciousness, and exactly one deliberate widening of the lens — the last two pages, when the bells go up tower by tower to the harbour.</p>
+  </div>
+
+  <div class="inversion">
+    <p class="from">Old draft, chapter 14, first line:<br><em>“Commander Vesk paced the length of the Arol Batae's inner ward, his shadow stretching and compressing with each turn.”</em></p>
+    <p class="to">“He was not pacing. Xion had expected pacing and got instead a man standing perfectly still in the middle of a swept expanse of stone.”</p>
+    <p class="caption">The book, chapter 23 — same man, same courtyard, from behind Xion's shoulder</p>
+  </div>
+
+  <div class="note">
+    <p>Nobody planned that. The canon line was written to characterise Vesk, not to answer a manuscript nobody was going to read again. But it is the whole argument in two sentences: the old draft told you what Vesk was doing, and the book tells you what Xion found when he got there.</p>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="evidence">11 of 20 → 4 of 25</p>
+    <h2>Eleven chapters opened on the weather</h2>
+    <p>Dawn crept, dawn broke, morning light filtered, the dusk painted Kaha'an in hues of amber. More than half the old draft began by describing the time of day to a reader who had not yet been given anyone to be.</p>
+    <p>The book does it four times in twenty-five, and one of those is a fever.</p>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="evidence">Chapter 1, closing paragraph</p>
+    <h2>The ending problem, in its original form</h2>
+    <p>The audit of all twenty-five chapter endings turned up thirteen that needed cutting. This is where the habit came from.</p>
+  </div>
+
+  <div class="pair">
+    <div class="panel old">
+      <span class="tag">Old draft ends chapter 1</span>
+      <p>“The princess, if she existed, might be the cure Kaha'an needed. Or she might be another symptom of a deeper affliction. Either way, Xion was committed to finding out, whatever the cost.</p>
+      <p>The winding streets of Kaha'an stretched before him… Somewhere in this layered metropolis, perhaps a princess waited, unaware that her very existence might rewrite the future.”</p>
+    </div>
+    <div class="panel now">
+      <span class="tag">The book ends chapter 1</span>
+      <p>“Two impossible things in one afternoon…</p>
+      <p>Tomorrow, he would act.”</p>
+    </div>
+  </div>
+
+  <div class="note">
+    <p>The old version leaves Xion entirely for its last sentence and forecasts, on the narrator's authority, about a woman who has not yet appeared. It is the purest specimen of the thing the ending pass was built to hunt, and it is sitting in the first chapter.</p>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="evidence">Tam Corris — 1 chapter of 20</p>
+    <h2>The boy is never taken</h2>
+    <p>Tam exists in the old draft. He comes in with a cut hand, he doesn't cry because he can't work if he cries, Xion stitches him — and then Xion presses a silver piece into his good hand, a week's wages, and sends him home, and the manuscript never mentions him again across nineteen further chapters.</p>
+    <p>The narrator explains the scene three times on the way out. <em>While he spent his days playing at being a healer, children like Tam couldn't afford the luxury of pain. The silver piece represented nothing to him. Such was the grotesque imbalance of Kaha'an. These were bandages on wounds that would not close.</em></p>
+  </div>
+
+  <div class="pair">
+    <div class="panel old">
+      <span class="tag">What Xion does about it</span>
+      <p>Reaches into his pocket. The problem is money, he has money, and the scene resolves.</p>
+      <p>Then the narration tells you it was ironic.</p>
+    </div>
+    <div class="panel now">
+      <span class="tag">What Xion does about it</span>
+      <p>Nothing. Two enforcers invent a debt in an open square and take the boy, and acting would mean saying his own name aloud, and he cannot.</p>
+      <p>Nobody explains anything. Nine chapters later he is carrying the same child up out of the dark with a fever in his blood.</p>
+    </div>
+  </div>
+
+  <div class="note">
+    <p>This is the single largest difference between the two manuscripts, and it is the book's whole argument. The old draft has a rich man solve a poor boy's problem with pocket change. The book has a man who cannot help because helping requires a name he has spent eight years hiding — and then spends its entire middle act proving that the only thing that ever worked for him was the unglamorous work he did for no reason at all.</p>
+    <p>Xion never rescues Tam. Korvin does, and a food vendor does, and a Slaver's cousin does, and a guard named Varris does, because Master Fen patched them up once and never asked what they did for a living. None of that exists in the old draft, because the boy walks out of chapter one with a coin and is not thought of again.</p>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="evidence">“Mistress Thera” — 1 mention, ever</p>
+    <h2>Janice does not exist either</h2>
+    <p>The weaver whose back room hides the clinic is named once in the old draft, in a subordinate clause, and never appears again. The copper argument, the coded ledgers, the eight years of cover, the woman who told a fifteen-year-old he could not keep his own name and who later burned the patient records rather than let them be read — all of it is invention.</p>
+    <p>And the division inside that scene is exact, which is the thing worth noticing. Janice supplies the instruction: <em>you can't keep that name, not if you want to keep doing this.</em> Xion supplies the name — <em>Fen. Master Fen.</em> Told he has to stop being himself, he reaches for the surname of the woman his father had executed, and wears it for eight years. She gave him the cover. Mira gave him everything the cover was protecting.</p>
+    <p>Which makes her arc across this year's work a three-stage one, and the middle stage was a mistake worth recording: <strong>absent</strong> in the old draft, then <strong>over-weighted</strong> in the rewrite — 275 words of description against 90 of speech, a narrator-surrogate standing in the protagonist's light — and now <strong>sound before sight</strong>, a needle that stops and starts behind him while his hands are busy, and one look he never asks about.</p>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="evidence">Iron cartel, chapter 16 → chapter 24</p>
+    <h2>The Iron Lady used to be won with a speech</h2>
+  </div>
+
+  <div class="pair">
+    <div class="panel old">
+      <span class="tag">Old draft</span>
+      <p>Sa Ko Ren pours a dark liquid from a simple carafe and asks the princess for her vision of governance. Elara delivers it — artificial scarcity, exploitation, lungs and limbs — and Sa Ko says <em>“You've studied us well.”</em></p>
+      <p>Xion is in the room. He has nothing to do in it.</p>
+    </div>
+    <div class="panel now">
+      <span class="tag">The book</span>
+      <p>Sa Ko waves the bloodline and the divine sanction away in six lines — a pretty mirror proves the gods like you, it doesn't prove you can hold a throne — and offers single combat instead.</p>
+      <p>Xion cannot follow the fight. So he watches the only thing he has ever known how to watch, and is the first person in the hall to work out that she isn't fighting back.</p>
+    </div>
+  </div>
+
+  <div class="note">
+    <p>The old scene is competent and the new one is a different order of thing, for a reason that has nothing to do with sentences: the book asks what <em>this specific man</em> can perceive in a room, and then refuses to give the reader anything else. He is a healer, so he reads a rib strike that should have cost her something and did not. The chapter's discovery belongs to him because it is the only discovery he is equipped to make.</p>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="evidence">Dynamic range 1.9× → 2.6×</p>
+    <h2>The book learned to change speed</h2>
+  </div>
+
+  <figure>
+    <div class="chart">
+      <div class="series a">
+        <span class="label">Old</span>
+        <div class="bars">
+          <i style="height:62%"></i><i style="height:100%"></i><i style="height:93%"></i><i style="height:89%"></i><i style="height:88%"></i><i style="height:77%"></i><i style="height:77%"></i><i style="height:78%"></i><i style="height:80%"></i><i style="height:60%"></i><i style="height:71%"></i><i style="height:73%"></i><i style="height:52%"></i><i style="height:79%"></i><i style="height:83%"></i><i style="height:98%"></i><i style="height:53%"></i><i style="height:82%"></i><i style="height:67%"></i><i style="height:90%"></i>
+        </div>
+      </div>
+      <div class="series b">
+        <span class="label">The book</span>
+        <div class="bars">
+          <i style="height:55%"></i><i style="height:42%"></i><i style="height:40%"></i><i style="height:44%"></i><i style="height:36%"></i><i style="height:32%"></i><i style="height:43%"></i><i style="height:41%"></i><i style="height:80%"></i><i style="height:68%"></i><i style="height:39%"></i><i style="height:56%"></i><i style="height:79%"></i><i style="height:71%"></i><i style="height:69%"></i><i style="height:68%"></i><i style="height:36%"></i><i style="height:65%"></i><i style="height:53%"></i><i style="height:39%"></i><i style="height:47%"></i><i style="height:49%"></i><i style="height:82%"></i><i style="height:55%"></i><i style="height:56%"></i>
+        </div>
+      </div>
+    </div>
+    <figcaption>Chapter lengths in sequence. The old draft holds one gear — 2,386 to 4,595 words, almost everything clustered near the top. The book runs 1,453 to 3,758: a compressed opening movement, a doubling at chapter 9 when the scale changes, four consecutive chapters over 3,100 through the descent, then the sharpest contraction in the novel at chapter 17 for the rescue that fails.</figcaption>
+  </figure>
+
+  <div class="col">
+    <p>This turned out to be the year's most useful discovery and the one that saved the most good material. Three separate proposals to cut “talky” chapters were made and withdrawn once the length profile was checked — including two attempts on chapter 8, which sits dead centre of its own movement and is the last quiet chapter before the disaster in chapter 10.</p>
+    <p>“This is talky” is not a finding. It is now written into the rulebook that way.</p>
+  </div>
+</section>
+
+<hr>
+
+<section>
+  <div class="col">
+    <p class="evidence">This session</p>
+    <h2>What actually changed, including the wrong turns</h2>
+    <p>The retrospective was the fun part. The work was elsewhere.</p>
+  </div>
+
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr><th scope="col">Pass</th><th scope="col">Scope</th><th scope="col">Outcome</th></tr>
+      </thead>
+      <tbody>
+        <tr><td class="n">Rule 0</td><td>Book 1, all chapters</td><td>Written into the rulebook with the operative form — <em>what Xion attends to is what the reader attends to</em> — and chapter 21 named as the model</td></tr>
+        <tr><td class="n">Endings</td><td>25 chapters audited</td><td>13 cut, 3 rewritten, 8 already worked. One was a rule 1 contradiction: a boy described as solid and alive four hundred words after the text established the fever was in his blood</td></tr>
+        <tr><td class="n">Beat drafts</td><td>25 written from zero</td><td>Book 1 was the only book without them. Now complete, plus a chapter skeleton derived from them rather than imposed on them</td></tr>
+        <tr><td class="n">Stale flags</td><td>19 craft items</td><td>8 of 11 Book 1 flags were stale. One pointed at the best passage in chapter 25 and nearly got it deleted</td></tr>
+        <tr><td class="n">Book 2</td><td>8 chapters touched</td><td>The first editorial changes ever applied to it — about 65 words removed, ten added, nothing structural</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="col">
+    <h3>Things I got wrong</h3>
+    <p>Two structural cuts proposed and both wrong in the same direction, which is what produced the rhythm rule. An alibi accidentally written into Xion's ch1 ending that converted a freeze into a constraint — the exact thing his character cannot be given. A ribs scene read as a diagnosis when it was built as a romance that gets ruined. A whole Warrens economy read as a ledger when the point is that <em>only Xion keeps ledgers</em>, and everyone else is just frightened and helping anyway.</p>
+    <p>And, at the very end, reporting an open question about Janice's eyesight that had been settled and written into Book&nbsp;3 — the precise failure the session had spent all day correcting in other people's flags, committed by the person correcting them.</p>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="evidence">Verdict</p>
+    <h2>What the old draft was actually good at</h2>
+    <p>It covered more ground. Twenty chapters reach the coronation by chapter 17 and then keep going — three further chapters of aftermath, a Remembrance ceremony, a cartel regrouping. That material is not lost; it became Book 2, and Book 2 is the better half of the series.</p>
+    <p>And it knew what the story was about. The imbalance, the manufactured scarcity, the healer who is also the son of the man causing the wounds — all of that is on the first page of the old chapter one. What it did not yet know was that a book has to <em>be</em> somebody. It kept stepping back to explain what it had just shown, which is a form of not trusting the reader, and it kept leaving Xion to go and look at something more interesting.</p>
+    <p>Nothing more interesting than Xion was ever found. That is the whole finding, and it took twenty chapters and seventy-one thousand words to establish it, which is exactly what a discarded draft is for.</p>
+  </div>
+</section>
+
+<footer>
+  <p><strong>Sources.</strong> <code>TGMS - OLD/</code> is non-canon and was read for this document only. Nothing in it is cited as continuity, and nothing in it was reconciled against the books.</p>
+  <p>Counts are from the current text: 20 chapters / 71,391 words against 25 / 61,885.</p>
+</footer>
+</body>
+</html>
