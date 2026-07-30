@@ -1224,3 +1224,36 @@ footer added naming what happened so the next reader can see it.
 
 **Status: nothing outstanding in either book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied.
+
+---
+
+## 2026-07-29 — the retrospective revised against the merged text
+
+`TGMS - OLD/Retrospective.html` was written on the cloud branch and shipped before four chapters were
+rewritten on the other line. It is non-canon and cannot hurt the books, but it is a **statistics
+document, and its statistics had gone wrong** — which is the same failure as a craft flag outliving
+its problem, in a form that looks more authoritative.
+
+**Recomputed:** total 61,885 → **61,723**; mean 2,475 → **2,469**; chapter range 1,453–3,758 →
+**1,214–3,780**; dynamic range **2.6× → 3.11×**; Book 2 chapters touched 8 → 9; endings cut 13 → 14.
+All twenty-five chart bars regenerated (heights are words ÷ 4,595, the old draft's longest chapter).
+
+**Three claims were wrong rather than merely stale.** *"Exactly one deliberate widening of the lens"*
+— there are two, and ch12's *"Somewhere far below all of it, a twelve-year-old boy was working in the
+dark"* is the other; this was wrong the day it was written. The weather-opening count said four and
+the honest count is five (ch6, ch12, ch15, ch23, plus ch8's fever), with ch17 a sixth that earns it.
+And Janice's over-weighting was described as *"275 words of description against 90 of speech"* when
+the measurement was her **dialogue** at 275 against Xion's 90.
+
+**The chapter 8 section was rewritten, and it is a better anecdote now.** It presented ch8 as a
+chapter saved from cutting by the rhythm rule — true — and did not know the chapter was then rebuilt
+1,906 → 1,214. The page now says both: the rhythm rule saved it and did not settle it, the reviewer's
+duplicate-of-ch6 framing was simply wrong, and what was actually wrong was delivery.
+
+**Two sections added.** *What actually changed* covers only one of the two parallel sessions; it now
+has rows for the four rewrites, the ch19–20 descent, and the merge itself. *Things I got wrong* gains
+the ch22 beat draft that contradicted its own footer — and this page, which shipped with a headline
+figure wrong by twenty per cent.
+
+A maintenance note is in the file's HTML comment listing every number that goes stale if Book 1 is
+edited again. **The published artifact copy is the pre-revision version and carries the old figures.**
