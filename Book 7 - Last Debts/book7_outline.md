@@ -139,6 +139,26 @@ Rosik turns a corner that, by his model, should have been clear for another twen
 
 He dies at the end of an Arol Batae spear. Not in a dramatic confrontation with his son. Not in a battle of wits with Tiberian. Not even face-to-face with anyone who knows his name. An Arol Batae warrior — one of the desert people who raised Elara, who protect the Ruby Throne through loyalty rather than leverage — puts a spear through him the way they would put a spear through any intruder. No speech. No final words. No recognition of who he was.
 
+### The last patient
+
+*(Added 2026-07-30, overriding the original version in which Xion and Rosik never interact at all. The reasoning is in `Series Review - Master List.md` §2 and the revised structural note below.)*
+
+**The spear does not kill him outright, and the guards do not want it to.** They have an unidentified intruder who got through two perimeters during a crisis, and they want him alive to question. So they carry him to the nearest person who can keep a man breathing, which is the Emperor Consort. **Nobody in that corridor knows who they are carrying.**
+
+Xion is brought a body. He does not go looking for one, and that distinction is load-bearing: the moment he seeks Rosik out he has *intent*, and intent converts a compulsion into a demonstration. **The wound arrives in front of him and the other thing takes over before he has decided anything**, exactly as it has since B1 ch18.
+
+Then he sees whose body it is, and works on him anyway.
+
+**He asks the man's permission first** — *Can I have a look?* — which is the eighth-book instance of a first-chapter habit, and which hands Rosik the choice Rosik never gave Mira Fen. Rosik does not consent and does not refuse. **He has no idea what the question is.**
+
+**And that incomprehension is structural, not moral.** In Rosik's architecture a faculty is an instrument you pick up and use; using one on the man who came to kill you does not compute. He has no category for being *seized* by one. **He is missing a faculty, not a virtue** — and the scene must never be staged as a limited man failing to recognise nobility.
+
+**Xion fails.** Rosik dies without understanding why his plan came apart and without understanding why the man he came to murder knelt down beside him. **No moment of realisation about either.** Nobody explains anything to anybody, then or afterward.
+
+**Melina is there**, because the patrols she ordered are what put the spear in him, and she came to see what they caught. She watches her father try to undo her own order. **Elara is there and does not intervene** — she tried to absolve Xion once, twenty years ago, and watched it fail without understanding why, and she is the only person in that corridor who knows exactly what she is looking at.
+
+**Keep it short.** The moment this scene is given room to breathe it becomes the confrontation the original outline was right to forbid. Its whole discipline is that the reader expects a reckoning and gets a medical procedure, conducted almost in silence, by a man who asks one question and receives no answer.
+
 What he does not know — what he will never know — is that the woman whose order killed him is named after the daughter he failed to protect. Melina Valanar, niece-by-name to the aunt Rosik's own decisions killed twenty years ago, makes the call that ends him. The Kemvimore-line failure that began with Rosik unleashing Ronas's lieutenants is closed by Rosik's grand-niece-by-name acting decisively under partial information — exactly the lesson she paid for in the Warrens.
 
 The Competitor's final contest ends not with defeat but with irrelevance. He did not lose to a better opponent. He was defeated by the variables his model could not include — a patsy whose body failed an hour too soon, and an analyst who acted on instinct before all the data was in. The body of meat and the mind willing to commit. Both the things he never quite trusted, killing him together.
@@ -171,11 +191,31 @@ The next generation can build the future instead of managing the past.
 
 **Rosik's death scene:** The anti-climax is the point. The man who reorganized rooms by his mere presence is killed by someone who didn't know his name. This is not unsatisfying — it's the truest possible ending for a man who was always more important in his own narrative than in anyone else's. The Competitor's final loss isn't to a better Competitor. It's to two variables his model could not include: a patsy's cardiovascular system failing too fast, and an analyst willing to act on insufficient evidence before the analyst's own father would have.
 
+**And the coda sharpens that rather than softening it.** Being killed by a stranger says he was less significant than he believed. Being *handled*, in his last minutes, by the son he came to murder — with professional, impersonal competence, as a body indistinguishable from any other body — says it harder. **Xion does not treat him as a father or as an enemy. He treats him as a wound.** That is the original thesis delivered at higher pressure, which is the only reason the addition earns its place.
+
 **The two deaths as counterpoint:** Kalden dies because reality finally caught up to his delusion — his body couldn't sustain the lie anymore. Rosik dies because the model he trusted was defeated by exactly the kind of human variable he spent his life refusing to model. One dies from the inside out, undone by his own body. The other from the outside in, undone by the bodies and minds of others.
 
 **The causal chain:** Kalden's stroke kills Rosik as surely as the Arol Batae spear does. The two-minute battle produces an anomalous report; the anomalous report triggers Melina's decision; Melina's decision elevates patrols; the elevated patrols put a spear in Rosik's path. Rosik never learns this. He dies still trusting the model. The reader sees the chain that he doesn't, which is the appropriate final cruelty for a strategist who weaponized other people's blindness.
 
-**Xion's role:** Xion is NOT the one who defeats Rosik. This is critical. The father-son confrontation that the reader might expect — and that Rosik certainly planned for — never happens. Rosik never reaches Xion. He dies in the attempt. The denial of the dramatic confrontation is itself the statement: Rosik's war with his son ended years ago, in Book 2. Everything since has been a dead man walking toward a conclusion he already reached.
+**Xion's role — REVISED 2026-07-30.** Xion is still NOT the one who defeats Rosik, and that part is
+critical and unchanged. Melina's order kills him; an Arol Batae spear does the work; Xion has no hand in
+it whatsoever. **The father-son confrontation the reader expects still never happens** — there is no
+reckoning, no battle of wits, no recognition scene, and nothing is settled between them. Rosik's war with
+his son ended in Book 2, and everything since has been a dead man walking toward a conclusion he already
+reached.
+
+**What changed is that they are now in the same room for four minutes at the end**, and Xion spends them
+working. *The original version had them never interact at all.* The override was made deliberately, on one
+argument: **B1 ch22 is otherwise never collected.** Xion's most expensive speech in the series —
+*healers aren't judges… my father decided Mira didn't deserve to live, so no, I won't make those
+judgments* — is said **about Rosik specifically**, and never plant what isn't paid. Nothing else in eight
+books calls that debt.
+
+**The denial is still the statement; it is simply a different denial.** The reader is set up for a
+reckoning and gets a medical procedure. **Guard it with brevity and with Xion's silence** — he says one
+thing to his father, and it is a request for permission. If the scene ever runs long enough to breathe,
+or if anyone in it says what it means, the original version was better and this one should be cut back
+to it.
 
 **Tiberian and Melina's culmination:** This book represents the fullest expression of their mature partnership — but the maturity is *specialization*, not blurring. Tiberian rides out because that is who he is; what Silaris taught him was not to wait but to charge with planning, infrastructure, and Kai underneath the charge. Melina holds the city because that is who she is; what the Warrens taught her was not to hesitate but to act on partial intelligence when the data demands it. Each plays to their strongest form rather than trying to be the other. And it is Melina's call — increase patrols, act before all the data is in — that ultimately kills Rosik. The grand-niece-by-name to the aunt Rosik's decisions destroyed in Book 2 closes the loop her father couldn't.
 

@@ -474,7 +474,7 @@ he reached his target. **A later pass will be tempted to read the farce as evide
 botch. It was not.** Rosik reasoned correctly from twenty years of data and was beaten by a heart.
 
 **He goes in blind, and this is the correction that matters most.** He is inside the capital and the
-battle is four days' ride away. **He cannot know Kalden is dead.** He knows the plan is in motion, so he
+battle is out of sight beyond the walls and his network is spent. **He cannot know Kalden is dead.** He knows the plan is in motion, so he
 continues. His craft reads the building — guard posture tightening, a corridor no longer thin — so he
 knows conditions have worsened; **it cannot tell him why**, and for all he knows this is a lull inside a
 campaign still running. He reads a bad hour. It is the end.

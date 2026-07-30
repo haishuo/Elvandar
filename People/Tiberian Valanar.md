@@ -191,11 +191,11 @@ He has his father's compassion and his mother's fury. Both parents encouraged hi
 
 ### What he takes from his father's last patient (Book 7 — planned, not written)
 
-**He does not see it.** He is days away at the Balishan border, where he has just intercepted Kalden, when Melina's message reaches him — *attempt*, outcome unknown. He takes the fastest horse and rides ahead of his own column, and it accomplishes nothing: he arrives after Rosik is dead and his sister has to tell him what happened. **He would do it again tomorrow.** That is the point of it — the ride is the same reflex his father has run since Book 1, *he went anyway*, aimed at a different object and producing the same result. He does not need to be different from Xion here; he needs to be the same.
+**He does not see it.** He is in the field beyond the walls, where Kalden has just died in front of him, when Melina's word reaches him — *attempt*, outcome unknown. He takes the fastest horse and rides ahead of his own column, and it accomplishes nothing: he arrives after Rosik is dead and his sister has to tell him what happened. **He would do it again tomorrow.** That is the point of it — the ride is the same reflex his father has run since Book 1, *he went anyway*, aimed at a different object and producing the same result. He does not need to be different from Xion here; he needs to be the same.
 
 Briefed on what his father did, he reads it as confirmation of the thing he has believed since he was
 small: **dad always knows the right thing to do.** He asks whether he could have done it and decides he
-does not know — **and he is not asking from outside.** He has just spent four days proving he owns the
+does not know — **and he is not asking from outside.** He has just ridden back at a pace that nearly killed the horse, proving he owns the
 same engine. What he is really asking is whether he could have pointed it at *the man who came to kill
 his father*, and the answer is no, and that is why it lands as awe rather than as distance.
 

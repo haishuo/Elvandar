@@ -1746,3 +1746,52 @@ that failure, because it makes the incomprehension a fact about how he is built 
 what he is worth.
 
 Recorded in §2, and on the Rosik and Xion sheets.
+
+---
+
+## 2026-07-31 — the Book 7 beat reconciled against the book's own outline
+
+**A process failure first, because it is the largest of the session.** `Book 7 - Last Debts/book7_outline.md`
+is 187 lines, detailed, and predates everything recorded here. **The reviewer never read it** and spent
+several turns recording a Book 7 sequence into §2, the series outline and six character sheets while
+reasoning from a one-paragraph summary. **Books 4 through 8 each have their own outline and none of them
+had been read.** This is precisely the failure the whole session has been correcting — trusting a
+document, or one's own reasoning, without checking the source — and it produced a real error: **"four
+days' ride" was invented by the reviewer**, written into five documents, and then reasoned from by the
+author. The canonical figure is *the better part of a day*, and the engagement is *well clear of Kaha'an's
+walls*, not at the frontier. Corrected in nine places.
+
+**The author knew the outline said otherwise and was overriding it deliberately**, which the reviewer did
+not know while advocating for it. The comparison was therefore made properly for the first time only after
+the file surfaced.
+
+**Author's ruling: the beat goes in, and the outline's structural note is rewritten rather than left
+standing.** The original said *"Rosik never reaches Xion… the denial of the dramatic confrontation is
+itself the statement."* The override rests on one argument: **B1 ch22 is otherwise never collected.**
+Xion's most expensive speech — *healers aren't judges… my father decided Mira didn't deserve to live* —
+is said **about Rosik specifically**, and nothing else in eight books calls that debt.
+
+**The two positions conflicted less than they appeared to, because they govern different moments.** The
+outline's thesis is about how Rosik is *killed* — anonymously, mid-model-failure, by a warrior who does not
+know his name — and the beat does not touch that. It adds a coda to the *dying*. And the coda sharpens the
+original thesis: **being handled in your last minutes by the son you came to murder, with professional
+impersonal competence, as a body indistinguishable from any other body**, says *you were never as
+significant as you believed* harder than being killed by a stranger does. Xion treats him as a wound, not
+as a father and not as an enemy. **The denial is still the statement; it is simply a different denial** —
+the reader is set up for a reckoning and gets a medical procedure. Guarded by brevity and by Xion's
+silence, and the revised note says outright that if either slips, the original version was better.
+
+**What the outline had that the recording did not, and which is better.** **Melina's order is what kills
+Rosik** — patrols raised on partial intelligence after a field report that came back too fast to make
+sense — and that is her designed culmination, closing a loop with the aunt she is named for. So she is not
+in that corridor by proximity: **she comes to see what her patrols caught and finds her father trying to
+undo her own order.** Also recovered: the guards carry Rosik to Xion **because they want an unidentified
+intruder alive to question**, which supplies the no-intent requirement for free, and Kess Ashwood and Kai
+Issamil are in the field with Tiberian.
+
+**Also already written there, better than the reviewer's versions:** Rosik reading the patrol cadence and
+getting *no answer that fits*; and going forward anyway because *stopping would mean sitting still with the
+loss.*
+
+**§2 now opens by naming `book7_outline.md` as the authority for the book**, so the next reader starts
+there instead of repeating this.
