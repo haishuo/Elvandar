@@ -65,4 +65,4 @@ The one thing worth a line-level look, independent of the scene: *deliberate cru
 
 **On the plant that matters most:** the notice board is what makes ch12's dock worker, ch13's quotas and the whole indenture apparatus legible without further explanation, and it is the origin of Elara's interest in what the cartels write down — which she first tested on Xion in ch5's ledger question and will pursue for the rest of the series.
 
-**On rhythm:** 1,453 words, **the shortest chapter in the book**, third of the four-chapter quiet stretch, and the courtyard note above is the operative form of this. The chapter is small because ch7 opens on Xion collapsing with a fever; the notice board's blow and an illness must not be adjacent. Check this profile before proposing any cut here.
+**On rhythm:** 1,459 words, **the shortest chapter in the book**, third of the four-chapter quiet stretch, and the courtyard note above is the operative form of this. The chapter is small because ch7 opens on Xion collapsing with a fever; the notice board's blow and an illness must not be adjacent. Check this profile before proposing any cut here.

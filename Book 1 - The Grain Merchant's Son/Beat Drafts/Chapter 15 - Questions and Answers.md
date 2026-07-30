@@ -85,4 +85,4 @@
 
 **On Elara's position, which is not wrong:** she is twenty, she watched a child taken, and she has just learned the man beside her has been repairing the people who do the taking. The chapter gives her the weaker argument and the better grievance, and the imbalance is deliberate — she loses on logic and is not answered on substance. Do not let a revision give her a better case here. The point is that she cannot argue it and cannot let it go.
 
-**On rhythm:** 3,186 words, the third of four consecutive chapters over 3,100. This is the deepest part of the descent and the chapters are meant to run long and continuous. The chapter also has almost no physical action after the Slaver stand-down, which is correct — ch14 was violence, ch16 is a heist, and ch15 is the one where the danger is entirely social.
+**On rhythm:** 3,187 words, the third of four consecutive chapters over 3,100. This is the deepest part of the descent and the chapters are meant to run long and continuous. The chapter also has almost no physical action after the Slaver stand-down, which is correct — ch14 was violence, ch16 is a heist, and ch15 is the one where the danger is entirely social.

@@ -61,4 +61,4 @@
 
 **On the fever as a POV instrument:** he is unreliable for most of this chapter and that is a licence the book should use rather than apologise for. Sounds too loud, colours too bright, distance and immediacy at once. It is also why he tells her as much as he does, and why the chapter can be warm without either of them deciding to be.
 
-**On rhythm:** 1,977 words, just above the ch1–8 mean and near-identical to ch8's 1,898. These two are the last chapters before the plan that destroys everything, and ch7 is the one where nothing external happens at all — a fever and a conversation. That is the point. Ch9 then nearly doubles the movement's length and the book never comes back down to this register.
+**On rhythm:** 1,980 words, just above the ch1–8 mean, and ch8 immediately after it drops to 1,214 — the steepest step down in the opening movement. These two are the last chapters before the plan that destroys everything, and ch7 is the one where nothing external happens at all — a fever and a conversation. That is the point. Ch9 then nearly doubles the movement's length and the book never comes back down to this register.

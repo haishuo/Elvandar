@@ -81,4 +81,4 @@ And it is not a debt discharged. Ronas's own framing is that Varris never spoke 
 
 **On the ending, which is a recurrence that moves.** Xion counted thirty-one minutes in ch17 because counting was all he was good for. He counts stairs here while carrying the person he was good for and cannot save. Same man, same gesture, different position — that is the difference between recurrence and repetition. There is no third instance and there must not be one.
 
-**On rhythm:** 2,964 words after ch17's 1,670. The contraction snaps and the chapter re-expands into the longest single scene of consequence in Act III. Ch19 runs 2,427 and drops the floor out again, so this is the last chapter in the book where anything goes according to a plan.
+**On rhythm:** 2,974 words after ch17's 1,680. The contraction snaps and the chapter re-expands into the longest single scene of consequence in Act III. Ch19 runs 2,427 and drops the floor out again, so this is the last chapter in the book where anything goes according to a plan.

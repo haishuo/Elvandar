@@ -61,4 +61,4 @@
 
 **On Farleen's non-argument, the chapter's quietest plant and its most important:** everything about it must read on a first pass as loyalty, and nothing in the staging may lean on it. She is the only person in the room whose behaviour is fully explained by the next chapter.
 
-**On rhythm:** 1,855 words. Ch3 and ch4 are a pair — the deduction and its price — and ch4 runs 2,029, so the two read as one accelerating unit inside the compressed opening movement. Do not lengthen ch3 to give the reasoning more room; the speed of the elimination *is* the characterisation, and the chapter's brevity is what makes ch4's cost land.
+**On rhythm:** 1,860 words. Ch3 and ch4 are a pair — the deduction and its price — and ch4 runs 2,035, so the two read as one accelerating unit inside the compressed opening movement. Do not lengthen ch3 to give the reasoning more room; the speed of the elimination *is* the characterisation, and the chapter's brevity is what makes ch4's cost land.

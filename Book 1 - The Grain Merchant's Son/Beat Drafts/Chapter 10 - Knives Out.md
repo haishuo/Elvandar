@@ -63,7 +63,7 @@
 
 ---
 
-**On where this sits and why it is long:** ch9 and ch10 are the two longest chapters in the first half, 3,700 and 3,100 against an eight-chapter opening movement averaging under 1,900. Then ch11 collapses to 1,776. That expansion-and-collapse is the book's largest structural gesture so far, and the ball only reads as an event because the preparation was allowed to take up room. **Do not compress either half of it.**
+**On where this sits and why it is long:** ch9 and ch10 are the two longest chapters in the first half, 3,700 and 3,100 against an eight-chapter opening movement averaging under 1,900. Then ch11 collapses to 1,724. That expansion-and-collapse is the book's largest structural gesture so far, and the ball only reads as an event because the preparation was allowed to take up room. **Do not compress either half of it.**
 
 **On the failure, which must not read as a lapse in discipline:** every drill in ch9 works. She takes the coded insult, she holds her eyes through the servant story, she survives a direct probe from the most dangerous woman in the room, and when the Hunt comes up she produces a genuinely excellent line in exactly the register she was taught. **She does not fail at the training. The training is not the relevant instrument.** What breaks her is that she is standing in a room where hunting human beings is a scheduling question, and there is no version of the preparation that covers it. This is why the moment lands as horror rather than as a mistake, and it is why beat 21 must give her the line and let it work for one heartbeat before the eyes are noticed.
 
@@ -73,4 +73,4 @@
 
 **On the escape geography, planted in ch9:** the eastern wall was set up two chapters earlier precisely so it is not produced from nowhere mid-flight. Keep both ends.
 
-**On rhythm:** 3,139 words, the second half of the largest block in the first half of the book: ch9 and ch10 together run 6,834 words, more than the whole of ch1–5. Then ch11 drops to 1,776. **Long-then-short is this novel's signature for a disaster and its aftermath** and it is used three times — ch9–10 into ch11, ch16 into ch17, and ch18–19 into ch20. Keep the pattern legible.
+**On rhythm:** 3,142 words, the second half of the largest block in the first half of the book: ch9 and ch10 together run 6,840 words, more than the whole of ch1–5. Then ch11 drops to 2,069. **Long-then-short is this novel's signature for a disaster and its aftermath** and it is used three times — ch9–10 into ch11, ch16 into ch17, and ch18–19 into ch20. Keep the pattern legible.

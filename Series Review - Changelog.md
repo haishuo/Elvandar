@@ -1285,3 +1285,58 @@ chapters actually do"*) as though it were the general one; it now says the skele
 the **drafts**, once a book has a full set, and that a beat-draft change carries its skeleton entry
 with it. It is the last document in the chain and the first to go quietly wrong, because nothing
 downstream complains when it drifts.
+
+---
+
+## 2026-07-30 — Book 1's beat drafts reconciled to the prose
+
+The first application of the new rule, and under Book 1's inversion: the page is the source, so a
+Book 1 draft that disagrees with its chapter is stale and gets corrected to match.
+
+**Five drafts were materially wrong**, all of them describing chapters rewritten on the other line
+after the drafts were built.
+
+- **ch8 — rebuilt from nothing.** Every beat described the superseded chapter: three fountains
+  (decorative, cultivated, recreational), a dead emperor with an urn, noble children swimming, a long
+  middle conversation, and a closing look back at the great fountain. None of it exists. The chapter
+  is now the water-discipline walk, the arch and its ledger, the man turned away for Tuesday, the name
+  spent on a convenience, Elara's charge, one fountain in forty words, and *what do I wear?* The
+  footer's **do-not-thin instruction is void** — it was written about a 1,906-word version — and the
+  rhythm lesson under it was kept and corrected.
+- **ch11 — the confession was absent.** The draft had Elara accusing *herself* and Xion talking her
+  out of it; the page has him volunteering what he had not told anyone in three weeks, and her
+  refusing to let him off. Ten beats added, including *he left it shut* — the one gift he accepts in
+  two books — and the ending footer rewritten, since the theme is no longer named by anyone.
+- **ch19 — the rungs were in the wrong order and the spine was missing.** Rebuilt as the five-rung
+  descent, with the medical rung (the ch18 forehead gesture returning to mean the opposite) written in
+  as the chapter's spine and the first break of the consent guardrail.
+- **ch20 — the fight was the old shouting match.** Three beats deleted and six written: Farleen cold
+  rather than loud, Elara conceding at once, and *can you stop me? / no / neither can I* ending the
+  argument without settling it.
+- **ch22 — the sentencing was still offstage.** The draft had Rosik's two words arriving while Xion
+  was unconscious. **He is present, his father waits until he is through the door, and he steps out of
+  the way** — which is what sources the quote he carries for the rest of the series. Four beats
+  rewritten and a footer added.
+
+**Fifty-five word-count figures were audited and twenty-eight corrected.** Most were sub-1% drift, but
+several pointed at rewritten chapters, and three were substantive errors rather than drift:
+
+- ch9's draft called it *the longest chapter in Book 1.* **ch23 is longer, and always was** — this was
+  wrong on the day it was written. Now *the longest chapter until ch23*.
+- ch23's draft called itself *the third-longest.* It is the longest. ch22's cross-reference agreed with
+  the wrong version and is corrected.
+- ch25's draft claimed *the book's only deliberate widening of the camera.* There are two; ch12's
+  closing line is the other, and it is author-confirmed. The same error was in the retrospective.
+
+**One automated repair introduced an error and was caught.** A matcher assigned ch11's old figure of
+1,776 to ch20 (1,724) because they were within tolerance, and wrote it into two drafts as a
+cross-reference to ch11. Corrected to 2,069. *Recorded because it is the exact failure this pass
+exists to fix, committed by the pass fixing it* — the third time in three days a tool has been trusted
+over the page.
+
+**House calibration.** The rebuild of ch8 came in at 32 bold spans and 8% quotation against a corpus
+that runs 10–20 and 0–4% — a condensed transcript, the documented failure mode, reproduced verbatim.
+Measured against all twenty-five drafts and cut back. **All twenty-five are now inside corpus range.**
+
+**Still outstanding from this pass:** `book1_chapter_skeleton.md`, whose ch8 entry still describes the
+three fountains and which inherits from the drafts corrected here.
