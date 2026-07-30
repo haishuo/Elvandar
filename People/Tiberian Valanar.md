@@ -188,6 +188,20 @@ He has his father's compassion and his mother's fury. Both parents encouraged hi
 
 ---
 
+
+### What he takes from his father's last patient (Book 7 — planned, not written)
+
+Tiberian watches Xion try to save Rosik Kemvimore — the man who came to kill his father — and reads
+it as confirmation of the thing he has believed since he was small: **dad always knows the right
+thing to do.** He asks himself whether he could have done it, decides he does not know, and concludes
+that this is what makes his father what he is.
+
+**He is wrong, and nobody corrects him.** It is not a moral achievement. It is a compulsion assembled
+at fifteen out of a dead apothecary and never once revised, and Xion has never in eight books been
+able to describe it as a choice. **Tiberian is reading a wound as a virtue** — which is what sons do,
+and which is the whole reason the scene is worth writing. Do not resolve it. No character explains it
+to him, and Xion least of all.
+
 ## Personal Characteristics
 
 ### Physical Presence

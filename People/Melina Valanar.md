@@ -192,6 +192,18 @@ She has never asked her father directly about the name. She doesn't need to, and
 
 ---
 
+
+### What she takes from her father's last patient (Book 7 — planned, not written)
+
+Melina watches the same act her brother does and takes the opposite lesson from it. Truth Seeker →
+Engineer: what she sees is a man doing something **with no weighing in it at all** — no capacity
+assessment, no cost, no legal basis, none of the questions she would have asked — and doing it anyway,
+and failing. She is the one whose near-ruin in Book 6 was that endless analysis is its own kind of
+cowardice.
+
+**Same act, two children, two irreconcilable readings**, and neither of them is simply right. That is
+the family's fault line drawn in a single image, and it should stay undecided.
+
 ## Personal Characteristics
 
 ### Physical Presence

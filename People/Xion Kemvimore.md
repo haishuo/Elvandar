@@ -333,6 +333,17 @@ Quiet, reserved, practical. Kael's Iron cartel connections provide muscle and le
 
 ---
 
+
+### The last patient (Book 7 — planned, not written)
+
+**He treats Rosik.** His father comes to kill him, takes an Arol Batae spear, and Xion works on him
+and fails. It is not forgiveness and not belief — it is the ch22 position collected: *healers aren't
+judges… we treat the wound in front of us*, which he said **about Rosik**. **He asks permission
+first.** Nobody praises him for any of it, then or later. The scene is not about the contrast between
+the two men, and if it ever reads as Xion being visibly noble while his father is too limited to
+understand, it has become the one thing this series has refused for seven books. Full constraints in
+`Series Review - Master List.md` §2.
+
 ## Personal Characteristics
 
 ### Physical Presence

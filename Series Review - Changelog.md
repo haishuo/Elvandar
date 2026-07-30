@@ -1401,3 +1401,50 @@ a working document invites exactly the theme-chasing that ranks last in the hier
 > - Divine sanction means nothing without the will to act
 
 *(Its timeline line said "~3-4 weeks"; the canonical figure is 21 days. The skeleton is authoritative.)*
+
+---
+
+## 2026-07-30 — the Book 7 Rosik beat recorded as a cross-book thread
+
+**Author's beat, filed as constraints rather than staging.** Xion finds Rosik dying and works to save
+him — the man who came to kill him — fails, and Rosik dies without understanding why anyone would. It
+is not forgiveness and not belief. It is the collection of B1 ch22, where Xion says *healers aren't
+judges… we treat the wound in front of us* and says it **about Rosik**: *my father decided Mira didn't
+deserve to live.* Never plant what isn't paid, and nothing else in the series pays that.
+
+**He asks permission** — *Can I have a look?* — the eighth-book instance of a first-chapter habit and
+the last test of the consent thread. It also hands Rosik the choice Rosik never gave Mira, who left
+the east hall on two words with nobody's leave asked. No dialogue decodes it.
+
+**Two structural findings, and the first one settles the beat's central risk.**
+
+*Book 7's POV is Tiberian and Melina.* The outline declares the shift at Book 5 and never restates it;
+Book 8 changes it again, so the next-generation trilogy carries it. **Xion therefore has no interiority
+available in Book 7**, which means the scene can only exist as something witnessed — and the risk that
+worried the review, that Xion might read as knowing he was being admirable, cannot arise, because the
+reader never gets inside him. The author's instinct to involve the children was not an addition to the
+beat; it is the only form the beat can take.
+
+*The choreography does not currently allow it.* The outline has Kalden finding Tiberian while Rosik
+goes for Xion, and has the spear simply kill Rosik. Both need adjusting: the spear must wound, and a
+child must be within reach of that room. Flagged in the outline itself so nobody plans a clean kill.
+
+**What it does to the children, which is the reason to write it.** Tiberian reads it as confirmation
+that his father always knows the right thing to do, asks whether he could have done it, and concludes
+he does not know and that this is what makes his father what he is. **He is wrong and nobody corrects
+him** — it is not a moral achievement but a compulsion assembled at fifteen out of a dead apothecary,
+which Xion has never once been able to call a choice. **Tiberian is reading a wound as a virtue**, and
+that misreading is the beat's whole value. Melina, Truth Seeker → Engineer, sees the opposite: a man
+acting with no weighing in it at all, and she is the one whose Book 6 near-ruin was that endless
+analysis is its own cowardice. Same act, two children, two irreconcilable readings, left undecided.
+
+**Recorded in four places, split by job.** `Series Review - Master List.md` §2 carries the thread and
+the full constraints; `People/Xion Kemvimore.md`, `People/Tiberian Valanar.md` and
+`People/Melina Valanar.md` each carry the guardrail a drafting pass would need; the outline carries
+the blocking note.
+
+**And a fabricated citation was found and corrected in the same pass.** §2's silence test table
+attributed *"She deserves the truth, not silence."* to B1 ch8. **That line exists nowhere in the
+prose** — it was a paraphrase presented as a quotation, and it had been sitting in the register being
+cited as evidence. Replaced with what ch8 actually says: *"I couldn't."* answered by *"You just did."*
+The verdict the row records was right; only the quote was invented.

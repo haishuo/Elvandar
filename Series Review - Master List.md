@@ -82,7 +82,7 @@ These are the spine. Each is already working; each could be broken by an unwary 
 |---|---|---|
 | Mira, at fifteen — B1 ch22 | terrified of his father, and it would have changed nothing | *"I didn't even try."* |
 | Tam, in the square — B1 ch1 | speaking ends Master Fen and eight years of work | *"I could have saved him then and worked the clinic out later."* |
-| Elara, at the gate — B1 ch8 | he still can't tell her what he is | *"She deserves the truth, not silence."* |
+| Elara, at the gate — B1 ch8 | he still can't tell her what he is | *"I couldn't."* — and she answers *"You just did."* |
 | Rosik's study — **B2** ch5 | Rosik feeds on arguments; it would move nothing | **he agrees** |
 | The disinheritance — **B2** ch16 | the same | **he agrees** |
 
@@ -178,6 +178,24 @@ standing invitation — *if you ever figure out what you are, find me* — with 
 the oldest open question any faction in the series has, it is held by somebody who is neither ally nor
 antagonist, and it is aimed at the one thing Elara cannot supply. Do not let a revision convert the
 Mistress into a mentor, a patron, or an enemy; her whole position is that she is *waiting*.
+
+**The wound in front of him — B1 ch22 planted, Book 7 collects.** *Planned, not written. Constraints only; the staging belongs to Book 7's beat drafts.*
+
+In ch22 Xion says, at the top of his voice, that healers are not judges, that they do not decide who is worthy of care, that they treat the wound in front of them — **and he says it about Rosik**: *my father decided Mira didn't deserve to live. Two words and she was gone. So no — I won't make those judgments.* That is a plant, and the outline puts Rosik on the ground in front of him in Book 7, dying of an Arol Batae spear, having come there to kill him. Xion works on him. It is not forgiveness and it is not belief; it is the only thing he has ever been able to do with a body in front of him. **He fails.**
+
+**He asks permission.** *Can I have a look?* — the eighth-book instance of a first-chapter habit, and the last test of the consent thread above. It also hands Rosik the choice Rosik never gave Mira, who went out of the east hall on two words with nobody's leave asked, and **no line of dialogue may decode any of that.**
+
+**Rosik's failure to understand is an action, not a speech.** He does not consent and does not refuse, because he does not know what the question is. He gets no epiphany, no softening and no explanation of himself — that is the Rosik guardrail and it holds to the last page of him.
+
+**The scene is not about the contrast, and this is the one way to ruin it.** The guardrail is explicit that the difference between the two men is *not capability and not virtue* but the fault line. A scene in which Xion is visibly noble and his father is too limited to see it is the moral framing this series has refused for seven books. **Nobody may praise him for it, in the moment or afterward.**
+
+**Book 7's POV enforces that for free, and this is why the beat is possible at all.** Book 7 belongs to Tiberian and Melina — the outline declares the shift at Book 5 and Book 8 changes it again, so the next-generation trilogy carries it. **Xion has no interiority available in Book 7**, so the scene can only be witnessed. The reader never learns what he thought he was doing, and the question of whether he knew never arises.
+
+**What it does to Tiberian, who is the reason to write it.** He reads it as confirmation of the thing he has believed since he was small — that his father always knows the right thing to do — and asks himself whether he could have done it, and concludes he does not know, and that this is what makes his father what he is. **He is wrong, and nobody corrects him.** The reader has read Book 1 and knows what Tiberian does not: this is not a moral achievement, it is a compulsion assembled at fifteen years old out of Mira and never once revised. **Tiberian is reading a wound as a virtue.** That misreading is the beat's whole value and it must not be resolved — no character explains it to him, and Xion least of all, since Xion has never been able to say it about himself.
+
+**Melina sees a different thing, and hers is the sharper one.** Truth Seeker → Engineer: she watches a man do something with no weighing in it whatsoever, and she is the one whose Book 6 near-ruin was that endless analysis is its own cowardice. Same act, two children, two irreconcilable lessons — which is the family's fault line drawn in one image.
+
+**Blast radius, flagged and unresolved.** The outline has Kalden finding Tiberian while Rosik goes for Xion, so the choreography must put a child in reach of that room, and **the spear must wound rather than kill outright.** Both are Book 7's to solve; recorded here so nobody plans a clean kill and leaves the beat nowhere to happen.
 
 **The two sights.** Mira gave him the healer's eye; Rosik gave him the geometry. B2 ch11–12 has him partition them deliberately and use his father's on purpose for the first time (*"that one was Mira's… he would not drag it down into this"*). The inheritance is tracked, not blurred — keep it that way.
 
