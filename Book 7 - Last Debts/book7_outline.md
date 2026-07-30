@@ -40,7 +40,51 @@ Rosik finds Kalden and reads him in seconds: a broken man with resources (mortga
 
 This intelligence-gathering came at a price. Rosik burned his entire Kaha'an network getting it. Every contact, every coin, every favor accumulated across thirty years went into reading the city. He arrives for the actual infiltration with no operational support whatsoever — no sabotage cells to activate, no informants to coordinate, no fallback assets. Just the knowledge, a blade, and the skills the Long Knives taught him forty years ago.
 
-Kalden is the useful idiot. The loud, angry, delusional front man. Rosik doesn't care whether Kalden wins or loses — he only needs him to *last*. An hour. Maybe two. Enough field engagement time for Tiberian and Kess and the Arol Batae contingent to be committed somewhere Rosik isn't. After that, Rosik doesn't care if Kalden dies in the field; in fact, he probably will. Rosik also has no illusions about his own survival. He expects the Arol Batae to descend on him like locusts the moment the deed is done. He has accepted this. He cares about killing the son who destroyed him, and there is nothing else left to want.
+Kalden is the useful idiot. The loud, angry, delusional front man. Rosik doesn't care whether Kalden wins or loses — he only needs him to *last*. An hour is his minimum. **What he actually expects is the better part of a day, and the expectation is well founded: at Silaris this man held a cultural capital through protracted street fighting and had to be prised out of it.** Enough field engagement time for Tiberian and Kess and the Arol Batae contingent to be committed somewhere Rosik isn't. After that, Rosik doesn't care if Kalden dies in the field; in fact, he probably will. Rosik also has no illusions about his own survival. He expects the Arol Batae to descend on him like locusts the moment the deed is done. He has accepted this. He cares about killing the son who destroyed him, and there is nothing else left to want.
+
+---
+
+## THE GEOGRAPHY, WHICH DOES ROSIK'S TARGETING FOR HIM
+
+*Reconciled against `Places/elvandar_geography.md` on 2026-07-31. These numbers govern the whole book's
+timing and the plausibility of Rosik's model.*
+
+**Erulius lies east of Kaha'an, across the Balishan Desert, and there is exactly one road.** The Golden
+Path is the sole safe land route across that desert — maintained exclusively by Balisha, patrolled,
+with **magically warded waystations spaced roughly one day's travel apart** for water and shelter. The
+desert is *"the size of a death sentence to any party that leaves the Golden Path."*
+
+**This is the single most important fact about the campaign, and it is what makes Rosik's plan sound
+rather than lucky.** Kalden's army cannot flank, cannot feint, and cannot choose an approach. There is
+one road, it runs west into Kaha'an, and any force coming from Erulius is on it. **Rosik did not have to
+predict where Tiberian would go.** He only had to know that Tiberian would go — which is character, and
+which he had modelled for years — and that there was nowhere else for either of them to be. His model
+had one real variable in it: **how long Kalden would last.** That is precisely the variable that killed
+him.
+
+**Distances and timing.** Roughly 220 miles from Kaha'an to the frontier where a force out of Erulius
+becomes Balisha's problem. An army makes 20-odd miles a day; two armies closing on one road eat the gap
+at forty. **So the engagement happens where they meet, not where anybody chose** — about a hundred miles
+east of the city, in the desert, on the Path. Nobody picks that battlefield. Arithmetic does.
+
+**The waystations are early warning and relay in one system.** They see Kalden's column days before it
+crosses, and the signal runs ahead of it. **Tiberian therefore does not lose a day to mustering.** He
+pre-positions on the warning — preliminary orders, troops concentrated, wagons stocked, commanders
+alerted — and avoids the political cost of formally mobilising too early. When the crossing signal comes,
+the army moves **within hours**, executing a plan already built. That is exactly the apparatus Silaris
+taught him to build, and it is the mature version of the prince who once charged with nothing underneath
+him.
+
+**And the same stations are why he can come back fast.** Fresh horses along a patrolled imperial road
+put a hundred miles inside a hard day's ride for one man travelling alone. **Not four days. One.** He
+still arrives far too late, because Rosik dies within the hour — but the margin is hours, not a week,
+and that is what makes Rosik's window matter at all.
+
+**What Rosik expected, and why it was reasonable.** Not two hours — **the better part of a day.** His
+precedent is Silaris, where Kalden held a cultural capital through protracted street fighting and had to
+be prised out of it by a relief operation. A man who did that does not evaporate in an afternoon. **The
+hour or two is Rosik's minimum, the day is his expectation, and two minutes is outside the range of
+anything he had grounds to model.**
 
 ---
 
@@ -75,7 +119,7 @@ The preparation phase. Tiberian organizes the field response — the force that 
 
 **Emotional arc: The greatest test — the partnership at maximum specialization**
 
-The mercenary army crosses into Balishan territory. Scouts report its size, composition, and line of march. The decision in the war room is fast: this is not a force that can be allowed to root anywhere on Balishan soil. Tiberian rides out with the column he has spent the preparation phase assembling — Kess at his side, Kai handling logistics, a substantial Arol Batae contingent integrated into the formation. The Tiger Prince has learned what Silaris taught him, and the lesson is *not* to wait. The lesson is to charge with infrastructure underneath the charge.
+The mercenary army crosses into Balishan territory. Scouts report its size, composition, and line of march. The decision in the war room is fast: this is not a force that can be allowed to root anywhere on Balishan soil. Tiberian rides out **within hours, not days** — he has been pre-positioned since the waystations first reported the column, so the crossing signal is a trigger on a plan already built. Kess at his side, Kai handling logistics, a substantial Arol Batae contingent integrated into the formation. They go east along the Golden Path, which is the only direction anything can come from. The Tiger Prince has learned what Silaris taught him, and the lesson is *not* to wait. The lesson is to charge with infrastructure underneath the charge.
 
 This is exactly what Rosik counted on. The moment Tiberian's force clears the city's primary defensive perimeter, the plan is working.
 
@@ -95,7 +139,7 @@ This is the culmination of both siblings' arcs: Tiberian executing decisive acti
 
 ### The Death of Kalden Erulius
 
-The two forces meet in the field, well clear of Kaha'an's walls. Tiberian's outriders make contact first; the formal engagement begins shortly after. Kalden, mounted at the head of his mercenary line, expects his moment — the confrontation with Xion, the final chapter of the story he's been telling himself for the entire second half of his life. Twenty years of mirror-rehearsals. The imperial collar adjusted just so. The lines memorized.
+The two forces meet on the Golden Path about a hundred miles east of Kaha'an — **where they meet, not where anyone chose**, because two armies closing on the continent's only desert road eat the gap at forty miles a day. Tiberian's outriders make contact first; the formal engagement begins shortly after. Kalden, mounted at the head of his mercenary line, expects his moment — the confrontation with Xion, the final chapter of the story he's been telling himself for the entire second half of his life. Twenty years of mirror-rehearsals. The imperial collar adjusted just so. The lines memorized.
 
 He finds Tiberian.
 
@@ -117,7 +161,7 @@ The external threat collapses inside of an hour. Word of the engagement's astoni
 
 ### The Death of Rosik Kemvimore
 
-Rosik does not know any of this. He has no network left to tell him. He committed weeks ago, on the model he built, and the model said Tiberian and Kess and a chunk of the Arol Batae would be outside the city for the better part of a day. That was the window. He moves into the window.
+Rosik does not know any of this. He has no network left to tell him. He committed weeks ago, on the model he built, and the model said Tiberian and Kess and a chunk of the Arol Batae would be a hundred miles east on the Golden Path and out of the city for the better part of a day. That was the window. **It was a sound reading of a man who once needed weeks to lever Kalden out of Silaris.** He moves into the window.
 
 He's still one of the best. The Long Knife skills never atrophied — they just went underground for thirty years and emerged sharper than before. The first perimeter falls to him quietly. The second falls. He's inside.
 

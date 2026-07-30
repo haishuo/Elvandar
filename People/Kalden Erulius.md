@@ -276,7 +276,7 @@ was doomed from the first day and told him it would be glorious.** Even where Ka
 absence of self-honesty documented above closes over it: a defeat he could not absorb as persecution is
 a defeat he cannot hold in his head at all.
 
-**And he dies without swinging a sword.** Tiberian meets him in the field well clear of Kaha'an's walls, and the
+**And he dies without swinging a sword.** Tiberian meets him on the Golden Path a hundred miles east of Kaha'an, and the
 collision between thirty years of self-narrative and a calm unimpressed young man finishes him where he
 stands — apoplexy, every accumulated ruin of his body coming due at once. His mercenaries were loyal to
 coin and not to crown; they disperse the moment their client hits the ground, and strip his body of

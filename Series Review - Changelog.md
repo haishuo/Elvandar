@@ -1795,3 +1795,48 @@ loss.*
 
 **§2 now opens by naming `book7_outline.md` as the authority for the book**, so the next reader starts
 there instead of repeating this.
+
+---
+
+## 2026-07-31 — Book 7's logistics reconciled against the geography
+
+Author's numbers, checked against `Places/elvandar_geography.md` and `Book 5 - Walled Garden/book5_outline.md`.
+
+**A direction error corrected.** The campaign had been recorded as Kalden marching from the north. **Erulius
+is east of Kaha'an**, and the Golden Path runs west–east through the city, so he marches **west along the
+Path.** It is also *"maintained exclusively by Balisha"*, which confirms the author's correction that it is
+not Lathion work.
+
+**And the single most useful fact in the file: there is exactly one road.** The Balishan Desert is *"the
+size of a death sentence to any party that leaves the Golden Path."* **This is what makes Rosik's plan
+sound rather than lucky, and it is stronger than the outline previously claimed.** Kalden's army cannot
+flank, feint, or choose an approach. Rosik never had to predict where Tiberian would go — only that he
+would go, which is character he had modelled for years, and there was nowhere else for either of them to
+be. **His model had one real variable in it: how long Kalden would last.** That is the variable that
+killed him.
+
+**Distances.** ~220 miles from Kaha'an to the frontier; an army makes ~20 miles a day; two armies closing
+on one road eat the gap at forty. **The engagement therefore happens where they meet, not where anyone
+chose** — about a hundred miles east, in the desert, on the Path. Arithmetic picks the battlefield.
+
+**Silaris settles what Rosik expected, and the author's reading is right.** The Gallery War was protracted
+street fighting through a city that had to be levered out of Kalden's hands by a relief operation. So
+**the better part of a day is Rosik being conservative, not optimistic** — and it reconciles the outline's
+two figures, which had sat unexplained: an hour or two is his *minimum*, a day is his *expectation*, and
+two minutes is outside anything he had grounds to model.
+
+**The waystations do two jobs, and the second is new.** They are already canon — magically warded, one
+day's travel apart, watered and patrolled. Added: **relay horses**, which makes the Path a courier road as
+well as a caravan road and explains both the early warning and the ride home. A single rider changing
+mounts covers in a hard day what a column covers in five.
+
+**Author's ruling on the muster: Tiberian pre-positions and moves within hours.** The stations track
+Kalden's column for days before it crosses, so preliminary orders, concentration, wagons and commanders are
+all in place while avoiding the political cost of formally mobilising early. The crossing signal is a
+trigger on a plan already built — which is exactly the apparatus Silaris taught him, and the mature form of
+the prince who once charged with nothing underneath him.
+
+**And his ride back is one hard day, not four.** He still arrives far too late, because Rosik dies within
+the hour. But the margin is hours rather than a week, and that is the whole reason Rosik's window matters.
+
+*"Four days" is now gone from every document. It was invented here two days ago and propagated into five.*

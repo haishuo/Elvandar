@@ -36,6 +36,7 @@ The Azure Sea is navigable, but reaching Kaha'an by water from anywhere except i
 - Magically warded waystations spaced approximately one day's travel apart, providing water and shelter
 - Patrolled against bandits and sandstorm-stranded travelers
 - Specialized navigation knowledge held only by Balishan guides
+- Relay horses kept at the stations, which makes the Path a courier road as well as a caravan road: a single rider changing mounts covers in a hard day what a column covers in five. Balisha's early-warning and dispatch system runs on the same infrastructure as its trade — which is a large part of why the Path is worth what it costs to maintain, and why every neighbour resents that Balisha holds it.
 
 This geographical reality ensures that virtually all overland trade between the eastern and western halves of Elvandar must pass through Kaha'an, cementing Balisha's position as the continent's unavoidable crossroads despite the surrounding wasteland.
 

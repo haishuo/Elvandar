@@ -462,9 +462,19 @@ anything else; Rosik assured him of a glorious victory while knowing the attack 
 doomed attack was the entire product. **He needed two hours of battle to hold the Crown Prince at the
 frontier**, and Kalden had furnished precisely that at Silaris.
 
-**The mechanism, which Kalden was never told.** An hour of fighting at the frontier — two if it went
-well — puts the capital on a war footing, and **a city on a war footing looks outward.** That was the
-window he was buying. He burned what little of his Kaha'an network still existed to establish where Xion
+**The mechanism, which Kalden was never told, and the geography that made it sound.** Erulius is east of
+Kaha'an across the Balishan Desert and **the Golden Path is the only road** — leave it and you die — so a
+force out of Erulius cannot flank, feint, or pick its line. **Rosik never had to predict where Tiberian
+would go.** He only had to know that Tiberian would go, which is character and which he had modelled for
+years, and that there was nowhere else for either of them to be. The two columns meet a hundred miles east
+of the city and the fighting keeps the Crown Prince, Kess Ashwood and a chunk of the Arol Batae committed
+there — which puts the capital on a war footing, and **a city on a war footing looks outward.** That was
+the window he was buying.
+
+**His model had exactly one real variable in it: how long Kalden would last** — and that is the variable
+that killed him. An hour was his minimum. **What he expected was the better part of a day, and he had
+grounds:** at Silaris this same man held a cultural capital through protracted street fighting and had to
+be levered out of it. Two minutes is outside the range of anything Rosik had evidence to model. He burned what little of his Kaha'an network still existed to establish where Xion
 would be, infiltrated on the tradecraft he had as a Long Knife long before he was a grain lord, and
 meant to take him inside the chaos.
 
