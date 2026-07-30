@@ -1371,3 +1371,33 @@ he accepts in the entire book. Both are true and they are different claims; ch22
 *the only material thing*, with the reason attached — he can receive only in the direction of giving.
 
 **The chain is now consistent end to end for Book 1:** prose → twenty-five beat drafts → skeleton.
+
+---
+
+## 2026-07-30 — `TGMS Book Summary.md` deleted
+
+**Author's decision.** Book 1 was carrying three derived layers describing the same twenty-five
+chapters — the beat drafts, the skeleton, and a prose summary — and the summary was the one nobody
+owned. Nothing referenced it, Books 2 and 3 never had one, and it had drifted furthest: it still
+described ch8's three fountains, gave the clinic as *five years* where the prose says eight, ended
+ch11 on *mutual vulnerability, the foundation of any good partnership* (a line cut on 2026-07-29),
+and had ch20's fight as Farleen's fury erupting.
+
+The two documents that remain are not redundant with each other — the drafts are the plan, the
+skeleton is the map — and both are now correct. A synopsis written on demand from the skeleton will be
+accurate; one maintained continuously will not be. **Recoverable from git history if ever wanted.**
+
+**Preserved here because it was the only thing in the file not derived from something else** — the
+closing thematic list, verbatim as it stood. It is recorded rather than rehomed: a live themes list in
+a working document invites exactly the theme-chasing that ranks last in the hierarchy.
+
+> - Systemic injustice cannot be fought by individual charity—it requires structural change
+> - Legitimacy is earned through understanding, not inherited through blood
+> - Love triangles where everyone has genuine claims and genuine flaws
+> - The cost of certainty: every step toward truth demands sacrifice
+> - Privilege as both weapon and chain—Xion's wealth enables his healing but funds the system he fights
+> - An empress must break her heart on the reality of her people before she can rule them
+> - Redemption is possible but doesn't erase consequences (Farleen)
+> - Divine sanction means nothing without the will to act
+
+*(Its timeline line said "~3-4 weeks"; the canonical figure is 21 days. The skeleton is authoritative.)*
