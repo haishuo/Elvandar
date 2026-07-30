@@ -1840,3 +1840,41 @@ the prince who once charged with nothing underneath him.
 the hour. But the margin is hours rather than a week, and that is the whole reason Rosik's window matters.
 
 *"Four days" is now gone from every document. It was invented here two days ago and propagated into five.*
+
+---
+
+## 2026-07-31 — Rosik's plan filed as a reference reconstruction
+
+`Book 7 - Last Debts/book7_outline.md` gains a dedicated section: what Rosik intended, why it was sound,
+the exact point it came apart, and what actually beat him. Assembled from the outline, the geography, the
+Book 5 outline and the character sheets; nothing invented except the two extensions below, which the
+author kept.
+
+**A correction inside it.** The reviewer had written that Kalden *"needed weeks to lever out of Silaris"*
+— invented, and wrong. **Author's figure: the Gallery War occupied Tiberian for most of a day.** Fixed in
+both places it had reached. That is the third fabricated figure this week (after "four days' ride" and the
+two register quotations), and the pattern is the same every time: a plausible number written down without
+a source and then reasoned from.
+
+**The refinement that makes the estimate defensible, and it is the best thing in the section.** Rosik does
+not estimate a battle in the abstract. **He estimates *this* battle.** Kalden and Tiberian have already
+fought one campaign to its conclusion, and it took most of a day. He discounts for terrain — open desert
+road resolves faster than street fighting through a gallery city — but **he does not discount for the
+opponent, because it is the same opponent.** The only observed result of *Kalden versus Tiberian* is
+measured in hours.
+
+**Which converts his failure from a bad guess into a sampling problem.** His sample size is one, and the
+variable that mattered was not in it: the Kalden of Silaris was several years younger and considerably
+less ruined. **He modelled the man and not the body.**
+
+**Two extensions kept, both flagged as extensions when offered.**
+
+*The lever broke in his hand.* His own method — B2 ch12, *find the member bearing more of the load than
+the rest, pull it, and stand back while the weight does the work of falling* — was applied to Kalden's
+pride. **The member failed under its own weight before he could pull it.** He was undone by his own
+technique, running early and without him.
+
+*Everything that decided it was a body.* A man of pure geometry with no healer's eye is killed by an
+artery in Kalden and by a woman acting on instinct rather than proof, and then handled in his last minutes
+by the exact faculty his architecture does not contain. **Three bodies, and his model had no term for any
+of them.**

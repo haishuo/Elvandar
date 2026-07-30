@@ -40,7 +40,7 @@ Rosik finds Kalden and reads him in seconds: a broken man with resources (mortga
 
 This intelligence-gathering came at a price. Rosik burned his entire Kaha'an network getting it. Every contact, every coin, every favor accumulated across thirty years went into reading the city. He arrives for the actual infiltration with no operational support whatsoever — no sabotage cells to activate, no informants to coordinate, no fallback assets. Just the knowledge, a blade, and the skills the Long Knives taught him forty years ago.
 
-Kalden is the useful idiot. The loud, angry, delusional front man. Rosik doesn't care whether Kalden wins or loses — he only needs him to *last*. An hour is his minimum. **What he actually expects is the better part of a day, and the expectation is well founded: at Silaris this man held a cultural capital through protracted street fighting and had to be prised out of it.** Enough field engagement time for Tiberian and Kess and the Arol Batae contingent to be committed somewhere Rosik isn't. After that, Rosik doesn't care if Kalden dies in the field; in fact, he probably will. Rosik also has no illusions about his own survival. He expects the Arol Batae to descend on him like locusts the moment the deed is done. He has accepted this. He cares about killing the son who destroyed him, and there is nothing else left to want.
+Kalden is the useful idiot. The loud, angry, delusional front man. Rosik doesn't care whether Kalden wins or loses — he only needs him to *last*. An hour is his minimum. **What he actually expects is the better part of a day, and the expectation is empirical rather than optimistic — Kalden and Tiberian have fought one campaign to its conclusion already, and it occupied Tiberian for most of a day.** Enough field engagement time for Tiberian and Kess and the Arol Batae contingent to be committed somewhere Rosik isn't. After that, Rosik doesn't care if Kalden dies in the field; in fact, he probably will. Rosik also has no illusions about his own survival. He expects the Arol Batae to descend on him like locusts the moment the deed is done. He has accepted this. He cares about killing the son who destroyed him, and there is nothing else left to want.
 
 ---
 
@@ -85,6 +85,117 @@ precedent is Silaris, where Kalden held a cultural capital through protracted st
 be prised out of it by a relief operation. A man who did that does not evaporate in an afternoon. **The
 hour or two is Rosik's minimum, the day is his expectation, and two minutes is outside the range of
 anything he had grounds to model.**
+
+---
+
+## ROSIK'S PLAN, AND THE FIVE MINUTES THAT BROKE IT
+
+*Filed 2026-07-31. The reconstruction below is the reference version: what he intended, why it was
+sound, and the exact point at which it came apart. Distances and timings are in the geography section
+above.*
+
+### The problem he had to solve
+
+He wants one thing. Xion dead. Everything else — the cartel, the House, the reputation — belonged to a
+man who had something to lose, and that man no longer exists.
+
+**Xion is reachable.** An emperor-consort in peacetime is a man in a study, a garden, a corridor. What
+stands between them is not Xion; it is the apparatus around him — the Arol Batae, a Crown Prince who
+commands them, and a daughter who reads patterns for a living. **So the problem is not how to kill him.
+It is how to make the apparatus face the other way.**
+
+### The lever
+
+Not a war. A war is the means. What he needs is a **behavioural response in three specific people**, and
+the years of preparation go into modelling personalities rather than walls:
+
+- **Tiberian will not let a foreign mercenary army entrench on Balishan soil.** He rides out. This is
+  character, and it is not close to a coin-flip.
+- **Kess goes where Tiberian goes.**
+- **Arol Batae deployment logic** sends a substantial contingent with them.
+
+Kalden is sized precisely to produce that: **enough threat to require a field engagement, not so much
+that the city shuts itself behind its walls.** Too small and Tiberian sends a subordinate. Too large and
+everyone withdraws inside the perimeter, which is the exact opposite of what Rosik needs.
+
+### How he estimated the window — and this is the part that matters
+
+**He does not estimate a battle in the abstract. He estimates *this* battle.** Kalden and Tiberian have
+already fought one campaign through to its conclusion, and that campaign **occupied Tiberian for most of
+a day.** Rosik discounts for terrain — open desert road resolves faster than street fighting through a
+gallery city — but **he does not discount for the opponent, because it is the same opponent.**
+
+**The only observed result of "Kalden versus Tiberian" is measured in hours.** So an hour or two is his
+floor and the better part of a day is his estimate, and both are empirical.
+
+**His sample size is one, and the variable that mattered was not in it.** The Kalden of Silaris was
+several years younger and considerably less ruined.
+
+### The sequence he was counting on
+
+1. Kalden mortgages Erulius, hires mercenaries, and marches west believing it is his destiny
+2. The waystations track the column; the crossing signal reaches Kaha'an
+3. Tiberian, pre-positioned, moves within hours — Kess beside him, Kai on logistics, Arol Batae integrated
+4. Both armies close on the only road and meet about a hundred miles east
+5. **The engagement holds.** An hour is the floor; most of a day is the estimate
+6. Kaha'an on a war footing, attention pointed east, the palace guard thinned by the contingent that left
+7. Rosik moves through the perimeters on the model he bought
+8. He reaches Xion in his ordinary peacetime pattern, and kills him
+9. **The Arol Batae kill Rosik minutes later. He has already accepted this**
+
+### What it cost, and why he considered that acceptable
+
+His **entire Kaha'an network** — every contact, coin and favour accumulated across thirty years — spent
+buying the model. No sabotage cells, no informants, no fallback, and **no way to receive information once
+he is inside.**
+
+He accepts that because **he needs one entry, one route, one window, once.** Operational support is for
+people who intend to survive, or to do it twice. He intends neither.
+
+---
+
+### What actually happened
+
+**Steps one through four worked perfectly**, and this is the part to hold onto: the plan did not fail at
+the design stage or the execution stage. It got everything it asked for.
+
+**Step five lasted about two minutes.** Kalden rode out expecting Xion, found Tiberian, demanded to know
+where his real enemy was, and reached for the imperial register — *that man's bastard son.* Tiberian
+handed it straight back. Kalden turned purple, then green, and fell off his horse; every accumulated ruin
+of his body came due at once. **He never swung a sword.** His mercenaries assessed the situation with
+admirable speed, concluded their employer could no longer pay them, looted the corpse, and disbanded.
+**The external threat collapsed inside an hour.**
+
+**Then Melina broke it.** The field report arrived too fast and too clean and the arithmetic did not work
+— whatever Kalden thought he was doing was not what *Rosik* thought he was doing. She made the call on
+partial data: **raise patrols everywhere, on the assumption that something else is happening that nobody
+has seen yet.** The Arol Batae redeployed.
+
+**Rosik felt it and could not read it.** A second-shift route running too frequently. A two-man watch
+where his intelligence said one. A posture elevating when his model said it should be at its lowest ebb.
+He stopped in a corridor he had memorised, ran the numbers, and **got no answer that fits.** Something had
+happened beyond the walls; he could not know how, or when, or what, because he had nothing left to tell
+him.
+
+**A strategic thinker aborts.** He went forward, because stopping would have meant sitting still with the
+loss, and avoiding exactly that is what every system he ever built was for. **He turned a corner that
+should have been clear for another twenty minutes.**
+
+### What actually beat him
+
+**Two variables his model could not include** — a patsy's cardiovascular system failing too fast, and an
+analyst willing to act before the data was in. The body of meat and the mind willing to commit, both of
+them things he never quite trusted, killing him together.
+
+**The lever broke in his hand.** His own method, taught to his son in B2 ch12 — *find the member bearing
+more of the load than the rest, pull it, and stand back while the weight does the work of falling* — was
+applied to Kalden's pride. **And the member failed under its own weight before he could pull it.** He was
+undone by his own technique, running early and without him.
+
+**And everything that decided it was a body.** He is a man of pure geometry with no healer's eye at all.
+He was killed by an artery in Kalden and by a woman acting on instinct rather than proof — and then, in
+his last minutes, handled by the exact faculty his architecture does not contain. **Three bodies, and his
+model had no term for any of them.**
 
 ---
 
@@ -161,7 +272,7 @@ The external threat collapses inside of an hour. Word of the engagement's astoni
 
 ### The Death of Rosik Kemvimore
 
-Rosik does not know any of this. He has no network left to tell him. He committed weeks ago, on the model he built, and the model said Tiberian and Kess and a chunk of the Arol Batae would be a hundred miles east on the Golden Path and out of the city for the better part of a day. That was the window. **It was a sound reading of a man who once needed weeks to lever Kalden out of Silaris.** He moves into the window.
+Rosik does not know any of this. He has no network left to tell him. He committed weeks ago, on the model he built, and the model said Tiberian and Kess and a chunk of the Arol Batae would be a hundred miles east on the Golden Path and out of the city for the better part of a day. That was the window. **It was a sound reading, and an empirical one — see the section on how he estimated it.** He moves into the window.
 
 He's still one of the best. The Long Knife skills never atrophied — they just went underground for thirty years and emerged sharper than before. The first perimeter falls to him quietly. The second falls. He's inside.
 

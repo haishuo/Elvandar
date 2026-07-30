@@ -472,9 +472,12 @@ there — which puts the capital on a war footing, and **a city on a war footing
 the window he was buying.
 
 **His model had exactly one real variable in it: how long Kalden would last** — and that is the variable
-that killed him. An hour was his minimum. **What he expected was the better part of a day, and he had
-grounds:** at Silaris this same man held a cultural capital through protracted street fighting and had to
-be levered out of it. Two minutes is outside the range of anything Rosik had evidence to model. He burned what little of his Kaha'an network still existed to establish where Xion
+that killed him. An hour was his floor. **What he expected was the better part of a day, and the estimate was empirical
+rather than optimistic.** He does not estimate a battle in the abstract; he estimates *this* battle. Kalden
+and Tiberian have already fought one campaign through to its conclusion, and it occupied Tiberian for most
+of a day. **Rosik discounts for terrain and not for the opponent, because it is the same opponent** — and
+the only observed result of *Kalden versus Tiberian* is measured in hours. **His sample size is one, and
+the variable that mattered was not in it:** the Kalden of Silaris was years younger and much less ruined. He burned what little of his Kaha'an network still existed to establish where Xion
 would be, infiltrated on the tradecraft he had as a Long Knife long before he was a grain lord, and
 meant to take him inside the chaos.
 
