@@ -1340,3 +1340,34 @@ Measured against all twenty-five drafts and cut back. **All twenty-five are now 
 
 **Still outstanding from this pass:** `book1_chapter_skeleton.md`, whose ch8 entry still describes the
 three fountains and which inherits from the drafts corrected here.
+
+---
+
+## 2026-07-30 — `book1_chapter_skeleton.md` reconciled
+
+The last document in the chain, and the one nothing downstream complains about. Corrected against the
+beat drafts fixed the same day.
+
+**Five chapter entries rewritten.** ch8 described three fountains, a dead emperor and children
+swimming — none of which exist; it is now the water-discipline walk, the arch and its ledger, the name
+spent on a convenience, Elara's charge, one fountain in forty words. ch11 was missing the confession
+entirely and now carries it, including *he left it shut.* ch19 gained the five-rung descent and the
+medical rung. ch20's fight was the old shouting match. ch22 still had the sentencing offstage — it now
+says he got there in time, that his father waited until he was through the door, and that he stepped
+aside.
+
+**Header and act figures.** Total 61,900 → **61,723**, mean 2,475 → **2,469**. Act I 8,313 → 8,337;
+Act II 18,177 → 17,797; Act III 24,265 → 24,184; Act IV 11,130 → 11,405. The opening-movement range
+1,453–2,516 → **1,214–2,529**, and its mean 1,900 → 1,860, because ch8 dropped a third.
+
+**Two claims were wrong rather than stale.** The header said there is **one** deliberate widening of
+the camera; there are two, and ch12's closing line is the other — the same error the retrospective
+carried and the ch25 beat draft carried. And the Farleen structural note still ended her arc at
+*shouted at Elara until she runs out of words*, which is no longer what ch20 does.
+
+**One collision was created by this pass and caught in it.** The rewritten ch11 entry calls *he left
+it shut* the only gift he accepts in two books, while ch22's entry called the warehouse the only thing
+he accepts in the entire book. Both are true and they are different claims; ch22's is now scoped to
+*the only material thing*, with the reason attached — he can receive only in the direction of giving.
+
+**The chain is now consistent end to end for Book 1:** prose → twenty-five beat drafts → skeleton.

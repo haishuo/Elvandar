@@ -8,17 +8,18 @@ disagree, the beat draft is closer to the page.*
 Book 2's skeleton was written before its beat drafts and had to carry the reasoning itself; Book 1's
 reasoning already lives in twenty-five footers. This document is the map. The drafts are the terrain.*
 
-**POV:** Xion Kemvimore throughout. No exceptions, no interludes, no scenes he is absent from. The
-one deliberate widening of the camera is the last two pages of ch25.
+**POV:** Xion Kemvimore throughout. No exceptions, no interludes, no scenes he is absent from. There are
+two deliberate widenings of the camera, both signed off as exceptions: the last two pages of ch25, and
+ch12's closing line.
 **Opens:** Day 1, a market square in the Middle District of Kaha'an, at dusk.
 **Timeline:** 21 days. The whole novel happens in three weeks.
-**Length:** ~61,900 words across 25 chapters, mean 2,475.
+**Length:** 61,723 words across 25 chapters, mean 2,469.
 
 ---
 
 ## ACT I: The Question — ch1–4
 
-*Four chapters, 8,313 words. The most compressed movement in the book. A man sees something
+*Four chapters, 8,337 words. The most compressed movement in the book. A man sees something
 impossible, is disbelieved, is proved right, and pays for it.*
 
 ### Chapter 1: The Healer's Hands
@@ -107,7 +108,7 @@ observes accurately and concludes wrongly.
 
 ## ACT II: The Education — ch5–12
 
-*Eight chapters, 18,177 words. Ch5–8 are the only sustained quiet stretch in the novel. She teaches him
+*Eight chapters, 17,797 words. Ch5–8 are the only sustained quiet stretch in the novel. She teaches him
 what she is; he teaches her what the city is; then he takes her somewhere he should not have.*
 
 ### Chapter 5: The Choice
@@ -173,21 +174,27 @@ observation, collected when she confronts him about the key and again when the j
 ---
 
 ### Chapter 8: Waters of Rage
-**Timeline: Day 9. Morning.**
-**Characters present: Xion, Elara, noble passers-by, noble children and a nursemaid**
-**Emotional work: The system as spectacle — paper made her cold, this takes her face away from her**
+**Timeline: Day 9. Morning to late afternoon.**
+**Characters present: Xion, Elara, a gate guard, a man with a handcart, four noble children, a nursemaid**
+**Emotional work: She prices what his name is worth, and charges him with what he did not spend in ch1**
 
-Three fountains, escalating and not interchangeable. The first is decorative and produces analysis.
-The second is cultivated — water spent on plants — and produces anger. The third is recreational,
-and it is children laughing, and that is what breaks her control. Her eyes cycle blue-amber-violet
-faster than Xion has ever seen, in public, with people beginning to notice.
+Two hours walking north, and Xion notices for the first time in his life that nobody in a working
+district spills anything. He counts it the way he would count a pulse. Then an arch with a guard
+post, a ledger and a queue: a man with a handcart is turned away because deliveries are Tuesday, and
+Xion says *Kemvimore, and a guest*, and the guard's hand never goes near the book.
 
-Then the masquerade proposal, and it is Xion's idea. He corrects her: masks hide faces, not eyes.
-She would have to hold perfect control all evening no matter what she heard. He has just watched her
-fail, and he yields anyway.
+Elara stops him inside ten paces. He could have said that word in the market square, and they would
+have put the boy down on the stones and apologised for the trouble. He gets out that he couldn't, and
+she answers *you just did*, and he has nothing to set against it. She does not get angry. She puts him
+somewhere lower and walks on.
 
-**Sets up:** Ch9 and ch10 entirely. The royal trait established as something that fails under
-emotional load in public, which is the clock the rest of Act II runs on.
+One fountain, forty words, no statistic attached — he is watching her, not it, because you watch the
+patient and not the wound. Her eyes go amber and stay. The only number in the chapter arrives six
+streets later as an answer to a question. Then the masquerade proposal, and it is his idea: a mask
+hides her face, not her eyes.
+
+**Sets up:** Ch9 and ch10 entirely — the trait established as something that fails under emotional
+load in public. And ch11, which pays the gate: *I was accusing you of doing what I did.*
 
 ---
 
@@ -196,7 +203,7 @@ emotional load in public, which is the clock the rest of Act II runs on.
 **Characters present: Xion, Elara**
 **Emotional work: A man teaches a woman to be someone else and finds he is better at it than at being himself**
 
-The book changes scale here — 3,695 words after a movement averaging 1,900. Three days in a borrowed
+The book changes scale here — 3,698 words after a movement averaging 1,860. Three days in a borrowed
 apartment: how nobles walk, what they do with their hands, coded insult as a language, the eye-control
 drill. She can suppress the trait if she catches it early, and suppression is visible and effortful.
 
@@ -233,19 +240,26 @@ Her eyes do.
 ### Chapter 11: Safe Harbor
 **Timeline: Day 13, continuous. Late night.**
 **Characters present: Xion, Elara**
-**Emotional work: The lie ends**
+**Emotional work: The lie ends, and one gift gets through**
 
 He fishes out his key and she notices. There is no friend; he is Master Fen; it has been his clinic
-for eight years. The confession that matters is not about the clinic — it is that every coin spent
-on it comes from his father's allowance, so eight years of free treatment have been subsidised by
-the system that made the injuries. Her counter is one line: *until you challenged it by finding me.*
+for eight years. She prices it herself: four words in that market square would have freed the boy and
+ended Master Fen in the same breath.
+
+Then he goes further than she asked, which is the chapter's real event. He nearly said them. He had
+his mouth open, and then he counted the clinic and the eight years and every name in the book, and
+the arithmetic came out the way arithmetic always comes out — and he still does not know whether he
+decided or whether he could not move. She answers with complicity rather than absolution: she was in
+that crowd too, hooded, and she did not move either. He reaches for the reason it does not count, she
+stops him, and he shuts his mouth and leaves it shut. **The only gift he accepts in two books.**
 
 Then the mirror of ch7 with the roles corrected — she orders, she does not flinch, she is visibly
 better at it. And the patient logs, which she reads as evidence of systemic harm rather than as
 notes. He has never once seen them that way.
 
-**Sets up:** Ch13's fire. The same object is treatment record, political evidence and death warrant
-depending on who holds it, and this chapter has to establish the middle reading.
+**Sets up:** Ch13's fire — the same object is treatment record, political evidence and death warrant
+depending on who holds it, and this chapter establishes the middle reading. And ch22, which is worse
+for this scene existing: he managed to take something once, and after Tam he cannot.
 
 ---
 
@@ -268,7 +282,7 @@ Elara and sees his own guilt on her face. They were both there. Neither moved. N
 
 ## ACT III: The Descent — ch13–21
 
-*Nine chapters, 24,265 words — two-fifths of the novel. It runs long and heavy from ch13 to ch16,
+*Nine chapters, 24,184 words — two-fifths of the novel. It runs long and heavy from ch13 to ch16,
 then alternates. Everything they gain is bought with something they did not want to spend.*
 
 ### Chapter 13: The Closing Net
@@ -407,9 +421,16 @@ walks the wrong way into Long Knife territory. Cullen abandons them at the borde
 her go. Xion adjusts the boy's weight and follows, and the narration refuses to dramatise it: **he
 did not even really consider it.**
 
-Hours in a maze with no landmarks. Farleen's argument escalates out of tactics entirely — *you can't
-help yourself, can you, she walks and you follow* — and finally into a whisper: she cannot lose him.
-He answers *I know* and nothing else.
+Hours in a maze with no landmarks, and Farleen descends through five arguments, abandoning each as it
+fails: tactics, then ground, then the trance — *a woman in a fit, choosing left* — and then she stops
+talking, and Xion discovers that he wanted her to keep going.
+
+Then medicine, and it is the only thing that stops him walking. He lays the backs of his fingers
+against Tam's forehead, the ch18 gesture returning to mean the opposite, and finds it worse — and the
+narration gives the reason he had not checked sooner, which is the most damning line in the book:
+checking meant having the number, and having the number meant carrying that as well as the boy. He
+walks on. **The consent guardrail breaks here**, and the one person who cannot consent is the one
+being carried deeper. Last rung, whispered: she cannot lose him.
 
 The chamber, the brass door, the pulse behind it like a heartbeat. Elara surfaces on her knees with
 no memory of any of it. Tam collapses.
@@ -424,9 +445,11 @@ conscious for it.
 **Characters present: Xion, Tam, Farleen, Elara, a Long Knife**
 **Emotional work: Every reward arrives in the wrong currency**
 
-Tam is stabilised and it buys nothing. Farleen finally says the true thing at the top of her voice
-to the one person it is not about, invokes Tam twice as ammunition, and runs out of words for the
-first time in the book.
+Tam is stabilised and it buys nothing. Farleen finally says the true thing to the one person it is
+not about — cold, precise, and prosecuting unaccountability rather than recklessness: Elara could not
+have told a living soul why. Elara concedes at once and without drama, and then ends the argument by
+asking what Farleen cannot answer. If it starts again, in this room, can she stop her. No. Neither
+can Elara.
 
 Then the Spirit's Reflection: an inner mirror that administers a trial and an outer mirror that
 displays the verdict. Private ordeal, public proof — the entire politics of Elara's legitimacy in
@@ -466,7 +489,7 @@ names and nobody resolves.
 
 ## ACT IV: The Ascension — ch22–25
 
-*Four chapters, 11,130 words. The plot completes and the man does not.*
+*Four chapters, 11,405 words. The plot completes and the man does not.*
 
 ### Chapter 22: Reckoning
 **Timeline: Day 18. Sunset into dusk.**
@@ -474,22 +497,30 @@ names and nobody resolves.
 **Emotional work: Their first real fight, and the wound underneath it**
 
 Tam goes home. Payment refused twice; a warehouse accepted, because refusing would wound a father
-who has nothing else to give. That is the only thing Xion accepts in the entire book, and it is
-still caretaking.
+who has nothing else to give. It is the only material thing Xion accepts in the entire book, and it is
+still caretaking — he can receive only in the direction of giving.
 
 Then the fight. Elara reaches for the weapon ch15 handed her — she knew where it was the whole time —
 and swings it all the way to *you don't actually care.* Xion has the identical weapon, fully formed
 and accurate, and crushes it. Nobody notices.
 
 And then *I can't*, and Mira Fen. The story is extracted rather than confided: forbidden lessons, a
-rainstorm, a woman who carried him back, and two words. *Execute her.* And what he did about it, at
-fifteen: nothing. He did not even try.
+rainstorm, a woman who carried him back and told his father the truth to explain it. He was
+unconscious for that. He woke to the flower and the note, and ran — **and got there in time.** His
+father in the east hall, waiting until his son was through the door before saying the two words.
+*Execute her.* And what he did about it, standing close enough to touch him: nothing. They carried her
+out past him and he stepped aside so they could. He did not even try.
 
 Afterward Elara offers him the one sentence that ought to work — *you didn't stand still, not today* —
 and it goes in and finds nothing to hold on to. He says thank you because that is what you say. She
 watches it fail and does not know why.
 
-**Sets up:** Book 2. The absolution he cannot receive is the shape of the wound.
+**Sets up:** Book 2. The absolution he cannot receive is the shape of the wound — and it lands harder
+because ch11 showed him taking one, once, when what was offered was complicity rather than credit.
+
+**The chapter ends on the failure.** It used to run nine more lines of repair — *we see the world
+differently*, the fight-and-a-good-one exchange — which un-landed the thing that had just happened.
+Cut on rule 3. She stops using words and puts her arms around him instead.
 
 ---
 
@@ -587,8 +618,8 @@ heist in ch16, the rescue attempt in ch17 — and a fourth, ch19's trance, happe
 not present to report on it. In every case the restriction produces the better scene, because what
 the book is about is a man who reads bodies and cannot read intentions.
 
-**The movements are deliberate and the length profile is load-bearing.** Ch1–8 run 1,453–2,516 with a
-mean near 1,900; ch9 nearly doubles it; ch13–16 all exceed 3,100; ch17 contracts to 1,670. Long-then-
+**The movements are deliberate and the length profile is load-bearing.** Ch1–8 run 1,214–2,529 with a
+mean near 1,860; ch9 nearly triples the floor; ch13–16 all exceed 3,100; ch17 contracts to 1,680. Long-then-
 short is the signature for a disaster and its aftermath and fires three times (ch9–10 → ch11,
 ch16 → ch17, ch18–19 → ch20). **Check the profile before proposing any cut.** Two structural cuts
 proposed during the beat-draft pass — ch6's temple courtyard and ch8's middle conversation — were
@@ -600,7 +631,7 @@ honesty depends on the reader being able to agree with them.
 
 **Farleen's escalation is her whole arc and it terminates in ch20.** Risk assessment (ch14) → losing
 and planning the job anyway (ch16) → winning, with one crack (ch17) → *I can't lose you*, whispered
-(ch19) → shouted at Elara until she runs out of words (ch20). Thinning the early instances leaves the
+(ch19) → prosecuted coldly at Elara and answered with a question she cannot answer (ch20). Thinning the early instances leaves the
 confession standing on nothing.
 
 **The take-over is the hallmark faculty and it has an invoice.** A part of him engages without
