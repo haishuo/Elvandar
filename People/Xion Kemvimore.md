@@ -336,6 +336,15 @@ Quiet, reserved, practical. Kael's Iron cartel connections provide muscle and le
 
 ### The last patient (Book 7 — planned, not written)
 
+**Two inherited sights, and both of them hold *him*.** Mira gave him the healer's eye and Rosik gave him
+the geometry, and the thing that separates him from his father is not which one he uses but **how it is
+held**. Rosik deploys his; Xion's arrive without consulting him — B1 ch18, *"the other thing took over,
+the way it always did, before Xion had decided anything at all"* — and when he finally turns his
+father's sight on purpose in B2 ch16 **that one takes him over too**: *"It did not feel like a decision.
+Decisions had a texture, a moment of weighing, and there was no weighing in this."* He inherited the
+instrument and it works like his wound. **In Rosik it is a tool; in him it is a possession**, and that
+is why he breaks in B2 ch20 and his father never does. Full thread in `Series Review - Master List.md` §2.
+
 **He treats Rosik.** His father comes to kill him, takes an Arol Batae spear, and Xion works on him
 and fails. It is not forgiveness and not belief — it is the ch22 position collected: *healers aren't
 judges… we treat the wound in front of us*, which he said **about Rosik**. **He asks permission

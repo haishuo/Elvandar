@@ -487,6 +487,18 @@ came to kill knelt down to save him. **Do not give him a moment of realisation a
 
 **He never explains any of it, to anyone, and he dies not having explained it.**
 
+**And he cannot understand what Xion does, for a structural reason rather than a moral one.** Rosik
+holds his faculty as an *instrument* — he picks up the geometry, uses it, sets it down, and can teach
+the method aloud (B2 ch12: *find the member bearing more of the load than the rest, pull it, and stand
+back*). Xion's faculties **take him over**: B1 ch18, *"the other thing took over, the way it always did,
+before Xion had decided anything at all."* **Rosik has no category for being seized.** In his model a
+faculty is a tool, and using one on the man who came to kill you does not compute — so his failure to
+understand is not obtuseness and not moral limitation. **The concept is missing from his architecture.**
+
+**Never write him as too limited to recognise virtue.** He is missing a faculty, not a virtue. And the
+same fact is why he never breaks: an instrument can be set down and a possession cannot, so nothing has
+ever had hold of him. That is the fault line, and it is structural rather than moral.
+
 ## Personal Characteristics
 
 ### Physical Presence

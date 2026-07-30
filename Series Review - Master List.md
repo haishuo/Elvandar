@@ -253,6 +253,16 @@ Three people hold pieces of it and none of them will ever speak, which has two c
 
 **The two sights.** Mira gave him the healer's eye; Rosik gave him the geometry. B2 ch11–12 has him partition them deliberately and use his father's on purpose for the first time (*"that one was Mira's… he would not drag it down into this"*). The inheritance is tracked, not blurred — keep it that way.
 
+**How each man holds the faculty — and it is not the same, which is the whole comparison.** Xion carries two inherited sights and **Rosik has one.** There is no evidence anywhere that Rosik possesses anything resembling the healer's eye; his entire architecture is structural, and B2 ch12 has him teaching it as a method — *find the member bearing more of the load than the rest, pull it, and stand back.*
+
+**Rosik deploys his. Xion's seize him.** That is the difference, and it is not a difference of degree. Rosik's geometry is an instrument he picks up: he waited twenty years, every move chosen, the technique articulable enough to hand to a child. Xion's faculties arrive without consulting him — B1 ch18, healing: *"the other thing took over, the way it always did, before Xion had decided anything at all."*
+
+**And this is the horror of Book 2, stated precisely.** When Xion finally uses his father's sight on purpose, **it takes him over too** — B2 ch16: *"It did not feel like a decision. Decisions had a texture, a moment of weighing, and there was no weighing in this,"* and *"the part of him that read such pictures was the only part still fully awake."* He inherited the instrument and it turned out to work like his wound. **In the father it is a tool. In the son it is a possession.** The reason is that Xion's faculties sit downstream of a compulsion and Rosik's do not — Rosik has appetite, and appetite can wait twenty years.
+
+**The fault line follows from exactly this, and is not a moral fact.** An instrument can be set down; a possession cannot. **Rosik never breaks because nothing has ever had hold of him.** Xion breaks in B2 ch20 — *"the way a wall goes, which is from the inside"* — because something always does. This is the mechanism under the ruling at [§6](#6-settled-rulings) that the difference between them is *not capability and not virtue*.
+
+**And it is why Rosik cannot understand the Book 7 scene.** In his model a faculty is something you *use*, and using one on the man who came to kill you does not compute. **He has no category for being seized.** His incomprehension is therefore structural rather than moral — the concept is missing from his architecture, not beneath his notice. **Never stage it as a man too limited to recognise virtue.** He is missing a faculty, not a virtue, and that distinction is the difference between the scene working and the scene becoming the thing this series has refused for seven books.
+
 ---
 
 ## 3. Outstanding work

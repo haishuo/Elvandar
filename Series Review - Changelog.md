@@ -1704,3 +1704,45 @@ out about.
 *It also removes a knowing-walk-to-his-death reading that had crept in, which sat badly against the
 sheet's own account of a man who chose exile over execution because he cuts losses. He is not choosing
 death here. He thinks he is executing a plan.*
+
+---
+
+## 2026-07-30 — the faculty distinction between Xion and Rosik
+
+Written up at the author's request, and built entirely from lines already on the page. **All six
+citations were grepped against the prose before being used**, per the rule added to the register this
+morning; all six are live.
+
+**Xion carries two inherited sights. Rosik has one.** Nothing anywhere suggests Rosik possesses
+anything resembling the healer's eye; his whole architecture is structural, and B2 ch12 has him
+teaching it as a method — *find the member bearing more of the load than the rest, pull it, and stand
+back.*
+
+**The difference is not which faculty but how it is held. Rosik deploys his; Xion's seize him.** Rosik's
+geometry is an instrument: twenty years of waiting, every move chosen, the technique articulable enough
+to hand to a child. Xion's arrive without consulting him — B1 ch18, *"the other thing took over, the way
+it always did, before Xion had decided anything at all."*
+
+**And that is the horror of Book 2, stated precisely.** When Xion finally uses his father's sight on
+purpose it **takes him over too** — B2 ch16: *"It did not feel like a decision. Decisions had a texture,
+a moment of weighing, and there was no weighing in this,"* and *"the part of him that read such pictures
+was the only part still fully awake."* He inherited the instrument and it turned out to work like his
+wound. **In the father it is a tool; in the son it is a possession.** Xion's faculties sit downstream of
+a compulsion; Rosik's sit downstream of appetite, and appetite can wait twenty years.
+
+**The fault line follows from this and is therefore mechanical, not moral.** An instrument can be set
+down and a possession cannot. **Rosik never breaks because nothing has ever had hold of him**; Xion
+breaks in B2 ch20 — *"the way a wall goes, which is from the inside"* — because something always does.
+This supplies the missing mechanism under the standing ruling that the difference between them is *not
+capability and not virtue.*
+
+**And it resolves the Book 7 scene at its deepest level.** Rosik cannot understand why Xion knelt,
+because in his model a faculty is something you *use*, and using one on the man who came to kill you
+does not compute. **He has no category for being seized.** His incomprehension is structural rather than
+moral — the concept is missing from his architecture, not beneath his notice. **He is missing a faculty,
+not a virtue**, and a scene staged as a limited man failing to recognise nobility is exactly the moral
+framing the series has refused for seven books. This is the strongest protection yet recorded against
+that failure, because it makes the incomprehension a fact about how he is built rather than a verdict on
+what he is worth.
+
+Recorded in §2, and on the Rosik and Xion sheets.
