@@ -203,7 +203,9 @@ his father*, and the answer is no, and that is why it lands as awe rather than a
 assembled at fifteen out of a dead apothecary and never once revised, and Xion has never in eight books
 been able to describe it as a choice. **Tiberian is reading a wound as a virtue.**
 
-**And he cannot do otherwise, because he has never been told there was a wound.** He knows Rosik as a
+**His sister knows and does not tell him.** Melina worked out who Mira Fen was on her own and sat on it — one of the very few things she keeps from him. **If he ever learned, he would agree with her**: his father's past belongs to his father, who never volunteered it and was never asked, and that is how it was. He will not learn, and the point of recording it is so that no later pass writes her silence as a betrayal.
+
+**And he cannot read the act otherwise, because he has never been told there was a wound.** He knows Rosik as a
 shape — grandfather, Lord of Grain, exiled — the way he knows everything about his family. **He does
 not know about Mira Fen.** Xion never volunteers it, and Elara will not repeat it. So Tiberian is not
 being naive here; he is reasoning correctly from information his father curated by silence, and there

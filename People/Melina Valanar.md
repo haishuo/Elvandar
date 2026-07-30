@@ -197,7 +197,13 @@ She has never asked her father directly about the name. She doesn't need to, and
 
 **She is the only one of them who sees it**, and then she has to describe it to the brother who rode four days to be there and missed it. She sends for him before the outcome is known, so her message says *attempt* — and she is the one who then has to say the rest of it out loud. **Her account will be accurate**, Truth Seeker first, including the parts that undercut the heroic reading. She names the man — *Rosik Kemvimore* — because a complete account names him, and that is the whole of how the relation enters the room. **Nobody glosses it.** It is the same mechanism by which she has carried her aunt her entire life: the name is the speech.
 
-Tiberian will build his father into a moral compass out of that report anyway, and she will watch him do it. **Whether she knows about Mira Fen is undecided** — she is Truth Seeker primary and has spent her life mapping gaps, so it is entirely plausible she went and found out. If she did, she is the only person in that room who understands what she witnessed, listening to her brother get it wrong.
+Tiberian will build his father into a moral compass out of that report anyway, and she will watch him do it. **She knows about Mira Fen, and she found out by herself.** Nobody told her. The evidence was the alias — her father spent eight years publicly calling himself *Master Fen*, and she is the one person patient enough to ask whose surname that was. From there it is servants, and witnesses, and twenty-year-old estate business.
+
+**What she has is partial, and the limit matters.** An apothecary called Mira Fen, at the Kemvimore estate, executed by Rosik around the time her father was fifteen. She does *not* have the east hall, the two words, the note — and she does not know that **Xion was standing there and said nothing.** She knows there is a wound and not what shape it is, and she knows that she doesn't. She could not correct her brother even if she chose to.
+
+**And she chooses not to.** She works out that this is private, that her father has never wanted it known, and she sits on it — **one of the very few things she keeps from Tiberian**, who she otherwise tells everything. Nobody gave her a confidence; she imposed one on herself about something she went and dug up. **Elara does not know that she knows.** If Tiberian ever learned — and he will not — he would tell her she was right: their father's past belongs to him, he never volunteered it, nobody asked. **Never stage this as a betrayal or build a discovery scene around it.**
+
+So in that briefing she is the only person who half-understands what she witnessed, listening to her brother get it wrong, having decided in advance that she will not say so.
 
 She takes the opposite lesson from the same act. Truth Seeker →
 Engineer: what she sees is a man doing something **with no weighing in it at all** — no capacity

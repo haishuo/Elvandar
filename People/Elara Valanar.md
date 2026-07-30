@@ -349,6 +349,8 @@ literate enough to know that a thing said that way, once, in that state, was not
 redistribution. Unless Xion explicitly releases her, she never repeats it to anyone — **not to their
 children, not when telling them would be kind, and not when it would be useful.**
 
+**She also does not know that Melina worked it out.** Their daughter found Mira on her own, from the alias, and keeps it; the two of them hold the same thing from opposite directions and never once acknowledge it to each other.
+
 The consequence is deliberate and it runs to the end of the series. In Book 7 the twins watch their
 father try to save the man who came to kill him, and Tiberian reads it as proof his father always
 knows the right thing to do. He is wrong, and **the only two people alive who could correct him never

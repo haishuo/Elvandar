@@ -1568,3 +1568,44 @@ B1 ch22.
 **Left undecided on purpose:** whether Melina found out about Mira on her own. She is Truth Seeker
 primary and has spent her life mapping gaps, so it is plausible — and if she did, she is the only
 person in that room who understands what she witnessed, listening to her brother get it wrong.
+
+---
+
+## 2026-07-30 — Melina knows, and a correction to the entry above
+
+**Correcting the previous entry.** It said *"Two people alive hold it and neither will ever say it"*
+and *"Mira dies with the two of them."* **That is wrong.** It is three, and the third found it herself.
+Fixed in §2 and on the sheets.
+
+**Melina works out who Mira Fen was, unprompted.** Author's ruling. Nobody tells her — she is Truth
+Seeker primary with a lifetime of mapping gaps, and **the evidence is the alias.** Her father spent
+eight years publicly calling himself *Master Fen*, and she is the one person patient enough to ask
+whose surname that was; from there it is servants and witnesses and twenty-year-old estate business,
+and B1 ch22 already establishes that people were standing in the room. **The memorial was hidden in
+plain sight for two decades and one person read it.**
+
+**Her knowledge is capped, and the cap does real work.** She can reconstruct an apothecary named Mira
+Fen, at the Kemvimore estate, executed by Rosik around the time her father was fifteen. She does
+**not** have the east hall, the two words, the flower and the note — and above all she does not know
+that **Xion was standing there and said nothing.** She knows there is a wound and not what shape it is,
+and she knows that she doesn't. **Only Elara has the whole of it, because only Elara got it from him.**
+This keeps Melina from becoming the character who quietly understands everything, and it means she
+*could not* correct her brother even if she chose to.
+
+**And she chooses not to.** She works out that it is private and sits on it — **one of the very few
+things she keeps from Tiberian**, who she otherwise tells everything. The distinction from Elara is the
+point: **nobody gave Melina a confidence to keep.** Elara's silence was imposed by the circumstances of
+the telling; Melina imposed hers on herself, about something she went and dug up. Characterization by
+exception — the weight she assigns it is measurable by what she breaks to keep it.
+
+**Elara does not know that Melina knows.** Two of them holding the same thing from opposite directions,
+neither acknowledging it to the other, ever.
+
+**Tiberian would endorse her silence if he ever learned, and he will not.** His father's past belongs
+to his father, who never volunteered it and was never asked. **Recorded specifically so no later pass
+stages this as a betrayal or builds a discovery scene around it** — the moral verdict is on file so it
+never has to be dramatised.
+
+So: Elara has all of it and will not say it, Melina has half of it and will not say it, Xion has never
+said it unprompted in his life. **The reader holds more than any character except Elara, and has since
+B1 ch22.**

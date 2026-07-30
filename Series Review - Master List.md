@@ -219,11 +219,23 @@ Then, in order: **(1)** Rosik takes an Arol Batae spear and **nobody witnesses i
 
 **What the twins know, and what nobody will ever tell them.** They know the name. Rosik is the shape their family is built around — grandfather, Lord of Grain, exiled, the man who disinherited their father — absorbed the way Melina Valanar absorbed her aunt's death, *"not as a wound but as a shape."* **So nobody explains the relation to anybody.** Melina names him in her account because a complete account names him, and the instant *Rosik Kemvimore* is in the room the relation is in the room. Her own sheet states the family's mechanism for exactly this: **the name is the speech.** Do not have a character gloss it.
 
-**What they do not know is Mira**, and they never will. Xion does not volunteer it, in any book. **Elara will not repeat it** — she understands what it cost him to say it once, and she takes it to the grave; see her guardrail in [§5](#5-character-guardrails). Two people alive hold it and neither will ever say it, which has two consequences and both are load-bearing.
+**Tiberian does not know about Mira, and never will.** Xion does not volunteer it, in any book. **Elara will not repeat it** — she understands what it cost him to say it once, and she takes it to the grave; see her guardrail in [§5](#5-character-guardrails).
+
+**Melina works it out.** Nobody tells her; she is Truth Seeker primary with a lifetime of mapping gaps, and **the evidence is the alias.** Her father spent eight years publicly calling himself *Master Fen*, and a daughter patient enough to ask whose surname that was has a trail at the other end: Rosik executed a servant in front of witnesses, and B1 ch22 has Xion learning the details *"in pieces, from people who'd been standing in the room."* Some of them are alive twenty years later. The memorial was hidden in plain sight for two decades and one person read it.
+
+**Cap what she gets, because the cap is doing work.** She can reconstruct an apothecary named Mira Fen, at the Kemvimore estate, executed by Rosik around the time her father was fifteen. She does **not** have the east hall, the two words, the flower and the note — and above all she does not know that **Xion was standing there and said nothing.** She knows there is a wound; she does not know its shape, and she knows that she doesn't. **Only Elara has the whole of it, because only Elara got it from him.** So Melina could not correct her brother even if she chose to.
+
+**And she chooses not to.** She works out that this is private, that her father has never wanted it known, and she sits on it — **one of the few things she keeps from Tiberian**, who she otherwise tells everything. Nobody gave her a confidence to keep; she imposed one on herself about a thing she went and dug up. That is the whole of her character in one decision.
+
+**Elara does not know that Melina knows.** Two women holding the same thing from opposite directions, neither acknowledging it to the other, and neither of them ever raises it.
+
+**If Tiberian ever learned — and he will not — he would agree with her.** His father's past belongs to his father, who never volunteered it and was never asked, and that is how it was. **Do not stage this as a betrayal, do not build a discovery scene around it, and do not let any character treat Melina's silence as a failure of loyalty.** It is recorded so that a later pass knows the moral verdict without ever needing to dramatise it.
+
+Three people hold pieces of it and none of them will ever speak, which has two consequences and both are load-bearing.
 
 **Tiberian's misreading is permanent, not merely uncorrected.** He cannot read the act as a wound because nobody has ever told him there was one — so he is not being naive, he is **reasoning correctly from information his father curated by silence.** And there is no mechanism anywhere in the remaining books by which he could find out. He will carry Xion as a moral compass for the rest of his life, calibrated on a scene he is structurally incapable of reading. **Xion's refusal to explain himself is the thing that guarantees his son will misunderstand him admiringly, forever.**
 
-**And Mira dies with the two of them.** The reader is the only other party who knows, and has been since B1 ch22.
+**And Mira dies with them.** Elara has all of it and will not say it; Melina has half of it and will not say it; Xion has never said it unprompted in his life. **The reader holds more than any character except Elara**, and has since B1 ch22.
 
 **The two sights.** Mira gave him the healer's eye; Rosik gave him the geometry. B2 ch11–12 has him partition them deliberately and use his father's on purpose for the first time (*"that one was Mira's… he would not drag it down into this"*). The inheritance is tracked, not blurred — keep it that way.
 
