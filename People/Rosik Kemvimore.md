@@ -473,11 +473,17 @@ sword, his mercenaries dissolved on the spot, and the crisis Rosik was moving in
 he reached his target. **A later pass will be tempted to read the farce as evidence the scheme was a
 botch. It was not.** Rosik reasoned correctly from twenty years of data and was beaten by a heart.
 
-**He went anyway, knowing the window was gone.** The alarm resolved, the guard came back to alert, and
-the cover he had bought with the last of his network evaporated — and he was already committed. The
-network was spent buying the information; **there was no second attempt to preserve anything for.** So
-he went into a palace that was no longer distracted, and a spear found a man who two hours earlier would
-have walked past it unseen.
+**He goes in blind, and this is the correction that matters most.** He is inside the capital and the
+battle is four days' ride away. **He cannot know Kalden is dead.** He knows the plan is in motion, so he
+continues. His craft reads the building — guard posture tightening, a corridor no longer thin — so he
+knows conditions have worsened; **it cannot tell him why**, and for all he knows this is a lull inside a
+campaign still running. He reads a bad hour. It is the end.
+
+He goes anyway, because the network is spent and there is no second attempt to preserve anything for.
+**And he never learns any of it** — not that Kalden fell in minutes without drawing a sword, not that
+the mercenaries stripped the body, not that the crisis had been over for a day. He dies without
+understanding why his plan came apart, in the same minutes he dies without understanding why the man he
+came to kill knelt down to save him. **Do not give him a moment of realisation about either.**
 
 **He never explains any of it, to anyone, and he dies not having explained it.**
 

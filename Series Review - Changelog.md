@@ -1672,3 +1672,35 @@ hours earlier would have walked past it unseen.
 and the killing blow only formalised a failure that had already happened — recorded because a drafting
 pass will otherwise stage the spear as the reversal, when the reversal was a heart attack four days
 away that nobody in the scene knows about.
+
+---
+
+## 2026-07-30 — correction: Rosik goes in blind
+
+**The entry above was wrong and is corrected.** It said Rosik *"went anyway, knowing the window was
+gone"* — which hands him knowledge he cannot possibly have. **He is inside Kaha'an and the battle is
+four days' ride away.** He has no way to know Kalden is dead. He knows the plan is in motion, so he
+continues.
+
+**What he can and cannot read.** His craft reads the building: guard posture tightening, a corridor he
+expected to be thin no longer thin. So he knows conditions have worsened. **It cannot tell him why**,
+and for all he knows this is a lull inside a campaign still running. **He reads a bad hour. It is the
+end.** He proceeds because the network is spent buying the information and there is no second attempt
+to hold anything back for.
+
+**And he never learns any of it.** Not that Kalden fell in minutes without drawing a sword, not that
+the mercenaries stripped the body, not that the crisis he was moving inside had been over for a day.
+So **Rosik dies not understanding two separate things** — why his plan came apart, and why the man he
+came to kill knelt down to save him. **Do not give him a moment of realisation about either.**
+
+**This is the second time in one thread the reviewer gave Rosik knowledge he could not have** — first
+that he anticipated being intercepted at the border, now that he knew the plan had collapsed. The
+pattern is worth naming: **because Rosik is never wrong on the page, he is easy to write as
+omniscient.** The guardrail is that he is never wrong *with the information available to him*, which is
+a different and much smaller claim. A strategist who cannot be surprised is not a strategist, and the
+entire Book 7 sequence depends on him being surprised by something four days away that he never finds
+out about.
+
+*It also removes a knowing-walk-to-his-death reading that had crept in, which sat badly against the
+sheet's own account of a man who chose exile over execution because he cuts losses. He is not choosing
+death here. He thinks he is executing a plan.*
