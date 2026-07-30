@@ -266,6 +266,27 @@ Alliance partners of convenience rather than conviction. Gunastran's Nadira view
 
 ---
 
+
+### Book 7: what he thinks he is doing
+
+**He does not know he is a diversion.** He believes Rosik Kemvimore is the only man in Elvandar who
+truly understands him, that the two of them are running a pincer — siege from without, subversion from
+within — and that it ends with Xion Valanar kneeling and his destiny restored. **Rosik knew the attack
+was doomed from the first day and told him it would be glorious.** Even where Kalden half-suspects, the
+absence of self-honesty documented above closes over it: a defeat he could not absorb as persecution is
+a defeat he cannot hold in his head at all.
+
+**And he dies without swinging a sword.** Tiberian intercepts him near the Balishan border, and the
+collision between thirty years of self-narrative and a calm unimpressed young man finishes him where he
+stands — apoplexy, every accumulated ruin of his body coming due at once. His mercenaries were loyal to
+coin and not to crown; they disperse the moment their client hits the ground, and strip his body of
+valuables on the way out. **It is a farcical death and it must stay farcical.** He was owed a battle by
+his own story and does not get one line of it.
+
+**What that death costs Rosik is the whole of the plan.** See the Book 7 thread in
+`Series Review - Master List.md` §2: Rosik needed two hours, Kalden had provided exactly that at
+Silaris, and nobody could have predicted he would not last minutes.
+
 ## Personal Characteristics
 
 ### Physical Presence

@@ -452,6 +452,23 @@ A tool. Nothing more. Rosik reads Kalden in seconds: a broken man with mortgagea
 
 ---
 
+
+### Book 7: the plan was sound
+
+**Do not write the Kaha'an attempt as a miscalculation.** Rosik builds a real war around a man whose
+pride is load-bearing, exactly as he taught his son in B2 ch12 — *find the member carrying more than
+the rest, pull it, stand back.* Kalden is that member. He is not an ally and was never told he was
+anything else; Rosik assured him of a glorious victory while knowing the attack was doomed, because a
+doomed attack was the entire product. **He needed two hours of battle to hold the Crown Prince at the
+frontier**, and Kalden had furnished precisely that at Silaris.
+
+**It failed on contingency, not on error.** Kalden died of apoplexy in minutes without swinging a
+sword, his mercenaries dissolved on the spot, and the crisis Rosik was moving inside evaporated before
+he reached his target. **A later pass will be tempted to read the farce as evidence the scheme was a
+botch. It was not.** Rosik reasoned correctly from twenty years of data and was beaten by a heart.
+
+**He never explains any of it, to anyone, and he dies not having explained it.**
+
 ## Personal Characteristics
 
 ### Physical Presence

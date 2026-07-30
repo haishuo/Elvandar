@@ -1609,3 +1609,41 @@ never has to be dramatised.
 So: Elara has all of it and will not say it, Melina has half of it and will not say it, Xion has never
 said it unprompted in his life. **The reader holds more than any character except Elara, and has since
 B1 ch22.**
+
+---
+
+## 2026-07-30 — Rosik's plan was sound; Kalden never knew he was the bait
+
+**A correction to yesterday's wording first.** The entry recording the border interception said it
+*"improves Rosik's plan rather than weakening it"*, which implies he anticipated being intercepted.
+He did not, and did not need to. Replaced.
+
+**Author's ruling: the Kaha'an attempt was correct reasoning, defeated by chance.** Rosik needed
+**two hours** of battle to hold Tiberian at the frontier while he worked, and that is not a wild
+assumption — Kalden had furnished exactly that at Silaris. In the version Rosik designed for, Melina's
+dispatch reaches Tiberian *with a battle in progress*, and Tiberian very probably stays, because duty
+holds him where nothing else could. **That was the whole mechanism and it was sound.**
+
+**What beat it was contingency.** Kalden's accumulated medical ruin all came due at once; he died of
+apoplexy **without swinging a sword**; and his mercenaries, loyal to coin rather than crown, dispersed
+the moment their client hit the ground and stripped his body of valuables on the way out. **The farce
+of that death is not evidence Rosik miscalculated**, and a later pass will be tempted to read it that
+way. Recorded on both sheets and in the outline as a prohibition.
+
+**Kalden does not know he is a diversion.** He believes Rosik Kemvimore is the only man in Elvandar
+who truly understands him, that they are running a pincer, and that it ends with Xion Valanar kneeling
+and his destiny restored. Rosik knew from the first day that the attack was doomed and **told him the
+opposite.** His own sheet makes the self-deception structural: he cannot process a defeat except as
+persecution, so a suspicion that he is being used never finishes forming.
+
+**And it is Rosik's own teaching applied to a person.** B2 ch12 — *every structure has one member
+bearing more of the load than the rest; find it, pull it, and stand back while the weight does the work
+of falling.* **Kalden's pride is that member.** Rosik did not recruit an ally; he located a
+load-bearing vanity and pulled it. He never explains this to anyone, and dies not having explained it.
+
+**One consequence worth keeping, because it protects Tiberian.** He rides **because there is nothing
+left at the border to hold him** — enemy dead, army dissolved, no command left to exercise. Under the
+conditions Rosik designed for, the same man stays. Same character, different facts. A review proposal
+that he should hold position was rejected on characterization grounds and the rejection stands; this
+records *why* it was the situation and not the man, so no later reader mistakes the ride for
+impulsiveness.
