@@ -81,10 +81,18 @@ These are the spine. Each is already working; each could be broken by an unwary 
 | Silence | Defence | He says |
 |---|---|---|
 | Mira, at fifteen — B1 ch22 | terrified of his father, and it would have changed nothing | *"I didn't even try."* |
-| Tam, in the square — B1 ch1 | speaking ends Master Fen and eight years of work | *"I could have saved him then and worked the clinic out later."* |
+| Tam, in the square — B1 ch1 | speaking ends Master Fen and eight years of work | *"I nearly said them."* — and then, B1 ch11: *"I still don't know whether I decided or whether I couldn't move."* |
 | Elara, at the gate — B1 ch8 | he still can't tell her what he is | *"I couldn't."* — and she answers *"You just did."* |
 | Rosik's study — **B2** ch5 | Rosik feeds on arguments; it would move nothing | **he agrees** |
 | The disinheritance — **B2** ch16 | the same | **he agrees** |
+
+**A note on the quotations in this table, and in this document generally.** Two rows once carried
+lines that **exist nowhere in the prose** — paraphrases of Xion's position written in quotation marks
+and then cited as evidence. Both are corrected. **Every verbatim-style citation in this file has since
+been checked against the chapters**; what remains unmatched is either a deliberate quotation of text
+that was *removed* (recorded so it is not reintroduced) or a compression marked with an ellipsis or a
+slash. **If you add a quotation here, grep it first.** The register is not exempt from the rule it
+enforces on everything else.
 
 **Both accepted silences are in Book 2, and both are protecting Xion himself.** That is the whole of the difference.
 

@@ -1448,3 +1448,30 @@ attributed *"She deserves the truth, not silence."* to B1 ch8. **That line exist
 prose** — it was a paraphrase presented as a quotation, and it had been sitting in the register being
 cited as evidence. Replaced with what ch8 actually says: *"I couldn't."* answered by *"You just did."*
 The verdict the row records was right; only the quote was invented.
+
+---
+
+## 2026-07-30 — every quotation in the register audited
+
+Prompted by the ch8 fabrication found the previous day. All 79 verbatim-style citations in
+`Series Review - Master List.md` were extracted and checked against the full prose of Books 1 and 2.
+
+**A second fabrication was found, in the same table.** The silence test's Tam row gave his answer as
+*"I could have saved him then and worked the clinic out later."* **That sentence exists nowhere in
+either book.** Like the ch8 row before it, it was a paraphrase of his position written inside quotation
+marks and then cited as evidence for a verdict. The verdict was right — he rejects the defence — but
+the evidence was invented. Replaced with what he actually says: *"I nearly said them"*, and ch11's
+*"I still don't know whether I decided or whether I couldn't move."*
+
+**Everything else checked out.** Twenty of the twenty-two unmatched strings are deliberate quotations
+of text that was *removed* — *"That was the sour heart of it"*, *"Mutual vulnerability…"*, *"Stop
+saying you're sorry!"*, *"steady, certain"*, *"Both trying to find their way back to each other"*,
+*"He had given her sight, and sight had become the cage"* — recorded precisely so they are not
+reintroduced. Three more (ch13's *"You don't get to write it down"*, B2 ch5's *"Don't hand him the
+argument"*, B2 ch12's ledgers line) were live and correct; the checker's normaliser missed them on
+punctuation.
+
+**A provenance note now sits under the table.** Both fabrications were the same failure — a
+paraphrase promoted to a quotation, then trusted by a later reader — and the instruction added is
+blunt: **if you add a quotation here, grep it first.** The register is not exempt from the rule it
+enforces on everything else.
