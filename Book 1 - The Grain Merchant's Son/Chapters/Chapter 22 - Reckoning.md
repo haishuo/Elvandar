@@ -234,7 +234,7 @@ Elara was crying openly now. "I didn't know. Gods, Xion, I didn't—"
 
 Elara's face crumpled. "I'm sorry."
 
-They stood there in the fading light. Both exhausted. Both hurt. Both trying to find their way back to each other.
+They stood there in the fading light. Both exhausted. Both hurt.
 
 "I understand now," Elara said finally. "Why you can't choose. Why it matters so much."
 
@@ -253,16 +253,6 @@ He knew she was right. He could set it out the way he'd set out a case—the boy
 "Thank you," he said, because that was what you said.
 
 Something moved across Elara's face. She had expected the words to land somewhere, and they hadn't, and she didn't know why.
-
-"And I understand why you're frustrated with me. Why you want me to take a stand." Xion managed a tired smile. "We just… we see the world differently."
-
-"Does that mean we can't—"
-
-"No." He said it quickly. Firmly. "It just means we're going to fight sometimes. Like this."
-
-Elara laughed. It sounded wet. Broken. "This was our first real fight."
-
-"It was a good one."
 
 She moved closer. Wrapped her arms around him. Held on tight.
 

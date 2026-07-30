@@ -59,7 +59,7 @@
 
 24. And it does not land. The words go into him and find nothing to hold on to. He knows she is right and can set it out the way he would set out a case — the boy is alive, the boy is home, the boy will grow up and get old and one day tell someone about this — every part of it true, and none of it reaching the place it is meant to reach. He says thank you, because that is what you say. Something moves across Elara's face. She expected the words to land somewhere and they have not, and she does not know why. The chapter does not explain it to her or to the reader.
 
-25. The repair, such as it is: he understands why she is frustrated and why she wants him to take a stand, and they simply see the world differently. Does that mean they cannot—. No, quickly and firmly; it means they are going to fight sometimes, like this. Her laugh comes out wet and broken — this was their first real fight. It was a good one. She wraps her arms around him and holds on, and he feels her shaking and his own exhaustion pressing down, and they stand there as the light fades. End there.
+25. **No repair, and nothing said.** She stops using words, because she has just watched words fail and she is the one in the room who reads what is in front of her. She moves closer, wraps her arms around him and holds on, and he holds her back — he cannot take the absolution and he can take *her*, and the chapter does not remark on the difference. He feels her shaking, which is the right way round: she is the one who just failed at something and does not know why. They stand there as the light fades. End there.
 
 ---
 
@@ -70,6 +70,16 @@
 **On the Mira Fen telling, which is extracted and not confided.** He does not decide to tell her. He is accused of not caring that people hurt children like Tam, the accusation lands exactly on the wound, and the story comes out of him at a volume he has never used with her. That mechanism is not decoration — **Xion never volunteers this, in any book.** Anyone writing a later scene where he explains himself calmly, to anyone, is writing a different man.
 
 **On the argument he wins and the argument he loses.** Ch15 inverted: there he won on logic and was not answered on substance; here she attacks on substance and he answers with the reason, and the reason is unanswerable because it is not an argument at all — it is a dead woman. Neither of them is persuaded of anything. What changes is that she now knows *why*, which is not agreement, and the chapter must not pretend it is.
+
+**On beat 25, and why this draft used to end differently.** Until 2026-07-29 the chapter ran nine more
+lines after the absolution failed: *we see the world differently*, *does that mean we can't—*, *no,
+quickly and firmly*, and *"This was our first real fight." / "It was a good one."* Cut on rule 3. None
+of it claimed Xion had been reached — but the **shape** was reconciliation, and shape is what a reader
+carries out of a chapter, so beat 24's failure was being un-landed one paragraph after it happened.
+This draft described those lines as *"the repair, such as it is"* and instructed *End there*, which is
+the retro-draft failure mode in its purest form: written by summarising the prose, it inherited the
+prose's flaw and laundered it into the plan — while the footer directly below said the absolution not
+landing was the real ending and must not be fixed. **The footer was right and the beat was wrong.**
 
 **On the absolution not landing, which is the real ending and must not be fixed.** She offers him the one sentence that ought to work and it goes in and finds nothing to hold on to, and he thanks her because that is what you say, and she sees it fail and does not know why. This is the ledger thread — Janice's gift in ch13, Elara's here — and both are refused not out of stubbornness but because the account is not the kind that can be credited. **Book 2 is built on it still being open.** Do not let a revision give him a moment of relief here, and do not have anyone explain to Elara what just happened.
 

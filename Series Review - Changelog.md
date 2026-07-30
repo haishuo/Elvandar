@@ -1164,3 +1164,63 @@ one who deals in what it costs. Nothing states the theme now.
 
 Royal Road regenerated for both chapters. **Book 1 is down to one craft item, C-21**, which is a
 judgment call on two lines of ch22 and needs the author rather than a pass.
+
+---
+
+## 2026-07-29 — C-21 refiled as rule 3 and applied; both books are now clear
+
+**The flag was right that something was wrong and wrong about what.** C-21 named ch22's *"This was
+our first real fight." / "It was a good one."* as a surviving closing swell. The swell was the
+symptom. The chapter had **two endings stacked on each other.**
+
+**The real one** (l.239–255): Elara offers him the sentence that ought to work, *carefully, the way a
+person handles something that might come apart* — and *"The words went into him and found nothing to
+hold on to."* He thanks her *because that was what you said.* And: *"Something moved across Elara's
+face. She had expected the words to land somewhere, and they hadn't, and she didn't know why."*
+
+**The second one** (l.257–265): a repair sequence, immediately on top of it. *"we see the world
+differently"*, *"Does that mean we can't—"*, *"No." He said it quickly. Firmly.*, the wet broken
+laugh, the fight and the good one.
+
+Nothing in the second sequence claimed Xion had been reached. But its **shape** is reconciliation,
+and shape is what a reader carries out of a chapter, so the failure was being un-landed one paragraph
+after it happened. **That makes it rule 3, not craft** — the chapter is built for one thing, that she
+cannot reach him, and the last thing on the page was warmth. Refiled and applied on that basis.
+
+**Cut: l.257–265.** The chapter now runs from her watching it fail straight to the embrace:
+
+> Something moved across Elara's face. She had expected the words to land somewhere, and they hadn't,
+> and she didn't know why.
+>
+> She moved closer. Wrapped her arms around him. Held on tight.
+>
+> Xion held her back. Felt her shaking. Felt his own exhaustion pressing down.
+>
+> They stood there as the light faded.
+
+**Rule 2 was checked first, and the cut is what her sheet says.** Elara reads rooms. She has just
+watched words fail and registered them failing; having her keep talking after that is off her, and
+having her stop and use the only other thing available is exactly her. Xion's deflection is not lost
+either — *"Thank you," he said, because that was what you said* **is** the deflection, and the cut
+sequence was a second one. He holds her back, so the ending is not cold: he cannot take the
+absolution and he can take *her*, and the chapter does not remark on the difference.
+
+**Also cut:** l.237's third clause, *"Both trying to find their way back to each other"* — the
+narrator announcing the scene's project, and *fading light* there pre-spent the closing image four
+paragraphs early. 2,557 → 2,481 words; ch22 stays deliberately small for what it carries.
+
+**Blast radius clean.** *"first real fight"* and *"see the world differently"* appear nowhere
+downstream. ch23 opens the next morning on the two of them in the warehouse, so *"Does that mean we
+can't—"* was answered by the following chapter's first paragraph anyway, and the air the cut lines
+provided is one page later, which is where rule 3 says contrast belongs.
+
+**The beat draft is corrected, and the correction is the interesting part.** Beat 25 planned the cut
+lines — *"The repair, such as it is… End there."* — while the footer four paragraphs below said the
+absolution not landing *"is the real ending and must not be fixed."* The draft contradicted itself,
+and the beat was the wrong half. This is the retro-draft failure mode in its purest recorded form:
+written by summarising finished prose, it inherited the prose's flaw and laundered it into the plan.
+The blind read is what is supposed to catch that, and here it did not. Beat 25 rewritten, and a
+footer added naming what happened so the next reader can see it.
+
+**Status: nothing outstanding in either book.** Every item ever filed against Books 1 and 2 is closed,
+withdrawn, or applied.

@@ -21,12 +21,12 @@ them before it is proposed against the prose.
 | **Rule 1** — coherence | 0 | — |
 | **Rule 2** — characterization | 0 | — |
 | **Rule 3** — single-emotion integrity | 0 | — |
-| **Craft — Book 1** | 1 | C-21 |
+| **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
 | **Open questions** | 0 | — |
 
-**1 item outstanding across both books**, craft-tier, and it is a judgment call rather than a defect.
-Nothing in Books 1–2 currently breaks a rule.
+**Nothing outstanding in either book.** Every item ever filed against Books 1 and 2 is closed,
+withdrawn, or applied.
 
 **Before flagging anything here as outstanding, check the history.** This document has now produced
 more stale entries than live ones. Eight of the original eleven Book 1 craft flags were stale — the
@@ -206,12 +206,9 @@ else.** Full reasoning in the changelog.
 
 ### Craft — Book 1
 
-| # | Item |
-|---|---|
-| C-21 | **Narrowed, and it is a judgment call rather than a defect.** One surviving closing swell: ch22's *"This was our first real fight." / "It was a good one."*, landing a beat after the Mira confession. ch6's *"counted themselves lucky to survive until sunset"* and ch23's four paragraphs of *"Tomorrow everything would change"* were removed by the C-22 ending pass. **ch22 is do-not-touch for the confession itself** — this is the two lines after it, not the scene, and the argument for keeping them is that they are the only air the chapter gives the reader. Needs the author, not a pass. |
-
-*C-3, C-17 and C-19 were closed by work that came in with the cloud-branch merge; C-16 and C-18 were
-fixed on 2026-07-29. Evidence for all five in [§6](#6-settled-rulings).*
+**None outstanding.** C-21 was the last item and is applied — see [§6](#6-settled-rulings). C-3, C-17
+and C-19 were closed by work that came in with the cloud-branch merge; C-16, C-18 and C-21 were fixed
+on 2026-07-29.
 
 ### Craft — Book 2
 
@@ -483,6 +480,7 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 | C-7 | ch9's marriage-alliance cover is loaded and never tested at the ball. | ch10 l.121–139 — Tania probes the cover directly (*"is he attentive, or is he merely thorough?"*), and the text registers that three days of training covered the insults and nothing at all covered someone being kind to Elara about him. |
 | C-9 | ch23's Vesk — twenty years of fury evaporates in ten lines, sequenced backwards (concedes, then attacks). | Re-sequenced and expanded to ~50 lines: the fourteen-days accounting first, Elara's account second (*"I didn't think about you"*), the concession last. |
 | C-10 | ch22 — Elara reaches for the ch15 slaver argument verbatim; the text should register that she knows. | ch22 l.101 — *"the same weapon, off the same shelf… she had reached for it because the first time it had gone in."* |
+| C-21 | Surviving closing swells. ch6 and ch23 were cleared by the C-22 pass; ch22's *"This was our first real fight." / "It was a good one."* remained. | **Refiled as a rule 3 item and applied.** The flag named the joke; the problem was the nine lines above it. ch22 had two endings stacked — the absolution failing (*"The words went into him and found nothing to hold on to"*, and Elara watching it fail without understanding why), and then a **repair sequence** on top of it: *we see the world differently*, *does that mean we can't—*, *no, quickly and firmly*, and the fight/good-one exchange. None of it claimed Xion had been reached, but the *shape* was reconciliation, and shape is what a reader carries out — so the failure was un-landed one paragraph after it happened. Nine lines cut; the chapter now goes from her watching it fail straight to the embrace. **It also puts Elara on her own instrument:** she reads rooms, she has just seen words fail, so she stops using them. He holds her back — he cannot take the absolution and he can take *her*, and nothing remarks on the difference. l.237's *"Both trying to find their way back to each other"* went too (the narrator announcing the scene's project, and *fading light* there pre-spent the closing image). 2,557 → 2,481 words. **The beat draft planned the cut lines and its own footer contradicted them**; footer was right, beat was wrong, and both are corrected. |
 | C-16 | ch5 — *"Her voice grew stronger, more certain"* twice, four lines apart (l.99, l.103), plus *"steady, certain"* eight lines later. | The second attribution cut entirely — she is not swelling there, she is batting away an objection, and the dialogue carries it: *"Everything is dangerous in this city. Besides, I'm not helpless."* Xion looking at his bandaged shoulder is the beat that follows and it lands harder without a pause in front of it. l.99 **keeps** its swell, which is where she is actually building. *"steady, certain"* → *"steady"*; *steady* already said it. |
 | C-18 | ch11 — *"Mutual vulnerability. The foundation of any good partnership."* Theme stated in dialogue. | Replaced with the concrete trade, in her register and sourced in the chapter: *"You're carrying the thing that gets me taken. I'm carrying the thing that gets you executed. It seemed only fair to me too."* The last line answers his *"Seemed only fair"* two lines above. **The theme is no longer named by anyone** — he then reaches for *partners* himself, which is better assigned: he is the one who needs to know what a thing is, she is the one who deals in what it costs. |
 | C-3 | ch3's first movement is summary — four days of elimination compressed, with only Jorik dramatized. | **Closed on merit, not by a fix.** ch3 now runs four scenes, and the Amber Leaf refusal that carries the chapter is fully dramatized; the front-half compression is the chapter working, not a montage. Two independent readings reached *not a finding* separately. |
