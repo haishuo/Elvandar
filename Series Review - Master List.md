@@ -217,6 +217,14 @@ Then, in order: **(1)** Rosik takes an Arol Batae spear and **nobody witnesses i
 
 **Rosik is their grandfather, and neither twin has ever met him** — he has been in exile since Book 3. Tiberian rides four days not knowing whether his father is alive, and arrives to find him unhurt, a grandfather he never knew dead on the floor, and his father having spent those hours trying to save the man who came to murder him.
 
+**What the twins know, and what nobody will ever tell them.** They know the name. Rosik is the shape their family is built around — grandfather, Lord of Grain, exiled, the man who disinherited their father — absorbed the way Melina Valanar absorbed her aunt's death, *"not as a wound but as a shape."* **So nobody explains the relation to anybody.** Melina names him in her account because a complete account names him, and the instant *Rosik Kemvimore* is in the room the relation is in the room. Her own sheet states the family's mechanism for exactly this: **the name is the speech.** Do not have a character gloss it.
+
+**What they do not know is Mira**, and they never will. Xion does not volunteer it, in any book. **Elara will not repeat it** — she understands what it cost him to say it once, and she takes it to the grave; see her guardrail in [§5](#5-character-guardrails). Two people alive hold it and neither will ever say it, which has two consequences and both are load-bearing.
+
+**Tiberian's misreading is permanent, not merely uncorrected.** He cannot read the act as a wound because nobody has ever told him there was one — so he is not being naive, he is **reasoning correctly from information his father curated by silence.** And there is no mechanism anywhere in the remaining books by which he could find out. He will carry Xion as a moral compass for the rest of his life, calibrated on a scene he is structurally incapable of reading. **Xion's refusal to explain himself is the thing that guarantees his son will misunderstand him admiringly, forever.**
+
+**And Mira dies with the two of them.** The reader is the only other party who knows, and has been since B1 ch22.
+
 **The two sights.** Mira gave him the healer's eye; Rosik gave him the geometry. B2 ch11–12 has him partition them deliberately and use his father's on purpose for the first time (*"that one was Mira's… he would not drag it down into this"*). The inheritance is tracked, not blurred — keep it that way.
 
 ---

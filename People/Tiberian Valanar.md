@@ -199,11 +199,17 @@ does not know — **and he is not asking from outside.** He has just spent four 
 same engine. What he is really asking is whether he could have pointed it at *the man who came to kill
 his father*, and the answer is no, and that is why it lands as awe rather than as distance.
 
-**He is wrong, and nobody corrects him.** It is not a moral achievement. It is a compulsion assembled
-at fifteen out of a dead apothecary and never once revised, and Xion has never in eight books been
-able to describe it as a choice. **Tiberian is reading a wound as a virtue** — which is what sons do,
-and which is the whole reason the scene is worth writing. Do not resolve it. No character explains it
-to him, and Xion least of all.
+**He is wrong, and nobody corrects him — ever.** It is not a moral achievement. It is a compulsion
+assembled at fifteen out of a dead apothecary and never once revised, and Xion has never in eight books
+been able to describe it as a choice. **Tiberian is reading a wound as a virtue.**
+
+**And he cannot do otherwise, because he has never been told there was a wound.** He knows Rosik as a
+shape — grandfather, Lord of Grain, exiled — the way he knows everything about his family. **He does
+not know about Mira Fen.** Xion never volunteers it, and Elara will not repeat it. So Tiberian is not
+being naive here; he is reasoning correctly from information his father curated by silence, and there
+is **no mechanism left in the series by which he could find out.** He will carry Xion as his moral
+compass for the rest of his life, calibrated on a scene he is structurally incapable of reading
+correctly. Do not resolve it. No character explains it to him, and Xion least of all.
 
 ## Personal Characteristics
 

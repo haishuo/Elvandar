@@ -1525,3 +1525,46 @@ save the man who came to murder him.
 
 Recorded in `Series Review - Master List.md` §2, `elvandar_series_outline.md`, and the Tiberian and
 Melina Valanar sheets.
+
+---
+
+## 2026-07-30 — who knows what, in Book 7
+
+The last open question on the Rosik beat, and the answer came out of the documents rather than out of
+invention.
+
+**The twins know the name.** Rosik is the shape their family is built around — grandfather, Lord of
+Grain, exiled, the man who disinherited their father. Nothing had to be decided about this, because
+Melina Valanar's sheet already states the family's mechanism, about her aunt: *"Xion never speaks of it
+directly. He doesn't need to. **The name is the speech**"*, and she has known it her whole life *"not
+as a wound but as a shape."* The same applies here. **So nobody explains the relation to anybody.**
+Melina names the man in her account because a complete account names him, and the instant *Rosik
+Kemvimore* is in the room the relation is in the room.
+
+*A review proposal for Elara to name it aloud was withdrawn.* It was solving an information problem
+that does not exist — under the ruling above, no information needs transferring, and a character
+glossing the relation would be decoding an image the reader already has.
+
+**What they do not know is Mira, and they never will. Author's ruling, and it is a new Elara
+guardrail.** Xion does not volunteer it in any book. **Elara will not repeat it** — not from propriety
+but from character: she understands what it cost him to say it once, mid-fight, under accusation, and
+she knows a thing said that way was not handed over for redistribution. Unless he explicitly releases
+her she takes it to the grave, **including from their children, including when telling them would be
+kind.** Recorded on her sheet, where nothing of the sort existed before; a Book 5 or Book 8 pass would
+have breached it in a scene where disclosure was convenient.
+
+**Two consequences, both load-bearing.**
+
+*Tiberian's misreading is permanent, not merely uncorrected.* He cannot read the act as a wound because
+nobody has told him there was one — so he is not naive, he is **reasoning correctly from information
+his father curated by silence**, and no mechanism remains in the series by which he could find out. He
+will carry Xion as a moral compass for life, calibrated on a scene he is structurally incapable of
+reading. **Xion's refusal to explain himself is what guarantees his son misunderstands him admiringly,
+forever.**
+
+*And Mira dies with the two of them.* The reader is the only other party who knows, and has been since
+B1 ch22.
+
+**Left undecided on purpose:** whether Melina found out about Mira on her own. She is Truth Seeker
+primary and has spent her life mapping gaps, so it is plausible — and if she did, she is the only
+person in that room who understands what she witnessed, listening to her brother get it wrong.

@@ -339,6 +339,21 @@ The connection represents both her greatest unique asset and her most terrifying
 
 ---
 
+
+### She never repeats what he told her in B1 ch22
+
+**Mira Fen is Xion's to tell, and he does not tell it.** Elara has it only because it was extracted
+from him at volume, mid-fight, when she accused him of not caring — and she understands precisely what
+it cost him to say it once. **She takes it to the grave.** Not out of propriety: she is emotionally
+literate enough to know that a thing said that way, once, in that state, was not handed over for
+redistribution. Unless Xion explicitly releases her, she never repeats it to anyone — **not to their
+children, not when telling them would be kind, and not when it would be useful.**
+
+The consequence is deliberate and it runs to the end of the series. In Book 7 the twins watch their
+father try to save the man who came to kill him, and Tiberian reads it as proof his father always
+knows the right thing to do. He is wrong, and **the only two people alive who could correct him never
+will.** See [the Book 7 thread](../Series%20Review%20-%20Master%20List.md).
+
 ## Personal Characteristics
 
 ### Physical Presence

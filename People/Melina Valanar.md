@@ -195,7 +195,9 @@ She has never asked her father directly about the name. She doesn't need to, and
 
 ### What she takes from her father's last patient (Book 7 — planned, not written)
 
-**She is the only one of them who sees it**, and then she has to describe it to the brother who rode four days to be there and missed it. She sends for him before the outcome is known, so her message says *attempt* — and she is the one who then has to say the rest of it out loud. **Her account will be accurate**, Truth Seeker first, including the parts that undercut the heroic reading; Tiberian will build his father into a moral compass out of it anyway, and she will watch him do that too.
+**She is the only one of them who sees it**, and then she has to describe it to the brother who rode four days to be there and missed it. She sends for him before the outcome is known, so her message says *attempt* — and she is the one who then has to say the rest of it out loud. **Her account will be accurate**, Truth Seeker first, including the parts that undercut the heroic reading. She names the man — *Rosik Kemvimore* — because a complete account names him, and that is the whole of how the relation enters the room. **Nobody glosses it.** It is the same mechanism by which she has carried her aunt her entire life: the name is the speech.
+
+Tiberian will build his father into a moral compass out of that report anyway, and she will watch him do it. **Whether she knows about Mira Fen is undecided** — she is Truth Seeker primary and has spent her life mapping gaps, so it is entirely plausible she went and found out. If she did, she is the only person in that room who understands what she witnessed, listening to her brother get it wrong.
 
 She takes the opposite lesson from the same act. Truth Seeker →
 Engineer: what she sees is a man doing something **with no weighing in it at all** — no capacity
