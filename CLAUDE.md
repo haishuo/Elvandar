@@ -234,6 +234,23 @@ from the chapter filename, treats a leading heading as a paragraph, and renders 
 (Timeline / Characters / Emotional work / POV), footer notes on the load-bearing decisions.
 Functional planning documents, not prose. `Templates/Beat Draft Template.md` is the pattern.
 
+**The beat draft is canon. The prose is derived from it.** The order of work is beat draft →
+chapter → skeleton, and the order of authority runs the same way. A chapter is written *from* its
+draft; if the two disagree, the draft is the plan and the page is the thing that drifted. Changing
+the plan is allowed and often right — but it is a change to the draft, made deliberately and
+recorded, not something the prose is permitted to do quietly on its own.
+
+**Book 1 is the exception, and it is the only one.** It was written before this project had beat
+drafts at all, so its twenty-five drafts were reverse-engineered from finished chapters in 2026.
+For Book 1 alone the direction inverts: **the page is the source and the drafts are derived from
+it**, which means a Book 1 draft that disagrees with its chapter is simply stale and gets corrected
+to match. Never apply that inversion to another book. Everything after Book 1 is planned first.
+
+Whichever way authority runs for the book in hand, **the two move in the same commit.** A document
+that disagrees with its counterpart is not a second opinion; it is a bug, and it is the kind that
+gets trusted. Book 1's ch8, ch11, ch19 and ch20 drafts sat stale for two days after the prose was
+rewritten, and the skeleton built on top of them inherited every one of the errors.
+
 **Describe conversations; do not script them.** House measurements, for calibration: ~18–20 beats,
 ~10 bold spans, footers of 400–750 words written as prose paragraphs under `**On X:**` headers,
 and **quoted or italicised text at roughly 10–15% of the draft.** A first attempt at Book 1's
@@ -255,8 +272,10 @@ notes. Both structural cuts this method has proposed so far were wrong, and wron
 direction. Check the length profile before writing the footer.
 
 **Chapter skeletons are built from the beat drafts, not before them.** `*_skeleton.md` is a
-derived artifact — bottom-up from what the chapters actually do, never a top-down outline the
-drafts are then made to match.
+derived artifact, assembled bottom-up from the drafts once a book has a full set of them — never a
+top-down outline the drafts are then made to match. It is the last document in the chain and the
+first one to go quietly wrong, because nothing downstream of it complains when it drifts. **When a
+beat draft changes, the skeleton entry for that chapter changes with it.**
 
 **Character sheets:** stack first, then function, then guardrails. The guardrails are the point —
 they are what stops a character from drifting between books.

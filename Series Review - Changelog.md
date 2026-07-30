@@ -1257,3 +1257,31 @@ figure wrong by twenty per cent.
 
 A maintenance note is in the file's HTML comment listing every number that goes stale if Book 1 is
 edited again. **The published artifact copy is the pre-revision version and carries the old figures.**
+
+---
+
+## 2026-07-30 — the derived-document chain written into CLAUDE.md
+
+**Author's ruling on the direction of authority.** The order of work is **beat draft → chapter →
+skeleton**, and the order of authority runs the same way. The beat draft is canon; the prose is
+derived from it. If the two disagree, the draft is the plan and the page is what drifted. Changing
+the plan is allowed and often right, but it is a change *to the draft*, made deliberately and
+recorded — not something the prose does quietly on its own.
+
+**Book 1 is the exception and the only one.** It was written before the project had beat drafts, so
+its twenty-five drafts were reverse-engineered from finished chapters. For Book 1 alone the page is
+the source and the drafts are derived, which means a Book 1 draft that disagrees with its chapter is
+stale and gets corrected to match. The inversion does not transfer to any other book.
+
+**And whichever way authority runs, the two move in the same commit.** This was written down because
+it had just failed: Book 1's ch8, ch11, ch19 and ch20 drafts sat stale for two days after the prose
+was rewritten on the other line, and `book1_chapter_skeleton.md` — built on top of those drafts —
+inherited every error. The skeleton's ch8 entry still described *"Three fountains, escalating and not
+interchangeable"* after the chapter had been rebuilt around a single fountain and a gate. **The
+merge reconciled the register and the prose and never checked the planning layer.**
+
+The skeleton rule was also reworded. It had described the Book 1 case (*"bottom-up from what the
+chapters actually do"*) as though it were the general one; it now says the skeleton is assembled from
+the **drafts**, once a book has a full set, and that a beat-draft change carries its skeleton entry
+with it. It is the last document in the chain and the first to go quietly wrong, because nothing
+downstream complains when it drifts.
