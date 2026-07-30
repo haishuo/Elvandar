@@ -462,10 +462,22 @@ anything else; Rosik assured him of a glorious victory while knowing the attack 
 doomed attack was the entire product. **He needed two hours of battle to hold the Crown Prince at the
 frontier**, and Kalden had furnished precisely that at Silaris.
 
+**The mechanism, which Kalden was never told.** An hour of fighting at the frontier — two if it went
+well — puts the capital on a war footing, and **a city on a war footing looks outward.** That was the
+window he was buying. He burned what little of his Kaha'an network still existed to establish where Xion
+would be, infiltrated on the tradecraft he had as a Long Knife long before he was a grain lord, and
+meant to take him inside the chaos.
+
 **It failed on contingency, not on error.** Kalden died of apoplexy in minutes without swinging a
 sword, his mercenaries dissolved on the spot, and the crisis Rosik was moving inside evaporated before
 he reached his target. **A later pass will be tempted to read the farce as evidence the scheme was a
 botch. It was not.** Rosik reasoned correctly from twenty years of data and was beaten by a heart.
+
+**He went anyway, knowing the window was gone.** The alarm resolved, the guard came back to alert, and
+the cover he had bought with the last of his network evaporated — and he was already committed. The
+network was spent buying the information; **there was no second attempt to preserve anything for.** So
+he went into a palace that was no longer distracted, and a spear found a man who two hours earlier would
+have walked past it unseen.
 
 **He never explains any of it, to anyone, and he dies not having explained it.**
 

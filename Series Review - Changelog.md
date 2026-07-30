@@ -1647,3 +1647,28 @@ conditions Rosik designed for, the same man stays. Same character, different fac
 that he should hold position was rejected on characterization grounds and the rejection stands; this
 records *why* it was the situation and not the man, so no later reader mistakes the ride for
 impulsiveness.
+
+---
+
+## 2026-07-30 — Rosik's window, and why he went in without it
+
+The mechanism the previous entry left open is now on file. **Author's confirmation of the reviewer's
+inference**, which is recorded as such because the inference was flagged as unrecorded guesswork at the
+time and should not now be laundered into having been canon.
+
+**The plan Kalden never heard.** An hour of fighting at the frontier, two if it went well, puts Kaha'an
+on a war footing — **and a city on a war footing looks outward.** That was the window, and it was the
+whole product Kalden was unknowingly manufacturing. Rosik **burned what little of his network still
+existed in the capital** to establish where Xion would be, infiltrated on the Long Knife tradecraft he
+had long before he was a grain lord, and meant to take him inside the chaos.
+
+**And when the window closed, he went anyway.** Kalden died in minutes, the alarm resolved, the guard
+came back to alert, and the cover he had bought with his last asset evaporated. **He was already
+committed** — the network was spent buying the information, so there was no second attempt to preserve
+anything for. He went into a palace that was no longer distracted, and a spear found a man who two
+hours earlier would have walked past it unseen.
+
+**Which makes the spear almost incidental.** The plan died when Kalden did. Rosik went in knowing it,
+and the killing blow only formalised a failure that had already happened — recorded because a drafting
+pass will otherwise stage the spear as the reversal, when the reversal was a heart attack four days
+away that nobody in the scene knows about.
