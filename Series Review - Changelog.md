@@ -1475,3 +1475,53 @@ punctuation.
 paraphrase promoted to a quotation, then trusted by a later reader — and the instruction added is
 blunt: **if you add a quotation here, grep it first.** The register is not exempt from the rule it
 enforces on everything else.
+
+---
+
+## 2026-07-30 — Book 7's Rosik sequence settled
+
+The blast-radius problem flagged the day before is resolved. **Author's sequencing**, and it fixes a
+rule 1 hole the outline had been carrying.
+
+**Kalden never reaches Kaha'an.** Tiberian intercepts him near the Balishan border, because stopping
+an enemy force short of the capital is the Crown Prince's job and he is good at it — the outline's
+version, in which a mercenary army marches to the city gates, does not survive contact with the man
+defending them. **And it strengthens Rosik rather than weakening him:** the loud doomed army was
+always a lure, so stopping it at the frontier puts Tiberian days away from his father, which is
+precisely what it was for.
+
+The order: Rosik takes the spear, unwitnessed → the guard carries him to Xion, who is with Elara →
+Xion asks permission and works, **Melina witnessing** → Melina sends at once, and the message says
+*attempt* → Xion fails → Tiberian arrives too late and Melina briefs him. **POV: Melina for the death,
+Tiberian for the arrival.**
+
+**The wound is brought to him.** Author's ruling, and load-bearing: if Xion goes looking for Rosik he
+has *intent*, which converts a compulsion into a demonstration and kills the scene. The body arrives
+and the other thing takes over before he decides anything, as it has since B1 ch18.
+
+**A review proposal was raised and rejected, and the rejection is the useful part.** The reviewer
+argued Tiberian should hold position — that his sheet's *"the tiger who learned to wait"* culmination
+meant riding home was regression, and that a son choosing duty where his father never could was the
+stronger shape. **The author overruled it flatly:** characters act like themselves, not so plot points
+resolve. The objection also did not survive checking — the sheet's *"resisting the urge to rush into
+Rosik's traps"* describes the **campaign** phase, and by the time the message arrives Kalden is dead
+and the trap has already sprung, so there was nothing left to ride into. **The contradiction was
+manufactured.** This is the reviewer failure mode named at the top of the register — reaching for
+thematic shape and paying for it out of rule 2 — committed while quoting the rule.
+
+**And the author's version is better on its own terms.** Tiberian does not need to differ from Xion for
+the beat to work; he needs to be **the same.** The ride is the identical reflex — *he went anyway* —
+aimed at a different object and producing the same result: too late, and he would do it again tomorrow.
+Which means that when he asks whether he could have done what his father did, he is not asking from
+outside. He has just proved he owns the same engine. What he is really asking is whether he could have
+pointed it at the man who came to kill his father, and the answer is no — **awe rather than distance.**
+
+**Two constraints follow and are recorded.** Elara is in the room and does not intervene; she tried to
+absolve him in B1 ch22 and watched it fail, and she is the only person present who knows exactly what
+she is watching. And **Rosik is the twins' grandfather, whom neither has ever met** — he has been in
+exile since Book 3 — so Tiberian rides for days not knowing whether his father is alive and arrives to
+find him unhurt, a grandfather he never knew dead, and his father having spent those hours trying to
+save the man who came to murder him.
+
+Recorded in `Series Review - Master List.md` §2, `elvandar_series_outline.md`, and the Tiberian and
+Melina Valanar sheets.

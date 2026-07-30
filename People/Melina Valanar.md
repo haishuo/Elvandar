@@ -195,7 +195,9 @@ She has never asked her father directly about the name. She doesn't need to, and
 
 ### What she takes from her father's last patient (Book 7 — planned, not written)
 
-Melina watches the same act her brother does and takes the opposite lesson from it. Truth Seeker →
+**She is the only one of them who sees it**, and then she has to describe it to the brother who rode four days to be there and missed it. She sends for him before the outcome is known, so her message says *attempt* — and she is the one who then has to say the rest of it out loud. **Her account will be accurate**, Truth Seeker first, including the parts that undercut the heroic reading; Tiberian will build his father into a moral compass out of it anyway, and she will watch him do that too.
+
+She takes the opposite lesson from the same act. Truth Seeker →
 Engineer: what she sees is a man doing something **with no weighing in it at all** — no capacity
 assessment, no cost, no legal basis, none of the questions she would have asked — and doing it anyway,
 and failing. She is the one whose near-ruin in Book 6 was that endless analysis is its own kind of
