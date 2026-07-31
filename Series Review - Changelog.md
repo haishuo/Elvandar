@@ -2111,3 +2111,47 @@ throughout.
 Harkim's and the outline is explicit that the Valanars do not appear. **The two people who carry Books 5–8
 are born inside the one book architecturally incapable of showing it** — which is not a gap to repair by
 giving Book 4 a scene, because the protagonists' absence is that book's design.
+
+---
+
+## 2026-07-31 — The King's Gambit recorded
+
+Author's story, filed as the second personal entry in `Offstage.md`. **It closes the largest hole in the
+Compact War entry filed an hour earlier**, where "how it ended" amounted to *an Alliance counteroffensive*
+and nothing else. This is the causal core: **why the Compact lost.**
+
+**Checked against Book 3 ch18 before recording and it fits.** That beat draft already has the Compact
+targeting Empirica for its Lathion research and its coastal supply line, has the council conceding the
+enemy assessment is professionally correct, and has the Compact calculating around Terinok's blood oaths.
+A pincer designed to take Uratha before Terinok can relieve it sits inside that cleanly.
+
+**The mechanism, in one line: Xion baits Kalden out of the pincer.** A staged coup against his own wife —
+Elara, Vesk and the Arol Batae all in on it — performed for exactly one audience. It works because it
+**confirms what Kalden already believes**, and he believes it because he is himself a power-hungry man and
+assumes it of everyone. Kalden abandons the link-up to invest Kaha'an, calls it seizing the opportunity,
+and arrives with a host of horse and nothing to reduce a city with, **because Erulian cavalry considers
+road-building beneath it.** He sits in front of the walls while Terinok comes up and Gunastran fights
+alone.
+
+**Two things follow that were not in the telling and are now on the page.**
+
+*Xion runs his father's play.* Find the member bearing more of the load than the rest, pull it, stand back
+— B2 ch12, in Rosik's own words. He inherited the geometry along with the healer's eye and by this point
+knows how to point it. **And the man he uses it on is the same man Rosik will pull the identical lever on
+twenty years later.** Two Kemvimores, one prince, one weakness.
+
+*And it makes Xion partly the author of Kalden's ruin.* The Erulian ledger that defines Book 7 begins with
+a war Kalden lost, and he lost it here. **Which produced exactly the broken, resourced, grievance-bearing
+man Rosik later needed.** The attempt on Xion's life traces back along a chain nobody ever walks to Xion's
+own gambit — recorded with the instruction that **no character ever works this out.**
+
+**On Elara.** She agrees to be publicly deposed, and the cost is hers rather than his: an empress seen to
+be set aside by her consort in wartime does not get that back cleanly. **That she pays it for a plan whose
+entire motive is a debt she has told him he does not owe** is the marriage in one decision.
+
+**Four things left open rather than assumed**, and the first is substantial: **the siege of Kaha'an appears
+nowhere else in the series.** The imperial capital invested by an enemy army is a large event and Books 5–8
+never mention it — so either it surfaces as history later, or the investment was brief enough to be a
+footnote, but that is a decision. Also open: who among the allies had to be told (believe the coup and the
+Alliance fractures; tell them and three governments hold the secret); whether it was ever publicly
+corrected; and **Commander Vesk, who has no character sheet and appears in no material after Book 1.**

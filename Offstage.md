@@ -203,7 +203,7 @@ authorising integrated units, declaring that all Urathans serve equally in the d
 equipped for the war it was in, and its gaps were absorbed in the field by Terinok — the nation Urathan
 scholars condescend to most openly.
 
-**How it ended.** An Alliance counteroffensive, with **Terinok warriors leading the assault on Empirica**
+**How it ended, and why the Compact lost.** The northern arm of the pincer never arrived — see **The King's Gambit** below, which is the causal core of the whole war. Then an Alliance counteroffensive, with **Terinok warriors leading the assault on Empirica**
 while Lathion-derived defensive technology was deployed. Resistance activated inside the city, scholar and
 bakarn together. The liberation was messy and violent. The Alliance won.
 
@@ -225,8 +225,9 @@ separate note below.
 - **The dates.** No BR year is pinned for the war's start or end. `Story Timeline.md` places Book 5 at
   roughly twenty years after Book 1 (~1064 BR) and the war "following the Book 3 alliance", which leaves a
   wide unpinned gap.
-- **Balisha's war.** Elara deployed Lathion technology and Xion coordinated strategy — that is the whole
-  of what exists. **What Balisha actually did, where, and at what cost is unwritten.**
+- **Balisha's war.** The King's Gambit is now the one substantial piece of it, and it covers the opening
+  phase only. Elara deployed Lathion technology and Xion coordinated strategy; beyond that, **what Balisha
+  did for the remaining months, where, and at what cost is unwritten.**
 - **Terinok's war**, beyond leading the assault that took Empirica back.
 - **The other fronts.** Empirica is the only theatre anyone has described. Whether there were others, and
   what happened on them, is undecided.
@@ -250,3 +251,118 @@ the protagonists is the point of that book's design. It is a gap that belongs he
 the author's head and written down whole. This is a war that has only ever been needed in pieces, and the
 pieces were written as consequences rather than as events. **The thinness is accurate and should stay
 visible** until it is filled deliberately.
+
+---
+
+## The King's Gambit
+
+**When:** The opening phase of the Compact War.
+**Who:** Xion Valanar, Elara Valanar, Commander Vesk and the Arol Batae, Kalden Erulius.
+
+*The title is authorial, not in-world. Nobody in Elvandar calls it this. It brushes the standing
+prohibition on chess imagery, but* gambit *is on the deliberately-left list of dead metaphors in
+`Series Review - Changelog.md`, and this is a filename rather than a line of prose. **It does not license
+live chess imagery anywhere.***
+
+### Why he did it
+
+Xion could not pretend he was not a large part of why the war had started. The alliance, the Lathion
+work, and the marriage that answered Kalden's suit were all his doing or downstream of it, and Book 3
+ch18 already has him arriving at the council *already knowing the shape of it* — a war triggered by
+conditions he helped create, beginning before the defensive architecture was finished.
+
+**So he set out to prove to Elara that she had not made a mistake choosing him.** She would have told him,
+flatly and truthfully, that he did not need to prove anything. **She would also have understood that he
+needed to** — and that telling him so would not stop him. She has been watching him decline to be
+absolved since B1 ch22. This is the same account, still open, being paid into with the only currency he
+recognises.
+
+### The Compact's plan, which was a good one
+
+Defeat in detail. **Gunastran marches south and Erulius marches north**, the two arms close on Uratha, and
+Uratha falls before Terinok's heavy infantry can come up to relieve it. Then the Compact turns west at
+leisure.
+
+**Kaha'an would have fallen to the second phase, and the reason is Gunastran.** Their engineers are the
+best on the continent — sappers, siege engineers, a standing corps — and the culture runs all the way down:
+the ordinary soldier carries a shovel, builds the fort, digs the trench, lays the road. Give that army time
+in front of Kaha'an's walls and the walls come down. With Uratha and Kaha'an both gone, Terinok sues for
+peace and the war is over.
+
+### What Xion saw
+
+**The plan depended on Kalden Erulius doing what he had agreed to do**, and Xion had a read on Kalden that
+nobody on the Compact's side had thought to take: **the man hated him personally.** Not Balisha, not the
+Alliance. Him.
+
+So he offered a bait that only worked on one man in the world.
+
+### The performance
+
+**He staged a coup against his own wife.** A naked seizure of the military, the Emperor-Consort setting
+aside the Empress and taking her army — done publicly enough to travel, and in the register of a man who
+had finally stopped pretending.
+
+**Elara was in on it. So were Vesk and the Arol Batae.** The whole thing was theatre, and the audience was
+one prince.
+
+**It worked for the reason all good bait works: it confirmed what Kalden already believed.** Kalden knew
+Xion was power-hungry — knew it the way you know a thing about yourself and assume it of everyone —
+because **Kalden is power-hungry.** He was not persuaded of anything. He was handed proof of something he
+had always known, and men do not examine that kind of proof.
+
+### What it cost him
+
+Kalden abandoned the link-up and took his army west to invest Kaha'an, and he would have described it — did
+describe it — as **seizing the opportunity.**
+
+**But Erulius is a nation of cavalry.** They are not without siege equipment; they are simply not
+engineers, and the work that gets an army in front of a wall with something to knock it down — roads,
+pontoon bridges, hauling, digging — is work Erulian horse considers beneath it. **He arrived with a host of
+horse and nothing to reduce a city with.** His siege train was somewhere behind him, coming slowly.
+
+So he sat down in front of Kaha'an and waited. And waited.
+
+**Meanwhile the Terinok heavy infantry was not waiting.** They came up steadily toward Uratha while
+Gunastran, its northern arm simply absent, fought a coordinated war alone.
+
+Eventually the letter came. *Line collapsing. Need immediate support.* Kalden swallowed his pride and
+ordered the army up and back east — and by then it was hours too late, and had been for a while.
+
+---
+
+**On what this actually is, and it is not a trick.** Xion found the member of the Compact's structure that
+was bearing more of the load than the rest, pulled it, and stood back while the weight did the work of
+falling. **That is his father's method, taught to him in B2 ch12, in his father's exact words.** He
+inherited the geometry along with the healer's eye, and by this point in his life he knows he has it and
+knows how to point it. Do not treat that as a slip or a fall — but do not treat it as nothing, either. It
+is worth remembering that the man he used it on is the same man **Rosik will use the identical lever on
+twenty years later**, for a different purpose, with the same contempt for him as an instrument.
+
+**And it means Xion is partly the author of Kalden's ruin.** The Erulian ledger that defines Book 7 —
+reparations, the unpaid army, the third of the principality gone to the Erulian Union — begins with a war
+Kalden lost, and he lost it here, in front of walls he had no way to bring down, because Xion invited him
+to. **Which produced exactly the broken, resourced, grievance-bearing man Rosik needed a lever for.** The
+attempt on Xion's life in Book 7 traces back, along a chain nobody ever walks, to Xion's own gambit.
+**Nobody in the story ever knows this. Do not have anyone work it out.**
+
+**On Elara, and why she agrees to be publicly deposed.** She reads rooms and strikes, and she can see the
+arithmetic as fast as he can. The cost is real and it is hers to pay, not his: **an empress who was seen to
+be set aside by her consort in wartime does not get that back cleanly**, whatever the truth is. That she
+pays it anyway, for a plan whose entire motive is a debt she has told him he does not owe, is the whole of
+their marriage in one decision.
+
+---
+
+### Open, and worth resolving before this is relied on
+
+- **The siege of Kaha'an appears nowhere else in the series.** The imperial capital invested by an enemy
+  army is a large event, and Books 5–8 do not mention it. Either it should surface as history in a later
+  book, or the investment was brief enough to be a footnote — but that is a decision, not an oversight.
+- **Who else had to be told.** Uratha and Terinok are fighting the same war under a formal alliance. If
+  they believed the coup, the Alliance fractures mid-campaign; if they were told, the secret is held by
+  three governments. **Neither is free.**
+- **Whether it was ever publicly corrected.** A staged coup is very hard to un-stage. What Balisha's own
+  population, court and army were told afterward — if anything — is unwritten.
+- **Commander Vesk has no character sheet** and appears in no material after Book 1. If he is standing
+  beside Elara for this, he needs one.
