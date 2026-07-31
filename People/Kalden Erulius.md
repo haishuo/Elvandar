@@ -76,6 +76,8 @@ The same instrumental relationship governs his treatment of his *actual* genealo
 
 That said, the Founder drive is not zero. It is genuinely present at the fourth-tier level, which is why he builds institutions rather than simply accumulating gold or seeking a single triumphant moment. The Merchant in him wants accumulation; the Engineer provides the method; the Founder provides the *durability frame* — the idea that what is being accumulated should persist in institutional form rather than dissipate. So he builds a Chancellery rather than just amassing wealth. He establishes a Guard rather than just hiring mercenaries (until the end, when the institution has failed and only mercenaries remain).
 
+**And the institutions are genuinely dual-purpose, which is load-bearing for his credibility.** It is tempting to read every reform of his reign as theatre staged for the claim, and that reading costs too much: **before the Rending he was a perfectly competent ruler of a perfectly stable state**, and the roads, revenues and offices he built worked, and went on working, and are part of why Erulius was second in everything and content to be. What changes after the Rending is not that the state-building becomes fake. It is that it becomes **increasingly subordinated** — every genuine improvement also assessed for what it contributes to the claim, until the ordering quietly inverts and the principality is being run as a platform. **Do not write him as a man who never built anything real.** He built a great deal that was real, and then spent thirty years spending it.
+
 **Shadow:** His instrumentalized Founder produces institutions that are durable only as long as they continue to bear his name and serve his accumulation. When the costs of maintenance threaten the personal trappings, he chooses the trappings every time. The institutions he built were structurally fragile because the founder didn't actually care about them — he cared about himself wearing them.
 
 ### Creator (Fifth)
@@ -130,11 +132,13 @@ A messenger arrives in Eruliath. The message is simple: a Valanar has been found
 
 That's all it takes. One message, and twenty years of positioning, maneuvering, marriage proposals to every potential bride-claimant, careful cultivation of Valanar cousin lineage — all of it crashes to the ground in a single sentence.
 
+**The wound is Merchant, and it should be named as Merchant.** What has been destroyed is not a body of work; it is **an acquisition, twenty years in the assembling, taken off the table by someone else's prior claim.** He does not grieve a legacy. He has been outbid — and the Merchant primary has no terminal state, so there is no version of him that banks the position he actually holds and stops. **Where the Founder language shows up — *everything I built*, *my life's work* — treat it as the frame he reaches for rather than the drive underneath.** It is more dignified to have lost a legacy than to have lost a purchase, and he needs the dignified version to say out loud, including to himself. See the paradigm analysis above: the Founder tier is real but fourth, and it is routinely conscripted as cover for the primary.
+
 Kalden's response is visceral and immediate. He doesn't deliberate. He doesn't convene advisors. He doesn't formulate a long-term strategy. He orders Elara's assassination. "Correct this mistake. Hire whoever you must. I want her dead."
 
 This is the impulse that defines him — and one of his most dangerous weaknesses. The man who spent twenty years patiently constructing an elaborate claim to the throne is *also* the man who, when emotionally blindsided, acts with reckless speed. The rationalization probably flickered through his mind: if she disappears *now*, before she's consolidated power, before the world has time to accept her legitimacy, maybe the claim is still viable. In the cold light of day, it's ridiculous — the wards already blazed, the bells already rang, killing her wouldn't erase that. But impulse doesn't consult reason. Twenty years of patience evaporated in the time it took to read a message.
 
-He knows almost nothing about Elara at this point. She's barely been on the throne. Details are sparse. He doesn't know about Xion, doesn't know about the Coterie's internal politics, doesn't know anything except that everything he built just became irrelevant. That lack of information is precisely what makes the reaction so rash — and so revealing. A patient strategist would gather intelligence before acting. Kalden's Founder drive, confronted with the erasure of his life's work, bypassed everything and went straight to elimination.
+He knows almost nothing about Elara at this point. She's barely been on the throne. Details are sparse. He doesn't know about Xion, doesn't know about the Coterie's internal politics, doesn't know anything except that the thing he spent twenty years acquiring has just been bought out from under him. That lack of information is precisely what makes the reaction so rash — and so revealing. A patient strategist would gather intelligence before acting. Kalden's Founder drive, confronted with the erasure of his life's work, bypassed everything and went straight to elimination.
 
 The assassination attempt nearly succeeds — poison at a formal dinner. Elara survives but is badly injured, spending days unconscious. And the critical dramatic irony settles in: no one in Kaha'an knows the attempt came from Eruliath. Xion assumes Rosik was responsible — "who else would benefit?" — and this misattribution drives the entire escalation that follows. Xion's heist, Rosik's desperation, Ronas unleashed, Melina's death — the catastrophe chain begins with Kalden's impulse and is fueled by Xion's wrong guess about its origin.
 
@@ -222,7 +226,7 @@ Tiberian grins, quirking an eyebrow. "I've been called many things, but I gotta 
 
 Kalden turns purple. Then green. Then falls down dead.
 
-In the olden days they would have called it apoplectic rage. More likely it was a massive stroke — the culmination of years of drinking, weight gain, uncontrolled fury, and the catastrophic spike of blood pressure that comes when reality delivers its final, unanswerable contradiction to the story a man has told himself his entire life. The finish line he ran toward for decades turned out to have no one standing at it. Not even the right opponent.
+In the olden days they would have called it apoplectic rage. **It was a massive stroke** — the culmination of years of drinking, weight gain, uncontrolled fury, and the catastrophic spike of blood pressure that comes when reality delivers its final, unanswerable contradiction to the story a man has told himself his entire life. The finish line he ran toward for decades turned out to have no one standing at it. Not even the right opponent.
 
 The mercenaries look at each other. Their client is dead. There is no one to pay them. They disband. The army that was supposed to restore the Erulian Principality to imperial glory dissolves the way mercenary armies always dissolve when the money stops — quickly, quietly, and without sentiment.
 
@@ -238,8 +242,10 @@ The Almost-Heir becomes the Never-Was. His claims to imperial legitimacy die wit
 
 ## The Ledger
 
-**Read the whole arc at once and the shape of it is not tragedy. It is a man being handed exit after exit
-and refusing every one.**
+**Read the whole arc at once and two readings sit on top of each other, and the document should hold both
+rather than pick one.** **Kalden experiences his life as classical tragedy. The reader experiences it as a
+ledger of undeserved reprieves, squandered one after another.** He thinks he is Oedipus. The reader sees a
+man repeatedly shown the exit who keeps walking back into the burning building.
 
 **What he started with.** The Erulian Principality had no real enemies. It was **second in everything** —
 second in scholarship to Uratha, second in industry to Gunastran, second in arms to Terinok — which is an
@@ -279,11 +285,23 @@ any more than he knows he was baited into the siege that lost him his war.
 
 ---
 
-**On why this is not tragedy, and the distinction matters for how he is written.** A tragic figure is
-destroyed by a flaw working on circumstance. **Kalden is destroyed by a flaw working on good fortune** — the
-world hands him an out at every point where it should have ended him, and he treats each one as further
-proof of the injustice done to him. Nothing that happens to him is out of proportion to what he did. Most of
-it is a good deal *less*.
+**On the word "tragedy," which this document uses in two senses and should keep distinct.** The precise
+formulation is that **Kalden is a tragic character inside an anti-tragic plot** — psychologically tragic,
+but not the subject of tragic injustice.
+
+**The man is genuinely tragic.** He was once competent. His original ambition was not insane — he had a
+real claim and a defensible route to it. **His gifts are part of what destroyed him**: the Engineer patience
+that let him position for twenty years is the same faculty that made him unable to treat those twenty years
+as sunk. And he became, by degrees and not all at once, incapable of accepting reality. That is the shape of
+a tragic figure and it should be written with the weight one deserves.
+
+**The plot is not.** Nothing that happens to him is unfair, disproportionate, or cosmically cruel. **Reality
+treats him considerably more gently than he has earned, over and over**, and a tragedy requires a universe
+that is at minimum indifferent. His is actively lenient. **A flaw working on circumstance is tragedy; a flaw
+working on good fortune is something else**, and the something else is what the ledger above records.
+
+**Hold both. Do not resolve it in either direction**, because the contradiction is the character: the gap
+between the story he is living and the story that is happening.
 
 **The reader must be able to total this up and Kalden must never be able to.** That gap is the whole
 character. **Do not have anyone lay the account out in front of him**, and do not give him a moment of
@@ -339,7 +357,8 @@ war doing it. See `Offstage.md`, "The King's Gambit."
 
 **And the same fantasy kills him in Book 7.** He rides out to meet the imaginary man, demands to know
 where he is, and finds his son — and the collision between thirty years of story and the reality in front
-of him stops his heart. **Two Kemvimores fed that delusion, twenty years apart, for opposite reasons.**
+of him kills him — a massive stroke, years of drink and weight and gout and ungoverned rage all coming due
+in one instant. **Two Kemvimores fed that delusion, twenty years apart, for opposite reasons.**
 Nobody ever tells him it was not real, and nobody is in a position to.
 
 ### Book 7: what he thinks he is doing
@@ -353,10 +372,17 @@ a defeat he cannot hold in his head at all.
 
 **And he dies without swinging a sword.** Tiberian meets him on the Golden Path a hundred miles east of Kaha'an, and the
 collision between thirty years of self-narrative and a calm unimpressed young man finishes him where he
-stands — apoplexy, every accumulated ruin of his body coming due at once. His mercenaries were loyal to
+stands — a massive stroke, every accumulated ruin of his body coming due at once. His mercenaries were loyal to
 coin and not to crown; they disperse the moment their client hits the ground, and strip his body of
 valuables on the way out. **It is a farcical death and it must stay farcical.** He was owed a battle by
 his own story and does not get one line of it.
+
+**And it is the last time he ruins a sound plan by being Kalden — which is what he has done every previous
+time.** He is not a clown dying in a side scene while the real story happens elsewhere. **He is the
+load-bearing member of Rosik's structure, and he fails under his own weight before it can be pulled.** The
+distraction was working. All it required of him was to stay alive and moderately inconvenient for one
+afternoon, and the drinking and the weight and the gout and thirty years of ungoverned rage would not let
+him. **Every part of that is his own doing.** He does not know this either.
 
 **What that death costs Rosik is the whole of the plan.** See the Book 7 thread in
 `Series Review - Master List.md` §2: Rosik needed two hours, Kalden had provided exactly that at
@@ -382,11 +408,11 @@ By Book 7, the man in the mirror is unrecognizable. Overweight from years of mai
 
 ### The Central Tension
 
-Kalden Erulius was not always delusional. That is what makes his story a tragedy rather than a cautionary tale.
+Kalden Erulius was not always delusional. That is what makes him a tragic figure rather than a cautionary example — **though see The Ledger above: the man is tragic and the plot around him is not.** What follows is the internal condition, which is where the tragedy actually lives.
 
 Before the Rending, he was a competent ruler of a stable state. After the Rending, he had a genuine — if tenuous — claim to the imperial line, and he pursued it with real administrative talent. The institutions he built were not theater. The principality he transformed was not a fantasy. For twenty years, his ambition was outsized but not unreasonable. There really was no stronger claimant.
 
-The tragedy is what happened after the claim was invalidated. A different man might have absorbed the loss, redirected his capabilities, built the Erulian Principality into something great on its own terms. Kalden couldn't. The Merchant in him could not accept loss as legitimate — the engine has no frame for "this is enough now." The Engineer in him kept finding methods for the next acquisition, each one more desperate than the last. The Competitor in him could not process defeat as feedback because the Merchant beneath wouldn't permit defeat to be real. And his near-absent Truth Seeker meant he had no internal mechanism for honest reassessment. So legitimate ambition curdled into a Merchant-shadow campaign of escalating acquisition by other means — and competence that had served a reasonable goal began serving an unreasonable one, with escalating costs at every step.
+What is tragic is what happened after the claim was invalidated. A different man might have absorbed the loss, redirected his capabilities, built the Erulian Principality into something great on its own terms. Kalden couldn't. The Merchant in him could not accept loss as legitimate — the engine has no frame for "this is enough now." The Engineer in him kept finding methods for the next acquisition, each one more desperate than the last. The Competitor in him could not process defeat as feedback because the Merchant beneath wouldn't permit defeat to be real. And his near-absent Truth Seeker meant he had no internal mechanism for honest reassessment. So legitimate ambition curdled into a Merchant-shadow campaign of escalating acquisition by other means — and competence that had served a reasonable goal began serving an unreasonable one, with escalating costs at every step.
 
 The decline follows its own terrible logic. Each refusal to accept reality narrows his options, and each narrowing makes the next refusal more desperate. Refused to accept Elara's legitimacy → assassination. Refused to accept the rejection → military alliance. Refused to impose austerity → lost his army. Refused to give up the trappings → lost his people. Refused to accept what remained → mortgaged everything for mercenaries led by a man who was using him as a decoy. By the end, the man who once had a genuine claim to the greatest throne in Elvandar dies of a stroke in front of someone who isn't even the person he came to fight.
 

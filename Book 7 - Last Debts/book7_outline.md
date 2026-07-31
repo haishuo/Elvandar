@@ -277,7 +277,24 @@ A massive stroke — the culmination of years of drinking, weight gain, gout, un
 
 The mercenaries pause. Survey the situation. Conclude with admirable speed that their employer is no longer in a position to pay them. They loot Kalden's corpse first — the imperial collar, the rings, the purse, the sword — and then disband. The army that was supposed to restore the Erulian Principality to imperial glory dissolves the way mercenary armies always dissolve when the money stops, except faster, because the money is now in their saddlebags.
 
-The external threat collapses inside of an hour. Word of the engagement's astonishing brevity races back toward Kaha'an. But Rosik never needed the army to succeed. He just needed it to last.
+The external threat collapses inside of an hour. Word of the engagement's astonishing brevity races back
+toward Kaha'an.
+
+**And this is the moment Rosik's plan dies, four days' communication and a hundred miles from the man it
+belongs to.** He never needed the army to win. **He needed it to last** — an hour minimum, most of a day
+expected, and Kalden had furnished exactly that against this same prince at Silaris. Two minutes is outside
+anything anyone had grounds to model.
+
+**Which makes Kalden consequential even in failure, and the death stops being unrelated farce.** He is not
+a clown who dies in a separate scene while the real plot happens elsewhere. **He is the load-bearing member
+of somebody else's structure, and he fails under his own weight before it can be pulled.** The distraction
+would have worked. It was working. The only thing it required of him was to remain alive and moderately
+inconvenient for the length of an afternoon, and he could not manage it — because of the drinking, and the
+weight, and the gout, and thirty years of ungoverned rage, all of which are his own doing and none of which
+anyone made him choose.
+
+**So the last thing Kalden Erulius ever does is ruin a sound plan by being Kalden**, which is the last thing
+he ever did on every previous occasion as well. He does not know that either.
 
 ### The Death of Rosik Kemvimore
 
@@ -333,7 +350,7 @@ The Competitor's final contest ends not with defeat but with irrelevance. He did
 
 **Emotional arc: The past is finally past**
 
-The aftermath. Kalden's claims to imperial legitimacy die with him on the ground outside the walls. The mercenaries scatter. The Erulian Principality — or what remains of it — is a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes.
+The aftermath. Kalden's claims to imperial legitimacy die with him on the Golden Path a hundred miles east of the city he never reached. The mercenaries scatter. The Erulian Principality — or what remains of it — is a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes.
 
 Rosik's network is dismantled. His agents are identified and arrested. The last remnant of the cartel system's old guard dies with him. House Kemvimore is truly finished — not the name Xion carries (he is Valanar now) but the power structure it once represented.
 

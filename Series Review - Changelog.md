@@ -2262,3 +2262,47 @@ Nothing that happens to him is out of proportion to what he did, and most of it 
 No character lays the account out in front of him, and he gets no moment of seeing it — not in Book 5, not
 in Book 7, not at the end. **He dies mid-sentence still owed something by the world**, and the reader does
 the arithmetic he never will.
+
+---
+
+## 2026-07-31 — Kalden: six continuity and terminology corrections
+
+Author's close reading of the sheet after the Ledger was added. All six were real.
+
+**1. The tragedy contradiction, resolved by holding both rather than picking.** The Ledger said *"the shape
+of it is not tragedy"*; the Central Tension section said *"that is what makes his story a tragedy rather
+than a cautionary tale."* The author's formulation is better than either and is now the sheet's position:
+**Kalden is a tragic character inside an anti-tragic plot.** The man is genuinely tragic — once competent,
+an ambition that was not insane, gifts that helped destroy him, and a gradual incapacity to accept reality.
+**The plot is not** — nothing that happens is unfair or disproportionate, and a tragedy needs a universe
+that is at minimum indifferent, where his is actively lenient. **He experiences his life as classical
+tragedy; the reader experiences it as a ledger of undeserved reprieves squandered one after another.** He
+thinks he is Oedipus. Both sections now say so and neither resolves it.
+
+**2. Death location standardised.** One section had him dying *"on the ground outside the walls"* and
+another on the Golden Path a hundred miles east. **The latter is sharper — he does not even reach the
+city** — and is now used everywhere.
+
+**3. Cause of death standardised to a massive stroke** across five documents, replacing *stops his heart*
+and hedged *apoplexy*. The stroke reflects years of deterioration and rage rather than reading as death by
+annoyance.
+
+**4. The Book 2 wound renamed from Founder to Merchant.** The passage framed the loss as *"everything he
+built just became irrelevant"* — Founder language — while the paradigm analysis argues Merchant primary
+with Founder routinely conscripted as cover. **What is destroyed is an acquisition twenty years in the
+assembling, not a body of work. He has been outbid.** The Founder framing is now explicitly flagged as the
+frame he reaches for, because *lost a legacy* is more dignified than *lost a purchase* and he needs the
+dignified version to say aloud, including to himself.
+
+**5. The institutions are now genuinely dual-purpose.** Reading every reform of his reign as theatre for
+the claim costs too much — **he was a competent ruler of a stable state before the Rending**, and the
+things he built worked. What changes after is that the state-building becomes *increasingly subordinated*
+until the ordering quietly inverts and the principality is run as a platform. **Do not write him as a man
+who never built anything real.**
+
+**6. Rosik's operational failure folded into the death scene itself**, which is the structural fix. It had
+been sitting in a later section, leaving Kalden's death reading as unrelated farce. **He is the
+load-bearing member of somebody else's structure, and he fails under his own weight before it can be
+pulled.** The distraction was working; all it required was that he stay alive and moderately inconvenient
+for one afternoon. **So the last thing he ever does is ruin a sound plan by being Kalden**, which is what
+he did every previous time. He does not know that either.

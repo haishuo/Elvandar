@@ -381,7 +381,7 @@ years fighting a man who does not exist. **This is where that man is first weapo
 identified the fantasy, feeds it deliberately, and Kalden loses a war to a version of his enemy that he
 invented himself. **And it is what eventually kills him.** In Book 7 he rides out to meet the same
 imaginary man, screaming *where is he, where is Xion*, and finds a calm young stranger who turns out to be
-the son, and the collision between thirty years of story and the reality in front of him stops his heart.
+the son, and the collision between thirty years of story and the reality in front of him kills him where he sits — a stroke, and years of ruin arriving at once.
 **Xion helped build the delusion. Rosik later uses the same delusion. It is the delusion that kills him**,
 and no one ever tells him it was not real.
 
