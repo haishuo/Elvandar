@@ -189,7 +189,7 @@ grab at the power they lost with Ronas — he inspects the Green City constructi
 himself be seen doing it, which is what they use. Kess is away, as she often is, because he never asks
 where she goes. The crown recovers him. **What changes is her**, not him: she works out that she could
 have walked away at any point and nobody would have stopped her, that it happened on a watch nobody
-assigned her, and that it will not happen twice. Full account on her sheet.
+assigned her, and that it will not happen twice. **Full account: `Offstage.md`, "The Taking of the Tiger Prince."**
 
 **Their battlefield coordination is real and needs no instruction**, because they are paradigm twins:
 Caretaker primary, Spirited Competitor secondary, reading the same priorities in the same situations.

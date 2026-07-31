@@ -1954,3 +1954,34 @@ relevance served the one man who was using their whole world as scenery**, and n
 
 *Left open: whether Kess acts during the crisis or only afterward. The turn happens in her head about her
 own conduct, so it requires her to do nothing at all.*
+
+---
+
+## 2026-07-31 — `Offstage.md` created
+
+**A home for canon that never got a scene.** Author's decision, prompted by the observation that the
+kidnapping between Books 6 and 7 was already living in three places — Kess's sheet, Tiberian's sheet and
+the Book 7 outline — with none of them holding the whole thing. **Three partial copies of one event,
+independently editable, is the exact shape of every drift problem corrected this week.**
+
+**The status is settled and it matters operationally.** These are not drafts or maybes. They bind on the
+same terms as a character sheet: **a contradiction with an entry is a bug, not an alternative reading.**
+Without that ruling "pseudo-canon" means nothing and nobody knows whether they are allowed to contradict
+it.
+
+**Entry criteria, so it does not become a junk drawer.** Settled and authorial; not depicted anywhere; and
+— the filter that actually decides it — **something in the books depends on it being true.** If nothing
+downstream rests on an entry, it is worldbuilding trivia and does not need a home here.
+
+**One source, everything else points.** The account lives in `Offstage.md`; sheets carry only the
+consequence for that character; outlines carry only what the book needs. The three existing copies of the
+kidnapping were thinned to pointers in the same commit.
+
+**Register: chronicle, not scene** — the comparison the author drew is to a legendarium sitting under the
+novels written from it. If an entry starts wanting dialogue and staging, it wants to be a chapter, and
+that is a decision about a book rather than about this file.
+
+**Naming.** *Apocrypha* was considered and dropped: it conventionally means "of doubtful authenticity",
+which is the opposite of what these are.
+
+First entry: **The Taking of the Tiger Prince.** `CLAUDE.md` §5 and the §7 layout block updated.

@@ -189,6 +189,13 @@ and the flags never retired. A flag that outlives its problem is worse than no f
 reader trusts it and cuts good material. C-6 pointed at the best passage in ch25 and nearly got
 it deleted.
 
+**`Offstage.md` is canon that never got a scene.** Settled authorial history — the taking of the Tiger
+Prince between Books 6 and 7, and whatever follows it — told as account rather than as scene. **It binds
+on the same terms as a character sheet:** a contradiction with it is a bug, not an alternative reading. An
+entry earns its place only if something in the books depends on it being true; if nothing downstream rests
+on it, it is trivia. **One source, and everything else points at it** — sheets carry the consequence for
+that character, outlines carry what that book needs, and neither restates the account.
+
 **Report honestly.** If a proposed fix was declined, say why. If a flag turned out not to be a
 real problem, say so plainly and record it rather than quietly inflating it into one. Do not
 claim a change is applied without applying it.
@@ -295,6 +302,7 @@ Places/              geography and settings
 Magic/               metaphysics, incl. the authoritative The Rending.md
 Templates/           document patterns
 Tools/               royalroad_export.py — regenerates every Royal Road/ folder
+Offstage.md                  canon that never got a scene — see below
 Story Timeline.md            in-series chronology (authoritative on timing)
 Global Historical Timeline.md
 The Seven Paradigms.md       the characterization framework
