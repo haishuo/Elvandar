@@ -1911,3 +1911,46 @@ parents in Book 8, and his question — *if the Provosts don't need the bakarn s
 instead?* — is planted there and answered by the Globehall four books later. Also noted for future
 continuity work: **Book 6 reveals the Warrens tunnels as Lathionese**, five-thousand-year-old autonomous
 infrastructure finally failing, which ties the Warrens to Lathion retroactively across six books.
+
+---
+
+## 2026-07-31 — Kess corrected on Tiberian's sheet; the kidnapping recorded
+
+**The stale text was not where the reviewer said it was.** Kess Ashwood's own sheet is fully aligned with
+Books 6 and 7 — *The Pack of One*, trust as accumulated evidence, *staying is the closest thing to trust
+she knows how to offer*, and the explicit note that she is **not loyal to him because he saved her but
+because he kept being who he was afterward.** The contradiction was entirely on **Tiberian's** sheet,
+which described her as guarding him with her life and offering *"absolute loyalty"* — the
+rescued-and-imprinted trope the outlines were written to avoid. Rewritten, and it now points at her sheet
+as authoritative.
+
+**What replaced it is the thing that actually works between them:** he never asks where she has been. She
+disappears for stretches, he does not send after her and does not require an account, and he is simply
+confident she comes back. **He extends the freedom first and keeps extending it**, and that — not either
+rescue — is what she has been gathering evidence about.
+
+**The kidnapping between Books 6 and 7, recorded as pseudo-canon.** Author's backstory, not a written
+scene; filed because the change it produces is visible in Book 7 whether or not the event is ever
+dramatised. The last Slaver remnants grab at the power they lost with Ronas, using the fact that the Crown
+Prince inspects the Green City construction personally and lets himself be seen doing it. They take him in
+a tight space, the only ground where it works. The crown's answer, from Melina: return him unharmed and be
+imprisoned rather than executed.
+
+**Kess is away, and the turn is entirely internal.** She works out that she could leave right now and he
+could not stop her — **and that this was always true.** The freedom she had been holding in reserve had
+never once been contested, which means the distance she kept was protecting nothing. **And it happened on
+a watch nobody ever assigned her**, which is precisely why she is the one who has to answer for it.
+
+**It is not gratitude and must never be written as gratitude.** She is not rescued into loyalty; she is
+furious with herself over a duty she appointed herself to and then failed. **She becomes his protector by
+her own decision, unprompted** — the only mechanism available for a character whose whole definition is
+that she takes no orders and owes nobody anything.
+
+**And it produces a causal thread nobody in the story intends.** By Book 7 *she goes where Tiberian goes*
+is reliable enough for Rosik to build a plan on, and it is reliable **because of the kidnapping.** So the
+Slavers' final attempt to matter is what welded Kess to Tiberian's shoulder, and therefore what guarantees
+she rides out of the city with him — which is exactly the condition Rosik needed. **Their last grab at
+relevance served the one man who was using their whole world as scenery**, and none of them ever know it.
+
+*Left open: whether Kess acts during the crisis or only afterward. The turn happens in her head about her
+own conduct, so it requires her to do nothing at all.*

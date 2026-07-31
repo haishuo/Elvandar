@@ -112,6 +112,47 @@ By the end of the Warrens descent, she is fighting alongside Tiberian's force. S
 
 By Book 7, she is staying. *Staying is the closest thing to trust she knows how to offer.* The pack is forming.
 
+### The kidnapping, between Books 6 and 7
+
+*Pseudo-canon — authorial backstory, not a written scene. It exists to explain why the pack finishes
+forming, and the change it produces is visible in Book 7 even if the event itself is never dramatised.*
+
+The Green Cities are being populated and the last remnants of the Slavers make one final grab at the
+political power they lost with Ronas. They know the Crown Prince inspects the construction personally and
+lets himself be seen doing it — a young man walking the sites, in front of the people being rehoused.
+
+**Kess is not there.** She still goes off for stretches to wherever she goes, and Tiberian still never
+asks and never sends after her, because he is certain she will come back. **That habit is his half of the
+relationship and it is the whole of what she has been evaluating.**
+
+They take him in a tight space, which is the only kind of ground where it could work — he fights and it
+does not matter. The demand is the Slavers restored to what they were, in exchange for the prince. The
+crown's answer, from Melina with her parents behind it: return him unharmed and you will be imprisoned
+rather than executed.
+
+**Kess takes it personally, and the shape of that is the point.** Standing outside it, she works out
+that she could leave right now and he could not stop her — **and that this was always true.** Every day
+she spent guarding her ability to walk away, nobody was contesting it. The freedom she had been holding
+in reserve had never once been at risk, which means the distance she kept was protecting nothing.
+
+**And it happened on her watch** — a watch nobody ever assigned her, which is exactly why she is the one
+who has to answer for it. So she decides it will not happen again.
+
+**This is not gratitude and it must never be written as gratitude.** She is not rescued into loyalty; she
+is furious with herself about a duty she appointed herself to and then failed. **She becomes his
+protector by her own decision, unprompted and unrequested**, which is the only mechanism by which it
+could ever have happened to a woman whose entire characterisation is that she does not take orders and
+does not owe anyone anything.
+
+**By Book 7 this has already happened**, which is why *she goes where Tiberian goes* is a reliable enough
+pattern for Rosik Kemvimore to build a plan on. Note the consequence nobody in the story intends: **the
+Slavers' last grab is what welds Kess to Tiberian's side, and therefore what guarantees she rides out
+with him in Book 7 instead of being in the palace.** Their final attempt to matter served the one man
+who was using their whole world as scenery.
+
+*Open, if the event is ever written: whether Kess acts during the crisis or only afterward. The turn
+happens in her head about her own conduct, so it does not require her to do anything at all.*
+
 ---
 
 ## Relationships

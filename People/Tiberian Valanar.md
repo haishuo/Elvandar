@@ -172,9 +172,28 @@ Their relationship is the evolution of their parents' partnership: Xion and Elar
 
 ### Kess
 
-Freed from the fighting pits during the Warrens descent at the end of Book 6, when he is twenty-two. She guards him with her life; he freed hers. Their battlefield partnership is seamless — she matches his aggressive energy, coordinates attacks with instinctive understanding, and provides the kind of absolute loyalty that only comes from someone who knows exactly what you saved them from.
+Freed from the fighting pits during the Warrens descent at the end of Book 6, when he is twenty-two.
+**She is not his soldier, not his subordinate and not his bodyguard by appointment** — she ran the first
+time he freed her, she shadowed his team rather than joining it, and she fought beside him at the end of
+Book 6 because she decided those particular enemies needed killing. Every step of it was hers. *Trust,
+for Kess, is not a moment of rescue; it is accumulated evidence.* See `People/Kess Ashwood.md`, which is
+authoritative on her.
 
-The rescue is quintessential Tiberian: he cannot walk past suffering, even when the fighting pits are someone else's problem. Kess becomes the living proof that his impulsive compassion produces real, lasting good.
+**What Tiberian gives her, and it is the thing that works: he never asks where she has been.** She
+disappears for stretches and he does not send after her, does not require an account, and is simply
+confident she will come back. He extends the freedom first and keeps extending it. That — rather than
+either rescue — is what she is actually gathering evidence about.
+
+**Between Books 6 and 7 he is taken**, in a tight space, by the last remnants of the Slavers making a
+grab at the power they lost with Ronas — he inspects the Green City construction personally and lets
+himself be seen doing it, which is what they use. Kess is away, as she often is, because he never asks
+where she goes. The crown recovers him. **What changes is her**, not him: she works out that she could
+have walked away at any point and nobody would have stopped her, that it happened on a watch nobody
+assigned her, and that it will not happen twice. Full account on her sheet.
+
+**Their battlefield coordination is real and needs no instruction**, because they are paradigm twins:
+Caretaker primary, Spirited Competitor secondary, reading the same priorities in the same situations.
+That is compatibility, not obedience. **Do not write her as devoted, imprinted, or owing him anything.**
 
 ### Kai
 
