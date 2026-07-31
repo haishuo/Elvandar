@@ -236,6 +236,62 @@ The Almost-Heir becomes the Never-Was. His claims to imperial legitimacy die wit
 
 ---
 
+## The Ledger
+
+**Read the whole arc at once and the shape of it is not tragedy. It is a man being handed exit after exit
+and refusing every one.**
+
+**What he started with.** The Erulian Principality had no real enemies. It was **second in everything** —
+second in scholarship to Uratha, second in industry to Gunastran, second in arms to Terinok — which is an
+enviable position and not a humiliating one, because nobody organises a coalition against the second-best
+at anything. It was self-sufficient, strong and wealthy. **He inherited a good realm and had only to not
+ruin it.**
+
+### The account, in order
+
+| What he did | What it should have cost | What it cost |
+|---|---|---|
+| Ordered Elara poisoned at a state dinner (B2) | Execution for attempted regicide, and in most of Elvandar his family with him | **Nothing.** No retaliation, no diplomatic incident, nobody connecting the poison to Eruliath |
+| Offered marriage, was refused, and signed with the Compact in a fit of jealousy (B3) | — | A continental war entered on wounded pride |
+| Abandoned a sound war plan for bait, and besieged Kaha'an with cavalry and no engineers | — | **He lost the Compact War personally**, in public, in front of walls he never scratched |
+| Refused austerity after the defeat — **expanded** the Amber Palace, ate and drank richly, and taxed his people past what they could bear | — | — |
+| Stopped paying the Aspirant Guard | — | They deserted |
+| Kept going | Pikes, a stormed palace, a crowd | **The Erulian Union simply seceded and left**, taking the best farmland |
+| Moved on Silaris — sound reasoning, real need, prestige and arable land in one stroke | — | Blocked by an eighteen-year-old |
+
+**And the mercy at each step is the point.** Most men who attempt regicide die for it and take their houses
+with them; he walked away clean. Most losers of a continental war are crippled by the settlement; **Erulian
+reparations were comparatively mild.** And most rulers who tax a country past endurance while enlarging
+their own palace meet a crowd — **his people did not come for him at all. They left.** They were not even
+angry enough to kill him. They simply stopped counting him.
+
+### What he makes of it
+
+Nothing. **He is one of the luckiest men in this series and he understands himself to be the most
+persecuted.** By the time Rosik finds him he is broken, furious, deep in his cups, and certain that no one
+alive has been treated as unfairly as he has — a reading that requires him not to notice a single one of the
+exits he was given.
+
+**The poisoning is the purest instance and should be remembered as the model.** His most consequential act
+in eight books goes entirely unpunished — **and the blame lands on Rosik Kemvimore, and detonates the whole
+of Book 2 between two other men.** Kalden never learns he did that. He does not know he started that fire
+any more than he knows he was baited into the siege that lost him his war.
+
+---
+
+**On why this is not tragedy, and the distinction matters for how he is written.** A tragic figure is
+destroyed by a flaw working on circumstance. **Kalden is destroyed by a flaw working on good fortune** — the
+world hands him an out at every point where it should have ended him, and he treats each one as further
+proof of the injustice done to him. Nothing that happens to him is out of proportion to what he did. Most of
+it is a good deal *less*.
+
+**The reader must be able to total this up and Kalden must never be able to.** That gap is the whole
+character. **Do not have anyone lay the account out in front of him**, and do not give him a moment of
+seeing it — not in Book 5, not in Book 7, not at the end. He dies mid-sentence, still owed something by the
+world, and the reader does the arithmetic he never will.
+
+---
+
 ## Relationships
 
 ### Elara Valanar

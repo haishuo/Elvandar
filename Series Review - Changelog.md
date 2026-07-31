@@ -2226,3 +2226,39 @@ insufficient, and the ground remembers him for it.*
 
 That last one is the cheapest way to make a war real: history a reader walks past without anyone explaining
 it.
+
+---
+
+## 2026-07-31 — Kalden's ledger
+
+The author's synthesis of the whole arc, recorded on his sheet as **The Ledger**. His book-by-book sections
+already existed; what was missing was the accounting read all at once, and the thesis that falls out of it.
+
+**He started with a good realm.** No real enemies, **second in everything** — which is an enviable position
+rather than a humiliating one, because nobody organises a coalition against the second-best at anything —
+self-sufficient, strong, wealthy. **He had only to not ruin it.**
+
+**Every disaster is self-inflicted, and the world was lenient at every step.** Attempted regicide, which in
+most of Elvandar kills a man and his house, cost him nothing. A continental war entered on wounded pride
+after a refused marriage proposal. A war lost personally, in public, because he abandoned a sound plan for
+bait and besieged a city with cavalry and no engineers. **Comparatively mild reparations.** Then austerity
+refused, the palace *expanded*, the people taxed past endurance and the Guard left unpaid — and when it
+finally broke, **his people did not come for him with pikes. They seceded and left.** They were not even
+angry enough to kill him; they simply stopped counting him.
+
+**So: he is one of the luckiest men in the series and understands himself to be the most persecuted.**
+
+**The poisoning is recorded as the model instance**, and it is stronger than it first looked. His most
+consequential act in eight books goes wholly unpunished — **and the blame lands on Rosik, which the sheets
+already establish as the misattribution that drives Book 2.** Xion's war on his father rests partly on a
+crime Rosik did not commit. Kalden never learns he started that fire, any more than he learns he was baited
+into the siege.
+
+**Filed with the distinction that governs how he is written: this is not tragedy.** A tragic figure is
+destroyed by a flaw working on circumstance; **Kalden is destroyed by a flaw working on good fortune.**
+Nothing that happens to him is out of proportion to what he did, and most of it is a great deal less.
+
+**And with a prohibition.** **The reader must be able to total this up and Kalden must never be able to.**
+No character lays the account out in front of him, and he gets no moment of seeing it — not in Book 5, not
+in Book 7, not at the end. **He dies mid-sentence still owed something by the world**, and the reader does
+the arithmetic he never will.
