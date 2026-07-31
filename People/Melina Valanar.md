@@ -126,7 +126,9 @@ She isn't wrong. The questions are valid. The concerns are real. But when Kalden
 
 **The Lesson:** She learns to trust her analytical instincts even when they argue against popular moral positions. Her restraint wasn't wrong — but neither was Tiberian's passion. The synthesis is the point: analysis that enables action, rather than analysis that prevents it.
 
-### Book 6: Necessary Measures (Age 19)
+### Book 6: Necessary Measures (Age 19–22)
+
+*Book 6 spans roughly three years and the gap is the story — the delay is the antagonist and the dead child depends on it. The twins therefore enter at nineteen and leave at about twenty-two, and are twenty-two in Book 7. Corrected 2026-07-31; the sheets had them at nineteen throughout and twenty in Book 7, which the three-year span makes impossible.*
 
 The Warrens crisis is Melina's crucible. She knows the relocation is necessary — "intellectually, morally, statistically." She has the plan. She has had the plan for three years. She keeps refining it because every refinement reveals new complexities, and she cannot act on incomplete understanding.
 
@@ -138,7 +140,7 @@ The midnight confrontation breaks her. Not because Tiberian is right and she's w
 
 Together, the twins present the relocation initiative to their parents: not perfect, but necessary. Details to be refined through doing rather than studying.
 
-### Book 7: Last Debts (Age 20)
+### Book 7: Last Debts (Age 22)
 
 The combined assault of Kalden and Rosik demands everything Melina has learned. The external military threat requires her engineering brilliance — coordination, logistics, strategic planning. The internal subversion from Rosik demands something harder: rapid decision-making without perfect information.
 

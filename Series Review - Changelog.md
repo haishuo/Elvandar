@@ -1878,3 +1878,36 @@ technique, running early and without him.
 artery in Kalden and by a woman acting on instinct rather than proof, and then handled in his last minutes
 by the exact faculty his architecture does not contain. **Three bodies, and his model had no term for any
 of them.**
+
+---
+
+## 2026-07-31 — Books 4, 5, 6 and 8 read; the twins' ages corrected
+
+The four remaining book outlines were read for the first time. One hard contradiction found and fixed,
+one flagged for the author.
+
+**The twins' ages did not survive Book 6's duration.** Book 5 has them at eighteen. Book 6 **spans
+approximately three years** — the outline says so, and both sheets independently carry *"three years of
+perfecting the Warrens plan"* — but the sheets had them at **nineteen throughout Book 6 and twenty in
+Book 7.** Enter at nineteen, spend three years, and you leave at about twenty-two.
+
+**The three years is what stays**, on the author's ruling: it is the book's antagonist (*"the delay
+itself is the villain"*), and the dead child between Acts I and II only exists because of it. So the
+ages moved instead — **19–22 across Book 6, 22 in Book 7** — and the reason is now recorded on both
+sheets so it does not drift back. A fifth instance was corrected on Tiberian's sheet, where Kess is
+freed from the pits *"at age nineteen"*; that rescue is at the end of Book 6's descent, so he is
+twenty-two.
+
+**What the outlines gave back to the Book 7 work.** Rosik's read of Kess — *she goes where Tiberian
+goes* — is modelling a pattern rather than a chain of command, which Book 6 confirms and which makes it
+a sharper piece of tradecraft than it looked. The Warrens are being physically dismantled during Book 7,
+which is part of why Rosik's network is so thin. And Ronas dies in Book 6 going down swinging, having
+warned them exactly what removing him would unleash — **the second time in the series someone tells a
+Kemvimore that a leash cannot be recalled and is not listened to.** The first killed Melina Kemvimore.
+
+**The structure the reviewer had not grasped:** Books 4 and 8 are a single four-book arc. Harkim's
+notebook, opened in a Book 4 epilogue, becomes the underground without which Melina cannot rescue her
+parents in Book 8, and his question — *if the Provosts don't need the bakarn system, what do they have
+instead?* — is planted there and answered by the Globehall four books later. Also noted for future
+continuity work: **Book 6 reveals the Warrens tunnels as Lathionese**, five-thousand-year-old autonomous
+infrastructure finally failing, which ties the Warrens to Lathion retroactively across six books.

@@ -124,7 +124,9 @@ The Gallery War plays out in Silaris's narrow streets and galleries, where every
 
 **The Lesson:** Moral passion without strategic thinking causes more harm than good. The intervention succeeds, but its costs teach Tiberian that charging in isn't always the same as saving people. Sometimes the charge itself creates casualties.
 
-### Book 6: Necessary Measures (Age 19)
+### Book 6: Necessary Measures (Age 19–22)
+
+*Book 6 spans roughly three years and the gap is the story — the delay is the antagonist and the dead child depends on it. The twins therefore enter at nineteen and leave at about twenty-two, and are twenty-two in Book 7. Corrected 2026-07-31; the sheets had them at nineteen throughout and twenty in Book 7, which the three-year span makes impossible.*
 
 The Warrens crisis forces Tiberian into a different role: not the one who acts, but the one who makes someone else act. His sister has spent three years "perfecting" the relocation plan while children die underground. Tiberian finds her at midnight, surrounded by revisions, and delivers the confrontation that breaks her paralysis.
 
@@ -136,7 +138,7 @@ This is Tiberian's Caretaker drive directed at his twin — the one person he lo
 
 Together, the twins present their plan to their parents: not a perfect solution, but a necessary action whose details will be refined through implementation rather than endless planning.
 
-### Book 7: Last Debts (Age 20)
+### Book 7: Last Debts (Age 22)
 
 The combined assault of Kalden and Rosik represents the greatest threat the twins have ever faced — external military attack paired with internal subversion from enemies who know Balisha's weaknesses intimately.
 
@@ -170,7 +172,7 @@ Their relationship is the evolution of their parents' partnership: Xion and Elar
 
 ### Kess
 
-Freed from the fighting pits by Tiberian at age nineteen. She guards him with her life; he freed hers. Their battlefield partnership is seamless — she matches his aggressive energy, coordinates attacks with instinctive understanding, and provides the kind of absolute loyalty that only comes from someone who knows exactly what you saved them from.
+Freed from the fighting pits during the Warrens descent at the end of Book 6, when he is twenty-two. She guards him with her life; he freed hers. Their battlefield partnership is seamless — she matches his aggressive energy, coordinates attacks with instinctive understanding, and provides the kind of absolute loyalty that only comes from someone who knows exactly what you saved them from.
 
 The rescue is quintessential Tiberian: he cannot walk past suffering, even when the fighting pits are someone else's problem. Kess becomes the living proof that his impulsive compassion produces real, lasting good.
 
