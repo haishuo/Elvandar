@@ -116,6 +116,26 @@ had not modelled was already in the field. Note this rather than dramatise it �
 Book 6 lesson and her Book 7 culmination, and she is the sort of person who updates the model rather than
 resents the wolf.
 
+**On the thing neither of them ever knows, which is the reason to keep this entry rather than fold it into
+a sheet.** If any of those men had been carried to Xion alive and dying, he would have asked their
+permission and gone to work. He does not decide who is owed care; that position is stated at the top of his
+voice in B1 ch22 and it is collected in Book 7, when his own father is put on the floor in front of him and
+he kneels down beside him. **The men who took his son would have got exactly the same hands.** It is not
+generosity and it would not have felt like a decision — it is simply the only thing he has ever been able to
+do with a body in front of him.
+
+**Kess made sure there was nobody to carry.** Not as a kindness to him, not to spare him anything, and not
+with any of this in mind. She was not thinking about Xion at all.
+
+**Neither of them ever learns that this is what happened**, and nobody in the story is ever in a position to
+point it out. It is the same act approached from opposite ends: **he cannot refuse a wound, and she does not
+leave wounds.** Between the two of them, the men who took Tiberian were never going to survive the day —
+by mercy or by its absence, and the difference is only which of them reached the room first.
+
+*This is a resonance for the notes, not a beat for the page.* Do not have a character observe it. The moment
+anybody says it aloud it becomes a thesis about the family, and it is worth far more as a fact the reader
+can assemble and the characters cannot.
+
 **What depends on this being true.** By Book 7, *she goes where Tiberian goes* is a pattern reliable enough
 for Rosik Kemvimore to build a plan on — and it is reliable because of this. **So the Slavers' last grab at
 relevance is what welded Kess to Tiberian's shoulder, and therefore what guaranteed she would ride out of

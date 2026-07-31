@@ -2048,3 +2048,26 @@ what the relief is about. **Nobody says it.** It sits in the file as a fact abou
 to be played.
 
 That closes the last open question on this entry.
+
+---
+
+## 2026-07-31 — the two ends of the same act
+
+Added to the Offstage entry at the author's request, and marked as a resonance for the notes rather than a
+beat for the page.
+
+**If any of those men had been carried to Xion alive and dying, he would have treated them.** He does not
+decide who is owed care — the position is stated at the top of his voice in B1 ch22 and collected in Book 7
+when his own father is put on the floor in front of him. **The men who took his son would have got the same
+hands**, and it would not have felt like a decision, because it never does.
+
+**Kess made sure there was nobody to carry.** Not as a kindness, not to spare him anything, and with none of
+this in mind — she was not thinking about Xion at all.
+
+**Neither of them ever learns it**, and nobody in the story is positioned to point it out. **He cannot
+refuse a wound; she does not leave wounds.** Between them the men who took Tiberian were never going to
+survive the day, by mercy or by its absence, and the only variable was which of the two reached the room
+first.
+
+**Filed with a prohibition:** no character observes this. Said aloud it becomes a thesis about the family;
+unsaid it is a fact the reader can assemble and the characters cannot, which is worth considerably more.
