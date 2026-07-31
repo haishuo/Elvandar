@@ -336,6 +336,13 @@ Quiet, reserved, practical. Kael's Iron cartel connections provide muscle and le
 
 ### The last patient (Book 7 — planned, not written)
 
+**He staged a coup against his own wife once**, during the Compact War, and it is the most out-of-character
+thing he has ever done — which is why it worked. Kalden Erulius did not know him and had invented a
+machiavellian version of him to hate; Xion played that version, and Kalden abandoned a sound war plan to
+besiege Kaha'an with cavalry and no siege train. **It is his father's method — find the load-bearing
+member, pull it, stand back — pointed at a man Rosik will pull the identical lever on twenty years later.**
+Full account and its costs in `Offstage.md`, "The King's Gambit."
+
 **Two inherited sights, and both of them hold *him*.** Mira gave him the healer's eye and Rosik gave him
 the geometry, and the thing that separates him from his father is not which one he uses but **how it is
 held**. Rosik deploys his; Xion's arrive without consulting him — B1 ch18, *"the other thing took over,

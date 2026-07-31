@@ -267,6 +267,25 @@ Alliance partners of convenience rather than conviction. Gunastran's Nadira view
 ---
 
 
+### The imaginary Xion
+
+**Kalden has never known Xion Valanar, and the man he hates is one he invented.** His Xion is a
+machiavellian overmind who arranges continents, who took Elara as a prize, and who is personally behind
+everything that has gone wrong in his life for thirty years. **The real man spent eight years hiding from
+an inheritance most people would kill for, treating the poor for nothing in a back room, specifically so
+he would not have to be somebody.** The two have almost nothing in common beyond a name.
+
+**This is exploitable and it was exploited.** During the Compact War, Xion staged a coup against his own
+wife — an act so grotesquely out of character that anyone who had met him would have laughed — precisely
+because Kalden would not laugh. Kalden's reaction was not *I am persuaded*; it was **I knew it.** He
+abandoned the pincer on Uratha to besiege Kaha'an with a host of cavalry and no siege train, and lost the
+war doing it. See `Offstage.md`, "The King's Gambit."
+
+**And the same fantasy kills him in Book 7.** He rides out to meet the imaginary man, demands to know
+where he is, and finds his son — and the collision between thirty years of story and the reality in front
+of him stops his heart. **Two Kemvimores fed that delusion, twenty years apart, for opposite reasons.**
+Nobody ever tells him it was not real, and nobody is in a position to.
+
 ### Book 7: what he thinks he is doing
 
 **He does not know he is a diversion.** He believes Rosik Kemvimore is the only man in Elvandar who

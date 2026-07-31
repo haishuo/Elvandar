@@ -306,10 +306,47 @@ had finally stopped pretending.
 **Elara was in on it. So were Vesk and the Arol Batae.** The whole thing was theatre, and the audience was
 one prince.
 
-**It worked for the reason all good bait works: it confirmed what Kalden already believed.** Kalden knew
-Xion was power-hungry — knew it the way you know a thing about yourself and assume it of everyone —
-because **Kalden is power-hungry.** He was not persuaded of anything. He was handed proof of something he
-had always known, and men do not examine that kind of proof.
+### Why it is absurd, and why that is the point
+
+**Anyone who has spent an hour with Xion would have laughed at it.** This is the man who was heir to House
+Kemvimore *and* to the Grain cartel — the cartel with its hand on the throat of the wealthiest city in the
+world — and who spent eight years pretending to be a nobody healer in a back room in cheapside, treating
+the poor for nothing, specifically so he would not have to be that man. **He is the last person on Elvandar
+who would ever stage a coup.** The performance is not merely out of character; it is the precise inversion
+of the only thing he has ever consistently been.
+
+**Which is exactly why it works on Kalden, and only on Kalden.** Kalden does not know him. **Kalden's Xion
+is a different person wearing the name** — a machiavellian overmind who arranges continents, who took Elara
+as a prize, who is behind everything that has gone wrong in Kalden's life for thirty years. Xion knows
+precisely what that imaginary man looks like, because he has been watching Kalden shout about him for
+years. **So he plays the part of Kalden's Xion**, and Kalden's response is not *I am persuaded*. It is
+**I knew it.**
+
+**And the trap contains a true fact, which is what makes it hold.** Xion genuinely has no military
+experience whatsoever. Kalden is not wrong about that and never becomes wrong about it — he simply draws
+the conclusion from the wrong premise. He gets an accurate read on the wrong question.
+
+### Kalden's reasoning, which is airtight from inside
+
+*Recorded verbatim because the reasoning is the point and paraphrase blunts it. This is not a staged
+scene and this entry is not a chapter.*
+
+> "Don't you all see? The Emperor Consort is a *nobody healer*! He has no military experience, and yet he
+> has seized control over Kaha'an's defenses! This is a golden opportunity, which may never come again!
+> When else would the walls of Kaha'an ever be defended by an incompetent?!"
+>
+> "My lord — even if that is true — the plan was to link up with Gunastran. This is—"
+>
+> "Plans change. Erulius marches to glory, not to the tune of engineers. Or would you fain lay down roads
+> instead of going down in history?!"
+
+**Somebody in that room saw it and was not allowed to finish the sentence.** Keep that. It costs one line
+and it establishes that the failure was not for want of an adviser.
+
+**And the second speech is the whole book in four sentences.** He rejects the engineers in the same breath
+he commits to a siege. **The contempt and the decision are the same sentence**, and the reason he will
+spend six weeks sitting in front of unbreached walls is spoken aloud by him, proudly, before he sets out.
+Nobody needs to explain it afterward and nobody should.
 
 ### What it cost him
 
@@ -338,6 +375,15 @@ inherited the geometry along with the healer's eye, and by this point in his lif
 knows how to point it. Do not treat that as a slip or a fall — but do not treat it as nothing, either. It
 is worth remembering that the man he used it on is the same man **Rosik will use the identical lever on
 twenty years later**, for a different purpose, with the same contempt for him as an instrument.
+
+**On the imaginary Xion, which is the thread that runs from here to Kalden's death.** Kalden spends thirty
+years fighting a man who does not exist. **This is where that man is first weaponised** — Xion, having
+identified the fantasy, feeds it deliberately, and Kalden loses a war to a version of his enemy that he
+invented himself. **And it is what eventually kills him.** In Book 7 he rides out to meet the same
+imaginary man, screaming *where is he, where is Xion*, and finds a calm young stranger who turns out to be
+the son, and the collision between thirty years of story and the reality in front of him stops his heart.
+**Xion helped build the delusion. Rosik later uses the same delusion. It is the delusion that kills him**,
+and no one ever tells him it was not real.
 
 **And it means Xion is partly the author of Kalden's ruin.** The Erulian ledger that defines Book 7 —
 reparations, the unpaid army, the third of the principality gone to the Erulian Union — begins with a war

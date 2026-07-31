@@ -2155,3 +2155,42 @@ never mention it — so either it surfaces as history later, or the investment w
 footnote, but that is a decision. Also open: who among the allies had to be told (believe the coup and the
 Alliance fractures; tell them and three governments hold the secret); whether it was ever publicly
 corrected; and **Commander Vesk, who has no character sheet and appears in no material after Book 1.**
+
+---
+
+## 2026-07-31 — the imaginary Xion, and why the Gambit works on exactly one man
+
+Author's deepening of The King's Gambit, and it turns the entry from a war story into the origin of how
+Kalden dies.
+
+**The coup is absurd, and the absurdity is the mechanism.** This is the man who was heir to House Kemvimore
+*and* the Grain cartel — the cartel with its hand on the throat of the richest city in the world — and who
+spent eight years pretending to be a nobody healer in cheapside, treating the poor for nothing, so he would
+not have to be that man. **He is the last person on Elvandar who would stage a coup.** The performance is
+not merely out of character; it is the precise inversion of the only thing he has ever consistently been,
+and **anyone who had spent an hour with him would have laughed at it.**
+
+**Which is why it works on Kalden and could never have worked on anyone else.** Kalden does not know him.
+**Kalden's Xion is a different person wearing the name** — a machiavellian overmind who arranges
+continents and is behind thirty years of personal misfortune. Xion identifies the fantasy and performs it,
+and Kalden's response is not *I am persuaded* but **I knew it.**
+
+**And the trap contains a true fact, which is what makes it hold.** Xion genuinely has no military
+experience. Kalden is right about that and never becomes wrong about it — he draws the correct conclusion
+from the wrong premise. *When else would the walls of Kaha'an ever be defended by an incompetent?*
+
+**Kalden's reasoning is recorded verbatim**, with a note that it is not a staged scene and the entry is not
+a chapter, because paraphrase blunts it. Two details worth protecting: **an adviser sees it and is not
+allowed to finish the sentence** — the failure was not for want of counsel — and **the refusal of the
+engineers and the commitment to the siege are the same speech.** *Erulius marches to glory, not to the tune
+of engineers.* The reason he will sit in front of unbreached walls is spoken aloud, proudly, before he sets
+out, and nothing afterward needs to explain it.
+
+**The thread this opens is the largest thing in the entry.** Kalden spends thirty years fighting a man who
+does not exist. **This is where that man is first weaponised**, and it is the same fantasy that kills him
+in Book 7 — he rides out to meet the imaginary Xion, demands to know where he is, finds the son, and the
+collision between thirty years of story and the reality in front of him stops his heart. **Two Kemvimores
+fed that delusion twenty years apart for opposite reasons, and it is the delusion that kills him.** Nobody
+ever tells him it was not real.
+
+Recorded in `Offstage.md` and on the Kalden and Xion sheets.
