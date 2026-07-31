@@ -187,9 +187,12 @@ either rescue — is what she is actually gathering evidence about.
 **Between Books 6 and 7 he is taken**, in a tight space, by the last remnants of the Slavers making a
 grab at the power they lost with Ronas — he inspects the Green City construction personally and lets
 himself be seen doing it, which is what they use. Kess is away, as she often is, because he never asks
-where she goes. The crown recovers him. **What changes is her**, not him: she works out that she could
-have walked away at any point and nobody would have stopped her, that it happened on a watch nobody
-assigned her, and that it will not happen twice. **Full account: `Offstage.md`, "The Taking of the Tiger Prince."**
+where she goes. **She comes back, finds him gone, and goes and gets him** — alone and unauthorised, while
+the crown is still drafting terms, and with a number of people assuming she has run for good. **What
+changes is her**, not him: somewhere in the going she works out that she could have walked away at any
+point and nobody would ever have stopped her, that it happened on a watch nobody assigned her, and that
+it will not happen twice. When it is over **he does not ask about it**, which is the same thing he has
+always done and the reason any of it worked. **Full account: `Offstage.md`, "The Taking of the Tiger Prince."**
 
 **Their battlefield coordination is real and needs no instruction**, because they are paradigm twins:
 Caretaker primary, Spirited Competitor secondary, reading the same priorities in the same situations.

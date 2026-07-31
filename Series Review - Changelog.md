@@ -1985,3 +1985,47 @@ that is a decision about a book rather than about this file.
 which is the opposite of what these are.
 
 First entry: **The Taking of the Tiger Prince.** `CLAUDE.md` §5 and the §7 layout block updated.
+
+---
+
+## 2026-07-31 — Kess is the one who gets him back
+
+**Author's ruling, and it fixes a weakness the first version of the entry had.** As originally recorded,
+Kess stood outside the crisis doing nothing while she had a realisation — **inert for a character whose
+entire mode is action**, and the one soft spot in the account. She now comes back, finds him gone, and
+goes and gets him.
+
+**It uses her instrument**, which is the house test for a fix. Half-built Green Cities — raw structures,
+unfamiliar ground, no settled patterns of movement, a great deal of dark — and a timber wolf who already
+has his scent. Every element of it is something only she can do.
+
+**And it is *more* consistent with "not his soldier," not less.** A Kess who waits for the state to finish
+negotiating is behaving like a subordinate. A Kess who tells nobody, asks nobody, and handles it herself
+is behaving exactly like the woman two books describe.
+
+**She leaves before the crown's offer exists**, which is the detail that keeps it clean. She never hears
+*return him unharmed and you will be imprisoned rather than executed*, so she is not defying it — **she is
+structurally outside it rather than rebelliously so.** Not a subordinate who disobeyed; a person who was
+never under the order. If anyone tried to hold the terms up in front of her, the answer available was five
+words: *do I look royal to you?*
+
+**The killing sits at indifference.** Not a rampage, which makes her a monster; not restraint, which makes
+her a soldier observing rules of engagement she never agreed to. She does not go out of her way to kill
+them and does not go out of her way not to.
+
+**The best beat in it is the misreading.** A number of people concluded she had run for good — the
+obvious reading, and the one her manner had invited for two years. **The single person who would not have
+believed it was the man in the cellar**, and he was in no position to say so.
+
+**And the ending falls out for free.** When it is over he does not ask how she found him, what she did, or
+where she had been. **The same habit — never asking where she goes — pointed at the one thing that would
+most invite comment.** Neither of them ever mentions any of it.
+
+**What was protected.** The realisation remains the cause and the rescue is what she does about it, in
+that order. If the rescue produced the change it would become *she saved him and therefore belongs to
+him*, which is the imprinting shape the outlines have refused for two books.
+
+*Noted rather than dramatised:* Melina guaranteed an outcome while a variable she had not modelled was
+already in the field — the same shape as her Book 6 lesson and her Book 7 culmination. She is the sort who
+updates the model rather than resents the wolf. **New open question:** what the crown said afterward about
+terms it could no longer deliver, and whether anyone was foolish enough to raise it with Kess.

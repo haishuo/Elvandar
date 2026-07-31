@@ -115,7 +115,7 @@ By Book 7, she is staying. *Staying is the closest thing to trust she knows how 
 ### The kidnapping, between Books 6 and 7
 
 **Full account: `Offstage.md`, "The Taking of the Tiger Prince."** The last of the Slavers took Tiberian
-while she was away on one of her absences, and the crown recovered him.
+while she was away on one of her absences. **She came back, found him gone, and went and got him** — alone, unauthorised, and without telling anyone, while the crown was still drafting terms.
 
 **What it settled in her**, which is the part that matters here: she worked out that she could have walked
 away at any moment and nobody would have stopped her — **and that this had been true every day since he

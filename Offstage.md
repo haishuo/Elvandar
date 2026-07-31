@@ -51,20 +51,41 @@ still never asked and never sent anyone after her. He was simply certain she wou
 They took him in a tight space, which was the only sort of ground on which it could have worked. He fought.
 It did not matter.
 
-The demand was the Slavers restored to what they had been, in exchange for the prince. The answer came from
-Melina, with her parents behind it and no daylight between the three of them: return him unharmed and you
-will be imprisoned rather than executed. He was recovered.
+The demand was the Slavers restored to what they had been, in exchange for the prince.
 
-**What it did to Kess is the reason this entry exists.** Standing outside it, unable to affect any of it,
-she worked out two things in an order that mattered. The first was that she could leave — right now, in
-the middle of it, and he could not have stopped her. The second was that this had been true every single
-day since he cut her out of the pit. **Nobody had ever contested it.** The freedom she had been holding in
-reserve, the thing the distance was for, had never once been under threat.
+**Kess came back, found him gone, and left again inside the hour.** She told nobody where she was going,
+because she never did. **She was gone before the crown had finished drafting its answer**, which is worth
+being precise about: she did not hear the offer Melina eventually made — *return him unharmed and you will
+be imprisoned rather than executed* — and she was not defying it. She was simply not there for it, and had
+never been a party to anything the crown promised on its own behalf.
+
+**A number of people concluded she had run for good.** It was the obvious reading. It was the reading her
+entire manner had invited for two years, and it was the one thing everybody knew about her: that she stayed
+only as long as she chose to, and that she had never once said she would stay longer. **The single person
+who would not have believed it was the man in the cellar**, and he was in no position to say so.
+
+She had his scent. The Green Cities were half-built — raw structures, unfamiliar ground, no settled patterns
+of movement, and a great deal of dark. It is difficult to think of terrain that suits a timber wolf better
+or a group of surface criminals worse.
+
+**She did not go out of her way to kill any of them. She did not go out of her way not to.** The distinction
+mattered to nobody present. If any of them tried to hold the crown's terms up in front of her — and it is
+not certain anyone had the time — the answer available to her was five words long: *do I look royal to you?*
+
+**The crown was still negotiating when it was already over.**
+
+**What it did to Kess is the reason this entry exists, and it is not the rescue.** Somewhere in the going
+— and she would not be able to say when — she worked out two things in an order that mattered. The first
+was that she could leave. Right then, with him in somebody's cellar, she could have turned around and gone,
+and he could not have stopped her and would not have tried. The second was that **this had been true every
+single day since he cut her out of the pit.** Nobody had ever contested it. The freedom she had been
+holding in reserve, the thing the distance was for, had never once been under threat.
 
 And the day it finally cost something was a day she had not been there. On a watch nobody had ever assigned
 her, that she had never agreed to keep, and that she was therefore the only person who could be held to.
 
-She decided it would not happen again.
+She decided it would not happen again — and had already acted on it before she finished having the thought,
+which is the correct order for her and should stay that way.
 
 ---
 
@@ -79,6 +100,22 @@ been. He extends the freedom first, and keeps extending it, for as long as it ta
 either rescue, is what she had been gathering evidence about. The taking did not create the trust. It
 finished a case she had been building for years.
 
+**And when it is over he does not ask about that either.** Not how she found him, not what she did to the
+men who had him, not where she had been when they took him. **The same habit, pointed at the one thing that
+would most invite comment** — and neither of them ever says a word about any of it. That is the whole
+relationship in one omission, and it is worth more than any conversation they could have had instead.
+
+**On the killing, and the register it needs.** Not a rampage, which would make her a monster, and not
+restraint, which would make her a soldier observing rules of engagement she never agreed to. **Indifference
+to whether they survived**, which is colder than either and truer to what the pit made. The crown's mercy
+was the crown's to offer. She was not the crown, and she had not heard it, and it would not have altered
+anything if she had.
+
+**On the state being slower than the wolf.** Melina made a guarantee about an outcome while a variable she
+had not modelled was already in the field. Note this rather than dramatise it — it is the same shape as her
+Book 6 lesson and her Book 7 culmination, and she is the sort of person who updates the model rather than
+resents the wolf.
+
 **What depends on this being true.** By Book 7, *she goes where Tiberian goes* is a pattern reliable enough
 for Rosik Kemvimore to build a plan on — and it is reliable because of this. **So the Slavers' last grab at
 relevance is what welded Kess to Tiberian's shoulder, and therefore what guaranteed she would ride out of
@@ -86,5 +123,5 @@ Kaha'an with him rather than stand in the palace.** That is precisely the condit
 final attempt to matter served the one man who was using their whole world as scenery, and not one of them
 ever knows it.
 
-**Open:** whether Kess acts during the crisis or only after it. The turn happens in her head, about her own
-conduct, so it requires her to do nothing at all.
+**Open:** what, if anything, the crown said afterward about having guaranteed terms it could no longer
+deliver — and whether anyone was foolish enough to raise it with Kess.
