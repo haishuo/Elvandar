@@ -322,6 +322,33 @@ The thing to notice — and which Urathan scholars would notice immediately if a
 
 **Reality:** All true, but far more extensive than anyone imagines.
 
+### **The Prince's Patience**
+
+Open ground east of the walls, off the Golden Path where it runs in toward the city, roughly a mile out.
+Flat, unremarkable, and useless — too stony for planting, too exposed for building, and grazed only in
+passing.
+
+**It is named for a siege that never happened.** During the Compact War, Prince Kalden Erulius brought an
+army west and invested Kaha'an from this ground. He had cavalry, and he had the finest horse on the
+continent, and he had nothing whatever with which to reduce a city. His siege train was somewhere behind
+him. **He sat here for weeks, in full view of the walls, and did nothing**, because there was nothing he
+could do — and then the war was decided somewhere else and he went home.
+
+The wall he faced was never breached. It was never seriously attacked. **There is no damage anywhere to
+point at**, which is precisely why the name stuck: what the Erulians left behind was not a scar but a
+patch of empty field, and the people on the walls who watched them sit in it named the field after the
+waiting.
+
+Kaha'an has not been sentimental about it. There is no monument. Children are taken out along the Path and
+told the story on the way past, and the joke is old enough now that the telling is mostly for the
+teller's benefit. **It is the cheapest kind of history a city can own: the enemy came, and was
+insufficient, and the ground remembers him for it.**
+
+*Full account: `Offstage.md`, "The King's Gambit." The name is a Balishan coinage and Erulius has never
+used it.*
+
+---
+
 ### **The Arol Batae Compound**
 
 **Location:** Quiet corner of the Noble District

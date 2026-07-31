@@ -131,9 +131,18 @@ floor and the better part of a day is his estimate, and both are empirical.
 **His sample size is one, and the variable that mattered was not in it.** The Kalden of Silaris was
 several years younger and considerably less ruined.
 
+**On the second data point, which is why Rosik is confident he will march at all.** This is not Kalden's
+first march on Kaha'an. During the Compact War he abandoned a sound pincer to besiege the capital and
+lost his war doing it — see `Offstage.md`, "The King's Gambit." **He did not learn anything from it**, and
+he could not have: his sheet is explicit that he absorbs defeat as persecution rather than processing it,
+so twenty years on he remembers being cheated rather than being baited. **The precedent does not deter
+him. It is proof of exactly the flaw Rosik is levering**, and Rosik has both readings — Silaris says
+Kalden can hold an engagement, Kaha'an says Kalden will march on that city given a reason and will have
+learned nothing.
+
 ### The sequence he was counting on
 
-1. Kalden mortgages Erulius, hires mercenaries, and marches west believing it is his destiny
+1. Kalden mortgages Erulius, hires mercenaries, and marches west believing it is his destiny — **for the second time in his life**, and with no more idea than the first time why the first time failed
 2. The waystations track the column; the crossing signal reaches Kaha'an
 3. Tiberian, pre-positioned, moves within hours — Kess beside him, Kai on logistics, Arol Batae integrated
 4. Both armies close on the only road and meet about a hundred miles east

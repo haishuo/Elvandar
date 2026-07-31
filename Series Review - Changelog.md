@@ -2194,3 +2194,35 @@ fed that delusion twenty years apart for opposite reasons, and it is the delusio
 ever tells him it was not real.
 
 Recorded in `Offstage.md` and on the Kalden and Xion sheets.
+
+---
+
+## 2026-07-31 — the siege of Kaha'an placed in four documents
+
+It had been absent from everything because it had no obvious home, not because it was an oversight. Four
+placements, and only the first two were load-bearing.
+
+**`Global Historical Timeline.md`** — one clause inside the Compact War entry. Without it the event was
+functionally unrecorded.
+
+**`Book 7 - Last Debts/book7_outline.md`** — the placement that was actually costing something. **Book 7
+has Kalden marching west on Kaha'an, and that is his second attempt.** The outline did not know it, and it
+turns out to reinforce rather than complicate: his sheet is explicit that he **absorbs defeat as
+persecution rather than processing it**, so twenty years on he remembers being cheated rather than baited.
+**The precedent does not deter him; it is proof of the flaw Rosik is levering.** It also gives Rosik a
+second data point where he had one — Silaris says Kalden can hold an engagement, Kaha'an says he will march
+on that city given a reason and will have learned nothing.
+
+**`Book 5 - Walled Garden/book5_outline.md`** — the outline required the book to establish Kalden's decline
+but listed only consequences: reparations, secession, an unpaid army. **It had no originating humiliation.**
+The siege is where the spiral starts.
+
+**`Places/Kaha'an/Kaha'an_ Physical Geography.md`** — a new location, **the Prince's Patience**: open
+ground a mile east of the walls, off the Golden Path, where Kalden sat for weeks in full view and did
+nothing. **The wall was never breached and there is no damage to point at**, which is why the name stuck —
+what the Erulians left behind is not a scar but a patch of empty field, named by the people who watched
+them sit in it. No monument; children get told the story on the way past. *The enemy came, and was
+insufficient, and the ground remembers him for it.*
+
+That last one is the cheapest way to make a war real: history a reader walks past without anyone explaining
+it.

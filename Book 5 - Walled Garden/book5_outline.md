@@ -118,7 +118,7 @@ Silaris is stabilized — but not through the simple application of resources th
 
 ## Structural Notes
 
-**Kalden's post-war state:** This book must establish the specifics of Kalden's decline described in his profile. The Compact War reparations. The refusal to impose austerity. The army going unpaid. The Erulian Union secession. The rump state. All of this context drives his desperation to seize Silaris and makes his eventual slide into Book 7's "useful idiot" comprehensible.
+**Kalden's post-war state:** This book must establish the specifics of Kalden's decline described in his profile — and it needs the **origin** of that decline, not only its consequences. **He lost the Compact War personally and in public**, in front of Kaha'an's walls, having abandoned a sound plan to get there and having brought a host of cavalry and nothing to breach a city with. See `Offstage.md`, "The King's Gambit." **That humiliation is where the spiral starts**, and everything below is what followed from it. The Compact War reparations. The refusal to impose austerity. The army going unpaid. The Erulian Union secession. The rump state. All of this context drives his desperation to seize Silaris and makes his eventual slide into Book 7's "useful idiot" comprehensible.
 
 **Silaris as a real place:** Chapter 1 solves this. The reader has been inside Silaris before anyone mentions it as a strategic asset. The art isn't abstract — it's a specific sculptor, a specific singer, a specific gallery at dusk. When the Gallery War destroys a fresco that survived five centuries, the reader isn't processing "cultural loss" as a concept. They're remembering a place they loved.
 

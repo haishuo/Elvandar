@@ -59,7 +59,9 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 > slow its work on Lathion technology before the Alliance's advantage becomes decisive. Empirica falls;
 > the Ivory Tower is bombarded; bakarn classification is suspended for the duration and quietly allowed
 > to lapse afterward. Roughly six months to the Alliance counteroffensive that retakes Empirica, led by
-> Terinok. **Erulius loses a third of itself to the Erulian Union and never recovers.**
+> Terinok. **Kaha'an itself is invested** — Kalden Erulius abandons the pincer and brings a host of horse
+> west to besiege the capital, arrives without a siege train, and sits in front of unbreached walls until
+> the war is decided elsewhere. **Erulius loses a third of itself to the Erulian Union and never recovers.**
 > Tiberian and Melina Valanar are born during this war.
 > *Not yet dated. Full account and its open holes: `Offstage.md`.*
 
