@@ -2071,3 +2071,43 @@ first.
 
 **Filed with a prohibition:** no character observes this. Said aloud it becomes a thesis about the family;
 unsaid it is a fact the reader can assemble and the characters cannot, which is worth considerably more.
+
+---
+
+## 2026-07-31 — the Compact War assembled; the historical timeline extended past Book 1
+
+**The author's observation that prompted this was correct and the reviewer had missed the category
+entirely.** The nominated Offstage candidates were all personal mini-stories; **the largest offstage thing
+in the series is a continental war** shown only through one man's six months in one occupied city.
+
+**And checking for a home turned up a bigger gap.** `Global Historical Timeline.md` **stopped at Year 1044
+BR — the opening of Book 1.** Seven books of history, including the war, had no chronicle entry anywhere.
+Extended through Book 8 with what can be derived, everything approximate marked as approximate, and the
+undated left visibly undated.
+
+**Two homes, two jobs**, on the same split used everywhere else: the timeline is the dated index, `Offstage.md`
+holds the account.
+
+**The entry is an assembly, and it says so at the top.** Unlike the Taking of the Tiger Prince — which was
+settled in the author's head and transcribed whole — nothing here was invented. Everything is collected
+from material already load-bearing downstream, and **the holes are marked as holes with an instruction not
+to fill them by inference.** The reason is on the page: this week produced four fabricated figures, and a
+war has a thousand undecided details that would each become canon the moment they were guessed at.
+
+**What assembled better than expected:** why Uratha was struck first (disrupting the coalition before it
+could coordinate — *"a strategic compliment"*); that **Erulius joined out of spite over Kalden's rejection
+by Elara**, which makes the war partly a jilted suitor's grievance escalated to continental scale and is
+the root of both Book 5 and Book 7; the Ivory Tower's bombardment and the emergency measures that were
+allowed to lapse; Terinok leading the counteroffensive and quietly covering the Ruby Tower's gaps; and the
+Erulian ledger — reparations refused, army unpaid and departed, **a third of the principality seceding with
+the best farmland.**
+
+**What is visibly missing, and recorded as missing:** the dates; **Balisha's own war**, which amounts to two
+clauses; Terinok's war; whether there were other fronts at all; what Gunastran and Vartonne wanted and got;
+the peace terms that Book 5's *"victory comes with a bill"* depends on; casualties; and where Rosik was
+throughout.
+
+**And the twins' birth is filed as structurally offstage rather than as an omission.** Book 4 is entirely
+Harkim's and the outline is explicit that the Valanars do not appear. **The two people who carry Books 5–8
+are born inside the one book architecturally incapable of showing it** — which is not a gap to repair by
+giving Book 4 a scene, because the protagonists' absence is that book's design.
