@@ -2029,3 +2029,22 @@ him*, which is the imprinting shape the outlines have refused for two books.
 already in the field — the same shape as her Book 6 lesson and her Book 7 culmination. She is the sort who
 updates the model rather than resents the wolf. **New open question:** what the crown said afterward about
 terms it could no longer deliver, and whether anyone was foolish enough to raise it with Kess.
+
+---
+
+## 2026-07-31 — the crown's undeliverable terms: closed
+
+**Author's ruling: nothing happened, and nothing needed to.** The offer had been made to men who were, by
+the time anyone could have held the crown to it, in no condition to complain. **No injured party, no
+objection, no question anyone was asking** — so the court quietly declined to examine it. Anyone with a
+grievance about the revised terms was welcome to raise it with Kess Ashwood; several already had, and it
+had not gone well for them.
+
+**One thing recorded alongside it, because it is the uncomfortable half.** It was over before the family
+knew it was happening, which means **the crown never has to discover whether it would have kept its word.**
+The promise went untested. Nobody in that family ever finds out what they would have done with the men who
+took Tiberian — and the relief goes unacknowledged, because acknowledging it would require saying out loud
+what the relief is about. **Nobody says it.** It sits in the file as a fact about them rather than a scene
+to be played.
+
+That closes the last open question on this entry.

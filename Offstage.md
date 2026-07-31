@@ -123,5 +123,15 @@ Kaha'an with him rather than stand in the palace.** That is precisely the condit
 final attempt to matter served the one man who was using their whole world as scenery, and not one of them
 ever knows it.
 
-**Open:** what, if anything, the crown said afterward about having guaranteed terms it could no longer
-deliver — and whether anyone was foolish enough to raise it with Kess.
+**On the terms the crown could no longer honour — closed, and the answer is that nothing happened.** The
+offer had been made to men who were, by the time anyone could have held the crown to it, in no condition to
+complain. There was no injured party left to lodge the objection, so the objection was never lodged, and
+the court quietly declined to examine a question nobody was asking. Anyone with a grievance about the
+revised terms was welcome to take it up with Kess Ashwood. Several of them had already done exactly that,
+and it had not gone well for them.
+
+**What that spares the family is worth noticing and should never be said aloud by anyone.** Because it was
+over before they knew it was happening, **the crown never has to discover whether it would have kept its
+word.** The promise was never tested. Nobody in that family has to find out what they would have done with
+the men who took Tiberian, and not one of them raises it, and the relief goes unacknowledged because
+acknowledging it would require saying what the relief is about.
