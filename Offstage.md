@@ -555,7 +555,7 @@ but still well inside that span.
 
 **Why this is here.** Almost every piece of this was already canon and no document held more than a
 fragment: Rosik's sheet has the three-way proposal, Sa Ko's has the windfall and the deadlock, Ronas's has
-the strike, the Ver'anar file has the fiction, and Book 2 ch7 has the legal machinery in Melina's mouth.
+the strike, the Tor'anar file has the fiction, and Book 2 ch7 has the legal machinery in Melina's mouth.
 **Nobody had ever written down the sequence**, which meant the single most consequential political
 arrangement in the series existed only as five people's separate recollections of it. **The one piece that
 was genuinely missing is the mechanism** — *missing, not dead* — and it is the piece the whole structure
@@ -625,9 +625,9 @@ holding the seat until the family comes back.
 coming back. The line was understood to have burned with the palace. The fiction was chosen *because* it
 was safely unfalsifiable, and for twenty years it was.
 
-**The Ver'anar never agreed to it**, and remain the one body in Kaha'an whose position was consistent
+**The Tor'anar never agreed to it**, and remain the one body in Kaha'an whose position was consistent
 throughout — they answer to Valanar blood and hold that the Coterie has no jurisdiction over them
-whatsoever. See `Places/Kaha'an/The Ver'anar_ Balisha's War-Magic Corps.md`. Rosik tried to bring them to
+whatsoever. See `Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md`. Rosik tried to bring them to
 heel by the usual means and could not, because his toolkit requires that a person need something he
 controls.
 

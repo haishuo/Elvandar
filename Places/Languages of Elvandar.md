@@ -118,6 +118,14 @@ When coining new names in-register, use these rules of thumb.
 - Glottal stop reserved for highest-prestige names (royal titles, sacred sites, ancient artifacts)
 - Examples to coin from: *Tharen, Velana, Korin'al, Selathan, Marianor*
 
+**Say it aloud before adopting it.** The *-anar* suffix is productive and will be reused, so a new coinage
+sharing it must differ from *Valanar* in **consonant, vowel and coda** — not in one of the three. The
+war-magic corps was originally **Ver'anar** and had to be renamed to **Tor'anar** in 2026 because *VAL*
+against *VER* differs only in the liquid, **which is the least reliable distinction there is in speech**;
+on the page it scanned fine and aloud the two collapsed together. Names that read as distinct are not
+necessarily names that *hear* as distinct, and this cast has *Valanar, Vartonne, Vrek* and *Velana* all
+sitting in the same acoustic neighbourhood already.
+
 **Regnal-name convention:** Valanar monarchs do not reign under their birth names. Upon coronation, the new emperor or empress *takes* a throne-name from a small fixed pool of Old Lathionese dynastic names — *Urath, Valan, Tharen, Sera, Mariath, Korin* — and is numbered in sequence with every prior bearer (*Urath I–IV, Valan I–VII, Tharen I–II, Sera I–VIII*, and so on). The numeral asserts continuity with the entire line of that name; the dynasty's legitimacy is partly constructed out of those sequences. The birth name is set aside at coronation and survives only in family records.
 
 This is the convention behind **Emperor Urath IV Valanar**, founder of Uratha: born under some other name now of interest only to genealogists, he took the throne-name *Urath* upon ascension because it was his turn in a sequence — the fourth emperor of that name in the Valanar line. The throne-name choice itself was an imperial statement (he could have picked any name then due in rotation; he picked the one that signaled "*the High One, returning*").

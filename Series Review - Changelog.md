@@ -2506,7 +2506,7 @@ the author wants a different sound with the same register: *Verrian Tarrus*, *Ma
 
 **The finding is that nearly all of this was already canon and no document held more than a fragment.**
 Rosik's sheet had the three-way proposal, Sa Ko's had the windfall and the deadlock, Ronas's had the
-strike, `The Ver'anar` file had the fiction, and B2 ch7 has the legal machinery in Melina's mouth as
+strike, `The Tor'anar` file had the fiction, and B2 ch7 has the legal machinery in Melina's mouth as
 published prose. **The sequence had never been written down**, so the most consequential political
 arrangement in the series existed only as five separate recollections. Same condition the Compact War was
 in before its assembly pass.
@@ -2551,3 +2551,52 @@ sheet and in the entry, including *"every cartel head in the room remembers thos
 sheet's separate claim that the surface economy seizes up *within weeks* is unaffected and still coherent.
 **Flagged rather than done silently**, since the one-month version was written with some care; reverting is
 a two-line change.
+
+---
+
+## 2026-08-01 — The Ver'anar renamed to the Tor'anar
+
+**Author's call, on an acoustic problem rather than a written one.** *Ver'anar* and *Valanar* differ by a
+single phoneme — **L against R** — which is the least reliable distinction in speech, and the war-magic
+corps sworn to the imperial line was named almost exactly like the imperial line. On the page the two
+scan fine. Read aloud they collapse together.
+
+**`Tor'anar` differs in consonant, vowel and coda while keeping the suffix**, which had to survive: *-anar*
+is Old Lathionese for *line, blood, bearing* — the same morpheme that makes *Valanar* — and the corps is
+sworn to Valanar blood specifically, so their name saying *of the line* is the point of it. Only the
+first element was ever available to change. *tor-* is re-coined in place of *ver-* as "storm, thunder, the
+breaking of weather"; the file already flagged that root as invented.
+
+**Short forms move with it:** *the Ver* → **the Tor**, *Veranai* → **Toranai**.
+
+### Blast radius, checked before the change
+
+**41 occurrences across seven files, and none in chapter prose.** No `Chapters/` file mentions the corps,
+so no Royal Road regeneration was required and nothing on the published side moved. The document filename
+was renamed with `git mv` so history follows it. A rename note sits under the etymology, since a reader
+coming from an older document needs to know the corps did not change, only its name.
+
+### The author's own candidate, and why it was not used
+
+**`Kal'anar` was a real improvement and still had two problems.** It fixes the worst part — moving off the
+L/R pair onto a V/K distinction the ear actually resolves — but it keeps the *A* vowel and the *L*, so
+*VAL-anar* and *KAL-anar* still rhyme hard. **And *Kal-* is the root in *Kalden*** (Proto-Balishan,
+"strong, firm" — *Kalden* is glossed "The Steady One" in the language guide), which puts it directly on
+top of a major antagonist whose name is spoken constantly across Books 3, 5 and 7.
+
+**Also ruled out:** *Kor'anar* collides with **Korin**, one of the six Valanar throne-names. *Sur'anar*
+echoes **"surfacer,"** a loaded Warrens word. *Mor'anar* reads death-adjacent to any ear picking up Latin,
+which is live in a series containing a Latinate principality. *Thur'anar* was clean and was the runner-up;
+**the Tor** is simply a better short form than *the Thur*.
+
+### One general rule extracted from this
+
+Added under **Balishan (ceremonial)** in `Places/Languages of Elvandar.md`: **say a coinage aloud before
+adopting it.** *-anar* is productive and will be reused, so anything carrying it must differ from
+*Valanar* in consonant, vowel **and** coda rather than in one of the three. **Names that read as distinct
+are not necessarily names that hear as distinct**, and this cast already has *Valanar, Vartonne, Vrek* and
+*Velana* in one acoustic neighbourhood.
+
+**Note on this file:** the single prior changelog reference was a **file path** in yesterday's Coterie
+entry and was updated with the rename, since a broken pointer serves nobody. No historical *claim* in this
+file was altered.
