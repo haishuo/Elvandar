@@ -1,7 +1,7 @@
 # Chapter 7: The Repository
 
 **Timeline:** Days after Chapter 6 — the expedition has settled into the rhythm of working in Lathion, and begins descending past the Crown
-**Characters:** Xion, Elara, Engineer Kaiden Voss, the Urathan scholars (treated as a contingent rather than singled out by name); Farleen at the camp
+**Characters:** Xion, Elara, Engineer Kaiden Voss, the Urathan scholars (treated as a contingent rather than singled out by name); Farleen at the camp; the Arol Batae detail and the Tor'anar detachment present throughout
 **Emotional work:** The weight of depth. Chapter 5 was scale; Chapter 6 was inhabitation. Chapter 7 is *what is in here*. The room presses down on the expedition not because it is large — though it is — but because it contains everything a civilization knew, organized by hands that were still warm a generation ago. The Repository changes the shape of the question Lathion has been asking the expedition: it is not "look what they built," it is "look what they left for *you*." By chapter's end, the expedition is no longer exploring. It is *receiving*.
 **POV:** Xion, close third-person limited
 

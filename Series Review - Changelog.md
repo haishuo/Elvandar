@@ -2866,3 +2866,63 @@ three**, so no Royal Road regeneration was required.
 **Residue is intentional in two places.** The prior changelog entries keep the old names, because this file
 is append-only history and those entries record what was true when written. And the factions file's closure
 note names both old forms explicitly, so a reader arriving from an older document can find where they went.
+
+---
+
+## 2026-08-01 — The Tor'anar reach Book 3, which they never had
+
+**Author's catch, and it was a live flag nobody had actioned.** `The Tor'anar_ Balisha's War-Magic Corps.md`
+already carried the whole argument — Lathion is *"exactly the register of threat the Tor'anar exist to
+watch for,"* they press Elara to embed, she grants it — and ended with an explicit instruction that
+**"earlier drafting that had Xion and Elara at Lathion with no security presence at all from either
+institution should be revised with this in mind."**
+
+**It was never revised.** Neither the Tor'anar nor the Arol Batae appeared anywhere in Book 3. The only
+Arol Batae mentions in the whole book are references to Elara's *upbringing*.
+
+### What was added
+
+**The deputation, filed in the Tor'anar's own file** with the author's line quoted as the register.
+**The trigger is the treaty, not Lathion** — nobody has heard of Lathion yet except as a name in a list of
+legends. What the corps is responding to is a sovereign who has just agreed to put foreign battle-capable
+mages at a sealed arcane site inside Balishan territory, within spell distance of her person.
+
+**They do not object; they request**, and the distinction is the institution. Twenty years of doctrine
+forbids acting unbidden, so what arrives is a formal deputation asking to be used. **The claim is
+jurisdictional rather than protective** — it opens by conceding the Arol Batae's competence at the thing
+they are actually for, and then states a constitutional position aloud to the only person entitled to hear
+it. **The number is theirs, not hers**: *at least three* is a professional minimum, not an opening
+position. They have never haggled with a Valanar and would not know how.
+
+**Elara grants it, and it costs her nothing.** She has no institutional relationship with them at all. It
+is the smallest possible yes, **and what it means to the corps is disproportionate in a way nobody in the
+room registers.**
+
+**Beat drafts and skeleton.** ch5's character list and a new footer; ch6's list plus a footer on how to use
+them; ch7 and ch8's lists; the skeleton's ch5 entry.
+
+### The locked chapter needed no change, which was the thing to verify first
+
+**`Chapters/Chapter 5 - Wonder.md` is locked and is not touched.** It accommodates the detachment as
+written: it never enumerates the expedition, it repeatedly gestures past the named characters (*"People
+checked their lamps," "The scholars were completely silent. So was everyone else"*), and it describes
+Farleen as **"not a scholar and not a soldier in the formal sense"** — which already implies soldiers in
+the formal sense are standing in that passage. The draft/prose relationship stays clean because everything
+added is consistent with the page rather than additive to it.
+
+### A payoff that falls out for free
+
+**The Tor'anar are embedded specifically to supervise the Urathan delegation's magical conduct** — that is
+the jurisdiction they claimed in order to get the posting. **The Urathan delegation turns out to have an
+undisclosed interest** (ch9, ch11). So the corps that spent twenty years being ignored, and had to ask for
+the posting, **was right about the exact risk it named.** Recorded in ch6's footer with the instruction
+that nobody says so — the reader gets it for free provided the detachment was visible enough in ch6–8 to be
+remembered.
+
+### Open: the deputation is currently offstage, and that is a decision, not a default
+
+**No existing chapter can host the scene.** ch3 and ch4 both close on designed emotions that must not be
+diluted (rule 3), ch4 ends in Uratha rather than Kaha'an, ch5's prose is locked, and ch6 opens inside
+Lathion the morning after. **Staging it would mean a new chapter or a restructure**, so it is established
+as having happened between ch4 and ch5 and the detachment is simply present from ch5 onward. The speech is
+recorded in full in the Tor'anar file so nothing is lost if a later pass wants it.

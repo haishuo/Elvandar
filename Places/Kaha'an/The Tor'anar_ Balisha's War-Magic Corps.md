@@ -84,6 +84,48 @@ Lathion is different in kind. A five-thousand-year-old sealed magical civilizati
 
 This is where the Tor'anar push, for the first time in the series, for an active role — not by acting unbidden, but by pressing Elara hard for permission to embed with the expedition. Elara grants it: a small, low-stakes trust step, long before anything like a combat order.
 
+### The deputation, and what they actually argue
+
+**When:** Between B3 ch4 and ch5 — after the Uratha treaty is signed and before the Urathan contingent
+reaches the Brass Door. **The trigger is the treaty, not Lathion**, which nobody has heard of yet as
+anything but a name in a list of legends. What the Tor'anar are responding to is a Balishan sovereign who
+has just agreed to place a delegation of foreign battle-capable mages at a sealed arcane site inside
+Balishan territory, within spell distance of her person.
+
+**They do not object. They request** — and the distinction is the entire institution. Twenty years of
+doctrine forbids them to act unbidden, so what arrives is a formal deputation asking to be used. The
+register, for calibration:
+
+> *"While we appreciate the efforts of the Arol Batae to guard the Empress's person, since the earliest
+> days of the empire the Tor'anar have been the arcane arm of the Valanar. We are the authority on all
+> things arcane, and to have foreign mages so close to the Empress requires our expertise. With respect,
+> we request that at least three Tor'anar agents be dispatched to accompany the Empress on any expedition
+> to such a dangerous magical place with unknown magical people."*
+
+**Note what that is doing.** It is not a complaint about the Arol Batae and takes care not to be — it
+opens by conceding their competence at the thing they are actually for. **The claim is jurisdictional,
+not protective**, and it is the first time in twenty years the corps has asserted a jurisdiction to
+anybody. *We are the authority on all things arcane* is not a boast; it is a constitutional position being
+stated aloud to the only person entitled to hear it.
+
+**And the number is theirs, not hers.** *At least three* is a professional minimum offered by people who
+have thought about the problem, not an opening position in a negotiation. They are not haggling. **They
+have never haggled with a Valanar and would not know how.**
+
+**Elara grants it.** She has no institutional relationship with them at all — she was raised by the Arol
+Batae and has gone to them first her whole life by pure habit — so the grant costs her nothing and settles
+nothing. It is the smallest possible yes. **What it means to the corps is disproportionate and neither
+she nor anyone else in the room understands that**, which is the beat to preserve if this is ever
+dramatised.
+
+**Currently offstage.** No chapter hosts the scene: B3 ch3 and ch4 both close on designed emotions that
+must not be diluted, ch4 ends in Uratha, and **`Chapters/Chapter 5 - Wonder.md` is locked prose.** The
+deputation is therefore established as having happened between chapters, and the detachment is simply
+present from ch5 onward. **The locked prose accommodates this without alteration** — it never enumerates
+the expedition, it repeatedly gestures past the named characters (*"People checked their lamps," "The
+scholars were completely silent. So was everyone else"*), and it describes Farleen as *"not a scholar and
+not a soldier in the formal sense,"* which implies soldiers in the formal sense are standing there.
+
 **His function is security and counterintelligence, not research.** He is not there as a magical peer to the Urathan delegation, and the corps does not think of him as an observer in the academic sense. The governing logic: an allied nation's intelligence service does not get unsupervised access to a classified facility just because the two states are friendly — you post a guard regardless, especially with the head of state physically present (Elara attends the Lathion exploration and experiences the Destiny Engine vision firsthand in Chapter 8). The Tor'anar do not fully trust the Amethyst Tower's restraint around a site of this magnitude, allied nation or not, and their position is that "supervised" and "trusted" are not the same thing. The person assigned to that job isn't chosen for diplomatic tact or scholarly credentials — he's chosen for being capable enough to physically stop the Urathans if they prove uncooperative, the same way a foreign dignitary's protective detail is built from operators, not from whoever's best at making conversation. If the story needs more than one Tor'anar mage on-site to make that credible given the stakes, that's an open scaling question, not a fixed constraint.
 
 The mages assigned are drawn from the lean-years cohort — the corps' genuinely combat-capable veterans, not the green post-coronation recruits — because this posting is a real commitment of scarce capability, not a routine one. There's a quiet echo worth noting: the last time the Tor'anar were seriously worried about a member of the imperial family near uncontained magical danger, they weren't listened to in time, and the Emperor and Empress rode out with too little support and didn't come back. This time, they're the ones pushing for the safeguard, and Elara actually grants it.
@@ -98,7 +140,12 @@ Three mages, not one — small enough not to read as an occupying military prese
 
 The two supporting mages are competent professionals, lightly characterized. This structure means the named officer doesn't need to be physically present for every event in Act II — he can be elsewhere, handling the Urathans, while the other two cover Elara or the site, which gives the existing chapter drafts room to breathe rather than requiring him shoehorned into every scene.
 
-**The Arol Batae accompany the expedition too, and need to.** Elara traveling to Lathion surrounded only by a foreign power's mages, with neither her own bodyguard institution nor her own war-magic corps present, doesn't hold up — especially with Book 2's assassination attempt already on record. The two institutions aren't redundant with each other: the Arol Batae protect Elara's body from any threat, the same job they've always had; the Tor'anar detachment supervises the Urathan delegation's magical conduct specifically. Different jurisdictions, same trip — the way a head of state abroad travels with both a personal protective detail and counterintelligence coverage, for different reasons. Earlier drafting that had Xion and Elara at Lathion with no security presence at all from either institution should be revised with this in mind.
+**The Arol Batae accompany the expedition too, and need to.** Elara traveling to Lathion surrounded only by a foreign power's mages, with neither her own bodyguard institution nor her own war-magic corps present, doesn't hold up — especially with Book 2's assassination attempt already on record. The two institutions aren't redundant with each other: the Arol Batae protect Elara's body from any threat, the same job they've always had; the Tor'anar detachment supervises the Urathan delegation's magical conduct specifically. Different jurisdictions, same trip — the way a head of state abroad travels with both a personal protective detail and counterintelligence coverage, for different reasons.
+
+**Actioned 2026-08-01.** This paragraph previously ended by flagging that *"earlier drafting that had Xion
+and Elara at Lathion with no security presence at all from either institution should be revised."* **The
+flag had never been acted on** — neither institution appeared anywhere in Book 3. The Lathion chapters'
+beat drafts now carry both, and `book3_chapter_skeleton.md` matches.
 
 **Friction with the Amethyst Tower delegation** is not the Tor'anar-vs-Ruby-Tower rivalry (soldier looking down on a derivative war college); it's sharper than that. An Amethyst scholar is exactly the profile of mind that caused the Rending — brilliant, theory-first, insufficiently respectful of operational consequence — now poking at a site that could do it again. He isn't there to relitigate prestige politics. He's watching people who look uncomfortably like the reason his entire institution exists, and he has the authority and the capability to act on that if it comes to it.
 

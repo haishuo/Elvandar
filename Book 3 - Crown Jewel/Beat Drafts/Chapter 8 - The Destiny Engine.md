@@ -1,7 +1,7 @@
 # Chapter 8: The Destiny Engine
 
 **Timeline:** Days after Chapter 7 — the end of the exploration phase. The expedition is still inside Lathion.
-**Characters:** Xion, Elara, the Urathan scholars (as a contingent), Engineer Kaiden Voss; Farleen at the camp
+**Characters:** Xion, Elara, the Urathan scholars (as a contingent), Engineer Kaiden Voss; Farleen at the camp; the Arol Batae detail and the Tor'anar detachment present throughout
 **Emotional work:** The dismissed hypothesis is *confirmed,* not deduced. Wonder, having become inhabitation in Ch6 and bequest in Ch7, now becomes *recognition* — Elara learns what happened to Lathion, and what happened to her, and that the two are the same event. The chapter is the structural answer to Ch6's suspended Rending question. By its close, the expedition has emerged with a sealed chamber behind them and the world they left in has moved.
 **POV:** Xion, close third-person limited
 

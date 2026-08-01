@@ -1,7 +1,7 @@
 # Chapter 6: Inhabitants
 
 **Timeline:** First days inside Lathion, immediately following Chapter 5
-**Characters:** Xion, Elara, Farleen, Engineer Kaiden Voss, the Urathan scholars
+**Characters:** Xion, Elara, Farleen, Engineer Kaiden Voss, the Urathan scholars, the Arol Batae detail and the three-mage Tor'anar detachment
 **Emotional work:** Wonder becoming habitable. Chapter 5 was the single overwhelming moment; Chapter 6 is what it feels like to *live* inside that moment. The impossible has become the air they breathe. The expedition gets to work, and in getting to work, begins to give the city a vocabulary it can use. The register is not diminished awe but *inhabited* awe. The reader should feel the D'ni / Uru pleasure of exploring an ancient functioning city — each corridor a discovery, each system a question, the sense that years of work are visible from the doorway. But a second movement runs beneath the wonder. As the expedition settles in and truly begins to look, the signs accumulate that this is no five-thousand-year-old ruin: the city is ancient, but it was inhabited within living memory and emptied only twenty years ago. By its end the chapter turns, quietly, from wonder toward the first unease — the question of what happened here, and how recently.
 **POV:** Xion, close third-person limited
 
@@ -66,5 +66,12 @@
 **Farleen's beat:** Quiet, consistent, structurally identical to her Chapter 5 role. She is here because Xion is here. She does not need to be integrated into the exploration narrative. Her contribution is presence and care — she watches him, manages the camp, ensures people function. The love triangle is not advanced here. It is simply maintained: she is present, she is attentive, she is not going anywhere.
 
 **Engineer Voss — established, not resolved:** Voss is introduced as a working presence, not a character with an arc in this chapter. His function is to give Xion's practical orientation a partner and to make the scholarly/practical distinction visible in action before it becomes politically significant. His choice to bring findings to Xion rather than the scholars is noted but not interpreted — the significance accrues later.
+
+**On the Arol Batae and the Tor'anar, added 2026-08-01.** Both are present from ch5 and neither had ever appeared in this book. Full account of how the Tor'anar detachment came to be here:
+`Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md`. What this chapter needs from them is small and specific.
+
+**They are furniture in the wonder chapters and that is correct.** Xion's attention is on the city, so the reader's is; a mage standing at a junction is scenery until something makes her not. **Do not give either institution a scene here.** One or two glancing observations are the whole budget — the Arol Batae positioning themselves at the alcove mouth without being told to, a Tor'anar who does not look at the boulevard at all because she is watching the Urathans look at it.
+
+**But note what the detachment is actually for, because the book pays it off without trying.** The Tor'anar are embedded to supervise the Urathan delegation's magical conduct — that is the jurisdiction they claimed to get here. **The Urathan delegation turns out to have an undisclosed interest of its own** (ch9, ch11). So the corps that has been ignored for twenty years, and had to ask for a posting, was **right about the specific risk it named.** Nobody says so and nobody needs to; the reader can have it for free if the detachment has been visible enough in ch6–8 to be remembered.
 
 **Sets up:** Chapter 7 (The Repository). The scholars have identified the Repository from Crown-level references. The expedition has named the city, established working patterns, and begun to understand what they are dealing with. Now they go deeper. The discoveries become more specific and more consequential. Elara's reactions — held small here — begin to grow.

@@ -98,7 +98,7 @@ The Scholar-King signs with a pen that hovers momentarily before committing. Bot
 
 ### Chapter 5: Wonder
 **Timeline: Weeks later — back at the Brass Door**
-**Characters present: Xion, Elara, Urathan scholars, Farleen, expedition team**
+**Characters present: Xion, Elara, Urathan scholars, Farleen, expedition team — including an Arol Batae detail and a three-mage Tor'anar detachment, background throughout**
 **Emotional work: Wonder — genuine, uncomplicated wonder**
 
 The Urathan contingent arrives at the Brass Door base camp. Farleen is there because Xion is there — full stop. Combined expertise works: Urathan scholarship meets Elara's intuitive connection. The sequence is found. The massive gear door rotates for the first time in millennia.
