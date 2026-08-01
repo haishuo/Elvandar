@@ -122,7 +122,7 @@ The old "regenerate from scratch" flag is retired. A sequential, chapter-by-chap
 - **Kalden's blind spot is the tragic engine:** the marriage is genuinely good geopolitics (Xion confirms it) — Kalden is *right* about that; he just cannot model that Elara would refuse a rational alliance for love. Rhymes with Xion failing to model Rosik's Merchant drive.
 - **Kalden recruits Vartonne on-screen** (Ch16 Movement 1), and it must be *him*, not Gunastran, because he alone speaks Vartonne's language. His pitch is sincere (he shares the dispossession wound) *and* manipulative. Per the Kalden character file he is **Merchant, not Founder** — the sincerity is grievance over his stolen claim, not veneration of lineage.
 - **Terinok is contested, not aloof** (Ch17): the Compact courted it through Erulius; Elara flips it with a confederation oath. Closes the "why wasn't Terinok already Compact" hole and pays off Ch15 (Xion chose Vartonne *because* Terinok looked unwinnable).
-- **Two POV breaks only:** Ch12 (Nadira Vex / Gunastran) and Ch16 (Kalden). Both hard cuts from Xion; never returned to.
+- **Two POV breaks only:** Ch12 (Ondra Kelgrav / Gunastran) and Ch16 (Kalden). Both hard cuts from Xion; never returned to.
 
 ## Terminology (locked; already canon in `Places/Elvandar.md`)
 - **Kaha'an** — the capital city (Ruby Throne).

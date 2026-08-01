@@ -373,7 +373,7 @@ It is the most damning judgment on Kalden's leadership: not that he was overthro
 
 ### Gunastran and Vartonne
 
-Alliance partners of convenience rather than conviction. Gunastran's Nadira views Kalden as a useful tool — his personal vendetta against Elara serves her strategic interests without her needing to share it. Vartonne arrives with a fresh, specific grievance — Balisha expelled their envoy days earlier for offering sincere diplomatic counsel — and Kalden doesn't just promise restoration of old imperial glory: he confirms their reading of events. They weren't wrong. The new Balisha *does* disrespect the old ways. He doesn't buy their allegiance; he validates it. Neither alliance survives contact with reality, because alliances built on shared grievance rather than shared purpose rarely do.
+Alliance partners of convenience rather than conviction. Gunastran's Ondra views Kalden as a useful tool — his personal vendetta against Elara serves her strategic interests without her needing to share it. Vartonne arrives with a fresh, specific grievance — Balisha expelled their envoy days earlier for offering sincere diplomatic counsel — and Kalden doesn't just promise restoration of old imperial glory: he confirms their reading of events. They weren't wrong. The new Balisha *does* disrespect the old ways. He doesn't buy their allegiance; he validates it. Neither alliance survives contact with reality, because alliances built on shared grievance rather than shared purpose rarely do.
 
 ---
 

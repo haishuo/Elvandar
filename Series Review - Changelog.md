@@ -3164,3 +3164,39 @@ its own terms, independent of the collision.
 
 **Also flagged, not touched:** *Aldwin Morthen* and *Aldric Darfi* share a stem, and *Marcus Nerrick*
 remains after *Marcus Vex* left.
+
+---
+
+## 2026-08-01 — The two Gunastran Vexes renamed
+
+**Author's call, closing the Vex cluster.** With House Vex already gone to Sedranne, the remaining bearers
+were the Book 1 Warrens operator and two Gunastrans. **Both Gunastrans move; the Warrens operator stays.**
+
+- **Nadira Vex → Ondra Kelgrav**, of the Industrial Consortium and **the POV of B3 ch12**
+- **Field Commander Silas Vex → Field Commander Bregan Haldorn**, Book 4
+
+**The register was wrong independently of the collision, which is what made this an easy call.** Old
+Gunastran runs to heavy consonant clusters and *-stran / -grav / -dorn* endings; *Vex* is listed in the
+etymology table as **Proto-Balishan**. So a Gunastran industrial family called Vex was off-register on its
+own terms before Vesk was even considered. *Kelgrav* and *Haldorn* take the guide's *-grav* and *-dorn*
+endings; neither string existed anywhere in the repo. **And Silas Vex was "Commander Vex," reproducing in
+Book 4 the exact Commander/Commander collision with Vesk that the House Vex rename had just removed.**
+
+**Eight files, no prose**, so nothing regenerates. `Places/Languages of Elvandar.md` now records the whole
+episode: the V-initial group once held **four unrelated Vexes**, three were cleared, and the survivor keeps
+the name because he is in finished Book 1 prose and is introduced as *"Calls himself Vex"* — flagged
+in-world as an alias, and a short hard name is right for a Warrens operator.
+
+### One contradiction found while checking, and not resolved
+
+**Who chairs Gunastran's Industrial Consortium is unsettled.** `Places/Gunastran/Gunastran_ The Land of
+Magi-Tech.md` names *"Current Consortium Chair, Master Engineer Veldrin Torkal."* B3 ch12 has **Ondra
+Kelgrav** running the session that votes for war — she takes the questions, reads the room, and drives the
+outcome — but **no draft ever states her office.** She may be the chair and Torkal stale, she may hold a
+different seat, or Torkal may chair while she leads the faction that carries the vote.
+
+**Left alone deliberately** — it is a canon question rather than a naming one, and it bears on how B3 ch12
+is staged. Worth settling before that chapter is drafted into prose.
+
+**Also still flagged, untouched:** *Aldwin Morthen* / *Aldric Darfi* share a stem, and *Marcus Nerrick* is
+the last Marcus after *Marcus Vex* became *Emrick Sedranne*.

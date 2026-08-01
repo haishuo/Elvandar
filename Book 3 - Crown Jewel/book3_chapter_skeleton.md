@@ -240,7 +240,7 @@ Six months before defensive systems Gunastran can't counter. A year before indus
 
 This is NOT villainy. This is a nation staring at existential extinction. Gunastran's entire economy, identity, and self-conception is built on technological superiority. Lathion doesn't just threaten their market share — it threatens their reason for existing. The Consortium votes unanimously for the alliance with Kalden.
 
-The reader should understand, even sympathize with, this decision. Nadira Vex is not a monster. She's an engineer who can read the math, and the math says her nation dies if she does nothing.
+The reader should understand, even sympathize with, this decision. Ondra Kelgrav is not a monster. She's an engineer who can read the math, and the math says her nation dies if she does nothing.
 
 **Sets up:** The Compact, and the moral complexity of the coming war — Balisha's enemies have legitimate grievances even if their methods are wrong.
 

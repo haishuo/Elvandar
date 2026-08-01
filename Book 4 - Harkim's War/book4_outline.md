@@ -32,7 +32,7 @@ The Compact strikes. Empirica falls in the opening chapter — not gradually but
 
 Harkim's immediate concern is Lira. He reaches their apartment to find her calmly packing, having already memorized evacuation routes from city maps she glimpsed once in his office. Her extraordinary capability and her vulnerability exist in the same person. He notes this the way he always has — as his sister being remarkable *despite* her condition, not *because of* a capability the system fails to measure.
 
-The occupation establishes itself. Field Commander Silas Vex issues proclamations about "technological cooperation" that barely disguise the systematic confiscation of research. Chief Acquisitor Lydia Karven screens scholars by specialty, with those possessing Lathion knowledge receiving "special assignments."
+The occupation establishes itself. Field Commander Bregan Haldorn issues proclamations about "technological cooperation" that barely disguise the systematic confiscation of research. Chief Acquisitor Lydia Karven screens scholars by specialty, with those possessing Lathion knowledge receiving "special assignments."
 
 Harkim observes the occupation through a scholar's lens. He is horrified by the violence against his fellow researchers, by the confiscation of knowledge, by the desecration of academic spaces. He barely notices what's happening in the bakarn districts. They're not his world. The Compact has less interest in controlling bakarn areas — no valuable knowledge there, in the Compact's assessment. In Harkim's assessment too, if he's honest.
 
@@ -139,7 +139,7 @@ In the years between Book 4 and Book 8, this notebook becomes a network. The net
 
 **The true believer is more interesting than the secret rebel.** The reader watches Harkim condescend to Kira Voss and cringes. Watches him recoil from bakarn housing and feels frustrated. And then watches the belief crack, genuinely and painfully, and feels each crack alongside him. The arc earns its landing because the starting point was honest.
 
-**The Compact as multifaceted enemy:** Not uniformly evil. Commander Vex is competent. Chief Acquisitor Karven has genuine intellectual curiosity. Vartonne's Lord Mallory is absurd. Commander Severen is dangerous because he understands Urathan society. The Compact is an alliance of competing interests — echoing the reader's understanding from Book 3 that each member has legitimate grievances.
+**The Compact as multifaceted enemy:** Not uniformly evil. Commander Haldorn is competent. Chief Acquisitor Karven has genuine intellectual curiosity. Vartonne's Lord Mallory is absurd. Commander Severen is dangerous because he understands Urathan society. The Compact is an alliance of competing interests — echoing the reader's understanding from Book 3 that each member has legitimate grievances.
 
 **What happens to Xion, Elara, and the others during this book:** They exist. The Alliance fights the war. Elara deploys Lathion technology. Xion coordinates strategy. The Terinok honor their oaths. All of this reaches Harkim as distant rumor and official proclamation. War looks different from the ground than from the throne room.
 
