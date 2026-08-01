@@ -98,7 +98,7 @@ This is **First Counselor Xion Fen** at his sharpest — the political mind that
 
 ### Chapter 5: Hubris
 **Timeline: The journey and arrival in Uratha**
-**Characters present: Xion, Elara, Urathan delegation, Scholar-King Leowin Vrek**
+**Characters present: Xion, Elara, Urathan delegation, Scholar-King Leowin Draskin**
 **Emotional work: Awe — a civilization that has built something genuinely impressive**
 
 Xion and Elara travel to Uratha with a small delegation. Their first encounter with Urathan society is dazzling: the gleaming Ivory Tower, the robed scholars moving through pristine halls, the libraries that stretch for acres, the culture of intellectual rigor and achievement. This is a civilization that has organized itself around the pursuit of knowledge, and the results are extraordinary.
@@ -195,14 +195,14 @@ They emerge from Lathion. The world above has not been standing still.
 
 ### Chapter 10: The Scholar's Crown
 **Timeline: Back in Kaha'an — the world has moved**
-**Characters present: Xion, Elara, Scholar-King Leowin Vrek, High Provost Venn**
+**Characters present: Xion, Elara, Scholar-King Leowin Draskin, High Provost Venn**
 **Emotional work: The deal shifts — Uratha reveals how badly it wants in**
 
 The Scholar-King arrives in Kaha'an. The dispatches sent during the exploration reached Uratha and landed like a stone in still water. What was behind the Brass Door was not a library, not a sealed chamber, not the broom closet the pessimists predicted. It was Lathion. The lost city. The City of Gears. A whole civilization, sealed underground for five thousand years and preserved in near-perfect condition, with technology that makes everything Gunastran has built look provisional.
 
 Uratha's original position was "help you open the door in exchange for you stopping the Crown demands." That deal was struck in ignorance of what lay behind it. Now Uratha knows, and the position reverses dramatically.
 
-New offer: Uratha will *return* the Scholar's Crown to Balisha — something Elara's predecessors demanded in vain for 300 years — in exchange for **exclusive** research access to Lathion (no other foreign body; this exclusivity is what later locks Gunastran out, and it is load-bearing for the war). Notably, Vrek comes in person but does *not* bring the Crown — hauling it across a continent before any agreement would presume acceptance, which is poor statecraft. The deal is struck first; the Crown is then sent for from the Ivory Tower and arrives weeks later, for the ceremony.
+New offer: Uratha will *return* the Scholar's Crown to Balisha — something Elara's predecessors demanded in vain for 300 years — in exchange for **exclusive** research access to Lathion (no other foreign body; this exclusivity is what later locks Gunastran out, and it is load-bearing for the war). Notably, Draskin comes in person but does *not* bring the Crown — hauling it across a continent before any agreement would presume acceptance, which is poor statecraft. The deal is struck first; the Crown is then sent for from the Ivory Tower and arrives weeks later, for the ceremony.
 
 The Crown for the City. The reader should feel the weight of this: a divine artifact returned after three centuries of refusal. Something every Balishan ruler failed to achieve, and Elara accomplished it by finding something Uratha wanted more.
 

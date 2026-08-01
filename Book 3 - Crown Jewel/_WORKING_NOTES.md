@@ -24,7 +24,7 @@ The old numbering had Destiny Engine at Chapter 15. It has been moved to Chapter
 | 1 | Scars | Unchanged |
 | 2 | Inheritance | Unchanged |
 | 3 | Negotiations | Unchanged |
-| 4 | Hubris | Polished (Vrek negotiation beats corrected) |
+| 4 | Hubris | Polished (Draskin negotiation beats corrected) |
 | 5 | Wonder | LOCKED — prose complete |
 | 6 | Inhabitants | Beat draft written (renamed from "The Naming") |
 | 7 | The Repository | Beat draft rewritten (canon-consistency pass — bequest framing) |
@@ -94,10 +94,10 @@ The old "regenerate from scratch" flag is retired. A sequential, chapter-by-chap
 
 *Reading order = chronological, EXCEPT the two POV-break chapters (11 Gunastran, 15 Kalden), which overlap the mainline as noted.*
 
-**Backstory anchor:** ~20 years ago, the Rending — Lathion builds the Destiny Engine in months and dies sealing the Gray Gate; the shockwave imprints infant Elara (revealed in Ch9). Pre-expedition (~Ch4–4): Balisha and Uratha negotiated an *original, limited* Lathion-access treaty (Vrek) — the one Ch10 renegotiates.
+**Backstory anchor:** ~20 years ago, the Rending — Lathion builds the Destiny Engine in months and dies sealing the Gray Gate; the shockwave imprints infant Elara (revealed in Ch9). Pre-expedition (~Ch4–4): Balisha and Uratha negotiated an *original, limited* Lathion-access treaty (Draskin) — the one Ch10 renegotiates.
 
 1. **Ch6–8** (expedition, continuous, underground): descent → the city was emptied only ~20 years ago → bequest framing → Elara's Engine vision, seals the chamber, emerges. Dispatches went up to Uratha during the descent.
-2. **Ch10** (next morning): Vrek has waited 3 days in Kaha'an — **in person, WITHOUT the Crown** (bringing it would presume acceptance — bad statecraft). Offer: **the Crown for exclusive Lathion access.** Deal struck; the Crown is then **sent for** from the Ivory Tower. Xion privately notes Vrek's suspiciously easy concessions (Book 8 dormancy seed).
+2. **Ch10** (next morning): Draskin has waited 3 days in Kaha'an — **in person, WITHOUT the Crown** (bringing it would presume acceptance — bad statecraft). Offer: **the Crown for exclusive Lathion access.** Deal struck; the Crown is then **sent for** from the Ivory Tower. Xion privately notes Draskin's suspiciously easy concessions (Book 8 dormancy seed).
 3. **[GAP — weeks:** the Crown travels under escort. News of the exclusivity deal spreads; Gunastran begins to react.]
 4. **Ch11** (weeks after Ch10): the Crown arrives; the ceremony; it **blazes** (first Valanar to wear it in 300 years). The Provosts' flash of shock (seed — it shouldn't work; it's been dormant ~a century).
 5. **Ch12** (POV: Gunastran; shortly after the ceremony): every non-war door is shut — can't out-build, can't buy/study (treaty-locked to Uratha). Two outputs: **(a)** a formal access request → sent to Kaha'an; **(b)** authorization to open alliance talks with **Erulius** → reaches Kalden.
@@ -117,7 +117,7 @@ The old "regenerate from scratch" flag is retired. A sequential, chapter-by-chap
 
 ## Key structural decisions locked in the 9–18 pass
 
-- **The Crown is not brought to Ch10.** Vrek comes in person; the deal is struck; the Crown is dispatched *after*. Inserts the Ch10→Ch11 travel gap. The easy-concessions seed lives in the negotiation, not the object.
+- **The Crown is not brought to Ch10.** Draskin comes in person; the deal is struck; the Crown is dispatched *after*. Inserts the Ch10→Ch11 travel gap. The easy-concessions seed lives in the negotiation, not the object.
 - **Kalden's proposal is secret** (confidential channel, off the record) — he is double-gaming Gunastran. Therefore the **refusal is private** too (Ch14 closed-audience reveal; no public spurning). His Compact pivot is clean and deniable; Gunastran never learns he courted Balisha.
 - **Kalden's blind spot is the tragic engine:** the marriage is genuinely good geopolitics (Xion confirms it) — Kalden is *right* about that; he just cannot model that Elara would refuse a rational alliance for love. Rhymes with Xion failing to model Rosik's Merchant drive.
 - **Kalden recruits Vartonne on-screen** (Ch16 Movement 1), and it must be *him*, not Gunastran, because he alone speaks Vartonne's language. His pitch is sincere (he shares the dispossession wound) *and* manipulative. Per the Kalden character file he is **Merchant, not Founder** — the sincerity is grievance over his stolen claim, not veneration of lineage.
@@ -133,7 +133,7 @@ The old "regenerate from scratch" flag is retired. A sequential, chapter-by-chap
 ## Open threads
 - **Places-vs-map audit** (background task running): rewriting all `Places/` files to match the canonical painted map (`Places/elvandar_map_painted.png`). The Erulian file's geography is already corrected — Erulius sits far southeast on the Azure Sea, *not* bordering Vartonne. Other nations still to be checked.
 - **New canon added this pass:** the Erulius origin (founding Lord Erulius as a court nuisance placated with an empty princely title + a remote eastern march, as far from the then-capital Vartonne as the empire reached) is now in the Erulian place-file; Kalden's genealogy-ignition beat ("the ambition arrived in an archive, at the end of a chain of names") is in his character file.
-- **Vrek in Ch4:** Chapter 4's description of him may still be inconsistent with Ch5/Ch10 — flagged for whenever those early chapters are revisited.
+- **Draskin in Ch4:** Chapter 4's description of him may still be inconsistent with Ch5/Ch10 — flagged for whenever those early chapters are revisited.
 
 ---
 
@@ -190,7 +190,7 @@ What Gunastran *does* realistically know in Book 3: Lathion is real (leaked disp
 
 **Engineer Kaiden Voss:** New character introduced in Chapter 7/7. Applied engineering mindset, counterpart to the scholarly track. Brings findings to Xion rather than to the scholars — a small but meaningful choice.
 
-**Scholar-King Leowin Vrek:** In Uratha for Chapters 5 and 10. NOTE: Chapter 4's description of him may be inconsistent with later chapters — this needs checking when those chapters are revised. Work sequentially and fix inconsistencies as encountered.
+**Scholar-King Leowin Draskin:** In Uratha for Chapters 5 and 10. NOTE: Chapter 4's description of him may be inconsistent with later chapters — this needs checking when those chapters are revised. Work sequentially and fix inconsistencies as encountered.
 
 ---
 

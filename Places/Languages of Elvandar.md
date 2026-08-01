@@ -65,7 +65,7 @@ These are sketched here only enough to keep new names in-register. The deep work
 - **Syllable shape:** CVC freely; consonant clusters allowed
 - **Vowels:** same five-vowel system, but with reduced unstressed vowels in modern Balishan
 - **No glottal stop** (loanwords with `'` retain it only in ceremonial speech; in casual modern Balishan, "Kaha'an" is often pronounced *kahan* with the glottal stop softened)
-- **V-initial words common** (*Vartonne, Vrek, Valor, Valan*)
+- **V-initial words common** (*Vartonne, Vesk, Valor, Valan*) — **and the group is now crowded; see the coinage warning under Balishan (ceremonial) before adding to it**
 - **Hard stops freely:** *b, d, g, k, t, p*
 - **Doubled consonants:** *-nn, -tt, -ss*
 - **Signature endings:** *-onne, -ore, -annas, -imore, -ek, -in*
@@ -100,7 +100,7 @@ A starter list. Treat as canonical unless contradicted by existing prose; extend
 | **Kalden** | Proto-Balishan | Native human name. *Kal-* (strong, firm) + *-den* (man, one who). "The Steady One" |
 | **Kemvimore** | Modern Balishan | House name, native-Balishan roots. *Kem-* + *-vimore* (a compound likely originating in a personal name centuries back, no longer transparent) |
 | **Larannas** | Modern Balishan | House name, native-Balishan roots. *Lar-* + doubled *-annas* (an old patronymic-style ending) |
-| **Vrek** | Proto-Balishan | Native human surname. The unrelieved consonant cluster is classic Proto-Balishan |
+| **Draskin** | Proto-Balishan | Native human surname, borne by Scholar-King Leowin Draskin of Uratha. The initial cluster *dr-* and the *-in* ending are both classic Proto-Balishan. **Renamed from *Vrek* on 2026-08-01** — see the coinage warning below |
 | **Leowin** | Proto-Balishan | Native human given name. *Leo-* (lion, courage) + *-win* (joy, friend) |
 | **Farleen** | Proto-Balishan | Native human given name |
 | **Melina** | Old Lathionese | *Mel-* (honey, sweetness) + *-ina* (feminine name suffix). A Lathionese-register personal name, fashionable among Balishan nobility |
@@ -123,8 +123,16 @@ sharing it must differ from *Valanar* in **consonant, vowel and coda** — not i
 war-magic corps was originally **Ver'anar** and had to be renamed to **Tor'anar** in 2026 because *VAL*
 against *VER* differs only in the liquid, **which is the least reliable distinction there is in speech**;
 on the page it scanned fine and aloud the two collapsed together. Names that read as distinct are not
-necessarily names that *hear* as distinct, and this cast has *Valanar, Vartonne, Vrek* and *Velana* all
-sitting in the same acoustic neighbourhood already.
+necessarily names that *hear* as distinct, and the V-initial group is the standing hazard in this cast —
+*Valanar, Vartonne, Valor, Valan, Velana, Vesk,* and the two separate *Vex*es.
+
+**Two renames have already been forced by this, and the second was worse than the first.** *Ver'anar* →
+**Tor'anar** fixed a corps whose name differed from *Valanar* only in the liquid. Then *Vrek* → **Draskin**
+fixed the Scholar-King of Uratha, whose name was a single syllable away from **Vesk**, the Arol Batae
+commander: */vɛsk/* against */vrɛk/*, both V-initial, both four letters, both ending in *-k*, differing
+only in the medial cluster. **Short names are the dangerous case**, because there is less material in them
+to carry a distinction. **Prefer a non-V initial for any new name**, and say every monosyllable aloud
+beside every other monosyllable already in the cast before adopting it.
 
 **Regnal-name convention:** Valanar monarchs do not reign under their birth names. Upon coronation, the new emperor or empress *takes* a throne-name from a small fixed pool of Old Lathionese dynastic names — *Urath, Valan, Tharen, Sera, Mariath, Korin* — and is numbered in sequence with every prior bearer (*Urath I–IV, Valan I–VII, Tharen I–II, Sera I–VIII*, and so on). The numeral asserts continuity with the entire line of that name; the dynasty's legitimacy is partly constructed out of those sequences. The birth name is set aside at coronation and survives only in family records.
 

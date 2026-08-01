@@ -53,7 +53,7 @@ The Council meets weekly in the Central Chamber of the Ivory Tower. Their delibe
 
 Elected from among the Council of Provosts, the Scholar-King represents the highest authority in Uratha:
 
-- The current Scholar-King, Leowin Vrek, was elected five years ago from the Department of Cosmological Studies
+- The current Scholar-King, Leowin Draskin, was elected five years ago from the Department of Cosmological Studies
 - Unlike traditional monarchs, the Scholar-King serves a ten-year term
 - Re-election is permitted but has become increasingly rare in recent centuries
 - The Scholar-King traditionally wears the Scholar's Crown at official functions

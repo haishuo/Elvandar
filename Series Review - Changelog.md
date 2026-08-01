@@ -3084,3 +3084,37 @@ anywhere in the book** and it was the ch2 footer above.
 **Pre-existing and not addressed:** six drafts carry no forward pointer at all — ch11, ch12, ch13, ch14,
 ch17, and previously ch2, which now has one. This predates the insertion and may be deliberate; flagged
 rather than filled in.
+
+---
+
+## 2026-08-01 — Scholar-King Leowin Vrek renamed to Leowin Draskin
+
+**Author's catch, and the same class of problem as *Ver'anar*/*Valanar* — worse, because the names are
+shorter.** *Vesk* and *Vrek* are both monosyllabic, V-initial, four letters and *-k*-final, differing only
+in the medial cluster: **/vɛsk/ against /vrɛk/**. Short names are the dangerous case, because there is less
+material in them to carry a distinction.
+
+**Which one moved was not a close call.** *Vesk* has **34 prose mentions** across Book 1 ch9, ch12, ch23,
+ch24 and ch25 — including the climax at the Ruby Throne. **Vrek had zero prose occurrences anywhere**,
+since Book 3's only prose chapter does not mention him. Vesk is a man the reader has stood beside; Vrek was
+still only a plan.
+
+**Only the surname moved.** *Leowin* is fine and is already glossed in the guide as Proto-Balishan (*leo-*
+lion/courage + *-win* joy/friend). **Draskin** is Proto-Balishan in register — initial *dr-* cluster, the
+guide-listed *-in* ending — with **D-initial unoccupied across the cast** and zero prior occurrences in the
+repo. ~56 references across eight files; **no prose, so no Royal Road regeneration.**
+
+### Language guide updated in three places
+
+The etymology table's *Vrek* entry — which existed as the worked example of Proto-Balishan consonant
+clustering — is replaced by **Draskin**, which does the same illustrative job. The V-initial line now reads
+*Vartonne, Vesk, Valor, Valan* and carries a pointer to the coinage warning.
+
+**And the coinage warning itself is now a two-case rule rather than a one-off.** It records both forced
+renames — *Ver'anar* → *Tor'anar* for the liquid, *Vrek* → *Draskin* for the monosyllable — and states the
+generalisation: **prefer a non-V initial for any new name, and say every monosyllable aloud beside every
+other monosyllable already in the cast.**
+
+**One thing deliberately not changed:** the two prior changelog entries that name *Vrek* are historical and
+were reverted after a blanket pass caught them. One of them would have become actively false — it cited
+*Vrek* as an example of the *-ek* ending, which *Draskin* does not have.
