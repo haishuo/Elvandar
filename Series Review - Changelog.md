@@ -3036,3 +3036,51 @@ author.
 **The senior Tor'anar has no name and no rank**, because the corps has neither on record and naming a
 character is not mine to do. Flagged in the draft footer and in the corps file; needed if the figure
 recurs, which the Lathion detachment makes likely.
+
+---
+
+## 2026-08-01 — Book 3 flow and renumber audit after the Storm-Line insertion
+
+**Verification pass at the author's request.** Filenames, internal H1s and the skeleton all agree across
+all nineteen chapters. Acts now run **I: ch1–5, II: ch6–12, III: ch13–16, IV: ch17–19.**
+
+### A third reference form that both earlier passes missed
+
+The renumber bumped `Chapter N` and `ChN`. **It did not bump `Ch N` with a space**, which exists only in
+the skeleton's Structural Notes and therefore never showed up in the beat-draft surveys. Three lines were
+wrong: the Destiny Engine described as sealed in *Ch 8* (now Ch 9), its relocation described as moving to
+*Ch 8*, and the Lathion exploration listed as *Ch 6–8* (now Ch 7–9).
+
+**And the chapter count was stale: 18.** Now 19, with the note rewritten to record both expansions — the
+Lathion exploration going to three chapters, and Storm-Line being inserted.
+
+### Two real seam breaks, both at the insertion point
+
+**`Chapter 2 - Inheritance` footer.** Its *"Urathan setup"* note said the chapter's practical conclusion is
+*"that they need engineering expertise beyond Balisha's reach."* **That is now Chapter 3's conclusion, not
+Chapter 2's** — ch2 establishes only that they need expertise nobody in the room has, and ch3 exists
+precisely to test that at home before anyone looks abroad. Rewritten, with an explicit instruction not to
+let ch2 conclude that Balisha cannot solve the problem, and a note that the problem should be specific
+enough for a reader to see why storm magic will be the wrong instrument: **this is a lock, not a wall.**
+
+**`Chapter 4 - Negotiations` timeline.** It described *"the initial planning session in Kaha'an."* It is no
+longer initial — Chapter 3 held the first one. Now reads *"the planning session reconvened after the
+Tor'anar refusal,"* which matches the corrected beat 1.
+
+### One thing that improved on its own
+
+**ch4's beat 2 was written before Storm-Line existed and now reads better for it.** What the Gunastran
+delegation is authorised to say includes *"unresponsive to local attempts at operation"* — which was a
+throwaway qualifier and is now a discreet, accurate reference to the Tor'anar having tried and failed.
+Nothing needed changing.
+
+### Checked and clean
+
+**ch5 → ch6** holds: Hubris ends in Uratha after the signing, Wonder opens with the Urathan contingent
+arriving at the Brass Door, journey elided as before. **ch4's beat 13** (naming Uratha) makes no claim
+about domestic capability, so it needed nothing. **Only one stale "beyond Balisha's reach" claim existed
+anywhere in the book** and it was the ch2 footer above.
+
+**Pre-existing and not addressed:** six drafts carry no forward pointer at all — ch11, ch12, ch13, ch14,
+ch17, and previously ch2, which now has one. This predates the insertion and may be deliberate; flagged
+rather than filled in.

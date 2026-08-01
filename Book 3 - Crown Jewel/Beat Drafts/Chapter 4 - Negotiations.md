@@ -1,6 +1,6 @@
 # Chapter 4: Negotiations
 
-**Timeline:** Spans roughly two to three weeks — the answer to Chapter 1's second request, the initial planning session in Kaha'an, the delegation to Gunastran and return, and the subsequent advisory session where the Uratha proposal is made
+**Timeline:** Spans roughly two to three weeks — the answer to Chapter 1's second request, the planning session reconvened after the Tor'anar refusal, the delegation to Gunastran and return, and the subsequent advisory session where the Uratha proposal is made
 **Characters:** Xion (POV), Elara, Kael, Silvanno, Farleen, Mistress Janice, court advisors; Gunastran engineers and consortium finance representative
 **Emotional work:** Competence restored — but earned through failure first. Xion goes to Gunastran, handles the rejection with grace, and returns with the actual answer. The reader sees not just his intelligence but its quality: he does not need to be right in advance. He can fail, absorb the lesson, and find the sharper angle. The Uratha proposal lands harder because we've seen what the obvious path looks like when it doesn't work.
 **Structure:** Two movements. **Movement One (beats A1–A14)** is Janice, and it runs *first* — before the planning session — so that the chapter's designed emotion closes undiluted on beat 26. Her question stays open across everything that follows. The reader carries it into the triumph; Xion does not.

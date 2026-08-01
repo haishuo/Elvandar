@@ -422,8 +422,8 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 
 ## Structural Notes
 
-**Chapter count:** 18 (expanded from original 17 — the Lathion exploration now occupies three chapters: Ch 6 "Inhabitants," Ch 7 "The Repository," Ch 8 "The Destiny Engine," with the Engine moved from its original late-book position to the natural end of the exploration phase.)
-**Why the restructure:** The Destiny Engine's original placement (Ch 14) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 8 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Lathion mid-crisis.
+**Chapter count:** 19 (17 originally; the Lathion exploration was expanded to three chapters — Ch 7 "Inhabitants," Ch 8 "The Repository," Ch 9 "The Destiny Engine" — and Ch 3 "Storm-Line" was inserted on 2026-08-01, with the Engine moved from its original late-book position to the natural end of the exploration phase.)
+**Why the restructure:** The Destiny Engine's original placement (Ch 14 of the 17-chapter version) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 9 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Lathion mid-crisis.
 
 **POV:** Primarily Xion, with two deliberate POV breaks: Gunastran (Chapter 12) and Kalden (Chapter 16). This mirrors Book 2's use of rare, load-bearing interludes. The Gunastran scene plants dramatic irony: the reader knows Gunastran has committed to war; Xion and Elara can see only that a coalition is *forming*, not how far it has already gone, when they resolve the love triangle.
 
@@ -439,4 +439,4 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 - **Book 4:** Compact War begins, Uratha attacked
 - **Book 5:** Kalden's post-war decline (reparations, Silaris gambit)
 - **Book 8:** Urathan desperation over the Crown's silence (why they gave it back so easily), the Globehall (seeded by Provost Venn's hunger and the Crown's activation)
-- **Destiny Engine:** Long-term mystery, not resolved here. Sealed in Ch 8, still down there. Its existence is known to the scholars who witnessed the sealing — which means Uratha knows.
+- **Destiny Engine:** Long-term mystery, not resolved here. Sealed in Ch 9, still down there. Its existence is known to the scholars who witnessed the sealing — which means Uratha knows.
