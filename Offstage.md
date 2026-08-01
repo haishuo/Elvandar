@@ -655,6 +655,68 @@ it**, which is the other reason the votes run three to one.
 
 ---
 
+### What it did to Kalden Erulius, which is not what it looks like
+
+**The obvious reading is that *missing* forecloses him, and the obvious reading is backwards.**
+
+Work through the alternative. Had the Coterie declared the Valanars **dead**, the throne becomes vacant,
+and a vacant throne is a **succession question** — which has to be answered, and answered *now*. And the
+answer, on the genealogy, points at Erulius: House Erulius carries a third-cousin-twice-removed connection
+on the mother's side from many centuries back, which was trivia while Valanars sat the throne and became
+**the closest surviving link to the imperial line** the moment they stopped. Thin, and real, and the best
+anyone had.
+
+**Which is exactly why that door was never going to open.** Not one of Rosik, Tania or Sa Ko would hand
+Kaha'an to a foreign prince, and the three of them held the city. A succession question asked in those
+years gets answered against Kalden immediately and permanently.
+
+**So *dead* would have closed it. *Missing* only postponed it.** The Coterie did not rule on the
+succession at all — it ruled that there was no succession to consider, because the throne was occupied in
+principle and merely unattended. **A question deferred can be reopened. A question decided cannot.** The
+fiction that stood between Kalden and the throne is the same fiction that left him something to work
+toward for twenty years, and nobody involved intended him that favour.
+
+**And it is a legal ruling, not a fact about the world.** That is the whole of his opening. Rulings are
+made by bodies, and bodies can be induced to make different ones. **The route was real and it was
+narrow**: accumulate enough weight, standing and support in Kaha'an that the succession question gets
+reopened, and that when it is reopened the thin blood is found sufficient. Slow, difficult, and never once
+impossible.
+
+**This is what the twenty-year project in Erulius was actually for**, and it is why the institutions have
+to be read as credentialing rather than vanity — the Amber Palace, the Imperial Chancellery, the new
+coinage with his profile on it, the Aspirant Guard, the Hall of Ancestors. **A claim like his is not
+granted to a competent provincial administrator. It is granted to somewhere that already looks like the
+seat of an empire**, so he set about making Erulius look like one. See `People/Kalden Erulius.md` for what
+that says about him; the point here is only that **the work had a target, and the target was a decision by
+a specific body in a specific city.**
+
+### And this is where the campaign failed, twenty years before the armies
+
+**He built all of it in the wrong city.** The ruling he needed overturned was made in Kaha'an by three
+cartel heads, and what he ever had in Kaha'an was a competent intelligence service. Everything else went
+up in Eruliath, where it impressed Erulians — who did not have a vote, and had never been the obstacle.
+
+**Do not write this as stupidity; write it as the shape he always has.** Acquiring the *appearance* of
+worthiness is a Merchant purchase dressed in Founder vocabulary, and it is the same move as the recently
+commissioned ancestor portraits. **He bought the look of a claim instead of the substance of one**, for
+twenty years, with nobody competing against him.
+
+**Which is why Elara's arrival is not a counter-example to his ledger, and a later pass should not treat
+it as one.** It is the single thing that happened *to* him rather than because of him, and it still is not
+injustice: **a legitimate heir returning is the system working exactly as designed**, and he had twenty
+unopposed years to close a question that a returning Valanar would have closed at any point in them. The
+runway was the reprieve. What he built on it was a palace.
+
+**One consequence worth holding.** Rosik authored the fiction that preserved Kalden as a claimant for
+twenty years, and Rosik is the man who eventually walks into the Amber Palace and spends him. **Neither of
+them ever knows about the first half of that.**
+
+**Open, and not to be filled by inference:** whether Kalden knows Rosik proposed the arrangement. The
+Coterie is collectively responsible for it and Rosik's authorship is not obviously public. It matters only
+for the recruitment scene, and it is unwritten either way.
+
+---
+
 ### What depends on this
 
 **Elara does not break the fiction. She satisfies it.** This is the whole point of the entry. The Coterie

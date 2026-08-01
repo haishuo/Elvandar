@@ -32,6 +32,8 @@ Kalden's core drive is accumulation, and the substrate keeps shifting as each ac
 
 When Elara took the throne, the accumulation should have terminated. The imperial position he was reaching for had been filled. A different paradigm primary would have processed this as the end of a chapter — Founder might pivot to building Erulius itself into something great, Engineer might redirect competence to a different project, Caretaker might focus on the actual people of the principality. The Merchant cannot do any of these things, because *more* is the only frame the engine speaks. So the accumulation pivoted to alternative substrates: marriage proposal as throne-by-other-means, then assassination as throne-by-removal, then continental war as throne-by-force, then Silaris as throne-by-cultural-claim, then mercenary army as throne-by-final-effort. Each substrate failed; each failure required a new substrate; the engine never stopped.
 
+**And there is a rung below all of those, which ran for twenty years and is the only one that was ever going to work: throne-by-legal-campaign.** The Coterie never ruled against his claim — it ruled that there was no succession to consider, because the Valanars were declared *missing* rather than dead (`Offstage.md`, "The Forming of the Coterie"). **A deferred question can be reopened; a decided one cannot**, so for twenty years he had a live route: accumulate enough weight and standing that Kaha'an reopens the succession and finds the thin blood sufficient. Slow, narrow, never impossible. **Elara's arrival is what killed it**, and every substrate after it is worse than the one it replaced. Note the direction of travel — he does not escalate from a bad plan to a worse one. **He starts with the good one and is driven down the ladder.**
+
 The Hall of Ancestors with its "many recently commissioned" portraits is the giveaway. A Founder builds new lineage — accepts the line as it actually is and contributes to it. A Merchant *manufactures* lineage when the real lineage is too thin, because the goal is not continuity of the line but possession of the *status the line confers*. Kalden didn't connect to his ancestors. He bought ancestors. The portraits are inventory.
 
 His final descent — mortgaging the Amber Palace itself, the northern mines, everything the principality has left — is pure Merchant shadow: *if I cannot have what I am owed, I will burn down what remains to chase one last acquisition*. The framework's Merchant shadow line matches the behavior exactly: an accumulator who has lost his pile, choosing destruction over the unbearable fact of *less*. Kalden does not see himself this way. He sees himself as a wronged heir making a final righteous stand. But the action is Merchant-shadow exactly.
@@ -77,6 +79,10 @@ The same instrumental relationship governs his treatment of his *actual* genealo
 That said, the Founder drive is not zero. It is genuinely present at the fourth-tier level, which is why he builds institutions rather than simply accumulating gold or seeking a single triumphant moment. The Merchant in him wants accumulation; the Engineer provides the method; the Founder provides the *durability frame* — the idea that what is being accumulated should persist in institutional form rather than dissipate. So he builds a Chancellery rather than just amassing wealth. He establishes a Guard rather than just hiring mercenaries (until the end, when the institution has failed and only mercenaries remain).
 
 **And the institutions are genuinely dual-purpose, which is load-bearing for his credibility.** It is tempting to read every reform of his reign as theatre staged for the claim, and that reading costs too much: **before the Rending he was a perfectly competent ruler of a perfectly stable state**, and the roads, revenues and offices he built worked, and went on working, and are part of why Erulius was second in everything and content to be. What changes after the Rending is not that the state-building becomes fake. It is that it becomes **increasingly subordinated** — every genuine improvement also assessed for what it contributes to the claim, until the ordering quietly inverts and the principality is being run as a platform. **Do not write him as a man who never built anything real.** He built a great deal that was real, and then spent thirty years spending it.
+
+**And the second purpose has a precise name: credentialing.** The Amber Palace, the Imperial Chancellery, the coinage bearing his profile, the Aspirant Guard and the Hall of Ancestors are aimed at a specific decision by a specific body — **the reopening of the succession question in Kaha'an**, which the Coterie left deferred rather than closed. **A claim as thin as his is not granted to a competent provincial administrator; it is granted to somewhere that already looks like the seat of an empire**, and he understood that correctly. The work was rational and the target was real.
+
+**What was wrong with it is where he did it.** The ruling he needed overturned was made in Kaha'an by three cartel heads, and what he ever had in Kaha'an was an intelligence service. **Everything he built went up in Eruliath, where it impressed Erulians** — who had no vote and had never been the obstacle. That is not stupidity, it is the shape he always has: **acquiring the appearance of worthiness is a Merchant purchase in Founder vocabulary**, the same move as the recently commissioned ancestor portraits. He bought the look of a claim rather than the substance of one, for twenty years, against no competition at all.
 
 **Shadow:** His instrumentalized Founder produces institutions that are durable only as long as they continue to bear his name and serve his accumulation. When the costs of maintenance threaten the personal trappings, he chooses the trappings every time. The institutions he built were structurally fragile because the founder didn't actually care about them — he cared about himself wearing them.
 
@@ -259,6 +265,7 @@ ruin it.**
 
 | What he did | What it should have cost | What it cost |
 |---|---|---|
+| **Held the only surviving claim to the Ruby Throne for twenty years, with no rival and no deadline** | — | **He spent the runway building a palace in the wrong city**, and the question was still open on the day Elara walked into Kaha'an |
 | Ordered Elara poisoned at a state dinner (B2) | Execution for attempted regicide, and in most of Elvandar his family with him | **Nothing.** No retaliation, no diplomatic incident, nobody connecting the poison to Eruliath |
 | Offered marriage, was refused, and signed with the Compact in a fit of jealousy (B3) | — | A continental war entered on wounded pride |
 | Abandoned a sound war plan for bait, and besieged Kaha'an with cavalry and no engineers | — | **He lost the Compact War personally**, in public, in front of walls he never scratched |
@@ -279,6 +286,12 @@ account: `Offstage.md`, "The Recruitment of Kalden Erulius."
 desert; what was left was one sixty-nine-year-old man, and **Kalden disbanded the last of it personally,
 weeks before he died, for being told the truth.** Note the shape, because it is the same one as the
 Compact War and the same one as his death: **he is offered the sound course, and he removes it.**
+
+**Elara's arrival is not a counter-example to this table and a later pass must not treat it as one.** It
+is the one thing on the list that happened *to* him rather than because of him, and it is still not
+injustice: **a legitimate heir returning is the system working exactly as designed.** He had twenty
+unopposed years to close a question that a returning Valanar would have closed at any point in them.
+**The runway was the reprieve.** What he built on it was a palace.
 
 **And the mercy at each step is the point.** Most men who attempt regicide die for it and take their houses
 with them; he walked away clean. Most losers of a continental war are crippled by the settlement; **Erulian

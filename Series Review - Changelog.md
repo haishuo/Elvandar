@@ -2600,3 +2600,72 @@ are not necessarily names that hear as distinct**, and this cast already has *Va
 **Note on this file:** the single prior changelog reference was a **file path** in yesterday's Coterie
 entry and was updated with the rename, since a broken pointer serves nobody. No historical *claim* in this
 file was altered.
+
+---
+
+## 2026-08-01 — What the Coterie's ruling did to Kalden's claim
+
+**Author's catch, and it closes a rule 1 hole the Coterie entry had just opened.** If the Valanars were
+declared *merely missing*, the obvious objection is that Kalden's twenty-year project has nothing to aim
+at. **The obvious reading is backwards.**
+
+### The resolution
+
+**Had they been declared dead, the throne is vacant, and a vacant throne is a succession question that
+must be answered now.** On the genealogy the answer points at Erulius — the third-cousin-twice-removed
+connection that was trivia while Valanars sat the throne and became the closest surviving link the moment
+they stopped. **Which is exactly why that door was never going to open**: none of Rosik, Tania or Sa Ko
+would hand Kaha'an to a foreign prince, and the three of them held the city. Asked in those years, the
+question gets answered against him immediately and permanently.
+
+**So *dead* would have closed it. *Missing* only postponed it.** The Coterie did not rule on the
+succession at all; it ruled there was no succession to consider. **A question deferred can be reopened. A
+question decided cannot.** The fiction standing between Kalden and the throne is the same fiction that
+left him something to work toward for twenty years, **and nobody involved intended him the favour.**
+
+**And it is a ruling, not a fact about the world**, which is the whole of his opening: bodies make
+rulings and bodies can be induced to make different ones. The route was real and narrow — accumulate
+enough weight in Kaha'an that the succession is reopened and the thin blood found sufficient.
+
+### What it names on Kalden's sheet
+
+**A rung below the escalation ladder: throne-by-legal-campaign**, which ran twenty years and is the only
+substrate that was ever going to work. This changes the direction of travel on his whole arc — **he does
+not escalate from a bad plan to a worse one; he starts with the good one and is driven down the ladder**,
+and Elara's arrival is what kills the top rung.
+
+**And it gives the institutions' second purpose a precise name: credentialing.** The June correction
+established that the Amber Palace, Chancellery, coinage, Aspirant Guard and Hall of Ancestors were
+genuinely dual-purpose; it did not say what the second purpose was *for*. It is aimed at a specific
+decision by a specific body. **A claim that thin is not granted to a competent provincial administrator;
+it is granted to somewhere that already looks like the seat of an empire**, and he understood that
+correctly. The work was rational.
+
+**What was wrong with it is where he did it** — and this is new. **He built all of it in the wrong city.**
+The ruling he needed overturned was made in Kaha'an by three cartel heads; what he ever had in Kaha'an was
+an intelligence service. Everything else went up in Eruliath, where it impressed Erulians, who had no vote
+and were never the obstacle. **Not stupidity — the shape he always has.** Acquiring the appearance of
+worthiness is a Merchant purchase in Founder vocabulary, the same move as the recently commissioned
+ancestor portraits.
+
+### One row added to the ledger, and it is now the largest
+
+**"Held the only surviving claim to the Ruby Throne for twenty years, with no rival and no deadline" →
+he spent the runway building a palace in the wrong city**, and the question was still open on the day
+Elara walked into Kaha'an. The table previously started at the Book 2 poisoning and had no entry for the
+two decades before it.
+
+**With a guardrail attached, because this is the strongest apparent objection to the anti-tragic reading
+and the sheet should pre-answer it.** Elara's arrival is the one item that happened *to* him rather than
+because of him, **and it is still not injustice — a legitimate heir returning is the system working
+exactly as designed.** He had twenty unopposed years to close a question she would have closed at any
+point in them. **The runway was the reprieve.**
+
+### One consequence, and one hole marked
+
+**Rosik authored the fiction that preserved Kalden as a claimant for twenty years, and Rosik is the man
+who eventually spends him.** Neither of them ever knows about the first half of that.
+
+**Marked open in the entry, not to be filled by inference:** whether Kalden knows Rosik proposed the
+arrangement. The Coterie is collectively responsible and Rosik's authorship is not obviously public. It
+bears only on the recruitment scene and is unwritten either way.
