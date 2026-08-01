@@ -2306,3 +2306,38 @@ load-bearing member of somebody else's structure, and he fails under his own wei
 pulled.** The distraction was working; all it required was that he stay alive and moderately inconvenient
 for one afternoon. **So the last thing he ever does is ruin a sound plan by being Kalden**, which is what
 he did every previous time. He does not know that either.
+
+---
+
+## 2026-07-31 — Book 7: the two antagonist deaths are inverse, not parallel
+
+**Author's observation**, arising from the Kalden ledger pass: Rosik's plan is *good*, and what it says
+about him is that he is not the sort of man who can conceive of it failing in this particular way.
+
+**Filed at the head of Act III in `Book 7 - Last Debts/book7_outline.md`** — "The two deaths are
+opposites" — because both deaths sit in that act, days apart, and that is where a later pass will be
+standing. `People/Kalden Erulius.md` and `People/Rosik Kemvimore.md` carry a two-line pointer each and do
+not restate it; `Series Review - Master List.md` §2 carries the constraint in one line.
+
+**The failure mode it exists to prevent** is writing them as one observation made twice — two arrogant men
+undone by arrogance. **Only one of them was.** Kalden had every advantage and squandered it; the ledger on
+his sheet is a list of reprieves taken and wasted, and nothing was done to him. **Rosik had nothing wrong
+and lost anyway** — the estimate was empirical, the threat was sized precisely, three personalities were
+modelled correctly, and not one person in the plan surprised him. **What beat him was an artery and a woman
+who moved before the data was in, and neither of those has an intention to read.** A man whose entire
+instrument is the modelling of what people will choose, defeated by a thing that did not choose and a thing
+that chose too early.
+
+**Why it is load-bearing rather than decorative:** the series' position is that the difference between
+Rosik and his son was never capability, and Book 2 spends four chapters proving Xion can do what Rosik
+does. **Make Rosik's last plan foolish and that proof gets cheap in both directions.**
+
+**The symmetry closes on the not-knowing rather than breaking on it.** Both men die without understanding
+what happened — but Kalden could not have understood it, and Rosik simply was not told, having spent his
+entire network to stop needing to be. Neither gets the moment of realisation. Both sheets already said so
+independently; the note makes the pairing explicit.
+
+**Nothing was reopened.** Rosik dying without ever learning why his plan came apart was already recorded on
+his sheet (*"And he never learns any of it… Do not give him a moment of realisation about either"*) and is
+unchanged — it was re-raised as an open question and turned out to be settled, so the ruling stands as
+written rather than being restated.

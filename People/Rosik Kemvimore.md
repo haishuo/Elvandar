@@ -500,6 +500,11 @@ came to kill knelt down to save him. **Do not give him a moment of realisation a
 
 **He never explains any of it, to anyone, and he dies not having explained it.**
 
+**And the plan itself was sound — write the failure as bad luck, never as folly.** He modelled three
+personalities correctly and got everything he designed for; what beat him had no intention in it to read.
+His death and Kalden's are inverse rather than parallel, and the note governing both opens Act III — see
+`Book 7 - Last Debts/book7_outline.md`, "The two deaths are opposites."
+
 **And he cannot understand what Xion does, for a structural reason rather than a moral one.** Rosik
 holds his faculty as an *instrument* — he picks up the geometry, uses it, sets it down, and can teach
 the method aloud (B2 ch12: *find the member bearing more of the load than the rest, pull it, and stand

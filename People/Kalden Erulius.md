@@ -308,6 +308,11 @@ character. **Do not have anyone lay the account out in front of him**, and do no
 seeing it — not in Book 5, not in Book 7, not at the end. He dies mid-sentence, still owed something by the
 world, and the reader does the arithmetic he never will.
 
+**His death and Rosik's are inverse, not parallel**, and Book 7's Act III opens with the note that governs
+both — see `Book 7 - Last Debts/book7_outline.md`, "The two deaths are opposites." The short of it for this
+sheet: **Kalden's ruin is self-inflicted and Rosik's is not**, so the two scenes must not read as one
+observation made twice.
+
 ---
 
 ## Relationships

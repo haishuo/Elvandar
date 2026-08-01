@@ -257,6 +257,33 @@ This is the culmination of both siblings' arcs: Tiberian executing decisive acti
 
 **Emotional arc: Finality — the old order dies, completely**
 
+### The two deaths are opposites, and must not be written as the same failure
+
+*Filed 2026-07-31. Both antagonists die in this act, days apart, and the obvious way to write them is as
+two arrogant men undone by arrogance. **Only one of them was.** The symmetry is inverse, not parallel, and
+losing it costs both scenes.*
+
+**Kalden had every advantage and squandered it.** The ledger on his sheet is a list of undeserved
+reprieves, each one taken and wasted — a good realm, a real claim, a poisoning that went unpunished, a war
+he lost by abandoning a sound plan. Nothing was done to him. He is a flaw working on good fortune, and the
+reader can total it up.
+
+**Rosik had nothing wrong and lost anyway.** The plan was not hubris; it was empirical. He estimated *this*
+battle from the only data that existed, sized the threat precisely, modelled three personalities correctly,
+and got every single thing he designed for. **Not one person in the plan surprised him.** What beat him was
+an artery and a woman who moved before the data was in — **and neither of those has an intention to read.**
+He is a man whose entire instrument is the modelling of what people will choose, defeated by a thing that
+did not choose and a thing that chose too early.
+
+**This is why the failure cannot be written as stupidity.** The series' position is that the difference
+between Rosik and his son was never capability — Book 2 spends four chapters proving Xion can do what
+Rosik does. Make Rosik's last plan foolish and that proof becomes cheap in both directions.
+
+**Both men die not knowing, and that is where the symmetry closes rather than breaks.** Kalden never learns
+he ruined a sound plan by being Kalden. Rosik never learns why his came apart. **The difference is that
+Kalden could not have understood it and Rosik simply was not told** — one is incapacity, the other is
+information he spent his whole network to stop needing. Do not give either of them the moment.
+
 ### The Death of Kalden Erulius
 
 The two forces meet on the Golden Path about a hundred miles east of Kaha'an — **where they meet, not where anyone chose**, because two armies closing on the continent's only desert road eat the gap at forty miles a day. Tiberian's outriders make contact first; the formal engagement begins shortly after. Kalden, mounted at the head of his mercenary line, expects his moment — the confrontation with Xion, the final chapter of the story he's been telling himself for the entire second half of his life. Twenty years of mirror-rehearsals. The imperial collar adjusted just so. The lines memorized.
