@@ -2733,3 +2733,96 @@ where it would be.
 embolden Secessionists"** as a tipping point. **Kalden has no victories** — he loses the Compact War and is
 blocked at Silaris. The line reads as either pre-Book-3 worldbuilding or a conditional. Left alone pending
 a decision, since the file has not otherwise been reviewed against current canon.
+
+---
+
+## 2026-08-01 — `kahaan_political_factions.md` rebuilt around the Coterie's legal architecture
+
+**External critique, relayed by the author and largely correct.** The file predated the settled account of
+how the Coterie formed and described a conventional contested monarchy — loyalists awaiting restoration,
+pragmatists backing the regime, conspirators backing a rival. **That framing does not survive the *missing
+not dead* ruling**, and the conflict is a rule 1 problem rather than a matter of taste.
+
+### The reframe, which is the whole of it
+
+**The Coterie is officially loyalist.** It governs in the Valanar name and does not claim the dynasty was
+replaced. So "the Imperial Faction believes House Valanar remains legitimate" is not a distinguishing
+position — **everyone in respectable Kaha'ani politics believes that, or is required to behave as though
+they do.** The real disagreement is *what loyalty to an absent dynasty requires while it remains absent*,
+which yields three constitutional positions rather than three dispositions:
+
+- **The Continuationists** — the Coterie is the lawful expression of Valanar authority during the
+  interregnum, and disturbing it endangers the inheritance. **Rosik insists he spent twenty years
+  preserving the Valanars' city for them, and the irritating thing is that it is not wholly false.**
+  Renamed from "the Pragmatists," because pragmatism is their temperament and continuity is their doctrine.
+- **The Restorationists** — the Coterie is a trustee that has converted guardianship into oligarchy. Their
+  critique uses the Coterie's own premise: **if you govern only until the family returns, why have you
+  built a system that cannot survive their return?**
+- **The Erulian Claimants** — renamed from "Secessionists," which was simply wrong; they are not seceding
+  from anything, they are resolving a suspended succession. Their strong case **concedes that the original
+  arrangement was lawful** and argues only that it cannot be indefinite, which is far more dangerous than
+  "Kalden has vision and blood."
+
+### Corrections of fact
+
+**Ronas.** The file said he forced his seat because excluding him would trigger *"a war the three founding
+cartels were not prepared to fight,"* which contradicts his own sheet and the Coterie entry. Replaced with
+the actual mechanism — the two-month labour stoppage. **He did not threaten war; he demonstrated
+dependency**, and that distinction is his political intelligence. Also struck: *"no political
+infrastructure to fall back on, only leverage"* (he has no **noble** infrastructure; he has a cartel,
+labour control, territory, clients and twenty years at the table) and the authorial *"took it rather than
+earned it"* (the other three say it; objectively he earned it, and the file now says so).
+
+**Xion's circle — an error the critique did not catch.** The file called it *"Xion Kemvimore's group."*
+`People/Silvanno Larannas.md` is explicit: **he did not join Xion's reform group, he started it.** Also
+corrected: Xion is not "increasingly sympathetic to Imperial restoration" before Elara — he has no position
+on the succession at all — and Farleen is no longer flattened to *"Cartel Faction member who betrayed the
+group,"* since she was embedded before there was anything to betray.
+
+**"Unquestioned moral authority"** removed from the Restorationists in both places it appeared. Dispossessed
+nobles wanting their estates back do not have unquestioned anything, and it breached the standing rule that
+nobody in this series is saintly. The cause can be valid while the motives are not pure — **and some of
+them will be appalled by the actual woman when she arrives.**
+
+**The 60/25/15 split** removed. It implied a single measure of "noble influence" that does not exist.
+Replaced with qualitative statements, including that Ronas's power is orthogonal and cannot be placed on
+the axis at all.
+
+**Elara's return** no longer merely "strengthens the Imperial Faction." **It detonates the legal grammar
+under all three** — the Continuationists cannot reject her without confessing the caretaker story was
+fraud, the Restorationists get vindication and a complication, and the Claimants lose the question they
+needed opened. **And she proves the Coterie's fiction was literally true.**
+
+### Additions
+
+**The Tor'anar as a fourth constitutional position**, which follows from their own file: they never
+consented to the fiction and do not accept that authority flows from noble coalition-building. *We do not
+recognise the question you are all debating.* This is what gives Elara an imperial military organ on day
+one instead of having to build one.
+
+**The Warrens, the cartel bureaucracy and the population** as separate axes, and the document retitled
+**The Noble Political Alignments of Post-Rending Kaha'an** with an explicit scope note, since it was never
+a map of the city.
+
+**Kalden's building programme moved into the faction itself** — the Hall of Ancestors, coinage, Amber
+Palace and Aspirant Guard as **evidence manufactured in advance**, and the project named: *the construction
+of an alternative imperial centre*, intended to make the succession feel settled before it is legally
+opened.
+
+### Where the critique was wrong, and it matters
+
+**It recommended stripping the named houses** — *Valorian, Thessarian, Thessian, Valoreth, Vorthak,
+Morthen, Corvallen* — as "generated proliferation" that should stay unnamed until a story needs them.
+**Checked before acting, and the recommendation is wrong for this repo.** `houses_of_kahaan.md` is their
+source document, and **`Valorian` and `Thessarian` appear in Book 3's chapter skeleton and its ch1 beat
+draft.** Deleting them would orphan Book 3 planning. All names kept, with a pointer to the source file and
+an instruction not to invent more here.
+
+**The Thess- collision is a real craft point and is now marked open rather than fixed.** *Thessalar*,
+*Thessarian* and *Thessian* are three houses in three different alignments with nearly the same name.
+Renaming two of them touches `houses_of_kahaan.md` and two Book 3 documents, so it is a decision, not a
+cleanup.
+
+**Also marked open:** whether Kalden's constitutional supporters know they are also an assassination
+network, which bears on how many can convert to Elara after Book 1. And the stale *"Kalden's victories
+elsewhere"* tipping point is cut — he has no victories.
