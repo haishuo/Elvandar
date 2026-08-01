@@ -126,10 +126,14 @@ joking.**
 yes costs her nothing and settles nothing. **What it means to the corps is disproportionate, and nobody in
 the room registers that.**
 
-**The senior officer has no name and no rank**, because the corps has neither on record and naming a
-character is the author's call. If the figure recurs — and the Lathion detachment gives an obvious reason
-— both are needed, coined against the Balishan ceremonial register in `Places/Languages of Elvandar.md`,
-avoiding the crowded V-initial group and the *-anar* suffix.
+**The officer who speaks for the corps is Storm-Marshal Ilareth**, and he is deliberately thin — a
+supporting figure, not a character with an arc, and not to be built out to Vesk's level. **What he has is
+a bearing, not a biography**: he does not decorate an answer, does not explain himself, and does not
+appear to notice when something he has said is funny. Everything else stays unwritten until a scene needs
+it. *Storm-Marshal* follows the corpus pattern of compound function-titles (*Scholar-King*, *High
+Provost*, *Engineer-Lord*) and reads off the corps' own name; *Ilareth* is Old Lathionese in shape, with
+the guide-listed *-eth* ending, an initial unoccupied elsewhere in the cast, and no collision with the
+crowded V-initial group or the *-anar* suffix.
 
 **His function is security and counterintelligence, not research.** He is not there as a magical peer to the Urathan delegation, and the corps does not think of him as an observer in the academic sense. The governing logic: an allied nation's intelligence service does not get unsupervised access to a classified facility just because the two states are friendly — you post a guard regardless, especially with the head of state physically present (Elara attends the Lathion exploration and experiences the Destiny Engine vision firsthand in Chapter 8). The Tor'anar do not fully trust the Amethyst Tower's restraint around a site of this magnitude, allied nation or not, and their position is that "supervised" and "trusted" are not the same thing. The person assigned to that job isn't chosen for diplomatic tact or scholarly credentials — he's chosen for being capable enough to physically stop the Urathans if they prove uncooperative, the same way a foreign dignitary's protective detail is built from operators, not from whoever's best at making conversation. If the story needs more than one Tor'anar mage on-site to make that credible given the stakes, that's an open scaling question, not a fixed constraint.
 

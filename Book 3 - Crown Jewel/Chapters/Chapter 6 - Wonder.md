@@ -1,5 +1,3 @@
-# Chapter 6: Wonder
-
 The Urathans arrived on a grey morning and immediately forgot the weather.
 
 That was Xion's first real impression of them as a group: the moment the scholars stepped onto the passage floor and saw the Brass Door, the rest of the world ceased to exist. Not rudely — they were not rude people — but completely. One of the junior scholars stopped walking mid-step and had to be guided around a crate by a colleague who was also staring at the Door and navigating by some secondary sense. Their baggage was substantial: manuscripts in glass-fronted cases, portable reference stands that unfolded with articulated brass joints, instruments Xion had no names for. They had come prepared to work. They had not come prepared for the scale of it.

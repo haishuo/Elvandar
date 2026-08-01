@@ -1,7 +1,7 @@
 # Chapter 3: Storm-Line
 
 **Timeline:** Days after Chapter 2 — the Door has answered Elara and refused to open, and the question of what to do about it is now formally in front of the crown
-**Characters:** Xion (POV), Elara, Commander Vesk, three Tor'anar (the senior officer unnamed — see footer), court advisors
+**Characters:** Xion (POV), Elara, Commander Vesk, Storm-Marshal Ilareth and two Tor'anar, court advisors
 **Emotional work:** Diminishment carried with dignity. An institution that has waited twenty years to be needed is finally summoned, and discovers in front of the crown that the thing it does is not the thing required. The chapter's whole design is that the reader should finish it respecting the Tor'anar **more** than if they had succeeded — because what they do with the failure is immediate, unhedged, and against their own interest.
 **POV:** Xion
 
@@ -27,7 +27,7 @@
 
 9. Three of them. Xion's first sight of the corps is not martial in any way he expected. He was braced for something like the Arol Batae and gets something considerably stranger — older in bearing, quieter, and dressed for work rather than for a court.
 
-10. **The Door, and the descent to it.** The passage below the tunnels is cramped and low-ceilinged, and Xion notices the senior Tor'anar notice this. It is the first flicker of a problem, hours before anyone names it, and the reader should have it before the characters do.
+10. **The Door, and the descent to it.** The passage below the tunnels is cramped and low-ceilinged, and Xion notices Ilareth notice this. It is the first flicker of a problem, hours before anyone names it, and the reader should have it before the characters do.
 
 11. **The working. Xion's instrument is bodies, so bodies are what the reader gets.** He cannot follow the magic and the narration does not pretend to. What he can read is effort: the changed breathing, the set of a jaw, the tremor that arrives in the hands late and is controlled and arrives again. This is the same eye that reads a patient, turned on three professionals doing something enormously difficult in a space that will not let them do it.
 
@@ -35,15 +35,15 @@
 
 13. **The failure, stated in their terms.** Storm magic is open ground and formations at range: pressure, force, weather, applied at scale to something that can be pushed or broken or scattered. A sealed precision lock in a stone throat is neither. There is nothing to batter and nowhere for the working to breathe. **The instrument is wrong for the lock, and the corps knows it before the crown does.**
 
-14. **The admission, and it is short.** No hedging, no request for more time, no proposal to try again with more people. The senior Tor'anar says they cannot do it, and does not decorate it. **The brevity is the dignity** — a longer answer would be an excuse, and the reader should feel the discipline in how little is said.
+14. **The admission, and it is short.** No hedging, no request for more time, no proposal to try again with more people. Ilareth says they cannot do it, and does not decorate it. **The brevity is the dignity** — a longer answer would be an excuse, and the reader should feel the discipline in how little is said.
 
-15. Xion reads the cost off the man's face the way he reads a patient's, and it is considerable. He does not say so aloud. Nobody in the room appears to notice except him, and possibly Vesk.
+15. Xion reads the cost off Ilareth's face the way he reads a patient's, and it is considerable. He does not say so aloud. Nobody in the room appears to notice except him, and possibly Vesk.
 
 16. **Then they recommend the foreigners themselves**, which is the beat the chapter exists for. Unprompted, immediately, and against every interest they have: this needs magi-tech engineering or magical scholarship, Gunastran and Uratha are where those live, and the crown should send for them. **They have just argued the crown out of needing them.**
 
 17. **And in the same breath, the request.** If foreign mages are to be brought to a sealed arcane site inside Balisha, with the Empress present, the Tor'anar ask to attend her person. Three agents at minimum. This is where the deputation's argument goes and it should be delivered as a stated position rather than a plea — *the arcane arm of the Valanar since the earliest days of the empire; the authority on all things arcane; with respect, we request.* **It concedes the Arol Batae's competence at the thing the Arol Batae are actually for**, which is not flattery and not a dig. It is a jurisdictional claim being made aloud to the only person entitled to hear one.
 
-18. **Elara names the contradiction, dryly.** They have just told her to bring these people in and told her in the same breath not to trust them. The senior Tor'anar agrees that this is correct. **He does not smile, elaborate, or appear to notice that anything amusing has occurred**, and the exchange is funny for exactly that reason and must never be staged as though anyone is joking.
+18. **Elara names the contradiction, dryly.** They have just told her to bring these people in and told her in the same breath not to trust them. Ilareth agrees that this is correct. **He does not smile, elaborate, or appear to notice that anything amusing has occurred**, and the exchange is funny for exactly that reason and must never be staged as though anyone is joking.
 
 19. **She grants it, and the grant is tiny.** No ceremony, no speech, no acknowledgment that anything has changed. She has no relationship with this institution and the yes costs her nothing at all. **What it means on the other side of the room is enormous and nobody registers it**, which is the note the chapter goes out on.
 
@@ -63,6 +63,6 @@
 
 **On where this leaves the following chapter.** Chapter 4 opens on the planning session with the foreign options already narrowed and the Tor'anar already excluded *by the Tor'anar*. Its old first beat — *"Gunastran is the obvious first candidate, and no one in the room argues against it"* — has been corrected accordingly: Gunastran is now the obvious first *foreign* candidate, and the reason the question is foreign at all is that it was asked at home first and answered honestly. **This makes Chapter 4's Gunastran failure the second refusal rather than the first**, which deepens that chapter's stated design — competence restored, earned through failure — rather than fighting it.
 
-**Open:** the senior Tor'anar has no name and no rank, because the corps has neither on record and inventing a character is the author's call. If this figure recurs — and the Lathion detachment gives them an obvious reason to — they need both, coined against the Balishan ceremonial register in `Places/Languages of Elvandar.md`, avoiding the crowded V-initial group and the *-anar* suffix.
+**On Ilareth, who needs exactly this much and no more.** **Storm-Marshal Ilareth** is the corps' senior officer and a supporting figure, not a character with an arc — he is deliberately not built out to Vesk's level and should not be. What the book needs from him is a bearing and a register: he does not decorate an answer, he does not explain himself, and he does not appear to notice when something he has said is funny. **Everything else about him stays unwritten until a scene actually requires it.** The rank follows the corpus pattern of compound function-titles — *Scholar-King*, *High Provost*, *Engineer-Lord*, *Archiviste* — and reads off the corps' own name, the Storm-Line. The name is Old Lathionese in shape per `Places/Languages of Elvandar.md`: the *-eth* ending is guide-listed, the initial is unoccupied elsewhere in the cast, and it avoids the crowded V-initial group and the *-anar* suffix.
 
 **Sets up:** Chapter 4 (Negotiations) — the foreign search, now properly motivated. The Tor'anar detachment that accompanies the Lathion expedition from Chapter 6 onward. And, at long range, the corps being right about the Urathan delegation in Chapters 10 and 12, which only lands if the reader met them here.

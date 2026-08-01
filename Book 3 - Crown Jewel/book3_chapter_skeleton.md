@@ -48,15 +48,15 @@ Elara approaches the door. It blazes to life — ancient symbols illuminating, m
 
 The frustration mirrors the broader situation: Elara has the legitimacy (the wards, the throne, the eyes) but can't translate it into the thing she needs. The door, like the kingdom, responds to her and refuses to yield.
 
-They need help. Expert help. Engineering expertise beyond what Kaha'an possesses.
+They need help — expertise of a kind nobody in the room can supply. **Where that expertise is to be found is the next chapter's question, and the answer is not yet assumed to be foreign.**
 
-**Sets up:** The Urathan approach, and the specific problem they need solved.
+**Sets up:** Chapter 3, and the specific problem that needs solving.
 
 ---
 
 ### Chapter 3: Storm-Line
 **Timeline: Days after Chapter 2 — the question of what to do about the Door goes formally to the crown**
-**Characters present: Xion, Elara, Commander Vesk, three Tor'anar, court advisors**
+**Characters present: Xion, Elara, Commander Vesk, Storm-Marshal Ilareth and two Tor'anar, court advisors**
 **Emotional work: Diminishment carried with dignity**
 
 The room has already begun comparing foreign options when **Vesk interrupts to ask whether anyone has considered that the Empress has mages.** Nobody has. Elara did not forget the Tor'anar — she has simply never thought of them first, because she was raised in an Arol Batae compound and going to Vesk is the shape her hand has when it reaches. She notices this about herself and says nothing.
@@ -65,7 +65,7 @@ The room has already begun comparing foreign options when **Vesk interrupts to a
 
 **The admission is short and undecorated**, and then they do the thing the chapter exists for: **they recommend the foreigners themselves.** Unprompted, immediately, against every interest they have — this needs magi-tech engineering or magical scholarship, and the crown should send for Gunastran or Uratha. **They have just argued the crown out of needing them.**
 
-**And in the same breath they ask to attend her person** if foreign mages are brought to a sealed arcane site with the Empress present. Three agents at minimum. Elara names the contradiction dryly; the senior Tor'anar agrees that it is a contradiction and does not appear to find anything amusing in it. **She grants it, and the grant is tiny** — no ceremony, no acknowledgment, nothing that costs her anything. What it means on the other side of the room is enormous, and nobody registers it.
+**And in the same breath they ask to attend her person** if foreign mages are brought to a sealed arcane site with the Empress present. Three agents at minimum. Elara names the contradiction dryly; Ilareth agrees that it is a contradiction and does not appear to find anything amusing in it. **She grants it, and the grant is tiny** — no ceremony, no acknowledgment, nothing that costs her anything. What it means on the other side of the room is enormous, and nobody registers it.
 
 **Rule 1 note:** Balisha has a standing war-magic corps sworn to the Valanar line, and the previous version of this book went abroad without anyone mentioning them. `Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md` has always specified that they were *"asked first and were honest about the limits of what their magic is for."* This chapter is that implementation.
 
