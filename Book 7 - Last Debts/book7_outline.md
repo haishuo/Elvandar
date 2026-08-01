@@ -32,7 +32,7 @@ The target is Xion. It was always Xion.
 
 Rosik finds Kalden and reads him in seconds: a broken man with resources (mortgageable, at least), a grievance (bottomless), and no capacity for self-assessment (none whatsoever). The perfect tool.
 
-**Rosik's pitch:** Everything Kalden wants to hear. That his cause is just. That Xion is the architect of all his suffering. That one decisive stroke will restore everything. Rosik is patient, precise, and tells Kalden exactly what a dying man needs to hear to keep breathing.
+**Rosik's pitch:** Everything Kalden wants to hear, **and not one word of it false.** Real inside knowledge of Kaha'an (true, and useful only for infiltration — he does not say so). Kalden's previous march on the capital cited as a credential (true, and it lands because Kalden remembers being cheated rather than beaten). A shared hatred of Xion (true, for different reasons). And a question about the funds phrased so that admitting to a difficulty is a humiliation, which makes mortgaging the principality Kalden's own idea. **Rosik never promises a victory** — he declines to correct the one Kalden builds for himself, and Kalden hears that as confidence. Full account and truth-values: `Offstage.md`, "The Recruitment of Kalden Erulius." **The last Aspirant Guard captain tries to stop it and is dismissed for it**, which is the last entry in Kalden's ledger.
 
 **Kalden's response:** He believes it because he has to. The alliance feels like destiny — two wronged men united against a common enemy. He mortgages his remaining territory to hire mercenaries. He borrows against the northern mines, against the Amber Palace itself, against everything that remains. He commits every last resource to what he believes is his final vindication.
 
@@ -188,14 +188,26 @@ this plan that runs on money was closed to him before he started.
 **What he has left is accuracy about people, which is the one holding that could not be confiscated.**
 So he goes looking for a war he does not have to buy — and Kalden Erulius does not need to be paid,
 recruited, or convinced of anything. **He needs to be agreed with.** Rosik has only to say, accurately
-and in the right order, things the man already believes: that he was cheated, that the throne is owed
-him, that Xion Valanar is the author of his ruin, and that a pincer of siege and subversion takes the
-city. See `Series Review - Master List.md` §2 — Rosik knew from the first day the attack was doomed and
-**told him the opposite**, assured him of a glorious victory, and Kalden cannot process a suspicion of
-that kind for long enough to finish forming it.
+and in the right order, things the man already believes — and **every claim he makes is true.** The full
+pitch and its truth-values are at `Offstage.md`, "The Recruitment of Kalden Erulius"; the short version
+is that his real inside knowledge of Kaha'an is infiltration intelligence and worthless for a siege, that
+he cites Kalden's last march on the capital as a credential rather than a catastrophe, and that he asks
+about money in a form that makes admitting to a difficulty a humiliation, so that mortgaging Erulius is
+Kalden's idea and Kalden will defend it.
+
+**He knew from the first day the attack was doomed and he never said so — and never said otherwise
+either.** He declines to correct the victory Kalden builds out of accurate materials, and Kalden
+experiences the silence as confidence. **Do not write Rosik promising him anything.** And Kalden cannot
+hold a suspicion of that kind long enough for it to finish forming.
 
 **A mercenary can be outbid and an ally might notice. Kalden costs nothing and asks nothing**, and there
 is no point at which he can be turned, because nobody is holding him.
+
+**One man saw it and said so.** Captain Salvian Ostrus, the last of the Aspirant Guard, Kalden's butler
+when Kalden was a boy — he went to his prince and asked him not to do this, and was dismissed from the
+house the same day. Account in `Offstage.md`. **Rosik never had to answer him**, which is the purest form
+of the standing rule that Rosik encounters no resistance: the only person who read him correctly was
+removed by somebody else while he stood there and said nothing.
 
 ### How he estimated the window — and this is the part that matters
 

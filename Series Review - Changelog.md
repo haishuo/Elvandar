@@ -2406,3 +2406,93 @@ mercenaries looting the body.
 **`People/Kalden Erulius.md`** opened The End of Kalden Erulius with the same arrival. Corrected, and the
 correction earns its place: **he never gets within sight of the walls he spent half his life marching
 toward, and does not know it.**
+
+---
+
+## 2026-07-31 — The Recruitment of Kalden Erulius, and Rosik never lies
+
+**Author's material, two rulings.** Kalden's late appearances make him look like a fool who was talked
+into a suicidal war. He is not one, and the pitch he accepted was sound from ten thousand feet. Filed as
+a new `Offstage.md` entry — **The Recruitment of Kalden Erulius** — with pointers from
+`People/Kalden Erulius.md`, `People/Rosik Kemvimore.md`, `Book 7 - Last Debts/book7_outline.md`,
+`elvandar_series_outline.md` and `Series Review - Master List.md` §2.
+
+### The pitch
+
+Four claims, **every one of them true.** Real inside knowledge of Kaha'an — thirty years of it, excellent,
+and **infiltration** intelligence that is worthless for taking a city, which Rosik does not mention and
+never needs to, **because he never says the word *siege*.** Kalden's previous march on the capital cited as
+a **credential**, which lands because his sheet has him absorbing defeat as persecution: twenty years on he
+remembers being cheated rather than beaten, and hears the reference as recognition. A shared hatred of
+Xion, true on both sides for reasons that are not the same. And a question about funds phrased so that
+**admitting a difficulty is a humiliation** — which never proposes mortgaging the principality, so that
+Kalden invents it, and will therefore defend it to his own people rather than have it defended to him.
+
+**Two things that last point accomplishes and that were not previously written down.** It makes the
+enterprise irreversible before a soldier is hired: **once Erulius is mortgaged the debt exists whether the
+army marches or not**, so Rosik needs Kalden committed by balance sheet rather than by belief. And it is
+**how the army gets sized** — the outline requires a force calibrated to compel a field engagement without
+causing the city to shut its gates, and Rosik knows to the copper what the principality is worth. He sizes
+it by choosing what to make Kalden liquidate.
+
+**The protection this buys Kalden:** he is not fooled by a lie, he is fooled by his own inference from
+accurate data, **which a patient positional thinker is more exposed to than a fool would be**, not less.
+Flagged on his sheet as: do not write the recruitment as a stupid man being tricked.
+
+### Ruling: Rosik does not lie, anywhere, at all
+
+**Author's call, and it overrides the previous framing in six documents.** The prior text had him
+*"assuring him of a glorious victory"* while knowing the attack was doomed. That is now wrong. **He knew
+and he never said so — and never said otherwise either.** When Kalden describes the city falling, Rosik
+neither agrees nor disagrees; he moves to the next practical question and Kalden experiences the silence
+as confidence. **Declining to correct an inference is the instrument**, and it is the same one as the
+omission about the siege: the craft is not lying, it is knowing which true thing to say and when to say
+nothing.
+
+Corrected in `Series Review - Master List.md` §2, `elvandar_series_outline.md`,
+`Book 7 - Last Debts/book7_outline.md` (two places), and `People/Rosik Kemvimore.md` (two places, including
+*assured him* → **let him believe**, with the distinction marked as canon).
+
+### Captain Salvian Ostrus
+
+**New character, offstage only.** The last of the Aspirant Guard, sixty-nine, Kalden's butler when Kalden
+was a boy, working for effectively no wages. He is the only person who tries to stop it — **he goes to
+Kalden, never to Rosik**, asks his prince not to mortgage the principality, and is dismissed from the house
+the same day. **The last thing he sees on his way out is Rosik at Kalden's shoulder, speaking quietly.**
+
+**He honours the standing Rosik guardrail rather than breaching it.** CLAUDE.md forbids giving Rosik an
+interlocutor or any resistance to overcome. Salvian is not one: **Rosik never has to answer him**, and the
+only man who read the situation correctly is removed by somebody else while Rosik says nothing. That is the
+rule in its strongest form rather than an exception to it.
+
+**He is not a saint, per the standing rule that nobody here is.** **He brought the wine** — for fifteen
+years, to a man drinking his state into ruin, and never once said no. He watched the Guard desert, watched
+a third of the principality secede, watched Silaris, and said nothing every time. His loyalty is real and
+it is also complicity. **And that is exactly why the objection fails**: Kalden has never heard this man
+object to anything, so there is no channel for it. **The decades of deference are what make it inaudible.**
+He is not ignored because Kalden is deaf; he is ignored because he spent fifty years teaching Kalden he
+would always say yes.
+
+**What depends on him.** He is the **last entry in Kalden's ledger and the only one that is a person** —
+every other refused exit was structural or lucky, and this one walked in carrying his drink. Added as the
+final row of the account table on Kalden's sheet. **And Kalden ends the Aspirant Guard himself**: the
+outline's "gone — the soldiers he stopped paying walked away years ago" is now exact, in that it was gone
+down to one old man and Kalden disbanded the last of it personally, weeks before he died, for being told
+the truth.
+
+### Language guide: the Erulian gap
+
+**`Places/Languages of Elvandar.md` described Erulian in one line and had no naming convention for it**,
+so there was nothing to coin *Salvian Ostrus* against. Added an **Erulian** subsection under Naming
+Conventions by Culture: Latinate throughout rather than only in the prestige layer, open syllables, liquid
+consonants, no clusters heavier than two, **no glottal stop**, endings in *-ius / -us / -ian / -ine /
+-anus*, with coinage examples.
+
+Also recorded the one pattern the existing corpus actually evidences: **Erulian nobles carry Balishan given
+names and Erulian surnames** — *Kalden* is Proto-Balishan, the house is *Erulius* — which is what a
+principality whose whole identity is a claim on the **Balishan** succession would be expected to do.
+Retainers and commoners are Erulian in both halves. **The name was coined against this, not before it.**
+
+*Salv-* is given as an Erulian root for keeping or holding in trust, which makes the name quietly ironic
+since the man preserved nothing. **Nobody in the books remarks on it and nobody should.** Alternates, if
+the author wants a different sound with the same register: *Verrian Tarrus*, *Marcian Aventine*.

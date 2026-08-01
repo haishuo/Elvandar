@@ -362,7 +362,9 @@ Years of exile have not diminished Rosik. They have *refined* him. The statesman
 
 When Rosik finds Prince Kalden Erulius — overweight, drunk, angry, ruling a rump state barely worth the name — he reads the situation instantly. Here is a man with resources (mortgageable, at least), a grievance (bottomless), and no capacity for honest self-assessment (none whatsoever). The perfect tool.
 
-Rosik tells Kalden exactly what Kalden wants to hear. That his cause is just. That Xion is the architect of all his suffering. That one final campaign will restore everything. Rosik is patient and precise and says all the right things, because reading people and telling them what they need to hear is what assassins do before the blade comes out.
+Rosik tells Kalden exactly what Kalden wants to hear, and **he does it without telling him a single lie.** Full pitch and truth-values at `Offstage.md`, "The Recruitment of Kalden Erulius." He offers real inside knowledge of Kaha'an — true, and useless for anything but infiltration, which he does not mention. He cites Kalden's previous march on the capital as a credential, which lands because Kalden remembers being cheated rather than beaten. He notes that they both hate Xion, which is true and not for the same reason. And he asks whether the funds are a difficulty in a way that makes saying yes a humiliation, so that mortgaging the principality is Kalden's own idea.
+
+**What he never does is promise victory.** When Kalden describes the city falling, Rosik does not agree and does not disagree — he moves to the next practical question, and Kalden hears confidence. **The deception is the declining to correct**, and it must be written that way: reading people and knowing exactly which true thing to say and exactly when to say nothing is what assassins do before the blade comes out.
 
 But Rosik's real plan has nothing to do with Kalden's war.
 
@@ -466,8 +468,8 @@ A tool. Nothing more. Rosik reads Kalden in seconds: a broken man with mortgagea
 **Do not write the Kaha'an attempt as a miscalculation.** Rosik builds a real war around a man whose
 pride is load-bearing, exactly as he taught his son in B2 ch12 — *find the member carrying more than
 the rest, pull it, stand back.* Kalden is that member. He is not an ally and was never told he was
-anything else; Rosik assured him of a glorious victory while knowing the attack was doomed, because a
-doomed attack was the entire product. **He needed two hours of battle to hold the Crown Prince at the
+anything else; Rosik let him believe in a glorious victory while knowing the attack was doomed, because a
+doomed attack was the entire product — **let him believe, not told him, and the distinction is canon.** **He needed two hours of battle to hold the Crown Prince at the
 frontier**, and Kalden had furnished precisely that at Silaris.
 
 **The mechanism, which Kalden was never told, and the geography that made it sound.** Erulius is east of

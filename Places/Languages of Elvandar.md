@@ -139,6 +139,17 @@ The Vartonnese imperial tradition treats throne-name taking as part of what *con
 - Old Lathionese ceremonial register for institutions, scholarly titles, the Tower system
 - Old Urathan (Proto-Balishan cousin) for personal and place names outside the capital
 
+### Erulian
+- Latinate feel throughout — this is the register, not just the prestige layer
+- Open syllables, liquid consonants (*l, r*) doing much of the work, no consonant clusters heavier than two
+- **No glottal stop.** An Erulian name with a `'` in it is wrong
+- Signature endings: *-ius / -us / -ian / -us / -ine / -anus*
+- Examples to coin from: *Salvian, Ostrus, Verrian, Tarrus, Aventine, Corvinus, Naevius, Marcian*
+
+**Given names are frequently Balishan, surnames Erulian**, on the evidence available — *Kalden* is Proto-Balishan (*"The Steady One"*) carried by the house of *Erulius*. A principality whose entire identity is a claim on the **Balishan** imperial succession has an obvious reason to name its sons in the language of the throne it wants, and the pattern should be assumed to run through the nobility. Retainers and commoners are Erulian in both halves.
+
+**Worked example.** *Salvian Ostrus* — the last captain of the Aspirant Guard (`Offstage.md`, "The Recruitment of Kalden Erulius"). *Salv-* is an Erulian root for *keeping, preserving, holding in trust*, which is an ordinary and slightly old-fashioned thing to name a child, and which the man's life makes quietly ironic: he preserved nothing. Nobody in the books remarks on it and nobody should.
+
 ### Gunastran
 - Heavy consonant clusters, *-stran / -grav / -dorn* endings
 - Examples: *Korstran, Belgrav, Hadorn, Ungost*

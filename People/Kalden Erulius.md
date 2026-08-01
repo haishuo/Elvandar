@@ -196,7 +196,9 @@ By Book 7, Prince Kalden Erulius is a shadow of his former self. Overweight. Dru
 
 Into this wreckage comes Rosik Kemvimore.
 
-Rosik tells Kalden exactly what Kalden wants to hear. That his cause is just. That the throne was stolen. That Xion is the architect of all his suffering. That there is still time to set things right — one decisive stroke, one final campaign, and everything that was taken from him can be reclaimed. Rosik is cold, precise, and genuinely strategic, and he reads Kalden the way he reads everyone: as a problem to be solved, a tool to be deployed.
+Rosik tells Kalden exactly what Kalden wants to hear, **and he does it without lying to him once.** Full pitch and truth-values at `Offstage.md`, "The Recruitment of Kalden Erulius." It is important for this sheet that **the proposal was not obviously mad.** It contained a genuine asymmetric advantage — thirty years of real inside knowledge of Kaha'an — and a man with Kalden's Engineer patience and twenty years of positional discipline would not have accepted anything less. **What he is never told is that the intelligence is worth nothing for taking a city**, because Rosik never says the word *siege*. Kalden supplies the siege himself.
+
+**So he is not fooled by a falsehood. He is fooled by his own inference from accurate data** — which a competent positional thinker is *more* exposed to than a fool would be, because he trusts his own reasoning and has earned the right to. **Do not write this recruitment as a stupid man being tricked.** Rosik is cold, precise, and genuinely strategic, and he reads Kalden the way he reads everyone: as a problem to be solved, a tool to be deployed.
 
 Because Rosik's *real* plan has nothing to do with Kalden's war.
 
@@ -264,6 +266,19 @@ ruin it.**
 | Stopped paying the Aspirant Guard | — | They deserted |
 | Kept going | Pikes, a stormed palace, a crowd | **The Erulian Union simply seceded and left**, taking the best farmland |
 | Moved on Silaris — sound reasoning, real need, prestige and arable land in one stroke | — | Blocked by an eighteen-year-old |
+| **Dismissed Captain Salvian Ostrus** for asking him not to mortgage the principality (B7) | — | **He was told, by the one man with fifty years of standing to tell him, and he put the man out of the house** |
+
+**The last row is the only one that is a person, and that is why it closes the account.** Every other exit
+he was handed was structural or lucky — a rival's silence, a settlement that could have crippled him and
+did not, a population too tired to come for him. **This one walked into the room carrying his wine.** He
+did not lack information at the end. The information had half a century behind it and he removed it from
+the building, and the last thing the old man saw on the way out was Rosik at his prince's shoulder. Full
+account: `Offstage.md`, "The Recruitment of Kalden Erulius."
+
+**And it is where he ends the Aspirant Guard himself.** He had already stopped paying it and watched it
+desert; what was left was one sixty-nine-year-old man, and **Kalden disbanded the last of it personally,
+weeks before he died, for being told the truth.** Note the shape, because it is the same one as the
+Compact War and the same one as his death: **he is offered the sound course, and he removes it.**
 
 **And the mercy at each step is the point.** Most men who attempt regicide die for it and take their houses
 with them; he walked away clean. Most losers of a continental war are crippled by the settlement; **Erulian
