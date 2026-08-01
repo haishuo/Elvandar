@@ -3230,3 +3230,34 @@ had her fielding questions, reading the room and carrying the vote. Now fixed in
 **This tightens the chapter rather than just labelling her.** A Consortium member arguing for war is a
 delegate. **The chair presenting her own arithmetic and then counting the votes it produces is the person
 who cannot blame anybody**, which is the whole reason the chapter is a POV break.
+
+---
+
+## 2026-08-01 — Given-name hygiene in `houses_of_kahaan.md`
+
+**Closing the last items flagged in the Vex sweep**, plus one I had caused myself.
+
+- **Lord Maritime Aldric Darfi → Nevin Darfi.** *Aldwin Morthen* keeps his, since *Lord Claimant Aldwin*
+  reads well and Morthen is the more distinctive house.
+- **Engineer-Lord Marcus Nerrick → Wystan Nerrick.** Two arguments, not one. It was the last of a pair
+  (*Marcus Vex* left with House Vex), **and *Marcus* is transparently Latinate — which in this world is
+  the *Erulian* register**, not the Kaha'ani one. A Balishan noble house head named Marcus is in the wrong
+  language before he is a duplicate.
+- **Master Processor Corwin Malthorn → Osric Malthorn.** **My error, from yesterday.** Naming the Malthorn
+  head *Corwin* put a second *Cor-* against **Lady Cordelia Ashworth** — the same class of collision I had
+  just been asked to clean up, created while cleaning it up. Cordelia is older and keeps hers.
+
+**A third Marcus exists and stays: *"Grey" Marcus***, a veteran trader leading a Warrens faction
+(`The Warrens_ Factions and Power Structures.md`). **Same ruling as the Warrens *Vex***: a street name in
+the Warrens should be short and plain, it is quoted as a byname in the source, and the register is nowhere
+near a noble house head's. **The noble moves; the Warrens keeps what it has.**
+
+**All eighteen house-head given names now have unique three-letter stems**, verified by tally. Nothing here
+touches prose — the file is worldbuilding reference and none of these figures has appeared on a page.
+
+**Nothing outstanding from the naming sweep remains.** For the record, the full V-cluster work of the day:
+*Ver'anar* → **Tor'anar**, *Vrek* → **Draskin**, House Vex → **Sedranne**, *Nadira Vex* → **Ondra
+Kelgrav**, *Silas Vex* → **Bregan Haldorn**; plus *Thessarian* → **Tolvane**, *Thessian* → **Nerrick**, and
+the two Elenas. **The rule extracted from all of it lives in `Places/Languages of Elvandar.md`:** say a
+coinage aloud beside the existing cast before adopting it, prefer a non-V initial, and treat short names as
+the dangerous case.

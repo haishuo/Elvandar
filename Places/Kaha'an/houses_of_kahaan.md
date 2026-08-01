@@ -278,7 +278,7 @@ Serves as administrative backbone of Grain cartel operations, applying agricultu
 ### House Malthorn - "The Provision Masters"
 **Motto**: *"From Raw to Ready"*  
 **Sigil**: Mill wheel turning above flowing water  
-**Current Head**: Master Processor Corwin Malthorn  
+**Current Head**: Master Processor Osric Malthorn  
 **Political Alignment**: Continuationist (Grain Loyalists)
 
 #### Historical Overview
@@ -298,7 +298,7 @@ Integral to Grain cartel operations, providing essential food processing service
 ### House Darfi - "The Harbor Merchants"
 **Motto**: *"By Tide and Trade"*  
 **Sigil**: Blue ship sailing between golden coins  
-**Current Head**: Lord Maritime Aldric Darfi  
+**Current Head**: Lord Maritime Nevin Darfi  
 **Political Alignment**: Continuationist (Water Supporters)
 
 #### Historical Overview
@@ -341,7 +341,7 @@ Provides international expertise and connections for Water cartel operations, ma
 ### House Nerrick - "The Water Wardens"
 **Motto**: *"Pure Flow, Pure Life"*  
 **Sigil**: Crystal spring emerging from mountain stone  
-**Current Head**: Engineer-Lord Marcus Nerrick  
+**Current Head**: Engineer-Lord Wystan Nerrick  
 **Political Alignment**: Continuationist (Water Supporters)
 
 #### Historical Overview
