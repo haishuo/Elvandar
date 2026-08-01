@@ -73,8 +73,8 @@ and stability and preservation are themselves acts of loyalty.
 irritating thing is that this is not wholly false.**
 
 **Base**
-- Cartel-integrated houses — **Valorian**, **Thessarian**, **Malthorn** (Grain); **Darfi**, **Corvallen**,
-  **Thessian** (Water); **Issamil**, **Belgrand**, **Vorthak** (Iron)
+- Cartel-integrated houses — **Valorian**, **Tolvane**, **Malthorn** (Grain); **Darfi**, **Corvallen**,
+  **Nerrick** (Water); **Issamil**, **Belgrand**, **Vorthak** (Iron)
 - Administrators and magistrates whose authority derives from Coterie appointment
 - Commercial beneficiaries of the cartel order
 - Ordinary conservatives who do not love the monopolies and fear reopening the succession far more
@@ -354,11 +354,10 @@ that. By Book 1 they have five years behind them. See `People/Silvanno Larannas.
 
 ## Open, and worth resolving
 
-- **The Thess- collision.** *Thessalar* (Restorationist archivists), *Thessarian* (Grain-integrated) and
-  *Thessian* (Water-integrated) are three separate houses in three different alignments with nearly the
-  same name. On the page it is confusing; aloud it is worse. Renaming two of them would touch
-  `houses_of_kahaan.md` and **Book 3's chapter skeleton and the ch1 beat draft**, which both use
-  *Valorian* and *Thessarian*, so it is a decision rather than a cleanup.
+- ~~**The Thess- collision.**~~ **Closed 2026-08-01.** There were three houses in three different
+  alignments called *Thessalar*, *Thessarian* and *Thessian*. **Thessalar keeps the name** — the archivists
+  carry the most weight, since their genealogical records are what prove Elara's legitimacy.
+  *Thessarian* → **Tolvane** (Grain, field managers) and *Thessian* → **Nerrick** (Water, aqueducts).
 - **"Erulian Military Success: Kalden's victories elsewhere might embolden the Claimants"** appeared in the
   previous version's tipping points. **Kalden has no victories** — he loses the Compact War and is blocked
   at Silaris. Cut here; recorded in case it was meant as a conditional.

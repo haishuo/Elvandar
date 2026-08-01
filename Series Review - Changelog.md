@@ -2826,3 +2826,43 @@ cleanup.
 **Also marked open:** whether Kalden's constitutional supporters know they are also an assassination
 network, which bears on how many can convert to Elara after Book 1. And the stale *"Kalden's victories
 elsewhere"* tipping point is cut — he has no victories.
+
+---
+
+## 2026-08-01 — The Thess- collision closed: Tolvane and Nerrick
+
+**Closes the open item raised in the factions rebuild earlier today.** Three separate houses in three
+different political alignments were called **Thessalar**, **Thessarian** and **Thessian** — confusing on
+the page and worse aloud, which is the same failure mode as *Ver'anar* against *Valanar*.
+
+**Thessalar keeps the name.** It carries the most weight of the three: the archivists' genealogical records
+are what prove Elara's legitimacy, the house is cited in `Offstage.md`, and *Thessalar* is the most
+distinctive of the three forms.
+
+- **House Thessarian** — "The Field Managers," Grain-integrated, head Lady Administrator Celia — becomes
+  **House Tolvane**
+- **House Thessian** — "The Water Wardens," Water-integrated, head Engineer-Lord Marcus — becomes
+  **House Nerrick**
+
+### The coinages, against the guide
+
+**Tolvane** is Proto-Balishan in register — hard initial stop, *-vane* against the guide's listed *-onne*
+family, and a direct echo of its coinage example *Tovanne*. It suits an estate-management house.
+**Nerrick** takes the guide-listed *-ek* ending (*Brennek*, *Vrek*), and **N-initial is unoccupied in this
+cast**, which is most of why it was chosen.
+
+**Both deliberately avoid the V-initial pile** — *Vex, Valoreth, Valorian, Vorthak* are already crowded —
+and neither carries *-anar*, per the rule added to `Places/Languages of Elvandar.md` this morning. Neither
+string appeared anywhere in the repo before this change.
+
+### Blast radius
+
+**Four files, and no prose.** `houses_of_kahaan.md` (section headers, house heads, the specialisation note),
+`kahaan_political_factions.md`, **`Book 3 - Crown Jewel/book3_chapter_skeleton.md`** and **`Book 3 - Crown
+Jewel/Beat Drafts/Chapter 1 - Scars.md`** — the last two carry the ch1 procedural-objection beat, where the
+representative raising it is *"Valorian or Tolvane."* **No chapter under `Chapters/` mentions any of the
+three**, so no Royal Road regeneration was required.
+
+**Residue is intentional in two places.** The prior changelog entries keep the old names, because this file
+is append-only history and those entries record what was true when written. And the factions file's closure
+note names both old forms explicitly, so a reader arriving from an older document can find where they went.

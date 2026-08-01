@@ -255,14 +255,14 @@ Fully integrated with Grain cartel operations, representing the successful adapt
 
 ---
 
-### House Thessarian - "The Field Managers"
+### House Tolvane - "The Field Managers"
 **Motto**: *"Through Seasons, Growth"*  
 **Sigil**: Plow and sickle crossed over brown earth  
-**Current Head**: Lady Administrator Celia Thessarian  
+**Current Head**: Lady Administrator Celia Tolvane  
 **Political Alignment**: Cartel Faction (Grain Loyalists)
 
 #### Historical Overview
-House Thessarian specialized in agricultural management, working as estate supervisors and farming consultants throughout the Kaha'an region. Their expertise in crop management and agricultural logistics proved adaptable to new circumstances.
+House Tolvane specialized in agricultural management, working as estate supervisors and farming consultants throughout the Kaha'an region. Their expertise in crop management and agricultural logistics proved adaptable to new circumstances.
 
 **Pre-Rending Status**: Minor noble house with specialized agricultural expertise. Managed estates for larger houses and provided consulting services to improve crop yields.
 
@@ -338,14 +338,14 @@ Provides international expertise and connections for Water cartel operations, ma
 
 ---
 
-### House Thessian - "The Water Wardens"
+### House Nerrick - "The Water Wardens"
 **Motto**: *"Pure Flow, Pure Life"*  
 **Sigil**: Crystal spring emerging from mountain stone  
-**Current Head**: Engineer-Lord Marcus Thessian  
+**Current Head**: Engineer-Lord Marcus Nerrick  
 **Political Alignment**: Cartel Faction (Water Supporters)
 
 #### Historical Overview
-House Thessian maintained and operated the fresh water systems throughout the Kaha'an region, working as specialists in aqueduct maintenance, well management, and water purification. The Rending transformed their specialized knowledge into indispensable expertise.
+House Nerrick maintained and operated the fresh water systems throughout the Kaha'an region, working as specialists in aqueduct maintenance, well management, and water purification. The Rending transformed their specialized knowledge into indispensable expertise.
 
 **Pre-Rending Status**: Minor noble house with technical specialization. Managed water infrastructure and provided engineering expertise for municipal water systems.
 
@@ -519,7 +519,7 @@ Houses that declined or disappeared often exhibited:
 ### The Survival Strategies
 Different houses adopted different approaches to post-Rending survival:
 - **Integration**: Complete merger with cartel operations (House Valorian)
-- **Specialization**: Focus on essential technical skills (House Thessian)
+- **Specialization**: Focus on essential technical skills (House Nerrick)
 - **Coordination**: Organizing activities for faction or cartel interests (House Vex)
 - **Information**: Trading knowledge and connections for protection (House Altamiris)
 - **Resistance**: Maintaining alternative power structures (House Morthen)
