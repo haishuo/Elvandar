@@ -2926,3 +2926,28 @@ diluted (rule 3), ch4 ends in Uratha rather than Kaha'an, ch5's prose is locked,
 Lathion the morning after. **Staging it would mean a new chapter or a restructure**, so it is established
 as having happened between ch4 and ch5 and the detachment is simply present from ch5 onward. The speech is
 recorded in full in the Tor'anar file so nothing is lost if a later pass wants it.
+
+---
+
+## 2026-08-01 — Correction: the Arol Batae were already in Book 3
+
+**My error, in the entry immediately above.** It said *"neither the Tor'anar nor the Arol Batae appeared
+anywhere in Book 3"* and that the only Arol Batae mentions were references to Elara's upbringing. **The
+second half is false.**
+
+**Commander Vesk is in B3 ch2**, running the first Brass Door expedition — he negotiates passage with the
+Long Knives, holds the expedition back when Elara steps up to the Door alone, and watches the mechanism
+illuminate *"with the face of a man collecting information."* He is the Arol Batae commander
+(`Offstage.md`, "The King's Gambit"). The institution was established at the Door in the book's second
+chapter; what actually happened is that **the presence lapsed after ch2** and was never carried into the
+Lathion chapters.
+
+**The failure was grepping the label instead of the person.** Searching `Arol Batae` across Book 3 does not
+find a commander who is referred to by name. **Third instance of this pattern in one session** — the others
+being Book 7 material written without reading `book7_outline.md`, and asserting Kalden had no Kaha'an base
+without reading `kahaan_political_factions.md`. In each case the claim was an *absence*, and in each case
+it rested on not having found something rather than on having looked where it would be. **Named characters
+are how institutions appear in prose. Grep the roster, not the noun.**
+
+Corrected in the Tor'anar file. The rest of the previous entry stands: the Tor'anar were genuinely absent
+from every Book 3 document, and the ch5–ch8 drafts and skeleton now carry both institutions.

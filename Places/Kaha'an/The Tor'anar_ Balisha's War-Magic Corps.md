@@ -144,8 +144,16 @@ The two supporting mages are competent professionals, lightly characterized. Thi
 
 **Actioned 2026-08-01.** This paragraph previously ended by flagging that *"earlier drafting that had Xion
 and Elara at Lathion with no security presence at all from either institution should be revised."* **The
-flag had never been acted on** — neither institution appeared anywhere in Book 3. The Lathion chapters'
-beat drafts now carry both, and `book3_chapter_skeleton.md` matches.
+flag had been acted on for one institution and not the other.**
+
+**The Arol Batae were already there.** B3 ch2 puts **Commander Vesk** at the Brass Door running the first
+expedition — he negotiates the passage with the Long Knives, holds the expedition back when Elara steps
+up to the Door alone, and watches the mechanism light up *"with the face of a man collecting
+information."* The presence is established; it simply lapsed after ch2 and had to be carried forward into
+the Lathion chapters.
+
+**The Tor'anar were genuinely absent** from every Book 3 document. They are now in the ch5–ch8 drafts and
+the skeleton.
 
 **Friction with the Amethyst Tower delegation** is not the Tor'anar-vs-Ruby-Tower rivalry (soldier looking down on a derivative war college); it's sharper than that. An Amethyst scholar is exactly the profile of mind that caused the Rending — brilliant, theory-first, insufficiently respectful of operational consequence — now poking at a site that could do it again. He isn't there to relitigate prestige politics. He's watching people who look uncomfortably like the reason his entire institution exists, and he has the authority and the capability to act on that if it comes to it.
 
