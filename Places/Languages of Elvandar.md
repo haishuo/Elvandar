@@ -124,7 +124,11 @@ war-magic corps was originally **Ver'anar** and had to be renamed to **Tor'anar*
 against *VER* differs only in the liquid, **which is the least reliable distinction there is in speech**;
 on the page it scanned fine and aloud the two collapsed together. Names that read as distinct are not
 necessarily names that *hear* as distinct, and the V-initial group is the standing hazard in this cast —
-*Valanar, Vartonne, Valor, Valan, Velana, Vesk,* and the two separate *Vex*es.
+*Valanar, Vartonne, Valor, Valan, Velana, Vesk,* and three unrelated bearers of *Vex* — a Warrens
+operator in Book 1, and two Gunastrans (Nadira and Silas). **House Vex was renamed to Sedranne on
+2026-08-01** to thin the group; the rest remain, and the Gunastran pair are additionally off-register,
+since Old Gunastran runs to heavy clusters and *-stran / -grav / -dorn* endings rather than anything like
+this.
 
 **Two renames have already been forced by this, and the second was worse than the first.** *Ver'anar* →
 **Tor'anar** fixed a corps whose name differed from *Valanar* only in the liquid. Then *Vrek* → **Draskin**

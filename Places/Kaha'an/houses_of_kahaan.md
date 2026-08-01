@@ -6,7 +6,7 @@ The Rending transformed more than geography—it fundamentally altered the socia
 
 The current political arrangement emerged not through design but through a series of compromises and failures. The Coterie's attempt to install a Lord Regent on the Ruby Throne nearly led to civil war when none could agree which cartel should provide the regent. Their solution—leaving the throne empty—created an uneasy balance that has defined Kaha'an's politics for twenty years.
 
-This compromise explains the surprising tolerance shown to the Imperial Faction. Without a viable imperial heir, their loyalty to House Valanar represents harmless nostalgia rather than political threat. The Coterie can afford magnanimity toward those who pose no actual danger to their rule.
+This compromise explains the surprising tolerance shown to the Restorationist. Without a viable imperial heir, their loyalty to House Valanar represents harmless nostalgia rather than political threat. The Coterie can afford magnanimity toward those who pose no actual danger to their rule.
 
 This comprehensive overview examines the noble houses that shape modern Kaha'an, from the mighty cartel leaders to the politically irrelevant survivors who maintain imperial dreams.
 
@@ -18,7 +18,7 @@ This comprehensive overview examines the noble houses that shape modern Kaha'an,
 **Motto**: *"From Earth, Abundance"*  
 **Sigil**: Golden wheat sheaves on a field of brown  
 **Current Head**: Rosik Kemvimore  
-**Political Alignment**: Cartel Faction (Leadership)
+**Political Alignment**: Continuationist (Leadership)
 
 #### Historical Overview
 House Kemvimore represents one of the empire's oldest and most essential dynasties. For over six centuries, they controlled the vast agricultural estates surrounding Kaha'an, earning their informal title as "the breadbasket of the empire." Unlike many noble houses that derived power from military conquest or political marriage, the Kemvimores built their influence on the fundamental necessity of food production.
@@ -43,7 +43,7 @@ The most powerful of the four cartels, with influence extending throughout Kaha'
 **Motto**: *"By Flow We Prosper"*  
 **Sigil**: Silver anchor crossed with blue waves  
 **Current Head**: Tania Larannas  
-**Political Alignment**: Cartel Faction (Leadership)
+**Political Alignment**: Continuationist (Leadership)
 
 #### Historical Overview
 House Larannas emerged from relatively modest origins as harbor administrators during the early imperial period. Through careful management of maritime trade and gradual acquisition of water rights, they built influence that far exceeded their ancient noble credentials.
@@ -67,7 +67,7 @@ Second most powerful cartel, with absolute control over Kaha'an's water supply. 
 **Motto**: *"Strength Through Steel"*  
 **Sigil**: Iron hammer on a field of red  
 **Current Head**: Sa Ko Ren  
-**Political Alignment**: Cartel Faction (Leadership)
+**Political Alignment**: Continuationist (Leadership)
 
 #### Historical Overview
 Unlike the other cartel houses, House Ren has no pre-Rending history—it was created entirely by Sa Ko Ren after her immigration from Terinok. This makes it unique among Kaha'an's noble houses: a completely self-made dynasty built on personal competence rather than inherited advantage.
@@ -101,7 +101,7 @@ Third most powerful cartel, controlling all metal production and weapon manufact
 **Motto**: *"Honor Above All"*  
 **Sigil**: Golden dragon on royal purple  
 **Current Status**: Believed extinct (Princess Elara hidden)  
-**Political Alignment**: Imperial Faction (Theoretical Leadership)
+**Political Alignment**: Restorationist (Theoretical Leadership)
 
 #### Historical Overview
 For seven centuries, House Valanar ruled the Balishan Empire and its predecessors. Their bloodline carried not just political authority but mystical significance—the famous color-changing eyes that served as proof against pretenders, and an unclear but undeniable connection to the ancient magics that built the empire.
@@ -123,7 +123,7 @@ The false claimants who appeared over the decades inadvertently protected her by
 **Motto**: *"Words Bridge All Waters"*  
 **Sigil**: Silver dove carrying an olive branch  
 **Current Head**: Lady Cordelia Ashworth  
-**Political Alignment**: Imperial Faction
+**Political Alignment**: Restorationist
 
 #### Historical Overview
 House Ashworth served as the empire's premier diplomatic family, providing ambassadors, negotiators, and court mediators for generations. Their expertise in international relations made them invaluable during the empire's expansion and essential during its gradual decline.
@@ -135,23 +135,23 @@ House Ashworth served as the empire's premier diplomatic family, providing ambas
 **Post-Rending Transformation**: Under Lady Cordelia's leadership, House Ashworth adapted by maintaining diplomatic contacts with other successor states while quietly supporting imperial restoration.
 
 #### Notable Members
-- **Lady Cordelia Ashworth**: Widowed matriarch whose diplomatic skills provide the Imperial Faction with international connections and political sophistication
+- **Lady Cordelia Ashworth**: Widowed matriarch whose diplomatic skills provide the Restorationist with international connections and political sophistication
 
 #### Current Status
-Significantly weakened but politically valuable. Serves as the primary interface between Imperial Faction and foreign powers, particularly other successor states with their own imperial pretensions.
+Significantly weakened but politically valuable. Serves as the primary interface between Restorationist and foreign powers, particularly other successor states with their own imperial pretensions.
 
 ---
 
 ## The Survivor Houses: Adaptations and Transformations
 
-### House Vex - "The Agricultural Administrators"
+### House Sedranne - "The Agricultural Administrators"
 **Motto**: *"Order from Chaos"*  
 **Sigil**: Green oak tree with visible roots  
-**Current Head**: Lord Commander Marcus Vex  
-**Political Alignment**: Imperial Faction
+**Current Head**: Lord Steward Emrick Sedranne  
+**Political Alignment**: Restorationist
 
 #### Historical Overview
-House Vex served as agricultural administrators for the imperial government, managing the complex logistics of feeding the empire's population. While less prestigious than houses like Kemvimore, they possessed detailed knowledge of agricultural systems and bureaucratic processes.
+House Sedranne served as agricultural administrators for the imperial government, managing the complex logistics of feeding the empire's population. While less prestigious than houses like Kemvimore, they possessed detailed knowledge of agricultural systems and bureaucratic processes.
 
 **Pre-Rending Status**: Minor noble house with significant administrative responsibilities. Managed imperial granaries, coordinated harvest schedules, and maintained detailed records of agricultural production throughout the region.
 
@@ -160,15 +160,15 @@ House Vex served as agricultural administrators for the imperial government, man
 **Post-Rending Transformation**: Adapted from agricultural administration to general organizational work, providing bureaucratic expertise to various factions while maintaining quiet imperial loyalties.
 
 #### Current Status
-Serves as informal coordinator for the Imperial Faction, using organizational skills developed through centuries of agricultural administration to maintain networks of imperial sympathizers.
+Serves as informal coordinator for the Restorationist, using organizational skills developed through centuries of agricultural administration to maintain networks of imperial sympathizers.
 
 ---
 
 ### House Altamiris - "The Cultural Keepers"
 **Motto**: *"Memory Preserves All"*  
 **Sigil**: Golden harp surrounded by silver stars  
-**Current Head**: Maestro Elena Altamiris  
-**Political Alignment**: Imperial Faction
+**Current Head**: Maestro Carenza Altamiris  
+**Political Alignment**: Restorationist
 
 #### Historical Overview
 House Altamiris provided court musicians, chroniclers, and cultural advisors to the imperial family. Though never politically powerful in the traditional sense, they maintained crucial roles in preserving imperial culture and ceremony.
@@ -180,10 +180,10 @@ House Altamiris provided court musicians, chroniclers, and cultural advisors to 
 **Post-Rending Transformation**: Became information brokers and cultural preservationists, maintaining connections throughout Kaha'an's social structure while secretly preparing for eventual imperial restoration.
 
 #### Notable Members
-- **Maestro Elena Altamiris**: Current head who transformed the house's musical talents into information-gathering networks
+- **Maestro Carenza Altamiris**: Current head who transformed the house's musical talents into information-gathering networks
 
 #### Current Status
-Provides the Imperial Faction with intelligence and cultural legitimacy, maintaining imperial traditions while gathering information about cartel activities and political developments.
+Provides the Restorationist with intelligence and cultural legitimacy, maintaining imperial traditions while gathering information about cartel activities and political developments.
 
 ---
 
@@ -191,7 +191,7 @@ Provides the Imperial Faction with intelligence and cultural legitimacy, maintai
 **Motto**: *"Truth Endures"*  
 **Sigil**: Open book beneath the imperial crown  
 **Current Head**: Archiviste Damien Thessalar  
-**Political Alignment**: Imperial Faction
+**Political Alignment**: Restorationist
 
 #### Historical Overview
 House Thessalar maintained the imperial archives, preserving genealogical records, legal precedents, and historical documentation that legitimized imperial rule. Their meticulous record-keeping made them invaluable to imperial administration.
@@ -206,7 +206,7 @@ House Thessalar maintained the imperial archives, preserving genealogical record
 - **Archiviste Damien Thessalar**: Master of imperial genealogy whose records could prove or disprove any claim to imperial legitimacy
 
 #### Current Status
-Provides the Imperial Faction with legal and genealogical expertise, maintaining the documentary foundation for legitimate imperial restoration.
+Provides the Restorationist with legal and genealogical expertise, maintaining the documentary foundation for legitimate imperial restoration.
 
 ---
 
@@ -214,7 +214,7 @@ Provides the Imperial Faction with legal and genealogical expertise, maintaining
 **Motto**: *"Shield and Service"*  
 **Sigil**: Crossed silver swords beneath a golden crown  
 **Current Head**: Captain-General Lyanna Valoreth  
-**Political Alignment**: Imperial Faction
+**Political Alignment**: Restorationist
 
 #### Historical Overview
 House Valoreth provided officers and elite guards for the imperial family. While not part of the specialized Arol Batae, they served in various protective capacities and maintained strong military traditions.
@@ -226,10 +226,10 @@ House Valoreth provided officers and elite guards for the imperial family. While
 **Post-Rending Transformation**: Adapted military skills to provide discrete security services while maintaining readiness for eventual imperial restoration.
 
 #### Notable Members
-- **Captain-General Lyanna Valoreth**: Former imperial guard who now organizes security for Imperial Faction meetings and activities
+- **Captain-General Lyanna Valoreth**: Former imperial guard who now organizes security for Restorationist meetings and activities
 
 #### Current Status
-Provides the Imperial Faction with military expertise and security, maintaining combat readiness for potential future conflicts.
+Provides the Restorationist with military expertise and security, maintaining combat readiness for potential future conflicts.
 
 ---
 
@@ -239,7 +239,7 @@ Provides the Imperial Faction with military expertise and security, maintaining 
 **Motto**: *"Prosperity Through Partnership"*  
 **Sigil**: Golden scales balanced above wheat stalks  
 **Current Head**: Lord Merchant Tobias Valorian  
-**Political Alignment**: Cartel Faction (Grain Loyalists)
+**Political Alignment**: Continuationist (Grain Loyalists)
 
 #### Historical Overview
 House Valorian operated as grain merchants during the imperial period, working closely with House Kemvimore's agricultural production. When The Rending destroyed traditional farming, they adapted by fully integrating with Kemvimore operations.
@@ -259,7 +259,7 @@ Fully integrated with Grain cartel operations, representing the successful adapt
 **Motto**: *"Through Seasons, Growth"*  
 **Sigil**: Plow and sickle crossed over brown earth  
 **Current Head**: Lady Administrator Celia Tolvane  
-**Political Alignment**: Cartel Faction (Grain Loyalists)
+**Political Alignment**: Continuationist (Grain Loyalists)
 
 #### Historical Overview
 House Tolvane specialized in agricultural management, working as estate supervisors and farming consultants throughout the Kaha'an region. Their expertise in crop management and agricultural logistics proved adaptable to new circumstances.
@@ -278,8 +278,8 @@ Serves as administrative backbone of Grain cartel operations, applying agricultu
 ### House Malthorn - "The Provision Masters"
 **Motto**: *"From Raw to Ready"*  
 **Sigil**: Mill wheel turning above flowing water  
-**Current Head**: Master Processor Guild Malthorn  
-**Political Alignment**: Cartel Faction (Grain Loyalists)
+**Current Head**: Master Processor Corwin Malthorn  
+**Political Alignment**: Continuationist (Grain Loyalists)
 
 #### Historical Overview
 House Malthorn operated mills, processing facilities, and food preparation operations throughout the Kaha'an region. Their expertise in transforming raw agricultural products into finished goods made them valuable partners for agricultural producers.
@@ -299,7 +299,7 @@ Integral to Grain cartel operations, providing essential food processing service
 **Motto**: *"By Tide and Trade"*  
 **Sigil**: Blue ship sailing between golden coins  
 **Current Head**: Lord Maritime Aldric Darfi  
-**Political Alignment**: Cartel Faction (Water Supporters)
+**Political Alignment**: Continuationist (Water Supporters)
 
 #### Historical Overview
 House Darfi operated as maritime merchants and shipping coordinators, working closely with harbor operations but maintaining independence from House Larannas. Their rise to prominence came through careful political maneuvering after The Rending.
@@ -322,7 +322,7 @@ Strong supporters of the Water cartel with significant commercial influence, rep
 **Motto**: *"Connection Brings Wealth"*  
 **Sigil**: Lighthouse beam reaching across dark waters  
 **Current Head**: Lady Navigator Seraphina Corvallen  
-**Political Alignment**: Cartel Faction (Water Supporters)
+**Political Alignment**: Continuationist (Water Supporters)
 
 #### Historical Overview
 House Corvallen specialized in coordinating maritime trade between Kaha'an and other regions. Their knowledge of shipping routes, foreign markets, and international trade regulations made them valuable partners for the emerging Water cartel.
@@ -342,7 +342,7 @@ Provides international expertise and connections for Water cartel operations, ma
 **Motto**: *"Pure Flow, Pure Life"*  
 **Sigil**: Crystal spring emerging from mountain stone  
 **Current Head**: Engineer-Lord Marcus Nerrick  
-**Political Alignment**: Cartel Faction (Water Supporters)
+**Political Alignment**: Continuationist (Water Supporters)
 
 #### Historical Overview
 House Nerrick maintained and operated the fresh water systems throughout the Kaha'an region, working as specialists in aqueduct maintenance, well management, and water purification. The Rending transformed their specialized knowledge into indispensable expertise.
@@ -361,8 +361,8 @@ Essential technical partners for the Water cartel, managing the engineering chal
 ### House Issamil - "The Craft Coordinators"
 **Motto**: *"Skill Shapes Steel"*  
 **Sigil**: Crossed hammer and chisel over copper anvil  
-**Current Head**: Master-Smith Elena Issamil  
-**Political Alignment**: Cartel Faction (Iron Alliance - Survivalist)
+**Current Head**: Master-Smith Rhenna Issamil  
+**Political Alignment**: Continuationist (Iron Alliance - Survivalist)
 
 #### Historical Overview
 House Issamil operated as coordinators and quality controllers for various metalworking operations throughout the Kaha'an region. Their expertise in managing craft production made them valuable partners for Sa Ko Ren's expanding Iron operations.
@@ -385,7 +385,7 @@ Aligned with Iron cartel but maintains some independence, representing houses th
 **Motto**: *"Edge and Honor"*  
 **Sigil**: Two crossed swords point-up beneath a silver star  
 **Current Head**: Blademaster Roderick Belgrand  
-**Political Alignment**: Cartel Faction (Iron Alliance)
+**Political Alignment**: Continuationist (Iron Alliance)
 
 #### Historical Overview
 House Belgrand specialized in weapon production and maintained armories for imperial forces. Their expertise in military equipment made them natural partners for Sa Ko Ren's security-focused operations.
@@ -405,7 +405,7 @@ Essential military suppliers for Iron cartel operations, providing the weapons a
 **Motto**: *"Function Above Form"*  
 **Sigil**: Gear wheel surrounded by various hand tools  
 **Current Head**: Craftmaster Donnel Vorthak  
-**Political Alignment**: Cartel Faction (Iron Alliance)
+**Political Alignment**: Continuationist (Iron Alliance)
 
 #### Historical Overview
 House Vorthak produced tools, hardware, and mechanical devices for various industries throughout the Kaha'an region. Their practical focus on functional equipment complemented Sa Ko Ren's systematic approach to metalworking.
@@ -427,7 +427,7 @@ Manufacturing backbone of Iron cartel operations, producing the tools and equipm
 **Motto**: *"Blood Remembers"*  
 **Sigil**: Silver tree with golden roots  
 **Current Head**: Lord Claimant Aldwin Morthen  
-**Political Alignment**: Secessionist Fringe
+**Political Alignment**: Erulian Claimant
 
 #### Historical Overview
 House Morthen represents a distant branch of House Valanar, tracing their lineage back to a junior son of an imperial prince from several centuries ago. While their blood connection to the imperial family is genuine, it's so distant as to be politically meaningless under normal circumstances.
@@ -442,7 +442,7 @@ House Morthen represents a distant branch of House Valanar, tracing their lineag
 - **Lord Claimant Aldwin Morthen**: Current head who styles himself as a supporter of "legitimate" imperial restoration under Erulian leadership
 
 #### Current Status
-Primary noble house leadership within the Secessionist Fringe, providing genealogical arguments for Erulian claims while organizing covert support activities.
+Primary noble house leadership within the Erulian Claimant, providing genealogical arguments for Erulian claims while organizing covert support activities.
 
 ---
 
@@ -484,7 +484,7 @@ House Thornwood specialized in landscape design and maintained the beautiful gar
 
 ### House Whitmore
 **Status**: Impoverished minor house maintaining nominal noble recognition  
-**Political Alignment**: Nominally Imperial, practically irrelevant
+**Political Alignment**: Nominally Restorationist, practically irrelevant
 
 ### House Greystone  
 **Status**: Merchants house seeking noble recognition through wealth  
@@ -520,7 +520,7 @@ Houses that declined or disappeared often exhibited:
 Different houses adopted different approaches to post-Rending survival:
 - **Integration**: Complete merger with cartel operations (House Valorian)
 - **Specialization**: Focus on essential technical skills (House Nerrick)
-- **Coordination**: Organizing activities for faction or cartel interests (House Vex)
+- **Coordination**: Organizing activities for faction or cartel interests (House Sedranne)
 - **Information**: Trading knowledge and connections for protection (House Altamiris)
 - **Resistance**: Maintaining alternative power structures (House Morthen)
 
@@ -536,7 +536,7 @@ This transformation reflects Kaha'an's broader evolution from imperial capital t
 
 Yet beneath this pragmatic surface, the old questions of legitimacy and bloodline remain dormant rather than dead. The current system depends entirely on the absence of a viable imperial heir—an assumption reinforced by twenty years of false claimants who lacked the distinctive royal traits.
 
-The eventual emergence of Princess Elara Valanar will transform the harmless Imperial Faction into an existential threat to cartel rule, but the psychological impact will be even more devastating than the political one. She doesn't just represent the return of imperial legitimacy—she represents the shattering of a certainty that everyone, including her own supporters, had learned to accept. The Coterie's tolerance of imperial nostalgia was based on the entirely rational belief, supported by decades of evidence, that no true heir survived.
+The eventual emergence of Princess Elara Valanar will transform the harmless Restorationist into an existential threat to cartel rule, but the psychological impact will be even more devastating than the political one. She doesn't just represent the return of imperial legitimacy—she represents the shattering of a certainty that everyone, including her own supporters, had learned to accept. The Coterie's tolerance of imperial nostalgia was based on the entirely rational belief, supported by decades of evidence, that no true heir survived.
 
 When that foundational assumption proves catastrophically wrong, it will destroy more than political arrangements—it will shatter the psychological framework that made those arrangements seem stable and permanent.
 

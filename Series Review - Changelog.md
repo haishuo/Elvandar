@@ -3118,3 +3118,49 @@ other monosyllable already in the cast.**
 **One thing deliberately not changed:** the two prior changelog entries that name *Vrek* are historical and
 were reverted after a blanket pass caught them. One of them would have become actively false — it cited
 *Vrek* as an example of the *-ek* ending, which *Draskin* does not have.
+
+---
+
+## 2026-08-01 — House Vex renamed; the Elenas and the Malthorn head fixed
+
+**Author's calls, following the Vesk/Vrek work.** All in `Places/Kaha'an/houses_of_kahaan.md` unless noted.
+
+**House Vex → House Sedranne**, and its head **Lord Commander Marcus Vex → Lord Steward Emrick Sedranne.**
+The house had no prose exposure. Two problems went with it: the string collided with a Warrens operator in
+Book 1's prose, and **"Lord Commander … Vex" sat directly on "Commander Vesk"** of the Arol Batae, who
+appears in Book 1's climax — the same shape we had just spent a rename fixing. **The title moved too**:
+*Lord Commander* was a strange rank for a house of agricultural administrators, and *Lord Steward* is what
+the entry describes. Also updated in `kahaan_political_factions.md`.
+
+**Both Elenas are gone — author's ruling, and it is broader than a duplicate.** *Elena* is too close to
+**Elara**, who is a lead. Maestro Elena Altamiris → **Carenza Altamiris**; Master-Smith Elena Issamil →
+**Rhenna Issamil**. **No character in this series should be named Elena.**
+
+**"Master Processor Guild Malthorn" was a malformed entry, not a mystery.** Every other house head is
+*title + given name + surname*; this one had **"Guild" sitting where the given name goes.** The house
+itself is coherent — millers and food processors, Grain-integrated. Head is now **Master Processor Corwin
+Malthorn**.
+
+**And the faction labels were stale.** The houses file still ran on *Cartel Faction / Imperial Faction /
+Secessionist Fringe*, which yesterday's rebuild of `kahaan_political_factions.md` replaced with
+**Continuationist / Restorationist / Erulian Claimant**. Eighteen entries updated; the sub-labels
+(*Grain Loyalists*, *Iron Alliance*, and the several bespoke ones) are unchanged.
+
+### Not fixed, and needing an author decision
+
+**There are still three unrelated Vexes**, and renaming the house only removed the fourth:
+
+- **Vex**, the Warrens operator of Book 1's eastern quarter — **in finished prose** (ch16, ch17, ch18),
+  on Farleen's sheet, and introduced as *"Calls himself Vex,"* which flags it in-world as an alias. **Keep
+  it.** A short hard name is right for what he is.
+- **Nadira Vex**, chair of Gunastran's Industrial Consortium and **the POV character of B3 ch12**.
+- **Field Commander Silas Vex**, Gunastran, in `book4_outline.md` — **which reproduces the
+  Commander/Commander collision with Vesk that the House Vex rename just removed.**
+
+**The two Gunastrans may be one family, which would be fine.** What is not fine is the register: Old
+Gunastran runs to heavy consonant clusters and *-stran / -grav / -dorn* endings, and *Vex* is listed in
+the etymology table as **Proto-Balishan**. So a Gunastran industrial dynasty called Vex is off-register on
+its own terms, independent of the collision.
+
+**Also flagged, not touched:** *Aldwin Morthen* and *Aldric Darfi* share a stem, and *Marcus Nerrick*
+remains after *Marcus Vex* left.

@@ -107,7 +107,7 @@ They point at property confiscated after the Rending, at hereditary offices, at 
 allowed to lapse — and argue these are abuses of a trust, not the exercise of a mandate.
 
 **Base**
-- Dispossessed old houses — **Vex** (informal coordination), **Altamiris** (former court musicians turned
+- Dispossessed old houses — **Sedranne** (informal coordination), **Altamiris** (former court musicians turned
   information brokers), **Lady Cordelia Ashworth** (widowed diplomat, contact with foreign powers)
 - **Thessalar**, former imperial archivists, who maintain the genealogical records
 - **Valoreth**, descended from the old palace guard families
