@@ -2341,3 +2341,68 @@ independently; the note makes the pairing explicit.
 his sheet (*"And he never learns any of it… Do not give him a moment of realisation about either"*) and is
 unchanged — it was re-raised as an open question and turned out to be settled, so the ruling stands as
 written rather than being restated.
+
+---
+
+## 2026-07-31 — Book 7: Rosik's constraint set, and the clock he never identifies
+
+**Author's ruling.** The plan section already reconstructed *what* Rosik did; it did not say what boxed
+him in, and a plan with no constraints reads as a preference rather than the only move available. Four
+things folded into `Book 7 - Last Debts/book7_outline.md`, with pointers from
+`People/Rosik Kemvimore.md` and `People/Kess Ashwood.md`.
+
+**1. Kess Ashwood is the obstacle, and the apparatus exists to remove her.** The lever section had listed
+three behavioural responses as peers — Tiberian rides, Kess follows, the Arol Batae detach. She is now the
+objective and the other two are the handle and the bonus. **He has no purchase on her of any kind**: no
+office, no orders, nothing wanted, no politics — her sheet puts Merchant last "by a margin almost
+impossible to overstate," so she cannot be bought, misdirected or reassigned. **And she would detect him**,
+by scent, which the kidnapping account establishes works on ground she has never walked. He does not
+survive four seconds with her and is far too good at assessing capability not to know it. **So he never
+aims at her.** He aims at the one man whose movement she follows.
+
+**The pairing under it is exact and neither of them ever learns of it.** Her sheet gives her tactical
+fluency and strategic innocence — instant on a room's threats, blind to its politics. **She is unbeatable
+at the thing he would have to survive and blind to the thing he actually does**, and he beats her by
+working only in the register she does not read.
+
+**2. He is out of money, and that is what selects the patsy.** Xion took the shadow funds in Book 2; he
+cannot raise a company or rent a prince, so every version of the plan that runs on money was closed before
+he started. **What survived the confiscation is accuracy about people** — the one holding that could not
+be taken. Hence Kalden specifically: **he does not need to be paid, recruited or convinced. He needs to be
+agreed with.** A mercenary can be outbid and an ally might notice; nobody is holding Kalden, so nobody can
+turn him.
+
+**3. The Green Cities are the clock.** Nothing previously answered *why this year* — he waited twenty
+years and waiting had never cost him anything. His base is the Warrens, which his sheet establishes he
+came out of, and which is the one asset that was never House Kemvimore's and so survived Book 2 intact.
+**It is being emptied while he works.** Within a couple of years there is no base and no information, so
+the network gets spent rather than husbanded, there is no fallback, and **aborting in the corridor stops
+being the reasonable option it looks like** — withdrawing does not preserve the attempt, it ends it.
+
+**Which also makes Act I do double duty.** The relocation scene is Tiberian and Melina's finest work and
+simultaneously the thing forcing Rosik's hand, and the connection is drawn nowhere in the book. Act I now
+carries a note to play the scene straight.
+
+**4. He experiences it as sources drying up and never diagnoses it — author's ruling.** Names that stop
+answering, prices paid twice for half of what they used to buy. He reads attrition, feels pressure, and
+never traces it, **because nobody is doing anything to him and intention is the only thing he can read.**
+**It is the same blindness that kills him, arriving early in a form nobody would recognise as a warning.**
+Flagged in three places as: do not give him a line about it, and no other character says it either.
+
+**And the network spend is reframed from sacrifice to liquidation.** It was going to be worth nothing
+within a year or two regardless, so this is **a man cashing out a depreciating holding at the last moment
+it can still be sold** — the most Merchant act in the book, thirty years of accumulation converted in a
+single trade for one purchase. **The psychological reason he walks into the corridor is still the real
+one** and the operational floor sits under it; both run the same direction.
+
+### Two continuity slips found and fixed in passing
+
+Both predate the standardisation of Kalden's death location and were missed by it.
+
+**`People/Rosik Kemvimore.md`** had *"Kalden's army arrives at Kaha'an… dies of a stroke before the battle
+even begins."* Corrected to the Golden Path a hundred miles east, two minutes in, without drawing a sword,
+mercenaries looting the body.
+
+**`People/Kalden Erulius.md`** opened The End of Kalden Erulius with the same arrival. Corrected, and the
+correction earns its place: **he never gets within sight of the walls he spent half his life marching
+toward, and does not know it.**

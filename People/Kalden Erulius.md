@@ -212,7 +212,7 @@ Kalden, of course, sees none of this. He hears what Rosik tells him and believes
 
 ## The End of Kalden Erulius
 
-Kalden's mercenary army arrives at Kaha'an. This is the moment he has been building toward — not for months but for years, for the entire second half of his life. The moment when the Almost-Heir finally claims what was stolen from him.
+Kalden's mercenary army never arrives at Kaha'an. Tiberian rides out to meet it and the two forces close on the Golden Path about a hundred miles east of the city — **he does not get within sight of the walls he has been marching toward for the second half of his life.** He does not know that, either. As far as Kalden is concerned this is the moment: the Almost-Heir finally claiming what was stolen from him.
 
 He does not find Xion.
 

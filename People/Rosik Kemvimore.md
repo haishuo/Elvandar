@@ -368,13 +368,21 @@ But Rosik's real plan has nothing to do with Kalden's war.
 
 The war is the distraction. Kalden's mercenary army — funded by mortgaging the last scraps of the Erulian Principality — exists to pull Tiberian Valanar and the kingdom's military attention outward. To create noise, chaos, threat. To put Balisha's defenders where Rosik needs them: anywhere except between him and Xion.
 
+**And it is aimed at one person in particular.** Full reasoning at `Book 7 - Last Debts/book7_outline.md` — "The lever," "The clock," "Why Kalden, and why Kalden is free." The three things this sheet needs to carry:
+
+**Kess Ashwood is the obstacle, not the Arol Batae.** A guard rotation can be modelled and a palace can be thinned; a pit-bred werewolf who tracks by scent and takes no orders cannot. He does not survive a corridor she is in, and he knows it. **She is also the only person in the city he has no lever on at all** — no office, no ambition, no politics, nothing to buy. So he does not aim at her. He aims at Tiberian, who is the only thing that moves her.
+
+**He is out of money, and that is what selects Kalden.** Xion took the shadow funds in Book 2; he cannot raise a company or rent a prince. What survived the confiscation is accuracy about people, and **Kalden does not need to be paid — he needs to be agreed with.** A mercenary can be outbid. Nobody is holding Kalden, so nobody can turn him.
+
+**And there is a clock, which he feels without ever identifying.** His base is the Warrens — the district he came out of, and the one asset that was never House Kemvimore's and so was never taken with the rest. It is being emptied into the Green Cities while he works. What reaches him is only the symptom: sources drying up, names that no longer answer, prices paid twice for half of what they used to buy. **He never traces it, because there is no intention in it to read.** Do not give him a line diagnosing it.
+
 Because the target was always Xion. From the moment Rosik walked out of Balisha in the dark, the only thing that mattered was getting back to the son who destroyed him. Not to reclaim the Grain cartel. Not to restore House Kemvimore. Not to prove he was the best administrator in the room. Just to kill the boy who turned his own methods against him and took everything — coalition, wealth, daughter, name.
 
 This is where the Competitor drive reveals its final, ugliest form. Rosik does not want to *win* anymore. He wants to *end* the person who proved he could lose. The distinction matters. Winning implies a future — something built on the victory, some next problem to solve. Rosik has no future. He has a target.
 
 ### The Last Mission
 
-Kalden's army arrives at Kaha'an. Kalden finds Tiberian, not Xion. Kalden dies of a stroke before the battle even begins. The mercenaries disband. The distraction collapses.
+Kalden never reaches Kaha'an. The two forces meet on the Golden Path about a hundred miles east of the city, because two armies closing on the only desert road eat the gap between them. Kalden finds Tiberian, not Xion. He dies of a massive stroke roughly two minutes in, without drawing a sword. The mercenaries loot the body and disband. The distraction collapses inside an hour.
 
 Rosik attempts the assassination anyway.
 

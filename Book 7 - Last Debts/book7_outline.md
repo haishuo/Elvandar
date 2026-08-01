@@ -94,6 +94,35 @@ anything he had grounds to model.**
 sound, and the exact point at which it came apart. Distances and timings are in the geography section
 above.*
 
+### The clock, which is why it is this year and not another one
+
+**He waited twenty years and waiting never once cost him anything. Now it does.** The relocation to the
+Green Cities is under way and accelerating — see Act I, where the reader meets it as what Tiberian and
+Melina have built. **From Rosik's side of the ledger it is a demolition of his only remaining asset.**
+
+His base in this city is the Warrens, and it always was: his sheet has him raised in the pre-Rending
+slums that the district grew out of, by the woman who would become Mistress of the Long Knives. **It is
+the one part of Kaha'an that never belonged to House Kemvimore**, which is precisely why it was still
+there after Book 2 took everything that did. Every contact, every debt, every ear he can still call on
+lives in tunnels that are being emptied on purpose, block by block, by people who have never heard of
+him.
+
+**Within a couple of years there is no base to run an operation from and no information to run it on.**
+Whatever he is going to do, he does it now or not at all — and that single fact is doing more structural
+work than anything else in this section. It is why the network gets spent rather than husbanded, why
+there is no fallback, and why aborting in the corridor is not the reasonable option it looks like.
+
+**He does not diagnose any of this, and must never be written diagnosing it.** What he experiences is
+sources drying up. A name that no longer answers. A tunnel that used to be worth something and is now
+three families and a dog. A price that has to be paid twice to get half of what it used to buy. He reads
+it as attrition and it registers as pressure, and he never once traces it to a humanitarian
+reconstruction programme run by his son's children — **because nobody is doing anything to him.** There
+is no intention in it anywhere, and intention is the only thing he knows how to read. **It is the same
+blindness that eventually kills him, arriving early and in a form nobody would recognise as a warning.**
+
+**Do not give him a line about it.** He never says the Green Cities are ruining him, and no other
+character says it either. The reader is welcome to notice; nobody in the book does.
+
 ### The problem he had to solve
 
 He wants one thing. Xion dead. Everything else — the cartel, the House, the reputation — belonged to a
@@ -104,19 +133,69 @@ stands between them is not Xion; it is the apparatus around him — the Arol Bat
 commands them, and a daughter who reads patterns for a living. **So the problem is not how to kill him.
 It is how to make the apparatus face the other way.**
 
+**He cannot simply go.** The Arol Batae are a standing guard on a hardened palace, and he is fifty-eight
+— trained to a standard nobody in that building can match and no longer the man who was trained to it.
+Alone, unaided, against an alerted perimeter, it is a death sentence that does not even reach Xion.
+
+**And underneath the Arol Batae there is Kess Ashwood, who is the actual problem.** Everything else in
+the apparatus can be modelled, thinned, or timed. She cannot. She is dual-natured, pit-bred, and she
+**tracks by scent** — she found Tiberian across half-built cities she had never walked (`Offstage.md`,
+"The Taking of the Tiger Prince"). A stranger moving wrong through a corridor is not a puzzle she has to
+solve; it is the one thing she reads instantly. And if she reads him, the fight is not close. **Rosik
+does not survive four seconds with Kess Ashwood**, and he is far too good at assessing capability not to
+know it.
+
+**She is also the one person in Kaha'an he has no purchase on whatsoever.** She holds no office, takes
+no orders, wants nothing, and has no politics — her sheet puts Merchant dead last by a margin it calls
+almost impossible to overstate. **She cannot be bought, misdirected, reassigned, or reasoned with**, and
+there is no lever anywhere in Rosik's architecture that touches her.
+
+**So long as Tiberian is in the city, Kess is in the city.** That is the whole obstacle, and it is why
+the answer has to be a war rather than a bribe.
+
 ### The lever
 
-Not a war. A war is the means. What he needs is a **behavioural response in three specific people**, and
-the years of preparation go into modelling personalities rather than walls:
+Not a war. A war is the means. And it is not aimed at three people equally — **the device exists to
+remove Kess, and Tiberian is the handle by which she is moved.** She does not respond to threats against
+Balisha; her Caretaker is pack-bonded rather than civilizational, and the fate of a state is not
+something she is built to answer. She responds to **Tiberian going somewhere.** So Rosik does not aim at
+her at all. He aims at the one man whose movement she follows, and she is carried out of the city as a
+consequence of somebody else's character:
 
 - **Tiberian will not let a foreign mercenary army entrench on Balishan soil.** He rides out. This is
   character, and it is not close to a coin-flip.
-- **Kess goes where Tiberian goes.**
-- **Arol Batae deployment logic** sends a substantial contingent with them.
+- **Kess goes where Tiberian goes.** *This is the point of the whole apparatus.*
+- **Arol Batae deployment logic** sends a substantial contingent with them — the thinning of the palace
+  guard is the bonus, not the objective.
+
+**The most dangerous person in the city is moved entirely at second hand, and Rosik never has to touch
+her.** Note the pairing, because it is exact and neither of them ever learns of it: her sheet gives her
+**tactical fluency and strategic innocence** — she reads a room for combat in seconds and does not read
+it for politics. She is unbeatable at the thing he would have to survive and blind to the thing he
+actually does. **He beats her by working exclusively in the register she does not read.**
 
 Kalden is sized precisely to produce that: **enough threat to require a field engagement, not so much
 that the city shuts itself behind its walls.** Too small and Tiberian sends a subordinate. Too large and
 everyone withdraws inside the perimeter, which is the exact opposite of what Rosik needs.
+
+### Why Kalden, and why Kalden is free
+
+**He cannot afford anything else, and that constraint is what selects the patsy.** Xion took the shadow
+funds and the coalition in Book 2; the man who walked out of Kaha'an in the dark could not raise a
+mercenary company of his own and could not pay a foreign prince to raise one for him. Every version of
+this plan that runs on money was closed to him before he started.
+
+**What he has left is accuracy about people, which is the one holding that could not be confiscated.**
+So he goes looking for a war he does not have to buy — and Kalden Erulius does not need to be paid,
+recruited, or convinced of anything. **He needs to be agreed with.** Rosik has only to say, accurately
+and in the right order, things the man already believes: that he was cheated, that the throne is owed
+him, that Xion Valanar is the author of his ruin, and that a pincer of siege and subversion takes the
+city. See `Series Review - Master List.md` §2 — Rosik knew from the first day the attack was doomed and
+**told him the opposite**, assured him of a glorious victory, and Kalden cannot process a suspicion of
+that kind for long enough to finish forming it.
+
+**A mercenary can be outbid and an ally might notice. Kalden costs nothing and asks nothing**, and there
+is no point at which he can be turned, because nobody is holding him.
 
 ### How he estimated the window — and this is the part that matters
 
@@ -161,6 +240,16 @@ he is inside.**
 He accepts that because **he needs one entry, one route, one window, once.** Operational support is for
 people who intend to survive, or to do it twice. He intends neither.
 
+**And it is not a sacrifice. It is a liquidation, and that distinction is the character.** The network
+was going to be worth nothing within a year or two whether he spent it or not — see the clock above. So
+this is not a man burning something precious for a cause; it is **a man cashing out a depreciating
+holding at the last moment it can still be sold**, which is the most Merchant thing he does in the
+entire book and the last transaction of a life made of them. Thirty years of accumulation, converted in
+a single trade, for one purchase.
+
+**He would not put it that way and does not need to.** The reasoning is available to him in full and he
+simply does not narrate it. Write the decision as obvious to him, because it is.
+
 ---
 
 ### What actually happened
@@ -186,9 +275,16 @@ He stopped in a corridor he had memorised, ran the numbers, and **got no answer 
 happened beyond the walls; he could not know how, or when, or what, because he had nothing left to tell
 him.
 
-**A strategic thinker aborts.** He went forward, because stopping would have meant sitting still with the
-loss, and avoiding exactly that is what every system he ever built was for. **He turned a corner that
-should have been clear for another twenty minutes.**
+**A strategic thinker aborts** — and aborting is only reasonable if there is something to abort *to*.
+There is not. **The network that bought this window no longer exists and the district that produced it is
+being emptied**, so there is no second model, no second war to arrange, and no second year in which to
+arrange it. Withdrawing does not preserve the attempt; it ends it, and leaves him alive to know that.
+
+That is the operational floor under the decision, and **the psychological reason is still the real one**
+— stopping would have meant sitting still with the loss, and avoiding exactly that is what every system
+he ever built was for. Both are true and they run in the same direction. Write the second; the first is
+why the second is not merely stubbornness. **He turned a corner that should have been clear for another
+twenty minutes.**
 
 ### What actually beat him
 
@@ -215,6 +311,8 @@ model had no term for any of them.**
 ### The World After the Warrens
 
 Before the storm, the reader sees what Tiberian and Melina have built. The Warrens relocation is underway — messy, ongoing, but real. People are moving from dying tunnels to green cities on reclaimed land. It's the largest humanitarian operation in Elvandar's history, and it's working.
+
+**It is also the clock on Rosik's plan, and this scene should be written without a hint of that.** The tunnels being emptied here are the ones his network lives in; the relocation is why the assassination happens in this year rather than another. See "The clock" in the plan section above. **Nobody on the page knows it, including Rosik**, and the connection is never drawn anywhere in the book — the scene plays as exactly what it is, which is a good thing being done well. The reader may put it together later or never.
 
 **Kai** is here, as he always is — at Tiberian's side, handling the operational machinery of the relocation the way he handled the logistics at Silaris. Steady, dry, competent. The reader sees a partnership that has deepened through two crises.
 
