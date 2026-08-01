@@ -544,3 +544,139 @@ every previous time, in a smaller room.
 unless a later pass dramatises it. Rosik does not think about it again. Kalden does not think about it
 again either — by the following week the dismissal has been absorbed into the persecution, and Salvian has
 become one more person who betrayed him at the end.
+
+---
+
+## The Forming of the Coterie
+
+**When:** The first several years after the Rending, ~20 years before Book 1. The Ronas sequence is later,
+but still well inside that span.
+**Who:** Rosik Kemvimore (Grain), Tania Larannas (Water), Sa Ko Ren (Iron), Ronas Dermir (Slavers).
+
+**Why this is here.** Almost every piece of this was already canon and no document held more than a
+fragment: Rosik's sheet has the three-way proposal, Sa Ko's has the windfall and the deadlock, Ronas's has
+the strike, the Ver'anar file has the fiction, and Book 2 ch7 has the legal machinery in Melina's mouth.
+**Nobody had ever written down the sequence**, which meant the single most consequential political
+arrangement in the series existed only as five people's separate recollections of it. **The one piece that
+was genuinely missing is the mechanism** — *missing, not dead* — and it is the piece the whole structure
+rests on.
+
+---
+
+### One: the grab, and the standoff
+
+Rosik's account of the post-Rending months is that he saved the city, and it is true. What his sheet does
+not say out loud is what he expected in return. **He moved for unilateral control**, on the entirely
+sincere basis that he was the only person in Kaha'an capable of running it — which was also close to true,
+and is the reason he has never understood why it was refused.
+
+**Tania Larannas blocked him.** Water is the one commodity that outranks grain in a desert, and she held
+it. Neither could remove the other and both could ruin the other, so it settled into a standoff that
+neither wanted and neither could break. **It was containable, and it was two-sided, and it might have
+resolved.**
+
+### Two: a third house arrives from the desert
+
+Roughly a year after the Rending, a penniless Terinok warrior walked into the Wild Sands and walked out
+with the only refugee cache in the post-Rending desert large enough to found a great house — full account
+on her sheet, and it is singular; there was one and she reached it. **Sa Ko Ren spent it on forges rather
+than on leverage**, which is why Iron produces instead of controlling, and why she was inside the top
+tier within a couple of years rather than a generation.
+
+**She did not break the standoff. She made it insoluble.** A two-way deadlock has a settlement in it
+somewhere. A three-way one, between parties who cannot combine because none of them trusts the other two,
+does not.
+
+### Three: the regency bid, and the fiction that replaced it
+
+**Rosik made the play anyway**, and this is the hinge of the whole account. With Iron and Water now
+matching Grain, the informal arrangement was no longer trending his way, so he proposed the formal one:
+**a declared regency, with himself as regent.**
+
+**Tania refused. Sa Ko refused harder** — a Terinok warrior being asked to acknowledge a grain merchant as
+her sovereign on the strength of his having been early. Both were willing to fight about it, and all three
+could see what fighting about it meant: **a civil war in a city that had just lost everything and could
+not have survived one.**
+
+**And Rosik's bid is what closed the door for everyone, including Rosik.** Once a claim had been made and
+refused, the refusal was precedent. Neither Tania nor Sa Ko could advance a claim of their own without
+meeting the argument they had just used. This is what Sa Ko's sheet means by her *becoming the reason no
+single bid could close* — it is not a separate account, it is the consequence of this one.
+
+So they built the alternative. **The Coterie**: a council of the three great cartels, governing jointly,
+with no regent, no sovereign, and no one above anyone else. Every decree it issued went out **in the
+Valanar name.**
+
+### The mechanism, which is the load-bearing part
+
+The Valanars were **declared missing. Not dead.**
+
+This is not a euphemism and it is not sentiment. It is the entire legal architecture, and it is what makes
+the machinery Melina describes in B2 ch7 actually function — *old law, imperial law, from before the
+Rending: provisions for a throne that can't function; regency, interregnum, an incapacitated sovereign.*
+
+**Those provisions require a dynasty that still exists.** Declare the Valanars dead and the throne is
+*vacant*, and a vacant throne has to be filled, and filling it is precisely the question that nearly
+started the war. **Declare them missing and the throne is merely unoccupied** — still Valanar, still
+legitimate, still owed. The Coterie is then not a government at all, in its own telling. It is a caretaker
+holding the seat until the family comes back.
+
+**It cost them nothing and solved everything, on one assumption.** Nobody involved believed a Valanar was
+coming back. The line was understood to have burned with the palace. The fiction was chosen *because* it
+was safely unfalsifiable, and for twenty years it was.
+
+**The Ver'anar never agreed to it**, and remain the one body in Kaha'an whose position was consistent
+throughout — they answer to Valanar blood and hold that the Coterie has no jurisdiction over them
+whatsoever. See `Places/Kaha'an/The Ver'anar_ Balisha's War-Magic Corps.md`. Rosik tried to bring them to
+heel by the usual means and could not, because his toolkit requires that a person need something he
+controls.
+
+### Four: Ronas Dermir takes a fourth seat
+
+Later, but inside the same twenty years. Ronas consolidated the independent slaver gangs of the Warrens
+into a single organisation, styled himself the Slaver King, and **demanded a seat.**
+
+The three refused. The Warrens were assumed ungovernable and therefore not worth seating, and there was no
+appetite for a fourth voice in a room that had been built specifically to contain three.
+
+**He threatened to withdraw slave labour from the surface. They called the bluff**, on the reasoning that
+he would not sustain a stoppage that cost his own cartel its revenue.
+
+**They were wrong, and it took two months to find out.** The deep scavenging stopped, the corpse
+retrieval stopped, the tunnel maintenance stopped, and the surface economy began seizing up within weeks
+and kept seizing. The Slavers absorbed the lost revenue without breaking. Ronas refused to negotiate from
+weakness at any point. **The Coterie blinked**, and offered him the seat.
+
+**It was a token and everyone knew it.** Every proposal he has made since has lost three to one. He keeps
+the seat anyway, and keeps proposing — *"with me there, they can't ignore the Warrens"* — and dresses two
+decades of institutional advocacy as territorial stubbornness, because his world would devour him for the
+honest version. **Every cartel head in that room remembers those two months and none of them has forgiven
+it**, which is the other reason the votes run three to one.
+
+---
+
+### What depends on this
+
+**Elara does not break the fiction. She satisfies it.** This is the whole point of the entry. The Coterie
+did not merely fail to anticipate a returning Valanar — **it wrote her legitimacy itself, twenty years
+early, and put its name to it in every decree it ever issued.** She does not arrive as a claimant against
+their authority. She arrives as the premise their authority was built on.
+
+**Which is why refusing her is not available to them.** To deny Elara is to concede that the throne was
+never held in trust, that *missing* meant *dead*, and that twenty years of decrees were issued by a body
+with no standing to issue them. **Every contract, judgment and appointment in the city runs through that
+sentence.** They cannot pull it out.
+
+**And it is the Rosik pattern, running twenty years early and against him.** He builds the structure; the
+structure is later the thing he cannot remove. *Find the member carrying more of the load than the rest,
+pull it, and stand back* — he authored the load-bearing member of his own containment, in a moment when
+it was the cleverest available solution, and it was. See `Series Review - Master List.md` §2 for the same
+shape at the end of Book 7.
+
+**It also sets the Book 2 machinery.** The interregnum law Melina describes was never repealed, because
+for twenty years it was simply how things worked — and a law written for a throne nobody sits does not
+much care whether the throne is empty or merely ignored.
+
+**And it makes Ronas defectible.** Two decades of losing every vote three to one is the standing grievance
+Xion works in B1 ch18, and it is why the Slaver Cartel withdraws from the Coterie's working consensus in
+Book 2 rather than backing Rosik.

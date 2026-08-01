@@ -2496,3 +2496,58 @@ Retainers and commoners are Erulian in both halves. **The name was coined agains
 *Salv-* is given as an Erulian root for keeping or holding in trust, which makes the name quietly ironic
 since the man preserved nothing. **Nobody in the books remarks on it and nobody should.** Alternates, if
 the author wants a different sound with the same register: *Verrian Tarrus*, *Marcian Aventine*.
+
+---
+
+## 2026-08-01 — Offstage: The Forming of the Coterie
+
+**Author's material.** Filed as a new `Offstage.md` entry, with pointers from `People/Rosik Kemvimore.md`,
+`People/Sa Ko Ren.md`, `People/Ronas Dermir.md` and `People/Elara Valanar.md`.
+
+**The finding is that nearly all of this was already canon and no document held more than a fragment.**
+Rosik's sheet had the three-way proposal, Sa Ko's had the windfall and the deadlock, Ronas's had the
+strike, `The Ver'anar` file had the fiction, and B2 ch7 has the legal machinery in Melina's mouth as
+published prose. **The sequence had never been written down**, so the most consequential political
+arrangement in the series existed only as five separate recollections. Same condition the Compact War was
+in before its assembly pass.
+
+### The one genuinely new piece, and it is the keystone
+
+**The Valanars were declared *missing*, not *dead*.** This appears nowhere in the existing corpus and it
+is what makes the already-published legal architecture function. B2 ch7 has Melina describe *old law,
+imperial law, from before the Rending — provisions for a throne that can't function.* **Those provisions
+require a dynasty that still exists.** Declared dead, the throne is *vacant*, and a vacant throne must be
+filled — which is precisely the question that nearly started the civil war. **Declared missing, the throne
+is merely unoccupied**, still Valanar and still owed, and the Coterie is a caretaker rather than a
+government. It cost them nothing on the universal assumption that no Valanar was coming back.
+
+**Which makes Elara's accession an inversion rather than a rupture, and this is what the entry is for.**
+She does not break the fiction — **she satisfies it.** The Coterie wrote her legitimacy itself, twenty
+years early, and put its name to it in every decree it ever issued. **Refusing her is therefore not
+available**: to deny her is to concede that *missing* meant *dead* and that twenty years of decrees issued
+by a body with no standing, which runs through every contract and judgment in Kaha'an.
+
+**And it is the Rosik pattern, running twenty years early and against him.** He authored the load-bearing
+member of his own containment, in a moment when it was genuinely the cleverest thing available — *find the
+member carrying more of the load than the rest, pull it, stand back.* Recorded on Elara's sheet as the
+irony belonging to the reader and never to her, since she has no patience for legitimacy as a thing and
+her claim is the most airtight in the series because her enemies notarised it in advance.
+
+### One reconciliation, no contradiction
+
+Sa Ko's sheet frames the regency question as a mutual three-way deadlock — *none of the three willing to
+see any other crowned regent* — while the author's account has **Rosik making a formal bid that the other
+two refused.** These are the same event: **his refused bid is what made the deadlock permanent**, because
+a claim made and beaten is precedent against the next one. Neither Tania nor Sa Ko could then advance one
+without meeting the argument they had just used. Her sheet's *became the reason no single bid could close*
+is downstream of his attempt, not a competing account, and both now say so.
+
+### One numeric conflict, resolved to the author
+
+**`People/Ronas Dermir.md` said the labour stoppage lasted one month, four times in one passage.** The
+author's account says two. The duration appears **nowhere in prose** — Book 1 ch18 and ch23 do not give it
+— so the sheet was the only source, and a sheet loses to the author. **Changed to two months** on the
+sheet and in the entry, including *"every cartel head in the room remembers those two months."* The
+sheet's separate claim that the surface economy seizes up *within weeks* is unaffected and still coherent.
+**Flagged rather than done silently**, since the one-month version was written with some care; reverting is
+a two-line change.

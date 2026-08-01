@@ -133,13 +133,16 @@ He styled himself **Slaver King**. The title was not granted by anyone — there
 
 ### Forcing the Coterie
 
+*Full sequence, including what the Coterie was and why it was built to hold exactly three: `Offstage.md`,
+"The Forming of the Coterie."*
+
 The Coterie at that point was a three-way arrangement between Rosik Kemvimore (Grain), Tania Larannas (Water), and Sa Ko Ren (Iron). The three of them had divided the post-Rending city among themselves and had no interest in admitting a fourth. The Warrens were assumed to be ungovernable and therefore not worth seating.
 
 Ronas's move was direct: he threatened to withhold slave labor from the surface cartels until they gave him a seat. The Slavers controlled the labor pool that did the work the surface districts would not — the deep scavenging, the corpse retrieval, the dangerous tunnel maintenance, the disposable workforce for hazardous tasks the cartels did not want to staff from their own people. Withdraw that labor and a great deal of the surface economy stops functioning within weeks.
 
-The Coterie called his bluff. They held the line on the assumption that a slaver king would not actually sustain a labor stoppage that cost his own cartel revenue. For a month, both sides waited. Ronas held the line. The surface cartels watched their own operations begin to seize up; they watched the Slavers absorb the lost revenue without breaking; they watched Ronas refuse to negotiate from a position of weakness. After a month, the Coterie blinked. They offered him a seat. He accepted.
+The Coterie called his bluff. They held the line on the assumption that a slaver king would not actually sustain a labor stoppage that cost his own cartel revenue. For two months, both sides waited. Ronas held the line. The surface cartels watched their own operations begin to seize up; they watched the Slavers absorb the lost revenue without breaking; they watched Ronas refuse to negotiate from a position of weakness. After two months, the Coterie blinked. They offered him a seat. He accepted.
 
-Every cartel head in the room remembers that month. None of them have forgiven it. Ronas knows this and does not particularly care — the seat is the seat, and the way it was won is part of what makes it his.
+Every cartel head in the room remembers those two months. None of them have forgiven it. Ronas knows this and does not particularly care — the seat is the seat, and the way it was won is part of what makes it his.
 
 ### What He Built
 
