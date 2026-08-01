@@ -692,14 +692,38 @@ a specific body in a specific city.**
 
 ### And this is where the campaign failed, twenty years before the armies
 
-**He built all of it in the wrong city.** The ruling he needed overturned was made in Kaha'an by three
-cartel heads, and what he ever had in Kaha'an was a competent intelligence service. Everything else went
-up in Eruliath, where it impressed Erulians — who did not have a vote, and had never been the obstacle.
+**He did the Kaha'an half, and it is more substantial than it first looks.** See
+`Places/Kaha'an/kahaan_political_factions.md` — the **Secessionist Fringe**, "the Conspirators," is a
+twenty-year construction and a real one: **House Morthen**, themselves distant Valanar cousins, publicly
+backing Erulian claims rather than advancing their own; Master Garrett Caldris; the anonymous **Circle of
+Seven**; money from the families who fled to Erulius after the Rending; and a standing propaganda
+operation about the legitimacy of Kalden's claim specifically. **That is not an intelligence service. That
+is a political base**, built patiently, in the right city, aimed at the right question.
 
-**Do not write this as stupidity; write it as the shape he always has.** Acquiring the *appearance* of
-worthiness is a Merchant purchase dressed in Founder vocabulary, and it is the same move as the recently
-commissioned ancestor portraits. **He bought the look of a claim instead of the substance of one**, for
-twenty years, with nobody competing against him.
+**Two things were wrong with it, and neither is stupidity.**
+
+**It is a coalition of everyone in Kaha'an who has already lost.** The file's own recruitment list is
+displaced nobles who lost everything, merchants crushed by cartel monopolies, ideological dissidents, and
+residents with foreign ties. Every one of those is a real grievance and a reliable recruit. **None of
+them can deliver an institutional ruling**, because the ruling would have to be issued by the people who
+won. After twenty years it is still, in the city's own reckoning, a *fringe*.
+
+**And the three who could actually reopen the question were never touched.** Rosik, Tania and Sa Ko held
+the city and the ruling was theirs to revisit. He has nothing on any of them — no leverage, no debt, no
+faction inside any of the three cartels that matters. **The entire apparatus routes around the only body
+with the authority to give him what he wants.**
+
+**Which points at what he actually built.** Sabotage capability, fifth-column placement, supply caches,
+assassination contacts running to the Long Knives, "identifying targets for future liberation." **That is
+an instrument for taking a city, and a succession ruling is something that has to be granted.** He built
+both halves and the coercive half is far the more developed, which is characteristic — and it is also why
+the later pivot to force is so fast. **He does not have to build anything new when the legal route dies.
+The other machine has been sitting in Kaha'an the whole time.**
+
+**One irony worth keeping.** Kaha'an contains the machinery for validating a Valanar and the machinery for
+validating Kalden at the same time — House Thessalar of the Imperial Faction maintains the genealogical
+records, and House Morthen of the Secessionists endorses Erulius. **When Elara walks in, the first
+activates and the second is annihilated**, and Morthen discovers it backed the wrong distant cousin.
 
 **Which is why Elara's arrival is not a counter-example to his ledger, and a later pass should not treat
 it as one.** It is the single thing that happened *to* him rather than because of him, and it still is not

@@ -2669,3 +2669,67 @@ who eventually spends him.** Neither of them ever knows about the first half of 
 **Marked open in the entry, not to be filled by inference:** whether Kalden knows Rosik proposed the
 arrangement. The Coterie is collectively responsible and Rosik's authorship is not obviously public. It
 bears only on the recruitment scene and is unwritten either way.
+
+---
+
+## 2026-08-01 — Correction: Kalden's Kaha'an base is real, and I said it wasn't
+
+**Author's catch on my error, same day.** Yesterday's entry claimed *"he built all of it in the wrong
+city"* and that *"what he ever had in Kaha'an was a competent intelligence service."* **Both statements
+are false**, and `Places/Kaha'an/kahaan_political_factions.md` — which I did not read before writing them —
+says so plainly.
+
+**What is actually there.** The **Secessionist Fringe**, "the Conspirators": **House Morthen**, themselves
+distant Valanar cousins, publicly backing Erulian claims instead of advancing their own; Master Garrett
+Caldris; the anonymous **Circle of Seven**; funding from the families who fled to Erulius after the
+Rending; and a standing propaganda operation *specifically about the legitimacy of Kalden's claim.* **That
+is a political base, built patiently, in the right city, aimed at the right question**, and it is twenty
+years of his work.
+
+### What survives, and what the failure actually was
+
+**The ledger row survives; its explanation does not.** Twenty years, no rival, no deadline, and the
+question still open when Elara arrived — that stands. The reason it stayed open is now two things, and
+neither is stupidity or misdirected effort.
+
+**It is a coalition of everyone in Kaha'an who has already lost.** The file's own recruitment list:
+displaced nobles who lost everything, merchants crushed by cartel monopolies, ideological dissidents,
+residents with foreign ties. Every one a real grievance and a reliable recruit. **None of them can deliver
+an institutional ruling, because the ruling has to be issued by the people who won** — and twenty years on
+it is still, in the city's own reckoning, a *fringe*.
+
+**And the three who could reopen the succession were never touched.** No leverage on Rosik, none on Tania,
+none on Sa Ko. **The whole apparatus routes around the only body with authority to grant him anything.**
+
+**Which points at what he was really building** — sabotage placement, supply caches, fifth-column assets,
+contacts running to the Long Knives. **An instrument for taking a city, where a succession ruling is
+something that has to be granted.** He built both halves and the coercive half is far the more developed.
+
+### A coherence gain that falls out of this
+
+**It retro-explains the speed of the pivot.** His sheet has the assassination attempt coming *within hours*
+of his learning about Elara, and a Book 2 poisoning arranged at a Kaha'an state dinner from another
+country. **Both are only possible because the network was already in place** — the file gives the
+Secessionists assassination contacts running to the Long Knives. He does not have to build anything when
+the legal route dies. The other machine has been sitting in Kaha'an the entire time.
+
+**And one irony now on record.** Kaha'an holds the machinery for validating a Valanar and the machinery
+for validating Kalden simultaneously — House Thessalar of the Imperial Faction maintains the genealogical
+records, House Morthen of the Secessionists endorses Erulius. **When Elara walks in the first activates and
+the second is annihilated**, and Morthen finds it backed the wrong distant cousin.
+
+### Process note
+
+**The failure was not reading a file that was sitting in `Places/` with Kalden's name in it eleven times.**
+`kahaan_political_factions.md` never came up because the greps were run against `People/` and the Book 7
+outline. **This is the second instance of the same failure in a week** — the first was writing Book 7
+material without reading `book7_outline.md`. The pattern is asserting an absence (*he has no base*,
+*Rosik never reaches Xion*) on the strength of not having found something, rather than on having looked
+where it would be.
+
+### Flagged, not changed
+
+`kahaan_political_factions.md:182` lists **"Erulian Military Success: Kalden's victories elsewhere might
+embolden Secessionists"** as a tipping point. **Kalden has no victories** — he loses the Compact War and is
+blocked at Silaris. The line reads as either pre-Book-3 worldbuilding or a conditional. Left alone pending
+a decision, since the file has not otherwise been reviewed against current canon.
