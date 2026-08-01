@@ -20,7 +20,7 @@ At the apex of Gunastran's political system stands the Industrial Consortium:
 - Meets in the Central Assembly Hall in the capital city of Mechanus, a chamber where enchanted models of the entire nation display real-time production data  
 - Makes decisions through a voting system weighted by productive capacity, with votes cast using crystals that glow with intensity proportional to production volume  
 - Members rise and fall based on industrial output and magical innovation  
-- Current Consortium Chair, Master Engineer Veldrin Torkal, represents the largest magitech corporation and wears the traditional Forge Amulet that glows with the combined productive energies of the nation  
+- Current Consortium Chair, **Master Engineer Ondra Kelgrav**, represents the largest magitech conglomerate and wears the traditional Forge Amulet that glows with the combined productive energies of the nation. She is an engineer before she is a politician, which is the whole of her: she chairs Book 3's vote for war after reading a set of production figures that tell her Gunastran is going to die, and the numbers are correct. Full treatment: `Book 3 - Crown Jewel/Beat Drafts/Chapter 12 - Ruthless Calculus.md`, where she holds the POV  
 - Authority derived from control over critical infrastructure and magitech production  
 - Positions inherited within industrial dynasties or occasionally earned through extraordinary innovation in magical engineering  
 - Seasonal sessions address resource allocation, infrastructure development, and international relations

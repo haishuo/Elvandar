@@ -1,7 +1,7 @@
 # Chapter 12: Ruthless Calculus
 
 **Timeline:** Shortly after the Crown ceremony
-**Characters:** Ondra Kelgrav (POV), the Industrial Consortium of Gunastran
+**Characters:** Master Engineer Ondra Kelgrav, Chair of the Industrial Consortium (POV); the Consortium members
 **Emotional work:** Existential terror that reads as necessity. The reader should arrive at the end of this chapter understanding — not excusing, not cheering, but *understanding* — why intelligent people vote unanimously for a catastrophic war. Ondra Kelgrav is not a villain. She is an engineer who has just read a set of numbers that tell her her nation is going to die.
 **POV:** Ondra Kelgrav (first deliberate POV break; hard cut from Xion)
 
@@ -13,7 +13,7 @@
 
 1. Hard cut. No transition, no bridge from the previous chapter's ceremony. The Gunastran Central Foundry — which means: noise, heat, scale. Gunastran's most important deliberative body meets not in a hall of polished stone but in a working structure, because Gunastran's identity is the work itself. The Foundry's deliberation chamber is inside the complex — windows overlooking the production floor, the sound of bound elementals cycling through their heat rotations audible through the glass. The reader is somewhere completely different, and the environment communicates that instantly. This is a nation that builds things. Its halls of power smell like metal.
 
-2. Ondra Kelgrav, before the session opens. She is reviewing her figures one last time. Not because she doubts them — she has checked them three times already, and an engineer who doubts her own arithmetic at the fourth pass is not an engineer. She is reviewing them because she wants to be certain that when she presents them, she will not flinch. That is a different kind of preparation. The numbers say something she doesn't want to say, and she is doing the work of becoming someone who can say it without hesitation, because hesitation will be read as uncertainty, and there is no uncertainty here. The math is not uncertain.
+2. Ondra Kelgrav, before the session opens — **she chairs it, and the numbers she is about to put in front of it are her own.** She reviews them one last time. Not because she doubts them — she has checked them three times already, and an engineer who doubts her own arithmetic at the fourth pass is not an engineer. She is reviewing them because she wants to be certain that when she presents them, she will not flinch. That is a different kind of preparation. The numbers say something she doesn't want to say, and she is doing the work of becoming someone who can say it without hesitation, because hesitation will be read as uncertainty, and there is no uncertainty here. The math is not uncertain.
 
 3. Establish Ondra briefly through the room and her habits, not through backstory. She is the Consortium's chief engineer — not its chair, not its political officer, its engineer, the person whose job is to run the numbers and report what the numbers say. She has held this position for eleven years. She is respected the way people who are reliably, sometimes painfully right get respected: thoroughly, and with some wariness. She does not perform confidence. She has a kind of stillness that is not calm so much as precision — the manner of someone who has learned to reduce everything to what can be measured and to trust what measurement produces. She is about to present the most important measurement of her career.
 

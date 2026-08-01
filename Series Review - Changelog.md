@@ -3200,3 +3200,33 @@ is staged. Worth settling before that chapter is drafted into prose.
 
 **Also still flagged, untouched:** *Aldwin Morthen* / *Aldric Darfi* share a stem, and *Marcus Nerrick* is
 the last Marcus after *Marcus Vex* became *Emrick Sedranne*.
+
+---
+
+## 2026-08-01 — Ondra Kelgrav is the Consortium Chair; Veldrin Torkal retired
+
+**Author's ruling on the contradiction flagged in the entry above.** `Places/Gunastran/Gunastran_ The Land
+of Magi-Tech.md` named *"Current Consortium Chair, Master Engineer Veldrin Torkal."* **That was stale.**
+The chair is **Master Engineer Ondra Kelgrav**, and Torkal is gone from canon — he appeared in that one
+line and nowhere else in the repo.
+
+**Kelgrav inherits the office and its furniture** — the largest magitech conglomerate, and the traditional
+Forge Amulet that glows with the combined productive energies of the nation. The entry now also carries the
+one thing that makes her legible in a worldbuilding file: **she is an engineer before she is a politician**,
+she chairs Book 3's vote for war after reading production figures that say Gunastran is going to die, and
+**the figures are correct.** It points at ch12 rather than restating it.
+
+### The other half of the gap, which was in Book 3
+
+The contradiction was only half a stale line. **No Book 3 document had ever stated her office at all** —
+she was *"Ondra Kelgrav (POV), the Industrial Consortium of Gunastran"* and nothing more, while the beats
+had her fielding questions, reading the room and carrying the vote. Now fixed in both places:
+
+- ch12's character line reads **Master Engineer Ondra Kelgrav, Chair of the Industrial Consortium (POV)**
+- ch12's beat 2 now says **she chairs the session, and the numbers she is about to put in front of it are
+  her own** — which is what makes the chapter work, since the case for war is not handed to her by anyone
+- the skeleton's ch12 entry names the office on her first appearance
+
+**This tightens the chapter rather than just labelling her.** A Consortium member arguing for war is a
+delegate. **The chair presenting her own arithmetic and then counting the votes it produces is the person
+who cannot blame anybody**, which is the whole reason the chapter is a POV break.
