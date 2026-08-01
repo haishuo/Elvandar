@@ -1,0 +1,68 @@
+# Chapter 3: Storm-Line
+
+**Timeline:** Days after Chapter 2 — the Door has answered Elara and refused to open, and the question of what to do about it is now formally in front of the crown
+**Characters:** Xion (POV), Elara, Commander Vesk, three Tor'anar (the senior officer unnamed — see footer), court advisors
+**Emotional work:** Diminishment carried with dignity. An institution that has waited twenty years to be needed is finally summoned, and discovers in front of the crown that the thing it does is not the thing required. The chapter's whole design is that the reader should finish it respecting the Tor'anar **more** than if they had succeeded — because what they do with the failure is immediate, unhedged, and against their own interest.
+**POV:** Xion
+
+---
+
+## Beats
+
+1. The advisory session convenes on the practical problem left by Chapter 2. The Door responded to Elara and did not open. Nobody in the room disputes what that means: the mechanism is not broken and it is not indifferent. It recognised her and declined. What it needs is not force but **operation**, by someone who understands what they are operating.
+
+2. The room's assumption forms without anyone stating it, which is how assumptions form. The expertise is foreign. It is a question of *which* foreigner — Gunastran's engineers, Uratha's scholars, and the relative cost of each. Two advisors are already several sentences into the comparison.
+
+3. **Vesk interrupts it, and the interruption is the chapter.** He has been standing where he always stands, saying nothing, because his function in these rooms is not to have opinions about policy. He says, roughly: *before we go abroad, has anyone in this room considered that the Empress has mages?*
+
+4. The silence that follows is the good kind — not shock, just the specific quiet of a room discovering it has skipped a step. One advisor's first instinct is to explain why the thought is naive, and he gets about half a sentence in before hearing himself.
+
+5. **Why Vesk is the one who says it, and why it costs him nothing to.** He was standing six feet from the Door when it lit up under her hand, and he watched an event he had no means whatsoever of assessing. He is extremely clear about what he is for. A commander who knows the edge of his own competence that precisely is a commander who knows there is supposed to be somebody on the other side of it.
+
+6. **Elara's reaction is the quiet damage in this beat and must not be played for laughs.** She did not forget the Tor'anar. She has never once thought of them *first*. She was raised in an Arol Batae compound by people who loved her, and going to Vesk is not a decision she makes; it is the shape her hand has when it reaches. Xion watches her register this about herself and file it without comment. She does not apologise, then or ever.
+
+7. The summons goes out, and the sending of it is quietly absurd. Nobody in the palace administration is certain of the correct form, because no crown has issued one in twenty years and the last person who did it is dead. It is resolved by somebody going and looking it up. **Comedy is available here and should be taken sparingly** — the joke is bureaucratic, not personal, and the Tor'anar are not its target.
+
+8. **They arrive fast.** Faster than the distance allows for comfort. The implication is not stated by anyone in the room and does not need to be: the summons did not find them scattered and unready. It found them waiting, and they had been waiting for a while.
+
+9. Three of them. Xion's first sight of the corps is not martial in any way he expected. He was braced for something like the Arol Batae and gets something considerably stranger — older in bearing, quieter, and dressed for work rather than for a court.
+
+10. **The Door, and the descent to it.** The passage below the tunnels is cramped and low-ceilinged, and Xion notices the senior Tor'anar notice this. It is the first flicker of a problem, hours before anyone names it, and the reader should have it before the characters do.
+
+11. **The working. Xion's instrument is bodies, so bodies are what the reader gets.** He cannot follow the magic and the narration does not pretend to. What he can read is effort: the changed breathing, the set of a jaw, the tremor that arrives in the hands late and is controlled and arrives again. This is the same eye that reads a patient, turned on three professionals doing something enormously difficult in a space that will not let them do it.
+
+12. They are not incompetent and the prose must never permit that reading. **They are precise, methodical, and they try more than one approach.** The failure has a shape — each attempt is smaller and more careful than the last, which is what expertise looks like when it is narrowing toward an answer it does not want.
+
+13. **The failure, stated in their terms.** Storm magic is open ground and formations at range: pressure, force, weather, applied at scale to something that can be pushed or broken or scattered. A sealed precision lock in a stone throat is neither. There is nothing to batter and nowhere for the working to breathe. **The instrument is wrong for the lock, and the corps knows it before the crown does.**
+
+14. **The admission, and it is short.** No hedging, no request for more time, no proposal to try again with more people. The senior Tor'anar says they cannot do it, and does not decorate it. **The brevity is the dignity** — a longer answer would be an excuse, and the reader should feel the discipline in how little is said.
+
+15. Xion reads the cost off the man's face the way he reads a patient's, and it is considerable. He does not say so aloud. Nobody in the room appears to notice except him, and possibly Vesk.
+
+16. **Then they recommend the foreigners themselves**, which is the beat the chapter exists for. Unprompted, immediately, and against every interest they have: this needs magi-tech engineering or magical scholarship, Gunastran and Uratha are where those live, and the crown should send for them. **They have just argued the crown out of needing them.**
+
+17. **And in the same breath, the request.** If foreign mages are to be brought to a sealed arcane site inside Balisha, with the Empress present, the Tor'anar ask to attend her person. Three agents at minimum. This is where the deputation's argument goes and it should be delivered as a stated position rather than a plea — *the arcane arm of the Valanar since the earliest days of the empire; the authority on all things arcane; with respect, we request.* **It concedes the Arol Batae's competence at the thing the Arol Batae are actually for**, which is not flattery and not a dig. It is a jurisdictional claim being made aloud to the only person entitled to hear one.
+
+18. **Elara names the contradiction, dryly.** They have just told her to bring these people in and told her in the same breath not to trust them. The senior Tor'anar agrees that this is correct. **He does not smile, elaborate, or appear to notice that anything amusing has occurred**, and the exchange is funny for exactly that reason and must never be staged as though anyone is joking.
+
+19. **She grants it, and the grant is tiny.** No ceremony, no speech, no acknowledgment that anything has changed. She has no relationship with this institution and the yes costs her nothing at all. **What it means on the other side of the room is enormous and nobody registers it**, which is the note the chapter goes out on.
+
+20. Coda. The Tor'anar leave as they came. Xion, who has spent the entire session watching people rather than magic, is left holding the one observation nobody asked him for: that the corps came at a run, failed in public, argued itself out of the work, and asked only to stand near her — **and that at no point in any of it did anyone thank them.**
+
+---
+
+**On the rule this chapter serves, which is rule 1.** Balisha has a standing war-magic corps sworn to the Valanar line, and the previous version of this book went to Gunastran and then Uratha without anyone mentioning them. That is not a small gap; it is the state's own institution being invisible to its own government, and a reader who knows the Tor'anar exist will stop dead at it. `Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md` has always specified the correct sequence — *"they were asked first and were honest about the limits of what their magic is for"* — and the book simply never implemented it. **This chapter is that implementation and nothing more; no new canon is created here.**
+
+**On what the failure buys, and why it must not be softened.** The obvious instinct is to let them half-succeed — to have them shift the mechanism, or learn something useful, so the summons is not wasted. Resist it completely. **The chapter is worth more if they get nothing**, because everything that makes the corps admirable happens afterward: the speed of the admission, the recommendation against their own interest, the request for the only role left. A partial success would let them keep some standing and would cost the reader the entire second half of the chapter. Their competence is established by *how they fail* — narrowing attempts, no excuses, an accurate diagnosis delivered inside a minute.
+
+**On Vesk, who is doing more work here than his page count suggests.** He has been in this book since Chapter 2 and has been treated as function rather than character. Giving him the interruption fixes that at no cost, and it fixes it in the direction his existing material already points: he is the man who watched the Door light up *"with the face of a man collecting information."* A bodyguard commander with an exact sense of his own limits is the only person in that room positioned to say *this is not our problem and I know whose it is.* It is also generous — he is arguing for a rival institution to stand closer to his principal — and the generosity should be entirely unremarked.
+
+**On Elara, and the thing she does not say.** Her never having thought of the Tor'anar is a real flaw and belongs to her upbringing rather than to negligence. The temptation is to have her acknowledge it, apologise for it, or resolve it. **She does none of those and the chapter is better for it.** She notices, and continues. The reader should be slightly ahead of her here, which is a position the book rarely puts them in and which pays off later when the corps turns out to have been right about the Urathans.
+
+**On the quip, which earns its place by not being a joke.** *You are telling me to bring them here and warning me about them in the same sentence* — and the answer is yes, delivered flat, by a man to whom no contradiction has occurred. It works because it is the honest summary of the corps' actual position: the expertise is real, the risk is real, and both statements are simply true at once. It also establishes Elara's dryness before the book turns heavy, which is worth having. **Play it entirely straight. The moment anyone in the room finds it funny, it stops being funny.**
+
+**On where this leaves the following chapter.** Chapter 4 opens on the planning session with the foreign options already narrowed and the Tor'anar already excluded *by the Tor'anar*. Its old first beat — *"Gunastran is the obvious first candidate, and no one in the room argues against it"* — has been corrected accordingly: Gunastran is now the obvious first *foreign* candidate, and the reason the question is foreign at all is that it was asked at home first and answered honestly. **This makes Chapter 4's Gunastran failure the second refusal rather than the first**, which deepens that chapter's stated design — competence restored, earned through failure — rather than fighting it.
+
+**Open:** the senior Tor'anar has no name and no rank, because the corps has neither on record and inventing a character is the author's call. If this figure recurs — and the Lathion detachment gives them an obvious reason to — they need both, coined against the Balishan ceremonial register in `Places/Languages of Elvandar.md`, avoiding the crowded V-initial group and the *-anar* suffix.
+
+**Sets up:** Chapter 4 (Negotiations) — the foreign search, now properly motivated. The Tor'anar detachment that accompanies the Lathion expedition from Chapter 6 onward. And, at long range, the corps being right about the Urathan delegation in Chapters 10 and 12, which only lands if the reader met them here.

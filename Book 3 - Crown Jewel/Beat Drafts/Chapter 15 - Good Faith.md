@@ -1,4 +1,4 @@
-# Chapter 14: Good Faith
+# Chapter 15: Good Faith
 
 **Timeline:** The window between Elara's rejection of Kalden's proposal being dispatched and its arrival
 **Characters:** Xion, Elara, Vartonne's envoy
@@ -49,7 +49,7 @@
 
 20. Xion tells her that whatever happens next, he'll stay. The phrasing is light — not a vow, not a formal declaration, just a statement of fact offered at a moment when she needs to hear it as a fact. A small smile from Elara. Neither blames the other. They made a sound decision together and it went wrong in a way that had nothing to do with the soundness of the decision. They know the difference.
 
-21. Final beat: the envoy arrives home in Vartonne and delivers his report with complete sincerity. The Balishan court is sensitive. One cannot discuss dynastic propriety without giving offense. Vartonne notes this assessment alongside its existing frustrations with the new political landscape — a fresh, specific grievance laid on an old one. What Xion cannot see, from inside a chapter that ends here, is that there is exactly one man on the continent who speaks Vartonne's dialect of wounded lineage and imperial legitimacy, and that he has been waiting for precisely this kind of opening. The move designed to preempt the Compact will instead hand it its second pillar — though the recruitment itself belongs to Ch15, and to Kalden, not to any envoy of Balisha's imagining.
+21. Final beat: the envoy arrives home in Vartonne and delivers his report with complete sincerity. The Balishan court is sensitive. One cannot discuss dynastic propriety without giving offense. Vartonne notes this assessment alongside its existing frustrations with the new political landscape — a fresh, specific grievance laid on an old one. What Xion cannot see, from inside a chapter that ends here, is that there is exactly one man on the continent who speaks Vartonne's dialect of wounded lineage and imperial legitimacy, and that he has been waiting for precisely this kind of opening. The move designed to preempt the Compact will instead hand it its second pillar — though the recruitment itself belongs to Ch16, and to Kalden, not to any envoy of Balisha's imagining.
 
 ---
 

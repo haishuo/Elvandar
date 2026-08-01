@@ -1,4 +1,4 @@
-# Chapter 5: Wonder
+# Chapter 6: Wonder
 
 The Urathans arrived on a grey morning and immediately forgot the weather.
 

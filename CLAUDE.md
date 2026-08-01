@@ -110,7 +110,9 @@ Fresh tomb, not ancient one. The Destiny Engine was built in months during the R
 and should look visibly hastier than everything around it. Characters do not know Lathionese
 proper names and neither does the narrator in Xion's POV.
 
-**Book 3 Chapter 5 (`Chapters/Chapter 5 - Wonder.md`) is LOCKED.** Do not revise it.
+**Book 3's Wonder chapter (`Chapters/Chapter 6 - Wonder.md`) is LOCKED.** Do not revise it. **The lock is
+on the prose, not the number** — it was ch5 until 2026-08-01, when `Chapter 3 - Storm-Line` was inserted
+and everything from the old ch3 shifted by one. Not a word inside the file changed.
 
 ---
 

@@ -86,15 +86,23 @@ This is where the Tor'anar push, for the first time in the series, for an active
 
 ### The deputation, and what they actually argue
 
-**When:** Between B3 ch4 and ch5 — after the Uratha treaty is signed and before the Urathan contingent
-reaches the Brass Door. **The trigger is the treaty, not Lathion**, which nobody has heard of yet as
-anything but a name in a list of legends. What the Tor'anar are responding to is a Balishan sovereign who
-has just agreed to place a delegation of foreign battle-capable mages at a sealed arcane site inside
-Balishan territory, within spell distance of her person.
+**When:** B3 **Chapter 3 ("Storm-Line")**, days after the Door answers Elara and refuses to open. **The
+trigger is not Lathion**, which nobody has heard of yet as anything but a name in a list of legends. It is
+the Door itself — and the sequence that brings the corps into the room is the one this file has always
+specified: they are asked *first*, they try, and they cannot.
 
-**They do not object. They request** — and the distinction is the entire institution. Twenty years of
-doctrine forbids them to act unbidden, so what arrives is a formal deputation asking to be used. The
-register, for calibration:
+**Commander Vesk is why they are asked.** He stood six feet from the Door when it lit under Elara's hand
+and watched an event he had no means of assessing, and a commander that clear about the edge of his own
+competence knows there is supposed to be somebody on the other side of it. **Elara had not forgotten the
+corps. She had never once thought of them first** — she was raised in an Arol Batae compound, and going to
+Vesk is not a decision she makes, it is the shape her hand has when it reaches.
+
+**They fail, and the failure is the point.** Storm magic is open ground and formations at range; a sealed
+precision lock in a stone throat gives them nothing to batter and nowhere for the working to breathe. The
+admission is immediate and undecorated. **Then they recommend the foreigners themselves** — magi-tech
+engineering or magical scholarship, Gunastran or Uratha — which argues the crown out of needing them.
+
+**The request comes in the same breath, and this is where the jurisdictional claim is made.** The register:
 
 > *"While we appreciate the efforts of the Arol Batae to guard the Empress's person, since the earliest
 > days of the empire the Tor'anar have been the arcane arm of the Valanar. We are the authority on all
@@ -102,29 +110,26 @@ register, for calibration:
 > we request that at least three Tor'anar agents be dispatched to accompany the Empress on any expedition
 > to such a dangerous magical place with unknown magical people."*
 
-**Note what that is doing.** It is not a complaint about the Arol Batae and takes care not to be — it
-opens by conceding their competence at the thing they are actually for. **The claim is jurisdictional,
-not protective**, and it is the first time in twenty years the corps has asserted a jurisdiction to
-anybody. *We are the authority on all things arcane* is not a boast; it is a constitutional position being
-stated aloud to the only person entitled to hear it.
+**Note what that is doing.** It is not a complaint about the Arol Batae and takes care not to be — it opens
+by conceding their competence at the thing they are actually for. **The claim is jurisdictional, not
+protective.** *We are the authority on all things arcane* is not a boast; it is a constitutional position
+stated aloud to the only person entitled to hear it. **And the number is theirs, not hers** — *at least
+three* is a professional minimum offered by people who have thought about the problem. **They have never
+haggled with a Valanar and would not know how.**
 
-**And the number is theirs, not hers.** *At least three* is a professional minimum offered by people who
-have thought about the problem, not an opening position in a negotiation. They are not haggling. **They
-have never haggled with a Valanar and would not know how.**
+**Elara names the contradiction** — they are telling her to bring these people in and warning her about
+them in the same sentence — and the senior Tor'anar agrees that this is so, without appearing to notice
+that anything amusing has occurred. **Play it entirely straight; it is funny because nobody in the room is
+joking.**
 
-**Elara grants it.** She has no institutional relationship with them at all — she was raised by the Arol
-Batae and has gone to them first her whole life by pure habit — so the grant costs her nothing and settles
-nothing. It is the smallest possible yes. **What it means to the corps is disproportionate and neither
-she nor anyone else in the room understands that**, which is the beat to preserve if this is ever
-dramatised.
+**She grants it, and the grant is tiny.** She has no institutional relationship with them at all, so the
+yes costs her nothing and settles nothing. **What it means to the corps is disproportionate, and nobody in
+the room registers that.**
 
-**Currently offstage.** No chapter hosts the scene: B3 ch3 and ch4 both close on designed emotions that
-must not be diluted, ch4 ends in Uratha, and **`Chapters/Chapter 5 - Wonder.md` is locked prose.** The
-deputation is therefore established as having happened between chapters, and the detachment is simply
-present from ch5 onward. **The locked prose accommodates this without alteration** — it never enumerates
-the expedition, it repeatedly gestures past the named characters (*"People checked their lamps," "The
-scholars were completely silent. So was everyone else"*), and it describes Farleen as *"not a scholar and
-not a soldier in the formal sense,"* which implies soldiers in the formal sense are standing there.
+**The senior officer has no name and no rank**, because the corps has neither on record and naming a
+character is the author's call. If the figure recurs — and the Lathion detachment gives an obvious reason
+— both are needed, coined against the Balishan ceremonial register in `Places/Languages of Elvandar.md`,
+avoiding the crowded V-initial group and the *-anar* suffix.
 
 **His function is security and counterintelligence, not research.** He is not there as a magical peer to the Urathan delegation, and the corps does not think of him as an observer in the academic sense. The governing logic: an allied nation's intelligence service does not get unsupervised access to a classified facility just because the two states are friendly — you post a guard regardless, especially with the head of state physically present (Elara attends the Lathion exploration and experiences the Destiny Engine vision firsthand in Chapter 8). The Tor'anar do not fully trust the Amethyst Tower's restraint around a site of this magnitude, allied nation or not, and their position is that "supervised" and "trusted" are not the same thing. The person assigned to that job isn't chosen for diplomatic tact or scholarly credentials — he's chosen for being capable enough to physically stop the Urathans if they prove uncooperative, the same way a foreign dignitary's protective detail is built from operators, not from whoever's best at making conversation. If the story needs more than one Tor'anar mage on-site to make that credible given the stakes, that's an open scaling question, not a fixed constraint.
 

@@ -2951,3 +2951,88 @@ are how institutions appear in prose. Grep the roster, not the noun.**
 
 Corrected in the Tor'anar file. The rest of the previous entry stands: the Tor'anar were genuinely absent
 from every Book 3 document, and the ch5–ch8 drafts and skeleton now carry both institutions.
+
+---
+
+## 2026-08-01 — Book 3 gains Chapter 3, "Storm-Line"; ch3–18 renumber to ch4–19
+
+**Author's call, and it is a rule 1 fix rather than an addition.** Balisha has a standing war-magic corps
+sworn to the Valanar line, and Book 3 went to Gunastran and then Uratha without anyone in the government
+mentioning it. **`The Tor'anar_ Balisha's War-Magic Corps.md` has specified the correct sequence all
+along** — *"that admission is what actually sends Xion to Gunastran and then Uratha: **not because the
+Tor'anar were skipped, but because they were asked first** and were honest about the limits of what their
+magic is for."* The book never implemented it. **This chapter is the implementation; no new canon was
+created.**
+
+### Why a new chapter rather than an expansion
+
+**The old ch3 was already the book's largest draft at 5,004 words** against a median of ~2,900, and the
+only one with two movements. A third would have burst it. The new chapter comes in at a normal size and
+sits where the sequence requires: after the Door refuses to open, before any foreigner is considered.
+
+### The chapter
+
+**Vesk opens it**, which is the best thing in the author's version. The commander of the institution Elara
+over-relies on is the one who asks whether anyone has considered that the Empress has mages — and it fits
+his existing material exactly, since he stood six feet from the Door in ch2 and watched it light up
+*"with the face of a man collecting information."* **A commander that clear about the edge of his own
+competence knows there is supposed to be somebody on the other side of it.** It is also generous, and the
+generosity is unremarked.
+
+**Elara had not forgotten them. She had never thought of them first** — Arol Batae upbringing, and going
+to Vesk is the shape her hand has when it reaches. She notices this about herself, says nothing, and does
+not apologise then or ever.
+
+**They fail, and the failure is load-bearing — do not soften it.** Storm magic is open ground and
+formations at range; a precision lock in a stone throat gives them nothing to batter and nowhere for the
+working to breathe. **Everything admirable about the corps happens afterward**: the admission is immediate
+and undecorated, and then **they recommend the foreigners themselves**, unprompted and against every
+interest they have. A partial success would cost the whole second half of the chapter.
+
+**Xion's instrument does the work.** He cannot follow the magic and the narration does not pretend to; he
+reads the attempt off their hands and their breathing, the same eye he turns on patients, and he reads the
+cost off the senior officer's face afterward.
+
+**The deputation lands here rather than offstage**, with the author's speech intact — jurisdictional
+rather than protective, conceding the Arol Batae's competence at the thing they are actually for. **The
+quip is kept and staged straight**: Elara names the contradiction, the senior Tor'anar agrees it is one
+and does not appear to notice anything amusing has occurred. **She grants it, and the grant is tiny.**
+What it means on the other side of the room is enormous and nobody registers it.
+
+**Title has no article, per author preference** — *Storm-Line*, not *The Storm-Line*. Their own name means
+The Storm-Line; the chapter title drops the article because it is not doing work.
+
+### The renumber
+
+**ch3–ch18 → ch4–ch19.** 16 beat drafts renamed via `git mv`; `Chapters/Chapter 5 - Wonder.md` →
+**`Chapter 6 - Wonder.md`**; Royal Road regenerated and the orphaned `Chapter 5 - Wonder.html` removed,
+since the export script does not prune renamed outputs. Skeleton renumbered with the new entry inserted.
+
+**Internal cross-references bumped in three separate forms** — `Chapter N`, `ChN`, and plural ranges
+(*Chapters 6-8*, *Chapters 9–18*, *Chapters 4 and 9*). **Guarded against `Book 2 Chapter 8`**, which
+appears three times and would have been corrupted by a blanket pass; verified intact afterward. All
+`B1 ch*` / `B2 ch*` references left alone.
+
+**`CLAUDE.md` updated**: the lock now reads *Book 3's Wonder chapter (`Chapters/Chapter 6 - Wonder.md`)*,
+with a note that **the lock is on the prose, not the number.**
+
+**Old ch3's first beat corrected.** It read *"Gunastran is the obvious first candidate, and no one in the
+room argues against it."* Gunastran is now the obvious first **foreign** candidate, and the reason the
+search is foreign is that it was asked at home first. **This makes that chapter's Gunastran failure the
+second refusal rather than the first**, which deepens its stated design — competence earned through
+failure — rather than fighting it.
+
+### Two things found in passing
+
+**A pre-existing bug, flagged not fixed: `Chapter 6 - Wonder.md` opens with a `# Chapter 6: Wonder`
+heading.** House style (§6) forbids it — *"Do not put a `# Chapter N: Title` heading inside the file… The
+file opens on its first line of prose"* — and **Books 1 and 2 have zero such headings across every
+chapter.** The export script treats a leading heading as a paragraph, so the Royal Road file has been
+shipping a literal `<p># Chapter 5: Wonder</p>` as its opening paragraph. **The renumber changed that one
+line to `# Chapter 6: Wonder`, which is the only alteration made inside the locked file.** Stripping the
+heading outright is the house-correct fix and is a real edit to locked prose, so it is left for the
+author.
+
+**The senior Tor'anar has no name and no rank**, because the corps has neither on record and naming a
+character is not mine to do. Flagged in the draft footer and in the corps file; needed if the figure
+recurs, which the Lathion detachment makes likely.

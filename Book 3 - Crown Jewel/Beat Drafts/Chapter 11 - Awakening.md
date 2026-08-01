@@ -1,6 +1,6 @@
-# Chapter 10: Awakening
+# Chapter 11: Awakening
 
-**Timeline:** The ceremony — weeks after the Chapter 9 agreement, once the Crown has completed its journey from the Ivory Tower to Kaha'an
+**Timeline:** The ceremony — weeks after the Chapter 10 agreement, once the Crown has completed its journey from the Ivory Tower to Kaha'an
 **Characters:** Xion, Elara, assembled court, Urathan delegation
 **Emotional work:** Wonder and legitimacy. The chapter delivers on the promise of every preceding test — the wards, the throne, the eyes — and does it publicly, in front of every faction that has been watching, waiting, measuring. Her rule was never in doubt — that was settled at her coronation. What settles here is larger and more external: an artifact Uratha withheld from Balisha for three centuries answers to her, publicly, before every faction that came to measure her. What the chapter leaves open, quietly, is a question the court does not know to ask.
 **POV:** Xion
@@ -49,4 +49,4 @@
 
 **The Gunastran downstream:** The chapter doesn't need to articulate this internally — it's not Xion's thought and it's not the room's thought — but the structure needs to carry it: Balisha now possesses both Lathion (active, however complex) and a functioning, publicly-activated divine artifact. The technology gap with Gunastran, already severe, just widened in the most visible way possible. This ceremony will be reported. That report will land on someone's desk. What happens next is not this chapter's problem, but this chapter caused it.
 
-**Kalden and the proposal (timing):** The Erulian marriage proposal does *not* originate here. Chapter 12 delivers it deliberately as a formal delegation days later, placed on the diplomatic record — its coldness and formality are the point, and a prior private approach at this reception would undercut that. So this chapter should not stage or tease Kalden broaching it. If Erulius is present at all, it is as one more foreign delegation watching the Crown blaze — and, if anything, the ceremony is part of what convinces Kalden the prize is worth a formal instrument. Leave the proposal to Chapter 12.
+**Kalden and the proposal (timing):** The Erulian marriage proposal does *not* originate here. Chapter 13 delivers it deliberately as a formal delegation days later, placed on the diplomatic record — its coldness and formality are the point, and a prior private approach at this reception would undercut that. So this chapter should not stage or tease Kalden broaching it. If Erulius is present at all, it is as one more foreign delegation watching the Crown blaze — and, if anything, the ceremony is part of what convinces Kalden the prize is worth a formal instrument. Leave the proposal to Chapter 13.

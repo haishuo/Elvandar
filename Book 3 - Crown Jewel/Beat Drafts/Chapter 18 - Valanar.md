@@ -1,4 +1,4 @@
-# Chapter 17: Valanar
+# Chapter 18: Valanar
 
 **Timeline:** Return to Balisha
 **Characters:** Xion, Elara, court, Farleen, friends
