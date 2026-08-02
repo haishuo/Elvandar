@@ -3425,3 +3425,54 @@ the gap after Book 2 and changing the ch4 draft's *months* to *weeks*, which lea
 untouched and makes Xion's ch1 question fresher rather than older. **But that is a change to a beat draft
 and to the shape of the Janice movement, and it is not mine to make.** Meanwhile ch1's prose has been
 written so it commits to nothing: the fire is not dated and its severity is not described.
+
+---
+
+## 2026-08-01 — Author's ruling: the shop never burned. Only the journals did.
+
+**The fire was Book 1, and it was paperwork.** B1 ch13 "The Closing Net" is explicit and I had not read it
+before writing the ch1 clerk beat: Janice takes the six journals off the shelf, squares them on her own
+front counter, lifts the chimney off her own lamp, and destroys **eight years of coded patient notation**
+minutes before the cartel men arrive — *"I'm giving you something. You don't get to write it down."* Her
+line about the consequence is *"They'll know it was **my shop**."*
+
+**The building never burns, and it cannot**, because the clinic is the back room of that shop and **Book 2
+uses it in nine chapters, through ch19**, where Xion is asleep on a cot in it as the book ends.
+
+### What was wrong, and where
+
+**The escalation was in the beat drafts, and I amplified it into prose.** Corrected across four documents:
+
+| was | now |
+|---|---|
+| *"the week the shop burned"* (ch4 A1) | the week **they took her** |
+| *"two streets from where the shop stood"* (ch4 A4) | two streets from **the shop** |
+| *"she does not mention **the fire**"* (ch4 A7) | the **journals** |
+| *"two streets from where **it stood**"* (ch4 A5) | the one she is **no longer allowed into** |
+| *"a better street than **the one that burned**"* (ch4 A8) | the one **she lost** |
+| *"the night **the shop burned**"* (ch4 A14) | the night **she burned the journals** |
+
+**And the correct reading is better than the error was.** What she loses is **the shop as hers, not the
+shop as a structure** — taken for eleven days over records that no longer existed, and never allowed back.
+That is precisely why Book 2 can call the place *the dead clinic* and *the rooms that had been the clinic*
+while Xion is still living in them: the trade is finished, the front is shut, and he is in the back of a
+building that stopped being hers. **The prose was already telling us this and nobody had listened to it.**
+
+A standing note is now in the ch4 draft: **never write the fire as the shop burning.** It is a woman
+burning paperwork on a counter, and the force of it is how small and deliberate the act is.
+
+### And the eight-years figure was wrong in three more places
+
+Sweeping for it turned up the same superseded *five years* in **ch4 A9** (*"the thing he did for five
+years… she gave him five years of cover"*, in a draft that says **eight** twice elsewhere), **ch18
+"Valanar"**, and **`book3_chapter_skeleton.md`**. All corrected. **The repo is now clean of it.**
+
+### The pattern, stated plainly
+
+**Three author catches on one chapter, and all three originated in the beat drafts rather than in the
+prose** — Master Fen's five years, Janice's vetoed eyesight, and the shop fire. The drafts predate rulings
+that were applied to the sheets and to Book 1 without being swept forward into Book 3.
+
+**Working rule for the rest of this prose pass, in addition to the timeline check already recorded:
+verify any Book 1 or Book 2 *event* against that book's prose before writing it, not against the Book 3
+draft that references it.** The draft is the plan; the earlier book is the fact.
