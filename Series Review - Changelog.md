@@ -3748,3 +3748,11 @@ interval, in either direction.
 and sixteen months makes them 24 and 21 unless birthdays are never marked. That is an author decision —
 either treat the ages as Book-1 facts and never state one again after Book 1, or age them and pin the birth
 years. **Not to be resolved by writing an age into a chapter.**
+
+**Stale footer caught in the same pass.** Ch11's *"Kalden and the proposal (timing)"* note described
+ch13's approach as *"a formal delegation... placed on the diplomatic record — its coldness and formality
+are the point."* Ch13 does the exact opposite: a single confidential envoy, a sealed personal missive,
+deliberately off the ledger, because Kalden is double-gaming Gunastran and a public instrument would
+expose him. The footer predates the secrecy decision and never got swept. Corrected — and it is worth
+noting **how** it was found, which was not by looking for it: it surfaced only because the reordering
+forced a full read of ch11's footers. Nothing downstream of a beat draft complains when it drifts.
