@@ -90,7 +90,18 @@ This is the line the book turns on. Not because it's a rhetorical triumph — Me
 
 ## ACT III: RONAS'S LAST WARNING
 
-**Emotional arc: The antagonist who is right — and who warned them**
+**Emotional arc: They listened. They planned. The plan was not enough.**
+
+> **The causality was wrong and is now corrected (2026-08-02, author's ruling).** The earlier version of
+> this act turned on *"Ronas warned them and they didn't listen."* That cannot hold. Melina has three
+> years of models. Xion personally watched Ronas's lieutenants come off the leash in Book 2. **The woman
+> Melina is named for was killed by that exact failure**, and Ronas then says it out loud a third time.
+> Under those conditions the vacuum cannot surprise the Valanars, and writing it as though it does
+> requires Melina to ignore the most relevant evidence in her own life (rule 2) and requires Xion to have
+> failed to pass on the one lesson his sister's death taught him (rule 2 again).
+>
+> **They listened. They planned for it specifically. It was not enough** — and the reason it was not
+> enough is exact rather than convenient. See below.
 
 The decision is made. The relocation begins. And Ronas must be dealt with — because the Warrens cannot be emptied while the Slavers control the infrastructure of daily survival inside them.
 
@@ -108,15 +119,31 @@ His arguments aren't entirely wrong:
 
 He's not wrong about any of it. He's wrong about the conclusion — that the solution is to leave him in charge indefinitely. But his operational concerns are legitimate, and dismissing them as the self-serving arguments of a criminal is exactly the kind of mistake that costs lives.
 
+**And they do not make that mistake. This is the load-bearing correction.** Melina has an answer to every line of it, and the answers are good, because she has been building them for three years: receiving cities staged and staffed, transitional order arranged with the Long Knives rather than imposed by soldiers who don't know the tunnels, the dependency networks mapped street by street. **And she has a plan for the lieutenants specifically** — of course she does. It is the founding wound of her family. She is named for the woman it killed.
+
+**What she planned for was a succession contest**, and that is the whole tragedy in one sentence. Rivals competing to inherit Ronas's position: who moves on which chokepoint, who holds the water stations, who can be bought, who can be isolated, which alliances form in the first week. That is a legible problem. It has actors, it has ends, it has a shape. **It is precisely the kind of thing her methods are for**, and her model of it is very good.
+
+What she gets is not a contest.
+
 **Ronas goes down.** He does not surrender. He does not negotiate a graceful exit. Ronas Dermir is the Slaver King — not as a title but as an identity, the only version of himself he has ever been. When the crown moves to remove him, his reaction is not pragmatic retreat but a final, defiant stand. He goes down swinging, the way he lived. There's a brutal kind of honor in it.
 
 And the psychos are loose.
 
 Remember Melina? Remember what happened when Rosik told Ronas the leash was off? The lieutenants — the ones Melina identified as "worse" than their boss — operated independently. The violence escalated beyond anything the disciplined system would have permitted. That was with Ronas still nominally in charge, just not restraining them.
 
-Now Ronas is gone entirely. And every predator, every psychopath, every violent opportunist he spent decades keeping leashed is free. The Warrens descend into chaos — not because the relocation is wrong but because the timing and execution created a power vacuum in an environment where power vacuums fill with blood.
+Now Ronas is gone entirely. And every predator, every psychopath, every violent opportunist he spent decades keeping leashed is free.
 
-**What the reader should feel:** Horror — because Ronas warned them and they didn't listen. Not because they should have left him in charge, but because they should have planned for exactly the scenario he described. The operational concerns he raised weren't self-serving fiction. They were accurate predictions of what would happen. The failure isn't the decision to act — it's the failure to take the enemy's warning seriously because it came from the enemy.
+### Why three years of models could not hold it, and the reason is technical
+
+**Book 2 already wrote this diagnosis, in Farleen's mouth and in Xion's head, and Book 6 should use the same mechanism rather than invent one.** B2 ch14: the Surface Warrens had always run on an arithmetic — who you were, who you belonged to, what it would cost a man to touch you — and everybody down there could do the sum from ten paces. Then Farleen comes back and says: *"Nobody's counting… It isn't that it's violent. It's that it's stopped being **for** anything."* And Xion, doing the thing his father made him able to do, looks for the plan across three days of reports. *"There wasn't one."*
+
+**A model is a representation of actors pursuing ends. That is what modelling *is*.** Melina's three years correctly captured every part of the Warrens that had an objective function — Ronas's organisation, the water dependencies, the receiving capacity, the sequencing, and the lieutenants' *incentives*. **Her model did not miss a variable. It reached the edge of what a model can be.** You cannot forecast the behaviour of men who have stopped wanting things, because there is no quantity in them to forecast. The violence takes nothing, opens no negotiation, guards no asset, frightens nobody toward any table. It is not a worse version of the scenario she planned for. It is a different category of event, and no amount of further refinement would have produced it, because refinement makes a model *more precise about actors* and the problem is that the actors stopped being actors.
+
+**State the principle once, in the narration, and never as a proverb in anyone's mouth.** The more carefully a thing is built proof against failure, the more particular the failure that finds it — and a plan's blind spot always sits exactly where its author was most confident. **No modern saying, no fool-and-foolproof line**; it is out of register and it would flatten the thing into a joke.
+
+**And Ronas was wrong too, which deepens him rather than diminishing him.** He predicted his lieutenants running wild — a motivated, legible forecast from an Engineer who understands his own system's failure modes better than anyone alive. He was right that they could not plan for it. **He was wrong to believe he could describe it**, because what came was not his system failing, and collapse is not a system state. The man who understood the Warrens best had a model too, and it broke in the same place hers did.
+
+**What the reader should feel:** not *they didn't listen* — they did, and it is worse. Horror at the discovery that **listening was not the variable.** They took the enemy's warning seriously, planned against exactly what he described, staged it, resourced it, and were beaten by something that had no plan of its own to beat. The failure is not moral and not a lapse of attention. It is the discovery that preparation has a boundary, and that everybody in the room found it at the same moment.
 
 ---
 
@@ -126,7 +153,17 @@ Now Ronas is gone entirely. And every predator, every psychopath, every violent 
 
 The violence in the Warrens is spilling upward. The Arol Batae — the desert warriors who protect the throne — work to contain it, preventing the chaos from reaching the city above. But containment isn't resolution. People are dying below.
 
-This is partly Tiberian's doing. He knew — of course he knew — that removing Ronas would have consequences. Ronas *told* him. But like father, like son: Xion underestimated the cost of unleashing Ronas's lieutenants in Book 2, and Tiberian underestimated the cost of removing Ronas entirely. The parallels are precise and damning. The prince who charged into Silaris on moral conviction charged into the Warrens on the same conviction, and this time the cost is worse than even his worst imagination.
+This is partly Tiberian's doing. He knew — of course he knew — that removing Ronas would have consequences. Ronas *told* him, and he did not wave it away; the plan he pushed for was built against it. The cost is worse than even his worst imagination anyway.
+
+### The Xion parallel, and it is not "like father, like son"
+
+**The old phrasing had Xion *underestimating* the lieutenants in Book 2. He didn't.** B2 ch14 is unambiguous and it is the best material this book has to draw on. Xion had a plan for Rosik. He had lain awake building it, he had his answers ready, he had staked everything on *"the whole shape of the long bloodless bargaining he'd been certain would open."* He braced for his father, and his father did not come. And when the reports piled up he did the one thing he could always do — he looked for the plan underneath, the cold sum any act however ugly was meant to come to — **and there wasn't one.**
+
+The line the chapter lands on is the one Book 6 is a variation of: *"the models were his one inheritance, his one reliable tool, and they had just failed him utterly, **on the single man he had been surest he could read.**"*
+
+**That is the rhyme. Not father-and-son making the same mistake — father and daughter failing at their strongest point.** Xion's certainty about Rosik was not laziness; it was twenty-three years of the most careful reading he had ever done, and the reading was correct right up until the man stopped being someone a reading applies to. Melina's three years were not delay dressed as diligence; they were genuinely excellent work, and the excellence was on the axis that turned out not to matter. **Both of them are destroyed by the part of the problem they had most reason to feel safe about.** Preparation does not remove your blind spot. It moves it to wherever your confidence is.
+
+**Xion should recognise it and should not say most of it.** He has been here. He knows the specific texture of a model failing — not being wrong at the edges, but the ground going out from under the whole method — and he is the only person alive who can tell his daughter that it happens to people who did everything right. **Whether he manages to say it is a Book 6 decision. That he recognises it in the first hour is not.** Keep him well clear of comfort-by-instruction: the man who spent Book 2 discovering this does not lecture about it.
 
 Tiberian will not sit in the palace while people die in the tunnels — especially not when the people dying are dying, in part, because of a decision he pushed for. The descent is not just intervention. It's atonement.
 
@@ -158,11 +195,15 @@ Tiberian emerges from the Warrens. The violence is suppressed. The relocation ca
 
 He is devastated. Some part of him wanted to believe that if he just moved *fast enough*, he could save everyone. He couldn't. People died in the crossfire. Innocents. The same kind of people he went down there to save.
 
-But he doesn't regret the decision. He believes — and the evidence supports him — that further delay would have killed *more* people. The water systems were failing. The psychos were loose regardless once Ronas's authority was challenged. Every day of inaction was a day the body count grew. The choice wasn't between action and safety. It was between action now and action later, with the body count higher each time they waited.
+But he doesn't regret the decision. He believes — and the evidence supports him — that further delay would have killed *more* people. The water systems were failing. Every day of inaction was a day the body count grew. The choice wasn't between action and safety. It was between action now and action later, with the body count higher each time they waited.
 
-Melina processes the aftermath differently. Her models were right about the complexity. Her models were also right that the complexity could be managed — it just required starting rather than perfecting. The three years of refinement didn't prevent the chaos. They just ensured that when the chaos came, the receiving infrastructure was ready. Her work wasn't wasted. But her delay was.
+**Tiberian's line to his sister, and it must carry its own concession.** He is too kind to put it plainly and he says it anyway, sideways, in the tone of a man who has been down there and come back up: *three years of models, and reality did what it liked with them.* And then the part that makes it land instead of gloat — **he did not expect it to be this bad either.** He admits that first, or he admits it immediately after, but he admits it. Without the concession he is a brother scoring a point off a grieving woman, which is not who he is and would cost the scene everything. **Write the whole exchange as two people who were both wrong arriving at it from opposite directions**, not as a verdict delivered.
 
-The synthesis: Tiberian was wrong in tone but right in substance. Melina was wrong in timing but right in preparation. Together they produced an outcome that neither could have achieved alone — but that outcome includes a body count that both of them carry.
+**Because Tiberian is not vindicated, and the book must be honest about it.** If the collapse could not be modelled, then it could not be modelled three years earlier either — and three years earlier there were no receiving cities, no staged water capacity, no mapped dependencies. **Acting sooner would have hit the same chaos with less underneath it.** His charge was right about the cost of waiting and wrong about what speed buys. Her caution was right about the complexity and wrong about what precision buys. **Neither method was going to make this safe, and the belief that some method would is the thing they both actually held.**
+
+Melina processes it differently, and her lesson is not *I should have moved faster.* It is worse and more useful: **she was buying something that was not for sale.** Three years of refinement did not fail to prevent the chaos — refinement was never the sort of thing that could. What it did buy was real and she should be allowed to keep it: when the collapse came, the receiving infrastructure existed, and that is the only reason the relocation can proceed at all. **Her work was not wasted. Her theory of what the work was for was wrong.**
+
+The synthesis is therefore not *he was right in substance, she was right in preparation.* It is that both of them held the same unexamined belief — that enough of the right thing, done well enough, makes an irreversible act survivable — and the Warrens took it off them in the same week. What they build afterward, they build knowing better. That is the partnership the rest of the series runs on, and it costs a body count that both of them carry.
 
 **The relocation begins in earnest.** Not perfectly. Not cleanly. But it begins — people moving from dying tunnels to green cities built on reclaimed land, from darkness to light, from infrastructure that was failing to infrastructure that works. It's the largest humanitarian operation in Elvandar's history. It's messy. It's necessary. It's happening.
 
@@ -170,11 +211,15 @@ The synthesis: Tiberian was wrong in tone but right in substance. Melina was wro
 
 ## Structural Notes
 
-**The three-year delay as the villain:** The most important structural choice in this book is making inaction the antagonist. Not Ronas — Ronas is the man who is right about the operational reality. Not Melina — Melina's caution is genuine and well-founded. The villain is the *gap* between knowing what's right and doing it. Three years of meetings, revisions, studies, and adjustments while water systems died and children got sick. The book should make the reader feel every month of that gap.
+**The three-year delay as the villain — still true, but for a different reason than the first draft had.** The structural choice stands: inaction is the antagonist, not Ronas and not Melina. What changes is *why* the delay is damning. It is **not** that they would have got it right if they had started sooner — they wouldn't have; the thing that broke was never inside the model's domain, and three years earlier there would have been less underneath the collapse, not more.
+
+**The delay is villainous because of what it was bought with and what it was bought for.** Every month of refinement was a month of children in failing tunnels, exchanged for greater precision about the part of the problem that was never going to be the problem. The gap between knowing what's right and doing it was funded by a promise that could not be kept — that enough modelling makes an irreversible act safe. **The reader should feel every month of that gap, and then feel it a second time, retroactively, on learning what the months purchased.** That is a harder and better indictment than *they should have hurried*, and it does not require anybody in the book to have been careless.
 
 **The dead child:** This is the emotional center. Not a dramatic death scene — a *gap*. The child who was alive in Act I is dead by Act II. The reader should feel the absence like a missing tooth. No one killed this child. The plan killed this child, by not being ready in time.
 
-**Ronas as tragic figure:** Ronas is not the villain here. He's the man who held the worst place in the city together through force and discipline for twenty years, who warned everyone what would happen when he was removed, and who was right. His removal is still necessary — his system was monstrous. But his operational warnings deserved more respect than they received. The tragedy is that the person who understood the Warrens best was the person the heroes were least inclined to listen to.
+**Ronas as tragic figure:** Ronas is not the villain here. He's the man who held the worst place in the city together through force and discipline for twenty years, who warned everyone what would happen when he was removed, and who was substantially right. His removal is still necessary — his system was monstrous.
+
+**But the tragedy is no longer "nobody listened to him."** They did. His warnings got the respect they deserved and were planned against in detail, and it made no difference — which is worse for everyone including him. **And he was wrong in the same way Melina was wrong**, which is the most interesting thing about him in this book: he forecast his lieutenants running wild, a motivated and legible prediction from an Engineer who genuinely does understand his own system's failure modes better than anyone alive. He was right that they could not plan for it. He was wrong to think he was describing it. Collapse is not a system state, and the man with the best model of the Warrens still had a *model*. **The person who understood the place best could not predict its end either.**
 
 **Ronas's fate:** Ronas Dermir cannot imagine not being the Slaver King. It's not a title he holds — it's his identity, the thing that makes him *him*. When that identity is threatened, his reaction is not retreat, not negotiation, not the pragmatic surrender his engineering brain might otherwise calculate. It's a final blaze of glory. He goes down the way he lived: swinging. There's a brutal kind of honor in that — the man who held the worst place in the city together for twenty years choosing to die on his feet rather than live as something less than what he was. He goes down, and the vacuum he predicted opens exactly the way he said it would.
 
@@ -187,6 +232,10 @@ The synthesis: Tiberian was wrong in tone but right in substance. Melina was wro
 **Xion and Elara's complicity:** The book must honestly address the twenty years of inaction. Not as villainy but as the human tendency to postpone what's hard. The Warrens existed under their rule for two decades. Melina died there. The conditions that produced Ronas persisted because addressing them was always tomorrow's problem. Their children doing what they couldn't is both an indictment and a vindication.
 
 **The Melina echo:** Melina died in the Warrens — killed by the chaos Rosik unleashed in Book 2. The relocation initiative is, among other things, the final resolution of the conditions that made her death possible. Xion cannot approach the Warrens without remembering his sister.
+
+**And the naming is doing work the earlier draft left on the table.** Melina Valanar is named for a woman killed by violence that had stopped being *for* anything — and her answer to inheriting that name has been to become the most rigorous modeller in the empire. **That is not a coincidence to point at; it is a characterisation to leave alone and let the reader find.** She built three years of models against the exact thing that killed the woman she is named for, and the models were good, and it happened again anyway. Nobody in the book says this to her. **Especially not Xion**, who would rather cut his hand off, and **especially not Tiberian**, who is her brother and is already carrying one hard thing he has to say to her.
+
+If the connection is ever made aloud it should be Melina herself, once, late, flatly, and to no one in particular.
 
 **Tone:** The grittiest book since Book 4. The Warrens sequences should feel claustrophobic, dangerous, and real. The political sequences should feel frustrating — the reader watching reasonable people make reasonable arguments while people die. The contrast between the two registers is the point.
 

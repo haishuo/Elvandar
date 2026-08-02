@@ -3911,3 +3911,106 @@ leaves" section in Act II; the precedent cost added to Act III) · `People/Tiber
 shadow and the Book 5 summary) · `People/Kai Issamil.md` (what his one line settles, and that it must never
 be explained) · `Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md` (new doctrine section) ·
 `Places/Kaha'an/kahaan_political_factions.md` (pointer at the loose phrasing). No prose exists for Book 5.
+
+---
+
+## 2026-08-02 — Book 6's causality corrected: they listened, they planned, and the plan was not enough
+
+Author's ruling. Act III turned on *"Ronas warned them and they didn't listen,"* and it cannot hold:
+
+- **Melina has three years of models.** Ignoring the single most relevant warning in her professional life
+  is not something this character does — rule 2.
+- **Xion personally watched Ronas's lieutenants come off the leash in Book 2.**
+- **Melina Valanar is named for the woman that failure killed.**
+- **Ronas then says it out loud a third time.**
+
+Under those conditions the vacuum cannot surprise the Valanars, and writing it as though it does requires
+Xion to have failed to pass on the one lesson his sister's death taught him. Two rule-2 violations to buy
+one plot beat.
+
+**The replacement, in the author's words: they listened, they planned for it, their plan was not enough.**
+
+### The reason the plan fails, which had to be exact rather than convenient
+
+**Book 2 ch14 already wrote the diagnosis and Book 6 now uses the same mechanism instead of inventing one.**
+The Surface Warrens always ran on an arithmetic — who you were, who you belonged to, what it would cost a
+man to touch you — and everyone could do the sum from ten paces. Then Farleen: *"Nobody's counting… It
+isn't that it's violent. It's that it's stopped being **for** anything."* And Xion, looking for the plan
+under it across three days of reports: *"There wasn't one."*
+
+**A model is a representation of actors pursuing ends. That is what modelling is.** Melina's three years
+captured everything in the Warrens with an objective function — Ronas's organisation, the water
+dependencies, the receiving capacity, the sequencing, and the lieutenants' *incentives*. **Her model did
+not miss a variable; it reached the edge of what a model can be.** Men who have stopped wanting things have
+no quantity in them to forecast, and refinement only makes a model more precise about actors.
+
+**And she did plan for the lieutenants — she planned for a succession contest.** Rivals competing to
+inherit: chokepoints, water stations, who can be bought, which alliances form in week one. Legible, with
+actors and ends, and exactly what her methods are for. What arrives is not a contest. That is the whole
+tragedy in one sentence, and it makes her diligent rather than negligent.
+
+**The principle is stated once in narration and never as a proverb in anyone's mouth**: the more carefully
+a thing is built proof against failure, the more particular the failure that finds it. The author's
+foolproof/better-fool saying is the right idea and the wrong register — modern idiom, and it would flatten
+it into a joke.
+
+### The Xion parallel is not "like father, like son"
+
+The old text had Xion *underestimating* the lieutenants in Book 2. **He didn't.** B2 ch14: he had a plan for
+Rosik, had lain awake building it, had his answers ready, had staked everything on the long bloodless
+bargaining he was certain would open. He braced for his father and his father did not come. And the line
+the chapter lands on is the one Book 6 is now a variation of — *"the models were his one inheritance, his
+one reliable tool, and they had just failed him utterly, **on the single man he had been surest he could
+read.**"*
+
+**So the rhyme is father and daughter failing at their strongest point.** Xion's certainty about Rosik was
+twenty-three years of the most careful reading he ever did, correct right up until the man stopped being
+someone a reading applies to. Melina's three years were genuinely excellent work on the axis that turned
+out not to matter. **Preparation does not remove a blind spot; it moves it to wherever the confidence is.**
+Xion recognises it in the first hour and should say almost none of it — the man who spent Book 2
+discovering this does not lecture about it.
+
+### Two things this forced, both improvements
+
+**Ronas is wrong too, and it deepens him.** He forecast his lieutenants running wild — a motivated,
+legible prediction from an Engineer who genuinely does understand his own system's failure modes. He was
+right that they could not plan for it and **wrong to believe he could describe it**, because collapse is
+not a system state. The man with the best model of the Warrens still had a *model*, and it broke where hers
+did. The tragedy is no longer "nobody listened to him"; it is that listening was not the variable.
+
+**Tiberian is not vindicated either, and the book now says so.** If the collapse could not be modelled it
+could not be modelled three years earlier, and three years earlier there were no receiving cities and no
+staged water capacity — **acting sooner would have met the same chaos with less underneath it.** His line
+to his sister (*three years of models, and reality did what it liked with them*) therefore has to carry his
+own concession — he did not expect it this bad either — or he is a brother scoring a point off a grieving
+woman, which is not who he is.
+
+**The synthesis changes accordingly.** Not *he was right in substance, she was right in preparation.* Both
+held the same unexamined belief from opposite ends — that enough of the right thing, done well enough,
+makes an irreversible act survivable — and the Warrens took it off both of them in the same week.
+
+### The three-year delay is still the villain, for a better reason
+
+The structural choice stands; the indictment changes. **Not** that they would have got it right sooner —
+they wouldn't have. The delay is damning because of **what the months were bought with and bought for**:
+children in failing tunnels, exchanged for precision about the part that was never going to be the problem,
+funded by a promise that could not be kept. The reader feels the gap once in Act II and again
+retroactively, on learning what it purchased. Harder than *they should have hurried*, and it requires
+nobody in the book to have been careless.
+
+### The naming, now doing work it wasn't
+
+Melina Valanar is named for a woman killed by violence that had stopped being *for* anything, and her answer
+to that inheritance was to become the most rigorous modeller in the empire — and it happened again anyway.
+**Nobody says this to her.** Especially not Xion, and especially not Tiberian, who is already carrying one
+hard thing he has to say to her. If it is ever said aloud it is Melina herself, once, late, flatly, to no
+one in particular.
+
+### Files
+
+`Book 6 - Necessary Measures/book6_outline.md` (Act III emotional arc and the correction note; the
+"they planned for a succession contest" beat; a new "Why three years of models could not hold it" section;
+the Act IV Xion parallel rewritten; the aftermath and synthesis; three structural notes — the delay, Ronas,
+and the Melina echo) · `People/Melina Valanar.md` (the harder half of her lesson) · `People/Tiberian
+Valanar.md` (right about waiting, wrong about what speed buys; the concession his line must carry). No
+prose exists for Book 6.

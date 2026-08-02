@@ -138,6 +138,14 @@ The midnight confrontation breaks her. Not because Tiberian is right and she's w
 
 **The Lesson:** Perfect planning can become an excuse for inaction. The pursuit of certainty, when certainty is impossible, is paralysis wearing the mask of prudence. She learns to act on sufficient understanding rather than complete understanding — to accept that implementation will reveal what planning cannot.
 
+**And then the Warrens teach her the harder half, which is not about sufficiency at all.** *(Causality corrected 2026-08-02; see `book6_outline.md`.)* She does not ignore Ronas's warning — she plans against it in detail, because the lieutenants coming off the leash is the founding wound of her family and **she is named for the woman it killed.** What she plans for is a **succession contest**: rivals competing to inherit his position, chokepoints, water stations, who can be bought, which alliances form in week one. That is a legible problem with actors and ends, and her model of it is excellent.
+
+**What arrives is not a contest, and the reason her work cannot hold it is technical rather than moral.** A model represents actors pursuing ends; that is what modelling *is*. She captured everything in the Warrens that had an objective function. Men who have stopped wanting things have no quantity in them to forecast — B2 ch14's diagnosis, in Farleen's words: *"It isn't that it's violent. It's that it's stopped being **for** anything."* **Her model did not miss a variable. It reached the edge of what a model can be**, and no further refinement would have changed that, because refinement makes a model more precise about actors.
+
+So her aftermath lesson is not *I should have moved faster.* It is that **she was buying something that was not for sale** — that no quantity of the right work, done well enough, makes an irreversible act survivable. What the three years did buy was real and she keeps it: the receiving infrastructure existed when the collapse came, which is the only reason the relocation proceeds at all. **Her work was not wasted; her theory of what the work was for was wrong.**
+
+**The naming is doing quiet work here and nobody says it to her.** She inherited the name of a woman killed by violence that had stopped being for anything, and her answer was to become the most rigorous modeller in the empire — and it happened again anyway. Leave it for the reader. If it is ever said aloud it is Melina herself, once, late, flatly, to no one in particular.
+
 Together, the twins present the relocation initiative to their parents: not perfect, but necessary. Details to be refined through doing rather than studying.
 
 ### Book 7: Last Debts (Age 22)
