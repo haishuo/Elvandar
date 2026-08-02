@@ -3818,3 +3818,96 @@ Added to `Places/Languages of Elvandar.md` alongside the existing V-initial haza
 *"Kira Voss (Bakarn Resistance Organizer)"*) · `Places/Languages of Elvandar.md`. No prose exists for
 Book 4, so nothing else was touched. Verified zero residue of *Kira*, *Karven*, *Lydia* or *Voss* in
 Book 4 and in Harkim's sheet.
+
+---
+
+## 2026-08-02 — How Tiberian legally leaves in Book 5: not insubordination, and the outline already half-knew
+
+Author's operational question: how does the Crown Prince march out with troops against the Empress's
+wishes without it being mutiny? Xion is not a military commander, so the offence would run against Elara —
+who is both sovereign and mother.
+
+**First, the frame was wrong, and correcting it dissolves most of the problem.** Tiberian is not in the
+chain of command. He is the Crown Prince, not a serving officer; there is no commission for him to violate
+and no court-martial at the end of it. What he can commit against Elara is a **political** offence, not a
+military one — which is harder for her to answer and much better for the book, because she cannot punish
+him and cannot pretend it did not happen.
+
+### The outline already named the force
+
+`book5_outline.md:89` — Kai: *"I'll get the **Iron contingent** ready."* Iron is Sa Ko Ren's cartel, with
+its own armed security since Book 1 and its own supplier houses in `houses_of_kahaan.md`. **That is a
+private force, not the imperial army**, and nobody had noticed the line was doing constitutional work.
+
+**But it had a flaw as written:** it makes the departure *Sa Ko Ren's* decision. A cartel head arming the
+heir against the crown's declared position is the Coterie's ghost walking — a far larger event than a young
+man's lunge, and the wrong size for this book.
+
+### The mechanism, as now recorded
+
+1. **Elara has a legal bar, not a maternal objection.** Balisha is inside the Tripartite Alliance and the
+   post-war settlement; a unilateral deployment into a neutral city-state requires Alliance consultation at
+   minimum. Her *no* is an instrument. Established in Act I rather than invented in Act II.
+2. **Tiberian's household guard** — his own retinue, sworn to him, small by definition. This is the
+   load-bearing half: it is why there is no charge to bring.
+3. **Iron volunteers through Kai**, under private arrangement — his inherited family connection into Iron
+   territory, *not* Sa Ko committing her cartel.
+
+**Lawful in the letter, unmistakably defiant in the spirit.** Elara's bar was real; he did not break it; he
+went around it with things it never covered.
+
+### On the Thermopylae analogue, which is the opposite of how it is usually remembered
+
+The author's instinct was that the 300 were not the official Spartan army. They were — Spartiates picked by
+Leonidas and dispatched with the state's authority. What made the number small was that the **Carneia
+festival and the Olympic truce legally barred full mobilisation**, so Sparta lawfully sent an advance guard
+drawn from the king's own men, with the main army to follow.
+
+**The corrected version is the more useful one**, which is why it is now written into the outline: *a
+lawful deployment made small by a legal bar on mobilisation* is exactly the shape wanted. It gives Tiberian
+something to be right about, denies him the clean glory of rebellion, and keeps the consequence political
+rather than punitive.
+
+### The loaded gun found while checking, now defused
+
+`kahaan_political_factions.md` recorded the Tor'anar as **"sworn to Valanar blood specifically."** Written
+against twenty years in which exactly one Valanar was alive and the question could not arise — but read
+literally in any later book it obliges the corps to **every** member of the line, which hands a war-magic
+corps to any heir with a grievance and gives a disputed succession two of them. In Book 5 specifically, a
+devout Tor'anar could argue the oath obliges them to Tiberian, and a deliberately small intervention would
+acquire a war-magic detachment and change scale underneath the book.
+
+**Pinned: the oath runs to the reigning bearer, singular** — identified by the wards and the throne rather
+than by descent alone. Siblings, heirs and consorts are people the corps protects when instructed to, not
+people it takes orders from. **This costs the doctrine nothing** and in fact repairs it: a corps that would
+follow any Valanar had options during the regency and declined them, which is harder to explain than a
+corps with no legitimate bearer to answer to at all.
+
+### What Tiberian actually spends, since it cannot be punishment
+
+Because the departure is lawful there is no discipline scene, and the book must not reach for one. **What
+he spends is precedent** — he has proved in public that a Valanar heir can raise a private force and act
+outside declared policy, and that the crown has no answer. Elara understands it before he does, and it is
+the harder half of her arc: her *no* was correct, her son going around it was correct, Silaris stands, and
+she has no instrument for all three being true at once. **A Founder would have felt the door open.
+Tiberian feels only that Silaris still stands** — which is exactly his Founder shadow demonstrated in a
+form he never sees.
+
+Book 6 already leans on *"the precedent of external intervention to protect vulnerable populations"* for
+the Warrens; that precedent is now **structural as well as moral**, and it is the kind of thing Ronas can
+point at when it is his turn to be intervened upon.
+
+### One deliberate rhyme, recorded so it is not pointed at
+
+Elara was bound by paper once before — B3 ch11, refusing Gunastran under the Uratha exclusivity compact —
+and that refusal started a continental war. **Neither she nor the narration makes the connection.** Xion
+might: he wrote the clause that bound her the first time. That he *notices* is not optional; whether he
+says anything is a Book 5 decision.
+
+### Files
+
+`Book 5 - Walled Garden/book5_outline.md` (legal bar added to the family debate; new "How he legally
+leaves" section in Act II; the precedent cost added to Act III) · `People/Tiberian Valanar.md` (Founder
+shadow and the Book 5 summary) · `People/Kai Issamil.md` (what his one line settles, and that it must never
+be explained) · `Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md` (new doctrine section) ·
+`Places/Kaha'an/kahaan_political_factions.md` (pointer at the loose phrasing). No prose exists for Book 5.

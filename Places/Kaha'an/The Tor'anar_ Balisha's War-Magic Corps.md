@@ -60,6 +60,16 @@ The Tor'anar's central, unbroken position for twenty years: **we answer to Valan
 
 This is not political neutrality. It's closer to a standing chain-of-command problem: without a legitimate Valanar to answer to, a disciplined military institution does not freelance into governance, however loudly its members might privately object to how the city is being run. They have held that position since before anyone currently in power was old enough to test it.
 
+### The oath runs to the **reigning** bearer, not to every Valanar
+
+**Pinned 2026-08-02, because the loose phrasing was a loaded gun.** *"We answer to Valanar blood"* was written against twenty years in which the question could not arise — there was exactly one Valanar alive, and she was hidden. Read literally in any later book it obliges the corps to **every** member of the line at once, which means a Valanar heir with a grievance has a war-magic corps available to them, and a disputed succession has two.
+
+**The doctrine is singular and always was.** The corps answers to the bearer of the crown: one authority at a time, identified by the wards and the throne rather than by descent alone. Siblings, heirs and consorts are people the Tor'anar protect when instructed to. They are not people the Tor'anar take orders from.
+
+**Note that this costs the doctrine nothing**, because the corps' whole discipline is *not acting without being asked by the right person* — the correction is a clarification of who the right person is, not a change of principle. Their twenty-year paralysis makes **more** sense under it, not less: a corps that would follow any Valanar had options during the regency and declined them, which is harder to explain than a corps that had no legitimate bearer to answer to at all.
+
+**Where this bites:** Book 5. Tiberian leaves for Silaris with a private force against the Empress's declared position, and under the loose reading a devout Tor'anar could argue the oath obliges them to the Crown Prince. It does not. **Nobody in the corps goes**, and nobody in the corps thinks it is a close question. See `Book 5 - Walled Garden/book5_outline.md` — if this were left ambiguous, a deliberately small intervention would acquire a war-magic detachment and the book would change scale underneath itself.
+
 **When the Gray Gate at the palace and the Ruby Throne flared to recognize Elara,** the Tor'anar felt it directly — they maintain whatever ancient system underlies the city's wards, and that recognition ran through instruments they were already watching. They knew before the bells finished ringing. Their acknowledgment of her was never really in doubt; confirming her blood and receiving an order from her are two different things, and they have not pushed past the first to force the second. They are not hiding. They are waiting to be used, the way they've been waiting for twenty years, because using themselves without being asked is the one thing their doctrine will not permit.
 
 ### Elara's Blind Spot

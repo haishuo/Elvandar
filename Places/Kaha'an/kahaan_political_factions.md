@@ -209,7 +209,12 @@ why the pivot to force after Book 1 is so fast. When the legal route dies, nothi
 **Not a faction. A fourth constitutional position, and the only one that never had to be argued.**
 
 The war-magic corps is sworn to Valanar blood specifically, holds that the Coterie has no jurisdiction over
-it whatsoever, and **never consented to the caretaker fiction in the first place.** Their answer to the
+it whatsoever, and **never consented to the caretaker fiction in the first place.** *(Read that as the
+**reigning** bearer, singular — one authority at a time, identified by the wards and the throne rather than
+by descent alone. The phrasing here was written against twenty years in which only one Valanar was alive
+and the question could not arise; taken literally in a later book it hands a war-magic corps to any heir
+with a grievance. Pinned down in `The Tor'anar_ Balisha's War-Magic Corps.md`, "The oath runs to the
+reigning bearer.")* Their answer to the
 question this document is organised around is that they do not recognise the question:
 
 > *We do not accept that authority flows from noble coalition-building. We know whom we serve.*

@@ -102,6 +102,10 @@ Kai's introduction is the whetstone-and-banter scene that establishes the partne
 
 By the end of the book, the reader has seen the partnership work. They understand that Kai is what makes Tiberian's Silaris intervention sustainable — that the Tiger Prince's bold maneuver did not consume Silaris's cultural treasury precisely because the Iron Boar was making sure the *right* half was the half being fought through.
 
+**What Kai's one line quietly settles, and it should never be explained.** *"I'll get the Iron contingent ready"* is also the answer to how the Crown Prince leaves Kaha'an without committing a crime. Kai does not offer to fetch the army, because the army is not available — Elara is barred from a unilateral deployment by the Alliance and the post-war settlement, and she has said so. He names **the one body he can personally raise**: Iron men, through the family connection his father bequeathed him, coming as volunteers under private arrangement rather than as Sa Ko Ren committing her cartel. Alongside Tiberian's own household guard, that is the whole force, and none of it is the crown's.
+
+**He works this out in the time it takes to say one sentence, and never mentions it.** That is the most Kai thing in the book: the legal problem everyone else would have needed a session to solve is handled inside an offer to help, and he does not seek credit for it or even flag that it was a problem. **Do not give him a line acknowledging the distinction** — the whole characterisation is that he saw it, solved it, and moved on to whether they were going to burn the wrong half of the city.
+
 ### Book 6: Necessary Measures
 
 Kai *insists* on going into the Warrens with Tiberian. Not asks. Not volunteers. Insists. This is the Caretaker third-tier expressing in its purest form for him — pack-loyalty operating beneath the level of choice. The Warrens descent is dangerous, the political stakes are real, and Kai has no specific assignment requiring his presence. He goes anyway. Because if Tib is going into the dark, Kai is going with him.
