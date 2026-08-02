@@ -32,7 +32,7 @@ The Compact strikes. Empirica falls in the opening chapter — not gradually but
 
 Harkim's immediate concern is Lira. He reaches their apartment to find her calmly packing, having already memorized evacuation routes from city maps she glimpsed once in his office. Her extraordinary capability and her vulnerability exist in the same person. He notes this the way he always has — as his sister being remarkable *despite* her condition, not *because of* a capability the system fails to measure.
 
-The occupation establishes itself. Field Commander Bregan Haldorn issues proclamations about "technological cooperation" that barely disguise the systematic confiscation of research. Chief Acquisitor Lydia Karven screens scholars by specialty, with those possessing Lathion knowledge receiving "special assignments."
+The occupation establishes itself. Field Commander Bregan Haldorn issues proclamations about "technological cooperation" that barely disguise the systematic confiscation of research. Chief Acquisitor Wilka Zarnstran screens scholars by specialty, with those possessing Lathion knowledge receiving "special assignments."
 
 Harkim observes the occupation through a scholar's lens. He is horrified by the violence against his fellow researchers, by the confiscation of knowledge, by the desecration of academic spaces. He barely notices what's happening in the bakarn districts. They're not his world. The Compact has less interest in controlling bakarn areas — no valuable knowledge there, in the Compact's assessment. In Harkim's assessment too, if he's honest.
 
@@ -46,11 +46,11 @@ A midnight visit from Research Director Emmett Thorne — the highest-ranking Ur
 
 **Emotional arc: Forced proximity to people he was taught to look past — the first cracks form**
 
-Under Gunastran supervision at the research center, Harkim observes their frustration with incomplete documentation — the Compact captured facilities but not the full knowledge base. Chief Acquisitor Karven personally interviews Harkim about his work, showing an intellectual curiosity that complicates simple enemy/ally categories.
+Under Gunastran supervision at the research center, Harkim observes their frustration with incomplete documentation — the Compact captured facilities but not the full knowledge base. Chief Acquisitor Zarnstran personally interviews Harkim about his work, showing an intellectual curiosity that complicates simple enemy/ally categories.
 
 The moral pressure builds from a specific direction: Lira's reconstructed schematics could solve practical problems — a neighbor's contaminated water, a failing heating system — but deploying them risks revealing her abilities. Harkim implements solutions carefully, disguising their sophistication.
 
-He encounters **Kira Voss**, a bakarn dockworker who notices his modified filtration components and hints at organized resistance. Harkim's reaction is genuine scholarly condescension — not performed for anyone's benefit. He talks down to her. He assumes she can't understand the technical work. He treats her the way the system taught him to treat bakarn.
+He encounters **Perrin Halmore**, a bakarn dockworker who notices his modified filtration components and hints at organized resistance. Harkim's reaction is genuine scholarly condescension — not performed for anyone's benefit. He talks down to her. He assumes she can't understand the technical work. He treats her the way the system taught him to treat bakarn.
 
 **Commander Darius Severen** — an Erulian officer who was once a defected Urathan scholar — is a particularly dangerous antagonist because he understands Urathan society from the inside. Harkim survives by leaning into the class prejudice Severen expects to see. The performance works because it *isn't entirely* a performance — and that overlap makes Harkim uncomfortable for the first time. Why was it so easy to play the part?
 
@@ -72,9 +72,9 @@ The resistance scales up. Lira becomes genuinely valuable — not just as Harkim
 
 Harkim tells himself: these are exceptions. Outliers, like Lira. The system is still fundamentally correct — it just misses some edge cases.
 
-**The exceptions accumulate.** A bakarn child predicts a structural collapse during a Compact raid, saving lives. Kira Voss's strategic thinking in organizing the resistance rivals any academic. Bakarn dock workers know the city's hidden infrastructure better than any scholar. The encoded knowledge network — Lira's innovation — works *because* of the bakarn classification: the Compact doesn't bother searching people the system said were incapable of intellectual contribution.
+**The exceptions accumulate.** A bakarn child predicts a structural collapse during a Compact raid, saving lives. Perrin Halmore's strategic thinking in organizing the resistance rivals any academic. Bakarn dock workers know the city's hidden infrastructure better than any scholar. The encoded knowledge network — Lira's innovation — works *because* of the bakarn classification: the Compact doesn't bother searching people the system said were incapable of intellectual contribution.
 
-When Harkim and Lira are separated during a Compact sweep, she survives on her own — navigating checkpoints by mimicking observed behaviors. When he finds her through Kira Voss's network, she's being protected by dock workers who sheltered her without demanding anything in return. No transaction. No leverage. Just people helping a person.
+When Harkim and Lira are separated during a Compact sweep, she survives on her own — navigating checkpoints by mimicking observed behaviors. When he finds her through Perrin Halmore's network, she's being protected by dock workers who sheltered her without demanding anything in return. No transaction. No leverage. Just people helping a person.
 
 The belief doesn't shatter in one moment. It erodes. Each encounter is a grain of sand removed from a foundation Harkim thought was bedrock.
 
@@ -98,7 +98,7 @@ The Alliance counteroffensive. Terinok warriors lead the assault on Empirica whi
 
 Commander Severen corners Harkim and Lira during the chaos. Severen is interesting because he's the dark mirror: a man who always understood the classification system's flaws but exploited them for personal advancement rather than questioning them. He defected from Uratha not because he disagreed with the system but because he could get a better deal elsewhere. Harkim looks at Severen and sees, with horrible clarity, what a system like Uratha's produces when it meets cynicism instead of belief. Lira's perfect recall of Severen's own tactical writings enables their escape.
 
-Chief Acquisitor Karven — the Gunastran intellectual who has been a complicated figure throughout — gets a final scene with Harkim. She's deduced Lira's abilities. But instead of leveraging this, she asks genuine questions about Uratha's system. Karven represents Gunastran's better nature: a civilization driven by the fear of obsolescence, staffed by people who are genuinely curious about how things work. The enemy was never simple.
+Chief Acquisitor Zarnstran — the Gunastran intellectual who has been a complicated figure throughout — gets a final scene with Harkim. She's deduced Lira's abilities. But instead of leveraging this, she asks genuine questions about Uratha's system. Zarnstran represents Gunastran's better nature: a civilization driven by the fear of obsolescence, staffed by people who are genuinely curious about how things work. The enemy was never simple.
 
 **The epilogue is where the rewrite matters most.**
 
@@ -137,9 +137,9 @@ In the years between Book 4 and Book 8, this notebook becomes a network. The net
 
 **Harkim's arc as the book's real war:** The title is "Harkim's War" — and Harkim's war is against his own assumptions. The external war provides the setting, the urgency, the pressure that forces him into proximity with people his worldview taught him to dismiss. The twin wars run in parallel: as the Compact is defeated externally, Harkim's worldview is defeated internally.
 
-**The true believer is more interesting than the secret rebel.** The reader watches Harkim condescend to Kira Voss and cringes. Watches him recoil from bakarn housing and feels frustrated. And then watches the belief crack, genuinely and painfully, and feels each crack alongside him. The arc earns its landing because the starting point was honest.
+**The true believer is more interesting than the secret rebel.** The reader watches Harkim condescend to Perrin Halmore and cringes. Watches him recoil from bakarn housing and feels frustrated. And then watches the belief crack, genuinely and painfully, and feels each crack alongside him. The arc earns its landing because the starting point was honest.
 
-**The Compact as multifaceted enemy:** Not uniformly evil. Commander Haldorn is competent. Chief Acquisitor Karven has genuine intellectual curiosity. Vartonne's Lord Mallory is absurd. Commander Severen is dangerous because he understands Urathan society. The Compact is an alliance of competing interests — echoing the reader's understanding from Book 3 that each member has legitimate grievances.
+**The Compact as multifaceted enemy:** Not uniformly evil. Commander Haldorn is competent. Chief Acquisitor Zarnstran has genuine intellectual curiosity. Vartonne's Lord Mallory is absurd. Commander Severen is dangerous because he understands Urathan society. The Compact is an alliance of competing interests — echoing the reader's understanding from Book 3 that each member has legitimate grievances.
 
 **What happens to Xion, Elara, and the others during this book:** They exist. The Alliance fights the war. Elara deploys Lathion technology. Xion coordinates strategy. The Terinok honor their oaths. All of this reaches Harkim as distant rumor and official proclamation. War looks different from the ground than from the throne room.
 

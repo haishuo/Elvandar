@@ -54,7 +54,7 @@ He hides her because she's his sister. Not because he thinks the system is wrong
 
 This is the Caretaker's capacity for compartmentalization at its most revealing. He cares about Lira without generalizing that care into care for people like Lira. The person he loves is exceptional; the category remains lesser. Love as exception-making, not as evidence.
 
-The occupation forces his Caretaker drive into uncomfortable proximity with bakarn lives. He is saved by people he condescended to. He watches Kira Voss organize resistance and cannot quite process it as evidence. He is grateful to the dockworkers who sheltered Lira — genuinely, warmly grateful — without extending that gratitude into revised categories. Gratitude and revision are different things.
+The occupation forces his Caretaker drive into uncomfortable proximity with bakarn lives. He is saved by people he condescended to. He watches Perrin Halmore organize resistance and cannot quite process it as evidence. He is grateful to the dockworkers who sheltered Lira — genuinely, warmly grateful — without extending that gratitude into revised categories. Gratitude and revision are different things.
 
 The revision comes anyway, slowly, despite him.
 
@@ -122,13 +122,13 @@ The Compact strikes. Empirica falls. Harkim's first instinct — his immediate, 
 
 He finds her calmly packing, having already reconstructed the optimal evacuation route from a map she glimpsed once in his office. He notes this the way he always has: as his sister being remarkable *despite* her condition. As an exception being exceptional.
 
-The occupation establishes itself around them. Chief Acquisitor Lydia Karven screens scholars by specialty. Research Director Emmett Thorne appears at midnight to warn him: she knows about Lira. Former Ilhamori Inspector Thalia Neth is asking about researchers with unusual cognitive profiles. Trust no one.
+The occupation establishes itself around them. Chief Acquisitor Wilka Zarnstran screens scholars by specialty. Research Director Emmett Thorne appears at midnight to warn him: she knows about Lira. Former Ilhamori Inspector Thalia Neth is asking about researchers with unusual cognitive profiles. Trust no one.
 
 Harkim observes the occupation through a scholar's lens, which means he barely notices what's happening in the bakarn districts. The Compact has less interest in controlling bakarn areas — no valuable knowledge there, in their assessment. In Harkim's assessment too, if he's honest.
 
 ### The Cracks Form
 
-Under Gunastran supervision at the research center, Harkim encounters **Kira Voss**: a bakarn dockworker who has noticed his modified filtration components and hints at organized resistance. His reaction is not performed — he talks down to her. He explains things at a level he would use for a child. He assumes, with complete sincerity and no cruelty, that she cannot understand the technical work. The system told him this, and he believed it, and this is the belief behaving.
+Under Gunastran supervision at the research center, Harkim encounters **Perrin Halmore**: a bakarn dockworker who has noticed his modified filtration components and hints at organized resistance. His reaction is not performed — he talks down to her. He explains things at a level he would use for a child. He assumes, with complete sincerity and no cruelty, that she cannot understand the technical work. The system told him this, and he believed it, and this is the belief behaving.
 
 He meets **Commander Darius Severen** — an Erulian officer who was once a Urathan scholar, who understands Urathan society from the inside. Harkim survives by leaning into the class prejudice Severen expects to see. This works because it is not entirely a performance. And the moment when Harkim realizes it is not entirely a performance is the first crack: the question he cannot quite suppress. *Why was that so easy?*
 
@@ -138,7 +138,7 @@ Necessity forces him and Lira into the bakarn district, where they discover Neth
 
 The resistance scales up. Exceptions accumulate.
 
-A bakarn child predicts a structural collapse, saving lives. Kira Voss's strategic thinking in organizing resistance rivals any academic work Harkim has encountered. Dock workers navigate the city's hidden infrastructure with expertise no scholar possesses. The encoded knowledge network — Lira's innovation, deployed by the people Harkim's model classified as incapable of intellectual contribution — works precisely *because* of their classification: the Compact doesn't bother searching people it considers incapable.
+A bakarn child predicts a structural collapse, saving lives. Perrin Halmore's strategic thinking in organizing resistance rivals any academic work Harkim has encountered. Dock workers navigate the city's hidden infrastructure with expertise no scholar possesses. The encoded knowledge network — Lira's innovation, deployed by the people Harkim's model classified as incapable of intellectual contribution — works precisely *because* of their classification: the Compact doesn't bother searching people it considers incapable.
 
 He tells himself: these are exceptions. Outliers. The system is still correct — it just misses some edge cases.
 
@@ -156,7 +156,7 @@ The Alliance counteroffensive. Liberation comes messily, violently, for real.
 
 **Commander Severen** corners him and Lira during the chaos. Lira's perfect recall of Severen's own tactical writings — memorized from a single reading of documents she glimpsed months before — enables their escape. The mirror image: the person the system classified as deficient, deploying the extraordinary capability the system never measured, in order to survive a confrontation with the man who exploited the system's categories for personal advancement. Harkim does not miss the irony. He notes it.
 
-**Chief Acquisitor Karven** has deduced Lira's abilities. But instead of leveraging this, she asks genuine questions about Uratha's system. The enemy was never simple.
+**Chief Acquisitor Zarnstran** has deduced Lira's abilities. But instead of leveraging this, she asks genuine questions about Uratha's system. The enemy was never simple.
 
 ### The Epilogue That Matters
 
@@ -228,7 +228,7 @@ She is extraordinary in ways he has always framed as *despite her condition* rat
 
 By its end, he is ready. By Book 8, the distinction is gone entirely. She is not his exceptional sister who the system misfired on. She is his sister, full stop, in a world that owes her an apology.
 
-### Kira Voss (Bakarn Resistance Organizer)
+### Perrin Halmore (Bakarn Resistance Organizer)
 
 His first genuine encounter with evidence he cannot explain away. She notices his filtration work with technical precision he reflexively assumes she can't have. She organizes the Empirica resistance with strategic intelligence he reflexively assumes bakarn don't possess.
 

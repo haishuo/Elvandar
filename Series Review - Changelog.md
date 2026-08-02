@@ -3756,3 +3756,65 @@ deliberately off the ledger, because Kalden is double-gaming Gunastran and a pub
 expose him. The footer predates the secrecy decision and never got swept. Corrected — and it is worth
 noting **how** it was found, which was not by looking for it: it surfaced only because the reordering
 forced a full read of ch11's footers. Nothing downstream of a beat draft complains when it drifts.
+
+---
+
+## 2026-08-02 — Book 4's L/K cluster: *Kira Voss* → **Perrin Halmore**, *Lydia Karven* → **Wilka Zarnstran**
+
+Author's catch: *Lira* (Harkim's sister) and *Kira* (bakarn resistance organizer) are off by one letter in
+the same book. Confirmed, and the rename went to Kira as the author proposed. **The argument for that
+direction is footprint plus reach**, not aesthetics:
+
+| | Mentions | Reach |
+|---|---:|---|
+| **Lira** | 44 | Book 4 outline, Harkim's sheet, **and Book 8's outline**, where his arc closes on her |
+| **Kira Voss** | 8 | Book 4 outline and Harkim's sheet only |
+
+Lira is also welded to the sheet's thematic spine — *"the exception Harkim built around his sister"* — so
+renaming her means rewriting the character's argument, not eight strings.
+
+**What makes this a bug rather than an inconvenience, and it is the transferable part:** the two names
+**occupy the same sentences.** `book4_outline.md:77` — *"When Harkim and Lira are separated during a
+Compact sweep… When he finds her through Kira Voss's network."* Line 75 does it too. Similarity in the
+abstract is survivable. A sentence that has to carry both is not. **Triage a name collision by
+co-occurrence first.**
+
+### Two collisions found in the same pass that nobody had flagged
+
+**The surname was the worse half.** **Kaiden Voss** is the Urathan engineer in Book 3 ch7–9 (~25 mentions
+across the skeleton, three beat drafts and the working notes). *Kira Voss* is a Urathan bakarn one book
+later. Identical surname, identical initial, same nation — which reads as a family relation that does not
+exist. Renaming only the given name would have fixed the smaller problem and kept the larger one, so both
+halves went. *P* was chosen because it is unused anywhere in the series; *Halmore* is one of the
+Balishan-common example names already in `Places/Languages of Elvandar.md`.
+
+***Karven / Kalden* is the Vesk/Vrek error again.** Two syllables, same initial, *Kar-* against *Kal-* —
+and **both are Compact-side**, so unlike Vesk/Vrek they can plausibly share a paragraph. Kalden is
+untouchable at 197 mentions across five books; Karven had 7 and is Book 4 only. Her given name turned out
+to be **Lydia**, which was a *third* L in the book alongside Lira, and the whole name was off-register
+besides — nothing in *Lydia Karven* is Gunastran. **Wilka Zarnstran** takes the third of the three
+Gunastran endings (*Kelgrav* holds *-grav*, *Haldorn* holds *-dorn*), and *Z* is unused by any person in
+the canon; the only Z forms are Terinok institutional terms (*Zhum'kara*, *Zhuhala*), a different register
+with no bearer.
+
+### One collision found and deliberately **not** fixed
+
+***Lira* and *Lyra Valanar* are homophones** — technically a worse collision than either of the above, and
+it stays. Lyra is Elara's mother, dead before Book 1, five mentions in total, all in backstory files, and
+she never shares a scene, a book or a sentence with Lira. **Recorded in the language file specifically so
+it is not "discovered" later** and used to argue for renaming Lira, which would be the exact wrong move
+now that Book 4 has been rebalanced around her.
+
+### The rule this produced
+
+**Initials are a scarce resource, and the book is the unit to audit.** Book 4 alone had three names
+competing for *L* and *K* while *P, G, W* and *Z* sat unused across the entire series. Before coining,
+list the initials already spoken *in that book* — not just the series-major cast — and take a free one.
+Added to `Places/Languages of Elvandar.md` alongside the existing V-initial hazard note.
+
+### Files
+
+`Book 4 - Harkim's War/book4_outline.md` · `People/Danshall Harkim.md` (including the section heading
+*"Kira Voss (Bakarn Resistance Organizer)"*) · `Places/Languages of Elvandar.md`. No prose exists for
+Book 4, so nothing else was touched. Verified zero residue of *Kira*, *Karven*, *Lydia* or *Voss* in
+Book 4 and in Harkim's sheet.

@@ -139,6 +139,40 @@ only in the medial cluster. **Short names are the dangerous case**, because ther
 to carry a distinction. **Prefer a non-V initial for any new name**, and say every monosyllable aloud
 beside every other monosyllable already in the cast before adopting it.
 
+**Book 4's L/K cluster, cleared 2026-08-02 — and the operative test is co-occurrence, not similarity.**
+The book had *Lira* (Harkim's sister), *Kira Voss* (bakarn resistance organizer) and *Lydia Karven*
+(Gunastran Chief Acquisitor) at once. What made it a bug rather than an inconvenience is that **Lira and
+Kira appear in the same sentences** — `book4_outline.md` had *"when Harkim and Lira are separated… when
+he finds her through Kira Voss's network."* Two names being similar in the abstract is survivable; two
+names a single sentence has to carry are not. **Check co-occurrence first when triaging a collision, and
+rename the one with the smaller footprint** — Lira carried 44 mentions and reaches into Book 8's outline,
+Kira carried 8.
+
+Three things fell out of that pass, and they are the pattern to look for:
+
+- ***Kira Voss* → *Perrin Halmore*.** The surname was the worse half of the collision and nobody had
+  noticed it: **Kaiden Voss** is the Urathan engineer in Book 3 ch7–9, so two Urathans one book apart
+  shared a surname *and* an initial, which reads as a deliberate family relation that does not exist.
+  Rename both halves or you fix the smaller problem and keep the larger one. *P* was chosen because it
+  was unused anywhere in the series; *Halmore* is one of the Balishan-common examples above.
+- ***Lydia Karven* → *Wilka Zarnstran*.** *Karven/Kalden* is the Vesk/Vrek error again — two syllables,
+  same initial, and **both Compact-side**, so they can share a paragraph. *Lydia/Lira* was a third L in
+  the same book. The old name was also simply off-register: nothing in *Lydia Karven* is Gunastran.
+  *Zarnstran* takes the third of the three endings (*Kelgrav* has *-grav*, *Haldorn* has *-dorn*), and
+  *Z* is unused by any person in the series — the only Z forms in the canon are Terinok institutional
+  terms (*Zhum'kara*, *Zhuhala*), a different register entirely with no bearer.
+- ***Lira* and *Lyra Valanar* stay as they are, deliberately.** They are homophones, which is technically
+  a worse collision than either of the above — **and it is still not worth fixing.** Lyra is Elara's
+  mother, dead before Book 1, five mentions in total, all of them in backstory files, and she never
+  shares a scene, a book, or a sentence with Lira. **Recorded here so that it is not "discovered" later**
+  and used to argue for renaming Lira, which would be the exact wrong move now that Book 4 has been
+  rebalanced around her.
+
+**The general rule this produced: initials are a scarce resource, and a book is the unit to audit.** Book
+4 alone had three names competing for *L* and *K* while *P, G, W* and *Z* sat unused across the entire
+series. Before coining, list the initials already spoken in that book — not just the series-major cast —
+and take one that is free.
+
 **Regnal-name convention:** Valanar monarchs do not reign under their birth names. Upon coronation, the new emperor or empress *takes* a throne-name from a small fixed pool of Old Lathionese dynastic names — *Urath, Valan, Tharen, Sera, Mariath, Korin* — and is numbered in sequence with every prior bearer (*Urath I–IV, Valan I–VII, Tharen I–II, Sera I–VIII*, and so on). The numeral asserts continuity with the entire line of that name; the dynasty's legitimacy is partly constructed out of those sequences. The birth name is set aside at coronation and survives only in family records.
 
 This is the convention behind **Emperor Urath IV Valanar**, founder of Uratha: born under some other name now of interest only to genealogists, he took the throne-name *Urath* upon ascension because it was his turn in a sequence — the fourth emperor of that name in the Valanar line. The throne-name choice itself was an imperial statement (he could have picked any name then due in rotation; he picked the one that signaled "*the High One, returning*").
