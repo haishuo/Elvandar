@@ -82,7 +82,7 @@ Xion watched Valorian's shoulders come down a half inch and his jaw stay where i
 
 What Xion noticed, sitting off the axis of the table with his hands still loose on the wood, was everything she had not done.
 
-She had not been angry. She had not said that she trusted him, or that she owed him, both of which were true and both of which would have been fatal. She had not looked at him once. An empress who defends a favourite because he is a favourite has told the room what he is, and the room files it and uses it later. Elara had walked four people through an argument and let it close by itself, and there was nothing anybody could carry out of here except the argument.
+She had not been angry. She had not said that she trusted him, or that she owed him, both of which were true and both of which would have been fatal. She had not looked at him once. An empress who defends a favorite because he is a favorite has told the room what he is, and the room files it and uses it later. Elara had walked four people through an argument and let it close by itself, and there was nothing anybody could carry out of here except the argument.
 
 He had watched his father do this for twenty years, to make people believe things that were not true. It had never once occurred to him that the instrument worked the other way round.
 
@@ -114,7 +114,7 @@ It was Silvanno who said it, in the last half hour, in the tone of a man putting
 
 Nobody laughed.
 
-"The brass one. Under the tunnels." He did not look at Elara while he said it, which Xion noticed and approved of. "I've never seen the thing. All I have is what you told us in the warehouse that night, and I'll be honest, at the time I filed it as the least believable part of a fairly unbelievable evening. But we've spent four hours going round this table finding nine months, and if there is anything in this city that changes the *shape* of the problem instead of the size of it—"
+"The brass one. Under the tunnels." He did not look at Elara while he said it, which Xion noticed and approved of. "I've never seen the thing. All I have is what you told us in the warehouse that night, and I'll be honest, at the time I filed it as the least believable part of a fairly unbelievable evening. But we've spent four hours going round this table finding nine months, and if there is anything in this city that changes the **shape** of the problem instead of the size of it—"
 
 "I asked you about it then," Kael said.
 

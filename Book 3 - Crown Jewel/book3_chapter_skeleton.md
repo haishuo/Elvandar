@@ -39,12 +39,16 @@ The Brass Door — which Elara connected with in Book 1 but couldn't open — re
 
 ### Chapter 2: Inheritance
 **Timeline: Days later**
-**Characters present: Xion, Elara, Commander Vesk, expedition members**
+**Characters present: Xion, Elara, Commander Vesk, Farleen, the Mistress of the Long Knives, expedition members**
 **Emotional work: Wonder mixed with frustration — the door recognizes Elara but won't open**
 
-Elara has wanted to investigate the Brass Door since Book 1 — it responded to her, pulled at her. Now there's urgent practical reason to try. They negotiate passage through the Warrens (the Long Knives' territory) and establish a base camp.
+Elara has wanted to investigate the Brass Door since Book 1 — it responded to her, pulled at her — and the thing she has never said is that **she was not present for it.** She walked Dead Man's Passage in a trance and came to on her knees on the platform; everything she knows about the most important moment of her life she knows because somebody told her. This trip is the first time she will be there.
 
-Elara approaches the door. It blazes to life — ancient symbols illuminating, mechanisms responding, the door clearly *recognizing* Valanar blood after millennia of silence. But it won't open. She has the right key and doesn't know how to turn it.
+**Getting down takes two arrangements, and the first is a finding.** The upper shafts are Slaver ground, and Vesk buys eleven days of them from a lieutenant at a price the man invents on the spot — which means the crown, which cannot get Ronas Dermir to answer a summons, does not actually need him to. *It is not a country; it is a market with a king in it.* Elara orders it noted and does nothing about it, because there is a more immediate problem. The Long Knives are the second arrangement and are not a negotiation: they are **answering the invitation the Mistress issued in Book 1 ch21**. Their terms are guides front and back on every load, and nobody writes down the route. Farleen is on the manifest and in nobody's column.
+
+Elara approaches the door and puts her hand on it, and the whole symbol field lights in sequence and the mechanism comes awake under everyone's boots. But it won't open — it completes a cycle of nine or ten minutes and starts again, which is what a machine does when it is waiting for an input nobody has given it. She works it for two hours, as a soldier works an opponent, and gets nowhere. Xion diagnoses it with the only instrument he has: a severed cord, where the reflex is perfect and will never again answer the man it belongs to, because the road between them was cut. **The recognition is intact. The instruction went with the people who knew it.** She has the right key and doesn't know how to turn it.
+
+**The Mistress comes down to the camp** and asks the Book 1 question again — *have you worked out what you are yet* — and gets the same no. What changes is that she takes a bargain instead of dismissing them: whatever is behind the door, she hears it from Elara first, before the court and before it is written. She converts from watcher to stakeholder, which is what the Long Knives' presence in ch6 and ch9 rests on.
 
 The frustration mirrors the broader situation: Elara has the legitimacy (the wards, the throne, the eyes) but can't translate it into the thing she needs. The door, like the kingdom, responds to her and refuses to yield.
 

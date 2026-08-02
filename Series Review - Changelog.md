@@ -20,8 +20,10 @@ retroactively from the finished prose), and `book1_chapter_skeleton.md`.
 **Book 2 — The One You Feed**
 Chapters 1, 3, 6, 7, 9, 10, 11, 14, 16, 20 — plus all twenty beat drafts, resynced to the final prose.
 
-**Book 3 — Crown Jewel** *(beat drafts only; no prose exists yet)*
-Chapters 1, 3
+**Book 3 — Crown Jewel**
+Beat drafts: chapters 1, 2, 3, 4. **Prose: chapters 1 and 2** (drafted 2026-08-01 and 2026-08-02).
+Chapter 6, "Wonder," is locked prose and predates this review — it was renumbered from ch5 on
+2026-08-01 without a word inside the file changing.
 
 **Supporting files**
 - `People/Mistress Janice.md` — new character sheet
@@ -3529,3 +3531,107 @@ Janice movement — **and that Xion must not know it yet.** No line added to the
 only not to close the door on it.
 
 **`book3_chapter_skeleton.md`:** the ch4 entry had **no record of Movement One at all**. Now documented.
+
+---
+
+## 2026-08-02 — Book 3 Chapter 2, "Inheritance" — prose drafted
+
+`Book 3 - Crown Jewel/Chapters/Chapter 2 - Inheritance.md`, **4,730 words**, against ch1's 4,185.
+Order of operations as instructed: skeleton, then the beat draft, then the People/ sheets, then the
+Book 1 prose the chapter rests on — **and the last of those is where the chapter changed shape.**
+
+### What reading Book 1 ch19–21 did to the plan
+
+The beat draft was written without them, and four things in it did not survive contact.
+
+**Elara was never present for the only prior contact.** The draft has her "carrying it since," which
+reads as memory. B1 ch19 has her walk Dead Man's Passage in a trance, reach the platform, and come to
+on her knees with the light already fading — and Xion had his arm over his eyes for the surge, so
+**nobody in the world watched what she actually did, least of all her.** Everything she knows about
+the most important moment of her life, she knows because somebody told her. That is now the chapter's
+engine: this is the first time she is *there*. It costs nothing and it makes the whole trip different
+in kind rather than in circumstance.
+
+**The Long Knives are not a party to be negotiated with; they are a party with a standing claim.**
+B1 ch21: they have lived in those tunnels and guarded that door for generations without knowing what
+it is, and the Mistress ends the scene by telling Elara *"when you take the throne — and you will —
+if you ever figure out what you are, find me."* Elara has taken the throne. A version of this chapter
+where Vesk buys passage off them like a toll is a version where the invitation is silently dropped.
+
+**Ronas Dermir was a live problem and the draft did not know it.** Ch1 established six weeks of him
+not answering the crown's summons. The route down runs through his levels. That had to be solved on
+the page, and the solution is the chapter's best piece of intelligence: Vesk buys eleven days of the
+upper shafts from a lieutenant who has never heard of the crown's letters and does not care, because
+the letters are not his and the shafts are. *It is not a country. It is a market with a king in it.*
+The crown cannot get an answer from Ronas and **does not need one** — which is a governance finding,
+not a workaround, and Elara files it exactly the way she files things.
+
+**"Silent for millennia" is a figure the narrator cannot have.** Beat 11 asserted it; Xion has no way
+to know it and the reader has been told elsewhere that Lathion emptied twenty years ago. Replaced
+throughout with what is observable: the Long Knives never made it flicker in generations, and Valanar
+blood lit the entire field in about a second.
+
+### Xion's instrument
+
+Beat 14 had him understanding the failure abstractly ("recognizes her identity, not her instruction"),
+which is a counselor's read and he is not primarily a counselor. He reads bodies. So he recognizes it,
+because he has seen it: a drayman with a severed cord, whose knee kicks perfectly when you strike it
+and will never again answer the man it belongs to, because the road between them was cut and there is
+nothing whatever wrong with either end. **The image stays interior** — he does not hand that to Elara.
+What he says aloud is *it knows who you are; it doesn't know what you want.*
+
+Elara's two hours at the door are worked with **her** instrument in turn: she goes at it the way she
+goes at an opponent, slowly and from several angles, attention on where the thing carries its weight.
+Not pressing. Not pounding. The half-remembering is there too, and it fails at the same place.
+
+### Additions to the plan, made deliberately
+
+- **Farleen is on the expedition.** She was not in the draft and should have been: she was one of
+  three witnesses at that door in Book 1, ch1 establishes her as permanently wherever Xion is, and
+  the skeleton has her at this camp from ch6 anyway. She gets one beat. In this room, in B1 ch20, she
+  took Elara apart for exactly this and was not wrong; **here she says nothing**, and that is the
+  whole of her characterization in the chapter.
+- **The Mistress comes down to the camp.** Rule 1 requires it once the invitation is in play. Kept
+  short so it cannot compete with the door, and shaped as a **recurrence that moves someone's
+  position**: same question as Book 1 (*have you worked out what you are yet*), same answer (*no*),
+  but where she once dismissed Elara as useless she now takes a bargain — she hears whatever is behind
+  that door from Elara directly, before the court, before it is written. Watcher to stakeholder. That
+  is what the Long Knives' presence in ch6 and ch9 now rests on.
+
+**Left unpaid, deliberately.** The Mistress is Rosik's mother and therefore Xion's grandmother
+(`The Long Knives_ Death Merchants of Kaha'an.md`), which nothing in Books 1–3 has ever touched. She
+stops on her way out, calls him *Master Fen*, notes it is Counselor now and that he has kept the name,
+and looks at him a beat longer than the words require. **Nothing points at it.** The look is fully
+covered on its face by the healer-turned-First-Counselor fact. Filed to cross-book threads.
+
+### Corrections caught in the pass
+
+| | |
+|---|---|
+| **"Less than a year"** since the Brass Door | **Seven months**, from `Story Timeline.md` — B1's last week + 2–3 wks + B2's ~22 wks + ch1's six weeks |
+| Depth given as **480 m** | **500 m** — canon puts the Door at the end of Dead Man's Passage, −500 m+ |
+| The Mistress: *"an empress and nineteen strangers"* | **eighteen** — the party is nineteen including Elara |
+| *"four hundred years"* / *"before your family had a throne"* | **centuries** / *"longer than my guild has kept records"* — the Long Knives postdate the Valanar throne, and no figure is invented |
+| A surveyor citing **the Ivory Tower's tables** | neutral phrasing — ch2 must not nudge toward foreign expertise, which is ch3's to establish |
+| British spellings (*metres, honoured, recognised, stylised*) | American — the corpus runs 44 *color* / 1 *colour*, 13 *honor* / 0 *honour* |
+| Single-word stress in italics (*traveled, eager, is, restarted, generations*) | **bold**, per house style |
+
+**And two in ch1, typo-level:** *favourite* → *favorite* (twice, same sentence), and *"changes the
+**shape** of the problem"* moved from italic to bold — single-word stress, same rule.
+
+### What the chapter is allowed to conclude
+
+Only that they need somebody who can read a mechanism, and that nobody in the chamber can. Xion says
+so, and says he does not know where the crown finds such a person. **No line suggests Balisha cannot
+solve it**, because ch3 exists to establish that at home first, through the Tor'anar. The lock/wall
+distinction the Tor'anar will fail on is set up concretely and without pointing at it: no seam, no
+hinge, a nine-or-ten-minute cycle that **restarts**, which is what a machine does when it is waiting
+for an input nobody has given it.
+
+### Files
+
+`Chapters/Chapter 2 - Inheritance.md` (new) · `Beat Drafts/Chapter 2 - Inheritance.md` (beats
+renumbered 1–22; beats 2, 3, 4, 6, 7, 11, 14 rewritten; new beat 17; three new footer sections —
+Farleen, the royal trait, and Vesk's revised division of function) · `book3_chapter_skeleton.md`
+(ch2 entry rebuilt) · `Chapters/Chapter 1 - Scars.md` (two typo-level fixes) · `Royal Road/`
+regenerated for Book 3.

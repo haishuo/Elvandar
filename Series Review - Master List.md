@@ -23,7 +23,7 @@ them before it is proposed against the prose.
 | **Rule 3** — single-emotion integrity | 0 | — |
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
-| **Open questions** | 0 | — |
+| **Open questions** | 1 | Book 3's span — `Story Timeline.md`'s placeholder says "years", canon says months ([§7](#7-open-questions)) |
 
 **Nothing outstanding in either book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied.
@@ -268,6 +268,36 @@ Three people hold pieces of it and none of them will ever speak, which has two c
 **What boxed Rosik in, recorded 2026-07-31.** Source is the plan section of `Book 7 - Last Debts/book7_outline.md` — "The clock," "The problem he had to solve," "The lever," "Why Kalden, and why Kalden is free." Three constraints, and each of them closes off an easier version of the book. **Kess Ashwood is the real obstacle** — she tracks by scent, takes no orders, wants nothing, and cannot be bought or moved by any lever he owns, so the whole apparatus exists to carry her out of the city behind Tiberian, whom she follows. **He is out of money** — Xion took the shadow funds in Book 2, so he cannot buy an army, which is why the patsy has to be a man who needs agreeing with rather than paying. **And the Warrens are being emptied into the Green Cities**, which is why it is this year: his base and his information are a wasting asset, and there is no second attempt to preserve. **He never identifies the cause** — he experiences sources drying up and reads it as attrition, because nobody is doing anything to him and intention is the only thing he can read. Do not give him a line about it, and do not let another character draw the connection.
 
 **The two antagonists die days apart in Book 7 and fail in inverse ways.** Recorded 2026-07-31; the note lives at the head of Act III in `Book 7 - Last Debts/book7_outline.md` ("The two deaths are opposites") and both sheets point at it. The constraint in one line: **Kalden had every advantage and squandered it; Rosik's plan was sound and lost to two things that had no intention in them to read** — an artery, and an analyst who moved before the data was in. **Do not write Rosik's failure as folly**, because the series' position is that the difference between him and his son was never capability, and Book 2 spends four chapters establishing it.
+
+**The Mistress's standing invitation — opened B1 ch21, answered B3 ch2, and still not paid.** She ends
+the Book 1 scene with *"when you take the throne — and you will — if you ever figure out what you are,
+find me. We should talk."* B3 ch2 is Elara arriving without the answer, and the Mistress trades anyway:
+**whatever is behind the Brass Door, she hears it from Elara directly, before the court and before it is
+written anywhere.** That promise is now load-bearing in two directions. It is why the Long Knives permit a
+camp in the chamber they have guarded for generations, which is what ch6's expedition and ch9's exit both
+sit on top of. And it is a debt with a due date: **the moment Lathion is opened, Elara owes her a briefing
+ahead of her own court**, and nothing yet written shows her paying it. Do not quietly drop it, and do not
+let the ch6 wonder chapter carry the payment — that scene takes one emotion.
+
+**The Mistress is Xion's grandmother, and nothing has ever touched it.** `Places/Kaha'an/The Long Knives_
+Death Merchants of Kaha'an.md` records her as Rosik's mother, "hidden from all but a handful." She has met
+Xion twice on the page — B1 ch21 as Master Fen, B3 ch2 as First Counselor — and on the second she stops on
+her way out, notes that he has kept the name, and looks at him a beat longer than the words require.
+**That is the entire deposit and it is deliberately deniable**: the look is covered on its face by the
+healer-turned-counselor fact, and a reader who never learns the relation loses nothing. **Do not add a
+line that points at it in Book 3.** But it is now planted twice, and this series' rule is that planted
+seeds get paid — so **whichever book takes it, take it on purpose.** Note the shape of the problem for
+whoever does: Rosik's mother is a Long Knife, Rosik is a former Long Knife, and Xion has spent eight years
+being the one Kemvimore who heals — which means the reveal is about inheritance, not about surprise.
+
+**Elara's "note it" — the Warrens are not governed and she knows it.** B3 ch2: Vesk buys eleven days of
+Slaver-held shafts from a lieutenant who does not know or care that the crown has been writing to his
+king, and Elara's whole response is to have it written down and put in front of her *"when there's time to
+do something about it."* That is characterization working correctly — she does not solve it in a chapter
+that belongs to the door — **but it is also a promise to the reader**, made on the same trip in which ch1's
+empty Warrens chair is still empty. Ronas Dermir is unresolved from ch1 through ch19 as the skeleton
+stands. **Either the crown reaches him, or somebody names the fact that it never did.** Silence is the one
+option this thread does not have.
 
 ---
 
@@ -586,7 +616,26 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 
 ## 7. Open questions
 
-**None currently open.** Everything previously listed here has been decided; see [§6](#6-settled-rulings).
+### `Story Timeline.md` says Book 3 sits "within a few years of Book 2" — **needs an author ruling**
+
+Found 2026-08-02 while checking the Brass Door interval for B3 ch2. The line is in the *"Later books
+(approximate — not yet pinned)"* block and is explicitly labelled a placeholder, which is the only
+reason it is a question rather than a bug. But it contradicts hard canon in `CLAUDE.md` — *"the saga
+measures in months, never years"* — and it contradicts `book3_chapter_skeleton.md`, which opens Book 3
+*"weeks, not months"* after Book 2. **Nothing in the prose depends on it yet**; ch1 and ch2 were both
+written to the skeleton's weeks. The risk is the ordinary one: a placeholder in an authoritative file
+gets trusted by the next reader.
+
+**What is actually needed is a span for Book 3, which is an author decision and not an editorial one.**
+The book contains two continental journeys (Uratha in ch5, Terinok in ch17), several weeks inside
+Lathion, and a Crown that has to be fetched from the Ivory Tower between ch10 and ch11 — so it is
+plainly the longest book so far, and "months" will have to stretch. Once the number exists, the
+placeholder block gets rewritten to match and this closes.
+
+*(The working figure the chapters currently assume: B1's Brass Door to B3 ch2 is **seven months** —
+B1's last week, plus 2–3 weeks to Book 2's opening, plus Book 2's ~22 weeks, plus ch1's six weeks.)*
+
+Everything else previously listed here has been decided; see [§6](#6-settled-rulings).
 
 **Numbering warning, kept because it caused a real misreport.** This section was once numbered 1–4
 while the closed-items list used a separate Q1/Q2/Q3 scheme for different items, and three
