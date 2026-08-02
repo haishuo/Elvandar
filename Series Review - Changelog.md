@@ -3300,3 +3300,45 @@ if a cut is wanted, is the treasury movement: Silvanno's and Kael's levy exchang
 without losing a beat, which is worth roughly 250 words.
 
 **Royal Road regenerated**; Book 3 now exports two chapters.
+
+---
+
+## 2026-08-01 — ch1 corrections: an ambiguous antecedent, and a stale figure in the beat draft
+
+**Author caught both.** The line was:
+
+> *Sa Ko Ren sat back and folded her arms and said nothing at all, and Xion — who had spent **two years**
+> learning to read **a woman** who did not spend words —*
+
+**Two faults.** *A woman* had no clear antecedent and read as easily onto Elara as onto Sa Ko. And **two
+years is impossible**: `Story Timeline.md` puts Book 1 at 1044 BR spanning about a month, Book 2 at ~5
+months, and Book 3 opening weeks after — **the whole saga so far is about eight months**, and the timeline
+says so in terms: *"The whole saga so far measures in months — never 'years.'"* Sa Ko is also someone Xion
+has been in rooms with since childhood as Rosik's heir, but only came to understand from her trial of
+Elara onward. Rewritten to carry both facts and to name her before the pronoun does any work.
+
+### The audit that came out of it
+
+Every time reference in the chapter was checked against the timeline. Three more were wrong:
+
+- *"after the last year"* → **the last months**
+- *"eighteen months ago"* → cut to **"than it used to be"**; there is no eighteen-month lookback available
+- the weaver's shop *"burned — you'd have it as a fire, **the year before last**"* → dating dropped; the
+  fire is inside Book 2, months back
+
+Left alone as correct: *"the next two years"* (forward-looking), *"a population figure eleven years old"*,
+*"twenty years"* for Rosik at the Coterie table and for the Rending, and **"twenty-three years"** of shared
+surname — Xion is 23, locked by B1 ch11.
+
+### And a real bug in the beat draft, which I inherited rather than invented
+
+**The ch1 beat draft says Master Fen is *five years* old. It is eight**, locked by B1 ch11 — *"Eight
+years. Since I was fifteen"* — and `Story Timeline.md:12` records that the correction from five to eight
+was already made across Book 1. **The draft was written against the superseded figure and I wrote the
+prose from the draft.** Both are now eight, and the draft carries a note saying which number is which:
+**five belongs to the reform group, not to the clinic.** That is almost certainly where the confusion came
+from, since Farleen was embedded five years before Book 1 and the Amber Leaf group is five years old.
+
+**Worth noting for the rest of Book 3's prose pass:** this is the first case of the beat draft being wrong
+rather than the prose drifting from it, and the drafts were reverse-checked against `Story Timeline.md`
+only for Book 1. **Check figures against the timeline, not against the draft.**

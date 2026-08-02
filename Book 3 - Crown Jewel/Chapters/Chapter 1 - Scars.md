@@ -36,7 +36,7 @@ Xion had seen them already — had helped assemble half of them, in the grey adm
 
 That was the actual business, and for a while the room circled it. Tania proposed a levy that would have fallen hardest on districts that could not vote. Kael, without raising his voice, produced the figures showing it would collect less than it cost to enforce. Silvanno found a version that was less punitive and more likely to work, and was careful to attribute it to Tania, who accepted the attribution with a smile Xion had watched her deploy at a hundred parties and had never once seen reach her eyes.
 
-Xion spoke three times in the first hour. Twice on the reconstruction schedule, because he had walked those districts and the others had not, and once to point out that the northern well tax was being calculated on a population figure eleven years old. Nobody argued with him. Nobody deferred to him either. He was in the room, and the room was working, and after the last year that was unfamiliar enough that he kept setting it down and picking it up again to be sure of it.
+Xion spoke three times in the first hour. Twice on the reconstruction schedule, because he had walked those districts and the others had not, and once to point out that the northern well tax was being calculated on a population figure eleven years old. Nobody argued with him. Nobody deferred to him either. He was in the room, and the room was working, and after the last months that was unfamiliar enough that he kept setting it down and picking it up again to be sure of it.
 
 He knew where Farleen was without looking. She had come in behind the secretaries and settled against the wall by the second window, in the place with the sightline to both doors, and she had not moved since. She would not speak. She had no standing here and did not want any. But she had been at the wall in the square when he could not stand up, and she had walked him back, and she had been in every room he had needed to be in since, and it had stopped being remarkable somewhere in the last month, which was its own kind of remarkable.
 
@@ -94,7 +94,7 @@ She defined it while she did it, which mattered more than the title: the office 
 
 "You keep what you have," she told them. "All of it. What you get is somebody to talk to who is obliged to answer."
 
-Sa Ko Ren sat back and folded her arms and said nothing at all, and Xion — who had spent two years learning to read a woman who did not spend words — saw a person watching a thing she had gambled on begin, at last, to take a shape. She had backed Elara when backing Elara was expensive. She did not need to say so.
+Sa Ko Ren sat back and folded her arms and said nothing at all. Xion had been in rooms with her since he was a boy at his father's elbow, and had understood almost nothing about her until the months since she put Elara to the test; what he saw in her now was a woman watching a thing she had gambled on begin, at last, to take a shape. She had backed Elara when backing Elara was expensive. She did not need to say so.
 
 Tania Larannas said, "Congratulations, First Counselor," in a voice with nothing in it but warmth, and Xion understood that he had just become a fixed point on a map she was redrawing, and that she would be perfectly pleasant to him for as long as it took her to finish.
 
@@ -156,7 +156,7 @@ The pen stopped for perhaps a second.
 
 The pen moved. It took about as long as correcting a misspelling would have taken, and made about as much noise, and behind him the room went on dispersing, chairs going back, Silvanno saying something that made one of the secretaries laugh. Nobody in the chamber had any idea what had just been written down, and there was no reason they should. She had been an apothecary in a rich man's house. She had never in her life stood in a room like this one.
 
-He had carried her name through five years of the lower wards because it was safe and because it was hers, and in all that time he had never had the standing to write it down. He had the standing now. It had cost eight seconds of a clerk's afternoon.
+He had carried her name through eight years of the lower wards because it was safe and because it was hers, and in all that time he had never had the standing to write it down. He had the standing now. It had cost eight seconds of a clerk's afternoon.
 
 "One other thing," he said, "while it's open."
 
@@ -170,7 +170,7 @@ The undersecretary looked up.
 
 "I — would have to look, Counselor. It's a great deal of material."
 
-"I know how much material it is. I carried some of it." He kept his voice exactly where it had been for the name. "One person in particular. I don't have a name I can give you that would be on a page. A weaver. She owned the shop off the Middle District that burned — you'd have it as a fire, the year before last. She would be about sixty now. Her eyes were going, so somebody may have written that down; people do. That's what I have."
+"I know how much material it is. I carried some of it." He kept his voice exactly where it had been for the name. "One person in particular. I don't have a name I can give you that would be on a page. A weaver. She owned the shop off the Middle District that burned — you'd have it as a fire. She would be about sixty now. Her eyes were going, so somebody may have written that down; people do. That's what I have."
 
 The pen was not moving.
 
@@ -204,7 +204,7 @@ She had the folded page in her hand again, the one she had set down at the start
 
 He thought about it properly, because she had asked properly.
 
-"Because he was right," Xion said. "Not about the conclusion. About the question. Somebody had to ask it out loud in a room with a record being kept, and if it hadn't been him today it would have been someone worse in a year." He shrugged, and felt how much smaller the shrug was than it would have been eighteen months ago, and did not know what to do about that. "I'd rather it was asked while you were in the room."
+"Because he was right," Xion said. "Not about the conclusion. About the question. Somebody had to ask it out loud in a room with a record being kept, and if it hadn't been him today it would have been someone worse in a year." He shrugged, and felt how much smaller the shrug was than it used to be, and did not know what to do about that. "I'd rather it was asked while you were in the room."
 
 Elara nodded slowly.
 
