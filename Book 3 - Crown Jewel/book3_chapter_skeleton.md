@@ -225,8 +225,8 @@ Xion notes the Urathans' hunger — Provost Venn's intensity, the Scholar-King's
 ---
 
 ### Chapter 11: Awakening
-**Timeline: The ceremony — weeks after the Ch10 deal, once the Crown completes its journey from Uratha**
-**Characters present: Xion, Elara, assembled court, Urathan delegation**
+**Timeline: The ceremony — weeks after the Ch10 deal, once the Crown completes its journey from Uratha. The cold open is the same week.**
+**Characters present: Xion, Elara, a Gunastran envoy (cold open), assembled court, Urathan delegation**
 **Emotional work: Wonder and legitimacy**
 
 Grand ceremony. The Scholar's Crown is placed on Elara's head. It activates — blazes with blue light, filling the hall with radiance. The assembled court holds its breath. Another test of legitimacy passed: the wards recognized her, the throne accepted her, and now the Scholar's Crown responds to her.
@@ -235,16 +235,24 @@ For Xion, this is a moment of wonder. He doesn't know the Crown's history in det
 
 He catches a fleeting look on the Urathan delegation's faces — something like shock, quickly masked. Strange. Why would they be surprised that a divine artifact responds to a Valanar? But the moment passes. They compose themselves within seconds, and Xion has no reason to pursue it. There are more pressing things to think about.
 
-**Sets up:** Gunastran's response (the technology gap just got worse — Balisha now has Lathion AND a working divine artifact), and Kalden's marriage proposal.
+**The cold open — and it is the most consequential four minutes in the book.** Before the ceremony, on an ordinary working morning, a Gunastran delegation lodges a routine request through ordinary channels: scholarly and technical access to Lathion. Elara refuses. She is bound by the Uratha compact signed weeks ago — exclusive access, no third foreign body — and the refusal costs her nothing, takes no thought, and is never mentioned again. **She is treaty-clean, which is what keeps her from being the war's aggressor.** The clause that binds her is one Xion wrote in Ch10, on the sound reasoning that *Gunastran is not in the picture yet.* Neither of them feels a thing. The reader does not yet know what they have watched; Ch12 tells them.
+
+Nothing from the cold open bleeds into the hall. The ceremony's wonder runs unbroken.
+
+**Sets up:** Chapter 12 directly — **the refusal and the report of the blazing Crown travel north together, on the same road, in the same week**, and it is the letter that convenes the Consortium. Also Kalden's marriage proposal.
 
 ---
 
 ### Chapter 12: Ruthless Calculus
-**Timeline: Shortly after the Crown ceremony**
+**Timeline: Shortly after the Crown ceremony — convened by Balisha's refusal, which travelled north with the envoy who carried the request**
 **Characters present: Gunastran's Industrial Consortium (POV break)**
 **Emotional work: Existential terror — make the reader understand why Gunastran goes to war**
 
-Hard cut to Gunastran's Central Foundry. The Industrial Consortium receives intelligence: Lathion's technology is being implemented. Water purification first, then energy systems, then communications. Their engineers run the numbers.
+Hard cut to Gunastran's Central Foundry. **The Consortium is not convened by fear; it is convened by a letter.** Balisha's refusal has come back with the envoy who carried the request, alongside the report that a divine artifact ignited on the Empress's head in front of every faction in Kaha'an. Lathion's technology is being implemented — water purification first, then energy systems, then communications — and the one non-military way out was tried a chapter ago and is gone. Their engineers run the numbers.
+
+**The causal order is the author's and is load-bearing:** Gunastran asks → Balisha refuses → Gunastran concludes it must fight → Gunastran goes looking for allies → Kalden. An earlier version of this skeleton ran the refusal *after* this vote, in Ch13's cold open, which made Elara's *no* a receipt rather than a cause. Corrected 2026-08-02.
+
+**And the refusal is unreadable from Gunastran.** A *no* citing a treaty is, from the far side of a continent, indistinguishable from a *no* that wanted to be given — she signed the instrument freely, weeks ago, and nothing in the language tells them she was not thinking of Gunastran when she did. Nobody in that chamber will ever learn that she was not.
 
 Six months before defensive systems Gunastran can't counter. A year before industrial obsolescence. Two years before Gunastran becomes irrelevant — reduced from technological superpower to raw materials supplier.
 
@@ -259,11 +267,11 @@ The reader should understand, even sympathize with, this decision. Ondra Kelgrav
 ## ACT III: The Choice
 
 ### Chapter 13: The Proposal
-**Timeline: Days after the Gunastran decision (which Balisha doesn't yet know about)**
+**Timeline: Days after the Gunastran decision (which Balisha doesn't yet know about). Gunastran's request was refused in Ch11, weeks earlier.**
 **Characters present: Xion, Elara, Kalden's envoy**
 **Emotional work: A genuinely good offer that happens to come from someone with terrible motives**
 
-The chapter opens on a **cold open**: a Gunastran delegation formally requests access to Lathion, and Elara refuses — treaty-bound by the Uratha exclusivity compact, she declines without a second thought, not knowing the refusal is a fuse (the reader, fresh from Ch12, does). Then the main event.
+**No cold open.** The chapter opens directly on the Erulian approach — the Gunastran refusal moved to Ch11, where it can precede the vote it causes, and nobody in Kaha'an refers to it again.
 
 Prince Kalden sends a marriage proposal — and, critically, he sends it in **secret**. Not a formal delegation on the record: a single confidential envoy, a sealed personal missive, deliberately off the diplomatic ledger. Kalden is double-gaming Gunastran (who has just approached him) — a public proposal would expose that he is courting the enemy, so it stays hidden. Xion registers the secrecy itself as information: a proposal this large, delivered this quietly, is one its author is hiding from someone (he cannot yet say who).
 

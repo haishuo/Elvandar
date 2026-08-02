@@ -3635,3 +3635,116 @@ renumbered 1–22; beats 2, 3, 4, 6, 7, 11, 14 rewritten; new beat 17; three new
 Farleen, the royal trait, and Vesk's revised division of function) · `book3_chapter_skeleton.md`
 (ch2 entry rebuilt) · `Chapters/Chapter 1 - Scars.md` (two typo-level fixes) · `Royal Road/`
 regenerated for Book 3.
+
+---
+
+## 2026-08-02 — Author's ruling: Gunastran is refused **before** the Consortium votes, not after
+
+The intended causal chain, in the author's words: **Gunastran asks for access → Elara says "can't do it,
+treaty" → Gunastran feels pressured to go to war and starts looking for allies → Kalden.** Each link has
+to be able to point backwards at the one before it.
+
+**The drafts ran it the other way, and the skeleton contradicted itself saying so.** Ch12 had the
+Consortium deduce the treaty-lock from intelligence, vote unanimously for the Erulian alliance, and *then*
+resolve to lodge a formal request "for the record" — which arrived and was refused in Ch13's cold open,
+after the vote it was supposed to have caused. Under that order **Elara's refusal changes nothing**, because
+nothing was left to change. It is a receipt. And the skeleton's own ch13 entry called it *"a fuse"* in the
+same sentence that placed it where a fuse cannot be. That contradiction is what identifies this as drift
+rather than design.
+
+### Where the scene went, and why there
+
+**Chapter 11's cold open** — before the Crown ceremony, in Kaha'an, from Xion's POV. Three placements were
+weighed:
+
+- **Ch10 tail.** Rejected. Ch10 is already 25 beats and closes on a deliberate quiet note — Xion unable to
+  frame the *easiness* of Draskin's concessions. A Gunastran coda lands on top of it and blurs what the
+  chapter is monitoring.
+- **Ch12 cold open.** Rejected outright. Ch12's POV note is absolute — *"Hard cut. No transition, no
+  bridge from the previous chapter's ceremony."* A Kaha'an scene at its head destroys the one thing that
+  chapter does.
+- **Swapping ch12 and ch13.** Rejected. It would put the Kalden proposal before the reader knows Gunastran
+  has already committed, which is the dramatic irony the entire back half of the book rides on.
+
+**Ch11 wins on travel time and on juxtaposition.** Ch11 is weeks after ch10 (the Crown's journey from the
+Ivory Tower), and ch12 is "shortly after the ceremony" — so the envoy's report reaches Gunastran in the
+natural gap. And **one courier now carries both facts north**: *they refused us, and the same week the
+Crown ignited on her head.* Ch12's numbers stop being a forecast arriving in a vacuum and become a
+forecast arriving on top of a closed door.
+
+### What this fixes that is bigger than the ordering
+
+**Elara stays treaty-clean and Xion becomes the cause.** She refuses under an instrument signed weeks
+earlier — compelled, not hostile, which is what keeps the Empress from being the war's aggressor. But the
+exclusivity clause is **Xion's**, argued through in ch10 beat 16 on a reasoning the draft already states
+in his own head: *Gunastran is not in the picture yet.* It was a sound call on the information he had. It
+starts a continental war. That is this book's throughline working exactly as the skeleton describes it —
+*a chain of decisions, each individually rational* — and it now runs through the protagonist's competence
+rather than around it. **He is not culpable for choosing against Gunastran. He is culpable for not
+imagining them**, which is the harder and better version.
+
+**And the refusal is unreadable from the far side of a continent.** A *no* citing a treaty is
+indistinguishable from a *no* that wanted to be given; she signed the instrument freely and nothing in the
+language tells Gunastran she was not thinking of them. Nobody in that chamber will ever learn she was not.
+
+### What was lost, and it was worth losing
+
+Ch13's cold open bought a real contrast — two delegations back to back, the door that closes without a
+sound and the door that will not close at all. That is gone. **A good juxtaposition is not worth an
+inverted causal chain.** What replaces it is stronger anyway: the reader meets the refusal in ch11 as four
+minutes of administration, learns in ch12 what it detonated, and arrives at the Erulian envoy already
+carrying dread the characters have no access to. **Retroactive dread rather than signposted dread** — and
+it now costs no scene at all.
+
+One consequence to watch in the prose: **the "faint wrongness" Xion used to sense in the Gunastran envoy
+is gone with the old order.** The delegation is no longer performing a formality it knows is doomed; it is
+making a real request in good faith. Nothing about the cold open should read as strange to him, and he
+gets no flicker of misgiving, because a man that careful cannot feel this from inside Kaha'an. That is the
+whole force of the beat.
+
+### Rule 3 note, made deliberately
+
+Ch11's designed emotion is wonder and legitimacy. The cold open sits entirely **before** it and nothing
+from it may bleed into the hall — no callback, no line, no glance between Xion and Elara that remembers the
+morning. Both of them have genuinely forgotten it by noon. If the ceremony ever reads as shadowed, the cold
+open has failed.
+
+### Files
+
+`Beat Drafts/Chapter 11 - Awakening.md` (header, new cold open C1–C3, two new footer sections) ·
+`Chapter 12 - Ruthless Calculus.md` (beat 4 — convened by a letter, not by fear; beat 11 rewritten; the
+Ch13-setup footer replaced with the corrected causal order) · `Chapter 13 - The Proposal.md` (cold open
+removed with a do-not-restore note, header rewritten, footer replaced) · `book3_chapter_skeleton.md`
+(ch11, ch12, ch13 entries and all three timeline lines).
+
+---
+
+## 2026-08-02 — `Story Timeline.md` gains a Book 3 span; the "few years" placeholder is gone
+
+`Story Timeline.md` had Book 3 sitting *"within a few years of Book 2"* in the unpinned placeholder block —
+contradicting `CLAUDE.md`'s hard canon (*the saga measures in months, never years*) and the skeleton's own
+*"weeks, not months."* Flagged as an open question the same day this was written; now closed with a real
+figure, because the ordering work above required knowing what the gaps between ch10, ch11 and ch12
+actually are.
+
+**Book 3 spans ~7–8 months**, ch1 to the first shot, with a per-chapter week table derived from the timing
+lines already in the beat drafts. **The two long gaps are load-bearing and neither is arbitrary** — ch5→ch6
+is a continental round trip plus the Urathan contingent's own journey, and ch10→ch11 is the Crown
+physically travelling from the Ivory Tower, which ch10 beat 22 makes explicit (*Draskin did not presume to
+bring it*). Compress either and something on the page breaks.
+
+**Running total: ~68 weeks** from Book 1's opening — B1 (~4 wks) + 2–3 + B2 (~22) + ~6 + B3 (~34). Book 3
+closes roughly **fifteen to sixteen months** after the market square.
+
+**Two things follow, and only one of them is settled.**
+
+*Settled:* the months-never-years rule survives and **must not be over-applied.** *"Years ago"* is still
+wrong everywhere inside Books 1–3. But by the back half of Book 3 a character can truthfully say *a year
+ago* about Book 1, and by ch19 the coronation is the better part of a year behind them. The rule exists to
+prevent inflation; the opposite error is now equally available. Check the week number before writing any
+interval, in either direction.
+
+*Open, and filed to the master list:* **the locked ages.** Xion at 23 and Elara at ~20 are Book 1 figures,
+and sixteen months makes them 24 and 21 unless birthdays are never marked. That is an author decision —
+either treat the ages as Book-1 facts and never state one again after Book 1, or age them and pin the birth
+years. **Not to be resolved by writing an age into a chapter.**

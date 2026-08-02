@@ -87,11 +87,59 @@ At Ch4 it has been **~3 months** since Xion first found Elara. **The whole saga 
 
 ---
 
+## Book 3: *Crown Jewel* (1044–1045 BR) — flexible (unpublished)
+
+Opens **~6 weeks after Rosik's exile** — weeks, not months; ch1's Warrens chair has been empty for six
+of them. Spans **~7–8 months**, ch1 to the first shot. Week numbers below are counted from ch1, and are
+derived from the timing lines in the beat drafts and `book3_chapter_skeleton.md`:
+
+| Chapter | Timing | Note |
+|---|---|---|
+| Ch1 Scars | Wk 0 | |
+| Ch2 Inheritance | Wk 1 | expedition holds eleven days of Slaver-held shafts |
+| Ch3 Storm-Line | Wk 1–2 | |
+| Ch4 Negotiations | Wk 2–5 | planning, the Gunastran delegation, and the return |
+| Ch5 Hubris | Wk 6–10 | the journey to Uratha and the treaty |
+| Ch6 Wonder | Wk 12–13 | the Door opens |
+| Ch7–9 Lathion | Wk 13–19 | *"they have been exploring for weeks"* |
+| Ch10 The Scholar's Crown | Wk 19 | **the day after** ch9 |
+| Ch11 Awakening | Wk 23–24 | the Crown's journey from the Ivory Tower is the gap |
+| Ch12 Ruthless Calculus | Wk 25 | |
+| Ch13–16 | Wk 25–27 | proposal, choice, Vartonne, the Compact |
+| Ch17 A Warrior's Heart | Wk 28–32 | the Terinok mission |
+| Ch18 Valanar | Wk 33 | |
+| Ch19 First Strike | Wk 34 | |
+
+**The two long gaps are load-bearing and neither is arbitrary.** Ch5→ch6 is a continental round trip plus
+the Urathan contingent's own journey. Ch10→ch11 is the Crown physically travelling from the Ivory Tower,
+which ch10 beat 22 makes explicit — *Draskin did not presume to bring it.* Compress either and something
+on the page breaks.
+
+### What this does to the running total — **and the one thing it needs a ruling on**
+
+Book 1 (~4 wks) + the gap to Book 2 (2–3 wks) + Book 2 (~22 wks) + the gap to Book 3 (~6 wks) + Book 3
+(~34 wks) ≈ **68 weeks.** So Book 3 closes roughly **fifteen to sixteen months** after Xion first sees
+Elara in the market square.
+
+**The months-never-years rule survives this and should not be over-applied.** Nothing in the span is
+*years*, and *"years ago"* remains wrong everywhere inside Books 1–3. But by the back half of Book 3 a
+character can truthfully say *a year ago* about Book 1, and by ch19 the coronation is the better part of a
+year behind them. **Check the week number before writing any interval, in either direction** — the failure
+mode this rule exists to prevent was inflation, and the opposite error is now equally available.
+
+**Open — needs an author ruling: the locked ages.** The table above has Xion at **23** and Elara at
+**~20**, both marked locked, and both are Book 1 figures. Sixteen months makes them **24** and **21** by
+Book 3's close unless birthdays are simply never marked. Nothing in the prose depends on it yet and no
+chapter states an age after Book 1. Two clean options: *(a)* leave the ages as Book-1 facts and never
+state one again after Book 1, or *(b)* age them explicitly and fix the year each was born. **Do not
+resolve this by writing an age into a chapter** — pick one here first.
+
+---
+
 ## Later books (approximate — not yet pinned)
 
 From the outlines; placeholders, not locked:
 
-- **Book 3 (Crown Jewel):** Lathion, the Alliance, Xion & Elara marry (Xion → Emperor-Consort). Within a few years of Book 2.
 - **Book 4 (Harkim's War):** the Compact War (~6 months), following the Book 3 alliance.
 - **Books 5–8 (next generation):** **generational jump** — Tiberian & Melina Valanar are **~18** in Book 5, ≈ **20 years after Book 1** (~1064+ BR). Book 6 spans ~3 years; Books 7–8 follow.
 

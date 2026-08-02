@@ -23,7 +23,7 @@ them before it is proposed against the prose.
 | **Rule 3** — single-emotion integrity | 0 | — |
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
-| **Open questions** | 1 | Book 3's span — `Story Timeline.md`'s placeholder says "years", canon says months ([§7](#7-open-questions)) |
+| **Open questions** | 1 | The locked ages — Book 3 now spans ~7–8 months, which ages Xion and Elara past their Book 1 figures ([§7](#7-open-questions)) |
 
 **Nothing outstanding in either book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied.
@@ -616,24 +616,24 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 
 ## 7. Open questions
 
-### `Story Timeline.md` says Book 3 sits "within a few years of Book 2" — **needs an author ruling**
+### The locked ages, now that Book 3 has a span — **needs an author ruling**
 
-Found 2026-08-02 while checking the Brass Door interval for B3 ch2. The line is in the *"Later books
-(approximate — not yet pinned)"* block and is explicitly labelled a placeholder, which is the only
-reason it is a question rather than a bug. But it contradicts hard canon in `CLAUDE.md` — *"the saga
-measures in months, never years"* — and it contradicts `book3_chapter_skeleton.md`, which opens Book 3
-*"weeks, not months"* after Book 2. **Nothing in the prose depends on it yet**; ch1 and ch2 were both
-written to the skeleton's weeks. The risk is the ordinary one: a placeholder in an authoritative file
-gets trusted by the next reader.
+Opened 2026-08-02, and it is the residue of a larger item that closed the same day (the *"few years"*
+placeholder — see the changelog). `Story Timeline.md` now carries a full Book 3 chapter-timing table:
+**~7–8 months**, ch1 to the first shot, which puts Book 3's close about **fifteen to sixteen months**
+after Xion first sees Elara in the market square.
 
-**What is actually needed is a span for Book 3, which is an author decision and not an editorial one.**
-The book contains two continental journeys (Uratha in ch5, Terinok in ch17), several weeks inside
-Lathion, and a Crown that has to be fetched from the Ivory Tower between ch10 and ch11 — so it is
-plainly the longest book so far, and "months" will have to stretch. Once the number exists, the
-placeholder block gets rewritten to match and this closes.
+**The ages table has Xion at 23 and Elara at ~20, both marked locked, and both are Book 1 figures.**
+Sixteen months makes them 24 and 21 by Book 3's close unless birthdays are simply never marked. Two
+clean options: *(a)* treat the ages as Book-1 facts and never state an age again after Book 1, or
+*(b)* age them explicitly and pin the birth year for each. **Do not resolve this by writing an age
+into a chapter** — pick one first. Nothing in the prose depends on it yet; no chapter after Book 1
+states an age.
 
-*(The working figure the chapters currently assume: B1's Brass Door to B3 ch2 is **seven months** —
-B1's last week, plus 2–3 weeks to Book 2's opening, plus Book 2's ~22 weeks, plus ch1's six weeks.)*
+**Related, and not a question but a warning:** the months-never-years rule survives the new span and
+should not be over-applied. *"Years ago"* is still wrong everywhere inside Books 1–3. But by the back
+half of Book 3 a character can truthfully say *a year ago* about Book 1. The rule exists to prevent
+inflation; the opposite error is now available too. Check the week number before writing any interval.
 
 Everything else previously listed here has been decided; see [§6](#6-settled-rulings).
 

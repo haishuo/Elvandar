@@ -1,13 +1,25 @@
 # Chapter 11: Awakening
 
-**Timeline:** The ceremony — weeks after the Chapter 10 agreement, once the Crown has completed its journey from the Ivory Tower to Kaha'an
-**Characters:** Xion, Elara, assembled court, Urathan delegation
-**Emotional work:** Wonder and legitimacy. The chapter delivers on the promise of every preceding test — the wards, the throne, the eyes — and does it publicly, in front of every faction that has been watching, waiting, measuring. Her rule was never in doubt — that was settled at her coronation. What settles here is larger and more external: an artifact Uratha withheld from Balisha for three centuries answers to her, publicly, before every faction that came to measure her. What the chapter leaves open, quietly, is a question the court does not know to ask.
+**Timeline:** The ceremony — weeks after the Chapter 10 agreement, once the Crown has completed its journey from the Ivory Tower to Kaha'an. **The cold open is the same week**, and the two events are reported north together.
+**Characters:** Xion, Elara, a Gunastran envoy (cold open), assembled court, Urathan delegation
+**Emotional work:** Wonder and legitimacy. The chapter delivers on the promise of every preceding test — the wards, the throne, the eyes — and does it publicly, in front of every faction that has been watching, waiting, measuring. Her rule was never in doubt — that was settled at her coronation. What settles here is larger and more external: an artifact Uratha withheld from Balisha for three centuries answers to her, publicly, before every faction that came to measure her. What the chapter leaves open, quietly, is a question the court does not know to ask. **The cold open runs before any of that and does not touch it** — it is a small administrative no, delivered and forgotten in four minutes, and it is the most consequential thing anyone in Balisha does in this book.
 **POV:** Xion
 
 ---
 
-## Beats
+## Cold open — the small no
+
+*Short. Flat. Before the ceremony, and never referred to again in this chapter. The reader does not yet know what it is; **Chapter 12 tells them**, retroactively, and that is the intended shape.*
+
+C1. A Gunastran delegation, through ordinary diplomatic channels — no ceremony, no state visit, a working request lodged by the Industrial Consortium: scholarly and technical access to Lathion, couched in the reasonable language of shared advancement and mutual benefit. It is competent, correct and unremarkable, and it is one of eleven things on the morning's schedule, and the ceremony is in the afternoon. Xion is present. He reads the envoy as able and well-briefed. He is not looking for anything, because there is nothing here to look for.
+
+C2. Elara refuses, and **it costs her nothing, which is the entire point.** She is bound by the Uratha compact signed weeks ago: exclusive scholarly access, no third foreign body. She says so in the untroubled tone of a sovereign declining something she has neither the latitude to grant nor any reason to want to. She is correct. **She is treaty-clean, and that matters enormously** — Balisha's *no* is compelled by an instrument, not chosen out of hostility, which is what keeps the Empress from being the war's aggressor when the reader reaches Chapter 12 and understands what she has just done.
+
+C3. And **Xion is the one who wrote the clause.** He argued the exclusivity through in ch10 beat 16 on a reasoning the draft states in his own head — *Gunastran is not in the picture yet* — and it was a sound call on the information he had. He does not think about that this morning. He has no reason to. **Do not give him a flicker of misgiving here**; the whole force of the beat is that a man this careful cannot feel the thing he has done, because nothing about it is visible from inside Kaha'an. The envoy withdraws with perfect courtesy. Somebody offers Xion a cup of something. The ceremony is in four hours.
+
+---
+
+## Beats — the ceremony
 
 1. The hall before the ceremony begins. Xion takes in the room from wherever his position places him — near enough to see clearly, not at the center. The assembled court is in full formal dress, every cartel and allied house represented, the geometry of alliances visible in who stands near whom and who has engineered maximum distance. This is a hall full of people who have spent decades reading political weather, and the weather today is charged. Something is going to happen. Everyone knows it. No one knows exactly what.
 
@@ -47,6 +59,10 @@
 
 **The Urathan moment must be light:** This is a seed, not a reveal. Xion sees something. He doesn't know what it means. He doesn't have the context to evaluate it. The prose should treat it with exactly the weight it has to him in real time — interesting, strange, filed — and no more. The reader may register it as significant; the reader may not. Either is fine. What the beat draft must avoid is writing the Urathan delegation's reaction with the dramatic weight of a revelation, because Xion doesn't experience it that way. It's a flicker. It becomes significant only much later.
 
-**The Gunastran downstream:** The chapter doesn't need to articulate this internally — it's not Xion's thought and it's not the room's thought — but the structure needs to carry it: Balisha now possesses both Lathion (active, however complex) and a functioning, publicly-activated divine artifact. The technology gap with Gunastran, already severe, just widened in the most visible way possible. This ceremony will be reported. That report will land on someone's desk. What happens next is not this chapter's problem, but this chapter caused it.
+**The Gunastran downstream, and why the cold open is in this chapter rather than in Chapter 13.** The chapter doesn't need to articulate any of this internally — it is not Xion's thought and not the room's thought — but the structure carries it: Balisha now possesses both Lathion and a functioning, publicly-activated divine artifact, and on the same day it told Gunastran no. **One courier carries both facts north**, and that is the point of putting them in one chapter: Chapter 12's numbers are not a forecast arriving in a vacuum, they are a forecast arriving on top of a closed door.
+
+**The refusal used to sit in Chapter 13, after the Consortium had already voted, and that was the wrong order** — it made Elara's *no* a receipt rather than a cause, and the skeleton's own line called it *"a fuse"* while placing it where it could not be one. The intended causation is the author's and it is simple: **Gunastran asks → Balisha refuses → Gunastran concludes it must fight → Gunastran goes looking for allies → Kalden.** Every one of those links has to be able to point backwards at the one before it. Do not move this scene back.
+
+**Rule 3 check, because it was made deliberately.** The ceremony's wonder runs unbroken from beat 1 to the end, and the cold open sits entirely outside it. **Nothing from the cold open may bleed into the hall** — no callback, no line of dialogue, no glance between Xion and Elara that remembers the morning. The refusal was four minutes of administration and neither of them is carrying it. If the ceremony ever feels shadowed by it, the cold open has failed and the chapter has lost the emotion it was built for.
 
 **Kalden and the proposal (timing):** The Erulian marriage proposal does *not* originate here. Chapter 13 delivers it deliberately as a formal delegation days later, placed on the diplomatic record — its coldness and formality are the point, and a prior private approach at this reception would undercut that. So this chapter should not stage or tease Kalden broaching it. If Erulius is present at all, it is as one more foreign delegation watching the Crown blaze — and, if anything, the ceremony is part of what convinces Kalden the prize is worth a formal instrument. Leave the proposal to Chapter 13.

@@ -1,21 +1,18 @@
 # Chapter 13: The Proposal
 
-**Timeline:** Days after the Gunastran Consortium's vote. Balisha does not know that vote happened — but in this same window it receives, and refuses, Gunastran's overt request for access to Lathion (the formal knock the Consortium resolved to make in Chapter 12). The Erulian proposal follows.
-**Characters:** Xion, Elara, a Gunastran envoy (cold open), Kalden's Erulian envoy (main scene)
+**Timeline:** Days after the Gunastran Consortium's vote, which Balisha does not know happened. **Gunastran's request for access was made and refused a chapter ago** — in Chapter 11's cold open, weeks before this, and it is why the Consortium met at all. Nothing about it recurs here.
+**Characters:** Xion, Elara, Kalden's Erulian envoy
 **Emotional work:** The reader must hold two incompatible truths at once — that this offer is genuinely good, and that accepting it would cost Elara something real. But by the end, the reader must **not know what Elara will do** — because Xion doesn't, and because he refuses to decide it for her. The chapter's job is to leave the Kalden question genuinely open, so it can still be live in Chapter 14.
 **POV:** Xion, close third-person limited, throughout.
 
 ---
 
-## Cold open — the door that closes without a sound
-
-*Short scene, low-stakes on its surface — because the reader, holding Chapter 12, knows what Elara does not. Place it before the Erulian delegation.*
-
-C1. A Gunastran delegation requests audience — nothing like the Erulian ceremony that will follow. A working request through ordinary diplomatic channels: the Industrial Consortium seeks access to Lathion, scholarly and technical, couched in the reasonable language of shared advancement and mutual benefit. (This is the formal request the Consortium resolved to lodge in Chapter 12 — the knock on the door they have already proven sealed.) Xion is present. He reads the envoy as able, correct, well-briefed — and carrying something beneath the correctness that he cannot quite place. He cannot place it because he was not in the Foundry boardroom and does not know what these people know.
-
-C2. Elara refuses, and it costs her nothing — that is the entire point. She is bound by the Uratha compact: exclusive access, no third party. She says so in the untroubled tone of a sovereign declining a request she has neither the latitude to grant nor any reason to want to grant. She is correct. She is treaty-clean. To herself she is refusing a routine ask from an industrial rival on an ordinary afternoon. She does not know — cannot know — that the *no* she is spending so cheaply is a fuse. The reader, holding Chapter 12, knows exactly what it is. The gap between what the word costs her and what it will cost the world is the whole scene.
-
-C3. The envoy withdraws with perfect courtesy. Xion catches, in passing, the faint wrongness he can't source: the delegation is *too* composed for people who have just lost something — composed the way people are when the refusal was expected and the refusal was never really the point. He files it, the way he files things, in the same folder as Draskin's frictionless concessions and the Provosts' shock at the Crown. He does not connect the threads. There is a formal Erulian delegation at the palace doors within the hour, and that is the meeting he has been told to prepare for.
+> **The cold open that used to live here has moved to Chapter 11**, on the author's ruling of 2026-08-02.
+> Gunastran's request had to be *refused before the Consortium voted*, not after it, or Elara's *no* is a
+> receipt rather than the cause of the war. **Do not restore it here**, and do not have anyone in this
+> chapter mention it — it happened weeks ago and nobody in Kaha'an gave it a second thought, which is the
+> point. The chapter now opens directly on the Erulian approach, which is cleaner: the secrecy of Kalden's
+> proposal is the first thing the reader meets, with nothing in front of it.
 
 ## Beats — the proposal (Erulius)
 
@@ -59,7 +56,7 @@ C3. The envoy withdraws with perfect courtesy. Xion catches, in passing, the fai
 
 **What this hands to Chapter 14:** A live Kalden option and an undecided Empress. Chapter 14 opens by flipping the board — Elara puts the decision in *Xion's* hands — and that flip only works because this chapter refused to make the decision for her, or for the reader. The two chapters are a matched pair. Neither works without the other.
 
-**The cold open (why it's here):** The scene exists to put the treaty-lock into visible operation and to close the timeline gap between Chapters 12 and 13 — Gunastran's foreclosed diplomacy becomes an on-page event rather than an off-page assumption. Its power is entirely dramatic irony: the reader spent Chapter 12 inside Gunastran's existential terror, so watching Elara refuse them *without a second thought* lands with a weight she herself does not feel. It also frames the chapter by contrast — two delegations, back to back: the door that closes without a sound (Gunastran, treaty-bound, effortless) and the door that will not close at all (Erulius, the proposal she cannot simply decline). Keep the cold open short: it is setup and irony, not the chapter's heart. The proposal is.
+**What the move cost, and why it was still right.** The old cold open bought a genuine contrast — two delegations back to back, the door that closes without a sound and the door that will not close at all — and that contrast is gone. It was not worth the price. It only worked by putting Gunastran's refusal *after* the vote it was supposed to have caused, which made the most consequential word anyone in Balisha speaks in this book into a formality. **A good juxtaposition is not worth an inverted causal chain.** What replaces it is better anyway: the reader met that refusal in Chapter 11 as four minutes of administration and learned in Chapter 12 what it detonated, so by the time the Erulian envoy arrives here the reader is carrying dread the characters have no access to at all — which is precisely the load this chapter needs, and it now arrives without a scene to carry it.
 
 **Why the proposal is confidential (Kalden's double-game):** The approach is delivered in secret — off the record, hidden even from the Balishan court's wider hearing — because Kalden is running two games at once and cannot let either table see the other. To Gunastran, who has just approached him, he is a prospective ally still "considering his options." To Elara, in secret, he is a suitor. The secrecy is what keeps both doors open: if she accepts, he reveals the marriage, declines the Compact, and Gunastran is left isolated and outmatched; if she refuses, Gunastran never learns he tried to defect, and he pivots cleanly to leading the coalition against her. A *public* proposal would leak to Gunastran and burn that optionality — so it cannot be public. This also seeds a thread for Xion: the secrecy itself is information. He clocks that Kalden is hiding this from someone, without being able to name who (he does not yet know Gunastran exists as a threat). Keep his read light — he files it, he does not crack it. Over-cluing Xion here would collapse the Chapter 12 irony that he and Elara are deciding blind.
 
