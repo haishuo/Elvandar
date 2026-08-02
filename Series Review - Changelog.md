@@ -3476,3 +3476,56 @@ that were applied to the sheets and to Book 1 without being swept forward into B
 **Working rule for the rest of this prose pass, in addition to the timeline check already recorded:
 verify any Book 1 or Book 2 *event* against that book's prose before writing it, not against the Book 3
 draft that references it.** The draft is the plan; the earlier book is the fact.
+
+---
+
+## 2026-08-01 — Author's ruling: Xion gives Janice her own shop back, and she takes it
+
+**This is what the fire correction unlocked.** With the shop standing rather than burnt, it is still hers
+on every document predating the cartel — and the cartel took it over the journals, and **the crown seized
+everything the cartel held**, out of six sites, carried across the city by Xion himself in a single night.
+**Her shop is sitting in an inventory that the body he chairs controls.**
+
+### The distinction the movement now turns on
+
+Everything on Xion's original list is a **gift**, which is why A9's refusal is unanswerable: *if he pays
+her, then there was an account.* **Her own shop is not a gift. It is restitution** — the correction of a
+theft, by the body compiling the list of thefts — and **there is nothing in it to write down, because it
+was never anyone's to give her.** The one argument she has been making for eight years does not reach it.
+
+**Sequencing is load-bearing and is now stated in the footer.** The shop must come **after** the refusal
+and **because** of it. On the list, she refuses it with everything else and the idea dies — or she accepts
+it, and the movement becomes a man solving a woman's problem and being thanked, which the standing footer
+rules out: *"the scene is a failure the moment it feels like absolution."* **It does not make him generous.
+It makes him correct**, which is the only register she accepts anything in.
+
+### Why her taking it sharpens rather than softens her
+
+**A9 stands exactly as delivered** — the pension, the house and the register are still refused and never
+revisited. A woman who refuses everything reads as merely stubborn. **A woman who takes one thing and
+refuses four is discriminating**, and her line falls precisely between *returned* and *given*, located
+instantly in a situation nobody has ever put her in.
+
+**And the loss survives the restoration, in her mouth (new A12).** *Fen* went into the imperial record in
+ch1 in front of two cartel heads and three noble houses, and a free clinic cannot be run out of a room the
+city can point at. **She gets the trade back and not the arrangement** — the mundane half, not the half
+she risked her life for across eight years. She says so flatly, immediately after taking the deed, without
+pity, because accuracy is the only service she has ever performed for him.
+
+### Changes
+
+**`Chapter 4 - Negotiations.md`:** A4 rewritten — she lives two streets from a building she owns and
+cannot enter, which is quieter and crueller than ashes, and sharpens Xion's failure exactly (**the thing
+between her and her own front door was a document in a pile he carried himself**). New **A10** (the
+restitution), **A11** (she takes it and nothing else), **A12** (what it does not fix). The temptation beat
+survives as **A13** with a line added: the shop does not resolve it, because he found something he could
+have done without her permission and asked anyway. Movement renumbered A1–A17 and the header updated.
+
+**Also fixed in passing:** A15 still said *"The clinic burned."* Now *"The clinic is finished"* — same
+meaning, and it no longer contradicts the ruling three beats above it.
+
+**`Chapter 1 - Scars.md`:** a footer note that the seizure request is the hinge for both halves of the
+Janice movement — **and that Xion must not know it yet.** No line added to the chapter; the instruction is
+only not to close the door on it.
+
+**`book3_chapter_skeleton.md`:** the ch4 entry had **no record of Movement One at all**. Now documented.
