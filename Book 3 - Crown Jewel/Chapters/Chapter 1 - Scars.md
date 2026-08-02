@@ -172,7 +172,7 @@ The undersecretary looked up.
 
 "I — would have to look, Counselor. It's a great deal of material."
 
-"I know how much material it is. I carried some of it." He kept his voice exactly where it had been for the name. "One person in particular. I don't have a name I can give you that would be on a page. A weaver. She owned the shop off the Middle District that burned — you'd have it as a fire. She would be about sixty now. Her eyes were going, so somebody may have written that down; people do. That's what I have."
+"I know how much material it is. I carried some of it." He kept his voice exactly where it had been for the name. "One person in particular. I don't have a name I can give you that would be on a page. A weaver, Middle District. She owned her shop outright, which means she paid her own water levy — there will be a token roll with her on it, or there was. She would be about sixty. That's what I have."
 
 The pen was not moving.
 

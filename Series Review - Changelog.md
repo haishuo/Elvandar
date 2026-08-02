@@ -3377,3 +3377,51 @@ answer either, and remembers thinking they were strange things to want to know.
 **Nothing is explained to anybody who already knows it.** The scene now recruits the Book 1 briefing
 rather than quietly depending on it, and Kael's objection is the same objection it was before — it simply
 arrives with a history attached.
+
+---
+
+## 2026-08-01 — ch1: vetoed eyesight cut, and a fire that cannot fit where it is
+
+**Two author catches on the clerk beat. The first was mine to have avoided; the second is a genuine hole
+in the source material that writing the prose exposed.**
+
+### Janice's sight — the veto was already on the books
+
+The prose gave her *"eyes were going, so somebody may have written that down."* **`Series Review - Master
+List.md` §6 vetoes exactly this**: *"Janice's sight is fine. Do not reintroduce it in any book,"* and her
+sheet closes the item — *"No failing sight, no blindness, in any book."*
+
+**The ch1 beat draft still carried it**, which is why it reached the page: when the veto was applied it
+took the blindness out of the Janice movement's beats and out of her sheet, and **nobody swept ch1**,
+where the detail sits inside a description given to a clerk. Both are fixed, and the draft now says why.
+
+**The replacement does more work than the original.** The identifying mark is now administrative — *she
+owned her shop outright, which means she paid her own water levy; there will be a token roll with her on
+it* — which suits the register of a man giving a description to a records office, and quietly restates the
+thing that actually defines her: **she owed nobody, and the proof of it is in a tax roll.**
+
+**This is the second time in two passes that the beat draft, not the prose, was the source of the error**
+(after Master Fen's *five years*). Both were details the drafts inherited from superseded rulings.
+
+### The fire cannot have happened where the drafts put it
+
+**The clinic is the back room of Janice's shop.** Her sheet, first line: *"Janice runs a weaver's shop in
+the Middle District, and **in the back room of that shop** a man with a false name gives away medicine he
+does not charge for."* One building.
+
+**Book 2 uses that building in nine chapters — through ch19, the penultimate one.** *"Ahead of him was the
+shut clinic, and the cot in it, and whatever came after that."* **Xion is sleeping there at the end of
+Book 2.** Book 2's prose contains no fire anywhere, and Janice never appears in it.
+
+**But the B3 ch4 Janice movement has the shop already burned**, Janice held eleven days and released, and
+her living in a rented room two streets away for *"months of it"* — with Kael reporting *"she isn't
+anywhere"* from **a warehouse, the week the shop burned**, which is a Book 1–2 setting.
+
+**Those cannot all be true.** A fire during Book 2 contradicts ch16, ch17 and ch19; a fire after Book 2
+leaves only the six-week gap before ch1, which cannot hold *"months."*
+
+**Flagged, not resolved — this is an author ruling.** The cleanest fix appears to be putting the fire in
+the gap after Book 2 and changing the ch4 draft's *months* to *weeks*, which leaves Book 2's prose
+untouched and makes Xion's ch1 question fresher rather than older. **But that is a change to a beat draft
+and to the shape of the Janice movement, and it is not mine to make.** Meanwhile ch1's prose has been
+written so it commits to nothing: the fire is not dated and its severity is not described.
