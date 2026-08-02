@@ -114,15 +114,17 @@ It was Silvanno who said it, in the last half hour, in the tone of a man putting
 
 Nobody laughed.
 
-"The brass one," he said. "Under the tunnels. I know. I know how it sounds. But we have spent four hours going around a table finding nine or ten months, and if there's a thing in this city that could change the shape of the problem rather than the size of it—"
+"The brass one. Under the tunnels." He did not look at Elara while he said it, which Xion noticed and approved of. "I've never seen the thing. All I have is what you told us in the warehouse that night, and I'll be honest, at the time I filed it as the least believable part of a fairly unbelievable evening. But we've spent four hours going round this table finding nine months, and if there is anything in this city that changes the *shape* of the problem instead of the size of it—"
 
-"We don't know what's behind it," Kael said.
+"I asked you about it then," Kael said.
 
-"No."
+Xion turned. He had, in fact. In among all of it — Elara, the Warrens, Tam, the Long Knives — Kael had sat forward and asked how deep the corridor ran and whether it would take a cart, and Xion had not been able to answer either question and had thought at the time that they were strange things to want to know.
 
-"It could be a wall."
+"You did," he said.
 
-"It could be a wall," Silvanno agreed. "It could be a store room with four hundred years of dust in it. I'm not saying it's an answer. I'm saying it's the only thing on the table that isn't arithmetic, and we've just spent four hours proving the arithmetic doesn't work."
+"You didn't know. Nobody's found out since; nobody's had a reason to." Kael turned a page in his folio without looking at it, which was what he did instead of shrugging. "So we'd be spending against a thing none of us can describe. It could be a wall."
+
+"It could be a wall," Silvanno agreed. "It could be a store room with four hundred years of dust in it. I'm not saying it's an answer. I'm saying it's the only item anyone has raised today that isn't arithmetic, and we have just spent four hours proving the arithmetic doesn't work."
 
 Xion looked at Elara, and found she was already looking at the window.
 

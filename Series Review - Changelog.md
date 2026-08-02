@@ -3342,3 +3342,38 @@ from, since Farleen was embedded five years before Book 1 and the Amber Leaf gro
 **Worth noting for the rest of Book 3's prose pass:** this is the first case of the beat draft being wrong
 rather than the prose drifting from it, and the drafts were reverse-checked against `Story Timeline.md`
 only for Book 1. **Check figures against the timeline, not against the draft.**
+
+---
+
+## 2026-08-01 — ch1: the Brass Door's provenance made visible on the page
+
+**Author's challenge: why Silvanno, who was not there?** The three who were at the Door in Book 1 — Xion,
+Elara, Farleen — were the natural candidates, and the objection was that using anyone else forces an
+*As You Know*.
+
+**The choice survived the check, but only halfway.** Silvanno and Kael *were* briefed, in finished Book 1
+prose, **ch23 line 115**: *"Xion continued the explanation… **The divine trial at the brass door**… All of
+it."* Kael is in that scene and, two lines later, **"asked occasional questions — practical ones about
+logistics and timing."** So no exposition was owed. The establishing scene exists.
+
+**Why not the three who were present**, each for a different reason: **Elara cannot propose it** without
+converting herself, in front of the cartel heads she has just faced down as a fiscal authority, into a
+woman chasing a personal destiny — the draft has her put it *"at the bottom"* of the list, which is
+receiving it, not raising it. **Xion should not**, ninety minutes into an office grounded explicitly in
+competence rather than favouritism, and with his one personal use of that office already spent on the
+Janice request. **Farleen has no standing** and the draft keeps her silent. And **Silvanno's sheet is
+built for this** — he is the man who says the unwelcome true thing once everyone else has run dry.
+
+### But the author was right about the page
+
+**The coherence was real and invisible.** Nothing in the scene signalled how Silvanno knew, and "it is
+justified three chapters from the end of the previous book" is not a defence if the prose does not carry
+it. **Fixed by making the provenance do character work instead of exposition:** Silvanno now names it as
+something he was *told*, in the warehouse, and admits he filed it at the time as the least believable part
+of the evening — and **Kael answers with the questions he actually asked in ch23**, how deep the corridor
+ran and whether it would take a cart. Xion's reaction supplies the rest: he remembers not being able to
+answer either, and remembers thinking they were strange things to want to know.
+
+**Nothing is explained to anybody who already knows it.** The scene now recruits the Book 1 briefing
+rather than quietly depending on it, and Kael's objection is the same objection it was before — it simply
+arrives with a history attached.
