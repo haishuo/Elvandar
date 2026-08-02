@@ -3261,3 +3261,42 @@ Kelgrav**, *Silas Vex* → **Bregan Haldorn**; plus *Thessarian* → **Tolvane**
 the two Elenas. **The rule extracted from all of it lives in `Places/Languages of Elvandar.md`:** say a
 coinage aloud beside the existing cast before adopting it, prefer a non-V initial, and treat short names as
 the dangerous case.
+
+---
+
+## 2026-08-01 — Book 3 Chapter 1, "Scars" — prose drafted
+
+**First prose of Book 3 written to the beat draft.** Order followed: full skeleton, then the ch1 draft,
+then `People/` for Sa Ko Ren, Tania Larannas and Kael Issamil, then a voice calibration against Book 2's
+closing pages. All 23 beats are present. **4,022 words** — see the length note below.
+
+**Choices inside the draft's latitude.** The objecting noble is **Lord Merchant Tobias Valorian**, whose
+house is Grain-integrated, which makes a Grain-aligned house objecting to a Kemvimore do double work. The
+Brass Door remark goes to **Silvanno** — the draft offered Kael, Silvanno or Elara, and Silvanno is the one
+who already delivers the chapter's other unwelcome truth in Book 1, so the register is established.
+
+**Two things I caught in my own draft and fixed before committing**, both violations of standing rules:
+a **meta-term slip** (a stray *"the end of Book —"* left in the narration), and an **omniscient closing
+line** — *"neither of them had any idea what they had just decided"* — which is the *unbeknownst*
+construction the cinematic rule forbids. Replaced with an observation Xion can actually make: he reads her
+lightness the way he reads a patient who has told him only the part they can stand to say.
+
+### Length: over the series ceiling, and flagged rather than cut further
+
+**4,022 words against a maximum of 3,780 (Book 1) and 3,769 (Book 2)** across forty-five finished
+chapters, and against **3,001** for Book 3's own existing chapter. This would be the longest chapter in the
+series.
+
+**One tightening pass was made** — compressing explanation rather than scene: the treasury circling, the
+analysis of what Elara does *not* do, and the Mira Fen exposition, which Books 1–2 readers do not need in
+full. That recovered only ~110 words, because the length is not in the padding.
+
+**It is in the beat count.** The chapter carries 23 beats and has to establish the post-Book-2 state, a new
+government, four cartel figures, the procedural objection, the appointment, the name change, the second
+request, and the Brass Door. **Further cuts would have to remove scene material, not explanation** — and
+per §1, both structural cuts this project's method has proposed so far were wrong and wrong in the same
+direction. **So it is flagged for the author rather than cut on my own judgment.** The obvious candidate,
+if a cut is wanted, is the treasury movement: Silvanno's and Kael's levy exchange could go to summary
+without losing a beat, which is worth roughly 250 words.
+
+**Royal Road regenerated**; Book 3 now exports two chapters.
