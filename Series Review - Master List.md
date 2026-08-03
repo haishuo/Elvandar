@@ -101,6 +101,46 @@ of a right of way** — the one thing he said it must never be. **Book 4 inherit
 seated for the wrong reason**, and nothing in Book 3 tells him so. Do not let a character deliver that
 verdict to his face; it is the same failure mode as telling him he became his father (see [§6](#6-settled-rulings)).
 
+**The Warrens seat, and what it does to Book 6 — OPEN, needs the author's ruling.** B3 ch6 does not give
+Ronas a handshake. It puts a standing council seat **into a written instrument of the crown**, in the same
+clause as four months of passage, minuted, on the schedule, non-lapsing. **That paper still exists in Book
+6**, twenty years later, and it changes the Ronas confrontation at its root.
+
+*Recorded here because `book6_outline.md` currently contains no version of this beat at all.* The author
+recalls one — Ronas protesting *you can't just move sixty thousand people*, invoking a deal with Elara,
+and Melina answering that she is not her mother and he never had a deal with **her** — and it is not in
+the Book 6 outline, the series outline, `Offstage.md`, or this document. It was a conversation that never
+got written down. **The version below is a proposal, not a ruling.**
+
+**Why the remembered version no longer works.** *You never had a deal with me* repudiates a written
+instrument of the crown, and that is the one thing this dynasty is careful never to do — B3 ch12's whole
+cold open turns on Elara being treaty-clean, which is what keeps her from being the war's aggressor. It is
+also **off-stack for Melina**, who is Truth Seeker primary and Engineer second: she does not dismiss a
+document, she reads it correctly.
+
+**The version the instrument actually produces is colder and better.** Melina does not deny the seat. She
+reads what it is a seat *for*. **It is the Warrens' chair** — Xion's own framing on the page, *"the Warrens
+had entered the government of Balisha as a term of sale"* — and she is not breaking the agreement, she is
+**dissolving the party to it.** Empty the Warrens and there is no constituency, and no seat, and no deal
+broken. Legal, precise, and exactly what a book called *Necessary Measures* is for. Ronas's *you can't just
+move sixty thousand people* stops being a moral appeal and becomes the accurate observation that she is
+about to abolish his standing rather than revoke it.
+
+**And it detonates B3 ch6's closing line in his daughter's mouth.** Xion walks out of the Iron Hall
+understanding that *the way to be governed by Balisha was to be holding something Balisha wanted.* Twenty
+years later Melina supplies the corollary he never said: **stop holding it and you stop being governed —
+you get moved.** He is alive to hear it. **Nobody explains this to him and he does not say it aloud**; the
+same rule as the father verdict applies, and for the same reason.
+
+**Two open questions the author should settle before Book 6 drafts.**
+1. **Did Ronas ever sit in the chair?** The strongest answer is yes, for twenty years, losing every vote —
+   the exact shape of his Coterie seat, a second lifetime of holding a position that never wins. It also
+   means the council watched him age.
+2. **Whose seat is it — the Warrens' or the Slavers'?** B3 ch6 leaves this genuinely ambiguous: Xion
+   thinks *the Warrens*, Ronas takes it as *his*. **That ambiguity is an asset and should be resolved on
+   the page in Book 6, not retrofitted into Book 3**, because it is precisely what the succession contest
+   Melina plans for would fight over.
+
 **The test, for any silence not yet written.** Put the best available defence to him and see whether he takes it.
 
 | Silence | Defence | He says |

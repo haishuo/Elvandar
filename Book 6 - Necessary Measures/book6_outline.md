@@ -103,6 +103,18 @@ This is the line the book turns on. Not because it's a rhetorical triumph — Me
 > **They listened. They planned for it specifically. It was not enough** — and the reason it was not
 > enough is exact rather than convenient. See below.
 
+**FLAG, 2026-08-03 — this act now has a document in it, and the outline has not caught up.** B3 ch6
+(*Fair Price*) was written on 2026-08-03 and it does not give Ronas a handshake with Elara. It writes a
+**standing council seat for the Warrens into a crown instrument**, in the same clause as four months of
+passage under the city, minuted, on the schedule, explicitly non-lapsing. **That paper is twenty years old
+when this act opens and it is still good.** Moving against Ronas is therefore not moving against a
+customary arrangement; it is moving against a signed term of sale. See `Series Review - Master List.md`
+§2, *The Warrens seat*, for the proposed handling — in short, **Melina does not repudiate the instrument,
+she dissolves the party to it**, which is legal, precise, on-stack for a Truth Seeker primary, and colder
+than a denial would have been. **Two things need the author's ruling before this act drafts: whether Ronas
+ever sat in the chair, and whether the seat belongs to the Warrens or to the Slavers.** Nothing below has
+been rewritten for it yet.
+
 The decision is made. The relocation begins. And Ronas must be dealt with — because the Warrens cannot be emptied while the Slavers control the infrastructure of daily survival inside them.
 
 When the crown moves against him, Ronas doesn't rage. He warns them.
