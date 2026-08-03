@@ -4382,3 +4382,33 @@ them.** Any line that has one of them acting from enthusiasm, goodwill or gratit
 against what that nation's own chapters need it to be.
 
 `Chapters/Chapter 3 - Storm-Line.md` and its beat draft (beat 2); Royal Road regenerated.
+
+**Second correction, same line, same day — and this one was mine, not the draft's.**
+
+The fix recorded above replaced *"Uratha would want thanking"* with *"Uratha would want paying in something
+that was not coin."* **That is the same error in a better coat, and it does more damage than the original.**
+
+**It steals Chapter 4.** The single most important thing the ch3 room does *not* think of is that a claim on
+the Scholar's Crown could be spent in place of money. **That idea is Xion's**, it arrives in a corridor
+after Gunastran has already refused him, and the skeleton calls it *"First Counselor Xion Fen at his
+sharpest — he tried the obvious move, absorbed the failure cleanly, and found the sharper angle."* A line in
+ch3 gesturing at non-monetary payment converts his discovery into something an unnamed adviser half-said a
+chapter earlier.
+
+**The author's correction is the plain one and it is right: Gunastran and Uratha both want coin.** They are
+sovereign states and they charge in legal tender like everyone else. What Balisha lacks is money, that lack
+is the book's engine, and nobody in that room has any other idea yet because *there isn't one yet*.
+
+**So the third voice now does a straight price comparison that goes nowhere** — transport, indemnity, what a
+Gunastran consortium would ask against what a Urathan chair would ask — and **Kael closes it** without
+emphasis by observing that they are weighing two prices nobody has ever been quoted, against a treasury that
+spent four hours last month failing to find nine months. *It was allowed to stand. It was the kind of true
+thing that does not help.*
+
+That keeps every adviser competent, keeps the frame everyone actually has, and leaves the wall standing so
+ch4 can walk into it properly.
+
+**The general rule this produced, which is the reason to record a self-inflicted error at all:** when fixing
+a line that anticipates a later chapter, **check that the fix does not anticipate it differently.** Both
+versions of this line failed the same test — *does anyone here know something they are not supposed to know
+yet?* — and the second failed it while explicitly citing ch4 as the authority it was serving.
