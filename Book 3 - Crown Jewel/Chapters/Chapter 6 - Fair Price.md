@@ -18,7 +18,7 @@ He thought about saying so and did not. It was not a complaint. It was closer to
 
 Kaha'an had not waited for them.
 
-The city looked the way it had looked when they left, which was the problem; the works order for the Tanners' cistern had come back up through the office twice while they were gone and gone down twice, and the second refusal had his own seal on it, applied by a clerk with standing instructions, because there was no money and there had been no money in the spring either. Nine to fourteen months, she had said in the winter. Eleven weeks of it were gone now, and he had spent them on a road.
+The city looked the way it had looked when they left, which was the problem; the works order for the Tanners' cistern had come back up through the office twice while they were gone and gone down twice, and the second refusal had his own seal on it, applied by a clerk with standing instructions, because there was no money and there had not been any when they left either. Nine to fourteen months, she had said in the summer. Eleven weeks of it were gone now, and he had spent them on a road.
 
 The instrument was read into the record on the third morning.
 
@@ -32,7 +32,7 @@ When it was done, Sa Ko Ren said, "I'd have signed it."
 
 Xion looked up. She was sitting the way she always sat, forward, forearms on the table, a woman who had built the Iron cartel out of a Wild Sands windfall and forty years of not being pleasant about it, and there was nothing in her face that was setting up a strike.
 
-"That's not the question," she said. "The question's what we've got now that we didn't have before the winter."
+"That's not the question," she said. "The question's what we've got now that we didn't have before the summer."
 
 "Scholars," Elara said.
 
@@ -40,7 +40,7 @@ Xion looked up. She was sitting the way she always sat, forward, forearms on the
 
 "On a road."
 
-Sa Ko nodded slowly, as though that were a fair answer and also not one. "So we had a claim nobody would give us. Now we've got a promise nobody's kept yet. I'm not saying you were wrong. I'm saying the treasury is the same size it was, and I've heard four months of what might be behind that door, and I've not been shown anything." She turned her hands over. "Show me the thing. Then I'll tell you what it was worth."
+Sa Ko nodded slowly, as though that were a fair answer and also not one. "So we had a claim nobody would give us. Now we've got a promise nobody's kept yet. I'm not saying you were wrong. I'm saying the treasury is the same size it was, and I have heard a great deal about what might be behind that door, and I have not been shown any of it." She turned her hands over. "Show me the thing. Then I'll tell you what it was worth."
 
 There it was.
 
@@ -62,7 +62,7 @@ Elara let the silence go on a beat longer than was comfortable, which was delibe
 
 Nobody renewed the objection. Nobody withdrew it either. It simply sat there in the minute, where it would be legible to anyone who read the minute afterward, which was the point of having minutes.
 
-Xion had been in the room in the winter when a man from one of the old houses had questioned his standing and Elara had taken it apart in ninety seconds and the objection had not been raised again. This was not that. He found, walking out, that he did not want it to have been.
+Xion had been in the room in the summer when a man from one of the old houses had questioned his standing and Elara had taken it apart in ninety seconds and the objection had not been raised again. This was not that. He found, walking out, that he did not want it to have been.
 
 ---
 
@@ -86,13 +86,13 @@ He had been quiet for most of it, in the way that meant he had been reading. He 
 
 Xion looked at the sheet, and then at Kael, and had the odd small experience of a door opening in a room he had walked past for months.
 
-In the winter, in this building, on the day the office was created, Kael had leaned forward in the middle of everything else and asked how deep the corridor ran and whether it would take a cart. Xion had not been able to answer either question. He had thought at the time they were strange things to want to know.
+In the summer, in this building, on the day the office was created, Kael had leaned forward in the middle of everything else and asked how deep the corridor ran and whether it would take a cart. Xion had not been able to answer either question. He had thought at the time they were strange things to want to know.
 
 "You've been at this since the day they gave me the office," he said.
 
 "Somebody was going to have to." Kael did not look up. "It was always going to be the boring part that stopped us."
 
-Vesk took it back. "It stops us today. In the winter I bought eleven days off a lieutenant who holds four shafts on the north side and a stretch of the third tier, and he made the rate up standing in front of me, and I'd do it again for eleven days." He set the sheet down. "I can't build on it. He sells time. He can sell the same shafts to a broker tomorrow morning and be within his rights, and if somebody puts a knife in him next month I own nothing at all — no paper, no successor, no name to shout. It is not a country. It is a market with a king in it."
+Vesk took it back. "It stops us today. In the summer I bought eleven days off a lieutenant who holds four shafts on the north side and a stretch of the third tier, and he made the rate up standing in front of me, and I'd do it again for eleven days." He set the sheet down. "I can't build on it. He sells time. He can sell the same shafts to a broker tomorrow morning and be within his rights, and if somebody puts a knife in him next month I own nothing at all — no paper, no successor, no name to shout. It is not a country. It is a market with a king in it."
 
 "And we need the king," Elara said.
 
@@ -100,7 +100,7 @@ Vesk took it back. "It stops us today. In the winter I bought eleven days off a 
 
 Xion did the arithmetic while they were talking, and did not enjoy it.
 
-It was not about getting down. Getting down was solved; getting down had been solved in the winter by a commander with a purse. It was about what was going to be standing at the bottom of that road for four months and what was going to come back up it. Elara had to be there, because the Door answered to her and had answered to nothing else in five thousand years. The Urathans had to be there, and the moment Elara's name went onto the instrument, Balisha owned what happened to them — scholars dying under Kaha'an would void the thing he had bought with a national claim, and Uratha would be entirely correct to say so. And if the Door opened, then whatever came up those shafts was, by the arithmetic of the winter, the only thing between the treasury and the end of it.
+It was not about getting down. Getting down was solved; getting down had been solved in the summer by a commander with a purse. It was about what was going to be standing at the bottom of that road for four months and what was going to come back up it. Elara had to be there, because the Door answered to her and had answered to nobody else who had ever stood in front of it. The Urathans had to be there, and the moment Elara's name went onto the instrument, Balisha owned what happened to them — scholars dying under Kaha'an would void the thing he had bought with a national claim, and Uratha would be entirely correct to say so. And if the Door opened, then whatever came up those shafts was, by the arithmetic of the summer, the only thing between the treasury and the end of it.
 
 You did not put a warehouse at the bottom of a shaft you did not own, on one road, held by a man who set his own tolls. Every grain factor in the city knew that. It was the first thing you knew.
 
@@ -112,7 +112,7 @@ Farleen came to him that night with the loading list and a second sheet under it
 
 "Use the Knives," she said.
 
-She had done the work. That was never in question with her; she had gone down the list item by item in the winter and been right about the lamp oil and the rope and the man with the broken ankle, and she had been right about all three. She laid it out. The Long Knives were already engaged, on terms they had kept to the letter. They knew every level. No faction in the Warrens would cross a blade-mark for money — she had watched a border that nobody guarded because nobody needed to guard it. And she had costed it, in guides and in days, and the numbers were real numbers.
+She had done the work. That was never in question with her; she had gone down the list item by item in the summer and been right about the lamp oil and the rope and the man with the broken ankle, and she had been right about all three. She laid it out. The Long Knives were already engaged, on terms they had kept to the letter. They knew every level. No faction in the Warrens would cross a blade-mark for money — she had watched a border that nobody guarded because nobody needed to guard it. And she had costed it, in guides and in days, and the numbers were real numbers.
 
 "The Mistress already said yes once," she said. "She'll say yes again. She takes a strange currency, but she pays out."
 
@@ -124,7 +124,7 @@ She had done the work. That was never in question with her; she had gone down th
 
 She was quiet for a moment. Then she pulled the second sheet out from beneath the first, and it turned out that she already knew, and had known before she came in, and had brought the proof with her anyway.
 
-"Two rules," she said. "Guides front and back on every trip and every load, and nobody writes the route down. That's what she said in the winter, and it's not stubbornness. The route *is* the guild. Dead Man's Passage is lethal without a map, and only her people have ever had one, and that's the entire reason anybody in this city has to deal with them at all." She put a finger on the second sheet. "So run it out. Four months, not eleven days. Every cart, every crew, every barrel of oil, front and back, forever — and at the end of four months the crown still doesn't have a map of its own supply line. She won't relax either rule. If she relaxed either rule she'd be giving away the only thing she owns, and she'd be right not to."
+"Two rules," she said. "Guides front and back on every trip and every load, and nobody writes the route down. That's what she said in the summer, and it's not stubbornness. The route *is* the guild. Dead Man's Passage is lethal without a map, and only her people have ever had one, and that's the entire reason anybody in this city has to deal with them at all." She put a finger on the second sheet. "So run it out. Four months, not eleven days. Every cart, every crew, every barrel of oil, front and back, forever — and at the end of four months the crown still doesn't have a map of its own supply line. She won't relax either rule. If she relaxed either rule she'd be giving away the only thing she owns, and she'd be right not to."
 
 "And she'd say no."
 
@@ -136,9 +136,9 @@ It was the cleanest piece of thinking anyone had given him in three weeks and sh
 
 "Don't."
 
-So there it was, laid out flat. Two accounts, one settled and one never opened. The Long Knives held the Door and the way to it and the Mistress had taken her price in the winter and taken it in a story. Ronas Dermir held the shafts from the surface and the Midlevels underneath them, and had received a summons from the crown, and had not answered it, and had not sent anyone to not answer it either.
+So there it was, laid out flat. Two accounts, one settled and one never opened. The Long Knives held the Door and the way to it and the Mistress had taken her price in the summer and taken it in a story. Ronas Dermir held the shafts from the surface and the Midlevels underneath them, and had taken four summonses from the crown without ever once troubling to refuse one.
 
-The kingdom had spent four months looking at Gunastran and Uratha and a sealed city under the desert. The last thing standing between it and the Door was four streets from the palace and had never once bothered to say no.
+The kingdom had spent three months looking at Gunastran and Uratha and a sealed city under the desert. The last thing standing between it and the Door was four streets from the palace and had never once bothered to say no.
 
 ---
 
@@ -146,13 +146,13 @@ The kingdom had spent four months looking at Gunastran and Uratha and a sealed c
 
 "You won't."
 
-"He's refused the crown for six months. So the crown goes to him. That's not a concession, Xion, that's arithmetic — he wants to be taken seriously, and there is nothing more serious than me coming down that shaft."
+"He has ignored the crown since before the council existed. So the crown goes to him. That's not a concession, Xion, that's arithmetic — he wants to be taken seriously, and there is nothing more serious than me coming down that shaft."
 
 "And if he refuses you?"
 
 She opened her mouth.
 
-"To your face," Xion said. "In his hall. In front of a hundred and twenty of his own people, who will all know by nightfall, and every broker in the Midlevels will know by the morning after. What's the next move? There isn't one that isn't soldiers. You'd have to do something about it or stop being anything." He waited until she was looking at him. "Refuse the First Counselor and it's a bad afternoon. Refuse me and you've still got a card. Send me first."
+"To your face," Xion said. "In his hall. In front of a hundred and twenty of his own people, who will all know by nightfall, and every broker in the Midlevels will know by the morning after. What's the next move? There isn't one that isn't soldiers. You'd have to do something about it or stop being anything." He waited until she was looking at him. "If he turns me away, you are still standing behind me. If he turns you away, there is nobody standing behind you. Send me first."
 
 She was quiet long enough that he knew he had won, and he did not enjoy winning it. The look she gave him he had no trouble at all reading: a woman raised from infancy by people who taught her that you went yourself, that the going was the message, that anything else was hiding behind a title.
 
@@ -164,7 +164,7 @@ At the end she said, "And the chair."
 
 Xion did not answer that.
 
-"It has been empty since the winter and he has had four summonses." Elara was looking at the table rather than at him. "If it comes to it, you may put it in the instrument."
+"It has been empty since the summer and he has had four summonses." Elara was looking at the table rather than at him. "If it comes to it, you may put it in the instrument."
 
 "You know what that makes it."
 
@@ -188,13 +188,13 @@ Elara did not say anything to that at all, which was itself a kind of answer, an
 
 He went down on a Tuesday, in his own clothes.
 
-Farleen came. She did not argue about it, which was how he knew she had decided before he had; she arrived at the granary at the hour he had not told her and fell in on his left and said nothing about the reason, and neither did he. There was a low wall on the north side of the Merchant Quarter that he had not walked past since the spring, and a man at the bottom of this shaft whose lieutenant was the reason he did not walk past it, and none of that was going to be said out loud today or probably ever.
+Farleen came. She did not argue about it, which was how he knew she had decided before he had; she arrived at the granary at the hour he had not told her and fell in on his left and said nothing about the reason, and neither did he. There was a low wall on the north side of the Merchant Quarter that he had not walked past in months, and a man at the bottom of this shaft whose lieutenant was the reason he did not walk past it, and none of that was going to be said out loud today or probably ever.
 
 She was also, he reflected, one of three people alive who had walked into the Iron Hall and walked out again, and it was going to be useful to have her standing there.
 
 The Surface Warrens were the Surface Warrens: the ruin field in the sun, the collapsed tenements with scaffolding grown into scaffolding, the smell of sixty thousand people living above and below a line the city had drawn and then stopped looking at. Then down. The Tiers, cooler, the light going out of the air by degrees. Then the Midlevels, where the tunnels got wide and organized because somebody organized them.
 
-He knew the way. That was the thing he had not braced for. In the winter he had been brought here, and before that he had come down in the dark with a boy over his shoulder, and both times the Warrens had been a place happening to him. This time he walked it. Eight years of a second life had gone up and down these levels; he knew where the floor was bad on the third tier and which junction flooded and where you did not go at night, and he had the small unpleasant realization, somewhere around a hundred meters, that he could have walked it blind.
+He knew the way. That was the thing he had not braced for. He had been brought down here once, in the winter, and had climbed out of these tunnels once with a boy over his shoulder, and neither time had the Warrens been a place he was walking through on his own account. This time he walked it. Eight years of a second life had gone up and down these levels; he knew where the floor was bad on the third tier and which junction flooded and where you did not go at night, and he had the small unpleasant realization, somewhere around a hundred meters, that he could have walked it blind.
 
 A woman selling something unidentifiable out of a crate at the second landing looked at him twice and said, "Master Fen?"
 
@@ -228,13 +228,13 @@ The Iron Hall had not changed and there was no reason it should have. Forty-five
 
 "Not for a long time," Farleen said.
 
-"Sure." Ronas said it without any interest at all and did not look at her again, and Xion understood that the whole exchange had been Ronas establishing, out loud, for the room, that he knew exactly what had walked in. "So. Six months of paper from the palace and I don't answer none of it, and then you come down the shaft yourself. Wanna tell me what you want, or you wanna do the part where we talk about the Warrens first?"
+"Sure." Ronas said it without any interest at all and did not look at her again, and Xion understood that the whole exchange had been Ronas establishing, out loud, for the room, that he knew exactly what had walked in. "So. Months of paper from the palace and I don't answer none of it, and then you come down the shaft yourself. Wanna tell me what you want, or you wanna do the part where we talk about the Warrens first?"
 
 Xion had prepared four openings on the way down. He discarded all of them.
 
 "I want the shafts," he said. "The north four and the third tier. Four months, guaranteed, in writing, in terms that hold if you're not here."
 
-"There it is." Ronas raised a scarred eyebrow. "Your commander bought eleven days off Deshi in the winter."
+"There it is." Ronas raised a scarred eyebrow. "Your commander bought eleven days off Deshi in the summer."
 
 "He did."
 
@@ -242,7 +242,7 @@ Xion had prepared four openings on the way down. He discarded all of them.
 
 "That's why I'm here."
 
-"That's why you're here. And in the winter you stood up in a room in that palace and said the Warrens was gonna get talked about, and it didn't get talked about, and here you are six months later wantin' a right of way." Ronas gave that all the room it wanted. "So which one is it? You come down here to ask about the Warrens or you come down here for the shafts?"
+"That's why you're here. And back in the summer you stood up in a room in that palace and said the Warrens was gonna get talked about, and it didn't get talked about, and here you are now wantin' a right of way." Ronas gave that all the room it wanted. "So which one is it? You come down here to ask about the Warrens or you come down here for the shafts?"
 
 "The shafts."
 
@@ -268,13 +268,13 @@ Xion thought about the chair.
 
 It had been standing in that room the whole time. Sa Ko Ren at the table and Tania Larannas at the table and two chairs empty against the wall — Grain, because there was nobody left to send, and the other one, because the man it belonged to had taken four summonses from the palace and had not answered any of them, and had not sent anyone to not answer them either.
 
-Six months of reading that as contempt. Sitting in the Iron Hall, Xion understood it about a year late and all at once.
+Months of reading that as contempt. Sitting in the Iron Hall, Xion understood it very late and all at once.
 
 This was a man who had forced his way onto the Coterie by shutting the labor off for two months and outwaiting three cartels who were certain he would blink. He had never once in his life been *given* a seat. A chair the palace offered was a chair the palace could take back, and a man who came when the palace called was a man who could be called — and every lieutenant standing on those platforms would run that arithmetic before the summons had gone cold.
 
-He could not take it. He had never been able to take it. And in six months nobody in that building had asked why, including the man who had stood up in the room and said that somebody ought to come down here and ask.
+He could not take it. He had never been able to take it. And in all that time nobody in that building had asked why, including the man who had stood up in the room and said that somebody ought to come down here and ask.
 
-"The chair's been empty since the winter," Xion said.
+"The chair's been empty since the summer," Xion said.
 
 "I know where the chair is."
 
@@ -304,7 +304,7 @@ He stopped then. Something went across his face and stopped there, and for about
 
 They came up through the Market of Sighs and out into the ruin field, and the light was going, and Xion stopped at the top and put his hands on his knees for a moment because five hundred meters of climb was five hundred meters of climb.
 
-He had the shafts. He had them for four months and in writing and on terms that survived the man who had signed them. He had spent nothing that was not his to spend — she had put the chair into his hand herself, and told him to try the money first, and he had tried the money. And there would be a man in that chair before the month turned, which was the thing he had stood up in the winter and said out loud that somebody ought to come down here and see to.
+He had the shafts. He had them for four months and in writing and on terms that survived the man who had signed them. He had spent nothing that was not his to spend — she had put the chair into his hand herself, and told him to try the money first, and he had tried the money. And there would be a man in that chair before the month turned, which was the thing he had stood up in the summer and said out loud that somebody ought to come down here and see to.
 
 It was in the record now. Anyone could read the record. What it said, to anyone who read it, was that the Warrens had entered the government of Balisha as a term of sale — a clause in the same instrument as a right of way, priced against four shafts and a stretch of the third tier, because the crown had needed something and had found out that the man who held it could not be paid in coin.
 
@@ -322,7 +322,7 @@ They walked back up through the Merchant Quarter. He did not say any of the rest
 
 The camp went in over nine days.
 
-Vesk took it down in three loads with the Arol Batae detail walking the shafts, and Sa Ko's timber came down behind them, and her iron behind that, and the platforms went up at the foot of Dead Man's Passage in a chamber that had held nothing but blade-marks and dust for longer than the Balishan Empire had existed. The Long Knives took their positions front and back on every load exactly as they had said they would, and took nothing for it, because the Mistress had been paid in the winter in a story and considered the account current.
+Vesk took it down in three loads with the Arol Batae detail walking the shafts, and Sa Ko's timber came down behind them, and her iron behind that, and the platforms went up at the foot of Dead Man's Passage in a chamber that had held nothing but blade-marks and dust for longer than the Balishan Empire had existed. The Long Knives took their positions front and back on every load exactly as they had said they would, and took nothing for it, because the Mistress had been paid in the summer in a story and considered the account current.
 
 The three Tor'anar arrived on the fourth day, in middle age, with no young ones behind them, and asked where they should stand.
 

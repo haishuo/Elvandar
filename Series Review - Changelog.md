@@ -5756,3 +5756,58 @@ empty in the room since ch1. **Each time the invented version was weaker than th
 
 Chapter now 5,323 words. Beat draft moved in the same commit — beats 19–21 restructured, two footer notes
 added.
+
+### A confused sentence, and the full read it triggered — which found worse
+
+**Author's catch:** *"Refuse the First Counselor and it's a bad afternoon. Refuse me and you've still got a
+card. Send me first."* **Xion is the First Counselor**, so the two halves of that contrast are the same
+clause twice, and *you've still got a card* then swaps the subject from Ronas to Elara mid-sentence. The
+argument underneath was fine; the sentence was not. Now: *"If he turns me away, you are still standing
+behind me. If he turns you away, there is nobody standing behind you. Send me first."*
+
+**That was the fourth catch in this chapter, and two of the four were the same failure — a referent not
+held steady** (the signature, and this). So rather than wait for a fifth, the whole chapter was read
+line by line. It found something larger than any of them.
+
+### "The winter" means Book 1, and the chapter used it sixteen times to mean Chapter 1
+
+**B3 ch1 uses the word twice and both times it points at Book 1** — *"she had been carrying that door
+around with her since the winter"*, of a door Elara touched in Book 1. Nothing in ch2–ch5 uses it at all.
+Ch6 then used *the winter* **sixteen times** as shorthand for the events of ch1 and ch2, which sit roughly
+eight months later. Every single one would have read as Book 1 to anybody holding the timeline.
+
+**The arithmetic, since it now has to be stated somewhere durable.** Counting weeks from Book 1 ch1 as
+week 0 and reading `Story Timeline.md`: Book 1 opens in **winter**; Book 3 ch1 is week 35, which is **late
+summer**; Book 3 ch6 is weeks 45–47, which is **autumn**. The pinned birthday check confirms it — Xion
+turns 24 in *late autumn* at week 48, one week after this chapter. So references to ch1 and ch2 are *the
+summer*, and *the winter* belongs to Book 1 alone. Fifteen were changed; the sixteenth was already correct
+and stays, being Xion's memory of being brought to the Iron Hall in Book 1.
+
+**A second interval failed the same test.** The chapter said Ronas had ignored the crown for **six months**,
+five times. Ch1 says *"Six weeks of that now"*, and only eleven weeks have passed since, which makes it
+about four. Since *four months* is also the length of the passage being bought, the number was removed
+rather than corrected — *months of paper from the palace*, *since before the council existed*, *in all that
+time.* **The cheapest response to an interval you cannot justify is still to not state one.**
+
+### Six smaller things the same read turned up
+
+- **A Book 1 memory in the wrong order** — *"he had been brought here, and before that he had come down in
+  the dark with a boy over his shoulder."* He carried Tam **out**, after the Iron Hall, not before.
+- **A five-thousand-year claim asserted as fact** — the Door *"had answered to nothing else in five thousand
+  years."* The characters' five-thousand-year belief is deliberate and gets complicated in ch8–ch10;
+  the narration should not underwrite it. Now *"had answered to nobody else who had ever stood in front of
+  it."*
+- **A summons count that contradicted itself** — *a summons* in one place, *four summonses* in three others.
+- **A near-verbatim lift of ch1's best line about Ronas** (*had not answered it, and had not sent anyone to
+  not answer it either*), reused as narration five chapters later. Rewritten.
+- **Two undefended durations** — *four months* of talk about the Door when it had been under discussion for
+  under three, and the kingdom looking abroad for *four months* when ch1 to ch6 is three.
+- **A season attached to the low wall** (*since the spring*) that nothing in Book 2 fixes. Removed.
+
+**The rule this produces.** Every one of these was invisible to the mechanical checks — the six-gram sweep,
+the meta-term grep, the casting balance, the dialect check — because **all of them are consistency
+failures against other documents, and none of them are pattern failures within this one.** Greps find
+repetition and forbidden tokens. They cannot find a season, a referent, an interval, or an ordering. Those
+need the line-by-line read, and on this chapter the read found more than every automated check combined.
+
+Chapter now 5,332 words.
