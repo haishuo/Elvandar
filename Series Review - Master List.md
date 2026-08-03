@@ -415,8 +415,8 @@ C-26, C-27 and C-28 were opened in their place and all three are applied — see
 
 These are live work, not review findings against finished prose.
 
-**B3-1 — `Chapter 6 - Fair Price` beat draft.** The skeleton entry is written and signed off; the beat
-draft is the next unit of work, and prose follows it. Four constraints came out of the design discussion
+**B3-1 — `Chapter 6 - Fair Price`: beat draft written 2026-08-03, awaiting the author's read. Prose not
+started.** The skeleton entry is signed off and the draft is built from it. Four constraints came out of the design discussion
 and all four are recorded in the skeleton entry: the Ronas-sells-access / Mistress-sells-presence
 distinction has to be stated plainly once, because **the author wrote ch2's *"Dermir owns him"* and still
 misremembered the lieutenant as a Long Knife**; Farleen argues *for* the Knives and is the one who
