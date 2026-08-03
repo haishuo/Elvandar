@@ -123,7 +123,9 @@ This is **First Counselor Xion Fen** at his sharpest — the political mind that
 
 Xion and Elara travel to Uratha with a small delegation. Their first encounter with Urathan society is dazzling: the gleaming Ivory Tower, the robed scholars moving through pristine halls, the libraries that stretch for acres, the culture of intellectual rigor and achievement. This is a civilization that has organized itself around the pursuit of knowledge, and the results are extraordinary.
 
-Xion notices the Urathans' unusual eagerness. They *want* access to whatever's behind the Brass Door. Their negotiating position should be stronger — they're being asked for help — but they're conceding ground faster than expected. Something about the door matters to them more than they're admitting.
+Xion notices the Urathans' unusual eagerness. They *want* access to whatever's behind the Brass Door. Something about it matters to them more than they're admitting.
+
+**But this must not read as a pushover in the room, and the prose does not let it.** Draskin anchors high, narrows once, and settles at a genuine floor; the negotiation is professional throughout and Xion admires it. **What is faster than expected is that the deal happened at all** — Xion arrived unsure they would take it (ch4's gamble beat), and the Crown clause was accepted the instant it was offered, with something in Draskin letting go that Xion reads off his hands and cannot name. **The pen is the only thing out of place.** Xion rereads this negotiation differently after ch10; he must not read it differently now.
 
 The deal is struck: Balisha stops demanding the Crown's return; Uratha provides its best minds to help open the door; Balisha gets first rights to whatever's inside.
 

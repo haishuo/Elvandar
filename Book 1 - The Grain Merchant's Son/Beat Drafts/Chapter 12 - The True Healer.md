@@ -37,7 +37,9 @@
 
 14. He promises to ask around, with no promises attached. The father offers what little they can pay and Xion refuses it — no charge, not for this — and says the boy deserved better than what happened to him. The free care is what killed the boy and he is still refusing payment. Nothing in the chapter remarks on this.
 
-15. After they leave, silence, both of them staring at the closed door. Elara assembles it aloud: that is why he was in the square, he had just treated him, and they both watched him taken. Then the imperial certainty — when they go to the Warrens, they find Tam.
+15. After they leave, silence, both of them staring at the closed door. Then the imperial certainty, with nothing in front of it — when they go to the Warrens, they find Tam.
+
+**Trimmed 2026-08-03.** Elara used to assemble it aloud first (*that is why you were there that night, you had just treated him, and we both watched them take him*, with a *yes* after each), which was already redundant — ch5 beat 10 established that she knows he treated the boy and that they were both in that crowd — and became more so once ch5 beat 11a had them discuss Tam directly. Six lines cut. **What the cut buys is bigger than the tightening:** her line now arrives with no run-up, so it reads as her collecting the debt from ch5 the moment a route exists, rather than as a recap changing the subject. She could not help him then. She is not asking now.
 
 16. His protest is weak and he knows it while making it: the Warrens are not a place you walk into looking for someone, they are controlled by factions who kill for less than the three of them are worth. She says they will be careful, and that they are going, and he knows she is right. The moment Tam's mother said the word, the path was set — not for political necessity and not because Elara needs to see the city, but because there is a twelve-year-old in deadly conditions and Xion failed him once already.
 
@@ -65,4 +67,4 @@
 
 **On the parents, and the confession that must never happen:** Xion caused this and Elara watched it, and neither tells them. He refuses payment instead. A version where he confesses would be a relief for him and a catastrophe for the chapter, because the entire engine of the descent is a debt he cannot discharge by admitting to it. His silence in that room is the same silence as the market square and the same silence as fifteen years old, and the book has now shown it three times without once saying so.
 
-**On rhythm:** 2,592 words, sitting between ch11 at 2,069 and ch13 at 3,652. It is the ramp out of the intimate collapse and into the longest sustained sequence in the book, and its shape — quiet, quiet, quiet, the parents, quiet again — is what makes the arrival of the parents feel like the day being interrupted rather than a plot beat arriving on schedule.
+**On rhythm:** 2,566 words, sitting between ch11 at 2,069 and ch13 at 3,652. It is the ramp out of the intimate collapse and into the longest sustained sequence in the book, and its shape — quiet, quiet, quiet, the parents, quiet again — is what makes the arrival of the parents feel like the day being interrupted rather than a plot beat arriving on schedule.

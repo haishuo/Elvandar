@@ -81,4 +81,26 @@ The agreement is reached: anything material or economic behind the door belongs 
 
 **The dinner and the seeding of Lathion:** The expanded dinner scene does specific structural work that will not be visible until Chapter 6. The Sapphire Tower scholar's casual enumeration of theories — interdimensional portal, ancient treasury, the lost City of Gears, the underworld passage — buries "Lathion" in a list of equally fanciful possibilities, none more credible than the others, all dismissed by most serious historians. This is the reader's only prior exposure to the name before someone whispers it in the dark at the bottom of the city. The dinner scene must not feel like setup; it must feel like exactly what it appears to be — a scholar who loves this subject getting to talk about it over dinner. The structural function is invisible in the moment and only becomes clear in retrospect.
 
+---
+
+## What the prose settled, recorded 2026-08-02 (chapter drafted, 4,453 words)
+
+**The Sapphire scholar is Iyanna Mereth, the History Provost.** The draft called for an unnamed scholar; using the canon officeholder (`Places/Uratha/Uratha_ The Land of Scholars.md`) costs nothing, invents nobody, and quietly raises the weight — the Lathion tradition is being catalogued by the head of the tower that keeps Uratha's historical record, which will matter enormously in retrospect and reads at the time as exactly what it is: a woman who loves her subject getting to talk about it at dinner. **She is given the best twenty minutes at the table and no significance whatever.**
+
+**The escort carries the chapter's first unease, four days before anything else does.** Uratha sends nine scholars and no soldiers, and Xion gets two readings off it and cannot tell which he has been handed — *we do not need to send swords to you*, or *we do not think of you as the sort of thing swords are for.* One line, dropped, never returned to.
+
+**Beat 9's bakarn observation is sharpened to an arithmetic.** Seventeen people spend an hour being warmly, genuinely interested in the constitutional mechanics of a foreign cartel system and do not direct a syllable or a glance at any of the six people moving around the table. **Xion is the only man there watching a woman refill a jug**, and he has no idea what to do with it, and it stays filed for a very long time. *(Book 4 is what happens to that.)*
+
+**The pen is verified rather than asserted.** Xion asks two of his own delegation about the signing afterward, separately, and gets two accounts in which nothing whatever occurred. **That is how the reader learns he alone saw it** — not by the narration claiming he did.
+
+**Draskin's tell at the Crown clause is read with Xion's own instrument.** Not surprise: the specific quality of a long-held tension letting go, in the shoulders and the hands — *the way a patient braced against a pain for weeks stops bracing when finally given something for it.* The body does not celebrate; it stops doing a thing it had forgotten it was doing.
+
+**Elara names her teachers and one of them is Rosik.** *"I've had a good teacher in not reacting. Two of them, and one of them was your father."* Dry, given exactly its length and no more. **It is a fact about her, not a verdict on Xion**, and the guardrail against anyone delivering *that* verdict to his face is untouched.
+
+### The skeleton/draft tension, reconciled rather than papered over
+
+`book3_chapter_skeleton.md` says the Urathans are *"conceding ground faster than expected"*; this draft has Draskin anchoring high, narrowing once, and settling at a genuine floor. **Both are true and the prose keeps them separate.** What is faster than expected is that the deal happened **at all** — Xion arrived unsure they would take it (the gamble beat, ch4 beat 25), and the Crown clause was received the moment it was offered. The haggling over discovery rights is professional and reaches its natural floor, and **nothing in the room reads as a pushover**, which is what makes the pen the only thing out of place. Xion will reread this negotiation after ch10 and see it differently. **Do not have him see it differently now.**
+
+*(Housekeeping: this draft's beats run 1–8, then an unlabelled block that is beat 9, then 10–20.)*
+
 **Sets up:** The Urathan scholars' arrival in Kaha'an; the name "Lathion" as legend (required for Chapter 6's ending to land); the question of what Leowin Draskin already knows about it and why Uratha has always wanted it back.

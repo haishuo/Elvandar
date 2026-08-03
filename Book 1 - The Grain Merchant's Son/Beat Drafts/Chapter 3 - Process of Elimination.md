@@ -41,7 +41,7 @@
 
 16. It lands harder than any doubt would have, and the narration says so in one sentence and moves on. The full realisation belongs to the chapter's last line and must not be spent here.
 
-17. The two refusals, differing in kind. Kael's is principle: he will not be the reason she is found. Silvanno's is not principle at all and he says so — he has broken the law beside Xion for six months and would do it again tomorrow, twice. His refusal is a withdrawal of leverage. He could supply the delivery schedules, the papers, and someone to come looking if Xion does not come back out; he could be all three, and he will not be, because it is the last thing he has that might stop him. He admits in the same breath that it will not work, and that he has nothing else.
+17. The two refusals, differing in kind. Kael's is principle: he will not be the reason she is found. Silvanno's is not principle at all and he says so — he has broken the law beside Xion for seven years and would do it again tomorrow, twice. His refusal is a withdrawal of leverage. He could supply the delivery schedules, the papers, and someone to come looking if Xion does not come back out; he could be all three, and he will not be, because it is the last thing he has that might stop him. He admits in the same breath that it will not work, and that he has nothing else.
 
 18. Xion turns to Farleen expecting the third refusal and gets an offer to watch his back instead. The beat that pays in ch4 must be planted here without emphasis: of the three, she is the only one who never tried to talk him out of it, and she volunteered in the same breath. He notices it, does not understand it, and the text says plainly that he did not understand until much later.
 

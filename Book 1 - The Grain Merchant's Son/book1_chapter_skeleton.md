@@ -13,13 +13,13 @@ two deliberate widenings of the camera, both signed off as exceptions: the last 
 ch12's closing line.
 **Opens:** Day 1, a market square in the Middle District of Kaha'an, at dusk.
 **Timeline:** 21 days. The whole novel happens in three weeks.
-**Length:** 61,723 words across 25 chapters, mean 2,469.
+**Length:** 62,323 words across 25 chapters, mean 2,492.
 
 ---
 
 ## ACT I: The Question — ch1–4
 
-*Four chapters, 8,337 words. The most compressed movement in the book. A man sees something
+*Four chapters, 8,822 words. The most compressed movement in the book. A man sees something
 impossible, is disbelieved, is proved right, and pays for it.*
 
 ### Chapter 1: The Healer's Hands
@@ -39,7 +39,15 @@ debt, two enforcers, and a twelve-year-old taken in front of forty people. Xion 
 Acting would mean saying his own name, and he cannot.
 
 And in the crowd, a woman in a brown cloak whose eyes go blue to amber. He never sees her face.
-He goes home, and the chapter ends on the two impossible things and a promise to act tomorrow.
+He gets two steps after her, the boy cries out, and he turns back — which is the choice the
+ending then has to charge him for.
+
+He goes home and works the rescue the way he works a case: what he has, what he needs, and the
+easy answers taken away until the true one is left, which is the one his own body already gave
+him in the square. It fails on *where they took the boy*, which he does not know and will not
+know until ch12. Then he notices, without interpreting it, that he stopped thinking about Tam
+some time ago and is thinking about a hood coming down. The promise to act tomorrow closes it,
+now with the swap visible underneath it.
 
 **Sets up:** Everything. Tam, the verbana, the coded journals, the permission question (*"Can I
 have a look?"*), the freeze, the alias, Janice's economy of not-asking, and the question the last
@@ -52,16 +60,20 @@ line of the book answers.
 **Characters present: Xion, Silvanno Larannas, Kael Issamil, Farleen Darfi**
 **Emotional work: The reader must want him to be right while three reasonable people are reasonable**
 
-He sends identical notes by separate runners before dawn — he has never called a meeting in six
+He sends identical notes by separate runners before dawn — he has never called a meeting in five
 years — and arrives at the teahouse on no sleep. The telling comes out in a rush. The three
 refusals must differ by temperament, not volume: Silvanno's is affection, Kael's is method,
 Farleen's is care. Then Farleen agrees to help, and it reads as love.
 
-The chapter's other content is the irony nobody remarks on: ch1 ended with a promise to act
-tomorrow, and he is acting — for the princess, not for the boy.
+Twice he has to defend the substitution out loud, and neither defence convinces anyone. To the
+trauma objection: *that's exactly why* — there is no way to get the boy back, and this one isn't
+done. Kael calls the shape of it before he can (*you'll ask her about the boy* / *you will*),
+which ch5 pays. To Silvanno's harder version — whether she was there at all — he concedes the
+lot and turns it: if he has reached the point of seeing what he needs to see, that is not
+something he gets to leave alone either.
 
 **Sets up:** The three friends as three instruments. Farleen's excuse about her father's guests,
-planted flat. Ch3's reversal. Ch12's payment of the irony, by Tam's parents rather than a narrator.
+planted flat. Ch3's reversal. Ch5's failed ask, promised here by Kael.
 
 ---
 
@@ -108,7 +120,7 @@ observes accurately and concludes wrongly.
 
 ## ACT II: The Education — ch5–12
 
-*Eight chapters, 17,797 words. Ch5–8 are the only sustained quiet stretch in the novel. She teaches him
+*Eight chapters, 17,912 words. Ch5–8 are the only sustained quiet stretch in the novel. She teaches him
 what she is; he teaches her what the city is; then he takes her somewhere he should not have.*
 
 ### Chapter 5: The Choice
@@ -120,6 +132,13 @@ He surfaces concussed in a hidden alcove with a stranger treating him, and the f
 his mouth is whether Farleen is all right. Elara stops working to look at him properly. *She put a
 knife in you. I noticed.* The whole partnership is legible in that exchange.
 
+When Tam comes up, he asks her to find the boy — the question leaving him before he chooses it,
+the way the shout did, and landing in the same place: too late, and safe, and costing him
+nothing. She refuses on capability, flatly and without apology. She is a woman in a borrowed
+cloak with no name she can use, no writ and no one who owes her anything, and asking after a boy
+in a Slaver house would only tell them who to look for. *Ask me again when I'm somebody.* The
+refusal is what protects ch12 — he still does not know where Tam is.
+
 Her proposal inverts his premise: he came looking for someone who could change things, and what she
 needs is not rescue but an education her guardians cannot provide. He accepts without weighing it —
 the question is the answer, and he notices a beat late. Then he tells her who his father is, and she
@@ -127,7 +146,8 @@ asks whether the arrangements exist on paper, and he says *on paper* without thi
 it and does not follow up.
 
 **Sets up:** The ledger thread (B2 ch12–13). Elara's habit of filing what she has no immediate use
-for, which recurs in ch7 and ch11. The partnership's entire dynamic.
+for, which recurs in ch7 and ch11. The partnership's entire dynamic. Ch12's *we have to find him*,
+which is her answering this refusal the moment a route exists.
 
 ---
 
@@ -203,7 +223,7 @@ load in public. And ch11, which pays the gate: *I was accusing you of doing what
 **Characters present: Xion, Elara**
 **Emotional work: A man teaches a woman to be someone else and finds he is better at it than at being himself**
 
-The book changes scale here — 3,698 words after a movement averaging 1,860. Three days in a borrowed
+The book changes scale here — 3,698 words after a movement averaging 1,907. Three days in a borrowed
 apartment: how nobles walk, what they do with their hands, coded insult as a language, the eye-control
 drill. She can suppress the trait if she catches it early, and suppression is visible and effortful.
 
@@ -273,10 +293,14 @@ deliberately unremarkable patients, and Elara watching his manner change with ea
 which one is real. He does not know anymore.
 
 Then Tam's parents. The name, the hand, the seven stitches, the fabricated debt that included
-medical fees Master Fen never charged. **The beat the chapter is built for is silent**: Xion looks at
+medical fees Master Fen never charged — and the one thing neither he nor Elara could get in ch5,
+which is where the boy went. **The beat the chapter is built for is silent**: Xion looks at
 Elara and sees his own guilt on her face. They were both there. Neither moved. Neither says so.
 
-**Sets up:** The descent. Ch2's irony paid by the people it was owed to.
+After the door closes, Elara's *when we go to the Warrens, we find Tam* arrives with no run-up in
+front of it. She could not help in ch5; she can now, and she does not wait to be asked.
+
+**Sets up:** The descent, and the Warrens as its destination.
 
 ---
 
@@ -618,8 +642,8 @@ heist in ch16, the rescue attempt in ch17 — and a fourth, ch19's trance, happe
 not present to report on it. In every case the restriction produces the better scene, because what
 the book is about is a man who reads bodies and cannot read intentions.
 
-**The movements are deliberate and the length profile is load-bearing.** Ch1–8 run 1,214–2,529 with a
-mean near 1,860; ch9 nearly triples the floor; ch13–16 all exceed 3,100; ch17 contracts to 1,680. Long-then-
+**The movements are deliberate and the length profile is load-bearing.** Ch1–8 run 1,214–2,772 with a
+mean near 1,907; ch9 nearly triples the floor; ch13–16 all exceed 3,100; ch17 contracts to 1,680. Long-then-
 short is the signature for a disaster and its aftermath and fires three times (ch9–10 → ch11,
 ch16 → ch17, ch18–19 → ch20). **Check the profile before proposing any cut.** Two structural cuts
 proposed during the beat-draft pass — ch6's temple courtyard and ch8's middle conversation — were

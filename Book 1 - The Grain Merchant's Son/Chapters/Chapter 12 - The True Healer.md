@@ -114,14 +114,6 @@ Xion looked at Elara and saw his own guilt reflected in her face. They'd both tr
 
 After they left, silence filled the clinic. Elara moved to stand beside him, both of them staring at the closed door.
 
-"That's why you were there that night," she said finally. "In the square. You'd just treated him."
-
-"Yes."
-
-"And we both watched them take him."
-
-"Yes."
-
 "We have to find him." Her voice carried that imperial certainty again. "When we go to the Warrens, we find Tam."
 
 "The Warrens aren't a place you just walk into looking for someone," Xion said, but his protest was weak. "They're controlled by factions, gangs, people who kill for less than we're worth."

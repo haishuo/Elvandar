@@ -22,7 +22,7 @@ Xion opened his mouth to answer, then stopped. "Let's wait for—"
 
 Xion took a breath. "Now that we're all here." He stopped, running a hand through his disheveled hair. "God, I don't even know where to start."
 
-He caught the glances his friends exchanged—the concern, the confusion. In all their months of meeting, he'd never been like this.
+He caught the glances his friends exchanged—the concern, the confusion. In five years of meeting, he'd never been like this.
 
 "Start at the beginning," Farleen suggested, her voice gentle.
 
@@ -42,6 +42,20 @@ Farleen set down her cup. "Xion, you've been through something traumatic. Watchi
 
 "This is exactly what we talked about would happen," Kael added. "Xion, you were upset, traumatized. People see things when they're in emotional distress. Besides, we've seen what, six fake princesses in the last five years?"
 
+"That's exactly why," Xion said.
+
+Kael's fingers stopped. "Why what?"
+
+"Why I'm not letting it go." He had the cup in both hands and had not drunk from it. "I sat up all night working out how to get that boy back. There isn't a how. I don't know where he is. I don't know who to ask that wouldn't cost more than the asking's worth. He's gone, and I did that, and it's done." He looked up. "This one isn't done."
+
+"And if you find her," Kael said slowly, "you'll ask her about the boy."
+
+Xion opened his mouth.
+
+"You will," Kael said.
+
+"She might know something." Nobody said anything at all. Xion set the cup down. "All right. No. She wouldn't. But look me in the face and tell me you wouldn't ask."
+
 Farleen's hand found his on the table, her touch warm. "I understand why you're shaken by what happened to Tam. But are you certain about what you saw? These pretenders are getting more sophisticated with their tricks..."
 
 Xion's heart skipped at the contact, but he forced himself to focus. Her concern felt genuine, and part of him wanted to believe her, wanted to let this go. But he couldn't.
@@ -53,6 +67,10 @@ Xion's heart skipped at the contact, but he forced himself to focus. Her concern
 He spread his hands, his expression genuinely concerned. "I'm not saying you're lying. I'm saying maybe your mind filled in details that weren't really there."
 
 Xion felt his shoulders sag slightly. "I know. I know that's what I'm **supposed** to think, and trust me, I spent all last night trying to convince myself of exactly that. Why do you think I looked like hell when you walked in?" A wry grin flickered across his face before disappearing. "Sil, buddy... you know I wouldn't bring this up to you guys if I wasn't **sure**."
+
+"—or if she's even there," Silvanno said.
+
+"Or if she's even there." Xion said it evenly, and it took effort. "Fine. It was dark, the light was going, and I want it to be true. All of that has been put to me already, by me, for most of a night." He laid his hands flat on the table. "So say you're right. Say I've got to where I see things because I need them badly enough. That isn't something I get to leave alone either, is it. Either she's out there or there's something wrong with me, and I'd like to know which one I'm living with."
 
 Kael drummed his fingers against the table—a nervous habit Xion had learned to recognize. "Even assuming you're completely certain about what you saw—"
 

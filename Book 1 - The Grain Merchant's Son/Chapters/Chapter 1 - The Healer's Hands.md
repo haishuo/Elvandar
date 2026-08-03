@@ -188,9 +188,21 @@ She held the row up to the lamp and studied the gap where the bad thread had bee
 
 ---
 
-By the time he reached his tiny rented room above a baker’s shop, the city was quiet. He sat on his cot, staring at the wall, Tam’s face hovering before him, alongside the ghost of a woman he could not name.
+By the time he reached his tiny rented room above a baker’s shop, the city was quiet. He sat down on the cot without lighting the lamp and started at the beginning, because that was what he did with a problem.
 
-Two impossible things.
+What he had: a name, said aloud in a square by a man reading off a paper. Seven stitches in a left palm that would foul inside the week if nobody kept them clean.
+
+What he needed: where they had taken the boy, which he did not know. Somebody to ask, and he could think of four who might know and not one who would answer without wanting to know why Master Fen was asking. Money, which he had, and no way to spend it that did not end in somebody writing down where it came from.
+
+He went at it the way he went at a chest that would not clear, taking away the easy answers until only the true one was left standing — and the true one had already been handed to him that evening, in a market square, by his own body, standing still.
+
+He turned it over twice more looking for what he had missed.
+
+*With what,* Janice had said. He had not answered her, and he did not answer her now.
+
+The room came up grey around him as his eyes adjusted, and he noticed, the way a man notices a sound that has been going a while, that he had stopped thinking about the boy some time ago.
+
+He was thinking about a hood coming down. Blue to amber to violet, three times, in a failing light, in front of forty people who had all been looking somewhere else.
 
 He pressed his palms together, knuckles whitening.
 

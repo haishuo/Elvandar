@@ -72,6 +72,22 @@ She stood, moving to the mouth of the alcove to check the street beyond. The way
 
 "Yes." Elara's eyes flashed—blue to amber and back. "I watched them drag away a child for imaginary debts while you tried to help him. It was... educational."
 
+"Can you find him?"
+
+It was out of him before he chose it, the way the shout in the square had been, and it landed in the same place — too late, and safe, and costing him nothing.
+
+Elara looked at him for a moment before she answered.
+
+"No."
+
+"You're—"
+
+"A woman in a brown cloak with a compound full of men who haven't noticed she's gone." She set it down the way she had set down the rest of it. "Out here I have no name I can use, no writ, and there is nobody in this city who owes me anything. If I go asking after a boy in a Slaver house, I come out of it having told them exactly who to look for. So do you."
+
+Xion looked at his hands.
+
+"Ask me again when I'm somebody."
+
 "And now?"
 
 She turned back to him, and for a moment he saw past the careful control to something younger, more uncertain. "Now I have a choice to make. And so do you."

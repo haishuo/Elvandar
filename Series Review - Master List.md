@@ -38,6 +38,15 @@ entry never anticipated. **A flag that outlives its problem is worse than no fla
 reader trusts it and cuts good material — C-6 pointed at the best passage in ch25 and nearly got it
 deleted.
 
+**And the same rule now applies to design notes, not just to flags (2026-08-03).** The B1 ch2 beat draft
+asserted that Xion's forgetting of Tam was deliberate and collected in ch12, *"when Tam's parents arrive
+and he has to be reminded the boy exists at all."* **ch12 does not do that** — he recognises the name
+immediately and the parents bring information rather than a rebuke. The payoff lived in the document
+alone, and it was being used to defend a rule 2 fault against an author-raised complaint that was correct.
+A note claiming a chapter pays something must be checked against that chapter's prose before it is allowed
+to veto anything. This one survived a full retro-drafting pass, a rule-hierarchy audit and a stale-flag
+purge without anyone opening ch12.
+
 **Numbering note.** C-16 through C-21 as filed below are the local series. **C-22 through C-28 came
 in from the cloud branch on 2026-07-29, where they were numbered C-16 through C-22**; both lines had
 invented C-16 onward independently for different items. The mapping is in the changelog under the
@@ -84,6 +93,7 @@ These are the spine. Each is already working; each could be broken by an unwary 
 |---|---|---|
 | Mira, at fifteen — B1 ch22 | terrified of his father, and it would have changed nothing | *"I didn't even try."* |
 | Tam, in the square — B1 ch1 | speaking ends Master Fen and eight years of work | *"I nearly said them."* — and then, B1 ch11: *"I still don't know whether I decided or whether I couldn't move."* |
+| Tam, on the cot the same night — B1 ch1 | he did not know where they had taken the boy, and could not have found out | **he does not offer it.** The triage returns *no* and he never names the reason. See the constraint below. |
 | Elara, at the gate — B1 ch8 | he still can't tell her what he is | *"I couldn't."* — and she answers *"You just did."* |
 | Rosik's study — **B2** ch5 | Rosik feeds on arguments; it would move nothing | **he agrees** |
 | The disinheritance — **B2** ch16 | the same | **he agrees** |
@@ -95,6 +105,16 @@ been checked against the chapters**; what remains unmatched is either a delibera
 that was *removed* (recorded so it is not reintroduced) or a compression marked with an ellipsis or a
 slash. **If you add a quotation here, grep it first.** The register is not exempt from the rule it
 enforces on everything else.
+
+**The ch1 cot beat is a hard constraint on this thread (added 2026-08-03).** He now attempts the rescue on
+the page and fails, which is what makes the ch2 substitution legible instead of offstage. **The failure may
+never resolve into a verdict about his name.** Any sentence of the form *the one thing that would have
+worked was saying who I am* converts the freeze into an alibi, gives him an answer to Janice's
+*"you couldn't say your own name out there"* — which must stay unanswerable — and pre-spends ch11. The
+permitted maximum is what is on the page: *the true one had already been handed to him that evening, in a
+market square, by his own body, standing still.* Outcome named, reason refused. **He also may not name
+Mira there**; the reader has *"two words, that was all it had taken"* sixty lines earlier and does not need
+help, and ch22's *"I didn't even try"* is the only place that parallel gets spoken.
 
 **Both accepted silences are in Book 2, and both are protecting Xion himself.** That is the whole of the difference.
 
@@ -138,6 +158,23 @@ Note the **order** in that paragraph: he reasons his way to the decision, and *t
 **Becoming Rosik, and the fault line.** B2 ch12–16: the operational picture assembles and the cold takes over — *"It did not feel like a decision… the part of him that read such pictures was the only part still fully awake."* → B2 ch18: he loads Melina's death as leverage on Sa Ko Ren, sees himself doing it, and says **"Don't."** → B2 ch20: the low wall, the engine with nothing left to burn, and *"the cold broke… the way a wall goes, which is from the inside."* He knows what he became. He arrives at it alone and mid-act. **The difference between him and his father is not capability — it is that he has a fault line.** Nobody says any of this aloud, ever.
 
 **Rosik unmasked → Rosik at the servants' gate.** B1 ch10 (no mask at a masquerade, the room reorders around him) → B2 ch19 (the back gate, in the dark, in a plain carriage). Explicitly recalled in the ch19 text.
+
+**Asking after Tam — three beats, and Elara's position moves in each (built 2026-08-03).** B1 ch2: Kael
+predicts it before Xion can — *"you'll ask her about the boy" / "You will"* — and Xion tries *she might
+know something* into a silence and folds it himself. → B1 ch5: he asks, and she refuses **on capability,
+not willingness** — no name she can use out here, no writ, nobody who owes her anything — and closes it
+with *"Ask me again when I'm somebody."* → B1 ch12: the parents supply *Warrens*, and she volunteers
+before he can ask, with no run-up in front of it.
+
+**Two things this thread protects.** The refusal in ch5 is **rule 1 load-bearing**: ch12's engine is that
+he does not learn where the boy is until the parents say so, so any version in which Elara can help
+destroys the second half of the book. And ch2's beat 9b is a promise to the reader — **cut it only
+together with ch5's beat 11a, or the promise goes unpaid.** The whole run also keeps Tam live across the
+six chapters (ch5→ch12) in which he is otherwise unmentioned.
+
+**Nothing anywhere points at the rhyme**, and nothing may: a man who could not say his own name in a
+market square is turned down by a woman who has not got one to say. Available to the reader, invisible to
+both characters and to the narrator.
 
 **Consent — "Can I have a look?"** B1 ch1 (asks a twelve-year-old's permission) → B1 ch19 (**first break**: carries a delirious Tam into Long Knife territory; the one person who cannot consent is the one endangered) → B2 ch3 (asks the child, *orders* the tally-man — both behaviors, correctly assigned, in one scene) → B2 ch11 (*"no one had said he could, and there was no one left in the room to say he couldn't"*). Watch this in Book 3: **the moment he stops asking is the moment the wound is driving him instead of the practice.**
 
@@ -554,6 +591,12 @@ the acceptance, enough to invite the reader to audit the decision and nowhere ne
 the audit. Both passages are cut. He now agrees the way he does everything: the question is the answer
 and he notices a beat late, rhyming with the ledger answer thirty lines on. A stray fountain he had
 not passed went out with the second passage — the fountains are ch8's.
+
+**Still closed after the 2026-08-03 Tam pass**, which added ~125 words to ch5. The insertion sits at beat
+11a, ahead of the options at beat 12, and it is a door closing on somebody else rather than deliberation
+about his own choice — Elara refuses to help him find the boy, and he signs on thirty lines later anyway,
+which is the ledger trait rather than a hesitation. **It must stay short for that exact reason:** long
+enough to be weighed and it starts reading as *I'll help you if you help me*.
 
 ### Janice's failing sight — **VETOED. Author's ruling. Removed from the series**
 

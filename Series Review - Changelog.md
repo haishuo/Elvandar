@@ -4860,3 +4860,203 @@ the page may show it.
 `Chapters/Chapter 4 - Negotiations.md` · `Beat Drafts/Chapter 4 - Negotiations.md` (beat 26 replaced with
 the cut and its reasoning; the Structure line and the placement footer restated around beat 25) ·
 `book3_chapter_skeleton.md` · `Series Review - Master List.md` · Royal Road regenerated.
+
+---
+
+## 2026-08-03 — Book 1: Tam is not dropped between ch1 and ch2, and the ask he never made is now made and refused
+
+**Author-raised, and the diagnosis was his.** The complaint: ch1 has Xion get two steps after the woman,
+hear Tam cry out, and **turn back** — an explicit choice, paid for by losing her — and then the chapter
+ends on *two impossible things* and ch2 opens with him mobilising entirely for the princess. The turn-back
+is reversed offstage, between chapters, at no cost. Filed as **rule 2**, which is where it belongs: a
+Caretaker primary six hours after his patient was dragged off does not spend the night on a stranger's
+irises unless something happened in between, and nothing did. His own sheet puts the guilt engine at
+*act, act, ACT* and says every person he does not help is Mira again.
+
+### What was actually missing, in four places
+
+**ch1 had no bridge.** The substitution happened in the gap between chapters, where it cost nothing and
+the reader could not see it.
+
+**ch2 already raised the objection three times and never answered it** — Farleen (*you've been through
+something traumatic*), Kael (*you were upset, traumatized*), Farleen again — and Xion's whole reply was
+*I know what I saw.* The answer his character sheet has always promised was not on the page: *"When his
+friends suggested he was hallucinating from trauma, his Truth Seeker drive wouldn't let him accept a
+comfortable lie."*
+
+**ch5 had the same fault, worse.** Elara raises Tam twice (*that's why I was there when they took your
+patient*; *people like Tam*) and Xion's entire contribution is the boy's name in a whisper, after which he
+says *"And now?"* and the chapter moves to politics. The princess grieved the child more visibly than the
+healer did.
+
+**ch12 was recapping what ch5 had established.**
+
+### Applied
+
+**ch1** — the closing beat replaced (~55 → ~250 words). He works the rescue the way he works a case:
+what he has (a surname read off a paper, seven stitches that will foul inside the week), what he needs
+(where they took the boy — *which he does not know*; four people who might know and none who would answer
+without asking why Master Fen wants to know; money he cannot spend without producing himself). The easy
+answers come away until the true one is left, and the true one is the answer his own body already returned
+in the square. Janice's *with what* comes back and he does not answer it now either. Then, as his eyes
+adjust, he notices — *the way a man notices a sound that has been going a while* — that he stopped
+thinking about the boy some time ago, and is thinking about a hood coming down. *Tomorrow, he would act*
+is unchanged and now lands with the swap visible underneath it. **2,529 → 2,772 words.**
+
+**ch2** — two insertions. To the trauma objection, *"That's exactly why"*: there is no how, he does not
+know where the boy is, it is done, and *"This one isn't done."* Kael then calls the shape of it before
+Xion can — *"you'll ask her about the boy" / "You will"* — and Xion tries *she might know something* into
+a silence, hears it, and folds it himself. Second insertion, against Silvanno's harder objection (not
+whether the eyes changed but whether she was there at all): he concedes the lot and turns it — *"Either
+she's out there or there's something wrong with me, and I'd like to know which one I'm living with."*
+**1,913 → 2,155 words.**
+
+**ch5** — beat 11a, the ask and the refusal (~125 words). *"Can you find him?"*, out of him before he
+chose it, tied by the narration to the shout in the square and indicted in the same sentence: *it landed
+in the same place — too late, and safe, and costing him nothing.* Elara refuses **on capability**: a woman
+in a brown cloak with a compound full of men who have not noticed she is gone, no name she can use out
+here, no writ, nobody who owes her anything, and asking after a boy in a Slaver house would only tell them
+who to look for. *"Ask me again when I'm somebody."* **1,643 → 1,784 words.**
+
+**ch12** — six lines cut (*"That's why you were there that night… And we both watched them take him." /
+"Yes."*). Already redundant against ch5 and more so now. Elara's *"When we go to the Warrens, we find
+Tam"* now arrives with no run-up, so it reads as her collecting the ch5 debt the moment a route exists.
+**2,592 → 2,566 words.**
+
+### The three constraints the fix had to satisfy, all recorded in the drafts
+
+**Rule 1 — he cannot learn where Tam is.** ch12's engine is that the parents supply *Warrens*; nothing
+before it places him there (checked ch1–ch11). So ch1's triage fails on *where*, and ch5's refusal is on
+capability rather than willingness. Both scenes leave the reveal untouched.
+
+**He may not reach a verdict about his name.** A version in which he concludes on the cot that the one
+thing that would have worked was saying *Xion Kemvimore* converts the freeze into an alibi and hands him
+an answer to Janice — and ch11's *"I still don't know whether I decided or whether I couldn't move"* has
+to arrive unspent. The nearest the text comes is *the true one had already been handed to him that
+evening, by his own body, standing still*: the outcome named, the reason refused.
+
+**He may not name Mira, and he may not decide to switch.** Naming her would be a character articulating
+his own arc and would discount ch22's *"I didn't even try"* by a book. Deciding would grant him
+self-knowledge that ch2 needs to be the first place he reaches for, where it is a rationalisation nobody
+at the table buys. He catches himself already there instead, and passes no verdict on it — so the reader
+stays ahead of him, which was the one thing worth keeping from the old version.
+
+### The design note this displaced was not true
+
+The ch2 draft footer claimed the substitution was deliberate and paid in ch12, *"when Tam's parents arrive
+and he has to be reminded the boy exists at all."* **ch12 does not do that.** He recognises the name at
+once — *"I remember Tam. Good boy. Very brave"* — and the parents arrive carrying information, not a
+rebuke. There is no beat anywhere in which he is caught having forgotten. The payoff existed in the
+document and nowhere else, and it was being cited to protect a rule 2 fault. Footer rewritten with the
+correction recorded rather than quietly replaced, because this note survived a full retro-drafting pass, a
+rule-hierarchy audit and a stale-flag purge without ever being checked against the page.
+
+### What the change builds
+
+A three-beat run in which Elara's position moves each time rather than her volume: **ch2** Kael predicts
+he will ask → **ch5** he asks and she cannot → **ch12** she volunteers before he can ask, because a route
+finally exists. It also converts the six-chapter stretch in which Tam goes unmentioned (ch5→ch12) from a
+dropped thread into a live one.
+
+**Not pointed at, anywhere:** a man who could not say his own name in a market square is refused by a
+woman who has not got one to say. Xion does not notice, Elara does not intend it, the narration is silent.
+
+### Q3 not reopened
+
+ch5's insertion sits at beat 11, before the options are laid out at beat 12, and is a door closing on
+somebody else rather than deliberation about his own choice. If anything it sharpens the fast agreement:
+she turns him down flat and he signs on thirty lines later regardless, which is the ledger trait. The
+draft carries a standing instruction to keep it short — long enough to be weighed and it becomes *I'll
+help you if you help me*, which is the one thing it must never read as.
+
+### Two continuity corrections swept in the same pass
+
+The reform group is **five years** old (settled 2026-07-2x, see above). Three documents still said
+otherwise and one chapter contradicted itself:
+
+- `Chapters/Chapter 2` l.25 — *"In all their months of meeting"* → *"In five years of meeting"*, which
+  was already contradicting l.3's *"In five years of gathering at The Amber Leaf"* in the same chapter
+- `Beat Drafts/Chapter 2` beats 1 and 14 — *six months of the group's existence* → five years
+- `book1_chapter_skeleton.md` ch2 — *six years* → five years
+- `Beat Drafts/Chapter 3` beat 17 — *broken the law beside Xion for six months* → **seven years**, which
+  is what the prose says (ch3 l.121) and what Silvanno's sheet requires
+
+**Left alone, flagged not fixed:** ch23's *"We spent months chasing rumors"* is loose — the search in
+ch2–3 is two days — but it reads naturally as the five years of pretenders, and it is Kael speaking
+rather than the narrator.
+
+`Chapters/Chapter 1` · `Chapters/Chapter 2` · `Chapters/Chapter 5` · `Chapters/Chapter 12` ·
+`Beat Drafts/Chapter 1` (beat 21, three new footers, rhythm) · `Beat Drafts/Chapter 2` (beats 1, 2, 9a,
+9b, 12a, 14; handoff footer rewritten; fluency footer extended; rhythm) · `Beat Drafts/Chapter 3` (beat
+17) · `Beat Drafts/Chapter 5` (beat 11a, new footer, register footer, rhythm) · `Beat Drafts/Chapter 12`
+(beat 15, rhythm) · `book1_chapter_skeleton.md` (ch1, ch2, ch5, ch12 entries; Act I and Act II totals;
+book total 61,723 → 62,323; the length-profile note) · `Series Review - Master List.md` ·
+Royal Road regenerated.
+
+---
+
+## 2026-08-02 — Book 3 Chapter 5, "Hubris" — prose drafted
+
+`Book 3 - Crown Jewel/Chapters/Chapter 5 - Hubris.md`, **4,453 words**, seventeen scenes. Sits between ch1
+(4,185) and ch2 (4,703) in the length profile, and **leaner than ch4 (6,165) on purpose** — ch5 is the
+runway into the locked Wonder chapter, and exhausting the reader immediately before the book's largest
+moment would be the wrong shape.
+
+Roughly half the chapter is Uratha being genuinely admirable before anything sours, which is what the
+draft's footer demands: *"the reader should arrive at the signing believing they are dealing with admirable
+people who have built something real."*
+
+### What the prose settled
+
+**The Sapphire scholar is Iyanna Mereth, the History Provost** — the canon officeholder rather than an
+invention. Costs nothing, invents nobody, and quietly raises the weight: the Lathion tradition is
+catalogued by the head of the tower that keeps Uratha's historical record. **At the time it reads as a
+woman who loves her subject getting to talk about it at dinner**, which is exactly what the draft insists
+the scene must feel like.
+
+**The escort carries the first unease four days before anything else does.** Uratha sends nine scholars and
+no soldiers, and Xion takes two readings off it and cannot tell which he has been handed — *we do not need
+to send swords to you*, or *we do not think of you as the sort of thing swords are for.* Dropped, never
+returned to.
+
+**The bakarn beat is sharpened into an arithmetic**: seventeen people spend an hour being warmly interested
+in the constitutional mechanics of a foreign cartel system and do not direct a syllable or a glance at any
+of the six people moving around the table. Xion is the only man there watching a woman refill a jug, has no
+idea what to do with it, and files it. *(Book 4 is what happens to that.)*
+
+**The pen is verified rather than asserted.** He asks two of his own delegation afterward, separately, and
+gets two accounts in which nothing occurred. That is how the reader learns he alone saw it — not by the
+narration claiming so.
+
+**Draskin's tell at the Crown clause is read with Xion's own instrument.** Not surprise: a long-held tension
+letting go, in the shoulders and the hands, *the way a patient braced against a pain for weeks stops
+bracing when finally given something for it.* The body does not celebrate; it stops doing a thing it had
+forgotten it was doing.
+
+### A skeleton/draft tension reconciled rather than papered over
+
+The skeleton said the Urathans were *"conceding ground faster than expected."* The beat draft has Draskin
+anchoring high, narrowing once, and settling at a genuine floor — a professional negotiation, not a
+capitulation. **Both are true, and the prose keeps them apart.** What is faster than expected is that the
+deal happened **at all**: Xion arrived unsure they would take it (ch4's gamble beat, added the same day),
+and the Crown clause was accepted the instant it was offered. The haggling that follows is sound and
+reaches its natural floor, **which is what makes the pen the only thing out of place.** Recorded in both
+documents, with the instruction that Xion rereads this negotiation differently after ch10 and **must not
+read it differently now.**
+
+### Standing checks, both run before commit
+
+**Meta terms:** clean on the first pass, for the first time in Book 3. **The six-gram repeat check found
+seven** cross-chapter spans involving ch5, of which the worst was *"in a compound full of soldiers"* —
+near-verbatim with ch3, two chapters apart, both describing Elara's upbringing. Also fixed: *"spent eight
+years reading"*, *"because he could not help it"*, *"understood that he had just watched"*, *"of them, and
+the first thing"*, *"on the same sheet of paper"*. **One replacement then collided with ch1** (*"she had
+been raised by people who…"*) and had to be rewritten again — worth noting that the check has to be re-run
+after the fixes, not only before them. One generic collocation remains and is below the noise floor.
+
+**Casting:** the only characterized minor role is Mereth, female; Draskin is male; the receiving-cohort
+scholar is male. Balanced against the correction logged earlier today.
+
+`Chapters/Chapter 5 - Hubris.md` (new) · `Beat Drafts/Chapter 5 - Hubris.md` (new "what the prose settled"
+section, plus the reconciliation and a note that the draft's beats run 1–8, an unlabelled 9, then 10–20) ·
+`book3_chapter_skeleton.md` (ch5 entry) · Royal Road regenerated, Book 3 now six chapters.
