@@ -22,11 +22,11 @@ The escort had joined them at the border and it was not what he had expected eit
 
 ---
 
-The Ivory Tower came up out of the plain before the city did.
+The Ivory Tower came up out of the plain before the city did, and it took Xion two more days to understand that it *was* the city.
 
-That was the first thing about it: it announced itself from a distance no building had any business announcing itself from, so that for most of a morning it was the only vertical thing in the world and the city under it was still a rumor. White stone, and not the white of local limestone gone pale — a hard, close-grained white that took the light and held it, and Xion knew enough about the cost of moving stone to do the arithmetic on that and then stop doing the arithmetic on that.
+That was the first thing about it: it announced itself from a distance no building had any business announcing itself from, so that for most of a morning it was the only vertical thing in the world and everything under it was still a rumor. White stone, and not the white of local limestone gone pale — a hard, close-grained white that took the light and held it, and Xion knew enough about the cost of moving stone to do the arithmetic on that and then stop doing the arithmetic on that.
 
-They had quarried it somewhere else. They had brought it here. All of it. To make the tallest thing in the country white.
+Then the rumor resolved, and it was white too. All of it. A hundred and twenty thousand people living in buildings faced in the same stone as the tower, so that the whole thing came up out of the plain as one object, and the name did not distinguish between them, because the Urathans did not appear to think the distinction was interesting.
 
 He had grown up in the Noble District and had been inside the Ruby Palace more times than he could count, and the palace was magnificent, and it had never once said anything to him except *we have.* This said something different and it said it at a volume that was frankly rude.
 
@@ -34,11 +34,27 @@ He had grown up in the Noble District and had been inside the Ruby Palace more t
 
 "Well," Elara said, beside him, in the voice she used when she was not going to say the rest of it.
 
-The city, when they reached it, did not undercut the tower, which was the surprising part. Xion had expected the usual arrangement — a wonder standing in the middle of an ordinary place, the way a cathedral stands in a market town — and instead found a city that had clearly been laid out by the same habit of mind. The streets were wide enough for what happened on them and not wider. The districts were legible; you could tell what a quarter was for by looking down it. There were markets, and they were quieter than Kaha'an's markets, and the crowds moved with the particular unhurried purpose of people who all knew where they were going and had known since breakfast.
+The city did not undercut the tower, which was the surprising part. Xion had expected the usual arrangement — a wonder standing in the middle of an ordinary place, the way a cathedral stands in a market town — and instead found something laid out in rings, the tower at the center and every district set around it in an order that was plainly an order and that he could not immediately account for. Not by wealth. Not by age. He worked at it for a day and a half before one of the escort explained, mildly, as though it were obvious, that the quarters were arranged by discipline, and had been since the Academy, and that the sequence was the sequence in which the disciplines depended on one another.
+
+You could walk out from the tower, in other words, and pass through the fields of knowledge in the order a person would have to learn them.
+
+That was the point at which Xion stopped being impressed in the ordinary way and started being impressed in the other way, the one that has a little cold in it.
+
+Because it went further than the districts, once he was looking. The colonnade along the east approach had its columns at intervals that were not regular and were not random; the escort's youngest member, asked, said they were the intervals of something astronomical and named it, and seemed surprised to be asked. A courtyard near the Dormitory Quarter was paved in a pattern that was a proof — an actual proof, of an actual proposition, which a child could walk across on the way to breakfast for twelve years and absorb without ever being told it was there. The pool in the Scholar's Gardens was cut to a curve that meant something.
+
+Somebody had built a city of a hundred and twenty thousand people *as a teaching instrument*, and had then filled it with people who were being taught by it whether or not they noticed, and had done all of this in white stone, on a plain, where it could be seen from a day's ride away.
 
 It was, he thought, a city that had decided what it was.
 
 He could not decide whether that was the most impressive thing he had ever seen or the strangest.
+
+He asked, on the second day, what was in the last ring — because if the order ran outward from the tower through the disciplines in the order a person learns them, then something had to be at the end of it, and from the road he had only seen roofs.
+
+"The Warrens," the escort said.
+
+Xion did not react. That was practice, and it was old practice. He asked what was in them, and was told: the people who did the work. Thirty in every hundred, near enough. They kept the market, and carried, and cooked, and cleaned, and had their own quarter out past the last of the colleges, and it was the most densely built part of the city because it had to be.
+
+It was the same word. That was the thing he could not put down for the rest of the day. Urathan came off Imperial Balishan the same as Kaha'ani did, and the word had gone into both mouths and come out meaning the same thing in both places, and in the shining white city that had arranged itself as a lesson, the last thing the lesson taught you was where the people who were not in it lived.
 
 ---
 
@@ -62,7 +78,13 @@ These were people who had organized their whole lives around a practice. The pra
 
 The library district was on the way to the delegation hall, and the escort took them through it, and Xion understood perfectly well that the route was part of the argument.
 
-It did stretch for acres. That was not a figure of speech either; he had assumed it was. Building after building, connected — and that was the detail that got him, because it would have been so much cheaper not to connect them. Covered passages ran between every hall, arcaded, floored, with lamps set at intervals, so that a scholar could go from one collection to another across the whole district and never once step into weather.
+It did stretch for acres. That was not a figure of speech either; he had assumed it was. Building after building, connected — and that was the detail that got him, because it would have been so much cheaper not to connect them. Covered passages ran between every hall, arcaded, floored, with lamps set at intervals, so that a scholar could go from one collection to another across the whole district and never once step into weather. There were stairs down, too, at intervals, and lamps going down them, and when he asked how far the answer was *some way*, delivered pleasantly, by a man who did not elaborate.
+
+At the center of it was the Great Library, and one of the escort told him, in the tone of somebody repeating a thing everybody says, that it held a copy of every book ever written in the Balishan Empire.
+
+Xion turned that over for most of an afternoon.
+
+He was Balishan. Everything his civilization had ever written down was in this building, in a foreign country, kept better than it was kept at home — and nobody here had said it to boast, and nobody here would have understood why a man might take it badly.
 
 Somebody had thought about the scholar's time. Somebody had decided that a scholar's time was worth being protected from rain.
 

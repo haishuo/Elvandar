@@ -97,6 +97,21 @@ The agreement is reached: anything material or economic behind the door belongs 
 
 **Elara names her teachers and one of them is Rosik.** *"I've had a good teacher in not reacting. Two of them, and one of them was your father."* Dry, given exactly its length and no more. **It is a fact about her, not a verdict on Xion**, and the guardrail against anyone delivering *that* verdict to his face is untouched.
 
+### The capital, as canon actually has it — corrected 2026-08-02 on the author's catch
+
+**The first pass described Uratha's capital out of imagination, and `Places/Uratha/The Physical Geography of Uratha.md` had already specified it.** The author's note: *if we're going to have files like those, we should use them.* Everything below is now on the page and is canon, not invention.
+
+- **The city is called the Ivory Tower.** Not a tower in a city — a hundred and twenty thousand people in buildings faced with the same white stone, so the whole thing comes up off the plain as one object, and the Urathans do not find the distinction interesting enough to make.
+- **Concentric, tower at the centre, and the rings are the disciplines** — arranged in the order in which the disciplines depend on one another. **You can walk out from the tower through the fields of knowledge in the order a person would have to learn them.**
+- **The city is a teaching instrument.** Canon: *"buildings positioned to demonstrate mathematical and astronomical principles."* On the page as three concrete instances — a colonnade whose column spacing is an astronomical interval, a courtyard paved as an actual proof that children cross on the way to breakfast for twelve years, a garden pool cut to a curve that means something. **This is where Xion's awe stops being ordinary and acquires some cold.**
+- **The Great Library**, named, holding *"a copy of every book ever written in the Balishan Empire."* Xion is Balishan. Everything his civilisation ever wrote down is in a foreign building, kept better than at home, and nobody says it to boast because nobody here would understand why a man might take it badly.
+- **Extensive underground levels.** One line — stairs going down at intervals, and *some way* as the answer to how far, delivered pleasantly by a man who does not elaborate. **A Globehall seed and nothing more; do not weight it.**
+- **Thirty per cent of the city is bakarn**, with a bakarn-run Market District and their own quarter past the last of the colleges.
+
+**And the last of those produced the beat this chapter had been missing.** Xion asks what is in the outermost ring, because the sequence has to end somewhere — and the answer is **"The Warrens."** Same word. Urathan and Kaha'ani both come off Imperial Balishan, so the word went into both mouths and came out meaning the same thing; and in the white city that arranged itself as a lesson, the last thing the lesson teaches is where the people who are not in it live. **He does not react, and the beat is not commented on**, and it makes the dinner beat land on ground the reader is already standing on.
+
+*(+622 words: 4,453 → 5,075.)*
+
 ### The skeleton/draft tension, reconciled rather than papered over
 
 `book3_chapter_skeleton.md` says the Urathans are *"conceding ground faster than expected"*; this draft has Draskin anchoring high, narrowing once, and settling at a genuine floor. **Both are true and the prose keeps them separate.** What is faster than expected is that the deal happened **at all** — Xion arrived unsure they would take it (the gamble beat, ch4 beat 25), and the Crown clause was received the moment it was offered. The haggling over discovery rights is professional and reaches its natural floor, and **nothing in the room reads as a pushover**, which is what makes the pen the only thing out of place. Xion will reread this negotiation after ch10 and see it differently. **Do not have him see it differently now.**

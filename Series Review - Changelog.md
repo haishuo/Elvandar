@@ -5196,3 +5196,64 @@ Book 1 is now 61,990 words, mean 2,479; Act I 8,489; ch1–8 mean 1,865.
 `Chapters/Chapter 1` · `Chapters/Chapter 2` (rewritten) · `Chapters/Chapter 5` · `Chapters/Chapter 7` ·
 `Beat Drafts/Chapter 1` (rhythm) · `Beat Drafts/Chapter 2` (beat 7, beat 12a, rhythm, and a new footer on
 the register pass) · `book1_chapter_skeleton.md` (length figures) · Royal Road regenerated.
+
+---
+
+## 2026-08-02 — B3 ch5 rebuilt on the canon capital, and a research rule that should have existed already
+
+Author's catch: *check the file on Uratha — pretty sure we described the Ivory Tower in detail there, if not
+the main file then the companion geography one. If we're going to **have** files like those, we should use
+them.*
+
+Correct on every count. I read `Places/Uratha/Uratha_ The Land of Scholars.md` and **never opened
+`Places/Uratha/The Physical Geography of Uratha.md`**, which is 25KB and specifies the capital in detail.
+So ch5 described a generic impressive city when canon had a specific, better, and considerably stranger one.
+
+### The rule, because this is structural rather than a one-off
+
+**Every nation in `Places/` has exactly two files: a culture/institution file and `The Physical Geography of
+X`.** Gunastran, Silaris, Terinok, Erulius, Uratha, Vartonne — all of them, without exception. Kaha'an has
+the same split and then sub-files beneath it. **Read both before writing a location, every time.** The
+culture file tells you what a place believes; the geography file tells you what a character walking through
+it can see, which is the half prose actually needs.
+
+### What was wrong, and what replaced it
+
+| First pass | Canon |
+|---|---|
+| The Ivory Tower is a building in an unnamed city | **The city is called the Ivory Tower** — 120,000 people in buildings faced with the same white stone, coming off the plain as one object |
+| Vague streets, "districts were legible" | **Concentric, tower at the centre, rings arranged by discipline** in the order the disciplines depend on one another |
+| "A city that had decided what it was" | **The city is a teaching instrument** — *"buildings positioned to demonstrate mathematical and astronomical principles"* |
+| A generic "library district" | **The Great Library**, holding *"a copy of every book ever written in the Balishan Empire"* |
+| — | **Extensive underground levels** |
+| Bakarn invisible only at the dinner table | **Thirty per cent of the city**, with a bakarn-run Market District and their own quarter |
+
+**The teaching-instrument fact is the one worth the most**, and it is where the chapter's awe stops being
+ordinary. It is on the page as three concrete instances rather than as an assertion: a colonnade whose
+column spacing is an astronomical interval, a courtyard paved as an actual proof that children walk across
+on the way to breakfast for twelve years without being told it is there, and a garden pool cut to a curve
+that means something. Somebody built a city of a hundred and twenty thousand **as a lesson** and then filled
+it with people being taught by it whether or not they noticed.
+
+### And it produced the beat the chapter had been missing
+
+The rings run outward from the tower in the order a person learns the disciplines, so Xion asks what is in
+the last one.
+
+**"The Warrens."**
+
+Same word. Urathan and Kaha'ani both descend from Imperial Balishan, so it went into both mouths and came
+out meaning the same thing — and in the white city that arranged itself as a lesson, **the last thing the
+lesson teaches you is where the people who are not in it live.** He does not react. Nothing comments on it.
+It sits about eighty lines above the dinner beat, so that the invisibility of the servers lands on ground
+the reader is already standing on.
+
+**This was entirely available in canon and I walked past it**, which is the whole argument for the rule
+above.
+
+**4,453 → 5,074 words.** Standing checks re-run: meta terms clean, six-gram check clean but for one generic
+collocation, one multi-word bold corrected to italics, and a second *"eight years"* construction varied
+after the additions introduced it.
+
+**First commit on the `book3-prose` worktree**, created this session after B3 ch5 was pushed entangled with
+three unrelated Book 1 commits.
