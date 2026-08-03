@@ -6053,3 +6053,27 @@ book's shortest chapter, which is correct for a pure-experience chapter. **Zero 
 ch6** — the seam repeats nothing. No meta terms, no chapter titles, no *Empress of Kaha'an*, no *in the
 dark*. Beat draft and skeleton entry both rewritten in the same commit rather than left to inherit the
 change from the prose.
+
+### The boundary move reverted, at the author's direction
+
+**Reverted in full** — `git revert 40212af`. The camp-building sequence is back as ch6's closing scene,
+ch7 opens on the Urathans arriving again, and both beat drafts and the skeleton entry went back with it.
+Ch6 5,212 → **5,443**; ch7 3,283 → **3,053**.
+
+**The author's verdict was that it made things substantively worse, and the reasoning above was wrong or
+at least insufficient.** Recorded rather than argued: **the diagnosis in the reverted entry should not be
+treated as settled craft guidance**, because the fix it produced was rejected on sight by the person who
+had been reporting the problem. What remains true is only that the transition was reported as not working
+four separate times; **what caused it is now an open question again, not a solved one.**
+
+**One genuinely separate fix went out with the revert and can be re-applied on its own if wanted:** the
+Urathan contingent had been changed from **eleven** to **twelve**, because *eleven* was simultaneously
+carrying *eleven days* of passage in ch2 and ch6, *eleven pages* of the surveyor's report, and *eleven
+scholars*. That collision is real and independent of the boundary question.
+
+**Process note that matters more than the craft one.** All fifteen commits of this session sat unpushed
+while four rounds of revision were discussed, so **the author was giving feedback on a chapter he could
+not read.** The stale `book3-prose` worktree compounded it — anyone opening that path saw the repository
+as of the previous day, with no ch6 and *Wonder* still numbered ch6. Worktree and branch deleted; main
+pushed. **Push after every commit that the author might want to look at, and do not keep a second working
+copy of the book alive after it has served its purpose.**
