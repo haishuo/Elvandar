@@ -72,7 +72,13 @@ When these conflict, the lower number wins. Everything else in this document is 
 
 These are the spine. Each is already working; each could be broken by an unwary revision.
 
-**The hands.** B1 ch1 "The Healer's Hands" (tweezing glass, washing blood away) → B2 ch13 "Clean Hands" (*"he had just spent a night being him to the letter, and the proof was there at the ends of his own wrists, unmarked"*) → B2 ch17 (he takes his own pulse, finds it steady, and cannot make the diagnosis land on himself). Do not add a fourth without reason; three is the shape.
+**The hands.** B1 ch1 "The Healer's Hands" (tweezing glass, washing blood away) → B2 ch13 "Clean Hands" (*"he had just spent a night being him to the letter, and the proof was there at the ends of his own wrists, unmarked"*) → B2 ch17 (he takes his own pulse, finds it steady, and cannot make the diagnosis land on himself).
+
+**A fourth was added in B3 ch4 (2026-08-02) and the reason is recorded here, because the standing note said not to add one without one.** The chapter's last line: he has just done the best political work of his life, and *"it was the first time since Melina that he had felt entirely like himself — which was, he thought, standing up and squaring the papers, an interesting thing to feel in a room, at a table, with clean hands."*
+
+**It qualifies because it inverts the image rather than repeating it.** In B2 ch13 clean hands are the horror — he did something terrible and left no mark on himself. Here they are the **loss**: Janice has just told him, flatly and in the middle of a sentence about a stove, that he has stopped, and clean hands now mean he has not touched a sick person in longer than he can name. Same image, opposite charge, and it lands the chapter's thesis in five words — that *feeling like himself* has come to mean being a man at a table.
+
+**Four is now the shape and a fifth needs this same argument made in writing.** The test the thread enforces: an instance must change what the hands *mean*, not restate that they are significant.
 
 **Frozen silence → chosen silence.** B1 ch1: rooted to the paving stones while Tam is taken, because acting means saying his own name. → B1 ch8: Elara asks him at the gate why he didn't, and *"nothing came out of it. The same nothing, arriving in the same order."* → B1 ch19: Farleen argues him down a maze in five stages and he answers none of them. → B2 ch16: he refuses Rosik the argument, and the text distinguishes the two explicitly. **This is the arc, and it spans two books.** Book 1 not closing it is correct.
 

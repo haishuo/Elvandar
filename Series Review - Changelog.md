@@ -4556,3 +4556,97 @@ Also tightened lightly on the way through — *narrowing carefully down through 
 **4,954 → 4,762 words.** `Chapters/Chapter 3 - Storm-Line.md`, its beat draft (beat 20, with all three
 diagnoses recorded so the cuts are not undone by a later reader looking for a stronger ending), Royal
 Road regenerated.
+
+---
+
+## 2026-08-02 — Book 3 Chapter 4, "Negotiations" — prose drafted
+
+`Book 3 - Crown Jewel/Chapters/Chapter 4 - Negotiations.md`, **6,021 words** — against ch1's 4,185, ch2's
+4,690 and ch3's 4,762. **The length is the structure**: two movements, sixteen scenes, and the chapter
+where Act I turns. Nothing in the draft had to be renegotiated; the plan was sound and the prose followed
+it.
+
+### Movement One ran first, and the footer's reasoning held up in practice
+
+Janice opens the chapter and does not return, which the draft argues for on rule 3 — beat 26 is the first
+time since Melina that Xion feels like himself, and if she closes the chapter she overwrites it. **What
+was not obvious until the prose existed is how much work her question does from behind.** *Did you ever
+start charging* lands at roughly the chapter's midpoint and then sits underneath the entire
+Gunastran-to-Uratha arc, so the reader carries it through the triumph and Xion does not.
+
+**The restitution sequencing worked exactly as specified.** The list is refused in about forty seconds by
+an argument Xion helped build, and only then does he find the fifth thing — *because* the other four are
+gone. The check she performs on it is two lines and it is the whole character: *"That isn't a gift."* /
+*"There's nothing in it to write down."* She takes one item and leaves four, permanently.
+
+**And the loss survives the restoration in her mouth**, immediately, without pity: *"You'll get the trade
+back. You won't get the arrangement back. Those aren't the same and I'd rather you didn't decide they were
+on the way down the stairs."*
+
+**A17 landed hardest and cost nothing.** He stands in the door waiting for *Go, Master Fen* and realises he
+is waiting about half a second too late to stop. It does not come — not from coldness, but because she has
+nothing to point him at and will not invent something out of kindness. **He has to leave under his own
+authority**, which he has never once had to do in that doorway.
+
+### Movement Two
+
+The Gunastran engineers are good and the prose lets them be good — three real questions, the best of which
+is **resistance versus non-activation**, because a thing that pushes back is engaged and a thing that does
+nothing may simply not have been addressed. For twenty minutes it is the best room Xion has been in since
+the winter, and two engineers start sketching the same object from different angles on one sheet.
+
+**Then the consortium's factor speaks and the room changes category rather than temperature.** She is not
+obstructive and the prose says so outright, because *obstructive* is the word a reader reaches for and it
+would be wrong. Five questions, each one Xion would have asked, and together a wall.
+
+**The corridor is where the chapter turns, and the realisation is not about Gunastran.** *There was nothing
+wrong with wanting paying.* The category is closed — anyone who wants buying is the wrong partner, because
+the resources are behind the door. Which reframes the question into the one that produces the answer:
+whether the Balishan crown holds anything at all that is *not money.*
+
+The Crown proposal runs as drafted, including the line the skeleton hangs it on — **you cannot surrender
+what you do not possess** — and Xion declines the available mistake of telling the room it is painless.
+
+### The gamble beat, added on the author's ruling earlier the same day, is in
+
+Private, after the room clears. *"Honestly, Elara? I don't."* The admission stands unrepaired, and Elara
+takes about two seconds: *"Damn it. You're right. Fine. We'll go with this."* **She does not thank him for
+the honesty and does not remark on it**; the asking was the remark.
+
+### The one thing that needed clearing: a fourth instance of the hands
+
+The chapter's last line — *"an interesting thing to feel in a room, at a table, with clean hands"* — is a
+fourth entry in a cross-book thread the master list explicitly capped at three. **It was kept, and the
+argument is recorded in the thread itself rather than assumed.** It qualifies because it **inverts**: in
+B2 ch13 clean hands are the horror, and here they are the loss, because Janice has just established that
+he has stopped. Same image, opposite charge, and it states the chapter's thesis in five words — that
+*feeling like himself* has come to mean being a man at a table. Four is now the shape; a fifth needs the
+same argument in writing.
+
+### Corrections caught before commit
+
+| | |
+|---|---|
+| Warehouse night set in *"a very bad autumn"* | Book 2's climax falls in **summer** on the week table — now *"the worst month of his life"* |
+| The failed search for Janice placed *"four years ago"* | It is inside the sixteen-month Book 1–3 span — now untimed |
+| *"four chapters of his own life"* | meta term in narration — cut |
+| *"Master Fen had ended in Book —"* | meta term in narration — cut |
+| A multi-word bold span | italics, per house style |
+
+**Note the pattern in the last two.** That is the **third** time in Book 3 that a Book/Act/chapter
+reference has surfaced in narration during drafting, and the second time a single chapter has produced two
+of them. It is a standing hazard rather than an accident, and the response is procedural: **grep for it
+before every commit** rather than trusting a read-through to catch it.
+
+### Names
+
+**Engineer Adren Thulgrav** — Gunastran lead. *A* is unused elsewhere in the cast; *-grav* sits in the
+Gunastran register beside *Kelgrav*. **The consortium's finance officer is deliberately unnamed** and
+called only *the factor*: the engineers are people and the contract is an institution, and a name would
+soften a wall the chapter needs to stay a wall.
+
+### Files
+
+`Chapters/Chapter 4 - Negotiations.md` (new) · `Beat Drafts/Chapter 4 - Negotiations.md` (new
+what-the-prose-added section) · `Series Review - Master List.md` (the hands thread) · Royal Road
+regenerated, Book 3 now five chapters.

@@ -146,4 +146,24 @@ A17. The exit, which is what the whole movement is built to reach. Twice before 
 
 **On Elara watching:** The moment where Elara sees Xion in his element is not incidental. She has been carrying the weight of his grief in some form since they began working together again. Seeing him operate at full capacity — without the grief as a visible current beneath every sentence — matters to her in a way she does not say aloud, and the beat draft should not say it aloud either.
 
+---
+
+## What the prose added, recorded 2026-08-02 (chapter drafted, 6,021 words)
+
+**Kael carries the paper up himself**, past the three men whose entire function is carrying paper, and waits outside a door for twenty minutes rather than send it. A1 says this is his unfinished business as much as his instrument; **that sentence is how the prose says it without saying it**, and no line of dialogue decodes it.
+
+**Farleen walks him to the corner and is still there an hour and a half later.** A4 has her stopping without making anything of it. The waiting is the addition, and it is the ch2 characterisation continuing on the same terms: she does not ask, then or afterward, and the prose does not comment.
+
+**A7's "what she does not do" is given two positives to carry it**, because a list of absences is hard to feel. She asks whether he has eaten. She observes that the light in this room is better than the shop's was — **which is the only reference she makes to the shop in the entire scene, and she makes it as a fact about light.**
+
+**The closing image is a fourth instance of the hands thread, and it was cleared deliberately.** *"An interesting thing to feel in a room, at a table, with clean hands."* The master list capped that thread at three; the argument for the fourth is recorded there in full. In brief: it **inverts** rather than repeats. In B2 ch13 clean hands are the horror; here they are the loss, because Janice has just established that he has stopped. Same image, opposite charge.
+
+**New name: Engineer Adren Thulgrav**, the Gunastran lead — ink on three fingers, leans back when she is thinking, asks the three best questions in the chapter (thermal differential, directional pressure along a plane rather than perpendicular, and *resistance versus non-activation*, which is the one that matters). *A* is unused elsewhere in the cast; *-grav* is in the Gunastran register alongside *Kelgrav*. **The consortium's finance officer is deliberately unnamed and called only "the factor"** — the beat is that the engineers are people and the contract is an institution, and giving her a name would soften a wall the chapter needs to stay a wall.
+
+**Two figures corrected against `Story Timeline.md` before commit**, both of which the draft had left to the prose and the prose initially got wrong: the warehouse night was called *"a very bad autumn"* (Book 2's climax falls in summer on the week table — now *"the worst month of his life"*), and Xion's failed search for Janice was placed *"four years ago"* (it is inside the Book 1–3 span, which is sixteen months total — now untimed).
+
+**And two meta-term slips were caught in the same pass** — *"four chapters of his own life"* and *"Master Fen had ended in Book —"*. **This is the third time in Book 3 that a Book/Act/chapter reference has surfaced in narration during drafting.** It is evidently a standing hazard rather than an accident, and the fix is to grep for it before every commit rather than to trust the read-through.
+
+---
+
 **Sets up:** The Urathan expedition, the scholars who will arrive with their own agendas, the formal end of the Crown dispute and what that means diplomatically downstream, and the deeper question of what the Scholar's Crown is and whether it still does what it once did — a thread that will not fully resolve until the third act.
