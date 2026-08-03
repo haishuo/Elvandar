@@ -166,7 +166,7 @@ The people who brought the food were not scholars and did not wear robes, and no
 
 That was all. There was no unkindness in it. Nobody was curt; nobody was served badly; the arrangement functioned beautifully. It was simply that seventeen people who had spent an hour being genuinely, warmly interested in the constitutional mechanics of a foreign cartel system did not, at any point in that hour, direct a syllable or a glance at any of the six people moving around the table.
 
-Xion had spent eight years in rooms where the person who mattered most was the one nobody was looking at. He caught himself watching a woman refill a jug, and being the only person at that table who was.
+Xion had spent eight years in rooms where the person who mattered most was the one nobody was looking at. He caught himself watching a woman refill a jug, and he was the only one at that table who had noticed her at all.
 
 He filed that too, and had no idea what to do with it, and it stayed filed for a very long time.
 
