@@ -216,7 +216,7 @@ The escort met them at the mouth of the Iron Hall's approach, six men in the bro
 
 "Cullen," Xion said.
 
-"Huh," said Cullen. "You come back."
+"Huh," said Cullen. "You came back."
 
 ---
 

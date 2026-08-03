@@ -284,6 +284,19 @@ His speech patterns set him apart from every other power player in the story. He
 - **Own vocabulary** — *your pops* for Rosik, *word gets round*, *on account of*, *that ain't a good look*.
 - **Address** — *boy*, *kid*, to men far above him socially.
 
+**What the register does NOT include, added 2026-08-03.** **Non-standard preterites are not on this list and
+must not be added to it** — no *you come back* for *you came back*, no *he seen*, *she done*, *I give it him
+yesterday*. The form is perfectly real in the world's mouth and that is exactly the trap: it is plausible
+enough to write by accident and it reads as a typo rather than as dialect, which is a cost the character
+pays for nothing. **The author caught one in B3 ch6, in a two-word line from a walk-on escort**, and the
+decisive argument was that the person who defined this register read it as an error. If the man who wrote
+the lock cannot tell it is deliberate, no reader will. The markers above are the whole set; carry the
+register with those and nothing else.
+
+*(Not to be confused with Ronas's habit of narrating past events in the **historical present** — "*Months of
+paper from the palace and I don't answer none of it, and then you come down the shaft yourself*." That is
+tense-consistent within the utterance, it is a real and recognisable speech pattern, and it stays.)*
+
 **Where the drift happens, and why:** always in his *longest and most serious* speeches. The temptation is to let him speak "properly" when he is being precise, reasonable, or genuinely threatening — as though dialect were a comic register he steps out of for important content. **That is exactly backwards and it is the thing to resist.** Ronas is at his most dangerous when he is most casual; the whole point of the character is that a man who talks like this runs a cartel and out-thinks everyone in the room. Precision and dialect are not in tension for him. His three-fingered summary of Xion's offences is the most analytically sharp speech he makes in Book 1 and it is also his broadest.
 
 **The one intentional exception:** the Grand Hunt speech, where he indicts the nobility for hunting people and calling it tradition. He rises in register there because he is making a *moral* argument and knows he is being judged for how he makes it. That is a man reaching for the enemy's language on purpose, once. It is not licence for general cleanliness elsewhere.

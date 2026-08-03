@@ -5874,3 +5874,30 @@ establishes why she did not return, and the clinic's closure is Book 2's busines
 asserted in passing here. **A cadence that good is exactly when to check whether the content is real.**
 
 Chapter now 5,494 words.
+
+### Cullen's two words, and a marker that was never on the list
+
+**Author's catch:** *"Huh," said Cullen. "You come back."* — should be *came*.
+
+**Worth a note because the defence exists and was rejected on purpose.** Preterite *come* for *came* is one
+of the most widespread non-standard past forms in English, and Cullen genuinely speaks the Warrens
+register — his one Book 1 line is *"Got three from the upper levels, boss"*, dropped subject and *got*. So
+the form is not nonsense in his mouth.
+
+**It goes anyway, for two reasons.** It is **not on the locked marker list** in `People/Ronas Dermir.md`,
+which is dropped *-ing*, elision, *got* for *have*, dropped auxiliaries and subjects, non-standard agreement
+and relatives, and *boy*/*kid* — so writing it extends the register unilaterally, in a two-word line, for a
+walk-on. And **the author, who defined that register, read it as a typo.** If the person who wrote the lock
+cannot tell a form is deliberate, no reader will, and the character pays the cost for nothing.
+
+**Recorded on the sheet as an explicit exclusion**, because the whole purpose of that lock is to stop drift
+and this is drift arriving through the front door — a plausible-sounding form that no rule forbade.
+`People/Ronas Dermir.md` now says non-standard preterites are outside the set and names the trap.
+
+**And the same note protects the thing that is not an error.** Ronas narrates past events in the
+**historical present** — *"Months of paper from the palace and I don't answer none of it, and then you come
+down the shaft yourself"* — which is tense-consistent inside the utterance and stays. A later reader
+sweeping for *come* would otherwise "fix" it. **An exclusion note that does not also fence off its
+neighbours creates the next error.**
+
+Swept the chapter for other preterite drift: none.
