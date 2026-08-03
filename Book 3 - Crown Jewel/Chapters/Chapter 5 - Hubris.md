@@ -100,13 +100,25 @@ It did stretch for acres. That was not a figure of speech either; he had assumed
 
 The Great Library stood at the center of it. One of the escort told him what was in it, in the manner of a man saying something everybody already knew: a copy of every book ever written in the Balishan Empire.
 
-Xion turned that over for most of an afternoon.
+Xion's first thought was the ugly one, and it arrived before he could stop it. *They have ours.*
 
-He was Balishan. Everything his civilization had ever written down was in this building, in a foreign country, kept better than it was kept at home — and nobody here had said it to boast, and nobody here would have understood why a man might take it badly.
+He had it turned around before they were out of the arcade, and the turning around took some doing, because the ugly version was so much simpler.
 
-Somebody had thought about the scholar's time. Somebody had decided that a scholar's time was worth being protected from rain.
+The Balishan Empire had run seven provinces for seven hundred and fifty years, and until three and a half centuries ago *Uratha had been one of them.* Not an ally. Not a neighbor. A province — imperial ground, holding an imperial foundation, built by an emperor. Urath IV Valanar had put the academy here because he wanted something left of himself that was not a campaign, and had given it his own name, and had sent it the Crown out of his own hands.
 
-Xion stood in a covered arcade in a foreign country and did the sum of what that had cost, and could not get to the bottom of it.
+So the books had not been taken. The books had **arrived**, for seven centuries, from every corner of an empire that had one place it sent books to, because that was the entire purpose of the place and everyone involved had agreed about it at the time.
+
+And then the province had become a country, and the library had stayed where it was, and there was no moment in any of it that anyone could point at and call a theft.
+
+Xion stood in a covered arcade in a foreign capital, working through the implications of a thing that had happened four hundred years before his grandfather was born, and arrived somewhere useful and not at all comfortable.
+
+*There is no seam.*
+
+That was why three hundred years of demands had gone nowhere. Not because Balisha had argued the Crown badly — the letters were fine, he had read a dozen of them — but because the argument required a line between *ours* and *theirs* running through a period when there had not been two things to draw a line between. Every Balishan sovereign since the dissolution had stood on that line and sent a letter from it, and the line had never existed, and Uratha had never had to say so because refusing cost them nothing.
+
+He was going to walk into the Ivory Tower in the morning and propose that Balisha stop.
+
+He had built that proposal in a corridor in Gunastran out of arithmetic, because it was the only instrument he had left, and he had believed in it the way a man believes in a thing he has checked twice. He believed in it differently now. Somewhere under this roof was every document that would have proved him right, filed by people who had never once needed to look them up.
 
 Beside him, Elara had slowed down.
 

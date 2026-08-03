@@ -5332,3 +5332,49 @@ version the answer was no. The new one depends on no coincidence at all.
 
 **5,352 → 5,423 words.** `Places/Uratha/The Physical Geography of Uratha.md` renamed; ch5 and its beat draft
 updated; no stale references to the old term anywhere outside this changelog.
+
+**Fourth pass — the Great Library means the opposite of what I had it mean.**
+
+Author's catch, and it is the largest of the four: ***"Balisha" could refer to the land around Kaha'an or
+the Old Balishan Empire. Uratha was a province of that empire, and was its imperial academy. So "we have
+every book in Balisha" could mean: as the former imperial academy, naturally the old emperors gathered all
+important books here.***
+
+Exactly so, and the files say it plainly once read. `Global Historical Timeline.md`: the empire ran
+**0–750 BR** across **seven provinces**, and **Uratha seceded in 695 BR** — three and a half centuries
+before Book 3. `Uratha_ The Land of Scholars.md`: the academy was founded by **Emperor Urath IV Valanar**,
+who *"wanted a legacy beyond conquest"*; **the country is named for him**; and **he lent the Scholar's
+Crown to the academy himself, at its founding.**
+
+**So my beat was built backwards.** I had written Xion registering that everything his civilisation ever
+wrote down sat in a foreign building, kept better than at home. **The books were never taken. They
+arrived** — for centuries, from every corner of an empire that had exactly one place it sent books to,
+because that was the purpose of the place and everyone agreed about it at the time. Then the province
+became a country and the library stayed where it was, and **there is no moment anybody can point at and
+call a theft.**
+
+### What replaced it, and why it is worth four passes
+
+Xion has the ugly thought first — *they have ours* — and turns it around before he is out of the arcade.
+What he arrives at is not comfortable and is extremely useful: **there is no seam.**
+
+**That is why three centuries of demands went nowhere.** Not because Balisha argued the Crown badly; the
+letters are fine and he has read a dozen of them. Because the argument requires a line between *ours* and
+*theirs* drawn through a period when there were not two things to draw a line between. Every Balishan
+sovereign since the dissolution has stood on that line and sent a letter from it, the line has never
+existed, and Uratha never had to say so because refusing cost them nothing.
+
+**And it re-arms the negotiation he conducts the next morning.** He built that proposal in a corridor in
+Gunastran out of arithmetic, because arithmetic was the only instrument he had left. **He believes it
+differently now** — somewhere under that roof is every document that would prove him right, filed by people
+who never once needed to look them up. He says none of this to anybody; the only visible consequence is
+that he walks into the Ivory Tower holding his own proposal more firmly than he did at home.
+
+**5,423 → 5,753 words.** One arithmetic claim was cut before commit — an assertion that Uratha was a
+province for 695 of the empire's 750 years, which assumes the academy existed at year 0 when Urath IV is
+plainly a later emperor. Anchored on the secession date instead, which is canon.
+
+**Four passes on one chapter, and each was a research failure of a different kind:** a file never opened, a
+section read but not read whole, a canon term accepted without asking whether it was good, and now a canon
+*phrase* accepted without asking what it meant. **The common root is treating canon as a lookup table
+rather than as a history that has to be understood before it can be used.**

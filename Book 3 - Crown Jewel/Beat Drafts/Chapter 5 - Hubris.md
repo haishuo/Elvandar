@@ -104,7 +104,7 @@ The agreement is reached: anything material or economic behind the door belongs 
 - **The city is called the Ivory Tower.** Not a tower in a city — a hundred and twenty thousand people in buildings faced with the same white stone, so the whole thing comes up off the plain as one object, and the Urathans do not find the distinction interesting enough to make.
 - **Concentric, tower at the centre, and the rings are the disciplines** — arranged in the order in which the disciplines depend on one another. **You can walk out from the tower through the fields of knowledge in the order a person would have to learn them.**
 - **The city is a teaching instrument.** Canon: *"buildings positioned to demonstrate mathematical and astronomical principles."* On the page as three concrete instances — a colonnade whose column spacing is an astronomical interval, a courtyard paved as an actual proof that children cross on the way to breakfast for twelve years, a garden pool cut to a curve that means something. **This is where Xion's awe stops being ordinary and acquires some cold.**
-- **The Great Library**, named, holding *"a copy of every book ever written in the Balishan Empire."* Xion is Balishan. Everything his civilisation ever wrote down is in a foreign building, kept better than at home, and nobody says it to boast because nobody here would understand why a man might take it badly.
+- **The Great Library**, named, holding *"a copy of every book ever written in the Balishan Empire."* **And the first pass read that line wrongly — see below.**
 - **Extensive underground levels.** One line — stairs going down at intervals, and *some way* as the answer to how far, delivered pleasantly by a man who does not elaborate. **A Globehall seed and nothing more; do not weight it.**
 - **Thirty per cent of the city is bakarn**, with a bakarn-run Market District and their own quarter past the last of the colleges.
 
@@ -121,6 +121,24 @@ The agreement is reached: anything material or economic behind the door belongs 
 **The lesson for the drafter, which is the reason to record a dead beat at all:** the first version was a coincidence of vocabulary wearing the costume of an insight. It felt clever and was not, and the test that catches it is simple — **would this land if the two words happened not to match?** Here the answer was no, and the version that survives does not depend on any coincidence at all.
 
 *(+899 words across both passes: 4,453 → 5,352.)*
+
+### The Great Library means the opposite of what the first pass had it mean
+
+*(Author's catch, 2026-08-02: **"Balisha" could mean the land around Kaha'an or the Old Balishan Empire — and Uratha was a province of that empire, and was its imperial academy.** So *"every book in the Balishan Empire"* may simply mean that the academy accumulated the empire's books because that is what an imperial academy is for. Read the nation files and the empire's history before writing this. **Correct, and the correct reading is far better.**)*
+
+**The facts, from `Global Historical Timeline.md` and `Uratha_ The Land of Scholars.md`:** the empire ran **0–750 BR** across **seven provinces**. **Uratha seceded in 695 BR** — three and a half centuries before Book 3. The academy was founded by **Emperor Urath IV Valanar**, who *"wanted a legacy beyond conquest"*; the country is named for him; and **he lent the Scholar's Crown to the academy himself, at its founding.**
+
+**So the books were never taken. They arrived** — for centuries, from every corner of an empire that had exactly one place it sent books to, because that was the whole purpose of the place and everybody involved agreed about it at the time. Then the province became a country and the library stayed where it was, and **there is no moment anybody can point at and call a theft.**
+
+**Xion has the ugly thought first — *they have ours* — and turns it around before he is out of the arcade**, and the turning around is the beat. What he arrives at is not comfortable and is extremely useful:
+
+> ***There is no seam.***
+
+**That is why three centuries of demands went nowhere.** Not because Balisha argued the Crown badly — the letters are fine, he has read a dozen — but because the argument needs a line between *ours* and *theirs* drawn through a period when there were not two things to draw a line between. Every Balishan sovereign since the dissolution has stood on that line and sent a letter from it; the line has never existed; and Uratha never had to say so, because refusing cost them nothing.
+
+**And it re-arms the negotiation he conducts the next morning.** He built that proposal in a corridor in Gunastran out of arithmetic, because arithmetic was the only instrument left to him. **He believes it differently now** — somewhere under that roof is every document that would prove him right, filed by people who never once needed to look them up.
+
+**Do not let him say any of this to anybody.** It is a private correction, made walking, and its only visible consequence is that he goes into the Ivory Tower the next morning holding his own proposal more firmly than he did in Kaha'an.
 
 ### The skeleton/draft tension, reconciled rather than papered over
 
