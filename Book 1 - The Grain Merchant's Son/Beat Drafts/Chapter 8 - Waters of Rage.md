@@ -29,7 +29,7 @@
 
 10. The charge, and her voice does not rise, which is the worst of it. He could have said that word in the market square. Four of them. They would have put the boy down on the stones and apologised to him for the trouble. Why didn't he.
 
-11. He opens his mouth and nothing comes out of it — *the same nothing, arriving in the same order.* He manages that he couldn't, and she answers *you just did*, and there is nothing to set against that, so he sets nothing against it. **He does not tell her about Master Fen, and the chapter does not let him off by having her guess.**
+11. He opens his mouth and nothing comes out of it — *the same nothing, arriving in the same order.* He manages that he couldn't, and she answers *you just did*, and there is nothing to set against that, so he sets nothing against it. **He does not tell her about Master Fen, and she does not guess.**
 
 12. What she does with it is not anger. Anger he could have worked with. Something goes out of her face, she has put him somewhere lower than where he stood at breakfast, and she walks on into the district without waiting to see whether he follows.
 

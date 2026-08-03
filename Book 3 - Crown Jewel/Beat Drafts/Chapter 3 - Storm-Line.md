@@ -23,7 +23,7 @@
 
 5. **Why Vesk is the one who says it, and why it costs him nothing to.** He was standing six feet from the Door when it lit up under her hand, and he watched an event he had no means whatsoever of assessing. He is extremely clear about what he is for. A commander who knows the edge of his own competence that precisely is a commander who knows there is supposed to be somebody on the other side of it.
 
-6. **Elara's reaction is the quiet damage in this beat and must not be played for laughs.** She did not forget the Tor'anar. She has never once thought of them *first*. She was raised in an Arol Batae compound by people who loved her, and going to Vesk is not a decision she makes; it is the shape her hand has when it reaches. Xion watches her register this about herself and file it without comment. She does not apologise, then or ever.
+6. **Elara's reaction is the quiet damage in this beat, and there is nothing funny anywhere in it.** She did not forget the Tor'anar. She has never once thought of them *first*. She was raised in an Arol Batae compound by people who loved her, and going to Vesk is not a decision she makes; it is the shape her hand has when it reaches. Xion watches her register this about herself and file it without comment. She does not apologise, then or ever.
 
 7. The summons goes out, and the sending of it is quietly absurd. Nobody in the palace administration is certain of the correct form, because no crown has issued one in twenty years and the last person who did it is dead. It is resolved by somebody going and looking it up. **Comedy is available here and should be taken sparingly** — the joke is bureaucratic, not personal, and the Tor'anar are not its target.
 

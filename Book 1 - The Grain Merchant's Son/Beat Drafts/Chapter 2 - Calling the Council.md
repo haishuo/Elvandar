@@ -11,17 +11,17 @@
 
 1. He sends the messages before dawn by separate runners, identical notes on torn parchment, saying only that something has happened and he needs them today. He has never called a meeting in six months of the group's existence; he has always been the one dragged away from the clinic. The inversion is the chapter's premise, stated once and flatly, and not returned to.
 
-2. He arrives at the teahouse on no sleep with his hands shaking, having spent the night replaying the colour change every time he closed his eyes. Note that what he replays is the eyes and not the boy, and let it pass without comment. Chapter 12 collects on this when Tam's parents arrive and he has to be reminded the boy exists at all.
+2. He arrives at the teahouse on no sleep with his hands shaking, having spent the night replaying the colour change every time he closed his eyes. **What he replays is the eyes and not the boy**, and nothing in the chapter remarks on it. *(Chapter 12 collects on this, when Tam's parents arrive and he has to be reminded the boy exists at all.)*
 
 3. Silvanno arrives first, easy and confident, and his smile goes when he gets a proper look at Xion's face. Xion cannot manage one back. Silvanno drops immediately from banter into concern, which establishes both that something is visibly wrong and that these people know him well enough to see it.
 
 4. Kael next, economical, no preamble, wanting to know what happened. Xion stalls for Farleen. The stalling matters: he wants all three present, which means he wants a decision, which means he has already made his.
 
-5. Farleen arrives late with an excuse about her father having unexpected guests. Plant it and do not let Xion react to it. In an earlier version he noticed the repetition and grew suspicious, which quietly wrecked the ch4 betrayal, because a man who has been suspicious for two chapters cannot be blindsided by one.
+5. Farleen arrives late with an excuse about her father having unexpected guests. It is planted and Xion does not react to it. *(An earlier version had him notice the repetition and grow suspicious, which quietly wrecked the ch4 betrayal — a man who has been suspicious for two chapters cannot be blindsided by one. See the footer.)*
 
 6. He tells them, and it comes out in a rush once it starts — the boy, the fabricated debt, the woman watching from the crowd, the colour change, the royal trait. His excitement breaks through the exhaustion at the end of it: not patching one leak at a time but overturning the whole arrangement.
 
-7. Silence, and then three refusals, which must differ by temperament rather than volume. Farleen's is care: he has been through something traumatic, he watched a child taken, and she reaches for his hand across the table. Her concern is genuine and the reader should register it as genuine, because it is. It is also the only one of the three with a second reason underneath it, and nothing in the chapter may hint at that.
+7. Silence, and then three refusals, differing by temperament rather than volume. Farleen's is care: he has been through something traumatic, he watched a child taken, and she reaches for his hand across the table. **Her concern is genuine and reads as genuine, because it is.** It is also the only one of the three with a second reason underneath it, and nothing anywhere in the chapter hints at that.
 
 8. Silvanno's refusal is exhaustion rather than doubt. There was a Princess Elara last year with coloured lenses who fooled nobody for long. He is not being cruel; he is tired of this specific hope, which is a different and more useful objection.
 

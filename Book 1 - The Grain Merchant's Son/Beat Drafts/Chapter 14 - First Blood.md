@@ -43,7 +43,7 @@
 
 16. Inside, safe for the moment, and the chapter's real event begins: Farleen learns for the first time that they are not simply hiding. They are hunting for a boy Xion has never met, going deeper, into Slaver territory.
 
-17. Her argument, and it is not cowardice and the chapter must not let it read as cowardice. They are fugitives. They cannot afford this. He is playing hero because that is what he does — Master Fen, saving everyone, fixing everything — and he cannot fix this and trying might get all of them killed.
+17. Her argument, and there is no cowardice anywhere in it. They are fugitives. They cannot afford this. He is playing hero because that is what he does — Master Fen, saving everyone, fixing everything — and he cannot fix this and trying might get all of them killed.
 
 18. Xion asks whether she would have him abandon the boy and she says yes, exactly that, and then catches herself before finishing a sentence about bigger problems. He reaches for we're already here and she refuses the framing outright: the Tiers are safe enough, they do not have to go deeper, that is a choice, and it is a stupid dangerous choice he is making for all of them.
 

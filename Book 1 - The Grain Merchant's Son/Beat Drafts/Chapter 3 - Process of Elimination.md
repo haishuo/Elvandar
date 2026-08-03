@@ -15,9 +15,9 @@
 
 3. Keelen's apothecary, one dramatised sample of the elimination, in the register of professional gossip. A woman last month claimed she could change her eye colour at will; it was boiled berries, and it stained her tears purple for a week. The frauds are crude, the props obvious, the performances performances. None match what he saw.
 
-4. Evening at the teahouse, day one, Xion vibrating with nervous energy. Silvanno has tracked four recent pretenders — an actress, two in debtor's prison, one whose lenses fell out mid-performance. Kael's district turned up three more. Each elimination makes Xion more certain rather than less, and the chapter has to let the reader feel how that logic works before showing what is wrong with it.
+4. Evening at the teahouse, day one, Xion vibrating with nervous energy. Silvanno has tracked four recent pretenders — an actress, two in debtor's prison, one whose lenses fell out mid-performance. Kael's district turned up three more. Each elimination makes Xion more certain rather than less, and the chapter lets that logic run at length before anything exposes what is wrong with it.
 
-5. Farleen arrives late with the same excuse she used in ch2, and this time Silvanno notices and raises an eyebrow at the repetition — and Xion covers for her, saying they are all being watched more closely now. She gives him a grateful glance. He supplies her alibi out of loyalty and it costs him a chapter later. He must not be suspicious here; somebody else notices, and he defends her.
+5. Farleen arrives late with the same excuse she used in ch2, and this time Silvanno notices and raises an eyebrow at the repetition — and Xion covers for her, saying they are all being watched more closely now. She gives him a grateful glance. He supplies her alibi out of loyalty and it costs him a chapter later. **The noticing belongs to Silvanno and the defending belongs to Xion**, and no part of the suspicion is Xion's own.
 
 6. She reports finding nothing. He hears the edge in his own voice saying that this is good, because nothing found is exactly what he wants, and he is far enough gone not to hear how that sounds.
 
@@ -37,15 +37,15 @@
 
 14. Kael goes still — the stillness Xion has watched a hundred times over a hundred smaller problems — and works it aloud: every fraud in the city eliminated in four days, and the one woman nobody can place is being kept by the only men in Kaha'an who would have died for her mother. He concludes that Xion is probably right, sets both hands flat on the table, and says that this is the problem.
 
-15. Silvanno makes him say the plain version and then says it himself when Xion cannot. If Xion is wrong, he gets thrown into the street, his father buys him out by supper, and they all laugh about it in a year — and that is the good outcome. If he is right, the last surviving Valanar is being kept by a hundred and fifty armed men who have spent twenty years waiting for exactly one thing to go wrong, and Xion is the thing going wrong. The line that must land verbatim is the one about preferring a mad friend, because a mad friend I can walk home.
+15. Silvanno makes him say the plain version and then says it himself when Xion cannot. If Xion is wrong, he gets thrown into the street, his father buys him out by supper, and they all laugh about it in a year — and that is the good outcome. If he is right, the last surviving Valanar is being kept by a hundred and fifty armed men who have spent twenty years waiting for exactly one thing to go wrong, and Xion is the thing going wrong. The line is: *I'd rather my friend was mad. Because a mad friend I can walk home.* *(Verbatim.)*
 
-16. It lands harder than any doubt would have, and the narration says so in one sentence and moves on. The full realisation belongs to the chapter's last line and must not be spent here.
+16. It lands harder than any doubt would have, and the narration says so in one sentence and moves on. *(The full realisation belongs to the chapter's last line and must not be spent here.)*
 
 17. The two refusals, differing in kind. Kael's is principle: he will not be the reason she is found. Silvanno's is not principle at all and he says so — he has broken the law beside Xion for six months and would do it again tomorrow, twice. His refusal is a withdrawal of leverage. He could supply the delivery schedules, the papers, and someone to come looking if Xion does not come back out; he could be all three, and he will not be, because it is the last thing he has that might stop him. He admits in the same breath that it will not work, and that he has nothing else.
 
-18. Xion turns to Farleen expecting the third refusal and gets an offer to watch his back instead. The beat that pays in ch4 must be planted here without emphasis: of the three, she is the only one who never tried to talk him out of it, and she volunteered in the same breath. He notices it, does not understand it, and the text says plainly that he did not understand until much later.
+18. Xion turns to Farleen expecting the third refusal and gets an offer to watch his back instead. It goes down without emphasis: of the three, she is the only one who never tried to talk him out of it, and she volunteered in the same breath. He notices it, does not understand it, and the text says plainly that he did not understand until much later. *(This is the plant that pays in ch4. Nothing may lean on it.)*
 
-19. Relief, then something warmer, then a thank-you he means more than she can know — and the reader should feel the trap close on that line. End on the cost, once and only once: four days wanting to be believed, and he has it now, and it cost him two of the three people who came when he called.
+19. Relief, then something warmer, then a thank-you he means more than she can know — and the trap closes on that line. The chapter ends on the cost, stated once: four days wanting to be believed, and he has it now, and it cost him two of the three people who came when he called.
 
 ---
 
