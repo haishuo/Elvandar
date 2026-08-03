@@ -104,6 +104,8 @@ Xion's proposal: formally and irrevocably drop the demand for the Scholar's Crow
 
 This is **First Counselor Xion Fen** at his sharpest — the political mind that Rosik trained, now deployed for genuinely good purposes. He tried the obvious move, absorbed the failure cleanly, and found the sharper angle. For the first time since Melina, he feels like himself.
 
+**That last sentence is what the chapter achieves and must never be said on the page.** A closing beat stating it was written and cut on 2026-08-02: it had Xion sitting alone after the room emptied, noticing that he had been good today. **The competence is delivered by three thousand words of him being competent.** The chapter ends instead on the private exchange with Elara — *"Xion understood that the asking had been the remark"* — and nobody names anything.
+
 **And then the room empties and Elara asks him whether he believes it.** *(Author's ruling, 2026-08-02.)* Not the public question she already asked — *why will Uratha say yes* — but the private one underneath it: he convinced a room, and did he convince himself. **It has to be private**, because the one-voice principle established in ch1 means she does not question him in front of advisors and he would not answer if she did.
 
 **He doesn't manage it and doesn't try.** *"Honestly, Elara? I don't."* They are short on options and shorter on money; it is all in how they package it; done right they will take it — *he hopes.* He is not pretending it is perfect. It is better than what they had before, which was nothing. **No hedging back into confidence at the end.** Elara takes about two seconds to run a soldier's arithmetic on a bad position and arrive where he did, and gives the decision again, privately, to him rather than to the room.

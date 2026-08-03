@@ -4807,3 +4807,56 @@ run across the book rather than a judgment made in the moment.
 
 `Chapters/Chapter 3 - Storm-Line.md`, `Chapters/Chapter 4 - Negotiations.md`, both beat drafts,
 `Series Review - Master List.md`; Royal Road regenerated.
+
+---
+
+## 2026-08-02 — B3 ch4's closing beat cut: the chapter says its own meaning, so it doesn't need to
+
+Author's question about the final scene — *can we cut all of this? What's its purpose?* — and the honest
+answer is that its purpose was to state a thing the chapter had already spent three thousand words
+demonstrating. Cut in full. **6,393 → 6,165 words.**
+
+**It broke three house rules at once**, which is unusual for five paragraphs:
+
+- **A character articulating his own arc.** *"He had been good today. He knew it without any pleasure
+  attached."*
+- **The narration summarising a scene's meaning after the scene.** *"It was the first time since Melina
+  that he had felt entirely like himself."* The beat draft had specified he is aware of it *"without quite
+  naming it"* — and the prose named it.
+- **Reaching across the city** to remind the reader of a movement they finished four thousand words
+  earlier — *"somewhere across the city a woman was unpicking a row."* The reader has not forgotten. That
+  is the narrator doing the reader's work.
+
+### And it contradicted the draft's own structural footer
+
+This is the part that makes the cut a restoration rather than a loss. The ch4 draft argues that Janice runs
+**first** specifically so that *"her question stays open across everything that follows — the reader
+carries it into the triumph; Xion does not."*
+
+**The cut beat had him carrying it.** He ends it thinking about a building that would never be a clinic
+again. So the closing scene was quietly answering the question the whole chapter structure exists to leave
+open. **Removing it restores the design the draft asked for.**
+
+### What the chapter ends on now
+
+Beat 25 — the private gamble exchange, closing on *"She pushed off the table and went to find Vesk about the
+escort, and Xion understood that the asking had been the remark."* Drier, about the two of them, and it
+lets the restored competence be delivered by the work rather than announced after it.
+
+### Two consequences
+
+**The hands thread returns to three.** The fourth instance — *"an interesting thing to feel in a room, at a
+table, with clean hands"* — was cleared earlier today on the argument that it inverted the image rather
+than repeating it. That argument was sound and it is now moot, because the sentence is gone with the beat.
+`Series Review - Master List.md` reverted to three, with the episode recorded so the reasoning is not lost
+if a fifth is ever proposed.
+
+**The skeleton keeps the sentence and is told not to let the prose have it.** *"For the first time since
+Melina, he feels like himself"* is a correct statement of what ch4 achieves, and a skeleton exists to state
+what a chapter achieves. **The error was letting it cross into the prose** — which is precisely the
+distinction the beat-draft sweep now running is built around: the plan may say what the chapter does; only
+the page may show it.
+
+`Chapters/Chapter 4 - Negotiations.md` · `Beat Drafts/Chapter 4 - Negotiations.md` (beat 26 replaced with
+the cut and its reasoning; the Structure line and the placement footer restated around beat 25) ·
+`book3_chapter_skeleton.md` · `Series Review - Master List.md` · Royal Road regenerated.

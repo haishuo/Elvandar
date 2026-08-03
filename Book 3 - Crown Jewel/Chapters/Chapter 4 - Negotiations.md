@@ -411,15 +411,3 @@ Elara took that in without moving.
 "Damn it," she said. "You're right." And then, on a long breath, "Fine. We'll go with this."
 
 And that was all of it. She did not thank him for the honesty and she did not remark on it. She pushed off the table and went to find Vesk about the escort, and Xion understood that the asking had been the remark.
-
----
-
-He stayed in his chair a moment after the room had gone.
-
-Not for any particular reason. Just the ordinary pause of a man who has finished a thing and is waiting for his body to catch up with the fact — the same pause he used to take on the stool by the door of a back room at three in the morning, with the water going cold in the basin and somebody's son asleep and breathing.
-
-Somewhere across the city a woman was unpicking a row in a rented room, two streets from a building that would be legally hers again by the end of the month, and would not be a clinic, and would never be a clinic again.
-
-He had been good today. He knew it without any pleasure attached, the way he knew the state of a wound. The mind his father had spent twenty years sharpening had gone at a problem that deserved it and had come back with the answer, and nobody had been hurt, and the thing it bought might keep a great many people from being hurt later. It was the first time since Melina that he had felt entirely like himself.
-
-Which was, he thought, standing up and squaring the papers, an interesting thing to feel in a room, at a table, with clean hands.
