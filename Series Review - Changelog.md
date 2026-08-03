@@ -5060,3 +5060,20 @@ scholar is male. Balanced against the correction logged earlier today.
 `Chapters/Chapter 5 - Hubris.md` (new) · `Beat Drafts/Chapter 5 - Hubris.md` (new "what the prose settled"
 section, plus the reconciliation and a note that the draft's beats run 1–8, an unlabelled 9, then 10–20) ·
 `book3_chapter_skeleton.md` (ch5 entry) · Royal Road regenerated, Book 3 now six chapters.
+
+---
+
+## 2026-08-03 — Book 1 ch1 normalised to straight quotes (mechanical, no prose altered)
+
+**ch1 was the only chapter in Book 1 using typographic quotes** — 64 `’`, 56 `“`, 56 `”` — against
+twenty-four chapters using straight `'` and `"`. An artifact of it being the most heavily rewritten file
+in the book. Converted 1:1; the file's character count is unchanged and no word moved.
+
+**Em dashes and the single ellipsis were left alone.** `—` is book-wide (646 instances across the
+twenty-five chapters) and is the house mark; `…` appears five times across the book, only one of them in
+ch1, so it is not a ch1 anomaly and was out of scope for this pass.
+
+`Tools/royalroad_export.py` escapes to entities, so ch1's HTML now matches the other twenty-four exactly —
+plain `'` and `"` with seventeen `&mdash;`, and no `&rsquo;`/`&ldquo;` anywhere in the book.
+
+`Chapters/Chapter 1 - The Healer's Hands.md` · `Royal Road/Chapter 1 - The Healer's Hands.html`
