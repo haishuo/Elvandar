@@ -4412,3 +4412,48 @@ ch4 can walk into it properly.
 a line that anticipates a later chapter, **check that the fix does not anticipate it differently.** Both
 versions of this line failed the same test — *does anyone here know something they are not supposed to know
 yet?* — and the second failed it while explicitly citing ch4 as the authority it was serving.
+
+---
+
+## 2026-08-02 — B3 ch4: the Scholar's Crown offer is a gamble, and Elara makes him say so
+
+Author's ruling, with the exchange supplied. The Crown angle as the drafts had it was too clean — *you
+cannot surrender what you do not possess* is elegant enough to read as airtight, and **an airtight plan is
+not a plan, it is a plot device.** Xion does not know Uratha will take it. He thinks it is the best of a bad
+set, and the chapter should say so.
+
+**New beat 25, placed after the room disperses, and the privacy is a rule rather than staging.** The ch1
+skeleton fixes the one-voice principle — disagreements in private, one voice in public, which is precisely
+what distinguishes Xion from Rosik, whose whole method was manufactured compliance over hidden opposition.
+**Elara would not put this to him in front of advisors and he would not answer it if she did.**
+
+**And it is deliberately not a repeat of beat 21.** Beat 21 is Elara's public question — *why will Uratha
+say yes* — which he answers well, for the room, and truthfully. The private question is whether he believes
+his own answer. **She watched him convince a room and is asking whether he convinced himself**, which is a
+different question at a different cost, and satisfies the standing rule that a recurrence must move
+somebody's position rather than repeat at greater volume.
+
+**He does not manage it and does not try.** *"Honestly, Elara? I don't."* Short on options, shorter on
+money, all in how they package it, done right they take it — *he hopes.* Not pretending it is perfect;
+better than what they had, which was nothing. **The admission stands unrepaired — no hedging back into
+confidence at the end of it.** Elara takes about two seconds, runs a soldier's arithmetic on a bad position,
+lands where he landed, and gives the decision again privately, to him rather than to the room. **She does
+not thank him for the honesty or remark on it. That she asked is the remark.**
+
+### What it buys downstream, which is the real reason to take the note
+
+**It sets the size of the signal in Chapter 5.** Xion travels to Uratha braced for a hard sell, and Draskin
+concedes ground faster than his own hopes had allowed for. **Had he gone in certain, the Urathans' eagerness
+is a curiosity. Because he went in unsure, it is the first loose thread of the entire Crown mystery** — the
+thread that runs through ch10's reversal, ch11's masked shock at the ceremony, and into Book 8's Urathan
+desperation over the Crown's silence. The beat costs a page and arms four chapters.
+
+It also keeps the chapter's designed emotion honest. The header calls it *competence restored, earned
+through failure first* — and competence that arrives with certainty attached is not the thing that header
+describes.
+
+**Housekeeping:** the draft's beats ran 1–17 then 19–27, a numbering gap of unknown age. Closed; the
+chapter now runs 1–26 with the gamble at 25 and the closing beat at 26, and the one internal
+cross-reference was updated with it.
+
+`Beat Drafts/Chapter 4 - Negotiations.md` · `book3_chapter_skeleton.md` (ch4 entry).

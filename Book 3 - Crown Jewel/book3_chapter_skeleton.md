@@ -104,6 +104,12 @@ Xion's proposal: formally and irrevocably drop the demand for the Scholar's Crow
 
 This is **First Counselor Xion Fen** at his sharpest — the political mind that Rosik trained, now deployed for genuinely good purposes. He tried the obvious move, absorbed the failure cleanly, and found the sharper angle. For the first time since Melina, he feels like himself.
 
+**And then the room empties and Elara asks him whether he believes it.** *(Author's ruling, 2026-08-02.)* Not the public question she already asked — *why will Uratha say yes* — but the private one underneath it: he convinced a room, and did he convince himself. **It has to be private**, because the one-voice principle established in ch1 means she does not question him in front of advisors and he would not answer if she did.
+
+**He doesn't manage it and doesn't try.** *"Honestly, Elara? I don't."* They are short on options and shorter on money; it is all in how they package it; done right they will take it — *he hopes.* He is not pretending it is perfect. It is better than what they had before, which was nothing. **No hedging back into confidence at the end.** Elara takes about two seconds to run a soldier's arithmetic on a bad position and arrive where he did, and gives the decision again, privately, to him rather than to the room.
+
+**This is load-bearing for Chapter 5 and beyond.** It stops the Crown angle reading as a magic bullet — *you cannot surrender what you do not possess* is elegant enough to seem airtight, and an airtight plan is a plot device. More importantly, **it sets the size of the signal in ch5**: Xion travels to Uratha braced for a hard sell and Draskin concedes faster than his own hopes allowed for. Had he gone in certain, that eagerness is a curiosity. Because he went in unsure, it is the first loose thread of the Crown mystery — and it runs through ch10, ch11 and into Book 8.
+
 **Sets up:** The Urathan expedition, and the deeper Crown/Lathion dynamic that will reshape everything.
 
 ---
