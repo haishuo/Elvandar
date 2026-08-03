@@ -184,7 +184,7 @@ She looked at him for the length of time it took her to decide not to say the ot
 
 ---
 
-Leowin Draskin was younger than the title had led him to expect, and considerably more contained.
+Leowin Draskin was younger than the title had led Xion to expect, and considerably more contained.
 
 He had been elected five years ago out of the Department of Cosmological Studies, which was a fact Xion had read in a brief and had not known what to do with, and which made a great deal more sense the moment the man came into the chamber. There was nothing of the courtier in him and nothing of the priest. What he had was the specific stillness of somebody accustomed to holding a very large idea in his head for a long time without dropping it, and the ceremony of his authority had been practiced so far past performance that it had gone invisible.
 
