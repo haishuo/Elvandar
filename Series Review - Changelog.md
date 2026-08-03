@@ -5901,3 +5901,37 @@ sweeping for *come* would otherwise "fix" it. **An exclusion note that does not 
 neighbours creates the next error.**
 
 Swept the chapter for other preterite drift: none.
+
+### Two sentences cut from the end of B3 ch6, and the chapter ends better without them
+
+**Author's question — *"Can we cut both these sentences? Do they do anything?"*** They did not, and the
+second was doing harm.
+
+> *Xion stood in the middle of it on the last evening with a slate in his hand and could not think of
+> anything else that needed buying.*
+
+**Third pass at a point the chapter had already landed twice**, and quieter each time. The climb-out gives
+it properly — *the way to be governed by Balisha was to be holding something Balisha wanted* — and this
+restates it in a softer register two paragraphs later. **A recurrence has to move something; this only
+lowered the volume.** The slate was a prop with no function.
+
+> *Somewhere north of the city, on a good road with drainage in the cuttings and way-stations at measured
+> intervals, the Urathans were still coming.*
+
+**Three faults.** It takes the camera off Xion to describe something he cannot see, which is rule 0 and the
+no-omniscient rule together. It **pre-empts ch7**, which opens by having the Urathans arrive and does not
+need them announced. And it is the **third** use of the road-and-way-stations image in a chapter that opens
+with it.
+
+**What it now ends on** is the last clause of the camp paragraph: the Door, lit for the first time, *"five
+meters by three, doing what it had been doing since before anyone had a word for any of this, which was
+nothing."* **He has bought a road to an object that does not move** — which is the chapter's argument in an
+image rather than a statement, and a colder last note than either cut sentence managed.
+
+**The general lesson, and it is the same one twice in one day.** Both of these were *reaching past the
+ending* — the first to make sure the theme had been understood, the second to hand the reader off to the
+next chapter. **Neither job was mine to do.** The theme had been shown; ch7 opens itself. Beat draft and
+skeleton entry both amended in the same commit, including a standing note that the Urathans are not to be
+named in the closing beat.
+
+5,494 → 5,443 words.

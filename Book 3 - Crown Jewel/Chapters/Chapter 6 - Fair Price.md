@@ -335,7 +335,3 @@ The three Tor'anar arrived on the fourth day, in middle age, with no young ones 
 Farleen was on the manifest. She had been on the manifest since the morning it was drawn, in nobody's column, and the quartermaster had long ago stopped asking what to write beside her name.
 
 By the ninth day there was standing light in that chamber, which there had never been — lamps on standards, a plank floor, a table with the surveyor's eleven pages weighted down on it, and the Door at the end of it all, five meters by three, doing what it had been doing since before anyone had a word for any of this, which was nothing.
-
-Xion stood in the middle of it on the last evening with a slate in his hand and could not think of anything else that needed buying.
-
-Somewhere north of the city, on a good road with drainage in the cuttings and way-stations at measured intervals, the Urathans were still coming.

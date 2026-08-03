@@ -57,7 +57,7 @@
 
 23. **The win is filthy.** He got the Warrens their chair. He got it as a **price** — which is exactly what he said in ch1 it must never be — and what is now on the record, for anyone who reads the record, is that the way to be governed by Balisha is to hold something Balisha needs. He does not have a scene about this and nobody tells him.
 
-24. **The camp goes in.** Vesk, the Arol Batae detail, the three-mage Tor'anar detachment granted in ch3, the Long Knives arriving on the Mistress's own bargain rather than on payment, Sa Ko's timber and iron coming down the shafts the crown now holds, Farleen on the manifest and in nobody's column. The chapter ends with it standing and lit and quiet, and the Urathans still somewhere on the road.
+24. **The camp goes in.** Vesk, the Arol Batae detail, the three-mage Tor'anar detachment granted in ch3, the Long Knives arriving on the Mistress's own bargain rather than on payment, Sa Ko's timber and iron coming down the shafts the crown now holds, Farleen on the manifest and in nobody's column. **The chapter ends on the Door itself** — lit for the first time, five meters by three, doing what it has done since before anybody had a word for any of it, which is nothing. He has bought a road to an object that does not move.
 
 ---
 
@@ -87,4 +87,4 @@
 
 **On what this hands Book 4.** The Warrens get a seat at the new order's table, and they get it as the price of a right of way rather than on the merits, and **nobody ever tells Xion that this is what he did.** He is not to be handed the verdict by another character — that is the same failure mode as telling him he has become his father, and the same ruling applies. The reader sees it. He carries it without naming it. See `Series Review - Master List.md` §2, *The Warrens chair.*
 
-**Sets up:** Ch7 directly — the standing camp, the assembled expedition, and a seam that requires no change to that chapter's opening. The Crown established as a real price paid, so that Uratha returning it in ch11 lands as the reversal it is. Sa Ko's demonstration, delivered in ch7 while she is elsewhere. And the Warrens seat, which is Book 4's inheritance.
+**Sets up:** Ch7 directly — the standing camp, the assembled expedition, and a seam that requires no change to that chapter's opening. **The Urathans are not named in the closing beat.** Ch7's *"The Urathans arrived on a grey morning"* is their first appearance; pre-announcing them here cost the ending its last line and put the camera somewhere Xion was not. The Crown established as a real price paid, so that Uratha returning it in ch11 lands as the reversal it is. Sa Ko's demonstration, delivered in ch7 while she is elsewhere. And the Warrens seat, which is Book 4's inheritance.
