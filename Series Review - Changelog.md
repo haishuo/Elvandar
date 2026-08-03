@@ -4346,3 +4346,39 @@ travel should be built on couriers. The relay is a Book 5-and-later fact and is 
 2 - Inheritance.md` and its beat draft · `Book 4 - Harkim's War/book4_outline.md` ·
 `Places/Kaha'an/Lathion_ The Lost City of Gears.md` · `Book 7 - Last Debts/book7_outline.md` · Royal Road
 regenerated for Book 3.
+
+---
+
+## 2026-08-02 — B3 ch3: Uratha is a sovereign state, not a faculty common room
+
+Author's catch on ch3's advisory session. The line as written:
+
+> *A third voice pointed out that Gunastran would want paying and Uratha would want thanking, and that of
+> the two, one was considerably cheaper.*
+
+**The author's objection, which is also the fix:** Uratha wants payment **and** thanks, the way any
+university wants grants. It is a state with a Scholar-King, an Ivory Tower, and three centuries of
+refusing to hand back an artifact it was lent — not a collection of enthusiasts who work for the
+recognition.
+
+**And it is worse than a tonal slip: it contradicts ch4's premise directly.** The skeleton's ch4 entry
+states that *"Uratha would no more help with the door out of scholarly goodwill than Gunastran would out
+of engineering enthusiasm — but unlike Gunastran, Balisha actually has something Uratha wants,"* and the
+entire Scholar's Crown angle exists because Uratha's help has a price Balisha can pay in kind. A chapter
+earlier telling the reader Uratha works cheap would make ch4's best move look like an overpayment — and
+would make ch10's reversal, where Uratha discovers what is actually behind the door and doubles its
+demands, read as a character breaking rather than a state behaving normally.
+
+**Replaced with the version that is both true and load-bearing:** Gunastran wants coin, which the last
+four hours established the crown does not have; Uratha wants payment in something that is not coin; and
+nobody at that table should mistake the second for a discount. It prefigures ch4 and ch10 without
+spoiling either, and it keeps every advisor in the room competent — which is that paragraph's entire job,
+since its opening sentence is *"at no stage did anybody say anything foolish."*
+
+**Filed under a pattern worth watching.** This is the second time in this book that a throwaway comparison
+smuggled in a false premise about a foreign power's motives — the first was Gunastran's refusal being
+staged as a formality rather than a real request. **Nations in this series want things and charge for
+them.** Any line that has one of them acting from enthusiasm, goodwill or gratitude should be checked
+against what that nation's own chapters need it to be.
+
+`Chapters/Chapter 3 - Storm-Line.md` and its beat draft (beat 2); Royal Road regenerated.
