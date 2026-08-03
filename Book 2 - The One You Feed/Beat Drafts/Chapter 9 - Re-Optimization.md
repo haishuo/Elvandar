@@ -8,7 +8,7 @@
 
 ## Beats
 
-1. **Time, which had been moving in days, begins to move in weeks** — and the reader should feel the gear change. For two months Xion lived the way you live through a crisis: each morning its own event, each gate and letter and meeting a thing that happened at a specific hour and could be counted. Now the hours run together. There is no single afternoon on which his father wins. There is only a process turning over out of sight, week by week, and the sum of the weeks is that a two-month deadlock quietly becomes a government.
+1. **Time, which had been moving in days, begins to move in weeks**, and the chapter changes gear with it. For two months Xion lived the way you live through a crisis: each morning its own event, each gate and letter and meeting a thing that happened at a specific hour and could be counted. Now the hours run together. There is no single afternoon on which his father wins. There is only a process turning over out of sight, week by week, and the sum of the weeks is that a two-month deadlock quietly becomes a government.
 
 2. He watches the only way left to him — from the outside, in fragments: Melina from within the estate, Kael through the seams of Iron business, Silvanno from the ambient weather of the Noble District, which he reads the way his mother does. Same machinery as Ch2, opposite output. Where the fragments once assembled into **gridlock** — everyone straining, nothing moving — they now assemble into momentum, and momentum all running one way.
 
