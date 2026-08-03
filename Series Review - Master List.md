@@ -65,6 +65,7 @@ When these conflict, the lower number wins. Everything else in this document is 
 - **Some scenes take one emotion, and hedging them is a loss.** B1 ch25 is triumph, full stop — the Jurassic Park reveal, not Malcolm at lunch. The contrast in adjacent chapters is what earns it.
 - **Do not invent a payoff for something the text already paid off better nearby.**
 - **State emotional content through action where the action already carries it.**
+- **A beat draft's body is the page.** The numbered beats are what happens; instructions to the drafter go around them, never inside them. Full statement of the rule and its provenance in `Templates/Beat Draft Template.md`; the sweep that applied it across all 64 drafts is in the changelog under 2026-08-02.
 
 ---
 
@@ -492,6 +493,32 @@ line is **live chess imagery applied to a person**, not chess etymology.
 ## 6. Settled rulings
 
 Decided. Retained so they are not reopened or re-flagged.
+
+### The beat-draft body/instruction rule — **AUTHOR'S RULING 2026-08-02. Applied to all 64 drafts**
+
+**The rule.** The beats in the body of a beat draft are what appears on the page, and nothing that does not
+appear on the page may appear there. Guardrails, negative constraints, rule citations, correction notes and
+provenance go **around** the body — header block, footer under an `**On beat N:**` header, or an indented
+italicised parenthesised aside under the beat they attach to. Never inside a numbered beat.
+
+**Why.** B3 ch4's beat A4 carried *"Not from a ruin"* as a guard against a drafter still holding a retired
+error. It was correct as an instruction and it went onto the page verbatim as prose, denying a ruin no
+reader had reason to expect. A beat draft carries two kinds of sentence — *what happens* and *what a drafter
+must not get wrong* — and the second is usually a negation, because that is the shape of a correction.
+**Negations transcribe.**
+
+**Two exclusions, recorded so a future sweep does not take them.** *Negative choices* (what a character
+deliberately does not do) are events and stay in the body. *Effect analysis* (what a beat achieves) is not an
+order and stays. The test is whether a sentence could be **transcribed** into narration or only **obeyed**.
+
+**Status.** All 64 drafts swept; 43 touched, 21 already clean. `Templates/Beat Draft Template.md` now states
+the rule, so drafts written from the pattern comply by default. **Books 4–8 have outlines only** — when their
+drafts are written they inherit the rule from the template and need no retrofit. Nothing outstanding.
+
+**Three findings came out of the sweep and are fixed:** B3 ch17 beat 17 described a decision taken in
+Vartonne inside a chapter narrated from Xion's shoulder in Terinok, and could not have been staged; the same
+beat called **Sa Ko Ren *him***; and B1 ch3 beat 15 paraphrased a line it had marked verbatim, corrected to
+the prose, which is the source for Book 1. Details in the changelog.
 
 ### R2-1 — B1 ch18's untreated child — **CLOSED, fixed in the prose**
 
