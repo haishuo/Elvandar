@@ -6183,3 +6183,10 @@ the author's calls rather than mine:
   drift case of the three. Cheapest to change if wanted.
 
 **Two fixed in ch7. Rule recorded. Baseline recorded.**
+
+**Closed the same day: the three flagged cases stay as written.** Author's ruling — *"I think these are
+fine, just moving forward… If I start noticing it swinging the other way, I'll point at a specific NPC and
+ask for them to be gender flipped."* **The audit above is therefore a baseline and not a to-do list**, and
+`CLAUDE.md` now says so explicitly. The rule governs new drafting only. Nobody should re-run this audit
+unasked, and nobody should pre-emptively flip an existing NPC — this document has a long history of flags
+outliving their problems and getting trusted by the next reader, and this one is retired on arrival.

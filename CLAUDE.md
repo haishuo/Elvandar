@@ -183,6 +183,14 @@ the exceptions are his to place.
 passage feels male-heavy. **Write the default, and if a scene genuinely wants a woman in it, propose her
 and say why** — then she gets specified, and specified is the only way a female walk-on enters the books.
 
+**This rule is forward-looking and the existing text stands.** Author's ruling the same day: the unnamed
+female NPCs already written into Books 1–3 are **fine and stay** — ch2's Long Knife guide, ch5's woman
+refilling the jug, ch6's patient with the crooked hand, and anything else like them. **They are not a
+backlog and nobody is to go and correct them.** The reason the rule exists is that the skew was becoming
+noticeable enough for the author to see it from the page; the remedy is that new drafting stops adding to
+it, not that old drafting gets scrubbed. **If it ever swings too far male, the author will name a specific
+NPC and ask for that one to be flipped.** Do not pre-empt him, and do not audit for this again unasked.
+
 **Named and sheeted characters are unaffected.** The Coterie is Rosik (m), Ronas (m), Tania (f), **Sa Ko
 Ren (f)** — and Sa Ko in particular is a recurring error: she is the Iron Lady, she/her, and she has been
 called male more than once. Check `People/Sa Ko Ren.md` before writing a line of her.
