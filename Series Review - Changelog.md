@@ -4518,3 +4518,41 @@ plausible, and derived from a real line — and it took a three-word extrapolati
 lives on grant land*) to contradict the single most load-bearing fact in the world's backstory. **Check an
 invented location against `The Rending.md` before writing it**, because in this setting *where a thing was
 twenty years ago* is never a neutral detail.
+
+---
+
+## 2026-08-02 — B3 ch3's ending cut back to the line it was always supposed to end on
+
+Author's note: the ending was long-winded, and the chapter should stop at *"And in the whole of that
+afternoon, from the first attempt to the leave-taking, Xion could not recall that anybody had thanked
+them."* Correct on all three counts, and one of the three was a rule violation.
+
+**Cut 1 — the four-reasons paragraph.** Elara untaught, the advisers absent, Vesk deferential, Xion
+constrained by his office. **Every one of those was already shown earlier in the chapter**, and the house
+style is explicit: *when a paragraph explains what the previous paragraph already did, cut the
+explanation.* But the worse problem is tonal — **it softens the line it follows.** The narrator lands a
+hard sentence and then immediately supplies four excuses for it. The omission is more damning with no
+defence attached, and the reader can assemble the reasons unaided because the chapter gave them all four.
+
+**Cut 2 — *"Every one of those was a reason. He had four good ones and the sum of them was still
+nothing."*** A summary of a summary. No argument for it.
+
+**Cut 3 — the ledger line, which was mine and was two errors at once.** Xion writing one line in the back
+of his own book *"so that he would have it when it turned out to matter."* It is a third beat after the
+landing, and **it is the flash-forward construction the register forbids** — *when it turned out to
+matter* is the narrator knowing the future, which is the same family as *unbeknownst to him*. I wrote it
+as a deliberate plant for ch10 and ch12 and recorded it as such in the beat draft, which made it worse
+rather than better: **the fact that a beat is load-bearing is not a licence for the narration to say so.**
+
+**And the plant does not need it.** What sets up the corps being right about the Urathans is the chapter
+itself — the reader watched them be honest against their own interest and watched nobody notice. **A
+ledger line does not add that; it announces it.** The stronger version of *he will have it when it
+matters* is that he never writes it down and has it anyway, which the chapter has already established
+about him: he is standing alone in a yard doing accounts nobody asked for.
+
+Also tightened lightly on the way through — *narrowing carefully down through everything they had* and
+*in front of the crown and every officer of it* both restate things the chapter spent pages showing.
+
+**4,954 → 4,762 words.** `Chapters/Chapter 3 - Storm-Line.md`, its beat draft (beat 20, with all three
+diagnoses recorded so the cuts are not undone by a later reader looking for a stronger ending), Royal
+Road regenerated.
