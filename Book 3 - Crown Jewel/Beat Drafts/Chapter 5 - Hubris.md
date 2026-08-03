@@ -122,23 +122,21 @@ The agreement is reached: anything material or economic behind the door belongs 
 
 *(+899 words across both passes: 4,453 → 5,352.)*
 
-### The Great Library means the opposite of what the first pass had it mean
+### The Great Library — the history lesson written for it, and then cut
 
-*(Author's catch, 2026-08-02: **"Balisha" could mean the land around Kaha'an or the Old Balishan Empire — and Uratha was a province of that empire, and was its imperial academy.** So *"every book in the Balishan Empire"* may simply mean that the academy accumulated the empire's books because that is what an imperial academy is for. Read the nation files and the empire's history before writing this. **Correct, and the correct reading is far better.**)*
+**Two things happened here in sequence and the second undid most of the first.**
 
-**The facts, from `Global Historical Timeline.md` and `Uratha_ The Land of Scholars.md`:** the empire ran **0–750 BR** across **seven provinces**. **Uratha seceded in 695 BR** — three and a half centuries before Book 3. The academy was founded by **Emperor Urath IV Valanar**, who *"wanted a legacy beyond conquest"*; the country is named for him; and **he lent the Scholar's Crown to the academy himself, at its founding.**
+**First, the author caught that I had the line backwards.** *"Balisha" can mean the land around Kaha'an or the Old Balishan Empire — and Uratha was a province of that empire and was its imperial academy*, so *"every book in the Balishan Empire"* means the academy accumulated the empire's books because that is what an imperial academy is for. Confirmed in `Global Historical Timeline.md` (empire 0–750 BR, seven provinces, **Uratha secedes 695 BR**) and `Uratha_ The Land of Scholars.md` (**founded by Emperor Urath IV Valanar**, who *"wanted a legacy beyond conquest"*; the country is named for him; **he lent the Crown to it himself**). **The books were never taken. They arrived.**
 
-**So the books were never taken. They arrived** — for centuries, from every corner of an empire that had exactly one place it sent books to, because that was the whole purpose of the place and everybody involved agreed about it at the time. Then the province became a country and the library stayed where it was, and **there is no moment anybody can point at and call a theft.**
+**Then the author asked the harder question: if none of this is relevant, why is it here?** *"Do we ever return to the Great Library? If not, why do we have a history lesson? Does Xion's feeling here serve any narrative purpose?"*
 
-**Xion has the ugly thought first — *they have ours* — and turns it around before he is out of the arcade**, and the turning around is the beat. What he arrives at is not comfortable and is extremely useful:
+**Checked, and the answer was no on all three.** The Great Library appears in ch5 and in no other chapter or draft. The *"there is no seam"* reasoning recurs nowhere — ch10 and ch11 contain none of it. And within ch5 the payoff was **asserted rather than shown**: the prose claimed *he believes his proposal differently now*, and the negotiation that follows is Elara's, with Xion watching, so nothing cashes it. **Three hundred and thirty words of imperial chronology whose only consequence was a sentence about an internal state.**
 
-> ***There is no seam.***
+**Cut to about a hundred, keeping only the part that is characterisation rather than exposition:** the possessive reflex — *they have ours* — arriving before he can stop it, and being put away before he is out of the arcade. **The reader does not need the founding dates. They need to watch a man who reads situations correctly catch himself reading one wrong.** One clause carries the reason (a province, an academy, books arriving at the building put up to receive them) and one line connects it forward to the morning's negotiation.
 
-**That is why three centuries of demands went nowhere.** Not because Balisha argued the Crown badly — the letters are fine, he has read a dozen — but because the argument needs a line between *ours* and *theirs* drawn through a period when there were not two things to draw a line between. Every Balishan sovereign since the dissolution has stood on that line and sent a letter from it; the line has never existed; and Uratha never had to say so, because refusing cost them nothing.
+**And the Library was given an actual job two chapters later.** Ch8's draft now uses it as the measure the Repository breaks — the largest collection in the known world, established flatly in ch5, made into a room by Lathion — **and the beat belongs to the Urathan scholars**, who are the only people present equipped to feel the size of it. Without that, the ch5 library is scenery.
 
-**And it re-arms the negotiation he conducts the next morning.** He built that proposal in a corridor in Gunastran out of arithmetic, because arithmetic was the only instrument left to him. **He believes it differently now** — somewhere under that roof is every document that would prove him right, filed by people who never once needed to look them up.
-
-**Do not let him say any of this to anybody.** It is a private correction, made walking, and its only visible consequence is that he goes into the Ivory Tower the next morning holding his own proposal more firmly than he did in Kaha'an.
+*(5,753 → 5,424 words.)*
 
 ### The skeleton/draft tension, reconciled rather than papered over
 

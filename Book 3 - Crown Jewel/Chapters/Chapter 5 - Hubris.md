@@ -102,23 +102,9 @@ The Great Library stood at the center of it. One of the escort told him what was
 
 Xion's first thought was the ugly one, and it arrived before he could stop it. *They have ours.*
 
-He had it turned around before they were out of the arcade, and the turning around took some doing, because the ugly version was so much simpler.
+He had it put away before they were out of the arcade. Uratha had been a province for most of the empire's life and this had been the empire's academy; the books had not been taken from anybody, they had arrived, the way books arrive at the building put up to receive them. There was no moment in any of it a man could point at.
 
-The Balishan Empire had run seven provinces for seven hundred and fifty years, and until three and a half centuries ago *Uratha had been one of them.* Not an ally. Not a neighbor. A province — imperial ground, holding an imperial foundation, built by an emperor. Urath IV Valanar had put the academy here because he wanted something left of himself that was not a campaign, and had given it his own name, and had sent it the Crown out of his own hands.
-
-So the books had not been taken. The books had **arrived**, for seven centuries, from every corner of an empire that had one place it sent books to, because that was the entire purpose of the place and everyone involved had agreed about it at the time.
-
-And then the province had become a country, and the library had stayed where it was, and there was no moment in any of it that anyone could point at and call a theft.
-
-Xion stood in a covered arcade in a foreign capital, working through the implications of a thing that had happened four hundred years before his grandfather was born, and arrived somewhere useful and not at all comfortable.
-
-*There is no seam.*
-
-That was why three hundred years of demands had gone nowhere. Not because Balisha had argued the Crown badly — the letters were fine, he had read a dozen of them — but because the argument required a line between *ours* and *theirs* running through a period when there had not been two things to draw a line between. Every Balishan sovereign since the dissolution had stood on that line and sent a letter from it, and the line had never existed, and Uratha had never had to say so because refusing cost them nothing.
-
-He was going to walk into the Ivory Tower in the morning and propose that Balisha stop.
-
-He had built that proposal in a corridor in Gunastran out of arithmetic, because it was the only instrument he had left, and he had believed in it the way a man believes in a thing he has checked twice. He believed in it differently now. Somewhere under this roof was every document that would have proved him right, filed by people who had never once needed to look them up.
+Which was worth knowing, since he was going to spend the following morning arguing about a crown on that same ground.
 
 Beside him, Elara had slowed down.
 

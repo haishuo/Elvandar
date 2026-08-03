@@ -5378,3 +5378,51 @@ plainly a later emperor. Anchored on the secession date instead, which is canon.
 section read but not read whole, a canon term accepted without asking whether it was good, and now a canon
 *phrase* accepted without asking what it meant. **The common root is treating canon as a lookup table
 rather than as a history that has to be understood before it can be used.**
+
+**Fifth pass, and it removes most of the fourth: the Great Library history was a lesson, so it is gone.**
+
+Author's question, and it is the one that should be asked of any passage like this: ***if none of this is
+relevant, then why is it here? Do we ever return to the Great Library? If not, why do we have a history
+lesson? Does Xion's feeling here serve any narrative purpose?***
+
+**Checked before answering, and it failed all three tests.**
+
+- **The Great Library appears in ch5 and nowhere else** — not in another chapter, not in any beat draft,
+  not in an outline.
+- **The *"there is no seam"* reasoning never recurs.** Ch10 is the Crown's *return* and ch11 the ceremony;
+  neither draft contains any of it.
+- **And inside ch5 the payoff was asserted rather than shown.** The prose claimed *he believes his proposal
+  differently now* — and the negotiation that follows is Elara's, with Xion watching. **Nothing cashes it.**
+
+So: three hundred and thirty words of imperial chronology whose entire consequence was one sentence about
+an internal state that the chapter never demonstrates. **That is a history dump with a receipt stapled to
+it.**
+
+### What was kept, and the distinction that decided it
+
+**Cut to about a hundred words, keeping only what is characterisation rather than exposition:** the
+possessive reflex — *They have ours* — arriving before he can stop it, and being put away before he is out
+of the arcade. One clause carries the reason (a province, an academy, books arriving at the building put up
+to receive them), and one line reaches forward to the morning's negotiation.
+
+**The reader does not need the founding dates. They need to watch a man who reads situations correctly
+catch himself reading one wrong.** The chronology was the part I found interesting; the reflex is the part
+that is about somebody.
+
+### And the Library was given an actual job
+
+`Beat Drafts/Chapter 8 - The Repository.md` now uses ch5's library as **the measure the Repository breaks** —
+the largest collection in the known world, stated flatly two chapters earlier, reduced to a room by
+Lathion. **The beat belongs to the Urathan scholars**, who are the only people present equipped to feel the
+size of it, and one of them saying so briefly does more than any narration about scale.
+
+**Without that, the ch5 library is scenery. With it, ch5 is the measure ch8 destroys.**
+
+**5,753 → 5,424 words** — back to roughly where the chapter stood before the fourth pass, with the error
+corrected and the lecture removed.
+
+**The lesson, and it is not a research lesson this time.** The previous four passes were all failures to
+read canon properly. **This one was a failure to ask what a correct passage was for.** Getting the history
+right made it more accurate and no more relevant — and accuracy is not a justification for presence.
+**The test to run on any passage that explains something: does anything downstream change because the
+reader now knows this? If the honest answer is no, it is a lesson, and it goes.**
