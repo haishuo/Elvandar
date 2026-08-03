@@ -50,7 +50,7 @@ Six weeks ago somebody had put a token in her hand, and the quarter it belonged 
 
 The address was two streets from the shop.
 
-Not from a ruin. From the building itself, which was standing, and shuttered, and hers on every document that predated the cartel — and which she could not go into, because the Grain cartel had taken it over six journals and the crown had seized everything the Grain cartel held, and somewhere in an inventory that Xion had personally helped compile there was a line that said so.
+The shop was shuttered and it was hers, on every document that predated the cartel, and she could not go into it — because the Grain cartel had taken it over six journals, and the crown had seized everything the Grain cartel held, and somewhere in an inventory that Xion had personally helped compile there was a line that said so.
 
 She had been walking past it to buy bread. For months.
 

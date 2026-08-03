@@ -4682,3 +4682,32 @@ why the ch1 request named the instrument it named — and the payoff is now legi
 *Kept clear of the number eleven deliberately: an echoed figure reads as a clue.* Also fixed in the same
 pass — the imperial-record entry was placed *"five weeks ago"* against a ch1-to-ch4 interval the week table
 puts at two to three. **6,021 → 6,393 words.**
+
+**And a second correction to the same passage — *"Not from a ruin"* was a note to myself that reached the page.**
+
+Author's catch: *why would we presume it to be a ruin?* We wouldn't. **The shop never burned**, that has been
+settled canon since 2026-08-01, and no reader arrives at that sentence expecting rubble. The line denies a
+fact that does not exist, and in denying it, quietly suggests it was ever in play.
+
+**The provenance is exact and worth recording, because it is a mechanism rather than a slip.** Beat A4 of
+this draft read *"**Not from a ruin** — from the building itself, which is standing."* That was written
+during the fire correction as an instruction to whoever drafted the prose — a guard against a drafter still
+carrying the retired error. **It is correct as an instruction and it went onto the page verbatim as prose.**
+
+### The rule that falls out of it, now in the ch4 draft's footer
+
+A beat draft carries two kinds of sentence: **what happens**, and **what a drafter must not get wrong.**
+The second kind is very often a negation — *not a ruin, not a mistake, not dramatically, this is not about
+X* — because that is the natural shape of a correction. **Those negations transcribe.**
+
+**The test, applied to every negation before it reaches the page: does the sentence before this one give
+the reader any reason to believe the thing being denied?** If yes, it is doing work — *"He took the seat
+that had been left for him. Not at the head."* If no, it is a note to the drafter wearing prose.
+**Corrections belong in parentheses, in italics, or in the footer** — anywhere the eye reads them as
+instruction rather than as text.
+
+**Swept all four drafted chapters for the pattern.** Twenty-three sentences open on a bare negation; every
+one of the others is legitimate, each denying something its own preceding clause sets up (*"And they were
+**old**. / Not old."*, *"There were no young ones. / Not one."*, *"Not reading."*). **Only the ruin was
+denying nothing.** Cut, and the sentence rebuilt to state the fact directly: the shop was shuttered and it
+was hers and she could not go into it.
