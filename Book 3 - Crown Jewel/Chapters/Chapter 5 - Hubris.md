@@ -98,7 +98,7 @@ The library district was on the way to the delegation hall, and the escort took 
 
 It did stretch for acres. That was not a figure of speech either; he had assumed it was. Building after building, connected — and that was the detail that got him, because it would have been so much cheaper not to connect them. Covered passages ran between every hall, arcaded, floored, with lamps set at intervals, so that a scholar could go from one collection to another across the whole district and never once step into weather. There were stairs down, too, at intervals, and lamps going down them, and when he asked how far the answer was *some way*, delivered pleasantly, by a man who did not elaborate.
 
-At the center of it was the Great Library, and one of the escort told him, in the tone of somebody repeating a thing everybody says, that it held a copy of every book ever written in the Balishan Empire.
+The Great Library stood at the center of it. One of the escort told him what was in it, in the manner of a man saying something everybody already knew: a copy of every book ever written in the Balishan Empire.
 
 Xion turned that over for most of an afternoon.
 
