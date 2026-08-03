@@ -6190,3 +6190,41 @@ ask for them to be gender flipped."* **The audit above is therefore a baseline a
 `CLAUDE.md` now says so explicitly. The rule governs new drafting only. Nobody should re-run this audit
 unasked, and nobody should pre-emptively flip an existing NPC — this document has a long history of flags
 outliving their problems and getting trusted by the next reader, and this one is retired on arrival.
+
+### The ch6/ch7 collision, solved properly — reword the second chapter, don't move scenes between them
+
+**Author's ruling, and it supersedes the reverted structural attempt:** *"The answer is not to awkwardly
+shove stuff into chapters they don't belong in… the answer is to try to reword this so it's not so
+reminiscent of something someone just read less than two minutes ago."*
+
+**The collision was concrete and I had misread it as a virtue.** Ch6 closes *"…and the Door at the end of
+it all, **five meters by three**, doing what it had been doing since before anyone had a word for any of
+this, which was **nothing**"* — and ch7 then opened with **the same dimensions**, **the lamps again**, and
+**the word *nothing* twice more** inside its first page. I had told myself that repetition was a drumbeat.
+**It is not. It reads as a writer who has forgotten what he wrote ninety seconds earlier.**
+
+**What changed, and nothing moved between chapters.** Ch7 no longer restates the Door's measurements; it
+gives the surface instead — the alloy that has gone five thousand years *without so much as clouding*, the
+script fine enough that the eye slides off. The lamps are cut, since ch7 already has *forty meters of dark
+over their heads* two paragraphs earlier and did not need them twice. And the Door's indifference is said
+in new words: **the Door took no more notice of them than it had ever taken of anybody who stood in front
+of it** — which is stronger than the original, because it takes in everyone who ever tried. The second
+scene now opens on the bare duration: **Three weeks.**
+
+**Verification, at the right scale.** The six-gram sweep that has caught repeats all session is **useless
+for this class of problem** — *five meters by three* is four words and *lamps* is one. Re-ran across ch6's
+last 260 words against ch7's first 420 at 3- and 4-gram width: **zero 4-gram echoes**, and the only two
+3-grams are *and the door* and *he did not*, which are function words and invisible. Shared concrete nouns
+now sit one-per-chapter: *five meters by three* ch6 only, *standing light* ch6 only, *forty meters* ch7
+only. **Match the n-gram width to the phrase you are hunting; a six-gram check cannot see a four-word
+quotation.**
+
+**Checked and left alone:** ch6 uses *nothing* fifteen times across 5,443 words — about one per 360, mostly
+ordinary, several deliberate (Sa Ko's *cost us nothing … bought us nothing*, *spent nothing that was not
+his to spend*). Not a tic. One cluster noted for the record: *held nothing but blade-marks* and *took
+nothing for it* fall in adjacent sentences in the camp paragraph.
+
+**Beat draft resynced.** The revert had restored it to a state that predated two accepted fixes — it still
+had the walk-on scholar as female and the contingent at eleven. Both corrected, plus the footer rewritten
+to record that **rewording the later chapter is the standing answer to a join collision**, not relocating
+scenes across the boundary.

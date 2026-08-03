@@ -6,15 +6,15 @@ He did not finish the sentence. He never came back to it. Later that day Xion wa
 
 They had come prepared to work. Glass-fronted cases, reference stands that unfolded on articulated brass joints, instruments Xion had no names for — every item of it carried down four hundred meters on the backs of men the crown was now paying by the day for the privilege. They had not come prepared for the size of it.
 
-Nobody was. The Door was five meters by three, faced in an alloy that had gone five thousand years without marking, and cut corner to corner with script and geometry so fine that the eye kept sliding off it and having to start again. Their lamps did not reach the ceiling. The lead scholar stood six feet back from the surface and looked at it the way a surgeon looks at a patient before the first cut, with total professional hunger, and Xion recognized the expression from the inside and thought better of him for it.
+Nobody was. Close to, it was worse — an alloy that had gone five thousand years without so much as clouding, cut corner to corner with script and geometry fine enough that the eye kept sliding off and having to start again. The lead scholar stood six feet back from the surface and looked at it the way a surgeon looks at a patient before the first cut, with total professional hunger, and Xion recognized the expression from the inside and thought better of him for it.
 
-Then they went to work, and the Door did nothing.
+Then twelve of the best-read people in the world unpacked their instruments and began, and the Door took no more notice of them than it had ever taken of anybody who stood in front of it.
 
 ---
 
-It went on doing nothing for a long time.
+Three weeks.
 
-That was the shape of the next three weeks, and nobody had warned him, because nobody had known. He had understood in advance that it would not be quick. He had not understood what *not quick* would be like from the inside: rubbing paper and magnification lenses, sequences cross-referenced against manuscripts that had come down through four centuries of increasingly tired copying, two hours of argument over whether a translation made by a man who might never have seen the original could be trusted on a single character. It was not dramatic. It was people being extremely careful in a cold room, on a plank floor, six hours at a stretch, for weeks.
+Nobody had warned him, because nobody had known. He had understood in advance that it would not be quick. He had not understood what *not quick* would be like from the inside: rubbing paper and magnification lenses, sequences cross-referenced against manuscripts that had come down through four centuries of increasingly tired copying, two hours of argument over whether a translation made by a man who might never have seen the original could be trusted on a single character. It was not dramatic. It was people being extremely careful in a cold room, on a plank floor, six hours at a stretch, for weeks.
 
 The camp took on the rhythms of a place people lived in. Lamps were refilled on a rota. The Long Knives walked the loads in and out and spoke to nobody. Somebody started a tally of the days on a beam and somebody else rubbed it out, and Xion never established which of them he agreed with.
 
