@@ -5994,3 +5994,62 @@ the last write that can touch a thing, not after the write you happened to be th
 only bumped once and are correct — spot-checked against three known-good references.
 
 *Wonder* is 2,998 words, essentially unchanged in length. Nothing touched its emotion.
+
+### *Wonder* rewritten from the ground up, on the author's instruction
+
+**The author, after the seam fixes had already been applied: *"I still don't like the transition… rewrite
+the chapter from scratch, so that it flows properly from the chapter before it."*** The previous pass had
+corrected the contradictions and the join still did not work, which meant the fault was never continuity.
+
+**The diagnosis, and it was register and mode rather than fact.**
+
+**It opened at maximum.** Ch6 ends grey and transactional — a man who has bought a road to an object that
+does nothing — and ch7's first line put scholars in rapture. The wonder did not build out of ch6; it
+replaced it, in one line, with nothing in between. **An emotion cannot be the whole of a chapter and also
+be available on its first page.**
+
+**And it opened in summary rather than scene.** *"Opening the Door was not fast." "Weeks of scholars bent
+over the inscriptions." "The disagreement came on the fourteenth day."* Ch6 ends inside a specific moment;
+ch7 pulled the reader straight out of it into a report covering three weeks.
+
+**Which meant the Door had stopped being the problem.** Ch6's final word is that the Door does **nothing.**
+The old ch7 skipped the waiting and awarded the awe up front.
+
+### The fix: ch6's last word becomes ch7's engine
+
+The Door goes on doing nothing, and the chapter says so — *"Then they went to work, and the Door did
+nothing" / "It went on doing nothing for a long time"* — and then holds there for three weeks of
+deliberately undramatic work: rubbing paper and lenses, two hours on a single character, six-hour shifts on
+a plank floor in a cold room. The camp acquires the rhythms of a place people live. A tally of days gets
+started on a beam and rubbed out by somebody else. **Then the Door turns, and everything after it is
+uninterrupted wonder for eighteen hundred words.**
+
+**This does not breach the single-emotion rule and the distinction matters.** The opening stretch carries no
+competing *feeling* — it is flat and procedural, the drive to the visitor centre rather than a second
+emotion. Frustration is never named, nobody is discouraged, and no one's arc is served. **What it buys is
+that the awe now has something to be awe *after*.**
+
+### Two things the rewrite could drop because ch6 exists
+
+**Farleen's establishing paragraph is gone entirely.** She now appears twice — once positioned near the
+mouth of the passage in a way that is not obviously anything, once taking his hand — and the beat is
+stronger for arriving with no exposition in front of it. Ch6 spent a chapter establishing her.
+
+**And the group-portrait opening is gone**, replaced by one scholar walking down beside Xion explaining two
+schools of transcription with real warmth, stopping mid-clause when the passage opens out, and never
+returning to the sentence. **One person doing one thing, instead of a paragraph about a delegation.**
+
+### What was kept and why
+
+The descent, the antechamber, the conveyor, the transitional space and the city are the chapter's payload
+and were verified line-for-line against `Lathion_ Physical Layout and Geography.md` — 8 m antechamber, 5 m
+passage, the conveyor, the central shaft, the rotating level, the 5×3 m door. Their structure and their
+best images survive. **The Arol Batae line was restored after being lost in the first pass, and moved to
+land *before* she acts rather than after**, so the closing beat of that passage stays *she did it the way
+you do something you have always known.*
+
+**Checks:** 3,053 words against the old 2,998, so the length profile is unchanged and ch7 remains the
+book's shortest chapter, which is correct for a pure-experience chapter. **Zero six-gram collisions with
+ch6** — the seam repeats nothing. No meta terms, no chapter titles, no *Empress of Kaha'an*, no *in the
+dark*. Beat draft and skeleton entry both rewritten in the same commit rather than left to inherit the
+change from the prose.

@@ -169,7 +169,7 @@ The Scholar-King signs with a pen that hovers momentarily before committing. Bot
 **Characters present: Xion, Elara, Urathan scholars, Farleen, expedition team — including an Arol Batae detail and a three-mage Tor'anar detachment, background throughout**
 **Emotional work: Wonder — genuine, uncomplicated wonder**
 
-The Urathan contingent arrives at the Brass Door base camp. Farleen is there because Xion is there — full stop. Combined expertise works: Urathan scholarship meets Elara's intuitive connection. The sequence is found. The massive gear door rotates for the first time in millennia.
+The Urathan contingent comes down into the camp ch6 built — and then **the Door does nothing for three weeks.** That stretch is the chapter's engine, deliberately undramatic, and it is what the wonder is earned against; ch6 ends on the Door doing nothing and ch7 makes that its subject before turning it over. Combined expertise works: Urathan scholarship meets Elara's intuitive connection, and the sequence that emerges belongs to neither of them. Then the massive gear door rotates for the first time in millennia.
 
 Behind it: Lathion. The City of Gears.
 
