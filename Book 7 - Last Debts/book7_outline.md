@@ -67,18 +67,31 @@ becomes Balisha's problem. An army makes 20-odd miles a day; two armies closing 
 at forty. **So the engagement happens where they meet, not where anybody chose** — about a hundred miles
 east of the city, in the desert, on the Path. Nobody picks that battlefield. Arithmetic does.
 
-**The waystations are early warning and relay in one system.** They see Kalden's column days before it
-crosses, and the signal runs ahead of it. **Tiberian therefore does not lose a day to mustering.** He
-pre-positions on the warning — preliminary orders, troops concentrated, wagons stocked, commanders
-alerted — and avoids the political cost of formally mobilising too early. When the crossing signal comes,
-the army moves **within hours**, executing a plan already built. That is exactly the apparatus Silaris
-taught him to build, and it is the mature version of the prince who once charged with nothing underneath
-him.
+**The waystations are early warning and relay in one system, and the relay is instantaneous.** *(Made
+explicit 2026-08-02. This was implicit before and the implicitness was a defect — an outside reader went
+through this book's entire timing sequence without picking it up. The mechanism is now stated outright in
+`Places/Kaha'an/Lathion_ The Lost City of Gears.md`, "The Relay.")* The waystations carry Lathion
+communication relays, the third tier of the technology to reach the surface after water and energy. **The
+Golden Path was already a chain of warded, defended, maintained points at regular intervals across lethal
+ground** — which is exactly the shape a relay chain needs, so Balisha put the stations where the stations
+already were and the road turned out to have been built for this all along.
 
-**And the same stations are why he can come back fast.** Fresh horses along a patrolled imperial road
-put a hundred miles inside a hard day's ride for one man travelling alone. **Not four days. One.** He
-still arrives far too late, because Rosik dies within the hour — but the margin is hours, not a week,
-and that is what makes Rosik's window matter at all.
+**The rule, and every timing beat in this book obeys it: word is instant, people are not.**
+
+- A signal crosses the hundred miles in no time at all, both ends being on the chain.
+- **A man crosses it in a hard day's ride. An army takes five.**
+
+**This is why Tiberian does not lose a day to mustering.** The stations see Kalden's column days out and
+the warning arrives the moment it is sent; he pre-positions on it — preliminary orders, troops
+concentrated, wagons stocked — and avoids the political cost of formally mobilising early. When the
+crossing signal comes the army moves **within hours**, executing a plan already built. That is the
+apparatus Silaris taught him, and the mature version of the prince who once charged with nothing
+underneath him.
+
+**And it is why he can be told everything and do nothing.** Standing over Kalden's body a hundred miles
+east, he learns what is happening in his own house the same minute it happens — and is still a day's ride
+from it. **He does not arrive late because the news was slow. He arrives late because he is made of meat.**
+That gap is the book's climax and it is a permanent feature of the world, not a contrivance.
 
 **What Rosik expected, and why it was reasonable.** Not two hours — **the better part of a day.** His
 precedent is Silaris, where Kalden held a cultural capital through protracted street fighting and had to
@@ -355,9 +368,21 @@ This is exactly what Rosik counted on. The moment Tiberian's force clears the ci
 
 **Melina stays.** The city is hers to hold. This is the harder test for someone with her temperament — not planning a response from inside the data, but running a defense from inside the moment. She coordinates the Arol Batae who remain. She manages communications with Tiberian's force. She makes calls on partial intelligence about a master strategist she knows is out there somewhere, with no idea what he can still do or what resources he has left. There is no clean model. There is only the city, the data as it arrives, and the decisions that have to be made before the next decision arrives.
 
-She is preparing for sabotage that will never come — and the absence of any sabotage signals is itself part of what disturbs her. She has been told Rosik is involved. She knows what Rosik does. She is seeing none of it. Either Rosik has not yet activated, or he has nothing to activate. Both possibilities are bad in different ways.
+She is preparing for sabotage that will never come — and the absence of any sabotage signals is itself part of what disturbs her. She has been told Rosik is involved, by the person best placed to know. She knows what Rosik does. She is seeing none of it. Either Rosik has not yet activated, or he has nothing to activate. Both possibilities are bad in different ways, and **she is right about the second one and cannot get there from where she is standing** — because "he has nothing" is indistinguishable, from inside, from "he has not started yet," and only one of those is survivable to assume.
 
-**Xion** is not in the war room for much of this. He is doing what he has always done — healer work, imperial advisory, the quiet labor of running a court while his children handle the crisis. He does not know he is the target. Rosik's plan depends on Xion being approachable in the way emperor-consorts become approachable in peacetime: in his study, in the gardens, in the corridors where a Long Knife of sufficient skill can reach a man whose son is the general and whose wife is no longer the Desert Dragon she once was.
+**Xion** is not in the war room for much of this. He is doing what he has always done — healer work, imperial advisory, the quiet labor of running a court while his children handle the crisis.
+
+**He knows he is the target.** *(Corrected 2026-08-02. This section previously said he did not, which contradicted Act I — where he hears his father's name and knows the shape of it — and which required the one man who has read Rosik his whole life to miss the most legible thing about him. Act I is right.)* He does not know the method, the route, the timing or the day. What he knows is the grievance and its direction, and he knew it the hour the name came in.
+
+**He says so, once, plainly, and it is believed.** Nobody in this family doubts him about Rosik; that is not the problem.
+
+**The problem is that a warning without a method is not defensible, and Melina is the one who understands why.** You cannot protect a man against a shape. What you can do is find the apparatus that would have to exist for the shape to become an event — the cells, the informants, the bought guard, the sabotage assets — and dismantle it. **So the warning is entirely believed and converts, correctly, into the wrong search.** She hunts an organisation. There is one man.
+
+**And the version that *is* actionable, Xion declines.** A standing protective detail on the Emperor Consort during a foreign invasion means Arol Batae in a corridor instead of on a wall, and he treats that as obviously the wrong allocation, in the flat way he has treated every proposal to spend something on him since he was fifteen. Elara does not lose that argument so much as compress it: what she gets is smaller than she wanted and larger than he offered, and it is not enough. **Write it as a resource decision, not as courage.** He is not being brave. He is doing arithmetic, and the arithmetic is defensible, and it kills him.
+
+**Rosik's model includes all of this**, and it is the coldest thing in the book. He never needed surprise. **He needed his son to behave like his son** — to see it coming, to decline to have the city's defense pointed at his own person, and to remain exactly as reachable as an emperor-consort is in his study, in the gardens, in the corridors where a Long Knife of sufficient skill can reach a man whose son is the general and whose wife is no longer the Desert Dragon she once was. He has been reading Xion for twenty-three years and this is the last time he does it, and he is right.
+
+**Nobody ever says any of that aloud, and Rosik least of all.** He does not explain himself, then or ever, and no character works it out on the page.
 
 This is the culmination of both siblings' arcs: Tiberian executing decisive action with the planning his earlier self lacked, Melina running real-time defense with the speed her earlier self resisted. Each doing the *correct* version of the thing their nature demands. The partnership functioning at its highest level — not by blurring into each other but by specializing into their strongest forms. The Tiger in the field where he belongs. The Analyst at the heart where she belongs. Neither trying to be the other.
 
@@ -417,10 +442,53 @@ The mercenaries pause. Survey the situation. Conclude with admirable speed that 
 The external threat collapses inside of an hour. Word of the engagement's astonishing brevity races back
 toward Kaha'an.
 
-**And this is the moment Rosik's plan dies, four days' communication and a hundred miles from the man it
-belongs to.** He never needed the army to win. **He needed it to last** — an hour minimum, most of a day
-expected, and Kalden had furnished exactly that against this same prince at Silaris. Two minutes is outside
-anything anyone had grounds to model.
+**And this is the moment Rosik's plan dies, a hundred miles from the man it belongs to and no time at all
+from the woman who will end it.** He never needed the army to win. **He needed it to last** — an hour
+minimum, most of a day expected, and Kalden had furnished exactly that against this same prince at
+Silaris. Two minutes is outside anything anyone had grounds to model.
+
+### The clock, which the beat drafts must make visible on the page
+
+*(Added 2026-08-02. The causality is sound and it is not self-evident. An outside reader went through this
+entire sequence and did not pick up the mechanism, because the mechanism was never stated — which means a
+reader will file Rosik's death as coincidence. An earlier phrasing here said "four days' communication";
+both that and a subsequent attempt to run the clock on a relay **rider** are wrong. The road carries a
+Lathion relay and **the signal is instantaneous.**)*
+
+**There is no travel time on the information, and that is the whole point.** The Golden Path's waystations
+are relay stations; both ends of this are on the chain. **Melina learns that Kalden is dead within minutes
+of Kalden being dead.** The prose does not need to compute a courier's progress, because there is no
+courier — which is better, because it removes the one confound that would let a reader explain the timing
+away.
+
+**So the arithmetic reduces to a single subtraction, performed on the battle and nothing else:**
+
+1. **What Rosik's model said.** The engagement holds for the better part of a day. He is not modelling
+   couriers; he knows perfectly well the road talks. **His window is the period during which the news
+   coming off that road will still say *in progress*** — and by his estimate that is most of a day wide,
+   with the city pointed east and its posture at its lowest ebb the whole time.
+2. **What happened.** Contact, and Kalden is dead about two minutes in; the mercenaries have looted him and
+   dispersed inside the hour. **The road says *over* when it should have been saying *in progress*.**
+3. **Therefore the result lands early by exactly the amount the battle was short** — most of a day — and
+   there is no transmission delay anywhere in that sentence to soften it.
+4. **Where Rosik is when it lands.** Inside, mid-approach, on a timetable built against the day-long
+   figure, moving through hours his own model marked as guaranteed blind. They are not blind any more and
+   he has no way to learn that except by feeling the building change around him.
+
+**Stage the instantaneity, not a clock.** The device to avoid is a ticking countdown; the thing to
+dramatise is the strangeness of a war whose word outruns its horses. **One image will carry it**: the
+report reaching Melina while the dust on the Golden Path has not settled — while, a hundred miles east,
+her brother is still looking down at a body and has not yet decided what to do with his face. **Two rooms,
+one moment, a hundred miles apart, and the only thing that crossed the distance was the sentence.**
+
+**And Tiberian is told at once and it does not help.** He knows what is happening at home the minute it
+begins and he is a hard day's ride away. **Word is instant; people are not.** He does not arrive late
+because the news was slow — he arrives late because he is made of meat, and that is the book's climax
+rather than a technicality.
+
+**Do not let anyone in the book state the causality.** Melina never learns what her order interrupted;
+Rosik never learns what shortened the battle. **The reader is the only party who ever holds both halves**,
+which is the design, and is why the clock must be legible without being explained.
 
 **Which makes Kalden consequential even in failure, and the death stops being unrelated farce.** He is not
 a clown who dies in a separate scene while the real plot happens elsewhere. **He is the load-bearing member
@@ -489,7 +557,13 @@ The Competitor's final contest ends not with defeat but with irrelevance. He did
 
 The aftermath. Kalden's claims to imperial legitimacy die with him on the Golden Path a hundred miles east of the city he never reached. The mercenaries scatter. The Erulian Principality — or what remains of it — is a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes.
 
-Rosik's network is dismantled. His agents are identified and arrested. The last remnant of the cartel system's old guard dies with him. House Kemvimore is truly finished — not the name Xion carries (he is Valanar now) but the power structure it once represented.
+**There is no network to dismantle, and there are no agents to arrest.** *(Corrected 2026-08-02. Both sentences survived from an earlier version of the plan and flatly contradict the thing this outline establishes four separate times: he spent the entire Kaha'an network buying the model — no cells, no informants, no fallback, no way to receive information once inside. An aftermath that rounds up an apparatus is an aftermath belonging to a different book.)*
+
+**What Melina actually gets is an audit, and it is better.** There are residual contacts — a clerk who sold a duty roster, a mason who confirmed a service stair, a man who was paid once, in cash, eighteen months ago, and has been waiting ever since to find out what for. They are found because they are findable: none of them was ever tradecraft, they were **purchases**, and purchases leave receipts. Running them down is accountancy, not counterintelligence, and it takes weeks of unglamorous work by people who are not in this book.
+
+**And the finding is the last confirmation of what he did.** Reconstructed from the far end, the shape is unmistakable: thirty years of accumulated contacts, coin and favour, converted inside a single season into one product — where Xion Valanar would be, and how to reach him. **Nothing was held back and nothing was left running.** Melina assembles the ledger of it afterward and understands, in a way nobody warned her she would, that the thing she spent the crisis hunting had already been sold to buy the thing that nearly worked.
+
+The last remnant of the cartel system's old guard dies with him. House Kemvimore is truly finished — not the name Xion carries (he is Valanar now) but the power structure it once represented.
 
 **For Xion:** His father is dead. The man who trained him, groomed him, executed Mira, unleashed Ronas, got Melina killed, disinherited him, and spent years in exile plotting to kill him — that man died at the end of a spear wielded by a stranger. Xion's feelings about this are complicated and the book should respect that complexity. There is grief, because there was always a father underneath the Lord of the Grain. There is relief, because the threat is finally over. And there is something else — the recognition that Rosik died the way he lived: in motion, pursuing a goal, refusing to stop. Even at the end, he couldn't sit still with the grief.
 
@@ -500,6 +574,52 @@ The portrait in the locked room will never be looked at again.
 The slate is wiped clean. The imperial succession crisis that began with the Rending is permanently resolved. The cartel system's last breath has been exhaled. The ghosts of the original trilogy are laid to rest.
 
 The next generation can build the future instead of managing the past.
+
+### The closing scene, because everything above this line is a conclusion and not one
+
+*(Added 2026-08-02. Act IV as it stood was a summary of consequences — accurate, and not a scene. **"The
+slate is wiped clean" is a true sentence and a bad ending.** It also carries an active hazard: the obvious
+way to dramatise it is a declaration, a ceremony, a speech in which somebody announces that the past is
+over. **Resist that completely.** The bodies have said it. A character saying it as well is the series
+explaining its own theme in dialogue, which the house style forbids and which would be the worst sentence
+in seven books.)*
+
+**End on the after-action briefing.** It is the most ordinary thing available and it is the right one: the
+twins assembling the formal report on the whole affair, for the record, days later, in a room with papers
+in it. The mercenary column, the engagement, the collapse, the death of a claimant, the intruder in the
+palace, the residual contacts and what the audit found. All of it files. It is long and it is dull and
+between them they are extremely good at it.
+
+**And one item will not file.** What their father did in that corridor has to appear in the report,
+because it happened and because a man died at the end of it, and it needs a sentence. **They cannot agree
+on the sentence.**
+
+**Not as an argument.** Neither of them raises their voice and neither of them is being difficult. They
+have each watched the same act with total attention and arrived somewhere the other cannot reach:
+
+- **Tiberian** saw his father do the right thing without hesitating, the way he has believed his father
+  always does, and he has been asking himself since whether he could have done it, and does not know, and
+  has concluded that not knowing is the difference between them. **He is wrong, and nobody corrects him.**
+  The reader has Book 1 and knows this is not a moral achievement but a compulsion assembled at fifteen out
+  of Mira Fen and never once revised. **He is reading a wound as a virtue.**
+- **Melina** saw a man do something with no weighing in it whatsoever — no interval, no decision, no moment
+  where an alternative existed — and she is the one whose near-ruin in Book 6 was discovering that endless
+  weighing is its own cowardice. She cannot make the act mean what her brother needs it to mean, because
+  she watched the part where the choosing was supposed to be and there wasn't any.
+
+**Same act, two children, two irreconcilable lessons.** The family's fault line drawn in one image, in a
+room full of paperwork, with nobody's voice raised. *(This is the beat already settled in `Series Review -
+Master List.md` §2; Act IV is where it lands.)*
+
+**The final image: the line is left out.** They try three versions, none of them survives both readings,
+and in the end the report goes up with the medical fact and no interpretation — *the intruder was brought
+to the Emperor Consort, who attended him; the intruder died.* Which is true, and complete, and contains
+none of it. **The one thing in the entire affair that actually mattered is the one thing that could not be
+filed**, and the two people who will govern the world next put their names to a document that leaves it
+out, and go to dinner.
+
+**Nobody says the past is over.** They have just finished writing it down, badly, which is the only way it
+has ever been done.
 
 ---
 

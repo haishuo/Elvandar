@@ -257,6 +257,69 @@ To the surface world—which knows none of the truth—Lathion remains a knot of
 
 ---
 
+## The Relay: instant communication, and why it must be stated outright
+
+*Added 2026-08-02 on the author's ruling. **This was previously implicit and the implicitness was a
+defect** — a reader (and an outside reader brought in to check the outlines) went through Book 7's whole
+timing sequence without picking it up, because the only trace of it anywhere was the word "communications"
+sitting third in a list of technology tiers in a Gunastran briefing. **The timing of Book 7's climax
+depends entirely on this, so it has to be established loudly and early enough to be load-bearing.***
+
+**Lathion had the equivalent of instantaneous voice-and-signal communication across arbitrary distance,
+and it worked by relay.** Not a single transmitter reaching everywhere — a chain of fixed installations,
+each receiving and re-sending, so that a signal crosses a continent in the time it takes to say it,
+provided the chain is intact. Inside the city itself this connected every waystation and major system
+(`Lathion_ Physical Layout and Geography.md`). It is listed there under what *doesn't* work, and the
+reason given is exact and worth keeping: **the system is fully functional and has nobody to talk to.**
+
+### The Balishan deployment
+
+**This is the third tier of Lathion technology to reach the surface**, after water purification and energy
+— the order Gunastran's Industrial Consortium models in Book 3 ch12, and the tier that turns their problem
+from commercial into existential. Balisha installs relay stations at the **magically warded waystations
+already spaced a day's travel apart along the Golden Path**, which is the single piece of infrastructure in
+the empire that was already a chain of fixed, defended, maintained points at regular intervals across
+otherwise lethal ground. **The road was built for water and shelter and turns out to have been built for
+this.** No new construction is required, which is why it happens fast.
+
+**The in-world name is simply "the relay,"** lowercase, functional — the same species of working name the
+expedition coins for everything else in Lathion (*the Crown*, *the Repository*, *the Gatehouse*). Nobody
+gives it a ceremonial title. People say *it came over the relay* the way they would say *it came by rider*,
+and within a few years they stop noticing that they are describing a miracle.
+
+### The rule the whole thing turns on
+
+**Word is instant. People are not.**
+
+This is the entire strategic content and every book that touches it should keep the two apart:
+
+- A report crosses a hundred miles of desert in no time at all, provided both ends sit on the chain.
+- **A man crosses it in a hard day's ride, and an army in five.**
+- So a commander in the field can be told something the same minute it happens and still be a day away
+  from doing anything about it, and **that gap is a permanent feature of the world**, not a plot device.
+
+**Book 7's climax is that gap.** Kalden dies about a hundred miles east on the Golden Path; Melina knows
+within minutes because the waystation chain runs the length of the road; Tiberian, standing over the body,
+is told what is happening at home and is still a day's ride from home. See `Book 7 - Last Debts/
+book7_outline.md`, "The clock."
+
+### When it exists, which is later than people will assume
+
+**Book 3 has no relay and its couriers are correct.** Ch12 is Gunastran *modelling the deployment* — the
+thing is coming, not built — and everything in that book moves at the speed of a rider: the envoy carrying
+Balisha's refusal north in ch11, Kalden's own fast intelligence outrunning Elara's unhurried ceremonial
+courier in ch16, the Crown's weeks-long journey from the Ivory Tower between ch10 and ch11. **None of that
+is an error and none of it should be "corrected" into relay traffic by a later reader**; the ch16 beat in
+particular *depends* on messages travelling at different speeds by different routes, and the relay would
+destroy it.
+
+**Open question, flagged not resolved:** instantaneous continental communication is a decisive military
+asset, and Book 4 is the Compact War. That book's engine is Gunastran and Erulius striking Uratha
+*specifically to preempt Lathion implementation*, so the relay is presumably partial or nonexistent when
+the war opens — but `book4_outline.md` does not say, and somebody should decide before Book 4 is drafted
+rather than during it. **By Book 7 it is unremarkable and fully built**, which is a span of years and
+plenty of room for whatever answer Book 4 wants.
+
 ## Implications of Rediscovery
 
 ### For Kaha'an

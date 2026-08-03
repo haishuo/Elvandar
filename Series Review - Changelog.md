@@ -4113,3 +4113,160 @@ in italics; bold is single-word stress only. Fixed. The chapter's only bold span
 figures added to beat 8; the no-young-ones observation added to beat 9; beats 19 and 20 rewritten with the
 implementations above) · `book3_chapter_skeleton.md` (ch3 entry) · `Places/Kaha'an/The Tor'anar_ Balisha's
 War-Magic Corps.md` (the ch2 correction) · `Royal Road/` regenerated for Book 3, now four chapters.
+
+---
+
+## 2026-08-02 — Book 7: two outline-level contradictions closed, a clock specified, and Act IV given a scene
+
+Four findings from the author, all against `Book 7 - Last Debts/book7_outline.md`. Two were genuine
+contradictions, one was a legibility problem, one was a missing ending.
+
+### 1. Xion knows he is the target — Act I was right and Act II was wrong
+
+Act I: *"he knows that Rosik's real target isn't the throne or the city. It's him."* Act II: *"He does not
+know he is the target."* Both cannot stand, and the Act I version is the one that survives contact with the
+character — **the one man who has read Rosik his entire life does not miss the most legible thing about
+him.** Requiring him to would be the same class of error as Book 6's *they didn't listen*: a rule-2
+violation bought to make a plot beat easier.
+
+**The correction is not just deleting the sentence, because knowledge that changes nothing is worse than
+no knowledge at all.** So the fix specifies exactly why knowing does not save him, and it turns on the
+second finding below:
+
+- He knows the **shape** and not the method, route, timing or day, and he says so once, plainly, and **is
+  believed.** Nobody in this family doubts him about Rosik.
+- **A warning without a method is not defensible, and Melina is the one who understands why.** You cannot
+  put men around a shape. What you can do is find the apparatus that would have to exist for the shape to
+  become an event — cells, informants, a bought guard — and dismantle it. **So the warning is entirely
+  believed and converts, correctly, into the wrong search.** She hunts an organisation. There is one man.
+- **The actionable version, Xion declines.** A standing detail on the Emperor Consort during an invasion is
+  Arol Batae in a corridor instead of on a wall. He treats that as the wrong allocation, in the flat way he
+  has treated every proposal to spend anything on him since he was fifteen. Elara compresses rather than
+  loses the argument: what she gets is smaller than she wanted, larger than he offered, and not enough.
+  **Write it as a resource decision, not as courage.** The arithmetic is defensible and it kills him.
+- **And Rosik's model includes all of it**, which is the coldest thing in the book. He never needed
+  surprise. **He needed his son to behave like his son** — to see it coming, decline to have the city's
+  defense pointed at his own person, and stay exactly as reachable as an emperor-consort is. He has been
+  reading Xion for twenty-three years; this is the last time, and he is right. **Nobody says any of that
+  aloud and no character works it out on the page.**
+
+This also sharpens Melina's Act II unease into something exact: *"he has nothing"* is indistinguishable
+from *"he has not started yet"* from where she is standing, and only one of those is survivable to assume.
+
+### 2. There is no network to dismantle
+
+The outline establishes in four separate places that Rosik spent the **entire** Kaha'an network buying the
+model — no cells, no informants, no fallback, no way to receive information once inside — and describes it
+as a liquidation rather than a sacrifice, the most Merchant act of his life. Act IV then said *"Rosik's
+network is dismantled. His agents are identified and arrested."* **That aftermath belongs to a different
+version of the book** and would retroactively make the liquidation a lie.
+
+**Replaced with an audit, which is better than what it replaces.** There are residual *contacts* — a clerk
+who sold a duty roster, a mason who confirmed a service stair, a man paid once in cash eighteen months ago
+who has been waiting ever since to find out what for. They are findable precisely because none of it was
+tradecraft: they were **purchases**, and purchases leave receipts. Running them down is accountancy, not
+counterintelligence.
+
+**And the finding is the last confirmation of what he did.** Reconstructed from the far end, thirty years
+of contacts, coin and favour were converted inside a single season into one product. **Melina assembles the
+ledger and understands that the thing she spent the crisis hunting had already been sold to buy the thing
+that nearly worked.**
+
+*(Same error found and fixed in `People/Tiberian Valanar.md`: "Rosik's network is dismantled forever.")*
+
+### 3. The clock, which was sound and invisible
+
+Kalden dies about a hundred miles east; **a relay rider covers that in a hard day.** The causality works
+and is not self-evident, and a reader who cannot do the arithmetic will read Rosik's death as coincidence.
+A new section specifies the four moments the beat drafts must keep legible — contact and the two-minute
+death; what Rosik's model said instead (his window is defined not by the battle but by the period in which
+**no result can possibly have arrived**, roughly two days wide); the report landing early by almost exactly
+the amount the battle was short; and where Rosik is when Melina reads it.
+
+**It is one subtraction and the prose has to let the reader do it.** The staging note: do not build a clock
+as a device — **give the courier a face and give him the road**, once, and let the reader feel that the
+emptiest dispatch in the book is the fastest thing moving in it. **And nobody in the book ever states the
+causality.** Melina never learns what her order interrupted; Rosik never learns what shortened the battle.
+The reader is the only party holding both halves.
+
+*Also corrected: the phrase "four days' communication," which is simply wrong at a hundred miles.*
+
+### 4. Act IV was a conclusion, not a scene
+
+*"The slate is wiped clean"* is a true sentence and a bad ending, and it carries an active hazard — the
+obvious way to dramatise it is a declaration that the past is over, which would be the series explaining
+its own theme in dialogue. **The author's instruction was to resist the ceremonial version, and the
+material for the real one already existed.**
+
+**The book ends on the after-action briefing.** The most ordinary thing available: the twins assembling the
+formal report days later in a room with papers in it. All of it files — the column, the engagement, the
+claimant, the intruder, the audit. **One item will not.** What their father did in that corridor has to
+appear, and it needs a sentence, and they cannot agree on the sentence. Not as an argument; neither of them
+raises their voice.
+
+Tiberian saw his father do the right thing without hesitating and has been asking whether he could have
+done the same. **He is wrong and nobody corrects him** — the reader has Book 1 and knows this is a
+compulsion assembled at fifteen out of Mira Fen, not a moral achievement. **He is reading a wound as a
+virtue.** Melina watched the part where the choosing was supposed to be and there wasn't any, and she is
+the one whose near-ruin in Book 6 was discovering that endless weighing is its own cowardice.
+
+**The final image: the line is left out.** Three versions, none surviving both readings, and the report
+goes up with the medical fact and no interpretation. **The one thing in the whole affair that mattered is
+the one thing that could not be filed** — and the two people who will govern the world next put their names
+to a document that leaves it out, and go to dinner. Nobody says the past is over. They have just finished
+writing it down, badly, which is the only way it has ever been done.
+
+### Files
+
+`Book 7 - Last Debts/book7_outline.md` (Act II's Xion section rewritten; Melina's Act II unease sharpened;
+the Act IV network paragraph replaced with the audit; a new "The clock" section under Kalden's death; a new
+"The closing scene" section closing Act IV) · `People/Tiberian Valanar.md` (the network line, and his
+closing beat). No prose exists for Book 7.
+
+**Superseding correction, same day — the relay is instantaneous, and the implicitness was the real bug.**
+
+The clock section above was first written on a **relay rider** covering a hundred miles in a hard day.
+That is wrong, and the author's ruling supplies the mechanism it was missing: **Lathion had the equivalent
+of instantaneous voice-and-signal communication by relay, and Balisha put the relay stations on the Golden
+Path's waystations.** The road already ran warded, defended, maintained points at one day's interval across
+lethal desert — the exact shape a relay chain needs — so no new construction was required and it happened
+fast.
+
+**The diagnosis matters more than the fix.** The mechanism was not absent from the canon; it was *implicit*
+— one word, "communications," sitting third in a list of technology tiers inside a Gunastran briefing in a
+Book 3 beat draft, with no prose anywhere. **An outside reader went through the whole of Book 7's timing
+sequence and did not pick it up**, which is the operational definition of too implicit, and the reason the
+causality read as coincidence. A thing a whole climax rests on cannot live in a list.
+
+**The rule, now stated in three places and obeyed everywhere: word is instant, people are not.** A signal
+crosses a hundred miles in no time at all. A man crosses it in a hard day's ride and an army in five. **A
+commander can be told something the same minute it happens and still be a day from doing anything about
+it** — and that gap is a permanent feature of the world rather than a plot device.
+
+**What it does to Book 7's clock is simplify it.** There is no courier and no transmission delay, so the
+arithmetic reduces to one subtraction performed on the battle alone: Rosik's window is the period during
+which the road will still be saying *in progress*, he estimates that at most of a day, the road says *over*
+inside the hour, and the result therefore lands early by exactly the amount the fighting was short. **The
+staging note reverses accordingly** — the earlier version said to give the courier a face and give him the
+road, which is now precisely wrong. Stage the **instantaneity**: the report reaching Melina while the dust
+on the Golden Path has not settled, while a hundred miles east her brother is still looking down at a body.
+Two rooms, one moment, a hundred miles apart, and the only thing that crossed was the sentence.
+
+**And it turns Tiberian's helplessness into the point rather than a technicality.** He is told at once and
+it does not help. **He does not arrive late because the news was slow; he arrives late because he is made
+of meat.**
+
+**Recorded in:** `Places/Kaha'an/Lathion_ The Lost City of Gears.md` (new section, "The Relay" — the
+authoritative account, the deployment, the in-world name, and the word/people rule) ·
+`Lathion_ Physical Layout and Geography.md` (the existing *"Communication systems (no one to communicate
+with)"* line annotated — it is not damage, the system works and lacks a second party) · `Book 3 - Crown
+Jewel/Beat Drafts/Chapter 12 - Ruthless Calculus.md` beat 8 and the ch12 skeleton entry (**stated outright
+where the reader acquires it**, with Ondra giving the timeline and letting seven engineers do their own
+arithmetic) · `Book 7 - Last Debts/book7_outline.md` (geography section and the clock rewritten).
+
+**Two deployment notes, so nobody "corrects" the wrong thing later.** **Book 3 has no relay and its
+couriers are right** — ch12 is Gunastran modelling a deployment that has not happened, and ch16's timing
+beat actively *depends* on messages moving at different speeds by different routes; the relay would destroy
+it. **Book 4 is genuinely open**: its engine is the Compact striking to preempt Lathion implementation, so
+the relay is presumably partial or absent at the outbreak, but `book4_outline.md` does not say and it should
+be decided before that book is drafted rather than during it.

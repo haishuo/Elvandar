@@ -154,7 +154,11 @@ Tiberian must apply the strategic patience he learned in Silaris and the decisiv
 
 This is the culmination of his arc: the tiger who learned to wait. Not passive, not cautious, but patient — holding his aggression in reserve until the moment it will be most devastating, then striking with everything he has.
 
-The trilogy concludes with the old order destroyed completely. Kalden's claims to legitimacy die with him. Rosik's network is dismantled forever. The cartel system breathes its last breath. Unlike their parents, who had to compromise with the old order, Tiberian and Melina face no obligations to show mercy — and the slate is wiped clean for the future.
+The trilogy concludes with the old order destroyed completely. Kalden's claims to legitimacy die with him. The cartel system breathes its last breath. Unlike their parents, who had to compromise with the old order, Tiberian and Melina face no obligations to show mercy — and the slate is wiped clean for the future.
+
+*(Corrected 2026-08-02: this previously read "Rosik's network is dismantled forever," which contradicts the four separate places `book7_outline.md` establishes that he spent the entire Kaha'an network buying the model before he ever moved. **There is nothing to dismantle.** What follows is an audit of residual purchases — a clerk who sold a roster, a mason who confirmed a stair — and its finding is that the liquidation was total.)*
+
+**And Tiberian's last beat in the trilogy is not a victory.** It is the after-action briefing, where he and his sister cannot agree on one sentence about what their father did in the corridor — he read it as proof that Xion always knows the right thing and has been asking himself since whether he could have done the same; **she watched the same act and saw no weighing in it at all.** He is wrong, and nobody corrects him, and the reader who has Book 1 knows he is reading a wound as a virtue. The line goes unwritten and the report goes up without it. See `Book 7 - Last Debts/book7_outline.md`, "The closing scene."
 
 ---
 

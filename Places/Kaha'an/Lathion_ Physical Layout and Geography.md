@@ -499,7 +499,7 @@ Still deadly. The security maze functions as designed, killing anyone who enters
 
 **What Doesn't Work:**
 
-* Communication systems (no one to communicate with)  
+* Communication systems (no one to communicate with) — **the entry is precise and should not be read as damage.** The relay is fully functional; what it lacks is a second party. **This is the system Balisha revives and puts on the Golden Path's waystations**, and it is instantaneous over arbitrary distance. See `Lathion_ The Lost City of Gears.md`, "The Relay."  
 * Automated food production (organic components decayed)  
 * Some magical wards (faded over millennia)  
 * External sensors (monitoring surface activity, now non-functional)  
