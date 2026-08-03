@@ -1,4 +1,4 @@
-# Chapter 12: The Scholar's Crown
+# Chapter 11: The Scholar's Crown
 
 **Timeline:** The day after Chapter 10 — Xion and Elara emerged from Lathion in the small hours; Scholar-King Draskin has been waiting in Kaha'an for three days
 **Characters:** Xion, Elara, Scholar-King Leowin Draskin, High Provost Venn; Balisha-side advisors at the table; Farleen in the building

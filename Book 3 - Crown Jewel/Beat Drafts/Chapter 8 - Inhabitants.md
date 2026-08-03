@@ -1,4 +1,4 @@
-# Chapter 9: Inhabitants
+# Chapter 8: Inhabitants
 
 **Timeline:** First days inside Lathion, immediately following Chapter 7
 **Characters:** Xion, Elara, Farleen, Engineer Kaiden Voss, the Urathan scholars, the Arol Batae detail and the three-mage Tor'anar detachment

@@ -1,4 +1,4 @@
-# Chapter 13: Awakening
+# Chapter 12: Awakening
 
 **Timeline:** The ceremony — weeks after the Chapter 11 agreement, once the Crown has completed its journey from the Ivory Tower to Kaha'an. **The cold open is the same week**, and the two events are reported north together.
 **Characters:** Xion, Elara, a Gunastran envoy (cold open), assembled court, Urathan delegation

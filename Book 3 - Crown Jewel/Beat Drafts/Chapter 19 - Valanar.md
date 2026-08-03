@@ -1,4 +1,4 @@
-# Chapter 20: Valanar
+# Chapter 19: Valanar
 
 **Timeline:** Return to Balisha
 **Characters:** Xion, Elara, court, Farleen, friends

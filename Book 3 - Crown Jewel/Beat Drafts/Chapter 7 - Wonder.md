@@ -1,4 +1,4 @@
-# Chapter 8: Wonder
+# Chapter 7: Wonder
 
 **Timeline:** Weeks after the Brass Door expedition is assembled — back at the base camp outside the Door
 **Characters:** Xion, Elara, Urathan scholars, Farleen, expedition team — which includes an **Arol Batae** detail and a three-mage **Tor'anar** detachment, neither named nor foregrounded (see footer)
@@ -49,7 +49,7 @@
 
 20. The lead scholar sits down. Slowly, on the nearest surface. Not dramatically. Just because his legs have made a decision.
 
-21. Farleen finds his hand in the dark. No words. They stand together looking at the shaft, at the slow impossible drift of the city turning below them. She is here because he is here — full stop. This is the chapter's quiet acknowledgment of that: wordless, simple, entirely about the person standing next to her.
+21. Farleen finds his hand. No words. They stand together looking at the shaft, at the slow impossible drift of the city turning below them. She is here because he is here — full stop. This is the chapter's quiet acknowledgment of that: wordless, simple, entirely about the person standing next to her.
 
 22. The moment holds. A city, lit from within. Still turning. Five thousand years old, still running. No name for it. No word any of them know that fits what they are looking at. That is all. That is everything.
 
@@ -68,6 +68,8 @@
 **The Elara-scholar dynamic:** The disagreement-and-triangulation sequence establishes the collaborative model that will govern the Lathion work going forward. Neither Elara's intuition nor Urathan scholarship is sufficient alone. Both are necessary. The reader needs to see this working before the complications begin — because when the scholarship and the intuition start pointing in different directions under pressure, later, the reader will understand why that's frightening.
 
 **On who else is standing there.** The expedition includes an **Arol Batae** detail and the **three-mage Tor'anar detachment** granted in Chapter 3. The reader has met both and knows exactly why they are here, so nothing needs establishing — **the Arol Batae protect her body, the Tor'anar supervise the Urathans' magical conduct**, and the second of those was requested by the Tor'anar themselves in the same breath as they recommended bringing the Urathans in.
+
+**Amended 2026-08-03, when ch6 was written and the chapter was re-read against it.** Four things changed and none touched the chapter's emotion. **The chamber is not cramped** — B3 ch2 puts the ceiling *forty meters up* and ch6 builds a plank-floored camp in it, so the original *"cramped, the ceiling low"* contradicted the two chapters on either side; the Door is now dwarfed by the room and still dominates it, which is better. **Elara is Empress of Balisha, not of Kaha'an** — a straight breach of the locked terminology, present since the first draft. **Farleen does not find his hand *in the dark*** — the chapter spends thirty lines establishing sourceless light and no shadows, and then contradicted itself in its own best beat. And **her introduction lost the line about not being a soldier in the formal sense**, which existed to imply the Arol Batae and Tor'anar were in the passage; ch6 now puts them there by name, so the implication is redundant.
 
 **This changes nothing in the chapter and must not.** `Chapters/Chapter 7 - Wonder.md` needs no revision on this point, because the prose never enumerates the expedition and repeatedly gestures past the named characters — *"People checked their lamps," "The scholars were completely silent. So was everyone else"* — and describes Farleen as **"not a scholar and not a soldier in the formal sense,"** which already implies soldiers in the formal sense are in the passage. The detachment is background, and in a chapter built for undiluted wonder it stays background. **Do not give either institution a line here.** Their presence is a fact the later chapters can draw on, not a beat this one owes anybody.
 

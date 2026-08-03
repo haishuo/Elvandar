@@ -1,4 +1,4 @@
-# Chapter 18: The Compact
+# Chapter 17: The Compact
 
 **Timeline:** The days of waiting after Kalden's proposal was carried to Kaha'an — during which he secures Vartonne — and their end: the evening the refusal finally arrives.
 **Characters:** Kalden Erulius (full POV), a Vartonnen envoy, senior advisor (unnamed), spymaster

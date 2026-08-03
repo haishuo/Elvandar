@@ -5935,3 +5935,62 @@ skeleton entry both amended in the same commit, including a standing note that t
 named in the closing beat.
 
 5,494 → 5,443 words.
+
+## 2026-08-03 — *Wonder* re-read against ch6, and a renumber bug found in the process
+
+**Author's instruction after ch6 landed: re-read ch7 and change it if the seam needs it.** It did, and the
+re-read also turned up two errors that had been in the chapter since it was written and had survived every
+previous pass because nobody had been permitted to look at it hard.
+
+### The contradiction the new chapter exposed
+
+Ch7 described the Door's chamber as *"cramped, the ceiling low."* **B3 ch2 puts the ceiling forty meters
+up** — *"the blue light moving very faintly on the ceiling forty meters up"* — and ch6 now builds a
+plank-floored camp in the same room with lamps on standards and months of provisioning. Ch7 was
+contradicting the chapters on both sides of it. **The corrected version is better than the original**: the
+Door is now dwarfed by the room and still dominates it, with the forty meters of unreached dark overhead
+and the Long Knives' blade-marks on the walls doing the work that *cramped* was doing badly.
+
+### Two errors that had nothing to do with the seam
+
+**Elara was crowned "Empress of Kaha'an."** A flat breach of the locked terminology — *Kaha'an is the
+capital city, Balisha is the state* — sitting in the chapter's biggest sentence, the one where she opens
+the Door.
+
+**And Farleen found his hand *"in the dark."*** The chapter spends thirty lines establishing that the light
+is sourceless and there are no shadows — *"He looked at his own hands. Nothing."* — and then, three
+paragraphs later, put its best beat in a darkness the chapter had just abolished. **Inherited verbatim from
+the beat draft**, which wrote it before the no-shadows material existed and was never re-checked against
+it. Both fixed; both were invisible for as long as the chapter was treated as untouchable.
+
+**Farleen's introduction also lost a sentence** — *not a scholar and not a soldier in the formal sense* —
+which existed to imply the Arol Batae and Tor'anar were present. Ch6 now puts them in the passage by name,
+so the implication is redundant.
+
+### The timeline could not hold ch7 in one week
+
+The table gave *Wonder* wk 12–13. Its own prose gives *"weeks"* of work, a disagreement on **the
+fourteenth day**, and two further days of impasse. Ch7 now runs **wk 12–15** and ch8–10 runs **wk 15–19**.
+
+**Which broke a pinned birthday, and the fix is worth stating as a principle.** Xion's pin was Book 3's
+wk 13 — derived from the table that gave ch7 a single week — and the corrected span put wk 13 at the Door
+rather than inside Lathion. **The author's ruling was never a week number.** It was *turns 24 inside
+Lathion, and nobody mentions it including him.* So the number moved to preserve the ruling instead of the
+ruling bending to the number: **wk 51 overall, Book 3's wk 16**, comfortably inside the exploration, still
+late autumn. **A derived value that contradicts the intent it was derived from is the derived value's
+problem.**
+
+### And a renumber bug of my own, caught by accident
+
+**Thirteen beat-draft headers read one chapter too high** — `Chapter 7 - Wonder.md` opened *"# Chapter 8:
+Wonder."* Cause: on 2026-08-03 the headers were corrected first, and then the body-bump script was run
+across the whole file, which matched the freshly-corrected headers and incremented them a second time.
+**`Chapter 20 - First Strike.md` was the tell** — it alone was right, because 20 fell outside the script's
+6–19 window and could not be bumped twice.
+
+**The verification that missed it ran at the wrong moment.** The header loop was checked immediately after
+the header loop, and passed; the bump ran afterward and broke what had just been verified. **Verify after
+the last write that can touch a thing, not after the write you happened to be thinking about.** Bodies were
+only bumped once and are correct — spot-checked against three known-good references.
+
+*Wonder* is 2,998 words, essentially unchanged in length. Nothing touched its emotion.

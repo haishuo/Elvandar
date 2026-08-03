@@ -1,4 +1,4 @@
-# Chapter 10: The Repository
+# Chapter 9: The Repository
 
 **Timeline:** Days after Chapter 8 — the expedition has settled into the rhythm of working in Lathion, and begins descending past the Crown
 **Characters:** Xion, Elara, Engineer Kaiden Voss, the Urathan scholars (treated as a contingent rather than singled out by name); Farleen at the camp; the Arol Batae detail and the Tor'anar detachment present throughout

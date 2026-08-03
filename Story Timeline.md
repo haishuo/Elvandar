@@ -101,8 +101,8 @@ derived from the timing lines in the beat drafts and `book3_chapter_skeleton.md`
 | Ch4 Negotiations | Wk 2–5 | planning, the Gunastran delegation, and the return |
 | Ch5 Hubris | Wk 6–10 | the journey to Uratha and the treaty |
 | Ch6 Fair Price | Wk 10–12 | the return, and buying months of Slaver-held shafts |
-| Ch7 Wonder | Wk 12–13 | the Door opens |
-| Ch8–10 Lathion | Wk 13–19 | *"they have been exploring for weeks"* |
+| Ch7 Wonder | Wk 12–15 | *"the fourteenth day"* + two days' impasse; the Door opens at the end |
+| Ch8–10 Lathion | Wk 15–19 | *"they have been exploring for weeks"* |
 | Ch11 The Scholar's Crown | Wk 19 | **the day after** ch10 |
 | Ch12 Awakening | Wk 23–24 | the Crown's journey from the Ivory Tower is the gap |
 | Ch13 Ruthless Calculus | Wk 25 | |
@@ -147,8 +147,16 @@ Weeks are counted from **Book 1 ch1 = week 0** (Book 1 opens in **winter** — t
 
 | | Born | Birthday falls | Result |
 |---|---|---|---|
-| **Xion** | **late autumn, 1021 BR** | wk **48** — Book 3's wk 13 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Lathion**, during the ch8–10 exploration. Marries at 24 in ch19. |
+| **Xion** | **late autumn, 1021 BR** | wk **51** — Book 3's wk 16 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Lathion**, during the ch8–10 exploration. Marries at 24 in ch19. |
 | **Elara** | **summer, 1024 BR** | wk **24** — mid-Book 2 | 20 for all of Book 1, **crowned at 20**; 21 from mid-Book 2 onward, and 21 for all of Book 3. Marries at 21. |
+
+**Corrected 2026-08-03 — the ruling stands, the arithmetic under it did not.** The pin was originally
+Book 3's wk 13, derived from a table that gave ch7 a single week. Ch7's own prose does not fit in a week:
+*"the fourteenth day"*, two further days of impasse, and *"weeks"* of work before either. Ch7 therefore
+runs wk 12–15 and Lathion is not entered until the end of it, which put wk 13 at the Door rather than
+inside the city. **The author's ruling was never a week number — it was *turns 24 inside Lathion, with
+nobody mentioning it including him*** — so the week moved to preserve it rather than the reverse. Wk 51
+overall, Book 3's wk 16, comfortably inside the ch8–10 exploration. Late autumn still holds.
 
 **Nothing marks either occasion and no chapter states an age.** Xion turning 24 four hundred metres under
 the desert in a city that has been empty for twenty years, with nobody mentioning it including him, is

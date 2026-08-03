@@ -1,4 +1,4 @@
-# Chapter 17: Good Faith
+# Chapter 16: Good Faith
 
 **Timeline:** The window between Elara's rejection of Kalden's proposal being dispatched and its arrival
 **Characters:** Xion, Elara, Vartonne's envoy
