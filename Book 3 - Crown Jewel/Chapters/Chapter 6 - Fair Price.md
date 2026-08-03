@@ -88,7 +88,7 @@ Xion looked at the sheet, and then at Kael, and had the odd small experience of 
 
 In the winter, in this building, on the day the office was created, Kael had leaned forward in the middle of everything else and asked how deep the corridor ran and whether it would take a cart. Xion had not been able to answer either question. He had thought at the time they were strange things to want to know.
 
-"You've been working this since Scars," he said.
+"You've been at this since the day they gave me the office," he said.
 
 "Somebody was going to have to." Kael did not look up. "It was always going to be the boring part that stopped us."
 

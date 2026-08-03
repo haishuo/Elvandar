@@ -5678,3 +5678,31 @@ neither of them spends her.
 
 **Length: 5,050 words**, between ch5 (5,382) and ch2 (4,703), which is where a chapter of this function
 belongs. Royal Road regenerated — seven files.
+
+### And then the author found a chapter title in the dialogue
+
+**Caught immediately after the commit above, which had reported the meta-term check clean.**
+
+> *"You've been working this since Scars," he said.*
+
+Xion naming a chapter out loud, in dialogue, to Kael. **The check that exists precisely to prevent this
+passed it**, because it greps for the *words* `Book`, `Act`, `Chapter` and `ch`, and *Scars* is none of
+those. The rule was in `CLAUDE.md` the whole time — no meta terms in the narration — and the check
+implemented the letter of it and missed the thing itself. Replaced with *"You've been at this since the
+day they gave me the office"*, which is what he means and is also more specific.
+
+**The generalisation, and it is the reason this is worth an entry.** A check written against the examples
+of a rule will pass anything the examples did not anticipate. The meta-term grep was built from the
+instances that had been caught before — an *Act* here, a *Chapter* there — and it hardened around those
+instead of around the rule. **Chapter titles are the obvious second family of meta-reference and nobody
+had thought of them**, including whoever wrote the check, twice.
+
+**The check is now the full sweep it should always have been**: every chapter filename in every book,
+matched against every chapter's prose. Ordinary-English titles (*Wonder*, *Inheritance*, *Don't.*,
+*Father*, *Melina*, *Outside*, *Poison*, *Negotiations*, *Hubris*, *Awakening*, *Crossroads*, *Valanar*,
+*Fine*) are excluded or read past by eye, since they will fire constantly and legitimately. Run across
+Books 1–3 it returned exactly one true positive, the one above. `The Slaver King` in B3 ch1 is Ronas's
+actual epithet and stays; both `Scholar's Crown` hits in ch6 are the artifact.
+
+**Add it to the pre-commit set** alongside the six-gram repeat sweep, the casting-balance check and the
+bare-negation check.
