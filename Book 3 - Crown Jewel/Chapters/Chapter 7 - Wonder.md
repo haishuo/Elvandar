@@ -1,18 +1,6 @@
-The camp went in over nine days.
+They came down on a grey morning and forgot the weather inside a minute.
 
-Vesk took it down in three loads with the Arol Batae detail walking the shafts, and Sa Ko's timber came down behind them, and her iron behind that, and the platforms went up at the foot of Dead Man's Passage in a chamber that had held nothing but blade-marks and dust for longer than the Balishan Empire had existed. The Long Knives took their positions front and back on every load exactly as they had said they would, and took nothing for it, because the Mistress had been paid in the summer in a story and considered the account current.
-
-The three Tor'anar arrived on the fourth day, in middle age, with no young ones behind them, and asked where they should stand.
-
-Farleen was on the manifest. She had been on the manifest since the morning it was drawn, in nobody's column, and the quartermaster had long ago stopped asking what to write beside her name.
-
-By the ninth day there was standing light in that chamber, which there had never been — lamps on standards that never came near the ceiling forty meters up, a plank floor, a table with the surveyor's eleven pages weighted down on it, and the Door at the end of it all, five meters by three, doing what it had been doing since before anyone had a word for any of this, which was nothing.
-
----
-
-The Urathans came down on the tenth morning and forgot the weather inside a minute.
-
-That was the first thing Xion learned about them. He had gone up to the third tier to meet them out of courtesy, and walked back down beside a woman who explained the difference between two schools of transcription with real warmth for about four hundred meters, and then stopped talking in the middle of a clause, because the passage had opened out and the Door was in front of her.
+That was the first thing Xion learned about Urathan scholars. He had gone up to the third tier to meet them out of courtesy, and walked back down beside a woman who explained the difference between two schools of transcription with real warmth for about four hundred meters, and then stopped talking in the middle of a clause, because the passage had opened out and there was forty meters of dark over their heads and the Door was in the far wall.
 
 She did not finish the sentence. She never came back to it. Later that day Xion watched a junior scholar walk into a crate he had been looking directly at, and be steered around it by a colleague who was also not looking where she was going, the two of them navigating by some sense that was plainly not sight.
 
@@ -62,11 +50,11 @@ People checked lamps that did not need checking. Positions were confirmed that e
 
 The scholars had their notebooks open. Farleen had put herself near the mouth of the passage in a way that was not obviously anything. Elara stood in front of the Door for a while, looking at it.
 
-Not the scholars. Not twelve of them with four centuries of manuscripts between them, and not Xion, and not anyone else the crown had paid to be down here. A girl raised in an Arol Batae compound, who had spent years going after things nobody had told her to want.
+Not the scholars. Not eleven of them with four centuries of manuscripts between them, and not Xion, and not anyone else the crown had paid to be down here. A girl raised in an Arol Batae compound, who had spent years going after things nobody had told her to want.
 
 Then she began.
 
-He could not have described what she did to anybody who had not been standing there. She touched points on the surface in an order. She spoke, briefly and quietly, in something that was not a language he knew and that she had not been able to tell him she knew either, when he had asked. She performed a sequence that had taken nineteen days and twelve people to assemble, without the notes, without checking, without the particular carefulness of somebody doing a thing they have learned.
+He could not have described what she did to anybody who had not been standing there. She touched points on the surface in an order. She spoke, briefly and quietly, in something that was not a language he knew and that she had not been able to tell him she knew either, when he had asked. She performed a sequence that had taken nineteen days and eleven people to assemble, without the notes, without checking, without the particular carefulness of somebody doing a thing they have learned.
 
 She did it the way you do something you have always known.
 
@@ -86,7 +74,7 @@ Light came through the widening edge.
 
 Blue. Perfectly steady. It did not flicker, because nothing in it was burning. It had been making that exact color in a sealed chamber since before anyone's grandparents' grandparents, and it did not know it was supposed to have gone out. The gap widened and the light came out across the plank floor and up the walls and over the faces of everybody standing there, and it was wrong for underground and wrong for night and wrong for anything Xion had a word for.
 
-Not one of twelve scholars said anything at all.
+Not one of eleven scholars said anything at all.
 
 ---
 
@@ -112,7 +100,7 @@ He held it there. Then he turned round and looked at Elara.
 
 "The air is fresh," he said.
 
-Not stale. Not sour. Not the flat dead stillness of a sealed space. Moving air, coming from somewhere and going somewhere. Something had been drawing breath through this place the entire time it had been shut, and had never once stopped, and was doing it now with twelve Urathan scholars standing in the doorway.
+Not stale. Not sour. Not the flat dead stillness of a sealed space. Moving air, coming from somewhere and going somewhere. Something had been drawing breath through this place the entire time it had been shut, and had never once stopped, and was doing it now with eleven Urathan scholars standing in the doorway.
 
 Xion put the thought together carefully, the way he assembled thoughts that had to be right.
 
