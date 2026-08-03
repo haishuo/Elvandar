@@ -1,8 +1,8 @@
 They came down on a grey morning and forgot the weather inside a minute.
 
-That was the first thing Xion learned about Urathan scholars. He had gone up to the third tier to meet them out of courtesy, and walked back down beside a woman who explained the difference between two schools of transcription with real warmth for about four hundred meters, and then stopped talking in the middle of a clause, because the passage had opened out and there was forty meters of dark over their heads and the Door was in the far wall.
+That was the first thing Xion learned about Urathan scholars. He had gone up to the third tier to meet them out of courtesy, and walked back down beside a man who explained the difference between two schools of transcription with real warmth for about four hundred meters, and then stopped talking in the middle of a clause, because the passage had opened out and there was forty meters of dark over their heads and the Door was in the far wall.
 
-She did not finish the sentence. She never came back to it. Later that day Xion watched a junior scholar walk into a crate he had been looking directly at, and be steered around it by a colleague who was also not looking where she was going, the two of them navigating by some sense that was plainly not sight.
+He did not finish the sentence. He never came back to it. Later that day Xion watched a junior scholar walk into a crate he had been looking directly at, and be steered around it by a colleague who was also not looking where he was going, the two of them navigating by some sense that was plainly not sight.
 
 They had come prepared to work. Glass-fronted cases, reference stands that unfolded on articulated brass joints, instruments Xion had no names for — every item of it carried down four hundred meters on the backs of men the crown was now paying by the day for the privilege. They had not come prepared for the size of it.
 

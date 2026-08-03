@@ -6144,3 +6144,42 @@ the Amber Palace, or Elara's royal trait firing during one of Farleen's scenes.
 `B1 Chapters/Chapter 3, 13, 14, 16, 25` · `B2 Chapters/Chapter 2` · `B1 Beat Drafts/Chapter 13, 16` ·
 `B3 Beat Drafts/Chapter 19, 20` · `People/Farleen Darfi.md` · `Series Review - Master List.md` §5 ·
 Royal Road regenerated.
+
+## 2026-08-03 — Unnamed NPCs default to male. Author's ruling.
+
+**The catch:** ch7's first two paragraphs introduced two walk-on scholars and made both of them women —
+*"a woman who explained the difference between two schools of transcription"* and *"a colleague who was
+also not looking where she was going."* Neither is named. Neither has a sheet.
+
+**This is the second time in one session.** B3 ch3's battle-mage and ch4's consortium factor were both
+switched to male after exactly this note, on the finding that the four characterised roles in those
+chapters were all female and the four functionaries all male. **The correction did not hold.** Author:
+*"you have an anti-male bias that makes it even harder for me to maintain a balance."*
+
+**The ruling, now in `CLAUDE.md` §4 and `AGENTS.md`:** every unnamed NPC is male unless the author has
+specified otherwise. Porters, clerks, guards, escorts, functionaries, junior scholars. **And the corollary
+matters as much as the rule: do not "balance" a scene by inventing women in it.** Adding a female walk-on
+because a passage reads male-heavy is the same bias re-entering through the front door. If a scene wants a
+woman, propose her and give the reason — specification is the only route in.
+
+**Named characters are unaffected**, and one of them is a standing error: **Sa Ko Ren is female.** She has
+been written as male more than once. The Coterie is Rosik (m), Ronas (m), Tania (f), Sa Ko (f).
+
+### The audit, because a rule without a baseline is a guess
+
+Swept Books 3's seven chapters for unnamed female NPCs. Most hits were false positives — similes about
+Elara, and named characters caught by the pattern (**Mereth** the History Provost in ch5 is named two lines
+after the sapphire-blue description; ch2's *"tone of a woman filing something"* is the Mistress, whose
+guild's head is female by canon). **Three genuine cases remain and none were changed**, because they are
+the author's calls rather than mine:
+
+- **ch2 — the Long Knife guide**, *"a woman of about forty with a face nobody would remember an hour
+  later."* Weakest case for changing: the Long Knives are led by the **Mistress**, so female operatives in
+  that guild are arguably specified by the institution already.
+- **ch5 — the woman refilling the jug.** This is a deliberate authored beat — *"he was the only one at that
+  table who had noticed her at all"* — about service staff being invisible. The gender is not load-bearing
+  but the beat is, and it was written on purpose.
+- **ch6 — the patient with the crooked hand.** Written the same day, no dependencies, and the clearest
+  drift case of the three. Cheapest to change if wanted.
+
+**Two fixed in ch7. Rule recorded. Baseline recorded.**

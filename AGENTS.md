@@ -166,6 +166,30 @@ These live in full in `People/`. The load-bearing ones:
 
 ---
 
+### Unnamed NPCs default to male — author's ruling, 2026-08-03
+
+**Every unnamed walk-on is male unless the author has specified otherwise.** Porters, clerks, guards,
+escorts, functionaries, junior scholars, the woman at the crate, the man who sells the shafts — if the
+character has no name and no sheet, write him as a man.
+
+**This is a corrective, not a preference about the world.** The reason it exists is measurable: left to
+itself the drafting skews female on unnamed characters, repeatedly, after being corrected. B3 ch3's
+battle-mage and ch4's consortium factor were both made male after exactly this note, and three weeks later
+ch7 arrived with an all-female pair of walk-on scholars in its first two paragraphs. **The author cannot
+maintain a deliberate balance while the default drifts underneath him**, so the default is now fixed and
+the exceptions are his to place.
+
+**How to apply it.** Do not "balance" a scene by inventing women in it. Do not add a female NPC because a
+passage feels male-heavy. **Write the default, and if a scene genuinely wants a woman in it, propose her
+and say why** — then she gets specified, and specified is the only way a female walk-on enters the books.
+
+**Named and sheeted characters are unaffected.** The Coterie is Rosik (m), Ronas (m), Tania (f), **Sa Ko
+Ren (f)** — and Sa Ko in particular is a recurring error: she is the Iron Lady, she/her, and she has been
+called male more than once. Check `People/Sa Ko Ren.md` before writing a line of her.
+
+**Similes and figures of speech are out of scope.** *"With no more ceremony than a woman checking whether
+a pan was hot"* describes Elara and is not a walk-on.
+
 ## 5. Working practice
 
 **Propose before applying, for anything structural.** Bring the specific scene, the proposed
