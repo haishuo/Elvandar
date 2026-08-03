@@ -100,20 +100,25 @@ derived from the timing lines in the beat drafts and `book3_chapter_skeleton.md`
 | Ch3 Storm-Line | Wk 1–2 | |
 | Ch4 Negotiations | Wk 2–5 | planning, the Gunastran delegation, and the return |
 | Ch5 Hubris | Wk 6–10 | the journey to Uratha and the treaty |
-| Ch6 Wonder | Wk 12–13 | the Door opens |
-| Ch7–9 Lathion | Wk 13–19 | *"they have been exploring for weeks"* |
-| Ch10 The Scholar's Crown | Wk 19 | **the day after** ch9 |
-| Ch11 Awakening | Wk 23–24 | the Crown's journey from the Ivory Tower is the gap |
-| Ch12 Ruthless Calculus | Wk 25 | |
-| Ch13–16 | Wk 25–27 | proposal, choice, Vartonne, the Compact |
-| Ch17 A Warrior's Heart | Wk 28–32 | the Terinok mission |
-| Ch18 Valanar | Wk 33 | |
-| Ch19 First Strike | Wk 34 | |
+| Ch6 Fair Price | Wk 10–12 | the return, and buying months of Slaver-held shafts |
+| Ch7 Wonder | Wk 12–13 | the Door opens |
+| Ch8–10 Lathion | Wk 13–19 | *"they have been exploring for weeks"* |
+| Ch11 The Scholar's Crown | Wk 19 | **the day after** ch10 |
+| Ch12 Awakening | Wk 23–24 | the Crown's journey from the Ivory Tower is the gap |
+| Ch13 Ruthless Calculus | Wk 25 | |
+| Ch14–17 | Wk 25–27 | proposal, choice, Vartonne, the Compact |
+| Ch18 A Warrior's Heart | Wk 28–32 | the Terinok mission |
+| Ch19 Valanar | Wk 33 | |
+| Ch20 First Strike | Wk 34 | |
 
-**The two long gaps are load-bearing and neither is arbitrary.** Ch5→ch6 is a continental round trip plus
-the Urathan contingent's own journey. Ch10→ch11 is the Crown physically travelling from the Ivory Tower,
-which ch10 beat 22 makes explicit — *Draskin did not presume to bring it.* Compress either and something
-on the page breaks.
+**One long gap is left, and it is load-bearing.** Ch11→ch12 is the Crown physically travelling from the
+Ivory Tower, which ch11 beat 22 makes explicit — *Draskin did not presume to bring it.* Compress it and
+something on the page breaks.
+
+**The other gap used to be ch5→ch6, and as of 2026-08-03 it is a chapter.** The continental return and
+the three weeks of buying a supply line are now ch6 *Fair Price*, which is why ch7 can open on Urathans
+walking into a camp that is already standing. The jump straight from a passage in Uratha to the floor in
+front of the Brass Door was the whiplash that produced the chapter.
 
 ### What this does to the running total — **and the one thing it needs a ruling on**
 
@@ -123,7 +128,7 @@ Elara in the market square.
 
 **The months-never-years rule survives this and should not be over-applied.** Nothing in the span is
 *years*, and *"years ago"* remains wrong everywhere inside Books 1–3. But by the back half of Book 3 a
-character can truthfully say *a year ago* about Book 1, and by ch19 the coronation is the better part of a
+character can truthfully say *a year ago* about Book 1, and by ch20 the coronation is the better part of a
 year behind them. **Check the week number before writing any interval, in either direction** — the failure
 mode this rule exists to prevent was inflation, and the opposite error is now equally available.
 
@@ -142,7 +147,7 @@ Weeks are counted from **Book 1 ch1 = week 0** (Book 1 opens in **winter** — t
 
 | | Born | Birthday falls | Result |
 |---|---|---|---|
-| **Xion** | **late autumn, 1021 BR** | wk **48** — Book 3's wk 13 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Lathion**, during the ch7–9 exploration. Marries at 24 in ch18. |
+| **Xion** | **late autumn, 1021 BR** | wk **48** — Book 3's wk 13 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Lathion**, during the ch8–10 exploration. Marries at 24 in ch19. |
 | **Elara** | **summer, 1024 BR** | wk **24** — mid-Book 2 | 20 for all of Book 1, **crowned at 20**; 21 from mid-Book 2 onward, and 21 for all of Book 3. Marries at 21. |
 
 **Nothing marks either occasion and no chapter states an age.** Xion turning 24 four hundred metres under

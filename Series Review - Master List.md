@@ -23,10 +23,15 @@ them before it is proposed against the prose.
 | **Rule 3** — single-emotion integrity | 0 | — |
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
+| **Book 3 — in draft** | 2 | ch6 beat draft in progress; `_WORKING_NOTES.md` to salvage and delete |
 | **Open questions** | 0 | — |
 
-**Nothing outstanding in either book.** Every item ever filed against Books 1 and 2 is closed,
-withdrawn, or applied.
+**Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
+withdrawn, or applied. Book 3 is live work rather than review findings — see [§3](#3-outstanding-work).
+
+**Book 3 is 20 chapters as of 2026-08-03**, not 19. `Chapter 6 - Fair Price` was inserted between
+*Hubris* and *Wonder* to carry the return from Uratha and the purchase of a supply line into the Warrens;
+everything from *Wonder* down shifted by one, and *Wonder* is now **ch7**. Prose exists for ch1–5 and ch7.
 
 **Before flagging anything here as outstanding, check the history.** This document has now produced
 more stale entries than live ones. Eight of the original eleven Book 1 craft flags were stale — the
@@ -87,6 +92,14 @@ These are the spine. Each is already working; each could be broken by an unwary 
 *(A fourth instance was written into B3 ch4's closing beat on 2026-08-02 — *"an interesting thing to feel in a room, at a table, with clean hands"* — and cleared here on the argument that it inverted the image rather than repeating it. **The whole closing beat was then cut the same day** as summary, and the fourth instance went with it. **Three remains the shape**, and the standing note stands: do not add a fourth without a reason written down here first.)*
 
 **Frozen silence → chosen silence.** B1 ch1: rooted to the paving stones while Tam is taken, because acting means saying his own name. → B1 ch8: Elara asks him at the gate why he didn't, and *"nothing came out of it. The same nothing, arriving in the same order."* → B1 ch19: Farleen argues him down a maze in five stages and he answers none of them. → B2 ch16: he refuses Rosik the argument, and the text distinguishes the two explicitly. **This is the arc, and it spans two books.** Book 1 not closing it is correct.
+
+**The Warrens chair.** B1 ch1: Xion frozen while Tam is taken. → B3 ch1: he asks that the council's first
+sitting be about the Warrens, *"because there was a chair in this room that nobody was sitting in and it
+was going to stay empty until somebody went down there and asked."* → B3 ch3: deferred, and nobody argues,
+because *the Warrens will keep.* → **B3 ch6: he goes down and asks, and the chair is granted as the price
+of a right of way** — the one thing he said it must never be. **Book 4 inherits a seated Warrens that was
+seated for the wrong reason**, and nothing in Book 3 tells him so. Do not let a character deliver that
+verdict to his face; it is the same failure mode as telling him he became his father (see [§6](#6-settled-rulings)).
 
 **The test, for any silence not yet written.** Put the best available defence to him and see whether he takes it.
 
@@ -397,6 +410,23 @@ on 2026-07-29.
 **None outstanding, and empty for the first time.** C-12 through C-15 were re-verified and closed;
 C-26, C-27 and C-28 were opened in their place and all three are applied — see
 [§6](#6-settled-rulings).
+
+### Book 3 — in draft
+
+These are live work, not review findings against finished prose.
+
+**B3-1 — `Chapter 6 - Fair Price` beat draft.** The skeleton entry is written and signed off; the beat
+draft is the next unit of work, and prose follows it. Four constraints came out of the design discussion
+and all four are recorded in the skeleton entry: the Ronas-sells-access / Mistress-sells-presence
+distinction has to be stated plainly once, because **the author wrote ch2's *"Dermir owns him"* and still
+misremembered the lieutenant as a Long Knife**; Farleen argues *for* the Knives and is the one who
+disproves it; Xion goes to the Iron Hall and Elara does not; and neither man says Melina's name.
+
+**B3-2 — `Book 3 - Crown Jewel/_WORKING_NOTES.md` is stale and banner-flagged.** Its table claims 18
+chapters and calls *Negotiations* ch3; it predates the 2026-08-01 Storm-Line insertion and is now two
+behind. Deliberately not renumbered. **Salvage first, then delete**: the political-arc walkthrough, the
+*assume → name → dismiss → confirm* structure of the exploration arc, and the 5,000-year language pass
+may not be recorded anywhere else. The file self-identifies as temporary; deletion is the author's call.
 
 ---
 

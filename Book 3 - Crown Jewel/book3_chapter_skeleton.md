@@ -2,7 +2,7 @@
 
 **Narrative Engine:** Balisha's treasury is nearly depleted from the shadow war in Book 2. Xion distributed the stolen shadow funds to rebuild districts Ronas destroyed and compensate victims — morally right, practically ruinous. The kingdom needs money, resources, or something of extraordinary value, fast.
 
-**POV:** Primarily Xion, with deliberate cuts away for scenes he can't witness (Gunastran Consortium in Ch12, Kalden in Ch16). Same principle as Book 2: minimize POV breaks, make them count when they happen.
+**POV:** Primarily Xion, with deliberate cuts away for scenes he can't witness (Gunastran Consortium in Ch13, Kalden in Ch17). Same principle as Book 2: minimize POV breaks, make them count when they happen.
 
 **Opens:** Shortly after Book 2's conclusion. Weeks, not months. The scars are fresh. Melina is recent. The disinheritance is raw. The hollow victory is the air Xion breathes.
 
@@ -48,7 +48,7 @@ Elara has wanted to investigate the Brass Door since Book 1 — it responded to 
 
 Elara approaches the door and puts her hand on it, and the whole symbol field lights in sequence and the mechanism comes awake under everyone's boots. But it won't open — it completes a cycle of nine or ten minutes and starts again, which is what a machine does when it is waiting for an input nobody has given it. She works it for two hours, as a soldier works an opponent, and gets nowhere. Xion diagnoses it with the only instrument he has: a severed cord, where the reflex is perfect and will never again answer the man it belongs to, because the road between them was cut. **The recognition is intact. The instruction went with the people who knew it.** She has the right key and doesn't know how to turn it.
 
-**The Mistress comes down to the camp** and asks the Book 1 question again — *have you worked out what you are yet* — and gets the same no. What changes is that she takes a bargain instead of dismissing them: whatever is behind the door, she hears it from Elara first, before the court and before it is written. She converts from watcher to stakeholder, which is what the Long Knives' presence in ch6 and ch9 rests on.
+**The Mistress comes down to the camp** and asks the Book 1 question again — *have you worked out what you are yet* — and gets the same no. What changes is that she takes a bargain instead of dismissing them: whatever is behind the door, she hears it from Elara first, before the court and before it is written. She converts from watcher to stakeholder, which is what the Long Knives' presence in ch7 and ch10 rests on.
 
 The frustration mirrors the broader situation: Elara has the legitimacy (the wards, the throne, the eyes) but can't translate it into the thing she needs. The door, like the kingdom, responds to her and refuses to yield.
 
@@ -75,7 +75,7 @@ The room has already begun comparing foreign options when **Vesk interrupts to a
 
 **Rule 1 note:** Balisha has a standing war-magic corps sworn to the Valanar line, and the previous version of this book went abroad without anyone mentioning them. `Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md` has always specified that they were *"asked first and were honest about the limits of what their magic is for."* This chapter is that implementation.
 
-**Sets up:** Chapter 4's foreign search, now properly motivated. The Tor'anar detachment on the Lathion expedition from Chapter 6. The corps being right about the Urathans in Chapters 10 and 12.
+**Sets up:** Chapter 4's foreign search, now properly motivated. The Tor'anar detachment on the Lathion expedition from Chapter 7. The corps being right about the Urathans in Chapters 10 and 12.
 
 ---
 
@@ -110,7 +110,7 @@ This is **First Counselor Xion Fen** at his sharpest — the political mind that
 
 **He doesn't manage it and doesn't try.** *"Honestly, Elara? I don't."* They are short on options and shorter on money; it is all in how they package it; done right they will take it — *he hopes.* He is not pretending it is perfect. It is better than what they had before, which was nothing. **No hedging back into confidence at the end.** Elara takes about two seconds to run a soldier's arithmetic on a bad position and arrive where he did, and gives the decision again, privately, to him rather than to the room.
 
-**This is load-bearing for Chapter 5 and beyond.** It stops the Crown angle reading as a magic bullet — *you cannot surrender what you do not possess* is elegant enough to seem airtight, and an airtight plan is a plot device. More importantly, **it sets the size of the signal in ch5**: Xion travels to Uratha braced for a hard sell and Draskin concedes faster than his own hopes allowed for. Had he gone in certain, that eagerness is a curiosity. Because he went in unsure, it is the first loose thread of the Crown mystery — and it runs through ch10, ch11 and into Book 8.
+**This is load-bearing for Chapter 5 and beyond.** It stops the Crown angle reading as a magic bullet — *you cannot surrender what you do not possess* is elegant enough to seem airtight, and an airtight plan is a plot device. More importantly, **it sets the size of the signal in ch5**: Xion travels to Uratha braced for a hard sell and Draskin concedes faster than his own hopes allowed for. Had he gone in certain, that eagerness is a curiosity. Because he went in unsure, it is the first loose thread of the Crown mystery — and it runs through ch11, ch12 and into Book 8.
 
 **Sets up:** The Urathan expedition, and the deeper Crown/Lathion dynamic that will reshape everything.
 
@@ -125,7 +125,7 @@ Xion and Elara travel to Uratha with a small delegation. Their first encounter w
 
 Xion notices the Urathans' unusual eagerness. They *want* access to whatever's behind the Brass Door. Something about it matters to them more than they're admitting.
 
-**But this must not read as a pushover in the room, and the prose does not let it.** Draskin anchors high, narrows once, and settles at a genuine floor; the negotiation is professional throughout and Xion admires it. **What is faster than expected is that the deal happened at all** — Xion arrived unsure they would take it (ch4's gamble beat), and the Crown clause was accepted the instant it was offered, with something in Draskin letting go that Xion reads off his hands and cannot name. **The pen is the only thing out of place.** Xion rereads this negotiation differently after ch10; he must not read it differently now.
+**But this must not read as a pushover in the room, and the prose does not let it.** Draskin anchors high, narrows once, and settles at a genuine floor; the negotiation is professional throughout and Xion admires it. **What is faster than expected is that the deal happened at all** — Xion arrived unsure they would take it (ch4's gamble beat), and the Crown clause was accepted the instant it was offered, with something in Draskin letting go that Xion reads off his hands and cannot name. **The pen is the only thing out of place.** Xion rereads this negotiation differently after ch11; he must not read it differently now.
 
 The deal is struck: Balisha stops demanding the Crown's return; Uratha provides its best minds to help open the door; Balisha gets first rights to whatever's inside.
 
@@ -135,9 +135,36 @@ The Scholar-King signs with a pen that hovers momentarily before committing. Bot
 
 ---
 
+### Chapter 6: Fair Price
+**Timeline: The return from Uratha and the three weeks after — Wk 10–12**
+**Characters present: Xion, Elara, Farleen, Kael, Ronas Dermir, Commander Vesk; the court and council, the Mistress of the Long Knives (offstage)**
+**Emotional work: The bill arrives. Xion wins every part of this and cannot make one part of it clean.**
+
+**The road home is ch5's road run backwards, and he is not counting way-stations any more.** Going out he catalogued drainage channels and matched bridge-marks and asked himself whether it was admiration. Coming back he has a signed instrument, a three-century national claim surrendered in perpetuity, and two seconds of a hovering pen he cannot make mean anything. **Elara has put it down and he has not**, and that difference opens the chapter and is not resolved in it.
+
+**Kaha'an does not receive the treaty as a victory, and this must not be staged as ch1's objection.** There, the old houses raised a procedural point about Xion's standing and Elara took it apart. **Here the complaint is substantially correct and every person in the room knows it**, Xion included — he told her privately in ch4 that he did not believe it would work. He cannot demolish this one, because he agrees with the premise and disagrees only about the price. *The old houses are not the enemy in this scene. They are right, and they lose anyway.*
+
+**Then the practical wall, and it is four streets from where they started.** The chapter must answer, out loud and early, the question the reader will ask: *they already have a deal.* They do not. Ch2 bought **eleven days**, for a working party of nineteen, from a lieutenant at a price he invented standing there — and Vesk was admiring an anomaly, not describing a procurement channel. What ch7 needs is a standing camp for months: supply, relief, timber, lamp oil, and the Urathans' cased manuscripts and articulated brass reference stands going down five hundred meters and coming back up. A lieutenant can sell time. He cannot sell a guarantee, he can resell the same shafts tomorrow, and if he is replaced the crown owns nothing. **The problem was never getting down; it is that the way down is not theirs.** Going down it is Elara, who must be there because the Door answers to her, and a delegation the crown became liable for the moment Xion signed. Coming up it is whatever is behind the Door — which is, by ch1's terms, the only thing that keeps Balisha solvent. **A grain merchant's son can price this without help.** You do not put your warehouse at the bottom of a shaft you do not own, on one road, held by a man who sets his own tolls. *That last sentence is what the scene does and must never be said on the page — he thinks in routes and tolls because of who raised him, nobody remarks on it, and he does not notice it himself.*
+
+**Farleen argues for the Long Knives, and she is wrong, and she is the one who proves it.** She arrives with the route mapped and costed and it is serious work. Underneath it she does not want Xion in that room, which is her documented shadow exactly — operational justification built on an emotional decision. **Then she runs it to the end and it does not close.** The distinction the chapter has to make legible, because Book 1 and ch2 both assume it without stating it: **Ronas sells access and the Mistress sells presence.** He holds the vertical shafts from the surface; her ground is the deep lateral country behind the blade marks, and everything above it her people merely *pass through* on reputation — B1 ch21, *"guide you back through safer routes… after that, you're on your own."* Deterrence protects a body. It does not protect a supply line. Her own ch2 terms are the scaled version of the same answer: guides front and back, **every trip, every load**, and nobody writes down the route — an escort per cart, forever, with the crown still holding no map. Asking her to relax either rule asks a guild that has held that border by hand for longer than the Balishan Empire existed to give up the thing that holds it. **She would refuse, and she would be right.** Farleen hands Xion the arithmetic she was trying to make come out the other way. *Kael's ch1 question — how deep the corridor runs and whether it would take a cart — pays here.*
+
+**Xion goes down to the Iron Hall, and Elara does not.** Refuse the First Counselor and it is Tuesday; refuse the Empress in person and nothing is recoverable. She will hate it. **Farleen goes** — argue, then follow — and not for tactical value: Book 2 ended with her arms around him on the low wall, and this chapter walks him into the house of the man whose lieutenant put him there. Neither of them says so. **He keeps the ch1 promise for the wrong reason** — he swore somebody would go down and *ask about the Warrens*, and he is going down to ask for a right of way. Ronas sees that in the first minute, because Ronas is a Truth Seeker about people and nothing else, and says it without any cushioning at all. He registers Farleen in one flat line, as Tania's, the way he did in B1 ch18. **Neither man touches Melina.** That is the pressure the scene runs on.
+
+**Ronas cannot be paid, and that is the whole problem.** He is bounded — he won his arena twenty years ago and stopped, and he has no Merchant engine to sell to. What he wants he is constitutionally unable to ask for: **ch1 built a new table, minuted, on a fixed schedule, and nobody offered the Warrens a chair at it.** The man who kept a Coterie seat that lost every vote three to one for twenty years, because *with me there, they can't ignore the Warrens*, is not going to raise his hand. **Xion works it out and offers it, and Ronas takes it dressed as a toll** — commercial language over a protective act, the way every protective act of his life has been dressed. Xion has read enough of his father to recognize the dressing and enough sense not to name it.
+
+**The win is filthy and the chapter closes on that.** Xion got the Warrens their chair. He got it as a **price**, which is precisely what he said in ch1 it must never be, and it is now on the record that the way to be governed by Balisha is to have something Balisha needs. **He gets no scene about this and nobody tells him.** The expedition assembles around him while he carries it: Vesk, the Arol Batae detail, the three-mage Tor'anar detachment granted in ch3, the Long Knives arriving on the Mistress's own ch2 bargain rather than on payment, Farleen on the manifest and in nobody's column. **The camp goes in at the Door and the chapter ends with it standing and quiet and the Urathans still on the road.**
+
+**On the chapter's ceiling.** This is deliberately the lowest point in the book, and that is structural rather than incidental: it is the runway into ch7's undiluted wonder. Grey, transactional, morally uncomfortable — and then the Door turns. Ch5's closing unease alone is too thin to do that work.
+
+**Rule-4 discipline.** The thematic payload — an empire looking at Uratha and Lathion while the sixty thousand under its feet get governed only once they hold something worth buying — falls out of rules 1 and 2 rather than being imposed on them. **Nobody articulates it, least of all Xion.**
+
+**Sets up:** Ch7 directly — this is the camp the Urathans walk into, and the seam is built so ch7 opens unchanged on *"The Urathans arrived on a grey morning."* The Warrens seat, which is the domestic thread Book 4 inherits. And the Crown priced as something real, so that Uratha handing it **back** in Ch12 lands as the reversal it is.
+
+---
+
 ## ACT II: The City of Gears
 
-### Chapter 6: Wonder
+### Chapter 7: Wonder
 **Timeline: Weeks later — back at the Brass Door**
 **Characters present: Xion, Elara, Urathan scholars, Farleen, expedition team — including an Arol Batae detail and a three-mage Tor'anar detachment, background throughout**
 **Emotional work: Wonder — genuine, uncomplicated wonder**
@@ -154,12 +181,12 @@ Meanwhile, dispatches are sent back to Uratha. The scholars cannot help themselv
 
 ---
 
-### Chapter 7: Inhabitants
+### Chapter 8: Inhabitants
 **Timeline: First days inside Lathion**
 **Characters present: Xion, Elara, Urathan scholars, Farleen, Kaiden Voss**
 **Emotional work: Wonder becoming something stranger — the discovery that the city is ancient, but its emptiness is not**
 
-The expedition establishes a working camp. The wonder of Chapter 6 hasn't faded — it has simply become the air they breathe, which is its own kind of extraordinary. The lights never change. The temperature never shifts. The slow rotation of the uppermost level underfoot takes getting used to. The self-repair automatons move through corridors at odd hours, cleaning surfaces no one has dirtied. The expedition learns not to startle at them.
+The expedition establishes a working camp. The wonder of Chapter 7 hasn't faded — it has simply become the air they breathe, which is its own kind of extraordinary. The lights never change. The temperature never shifts. The slow rotation of the uppermost level underfoot takes getting used to. The self-repair automatons move through corridors at odd hours, cleaning surfaces no one has dirtied. The expedition learns not to startle at them.
 
 They begin, out of practical necessity, to give things names. Not Lathionese names — those died with the civilization that made them. Working names, coined by scholars who need to refer to locations and have nothing else to call them. The uppermost level becomes "the Crown" (it sits at the top, like one). The vast chamber of brass objects becomes "the Repository." The threshold space at the conveyor's base gets called "the Gatehouse." These names spread through the camp and stick, the way improvised names always do. The reader gets the terminology the same way the characters do: coined on the spot, practical, entirely human.
 
@@ -169,11 +196,11 @@ Elara begins reading fragments. Not fluently — she cannot explain how she read
 
 Xion and Engineer Kaiden Voss begin working the practical track: what can be used, what can be understood well enough to implement, what does Balisha actually need from this place. Voss has an engineer's eye for organizing logic. He and Xion form a working partnership that runs parallel to the scholarly track — two different relationships with the same city.
 
-**Sets up:** The Repository chapter; the distinction between scholarly and practical responses to Lathion; and — through the recency discovery — the dread that pays off in Chapter 9, when Elara learns *what* happened twenty years ago.
+**Sets up:** The Repository chapter; the distinction between scholarly and practical responses to Lathion; and — through the recency discovery — the dread that pays off in Chapter 10, when Elara learns *what* happened twenty years ago.
 
 ---
 
-### Chapter 8: The Repository
+### Chapter 9: The Repository
 **Timeline: Deeper into the exploration**
 **Characters present: Xion, Elara, Urathan scholars, Kaiden Voss**
 **Emotional work: The weight of depth — scale not of space but of knowledge**
@@ -192,7 +219,7 @@ He thinks about the dispatches already sent to Uratha. He doesn't know yet what 
 
 ---
 
-### Chapter 9: The Destiny Engine
+### Chapter 10: The Destiny Engine
 **Timeline: The final discovery**
 **Characters present: Xion, Elara, research teams**
 **Emotional work: Wonder turns to horror — what Lathion cost, and how recently it cost it**
@@ -211,11 +238,11 @@ Xion sees her face and knows something terrible happened in there. She tells him
 
 They emerge from Lathion. The world above has not been standing still.
 
-**Sets up:** The Scholar-King's return offer — the dispatches sent from Chapter 6 have done their work, and Uratha has decided that what it originally negotiated is no longer sufficient.
+**Sets up:** The Scholar-King's return offer — the dispatches sent from Chapter 7 have done their work, and Uratha has decided that what it originally negotiated is no longer sufficient.
 
 ---
 
-### Chapter 10: The Scholar's Crown
+### Chapter 11: The Scholar's Crown
 **Timeline: Back in Kaha'an — the world has moved**
 **Characters present: Xion, Elara, Scholar-King Leowin Draskin, High Provost Venn**
 **Emotional work: The deal shifts — Uratha reveals how badly it wants in**
@@ -236,8 +263,8 @@ Xion notes the Urathans' hunger — Provost Venn's intensity, the Scholar-King's
 
 ---
 
-### Chapter 11: Awakening
-**Timeline: The ceremony — weeks after the Ch10 deal, once the Crown completes its journey from Uratha. The cold open is the same week.**
+### Chapter 12: Awakening
+**Timeline: The ceremony — weeks after the Ch11 deal, once the Crown completes its journey from Uratha. The cold open is the same week.**
 **Characters present: Xion, Elara, a Gunastran envoy (cold open), assembled court, Urathan delegation**
 **Emotional work: Wonder and legitimacy**
 
@@ -247,15 +274,15 @@ For Xion, this is a moment of wonder. He doesn't know the Crown's history in det
 
 He catches a fleeting look on the Urathan delegation's faces — something like shock, quickly masked. Strange. Why would they be surprised that a divine artifact responds to a Valanar? But the moment passes. They compose themselves within seconds, and Xion has no reason to pursue it. There are more pressing things to think about.
 
-**The cold open — and it is the most consequential four minutes in the book.** Before the ceremony, on an ordinary working morning, a Gunastran delegation lodges a routine request through ordinary channels: scholarly and technical access to Lathion. Elara refuses. She is bound by the Uratha compact signed weeks ago — exclusive access, no third foreign body — and the refusal costs her nothing, takes no thought, and is never mentioned again. **She is treaty-clean, which is what keeps her from being the war's aggressor.** The clause that binds her is one Xion wrote in Ch10, on the sound reasoning that *Gunastran is not in the picture yet.* Neither of them feels a thing. The reader does not yet know what they have watched; Ch12 tells them.
+**The cold open — and it is the most consequential four minutes in the book.** Before the ceremony, on an ordinary working morning, a Gunastran delegation lodges a routine request through ordinary channels: scholarly and technical access to Lathion. Elara refuses. She is bound by the Uratha compact signed weeks ago — exclusive access, no third foreign body — and the refusal costs her nothing, takes no thought, and is never mentioned again. **She is treaty-clean, which is what keeps her from being the war's aggressor.** The clause that binds her is one Xion wrote in Ch11, on the sound reasoning that *Gunastran is not in the picture yet.* Neither of them feels a thing. The reader does not yet know what they have watched; Ch13 tells them.
 
 Nothing from the cold open bleeds into the hall. The ceremony's wonder runs unbroken.
 
-**Sets up:** Chapter 12 directly — **the refusal and the report of the blazing Crown travel north together, on the same road, in the same week**, and it is the letter that convenes the Consortium. Also Kalden's marriage proposal.
+**Sets up:** Chapter 13 directly — **the refusal and the report of the blazing Crown travel north together, on the same road, in the same week**, and it is the letter that convenes the Consortium. Also Kalden's marriage proposal.
 
 ---
 
-### Chapter 12: Ruthless Calculus
+### Chapter 13: Ruthless Calculus
 **Timeline: Shortly after the Crown ceremony — convened by Balisha's refusal, which travelled north with the envoy who carried the request**
 **Characters present: Gunastran's Industrial Consortium (POV break)**
 **Emotional work: Existential terror — make the reader understand why Gunastran goes to war**
@@ -264,7 +291,7 @@ Hard cut to Gunastran's Central Foundry. **The Consortium is not convened by fea
 
 **The communications tier is stated outright here and it is the one the rest of the series draws on.** Lathion communication is **instantaneous over any distance**, by relay, and Balisha does not have to build the chain — the Golden Path already carries warded waystations at one day's interval across the desert, which is the exact shape a relay needs. A power whose orders arrive the moment they are given, against powers whose orders arrive at the speed of a horse, is not a power with an advantage; it is operating in a different tense. **Ondra does not say that; she gives the timeline and lets seven engineers do their own arithmetic.** *(Canon: `Places/Kaha'an/Lathion_ The Lost City of Gears.md`, "The Relay." Book 7's climax depends on the reader acquiring this here — **word is instant, people are not** — so it must not stay a word in a list.)*
 
-**The causal order is the author's and is load-bearing:** Gunastran asks → Balisha refuses → Gunastran concludes it must fight → Gunastran goes looking for allies → Kalden. An earlier version of this skeleton ran the refusal *after* this vote, in Ch13's cold open, which made Elara's *no* a receipt rather than a cause. Corrected 2026-08-02.
+**The causal order is the author's and is load-bearing:** Gunastran asks → Balisha refuses → Gunastran concludes it must fight → Gunastran goes looking for allies → Kalden. An earlier version of this skeleton ran the refusal *after* this vote, in Ch14's cold open, which made Elara's *no* a receipt rather than a cause. Corrected 2026-08-02.
 
 **And the refusal is unreadable from Gunastran.** A *no* citing a treaty is, from the far side of a continent, indistinguishable from a *no* that wanted to be given — she signed the instrument freely, weeks ago, and nothing in the language tells them she was not thinking of Gunastran when she did. Nobody in that chamber will ever learn that she was not.
 
@@ -280,12 +307,12 @@ The reader should understand, even sympathize with, this decision. Ondra Kelgrav
 
 ## ACT III: The Choice
 
-### Chapter 13: The Proposal
-**Timeline: Days after the Gunastran decision (which Balisha doesn't yet know about). Gunastran's request was refused in Ch11, weeks earlier.**
+### Chapter 14: The Proposal
+**Timeline: Days after the Gunastran decision (which Balisha doesn't yet know about). Gunastran's request was refused in Ch12, weeks earlier.**
 **Characters present: Xion, Elara, Kalden's envoy**
 **Emotional work: A genuinely good offer that happens to come from someone with terrible motives**
 
-**No cold open.** The chapter opens directly on the Erulian approach — the Gunastran refusal moved to Ch11, where it can precede the vote it causes, and nobody in Kaha'an refers to it again.
+**No cold open.** The chapter opens directly on the Erulian approach — the Gunastran refusal moved to Ch12, where it can precede the vote it causes, and nobody in Kaha'an refers to it again.
 
 Prince Kalden sends a marriage proposal — and, critically, he sends it in **secret**. Not a formal delegation on the record: a single confidential envoy, a sealed personal missive, deliberately off the diplomatic ledger. Kalden is double-gaming Gunastran (who has just approached him) — a public proposal would expose that he is courting the enemy, so it stays hidden. Xion registers the secrecy itself as information: a proposal this large, delivered this quietly, is one its author is hiding from someone (he cannot yet say who).
 
@@ -301,7 +328,7 @@ Xion hears the proposal and understands the math immediately. The healer who rea
 
 ---
 
-### Chapter 14: Crossroads
+### Chapter 15: Crossroads
 **Timeline: Days later — the most consequential private conversation in the series**
 **Characters present: Xion, Elara, (Farleen peripherally)**
 **Emotional work: The love triangle resolves — and starts a war**
@@ -318,7 +345,7 @@ Farleen's aftermath is not staged as breakdown: one gesture, then she goes to wo
 
 ---
 
-### Chapter 15: Good Faith
+### Chapter 16: Good Faith
 **Timeline: The window between Elara's rejection being sent and Kalden receiving it**
 **Characters present: Xion, Elara, Vartonne's envoy**
 **Emotional work: The intervention designed to prevent the Compact helps complete it**
@@ -347,12 +374,12 @@ The envoy returns to Vartonne and reports with complete sincerity that the Balis
 
 ---
 
-### Chapter 16: The Compact
+### Chapter 17: The Compact
 **Timeline: The same day as Kalden's rejection**
 **Characters present: Kalden (full POV — second and final POV break in Book 3), senior advisor, spymaster**
 **Emotional work: The pattern repeats at a larger scale — patient man, clean wound, cold impulsive action**
 
-This is a full Kalden POV chapter — the second deliberate POV break in Book 3, after the Gunastran interlude in Chapter 12. It exists because Kalden is a major series antagonist across seven books, and this is the moment his defining flaw runs its course for the second time. The reader needs to be inside his head when it happens.
+This is a full Kalden POV chapter — the second deliberate POV break in Book 3, after the Gunastran interlude in Chapter 13. It exists because Kalden is a major series antagonist across seven books, and this is the moment his defining flaw runs its course for the second time. The reader needs to be inside his head when it happens.
 
 **Characterization note:** Kalden in Book 3 is still the composed, well-resourced man — the physical and political deterioration is all ahead of him. His reaction mirrors Book 2's assassination order in *register*, not intensity. He does not rage. He does not throw things. He goes still. The same cold stillness from Book 2 Chapter 8: the patient strategist obliterated, replaced by something colder. The escalation is in *scale* — assassination order then, military alliance now — while the manner stays identical. That consistency is what makes the pattern legible across books.
 
@@ -373,7 +400,7 @@ Three nations, three different reasons, one alliance. Each member has a genuine 
 
 The chapter closes on Kalden — still composed, still in possession of everything he's built. He doesn't know yet what this decision will cost. The reader does.
 
-*Xion's reckoning with the news ("he chose love, love costs a war, he'd do it again") is handled at the opening of Chapter 17, not here.*
+*Xion's reckoning with the news ("he chose love, love costs a war, he'd do it again") is handled at the opening of Chapter 18, not here.*
 
 **Sets up:** The Terinok alliance, and the preparations for Book 4's war.
 
@@ -381,7 +408,7 @@ The chapter closes on Kalden — still composed, still in possession of everythi
 
 ## ACT IV: The Alliance
 
-### Chapter 17: A Warrior's Heart
+### Chapter 18: A Warrior's Heart
 **Timeline: The Terinok mission**
 **Characters present: Xion, Elara, War Table representatives, Sa Ko Ren (possibly)**
 **Emotional work: Elara proves herself on terms that can't be politicked or negotiated**
@@ -416,7 +443,7 @@ Whether she wins cleanly or wins through determination that impresses even in de
 
 ---
 
-### Chapter 18: Valanar
+### Chapter 19: Valanar
 **Timeline: Return to Balisha**
 **Characters present: Xion, Elara, court, Farleen, friends**
 **Emotional work: Formalization — Xion becomes Xion Valanar**
@@ -431,7 +458,7 @@ Farleen is present. Her composure holds. The intelligence network she's building
 
 ---
 
-### Chapter 19: First Strike
+### Chapter 20: First Strike
 **Timeline: The war begins**
 **Characters present: Xion, Elara, war council**
 **Emotional work: The consequences arrive — everything they built toward, including the things they wanted and the things they didn't**
@@ -454,10 +481,10 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 
 ## Structural Notes
 
-**Chapter count:** 19 (17 originally; the Lathion exploration was expanded to three chapters — Ch 7 "Inhabitants," Ch 8 "The Repository," Ch 9 "The Destiny Engine" — and Ch 3 "Storm-Line" was inserted on 2026-08-01, with the Engine moved from its original late-book position to the natural end of the exploration phase.)
-**Why the restructure:** The Destiny Engine's original placement (Ch 14 of the 17-chapter version) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 9 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Lathion mid-crisis.
+**Chapter count:** 20 (17 originally; the Lathion exploration was expanded to three chapters — Ch 8 "Inhabitants," Ch 9 "The Repository," Ch 10 "The Destiny Engine"; Ch 3 "Storm-Line" was inserted on 2026-08-01; and Ch 6 "Fair Price" was inserted on 2026-08-03, shifting everything from Wonder down by one.)
+**Why the restructure:** The Destiny Engine's original placement (Ch 14 of the 17-chapter version) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 10 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Lathion mid-crisis.
 
-**POV:** Primarily Xion, with two deliberate POV breaks: Gunastran (Chapter 12) and Kalden (Chapter 16). This mirrors Book 2's use of rare, load-bearing interludes. The Gunastran scene plants dramatic irony: the reader knows Gunastran has committed to war; Xion and Elara can see only that a coalition is *forming*, not how far it has already gone, when they resolve the love triangle.
+**POV:** Primarily Xion, with two deliberate POV breaks: Gunastran (Chapter 13) and Kalden (Chapter 17). This mirrors Book 2's use of rare, load-bearing interludes. The Gunastran scene plants dramatic irony: the reader knows Gunastran has committed to war; Xion and Elara can see only that a coalition is *forming*, not how far it has already gone, when they resolve the love triangle.
 
 **Kalden's proposal as good geopolitics:** This is critical. The reader must feel the weight of refusing Kalden. If the proposal is obviously a trap, refusing it is easy and cost-free. If it's genuinely the best political option — which it is — then refusing it for personal reasons carries genuine moral weight. Xion and Elara chose each other over preventing a war. That's not heroic. It's human. And it has consequences.
 
@@ -465,10 +492,10 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 
 **Tone shift from Book 2:** Book 2 was claustrophobic, dark, focused on political maneuvering in a single city. Book 3 opens up — literally (Uratha, Lathion, Terinok) and figuratively (from city politics to continental geopolitics). The wonder of Lathion provides genuine uplift after Book 2's darkness. But the wonder has teeth — every discovery makes war more likely.
 
-**The love triangle resolution:** Happens in Chapter 14 — past the midpoint, not at the end. This is deliberate. The resolution isn't the climax — the *consequences* of the resolution are the climax. Choosing Elara doesn't end the story. It starts the war.
+**The love triangle resolution:** Happens in Chapter 15 — past the midpoint, not at the end. This is deliberate. The resolution isn't the climax — the *consequences* of the resolution are the climax. Choosing Elara doesn't end the story. It starts the war.
 
 **Seeds for future books:**
 - **Book 4:** Compact War begins, Uratha attacked
 - **Book 5:** Kalden's post-war decline (reparations, Silaris gambit)
 - **Book 8:** Urathan desperation over the Crown's silence (why they gave it back so easily), the Globehall (seeded by Provost Venn's hunger and the Crown's activation)
-- **Destiny Engine:** Long-term mystery, not resolved here. Sealed in Ch 9, still down there. Its existence is known to the scholars who witnessed the sealing — which means Uratha knows.
+- **Destiny Engine:** Long-term mystery, not resolved here. Sealed in Ch 10, still down there. Its existence is known to the scholars who witnessed the sealing — which means Uratha knows.

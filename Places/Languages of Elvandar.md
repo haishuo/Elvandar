@@ -151,7 +151,7 @@ Kira carried 8.
 Three things fell out of that pass, and they are the pattern to look for:
 
 - ***Kira Voss* → *Perrin Halmore*.** The surname was the worse half of the collision and nobody had
-  noticed it: **Kaiden Voss** is the Urathan engineer in Book 3 ch7–9, so two Urathans one book apart
+  noticed it: **Kaiden Voss** is the Urathan engineer in Book 3 ch8–10, so two Urathans one book apart
   shared a surname *and* an initial, which reads as a deliberate family relation that does not exist.
   Rename both halves or you fix the smaller problem and keep the larger one. *P* was chosen because it
   was unused anywhere in the series; *Halmore* is one of the Balishan-common examples above.

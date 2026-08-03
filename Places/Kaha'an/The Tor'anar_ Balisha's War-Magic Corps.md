@@ -184,7 +184,7 @@ Provost*, *Engineer-Lord*) and reads off the corps' own name; *Ilareth* is Old L
 the guide-listed *-eth* ending, an initial unoccupied elsewhere in the cast, and no collision with the
 crowded V-initial group or the *-anar* suffix.
 
-**His function is security and counterintelligence, not research.** He is not there as a magical peer to the Urathan delegation, and the corps does not think of him as an observer in the academic sense. The governing logic: an allied nation's intelligence service does not get unsupervised access to a classified facility just because the two states are friendly — you post a guard regardless, especially with the head of state physically present (Elara attends the Lathion exploration and experiences the Destiny Engine vision firsthand in Chapter 8). The Tor'anar do not fully trust the Amethyst Tower's restraint around a site of this magnitude, allied nation or not, and their position is that "supervised" and "trusted" are not the same thing. The person assigned to that job isn't chosen for diplomatic tact or scholarly credentials — he's chosen for being capable enough to physically stop the Urathans if they prove uncooperative, the same way a foreign dignitary's protective detail is built from operators, not from whoever's best at making conversation. If the story needs more than one Tor'anar mage on-site to make that credible given the stakes, that's an open scaling question, not a fixed constraint.
+**His function is security and counterintelligence, not research.** He is not there as a magical peer to the Urathan delegation, and the corps does not think of him as an observer in the academic sense. The governing logic: an allied nation's intelligence service does not get unsupervised access to a classified facility just because the two states are friendly — you post a guard regardless, especially with the head of state physically present (Elara attends the Lathion exploration and experiences the Destiny Engine vision firsthand in Chapter 10). The Tor'anar do not fully trust the Amethyst Tower's restraint around a site of this magnitude, allied nation or not, and their position is that "supervised" and "trusted" are not the same thing. The person assigned to that job isn't chosen for diplomatic tact or scholarly credentials — he's chosen for being capable enough to physically stop the Urathans if they prove uncooperative, the same way a foreign dignitary's protective detail is built from operators, not from whoever's best at making conversation. If the story needs more than one Tor'anar mage on-site to make that credible given the stakes, that's an open scaling question, not a fixed constraint.
 
 The mages assigned are drawn from the lean-years cohort — the corps' genuinely combat-capable veterans, not the green post-coronation recruits — because this posting is a real commitment of scarce capability, not a routine one. There's a quiet echo worth noting: the last time the Tor'anar were seriously worried about a member of the imperial family near uncontained magical danger, they weren't listened to in time, and the Emperor and Empress rode out with too little support and didn't come back. This time, they're the ones pushing for the safeguard, and Elara actually grants it.
 
@@ -212,12 +212,12 @@ the Long Knives are Elara answering the standing invitation the Mistress issued 
 overruled on their terms inside four words. What Vesk buys is Ronas's ground.)* The presence is established; it simply lapsed after ch2 and had to be carried forward into
 the Lathion chapters.
 
-**The Tor'anar were genuinely absent** from every Book 3 document. They are now in the ch5–ch8 drafts and
+**The Tor'anar were genuinely absent** from every Book 3 document. They are now in the ch5–ch9 drafts and
 the skeleton.
 
 **Friction with the Amethyst Tower delegation** is not the Tor'anar-vs-Ruby-Tower rivalry (soldier looking down on a derivative war college); it's sharper than that. An Amethyst scholar is exactly the profile of mind that caused the Rending — brilliant, theory-first, insufficiently respectful of operational consequence — now poking at a site that could do it again. He isn't there to relitigate prestige politics. He's watching people who look uncomfortably like the reason his entire institution exists, and he has the authority and the capability to act on that if it comes to it.
 
-**What stays fixed regardless of how this is drafted:** the Destiny Engine vision in Chapter 8 belongs to Elara alone. The observer does not witness it.
+**What stays fixed regardless of how this is drafted:** the Destiny Engine vision in Chapter 10 belongs to Elara alone. The observer does not witness it.
 
 ### Why This Doesn't Undercut "Balisha Lacks Military Might"
 

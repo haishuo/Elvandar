@@ -275,7 +275,7 @@ reason given is exact and worth keeping: **the system is fully functional and ha
 ### The Balishan deployment
 
 **This is the third tier of Lathion technology to reach the surface**, after water purification and energy
-— the order Gunastran's Industrial Consortium models in Book 3 ch12, and the tier that turns their problem
+— the order Gunastran's Industrial Consortium models in Book 3 ch13, and the tier that turns their problem
 from commercial into existential. Balisha installs relay stations at the **magically warded waystations
 already spaced a day's travel apart along the Golden Path**, which is the single piece of infrastructure in
 the empire that was already a chain of fixed, defended, maintained points at regular intervals across
@@ -305,11 +305,11 @@ book7_outline.md`, "The clock."
 
 ### When it exists, which is later than people will assume
 
-**Book 3 has no relay and its couriers are correct.** Ch12 is Gunastran *modelling the deployment* — the
+**Book 3 has no relay and its couriers are correct.** Ch13 is Gunastran *modelling the deployment* — the
 thing is coming, not built — and everything in that book moves at the speed of a rider: the envoy carrying
-Balisha's refusal north in ch11, Kalden's own fast intelligence outrunning Elara's unhurried ceremonial
-courier in ch16, the Crown's weeks-long journey from the Ivory Tower between ch10 and ch11. **None of that
-is an error and none of it should be "corrected" into relay traffic by a later reader**; the ch16 beat in
+Balisha's refusal north in ch12, Kalden's own fast intelligence outrunning Elara's unhurried ceremonial
+courier in ch17, the Crown's weeks-long journey from the Ivory Tower between ch11 and ch12. **None of that
+is an error and none of it should be "corrected" into relay traffic by a later reader**; the ch17 beat in
 particular *depends* on messages travelling at different speeds by different routes, and the relay would
 destroy it.
 
@@ -322,7 +322,7 @@ happen before a relay exists, none of which can be compressed:
    read the place; the scholars are arguing about what they are even looking at. Genuine comprehension is
    years of work, and the relay is built *after* engineers have actually got there.
 2. **It is third in the queue and the queue is not negotiable.** Purification first, then energy, then
-   communications — that is the order Balisha wants and the order Gunastran models in B3 ch12. A nation
+   communications — that is the order Balisha wants and the order Gunastran models in B3 ch13. A nation
    whose people are dying of bad water does not build a signal network first.
 3. **And then it has to be installed**, station by station, along a desert road.
 

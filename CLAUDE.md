@@ -110,9 +110,15 @@ Fresh tomb, not ancient one. The Destiny Engine was built in months during the R
 and should look visibly hastier than everything around it. Characters do not know Lathionese
 proper names and neither does the narrator in Xion's POV.
 
-**Book 3's Wonder chapter (`Chapters/Chapter 6 - Wonder.md`) is LOCKED.** Do not revise it. **The lock is
-on the prose, not the number** — it was ch5 until 2026-08-01, when `Chapter 3 - Storm-Line` was inserted
-and everything from the old ch3 shifted by one. Not a word inside the file changed.
+**Book 3's Wonder chapter (`Chapters/Chapter 7 - Wonder.md`) carries one emotion and nothing else.**
+That is the whole constraint, and it is rule 3 — **not** a prose freeze. This entry used to read *LOCKED,
+do not revise it*, and that wording was wrong in a way that showed: it exerted a pull on every edit that
+came near the chapter, up to and including refusing to fix the seam where ch5 hands off to it. **The prose
+is revisable like any other prose in this repository.** Revise it for correctness, for continuity, for the
+join with the chapter before it. What must never happen is a second emotion getting in — no grief, no
+irony, no arc-closure, no logistics, no foreshadowing of what Lathion costs. The Jurassic Park principle
+applies here in its purest form. *Renumbered twice and never rewritten: ch5 until 2026-08-01 when
+`Chapter 3 - Storm-Line` was inserted, ch6 until 2026-08-03 when `Chapter 6 - Fair Price` was.*
 
 ---
 

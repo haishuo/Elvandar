@@ -5535,3 +5535,97 @@ anybody in the room. And the line below handles his attention being elsewhere wi
 **Lathion now appears exactly once in ch5** — third of four theories, in a subordinate clause, inside a
 happy monologue by a scholar who loves the material. That is the entire plant, and it should never be
 larger.
+
+---
+
+## 2026-08-03 — B3 gains a chapter at 6, and everything from *Wonder* down shifts by one
+
+**Author's catch, and it is a seam rather than a scene.** *"The transition from Chapter 5 to Chapter 6 is
+too abrupt… right now they teleported straight in front of the Brass Door."* Correct. Ch5 ends at night in
+a passage in Uratha; ch6 opened with the Urathans walking onto the passage floor under Kaha'an. The page
+did no work at all between those two sentences.
+
+**The gap is only about two weeks by the timeline, so this was never a duration problem.** Ch5 itself is
+the proof — it *opens* on five days of road, way-stations at matched intervals, an escort of nine scholars.
+The journey out got texture. The journey back got nothing.
+
+### Three things were falling in the hole
+
+**The move.** Ch2 established that reaching the Door takes two arrangements: eleven days of Slaver-held
+shafts bought from a lieutenant at an invented price, and the Long Knives from the third tier down. Both
+were sized for nineteen people and eleven days. Ch7 needs a standing camp for months.
+
+**A live thread, dropped.** Ch5's last beat is Xion unable to stop working at the hovering pen. Ch6 never
+touched it, so the reader was holding an unresolved suspicion when the wonder arrived.
+
+**And something never written at all.** Elara surrendered a three-century national claim and **no Balishan
+reacted to it on the page.** That is load-bearing in the other direction: Uratha hands the Crown *back* in
+ch11, and the reversal is worth what the surrender cost.
+
+### Why a chapter rather than a bridge paragraph
+
+The cheap fix — ~600 words at the head of *Wonder* — was costed and rejected. It puts logistics inside a
+chapter built for a single emotion, which is the rule-3 dilution that chapter's own footer warns against,
+and it leaves the Crown's domestic price and the Ronas thread unwritten. **Ronas and the Warrens appear
+five times in ch1, four in ch2, twice in ch3, and zero from ch4 on**, while ch1 closes on Xion asking that
+the council's first sitting be about the Warrens and ch3 defers it — *the Warrens will keep.* Unpaid.
+
+### The chapter, and what four rounds of the author poking holes in it produced
+
+**Ch6 *Fair Price*.** Xion returns, the court is right that he overpaid, and the last obstacle between
+Balisha and the Door is four streets from the palace and will not answer a summons. He goes down to the
+Iron Hall, keeps his ch1 promise for the wrong reason, and buys his right of way with the one thing Ronas
+wants and cannot ask for — a chair at the new table. **He got the Warrens governed by making it a price**,
+which is exactly what he said in ch1 it must never be, and nobody remarks on it.
+
+Four objections were raised against the plan and all four improved it:
+
+**"Why not the Mistress?"** Because **Ronas sells access and the Mistress sells presence.** He holds the
+vertical shafts from the surface; her ground is the deep lateral country behind the blade marks. Her ch2
+terms are the scaled answer already — guides front and back, every trip, every load, no route written
+down. That is an escort per cart forever, with the crown still holding no map, and asking her to relax
+either rule asks her guild to give up the thing that holds its border. **She would refuse and be right.**
+
+**"Then how did they reach the surface under Long Knife guard in Book 1?"** No contradiction; B1 tightens
+it. The Knives' deterrence is *personal*, not territorial — *"people in the Warrens knew better than to
+bother assassins"* — and it ends exactly where they stop walking: *"My people will guide you back… after
+that, you're on your own."* **Deterrence protects a body. It does not protect a supply line.**
+
+**"I thought that lieutenant was Long Knife."** He is not, and ch2 says so — *"He owns his shafts. Dermir
+owns him."* But **the author wrote that line and still misremembered it**, which is the finding: the
+geography is not sitting in the reader's head, and ch6 has to re-lay it once, plainly.
+
+**"Would Farleen go?"** Yes, and the question reshaped a beat. She now **argues *for* the Long Knives and
+is wrong** — the objection voiced by the one person with a motive to want it true — and then runs her own
+arithmetic out and has to hand Xion the answer she was trying not to find. Her sheet's shadow exactly:
+operational justification built on an emotional decision. She goes into the Iron Hall for the low wall.
+
+**One phrase was cut for being lazy**: *"the most valuable object in Balisha."* It smeared Elara, the
+scholars, and the cargo into one noun to avoid choosing, and the Empress is not an object. Replaced with
+what actually travels in each direction — and the reasoning handed to the character who owns it, because a
+grain merchant's son prices a route and a toll out of his childhood without needing a strategist.
+
+### The renumber
+
+`Wonder` → **ch7**, and everything down to `First Strike` → **ch20**. One prose file, fourteen beat drafts,
+the skeleton, `Story Timeline.md`, both copies of the working rules, four canon files, and the Royal Road
+build. **Two errors were caught in the sweep and are worth recording**, because a naive regex would have
+shipped both:
+
+- `Ch 14 of the 17-chapter version` in the skeleton is **history**, not a live pointer, and must not move.
+- The Tor'anar file put the Destiny Engine vision in `Chapter 8`. It was **already wrong before this
+  change** — the Engine was ch9 — so it has been corrected to ch10 rather than bumped to ch9.
+
+### Two rule changes made in the same pass
+
+**The Wonder lock has been rewritten in `CLAUDE.md`, on the author's ruling.** It read *LOCKED. Do not
+revise it*, and that wording was doing damage: *"it's causing gravitational effects on your writing I
+dislike… It's not carved in marble."* The constraint was always rule 3 — **the chapter carries one emotion
+and nothing else** — and never a prose freeze. The entry now says that. The prose is revisable like any
+other prose; what may never enter is a second emotion.
+
+**`Book 3 - Crown Jewel/_WORKING_NOTES.md` has been banner-flagged as stale rather than repaired.** Its
+table claims eighteen chapters and calls *Negotiations* ch3 — it was never updated when `Storm-Line` went
+in on 2026-08-01, so it had been silently wrong for two days and is now two behind. It was deliberately
+**not** renumbered: half-correcting a document nothing downstream validates is how it went wrong the first
+time. The banner names what in it is still worth salvaging into the skeleton before it is deleted.

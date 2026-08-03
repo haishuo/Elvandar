@@ -1,6 +1,22 @@
 # Book 3 Working Notes — Current State
 *Temporary file. Delete when no longer needed.*
 
+> ## ⚠️ STALE AS OF 2026-08-03 — DO NOT TRUST THE NUMBERS IN THIS FILE
+>
+> Every chapter number below is wrong, and it has been wrong for longer than it looks. The table
+> says **18 chapters** and calls Negotiations ch3; it was written before `Chapter 3 - Storm-Line`
+> was inserted on 2026-08-01, and never updated. `Chapter 6 - Fair Price` was inserted on 2026-08-03,
+> putting it **two** behind. The book now has **20** chapters.
+>
+> **Authoritative instead:** `book3_chapter_skeleton.md` for structure, the per-chapter files in
+> `Beat Drafts/`, `Story Timeline.md` for timing, and `Series Review - Master List.md` for
+> outstanding work. This file has not been renumbered on purpose — half-correcting a document that
+> nothing downstream validates is how it went wrong the first time.
+>
+> **It is not all worthless.** The political-arc walkthrough, the *assume → name → dismiss →
+> confirm* structure of the exploration arc, and the 5,000-year language pass are real reasoning
+> that may not be recorded anywhere else. Salvage those into the skeleton, then delete the file.
+
 ---
 
 ## What was just done
