@@ -24,7 +24,7 @@ Valorian was two full sentences into a comparison of transport costs when Vesk s
 
 "Majesty."
 
-He had been standing where he always stood, at the end of the room by the door, with his hands behind his back and his weight even on both feet, and in six weeks of these sessions Xion could not remember hearing him make a sound. It was not his place to have opinions here. He was extremely clear about what his place was.
+He had been standing where he always stood, at the end of the room by the door, in the posture Xion had stopped seeing months ago, and in six weeks of these sessions he could not remember hearing the man make a sound. It was not his place to have opinions here. He was extremely clear about what his place was.
 
 Elara turned. "Commander."
 
@@ -144,9 +144,9 @@ Then Ilareth lowered his hands and came down off the platform.
 
 "We cannot open it."
 
-He said it to Elara from four feet away in the flat voice of a man reporting a number, and then he stopped talking.
+He said it to Elara from four feet away in the voice a man uses to read out a figure, and then he stopped talking.
 
-That was the whole of it. Xion waited — he was aware of waiting, aware of the shape in his chest where the rest of it was supposed to go — for the qualifications. *With more time.* *With more of us.* *If we might send for instruments.* *The conditions here are not favorable.* Every one of those was available and at least two of them were true, and the man did not reach for any of them, and the silence after the sentence went on just long enough for everybody in the chamber to understand that there was not going to be any more of it.
+Then nothing. Xion waited — he was aware of waiting, aware of the shape in his chest where the rest of it was supposed to go — for the qualifications. *With more time.* *With more of us.* *If we might send for instruments.* *The conditions here are not favorable.* Every one of those was available and at least two of them were true, and the man did not reach for any of them, and the silence after the sentence went on just long enough for everybody in the chamber to understand that there was not going to be any more of it.
 
 "Can you tell me why?" Elara said.
 

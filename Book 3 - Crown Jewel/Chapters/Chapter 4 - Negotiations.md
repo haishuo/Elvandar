@@ -1,6 +1,6 @@
 Kael found her in four lines.
 
-He brought them himself, which he did not have to do; there were three men whose entire function was carrying paper from the registry to the south gallery, and Kael Issamil had walked past all of them with a folio under his arm and waited outside a door for twenty minutes rather than send it up.
+He brought them himself, which he did not have to do; there were three men whose entire function was carrying paper from the registry to the south gallery, and Kael Issamil had walked past all of them and waited outside a door for twenty minutes rather than send it up.
 
 "It isn't in the seizure inventory," he said. "It was never going to be. Those are lists of property." He put the sheet down on the table and turned it so it faced Xion. "It's in the other books."
 
@@ -54,7 +54,7 @@ The shop was shuttered and it was hers, on every document that predated the cart
 
 She had been walking past it to buy bread. For months.
 
-He had been in this city for most of those months. He had walked the Middle District a dozen times on reconstruction business and had gone down Vessel Street twice in a week without once turning north, and the only reason for any of it was that a man behind a desk had once checked a register and told him, with real sympathy, that there was no such person — and he had let the answer stand, because there had been a war on and then a court to hold and the thing about a war is that it gives you permission for everything.
+He had been in this city for most of those months. He had walked the Middle District a dozen times on reconstruction business and had gone down Vessel Street twice in a week without once turning north, and the only reason for any of it was that a man behind a desk had once looked up from a register and been sorry, and had been sorry very convincingly — and he had let the answer stand, because a man who is busy enough is never short of a reason, and he had been very busy indeed.
 
 Kael offered to come. Xion said no.
 
@@ -84,7 +84,7 @@ She did not know she had done anything. He stood in the doorway for a moment and
 
 She did not ask where he had been.
 
-That was the whole of it, and it took him some time to notice that it was happening, because absence is harder to see than presence. She did not mention the eleven days. She did not mention the man who had been paid, or the journals, or the shop. She did not ask about the Empress, or the appointment, or the war, or his father — and his father's name had been in every mouth in Kaha'an for the better part of a year.
+It took him some time to notice that this was happening, because absence is harder to see than presence. She did not mention the eleven days. She did not mention the man who had been paid, or the journals, or the shop. She did not ask about the Empress, or the appointment, or the war, or his father — and his father's name had been in every mouth in Kaha'an for the better part of a year.
 
 She asked whether he had eaten. She said the light in here was better than the shop's had been, which was the only reference she made to the shop, and she made it as a fact about light.
 
@@ -114,7 +114,7 @@ And then, sitting there with all four items refused and nothing left to offer, h
 
 "I know where my shop is."
 
-"It's in an inventory." He kept his voice exactly where it had been. "The cartel took it over the journals. The crown seized what the cartel held. It's sitting in a schedule of impounded property with a number against it, and I chair the body that has the schedule." He watched her hands stop. "I'm not offering you a shop. I'm telling you that somebody stole a building from you and the people holding it now know it was stolen, and there's a line in a book that has to be struck out."
+"It's in an inventory." He did not let anything into it. "The cartel took it over the journals. The crown seized what the cartel held. It's sitting in a schedule of impounded property with a number against it, and I chair the body that has the schedule." He watched her hands stop. "I'm not offering you a shop. I'm telling you that somebody stole a building from you and the people holding it now know it was stolen, and there's a line in a book that has to be struck out."
 
 Janice looked at him for a long moment.
 
@@ -138,7 +138,7 @@ Then she picked the row back up.
 
 ---
 
-He had solved it, and she declined to let that stand, and the whole of it took her one sentence.
+He had solved it, and she declined to let that stand, and it cost her one sentence.
 
 "The shop's a building," she said, working. "What made it worth anything was that a man with a false name worked in the back of it and nobody knew who he was." She drew a thread through. "That's over. You put the name in the record. Everyone I buy fish from knows it."
 
@@ -208,7 +208,7 @@ He got as far as the corner, where Farleen was, and did not say anything for two
 
 The session on Gunastran took an hour, which was about fifty minutes longer than the decision needed.
 
-Nobody argued about the destination. Gunastran built things; Gunastran had built the finest things in the world for a hundred years; the door was, by every appearance anybody had, an engineering problem. Silvanno said one sentence about the Tor'anar — that the corps had been asked, had come, had tried, and had said plainly that the instrument was wrong — and the room let it lie, because it was a settled fact and not a wound, and because the man who had said it had made it easy to leave alone.
+Nobody argued about the destination. Valorian had made the case in one sentence a fortnight earlier and nobody had improved on it since: the door was, by every appearance anybody had, an engineering problem, and there was one nation on the continent whose entire self-regard rested on being able to say what a mechanism was for. Silvanno said one sentence about the Tor'anar — that the corps had been asked, had come, had tried, and had said plainly that the instrument was wrong — and the room let it lie, because it was a settled fact and not a wound, and because the man who had said it had made it easy to leave alone.
 
 What Xion argued about was the shape of the approach.
 
@@ -256,7 +256,7 @@ Xion thought about three people on a platform, narrowing.
 
 "There was nothing," he said. "It was extremely engaged with the Empress and it was not engaged with them at all. Their word was that the working had nowhere to stand."
 
-Thulgrav made a note. One of the others asked about the cycle — nine to ten minutes, restarting — and when Xion confirmed it, the man sat back and said "*hah*" to nobody, in the tone of a man who has just had a small private thought that pleases him, and Xion felt something in his chest come loose that had been tight for two weeks.
+Thulgrav made a note. One of the others asked about the cycle — nine to ten minutes, restarting — and when Xion confirmed it, the man sat back and said "*hah*" to nobody at all, the way people do when a small private thought has just pleased them, and Xion felt something in his chest come loose that had been tight for two weeks.
 
 They were not being polite. They were leaning in. Two of them had begun, without discussing it, to sketch the same thing from different angles on the same sheet of paper.
 
@@ -352,7 +352,7 @@ The room did not immediately understand him.
 
 He gave them the arithmetic from the other side of the table, because that was where it looked best.
 
-From Uratha's chair: a handful of scholars travel to Kaha'an at Balisha's expense and look at something ancient, which might be extraordinary and might be a store room with four centuries of dust in it — and they cannot know which in advance, and neither can anyone else. In return, a dispute that has sat on their books since before their grandfathers' grandfathers is closed in their favor, permanently, with a Balishan seal on it. They never hear the demand again.
+From Uratha's chair: a handful of scholars travel to Kaha'an at Balisha's expense and look at something ancient, which might be extraordinary and might be, as Silvanno had put it in the first session, a store room with four hundred years of dust in it — and they cannot know which in advance, and neither can anyone else. In return, a dispute that has sat on their books since before their grandfathers' grandfathers is closed in their favor, permanently, with a Balishan seal on it. They never hear the demand again.
 
 Even if the door led to nothing, they would not have lost anything real. A three-century diplomatic headache resolved, in exchange for a funded scholarly excursion.
 
@@ -406,11 +406,11 @@ She didn't move.
 
 "I'm not going to stand here and tell you it's certain. It isn't." He set the brief down. "It's better than what we had this morning, which was nothing at all, and I'd rather bring you an honest maybe than a confident lie. You've had enough of those in this building."
 
-Elara looked at him for a while.
+Elara took that in without moving.
 
 "Damn it," she said. "You're right." And then, on a long breath, "Fine. We'll go with this."
 
-That was the whole of it. She did not thank him for the honesty and she did not remark on it. She pushed off the table and went to find Vesk about the escort, and Xion understood that the asking had been the remark.
+And that was all of it. She did not thank him for the honesty and she did not remark on it. She pushed off the table and went to find Vesk about the escort, and Xion understood that the asking had been the remark.
 
 ---
 

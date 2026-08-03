@@ -4711,3 +4711,51 @@ one of the others is legitimate, each denying something its own preceding clause
 **old**. / Not old."*, *"There were no young ones. / Not one."*, *"Not reading."*). **Only the ruin was
 denying nothing.** Cut, and the sentence rebuilt to state the fact directly: the shop was shuttered and it
 was hers and she could not go into it.
+
+---
+
+## 2026-08-02 — B3 ch1–4: a de-duplication pass, because four chapters written in one session share their author's tics
+
+Author's catch: *"Gunastran builds the finest things" is used almost verbatim twice.* It is —
+
+> **ch3:** *"…because Gunastran built things and had built the finest things in the world for a century…"*
+> **ch4:** *"Gunastran built things; Gunastran had built the finest things in the world for a hundred years…"*
+
+— and it was not the only one. **The four Book 3 chapters were drafted inside a single working session, which is exactly the condition that produces repeated constructions**, because nothing about writing ch4 surfaces a phrase used in ch3. Reading any chapter alone will never find these. So this was handled as a class rather than as one line, per §5.
+
+### The instrument, which should be reused before every future chapter is committed
+
+A cross-chapter six-gram comparison over the drafted prose, collapsing overlapping matches. It found **72 distinct repeated spans** across ch1–4. Sorting them by kind is what makes it usable:
+
+- **Deliberate quotation** — the ch1 water-levy line quoted back in ch4, italicised as a quotation. **Correct, and the tool will always flag it.** Leave it.
+- **Place and title** — *the yard behind the customs house*, *the blue light off the walls*, *First Counselor to the Crown*. Repetition is the point.
+- **Generic collocation** — *for as long as it took*, *in the middle of a sentence*. Below the noise floor.
+- **Authorial tic** — everything else, and this is the category the pass exists for.
+
+### What was actually a tic
+
+| | |
+|---|---|
+| ***"That was the whole of it"*** | **eight instances across four chapters**, four of them the identical sentence-opener. Reduced to four, all differently constructed, none repeating the opener |
+| Gunastran / *finest things in the world* | ch4 rebuilt — it now **credits Valorian's ch3 argument** instead of restating it, which converts a repeat into continuity |
+| *"He kept his voice exactly where it had been"* | ch1 keeps it; ch4 → *"He did not let anything into it"* |
+| Vesk's posture, verbatim | ch2 owns *hands behind his back, weight even on both feet*; ch3 → *"in the posture Xion had stopped seeing months ago"* — which is better, because by ch3 Xion **has** stopped seeing it |
+| *"in the flat voice of a man"* | ch2 keeps it; ch3 → *"in the voice a man uses to read out a figure"* |
+| *"in the tone of a man"* | ch1 keeps it; ch4 recast |
+| *"which was its own kind of…"* | ch1 keeps it; ch2 → *"cruel in a way nobody had designed"* |
+| *"a war on and then a court to hold"* | verbatim in ch1 (Elara and the Door) and ch4 (Xion and Janice). ch4 → *"a man who is busy enough is never short of a reason, and he had been very busy indeed"* — which is sharper anyway, because it stops excusing him |
+| *"looked at him for a while"* | three times in two chapters; one cut |
+| Kael's *folio under his arm* | ch1 keeps it; ch4 drops it |
+| Silvanno's *store room with four hundred years of dust* | **kept and attributed** — ch4 now says *"as Silvanno had put it in the first session,"* which turns an unmarked echo into a man carrying a phrase out of a meeting |
+
+**Two of the fixes improved the sentence rather than merely varying it**, which is the tell that they were worth doing: Vesk's posture and the war-and-court excuse both say something truer in their replacements than in their originals.
+
+### Kept deliberately
+
+*"He had watched his father do this"* (ch1) and *"which he had watched his father do a thousand times"* (ch4) stay. **That is a thread, not a tic** — Xion noticing his own inherited gestures is load-bearing across the series, and the second instance is him catching himself mid-gesture rather than observing Rosik.
+
+### The procedure
+
+**Run the six-gram check across all drafted chapters of a book before committing a new one.** Reading a chapter in isolation cannot find this class, and the failure compounds: every chapter written in a session adds its tics to the pool the next one draws from. `Book 3 - Crown Jewel/Chapters/*.md`, six-gram, collapse overlaps, sort into the four kinds above, and only act on the fourth.
+
+No word-count change worth reporting; the edits are substitutions.

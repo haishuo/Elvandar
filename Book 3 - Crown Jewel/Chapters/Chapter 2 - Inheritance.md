@@ -128,7 +128,7 @@ And it did not open.
 
 ---
 
-It took a while for anybody to be certain of that, which was its own kind of cruelty.
+It took a while for anybody to be certain of that, which was cruel in a way nobody had designed.
 
 The mechanisms ran. They ran for a long time, and they ran well — nothing in the sound of them suggested strain or damage or age. They completed something, and there was a pause of perhaps two heartbeats in which every person in that chamber leaned forward very slightly, and then they began again from the beginning.
 
