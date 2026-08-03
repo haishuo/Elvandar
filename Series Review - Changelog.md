@@ -5846,3 +5846,31 @@ while fixing an invented thing, and it went in with more confidence than the err
 felt like the product of research. **Check the replacement against the file, not just the original.**
 
 Chapter now 5,472 words. Beat 17 rewritten, footer note added.
+
+### "What is *both*?" — a line that sounded like a line
+
+**Author's catch, and it is the same fault as the *Refuse the First Counselor* sentence three hours
+earlier.** A woman recognises Xion in the upper Warrens, starts *"You're not — "*, and he answers
+*"Both, more or less."* **She has not named two things.** There is no antecedent anywhere in the exchange;
+the word is answering a sentence she never finished, and the reply only *sounds* like an answer because it
+has the cadence of one. **Twice in one chapter a clever-sounding line was allowed to stand in for a
+parsable one, and both times the tell was a pronoun or a quantifier with nothing behind it.**
+
+**The second half of the catch was harder and better: *what is this exchange for?*** Its only function was
+to establish that people in the upper levels know Master Fen — which **the paragraph immediately above it
+already states outright.** By the house test that makes it an illustration of a thing already told, and an
+illustration that needs its own dialogue to explain itself. It should have been cut on sight.
+
+**It was kept, because one detail inside it was doing real work and the rest was packaging.** The hand.
+He set it four years ago by lamplight in a room with no table, it works, **it healed crooked and will never
+be right, and she does not appear to have noticed.** That is five things at once — that he worked here,
+that he remembers individual patients years later, what his conditions were, what his results were, and
+that the people who received them do not complain. Nobody says any of it, and it lands two lines before
+*the work had a floor*, which it now sets up instead of delaying.
+
+**One clause was written and cut in the same pass** — *"she had not come back, and he had not been there to
+come back to."* Rhythmically the best sentence in the exchange and unsupported in both halves: nothing
+establishes why she did not return, and the clinic's closure is Book 2's business, not a thing to be
+asserted in passing here. **A cadence that good is exactly when to check whether the content is real.**
+
+Chapter now 5,494 words.

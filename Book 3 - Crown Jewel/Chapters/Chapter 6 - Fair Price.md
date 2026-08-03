@@ -198,15 +198,11 @@ The first part of it he could have walked blind, and that was the thing he had n
 
 Eight years of a second life had gone up and down the upper levels. He knew which stair on the second landing had a bad tread and which junction stood in water after rain and which of the long galleries you did not use after dark, and none of it had left him, and none of it had ever been useful for anything except getting to somebody who was bleeding.
 
-A woman selling something unidentifiable out of a crate looked at him twice and said, "Master Fen?"
+A woman selling something out of a crate looked at him twice and said, "Master Fen?" — and then looked at his boots, which were good boots, and did not finish whatever the rest of it was going to be.
 
-"Hello," he said.
+"How's the hand?" he said.
 
-"You're not — " She stopped. She had clearly heard something, and equally clearly had not believed it, and was now looking at his boots, which were good boots.
-
-"Both, more or less," he said. "How's the hand?"
-
-She held it up. It had healed crooked. He had set it four years ago by lamplight in a room with no table.
+She held it up and turned it over for him with the pleased air of a woman showing off something that worked. He had set it four years ago by lamplight in a room with no table. It did work. It had also healed crooked, and would never be right, and she did not appear to have noticed.
 
 Then, somewhere past a hundred meters, the knowledge ran out.
 
