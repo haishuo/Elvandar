@@ -310,6 +310,25 @@ empty Warrens chair is still empty. Ronas Dermir is unresolved from ch1 through 
 stands. **Either the crown reaches him, or somebody names the fact that it never did.** Silence is the one
 option this thread does not have.
 
+**Casting minor characters — a standing check, added on the author's ruling 2026-08-02.** The author flagged
+that the invented minor cast of B3 ch1–4 had gone lopsided. **The raw count was 3 female to 6 male, so the
+count was not the problem — the *slots* were.** Every minor character given interiority, expertise or a
+beat of their own came out female (the Long Knives guide, the silent Tor'anar who goes still when the grant
+lands, Engineer Adren Thulgrav, the Gunastran factor), while every male one was a functionary with no inner
+life (the undersecretary, the surveyor, the quartermaster, the junior adviser). Storm-Marshal Ilareth was
+the single exception. **A reader registers the characterized roles, not the headcount**, which is why it
+read as *every NPC*.
+
+**It compounds, because the senior canon cast is already female-weighted by design** — Elara, Sa Ko Ren,
+Tania Larannas, Janice, Farleen, the Mistress, Melina, Kess, Ondra Kelgrav, Thalia Neth, Perrin Halmore,
+Wilka Zarnstran. That is the series as built and none of it is in question. **What it means is that female
+is not a neutral default for a new expert role; it is a thumb already on the scale.**
+
+**The check, before writing any new minor character with a line of characterization:** list the last three
+or four invented roles of comparable weight and see which way they lean. If the notable slots have been
+running one way, cast the other. **Ruled 2026-08-02: the ch3 battle-mage and the ch4 factor are male**; the
+guide and Thulgrav stay as written.
+
 ---
 
 ## 3. Outstanding work

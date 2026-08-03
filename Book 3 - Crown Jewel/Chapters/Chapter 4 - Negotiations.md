@@ -266,7 +266,7 @@ For about twenty minutes it was the best room he had been in since the winter.
 
 Then the consortium's factor began to speak, and the room did not change temperature so much as change *category*.
 
-She was not hostile. Xion wanted to be clear about that afterward, when he reported it, because the word people reach for is *obstructive* and it would have been wrong. She was a professional asking the questions her position obliged her to ask, in order, from the top.
+He was not hostile. Xion wanted to be clear about that afterward, when he reported it, because the word people reach for is *obstructive* and it would have been wrong. He was a professional asking the questions his position obliged him to ask, in order, from the top.
 
 Who bore transport for specialists and equipment across a continent, and on what schedule of advance.
 

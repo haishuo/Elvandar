@@ -4759,3 +4759,51 @@ A cross-chapter six-gram comparison over the drafted prose, collapsing overlappi
 **Run the six-gram check across all drafted chapters of a book before committing a new one.** Reading a chapter in isolation cannot find this class, and the failure compounds: every chapter written in a session adds its tics to the pool the next one draws from. `Book 3 - Crown Jewel/Chapters/*.md`, six-gram, collapse overlaps, sort into the four kinds above, and only act on the fourth.
 
 No word-count change worth reporting; the edits are substitutions.
+
+---
+
+## 2026-08-02 — B3 casting: the ch3 battle-mage and the ch4 factor are male
+
+Author's ruling. The invented minor cast of ch1–4 had gone lopsided and the author called it.
+
+**The raw count was 3 female to 6 male, so the count was not the finding.** The finding is which slots they
+sat in:
+
+| Given interiority, expertise or a beat | Functionaries with no inner life |
+|---|---|
+| the Long Knives guide (ch2) | the undersecretary (ch1) |
+| the silent Tor'anar who goes still (ch3) | the senior surveyor (ch2) |
+| Engineer Adren Thulgrav (ch4) | the quartermaster (ch2) |
+| the Gunastran factor (ch4) | the junior adviser (ch3) |
+
+All four in the left column were female. All four in the right were male. **Storm-Marshal Ilareth is the
+only male minor character in four chapters who is given anything to be.** A reader registers the
+characterized roles and not the headcount, which is exactly why it read as *every NPC*.
+
+**And it compounds, which is the part worth keeping.** The senior canon cast is female-weighted by design —
+Elara, Sa Ko Ren, Tania, Janice, Farleen, the Mistress, Melina, Kess, Ondra Kelgrav, Thalia Neth, Perrin
+Halmore, Wilka Zarnstran — and none of that is in question. **What follows from it is that female is not a
+neutral default for a new expert role in this series; it is a thumb already on the scale.** Four
+consecutive draws in the same direction on top of that reads as a tic in exactly the way the repeated
+phrasings did.
+
+### Changed
+
+- **The younger of the two Tor'anar at the platform's edge (ch3)** — the one with the set jaw, who does not
+  speak in three hours and goes still when Elara grants the deputation. Now male. *He* picks up his coat.
+- **The Gunastran consortium's factor (ch4)** — the five contract questions, the polite and final refusal.
+  Now male. Still deliberately unnamed and called only *the factor*: the engineers are people and the
+  contract is an institution, and a name would soften a wall the chapter needs to stay a wall.
+
+**Unchanged:** the Long Knives guide and Engineer Adren Thulgrav.
+
+### The standing check, now in the master list
+
+Before writing any new minor character who gets a line of characterization, **list the last three or four
+invented roles of comparable weight and see which way they lean.** If the notable slots have been running
+one way, cast the other. This is the same class of error as the six-gram phrase repeats logged above —
+invisible inside any single chapter, obvious across four — and it wants the same remedy, which is a check
+run across the book rather than a judgment made in the moment.
+
+`Chapters/Chapter 3 - Storm-Line.md`, `Chapters/Chapter 4 - Negotiations.md`, both beat drafts,
+`Series Review - Master List.md`; Royal Road regenerated.

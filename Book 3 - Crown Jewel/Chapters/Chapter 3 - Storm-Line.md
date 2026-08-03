@@ -130,7 +130,7 @@ So was the third, and the fourth, and by the fifth Xion had stopped watching the
 
 And it was costing them.
 
-He read it in the order he always read it. The breathing first, which changed in the second hour and did not change back — deeper, slower, deliberately managed, the breathing of someone who has decided to control the one thing still available to be controlled. Then the jaw on the younger of the two at the edges, set in a way that was going to give her a headache by evening. Then, in the third hour, the hands.
+He read it in the order he always read it. The breathing first, which changed in the second hour and did not change back — deeper, slower, deliberately managed, the breathing of someone who has decided to control the one thing still available to be controlled. Then the jaw on the younger of the two at the edges, set in a way that was going to give him a headache by evening. Then, in the third hour, the hands.
 
 The tremor came late, which told him it was fatigue and not fear. It arrived in Ilareth's left hand between one attempt and the next, a fine thing, nothing dramatic, and the man put the hand flat against his thigh for the length of four breaths and it stopped, and he lifted it again and went back to work. Twenty minutes later it came back. He did the same thing. It stopped.
 
@@ -214,7 +214,7 @@ It cost her nothing. Xion was sure of that. He watched her turn away from it ent
 
 He was watching the other side of the chamber, though, because he had spent his life watching the other side of chambers, and what happened there was very small and he would have missed it if he had been anywhere else. The younger of the two battle-mages at the edge of the platform — the one with the jaw, who had not spoken once in three hours — went absolutely still for a moment. Not startled. Not pleased. Still, in the way people go still when something arrives that they had stopped constructing a version of the future that contained.
 
-Then she picked up her coat.
+Then he picked up his coat.
 
 ---
 
