@@ -166,9 +166,11 @@ and Elara at Lathion with no security presence at all from either institution sh
 flag had been acted on for one institution and not the other.**
 
 **The Arol Batae were already there.** B3 ch2 puts **Commander Vesk** at the Brass Door running the first
-expedition — he negotiates the passage with the Long Knives, holds the expedition back when Elara steps
-up to the Door alone, and watches the mechanism light up *"with the face of a man collecting
-information."* The presence is established; it simply lapsed after ch2 and had to be carried forward into
+expedition — he buys the passage through the Slaver-held upper shafts, holds the expedition back when
+Elara steps up to the Door alone, and watches the mechanism light up *"with the face of a man collecting
+information."* *(Corrected 2026-08-02: this previously said he negotiated with the Long Knives. He didn't —
+the Long Knives are Elara answering the standing invitation the Mistress issued in B1 ch21, and Vesk is
+overruled on their terms inside four words. What Vesk buys is Ronas's ground.)* The presence is established; it simply lapsed after ch2 and had to be carried forward into
 the Lathion chapters.
 
 **The Tor'anar were genuinely absent** from every Book 3 document. They are now in the ch5–ch8 drafts and

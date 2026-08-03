@@ -9,6 +9,8 @@
 
 ## Beats
 
+0. **Open on what the session displaced.** Ch1 closed with Xion asking, in front of witnesses, that the council's first sitting be about the Warrens — because there was a chair in that room nobody was sitting in. This is that first sitting, and it is about the Door. Nobody argues; nobody needs to; *the Warrens will keep* is the sentence in everybody's head and it is entirely reasonable and Xion cannot find anything true to say against it. **One paragraph, no comment, and move on** — it pays ch1's request, it keeps the Ronas thread from going silent, and it costs eighty words.
+
 1. The advisory session convenes on the practical problem left by Chapter 2. The Door responded to Elara and did not open. Nobody in the room disputes what that means: the mechanism is not broken and it is not indifferent. It recognised her and declined. What it needs is not force but **operation**, by someone who understands what they are operating.
 
 2. The room's assumption forms without anyone stating it, which is how assumptions form. The expertise is foreign. It is a question of *which* foreigner — Gunastran's engineers, Uratha's scholars, and the relative cost of each. Two advisors are already several sentences into the comparison.
@@ -25,7 +27,13 @@
 
 8. **They arrive fast.** Faster than the distance allows for comfort. The implication is not stated by anyone in the room and does not need to be: the summons did not find them scattered and unready. It found them waiting, and they had been waiting for a while.
 
-9. Three of them. Xion's first sight of the corps is not martial in any way he expected. He was braced for something like the Arol Batae and gets something considerably stranger — older in bearing, quieter, and dressed for work rather than for a court.
+    **The figures, so they do not drift.** The corps holds old imperial grant land north and east of the city, past the reclamation line — **two days' ride each way** for a rider who does not stop. The summons goes out on the third day and reaches them on the fifth; they are in Kaha'an on the eighth. **That leaves one day at the outside** to receive an instrument no living member of the corps has ever seen, verify it, decide what it means, choose who is going, prepare, and go. Xion does the sum without deciding to, because he does the sum on everything, and he suspects he is not the only one in the palace who has.
+
+9. Three of them. Xion's first sight of the corps is not martial in any way he expected. He was braced for something like the Arol Batae and gets something considerably stranger — quieter, unarmed as far as he can see, dressed for a road rather than for a court.
+
+    **And the observation that does the real work is one only a physician makes: there are no young ones.** Not one. The senior is about fifty-five and the youngest of the three is over forty, and there is no twenty-year-old carrying a case, no half-trained boy at the back learning how it is done. **An institution sends its old hands to speak and its young ones to watch**, because that is how the thing gets passed along — and this one has sent three people in middle age and no witnesses at all. Xion is looking at an entire generation not being there, and at the fact that everybody who knew how to summon these people died in the same season as everybody who should have been walking behind them now. **He works it out off bodies in the time it takes them to cross a colonnade, and says nothing.** No exposition anywhere in the chapter does this job; this beat does all of it.
+
+    *(Canon: the post-coronation intake is real but still too green for any posting, so the corps' active strength is the lean-years cohort. The absence is not a metaphor.)*
 
 10. **The Door, and the descent to it.** The passage below the tunnels is cramped and low-ceilinged, and Xion notices Ilareth notice this. It is the first flicker of a problem, hours before anyone names it, and the reader should have it before the characters do.
 
@@ -45,9 +53,15 @@
 
 18. **Elara names the contradiction, dryly.** They have just told her to bring these people in and told her in the same breath not to trust them. Ilareth agrees that this is correct. **He does not smile, elaborate, or appear to notice that anything amusing has occurred**, and the exchange is funny for exactly that reason and must never be staged as though anyone is joking.
 
-19. **She grants it, and the grant is tiny.** No ceremony, no speech, no acknowledgment that anything has changed. She has no relationship with this institution and the yes costs her nothing at all. **What it means on the other side of the room is enormous and nobody registers it**, which is the note the chapter goes out on.
+19. **She grants it, and the grant is tiny.** Four seconds — *three, then; name them when you have chosen* — and she turns to Vesk about lamp oil. No ceremony, no speech, no acknowledgment that anything has changed, because as far as she is concerned nothing has: a professional body made a reasonable request in its own area and she said yes, in a tent forty feet from a door that will not open, in the middle of a bad afternoon. It costs her nothing.
 
-20. Coda. The Tor'anar leave as they came. Xion, who has spent the entire session watching people rather than magic, is left holding the one observation nobody asked him for: that the corps came at a run, failed in public, argued itself out of the work, and asked only to stand near her — **and that at no point in any of it did anyone thank them.**
+    **What it means on the other side of the room is enormous and nobody registers it — so give it to one silent supporting mage and give it four words.** The younger of the two at the platform's edge, who has not spoken once in three hours, goes completely still for a moment. Not startled, not pleased. **Still, the way people go still when something arrives that they had stopped constructing a future that contained.** Then she picks up her coat. **Xion catches it only because he was looking at the wrong side of the chamber, which is where he always looks.** Nothing else marks it and nothing later refers back to it.
+
+20. Coda. The Tor'anar leave as they came. Xion does the accounting alone in the yard, because nobody else in the world is going to: excavated summons, cleaned seal, a ride made in less time than the road allows, three hours' work in a space that was wrong for them, a five-word failure, an unprompted argument against their own interest, and one request — permission to stand near her while somebody else does the work. **And at no point in any of it did anyone thank them.**
+
+    **Give the omission four good reasons and let the sum still be nothing.** Not Elara — and that is not coldness, nobody ever taught her this was an institution a person thanks, because nobody taught her it was an institution. Not the advisers, who did not come down. Not Vesk, who remembered they existed and would consider it presumption. Not Xion, who noticed at the time and said nothing, because a First Counselor thanking the Empress's own corps on the Empress's behalf, in front of the Empress, is a small usurpation dressed as a courtesy. **Four reasons, and it is still nothing, and that is the note the chapter goes out on.**
+
+    **He writes one line about it in the back of his own ledger** — undated, unexplained, where he puts things that are not anybody's business, so he will have it when it turns out to matter. *(This is the plant. The corps is right about the Urathans in ch10 and ch12, and this line is what the reader will remember when it lands.)*
 
 ---
 

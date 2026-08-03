@@ -4014,3 +4014,102 @@ the Act IV Xion parallel rewritten; the aftermath and synthesis; three structura
 and the Melina echo) · `People/Melina Valanar.md` (the harder half of her lesson) · `People/Tiberian
 Valanar.md` (right about waiting, wrong about what speed buys; the concession his line must carry). No
 prose exists for Book 6.
+
+---
+
+## 2026-08-02 — Book 3 Chapter 3, "Storm-Line" — prose drafted
+
+`Book 3 - Crown Jewel/Chapters/Chapter 3 - Storm-Line.md`, **4,862 words**, against ch1's 4,185 and ch2's
+4,690. Same order of operations: skeleton, beat draft, the Tor'anar file, then the ch2 prose the chapter
+rests on.
+
+**The draft held.** Unlike ch2, nothing in the plan had to be renegotiated — the beat draft was written
+this week and against the right sources. What follows is what the prose added on top of it, all of which
+went back into the draft in the same commit.
+
+### The opening, which pays a debt from ch1
+
+Ch1 closed with Xion asking, in front of witnesses, that the council's first sitting be about the Warrens,
+*"because there was a chair in this room that nobody was sitting in."* **This is that sitting, and it is
+about the Door.** Nobody argues and nobody needs to; *the Warrens will keep* is the sentence in everybody's
+head, entirely reasonable, and he cannot find a true thing to say against it. Eighty words, no comment.
+
+It costs nothing and does three jobs: it collects on ch1, it keeps the Ronas thread from going silent
+across sixteen chapters (master list §2 requires that either the crown reaches him or somebody names that
+it never did), and it puts the reader in the exact posture the book wants — watching a reasonable
+displacement happen to a thing that will not survive being displaced.
+
+### The chapter's best exposition is a physician's observation, and no dialogue does any of it
+
+Beat 9 asked for "older in bearing, quieter." What the prose found is sharper and is Xion's actual
+instrument: **there are no young ones.** No twenty-year-old carrying a case, no half-trained boy at the
+back learning how it is done. **An institution sends its old hands out to speak and its young ones out to
+watch**, because that is how the thing gets passed along — and this one has sent three people in middle age
+and no witnesses at all.
+
+He works it out off bodies in the time it takes them to cross a colonnade: an entire generation not being
+there, and everybody who knew how to summon these people dying in the same season as everybody who should
+have been walking behind them now. **Twenty years of institutional history, delivered without a line of
+dialogue and without the narrator explaining anything.** It is also canon rather than invention — the
+post-coronation intake is real and still too green for a posting, so the active strength is the lean-years
+cohort.
+
+### The failure, read as a body
+
+Beat 11 asked for effort read off bodies, and the specific implementation is worth keeping: the breathing
+changes in the second hour and does not change back; the jaw on the younger mage sets in a way that will
+cost her a headache by evening; **the tremor arrives late, which is what tells Xion it is fatigue and not
+fear.** Ilareth puts the hand flat against his thigh for four breaths and it stops, and twenty minutes
+later it comes back and he does the same thing again — which is what a competent person does when the body
+has begun filing objections and the work is not finished. Xion has done it himself at bedsides.
+
+And the attempts **narrow**: each one smaller and more localized than the last, which is not flailing, it
+is elimination. He stops watching the door in the second hour because the more interesting thing is that
+they are finishing a list they already know the end of, and are finishing it because the crown is standing
+behind them.
+
+### The road arithmetic, pinned so it cannot drift
+
+Two days' ride each way. Summons out on the third day, into their hands on the fifth, in Kaha'an on the
+eighth — **one day at the outside** to receive an instrument no living member of the corps has ever seen,
+verify it, decide what it means, choose who is going, prepare, and go. Xion does the sum without deciding
+to and suspects he is not the only one who has. *(An earlier pass had them arriving on the fifth, which the
+same arithmetic makes impossible. Caught before commit.)*
+
+### The grant, and the four words that carry it
+
+The draft said the grant means something enormous on the other side of the room and nobody registers it.
+The implementation gives that to **one silent supporting mage and four words**: the younger of the two at
+the platform's edge, who has not spoken in three hours, goes completely still — not startled, not pleased,
+*still, the way people go still when something arrives that they had stopped constructing a future that
+contained* — and then picks up her coat. Xion catches it only because he was looking at the wrong side of
+the chamber, which is where he always looks. Nothing later refers back to it.
+
+### The close, and the plant
+
+The coda gives the omission **four good reasons and lets the sum still be nothing**: not Elara, and that is
+not coldness — nobody ever taught her this was an institution a person thanks, because nobody taught her it
+was an institution; not the advisers, who did not come down; not Vesk, who remembered they existed and
+would consider it presumption; not Xion, because a First Counselor thanking the Empress's own corps on the
+Empress's behalf, in front of the Empress, is a small usurpation dressed as a courtesy.
+
+**Then he writes one line about it in the back of his own ledger** — undated, unexplained, where he keeps
+things that are not anybody's business, so he will have it when it turns out to matter. That is the plant
+for ch10 and ch12, where the corps turns out to have been right about the Urathans.
+
+### Corrected in passing
+
+The Tor'anar file said B3 ch2 has Vesk *"negotiat[ing] the passage with the Long Knives."* He doesn't —
+Vesk buys Ronas's ground, and the Long Knives are Elara answering the Mistress's standing invitation from
+B1 ch21, on terms Vesk is overruled about inside four words. Written before ch2 existed; corrected now.
+
+Also: *"They were narrowing"* was set in bold, which is three words. House style puts multi-word emphasis
+in italics; bold is single-word stress only. Fixed. The chapter's only bold spans are **first** and
+**old**.
+
+### Files
+
+`Chapters/Chapter 3 - Storm-Line.md` (new) · `Beat Drafts/Chapter 3 - Storm-Line.md` (new beat 0; the road
+figures added to beat 8; the no-young-ones observation added to beat 9; beats 19 and 20 rewritten with the
+implementations above) · `book3_chapter_skeleton.md` (ch3 entry) · `Places/Kaha'an/The Tor'anar_ Balisha's
+War-Magic Corps.md` (the ch2 correction) · `Royal Road/` regenerated for Book 3, now four chapters.
