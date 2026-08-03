@@ -5629,3 +5629,52 @@ table claims eighteen chapters and calls *Negotiations* ch3 — it was never upd
 in on 2026-08-01, so it had been silently wrong for two days and is now two behind. It was deliberately
 **not** renumbered: half-correcting a document nothing downstream validates is how it went wrong the first
 time. The banner names what in it is still worth salvaging into the skeleton before it is deleted.
+
+### Prose written the same day — 5,050 words
+
+**Nine scenes, following the beat draft without departure.** The road home and the pen; the treaty read
+into the record and Sa Ko Ren asking for a demonstration; the practical session where Kael's ch1 cart
+question pays; Farleen's Long Knives case and her own refutation of it; Elara losing the argument about
+who goes; the descent; the Iron Hall; the climb out; the camp.
+
+**Pre-commit checks caught eleven repeats, and one of them mattered.** The six-gram sweep across all
+seven chapters returned 105 collisions, most of them the deliberate callbacks the chapter exists to pay —
+*a market with a king in it*, *four shafts on the north side and a stretch of the third tier*, *arrangements
+made in corridors by men who never had to write anything down*, *there are men in the Passage who had maps.*
+Those stay. Eleven were accidental and were varied. **The serious one: I had written Xion's merchant
+instinct as *"It arrived the way a word arrives"* — which is ch7's image for Elara's Lathion recognition,
+*"the knowledge arrived the way a word arrives on the tip of the tongue."*** Reusing it would have flattened
+hers into a general-purpose figure for intuition. Replaced with something that belongs to him and to nobody
+else: *one of the things he knew, the way he knew the weight of a grain sack.*
+
+Also varied: *kept his voice exactly where it had been* (already retired once as a tic in an earlier pass
+and reintroduced here), *let that sit exactly as long as*, *looked at him for a long moment*, *somebody at
+the far end of the table*, *hands flat on the table*, *knew what he was looking at* (which stood at three
+instances across ch2, ch5 and ch6), *so that nobody could later claim*, and one narrated *the whole of it* —
+Ronas keeps his spoken one, because it is his idiom and not the narrator's.
+
+**Two drafting artifacts were caught by the meta-term grep** and are worth recording because they are a new
+failure mode rather than a craft one: `the way ch of the arguments` and `in Book of her worst weeks`. Both
+are tokens from the renumbering sweep run earlier the same session bleeding into freshly written prose. **The
+meta-term check exists to keep *Book* and *Chapter* out of the narration and it caught them for the wrong
+reason**, which is an argument for running it on every chapter rather than only when meta-language is
+suspected.
+
+**And one dating error the check did not catch.** A line read *an expression he had learned to read across a
+bad winter*, which quietly places Elara's worst stretch in Book 1 — the winter of her coronation. Her worst
+stretch is Book 2. The phrase was doing nothing the sentence needed, so it went rather than being corrected
+into a different interval; **`Story Timeline.md`'s warning about intervals now cuts in both directions**, and
+the cheapest response to an interval you cannot justify is to not state one.
+
+**Ronas's voice was checked mechanically before commit** against the lock in `People/Ronas Dermir.md`. No
+full *-ing* forms anywhere in his speech; *payin'*, *takin'*, *somethin'*, *comin'*, *tellin'*, *ain't*,
+*I got*, *you got*, *don't answer none of it*, *'em*, *kid*, and **his longest and most serious speech is
+also his broadest**, which is the specific thing the guardrail exists to protect. He takes the seat and
+denies what it is in the same breath — *Don't go tellin' anybody I asked for a chair* — and Xion answers
+*You didn't ask for it. I offered it*, which is the whole transaction and the only mercy available in it.
+
+**Melina is not named by either man.** There are two seconds in the scene where she is the subject and
+neither of them spends her.
+
+**Length: 5,050 words**, between ch5 (5,382) and ch2 (4,703), which is where a chapter of this function
+belongs. Royal Road regenerated — seven files.
