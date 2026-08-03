@@ -4457,3 +4457,64 @@ chapter now runs 1–26 with the gamble at 25 and the closing beat at 26, and th
 cross-reference was updated with it.
 
 `Beat Drafts/Chapter 4 - Negotiations.md` · `book3_chapter_skeleton.md` (ch4 entry).
+
+---
+
+## 2026-08-02 — How did the Tor'anar survive, if their headquarters was outside Kaha'an? They didn't, and it wasn't.
+
+Author's question, and it was a genuine rule 1 hole **that I created in drafting ch3.** The line put the
+corps' establishment *"on old imperial grant land north and east of the city, out past the reclamation
+line"* — extrapolated from the file's real statement that they are funded by *"old imperial land grants and
+endowments,"* which is an endowment, not an address. Everything downstream of that invention — a two-day
+ride each way, a summons landing on the fifth, an arrival on the eighth, and the whole *"faster than the
+road allows"* beat — was built on it.
+
+**Two independent arguments say the compound has to be inside the city, and either one is sufficient.**
+
+- **`Magic/The Rending.md` is explicit that the wards are the only reason anything survived.** *"Kaha'an
+  itself survived, protected by ancient imperial wards"*; outside them, *"every living thing it touched —
+  crop, beast, and person — died in the instant."* The Tor'anar's survivors, per their own file, are
+  **trainees, retirees, mages ruled unfit years earlier, and the administrative staff.** Those are the
+  people who **stayed home.** If home is beyond the wall, none of them exist and there is no corps in
+  Book 3 at all.
+- **They maintain the wards** — the same file says so twice, and **you do not maintain a city's wards from
+  outside them.** Their entire peacetime function is a standing-watch job on the fabric of one specific
+  city.
+
+**So the loss was the field and none of it was the house.** The manhunt is what did it: dispersed across
+the province in the pattern an unlocated threat requires, caught in the open, walking in from a dozen
+directions into the same dead ground. **The compound never fell; it emptied of everyone good enough to
+have been sent out.** And the land grants took the same blow from the other side — grant land in the
+province is Gray Waste now, so what survived is what sat inside the wards, which is exactly why the "fixed
+resources" ceiling in that file is real rather than decorative.
+
+### The correction is not a patch — it is better than what it replaces
+
+The compound is in the **Imperial Quarter, four streets from the Ruby Palace**, among the administrative
+buildings of the old empire. So the summons leaves the registry after breakfast on the third day and they
+are in the colonnade that afternoon: **the palace took three days to work out how to ask, and they took a
+morning to answer, most of which was somebody walking.**
+
+**The original beat was about speed. The real beat was never speed — it is that nothing about their
+invisibility was ever distance.** Vesk's line becomes literal and considerably worse for it: *"they have
+existed the entire time"* — four streets away, holding up the foundations of the city, for the entire life
+of every character in the series. Xion gets one sentence on having walked past that gate a thousand times
+without wondering what was behind it, and the observation that so had everybody else in that chamber.
+
+**And it sharpens Elara's flaw rather than softening it.** Her never thinking of them is no longer partly
+excused by their being somewhere out past the reclamation line. They are a walk away, and she was raised
+by soldiers, and her hand simply does not make that shape.
+
+### Files
+
+`Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md` (new section, "Where the establishment is, and
+it is the reason anyone survived at all") · `Book 3 - Crown Jewel/Chapters/Chapter 3 - Storm-Line.md` (the
+arithmetic paragraph rewritten; three downstream road references corrected, including the arrival
+description, which had them walking in off a two-day road) · the ch3 beat draft (beat 8) ·
+`book3_chapter_skeleton.md` (ch3 entry) · Royal Road regenerated.
+
+**The lesson, which is the same one this document keeps recording:** the invented detail was small,
+plausible, and derived from a real line — and it took a three-word extrapolation (*grant land* → *the corps
+lives on grant land*) to contradict the single most load-bearing fact in the world's backstory. **Check an
+invented location against `The Rending.md` before writing it**, because in this setting *where a thing was
+twenty years ago* is never a neutral detail.

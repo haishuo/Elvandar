@@ -38,6 +38,45 @@ Because the search had been a real manhunt, spread across real ground, the corps
 
 What was left afterward was not a corps so much as its scaffolding: trainees, retirees, mages ruled unfit for field service years before, and administrative staff who kept the wards running because someone had to. Genuinely combat-worthy survivors numbered as few as two or three. Everyone who had been good enough, and out in the field looking, was gone.
 
+### Where the establishment is, and it is the reason anyone survived at all
+
+*Pinned 2026-08-02 on an author's question — **how did the Tor'anar survive if their headquarters was
+outside Kaha'an?** They didn't, and it wasn't. The premise came from a line in B3 ch3 putting their
+establishment on grant land out past the reclamation line, which was invented in drafting and is now
+corrected. The correction is not a patch; the corps could never have been anywhere else.*
+
+**The Tor'anar compound is inside Kaha'an, in the Imperial Quarter, among the administrative buildings of
+the old empire.** Two independent arguments force it and neither is negotiable:
+
+- **`Magic/The Rending.md` is explicit that the wards are the only reason anything survived.** *"Kaha'an
+  itself survived, protected by ancient imperial wards"*; outside them, *"every living thing it touched —
+  crop, beast, and person — died."* An establishment beyond the wall would have lost the trainees, the
+  retirees, the unfit and the clerks along with everyone else, and those are precisely the people this
+  document says came through. **The survivors are the ones who stayed home. Home therefore has to be
+  somewhere survivable, and in that province on that day there was exactly one such place.**
+- **They maintain the wards.** This file already states it twice — the administrative staff *"kept the
+  wards running because someone had to,"* and the corps felt the Gray Gate and the Ruby Throne recognise
+  Elara *"directly,"* because *"they maintain whatever ancient system underlies the city's wards."* **You
+  do not maintain a city's wards from outside them.** The corps' entire peacetime function is a
+  standing-watch job on the fabric of one specific city, and it has to be performed on site.
+
+**So the whole loss was the field, and none of it was the house.** The manhunt is what did it: the corps
+had spread across the province in the dispersed pattern a live unlocated threat requires, and the wave
+took them scattered and in the open, walking in from a dozen directions into the same dead ground. **The
+compound never fell. It simply emptied of everybody who had been good enough to be sent out.**
+
+**The land grants are the endowment, not the address**, and the Rending gutted the outer half of them —
+grant land in the province is Gray Waste now. What survived is what sat inside the wards: city property,
+rents, and the imperial instruments that cannot be revoked by a cartel. **That is exactly why the "fixed
+resources" ceiling above is real**: the corps is genuinely self-sufficient and genuinely cannot expand,
+because half its capital died on the same afternoon as its field strength.
+
+**A note for any chapter that stages them.** They are four streets from the Ruby Palace and have been for
+the entire life of every character in this series. **Nothing about their invisibility is distance.** When
+Vesk says *"they have existed the entire time,"* it is meant literally, and it is worse for being literal:
+Elara has never once thought of an institution that has been maintaining her city's foundations from
+inside walking distance since before she was born.
+
 ---
 
 ## Twenty Years of Quiet

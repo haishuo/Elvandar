@@ -62,17 +62,19 @@ The summons went out on the third day.
 
 ---
 
-They arrived on the eighth.
+They arrived that same afternoon.
 
-Xion did the arithmetic on it before he had entirely decided to, the way he did arithmetic on everything — the corps kept its establishment on old imperial grant land north and east of the city, out past the reclamation line, and he had been out that way twice and knew what the road was. Two days each way for a rider who did not stop. So the summons had gone into their hands on the fifth, and two of the three days after that had been spent on the road coming back. Which left one, at the outside, for a body of men to receive an instrument no living member of their institution had ever seen, verify it, decide what it meant, choose who was going, prepare, and go.
+Xion did the arithmetic on it before he had entirely decided to, the way he did arithmetic on everything, and there was almost none to do. The corps kept its establishment in the Imperial Quarter, in among the administrative buildings of the old empire — four streets from the palace, and something under half an hour on foot from the room in which a council had spent an afternoon deciding to look abroad. The summons had left the registry after breakfast.
 
-They had not been scattered. They had not been unready. They had been sitting where they were, in whatever state of readiness people sit in when they have been waiting for something for twenty years, and when it came they had put their boots on.
+It had taken the palace three days to work out how to ask. It took them the length of a morning to answer, and most of that was somebody walking.
 
-Nobody in the palace said any of that aloud. Xion suspected he was not the only one who had done the sum.
+They had not been scattered and they had not been unready. They had been where they had been for twenty years, which was four streets away, in whatever state of readiness people sit in when they have been waiting that long — and when it finally came they had put their coats on and come.
+
+Xion had walked past that gate a thousand times in his life without once wondering what was behind it. So, evidently, had everybody else in that chamber. Nobody said any of it aloud, then or afterward, and he suspected he was not the only one who had done the sum.
 
 There were three of them, and the first thing that struck him was that he had prepared for the wrong thing entirely.
 
-He had expected something like the Arol Batae, because the Arol Batae were what he knew: hard young men and women with a great deal of carriage, moving as a unit, taking up a precise and deliberate amount of space. What came up the colonnade instead was three people in plain traveling coats over plain working clothes, unarmed as far as he could see, walking at the unhurried pace of professionals who had been on a road for two days and were not going to pretend otherwise.
+He had expected something like the Arol Batae, because the Arol Batae were what he knew: hard young men and women with a great deal of carriage, moving as a unit, taking up a precise and deliberate amount of space. What came up the colonnade instead was three people in plain coats over plain working clothes, unarmed as far as he could see, walking at the unhurried pace of professionals who had been sent for and had come, and who were not going to arrive out of breath about it.
 
 And they were **old**.
 
@@ -158,7 +160,7 @@ That was the whole of it. Xion waited — he was aware of waiting, aware of the 
 
 Xion looked at his face while he said it, because that was his job in this room, and what he found there was considerably worse than the words. The man was not embarrassed. Embarrassment would have been comfortable and would have passed. What was in Ilareth's face was the thing Xion had seen exactly twice in his life on people who had gone to fetch him too late — a specific stillness that comes when a person is holding something and has decided that the room is not going to be given any of it.
 
-Twenty years. A summons that had to be dug out of a lost volume and a seal that had needed cleaning. A ride made in less time than the road allowed. And this.
+Twenty years. A summons that had to be dug out of a lost volume and a seal that had needed cleaning. Three days for the palace to remember how to ask, and half an hour to be answered. And this.
 
 He did not say any of it. There was nothing to be done with it here and saying it would have been for his own benefit. He glanced sideways once and found Vesk looking at exactly the same place on exactly the same face, and the two of them did not acknowledge each other at all.
 
@@ -216,11 +218,11 @@ Then she picked up her coat.
 
 ---
 
-They went back up with the column, and at the surface they took their leave in about the same number of words they had arrived with, and were gone north on the road before the light went.
+They went back up with the column, and at the surface they took their leave in about the same number of words they had arrived with, and walked back across the city to whatever it was they had been doing with themselves for twenty years.
 
 Xion stood in the yard behind the customs house for a while afterward with the ledgers under his arm and the smell of the tunnels still in his clothes, and did the accounting, because he could not help it and because nobody else in the world was going to.
 
-They had been summoned by an instrument that had to be excavated out of a mislaid volume, under a seal that had needed cleaning. They had come faster than the road allowed. They had gone five hundred meters into the ground and worked for three hours in a space that was wrong for them, narrowing carefully down through everything they had, and had failed in front of the crown and every officer of it. They had said so in five words. They had then, unprompted and immediately, told the Empress that what she needed was in Gunastran or in Uratha and that she should go quickly. And having argued themselves out of the only work anyone had offered them in twenty years, they had asked for one thing, which was permission to stand near her while somebody else did it.
+They had been summoned by an instrument that had to be excavated out of a mislaid volume, under a seal that had needed cleaning. They had come the same morning, from four streets away. They had gone five hundred meters into the ground and worked for three hours in a space that was wrong for them, narrowing carefully down through everything they had, and had failed in front of the crown and every officer of it. They had said so in five words. They had then, unprompted and immediately, told the Empress that what she needed was in Gunastran or in Uratha and that she should go quickly. And having argued themselves out of the only work anyone had offered them in twenty years, they had asked for one thing, which was permission to stand near her while somebody else did it.
 
 And in the whole of that afternoon, from the first attempt to the leave-taking, Xion could not recall that anybody had thanked them.
 
