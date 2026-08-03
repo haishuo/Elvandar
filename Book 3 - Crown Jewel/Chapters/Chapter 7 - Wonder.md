@@ -50,11 +50,11 @@ People checked lamps that did not need checking. Positions were confirmed that e
 
 The scholars had their notebooks open. Farleen had put herself near the mouth of the passage in a way that was not obviously anything. Elara stood in front of the Door for a while, looking at it.
 
-Not the scholars. Not eleven of them with four centuries of manuscripts between them, and not Xion, and not anyone else the crown had paid to be down here. A girl raised in an Arol Batae compound, who had spent years going after things nobody had told her to want.
+Not the scholars. Not twelve of them with four centuries of manuscripts between them, and not Xion, and not anyone else the crown had paid to be down here. A girl raised in an Arol Batae compound, who had spent years going after things nobody had told her to want.
 
 Then she began.
 
-He could not have described what she did to anybody who had not been standing there. She touched points on the surface in an order. She spoke, briefly and quietly, in something that was not a language he knew and that she had not been able to tell him she knew either, when he had asked. She performed a sequence that had taken nineteen days and eleven people to assemble, without the notes, without checking, without the particular carefulness of somebody doing a thing they have learned.
+He could not have described what she did to anybody who had not been standing there. She touched points on the surface in an order. She spoke, briefly and quietly, in something that was not a language he knew and that she had not been able to tell him she knew either, when he had asked. She performed a sequence that had taken nineteen days and twelve people to assemble, without the notes, without checking, without the particular carefulness of somebody doing a thing they have learned.
 
 She did it the way you do something you have always known.
 
@@ -74,7 +74,7 @@ Light came through the widening edge.
 
 Blue. Perfectly steady. It did not flicker, because nothing in it was burning. It had been making that exact color in a sealed chamber since before anyone's grandparents' grandparents, and it did not know it was supposed to have gone out. The gap widened and the light came out across the plank floor and up the walls and over the faces of everybody standing there, and it was wrong for underground and wrong for night and wrong for anything Xion had a word for.
 
-Not one of eleven scholars said anything at all.
+Not one of twelve scholars said anything at all.
 
 ---
 
@@ -100,7 +100,7 @@ He held it there. Then he turned round and looked at Elara.
 
 "The air is fresh," he said.
 
-Not stale. Not sour. Not the flat dead stillness of a sealed space. Moving air, coming from somewhere and going somewhere. Something had been drawing breath through this place the entire time it had been shut, and had never once stopped, and was doing it now with eleven Urathan scholars standing in the doorway.
+Not stale. Not sour. Not the flat dead stillness of a sealed space. Moving air, coming from somewhere and going somewhere. Something had been drawing breath through this place the entire time it had been shut, and had never once stopped, and was doing it now with twelve Urathan scholars standing in the doorway.
 
 Xion put the thought together carefully, the way he assembled thoughts that had to be right.
 

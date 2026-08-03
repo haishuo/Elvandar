@@ -6077,3 +6077,22 @@ not read.** The stale `book3-prose` worktree compounded it — anyone opening th
 as of the previous day, with no ch6 and *Wonder* still numbered ch6. Worktree and branch deleted; main
 pushed. **Push after every commit that the author might want to look at, and do not keep a second working
 copy of the book alive after it has served its purpose.**
+
+### Urathan contingent set at twelve — the one piece of the reverted commit worth keeping
+
+Re-applied on its own, at the author's direction, with none of the boundary move attached. Four instances
+in ch7. **The reason is collision, not arithmetic:** *eleven* was simultaneously carrying the eleven days
+of Slaver passage bought in ch2 and re-argued five times in ch6, the surveyor's eleven pages from ch2, and
+the size of the Urathan delegation. Three unrelated quantities on one number in adjacent chapters.
+
+**And the sweep that confirmed it turned up something worth a separate look.** Across Book 3, *eleven* now
+runs: **nine** × *eleven days*, **three** × *eleven pages*, plus *eleven years*, *eleven times*, and
+*eleven clerks*. The first two are deliberate and load-bearing. The last three are not — they are the same
+number being reached for as a generic specific-sounding quantity. **Filed as an observation, not a
+finding**; it wants one pass with fresh eyes rather than a search-and-replace, since the value of a
+concrete number is that it sounds counted rather than chosen.
+
+**Method note.** Two of the four instances were initially missed because the grep used to find them
+required forty characters of leading context, which silently skips any match near a line start — the exact
+error made earlier the same day when sweeping for *winter*, where three of four hits were invisible for the
+same reason. **Padded-context greps are for reading matches, never for counting them.**
