@@ -90,7 +90,7 @@ Xion stopped walking.
 
 "You're saying it isn't procedure."
 
-"I'm saying procedure doesn't know where the laundress walks." Farleen held his eyes, amber and steady in the last of the light. "Somebody is sealing the Empress off from every way of reaching her that doesn't go through official hands. The front door and the back ones. And a thing like that isn't an accident, Xion. Accidents leave gaps. This doesn't have gaps."
+"I'm saying procedure doesn't know where the laundress walks." Farleen held his eyes, green and steady in the last of the light. "Somebody is sealing the Empress off from every way of reaching her that doesn't go through official hands. The front door and the back ones. And a thing like that isn't an accident, Xion. Accidents leave gaps. This doesn't have gaps."
 
 Some part of him felt the shape of where it led — if every unofficial road to Elara was being closed by a hand that knew all of them, then his four pages and her four lines were not two people drifting apart but two people being **held** apart, and the difference between those two things was the difference between a wound and a design. He felt the shape of it. He did not pick it up. Because underneath the strategist his father had trained was a man who had spent the walk home with a folded letter in his coat that thanked him for his concern, and that man could not make himself believe the cause was anything but her — that she had stopped reaching for him — because believing it was the walls and not the woman would mean hoping, and he had run out of the nerve to hope by daylight.
 

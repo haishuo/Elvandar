@@ -570,6 +570,25 @@ happened,"* it predates this revision.
 - **She is the purest instance in the series of help with no ledger under it.** He cured her and she owed him nothing; her first act toward him was to hand back the correction that made his whole life possible. Two people fixed each other inside a week and neither opened an account — which is exactly the thing Xion cannot understand, and exactly what she is still refusing to become eight years later.
 - **Confirmed: she is alive.** See [§6](#6-settled-rulings) for the return plan.
 
+### Farleen — green eyes, honey-blonde hair (author's ruling, 2026-08-03)
+
+**Locked.** She had green eyes and honey-blonde hair in the author's conception from the beginning. An
+early draft changed them to amber to imply a hidden blood relationship with the Mistress of the Long
+Knives — a mystery with no answer behind it, invented rather than requested. That entire line is in
+`TGMS - OLD/` and is non-canon, so the colouring has no remaining function.
+
+**The eye colour must never acquire a plot function again.** If a future draft reaches for Farleen's
+colouring as a clue or a link to another character, that is the same error coming back. She is
+green-eyed because she is, and it means nothing.
+
+**Do not let her eyes rhyme with Elara's.** Elara's cycle blue → amber → violet, involuntarily and
+rationed; Farleen's are green and static. The text may not invite the comparison, and the Mistress has
+no stated eye colour anywhere in current canon — checked — so nothing is left to reconnect them.
+
+*Applied across seven prose instances (B1 ch3, ch13 ×2, ch14 ×2, ch16 ×2, ch25; B2 ch2), three beat
+drafts (B1 ch13, B1 ch16, B3 ch19 and ch20) and `People/Farleen Darfi.md`. The single hair reference in
+the prose is B1 ch13.*
+
 ### No chess metaphors — in the sheets as well as the prose
 
 The prose rule was already in place and the prose is clean. **The sheets are now held to it too**, because

@@ -112,7 +112,7 @@ Xion looked at Elara, who shook her head firmly. But the watchers were real. The
 
 He opened the door.
 
-Farleen stood in the alley, her dark hair disheveled, her amber eyes red-rimmed. She looked like she'd been crying. Or running. Or both. When she saw Xion, something broke in her expression.
+Farleen stood in the alley, her honey-blonde hair disheveled, her green eyes red-rimmed. She looked like she'd been crying. Or running. Or both. When she saw Xion, something broke in her expression.
 
 "Thank the gods." She stepped forward, then stopped when she saw Elara behind him. Her face hardened. "Oh. So it's true. You're with her."
 
@@ -240,7 +240,7 @@ Xion peered into the darkness below. "You've used this before?"
 
 "Your training." Elara's voice was flat. "As a spy."
 
-"As someone who does what's necessary to survive." Farleen's amber eyes flashed. "Not all of us get to grow up in compounds, protected and safe."
+"As someone who does what's necessary to survive." Farleen's green eyes flashed. "Not all of us get to grow up in compounds, protected and safe."
 
 "I can't believe you'd even let her within ten feet of you," Elara said to Xion, ignoring Farleen entirely. "At least **I've** never stabbed you."
 

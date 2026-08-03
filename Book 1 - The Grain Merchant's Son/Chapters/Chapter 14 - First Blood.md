@@ -128,7 +128,7 @@ Korvin set out cups—chipped ceramic, but clean. "The Warrens talk, Master Fen.
 
 "We're looking for someone," Xion said. "A boy named Tam. Twelve years old, taken by Slavers a few weeks ago. We heard he was sent down here."
 
-Xion felt rather than saw Farleen go rigid beside him. Her head turned slowly toward him, and when he glanced at her, her amber eyes were wide with something between shock and fury.
+Xion felt rather than saw Farleen go rigid beside him. Her head turned slowly toward him, and when he glanced at her, her green eyes were wide with something between shock and fury.
 
 "Farleen—" he started quietly.
 
@@ -214,7 +214,7 @@ Farleen's head snapped toward her. "I didn't say I don't care about helping peop
 
 "Is there?" Elara's tone was cool. "Sounds like you're just trying to justify cowardice."
 
-"Cowardice?" Farleen laughed, the sound sharp enough to make Xion wince. "I stabbed him—" She pointed at Xion. "—to maintain my cover. I betrayed everything I believed in to protect cartel interests. And when I finally decided to do the right thing, to actually help him, I threw away my entire life. My family. My position. Everything." Her amber eyes were blazing. "So don't you dare call me a coward, princess."
+"Cowardice?" Farleen laughed, the sound sharp enough to make Xion wince. "I stabbed him—" She pointed at Xion. "—to maintain my cover. I betrayed everything I believed in to protect cartel interests. And when I finally decided to do the right thing, to actually help him, I threw away my entire life. My family. My position. Everything." Her green eyes were blazing. "So don't you dare call me a coward, princess."
 
 "Then what do you call someone who runs away when things get difficult?"
 

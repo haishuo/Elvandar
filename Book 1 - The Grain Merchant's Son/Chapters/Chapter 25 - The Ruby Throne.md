@@ -70,7 +70,7 @@ Elara took a breath. Xion watched her steel herself, saw the moment she fully em
 
 The formation assembled with practiced efficiency. Arol Batae warriors in their deep blue, arranged in precise ranks. Not a military assault—this was ceremonial, purposeful, meant to be seen and understood.
 
-Elara walked at the front, flanked by Commander Vesk and two senior warriors. Xion found his place near her, along with Silvanno and Kael. His oldest friends, here for the impossible moment. Farleen walked nearby, separate but present, her amber eyes scanning everything with habitual wariness.
+Elara walked at the front, flanked by Commander Vesk and two senior warriors. Xion found his place near her, along with Silvanno and Kael. His oldest friends, here for the impossible moment. Farleen walked nearby, separate but present, her green eyes scanning everything with habitual wariness.
 
 The compound gates opened wide.
 

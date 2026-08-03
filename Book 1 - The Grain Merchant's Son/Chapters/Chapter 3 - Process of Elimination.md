@@ -128,7 +128,7 @@ Xion looked at him for a long moment. "It won't stop me."
 
 "I know." Silvanno wouldn't meet his eyes. "I haven't got anything else."
 
-Xion looked at Farleen, expecting the same rejection. Instead, her amber eyes held something he couldn't quite read.
+Xion looked at Farleen, expecting the same rejection. Instead, her green eyes held something he couldn't quite read.
 
 "If you're determined to do this," she said quietly, "someone should watch your back."
 

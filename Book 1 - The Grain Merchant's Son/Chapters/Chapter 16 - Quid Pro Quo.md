@@ -54,7 +54,7 @@ Xion looked at his companions. Farleen was studying the paper Arlo had offered, 
 
 "Everything," Arlo confirmed. "Routes, schedules, guard patterns, weak points in their security. I'll give you the best chance you're going to get."
 
-Farleen looked up from the paper, her amber eyes meeting Xion's. "We need to discuss this."
+Farleen looked up from the paper, her green eyes meeting Xion's. "We need to discuss this."
 
 "Of course." Arlo gestured magnanimously. "Take your time. I'll be here."
 
@@ -122,7 +122,7 @@ As evening fell, they made their way to the eastern quarter. The building Arlo h
 
 "And then what?"
 
-"Then you leave. Go back to Arlo, tell him we failed. Don't try to be a hero." Farleen's amber eyes were serious. "Promise me."
+"Then you leave. Go back to Arlo, tell him we failed. Don't try to be a hero." Farleen's green eyes were serious. "Promise me."
 
 "I promise," Xion said, though he wasn't sure he meant it.
 
@@ -246,7 +246,7 @@ A small smile touched her lips, and for a moment she looked younger, less guarde
 
 From across the room, Xion heard a small sound from Elara—not quite a scoff, but close.
 
-He tied off the bandage, but didn't immediately move away. His hands rested on her ribs, feeling the rise and fall of her breathing. This close, he could see the exact amber shade of her eyes, the small scar near her temple he'd never asked about. 
+He tied off the bandage, but didn't immediately move away. His hands rested on her ribs, feeling the rise and fall of her breathing. This close, he could see the exact green of her eyes, the small scar near her temple he'd never asked about. 
 
 This was familiar. Not just the medical care, but the intimacy of it. How many times had he patched her up over the years? Small injuries, nothing serious. Always with a plausible excuse. Always with that same look in her eyes—gratitude mixed with something else he'd never quite been able to name.
 

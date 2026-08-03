@@ -61,7 +61,7 @@
 
 25. Her guard comes down entirely for the first time since the betrayal. He was very sweet about it. He always is, even when he probably should not be. From across the room, Elara makes a small sound that is not quite a scoff.
 
-26. He ties off the bandage and does not move away, his hands resting on her ribs, feeling her breathe. This close he can see the exact amber of her eyes and a small scar near her temple he has never asked about. And the recognition: how many times has he patched her up over the years, small injuries, nothing serious, always with a plausible excuse — always with that same look, gratitude mixed with something he could never name.
+26. He ties off the bandage and does not move away, his hands resting on her ribs, feeling her breathe. This close he can see the exact green of her eyes and a small scar near her temple he has never asked about. And the recognition: how many times has he patched her up over the years, small injuries, nothing serious, always with a plausible excuse — always with that same look, gratitude mixed with something he could never name.
 
 27. And then he ruins it, on purpose, with a question that has been sitting in him for months — because the warmth is what finally makes him feel able to ask. Did she really fall, that time. Her smile falters, the warmth goes out, and what replaces it is guarded and careful. The silence stretches, and the chapter ends inside it. **She never answers.**
 

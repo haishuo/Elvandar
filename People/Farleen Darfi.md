@@ -151,7 +151,7 @@ It also recontextualizes Elara's hostility. When Elara accuses Farleen of being 
 
 ### The Cover (Chapters 2-3)
 
-Farleen arrives late to The Amber Leaf — "Sorry I'm late. My father had unexpected guests this morning" — an excuse that reads differently once her true role is known. She is warm with Xion: amber eyes meeting his with "that familiar warmth." She participates in the debate about the princess with a question that carries double meaning: "What if you're right? What then?" Every interaction in these chapters operates on two levels — genuine friendship and operational monitoring.
+Farleen arrives late to The Amber Leaf — "Sorry I'm late. My father had unexpected guests this morning" — an excuse that reads differently once her true role is known. She is warm with Xion, and the warmth is registered from his side rather than described from hers — *"Xion's chest did the thing it always did."* She participates in the debate about the princess with a question that carries double meaning: "What if you're right? What then?" Every interaction in these chapters operates on two levels — genuine friendship and operational monitoring.
 
 When Xion announces the Arol Batae infiltration, Silvanno and Kael refuse. Farleen stays: "If you're determined to do this, someone should watch your back." The others read this as loyalty. It was also mission protocol — her target is moving, and she needs to move with him.
 
@@ -167,7 +167,7 @@ Elara, who followed Xion from inside the compound, knocks Farleen unconscious wi
 
 ### The Return (Chapter 13)
 
-Months later, Farleen arrives at Xion's clinic with dark hair disheveled, amber eyes red-rimmed, looking like she'd been crying or running or both. Cartel forces are closing in. She has come to warn him — burning her position permanently.
+Months later, Farleen arrives at Xion's clinic with honey-blonde hair disheveled, green eyes red-rimmed, looking like she'd been crying or running or both. Cartel forces are closing in. She has come to warn him — burning her position permanently.
 
 "Because I can't let you die. Because I already tried to kill you once and I'll regret that for the rest of my life."
 
@@ -338,9 +338,13 @@ Part of the original friend group. Farleen's relationships with both are surface
 
 ### Physical Presence
 
-Amber eyes — mentioned repeatedly across the story, the physical detail the text returns to most often. Dark hair, disheveled when she arrives to warn Xion. She carries herself with enough composure and poise that Ronas Dermir mistakes her for the imperial princess.
+**Locked, 2026-08-03 — author's ruling. Green eyes, honey-blonde hair.** This is what she always looked like. An early draft gave her amber eyes to imply a hidden blood link to the Mistress of the Long Knives — a mystery with no answer behind it, invented rather than asked for. That whole line went to `TGMS - OLD/` and is non-canon. **The eye colour has no plot function and must never acquire one again.** If any future draft reaches for her colouring as a clue, that is the same error returning: she is green-eyed because she is, and it means nothing.
 
-Her body language shifts between two modes: the professional (moving with "practiced caution" and "easy confidence," sleeping with her back against the wall watching both door and window) and the emotional (hands shaking when treating Tam after the brass door trial, amber eyes red-rimmed when she arrives at the clinic). The gap between these modes is the gap between what she was trained to be and what she actually is.
+**Do not confuse her eyes with Elara's.** Elara's cycle blue → amber → violet and that is the royal trait, rationed and involuntary. Farleen's are green and they never change. The two are not related and the text must never invite the comparison.
+
+Green eyes and honey-blonde hair — the physical detail the text returns to most often is the eyes. The hair goes disheveled when she arrives to warn Xion, and that is the only time the text remarks on it. She carries herself with enough composure and poise that Ronas Dermir mistakes her for the imperial princess.
+
+Her body language shifts between two modes: the professional (moving with "practiced caution" and "easy confidence," sleeping with her back against the wall watching both door and window) and the emotional (hands shaking when treating Tam after the brass door trial, green eyes red-rimmed when she arrives at the clinic). The gap between these modes is the gap between what she was trained to be and what she actually is.
 
 Her clothing at the coronation — "dark practical clothing that marked her as neither noble nor common" — is the most precise physical metaphor for her position. She exists between worlds. She belongs to none of them.
 
@@ -364,7 +368,7 @@ The evidence says otherwise. The evidence says the truest thing she did was come
 
 But evidence and fear don't negotiate.
 
-So she keeps showing up. Dark practical clothing that marks her as neither noble nor common. Amber eyes scanning everything with habitual wariness. The spy who fell in love with her assignment and burned the world down to prove it was real.
+So she keeps showing up. Dark practical clothing that marks her as neither noble nor common. Green eyes scanning everything with habitual wariness. The spy who fell in love with her assignment and burned the world down to prove it was real.
 
 The knife missed.
 

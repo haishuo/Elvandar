@@ -35,7 +35,7 @@
 
 ---
 
-13. Farleen in the alley, hair disheveled, amber eyes red-rimmed, looking like she has been crying or running or both, and something breaking in her face when she sees him. She moves immediately to the practical: the watcher is still there, they go through the service passages, stay close and stay quiet.
+13. Farleen in the alley, honey-blonde hair disheveled, green eyes red-rimmed, looking like she has been crying or running or both, and something breaking in her face when she sees him. She moves immediately to the practical: the watcher is still there, they go through the service passages, stay close and stay quiet.
 
 14. Xion has one foot in the alley when he remembers the logs, and is back through the door before Elara can catch his sleeve — to the shelf where eight years of coded notation stands in six bound journals. Every patient, every injury, every district and date and name, in a script two people in Kaha'an can read.
 

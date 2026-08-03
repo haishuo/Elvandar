@@ -6096,3 +6096,51 @@ concrete number is that it sounds counted rather than chosen.
 required forty characters of leading context, which silently skips any match near a line start — the exact
 error made earlier the same day when sweeping for *winter*, where three of four hits were invisible for the
 same reason. **Padded-context greps are for reading matches, never for counting them.**
+
+---
+
+## 2026-08-03 — Farleen Darfi: amber eyes → green, dark hair → honey-blonde (author's ruling)
+
+**Reverting an unrequested change made by an early draft.** Farleen was conceived with green eyes and
+honey-blonde hair. A much earlier pass changed them to amber in order to imply a concealed blood link
+between her and the Mistress of the Long Knives — a mystery with nothing behind it, invented rather than
+asked for, and never something the author wanted. That whole line lives in `TGMS - OLD/` and is
+non-canon, so the colouring has had no function for some time.
+
+### Applied
+
+**Prose, eight instances.** B1 ch3 (*her green eyes held something he couldn't quite read*), ch13 ×2
+(the alley — also the book's only hair reference, now *honey-blonde hair disheveled* — and *Farleen's
+green eyes flashed*), ch14 ×2 (*wide with something between shock and fury*; *Her green eyes were
+blazing*), ch16 ×2 (the paper, and *promise me*), ch25 (the coronation walk), and B2 ch2 (*green and
+steady in the last of the light*).
+
+**Beat drafts, four.** B1 ch13 and ch16; B3 ch19 and ch20, both of which describe her watching a room
+with amber eyes. Book 3's prose does not mention her colouring anywhere, so nothing there needed
+touching.
+
+**`People/Farleen Darfi.md`** — the Physical Presence section rewritten and a locked guardrail added at
+the top of it, plus three body references. One line there was doubly stale: it described her *"amber
+eyes meeting his with 'that familiar warmth'"* in ch2, quoting prose the ch2 rewrite had already
+removed. Corrected to what the chapter now says.
+
+### Two instances the first sweep missed, and why
+
+B1 ch14 l.217 and ch25 l.73 both survived the first pass because the initial grep output was truncated
+mid-line and the word fell past the cut. **A later, quieter miss was worse:** B1 ch16 l.249 — *"he could
+see the exact amber shade of her eyes"* — which is the bandaging scene, the most intimate Farleen beat
+in Book 1, and it escaped a *Farleen*-keyed search because her name does not appear in that sentence.
+It was found only by listing every remaining `amber` in the repo and identifying the subject of each
+one. **Character-name greps are not sufficient for pronoun-heavy intimate scenes**; the reliable method
+is to enumerate every instance of the attribute and assign each to a character.
+
+### Checked and clean
+
+The Mistress of the Long Knives has **no stated eye colour anywhere in current canon**, so the link the
+amber was planted to imply has nothing left to reattach to. No other character in the saga is blonde, so
+the hair colour collides with nothing. Every remaining `amber` near Farleen is either The Amber Leaf,
+the Amber Palace, or Elara's royal trait firing during one of Farleen's scenes.
+
+`B1 Chapters/Chapter 3, 13, 14, 16, 25` · `B2 Chapters/Chapter 2` · `B1 Beat Drafts/Chapter 13, 16` ·
+`B3 Beat Drafts/Chapter 19, 20` · `People/Farleen Darfi.md` · `Series Review - Master List.md` §5 ·
+Royal Road regenerated.
