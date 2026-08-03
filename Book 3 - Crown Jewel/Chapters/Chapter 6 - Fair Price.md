@@ -156,7 +156,21 @@ She opened her mouth.
 
 She was quiet long enough that he knew he had won, and he did not enjoy winning it. The look she gave him he had no trouble at all reading: a woman raised from infancy by people who taught her that you went yourself, that the going was the message, that anything else was hiding behind a title.
 
-"I hate this," she said.
+Then, because it had to be settled before he went and not afterward: "What am I allowed to spend?"
+
+She told him. It took some time, because she was thorough and because most of it was money, and he wrote none of it down.
+
+At the end she said, "And the chair."
+
+Xion did not answer that.
+
+"It has been empty since the winter and he has had four summonses." Elara was looking at the table rather than at him. "If it comes to it, you may put it in the instrument."
+
+"You know what that makes it."
+
+"I know exactly what that makes it." She said it without any softening at all, which was how he knew she had been sitting with it for some days. "Try the money first."
+
+"I hate this," she said, a moment later.
 
 "I know."
 
@@ -250,15 +264,21 @@ They did the money for a while, and it went nowhere, and it went nowhere in a wa
 
 And there it was, sitting on the desk between them where it had been the whole time.
 
-Xion thought about the winter. He thought about the room where the office had been made — a standing channel, minuted, with a schedule, in place of twenty years of arrangements made in corridors by men who never had to write anything down. Sa Ko Ren at that table. Tania Larannas at that table. The Grain seat empty and contested. And the fourth chair, which had never been offered, because nobody had thought to offer it, because the Warrens were not a cartel you invited, they were a place you did not look at.
+Xion thought about the chair.
 
-And a man who had held a Coterie seat for twenty years that lost every vote three to one, and had never once given it up, and had told anyone who asked that it was about not surrendering ground.
+It had been standing in that room the whole time. Sa Ko Ren at the table and Tania Larannas at the table and two chairs empty against the wall — Grain, because there was nobody left to send, and the other one, because the man it belonged to had taken four summonses from the palace and had not answered any of them, and had not sent anyone to not answer them either.
 
-"The council seats four," Xion said. "It seats three."
+Six months of reading that as contempt. Sitting in the Iron Hall, Xion understood it about a year late and all at once.
 
-Ronas's face did not move.
+This was a man who had forced his way onto the Coterie by shutting the labor off for two months and outwaiting three cartels who were certain he would blink. He had never once in his life been *given* a seat. A chair the palace offered was a chair the palace could take back, and a man who came when the palace called was a man who could be called — and every lieutenant standing on those platforms would run that arithmetic before the summons had gone cold.
 
-"Standing seat. Same as Iron and Water. Minuted, on the schedule, and it's yours whether you come or not, and it doesn't lapse if you don't." He did not put any weight on it. "That's what I've got that you haven't. That's the price."
+He could not take it. He had never been able to take it. And in six months nobody in that building had asked why, including the man who had stood up in the room and said that somebody ought to come down here and ask.
+
+"The chair's been empty since the winter," Xion said.
+
+"I know where the chair is."
+
+"I'm not offering it to you." He did not put any weight on it at all. "I'm putting it in the instrument. Same paper as the shafts, same clause, listed against what the crown pays for four months of the north four and the third tier. Standing, minuted, on the schedule. It doesn't lapse if you never come."
 
 The Iron Hall was not a quiet room. Somewhere below them a crew was moving something heavy and there were forty men within earshot, and none of it seemed to reach the desk.
 
@@ -268,7 +288,7 @@ He sat forward, elbows on the desk, and Xion watched him build the reason on the
 
 "Here's how that works," Ronas said. "You're gonna have an empress and a pack of foreigners under my floor for four months, and stuff comin' up out of a hole that nobody's opened since before there was a city. That's a lot of noise on my ground. I'd sooner hear about it in a room, off the people doin' it, than off a broker three weeks late. Man ought to know what's comin' down his own tunnels." A finger came up. "That's it. That's the whole of it. Don't go tellin' anybody I asked for a chair."
 
-"You didn't ask for it," Xion said. "I offered it."
+"Nobody asked anybody for anything," Xion said. "It's a line in a contract."
 
 "That's right." Ronas held his eyes a moment. "That's exactly right."
 
@@ -284,9 +304,9 @@ He stopped then. Something went across his face and stopped there, and for about
 
 They came up through the Market of Sighs and out into the ruin field, and the light was going, and Xion stopped at the top and put his hands on his knees for a moment because five hundred meters of climb was five hundred meters of climb.
 
-He had the shafts. He had them for four months and in writing and on terms that survived the man who had signed them. He had spent nothing that was not his to spend and had committed the crown to nothing it had not already decided to do, and he had got the Warrens a permanent seat at the table that governed the city, which was the thing he had stood up in the winter and said out loud somebody ought to go down there and get.
+He had the shafts. He had them for four months and in writing and on terms that survived the man who had signed them. He had spent nothing that was not his to spend — she had put the chair into his hand herself, and told him to try the money first, and he had tried the money. And there would be a man in that chair before the month turned, which was the thing he had stood up in the winter and said out loud that somebody ought to come down here and see to.
 
-It was in the record now. Anyone could read the record. What it said, to anyone who read it, was that the Warrens had been given a voice in the government of Balisha in the same week and in the same instrument as a right of way, in exchange for a right of way, because the crown had needed something and had found out that the man who had it could not be paid in coin.
+It was in the record now. Anyone could read the record. What it said, to anyone who read it, was that the Warrens had entered the government of Balisha as a term of sale — a clause in the same instrument as a right of way, priced against four shafts and a stretch of the third tier, because the crown had needed something and had found out that the man who held it could not be paid in coin.
 
 Which meant the way to be governed by Balisha was to be holding something Balisha wanted.
 

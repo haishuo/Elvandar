@@ -5706,3 +5706,53 @@ actual epithet and stays; both `Scholar's Crown` hits in ch6 are the artifact.
 
 **Add it to the pre-commit set** alongside the six-gram repeat sweep, the casting-balance check and the
 bare-negation check.
+
+### The seat was already there — author's catch, and it fixed two things at once
+
+**Two errors of the same family, found one after the other.** First, *"the moment Xion's signature dried"* —
+he negotiated the treaty and **Elara signed it**, which the same chapter says forty lines earlier in the
+line the whole council scene turns on: *"It is my signature. I read it, I understood it, and I put my name
+on it."* Then the larger one: *"The council seats four," Xion said. "It seats three."*
+
+**Both halves of that were wrong.** Ch1 seats four and **two of them are standing empty** — Grain, because
+Rosik's attention is east of the border and there is nobody left to send, and the Warrens, whose holder
+*"had not declined… had received the summons, and had not answered it, and had not sent anyone to not
+answer it either."* Ch3 confirms it in one line: *"The chair for Grain was still empty. So was the other
+one."* So Xion offering Ronas a seat was offering him nothing at all. **The man could have walked up any
+day for six months.**
+
+**Which forced the better question: why didn't he?** The answer was on his sheet, not in the plot. He
+forced his way onto the Coterie by withholding labor for two months and outwaiting three cartels who were
+certain he would blink. **He has never once in his life been *given* a seat.** A chair the palace offers
+is a chair the palace can take back, and a man who comes when the palace calls is a man who can be called —
+and every lieutenant on those platforms runs that arithmetic before the summons is cold. He was never
+refusing out of contempt. **He was refusing the only terms available**, and in six months nobody in the
+palace asked why, including the man who stood up in the winter and said somebody ought to come down and ask.
+
+**So Xion does not offer the seat. He prices it.** *"I'm not offering it to you. I'm putting it in the
+instrument"* — same paper as the shafts, same clause, listed against what the crown pays for four months of
+the north four and the third tier. That is the only structure under which Ronas can sit down, and Xion
+understands it in the room and builds it that way on purpose.
+
+**This is strictly better than what it replaced, and in the direction the chapter wanted.** The toll framing
+stops being merely Ronas's self-deception and becomes the actual architecture of the deal. And Xion's
+position gets worse rather than better: the only way to get the Warrens governed was to make it a purchase,
+he saw that clearly, and he did it anyway. The closing beat now reads that the Warrens *entered the
+government of Balisha as a term of sale.*
+
+**And the authority hole underneath it, which the author ruled on.** The office chairs the advisory body;
+ch1 is explicit that it *"carried no cartel… did not touch Iron or Water or Grain or the Warrens."* Xion
+cannot put a council seat into a commercial instrument on his own, and — more to the point — **he would
+not.** The one-voice principle is what distinguishes him from Rosik, and a man who commits his sovereign
+without leave is doing exactly a Rosik move. **The dramatically obvious version was therefore the wrong
+one.** Elara authorises it before he goes, hands him the chair herself, and tells him to *try the money
+first* — which keeps the constitutional act where it belongs, preserves the discovery in the Iron Hall, and
+pays when the money fails.
+
+**The general rule, since this is the third instance in two days:** *look for the thing that already
+exists before inventing one.* The Tor'anar were in the canon files while the book went abroad without them;
+the Long Knives' terms already answered the supply-line question; and the Warrens' chair had been standing
+empty in the room since ch1. **Each time the invented version was weaker than the one already on the page.**
+
+Chapter now 5,323 words. Beat draft moved in the same commit — beats 19–21 restructured, two footer notes
+added.
