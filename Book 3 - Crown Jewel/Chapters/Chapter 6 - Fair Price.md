@@ -194,9 +194,11 @@ She was also, he reflected, one of three people alive who had walked into the Ir
 
 The Surface Warrens were the Surface Warrens: the ruin field in the sun, the collapsed tenements with scaffolding grown into scaffolding, the smell of sixty thousand people living above and below a line the city had drawn and then stopped looking at. Then down. The Tiers, cooler, the light going out of the air by degrees. Then the Midlevels, where the tunnels got wide and organized because somebody organized them.
 
-He knew the way. That was the thing he had not braced for. He had been brought down here once, in the winter, and had climbed out of these tunnels once with a boy over his shoulder, and neither time had the Warrens been a place he was walking through on his own account. This time he walked it. Eight years of a second life had gone up and down these levels; he knew where the floor was bad on the third tier and which junction flooded and where you did not go at night, and he had the small unpleasant realization, somewhere around a hundred meters, that he could have walked it blind.
+The first part of it he could have walked blind, and that was the thing he had not braced for.
 
-A woman selling something unidentifiable out of a crate at the second landing looked at him twice and said, "Master Fen?"
+Eight years of a second life had gone up and down the upper levels. He knew which stair on the second landing had a bad tread and which junction stood in water after rain and which of the long galleries you did not use after dark, and none of it had left him, and none of it had ever been useful for anything except getting to somebody who was bleeding.
+
+A woman selling something unidentifiable out of a crate looked at him twice and said, "Master Fen?"
 
 "Hello," he said.
 
@@ -205,6 +207,14 @@ A woman selling something unidentifiable out of a crate at the second landing lo
 "Both, more or less," he said. "How's the hand?"
 
 She held it up. It had healed crooked. He had set it four years ago by lamplight in a room with no table.
+
+Then, somewhere past a hundred meters, the knowledge ran out.
+
+Twenty-five thousand people lived below that line. More of the Warrens lived down there than anywhere else in it, in the dark, in a maze that took hours to cross and could not be crossed at all without somebody who knew it — and in eight years Master Fen had never once gone down to them. Not from a decision. A man working alone and in secret goes where he can find his own way back out, and past the Tiers you needed a guide, and the guides worked for somebody.
+
+Eight years of going where the work was. The work had a floor, and he had never in his life put a hand on it to see how far down it went.
+
+The one time he had come this deep he had done it in the winter, with brown leather in front of him and behind him, working out as he walked whether he was a guest.
 
 The escort met them at the mouth of the Iron Hall's approach, six men in the brown leather, professional in the way Ronas's people had always been professional, and the one in front was a heavy-shouldered man of about fifty who looked at Xion for a second and a half longer than the job required.
 

@@ -5811,3 +5811,38 @@ repetition and forbidden tokens. They cannot find a season, a referent, an inter
 need the line-by-line read, and on this chapter the read found more than every automated check combined.
 
 Chapter now 5,332 words.
+
+### The descent, wrong twice in opposite directions
+
+**The author queried the Book 1 memory in the descent paragraph** — a sentence already corrected once that
+morning for putting Tam's rescue in the wrong order. Re-reading the paragraph to answer the question found
+that its **premise** was wrong, which the ordering fix had walked straight past.
+
+**The claim was that Xion knows the route because of Master Fen.** He does not, or not all of it. B1 ch13:
+*"Xion had been down here before, but never this deep, never at night."* Eight years of the second life
+covered the surface wards and the upper levels. **The Iron Hall is at −185 m, in the Midlevels, and before
+Book 1 he had never been near it.**
+
+**The first correction then overshot into a worse error** — that nobody lived below the Tiers.
+`The Warrens_ Geography and Physical Layout.md` gives the Midlevels **25,000–30,000 people** and calls it
+*"where the majority of residents live."* It is the most crowded ground in the Warrens.
+
+**Which produced the version that should have been there from the start, and it is better than both.** The
+most populated level in the Warrens is exactly the level Master Fen never worked — not from choice, but
+because *a man working alone and in secret goes where he can find his own way back out*, and past the
+Tiers the passages need a guide and the guides work for somebody. Eight years of going where the work was;
+**the work had a floor and he had never put a hand on it to see how far down it went.** The chapter's whole
+argument is an empire that governs the Warrens only once they hold something it wants, and it now has
+Xion's own charity running out at the same line, discovered on the walk, remarked on by nobody.
+
+**Two process notes worth keeping.**
+
+**A fix aimed at one sentence does not audit the paragraph it sits in.** The Tam ordering was corrected
+without anyone asking whether the surrounding claim was true, and the false premise survived the edit that
+was made two lines away from it. **When a line is corrected, re-read the whole paragraph cold.**
+
+**And the correction of a canon error is itself a canon claim.** *Nobody lived down here* was invented
+while fixing an invented thing, and it went in with more confidence than the error it replaced, because it
+felt like the product of research. **Check the replacement against the file, not just the original.**
+
+Chapter now 5,472 words. Beat 17 rewritten, footer note added.
