@@ -26,7 +26,17 @@ The Ivory Tower came up out of the plain before the city did, and it took Xion t
 
 That was the first thing about it: it announced itself from a distance no building had any business announcing itself from, so that for most of a morning it was the only vertical thing in the world and everything under it was still a rumor. White stone, and not the white of local limestone gone pale — a hard, close-grained white that took the light and held it, and Xion knew enough about the cost of moving stone to do the arithmetic on that and then stop doing the arithmetic on that.
 
-Then the rumor resolved, and it was white too. All of it. A hundred and twenty thousand people living in buildings faced in the same stone as the tower, so that the whole thing came up out of the plain as one object, and the name did not distinguish between them, because the Urathans did not appear to think the distinction was interesting.
+Then the rumor resolved, and it was not one thing at all.
+
+There were seven more.
+
+They came up out of the haze in the hour after the tower did, ringing it, none of them as tall and every one of them enormous — and they were **colored**. A spire of deep purple. One of sapphire blue, and one crimson, and one a gold that took the morning like a struck coin. Green. One that was white and was not the same white as the tower, an oiled, shifting, mother-of-pearl white that changed as the road changed angle.
+
+And one that was black, and did nothing with the light at all.
+
+Xion sat his horse and counted them twice, and the second time he understood that the ring was not decorative and that he was looking at the whole government of a country standing up out of a plain in the order it had decided it belonged in.
+
+Under and between them the city itself was white — a hundred and twenty thousand people in buildings faced with the same stone as the tower — so the name covered all of it, and the Urathans did not appear to find the distinction interesting enough to make.
 
 He had grown up in the Noble District and had been inside the Ruby Palace more times than he could count, and the palace was magnificent, and it had never once said anything to him except *we have.* This said something different and it said it at a volume that was frankly rude.
 
@@ -34,7 +44,7 @@ He had grown up in the Noble District and had been inside the Ruby Palace more t
 
 "Well," Elara said, beside him, in the voice she used when she was not going to say the rest of it.
 
-The city did not undercut the tower, which was the surprising part. Xion had expected the usual arrangement — a wonder standing in the middle of an ordinary place, the way a cathedral stands in a market town — and instead found something laid out in rings, the tower at the center and every district set around it in an order that was plainly an order and that he could not immediately account for. Not by wealth. Not by age. He worked at it for a day and a half before one of the escort explained, mildly, as though it were obvious, that the quarters were arranged by discipline, and had been since the Academy, and that the sequence was the sequence in which the disciplines depended on one another.
+The city did not undercut the tower, which was the surprising part. Xion had expected the usual arrangement — a wonder standing in the middle of an ordinary place, the way a cathedral stands in a market town — and instead found something laid out in rings, the tower at the center and every district set around it in an order that was plainly an order and that he could not immediately account for. Not by wealth. Not by age. He worked at it for a day and a half before one of the escort explained, mildly, as though it were obvious, that each ring belonged to a tower — that the quarter under the purple spire was the arcane quarter and the quarter under the blue one kept the records, and so on around — and that the sequence was the sequence in which the disciplines depended on one another, and had been since the Academy.
 
 You could walk out from the tower, in other words, and pass through the fields of knowledge in the order a person would have to learn them.
 
@@ -60,7 +70,11 @@ It was the same word. That was the thing he could not put down for the rest of t
 
 He started reading the robes on the second day. There was no decision in it.
 
-The colors were a system. That much was obvious inside an hour — deep blue and green and a dark purple that was clearly the expensive one, worn less often and deferred to more — and the deference was the part he could actually work with, because deference is a thing bodies do, and bodies were the one language he had never needed anybody to teach him.
+The colors were a system, and he had been staring at the key to it since the road.
+
+That was the part he was slowest about, and he was embarrassed by it afterward. The purple robes were the purple tower. The blue were the blue one. He had spent a day and a half reading sleeves in an arcade while the answer stood over the city in seven spires, each of them the height of a hill, visible from any street corner in the capital — because that was the point of building them, and nobody in Uratha had needed telling for four hundred years.
+
+Which left the ranking, and the ranking was not in the colors. Deep purple was deferred to; crimson was not deferred to and did not appear to expect it; the black robes were rare and the room adjusted around them in a way nobody acknowledged. *Deference he could work with.* Deference is a thing bodies do, and bodies were the one language he had never needed anybody to teach him.
 
 Then he saw the cuffs, and understood that the colors were only the first system.
 

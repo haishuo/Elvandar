@@ -5257,3 +5257,39 @@ after the additions introduced it.
 
 **First commit on the `book3-prose` worktree**, created this session after B3 ch5 was pushed entangled with
 three unrelated Book 1 commits.
+
+**Second pass, same day — the seven colored towers, which were in the file I had already read.**
+
+Author's follow-up: *wasn't there the other towers ringing the central Ivory Tower?* There were. And unlike
+the geography-file miss above, **this one was in `Uratha_ The Land of Scholars.md`** — the file I did read,
+cited, and pulled the robe-color table out of.
+
+Its Tower section opens: *"the great colored spires that dominate the skyline of every major Urathan city…
+to stand anywhere in Uratha's capital is to see the towers on the horizon."* **Seven of them, ringing the
+white one** — Amethyst purple, Sapphire blue, Ruby crimson, Topaz amber gold, Emerald green, Pearl in
+shifting mother-of-pearl, and **Onyx, black, which does nothing with the light at all.**
+
+The first revision had described the capital as *"one object"*, all white. That is not a shortfall; it is
+the opposite of what canon says, and it discards the best image the setting owns.
+
+**Three things changed.** The arrival now resolves twice — the white tower alone for a morning, then seven
+colored spires out of the haze, and Xion counts them twice and understands on the second count that he is
+watching the government of a country stand up out of a plain in the order it has decided it belongs in.
+The rings are now made **of** the towers rather than abstractly "arranged by discipline" — *the quarter
+under the purple spire is the arcane quarter, the one under the blue keeps the records.* And it repairs the
+robes beat, which had been operating at the wrong scale: **Xion spends a day and a half reading color off
+sleeves in an arcade while the key stands over the city in spires the height of hills**, and is embarrassed
+about it afterward. What is genuinely *not* in the colors is rank — which is the part he can get at,
+because rank surfaces as deference, and deference is a thing bodies do.
+
+### The lesson, which is not the same as the previous one and is worse
+
+The first miss was **a file I never opened**, and the fix was a rule: read both files per location. This one
+was **a section I had read, in a file I had cited, three lines beneath a heading I had used.** I took the
+robe-color table out of that section and left behind the seven-hundred-foot objects the table exists to
+describe.
+
+**Reading a file for the fact you went in for is not reading the file.** When a location is being written,
+the relevant sections get read whole — not searched.
+
+**5,074 → 5,352 words.** Standing checks re-run; one multi-word bold corrected to italics.

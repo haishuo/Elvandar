@@ -110,7 +110,17 @@ The agreement is reached: anything material or economic behind the door belongs 
 
 **And the last of those produced the beat this chapter had been missing.** Xion asks what is in the outermost ring, because the sequence has to end somewhere — and the answer is **"The Warrens."** Same word. Urathan and Kaha'ani both come off Imperial Balishan, so the word went into both mouths and came out meaning the same thing; and in the white city that arranged itself as a lesson, the last thing the lesson teaches is where the people who are not in it live. **He does not react, and the beat is not commented on**, and it makes the dinner beat land on ground the reader is already standing on.
 
-*(+622 words: 4,453 → 5,075.)*
+**And a second pass the same day, on the author's follow-up: *wasn't there the other towers ringing the central Ivory Tower?*** There were, and they are the single most visible fact about the country, and the first revision left them out.
+
+`Uratha_ The Land of Scholars.md` — **the file I had read** — opens its Tower section with *"the great colored spires that dominate the skyline of every major Urathan city… to stand anywhere in Uratha's capital is to see the towers on the horizon."* **Seven of them, ringing the white one**, each the seat of a discipline, each with its own color: Amethyst purple, Sapphire blue, Ruby crimson, Topaz amber gold, Emerald green, Pearl in shifting mother-of-pearl, and **Onyx, which is black and does nothing with the light at all.**
+
+- **The arrival now resolves twice.** The white tower comes up first, alone, for a morning. Then the haze gives up seven more, colored, ringing it — and Xion counts them twice and understands on the second count that he is watching **the entire government of a country stand up out of a plain in the order it has decided it belongs in.**
+- **The rings are made of the towers.** The first revision had districts *"arranged by discipline,"* which is the abstraction; the towers are the objects that produce it. The escort now explains it as *the quarter under the purple spire is the arcane quarter, the quarter under the blue one keeps the records, and so on around.*
+- **And it fixes the robes beat, which was working at the wrong scale.** Xion spends a day and a half reading color off sleeves in an arcade — while the key stands over the city in seven spires the height of hills, visible from every corner, because that is what they were built for. **He is embarrassed by it afterward.** What is genuinely not in the colors is the *ranking*, which is the thing he can actually get at, because rank shows up as deference and deference is a thing bodies do.
+
+**The lesson is not the same as the first one and is worse.** The first miss was a file I never opened. **This was a section I had read, in a file I had cited, three lines under a heading I had used** — and I took the robe-color table out of it and left the seven-hundred-foot objects the table describes. **Reading a file for the fact you went in for is not reading the file.**
+
+*(+899 words across both passes: 4,453 → 5,352.)*
 
 ### The skeleton/draft tension, reconciled rather than papered over
 
