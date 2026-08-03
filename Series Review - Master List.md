@@ -683,6 +683,31 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 
 ---
 
+### "Warrens" — **CLOSED. Uratha's renamed; Kaha'an's stay.** Author's ruling, 2026-08-02
+
+Uratha's `The Bakarn Warrens` became **The Service Quarter**. Three objections, all sound: warrens are
+underground and that district is not; warrens are winding and it is a built quarter; and **a civilisation
+organised around precision would never use a name that imprecise.** The capital's own location list —
+Great Library, Examination Grounds, Scholar's Gardens, Seven Colleges, Market District, Dormitory Quarter —
+is seven flat statements of function, and "Warrens" was the only metaphor in it.
+
+**Kaha'an's Warrens stay, and the whole canon was swept to confirm nothing else needed touching.** Every
+other instance of the word in the series is Kaha'an's, and there it is correct: genuinely underground,
+genuinely winding, sixty thousand people in tunnels, and load-bearing across Books 1, 2, 3 and 6, the
+series outline, `Offstage.md`, and four `Places/Kaha'an/` files.
+
+**The distinction, so this is not re-opened.** **Kaha'an names things the way cities do** — by accretion
+and association, by whoever said it first, with nobody appointed to check. **Uratha names things the way an
+institution does** — by function, on purpose, in a list. The word was not bad; *these particular people
+would never have reached for a metaphor at all.*
+
+**And the edge case was raised and ruled on:** Kaha'an's **Surface Warrens** are above ground, so the
+letter of the first objection touches them too. They stay. The name is vernacular — the surface ruins are
+called that *by association* with the warren beneath, by the people who live in both — which is exactly how
+cities name things and is honest work the Uratha use was not doing.
+
+---
+
 ## 7. Open questions
 
 **None currently open.** The three items opened on 2026-08-02 were all ruled on the same day and are
