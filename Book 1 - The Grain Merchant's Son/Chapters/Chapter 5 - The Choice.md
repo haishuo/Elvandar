@@ -132,7 +132,7 @@ He heard the question leave him and understood, a beat behind it, that it was th
 
 Something shifted in Elara's expression—relief, perhaps, or determination. "Everything. But carefully. We can't afford to be recognized."
 
-"I know places to stay. People who won't ask questions." His medical training had taught him which neighborhoods housed the desperate and the discrete. "It won't be comfortable."
+"I know places to stay. People who won't ask questions." His medical training had taught him which neighborhoods housed the desperate and the discreet. "It won't be comfortable."
 
 "I've been comfortable for twenty years. It's time I learned what the rest of my people endure."
 

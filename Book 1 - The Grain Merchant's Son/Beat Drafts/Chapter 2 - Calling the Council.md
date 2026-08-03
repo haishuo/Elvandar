@@ -21,7 +21,7 @@
 
 6. He tells them, and it comes out in a rush once it starts — the boy, the fabricated debt, the woman watching from the crowd, the colour change, the royal trait. His excitement breaks through the exhaustion at the end of it: not patching one leak at a time but overturning the whole arrangement.
 
-7. Silence, and then three refusals, which must differ by temperament rather than volume. Farleen's is care: he has been through something traumatic, he watched a child taken, and she reaches for his hand across the table. Her concern is genuine and the reader should register it as genuine, because it is. It is also the only one of the three with a second reason underneath it, and nothing in the chapter may hint at that.
+7. Silence, and then three refusals, which must differ by temperament rather than volume. Farleen's is care, and it is **one refusal, not two**: she puts her hand over his and says he watched a child taken yesterday, and that is the whole of it. In the pre-2026-08-03 prose she made the same objection twice, either side of the others, and once beat 9a existed to answer it the second instance was arguing with a settled question. Consolidated. Her concern is genuine and the reader should register it as genuine, because it is. It is also the only one of the three with a second reason underneath it, and nothing in the chapter may hint at that.
 
 8. Silvanno's refusal is exhaustion rather than doubt. There was a Princess Elara last year with coloured lenses who fooled nobody for long. He is not being cruel; he is tired of this specific hope, which is a different and more useful objection.
 
@@ -38,6 +38,8 @@
 12. Xion concedes the entire frame and holds anyway. He knows what he is supposed to think and spent the whole night trying to talk himself into it. The concession is what makes him credible: he is not defending a certainty, he is reporting a failure to argue himself out of one.
 
 12a. **Silvanno adds the harder half of the objection — not whether the eyes changed but whether she was there at all — and Xion takes it and turns it.** He grants the lot: it was dark, the light was going, he wants it to be true, and all of that has already been put to him by himself for most of a night. Then the Truth Seeker line the character sheet has always promised and the prose never delivered. If he has reached the point of seeing things because he needs them badly enough, that is not something he gets to leave alone either: either she is out there or there is something wrong with him, and he would like to know which one he is living with. **This is what actually ends the argument**, because it concedes their position as an acceptable outcome and leaves them nothing to defend.
+
+**It also replaced a weaker version of itself.** Beat 14 used to open with *"We can make sure she's real, that she's out there, that she exists at least"* — the same argument, worse, twenty lines later, and the prose flagged it as weak in the narration. Gone; 14 now goes straight to pre-empting their objections.
 
 **No number here.** An earlier version put *two days* in this speech and it stole beat 17's announcement, which is where the proposal is supposed to be made and where the conviction is supposed to be borrowed. He argues for looking; he does not yet say how long.
 
@@ -75,4 +77,37 @@
 
 **On the ending:** the chapter previously closed on a paragraph naming his relief, gratitude and hope, and noting that Farleen's presence mattered more than he wanted to admit. It now ends on her line. The information is identical, the interpretation is gone, and the reread survives — which the old version did not, because it told the reader how to feel about a moment whose whole function is to be misread.
 
-**On rhythm:** 2,155 words, upper-middle of the compressed ch1–8 movement. This is the first chapter after the establishing one and it is deliberately smaller — one room, one conversation, three friends. The compression across ch1–8 is what makes ch9's jump to 3,698 read as the floor opening rather than as a long chapter.
+**On rhythm:** 1,811 words, low in the compressed ch1–8 movement. This is the first chapter after the establishing one and it is deliberately smaller — one room, one conversation, three friends. The compression across ch1–8 is what makes ch9's jump to 3,698 read as the floor opening rather than as a long chapter.
+
+---
+
+**On the 2026-08-03 register pass, which rewrote the whole chapter.** This was the last chapter in Act I
+still in the pre-review voice, and adding two passages in ch1's register made the seam impossible to
+ignore. Gone in the rewrite: the narration's verdict-stamps (*Xion felt a surge of hope*, *feeling his
+certainty grow with each word*, *The weight of his words settled over the table like dust after a
+sandstorm*), the adverb-propped attribution, and the out-of-world register — *God, I don't even know
+where to start*, *C'mon*, *buddy*, *Man, this **is** serious*.
+
+**One of those was a rule 1 error rather than a style one.** Xion argued the trait was *"not legend — it's
+a **genetic trait** passed down through the Valanar bloodline."* Genetics is a nineteenth-century science
+in a pre-industrial desert city. He now cites what he could actually cite: the historians at Uratha wrote
+it down four hundred years ago, and it runs in the blood. Kael's answer is unchanged in substance and
+sharper for it — *"I'm not arguing about her eyes. I'm asking what you would do on the day after you
+found her."*
+
+**Every beat above survives and the order is unchanged.** What moved is that the three refusals are now
+three refusals rather than four, and beat 10's temper has a trigger on the page (Silvanno's *you want it
+too much*) instead of arriving out of the air at a man who last spoke twenty lines earlier.
+
+**Two things were deliberately made quieter, not louder.** Beat 16's tell is now carried entirely by
+Farleen's argument changing under her — she stops disputing what he saw and starts arguing danger — with
+**no narration pointing at it.** A draft of the rewrite had *and Xion did not notice*, which is a second
+signal and a much louder one, and the standing rule is that the distant look in beat 19 is the only
+permitted signal. It came out. And beat 19 now supplies an image for what he cannot name rather than the
+old *sadness, maybe. Resignation* — *the look of a woman reading a bill she already knew the total of.*
+He still cannot name it; the difference is that the image reads as worry on the first pass and as
+arithmetic on the second.
+
+**1,913 → 2,155 → 1,811 words.** The rewrite is shorter than the chapter it replaced because most of what
+came out was narration explaining dialogue that had already worked. It now sits between ch5 and ch3 in the
+compressed opening movement, which is where a one-room conversation belongs.

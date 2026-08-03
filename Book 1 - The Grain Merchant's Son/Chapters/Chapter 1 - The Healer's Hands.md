@@ -190,7 +190,7 @@ She held the row up to the lamp and studied the gap where the bad thread had bee
 
 By the time he reached his tiny rented room above a baker's shop, the city was quiet. He sat down on the cot without lighting the lamp and started at the beginning, because that was what he did with a problem.
 
-What he had: a name, said aloud in a square by a man reading off a paper. Seven stitches in a left palm that would foul inside the week if nobody kept them clean.
+What he had: a name, said aloud in a square by a man reading off a paper. Seven stitches in a left palm that had been pulled open once already this evening, in front of him. Days, then. Not the week he had asked for.
 
 What he needed: where they had taken the boy, which he did not know. Somebody to ask, and he could think of four who might know and not one who would answer without wanting to know why Master Fen was asking. Money, which he had, and no way to spend it that did not end in somebody writing down where it came from.
 

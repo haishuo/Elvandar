@@ -13,13 +13,13 @@ two deliberate widenings of the camera, both signed off as exceptions: the last 
 ch12's closing line.
 **Opens:** Day 1, a market square in the Middle District of Kaha'an, at dusk.
 **Timeline:** 21 days. The whole novel happens in three weeks.
-**Length:** 62,323 words across 25 chapters, mean 2,492.
+**Length:** 61,990 words across 25 chapters, mean 2,479.
 
 ---
 
 ## ACT I: The Question — ch1–4
 
-*Four chapters, 8,822 words. The most compressed movement in the book. A man sees something
+*Four chapters, 8,489 words. The most compressed movement in the book. A man sees something
 impossible, is disbelieved, is proved right, and pays for it.*
 
 ### Chapter 1: The Healer's Hands
@@ -223,7 +223,7 @@ load in public. And ch11, which pays the gate: *I was accusing you of doing what
 **Characters present: Xion, Elara**
 **Emotional work: A man teaches a woman to be someone else and finds he is better at it than at being himself**
 
-The book changes scale here — 3,698 words after a movement averaging 1,907. Three days in a borrowed
+The book changes scale here — 3,698 words after a movement averaging 1,865. Three days in a borrowed
 apartment: how nobles walk, what they do with their hands, coded insult as a language, the eye-control
 drill. She can suppress the trait if she catches it early, and suppression is visible and effortful.
 
@@ -643,7 +643,7 @@ not present to report on it. In every case the restriction produces the better s
 the book is about is a man who reads bodies and cannot read intentions.
 
 **The movements are deliberate and the length profile is load-bearing.** Ch1–8 run 1,214–2,772 with a
-mean near 1,907; ch9 nearly triples the floor; ch13–16 all exceed 3,100; ch17 contracts to 1,680. Long-then-
+mean near 1,865; ch9 nearly triples the floor; ch13–16 all exceed 3,100; ch17 contracts to 1,680. Long-then-
 short is the signature for a disaster and its aftermath and fires three times (ch9–10 → ch11,
 ch16 → ch17, ch18–19 → ch20). **Check the profile before proposing any cut.** Two structural cuts
 proposed during the beat-draft pass — ch6's temple courtyard and ch8's middle conversation — were

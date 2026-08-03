@@ -5121,3 +5121,78 @@ The Land of Warriors.md`, `Book 6 - Necessary Measures/book6_outline.md`, `Book 
 `Book 1/Chapters/Chapter 1`, `Chapter 22` · `Book 2/Chapters/Chapter 3`, `Chapter 11` ·
 `Book 2/Beat Drafts/Chapter 3`, `Chapter 11` · `book2_chapter_skeleton.md` · Royal Road regenerated
 (Books 1 and 2; Book 3 unchanged).
+
+---
+
+## 2026-08-03 — B1 ch2 rewritten to the book's register; three faults from the Tam pass fixed
+
+**Found by reading ch1 and ch2 cold after the Tam pass, at the author's request.** ch1 came back clean.
+ch2's two insertions worked on their own and had created two repetitions, and the reading also surfaced
+that ch2 was the last chapter in Act I still in the pre-review voice.
+
+### The three fixes
+
+**ch1 — the stitches line was his instrument going blunt.** It read *"Seven stitches in a left palm that
+would foul inside the week if nobody kept them clean."* But at l.133 he watched the enforcer's grip land
+on that hand and saw *"the linen going dark across them"* — he knows it reopened four hours earlier. A
+healer who saw that does not estimate a week. Now: *"...that had been pulled open once already this
+evening, in front of him. Days, then. Not the week he had asked for."* The revision is the diagnosis
+correcting itself on the page, and it ties back to his own instruction to Tam that morning.
+
+**ch2 — Farleen was refusing twice, and the second one arrived after the argument had closed.** She had a
+care-objection either side of Silvanno's and Kael's, and once beat 9a existed to answer the trauma
+argument, her second instance was disputing a settled question. Volume, not position. Consolidated into
+one refusal with the hand-over-his in it.
+
+**ch2 — beat 14 opened with a weaker restatement of beat 12a.** *"We can make sure she's real, that she's
+out there, that she exists at least"* — the same argument as *"Either she's out there or there's something
+wrong with me"*, twenty lines later, and the narration itself called it weak (*hearing the weakness in his
+own argument*). Cut. The strong version is the one that survives.
+
+### The register pass
+
+ch2 was written before the review and had never been touched. Out: the narration's verdict-stamps (*Xion
+felt a surge of hope*; *feeling his certainty grow with each word*; *The weight of his words settled over
+the table like dust after a sandstorm*; *Xion saw resolve crystallize in Silvanno's face*), the
+adverb-propped attribution, and the out-of-world register — *God, I don't even know where to start*,
+*C'mon*, *buddy*, *Man, this **is** serious*.
+
+**One of those was rule 1, not style.** Xion argued the trait was *"not legend — it's a **genetic trait**
+passed down through the Valanar bloodline."* Genetics is a nineteenth-century science, in a
+pre-industrial desert city, in the mouth of an apothecary. He now cites what he could actually cite —
+the historians at Uratha wrote it down four hundred years ago, and it runs in the blood — and Kael cuts
+him off with the better objection anyway: *"I'm not arguing about her eyes. I'm asking what you would do
+on the day after you found her."*
+
+**Every beat survives and the order is unchanged.** Two structural improvements fell out of it: the three
+refusals are three rather than four, and beat 10's temper now has a trigger on the page (Silvanno's *you
+want it too much, is all*) instead of arriving at a man who last spoke twenty lines earlier and being
+addressed as *Sil* regardless.
+
+### Two things deliberately made quieter
+
+**Beat 16's tell is carried by the argument alone.** Farleen stops disputing what he saw and starts
+arguing danger, and **nothing in the narration points at it.** A draft had *and Xion did not notice*,
+which is a second signal and a far louder one; the standing rule is that beat 19's distant look is the
+only permitted signal, so it came out.
+
+**Beat 19 supplies an image instead of a pair of nouns.** *sadness, maybe. Resignation* → *the look of a
+woman reading a bill she already knew the total of.* He still cannot name it, which the draft requires.
+The gain is that the image reads as worry on the first pass and as arithmetic on the reread, which is
+what that beat has to do.
+
+**1,913 → 2,155 → 1,811 words.** Shorter than the chapter it replaced, because most of what came out was
+narration explaining dialogue that already worked.
+
+### Swept in the same pass: *discrete* → *discreet*, four instances
+
+ch2 (*"Then we'll be discrete"*), ch5 (*"the desperate and the discrete"*) and ch7 ×2 (*"He's...
+discrete about his patients"* and the line that plays on it). ch9 already had it right, which is what
+made the other four legible as an error rather than a convention. All four corrected; the ch2 instance
+went out with the rewrite.
+
+Book 1 is now 61,990 words, mean 2,479; Act I 8,489; ch1–8 mean 1,865.
+
+`Chapters/Chapter 1` · `Chapters/Chapter 2` (rewritten) · `Chapters/Chapter 5` · `Chapters/Chapter 7` ·
+`Beat Drafts/Chapter 1` (rhythm) · `Beat Drafts/Chapter 2` (beat 7, beat 12a, rhythm, and a new footer on
+the register pass) · `book1_chapter_skeleton.md` (length figures) · Royal Road regenerated.
