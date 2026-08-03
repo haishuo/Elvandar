@@ -4714,6 +4714,87 @@ was hers and she could not go into it.
 
 ---
 
+## 2026-08-02 — the instruction/body separation, swept across all 64 beat drafts
+
+**The rule, which is the author's and which generalises the *"Not from a ruin"* failure recorded above.**
+
+> The beats that appear in the **body** of a beat draft are what appears **on the page**, and nothing that
+> does not appear on the page may appear there. Instructions to the drafter — negative constraints,
+> guardrails, rule citations, correction notes — are permitted **around** the body (above it, below it, in
+> their own sections, in bracketed asides) but **never** inside a numbered beat.
+
+The failure it comes out of is directly above: B3 ch4's beat A4 carried *"Not from a ruin"* as a guard
+against a drafter still holding the retired fire error, and the guard went onto the page verbatim, denying
+a ruin no reader had reason to expect. **The mechanism is not a slip and does not stay local.** A beat
+draft carries two kinds of sentence — *what happens* and *what a drafter must not get wrong* — and the
+second kind is usually a negation, because that is the natural shape of a correction. Those negations
+transcribe. Mixing them into the numbered beats guarantees that some of them eventually land in prose.
+
+**Method: relocation, not rewriting.** Every instruction found in a beat body moved either to a footer note
+under an `**On beat N:**` header or to an indented, italicised, parenthesised aside directly under its
+beat. Where compression would have cost information, the guardrail moved down **verbatim** rather than
+being summarised — several footers are now longer than the house 400–750 words, which is the correct trade.
+No guardrail was deleted on the grounds that it was covered elsewhere unless the covering text was checked
+and found to say the same thing.
+
+**Two things were deliberately left in the bodies**, and the distinction is recorded because a future sweep
+will want to take them too. **Negative choices** — *what Elara does not do in this moment: raise her voice*
+— are events on the page and stay. **Effect analysis** — *this is the beat that does the most damage and it
+contains no misfortune at all* — is a statement about what a beat achieves, not an order, and stays. The
+operative test is whether a sentence could be **transcribed** into narration or could only be **obeyed**.
+
+### Counts
+
+| Book | Drafts | Touched | Already clean |
+|---|---:|---:|---:|
+| Book 1 — *The Grain Merchant's Son* | 25 | 16 | 9 |
+| Book 2 — *The One You Feed* | 20 | 11 | 9 |
+| Book 3 — *Crown Jewel* | 19 | 16 | 3 |
+| **Total** | **64** | **43** | **21** |
+
+**The distribution is the interesting part and it is not what the pre-sweep grep predicted.** Book 2 was by
+a distance the cleanest, because most of its guardrails were already in footers or in italic parenthesised
+asides — the sanctioned form, arrived at without the rule being written down. Book 3 was the worst, because
+it is the book currently being worked and its drafts have been absorbing corrections all week. **Book 1 was
+contaminated for a structural reason worth naming: its drafts were reverse-engineered from finished prose
+in 2026, and a draft written by reading a chapter records why the chapter works, which is craft commentary,
+which is instruction.** Sixteen of twenty-five.
+
+### Findings that were not relocations
+
+**B3 ch17 beat 17 described a scene no POV in the chapter could witness.** The beat had the Compact's
+strategic planners deciding, in Vartonne, to route around the Sentinel Mountains — in a chapter narrated
+from Xion's shoulder at the Terinok War Table. It cannot be staged. Rewritten so the mountains are named
+once in Xion's hearing and nothing more; the reasoning moved to the footer with the constraint stated.
+
+**The same beat called Sa Ko Ren *him*.** She is the Iron Lady; the footer three paragraphs below had her
+correctly as *she*. Fixed.
+
+**B3 ch15 beat 21 and B3 ch16 beat 19 both reached past what their POV can know** — ch15 forward into
+Kalden's recruitment of Vartonne, ch16 forward into four books of consequence. Both are flash-forward
+constructions of the kind the register forbids outright, and both were sitting in beat bodies where a
+drafter would transcribe them. Both now stop where their character stops; the downstream reasoning is in
+the footers, flagged as unavailable to the narration.
+
+**B1 ch3 beat 15 paraphrased a line it marked as verbatim.** The draft had *"the one about preferring a mad
+friend, because a mad friend I can walk home"*; the prose reads *"I'd rather my friend was mad. Because a
+mad friend I can walk home."* Book 1's page is the source and its drafts are derived, so the draft was
+corrected to the chapter. No prose was touched.
+
+**One numbered beat was removed and nothing renumbered.** B2 ch16's beat 13a was instruction end to end —
+*"Keep this glancing… Ch16 must not re-tell it"* — with no event in it at all. It is now a footer note. It
+was lettered rather than numbered, so no gap was created and no cross-reference moved.
+
+**No guardrail turned out to be stale.** This was checked for specifically, given how much of §5's warning
+about flags outliving their problems applies here. Every relocated note still described a live hazard.
+
+### The template
+
+`Templates/Beat Draft Template.md` now states the rule in the pattern itself, with the *"Not from a ruin"*
+provenance, the transcribe/obey test, the two exclusions, and the instruction that a relocation must not
+lose information. The footer section now says explicitly that guardrails belong there and that the word
+count yields to them. **This is the part that stops the problem recurring**; the sweep alone would not have.
+
 ## 2026-08-02 — B3 ch1–4: a de-duplication pass, because four chapters written in one session share their author's tics
 
 Author's catch: *"Gunastran builds the finest things" is used almost verbatim twice.* It is —

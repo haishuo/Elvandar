@@ -55,7 +55,7 @@
 
 22. **Rung five — the person.** Every argument spent, her voice drops to a whisper and says what it has been since ch14: she cannot lose him. The words hang there. He cannot stop, and by now they could not turn back if he wanted to, because without Elara they would never find their way out. Committed, for better or worse.
 
-23. Ahead, Elara walking on. Like a beacon. Like a moth drawn to flame — and the chapter should not choose between the two images, because neither Xion nor the reader can yet tell which she is.
+23. Ahead, Elara walking on. Like a beacon. Like a moth drawn to flame — both images stand, unchosen between, because Xion cannot yet tell which she is.
 
 ---
 

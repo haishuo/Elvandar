@@ -33,7 +33,7 @@
 
 12. Xion repeats the word and his mind reels — he watched it happen, he saw the color-changing eyes in that crowd, and both of them bore witness to something neither could stop. The mother begs: they know what the Warrens are, but he is twelve, and if there is anything he knows or anyone he can ask. She breaks down and her husband holds her.
 
-13. The beat the whole chapter is built to deliver, and it is silent. Xion looks at Elara and sees his own guilt reflected in her face. They both tried. They both failed. Neither confesses to the parents, then or ever, and the chapter must not let them.
+13. The beat the whole chapter is built to deliver, and it is silent. Xion looks at Elara and sees his own guilt reflected in her face. They both tried. They both failed. **Neither confesses to the parents, then or ever.**
 
 14. He promises to ask around, with no promises attached. The father offers what little they can pay and Xion refuses it — no charge, not for this — and says the boy deserved better than what happened to him. The free care is what killed the boy and he is still refusing payment. Nothing in the chapter remarks on this.
 
@@ -55,7 +55,7 @@
 
 22. A moment builds and she breaks it by standing and saying he should close up. Tomorrow they start planning. He agrees.
 
-23. The ending, and it must stay exactly as pitched. From the cot she offers him absolution: what he does matters, those people will remember someone helped them, and that has to count for something. He wants to believe her — wants to think eight years of careful bandaging adds up to more than guilt management — and instead tells her to get some sleep. Then, alone on the floor in the dark, he turns the phrase over and cannot make it mean anything. Count toward what. He has no idea what the total is supposed to be or who is keeping it, and in eight years he has never once caught himself getting nearer to it. Outside, the district goes quiet by degrees — shutters, latches, the last cart. Somewhere far below all of it, a twelve-year-old boy is working in the dark.
+23. The ending. From the cot she offers him absolution: what he does matters, those people will remember someone helped them, and that has to count for something. He wants to believe her — wants to think eight years of careful bandaging adds up to more than guilt management — and instead tells her to get some sleep. Then, alone on the floor in the dark, he turns the phrase over and cannot make it mean anything. Count toward what. He has no idea what the total is supposed to be or who is keeping it, and in eight years he has never once caught himself getting nearer to it. Outside, the district goes quiet by degrees — shutters, latches, the last cart. Somewhere far below all of it, a twelve-year-old boy is working in the dark.
 
 ---
 

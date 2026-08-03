@@ -55,7 +55,7 @@
 
 22. The examination. Deep purple and black across her left ribs and up toward the shoulder. Nothing broken, but a week of pain at least, maybe two. She says she has had worse. He says *I know* before he can stop himself, and her eyes come up, and she asks what.
 
-23. The wrapping, and from here the scene is genuinely warm and must play that way — he has to be close, his hands moving around her torso, the lamplight on her shoulder and jaw, the tension in her face as she holds her breath against the pain. He says it is not the first time he has wrapped her ribs.
+23. The wrapping, and from here the scene is genuinely warm — he is close, his hands moving around her torso, the lamplight on her shoulder and jaw, the tension in her face as she holds her breath against the pain. He says it is not the first time he has wrapped her ribs.
 
 24. Her expression shifts — surprise, then something softer and almost vulnerable — and she supplies the memory herself: she told him she fell down the stairs in the grain warehouse. He remembers. She was limping for a week; she corrects it to two, and admits she tried to hide it. He remembers being very concerned and checking on her.
 
@@ -63,7 +63,7 @@
 
 26. He ties off the bandage and does not move away, his hands resting on her ribs, feeling her breathe. This close he can see the exact amber of her eyes and a small scar near her temple he has never asked about. And the recognition: how many times has he patched her up over the years, small injuries, nothing serious, always with a plausible excuse — always with that same look, gratitude mixed with something he could never name.
 
-27. And then he ruins it, on purpose, with a question that has been sitting in him for months — because the warmth is what finally makes him feel able to ask. Did she really fall, that time. Her smile falters, the warmth goes out, and what replaces it is guarded and careful. The silence stretches. End on it, and never let her answer.
+27. And then he ruins it, on purpose, with a question that has been sitting in him for months — because the warmth is what finally makes him feel able to ask. Did she really fall, that time. Her smile falters, the warmth goes out, and what replaces it is guarded and careful. The silence stretches, and the chapter ends inside it. **She never answers.**
 
 ---
 

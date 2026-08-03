@@ -25,7 +25,7 @@
 
 8. The arithmetic, which is the confession proper. He had his mouth open. Then he counted the clinic, the eight years, every name in the book, and it came out the way arithmetic always comes out. He sets the lamp down on the workbench, and then moves it, and then moves it back — the only stage business in the scene, and it is doing all the work his voice is not.
 
-9. The verdict he passes on himself, and it must stay unresolved: he stood in a market square and weighed a twelve-year-old against a room full of jars, and he still does not know whether he decided or whether he could not move. Both. He has never once got them apart. Do not let him arrive at an answer, here or later.
+9. The verdict he passes on himself, and it stays unresolved: he stood in a market square and weighed a twelve-year-old against a room full of jars, and he still does not know whether he decided or whether he could not move. Both. He has never once got them apart, and he does not get them apart here. *(He arrives at no answer, in this chapter or any later one — see the footer.)*
 
 10. She lets it sit, and then does the one thing that can land. Not absolution — complicity. She was there too, hooded, in the crowd, watching a child get taken, and she did not move either. She says it the way she says things she has already checked, and dates it: three days to work out that what she was accusing him of at that gate was doing what she did.
 
@@ -39,7 +39,7 @@
 
 15. Her counter is one line and it reframes the book: until he challenged it by finding her. He agrees. This is the second account of his own life he does not immediately refuse, and both of them arrive in the same twenty minutes.
 
-16. She works out that the original Master Fen taught him medicine and asks what happened to them. His throat tightens and he says later — he cannot talk about Mira while his shoulder is bleeding and guards are searching clinics. Mira is named as an absence here and paid in ch22. Do not let him explain.
+16. She works out that the original Master Fen taught him medicine and asks what happened to them. His throat tightens and he says later — he cannot talk about Mira while his shoulder is bleeding and guards are searching clinics. **Mira is named as an absence here and nothing more**; he explains none of it. *(The account is paid in ch22.)*
 
 17. The treatment, and it is the mirror of ch7 with the roles corrected. She orders him to sit in the imperial register; he starts to argue; she says his name and one word; he sits. She narrates the procedure back to herself from memory — remove the old bandage first, quickly, don't hesitate — and he tells her she has a good memory. She says she pays attention.
 
@@ -72,6 +72,8 @@
 **On the conflict, which is the whole point and which a revision will want to smooth.** He is not a man who coldly chose the clinic over the boy. He nearly said the words. Every healer's instinct in him said *save the person in front of you and worry about tomorrow when it comes*, and the pragmatist won, and he hates that. Ch1 has the physical version already — he took a half step forward and stopped himself. If he ever reads as settled about this, the scene is dead, and so is ch22.
 
 **On the gift, which is the only one he accepts in two books.** She offers **complicity, not credit** — *I was accusing you of doing what I did.* Credit he must refuse, because his ledger cannot take a payment; complicity does not touch the ledger at all, so he can take it, and he takes it by not arguing. *He left it shut.* That single beat is why ch22's absolution is worse rather than redundant: he managed it once, and after Tam he cannot. **Do not let this read as forgiveness, and do not let anyone offer him credit here.**
+
+**On beat 9, which must stay unresolved.** Did he decide, or could he not move? **Do not let him arrive at an answer, here or later.** Both readings are true and he has never got them apart, and the moment a draft settles it — in either direction — the verdict stops being a wound and becomes a fact he has filed. The same applies to beat 16: **do not let him explain Mira.** She is named as an absence and the account is paid in ch22; an explanation here spends it early and leaves ch22 with a recap.
 
 **On what the chapter does and does not resolve:** the lie is fixed and the guilt is not. She gives him three reframings — you chose differently, you challenged it by finding me, your records are evidence — and he refuses the first, half-accepts the second and third. His guilt is not an argument he is losing, it is a ledger he is keeping, and ch12 says so directly when he cannot make *count for something* mean anything. **Nobody talks him out of it in Book 1, and nobody should.**
 

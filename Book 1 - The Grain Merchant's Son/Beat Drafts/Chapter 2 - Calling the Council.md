@@ -17,7 +17,7 @@
 
 4. Kael next, economical, no preamble, wanting to know what happened. Xion stalls for Farleen. The stalling matters: he wants all three present, which means he wants a decision, which means he has already made his.
 
-5. Farleen arrives late with an excuse about her father having unexpected guests. Plant it and do not let Xion react to it. In an earlier version he noticed the repetition and grew suspicious, which quietly wrecked the ch4 betrayal, because a man who has been suspicious for two chapters cannot be blindsided by one.
+5. Farleen arrives late with an excuse about her father having unexpected guests. It is planted and Xion does not react to it. *(An earlier version had him notice the repetition and grow suspicious, which quietly wrecked the ch4 betrayal — a man who has been suspicious for two chapters cannot be blindsided by one. See the footer.)*
 
 6. He tells them, and it comes out in a rush once it starts — the boy, the fabricated debt, the woman watching from the crowd, the colour change, the royal trait. His excitement breaks through the exhaustion at the end of it: not patching one leak at a time but overturning the whole arrangement.
 

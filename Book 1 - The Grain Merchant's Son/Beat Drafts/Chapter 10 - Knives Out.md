@@ -41,7 +41,7 @@
 
 16. Silvanno's facade cracks entirely — he and Kael have been searching for days — and then he takes a shuddering breath, straightens his mask, and produces a mechanical greeting for Lady Sarif with his attention still locked on Xion. He extracts a promise: his study, after midnight, and don't you dare disappear again. As he walks away he stops to order a servant to clean the glass he broke. Elara observes that he cares about Xion; Xion says he has put a good friend in an impossible position.
 
-17. The evening wears on and her control degrades visibly — the set of her shoulders, the tension in her jaw, the way her eyes want to shift and only iron will keeps them blue. The chapter should feel like a held breath here.
+17. The evening wears on and her control degrades visibly — the set of her shoulders, the tension in her jaw, the way her eyes want to shift and only iron will keeps them blue. The whole stretch is a held breath.
 
 18. The Great Hunt. It starts as ordinary season-planning near the garden doors: Lord Tervan proposing they revive the tradition, someone recalling his father hosted the last one before The Rending, warm nostalgia about three days in the royal forests and the thrill of the chase. A younger woman mentions that the royal family once let commoners hunt alongside nobility, sharing the forest as equals. Tervan waves this away — they have adapted the tradition, made it more appropriate to current circumstances.
 
