@@ -323,15 +323,3 @@ He straightened up. Farleen was watching the road rather than him, in the way sh
 "I got it."
 
 They walked back up through the Merchant Quarter. He did not say any of the rest of it, to her or to Elara that night or to anyone at all, and nobody said it to him.
-
----
-
-The camp went in over nine days.
-
-Vesk took it down in three loads with the Arol Batae detail walking the shafts, and Sa Ko's timber came down behind them, and her iron behind that, and the platforms went up at the foot of Dead Man's Passage in a chamber that had held nothing but blade-marks and dust for longer than the Balishan Empire had existed. The Long Knives took their positions front and back on every load exactly as they had said they would, and took nothing for it, because the Mistress had been paid in the summer in a story and considered the account current.
-
-The three Tor'anar arrived on the fourth day, in middle age, with no young ones behind them, and asked where they should stand.
-
-Farleen was on the manifest. She had been on the manifest since the morning it was drawn, in nobody's column, and the quartermaster had long ago stopped asking what to write beside her name.
-
-By the ninth day there was standing light in that chamber, which there had never been — lamps on standards, a plank floor, a table with the surveyor's eleven pages weighted down on it, and the Door at the end of it all, five meters by three, doing what it had been doing since before anyone had a word for any of this, which was nothing.
