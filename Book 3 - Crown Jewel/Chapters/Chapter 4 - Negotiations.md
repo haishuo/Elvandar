@@ -16,9 +16,35 @@ And then not repeated.
 
 Xion sat with the sheet in front of him and did the rest of it himself, which took about as long as reading it had. Eleven days of paying a man to hold a weaver, and then a decision that a twelfth was not worth making. They had wanted the records — every name, every district, every date, in a cipher that two people in the city could read — and the records had been ash on the floor of her own shop before the cartel men reached the shelf, because she had put them there herself with her own lamp while he stood in front of her and failed to stop her.
 
-So they had held her for eleven days to get a thing that had ceased to exist before they took her, and then they had let her go, because she was costing money.
+So they had held her for eleven days to get a thing that had ceased to exist before they ever took her. And then, on the twelfth, somebody had decided she was not worth the money.
 
 Kael watched him work it out and did not help.
+
+"It doesn't say which," Xion said, when he got there.
+
+"No. It doesn't." Kael did not soften that either. "A man who is let go stops being an expense. So does a man who isn't. The book was kept by somebody who considered the distinction his own business and nobody else's, and there is nothing in those four lines that decides it."
+
+Xion looked at the sheet for a while longer.
+
+He had known this was possible since the morning he asked the question in front of a clerk with ink on his hand, and he had known it every week since, in the way you know a thing you have deliberately not sat down with. It was a different weight in the room now that it had a date attached. Eleven days, and then a decision, and then four inches of blank ruled paper where the twelfth entry would have gone.
+
+"Then we're not finished," he said.
+
+"No," Kael agreed, and turned the folio around, and put down the second sheet.
+
+---
+
+It was the water levy that found her, which Xion had said it would.
+
+He had told the undersecretary as much in the first ten seconds of asking — *she owned her shop outright, which means she paid her own water levy; there will be a token roll with her on it, or there was.* He had meant it as the only handhold he could offer a man being sent into a great deal of material. It had not occurred to him that the roll would still be running.
+
+It was still running. A token drawn every quarter without a gap, in her own name, against an address in the Middle District, and the current quarter's was among them — issued six weeks ago by a Water cartel clerk who would have looked at her across a counter and not thought about it at all.
+
+Xion read the line twice.
+
+Six weeks ago somebody had put a token in her hand, and the quarter it belonged to had not yet run out.
+
+"She's alive," he said, and heard his own voice do something on the second word, and did not look up until it had stopped.
 
 ---
 
@@ -50,7 +76,7 @@ She heard his step before he was through the door.
 
 "Master Fen."
 
-No ceremony in it at all. The same two words in the same register she had used every morning for eight years, dropped into the air the way you would greet a man who had come by yesterday. He had put that name into the imperial record five weeks ago, in a session with two cartel heads and three noble houses in the room, and it had been the most deliberate act of his life. To her it was eight years old and had never once been in question.
+No ceremony in it at all. The same two words in the same register she had used every morning for eight years, dropped into the air the way you would greet a man who had come by yesterday. He had put that name into the imperial record three weeks ago, in a session with two cartel heads and three noble houses in the room, and it had been the most deliberate act of his life. To her it was eight years old and had never once been in question.
 
 She did not know she had done anything. He stood in the doorway for a moment and got his face in order.
 

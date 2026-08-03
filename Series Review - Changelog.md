@@ -4650,3 +4650,35 @@ soften a wall the chapter needs to stay a wall.
 `Chapters/Chapter 4 - Negotiations.md` (new) · `Beat Drafts/Chapter 4 - Negotiations.md` (new
 what-the-prose-added section) · `Series Review - Master List.md` (the hands thread) · Royal Road
 regenerated, Book 3 now five chapters.
+
+**Correction the same day — Xion cannot know from the ledger that Janice survived, and the draft had him conclude it anyway.**
+
+Author's catch, and the diagnosis is that **the author's misreading was the correct reading.** The line ran:
+*"they had held her for eleven days… and then they had let her go, because she was costing money."* Read
+cold, that scans as a euphemism — the author took it to mean they had killed her — and **there is nothing
+in the evidence that rules the darker reading out.** Kael's own line two paragraphs earlier says so
+outright: *a release isn't written down as a release; it's written down as somebody ceasing to be an
+expense.* A stopped entry is exactly as consistent with a murder as with a release. Xion asserting
+otherwise is a conclusion the page has just finished proving unavailable.
+
+**So the ambiguity is now on the page instead of in it.** He says *it doesn't say which*; Kael confirms it
+and offers nothing — a man who is let go stops being an expense, and so does a man who isn't. The
+not-knowing gets its own beat: eleven days, a decision on the twelfth, **and four inches of blank ruled
+paper where the next entry would have gone.** It is the only stretch of the movement with dread in it and
+it is now allowed to be frightening, which it should have been from the start.
+
+**What resolves it was already planted in ch1 and is the reason that request was written the way it was.**
+Xion told the undersecretary in the first ten seconds — *she owned her shop outright, which means she paid
+her own water levy; there will be a token roll with her on it, or there was.* He meant it as the only
+handhold he could give a man being sent into a great deal of material. **He did not consider that the roll
+might still be running.** It is: tokens drawn every quarter without a gap, in her own name, against a
+Middle District address, with the current quarter's among them. Somebody put a token in her hand six weeks
+ago and did not think about it.
+
+**Two documents, and neither does the other's job.** The ledger says she was taken and that the payments
+stopped. The levy roll says she is alive. Nothing in the first could have told him the second, which is
+why the ch1 request named the instrument it named — and the payoff is now legible rather than assumed.
+
+*Kept clear of the number eleven deliberately: an echoed figure reads as a clue.* Also fixed in the same
+pass — the imperial-record entry was placed *"five weeks ago"* against a ch1-to-ch4 interval the week table
+puts at two to three. **6,021 → 6,393 words.**
