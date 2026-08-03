@@ -24,7 +24,7 @@ He was not going to take a dying child's water out of a dying child's house. He 
 
 The tally-man looked up at his approach with the practiced irritation of a man whose whole day was telling people the number was the number. The irritation held right up until something in Xion's face caught, turned over, and resolved into a name.
 
-"…Lord Kemvimore." He actually straightened.
+"...Lord Kemvimore." He actually straightened.
 
 Xion hated hearing it. He always would. Master Fen could read the girl's pulse and count out spoonfuls and coax a body back from the lip of drought — and Master Fen could not get one cup past this man's ledger. Only the other one could do that. Only the name he had spent years trying to set down.
 

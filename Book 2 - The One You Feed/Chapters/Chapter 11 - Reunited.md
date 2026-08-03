@@ -96,7 +96,7 @@ He spread his hands. And at the last he found he did not want to be the one to s
 
 Elara looked at him for a long moment.
 
-"…Rosik," she said.
+"...Rosik," she said.
 
 He nodded. And hated that he nodded.
 

@@ -70,7 +70,7 @@ He worked quickly, tweezing out the glass and trying not to think about why the 
 
 Seven stitches. He dressed the hand with the linen from the box and used all of it. "Keep this hand still for three days at least," he said. "A week would be better."
 
-Tam's eyes went wide. "But… my mom's sick. I gotta—"
+Tam's eyes went wide. "But... my mom's sick. I gotta—"
 
 Xion pressed a silver coin into the boy's good hand. "For your mother," he said. "Don't let anyone see it if you can help it."
 

@@ -5077,3 +5077,47 @@ ch1, so it is not a ch1 anomaly and was out of scope for this pass.
 plain `'` and `"` with seventeen `&mdash;`, and no `&rsquo;`/`&ldquo;` anywhere in the book.
 
 `Chapters/Chapter 1 - The Healer's Hands.md` · `Royal Road/Chapter 1 - The Healer's Hands.html`
+
+---
+
+## 2026-08-03 — ellipses normalised across Books 1 and 2 (mechanical, no prose altered)
+
+Follows the ch1 quote pass above. The books used both forms: `...` in 85 places in Book 1 and 5 in Book 2,
+against `…` (U+2026) in 5 and 2. **The majority form wins**, so the seven typographic ellipses became
+`...`.
+
+**Book 1** — ch1 (Tam's *"But... my mom's sick"*), ch22 ×4 (Xion on Mira: *"she..."*, *"She became..."*,
+*"I just... stood there"*, *"Never again would I just... freeze"*). **Book 2** — ch3 (*"...Lord
+Kemvimore."*) and ch11 (*"...Rosik,"* she said).
+
+**Three derived-document citations followed the prose**, because they quote the changed lines verbatim:
+`Book 2/Beat Drafts/Chapter 3`, `Book 2/Beat Drafts/Chapter 11`, and `book2_chapter_skeleton.md` at the
+Rosik deduction.
+
+### The rule this pass establishes, since both marks stay in use
+
+**In chapter prose, `…` is a character in someone's speech and normalises to `...`. Everywhere else it is
+the editorial compression marker and stays.** The review register, the beat drafts and the skeletons all
+use `…` to mean *text elided here* — `"It was good work… Then he laid the backs of his fingers"` in the
+Master List, `"she said she would still be here…"` in the ch20 draft quoting text that was **cut** — and
+that is exactly what the mark is for. Normalising those would destroy information.
+
+The only exception is a verbatim citation of a prose line that changed, which tracks the prose. Checked
+and **not** changed on that test: `book2_chapter_skeleton.md` l.309 (*she should be here… where is she?*),
+which reads as a citation but is a paraphrase — ch15 l.37 has no ellipsis in it.
+
+### State after the pass
+
+All three books' prose now contains exactly one non-ASCII character, the em dash (Book 1: 646, Book 2:
+595, Book 3: 172). No four-dot sequences anywhere. Spacing was already consistent and was not touched —
+no instance in either book has a space before the ellipsis, in 90 instances.
+
+**Left alone as out of scope** (`…` retained, editorial or non-prose): `Series Review - Master List.md`,
+`Series Review - Changelog.md`, `Story Timeline.md`, `Templates/Beat Draft Template.md`, `People/Xion
+Kemvimore.md`, `People/Mistress Janice.md`, `Places/Languages of Elvandar.md`, `Places/Terinok/Terinok -
+The Land of Warriors.md`, `Book 6 - Necessary Measures/book6_outline.md`, `Book 7 - Last Debts/book7_outline.md`,
+`Book 2/Beat Drafts/Chapter 20 - Still Here.md`, `book2_chapter_skeleton.md` l.309.
+
+`Book 1/Chapters/Chapter 1`, `Chapter 22` · `Book 2/Chapters/Chapter 3`, `Chapter 11` ·
+`Book 2/Beat Drafts/Chapter 3`, `Chapter 11` · `book2_chapter_skeleton.md` · Royal Road regenerated
+(Books 1 and 2; Book 3 unchanged).

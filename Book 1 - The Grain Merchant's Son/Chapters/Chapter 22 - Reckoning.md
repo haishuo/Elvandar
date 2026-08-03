@@ -146,11 +146,11 @@ Silence.
 
 Xion's breathing was ragged. He forced himself to continue.
 
-"She was the apothecary at our estate. After my mother died in the Rending, she…" He stopped. Started again. "I was sick a lot as a child. Confined to the estate while other children went to parties and balls. She took care of me."
+"She was the apothecary at our estate. After my mother died in the Rending, she..." He stopped. Started again. "I was sick a lot as a child. Confined to the estate while other children went to parties and balls. She took care of me."
 
 He could feel Elara watching him. Listening.
 
-"She became… she was more of a mother to me than anyone else. When I was stuck in bed with fever, she'd sit with me. Teach me things. How to mix herbs. How to treat wounds. How to see patients as people, not problems."
+"She became... she was more of a mother to me than anyone else. When I was stuck in bed with fever, she'd sit with me. Teach me things. How to mix herbs. How to treat wounds. How to see patients as people, not problems."
 
 His voice was rough now. The memories sharp.
 
@@ -196,7 +196,7 @@ His jaw worked.
 
 Silence.
 
-"*Nothing.*" The word came out like he was spitting poison. "Absolutely nothing. I just stood there. Dumb. Mute. **Useless**. I didn't beg. Didn't argue. Didn't throw myself at his feet and scream that she didn't deserve it. I just… stood there. And they took her out past me, and I moved out of the way so they could."
+"*Nothing.*" The word came out like he was spitting poison. "Absolutely nothing. I just stood there. Dumb. Mute. **Useless**. I didn't beg. Didn't argue. Didn't throw myself at his feet and scream that she didn't deserve it. I just... stood there. And they took her out past me, and I moved out of the way so they could."
 
 His breath went out of him.
 
@@ -204,7 +204,7 @@ His breath went out of him.
 
 Tears were streaming down Elara's face now.
 
-"I stood at her grave and I promised I would never again stand still while someone who needed me suffered. Never again would I just… freeze." His voice cracked. "Every patient I treat is for her. And every patient I treat is because of **me**. Because I can't stop seeing that boy who was too afraid of his father to open his mouth. That's why I became Master Fen. That's why I can't stop."
+"I stood at her grave and I promised I would never again stand still while someone who needed me suffered. Never again would I just... freeze." His voice cracked. "Every patient I treat is for her. And every patient I treat is because of **me**. Because I can't stop seeing that boy who was too afraid of his father to open his mouth. That's why I became Master Fen. That's why I can't stop."
 
 He met Elara's eyes.
 
