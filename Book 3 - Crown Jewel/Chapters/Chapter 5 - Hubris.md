@@ -58,13 +58,17 @@ It was, he thought, a city that had decided what it was.
 
 He could not decide whether that was the most impressive thing he had ever seen or the strangest.
 
-He asked, on the second day, what was in the last ring — because if the order ran outward from the tower through the disciplines in the order a person learns them, then something had to be at the end of it, and from the road he had only seen roofs.
+He asked, on the second day, which tower the last ring belonged to.
 
-"The Warrens," the escort said.
+He had the pattern by then and was pleased with himself for having it — purple spire, arcane quarter; blue spire, the records; and so on around, each district sitting under the tower whose business it was. The outermost ring was the one he had seen only the roofs of from the road, and he wanted to know whose it was.
 
-Xion did not react. That was practice, and it was old practice. He asked what was in them, and was told: the people who did the work. Thirty in every hundred, near enough. They kept the market, and carried, and cooked, and cleaned, and had their own quarter out past the last of the colleges, and it was the most densely built part of the city because it had to be.
+"None," the escort said. "It isn't a discipline."
 
-It was the same word. That was the thing he could not put down for the rest of the day. Urathan came off Imperial Balishan the same as Kaha'ani did, and the word had gone into both mouths and come out meaning the same thing in both places, and in the shining white city that had arranged itself as a lesson, the last thing the lesson taught you was where the people who were not in it lived.
+And then, because Xion did not say anything, he explained, in the manner of a man who did not think the subject required any particular handling. The Service Quarter. Thirty in every hundred, near enough. They kept the market and they carried and cooked and cleaned, and it was the most densely built ground inside the walls because it had to be, and it lay outside the last of the colleges for the plain reason that the rings ran out there.
+
+The name was exact. That was the thing Xion could not put down for the rest of the day.
+
+This was a country that had named a courtyard for the proof set into its paving. It had put the disciplines in the order a person learns them and then built a city in that order, in white stone, on a plain. And when it came to the third of its people who stood outside the sequence entirely, it had not reached for a euphemism, and it had not reached for an insult either. It had looked at what those people were **for**, and written that down, and gone on to something more interesting.
 
 ---
 

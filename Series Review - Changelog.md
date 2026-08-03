@@ -5293,3 +5293,42 @@ describe.
 the relevant sections get read whole — not searched.
 
 **5,074 → 5,352 words.** Standing checks re-run; one multi-word bold corrected to italics.
+
+**Third pass on the same beat — *"The Warrens"* was the wrong name and the wrong idea.**
+
+Author's objection, and all three parts of it land. **Warrens are underground; Uratha's is not. Warrens are
+winding; this is a built quarter. And above all — a civilisation organised around precision would never use
+a name that imprecise.**
+
+**Provenance, stated honestly: I did not invent it.** *"The **Bakarn** Warrens"* is in
+`Places/Uratha/The Physical Geography of Uratha.md`. But I seized on it and built a beat on it, and the
+objection holds regardless — **and the file itself convicts the term.** The capital's location list runs:
+Great Library, Examination Grounds, Scholar's Gardens, Seven Colleges, Market District, Dormitory Quarter —
+seven flat statements of function — and then one loose metaphor. It is the only entry that is not a plain
+description of what a place is for.
+
+**Renamed in canon to The Service Quarter**, with the reasoning recorded in the file. **It is a worse name
+to be given and that is exactly the point:** a civilisation that files students under *dormitory* files the
+third of its population who serve under *service*, accurately, and moves on.
+
+### The beat is better without the coincidence, which is the part worth keeping
+
+The old version rested on *Warrens* being the same word Kaha'an uses — two tongues off Imperial Balishan,
+the same sound in both mouths. **That is a coincidence of vocabulary wearing the costume of an insight.**
+
+What replaced it uses the structure the chapter had already built two paragraphs earlier — every ring sits
+under the tower whose business it is — so the question Xion actually asks is **which tower the last ring
+belongs to.**
+
+> *"None," the escort said. "It isn't a discipline."*
+
+A city organised entirely by discipline has one district that is not one. It is named accurately, because
+this is a country that names a courtyard for the proof set into its paving; and confronted with the third
+of its people standing outside the sequence, it reached for neither euphemism nor insult — **it looked at
+what those people were for, wrote that down, and went on to something more interesting.**
+
+**The test that would have caught it: would this land if the two words happened not to match?** For the old
+version the answer was no. The new one depends on no coincidence at all.
+
+**5,352 → 5,423 words.** `Places/Uratha/The Physical Geography of Uratha.md` renamed; ch5 and its beat draft
+updated; no stale references to the old term anywhere outside this changelog.

@@ -78,7 +78,7 @@ The landscape is remarkably diverse:
 - **The Seven Colleges** \- Original academic buildings dating from imperial times  
 - **The Market District** \- Where essential goods are traded, primarily operated by *bakarn*  
 - **The Dormitory Quarter** \- Housing for students and junior scholars  
-- **The *Bakarn* Warrens** \- Densely populated area where service workers live
+- **The Service Quarter** \- Densely populated area where *bakarn* service workers live. *(Renamed from "The Bakarn Warrens" on 2026-08-02, author's ruling. Three problems with the old name: warrens are underground and this is not; warrens are winding and this is not; and above all **Uratha would never use a name that imprecise.** Every other entry in this list — Great Library, Examination Grounds, Dormitory Quarter, Market District — is a flat statement of function, and "Warrens" was the single loose metaphor among them. **The Service Quarter is worse than the old name and that is the point:** a civilisation that files students under* dormitory *files the third of its population who serve under* service*, accurately, and moves on.)*
 
 ### Lumina Vale
 
