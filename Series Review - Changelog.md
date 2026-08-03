@@ -5426,3 +5426,31 @@ read canon properly. **This one was a failure to ask what a correct passage was 
 right made it more accurate and no more relevant — and accuracy is not a justification for presence.
 **The test to run on any passage that explains something: does anything downstream change because the
 reader now knows this? If the honest answer is no, it is a lesson, and it goes.**
+
+**Sixth pass — a sentence that pointed at Lathion and told the reader not to look.**
+
+Author's catch: *"This sentence is entirely unnecessary and draws attention to Lathion for no reason. I say
+cut the whole thing."* Cut, and nothing replaces it.
+
+> *"He did not think anything in particular about the list. It was a list of legends and one of them was
+> Lathion and none of them was more credible than the others…"*
+
+**That is the beat draft's own instruction, transcribed into narration.** The ch5 footer says to build
+Mereth's list so that no theory is more credible than the rest — **a note about construction** — and I
+wrote it as a thing the narrator asserts. The effect is the reverse of the intent: it lifts *Lathion* out
+of the list by name and then protests that it is not significant. **A reader who was not looking at the
+word is looking at it now.**
+
+**This is the second confirmed instance of the ch4 *"not from a ruin"* failure** — a drafter instruction
+reaching the page — and the first where the transcription actively damaged the thing it was protecting.
+Worth noting while the beat-draft sweep is running: **the pattern is not merely latent in the drafts, it
+has already crossed into prose twice.**
+
+**What replaced it: nothing, because nothing was needed.** The paragraph above already does the work —
+Xion watching Elara receive a folk tale about a door she has personally made light up, and say nothing to
+anybody in the room. And the line below handles his attention being elsewhere without naming a subject:
+*he was, at that moment, more interested in the fact that he still could not read the cuffs.*
+
+**Lathion now appears exactly once in ch5** — third of four theories, in a subordinate clause, inside a
+happy monologue by a scholar who loves the material. That is the entire plant, and it should never be
+larger.

@@ -156,8 +156,6 @@ Somebody laughed. Somebody else asked about the four manuscript families and got
 
 Xion sat with his wine and watched Elara listen to all of it with the pleasant, slightly interested expression of a woman being told a folk tale at a dinner, and thought about the fact that this woman had walked through Dead Man's Passage in a trance and put her hand on that door and made a chamber the size of a cathedral light up under it, and had said nothing about any of that to anybody in this room and was not going to.
 
-He did not think anything in particular about the list. It was a list of legends and one of them was Lathion and none of them was more credible than the others and Mereth herself had said the whole body of it was usually treated as elaboration.
-
 He was, at that moment, more interested in the fact that he still could not read the cuffs.
 
 ---
