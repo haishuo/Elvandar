@@ -23,7 +23,7 @@ them before it is proposed against the prose.
 | **Rule 3** — single-emotion integrity | 0 | — |
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
-| **Open questions** | 1 | The locked ages — Book 3 now spans ~7–8 months, which ages Xion and Elara past their Book 1 figures ([§7](#7-open-questions)) |
+| **Open questions** | 0 | — |
 
 **Nothing outstanding in either book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied.
@@ -279,16 +279,21 @@ sit on top of. And it is a debt with a due date: **the moment Lathion is opened,
 ahead of her own court**, and nothing yet written shows her paying it. Do not quietly drop it, and do not
 let the ch6 wonder chapter carry the payment — that scene takes one emotion.
 
-**The Mistress is Xion's grandmother, and nothing has ever touched it.** `Places/Kaha'an/The Long Knives_
-Death Merchants of Kaha'an.md` records her as Rosik's mother, "hidden from all but a handful." She has met
-Xion twice on the page — B1 ch21 as Master Fen, B3 ch2 as First Counselor — and on the second she stops on
-her way out, notes that he has kept the name, and looks at him a beat longer than the words require.
-**That is the entire deposit and it is deliberately deniable**: the look is covered on its face by the
-healer-turned-counselor fact, and a reader who never learns the relation loses nothing. **Do not add a
-line that points at it in Book 3.** But it is now planted twice, and this series' rule is that planted
-seeds get paid — so **whichever book takes it, take it on purpose.** Note the shape of the problem for
-whoever does: Rosik's mother is a Long Knife, Rosik is a former Long Knife, and Xion has spent eight years
-being the one Kemvimore who heals — which means the reveal is about inheritance, not about surprise.
+**The Mistress is Xion's grandmother — true, canon, and not a thread. Author's ruling, 2026-08-02.**
+`Places/Kaha'an/The Long Knives_ Death Merchants of Kaha'an.md` records her as Rosik's mother, hidden from
+all but a handful, and that stays. **What was wrong was treating it as a planted seed awaiting payment.**
+
+**A fact can be true and load-bearing on nothing.** The author's framing, kept verbatim because it is the
+general principle and not just this case: *write a novel about the life of FDR — was Teddy Roosevelt
+related to him? Sure, and maybe it's fun trivia, but the novel works perfectly fine without mentioning
+Teddy once. It can remain true and still be irrelevant to the story you are telling.*
+
+**So this is not owed a payoff and no later book should feel obliged to find one.** The "never plant what
+isn't paid" rule cuts the other way here — the correct fix was not to schedule a detonation but to stop
+depositing. The one beat in B3 ch2 that read as a deposit (an unreadable look held a moment too long) has
+been softened to what it always actually was: an old woman recognising the healer she met in her own
+tunnels, who is now First Counselor to the Crown. Fully motivated on its face, with nothing underneath it
+for a reader to be waiting on.
 
 **Elara's "note it" — the Warrens are not governed and she knows it.** B3 ch2: Vesk buys eleven days of
 Slaver-held shafts from a lieutenant who does not know or care that the crown has been writing to his
@@ -616,26 +621,16 @@ Fixed in the prose, verified against the chapters 2026-07-27.
 
 ## 7. Open questions
 
-### The locked ages, now that Book 3 has a span — **needs an author ruling**
+**None currently open.** The three items opened on 2026-08-02 were all ruled on the same day and are
+recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
+Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
+changelog for each.
 
-Opened 2026-08-02, and it is the residue of a larger item that closed the same day (the *"few years"*
-placeholder — see the changelog). `Story Timeline.md` now carries a full Book 3 chapter-timing table:
-**~7–8 months**, ch1 to the first shot, which puts Book 3's close about **fifteen to sixteen months**
-after Xion first sees Elara in the market square.
-
-**The ages table has Xion at 23 and Elara at ~20, both marked locked, and both are Book 1 figures.**
-Sixteen months makes them 24 and 21 by Book 3's close unless birthdays are simply never marked. Two
-clean options: *(a)* treat the ages as Book-1 facts and never state an age again after Book 1, or
-*(b)* age them explicitly and pin the birth year for each. **Do not resolve this by writing an age
-into a chapter** — pick one first. Nothing in the prose depends on it yet; no chapter after Book 1
-states an age.
-
-**Related, and not a question but a warning:** the months-never-years rule survives the new span and
-should not be over-applied. *"Years ago"* is still wrong everywhere inside Books 1–3. But by the back
-half of Book 3 a character can truthfully say *a year ago* about Book 1. The rule exists to prevent
-inflation; the opposite error is now available too. Check the week number before writing any interval.
-
-Everything else previously listed here has been decided; see [§6](#6-settled-rulings).
+**One warning survives them, and it is not a question.** The months-never-years rule must not be
+over-applied now that Book 3 has a span. *"Years ago"* is still wrong everywhere inside Books 1–3, but by
+the back half of Book 3 a character can truthfully say *a year ago* about Book 1. The rule exists to
+prevent inflation; **the opposite error is now equally available.** Check the week table in
+`Story Timeline.md` before writing any interval, in either direction.
 
 **Numbering warning, kept because it caused a real misreport.** This section was once numbered 1–4
 while the closed-items list used a separate Q1/Q2/Q3 scheme for different items, and three

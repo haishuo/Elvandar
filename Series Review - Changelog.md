@@ -4270,3 +4270,79 @@ beat actively *depends* on messages moving at different speeds by different rout
 it. **Book 4 is genuinely open**: its engine is the Compact striking to preempt Lathion implementation, so
 the relay is presumably partial or absent at the outbreak, but `book4_outline.md` does not say and it should
 be decided before that book is drafted rather than during it.
+
+---
+
+## 2026-08-02 — Three author rulings: birthdays pinned, the Mistress de-planted, no relay in Book 4
+
+All three were items this document had left open. All three are now closed.
+
+### 1. The birthdays are pinned
+
+The ruling was to pin rather than to leave the ages as unrepeatable Book-1 facts. **Two constraints made
+the placement nearly determinate before any choice was made:** B3 ch1's prose has Rosik sharing a house
+and a surname with Xion *"for twenty-three years"*, so **Xion is still 23 when Book 3 opens**; and Elara
+is crowned at 20 after twenty years hidden, which is the whole shape of her, so **her birthday cannot fall
+before the coronation.**
+
+Weeks counted from Book 1 ch1 = week 0 (Book 1 opens in **winter** — B3 ch1 calls that period *the winter*
+twice). Book 1 wk 0–4, Book 2 wk 7–29, Book 3 wk 35–69.
+
+| | Born | Birthday | Result |
+|---|---|---|---|
+| **Xion** | late autumn, **1021 BR** | wk 48 (Book 3 wk 13) | 23 through Books 1–2 and Book 3's first act; **turns 24 inside Lathion** during the ch7–9 exploration; marries at 24 |
+| **Elara** | summer, **1024 BR** | wk 24 (mid-Book 2) | 20 for all of Book 1, **crowned at 20**; 21 from mid-Book 2 and for all of Book 3; marries at 21 |
+
+**Nothing marks either occasion.** Xion turning 24 five hundred metres under the desert in a city empty
+for twenty years, with nobody mentioning it including him, is the right register: **a pin, not a scene.**
+If a later draft reaches for a birthday beat the answer is no. Downstream: Elara is ~22 at the twins'
+birth, putting them at 18 about 20.3 years after Book 1, which matches the Book 5 figure. Melina Kemvimore
+and Rosik are unaffected.
+
+*(Fixed while checking: Book 7's outline had Rosik "reading Xion for twenty-three years" — a figure lifted
+from Book 3 and left in a book set twenty years later, where Xion is in his forties. Now age-agnostic.)*
+
+### 2. The Mistress is Xion's grandmother, and it is not a thread
+
+**The relation is canon and stays canon.** What was wrong was this document treating it as a planted seed
+awaiting payment, and B3 ch2 depositing against it with an unreadable look held a beat too long.
+
+**The author's framing, kept verbatim in the master list because it is a general principle and not just
+this case:** *write a novel about the life of FDR — was Teddy Roosevelt related to him? Sure, and maybe
+it's fun trivia, but the novel works perfectly fine without mentioning Teddy once. It can remain true and
+still be irrelevant to the story you are telling.*
+
+**The "never plant what isn't paid" rule cuts the other way here.** The correct fix was not to schedule a
+detonation in some later book but to **stop depositing**. So the ch2 line has been rewritten to something
+complete on its face — she says *"Hm,"* in the tone of a woman filing something, and goes, and it occurs
+to Xion afterward that the last time she looked at him he was kneeling on her floor with his sleeves
+pushed up, and that she made the adjustment considerably faster than the palace did. Fully motivated,
+nothing underneath it, nobody waiting on anything.
+
+The cross-book-threads entry has been replaced with the ruling; the ch2 beat draft carries a
+do-not-reintroduce note.
+
+### 3. Book 4 has no relay, explicitly
+
+Not "presumably absent" — **absent**, on the author's ruling, with the reasoning recorded because it is
+the kind of thing a later reader will otherwise re-open. The Compact War opens a few **months** after the
+Brass Door is unsealed, and three things must happen first, none compressible:
+
+1. **Somebody has to understand the technology, not merely possess it.** Book 3's expedition can barely
+   read the place. Genuine comprehension is years.
+2. **It is third in the queue and the queue is not negotiable** — purification, then energy, then
+   communications. A nation whose people are dying of bad water does not build a signal network first.
+3. **And then it has to be installed**, station by station, along a desert road.
+
+**So Book 4 runs on the Golden Path and riders, exactly like every book before it** — and this is not a
+limitation to write around, it is the ordinary condition of the world for the first four books. Recorded
+in `Lathion_ The Lost City of Gears.md` and in `book4_outline.md` itself, where any beat needing word to
+travel should be built on couriers. The relay is a Book 5-and-later fact and is unremarkable by Book 7.
+
+### Files
+
+`Story Timeline.md` (ages table and a new pinned-birthdays section) · `Series Review - Master List.md`
+(§7 emptied, status table to zero, the Mistress thread replaced) · `Book 3 - Crown Jewel/Chapters/Chapter
+2 - Inheritance.md` and its beat draft · `Book 4 - Harkim's War/book4_outline.md` ·
+`Places/Kaha'an/Lathion_ The Lost City of Gears.md` · `Book 7 - Last Debts/book7_outline.md` · Royal Road
+regenerated for Book 3.

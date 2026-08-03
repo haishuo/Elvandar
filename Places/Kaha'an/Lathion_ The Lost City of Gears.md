@@ -313,12 +313,26 @@ is an error and none of it should be "corrected" into relay traffic by a later r
 particular *depends* on messages travelling at different speeds by different routes, and the relay would
 destroy it.
 
-**Open question, flagged not resolved:** instantaneous continental communication is a decisive military
-asset, and Book 4 is the Compact War. That book's engine is Gunastran and Erulius striking Uratha
-*specifically to preempt Lathion implementation*, so the relay is presumably partial or nonexistent when
-the war opens — but `book4_outline.md` does not say, and somebody should decide before Book 4 is drafted
-rather than during it. **By Book 7 it is unremarkable and fully built**, which is a span of years and
-plenty of room for whatever answer Book 4 wants.
+**Book 4 has no relay. Author's ruling, 2026-08-02, and it is explicit rather than merely likely.**
+
+The Compact War opens a few **months** after the Brass Door is unsealed, and three separate things have to
+happen before a relay exists, none of which can be compressed:
+
+1. **Somebody has to understand the technology**, not merely possess it. Book 3's expedition can barely
+   read the place; the scholars are arguing about what they are even looking at. Genuine comprehension is
+   years of work, and the relay is built *after* engineers have actually got there.
+2. **It is third in the queue and the queue is not negotiable.** Purification first, then energy, then
+   communications — that is the order Balisha wants and the order Gunastran models in B3 ch12. A nation
+   whose people are dying of bad water does not build a signal network first.
+3. **And then it has to be installed**, station by station, along a desert road.
+
+**So Book 4 runs on the Golden Path and riders, exactly as every earlier book does.** The waystations are
+water, shelter and warding; the couriers are men on horses; distance costs time. **This is not a
+limitation to write around — it is the ordinary condition of the world for the whole of the first four
+books**, and the relay is a Book 5-and-later fact.
+
+**By Book 7 it is unremarkable and fully built**, which is roughly twenty years on and more than enough
+room. Books 5 and 6 sit in between and may use it or not as they need; nothing yet depends on the answer.
 
 ## Implications of Rediscovery
 

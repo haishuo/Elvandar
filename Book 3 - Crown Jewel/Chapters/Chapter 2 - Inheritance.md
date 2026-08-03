@@ -212,7 +212,7 @@ The Mistress looked at Elara for a long moment. Then she inclined her head about
 
 "I've kept the name."
 
-She stood there a beat longer than the exchange needed, looking at him with an expression he could not read at all and did not much like, and then whatever it was closed over and she was simply an old woman leaving a room.
+"Hm," she said, in the tone of a woman filing something, and went out; and it occurred to Xion only afterward that the last time she had looked at him he had been kneeling on her floor with his sleeves pushed up, and that she had made the adjustment considerably faster than the palace had.
 
 "Send word up when you have something," she said, to the air, and was gone.
 

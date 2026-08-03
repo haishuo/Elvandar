@@ -147,6 +147,10 @@ In the years between Book 4 and Book 8, this notebook becomes a network. The net
 
 **Connection to Book 3:** The technologies Harkim works with — water purification, energy systems — are the same ones Xion marveled at in Lathion. The Compact's assault targets the research that grew from the Urathan alliance. Everything connects. Nothing is free.
 
+**And the list stops there. There is no relay in this book.** *(Author's ruling, 2026-08-02.)* Lathion's instantaneous communication network is real, it is the **third** tier after purification and energy, and it does not exist yet — the war opens a few *months* after the Brass Door is unsealed, and three things have to happen first that cannot be compressed: engineers have to genuinely understand the technology rather than merely possess it, which is years; the queue has to reach communications, and a nation whose people are dying of bad water does not build a signal network first; and then it has to be *installed*, station by station, along a desert road.
+
+**So Book 4 runs on the Golden Path and riders, like every book before it.** Distance costs time; a message moves at the speed of a horse; a commander learns things late. **This is not a constraint to write around — it is the ordinary condition of the world for the whole of the first four books**, and any beat here that needs word to travel should be built on couriers. The relay is a Book 5-and-later fact and is unremarkable by Book 7. Canon: `Places/Kaha'an/Lathion_ The Lost City of Gears.md`, "The Relay."
+
 **Seeds for future books:**
 - **Book 5:** The post-war landscape. Kalden's reparations burden. Silaris's vulnerability. The bakarn "reforms" that aren't really reforms.
 - **Book 6:** If Uratha can even *partially* transform its classification system under wartime pressure, the argument strengthens for addressing Balisha's own Warrens.

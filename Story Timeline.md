@@ -40,8 +40,8 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 
 | Character | Age | Born (approx.) | Notes |
 |---|---|---|---|
-| **Xion Kemvimore** | **23** (locked) | ~1021 BR | **Three** at the Rending — old enough for affective memory: warmth, safety, a laugh, a hand at his back. Not for narrative. |
-| **Elara Valanar** | **~20** (locked) | ~1024 BR | Infant at the Rending; hidden & raised by the Arol Batae 20 years. |
+| **Xion Kemvimore** | **23** at Book 1 (locked) | **1021 BR**, late autumn — birthday pinned 2026-08-02, see below | **Three** at the Rending — old enough for affective memory: warmth, safety, a laugh, a hand at his back. Not for narrative. |
+| **Elara Valanar** | **20** at Book 1 (locked) | **1024 BR**, summer — birthday pinned 2026-08-02, see below | Infant at the Rending; hidden & raised by the Arol Batae 20 years. |
 | **Melina Kemvimore** | **26** (locked) | ~1018 BR | Elder sister; three years Xion's senior — **six** at the Rending. Enough for real memories of their mother where his are only weather; the bar the prose sets is relative to him, not absolute. Fixed by prose: B2 ch7, *"Twenty-six years old and still the family's smile."* |
 | **Rosik Kemvimore** | **58** (sheet) | ~986 BR | Former Long Knife; widowed by the Rending. |
 
@@ -127,12 +127,33 @@ character can truthfully say *a year ago* about Book 1, and by ch19 the coronati
 year behind them. **Check the week number before writing any interval, in either direction** — the failure
 mode this rule exists to prevent was inflation, and the opposite error is now equally available.
 
-**Open — needs an author ruling: the locked ages.** The table above has Xion at **23** and Elara at
-**~20**, both marked locked, and both are Book 1 figures. Sixteen months makes them **24** and **21** by
-Book 3's close unless birthdays are simply never marked. Nothing in the prose depends on it yet and no
-chapter states an age after Book 1. Two clean options: *(a)* leave the ages as Book-1 facts and never
-state one again after Book 1, or *(b)* age them explicitly and fix the year each was born. **Do not
-resolve this by writing an age into a chapter** — pick one here first.
+### The birthdays, pinned — author's ruling 2026-08-02
+
+Sixteen months means Xion and Elara each have exactly one birthday across Books 1–3, and the author's
+ruling is to pin them rather than leave the ages as unrepeatable Book-1 facts.
+
+**Two things constrain this and neither is negotiable.** B3 ch1 prose has Rosik sharing a house and a
+surname with Xion *"for twenty-three years"* — **so Xion is still 23 when Book 3 opens.** And Elara is
+crowned at 20 after twenty years hidden, which is the whole shape of her, so **her birthday cannot fall
+before the coronation.** Everything below is derived from those two facts and the week table above.
+
+Weeks are counted from **Book 1 ch1 = week 0** (Book 1 opens in **winter** — the prose calls that period
+*the winter* twice in B3 ch1). Book 1 runs wk 0–4; Book 2 wk 7–29; Book 3 wk 35–69.
+
+| | Born | Birthday falls | Result |
+|---|---|---|---|
+| **Xion** | **late autumn, 1021 BR** | wk **48** — Book 3's wk 13 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Lathion**, during the ch7–9 exploration. Marries at 24 in ch18. |
+| **Elara** | **summer, 1024 BR** | wk **24** — mid-Book 2 | 20 for all of Book 1, **crowned at 20**; 21 from mid-Book 2 onward, and 21 for all of Book 3. Marries at 21. |
+
+**Nothing marks either occasion and no chapter states an age.** Xion turning 24 four hundred metres under
+the desert in a city that has been empty for twenty years, with nobody mentioning it including him, is
+exactly the register this should have — **it is a pin, not a scene**, and if a later draft ever reaches for
+a birthday beat the answer is no.
+
+**Downstream check.** Elara is 21 at the marriage and about 22 when the twins are born (~2 years after
+Book 1), which puts them at 18 roughly 20.3 years after Book 1 — matching the Book 5 figure. **Melina
+Kemvimore (26) and Rosik (58) are unaffected**; both are fixed by B2 ch7 prose and the sheet respectively,
+and neither has a birthday inside the Book 1–3 span that anything depends on.
 
 ---
 
