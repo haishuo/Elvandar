@@ -6606,3 +6606,37 @@ absence — the answer is almost always an absence.**
 The ch8 and ch9 beat drafts were updated to match; ch9's confirmation now rests on handling marks, which
 are evidence of recent use rather than of decay, and its stale cross-reference to a "workshop
 conversation" that no longer exists is gone. Chapter is now 7,038 words.
+
+### Lathion's age stratification, and two more omniscient leaks — author's ruling, 2026-08-04
+
+**The city is not uniformly old, and writing it as though it were is what produced the food error.** The
+layers, on the author's ruling:
+
+| Age | What |
+|---|---|
+| ~5,000 years | The city itself — architecture, buildings, founding-era infrastructure, **and the automatons.** These are genuinely ancient |
+| ~2,000 years | The sealing. **Nothing in the city necessarily announces this**, and the expedition has no way to learn it — they assume the city was shut for the whole five thousand |
+| ~20–22 years | Everyday objects. Utensils, personal effects, **and cloth — twenty years is nowhere near long enough for textiles to rot** in a climate-controlled city with no weather |
+| ~20 years | The Destiny Engine, built in months during the crisis |
+| Months to a few years | **The plants.** Tomato plants, not redwoods, planted by five-thousand-year-old machines |
+
+The operative sentence: **an ancient city that was recently inhabited.** A whole population vanishing
+twenty years ago leaves traces, and the traces are what the expedition is reading. The expedition is
+walking through a *furnished* city, not a stripped one.
+
+**A line written into the geography file earlier today was already wrong on this** — it said decay
+applied to "some fabrics." Corrected: essentially nothing has decayed, cloth included.
+
+**Two more twenty-year leaks found in ch8 and cut.** Narration asserted the answer thousands of words
+before any character had it — *"a section of wall that had not been dirty in twenty years"* and *"a door
+that had stood open for twenty years."* Both are the error caught this morning in the automaton
+paragraph; fixing one instance and not sweeping for the rest was the mistake. Now *"a section of wall
+that was already clean"* and *"the frame of an open door."* Both are observable, neither dates anything.
+
+**Brennek was also given a number nobody in the book can have.** He said brass looks the same *"after
+twenty years as after two thousand"* — two thousand being the true seal date, which no character knows
+and which the chapter has no way to supply. Changed to *five thousand*, which is what they believe.
+
+A residual decline phrase in the closing image went too — the water no longer runs through *"a system
+that nobody had corrected in twenty years"* but through one *"that had gone twenty years without anybody
+to drink it."*

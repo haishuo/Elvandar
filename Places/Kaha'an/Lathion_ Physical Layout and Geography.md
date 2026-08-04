@@ -561,7 +561,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * Streets: Clean (maintained by automatons)  
 * Buildings: Intact, as if recently occupied  
 * Personal effects: Remain where left  
-* Organic materials: **growing crops and stored produce are current, not decayed** — the farm never stopped. Decay applies only to what was left outside the automatons' remit: some fabrics, and anything organic the maintenance routines were not told to tend  
+* Organic materials: **essentially nothing has decayed, because twenty years is not long enough.** Crops and stored produce are current — the farm never stopped. **Cloth, bedding, clothing and furnishings are intact**; textiles do not rot in two decades in a climate-controlled city with no weather and no vermin. The expedition is walking through a fully furnished city, not a stripped one  
 * Mechanical systems: Operational
 
 > **Corrected 2026-08-04.** Three entries in this file still described Lathion as a five-thousand-year

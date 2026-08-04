@@ -68,7 +68,7 @@ The machines were the other thing that took getting used to.
 
 The first one came around a corner and half the corridor flinched. It was not a man and did not resemble one — it was a shape, waist-high, brass and something clear that was not glass, moving on some arrangement of feet that made no sound at all on the stone. It came down the middle of the corridor at a walking pace, and where the expedition was standing it went around them the way water goes around a stone in a stream, without hesitating, without slowing, and without any indication whatsoever that it had registered a single one of them.
 
-It stopped four meters on, extended something, and began polishing a section of wall that had not been dirty in twenty years.
+It stopped four meters on, extended something, and began polishing a section of wall that was already clean.
 
 "Gods," said somebody, with feeling.
 
@@ -142,7 +142,7 @@ The room was off a side road on the eastern arc, and Xion went into it because t
 
 That was all. There was no reason beyond that. He had spent his adult life walking into rooms uninvited to find out what was wrong inside them, and the habit did not switch off because the room in question had been standing empty since he was a boy.
 
-He stopped at the threshold anyway. He got as far as lifting his hand toward the frame before he understood what he was about to do, and then he did it — knocked twice, on the frame of a door that had stood open for twenty years, in a city with nobody in it.
+He stopped at the threshold anyway. He got as far as lifting his hand toward the frame before he understood what he was about to do, and then he did it — knocked twice, on the frame of an open door, in a city with nobody in it.
 
 He felt foolish. He went in anyway.
 
@@ -202,7 +202,7 @@ Xion looked, and saw a bank of dark soil, and nothing else.
 
 Xion crouched beside him and looked at a wall of soil with lines in it.
 
-"Everything else in this city is brass," Brennek said, "and brass is no use to me. Brass looks the same after twenty years as after two thousand and I can't tell you which. Stone's worse." He wiped his hand on his knee. "But something's been growing here the whole time, and every year of it had to go somewhere, and it came here, and it stacked up in order. This is the only clock in Lathion. It's the one thing down here that ever got older."
+"Everything else in this city is brass," Brennek said, "and brass is no use to me. Brass looks the same after twenty years as after five thousand and I can't tell you which. Stone's worse." He wiped his hand on his knee. "But something's been growing here the whole time, and every year of it had to go somewhere, and it came here, and it stacked up in order. This is the only clock in Lathion. It's the one thing down here that ever got older."
 
 "How many?"
 
@@ -400,7 +400,7 @@ They both knew it. He had known it since he came out of the passage and saw the 
 
 She did not move toward it. She stood at the rail with her hands open on the metal and looked down, and Xion would have staked a great deal, on no evidence he could have produced for anybody, that some part of her had already gone down without her.
 
-The city turned under them. The lights held. Somewhere below, the water ran clear through a system that nobody had corrected in twenty years, and the terraces put up leaves toward a light with nothing behind it, and the machines went along the corridors of the Crown doing what they had been told to do a long time ago by people who had stacked their bowls, and squared their tools, and pushed the table back against the wall, and left the door open.
+The city turned under them. The lights held. Somewhere below, the water ran clear through a system that had gone twenty years without anybody to drink it, and the terraces put up leaves toward a light with nothing behind it, and the machines went along the corridors of the Crown doing what they had been told to do a long time ago by people who had stacked their bowls, and squared their tools, and pushed the table back against the wall, and left the door open.
 
 *You cannot think about a thing you cannot name.*
 
