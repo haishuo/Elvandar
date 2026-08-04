@@ -6429,3 +6429,90 @@ reason to cut. The author's call.
 
 The chapter-title sweep flagged *fine*, *wonder* and *descent*; all three are ordinary common nouns
 here, not title references like ch11's *"since Scars."* No finding.
+
+---
+
+## 2026-08-04 — Lathion first-entry illustration made canonical
+
+**Author's ruling: the revised location art is canon.** The initial `Lathion - First Entry.png` render
+made the Crown read as a bright conventional palace-city. It was deleted and the revised render was
+promoted from `Lathion - First Entry v2.png` to the canonical filename.
+
+The canonical image keeps the full-colour manga-ink treatment and ch7's foreground staging — the
+motionless expedition, Xion and Farleen holding hands, the scholar sitting down — but takes Lathion's
+architectural register from the city shown at the bottom of `warrens_cross_section.png`: dense
+concentric rings, radial streets, dark mechanical depth, brass structure and integrated blue light.
+The map's diagram shorthand was corrected to the prose: no central blue beam, an open shaft with the
+Core's warm glow below, living terraces, seamless pale civic surfaces, and a pristine city still
+running.
+
+`Lathion_ Physical Layout and Geography.md` now embeds the illustration and states its scope: canonical
+for visual design, while the written dimensions and seven-level geometry remain authoritative. No
+chapter prose, beat draft, skeleton or Royal Road output changed.
+
+---
+
+## 2026-08-04 — The Great Shaft made explicit; Dead Man's Passage reconciled
+
+**Author's ruling on Lathion's two entrances.** The Great Shaft — Lathion's front door during the
+three-millennium open period — was already canon in four files but had never been described. It now
+has its own section in `Lathion_ Physical Layout and Geography.md`: a finished vertical bore from the
+surface to the Crown, served by an elevator **spine** rather than a single car (a ceremonial main car
+for delegations, smaller cars for routine traffic, freight lifts on their own tracks), opening into the
+Crown's Arrival Halls and Diplomatic Quarter — which is what those districts were always for.
+
+Two points ruled explicitly because both are load-bearing:
+
+- **Filled, not left open.** No pit survives under Kaha'an. A shaft of that size left open would be the
+  most famous landmark in the province and somebody would have found it inside a generation; the
+  premise that the surface has forgotten Lathion depends on there being nothing to find.
+- **Destroyed and salvaged.** The Lathionese stripped their own elevators and took the recoverable
+  components back into the city. What lies at the bottom of the fill is what was not worth carrying.
+
+**And the Repository does not hold the reason for the sealing.** Recorded as a ruling because the
+Repository is the one asset that could break "nobody knows," and B3 ch9 walks the expedition into it.
+An answer nobody can reach is worth more than one nobody asks for.
+
+**Dead Man's Passage: a three-way contradiction closed.** The repo asserted three incompatible things —
+a deliberately engineered Lathionese security labyrinth with a true path "marked with subtle Lathionese
+symbols" (`Lathion_ Physical Layout and Geography.md`), natural caverns emphatically not of Lathionese
+construction (`Kaha'an_ Physical Geography.md`), and the freight route itself (`_WORKING_NOTES.md`).
+The freight-entrance framing forced the decision, because nobody hauls freight through either a cave
+maze or a labyrinth built to kill.
+
+**Ruled: the Passage is natural caverns.** A cut Lathionese haul road once descended *through* the cave
+system to the Brass Door — which is why the Door stands at a boundary that otherwise makes no sense —
+and that road was **deliberately collapsed** in the same operation that filled the Great Shaft.
+Demolition, not decay: Lathionese work does not decay and everything else they built is still running,
+so only demolition explains a missing road. What survives is the raw geology the road was driven
+around.
+
+The designed-maze version is gone, and with it the "subtle Lathionese symbols" marking the true path.
+The Long Knives' map is theirs, bought with corpses over years — which is what B1 ch20's assassin,
+B3 ch6, and `The Warrens_ Factions and Power Structures.md` already said. The engineered version was
+the outlier and it made the Lathionese sinister in a way nothing else in the material supports.
+
+**Book 1 checked before applying.** B1 ch19–21 and ch23 touch the Passage repeatedly and attribute it
+to nobody: it is "the maze," and "you shouldn't have made it through Dead Man's Passage, not without
+a map." Nothing in the prose of any book asserts who cut it. **No chapter, beat draft, skeleton or
+Royal Road output changed.**
+
+Files edited: `Lathion_ Physical Layout and Geography.md` (new Great Shaft section; Passage section
+rewritten; two stale "security labyrinth" lines in Access and Security), `Kaha'an_ Physical
+Geography.md`, `Lathion_ The Lost City of Gears.md`, `The Warrens_ Geography and Physical Layout.md`,
+`Book 3 - Crown Jewel/_WORKING_NOTES.md`.
+
+**One continuity fix taken in passing:** `The Warrens_ Geography and Physical Layout.md` gave the Brass
+Door antechamber as 80–85°F, against 20°C/68°F in the Lathion layout doc and the *sharp drop from cave
+heat to engineered comfort* in the Kaha'an geography doc. Corrected to 68°F, which is also what B3 ch7
+plays — the camp works in "a cold room," and 68°F is cold to anyone raised in Kaha'an.
+
+**Omniscient intrusion cut from ch8, on the author's catch (same day).** The automaton passage closed on
+*"He was wrong about the number and had no way at all of knowing it… and it was the last comfortable
+thing he had."* Two violations in one sentence: narration that knows more than the POV character, and a
+flash-forward. The chapter's own beat draft had specified the opposite — *"the narration carries it as
+his, not as fact"* — so this was the prose drifting from a plan that was already right. Replaced with
+*"It was a comfortable thought. He carried it around with him for most of the day."* Everything stays
+inside Xion, and the reversal now reaches the reader at the same moment it reaches him, thirty lines
+later, when Brennek says twenty years. A sweep for the same class of error across the chapter —
+*would later*, *did not yet know*, *unbeknownst*, *years later* — found no other instance.

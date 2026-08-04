@@ -76,7 +76,7 @@ The second one, an hour later, was remarked on. By the third, people were steppi
 
 Xion watched one work for longer than he meant to. It was doing something to a fixture at the join of wall and ceiling — adjusting it, or testing it, or performing some maintenance the purpose of which was entirely opaque — and it was doing it with a patience that no living thing could have sustained. He thought about what it took to build something that outlasted the people who built it. He thought that the machine did not know its makers were gone, and could not know, and would go on polishing this wall until its mechanism failed, and that its mechanism was five thousand years old and had not failed yet.
 
-He was wrong about the number and had no way at all of knowing it, and he carried the thought around with him for most of the day, and it was comfortable, and it was the last comfortable thing he had.
+It was a comfortable thought. He carried it around with him for most of the day.
 
 ---
 
