@@ -131,9 +131,16 @@ the empty chair *below.*
 treaty (ch12), ceremony (ch13), the love triangle (ch15–16), Kalden (ch18), Terinok (ch19) and the
 threshold (ch21), whose beat draft states outright that its job is *"to receive that weight rather than
 generate new weight."* There is nowhere to put it that does not damage a chapter, and a second instance in
-the same book would be volume rather than movement. **The escalation belongs in Book 5**, where desert
-reclamation becomes national policy and the empty chair turns from an administrative untidiness into a
-strategic exposure — proposed, not yet applied.
+the same book would be volume rather than movement. **The escalation is in Book 5** *(applied 2026-08-04)*,
+in the post-war reconstruction material and not in a scene of its own: the war was fought by severing
+supply corridors, so reclamation gets funded as **food security** out of the war ministry's reasoning, and
+the chair nobody filled stops being untidiness and becomes exposure — a state strangled once, with no one
+coordinating its capital's food. **The choice made there is the correct one and it is why Book 6 happens**:
+offered the immediate fix (refill the chair, restore a guaranteed flow) and the structural one (grow our
+own and never be strangled again), Balisha takes the structural fix, which is right, and is generational,
+and feeds nobody this winter. They pick the fix that solves it forever over the one that solves it now,
+for people who have no vote and are not in the room. **The word *Warrens* is never said in Book 5, and
+nobody notices the trade.**
 
 **The Warrens chair.** B1 ch1: Xion frozen while Tam is taken. → B3 ch1: he asks that the council's first
 sitting be about the Warrens, *"because there was a chair in this room that nobody was sitting in and it

@@ -139,6 +139,45 @@ Silaris is stabilized — but not through the simple application of resources th
 
 **This is what Book 6 and Book 7 draw on.** Book 6 already leans on *"the precedent of external intervention to protect vulnerable populations"* as the philosophical framework for the Warrens — the precedent is now **structural as well as moral**, which is exactly the kind of thing Ronas can point at when it is his turn to be intervened upon. And the mechanism itself is available to anyone who reads it: a lawful private force, raised outside the army, acting where the crown is barred.
 
+### The reclamation begins here, and it is not charity
+
+**This is the book where desert reclamation becomes national policy, and the reason is the war.** It
+belongs in the reconstruction material rather than in a scene of its own — one working session on the
+post-war docket, brief and administrative, with none of the emotional weight of the Silaris material
+anywhere near it.
+
+**What the war taught, and the reader watched it happen.** The Compact's opening move was not an assault
+on the Alliance's strength; it was an attempt to **sever the supply corridors** between its members. A
+desert capital of two hundred thousand that eats grain hauled along one road can be strangled by anyone
+willing to cut the road, and Balisha spent a war discovering that its own throat was in someone else's
+hand the entire time. Lathion's reclamation techniques are the only answer anybody has, so the crown
+funds them — as **food security**, out of the war ministry's reasoning, not out of mercy. **Nobody in this
+book says the word Warrens.** That is the whole point, and it is what makes Book 6's indictment land.
+
+**And this is where the empty Grain chair escalates.** B3 ch1 planted it as an administrative untidiness
+— *"Someone would eventually sit there. Xion had opinions about who. He kept them."* Nobody ever did, and
+now a state that has just been strangled once has no one coordinating the food supply of its capital.
+That is no longer untidiness. It is exposure, and somebody at the table should be able to say so in one
+sentence without anyone acting on it.
+
+**The choice made here is the correct one and it is why Book 6 happens.** Offered the immediate fix
+(rebuild the monopoly, put someone in the chair, restore a guaranteed flow) and the structural fix (grow
+our own and never be strangled again), Balisha takes the structural fix. It is the right answer. It is
+also a **generational** answer, and reclaimed desert does not feed anyone this winter — so the immediate
+problem goes unsolved, and the people it is unsolved for are sixty thousand who have no vote and are not
+mentioned in the room. **Nobody is neglectful and nobody is villainous.** They choose the fix that solves
+it forever over the fix that solves it now, which is the same mistake that runs through this entire saga,
+and it is the mistake Book 6 charges them for.
+
+**Do not have anyone notice the trade.** No character weighs the Warrens against the timeline, and no
+one is uneasy. The reader should be able to reconstruct the whole thing afterward from Book 6 and find it
+was in front of them.
+
+**Melina is nineteen and in the room**, and this is where she sees the reclamation programme up close
+long before it becomes hers. It is also the first place she could have thought about her grandfather's
+chair and demonstrably didn't. **Give her nothing to say about it** — see `People/Melina Valanar.md`,
+*She takes her parents' opinions more seriously than anyone watching would guess*, and the Book 6 arc.
+
 ---
 
 ## Structural Notes
@@ -157,5 +196,6 @@ Silaris is stabilized — but not through the simple application of resources th
 
 **Seeds for future books:**
 - **Book 6:** The Silaris intervention establishes the pattern — Balisha has the resources and technology to transform broken places. The Warrens are next, and they're the hardest case because they're in Kaha'an's own backyard.
+- **Book 6 (the famine):** the reclamation programme funded here as food security is what eventually becomes the Green Cities, and the empty Grain chair noted here as strategic exposure is what nobody fills. Both bills come due in Book 6 — the farmland exists when the relocation needs it, and the Warrens starve for twenty years first. See `Series Review - Master List.md`, *The empty Grain chair* and *How Kaha'an eats, and the empty chair*.
 - **Book 7:** Kalden's humiliation in Silaris is another step down the spiral. The hatred sharpens. The resources diminish. Rosik enters the picture during this period of maximum desperation.
 - **Book 6:** Ronas's position — his "last stand" in the Warrens depends on the political landscape the Silaris intervention helped shape. The precedent of external intervention to protect vulnerable populations provides the philosophical framework for addressing the Warrens.

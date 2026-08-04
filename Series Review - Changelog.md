@@ -6937,3 +6937,44 @@ book and detonated in another gets written down.
 the old three-chapter Lathion expansion. The 2026-08-04 split of *Inhabitants* at the Rending seam took the
 book to 21 and moved *The Repository* to ch10 and *The Destiny Engine* to ch11; the structural note had not
 caught up.
+
+---
+
+## 2026-08-04 — The Grain escalation applied to Book 5
+
+**Placed in the post-war reconstruction material, not in a scene of its own**, and deliberately kept
+administrative — one working session on the docket, with none of the Silaris material's emotional weight
+anywhere near it.
+
+**The war supplies the reason, and the reader watched it happen.** The Compact's opening move was to
+sever the supply corridors between the Alliance's members rather than attack its strength. A desert
+capital of two hundred thousand eating grain hauled along one road can be strangled by anyone willing to
+cut the road, and Balisha spent a war learning its throat had been in someone else's hand the whole time.
+Lathion reclamation is the only answer available, so it is funded as **food security**, out of a war
+ministry's reasoning rather than out of mercy. That is the Green Cities' origin and it is not charity.
+
+**And it is where the empty Grain chair changes state.** B3 ch1 planted it as untidiness — *"Someone would
+eventually sit there. Xion had opinions about who. He kept them."* Nobody ever did, and a state that has
+just been strangled once now has no one coordinating its capital's food. Somebody says so in one sentence
+and nobody acts on it. **Same fact, new stakes** — a recurrence that moves position rather than volume,
+which is what the second instance had to earn.
+
+**The choice made there is correct, and it is why Book 6 happens.** Offered the immediate fix (refill the
+chair, restore a guaranteed flow) against the structural one (grow our own and never be strangled again),
+Balisha takes the structural fix. It is the right answer. It is also generational, and reclaimed desert
+feeds nobody this winter — so the immediate problem goes unsolved, for sixty thousand people who have no
+vote and are not mentioned in the room. **Nobody is neglectful and nobody is villainous.** They choose the
+fix that solves it forever over the fix that solves it now, which is the mistake that runs through the
+whole saga and the one Book 6 charges them for.
+
+**Two prohibitions written in:** the word *Warrens* is never said in Book 5, and no character notices the
+trade or feels uneasy about it. The reader should be able to reconstruct the whole thing from Book 6 and
+find it had been in front of them.
+
+**Melina is nineteen and in the room** — her first sight of the reclamation programme long before it
+becomes hers, and the first place she could have thought about her grandfather's chair and demonstrably
+didn't. She is given nothing to say about it.
+
+Files: `Book 5 - Walled Garden/book5_outline.md` (new Act III subsection and a Book 6 seed bullet),
+`Series Review - Master List.md` (the cross-book thread updated from proposed to applied). No prose, beat
+draft, skeleton or Royal Road file changed.
