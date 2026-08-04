@@ -7081,3 +7081,19 @@ held*: the Caretaker reading the Merchant's ledgers for the one thing in them he
 Files: `B2 Chapters/Chapter 13`, `B2 Beat Drafts/Chapter 13` (carrying the correction and the reasoning,
 since for Book 2 the draft is canon), `People/Rosik Kemvimore.md`, `Series Review - Master List.md`, and
 the regenerated Royal Road file. Third change to Book 2's prose today and the first to ch13.
+
+---
+
+## 2026-08-04 — B2 ch17 beat draft renumbered
+
+Housekeeping, flagged in the previous entry and cleared. The `Chapter 17 - Leverage` draft had **two beats
+numbered 7** — the arrival at the Iron Hall and the opening of the argument — with everything downstream
+one short as a result.
+
+Renumbered from the duplicate onward: the second 7 becomes **8**, and 8–16 shift to 9–17. The lettered
+sub-beats move with their parent, **12b → 13b** and **12c → 13c**, and the footer's cross-reference —
+*"Beat 12b is a Book 6 seed and must not be cut"* — now points at **13b**, which is the reason this wanted
+a deliberate pass rather than a one-character fix.
+
+Checked before renumbering: nothing outside the draft cites B2 ch17 beat numbers. No prose changed, so no
+Royal Road regeneration was required.
