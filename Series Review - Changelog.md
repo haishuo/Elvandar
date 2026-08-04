@@ -6287,3 +6287,33 @@ molten core. That is the common noun, available in any world, and not a name.
 
 **Recorded in `CLAUDE.md` §6** so the distinction survives: the world is not named in narration, *earth* is
 not a substitute for its name, and *earth*-as-soil is fine.
+
+### Retroactive — and it is Book 2's first editorial change
+
+**Author's ruling: *"If we're making this change it should be retroactive."*** Swept all three books.
+**B2 ch10 was the only other instance**, in Melina's mouth: *"Father would rather be anything on this earth
+than frightened"* → *"anything at all."* Not *"in the world"*, which is weaker than what it replaces and
+would have imported a word ch7 had just been kept clear of. **No use of *earth* as a planet-name now
+survives in Books 1–3.**
+
+**This is the first editorial change ever applied to Book 2's prose**, which until today the record
+described as untouched. Worth stating plainly so the next reader does not assume Book 2 is still pristine.
+The single surviving *earth* is B3 ch7's *"the color of the earth's own heat"* — the common noun for
+ground, describing the geothermal source, and not a name.
+
+### Two adjacent findings the sweep turned up — flagged, not fixed
+
+Both belong to a different rule (theology rather than astronomy), and both sit in Book 1's prose, which is
+the most authoritative record in the series. **They are the author's call.**
+
+**The world is polytheistic and says so fifteen times.** *Gods* appears 5 times capitalised and *gods* 10
+times lowercase — and **exactly once, in B1 ch4, a character says the singular *God***: Farleen's *"God,
+Xion, I don't want to do this."* That is not a register judgment, it is an **internal inconsistency**: B1
+ch22 has *"Gods, thank you"* in the same book. A one-letter fix would resolve it, in the most emotionally
+loaded line she has.
+
+**And *hell* appears twice**, both as dialogue exclamations — B1 ch14, Farleen's *"What the hell did you
+just do?"*, and B1 ch19, Cullen's *"What the hell is she doing?"* Whether Elvandar has a hell is
+unspecified anywhere in the canon files. The construction is naturalised enough in English to pass
+unnoticed, which is exactly the argument for leaving it and also the argument for not leaving it.
+**Recorded rather than decided.**

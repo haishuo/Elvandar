@@ -267,7 +267,10 @@ chapters across Books 1–3 — it lives in the outlines and the canon files and
 said it, which is right: people rarely name their own world out loud. **Do not introduce it in narration,
 and never inside an idiom.** The related trap is *earth* as a stand-in — *"every reason on earth"*, cut
 from B3 ch7 on 2026-08-03, because the idiom borrows a planet name this world does not have. Say *the
-world*, or cut the intensifier, which is usually stronger anyway. *(Two uses stand and are not errors:
+world*, or cut the intensifier, which is usually stronger anyway. **Applied retroactively on the author's ruling, 2026-08-03**, which made B2 ch10 the first editorial
+change ever applied to Book 2's prose: Melina's *"Father would rather be anything on this earth than
+frightened"* → *"anything at all."* No instance of *earth* as a planet-name now survives anywhere in
+Books 1–3. *(One use stands and is not an error:
 **earth as ground or soil** — B3 ch7's *"the color of the earth's own heat"*, describing geothermal heat
 under the city — and B2 ch10's *"anything on this earth"*, which is Melina speaking and belongs to Book 2's
 unreviewed prose.)*
