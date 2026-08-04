@@ -57,11 +57,20 @@ in from the cloud branch on 2026-07-29, where they were numbered C-16 through C-
 invented C-16 onward independently for different items. The mapping is in the changelog under the
 merge entry, and the branch's own commit messages still use the old numbers.
 
-**Where the work happens, from 2026-08-03.** Drafting runs in the worktree at
-`.claude/worktrees/book3-prose` on branch `book3-prose`; `main` holds finished work. The author reads
+**Where the work happens, from 2026-08-03; relocated 2026-08-04.** Drafting runs in the worktree at
+`../Elvandar-worktrees/book3-prose` on branch `book3-prose`; `main` holds finished work. The author reads
 progress through **Elvandar Viewer** (`Tools/elvandar_viewer`), which is worktree-aware — verified against
 its own `GitClient`: it resolves `--absolute-git-dir` and `--git-common-dir` separately, so its live-update
 watcher follows a worktree's metadata correctly rather than looking for a `.git` folder that isn't there.
+
+**The worktree lives outside the repository, and that is not cosmetic.** It sat at
+`.claude/worktrees/book3-prose` for one day and cost most of a session, because the Viewer's own
+`repository.py` carries `.claude` in `IGNORED_NAMES` *and* filters every dotted name, and Finder hides
+dot-directories too. Six commits — the emphasis pass, the *earth* and *Gods* fixes, `Names.md` — were
+pushed to a folder the author's reader is built never to display, and he was told to go and read them
+there. **The exclusion is correct and the placement was wrong.** A worktree the author cannot open is
+worse than no worktree, because the work looks done from this side and does not exist from his. Any future
+worktree goes in a visible sibling directory, never inside the repo and never under a dotted path.
 
 **Two disciplines, and they exist because both failed on 2026-08-03.** **Push after every commit**, because
 fifteen commits once sat unpushed through four rounds of revision and the author was giving notes on a
