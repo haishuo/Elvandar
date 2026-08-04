@@ -7034,3 +7034,50 @@ Files: `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, `People/Rosik Kemvimo
 
 **Noted, not fixed:** the ch17 beat draft has two beats numbered 7. Renumbering shifts everything after it
 and the footer cross-references *Beat 12b* by number, so it wants a deliberate pass rather than a drive-by.
+
+---
+
+## 2026-08-04 — The books, not the money: why Rosik panics
+
+**The ledgers were already in the prose; the weighting was wrong.** B2 ch13 had them as a secondary find
+at two of the six sites, with Kael's assessment reading *"It isn't only the money, though the money's the
+most of it. It's the paper."* **Author's ruling: the books are the point of the raid**, and the money —
+still substantial, still the shadow funds a cartel must have to operate under the table — is the smaller
+half of the loss.
+
+**Two edits to `Chapter 13 - Clean Hands`, and nothing else in the chapter moved.** The ledgers now appear
+*"at every site that held them"*, and are specified for the first time as **the accounts the Coterie was
+never shown** — *"not the accounts the Coterie was shown at quarter-day, which balanced, but the ones that
+did not… and what the House of Grain had actually cost to keep standing."* Kael's line becomes *"It isn't
+the money, though the money's a great deal of it. It's the paper."* One knock-on: *"the single vulnerable
+seam in all that hard money"* → *"in all that hidden wealth"*, since the sentence now covers paper.
+
+**What it buys is the hardest characterization problem in Book 2: why the man who never panics, panics.**
+Rosik did not break a sweat at being marked for assassination, because a knife threatens his life and his
+life is not what he is — **position** is. Money is *less*, which is unbearable to a Merchant primary and
+also survivable; he still has the cartel, the Coterie, a city that depends on him. **The true books are
+proof**: of every arrangement he can never admit to, and of twenty years of insolvency covered out of
+criminal money. There is no negotiating with someone who holds proof, and nobody runs a fraud that size
+from memory once the record is gone.
+
+**And it explains the specific thing ch14 is confused about.** Xion waits two days for *"the long
+bloodless bargaining he'd been certain would open"* and it never opens — because there is nothing left to
+open it with. What comes instead is chaos, which is the only move available: make the city need him so
+badly that nobody has the attention to read what they are holding. Still Merchant shadow — he would call
+it strategy, and it is also an accumulator refusing the fact of less.
+
+**It also pays off a line already on the page.** B2 ch11: *"The reading of a system not for where it hurt,
+but for where it would break."* The money is where it hurt. **The books are where it breaks.**
+
+**The Xion-doesn't-know constraint survives, and improves.** He holds the true books and still does not
+know the grain operation is load-bearing, because **he read them for what he went in for** — leverage on
+the coalition, which he found and used to dismantle Tania and Sa Ko Ren. Nobody asked whether the cartel
+was solvent; that was not a question anyone in the room had. The most important fact in Kaha'an sat
+correctly filed and unread, and a thorough and accurate reading missed the thing outside its own question
+— **the same shape as Melina's models in Book 6, and the rhyme is never to be pointed at.** Confirmed on
+the page in B3 ch1, where Xion asks the seizure records only whether they account for *persons the cartel
+held*: the Caretaker reading the Merchant's ledgers for the one thing in them he cares about.
+
+Files: `B2 Chapters/Chapter 13`, `B2 Beat Drafts/Chapter 13` (carrying the correction and the reasoning,
+since for Book 2 the draft is canon), `People/Rosik Kemvimore.md`, `Series Review - Master List.md`, and
+the regenerated Royal Road file. Third change to Book 2's prose today and the first to ch13.

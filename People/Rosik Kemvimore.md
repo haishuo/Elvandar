@@ -306,7 +306,11 @@ This is Rosik at his most sophisticated and most dangerous. He is not obstructin
 
 ### The Desperate Calculation
 
-When Xion steals the shadow funds — the off-the-books wealth from extortion and blackmail — Rosik faces something unprecedented. He has been outplayed. His own son, using his own methods, has taken the one resource he cannot replace. The man who has never lost is losing.
+When Xion empties the six warehouses, Rosik faces something unprecedented. He has been outplayed. His own son, using his own methods, has taken the one resource he cannot replace. The man who has never lost is losing.
+
+**And it is the books, not the money, that make him panic — which is the whole point of the beat.** *(Author's ruling, 2026-08-04.)* This is a man who did not break a sweat at being marked for assassination, because a knife threatens his life and his life is not what he is. **Position is what he is.** Money is *less*, and less is unbearable to him, but it is survivable and he knows it — he still has the cartel, the Coterie, and a city that depends on him. **The true ledgers are proof**, and there is no negotiating with someone who holds proof: proof of every arrangement he can never admit to, and proof that the House of Grain has been insolvent for twenty years and covered out of criminal money. He also cannot *operate* without them; nobody runs a fraud that size from memory.
+
+**So he does not bargain, and the reader should feel the absence.** Xion spends two days in B2 ch14 waiting for the long bloodless negotiation he was certain would open, and it never opens, because there is nothing to open it with. What is left is to make the city need him so badly that nobody has the attention to read what they are holding. **Unleashing Ronas is that move** — and it is still the Merchant's *"if I cannot have it, I will burn it down,"* because he would call it strategy and it is also the accumulator refusing the fact of less.
 
 He stares at his ledgers and makes the calculation: one month of emergency funds. Surrender now or unleash Ronas and hope chaos lets him claw back to a winning position.
 

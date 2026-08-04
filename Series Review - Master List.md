@@ -773,7 +773,25 @@ the level of dinner since the Rending, and one man's crimes covered the differen
   grows every year. **Rapacious and drowning at once**, and the difference is distributional rather than
   aggregate, so Book 1's indictment is untouched.
 - **Xion knew it was a hoard and did not know it was load-bearing.** Keep this clean: it is what makes B2
-  ch14's *"He had pictured a cost he could name"* exact.
+  ch14's *"He had pictured a cost he could name"* exact. **He holds the true books and this still
+  holds**, because *he read them for what he went in for* — leverage on the coalition, which he found and
+  used to dismantle Tania and Sa Ko Ren. Nobody asked whether the cartel was solvent, because that was
+  not a question anyone in the room had. **The most important fact in Kaha'an sat correctly filed and
+  unread**, and a thorough, accurate reading missed the thing outside the question it was asking — the
+  same shape as Melina's models in Book 6. **Never point at the rhyme.** Confirmed on the page in B3 ch1:
+  *"The seizure records out of House Kemvimore. Do they include any accounting of persons the cartel
+  held?"* — the Caretaker reading the Merchant's ledgers for the only thing in them he cares about.
+
+**The books are why Rosik panics, and the money is not.** *(Ruling 2026-08-04; B2 ch13 reweighted to
+  match — the ledgers moved from a secondary find at two sites to the point of the raid, and Kael's
+  *"the money's the most of it"* became *"a great deal of it."*)* The man does not flinch at being marked
+  for assassination, because a knife threatens his life and his life is not what he is; **position** is.
+  Money is *less*, unbearable and survivable. The true books are **proof** — of the arrangements, and of
+  twenty years of insolvency covered out of criminal money — and there is no negotiating with someone
+  holding proof, nor running a fraud that size from memory afterward. **That is why the long bloodless
+  bargaining Xion waits two days for in ch14 never opens**, and why what comes instead is chaos: make the
+  city need him too badly to read what it is holding. Still Merchant shadow — he would call it strategy,
+  and it is also an accumulator refusing the fact of less.
 
 **Nobody in the story ever assembles the chain.** The reader does, and that is the payment. Do not write a
 discovery scene, and do not let anyone deliver the accounting — if it ever surfaces it is one person
