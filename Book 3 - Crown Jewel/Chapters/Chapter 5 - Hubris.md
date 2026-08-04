@@ -22,7 +22,7 @@ The escort had joined them at the border and it was not what he had expected eit
 
 ---
 
-The Ivory Tower came up out of the plain before the city did, and it took Xion two more days to understand that it *was* the city.
+The Ivory Tower came up out of the plain before the city did, and it took Xion two more days to understand that it **was** the city.
 
 That was the first thing about it: it announced itself from a distance no building had any business announcing itself from, so that for most of a morning it was the only vertical thing in the world and everything under it was still a rumor. White stone, and not the white of local limestone gone pale — a hard, close-grained white that took the light and held it, and Xion knew enough about the cost of moving stone to do the arithmetic on that and then stop doing the arithmetic on that.
 
@@ -142,7 +142,7 @@ And then somebody mentioned the Brass Door — not as a probe; as a subject — 
 
 What followed was the happiest twenty minutes anybody at that table had.
 
-There were manuscripts, she said, and rather a lot of them, and what one had to understand first was that most of her colleagues did not take them seriously. References to a door of brass beneath the tunnels of what was now Balisha turned up in sources thousands of years old and turned up *repeatedly*, in bodies of work with no relation to one another, which was either significant or exactly the kind of thing that happens when a good story gets into circulation. The Sapphire position — her position — was that a source everybody finds easy to dismiss is the source that requires the most care, since nobody has bothered to check it in four hundred years.
+There were manuscripts, she said, and rather a lot of them, and what one had to understand first was that most of her colleagues did not take them seriously. References to a door of brass beneath the tunnels of what was now Balisha turned up in sources thousands of years old and turned up **repeatedly**, in bodies of work with no relation to one another, which was either significant or exactly the kind of thing that happens when a good story gets into circulation. The Sapphire position — her position — was that a source everybody finds easy to dismiss is the source that requires the most care, since nobody has bothered to check it in four hundred years.
 
 The theories, she said, were extensive.
 

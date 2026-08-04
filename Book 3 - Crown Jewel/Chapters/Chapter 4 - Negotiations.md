@@ -108,7 +108,7 @@ He sat with that for a while.
 
 He had known, walking up the stairs, that the list might not survive contact with her. He had not known that it would be dismantled in about forty seconds by an argument he had helped build.
 
-And then, sitting there with all four items refused and nothing left to offer, he found the fifth thing — and he found it *because* the other four were gone, which was the only order in which he could have found it.
+And then, sitting there with all four items refused and nothing left to offer, he found the fifth thing — and he found it **because** the other four were gone, which was the only order in which he could have found it.
 
 "Your shop is still standing," he said.
 
@@ -264,7 +264,7 @@ For about twenty minutes it was the best room he had been in since the winter.
 
 ---
 
-Then the consortium's factor began to speak, and the room did not change temperature so much as change *category*.
+Then the consortium's factor began to speak, and the room did not change temperature so much as change **category**.
 
 He was not hostile. Xion wanted to be clear about that afterward, when he reported it, because the word people reach for is *obstructive* and it would have been wrong. He was a professional asking the questions his position obliged him to ask, in order, from the top.
 
@@ -272,7 +272,7 @@ Who bore transport for specialists and equipment across a continent, and on what
 
 Who indemnified the consortium against loss or injury to persons in an unmapped subterranean site under the jurisdiction of a foreign crown.
 
-Who held rights in any mechanism, process, or principle recovered — not the objects, which were plainly Balisha's, but the *knowledge*, which was the only part Gunastran had ever considered worth owning.
+Who held rights in any mechanism, process, or principle recovered — not the objects, which were plainly Balisha's, but the **knowledge**, which was the only part Gunastran had ever considered worth owning.
 
 What guaranteed return was offered if the door proved unworkable, and what portion of that return was payable regardless of outcome.
 
@@ -376,7 +376,7 @@ He did not tell them it was painless. That was the mistake available, and he had
 
 It won on its own.
 
-Elara asked one question, near the end, which none of the advisors had thought to ask: not what Uratha would gain, but what it would *mean* to them. Why would they say yes.
+Elara asked one question, near the end, which none of the advisors had thought to ask: not what Uratha would gain, but what it would **mean** to them. Why would they say yes.
 
 "Because they've never had it acknowledged," Xion said. "They kept the Crown because they could. They refused for three hundred years because there were no consequences for refusing. What they have never once had is Balisha saying, formally, on paper, with a seal — *you were entitled to it.* For a nation that organizes itself around being right about things, that isn't a minor consideration. That's the record corrected."
 

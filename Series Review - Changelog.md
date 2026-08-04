@@ -6228,3 +6228,38 @@ nothing for it* fall in adjacent sentences in the camp paragraph.
 had the walk-on scholar as female and the contingent at eleven. Both corrected, plus the footer rewritten
 to record that **rewording the later chapter is the standing answer to a join collision**, not relocating
 scenes across the boundary.
+
+## 2026-08-03 — The emphasis rule applied to Book 3, which had never been swept
+
+**Author's question, and it is the right one:** *"do we have any sort of actual rule written anywhere or
+are you winging it?"* **There is a rule**, in `CLAUDE.md` §6, and it is precise: single-word **stress**
+emphasis is bold; italics carry interior thought, emphasis running past one word, letters and documents,
+and **a word cited as a word**. The test: *if the sentence is about the word it stays italic; if the weight
+is in the voice saying it, it goes bold.*
+
+**What had not happened is the sweep.** The changelog records that pass as *"applied across Books 1–2."*
+Book 3 was drafted afterward and never got it. The instance the author caught — *It got \*closer\**, where
+the sentence is plainly about the sound and not about the word — turned out to be one of ten.
+
+**Changed to bold, all of them single-word stress with the weight in the voice:** ch3 *precisely* (against
+*not politely*); ch4 *because*, *category*, *knowledge*, *mean*; ch5 *was* (*it **was** the city*),
+*repeatedly*; ch6 *is* (*the route **is** the guild*), *given* (*never once been **given** a seat*); ch7
+*closer*.
+
+**Left italic, and worth listing so the distinction stays legible.** Every one of these is the sentence
+being *about* the word, or thought, or a noise: ch1's *Simply.* — *"Xion turned the word over"*, which
+names the test in the text itself; ch2's *no* / *No* / *yes*, which is the exact construction `CLAUDE.md`
+cites; ch2's *generations* as interior thought; ch4's *obstructive* — *"the word people reach for is"*;
+ch4's *no*; and the vocalizations, ch6's *mm* and ch4's *hah*.
+
+**Four judgment calls were left alone rather than decided quietly**, because each reads both ways and they
+are the author's to settle: ch4 *correct* (*"He was being \*correct\*"* — contrastive against *generous*,
+but the next clause uses *correct* as a bare noun, unmarked); ch4 *pressure* (*"Not force — \*pressure\*"*,
+a contrast that is also a technical term being named); ch4 *hope* (Elara throwing his own word back at him
+— cited by her, but the weight is unmistakably in her voice); ch5 *kind* (*"a cut by \*kind\*"*, a term
+being defined).
+
+**The finding under the finding.** A rule can be written down, correct, and quoted in the working document,
+and still not be applied to a book that was drafted after the pass that implemented it. **Rules do not
+retroactively apply themselves.** When a style pass is recorded as done, the record should say *which
+books* it covered — this one did, and that is the only reason the gap was findable.

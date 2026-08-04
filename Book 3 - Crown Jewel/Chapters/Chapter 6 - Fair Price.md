@@ -124,7 +124,7 @@ She had done the work. That was never in question with her; she had gone down th
 
 She was quiet for a moment. Then she pulled the second sheet out from beneath the first, and it turned out that she already knew, and had known before she came in, and had brought the proof with her anyway.
 
-"Two rules," she said. "Guides front and back on every trip and every load, and nobody writes the route down. That's what she said in the summer, and it's not stubbornness. The route *is* the guild. Dead Man's Passage is lethal without a map, and only her people have ever had one, and that's the entire reason anybody in this city has to deal with them at all." She put a finger on the second sheet. "So run it out. Four months, not eleven days. Every cart, every crew, every barrel of oil, front and back, forever — and at the end of four months the crown still doesn't have a map of its own supply line. She won't relax either rule. If she relaxed either rule she'd be giving away the only thing she owns, and she'd be right not to."
+"Two rules," she said. "Guides front and back on every trip and every load, and nobody writes the route down. That's what she said in the summer, and it's not stubbornness. The route **is** the guild. Dead Man's Passage is lethal without a map, and only her people have ever had one, and that's the entire reason anybody in this city has to deal with them at all." She put a finger on the second sheet. "So run it out. Four months, not eleven days. Every cart, every crew, every barrel of oil, front and back, forever — and at the end of four months the crown still doesn't have a map of its own supply line. She won't relax either rule. If she relaxed either rule she'd be giving away the only thing she owns, and she'd be right not to."
 
 "And she'd say no."
 
@@ -276,7 +276,7 @@ It had been standing in that room the whole time. Sa Ko Ren at the table and Tan
 
 Months of reading that as contempt. Sitting in the Iron Hall, Xion understood it very late and all at once.
 
-This was a man who had forced his way onto the Coterie by shutting the labor off for two months and outwaiting three cartels who were certain he would blink. He had never once in his life been *given* a seat. A chair the palace offered was a chair the palace could take back, and a man who came when the palace called was a man who could be called — and every lieutenant standing on those platforms would run that arithmetic before the summons had gone cold.
+This was a man who had forced his way onto the Coterie by shutting the labor off for two months and outwaiting three cartels who were certain he would blink. He had never once in his life been **given** a seat. A chair the palace offered was a chair the palace could take back, and a man who came when the palace called was a man who could be called — and every lieutenant standing on those platforms would run that arithmetic before the summons had gone cold.
 
 He could not take it. He had never been able to take it. And in all that time nobody in that building had asked why, including the man who had stood up in the room and said that somebody ought to come down here and ask.
 

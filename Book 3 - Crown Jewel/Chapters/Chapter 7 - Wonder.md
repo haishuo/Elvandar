@@ -60,7 +60,7 @@ She did it the way you do something you have always known.
 
 The pulse changed before anything moved.
 
-It did not get louder. It got *closer* — the way a sound you have stopped hearing becomes a sound that is aware of you. Something a long way down had registered what had just been done to its door. The scholars went absolutely still. Nobody spoke, because there was nothing yet to say.
+It did not get louder. It got **closer** — the way a sound you have stopped hearing becomes a sound that is aware of you. Something a long way down had registered what had just been done to its door. The scholars went absolutely still. Nobody spoke, because there was nothing yet to say.
 
 Then the Door began to move, and it was not opening.
 
