@@ -57,6 +57,19 @@ in from the cloud branch on 2026-07-29, where they were numbered C-16 through C-
 invented C-16 onward independently for different items. The mapping is in the changelog under the
 merge entry, and the branch's own commit messages still use the old numbers.
 
+**Where the work happens, from 2026-08-03.** Drafting runs in the worktree at
+`.claude/worktrees/book3-prose` on branch `book3-prose`; `main` holds finished work. The author reads
+progress through **Elvandar Viewer** (`Tools/elvandar_viewer`), which is worktree-aware — verified against
+its own `GitClient`: it resolves `--absolute-git-dir` and `--git-common-dir` separately, so its live-update
+watcher follows a worktree's metadata correctly rather than looking for a `.git` folder that isn't there.
+
+**Two disciplines, and they exist because both failed on 2026-08-03.** **Push after every commit**, because
+fifteen commits once sat unpushed through four rounds of revision and the author was giving notes on a
+chapter he could not read. And **merge to main and delete or re-sync the worktree the moment a chapter is
+done**, because a stale worktree left a second copy of the book on disk showing the previous day's state —
+no ch6 at all, *Wonder* still numbered ch6 — and it was opened and read as current. **A worktree that has
+outlived its purpose is not clutter; it is a wrong copy of the book with an equal claim to being real.**
+
 **Sections:** [1. Rule hierarchy](#1-the-rule-hierarchy-authors-binding) · [2. Cross-book threads](#2-cross-book-threads) · [3. Outstanding work](#3-outstanding-work) · [4. Do not touch](#4-do-not-touch) · [5. Character guardrails](#5-character-guardrails) · [6. Settled rulings](#6-settled-rulings) · [7. Open questions](#7-open-questions) · [8. Observations that are not fixes](#8-observations-that-are-not-fixes)
 
 ---
