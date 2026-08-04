@@ -7154,3 +7154,26 @@ the chairs made tall, so the two passages agree.
 Lathionese were elves** — the word appears nowhere in Book 3's prose, drafts or skeleton — and this beat
 does not start that. Recorded in the beat draft so a later pass does not "helpfully" complete the
 inference.
+
+### The emphasis sweep reaches ch8 and ch9 — author's query, 2026-08-04
+
+**Not deliberate: these two chapters had never been swept.** The Book 3 emphasis pass ran on 2026-08-03,
+before either existed. Swept now, and the three single-word italics split two ways, which is the useful
+part of the answer.
+
+**Changed — `Inhabitants`: *nothing* → **nothing**.** *"because nothing is not what an empty room gives
+you."* The substitution test decides it: *"because an absence is not what an empty room gives you"* still
+works, so the sentence is about the **thing** and not about the word, and the weight is in Xion's voice.
+Single-word stress, therefore bold.
+
+**Unchanged, and correct — `Neighbours`: *somebody*.** *"Somebody designed that. Not somebody in the
+abstract, the way you say it about a mountain."* He has just used the word and is now distinguishing two
+senses **of the word itself**; the sentence is about the word. Textbook citation, exactly the shape of
+*"no" was a word for people without the right name*. Italic.
+
+**Unchanged, and correct — `Neighbours`: *huh*.** A reported utterance — the sentence is about the sound
+Farleen made, not about anything she is stressing. Same shape as Janice's *Fen.* Italic.
+
+All multi-word italics in both chapters check out: interior thought, reported phrases, and the two
+recurrences of *You cannot think about a thing you cannot name.* Existing bolds — *quantity*, *bodies*,
+*stacked*, *stack*, *neighbours* — are all single-word stress and stand.

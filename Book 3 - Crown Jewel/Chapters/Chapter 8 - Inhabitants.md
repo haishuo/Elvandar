@@ -154,7 +154,7 @@ He stood in the middle of it and waited for the thing that was wrong to present 
 
 Nothing did.
 
-That was when he started paying attention properly, because *nothing* is not what an empty room gives you. An empty room gives you a great deal. He had walked into rooms where somebody had died in the night and rooms where somebody had run, and rooms where a family had been put out into the street with an hour's notice, and each one of those has a signature, and the signature is written in what got left on the floor.
+That was when he started paying attention properly, because **nothing** is not what an empty room gives you. An empty room gives you a great deal. He had walked into rooms where somebody had died in the night and rooms where somebody had run, and rooms where a family had been put out into the street with an hour's notice, and each one of those has a signature, and the signature is written in what got left on the floor.
 
 There was nothing on the floor.
 
