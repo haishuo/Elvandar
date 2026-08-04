@@ -117,17 +117,17 @@ question the reader has not yet thought to ask.
 
 ---
 
-## One open item, flagged and not yet ruled
+## The Warrens are Lathionese, and Book 3 is where that becomes ordinary
 
-`Book 6 - Necessary Measures/book6_outline.md` (lines 27 and 242) currently states that nobody ever
-learns the Warrens are Lathionese infrastructure — *"The tunnels are old. That's all anyone knows."*
-**Book 3 makes that impossible**: the expedition descends through those tunnels to reach the Door, and
-the empire then spends twenty years building from Lathionese designs.
+**Ruled and applied 2026-08-04.** `book6_outline.md` used to say that nobody ever learns the Warrens are
+Lathionese infrastructure — *"The tunnels are old. That's all anyone knows."* Book 3 makes that
+impossible, since the expedition descends through those very tunnels to reach the Door and the empire
+then spends twenty years building from Lathionese designs. The outline now says the opposite: **everyone
+knows exactly what the tunnels are, and it does not help them**, because knowing whose machines these
+are is not the same as being able to maintain them.
 
-The proposed correction — that everyone knows exactly what the tunnels are and it does not help them,
-because knowing whose machines these are is not the same as being able to maintain them — **is awaiting
-the author's ruling and has not been applied.**
-
-For the Book 3 session in the meantime: if a chapter reaches naturally for the recognition, **let it be
-ordinary** — an engineer noticing the same hand at work — and do not build a set piece on it. Do not
-suppress it either. It is not a revelation in this book.
+**What this asks of Book 3:** almost nothing, deliberately. If a chapter reaches naturally for the
+recognition — an engineer noticing the same hand at work above and below the Door — **let it be
+ordinary**, one observation, no set piece. Do not suppress it and do not stage it. It is not a
+revelation in this book; it is a fact that settles quietly and becomes load-bearing twenty years later,
+when the water starts to fail and being able to name the machine turns out to be worth nothing.

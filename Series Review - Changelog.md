@@ -6698,3 +6698,44 @@ a bump over a region you have already hand-corrected in the same pass — correc
 **Verified end to end after the fact**, not assumed: all 21 numbers now agree across prose filenames,
 beat-draft filenames, beat-draft headers and skeleton headings, with zero mismatches, and the Royal Road
 folder was emptied before regeneration so no stale HTML survived under an old number.
+
+---
+
+## 2026-08-04 — Book 6's ignorance premise corrected
+
+**The contradiction.** `book6_outline.md` was built on nobody ever learning that the Warrens are
+Lathionese infrastructure: *"unbeknownst to anyone"* (narrative engine), *"What no one understands —
+because no one alive has the knowledge to understand it"* (§The Warrens Are Dying), and a structural
+note reading *"No one discovers the tunnels' true origin in this book… The tunnels are old. That's all
+anyone knows."*
+
+Book 3 killed that premise and nobody retired the flag. The expedition descends **through those
+tunnels** to reach the Brass Door; ch6 lays the route out street by street; the canon docs state that
+the Warrens are Lathion's service plant. Twenty-odd years later the empire is running an industrial
+programme on Lathionese water purification and is supposed to look at failing Lathionese water
+filtration in the Warrens without recognising it.
+
+**Ruled: everyone knows exactly what the tunnels are, and it does not help them.** Balisha holds
+*design* knowledge — extracted a notebook at a time through a cave, rebuilt in surface workshops from
+an incomplete understanding. That is a different capability from keeping a five-thousand-year-old
+integrated system alive in place, four hundred meters down, with no parts, no manual, and no maintainer
+alive who ever trained on it. The engineers can read the machine and cannot save it, and every survey
+makes that clearer.
+
+**This strengthens the book rather than patching it.** A mystery would have been the weaker version:
+the failure is worse when they can name precisely what is dying and watch it die anyway. And it is the
+same lesson Book 6 already teaches through Melina — *a thorough and correct account of a thing is not
+the power to change it.* Her models were excellent and did not prevent the collapse; the surveys are
+excellent and do not save the water. **The rhyme is not to be pointed at.**
+
+**Explicitly forbidden by the correction:** no revelation scene, and no character treating the
+connection as news. The origin is as unremarkable as the age of a cathedral.
+
+Three passages rewritten in `book6_outline.md` — the narrative engine, the opening of §The Warrens Are
+Dying, and the structural note, which now carries a dated record of what it used to say. Two lines that
+survived unchanged because they were always about *fixing* rather than *knowing*: the Act I studies
+revealing *"cascading failures across interconnected infrastructure no one understands"* and the child's
+death from *"systems that no one could fix because no one understood them."* Both remain true.
+
+`_LATHION_AFTER.md` and the Master List entry updated from *awaiting ruling* to applied, so the Book 3
+session does not act on a superseded flag. No prose, beat draft, skeleton or Royal Road file changed.

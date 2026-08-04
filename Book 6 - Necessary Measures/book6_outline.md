@@ -1,6 +1,6 @@
 # Book 6: Necessary Measures — High-Level Outline
 
-**Narrative Engine:** The external crises are resolved — the Compact War won, Silaris stabilized. Now the empire turns inward to the problem it has been avoiding for twenty years: the Warrens. Sixty thousand people living underground in tunnels that, unbeknownst to anyone, are ancient Lathionese infrastructure — systems that have been running for millennia without maintenance. Those systems are now failing. The water is dying. People are dying with it.
+**Narrative Engine:** The external crises are resolved — the Compact War won, Silaris stabilized. Now the empire turns inward to the problem it has been avoiding for twenty years: the Warrens. Sixty thousand people living underground in ancient Lathionese infrastructure — systems that have been running for millennia with nobody maintaining them. Everyone now knows exactly what those tunnels are, and it makes no difference at all. They are failing. The water is dying. People are dying with it.
 
 **POV:** Tiberian and Melina, continuing from Book 5. This is the book where their partnership matures under the most painful possible conditions.
 
@@ -24,9 +24,13 @@ It's not money or technology stopping them. It's the same thing that always stop
 
 ## THE WARRENS ARE DYING
 
-What no one understands — because no one alive has the knowledge to understand it — is that the Warrens tunnels are ancient Lathionese infrastructure. Not crude refugee housing dug by desperate people. Precision-engineered subterranean systems built by the civilization that created the City of Gears — systems for water filtration, air circulation, structural reinforcement, and environmental maintenance that have been running autonomously for five thousand years.
+The Warrens tunnels are ancient Lathionese infrastructure. Not crude refugee housing dug by desperate people. Precision-engineered subterranean systems built by the civilization that created the City of Gears — systems for water filtration, air circulation, structural reinforcement, and environmental maintenance that have been running autonomously for five thousand years.
 
-It's a miracle they lasted this long. A testament to Lathionese engineering that these systems kept sixty thousand people alive for generations without a single person knowing how to maintain them. But everything fails eventually. And when Lathionese systems fail, they don't degrade gracefully — they were never designed to. They were designed to be maintained by people who understood them.
+**Everyone knows this, and it does not help them. That is the point.** The expedition of Book 3 walked down through these tunnels to reach the Brass Door; the empire has spent twenty years building from Lathionese designs; the surveys are done and the origin is not in question. Knowing whose machines these are is simply not the same thing as being able to keep them running, and the gap between those two is the whole crisis. Balisha reverse-engineered *recipes* — it builds new purification and energy systems on the surface, from an incomplete understanding, in workshops it controls. Repairing a five-thousand-year-old integrated system in place, four hundred meters down, with no parts, no manual and no maintainer alive who ever trained on it, is a different capability that the empire does not have and cannot buy.
+
+So the failure is worse than a mystery would be. They can name precisely what is dying and watch it die anyway. Every engineer sent down comes back with a better description of a machine he cannot fix.
+
+It's a miracle they lasted this long. A testament to Lathionese engineering that these systems kept sixty thousand people alive for generations with no one maintaining them at all. But everything fails eventually. And when Lathionese systems fail, they don't degrade gracefully — they were never designed to. They were designed to be maintained by people who understood them, and those people fed themselves into the Destiny Engine twenty years before anyone thought to look.
 
 The water supply is the first critical failure. Filtration systems that have been processing groundwater for five thousand years begin to falter. The water turns brackish, then unreliable, then intermittent. People start getting sick. Then people start dying.
 
@@ -239,7 +243,13 @@ The synthesis is therefore not *he was right in substance, she was right in prep
 
 **Kess Ashwood:** Introduced in the arena. Her full character and role in the series — whether she's a one-book presence or becomes significant going forward — should be developed separately. What matters for the outline: Kess does not trust people. Everyone who has ever shown interest in her has wanted something — usually for her to hurt things. Surfacers are the worst; they bet at the arena. Tiberian frees her without expectation ("you're free, go wherever you like"), and she runs. She gets cornered, he saves her again, and she *still* doesn't join him — she shadows. Trust, for Kess, is not a single moment of rescue. It's accumulated evidence that this person is not like every other person. By the end of the Warrens descent, she's fighting alongside Tiberian — but on her terms, for her reasons. She is not his subordinate. She is someone who decided these enemies deserved killing.
 
-**The Lathionese tunnels:** No one discovers the tunnels' true origin in this book. The infrastructure is failing and no one can fix it because no one understands it. The engineering is visibly beyond anything contemporary Balisha could produce — the brass construction of the Iron Hall, the precision of the water systems, the scale of the ventilation. But the connection to Lathion remains unknown. The tunnels are old. That's all anyone knows.
+**The Lathionese tunnels: there is no discovery to make, and the book must not stage one.** *(Corrected 2026-08-04. The earlier version of this note said the origin was never discovered and "the tunnels are old, that's all anyone knows," which Book 3 makes impossible — the expedition descends through these tunnels to reach the Brass Door, and the empire then spends twenty years building from Lathionese designs.)*
+
+The origin is settled fact by the time this book opens, as ordinary and unremarkable as the age of a cathedral. Nobody realises anything; nobody is surprised. The brass of the Iron Hall, the precision of the water systems, the scale of the ventilation — all of it is understood to be Lathionese work, and the understanding is worth nothing. **Do not write a revelation scene, and do not let any character treat the connection as news.**
+
+What is genuinely not known is narrower and more useful: **nobody knows how to maintain any of it.** The knowledge Balisha holds is design knowledge, extracted a notebook at a time through a cave and rebuilt in surface workshops. It does not extend to keeping a five-thousand-year-old system alive in place. The engineers can read the machine and cannot save it, and every survey makes that clearer.
+
+**This is the same lesson the book teaches through Melina**, and the rhyme should not be pointed at: a thorough and correct account of a thing is not the power to change it. Her models were excellent and did not prevent the collapse. The surveys are excellent and do not save the water.
 
 **Xion and Elara's complicity:** The book must honestly address the twenty years of inaction. Not as villainy but as the human tendency to postpone what's hard. The Warrens existed under their rule for two decades. Melina died there. The conditions that produced Ronas persisted because addressing them was always tomorrow's problem. Their children doing what they couldn't is both an indictment and a vindication.
 

@@ -681,12 +681,21 @@ Book 3.
 
 **Full brief, written for the Book 3 drafting session:** `Book 3 - Crown Jewel/_LATHION_AFTER.md`. It
 carries the prohibitions (no reopened Great Shaft ever, no food convoys, no crown map, no settlement)
-and the one open item below.
+and the Book 6 correction below.
 
-**Open and not ruled:** `book6_outline.md` lines 27 and 242 say nobody ever learns the Warrens are
-Lathionese. Book 3 makes that impossible. Proposed correction — everyone knows exactly what the tunnels
-are and it does not help, because knowing whose machines these are is not the same as being able to
-maintain them — **awaiting the author's decision; not applied.**
+**Book 6's ignorance premise — CLOSED, applied 2026-08-04.** `book6_outline.md` had said nobody ever
+learns the Warrens are Lathionese — *"The tunnels are old. That's all anyone knows"* — which Book 3
+makes impossible, since the expedition descends through those tunnels to reach the Door and the empire
+then spends twenty years building from Lathionese designs. **Ruled: everyone knows exactly what the
+tunnels are, and it does not help.** Knowing whose machines these are is not the same as being able to
+maintain them; Balisha holds *design* knowledge, extracted a notebook at a time and rebuilt in surface
+workshops, which does not extend to keeping a five-thousand-year-old system alive in place. The
+engineers can read the machine and cannot save it.
+
+**No revelation scene, and no character treats the connection as news.** The origin is as unremarkable
+as the age of a cathedral. And the correction strengthens the book rather than patching it: it is the
+same lesson Book 6 already teaches through Melina — *a thorough and correct account of a thing is not
+the power to change it* — so the surveys fail the way her models fail. **Do not point at the rhyme.**
 
 ### Lathion's two entrances — **AUTHOR'S RULING 2026-08-04**
 
