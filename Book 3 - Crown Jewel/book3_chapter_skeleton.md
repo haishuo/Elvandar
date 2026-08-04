@@ -164,6 +164,35 @@ The Scholar-King signs with a pen that hovers momentarily before committing. Bot
 
 ## ACT II: The City of Gears
 
+**Governing structure of the exploration arc: assume → name → dismiss → confirm.** The four chapters
+are one movement and each has exactly one job. *Wonder* — the expedition assumes an ancient ruin, and
+that assumption is left **pure**; its "five thousand years" language is reasonable awe, not error.
+*Inhabitants* — it discovers the city was emptied only twenty years ago, names the coincidence aloud
+(*twenty years is also the Rending*) and dismisses it on the only ground available, that no surface
+catastrophe reaches a sealed city. The dismissal is correct on the evidence and does not settle.
+*The Repository* — recency deepens through a second, independent piece of evidence; the bequest
+framing emerges; political and military framing stay off, and the weight on Xion is moral. *The
+Destiny Engine* — the dismissed hypothesis is **confirmed rather than deduced**: Elara witnesses the
+Rending itself and learns Lathion died in the catastrophe that orphaned her.
+
+**Consequence for the five-thousand-year language.** *Wonder* keeps "five thousand years" as the
+characters' in-character imprecision — the Door genuinely is that old, the seal is not, and they
+cannot know better. From *Inhabitants* onward, soften it in Xion's and Brennek's interiority to
+*millennia* or *long before any account he has read*, because those chapters are **about** the
+assumption being wrong and must not commit the POV to a specifically wrong number. Elara's Engine
+vision uses the true figures, the seal included, because the vision is Engine-truth.
+
+**Epistemic honesty throughout.** *Lathion* is a working hypothesis, not a confirmed identification —
+a very strong one, but the scholars behave like real researchers who think they have found Atlantis,
+and some of them stay dubious with the evidence in front of them. **No Lathionese proper name is ever
+used**, by any character or by the narrator in Xion's POV. Where a place needs a name it gets the
+expedition's coinage or a description.
+
+**The conveyor is service infrastructure**, not a commuter system — built to move workers and freight,
+which is why it is utilitarian for its whole length and only the threshold at its foot turns civic.
+The overwhelming majority of Lathionese never went up it.
+
+
 ### Chapter 7: Wonder
 **Timeline: Weeks later — back at the Brass Door**
 **Characters present: Xion, Elara, Urathan scholars, Farleen, expedition team — including an Arol Batae detail and a three-mage Tor'anar detachment, background throughout**
@@ -254,6 +283,13 @@ New offer: Uratha will *return* the Scholar's Crown to Balisha — something Ela
 The Crown for the City. The reader should feel the weight of this: a divine artifact returned after three centuries of refusal. Something every Balishan ruler failed to achieve, and Elara accomplished it by finding something Uratha wanted more.
 
 Xion negotiates the terms — sovereignty over Lathion stays with Balisha, artifacts stay in Lathion, Urathan scholars get *exclusive* research access under Kaha'ani authority. The scene is Xion doing what he does best: reading people, finding the angle, protecting Balisha's interests while giving the Urathans enough to keep them committed.
+
+**The Crown is not brought to this chapter, and that is deliberate.** Draskin comes in person and
+**without it** — arriving with the artifact would presume acceptance, which is bad statecraft and
+worse characterization. The deal is struck here and the Crown is *sent for* afterward, which is what
+opens the multi-week travel gap before *Awakening*, during which news of the exclusivity deal spreads
+and Gunastran begins to react. The easy-concessions seed therefore lives in the negotiation itself,
+not in the object.
 
 Xion notes the Urathans' hunger — Provost Venn's intensity, the Scholar-King's eagerness to finalize terms. He reads it as academic ambition — the opportunity of a millennium for a nation of scholars. A reasonable interpretation. The correct one would be unthinkable.
 

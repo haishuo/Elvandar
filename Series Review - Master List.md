@@ -490,11 +490,15 @@ to *is this important* is the chapter's political seed; and the Tor'anar and Aro
 *(B3-1 previously tracked `Chapter 6 - Fair Price`, cleared 2026-08-03 — draft and prose both written,
 signed off, and revised through nine rounds of the author's notes. The chapter is at 5,443 words.)*
 
-**B3-2 — `Book 3 - Crown Jewel/_WORKING_NOTES.md` is stale and banner-flagged.** Its table claims 18
-chapters and calls *Negotiations* ch3; it predates the 2026-08-01 Storm-Line insertion and is now two
-behind. Deliberately not renumbered. **Salvage first, then delete**: the political-arc walkthrough, the
-*assume → name → dismiss → confirm* structure of the exploration arc, and the 5,000-year language pass
-may not be recorded anywhere else. The file self-identifies as temporary; deletion is the author's call.
+**B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
+
+- **The Places-vs-map audit is unfinished.** All `Places/` files were being rewritten to match the
+  canonical painted map (`Places/elvandar_map_painted.png`). The Erulian file is corrected — Erulius
+  sits far southeast on the Azure Sea and does **not** border Vartonne. **The other nations were never
+  checked**, and nothing else records that the job was left half-done.
+- **Draskin's description in `Chapter 4 - Negotiations` may contradict `Hubris` and `The Scholar's
+  Crown`.** Flagged when those chapters were drafted and never resolved. Check before Act III drafting
+  reaches him.
 
 ---
 

@@ -180,6 +180,17 @@ The Lathionese had no ancient weapon waiting for such a day. What they possessed
 
 (A long-tail consequence of the open period: much of what surface civilizations would later call "magitech" — particularly Gunastran's industrial magical engineering — is the degraded inheritance of Lathionese arts transmitted during those three open millennia. Gunastran's modern theorists do not know they are working with the broken-down children of Lathionese science. Lathion's instruments, watching from below, almost certainly noticed.)
 
+
+**Editorial ruling — this is backstory only; do not deploy it on the page.** It is authorial truth that
+makes the world cohere, not material any Book 3 chapter needs. Gunastran does not know it and could not
+realistically learn it inside Book 3: espionage steals contracts and prototypes, it does not reconstruct
+three millennia of forgotten lineage. What Gunastran *does* know is enough on its own — that Lathion is
+real (leaked dispatches make deniability impossible), that Balisha is fielding Lathion-derived systems
+(observable as they scale), that Uratha holds exclusive access by treaty, and that Balisha's outputs
+operate at a register Gunastran's do not reach. They can back-calculate principles from observed
+implementations, and that is the whole basis of their panic. The lineage fact stays off-page.
+*(Salvaged from `Book 3 - Crown Jewel/_WORKING_NOTES.md` before deletion, 2026-08-04.)*
+
 It was finished. And its makers had always known its price. The Engine could reach into the fabric of reality and force the Gray Gate shut — but to do so it had to be powered by life itself, freely given, on a scale to answer the scale of the wound. Nearly every Lathionese who remained gave their existence to it. They fed themselves into the Engine, knowingly and willingly, and the Engine did what it had been built to do: the Gray Gate was sealed, and the torn boundary between the living world and the realm of the dead was mended. The slow tide stopped — abruptly, mid-desert, halting against nothing at all, as though a hand had been laid flat against the world.
 
 In the same moment, the Engine's activation sent a metaphysical shockwave through the region. Where it met Kaha'an's failing wards, it did not break them — it reinforced them, restoring and strengthening the shell that had so nearly fallen, so that the city survived both the Gray Gate's final violence and the reality-deep backlash of its own cure.

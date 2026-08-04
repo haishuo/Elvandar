@@ -116,7 +116,13 @@ And the terraces grew.
 
 They had seen the green from the Gatehouse the night before and taken it for survival — some tenacious thing hanging on in the dark, the way weeds come up through a paving stone. It was nothing of the sort. It was a farm. There was light coming down onto it in the right measure, and water going through it on a schedule, and something being done to the soil at intervals by machines that came and went, and the whole apparatus was running the way a mill runs when the miller is at his dinner.
 
-Food was growing in Lathion. Not much. Not nearly enough to feed the city that stood around it. But it was growing, and nobody was growing it.
+Food was growing in Lathion, and there was not enough of it.
+
+He knew that before he had finished looking, and he knew it in his father's voice, which was the voice that turned up whenever a quantity of grain and a number of mouths appeared in the same thought. What was on these terraces would not feed the roads he had walked that morning. It would not come within sight of it.
+
+Which meant there had been more, because there was no other way for the sum to come out. A shut city does not sit on top of a farm that cannot feed it — not for a generation, and this had been shut for however long it had been shut. There is no door to open and no barge coming up the coast and no bad year to be carried on somebody else's surplus. Either the terraces fed Lathion or Lathion starved, and Lathion had not starved.
+
+So this was the remainder. He was standing in front of what was left of a thing that had worked, and it was still working, and it was working less.
 
 ---
 

@@ -6516,3 +6516,47 @@ his, not as fact"* — so this was the prose drifting from a plan that was alrea
 inside Xion, and the reversal now reaches the reader at the same moment it reaches him, thirty lines
 later, when Brennek says twenty years. A sweep for the same class of error across the chapter —
 *would later*, *did not yet know*, *unbeknownst*, *years later* — found no other instance.
+
+---
+
+## 2026-08-04 — `_WORKING_NOTES.md` salvaged and deleted; the Lathion food supply corrected
+
+**The scratch file is gone.** It had been carrying two mutually inconsistent numbering schemes at once —
+its status table called *Wonder* ch5 while its body called it ch6 — which is why the partial renumber
+earlier today had to be reverted. Everything unique in it was moved out first, **cited by chapter title
+rather than number**, so the reasoning survives the next insertion:
+
+- **The exploration arc's governing structure — *assume → name → dismiss → confirm*** — into the
+  skeleton's ACT II header, together with the per-chapter rule it implies for the
+  five-thousand-year language, the epistemic-honesty constraint (*Lathion* stays a working hypothesis,
+  and some scholars stay dubious), and the note that the conveyor is freight infrastructure.
+- **The Crown is not brought to `The Scholar's Crown`** — Draskin arrives in person and without it,
+  because arriving with it would presume acceptance. The deal is struck, the Crown is sent for
+  afterward, and *that* is what opens the travel gap before *Awakening*. The skeleton had the offer but
+  had never recorded the staging.
+- **The Gunastran-magitech-as-degraded-Lathionese ruling** — into `Magic/The Rending.md`, next to the
+  lore it governs. Backstory only; it never goes on the page, and Gunastran's panic works on what they
+  can actually observe.
+- **Hedrin Vall** — into `Names.md` as retired-before-use. Book 3 has no named Urathan villain on
+  purpose; the seed is *the scholars cannot stop themselves*, and a villain would flatten it to malice.
+- **Two unfinished threads** — the half-completed Places-vs-map audit and Draskin's possibly
+  inconsistent description in `Negotiations` — into the master list, where outstanding work belongs.
+
+Everything else in the file was duplicated in `CLAUDE.md`, the skeleton, the beat drafts or the
+character sheets, including a "Chapter 6 is locked, do not revise it" instruction that the author had
+already overturned.
+
+### `Chapter 8 - Inhabitants` — the terraces, on the author's catch
+
+The prose read: *"Food was growing in Lathion. Not much. Not nearly enough to feed the city that stood
+around it."* **That cannot be true.** The city was sealed and inhabited for millennia with no door to
+open and no trade to fall back on; a farm that could not feed it would have starved it. The shortfall
+is not the design, it is the **damage** — which is the same evidence Brennek dates thirty lines later,
+so the correction tightens the chapter instead of patching it.
+
+Rewritten so Xion reaches it by arithmetic, in **his father's voice** — grain against mouths is the
+Kemvimore trade, and the master list already tracks the two inheritances as distinct (Mira's healer's
+eye, Rosik's geometry). He reasons that there must have been more, because no other sum comes out, and
+concludes that he is looking at the remainder. A first pass at the fix had him assert *"two thousand
+years"* — a number the exploration chapters exist to establish he does not have. Cut to *"however long
+it had been shut."*

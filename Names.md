@@ -165,6 +165,14 @@ in exactly the chapters the scholar appears in. **Both names replace *Kaiden Vos
 written, whose nation the sources disagreed on, and who was himself a collision — one syllable,
 V-initial, sharing an expedition with **Vesk**.
 
+## Retired before use — do not reintroduce
+
+***Hedrin Vall*** was a named Urathan antagonist in an early draft of *The Repository*, **cut on
+purpose**: Book 3 has no named Urathan villain, and the contingent is written as scholars doing
+scholarship. The political seed is *the scholars cannot stop themselves*, which Uratha-the-state
+weaponizes later — a named villain would convert that into ordinary malice and lose it.
+***Kaiden Voss*** is retired as well; see above.
+
 ## Names already spent, and how
 
 Four renames were forced after the fact. Do not re-coin any of these: **Ver'anar** → *Tor'anar*,
