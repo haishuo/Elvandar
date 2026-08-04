@@ -1,0 +1,30 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "elvandar-viewer"
+version = "0.11.0"
+description = "A read-only desktop reader for the Elvandar repository"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "PySide6>=6.7,<7",
+    "markdown-it-py[linkify,plugins]>=3.0,<4",
+    "mdit-py-plugins>=0.4,<1",
+]
+
+[project.optional-dependencies]
+build = [
+    "pillow>=11.0,<13",
+    "pyinstaller>=6.12,<7",
+]
+
+[project.scripts]
+elvandar-viewer = "elvandar_viewer.app:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/elvandar_viewer"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
