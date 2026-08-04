@@ -32,7 +32,7 @@ in that book. The failure mode is never a name that *looks* wrong on the page.
 | **Ronas Dermir** | 1–8 | Head of the Slaver cartel; the Warrens' power | Proto-Balishan |
 | **Sa Ko Ren** | 1–3, 5 | The Iron Lady. Iron cartel, Coterie. **She/her** | Far Eastern |
 | **Mistress Janice** | 1, 3 | Warrens. Calls Xion *Fen*, never anything else | — |
-| **Mira Fen** | 1–2, 7 | Xion's mother. Dead before Book 1; his defining wound | — |
+| **Mira Fen** | 1–2, 7 | **The apothecary at the Kemvimore estate — not Xion's mother.** Raised him after his mother died in the Rending and taught him healing in secret for years. Executed by Rosik when Xion was fifteen, on two words, with Xion in the room. His defining wound, and **the source of his alias** — *Master Fen* is her name | — |
 | **Tam Corris** | 1–3 | The boy Xion saves | Proto-Balishan |
 | **Tarren Vesk** | 1, 3 | Commander of the Arol Batae; raised Elara | Proto-Balishan |
 | **Kalden Erulius** | 2–8 | Prince of the Erulian Principality. *"The Steady One"* | Balishan given, Erulian house |
@@ -47,6 +47,10 @@ in that book. The failure mode is never a name that *looks* wrong on the page.
 | **Melina Valanar** | 5–8 | The Spider Queen. Their daughter — **named for Xion's dead sister** | Old Lathionese |
 | **Kai Issamil** | 5–7 | The Iron Boar. **Kael's son**; holds the line behind Tiberian | Balishan |
 | **Lyra Valanar** | pre-1 | Elara's mother. Dead before Book 1; five mentions, all backstory | Old Lathionese |
+
+**Xion's own mother is never named.** She died in the Rending and exists in the prose only as
+*"after my mother died in the Rending"* (B1 ch22). Do not name her without deciding to — B2 ch5 turns
+on the gap: *"the warmth he could still reach in these walls hadn't been his mother's at all."*
 
 ## Kaha'an and the Warrens — Books 1–3
 
