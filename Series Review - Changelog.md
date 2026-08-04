@@ -7097,3 +7097,40 @@ a deliberate pass rather than a one-character fix.
 
 Checked before renumbering: nothing outside the draft cites B2 ch17 beat numbers. No prose changed, so no
 Royal Road regeneration was required.
+
+---
+
+## 2026-08-04 — Xion's model of his father was correct, and the ledgers are why it failed
+
+**Record only; no prose changed, because the prose already says all of it.** B2 ch12 carries the belief in
+full — *"He had never once, in twenty years, seen him come undone — not cornered, not rattled, not for the
+space of a single breath — and some part of Xion doubted the man was built for it"* — along with the plan
+(*"Not surrender; his father did not surrender. **Withdraw**"*), Melina's warning that Rosik can always be
+reached, and the hope of *"something less murderous… raised in the clear space afterward."* ch13 has him
+rehearsing the coming negotiation; ch14 has him waiting two days for it. His sheet already names the trap:
+*"the version Xion has never seen — may not even believe exists."* **The only element that existed nowhere
+was the intended endgame of a trial for attempted regicide**, now recorded.
+
+**What today's ledger ruling adds is the mechanism, which had only ever been asserted.**
+`book6_outline.md` states that Xion's certainty *"was not laziness; it was twenty-three years of the most
+careful reading he had ever done, and the reading was correct right up until the man stopped being someone
+a reading applies to"* — true, and silent on why *that night*. The answer is the books. **His model was
+accurate.** Rosik does not panic over money; money is *less*, which a Merchant primary finds unbearable
+and survivable at once. What broke the model was an input Xion did not know was in his hands — proof of
+the arrangements, and proof of twenty years of insolvency covered out of criminal money. **He thought he
+was taking the wealth and the leverage. He took the floor.**
+
+**So the ruling that matters for drafting: ch12's certainty is never played as arrogance.** The cheap
+reading — young man overconfident, gets his comeuppance — is available to anyone skimming the chapter and
+is wrong. It is a correct model meeting the one variable outside its domain, **which is Melina's Book 6
+failure twenty years early and in her father**: the most careful work of a life, accurate in everything it
+covered, undone at exactly the point its author had most reason to feel safe. The rhyme is already in the
+Book 6 outline. **Neither book points at it.**
+
+His plan, in order, now on the sheet: strip Rosik of everything he fights with → force the withdrawal
+Xion had watched him execute a hundred times → try him for the attempted regicide Xion wrongly believes he
+ordered → use the clear space for genuine reform in Grain. **The trial is the most ironic item on the
+list**, since it is the step that most requires a calm man on the other side of the table. None of it
+happens.
+
+Files: `People/Xion Kemvimore.md`, `Series Review - Master List.md`.

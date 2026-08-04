@@ -782,6 +782,19 @@ the level of dinner since the Rending, and one man's crimes covered the differen
   *"The seizure records out of House Kemvimore. Do they include any accounting of persons the cartel
   held?"* — the Caretaker reading the Merchant's ledgers for the only thing in them he cares about.
 
+**And the books are the mechanism under Book 6's rhyme, which had only been asserted.**
+  `book6_outline.md` says Xion's certainty about Rosik *"was not laziness; it was twenty-three years of
+  the most careful reading he had ever done, and the reading was correct right up until the man stopped
+  being someone a reading applies to"* — true, and silent on *why that night*. **The ledgers answer it.**
+  His model was accurate: Rosik does not panic over money. It broke on an input Xion did not know he was
+  holding. **He thought he was taking the wealth and the leverage; he took the floor.** So B2 ch12's
+  *"some part of Xion doubted the man was built for it"* is **not hubris being punished** and must never
+  be played that way — it is a correct model meeting the one variable outside its domain, which is
+  Melina's Book 6 failure twenty years early and in her father. **Neither book points at it.** His plan in
+  order — strip, force the withdrawal, try him for the regicide Xion wrongly believes he ordered, reform
+  Grain in the clear space — is recorded on his sheet; *the trial is the most ironic item on it, since it
+  is the step that most needs a calm man across the table.*
+
 **The books are why Rosik panics, and the money is not.** *(Ruling 2026-08-04; B2 ch13 reweighted to
   match — the ledgers moved from a secondary find at two sites to the point of the raid, and Kael's
   *"the money's the most of it"* became *"a great deal of it."*)* The man does not flinch at being marked
