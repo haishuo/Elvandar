@@ -10,9 +10,12 @@ from markdown_it import MarkdownIt
 from mdit_py_plugins.footnote import footnote_plugin
 from mdit_py_plugins.tasklists import tasklists_plugin
 
+from .outline import add_outline_anchors
+
 
 _IMAGE_SOURCE = re.compile(r'(<img\s+[^>]*src=["\'])([^"\']+)(["\'])', re.IGNORECASE)
 _IMAGE_TAG = re.compile(r"<img\s+[^>]*>", re.IGNORECASE)
+_HEADING_TAG = re.compile(r"<h([1-6])>(.*?)</h\1>", re.IGNORECASE | re.DOTALL)
 ImageResolver = Callable[[str, Path], str]
 
 
@@ -37,6 +40,14 @@ class MarkdownRenderer:
         self, source: str, document_path: Path, image_resolver: ImageResolver | None = None
     ) -> str:
         rendered = self._markdown.render(source)
+        rendered = add_outline_anchors(rendered)
+        rendered = _HEADING_TAG.sub(
+            lambda match: (
+                f'<p class="markdown-heading heading-{match.group(1)}">'
+                f"{match.group(2)}</p>"
+            ),
+            rendered,
+        )
         return self._resolve_images(rendered, document_path.parent, image_resolver)
 
     def raw(self, source: str) -> str:
@@ -69,6 +80,8 @@ class MarkdownRenderer:
 
     def _document(self, body: str, *, raw: bool = False) -> str:
         body_class = "raw" if raw else "rendered"
+        font_size = self.font_size
+        table_font_size = max(11, round(font_size * 0.82))
         palette = (
             {
                 "scheme": "dark",
@@ -106,8 +119,18 @@ class MarkdownRenderer:
             {
                 "body": body,
                 "body_class": body_class,
-                "font_size": str(self.font_size),
-                "raw_font_size": str(max(11, self.font_size - 5)),
+                "font_size": str(font_size),
+                "h1_font_size": str(round(font_size * 2.25)),
+                "h2_font_size": str(round(font_size * 1.5)),
+                "h3_font_size": str(round(font_size * 1.16)),
+                "h4_font_size": str(font_size),
+                "h5_font_size": str(max(11, round(font_size * 0.9))),
+                "h6_font_size": str(max(11, round(font_size * 0.82))),
+                "table_font_size": str(table_font_size),
+                "table_heading_font_size": str(max(10, round(table_font_size * 0.84))),
+                "code_font_size": str(max(11, round(font_size * 0.82))),
+                "footnote_font_size": str(max(11, round(font_size * 0.82))),
+                "raw_font_size": str(max(11, round(font_size * 0.78))),
             }
         )
         return """<!doctype html>
@@ -120,22 +143,25 @@ body {
   font-family: "Iowan Old Style", "Palatino Linotype", Palatino, serif;
   font-size: %(font_size)spx; line-height: 1.72; text-rendering: optimizeLegibility;
 }
-h1, h2, h3, h4 { color: %(heading)s; line-height: 1.2; margin: 2.1em 0 .7em; }
-h1 { font-size: 2.25em; font-weight: 600; letter-spacing: -.025em; margin-top: 0; }
-h2 { font-size: 1.5em; font-weight: 600; }
-h3 { font-size: 1.16em; font-weight: 650; }
 p { margin: 0 0 1.15em; }
+.markdown-heading { color: %(heading)s; line-height: 1.2; margin: 2.1em 0 .7em; }
+.heading-1 { font-size: %(h1_font_size)spx; font-weight: 600; letter-spacing: -.025em; margin-top: 0; }
+.heading-2 { font-size: %(h2_font_size)spx; font-weight: 600; }
+.heading-3 { font-size: %(h3_font_size)spx; font-weight: 650; }
+.heading-4 { font-size: %(h4_font_size)spx; font-weight: 650; }
+.heading-5 { font-size: %(h5_font_size)spx; font-weight: 650; }
+.heading-6 { font-size: %(h6_font_size)spx; font-weight: 650; }
 a { color: %(link)s; text-decoration-color: %(link_decoration)s; text-underline-offset: 3px; }
 blockquote { margin: 1.8em 0; padding: .15em 0 .15em 1.25em; border-left: 2px solid %(quote_border)s; color: %(quote)s; }
 hr { border: 0; width: 48px; margin: 3em auto; border-top: 1px solid %(rule)s; }
 img { display: block; max-width: 100%%; max-height: 72vh; margin: 2em auto; border-radius: 7px; }
-table { border-collapse: collapse; width: 100%%; margin: 1.5em 0 2em; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: .82em; }
+table { border-collapse: collapse; width: 100%%; margin: 1.5em 0 2em; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: %(table_font_size)spx; }
 th, td { border-bottom: 1px solid %(table_border)s; padding: .7em .75em; text-align: left; vertical-align: top; }
-th { color: %(table_heading)s; font-size: .84em; letter-spacing: .035em; text-transform: uppercase; }
-code { border-radius: 4px; background: %(code)s; padding: .12em .32em; font-family: "SFMono-Regular", Menlo, monospace; font-size: .82em; }
+th { color: %(table_heading)s; font-size: %(table_heading_font_size)spx; letter-spacing: .035em; text-transform: uppercase; }
+code { border-radius: 4px; background: %(code)s; padding: .12em .32em; font-family: "SFMono-Regular", Menlo, monospace; font-size: %(code_font_size)spx; }
 pre { overflow-x: auto; padding: 1.25em; border: 1px solid %(table_border)s; border-radius: 7px; background: %(pre)s; line-height: 1.55; }
 pre code { padding: 0; background: transparent; }
 .task-list-item { list-style: none; }
-.footnotes { color: %(footnote)s; font-size: .82em; }
+.footnotes { color: %(footnote)s; font-size: %(footnote_font_size)spx; }
 .raw-markdown { white-space: pre-wrap; word-break: normal; font-size: %(raw_font_size)spx; }
 </style></head><body class="%(body_class)s">%(body)s</body></html>""" % palette

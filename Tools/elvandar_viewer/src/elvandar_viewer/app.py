@@ -5,11 +5,13 @@ import os
 import sys
 from pathlib import Path
 
-from PySide6.QtCore import QSettings, QTimer
+from PySide6.QtCore import QEventLoop, QSettings, QStandardPaths, QTimer
 from PySide6.QtGui import QIcon
 from PySide6.QtWidgets import QApplication, QFileDialog, QMessageBox
 
 from .git import GitClient, GitError
+from .navigation import normalized_scroll
+from .outline import document_outline
 from .preferences import night_mode_for, stored_appearance_mode, system_uses_dark_mode
 from .repository import Repository, discover_repository
 from .repository_view import RepositoryView
@@ -63,10 +65,21 @@ def resource_path(name: str) -> Path:
     return bundle_root / "assets" / name
 
 
+def runtime_icon_path(platform: str) -> Path | None:
+    # macOS owns the Dock icon through CFBundleIconFile. Replacing it through Qt
+    # after launch bypasses the bundle's native sizing and makes the icon jump.
+    if platform == "darwin":
+        return None
+    icon = resource_path("ElvandarViewer-transparent.png")
+    return icon if icon.is_file() else None
+
+
 def main(argv: list[str] | None = None) -> int:
     supplied = argv if argv is not None else sys.argv[1:]
     supplied = [argument for argument in supplied if not argument.startswith("-psn_")]
     arguments = build_parser().parse_args(supplied)
+    if arguments.smoke_test:
+        QStandardPaths.setTestModeEnabled(True)
     application = QApplication(sys.argv[:1])
     application.setApplicationName("Elvandar Viewer")
     application.setOrganizationName("Elvandar")
@@ -74,8 +87,8 @@ def main(argv: list[str] | None = None) -> int:
     appearance_mode = stored_appearance_mode(settings)
     night_mode = night_mode_for(appearance_mode, system_uses_dark_mode(application))
     application.setStyleSheet(app_stylesheet(night_mode))
-    icon = resource_path("ElvandarViewer-source.png")
-    if icon.is_file():
+    icon = runtime_icon_path(sys.platform)
+    if icon is not None:
         application.setWindowIcon(QIcon(str(icon)))
 
     try:
@@ -85,14 +98,25 @@ def main(argv: list[str] | None = None) -> int:
         working_tree = Repository.open(root)
         repository = RepositoryView(working_tree, GitClient(working_tree.root))
     except (OSError, ValueError, GitError) as error:
-        QMessageBox.critical(None, "Repository unavailable", str(error))
+        if arguments.smoke_test:
+            print(f"Repository unavailable: {error}", file=sys.stderr)
+        else:
+            QMessageBox.critical(None, "Repository unavailable", str(error))
         return 2
 
-    QSettings("Elvandar", "Elvandar Viewer").setValue("repository/path", str(working_tree.root))
+    if not arguments.smoke_test:
+        QSettings("Elvandar", "Elvandar Viewer").setValue(
+            "repository/path", str(working_tree.root)
+        )
 
     window = MainWindow(repository)
     window.show()
     if arguments.smoke_test:
+        def settle_ui() -> None:
+            loop = QEventLoop()
+            QTimer.singleShot(220, loop.quit)
+            loop.exec()
+
         documents = repository.all_documents()
         if documents:
             window._open_document(documents[0])
@@ -104,6 +128,82 @@ def main(argv: list[str] | None = None) -> int:
             assert window.current_document == first_document
             window._go_forward()
             assert window.current_document == second_document
+        outline_document = next(
+            (
+                document
+                for document in documents
+                if document_outline(repository.read_text(document))
+            ),
+            None,
+        )
+        if outline_document is not None:
+            window._open_document(outline_document)
+            window._show_mode("Rendered")
+            settle_ui()
+            window._set_contents_mode("outline")
+            assert window.outline_list.count() == len(window.current_outline)
+            target = min(2, len(window.current_outline) - 1)
+            window._jump_to_outline(target)
+            settle_ui()
+            assert window.outline_list.currentRow() == target
+            window._show_mode("Raw")
+            settle_ui()
+            window._jump_to_outline(target)
+            settle_ui()
+            assert (
+                window.reader.textCursor().blockNumber()
+                == window.current_outline[target].line
+            )
+            window._set_contents_mode("folder")
+        if documents:
+            position_document = max(
+                documents,
+                key=lambda document: len(repository.read_text(document)),
+            )
+            window._open_document(position_document)
+            window._show_mode("Rendered")
+            rendered_blocks = window.reader.document().blockCount()
+            if rendered_blocks > 1:
+                change_blocks = [0, rendered_blocks - 1]
+                window._set_live_change_navigation(change_blocks)
+                window._go_to_next_change()
+                first_change = window.reader.textCursor().blockNumber()
+                assert first_change in change_blocks
+                window._go_to_next_change()
+                assert window.reader.textCursor().blockNumber() in change_blocks
+                window._show_mode("Raw")
+                assert window.change_navigator.isHidden()
+                window._show_mode("Rendered")
+                assert not window.change_navigator.isHidden()
+                window._clear_live_change_navigation()
+            window._show_mode("Diff")
+            assert window.diff_selector.count() >= 1
+            window._show_mode("Rendered")
+            settle_ui()
+            window._finish_pending_scroll_restore()
+            rendered_scroll = window.reader.verticalScrollBar()
+            if rendered_scroll.maximum() > 0:
+                rendered_scroll.setValue(round(rendered_scroll.maximum() * 0.72))
+                rendered_value = rendered_scroll.value()
+                rendered_ratio = normalized_scroll(
+                    rendered_scroll.value(), rendered_scroll.maximum()
+                )
+                window._show_mode("Raw")
+                settle_ui()
+                raw_scroll = window.reader.verticalScrollBar()
+                raw_ratio = normalized_scroll(raw_scroll.value(), raw_scroll.maximum())
+                assert abs(rendered_ratio - raw_ratio) < 0.08
+                for _iteration in range(6):
+                    window._show_mode("Rendered")
+                    settle_ui()
+                    returned_scroll = window.reader.verticalScrollBar()
+                    returned_ratio = normalized_scroll(
+                        returned_scroll.value(), returned_scroll.maximum()
+                    )
+                    assert returned_scroll.value() == rendered_value
+                    assert abs(raw_ratio - returned_ratio) < 0.08
+                    window._show_mode("Raw")
+                    settle_ui()
         original_night_mode = window.night_mode
         original_reading_mode = window.reading_mode
         original_font_size = window.reading_font_size

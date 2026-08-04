@@ -59,10 +59,24 @@ class GitClient:
         self._run("rev-parse", "--git-dir")
 
     def current_branch(self) -> str:
-        result = self._run("symbolic-ref", "--quiet", "--short", "HEAD", check=False)
-        if result.returncode == 0:
-            return result.stdout.strip()
+        branch = self.current_branch_name()
+        if branch is not None:
+            return branch
         return f"Detached at {self._run('rev-parse', '--short', 'HEAD').stdout.strip()}"
+
+    def current_branch_name(self) -> str | None:
+        result = self._run("symbolic-ref", "--quiet", "--short", "HEAD", check=False)
+        return result.stdout.strip() if result.returncode == 0 else None
+
+    def preferred_base_branch(self) -> str | None:
+        names = {branch.name for branch in self.branches()}
+        for candidate in ("main", "master"):
+            if candidate in names:
+                return candidate
+        return None
+
+    def merge_base(self, first: str, second: str = "HEAD") -> str:
+        return self._run("merge-base", first, second).stdout.strip()
 
     def branches(self) -> list[Branch]:
         output = self._run(
@@ -148,6 +162,14 @@ class GitClient:
             if index_status in {"R", "C"} or worktree_status in {"R", "C"}:
                 index += 1
         return changes
+
+    def paths_changed_since(self, revision: str) -> set[PurePosixPath]:
+        output = self._run_bytes("diff", "--name-only", "-z", revision, "--")
+        return {
+            PurePosixPath(path.decode("utf-8", errors="replace"))
+            for path in output.split(b"\0")
+            if path
+        }
 
     def list_files(self, revision: str) -> list[PurePosixPath]:
         output = self._run_bytes("ls-tree", "-r", "-z", "--name-only", revision, "--")

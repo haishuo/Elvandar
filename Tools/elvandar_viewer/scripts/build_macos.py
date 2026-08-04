@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-SOURCE_ICON = PROJECT_ROOT / "assets" / "ElvandarViewer-source.png"
+SOURCE_ICON = PROJECT_ROOT / "assets" / "ElvandarViewer-transparent.png"
 BUILD_ROOT = PROJECT_ROOT / "build"
 DIST_ROOT = PROJECT_ROOT / "dist"
 APP_BUNDLE = DIST_ROOT / "Elvandar Viewer.app"

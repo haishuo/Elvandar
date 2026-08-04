@@ -4,6 +4,11 @@ A read-only macOS desktop reader for the Elvandar Git repository. The viewer
 never writes to the repository; Claude remains the author and Git remains the
 source of truth.
 
+## Documentation
+
+- [User Guide](USER_GUIDE.md) — how to use the application today
+- [Roadmap](ROADMAP.md) — prioritized optional features and explicit non-goals
+
 ## Open the macOS application
 
 Double-click `Elvandar Viewer.app`. On this Mac it finds the Elvandar repository
@@ -14,6 +19,11 @@ remembers that choice outside the repository.
 
 - Four-pane reading interface
 - Folder and document navigation
+- Natural reading order for numbered books, chapters, and other repository items
+- Persistent unseen/viewed change markers with parent-folder rollups
+- Feature-branch, latest-main-commit, and working-change awareness
+- Live document outline with hierarchical headings, scene breaks, and Rendered/Raw jumps
+- Compact Outline menu available in distraction-free Reading Mode
 - GitHub-flavoured Markdown rendering
 - Inline local images and clickable links
 - Raw Markdown view
@@ -22,6 +32,7 @@ remembers that choice outside the repository.
 - Debounced live document reloads
 - Recovery after atomic saves and temporary file replacement
 - Paragraph-level change highlights with a gentle fade
+- Previous/Next Change controls that revisit the revised paragraphs after the fade
 - Automatic folder-tree updates when files are added, renamed, or removed
 - Current branch and read-only branch snapshot selector
 - Clickable read-only worktree switching with independent live watchers
@@ -30,6 +41,8 @@ remembers that choice outside the repository.
 - Event-driven Git metadata refresh
 - Virtual branch reading through Git objects, with no checkout or index writes
 - Semantic side-by-side Markdown diff reader
+- Feature-worktree diffs against the main-branch merge base, including committed changes
+- Explicit Branch vs main and Uncommitted comparison modes
 - Paired red/green paragraph changes with aligned blocks
 - Collapsed unchanged context for long documents
 - Working-tree, untracked, deleted-file, and committed-snapshot comparisons
@@ -52,10 +65,19 @@ remembers that choice outside the repository.
 - Distraction-free reading mode that hides every sidebar without losing reading position
 - Configurable narrow, comfortable, and wide Reading Mode page widths
 - Persistent 14–30px document text sizing for rendered prose, raw Markdown, and diffs
+- Proportional Text Size scaling for headings, lists, quotes, tables, code, and footnotes
 - `Command-Plus`, `Command-Minus`, and `Command-0` text-size controls
 - `Command-Shift-R` Reading Mode shortcut
+- `Command-Shift-O` document-outline shortcut
 - Browser-style Back and Forward navigation with `Command-[` and `Command-]`
+- Changed-paragraph navigation with `Command-Option-Up` and `Command-Option-Down`
 - Per-document, per-view reading-position restoration across launches
+- Launch restoration that reveals and selects the open page in both navigation sidebars
+- Shared Rendered/Raw document position for source copying without losing your place
+- Drift-free Rendered/Raw toggling with exact round-trip position retention
+- Transparent macOS icon corners for a clean native Dock silhouette
+- Stable native Dock icon sizing before and after the application launches
+- Native Reader’s Guide with deep-linked navigation, shortcuts, live-update help, and safety reference
 
 ## Run locally
 

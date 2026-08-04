@@ -6,9 +6,10 @@ import mimetypes
 import hashlib
 from datetime import datetime
 from pathlib import Path, PurePosixPath
+from typing import Callable
 from urllib.parse import unquote
 
-from PySide6.QtCore import QSettings, QSize, Qt, QTimer, QUrl
+from PySide6.QtCore import QPoint, QSettings, QSize, Qt, QTimer, QUrl
 from PySide6.QtGui import (
     QAction,
     QColor,
@@ -32,8 +33,10 @@ from PySide6.QtWidgets import (
     QListWidget,
     QListWidgetItem,
     QMainWindow,
+    QMenu,
     QMessageBox,
     QPushButton,
+    QScrollBar,
     QSizePolicy,
     QSplitter,
     QStackedWidget,
@@ -46,11 +49,21 @@ from PySide6.QtWidgets import (
 )
 
 from .diff import DiffRenderer
+from .change_awareness import ChangeState, ChangeTracker
 from .git import GitClient, GitError, GitMetadataWatcher
+from .help_window import HelpDialog
 from .image_viewer import ImageViewerDialog
-from .live_updates import changed_block_indices
+from .live_updates import adjacent_change_index, changed_block_indices
 from .markdown import MarkdownRenderer
-from .navigation import NavigationEntry, NavigationHistory, normalized_scroll, restored_scroll
+from .navigation import (
+    NavigationEntry,
+    NavigationHistory,
+    ReadingModeHandoff,
+    normalized_scroll,
+    restored_scroll,
+    scroll_storage_mode,
+)
+from .outline import OutlineEntry, document_outline
 from .preferences import (
     DEFAULT_FONT_SIZE,
     READING_WIDTHS,
@@ -62,15 +75,18 @@ from .preferences import (
     stored_appearance_mode,
     system_uses_dark_mode,
 )
-from .repository import Repository
+from .repository import VISIBLE_SUFFIXES, Repository
 from .repository_view import RepositoryView
 from .search import SearchIndex
-from .theme import app_stylesheet
+from .theme import DARK_PALETTE, LIGHT_PALETTE, app_stylesheet
 from .watcher import RepositoryWatcher
 from . import __version__
 
 
 PATH_ROLE = Qt.ItemDataRole.UserRole
+OUTLINE_ROLE = Qt.ItemDataRole.UserRole + 1
+BASE_TEXT_ROLE = Qt.ItemDataRole.UserRole + 2
+BASE_TOOLTIP_ROLE = Qt.ItemDataRole.UserRole + 3
 
 
 class MainWindow(QMainWindow):
@@ -117,17 +133,37 @@ class MainWindow(QMainWindow):
         self.current_image_path: Path | None = None
         self.current_image_data = b""
         self.image_windows: list[ImageViewerDialog] = []
+        self.help_dialog: HelpDialog | None = None
         self.current_source = ""
+        self.current_outline: list[OutlineEntry] = []
+        self._outline_document_positions: list[int] = []
+        self._outline_sync_pending = False
+        self.contents_mode = "folder"
+        self._folder_contents_title = "Repository"
         self.current_mode = "Rendered"
+        self._reading_mode_handoff: tuple[Path, str | None, ReadingModeHandoff] | None = None
+        self._pending_scroll_restore: tuple[
+            QScrollBar,
+            Callable[[int, int], None],
+            Callable[[int], None],
+            Callable[[], None],
+            Callable[[], None],
+        ] | None = None
         self.active_query = ""
         self._highlighted_blocks: list[int] = []
         self._highlight_frame = 0
         self._search_selections: list[QTextEdit.ExtraSelection] = []
         self._change_selections: list[QTextEdit.ExtraSelection] = []
+        self._change_focus_selections: list[QTextEdit.ExtraSelection] = []
+        self._live_change_blocks: list[int] = []
+        self._live_change_index: int | None = None
+        self._live_change_document: Path | None = None
         self._splitter_state_before_reading = None
         self.navigation_history = NavigationHistory()
         self._navigating_history = False
+        self._diff_comparison_context: tuple[Path, str | None] | None = None
         self.settings_prefix = self._settings_prefix_for(repository.root)
+        self.change_tracker = self._load_change_tracker()
 
         self.setWindowTitle(f"Elvandar Viewer — {repository.root.name}")
         self.setMinimumSize(1050, 680)
@@ -152,6 +188,56 @@ class MainWindow(QMainWindow):
     def _settings_prefix_for(root: Path) -> str:
         repository_key = hashlib.sha1(str(root.resolve(strict=False)).encode()).hexdigest()[:12]
         return f"repositories/{repository_key}"
+
+    def _change_tracking_key(self) -> str:
+        return f"{self.settings_prefix}/changes/seen_versions"
+
+    def _load_change_tracker(self) -> ChangeTracker:
+        stored = self.settings.value(self._change_tracking_key(), "", type=str)
+        return ChangeTracker.from_json(stored)
+
+    def _persist_change_tracker(self) -> None:
+        self.settings.setValue(self._change_tracking_key(), self.change_tracker.to_json())
+
+    def _working_file_signature(self, relative: PurePosixPath) -> str | None:
+        path = self.repository.root / Path(relative.as_posix())
+        try:
+            stat = path.stat()
+        except OSError:
+            return None
+        if not path.is_file():
+            return None
+        return f"{stat.st_mtime_ns}:{stat.st_size}"
+
+    def _refresh_change_awareness(self) -> None:
+        if not self.repository.is_working_tree:
+            self.change_tracker.states = {}
+            self._refresh_change_decorations()
+            return
+        try:
+            changed_paths = self.repository.changed_paths()
+        except GitError:
+            changed_paths = set()
+        visible_paths = {
+            path
+            for path in changed_paths
+            if path.suffix.casefold() in VISIBLE_SUFFIXES
+        }
+        before = self.change_tracker.to_json()
+        self.change_tracker.refresh(visible_paths, self._working_file_signature)
+        if self.change_tracker.to_json() != before:
+            self._persist_change_tracker()
+        self._refresh_change_decorations()
+
+    def _mark_version_viewed(self, path: Path) -> None:
+        if not self.repository.is_working_tree:
+            return
+        relative = PurePosixPath(self.repository.relative(path).as_posix())
+        if self.change_tracker.mark_viewed(
+            relative, self._working_file_signature(relative)
+        ):
+            self._persist_change_tracker()
+        self._refresh_change_decorations()
 
     def _attach_watchers(self) -> None:
         self.watcher = RepositoryWatcher(self.repository.working_tree, self)
@@ -232,16 +318,59 @@ class MainWindow(QMainWindow):
         pane = QFrame(parent, objectName="contentsPane")
         layout = QVBoxLayout(pane)
         layout.setContentsMargins(14, 20, 12, 14)
-        layout.setSpacing(12)
+        layout.setSpacing(10)
         header, self.contents_title = self._header("CONTENTS", "Repository")
         layout.addLayout(header)
+
+        switcher = QWidget(objectName="contentsSwitcher")
+        switcher_layout = QHBoxLayout(switcher)
+        switcher_layout.setContentsMargins(0, 2, 0, 2)
+        switcher_layout.setSpacing(2)
+        self.contents_button_group = QButtonGroup(self)
+        self.contents_button_group.setExclusive(True)
+        self.folder_contents_button = QPushButton("Folder", objectName="contentsModeButton")
+        self.folder_contents_button.setCheckable(True)
+        self.folder_contents_button.setChecked(True)
+        self.folder_contents_button.clicked.connect(
+            lambda _checked=False: self._set_contents_mode("folder")
+        )
+        self.contents_button_group.addButton(self.folder_contents_button)
+        switcher_layout.addWidget(self.folder_contents_button)
+        self.outline_contents_button = QPushButton("Page", objectName="contentsModeButton")
+        self.outline_contents_button.setCheckable(True)
+        self.outline_contents_button.setEnabled(False)
+        self.outline_contents_button.clicked.connect(
+            lambda _checked=False: self._set_contents_mode("outline")
+        )
+        self.contents_button_group.addButton(self.outline_contents_button)
+        switcher_layout.addWidget(self.outline_contents_button)
+        layout.addWidget(switcher)
 
         listing = QListWidget()
         listing.setSelectionMode(QAbstractItemView.SelectionMode.SingleSelection)
         listing.setHorizontalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAlwaysOff)
         listing.itemActivated.connect(self._content_activated)
         listing.itemSelectionChanged.connect(self._content_selected)
-        layout.addWidget(listing, 1)
+
+        self.outline_list = QListWidget(objectName="outlineList")
+        self.outline_list.setAccessibleName("Document outline")
+        self.outline_list.setSelectionMode(QAbstractItemView.SelectionMode.SingleSelection)
+        self.outline_list.setHorizontalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAlwaysOff)
+        self.outline_list.setTextElideMode(Qt.TextElideMode.ElideRight)
+        self.outline_list.itemActivated.connect(self._outline_item_activated)
+        self.outline_list.itemClicked.connect(self._outline_item_activated)
+
+        self.contents_stack = QStackedWidget()
+        self.contents_stack.addWidget(listing)
+        self.contents_stack.addWidget(self.outline_list)
+        layout.addWidget(self.contents_stack, 1)
+        self.change_legend = QLabel(objectName="changeLegend")
+        self.change_legend.setTextFormat(Qt.TextFormat.RichText)
+        self.change_legend.setToolTip(
+            "Solid coral: changed and not yet opened. Hollow blue: this changed version was viewed."
+        )
+        self.change_legend.setVisible(False)
+        layout.addWidget(self.change_legend)
         return listing
 
     def _reader_pane(self, parent: QWidget) -> QTextBrowser:
@@ -274,6 +403,27 @@ class MainWindow(QMainWindow):
         self.reader_title.setSizePolicy(QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Preferred)
         toolbar_layout.addWidget(self.reader_title)
 
+        self.change_navigator = QFrame(objectName="changeNavigator")
+        change_layout = QHBoxLayout(self.change_navigator)
+        change_layout.setContentsMargins(7, 1, 2, 1)
+        change_layout.setSpacing(1)
+        self.change_position = QLabel("CHANGES", objectName="changePosition")
+        change_layout.addWidget(self.change_position)
+        self.previous_change_button = QPushButton("↑", objectName="changeNavigationButton")
+        self.previous_change_button.setAccessibleName("Previous Change")
+        self.previous_change_button.setToolTip("Previous changed paragraph (⌘⌥↑)")
+        self.previous_change_button.setFixedSize(23, 23)
+        self.previous_change_button.clicked.connect(self._go_to_previous_change)
+        change_layout.addWidget(self.previous_change_button)
+        self.next_change_button = QPushButton("↓", objectName="changeNavigationButton")
+        self.next_change_button.setAccessibleName("Next Change")
+        self.next_change_button.setToolTip("Next changed paragraph (⌘⌥↓)")
+        self.next_change_button.setFixedSize(23, 23)
+        self.next_change_button.clicked.connect(self._go_to_next_change)
+        change_layout.addWidget(self.next_change_button)
+        self.change_navigator.setVisible(False)
+        toolbar_layout.addWidget(self.change_navigator)
+
         self.mode_buttons: dict[str, QPushButton] = {}
         modes = QButtonGroup(self)
         modes.setExclusive(True)
@@ -291,6 +441,20 @@ class MainWindow(QMainWindow):
             self.mode_buttons[text] = button
             toolbar_layout.addWidget(button)
 
+        self.diff_selector = QComboBox(objectName="diffSelector")
+        self.diff_selector.setAccessibleName("Diff comparison")
+        self.diff_selector.setSizeAdjustPolicy(QComboBox.SizeAdjustPolicy.AdjustToContents)
+        self.diff_selector.setMaximumWidth(180)
+        self.diff_selector.setVisible(False)
+        self.diff_selector.currentIndexChanged.connect(self._diff_comparison_changed)
+        toolbar_layout.addWidget(self.diff_selector)
+
+        self.outline_button = QPushButton("Outline", objectName="utilityButton")
+        self.outline_button.setEnabled(False)
+        self.outline_button.setToolTip("Jump to a heading or scene (⌘⇧O)")
+        self.outline_button.clicked.connect(self._show_outline_menu)
+        toolbar_layout.addWidget(self.outline_button)
+
         self.reading_button = QPushButton("Reading", objectName="utilityButton")
         self.reading_button.setCheckable(True)
         self.reading_button.setChecked(self.reading_mode)
@@ -304,6 +468,7 @@ class MainWindow(QMainWindow):
         reader.setOpenExternalLinks(False)
         reader.setHtml(self._welcome_document())
         reader.anchorClicked.connect(self._open_link)
+        reader.verticalScrollBar().valueChanged.connect(self._reader_scroll_changed)
         self.diff_reader = QTextBrowser()
         self.diff_reader.setOpenLinks(False)
         self.diff_reader.setOpenExternalLinks(False)
@@ -372,10 +537,14 @@ class MainWindow(QMainWindow):
         self.folder_tree.clear()
         root_item = QTreeWidgetItem(["All documents"])
         root_item.setData(0, PATH_ROLE, str(self.repository.root))
+        root_item.setData(0, BASE_TEXT_ROLE, "All documents")
+        root_item.setData(0, BASE_TOOLTIP_ROLE, "")
         self.folder_tree.addTopLevelItem(root_item)
         for folder in self.repository.directories():
             item = QTreeWidgetItem([folder.name])
             item.setData(0, PATH_ROLE, str(folder))
+            item.setData(0, BASE_TEXT_ROLE, folder.name)
+            item.setData(0, BASE_TOOLTIP_ROLE, str(self.repository.relative(folder)))
             root_item.addChild(item)
             self._add_directory_children(item, folder)
         root_item.setExpanded(True)
@@ -400,8 +569,110 @@ class MainWindow(QMainWindow):
         for child in self.repository.directories(folder):
             item = QTreeWidgetItem([child.name])
             item.setData(0, PATH_ROLE, str(child))
+            item.setData(0, BASE_TEXT_ROLE, child.name)
+            item.setData(0, BASE_TOOLTIP_ROLE, str(self.repository.relative(child)))
             parent_item.addChild(item)
             self._add_directory_children(item, child)
+
+    def _change_colors(self) -> tuple[QColor, QColor, QColor]:
+        palette = DARK_PALETTE if self.night_mode else LIGHT_PALETTE
+        unseen = QColor("#F08A72" if self.night_mode else "#B94F3D")
+        viewed = QColor("#8BAAD2" if self.night_mode else "#4F709B")
+        standard = QColor(palette["navigation_text"])
+        return unseen, viewed, standard
+
+    def _decorate_tree_item(self, item: QTreeWidgetItem) -> None:
+        path_text = item.data(0, PATH_ROLE)
+        if not path_text:
+            return
+        path = Path(str(path_text))
+        relative = PurePosixPath(self.repository.relative(path).as_posix())
+        state = self.change_tracker.state_for(relative, directory=True)
+        base = str(item.data(0, BASE_TEXT_ROLE) or item.text(0))
+        base_tooltip = str(item.data(0, BASE_TOOLTIP_ROLE) or "")
+        unseen_color, viewed_color, standard_color = self._change_colors()
+        font = item.font(0)
+        font.setBold(state == ChangeState.UNSEEN)
+        item.setFont(0, font)
+        if state is None:
+            item.setText(0, base)
+            item.setForeground(0, standard_color)
+            item.setToolTip(0, base_tooltip)
+            return
+
+        marker = "●" if state == ChangeState.UNSEEN else "○"
+        item.setText(0, f"{marker}  {base}")
+        item.setForeground(0, unseen_color if state == ChangeState.UNSEEN else viewed_color)
+        unseen_count, viewed_count = self.change_tracker.counts_for(relative)
+        status = (
+            f"{unseen_count} unseen, {viewed_count} viewed changed file"
+            f"{'s' if unseen_count + viewed_count != 1 else ''}"
+        )
+        item.setToolTip(0, f"{base_tooltip}\n{status}".strip())
+
+    def _decorate_list_item(self, item: QListWidgetItem) -> None:
+        path_text = item.data(PATH_ROLE)
+        if not path_text:
+            return
+        path = Path(str(path_text))
+        relative = PurePosixPath(self.repository.relative(path).as_posix())
+        is_directory = self.repository.is_directory(path)
+        state = self.change_tracker.state_for(relative, directory=is_directory)
+        base = str(item.data(BASE_TEXT_ROLE) or item.text())
+        base_tooltip = str(item.data(BASE_TOOLTIP_ROLE) or "")
+        unseen_color, viewed_color, standard_color = self._change_colors()
+        font = item.font()
+        font.setBold(state == ChangeState.UNSEEN)
+        item.setFont(font)
+        if state is None:
+            item.setText(base)
+            item.setForeground(standard_color)
+            item.setToolTip(base_tooltip)
+            return
+
+        marker = "●" if state == ChangeState.UNSEEN else "○"
+        item.setText(f"{marker}  {base.lstrip()}")
+        item.setForeground(unseen_color if state == ChangeState.UNSEEN else viewed_color)
+        if is_directory:
+            unseen_count, viewed_count = self.change_tracker.counts_for(relative)
+            status = f"{unseen_count} unseen, {viewed_count} viewed changed file"
+            if unseen_count + viewed_count != 1:
+                status += "s"
+        else:
+            status = (
+                "Unseen change — open this page to mark the current version viewed"
+                if state == ChangeState.UNSEEN
+                else "Changed version viewed"
+            )
+        item.setToolTip(f"{base_tooltip}\n{status}".strip())
+
+    def _refresh_change_decorations(self) -> None:
+        if not hasattr(self, "folder_tree"):
+            return
+        root = self.folder_tree.topLevelItem(0)
+        if root is not None:
+            pending = [root]
+            while pending:
+                item = pending.pop()
+                self._decorate_tree_item(item)
+                pending.extend(
+                    item.child(index) for index in range(item.childCount())
+                )
+        for index in range(self.document_list.count()):
+            self._decorate_list_item(self.document_list.item(index))
+
+        unseen = sum(
+            state == ChangeState.UNSEEN for state in self.change_tracker.states.values()
+        )
+        viewed = sum(
+            state == ChangeState.VIEWED for state in self.change_tracker.states.values()
+        )
+        unseen_color, viewed_color, _standard_color = self._change_colors()
+        self.change_legend.setText(
+            f'<span style="color:{unseen_color.name()}">●</span> {unseen} UNSEEN'
+            f'&nbsp;&nbsp;&nbsp;<span style="color:{viewed_color.name()}">○</span> {viewed} VIEWED'
+        )
+        self.change_legend.setVisible(bool(unseen or viewed))
 
     def _folder_selected(self) -> None:
         if self.active_query:
@@ -414,7 +685,11 @@ class MainWindow(QMainWindow):
         self._show_folder(folder)
 
     def _show_folder(self, folder: Path) -> None:
-        self.contents_title.setText(folder.name if folder != self.repository.root else "Repository")
+        self._folder_contents_title = (
+            folder.name if folder != self.repository.root else "Repository"
+        )
+        if self.contents_mode == "folder":
+            self.contents_title.setText(self._folder_contents_title)
         self.document_list.clear()
         for path in self.repository.contents(folder):
             if self.repository.is_directory(path):
@@ -425,8 +700,220 @@ class MainWindow(QMainWindow):
                 prefix = "   "
             item = QListWidgetItem(prefix + self._display_name(path))
             item.setData(PATH_ROLE, str(path))
-            item.setToolTip(str(self.repository.relative(path)))
+            item.setData(BASE_TEXT_ROLE, prefix + self._display_name(path))
+            tooltip = str(self.repository.relative(path))
+            item.setData(BASE_TOOLTIP_ROLE, tooltip)
+            item.setToolTip(tooltip)
             self.document_list.addItem(item)
+        self._refresh_change_decorations()
+
+    def _reveal_document_in_navigation(self, path: Path) -> None:
+        """Reveal an open page in both left sidebars without reopening it."""
+
+        folder = path.parent
+        folder_item = self._find_tree_item(folder)
+        if folder_item is None:
+            return
+
+        self.folder_tree.blockSignals(True)
+        self.folder_tree.setCurrentItem(folder_item)
+        ancestor: QTreeWidgetItem | None = folder_item
+        while ancestor is not None:
+            ancestor.setExpanded(True)
+            ancestor = ancestor.parent()
+        self.folder_tree.scrollToItem(folder_item)
+        self.folder_tree.blockSignals(False)
+
+        self._show_folder(folder)
+        self._set_contents_mode("folder")
+        for index in range(self.document_list.count()):
+            item = self.document_list.item(index)
+            if item.data(PATH_ROLE) != str(path):
+                continue
+            self.document_list.blockSignals(True)
+            self.document_list.setCurrentItem(item)
+            self.document_list.scrollToItem(item)
+            self.document_list.blockSignals(False)
+            break
+
+    def _set_contents_mode(self, mode: str) -> None:
+        if mode == "outline" and self.current_document is None:
+            mode = "folder"
+        self.contents_mode = mode
+        showing_outline = mode == "outline"
+        self.contents_stack.setCurrentWidget(
+            self.outline_list if showing_outline else self.document_list
+        )
+        self.outline_contents_button.setChecked(showing_outline)
+        self.folder_contents_button.setChecked(not showing_outline)
+        self.contents_title.setText(
+            "On this page" if showing_outline else self._folder_contents_title
+        )
+
+    def _populate_outline_list(self) -> None:
+        self.outline_list.blockSignals(True)
+        self.outline_list.clear()
+        heading_levels = [
+            entry.level for entry in self.current_outline if entry.kind == "heading"
+        ]
+        base_level = min(heading_levels, default=1)
+        scene_color = QColor("#D0AA65" if self.night_mode else "#9A702F")
+
+        for index, entry in enumerate(self.current_outline):
+            if entry.kind == "scene":
+                item = QListWidgetItem(f"—  {entry.title}  —")
+                item.setTextAlignment(Qt.AlignmentFlag.AlignCenter)
+                item.setForeground(scene_color)
+                font = item.font()
+                font.setItalic(True)
+                item.setFont(font)
+                item.setToolTip(f"Jump to scene break {entry.scene_number}")
+                item.setSizeHint(QSize(0, 34))
+            else:
+                indentation = "\u2003" * max(0, entry.level - base_level)
+                item = QListWidgetItem(f"{indentation}{entry.title}")
+                font = item.font()
+                font.setBold(entry.level == base_level)
+                item.setFont(font)
+                item.setToolTip(f"Heading level {entry.level} · line {entry.line + 1}")
+                item.setSizeHint(QSize(0, 30))
+            item.setData(OUTLINE_ROLE, index)
+            self.outline_list.addItem(item)
+
+        if not self.current_outline:
+            item = QListWidgetItem("No headings or scene breaks")
+            item.setTextAlignment(Qt.AlignmentFlag.AlignCenter)
+            item.setFlags(Qt.ItemFlag.NoItemFlags)
+            self.outline_list.addItem(item)
+        self.outline_list.blockSignals(False)
+
+    def _update_document_outline(self, source: str | None) -> None:
+        self.current_outline = document_outline(source) if source is not None else []
+        self._outline_document_positions = []
+        has_document = source is not None
+        has_outline = bool(self.current_outline)
+        self.outline_contents_button.setEnabled(has_document)
+        self.outline_button.setEnabled(has_outline)
+        if hasattr(self, "outline_action"):
+            self.outline_action.setEnabled(has_outline)
+        self._populate_outline_list()
+        if not has_document and self.contents_mode == "outline":
+            self._set_contents_mode("folder")
+
+    def _outline_item_activated(self, item: QListWidgetItem) -> None:
+        index = item.data(OUTLINE_ROLE)
+        if index is not None:
+            self._jump_to_outline(int(index))
+
+    def _select_outline_entry(self, index: int) -> None:
+        if not 0 <= index < self.outline_list.count():
+            return
+        self.outline_list.blockSignals(True)
+        self.outline_list.setCurrentRow(index)
+        self.outline_list.scrollToItem(self.outline_list.item(index))
+        self.outline_list.blockSignals(False)
+
+    def _cache_outline_positions(self) -> None:
+        if self.current_document is None or self.current_mode != "Rendered":
+            self._outline_document_positions = []
+            return
+        positions: list[int] = []
+        block = self.reader.document().begin()
+        for entry in self.current_outline:
+            while block.isValid():
+                is_target = (
+                    block.text().strip() == entry.title
+                    if entry.kind == "heading"
+                    else not block.text().strip()
+                )
+                if is_target:
+                    positions.append(block.position())
+                    block = block.next()
+                    break
+                block = block.next()
+            else:
+                break
+        self._outline_document_positions = positions
+        self._reader_scroll_changed()
+
+    def _reader_scroll_changed(self, _value: int = 0) -> None:
+        if self._outline_sync_pending:
+            return
+        self._outline_sync_pending = True
+        QTimer.singleShot(0, self._sync_outline_selection)
+
+    def _sync_outline_selection(self) -> None:
+        self._outline_sync_pending = False
+        if not self.current_outline or self.current_document is None:
+            return
+        cursor = self.reader.cursorForPosition(QPoint(12, 12))
+        if self.current_mode == "Raw":
+            location = cursor.blockNumber()
+            markers = [entry.line for entry in self.current_outline]
+        elif self.current_mode == "Rendered":
+            location = cursor.position()
+            markers = self._outline_document_positions
+        else:
+            return
+        active = 0
+        for index, marker in enumerate(markers):
+            if marker > location:
+                break
+            active = index
+        self._select_outline_entry(active)
+
+    def _jump_to_outline(self, index: int) -> None:
+        if self.current_document is None or not 0 <= index < len(self.current_outline):
+            return
+        entry = self.current_outline[index]
+        self._cancel_pending_scroll_restore()
+        self._select_outline_entry(index)
+
+        if self.current_mode == "Diff":
+            self.mode_buttons["Rendered"].setChecked(True)
+            self._show_mode("Rendered")
+
+        if self.current_mode == "Raw":
+            block = self.reader.document().findBlockByNumber(entry.line)
+            if block.isValid():
+                self.reader.setTextCursor(QTextCursor(block))
+                block_top = self.reader.document().documentLayout().blockBoundingRect(block).top()
+                self.reader.verticalScrollBar().setValue(max(0, round(block_top) - 14))
+        else:
+            self.reader.scrollToAnchor(entry.anchor)
+            QTimer.singleShot(0, lambda anchor=entry.anchor: self.reader.scrollToAnchor(anchor))
+        self._save_current_scroll()
+
+    def _show_outline_menu(self) -> None:
+        if not self.current_outline:
+            return
+        menu = QMenu(self)
+        menu.setObjectName("outlineMenu")
+        base_level = min(
+            (entry.level for entry in self.current_outline if entry.kind == "heading"),
+            default=1,
+        )
+        for index, entry in enumerate(self.current_outline):
+            if entry.kind == "scene":
+                label = f"—  {entry.title}  —"
+            else:
+                label = f"{'    ' * max(0, entry.level - base_level)}{entry.title}"
+            action = menu.addAction(label)
+            action.triggered.connect(
+                lambda _checked=False, target=index: self._jump_to_outline(target)
+            )
+        menu.popup(
+            self.outline_button.mapToGlobal(QPoint(0, self.outline_button.height() + 2))
+        )
+
+    def _open_outline_navigation(self) -> None:
+        if not self.current_outline:
+            return
+        if self.reading_mode:
+            self._show_outline_menu()
+        else:
+            self._set_contents_mode("outline")
+            self.outline_list.setFocus(Qt.FocusReason.ShortcutFocusReason)
 
     def _display_name(self, path: Path) -> str:
         return path.stem if self.repository.is_file(path) else path.name
@@ -467,7 +954,7 @@ class MainWindow(QMainWindow):
     def _scroll_storage_key(self, path: Path, mode: str) -> str:
         revision = self.repository.revision or "working-tree"
         relative = self.repository.relative(path).as_posix()
-        identity = f"{revision}\0{relative}\0{mode}"
+        identity = f"{revision}\0{relative}\0{scroll_storage_mode(mode)}"
         digest = hashlib.sha1(identity.encode()).hexdigest()
         return f"{self.settings_prefix}/scroll/{digest}"
 
@@ -488,21 +975,47 @@ class MainWindow(QMainWindow):
     def _save_current_scroll(self) -> None:
         self._capture_navigation_entry(persist=True)
 
+    def _cancel_pending_scroll_restore(self) -> None:
+        pending = self._pending_scroll_restore
+        if pending is None:
+            return
+        scroll_bar, range_handler, action_handler, pressed_handler, _apply = pending
+        try:
+            scroll_bar.rangeChanged.disconnect(range_handler)
+            scroll_bar.actionTriggered.disconnect(action_handler)
+            scroll_bar.sliderPressed.disconnect(pressed_handler)
+        except RuntimeError:
+            pass
+        self._pending_scroll_restore = None
+
+    def _finish_pending_scroll_restore(self) -> None:
+        pending = self._pending_scroll_restore
+        if pending is None:
+            return
+        _scroll_bar, _range_handler, _action_handler, _pressed_handler, apply = pending
+        apply()
+        self._cancel_pending_scroll_restore()
+
     def _restore_document_scroll(
         self,
         path: Path,
         *,
         mode: str | None = None,
         ratio: float | None = None,
+        position: tuple[int, int] | None = None,
+        on_restored: Callable[[int, int], None] | None = None,
     ) -> None:
         expected_path = self.repository.resolve(path)
         expected_root = self.repository.root
         expected_revision = self.repository.revision
         expected_mode = mode or self.current_mode
-        if ratio is None:
+        if ratio is None and position is None:
             ratio = self.settings.value(
                 self._scroll_storage_key(expected_path, expected_mode), 0.0, type=float
             )
+
+        self._cancel_pending_scroll_restore()
+        scroll_bar = self._active_reader_widget().verticalScrollBar()
 
         def restore() -> None:
             current_path = self.current_document or self.current_image_path
@@ -513,9 +1026,41 @@ class MainWindow(QMainWindow):
                 or self.current_mode != expected_mode
             ):
                 return
-            scroll_bar = self._active_reader_widget().verticalScrollBar()
-            scroll_bar.setValue(restored_scroll(float(ratio), scroll_bar.maximum()))
+            if position is not None:
+                stored_value, stored_maximum = position
+                target = (
+                    stored_value
+                    if scroll_bar.maximum() == stored_maximum
+                    else restored_scroll(
+                        normalized_scroll(stored_value, stored_maximum),
+                        scroll_bar.maximum(),
+                    )
+                )
+            else:
+                target = restored_scroll(float(ratio), scroll_bar.maximum())
+            scroll_bar.setValue(target)
+            if on_restored is not None:
+                on_restored(scroll_bar.value(), scroll_bar.maximum())
 
+        def range_changed(_minimum: int, _maximum: int) -> None:
+            restore()
+
+        def user_action(_action: int) -> None:
+            self._cancel_pending_scroll_restore()
+
+        def user_pressed() -> None:
+            self._cancel_pending_scroll_restore()
+
+        scroll_bar.rangeChanged.connect(range_changed)
+        scroll_bar.actionTriggered.connect(user_action)
+        scroll_bar.sliderPressed.connect(user_pressed)
+        self._pending_scroll_restore = (
+            scroll_bar,
+            range_changed,
+            user_action,
+            user_pressed,
+            restore,
+        )
         QTimer.singleShot(0, restore)
 
     def _remember_current_for(self, target: Path) -> None:
@@ -598,15 +1143,24 @@ class MainWindow(QMainWindow):
             self.reader.setHtml(self.renderer._document(f"<h1>Could not read this document</h1><p>{message}</p>"))
             return
         self._remember_current_for(path)
+        if path != self.current_document:
+            self._clear_live_change_navigation()
         self.current_document = path
         self.current_image_path = None
         self.current_image_data = b""
+        self._reading_mode_handoff = None
         self.current_source = source
+        self._mark_version_viewed(path)
+        self._update_document_outline(source)
         self.reader_title.setText(path.stem)
         self.reader.setSearchPaths([str(path.parent)])
         self.diff_reader.setSearchPaths([str(path.parent)])
         self.mode_buttons["Raw"].setEnabled(True)
         self.mode_buttons["Diff"].setEnabled(True)
+        if self.current_mode == "Diff":
+            self._refresh_diff_comparisons()
+        else:
+            self.diff_selector.setVisible(False)
         self._render_current_document()
         self._update_status(path)
         if self.repository.is_working_tree:
@@ -630,10 +1184,14 @@ class MainWindow(QMainWindow):
             return
 
         previous_blocks = self._reader_blocks() if self.current_mode == "Rendered" else []
-        active_reader = self.diff_reader if self.current_mode == "Diff" else self.reader
+        active_reader = self._active_reader_widget()
         scroll_bar = active_reader.verticalScrollBar()
         position = scroll_bar.value()
+        self._clear_live_change_navigation()
         self.current_source = source
+        self._refresh_change_awareness()
+        self._mark_version_viewed(path)
+        self._update_document_outline(source)
         self._render_current_document()
         scroll_bar.setValue(min(position, scroll_bar.maximum()))
         self._update_status(path)
@@ -641,6 +1199,7 @@ class MainWindow(QMainWindow):
 
         if self.current_mode == "Rendered":
             changed = changed_block_indices(previous_blocks, self._reader_blocks())
+            self._set_live_change_navigation(changed)
             if self.highlight_live_changes:
                 self._start_change_highlight(changed)
         QTimer.singleShot(1800, self._finish_updated_state)
@@ -656,7 +1215,8 @@ class MainWindow(QMainWindow):
             return
         if self.current_mode == "Diff":
             try:
-                versions = self.repository.diff_versions(self.current_document)
+                comparison = self.diff_selector.currentData() or "auto"
+                versions = self.repository.diff_versions(self.current_document, comparison)
                 self.diff_reader.setHtml(
                     self.diff_renderer.render(
                         versions, self.current_document, self._resolve_markdown_image
@@ -672,6 +1232,7 @@ class MainWindow(QMainWindow):
             self.reader.setHtml(self.renderer.raw(self.current_source))
             self.reader_stack.setCurrentWidget(self.reader)
             self._change_selections = []
+            self._change_focus_selections = []
             self._apply_search_highlights()
         else:
             self.reader.setHtml(
@@ -681,17 +1242,112 @@ class MainWindow(QMainWindow):
             )
             self.reader_stack.setCurrentWidget(self.reader)
             self._change_selections = []
+            self._change_focus_selections = []
+            self._apply_live_change_focus(center=False)
             self._apply_search_highlights()
+        self._update_change_navigation_controls()
+        QTimer.singleShot(0, self._cache_outline_positions)
 
     def _show_mode(self, mode: str) -> None:
         if self.current_document is None:
             return
         if mode == self.current_mode:
             return
+        # Long QTextDocuments can keep expanding after their first paint. Finish
+        # any layout-aware restoration against the latest range before using
+        # this view as the handoff source.
+        self._finish_pending_scroll_restore()
+        source_mode = self.current_mode
+        source_scroll = self._active_reader_widget().verticalScrollBar()
+        source_position = (source_scroll.value(), source_scroll.maximum())
+        source_ratio = normalized_scroll(*source_position)
         self._save_current_scroll()
+        handoff: ReadingModeHandoff | None = None
+        if source_mode == "Rendered" and mode == "Raw":
+            handoff = ReadingModeHandoff(source_position)
+            self._reading_mode_handoff = (
+                self.current_document,
+                self.repository.revision,
+                handoff,
+            )
+        elif source_mode == "Raw" and mode == "Rendered":
+            candidate = self._reading_mode_handoff
+            if (
+                candidate is not None
+                and candidate[0] == self.current_document
+                and candidate[1] == self.repository.revision
+            ):
+                handoff = candidate[2]
+        else:
+            self._reading_mode_handoff = None
         self.current_mode = mode
+        self.diff_selector.setVisible(mode == "Diff")
+        if mode == "Diff":
+            self._refresh_diff_comparisons()
         self._render_current_document()
-        self._restore_document_scroll(self.current_document, mode=mode)
+        shared_reading_modes = {source_mode, mode} == {"Rendered", "Raw"}
+        if (
+            source_mode == "Raw"
+            and mode == "Rendered"
+            and handoff is not None
+            and handoff.raw_position_is_unchanged(*source_position)
+        ):
+            self._restore_document_scroll(
+                self.current_document,
+                mode=mode,
+                position=handoff.rendered_position,
+            )
+        else:
+            on_restored = (
+                handoff.record_raw_arrival
+                if source_mode == "Rendered" and mode == "Raw"
+                else None
+            )
+            self._restore_document_scroll(
+                self.current_document,
+                mode=mode,
+                ratio=source_ratio if shared_reading_modes else None,
+                on_restored=on_restored,
+            )
+        if source_mode == "Raw" and mode == "Rendered":
+            self._reading_mode_handoff = None
+
+    def _refresh_diff_comparisons(self) -> None:
+        context = (self.repository.root, self.repository.revision)
+        previous = (
+            self.diff_selector.currentData()
+            if self._diff_comparison_context == context
+            else None
+        )
+        try:
+            comparisons = self.repository.diff_comparisons()
+        except GitError as error:
+            self.diff_selector.setToolTip(str(error))
+            return
+
+        self.diff_selector.blockSignals(True)
+        self.diff_selector.clear()
+        for comparison in comparisons:
+            self.diff_selector.addItem(comparison.label, comparison.key)
+        previous_index = self.diff_selector.findData(previous) if previous is not None else -1
+        self.diff_selector.setCurrentIndex(previous_index if previous_index >= 0 else 0)
+        self.diff_selector.blockSignals(False)
+        self.diff_selector.setToolTip(
+            "Choose whether Diff shows the complete feature branch or only uncommitted edits."
+            if any(comparison.key == "branch" for comparison in comparisons)
+            else "Choose the two document versions shown in Diff."
+        )
+        self.diff_selector.setVisible(
+            self.current_mode == "Diff" and self.current_document is not None
+        )
+        self._diff_comparison_context = context
+
+    def _diff_comparison_changed(self, _index: int) -> None:
+        if self.current_mode != "Diff" or self.current_document is None:
+            return
+        position = self.diff_reader.verticalScrollBar().value()
+        self._render_current_document()
+        self.diff_reader.verticalScrollBar().setValue(position)
 
     def _refresh_git_sidebar(self) -> None:
         active_revision = self.repository.revision
@@ -719,6 +1375,9 @@ class MainWindow(QMainWindow):
         if active_revision is not None and selected_index == 0:
             self._switch_repository_view(None)
             return
+
+        self._refresh_diff_comparisons()
+        self._refresh_change_awareness()
 
         self.worktree_list.clear()
         for worktree in worktrees:
@@ -787,6 +1446,7 @@ class MainWindow(QMainWindow):
         self.navigation_history.clear()
         self.repository = replacement
         self.settings_prefix = self._settings_prefix_for(replacement.root)
+        self.change_tracker = self._load_change_tracker()
         self.repository_name.setText(replacement.root.name)
         self.setWindowTitle(f"Elvandar Viewer — {replacement.root.name}")
         self.settings.setValue("repository/path", str(replacement.root))
@@ -845,10 +1505,13 @@ class MainWindow(QMainWindow):
         self._refresh_git_sidebar()
 
     def _clear_document(self) -> None:
+        self._clear_live_change_navigation()
         self.current_document = None
         self.current_image_path = None
         self.current_image_data = b""
         self.current_source = ""
+        self._update_document_outline(None)
+        self._reading_mode_handoff = None
         self.reader_title.setText("Choose a document")
         self.reader_title.setToolTip("")
         self.reader.setHtml(self._welcome_document())
@@ -857,8 +1520,10 @@ class MainWindow(QMainWindow):
         self.mode_buttons["Rendered"].setChecked(True)
         self.mode_buttons["Raw"].setEnabled(True)
         self.mode_buttons["Diff"].setEnabled(False)
+        self.diff_selector.setVisible(False)
         self._search_selections = []
         self._change_selections = []
+        self._change_focus_selections = []
 
     def _changed_file_activated(self, item: QListWidgetItem) -> None:
         relative = item.data(PATH_ROLE)
@@ -877,8 +1542,11 @@ class MainWindow(QMainWindow):
     def _open_deleted_document(self, path: Path) -> None:
         path = self.repository.resolve(path)
         self._remember_current_for(path)
+        if path != self.current_document:
+            self._clear_live_change_navigation()
         self.current_document = path
         self.current_source = ""
+        self._update_document_outline("")
         self.reader_title.setText(path.stem)
         self.reader_title.setToolTip(f"{self.repository.relative(path)}\nDeleted from working tree")
         self.reader.setSearchPaths([str(path.parent)])
@@ -887,6 +1555,7 @@ class MainWindow(QMainWindow):
         self.mode_buttons["Raw"].setEnabled(True)
         self.mode_buttons["Diff"].setEnabled(True)
         self.mode_buttons["Diff"].setChecked(True)
+        self._refresh_diff_comparisons()
         self._render_current_document()
         self.watcher.set_document(path)
         self._set_live_state("waiting", "● DELETED")
@@ -905,15 +1574,19 @@ class MainWindow(QMainWindow):
             return
 
         self._remember_current_for(path)
+        self._clear_live_change_navigation()
         self._set_image_preview(path, data)
         self.current_document = None
         self.current_image_path = path
         self.current_image_data = data
         self.current_source = ""
+        self._mark_version_viewed(path)
+        self._update_document_outline(None)
         self.current_mode = "Rendered"
         self.mode_buttons["Rendered"].setChecked(True)
         self.mode_buttons["Raw"].setEnabled(False)
         self.mode_buttons["Diff"].setEnabled(False)
+        self.diff_selector.setVisible(False)
         self.reader_title.setText(path.stem)
         self._update_image_status(path, data)
         if self.repository.is_working_tree:
@@ -935,6 +1608,8 @@ class MainWindow(QMainWindow):
         if data == self.current_image_data:
             return
         self.current_image_data = data
+        self._refresh_change_awareness()
+        self._mark_version_viewed(path)
         self._set_image_preview(path, data)
         self._update_image_status(path, data)
         self._set_live_state("updated", "● UPDATED")
@@ -1069,6 +1744,15 @@ class MainWindow(QMainWindow):
         self.forward_action.setShortcut(QKeySequence("Ctrl+]"))
         self.forward_action.triggered.connect(self._go_forward)
         go_menu.addAction(self.forward_action)
+        go_menu.addSeparator()
+        self.previous_change_action = QAction("Previous Change", self)
+        self.previous_change_action.setShortcut(QKeySequence("Ctrl+Alt+Up"))
+        self.previous_change_action.triggered.connect(self._go_to_previous_change)
+        go_menu.addAction(self.previous_change_action)
+        self.next_change_action = QAction("Next Change", self)
+        self.next_change_action.setShortcut(QKeySequence("Ctrl+Alt+Down"))
+        self.next_change_action.triggered.connect(self._go_to_next_change)
+        go_menu.addAction(self.next_change_action)
 
         view_menu = self.menuBar().addMenu("View")
         search_action = QAction("Search Library", self)
@@ -1080,6 +1764,13 @@ class MainWindow(QMainWindow):
             action.setShortcut(QKeySequence(shortcut))
             action.triggered.connect(self.mode_buttons[label].click)
             view_menu.addAction(action)
+        view_menu.addSeparator()
+
+        self.outline_action = QAction("Document Outline", self)
+        self.outline_action.setShortcut(QKeySequence("Ctrl+Shift+O"))
+        self.outline_action.setEnabled(bool(self.current_outline))
+        self.outline_action.triggered.connect(self._open_outline_navigation)
+        view_menu.addAction(self.outline_action)
         view_menu.addSeparator()
 
         text_size_menu = view_menu.addMenu("Text Size")
@@ -1109,10 +1800,29 @@ class MainWindow(QMainWindow):
         view_menu.addAction(self.reading_action)
 
         help_menu = self.menuBar().addMenu("Help")
+        help_action = QAction("Elvandar Viewer Help", self)
+        help_action.setShortcut(QKeySequence("Ctrl+?"))
+        help_action.triggered.connect(lambda _checked=False: self._show_help("welcome"))
+        help_menu.addAction(help_action)
+
+        shortcuts_action = QAction("Keyboard Shortcuts", self)
+        shortcuts_action.triggered.connect(lambda _checked=False: self._show_help("shortcuts"))
+        help_menu.addAction(shortcuts_action)
+
+        live_help_action = QAction("How Live Updates Work", self)
+        live_help_action.triggered.connect(lambda _checked=False: self._show_help("live"))
+        help_menu.addAction(live_help_action)
+
+        safety_action = QAction("Read-Only Safety", self)
+        safety_action.triggered.connect(lambda _checked=False: self._show_help("safety"))
+        help_menu.addAction(safety_action)
+        help_menu.addSeparator()
+
         about_action = QAction("About Elvandar Viewer", self)
         about_action.triggered.connect(self._show_about)
         help_menu.addAction(about_action)
         self._update_navigation_controls()
+        self._update_change_navigation_controls()
 
     def _set_appearance_mode(self, mode: str, *, persist: bool = True) -> None:
         self.appearance_mode = mode if mode in {"system", "day", "night"} else "system"
@@ -1131,8 +1841,14 @@ class MainWindow(QMainWindow):
 
         self.renderer = MarkdownRenderer(enabled, self.reading_font_size)
         self.diff_renderer = DiffRenderer(self.renderer)
+        if self.help_dialog is not None:
+            self.help_dialog.set_night_mode(enabled)
+        if hasattr(self, "outline_list"):
+            self._populate_outline_list()
+        if hasattr(self, "change_legend"):
+            self._refresh_change_decorations()
 
-        active_reader = self.diff_reader if self.current_mode == "Diff" else self.reader
+        active_reader = self._active_reader_widget()
         position = active_reader.verticalScrollBar().value()
         if self.current_image_path is not None and self.current_image_data:
             self._set_image_preview(self.current_image_path, self.current_image_data)
@@ -1226,7 +1942,7 @@ class MainWindow(QMainWindow):
         if persist and self.remember_reading_mode:
             self.settings.setValue("appearance/reading_mode", enabled)
         if enabled:
-            self.reader.setFocus(Qt.FocusReason.OtherFocusReason)
+            self._active_reader_widget().setFocus(Qt.FocusReason.OtherFocusReason)
 
     def _update_reading_page_width(self) -> None:
         page_width = reading_page_width(self.reading_width, self.width())
@@ -1253,6 +1969,15 @@ class MainWindow(QMainWindow):
             "Git remains the source of truth. The viewer never edits the repository.",
         )
 
+    def _show_help(self, topic: str = "welcome") -> None:
+        if self.help_dialog is None:
+            self.help_dialog = HelpDialog(self.night_mode, self)
+        self.help_dialog.set_night_mode(self.night_mode)
+        self.help_dialog.open_topic(topic)
+        self.help_dialog.show()
+        self.help_dialog.raise_()
+        self.help_dialog.activateWindow()
+
     def _restore_window_state(self) -> None:
         geometry = self.settings.value(f"{self.settings_prefix}/geometry")
         if geometry:
@@ -1264,13 +1989,6 @@ class MainWindow(QMainWindow):
         if restore_layout and splitter_state:
             self.splitter.restoreState(splitter_state)
 
-        folder_text = self.settings.value(f"{self.settings_prefix}/folder", "", type=str)
-        if folder_text:
-            folder = self.repository.root / folder_text
-            item = self._find_tree_item(folder)
-            if item is not None:
-                self.folder_tree.setCurrentItem(item)
-
         document_text = self.settings.value(f"{self.settings_prefix}/document", "", type=str)
         if document_text:
             document = self.repository.root / document_text
@@ -1278,8 +1996,17 @@ class MainWindow(QMainWindow):
                 self._navigating_history = True
                 try:
                     self._open_path(document)
+                    self._reveal_document_in_navigation(document)
                 finally:
                     self._navigating_history = False
+                return
+
+        folder_text = self.settings.value(f"{self.settings_prefix}/folder", "", type=str)
+        if folder_text:
+            folder = self.repository.root / folder_text
+            item = self._find_tree_item(folder)
+            if item is not None:
+                self.folder_tree.setCurrentItem(item)
 
     def _save_repository_state(self) -> None:
         self._save_current_scroll()
@@ -1326,7 +2053,9 @@ class MainWindow(QMainWindow):
 
     def _show_search_results(self) -> None:
         results = self.search_index.search(self.active_query)
-        self.contents_title.setText(f"Search · {len(results)}")
+        self._folder_contents_title = f"Search · {len(results)}"
+        if self.contents_mode == "folder":
+            self.contents_title.setText(self._folder_contents_title)
         self.document_list.clear()
         if not results:
             item = QListWidgetItem("No documents match")
@@ -1337,11 +2066,16 @@ class MainWindow(QMainWindow):
 
         for result in results:
             section = result.location.split("/", 1)[0]
-            item = QListWidgetItem(f"{result.title}\n{section} · {result.excerpt}")
+            display = f"{result.title}\n{section} · {result.excerpt}"
+            item = QListWidgetItem(display)
             item.setData(PATH_ROLE, str(result.path))
-            item.setToolTip(f"{result.location}\n\n{result.excerpt}")
+            item.setData(BASE_TEXT_ROLE, display)
+            tooltip = f"{result.location}\n\n{result.excerpt}"
+            item.setData(BASE_TOOLTIP_ROLE, tooltip)
+            item.setToolTip(tooltip)
             item.setSizeHint(QSize(0, 58))
             self.document_list.addItem(item)
+        self._refresh_change_decorations()
         self._apply_search_highlights()
 
     def _open_first_search_result(self) -> None:
@@ -1415,7 +2149,114 @@ class MainWindow(QMainWindow):
             block = block.next()
         return blocks
 
+    def _set_live_change_navigation(self, blocks: list[int]) -> None:
+        block_count = self.reader.document().blockCount()
+        self._live_change_blocks = sorted(
+            {index for index in blocks if 0 <= index < block_count}
+        )
+        self._live_change_index = None
+        self._live_change_document = (
+            self.current_document if self._live_change_blocks else None
+        )
+        self._change_focus_selections = []
+        self._apply_combined_selections()
+        self._update_change_navigation_controls()
+
+    def _clear_live_change_navigation(self) -> None:
+        if hasattr(self, "_highlight_timer"):
+            self._highlight_timer.stop()
+        self._highlighted_blocks = []
+        self._change_selections = []
+        self._change_focus_selections = []
+        self._live_change_blocks = []
+        self._live_change_index = None
+        self._live_change_document = None
+        if hasattr(self, "reader"):
+            self._apply_combined_selections()
+        if hasattr(self, "change_navigator"):
+            self._update_change_navigation_controls()
+
+    def _update_change_navigation_controls(self) -> None:
+        available = bool(
+            self._live_change_blocks
+            and self.current_document == self._live_change_document
+            and self.current_mode == "Rendered"
+        )
+        if self._live_change_index is None:
+            count = len(self._live_change_blocks)
+            label = f"{count} CHANGE{'S' if count != 1 else ''}"
+        else:
+            label = f"{self._live_change_index + 1} OF {len(self._live_change_blocks)}"
+        self.change_position.setText(label)
+        self.change_navigator.setVisible(available)
+        self.previous_change_button.setEnabled(available)
+        self.next_change_button.setEnabled(available)
+        if hasattr(self, "previous_change_action"):
+            self.previous_change_action.setEnabled(available)
+            self.next_change_action.setEnabled(available)
+
+    def _go_to_previous_change(self) -> None:
+        self._go_to_live_change(-1)
+
+    def _go_to_next_change(self) -> None:
+        self._go_to_live_change(1)
+
+    def _go_to_live_change(self, step: int) -> None:
+        if (
+            self.current_mode != "Rendered"
+            or self.current_document != self._live_change_document
+        ):
+            return
+        viewport_center = QPoint(0, max(0, self.reader.viewport().height() // 2))
+        current_block = self.reader.cursorForPosition(viewport_center).blockNumber()
+        target_index = adjacent_change_index(
+            self._live_change_blocks,
+            current_block=current_block,
+            active_index=self._live_change_index,
+            step=step,
+        )
+        if target_index is None:
+            return
+        self._live_change_index = target_index
+        self._apply_live_change_focus(center=True)
+        self._update_change_navigation_controls()
+
+    def _apply_live_change_focus(self, *, center: bool) -> None:
+        self._change_focus_selections = []
+        if (
+            self.current_mode != "Rendered"
+            or self.current_document != self._live_change_document
+            or self._live_change_index is None
+            or not 0 <= self._live_change_index < len(self._live_change_blocks)
+        ):
+            self._apply_combined_selections()
+            return
+        block_number = self._live_change_blocks[self._live_change_index]
+        block = self.reader.document().findBlockByNumber(block_number)
+        if not block.isValid():
+            self._apply_combined_selections()
+            return
+        selection = QTextEdit.ExtraSelection()
+        selection.cursor = QTextCursor(block)
+        selection.cursor.select(QTextCursor.SelectionType.BlockUnderCursor)
+        selection.format.setBackground(
+            QColor("#4B4029" if self.night_mode else "#F4E4B5")
+        )
+        self._change_focus_selections = [selection]
+        self._apply_combined_selections()
+        if center:
+            self.reader.setTextCursor(QTextCursor(block))
+            self.reader.ensureCursorVisible()
+            cursor_rect = self.reader.cursorRect()
+            scroll_bar = self.reader.verticalScrollBar()
+            scroll_bar.setValue(
+                scroll_bar.value()
+                + cursor_rect.center().y()
+                - self.reader.viewport().height() // 2
+            )
+
     def _start_change_highlight(self, blocks: list[int]) -> None:
+        self._highlight_timer.stop()
         self._highlighted_blocks = blocks
         self._highlight_frame = 0
         self._change_selections = []
@@ -1459,7 +2300,7 @@ class MainWindow(QMainWindow):
         if not self.active_query or self.current_document is None:
             self._apply_combined_selections()
             return
-        document = self.reader.document()
+        document = self._active_reader_widget().document()
         for term in list(dict.fromkeys(self.active_query.split())):
             position = 0
             while len(self._search_selections) < 200:
@@ -1475,7 +2316,10 @@ class MainWindow(QMainWindow):
         self._apply_combined_selections()
 
     def _apply_combined_selections(self) -> None:
-        self.reader.setExtraSelections(self._search_selections + self._change_selections)
+        reader = self._active_reader_widget()
+        changes = self._change_selections if self.current_mode == "Rendered" else []
+        focus = self._change_focus_selections if self.current_mode == "Rendered" else []
+        reader.setExtraSelections(self._search_selections + changes + focus)
 
     def _update_status(self, path: Path) -> None:
         location = str(self.repository.relative(path))

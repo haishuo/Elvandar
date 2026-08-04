@@ -3,8 +3,10 @@ from pathlib import PurePosixPath
 from elvandar_viewer.navigation import (
     NavigationEntry,
     NavigationHistory,
+    ReadingModeHandoff,
     normalized_scroll,
     restored_scroll,
+    scroll_storage_mode,
 )
 
 
@@ -53,3 +55,17 @@ def test_scroll_position_is_saved_as_a_resize_safe_ratio() -> None:
     assert restored_scroll(ratio, 1200) == 900
     assert normalized_scroll(10, 0) == 0.0
     assert restored_scroll(2.0, 100) == 100
+
+
+def test_rendered_and_raw_modes_share_one_document_position() -> None:
+    assert scroll_storage_mode("Rendered") == "Rendered"
+    assert scroll_storage_mode("Raw") == "Rendered"
+    assert scroll_storage_mode("Diff") == "Diff"
+
+
+def test_reading_mode_handoff_detects_real_raw_scrolling() -> None:
+    handoff = ReadingModeHandoff((720, 1000))
+    handoff.record_raw_arrival(540, 750)
+
+    assert handoff.raw_position_is_unchanged(540, 750)
+    assert not handoff.raw_position_is_unchanged(541, 750)

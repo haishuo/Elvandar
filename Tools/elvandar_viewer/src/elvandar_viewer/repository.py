@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
+import re
 
 
 IGNORED_NAMES = {
@@ -17,6 +18,17 @@ IGNORED_NAMES = {
 SUPPORTED_SUFFIXES = {".md", ".markdown", ".txt"}
 IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp", ".tif", ".tiff", ".svg"}
 VISIBLE_SUFFIXES = SUPPORTED_SUFFIXES | IMAGE_SUFFIXES
+_NATURAL_PART = re.compile(r"(\d+)")
+
+
+def natural_sort_key(value: str) -> tuple[tuple[int, str | int, int], ...]:
+    """Sort human-numbered names in reading order: Chapter 2 before Chapter 10."""
+
+    return tuple(
+        (1, int(part), len(part)) if part.isdigit() else (0, part.casefold(), 0)
+        for part in _NATURAL_PART.split(value)
+        if part
+    )
 
 
 class RepositoryBoundaryError(ValueError):
@@ -58,7 +70,7 @@ class Repository:
                 and item.name not in IGNORED_NAMES
                 and not item.name.startswith(".")
             ),
-            key=lambda item: item.name.casefold(),
+            key=lambda item: natural_sort_key(item.name),
         )
 
     def contents(self, folder: str | Path) -> list[Path]:
@@ -73,7 +85,7 @@ class Repository:
                 and not item.name.startswith(".")
                 and (item.is_dir() or item.suffix.casefold() in VISIBLE_SUFFIXES)
             ),
-            key=lambda item: (not item.is_dir(), item.name.casefold()),
+            key=lambda item: (not item.is_dir(), natural_sort_key(item.name)),
         )
 
     def walk_directories(self) -> list[Path]:

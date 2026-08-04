@@ -1,5 +1,8 @@
 from pathlib import Path
 
+from PySide6.QtGui import QTextDocument
+from PySide6.QtWidgets import QApplication
+
 from elvandar_viewer.markdown import MarkdownRenderer
 
 
@@ -36,3 +39,41 @@ def test_custom_text_size_applies_to_rendered_and_raw_markdown(tmp_path: Path) -
 
     assert "font-size: 24px" in rendered
     assert "font-size: 19px" in raw
+
+
+def test_document_roles_scale_proportionally_with_text_size(tmp_path: Path) -> None:
+    _application = QApplication.instance() or QApplication([])
+    source = """## Section Heading
+
+### Detail Heading
+
+Body copy with `inline code`.
+
+> Quoted copy.
+
+- List item
+
+| Column |
+| --- |
+| Cell |
+
+Note[^1]
+
+[^1]: Footnote copy
+"""
+    document = QTextDocument()
+    document.setHtml(MarkdownRenderer(font_size=30).render(source, tmp_path / "page.md"))
+
+    expected_pixel_sizes = {
+        "Section Heading": 45,
+        "Detail Heading": 35,
+        "Body copy": 30,
+        "inline code": 25,
+        "Quoted copy": 30,
+        "List item": 30,
+        "Column": 21,
+        "Cell": 25,
+        "Footnote copy": 25,
+    }
+    for text, expected in expected_pixel_sizes.items():
+        assert document.find(text).charFormat().font().pixelSize() == expected

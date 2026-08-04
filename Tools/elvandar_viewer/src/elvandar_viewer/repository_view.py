@@ -1,10 +1,24 @@
 from __future__ import annotations
 
+from dataclasses import dataclass
 from pathlib import Path, PurePosixPath
 
 from .diff import DiffVersions
 from .git import GitClient
-from .repository import IMAGE_SUFFIXES, IGNORED_NAMES, SUPPORTED_SUFFIXES, VISIBLE_SUFFIXES, Repository
+from .repository import (
+    IMAGE_SUFFIXES,
+    IGNORED_NAMES,
+    SUPPORTED_SUFFIXES,
+    VISIBLE_SUFFIXES,
+    Repository,
+    natural_sort_key,
+)
+
+
+@dataclass(frozen=True, slots=True)
+class DiffComparison:
+    key: str
+    label: str
 
 
 class RepositoryView:
@@ -64,7 +78,10 @@ class RepositoryView:
             for directory in self._directories
             if directory != relative_parent and directory.parent == relative_parent
         }
-        return [self.root / Path(child.as_posix()) for child in sorted(children, key=lambda item: item.name.casefold())]
+        return [
+            self.root / Path(child.as_posix())
+            for child in sorted(children, key=lambda item: natural_sort_key(item.name))
+        ]
 
     def contents(self, folder: str | Path) -> list[Path]:
         if self.is_working_tree:
@@ -80,8 +97,8 @@ class RepositoryView:
             for item in self._files
             if item.parent == relative_folder and item.suffix.casefold() in VISIBLE_SUFFIXES
         ]
-        return sorted(directories, key=lambda item: item.name.casefold()) + sorted(
-            documents, key=lambda item: item.name.casefold()
+        return sorted(directories, key=lambda item: natural_sort_key(item.name)) + sorted(
+            documents, key=lambda item: natural_sort_key(item.name)
         )
 
     def read_text(self, path: str | Path) -> str:
@@ -102,9 +119,74 @@ class RepositoryView:
         assert self.revision is not None
         return self.git.show_file_bytes(self.revision, relative)
 
-    def diff_versions(self, path: str | Path) -> DiffVersions:
+    def diff_comparisons(self) -> list[DiffComparison]:
+        if not self.is_working_tree:
+            return [DiffComparison("commit", "Commit vs parent")]
+        branch = self.git.current_branch_name()
+        base = self.git.preferred_base_branch()
+        comparisons: list[DiffComparison] = []
+        if branch is not None and base is not None and branch != base:
+            comparisons.append(DiffComparison("branch", f"Branch vs {base}"))
+        comparisons.append(DiffComparison("working", "Uncommitted"))
+        return comparisons
+
+    def changed_paths(self) -> set[PurePosixPath]:
+        """Return paths changed in the most useful Diff comparison for this view."""
+
+        if not self.is_working_tree:
+            return set()
+        status_paths = {change.path for change in self.git.changes()}
+        branch = self.git.current_branch_name()
+        base = self.git.preferred_base_branch()
+        if branch is None or base is None:
+            return status_paths
+        if branch == base:
+            parent = self.git.parent_revision("HEAD")
+            return (
+                status_paths | self.git.paths_changed_since(parent)
+                if parent is not None
+                else status_paths
+            )
+        baseline = self.git.merge_base(base, "HEAD")
+        branch_paths = self.git.paths_changed_since(baseline)
+        if branch_paths:
+            return branch_paths | status_paths
+        # A feature worktree can remain open after its branch has been
+        # fast-forwarded into main. The branch comparison is then empty, but
+        # the most recent commit is still the useful "what just changed?"
+        # reading window.
+        parent = self.git.parent_revision("HEAD")
+        return (
+            status_paths | self.git.paths_changed_since(parent)
+            if parent is not None
+            else status_paths
+        )
+
+    def diff_versions(self, path: str | Path, comparison: str = "auto") -> DiffVersions:
         relative = PurePosixPath(self.relative(path).as_posix())
         if self.is_working_tree:
+            branch = self.git.current_branch_name()
+            base = self.git.preferred_base_branch()
+            show_branch = comparison == "branch" or (
+                comparison == "auto"
+                and branch is not None
+                and base is not None
+                and branch != base
+            )
+            if show_branch and branch is not None and base is not None and branch != base:
+                baseline = self.git.merge_base(base, "HEAD")
+                before = self.git.show_file_optional(baseline, relative) or ""
+                after = (
+                    self.working_tree.read_text(path)
+                    if self.working_tree.resolve(path).is_file()
+                    else ""
+                )
+                return DiffVersions(
+                    before,
+                    after,
+                    f"Base · {base}",
+                    f"Worktree · {branch}",
+                )
             before = self.git.show_file_optional("HEAD", relative) or ""
             after = self.working_tree.read_text(path) if self.working_tree.resolve(path).is_file() else ""
             return DiffVersions(before, after, f"HEAD · {self.git.current_branch()}", "Working tree")
@@ -129,7 +211,7 @@ class RepositoryView:
                 for path in self._files
                 if path.suffix.casefold() in SUPPORTED_SUFFIXES
             ),
-            key=lambda path: str(path).casefold(),
+            key=lambda path: natural_sort_key(path.as_posix()),
         )
 
     def read_documents(self) -> dict[Path, str]:

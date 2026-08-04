@@ -68,6 +68,20 @@ class NavigationHistory:
         self._forward.clear()
 
 
+@dataclass(slots=True)
+class ReadingModeHandoff:
+    """Preserve an exact Rendered position across a temporary Raw visit."""
+
+    rendered_position: tuple[int, int]
+    raw_arrival: tuple[int, int] | None = None
+
+    def record_raw_arrival(self, value: int, maximum: int) -> None:
+        self.raw_arrival = (value, maximum)
+
+    def raw_position_is_unchanged(self, value: int, maximum: int) -> bool:
+        return self.raw_arrival == (value, maximum)
+
+
 def normalized_scroll(value: int, maximum: int) -> float:
     if maximum <= 0:
         return 0.0
@@ -76,3 +90,9 @@ def normalized_scroll(value: int, maximum: int) -> float:
 
 def restored_scroll(ratio: float, maximum: int) -> int:
     return round(min(1.0, max(0.0, ratio)) * max(0, maximum))
+
+
+def scroll_storage_mode(mode: str) -> str:
+    """Rendered prose and raw source represent one shared document position."""
+
+    return "Rendered" if mode in {"Rendered", "Raw"} else mode

@@ -94,6 +94,10 @@ QLabel#eyebrow {
     padding: 0;
 }
 QLabel#paneTitle { color: %(title)s; font-size: 15px; font-weight: 650; }
+QLabel#changeLegend {
+    color: %(muted)s; font-size: 9px; font-weight: 650; letter-spacing: .5px;
+    padding: 7px 3px 1px; border-top: 1px solid %(border)s;
+}
 QLabel#repositoryName { color: %(repository)s; font-size: 19px; font-weight: 700; }
 QLabel#muted, QLabel#metadataValue { color: %(muted)s; font-size: 12px; }
 QLabel#metadataLabel { color: %(metadata)s; font-size: 10px; font-weight: 650; letter-spacing: 1px; }
@@ -116,14 +120,16 @@ QLabel#liveBadge[state="waiting"] {
 QLabel#liveBadge[state="snapshot"] {
     color: %(badge_blue_text)s; background: %(badge_blue_background)s; border: 1px solid %(badge_blue_border)s;
 }
-QComboBox#branchSelector, QComboBox#settingsCombo, QSpinBox#settingsSpin {
+QComboBox#branchSelector, QComboBox#diffSelector, QComboBox#settingsCombo, QSpinBox#settingsSpin {
     color: %(text)s; background: %(input)s; border: 1px solid %(input_border)s;
     border-radius: 6px; padding: 6px 9px; font-size: 12px;
 }
-QComboBox#branchSelector:focus, QComboBox#settingsCombo:focus, QSpinBox#settingsSpin:focus {
+QComboBox#branchSelector:focus, QComboBox#diffSelector:focus, QComboBox#settingsCombo:focus,
+QSpinBox#settingsSpin:focus {
     border-color: %(input_focus)s;
 }
-QComboBox#branchSelector::drop-down, QComboBox#settingsCombo::drop-down { border: 0; width: 22px; }
+QComboBox#branchSelector::drop-down, QComboBox#diffSelector::drop-down,
+QComboBox#settingsCombo::drop-down { border: 0; width: 22px; }
 QComboBox QAbstractItemView {
     color: %(text)s; background: %(input)s; border: 1px solid %(input_border)s;
     selection-background-color: %(selection)s; selection-color: %(selection_text)s;
@@ -149,6 +155,26 @@ QTreeWidget, QListWidget {
 QTreeWidget::item, QListWidget::item { min-height: 28px; border-radius: 5px; padding: 2px 5px; }
 QTreeWidget::item:selected, QListWidget::item:selected { border-left: 2px solid %(input_focus)s; }
 QListWidget::item { margin: 1px 0; }
+QWidget#contentsSwitcher {
+    background: %(compact)s; border: 1px solid %(border)s; border-radius: 6px;
+}
+QPushButton#contentsModeButton {
+    color: %(muted)s; background: transparent; border: 0; border-radius: 4px;
+    padding: 5px 8px; font-size: 11px; font-weight: 600;
+}
+QPushButton#contentsModeButton:checked {
+    color: %(button_checked)s; background: %(button_background)s;
+}
+QPushButton#contentsModeButton:disabled { color: %(button_disabled)s; }
+QListWidget#outlineList::item { padding-left: 7px; padding-right: 7px; }
+QMenu#outlineMenu {
+    color: %(text)s; background: %(input)s; border: 1px solid %(input_border)s;
+    padding: 5px; font-size: 12px;
+}
+QMenu#outlineMenu::item { padding: 6px 22px 6px 10px; border-radius: 4px; }
+QMenu#outlineMenu::item:selected {
+    color: %(selection_text)s; background: %(selection)s;
+}
 QPushButton#modeButton, QPushButton#utilityButton {
     color: %(button)s; background: transparent; border: 0; border-radius: 5px;
     padding: 5px 10px; font-size: 12px; font-weight: 550;
@@ -163,6 +189,22 @@ QPushButton#navigationButton {
 }
 QPushButton#navigationButton:hover { background: %(button_background)s; color: %(button_checked)s; }
 QPushButton#navigationButton:disabled { color: %(button_disabled)s; }
+QFrame#changeNavigator {
+    background: %(badge_amber_background)s; border: 1px solid %(badge_amber_border)s;
+    border-radius: 6px;
+}
+QLabel#changePosition {
+    color: %(badge_amber_text)s; font-size: 9px; font-weight: 700; letter-spacing: .5px;
+    padding: 0 3px;
+}
+QPushButton#changeNavigationButton {
+    color: %(badge_amber_text)s; background: transparent; border: 0; border-radius: 4px;
+    padding: 0; font-size: 14px; font-weight: 650;
+}
+QPushButton#changeNavigationButton:hover {
+    color: %(button_checked)s; background: %(button_background)s;
+}
+QPushButton#changeNavigationButton:disabled { color: %(button_disabled)s; }
 QTextBrowser { color: %(text)s; background: %(reader)s; border: 0; }
 QSplitter::handle { background: transparent; width: 1px; }
 QScrollBar:vertical { background: transparent; width: 10px; margin: 2px; }
@@ -170,6 +212,25 @@ QScrollBar::handle:vertical { background: %(scrollbar)s; border-radius: 4px; min
 QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical { height: 0; }
 QToolTip { color: %(text)s; background: %(input)s; border: 1px solid %(input_border)s; }
 QDialog#settingsDialog { color: %(text)s; background: %(app)s; }
+QDialog#helpDialog { color: %(text)s; background: %(reader)s; }
+QFrame#helpHeader {
+    color: %(text)s; background: %(pane)s; border-bottom: 1px solid %(border)s;
+}
+QFrame#helpBody { background: %(reader)s; }
+QLabel#helpEyebrow {
+    color: %(eyebrow)s; font-size: 9px; font-weight: 700; letter-spacing: 1.4px;
+}
+QLabel#helpTitle { color: %(title)s; font-size: 23px; font-weight: 650; }
+QLabel#helpSubtitle { color: %(muted)s; font-size: 12px; }
+QListWidget#helpTopicList {
+    color: %(navigation_text)s; background: %(pane)s; border-right: 1px solid %(border)s;
+    border-radius: 0; padding: 15px 10px; font-size: 12px;
+}
+QListWidget#helpTopicList::item { min-height: 30px; padding: 5px 9px; margin: 1px 0; }
+QListWidget#helpTopicList::item:selected {
+    color: %(selection_text)s; background: %(selection)s; border-left: 2px solid %(input_focus)s;
+}
+QTextBrowser#helpContent { color: %(text)s; background: %(reader)s; border: 0; }
 QLabel#settingsTitle { color: %(title)s; font-size: 20px; font-weight: 650; }
 QFrame#settingsSection {
     color: %(text)s; background: %(pane)s; border: 1px solid %(border)s; border-radius: 8px;

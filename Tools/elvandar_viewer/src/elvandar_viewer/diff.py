@@ -185,7 +185,14 @@ class DiffRenderer:
         )
 
     def _document(self, body: str, before_label: str, after_label: str) -> str:
-        diff_font_size = max(13, self.markdown.font_size - 2)
+        diff_font_size = max(13, round(self.markdown.font_size * 0.9))
+        h1_font_size = round(diff_font_size * 1.55)
+        h2_font_size = round(diff_font_size * 1.3)
+        h3_font_size = round(diff_font_size * 1.15)
+        h5_font_size = max(11, round(diff_font_size * 0.9))
+        h6_font_size = max(11, round(diff_font_size * 0.82))
+        table_font_size = max(11, round(diff_font_size * 0.8))
+        code_font_size = max(11, round(diff_font_size * 0.76))
         night_styles = ""
         if self.markdown.night_mode:
             night_styles = """
@@ -194,7 +201,7 @@ body { color: #D8DBE2; background: #1B1E23; }
 .diff-header td + td, .diff-table td + td { border-color: #3A404A; }
 .diff-table td { border-bottom-color: #343A43; }
 .block-number { color: #7E8795; }
-.block-content h1, .block-content h2, .block-content h3 { color: #F0F2F5; }
+.block-content .markdown-heading { color: #F0F2F5; }
 .block-content th, .block-content td { border-bottom-color: #444B56; }
 .block-content code { color: #DDE1E7; background: #30353D; }
 .block-content pre { background: #24282F; border: 1px solid #414752; }
@@ -222,13 +229,18 @@ body {{ margin: 0; padding: 0 0 80px; color: #252932; background: #F7F8FA;
 .block-content {{ padding: 7px 18px 16px; font-family: "Iowan Old Style", Palatino, serif;
   font-size: {diff_font_size}px; line-height: 1.55; }}
 .block-content p {{ margin: 0 0 .8em; }} .block-content p:last-child {{ margin-bottom: 0; }}
-.block-content h1, .block-content h2, .block-content h3 {{ margin: 0 0 .6em; line-height: 1.25; }}
-.block-content h1 {{ font-size: 1.55em; }} .block-content h2 {{ font-size: 1.3em; }}
+.block-content .markdown-heading {{ margin: 0 0 .6em; line-height: 1.25; }}
+.block-content .heading-1 {{ font-size: {h1_font_size}px; }}
+.block-content .heading-2 {{ font-size: {h2_font_size}px; }}
+.block-content .heading-3 {{ font-size: {h3_font_size}px; }}
+.block-content .heading-4 {{ font-size: {diff_font_size}px; }}
+.block-content .heading-5 {{ font-size: {h5_font_size}px; }}
+.block-content .heading-6 {{ font-size: {h6_font_size}px; }}
 .block-content img {{ max-width: 100%; }}
-.block-content table {{ border-collapse: collapse; width: 100%; font-family: -apple-system, sans-serif; font-size: .8em; }}
+.block-content table {{ border-collapse: collapse; width: 100%; font-family: -apple-system, sans-serif; font-size: {table_font_size}px; }}
 .block-content th, .block-content td {{ border: 0; border-bottom: 1px solid #CCD1D8; padding: 5px; }}
 .block-content th, .block-content td {{ width: auto; }}
-.block-content pre {{ white-space: pre-wrap; font-family: Menlo, monospace; font-size: .76em; }}
+.block-content pre {{ white-space: pre-wrap; font-family: Menlo, monospace; font-size: {code_font_size}px; }}
 td.removed {{ background: #FAECEC; border-left: 3px solid #C97878; }}
 td.added {{ background: #EAF4ED; border-left: 3px solid #6E9B7B; }}
 td.equal {{ background: #FCFCFD; }}

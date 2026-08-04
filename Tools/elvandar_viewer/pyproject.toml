@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "elvandar-viewer"
-version = "0.11.0"
+version = "0.19.0"
 description = "A read-only desktop reader for the Elvandar repository"
 readme = "README.md"
 requires-python = ">=3.11"
