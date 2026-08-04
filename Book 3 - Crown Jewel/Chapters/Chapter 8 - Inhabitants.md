@@ -146,7 +146,9 @@ He stopped at the threshold anyway. He got as far as lifting his hand toward the
 
 He felt foolish. He went in anyway.
 
-It was a dwelling. That much was obvious immediately and told him nothing, because it was a dwelling in exactly the way that a Kaha'ani house is a dwelling — rooms opening off other rooms, a place where the light was better that had probably been for working in, a place where the light was softer that had probably been for sitting. The proportions were wrong for a man of his height and right for somebody a little shorter. There were shelves. There was a low table.
+It was a dwelling. That much was obvious immediately and told him nothing, because it was a dwelling in exactly the way that a Kaha'ani house is a dwelling — rooms opening off other rooms, a place where the light was better that had probably been for working in, a place where the light was softer that had probably been for sitting. The proportions were wrong for a man of his height and right for somebody rather taller. It was not that anything was enormous; it was that everything was a hand or two off. The doorways had headroom he did not need. The shelves ran high — the top one he could reach and would not have chosen to use. The seats stood higher off the floor than his legs wanted, so that sitting in one would have left him with his heels hanging.
+
+He registered it the way he registered a gait: not as a fact about furniture but as a fact about **bodies**. Whoever had lived here had been long in the shin and long in the arm, and had built a house that fitted them, and had been doing it for a very long time, because nothing in the room was a compromise.
 
 He stood in the middle of it and waited for the thing that was wrong to present itself.
 
@@ -174,7 +176,7 @@ Somebody had stood in this room and put it in order. Somebody had taken the time
 
 And there was cloth.
 
-He did not notice it as cloth to begin with, because it was where cloth goes and doing what cloth does: a folded stack of it on a low shelf, and a longer piece across the back of one of the chairs against the wall, and something heavier hanging in the doorway to the inner room, pushed aside and left pushed aside. A house with its linen in it. It was so ordinary that his eye had gone over it three times on the way to the things that were strange.
+He did not notice it as cloth to begin with, because it was where cloth goes and doing what cloth does: a folded stack of it on a shelf set at the height of his eyes, and a longer piece across the back of one of the tall chairs against the wall, and something heavier hanging in the doorway to the inner room, pushed aside and left pushed aside. A house with its linen in it. It was so ordinary that his eye had gone over it three times on the way to the things that were strange.
 
 He put two fingers on the hanging in the doorway.
 

@@ -7134,3 +7134,23 @@ list**, since it is the step that most requires a calm man on the other side of 
 happens.
 
 Files: `People/Xion Kemvimore.md`, `Series Review - Master List.md`.
+
+### B3 ch8: the Lathionese were taller, not shorter — author's catch, 2026-08-04
+
+The room read *"the proportions were wrong for a man of his height and right for somebody a little
+shorter."* Canon is explicit the other way — `Lathion_ Physical Layout and Geography.md`: **"Built to
+Lathionese proportions (elves were tall and slender)."** Straight inversion, and the one detail in the
+room that describes the people who lived in it.
+
+Corrected and extended, because a single adjective was doing too little. Nothing is enormous; everything
+is a hand or two off — headroom he does not need, shelves running high, seats that would leave his heels
+hanging. And it goes through his instrument: he reads it the way he reads a gait, **as a fact about
+bodies rather than about furniture** — long in the shin, long in the arm, in a house that fits them and
+was not a compromise anywhere. The cloth beat's *"low shelf"* was corrected to a shelf at eye height and
+the chairs made tall, so the two passages agree.
+
+**Calibrated deliberately to stay inside human variation.** Tall people exist; Xion can arrive at
+*taller* without being handed *not human*. **Nothing in Books 1–3 tells any character that the
+Lathionese were elves** — the word appears nowhere in Book 3's prose, drafts or skeleton — and this beat
+does not start that. Recorded in the beat draft so a later pass does not "helpfully" complete the
+inference.
