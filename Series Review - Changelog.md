@@ -6640,3 +6640,21 @@ and which the chapter has no way to supply. Changed to *five thousand*, which is
 A residual decline phrase in the closing image went too — the water no longer runs through *"a system
 that nobody had corrected in twenty years"* but through one *"that had gone twenty years without anybody
 to drink it."*
+
+### The cloth beat, added to the closed room — author's ruling, 2026-08-04
+
+**If elves wear clothes, the clothes are still there**, and the absence of textiles from the room was an
+omission with no reason behind it. Nothing about the Engine or the sacrifice removes cloth.
+
+Added, and it runs on Xion's own instrument again: he has been handling fabric professionally since he
+was fifteen, and has cut up a great deal of old linen for dressings out of charity chests and dead men's
+presses, so he knows by feel the point past which cloth stops being cloth and tears along a line when
+you lift it. The hanging in the doorway has weight and give and settles like a hanging. *"Nothing in
+this room had reached it."*
+
+**The beat is built to stay unresolved.** He works through the reasons it could be nothing — no sun, no
+damp, no weather, no season, and the machines will have dealt with any moths some centuries back — and
+that argument is genuinely good, the same argument as the clean floor, and it may well be right. He
+cannot finish it *"because he was holding a corner of a curtain between his finger and his thumb and it
+felt like a curtain."* The room gives intent; the cloth gives the first pull on age; Brennek gives the
+number. Three instruments, in order, none of them redundant.

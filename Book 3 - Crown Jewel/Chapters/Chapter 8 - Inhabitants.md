@@ -172,7 +172,23 @@ A machine polishes. It does not **stack**.
 
 Somebody had stood in this room and put it in order. Somebody had taken the time to nest six vessels by size, and to square the tools, and to push the table back against the wall so the floor was clear — and then had walked out of the door and left it open behind them.
 
-Xion stood in the middle of a stranger's front room with his hands at his sides and read it the way he would have read a body.
+And there was cloth.
+
+He did not notice it as cloth to begin with, because it was where cloth goes and doing what cloth does: a folded stack of it on a low shelf, and a longer piece across the back of one of the chairs against the wall, and something heavier hanging in the doorway to the inner room, pushed aside and left pushed aside. A house with its linen in it. It was so ordinary that his eye had gone over it three times on the way to the things that were strange.
+
+He put two fingers on the hanging in the doorway.
+
+It moved. It had weight and it had give and it went where he pushed it and came back, and when he took his hand away it settled the way a hanging settles. It was not brittle. It had no dust in the weave. It was a piece of woven work that somebody had made and hung up, and it was fine.
+
+He had been handling cloth professionally since he was fifteen. He knew what old linen did — he had cut up a great deal of it for dressings, out of charity chests and dead men's presses, and there is a point past which cloth stops being cloth and becomes something that tears along a line when you lift it. Twenty years does that to a bad weave in a damp room. A hundred does it to a good one.
+
+Nothing in this room had reached it.
+
+He stood there working through the reasons that would let it be nothing. No sun. No damp. No weather at all, in here — no season, no frost, no rot, and if there had ever been a moth in Lathion the machines had presumably dealt with its descendants some centuries ago. That was a real argument. It was the same argument as the floor, and it might well be the right one, and he could not make himself finish it, because he was holding a corner of a curtain between his finger and his thumb and it felt like a curtain.
+
+He let it go and it swung and stopped.
+
+Then he stood in the middle of a stranger's front room with his hands at his sides and read the whole of it the way he would have read a body.
 
 *They were not surprised.* Nobody tidies in a panic; panic is the thing that puts objects on floors.
 
