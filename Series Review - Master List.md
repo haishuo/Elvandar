@@ -115,6 +115,26 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **Frozen silence → chosen silence.** B1 ch1: rooted to the paving stones while Tam is taken, because acting means saying his own name. → B1 ch8: Elara asks him at the gate why he didn't, and *"nothing came out of it. The same nothing, arriving in the same order."* → B1 ch19: Farleen argues him down a maze in five stages and he answers none of them. → B2 ch16: he refuses Rosik the argument, and the text distinguishes the two explicitly. **This is the arc, and it spans two books.** Book 1 not closing it is correct.
 
+**The empty Grain chair.** B2 ch16–19: Rosik exiled, the cartel broken, Melina Kemvimore dead. → **B3 ch1,
+already written and doing the whole job**: *"The first was Grain. There was no one to send… the thing that
+had made those parts into a cartel had been a single man's attention, and that attention was somewhere east
+of the border and not coming back. **Someone would eventually sit there. Xion had opinions about who. He
+kept them.**"* → B6: nobody ever did sit there, the market will not haul bulk grain down to customers with
+no money, and the Warrens are in famine. **The plant is that sentence**, and it is a plant precisely because
+it sounds like a loose end being tidied rather than a fuse being lit.
+
+*Xion keeping his opinions is the first of the two refusals that leave the chair empty for good; **Melina's
+is the second**, twenty years on, and she inherits hers from him — see her sheet and* How Kaha'an eats, and
+the empty chair *below.*
+
+**Do not add a second Grain beat to Book 3.** Checked chapter by chapter on 2026-08-04: the back half is
+treaty (ch12), ceremony (ch13), the love triangle (ch15–16), Kalden (ch18), Terinok (ch19) and the
+threshold (ch21), whose beat draft states outright that its job is *"to receive that weight rather than
+generate new weight."* There is nowhere to put it that does not damage a chapter, and a second instance in
+the same book would be volume rather than movement. **The escalation belongs in Book 5**, where desert
+reclamation becomes national policy and the empty chair turns from an administrative untidiness into a
+strategic exposure — proposed, not yet applied.
+
 **The Warrens chair.** B1 ch1: Xion frozen while Tam is taken. → B3 ch1: he asks that the council's first
 sitting be about the Warrens, *"because there was a chair in this room that nobody was sitting in and it
 was going to stay empty until somebody went down there and asked."* → B3 ch3: deferred, and nobody argues,

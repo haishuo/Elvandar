@@ -6899,3 +6899,41 @@ idempotent and only ch17's file moved.
 
 **This is the second editorial change ever applied to Book 2's prose**, after the *"anything on this
 earth"* fix on 2026-08-03.
+
+---
+
+## 2026-08-04 — The Grain beat was already written; no second one added to Book 3
+
+**Asked to add one administrative beat establishing the empty Grain chair. It is already there, in
+`Chapter 1 - Scars`, and it is better than the beat that would have been added:**
+
+> The first was Grain. There was no one to send. The cartel had not collapsed — the granaries still ran,
+> the barges still came up the coast road, men still went to work in the counting houses on Vessel Street
+> — but the thing that had made those parts into a cartel had been a single man's attention, and that
+> attention was somewhere east of the border and not coming back. **Someone would eventually sit there.
+> Xion had opinions about who. He kept them.**
+
+The chair, the machinery still turning without a coordinating mind, and Xion declining to say what he
+thinks — which is the first of the two refusals that leave the seat empty for good, Melina's being the
+second. It reads as a loose end being tidied, which is exactly what makes it a fuse.
+
+**No second beat added, and the reason is recorded so nobody adds one later.** Book 3's back half was
+checked chapter by chapter: ch12 is the Uratha treaty, ch13 the Crown ceremony with a cold open already
+load-bearing, ch15–16 the love triangle, ch18 Kalden's POV, ch19 Terinok, ch21 the threshold — whose beat
+draft states outright that its job is *"to receive that weight rather than generate new weight."* There is
+no home that does not damage a chapter, and a second instance inside the same book would be **volume
+rather than movement**, which is the failure mode `CLAUDE.md` names as this series' dominant structural
+weakness.
+
+**Where the escalation actually belongs is Book 5** — the point at which desert reclamation becomes
+national policy is the point at which the empty chair stops being administrative untidiness and becomes
+strategic exposure. That is a recurrence that moves position. **Proposed, not applied**; it needs the
+author's call before an outline changes.
+
+Recorded as a cross-book thread in §2 of the Master List, per the standing rule that a seed planted in one
+book and detonated in another gets written down.
+
+**Also corrected in passing:** `book3_chapter_skeleton.md` still gave the chapter count as 20 and credited
+the old three-chapter Lathion expansion. The 2026-08-04 split of *Inhabitants* at the Rending seam took the
+book to 21 and moved *The Repository* to ch10 and *The Destiny Engine* to ch11; the structural note had not
+caught up.
