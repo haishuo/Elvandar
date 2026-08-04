@@ -1,4 +1,4 @@
-# Chapter 18: A Warrior's Heart
+# Chapter 19: A Warrior's Heart
 
 **Timeline:** The Terinok mission
 **Characters:** Elara, Xion, War Table representatives, Sa Ko Ren (possibly)

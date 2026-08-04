@@ -1,4 +1,4 @@
-# Chapter 20: First Strike
+# Chapter 21: First Strike
 
 **Timeline:** The war begins
 **Characters:** Xion, Elara, Farleen, war council

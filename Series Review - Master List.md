@@ -135,7 +135,7 @@ the Book 6 outline, the series outline, `Offstage.md`, or this document. It was 
 got written down. **The version below is a proposal, not a ruling.**
 
 **Why the remembered version no longer works.** *You never had a deal with me* repudiates a written
-instrument of the crown, and that is the one thing this dynasty is careful never to do — B3 ch12's whole
+instrument of the crown, and that is the one thing this dynasty is careful never to do — B3 ch13's whole
 cold open turns on Elara being treaty-clean, which is what keeps her from being the war's aggressor. It is
 also **off-stack for Melina**, who is Truth Seeker primary and Engineer second: she does not dismiss a
 document, she reads it correctly.
@@ -477,18 +477,18 @@ C-26, C-27 and C-28 were opened in their place and all three are applied — see
 
 These are live work, not review findings against finished prose.
 
-**B3-1 — `Chapter 8 - Inhabitants`: beat draft revised 2026-08-04 on three author rulings. Prose not
-started.** The draft predated both the ch6 insertion and ch7's rewrite. The rulings: *Kaiden Voss* is
-retired and the practical man is **Brennek**, the ch2 crown surveyor who catalogued the door; the
-Urathan lead scholar is named **Ormuth**; and the recency discovery arrives through **the closed
-room** — nothing broken, nothing dropped, everything set down — with Brennek's wear-reading supplying
-the date afterward rather than carrying the discovery. Full reasoning in the changelog. Three things
-the prose must hold: the twenty-years/no-mechanism argument runs **once**, in beat 12, and the night
-walk keeps only its cost; Elara **does not read**, and the scholars' shift from *what does this say*
-to *is this important* is the chapter's political seed; and the Tor'anar and Arol Batae stay furniture.
+**B3-1 — `Chapter 8 - Inhabitants` and `Chapter 9 - Neighbours` are drafted and written; prose for
+`Chapter 10 - The Repository` not started.** The two were one 7,400-word chapter until 2026-08-04 and
+were split at the seam after the Rending exchange — *"The number did not move."* Act II now runs
+3,050 / 4,590 / 2,810, which is the shape a wonder sequence wants rather than one short chapter and one
+outsized one. Book 3 is **21 chapters**.
 
-*(B3-1 previously tracked `Chapter 6 - Fair Price`, cleared 2026-08-03 — draft and prose both written,
-signed off, and revised through nine rounds of the author's notes. The chapter is at 5,443 words.)*
+Three things the remaining Lathion chapters must hold. **Nothing in the city is damaged or declining** —
+the Lathionese closed the house and walked out, and any beat implying decay argues against the bequest
+framing. **Nothing may date the city before the characters date it**: three separate narration lines had
+to be cut for asserting *twenty years* ahead of the discovery, and the seal date of two thousand years is
+a number no character can ever have. **Elara does not read** — impressions only, and the scholars' shift
+from *what does this say* to *is this important* is the political seed.
 
 **B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
 
@@ -618,7 +618,7 @@ rationed; Farleen's are green and static. The text may not invite the comparison
 no stated eye colour anywhere in current canon — checked — so nothing is left to reconnect them.
 
 *Applied across seven prose instances (B1 ch3, ch13 ×2, ch14 ×2, ch16 ×2, ch25; B2 ch2), three beat
-drafts (B1 ch13, B1 ch16, B3 ch19 and ch20) and `People/Farleen Darfi.md`. The single hair reference in
+drafts (B1 ch13, B1 ch16, B3 ch20 and ch21) and `People/Farleen Darfi.md`. The single hair reference in
 the prose is B1 ch13.*
 
 ### No chess metaphors — in the sheets as well as the prose
@@ -683,7 +683,7 @@ Physical Layout and Geography.md`.
    trace. An open shaft would be found, and the premise that the surface has forgotten Lathion depends
    on there being nothing to find.
 2. **The elevators were destroyed and stripped**; the recoverable parts went back into the city.
-3. **The Repository does not hold the reason Lathion sealed itself.** B3 ch9 walks the expedition into
+3. **The Repository does not hold the reason Lathion sealed itself.** B3 ch10 walks the expedition into
    the Repository, so this needs to be settled before the chapter is drafted: the reason went with the
    people who had it. Do not plant an answer nobody pays.
 
@@ -729,7 +729,7 @@ order and stays. The test is whether a sentence could be **transcribed** into na
 the rule, so drafts written from the pattern comply by default. **Books 4–8 have outlines only** — when their
 drafts are written they inherit the rule from the template and need no retrofit. Nothing outstanding.
 
-**Three findings came out of the sweep and are fixed:** B3 ch17 beat 17 described a decision taken in
+**Three findings came out of the sweep and are fixed:** B3 ch18 beat 17 described a decision taken in
 Vartonne inside a chapter narrated from Xion's shoulder in Terinok, and could not have been staged; the same
 beat called **Sa Ko Ren *him***; and B1 ch3 beat 15 paraphrased a line it had marked verbatim, corrected to
 the prose, which is the source for Book 1. Details in the changelog.

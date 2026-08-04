@@ -5,7 +5,7 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 > **Canon rule:** **Book 1's prose is published and immovable.** Every age/date/fact below either comes straight from Book 1 prose (cited) or is derived to be consistent with it. If a character sheet or later-book draft ever disagrees with Book 1 prose, **the prose wins** and the other thing gets changed. Verify facts against `Book 1 - The Grain Merchant's Son/Chapters/*.md`, not the sheets.
 
 > **Amendment (Xion's age).** The rule above has been overridden exactly once, by the author, on
-> the grounds that correctness beats immovability. Book 2 ch20 gives Xion a firsthand memory of
+> the grounds that correctness beats immovability. Book 2 ch21 gives Xion a firsthand memory of
 > Rosik lifting him onto a horse — warmth that must predate the Rending, since the Rending is
 > what remade Rosik. At the old age of 20 he was an infant then and could hold no such memory.
 > **Xion is now 23.** To keep `age − 15 = duration` true, the fourteen Book 1 references to
@@ -23,16 +23,16 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 
 | Fact | Source |
 |---|---|
-| **Xion is 23** at Book 1 | ch11 — "Eight years. Since I was fifteen." (Master Fen = 8 yrs, begun at 15 → age 23) |
+| **Xion is 23** at Book 1 | ch12 — "Eight years. Since I was fifteen." (Master Fen = 8 yrs, begun at 15 → age 23) |
 | **Elara is ~20** | ch6 — "she looked older than her twenty years." |
 | **Mira Fen executed when Xion was 15** | ch22 — "I was fifteen years old." |
 | **Xion's mother died in the Rending** | ch22 — "After my mother died in the Rending, she [Mira]…" |
-| **Master Fen / the "second life" began at 15** | ch11 — "Eight years. Since I was fifteen." |
+| **Master Fen / the "second life" began at 15** | ch12 — "Eight years. Since I was fifteen." |
 | **Rending = 20 years before Book 1** | ch4/5/6/24/25 — repeated "twenty years." |
 | **Reform group is 5 years old** at Book 1 | ch2 — "five years of gathering at The Amber Leaf"; Silvanno: "we've been meeting for five years." The **Xion–Silvanno partnership is 7** — ch3, Silvanno: "I've been breaking the law beside you for seven years." |
-| **Farleen is the Water cartel's (Tania's) plant** in the group | ch18 — Ronas: "you one of Tania's?"; ch4 — "asked to keep an eye on your group." |
+| **Farleen is the Water cartel's (Tania's) plant** in the group | ch19 — Ronas: "you one of Tania's?"; ch4 — "asked to keep an eye on your group." |
 
-*Xion was **three** at the Rending. What forces his age is Book 2 ch20: a direct memory of his father laughing, and of Rosik lifting him onto a horse and holding him steady — warmth that must predate the Rending, because the Rending is what remade Rosik. An infant cannot hold that; a three-year-old can, because what survives from that age is affect, not narrative — safety, warmth, a laugh, a hand. Note the limit: the "stories his mother used to tell" (ch1) is still best read as **mostly inherited lore**, since a three-year-old does not retain story content. What is his own is the feeling attached to her, not the words.*
+*Xion was **three** at the Rending. What forces his age is Book 2 ch21: a direct memory of his father laughing, and of Rosik lifting him onto a horse and holding him steady — warmth that must predate the Rending, because the Rending is what remade Rosik. An infant cannot hold that; a three-year-old can, because what survives from that age is affect, not narrative — safety, warmth, a laugh, a hand. Note the limit: the "stories his mother used to tell" (ch1) is still best read as **mostly inherited lore**, since a three-year-old does not retain story content. What is his own is the feeling attached to her, not the words.*
 
 ---
 
@@ -52,11 +52,11 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 | BR Year | Age | Event |
 |---|---|---|
 | ~1024 | **3** | **The Rending.** Lady Kemvimore dies. Xion is three — what he keeps is warmth, not detail. |
-| **1036** | **15** | **Mira Fen** ("the real Master Fen") **executed** by Rosik. Xion takes up her name and work — the secret **"second life" as Master Fen begins** here. *(ch11, ch22)* |
+| **1036** | **15** | **Mira Fen** ("the real Master Fen") **executed** by Rosik. Xion takes up her name and work — the secret **"second life" as Master Fen begins** here. *(ch12, ch22)* |
 | 1036–1037 | 15→16 | Master Fen operates **alone** — the clinic in Janice's weaver shop, healing the poor in secret. About one year, and it is the only stretch he works without anyone. |
 | **1037** | **16** | **Silvanno finds out**, and the partnership begins — **7 years before Book 1**. Not a recruitment: Silvanno has known Xion since childhood (one of the friends the sickly boy couldn't go outside to play with), notices he's been spending time in the lower wards, and asks him directly rather than reporting it. *"Don't worry, I'm not going to turn you in. But what are you doing down there?"* From here the two of them work together, and everything else accretes around that pair. *(ch3 — "breaking the law beside you for seven years")* |
 | **1038** | **17** | **Kael Issamil joins — brought in by Silvanno, not Xion.** 6 years before Book 1. This is why Kael's loyalty runs through the friendship rather than through Xion's cause: he arrived as Silvanno's man and became Xion's over years. |
-| **1039** | **18** | **Farleen Darfi is embedded** by Tania Larannas — the group as the reader meets it is founded here, **5 years before Book 1**. She is the fourth chair, and the last. Xion doesn't know. *(ch2, ch4, ch18)* |
+| **1039** | **18** | **Farleen Darfi is embedded** by Tania Larannas — the group as the reader meets it is founded here, **5 years before Book 1**. She is the fourth chair, and the last. Xion doesn't know. *(ch2, ch4, ch19)* |
 | 1039–1044 | 18→23 | **Five years of the four of them** at The Amber Leaf: charity work, food, medicine, and the slow accumulation of futility that Silvanno finally says out loud in ch2. Five years is also what makes Farleen's feelings real rather than a cover slipping, and what makes her knife in ch4 cost what it costs. |
 
 **On Farleen's cover (flexible backstory):** Tania's placement of Farleen was a **multi-purpose op**, aimed first at her own son:
@@ -102,17 +102,19 @@ derived from the timing lines in the beat drafts and `book3_chapter_skeleton.md`
 | Ch5 Hubris | Wk 6–10 | the journey to Uratha and the treaty |
 | Ch6 Fair Price | Wk 10–12 | the return, and buying months of Slaver-held shafts |
 | Ch7 Wonder | Wk 12–15 | *"the fourteenth day"* + two days' impasse; the Door opens at the end |
-| Ch8–10 Lathion | Wk 15–19 | *"they have been exploring for weeks"* |
-| Ch11 The Scholar's Crown | Wk 19 | **the day after** ch10 |
-| Ch12 Awakening | Wk 23–24 | the Crown's journey from the Ivory Tower is the gap |
-| Ch13 Ruthless Calculus | Wk 25 | |
-| Ch14–17 | Wk 25–27 | proposal, choice, Vartonne, the Compact |
-| Ch18 A Warrior's Heart | Wk 28–32 | the Terinok mission |
-| Ch19 Valanar | Wk 33 | |
-| Ch20 First Strike | Wk 34 | |
+| Ch8 Inhabitants | Wk 15 | the first day inside; the closed room and the twenty-year count |
+| Ch9 Neighbours | Wk 15–17 | the second day, continuous; the dispatch goes up |
+| Ch10–11 Lathion | Wk 17–19 | *"they have been exploring for weeks"* |
+| Ch12 The Scholar's Crown | Wk 19 | **the day after** ch11 |
+| Ch13 Awakening | Wk 23–24 | the Crown's journey from the Ivory Tower is the gap |
+| Ch14 Ruthless Calculus | Wk 25 | |
+| Ch15–18 | Wk 25–27 | proposal, choice, Vartonne, the Compact |
+| Ch19 A Warrior's Heart | Wk 28–32 | the Terinok mission |
+| Ch20 Valanar | Wk 33 | |
+| Ch21 First Strike | Wk 34 | |
 
-**One long gap is left, and it is load-bearing.** Ch11→ch12 is the Crown physically travelling from the
-Ivory Tower, which ch11 beat 22 makes explicit — *Draskin did not presume to bring it.* Compress it and
+**One long gap is left, and it is load-bearing.** Ch12→ch13 is the Crown physically travelling from the
+Ivory Tower, which ch12 beat 22 makes explicit — *Draskin did not presume to bring it.* Compress it and
 something on the page breaks.
 
 **The other gap used to be ch5→ch6, and as of 2026-08-03 it is a chapter.** The continental return and
@@ -128,7 +130,7 @@ Elara in the market square.
 
 **The months-never-years rule survives this and should not be over-applied.** Nothing in the span is
 *years*, and *"years ago"* remains wrong everywhere inside Books 1–3. But by the back half of Book 3 a
-character can truthfully say *a year ago* about Book 1, and by ch20 the coronation is the better part of a
+character can truthfully say *a year ago* about Book 1, and by ch21 the coronation is the better part of a
 year behind them. **Check the week number before writing any interval, in either direction** — the failure
 mode this rule exists to prevent was inflation, and the opposite error is now equally available.
 
@@ -147,7 +149,7 @@ Weeks are counted from **Book 1 ch1 = week 0** (Book 1 opens in **winter** — t
 
 | | Born | Birthday falls | Result |
 |---|---|---|---|
-| **Xion** | **late autumn, 1021 BR** | wk **51** — Book 3's wk 16 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Lathion**, during the ch8–10 exploration. Marries at 24 in ch19. |
+| **Xion** | **late autumn, 1021 BR** | wk **51** — Book 3's wk 16 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Lathion**, during the ch8–10 exploration. Marries at 24 in ch20. |
 | **Elara** | **summer, 1024 BR** | wk **24** — mid-Book 2 | 20 for all of Book 1, **crowned at 20**; 21 from mid-Book 2 onward, and 21 for all of Book 3. Marries at 21. |
 
 **Corrected 2026-08-03 — the ruling stands, the arithmetic under it did not.** The pin was originally

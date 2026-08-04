@@ -1,4 +1,4 @@
-# Chapter 13: Ruthless Calculus
+# Chapter 14: Ruthless Calculus
 
 **Timeline:** Shortly after the Crown ceremony
 **Characters:** Master Engineer Ondra Kelgrav, Chair of the Industrial Consortium (POV); the Consortium members

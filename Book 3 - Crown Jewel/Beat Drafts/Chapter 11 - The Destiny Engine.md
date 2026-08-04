@@ -1,4 +1,4 @@
-# Chapter 10: The Destiny Engine
+# Chapter 11: The Destiny Engine
 
 **Timeline:** Days after Chapter 9 — the end of the exploration phase. The expedition is still inside Lathion.
 **Characters:** Xion, Elara, the Urathan scholars (as a contingent), the surveyor Brennek; Farleen at the camp; the Arol Batae detail and the Tor'anar detachment present throughout

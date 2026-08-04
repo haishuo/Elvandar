@@ -1,4 +1,4 @@
-# Chapter 14: The Proposal
+# Chapter 15: The Proposal
 
 **Timeline:** Days after the Gunastran Consortium's vote, which Balisha does not know happened. **Gunastran's request for access was made and refused a chapter ago** — in Chapter 12's cold open, weeks before this, and it is why the Consortium met at all. Nothing about it recurs here.
 **Characters:** Xion, Elara, Kalden's Erulian envoy

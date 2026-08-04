@@ -1,4 +1,4 @@
-# Chapter 15: Crossroads
+# Chapter 16: Crossroads
 
 **Timeline:** Inside the three-day window opened by the Kalden proposal — the most consequential private conversations in the series, and the public morning that resolves them
 **Characters:** Xion, Elara, Farleen

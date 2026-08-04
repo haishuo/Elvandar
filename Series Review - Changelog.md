@@ -6658,3 +6658,43 @@ that argument is genuinely good, the same argument as the clean floor, and it ma
 cannot finish it *"because he was holding a corner of a curtain between his finger and his thumb and it
 felt like a curtain."* The room gives intent; the cloth gives the first pull on age; Brennek gives the
 number. Three instruments, in order, none of them redundant.
+
+---
+
+## 2026-08-04 — `Inhabitants` split into two chapters; Book 3 goes to 21
+
+The chapter reached 7,398 words with the cloth beat — 20% past the book's previous longest — and it had
+a clean seam. Split on the author's approval at the end of the Rending exchange:
+
+> Brennek was right, and Xion knew he was right… **The number did not move.**
+
+**`Chapter 8 - Inhabitants`, 4,589 words.** Waking with no morning → the naming → the automatons →
+Brennek and the infrastructure → the terraces and the five-digit arithmetic → the closed room → the
+cloth → the compost clock → the Rending, named and correctly dismissed. Ends on the hypothesis refusing
+to settle.
+
+**`Chapter 9 - Neighbours`, 2,808 words.** Elara's recalibration and the scholars' new question →
+the sleeping console → Ormuth privately → the dispatch → Farleen → the Compass → the night walk →
+the railing and the Repository named. Title taken from the beat the chapter exists for, and from a word
+the prose already bolds: *"They were not a lost people. They were **neighbours**."*
+
+*Inhabitants* stays with the first half because it names the discovery — the people who lived there.
+
+**Rhythm.** Act II was 3,050 then 7,398. It is now **3,050 / 4,590 / 2,810**.
+
+**The renumber, and how it was done.** Ch9–ch20 became ch10–ch21: twelve beat drafts renamed **in
+descending order**, each file's own `# Chapter N:` header reconciled **per file against its own new
+number** rather than by a global regex, the skeleton bumped descending, and five external
+cross-references updated **one at a time after checking what each actually referred to** — which caught
+that `Lathion_ The Lost City of Gears.md`'s "B3 ch13" meant *Ruthless Calculus*, the Gunastran POV break,
+not *Awakening*.
+
+**The double-bump happened anyway, in `Story Timeline.md`.** New table rows were written with correct
+numbers and a global regex then ran over the whole file and re-matched them — *Ch10–11* became
+*Ch11–11*, *Ch15–18* became *Ch16–18*, and *"the day after ch11"* became *ch12*. Caught on read-back and
+repaired. **This is the third time this exact error has occurred.** The rule that prevents it: never run
+a bump over a region you have already hand-corrected in the same pass — correct or bump, never both.
+
+**Verified end to end after the fact**, not assumed: all 21 numbers now agree across prose filenames,
+beat-draft filenames, beat-draft headers and skeleton headings, with zero mismatches, and the Royal Road
+folder was emptied before regeneration so no stale HTML survived under an old number.

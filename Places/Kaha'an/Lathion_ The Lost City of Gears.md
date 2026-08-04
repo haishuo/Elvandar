@@ -322,7 +322,7 @@ happen before a relay exists, none of which can be compressed:
    read the place; the scholars are arguing about what they are even looking at. Genuine comprehension is
    years of work, and the relay is built *after* engineers have actually got there.
 2. **It is third in the queue and the queue is not negotiable.** Purification first, then energy, then
-   communications — that is the order Balisha wants and the order Gunastran models in B3 ch13. A nation
+   communications — that is the order Balisha wants and the order Gunastran models in B3 ch14. A nation
    whose people are dying of bad water does not build a signal network first.
 3. **And then it has to be installed**, station by station, along a desert road.
 
