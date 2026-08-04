@@ -667,6 +667,57 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 Decided. Retained so they are not reopened or re-flagged.
 
+### How Kaha'an eats, and the empty chair — **AUTHOR'S RULING 2026-08-04**
+
+**Kaha'an grows almost nothing.** House Kemvimore controlled the arable land, the importation, the
+granaries and the rationing, and the overwhelming majority of what came in — certainly the good of it —
+went to the Noble District. The Warrens got bulk grain in increments, on a schedule, paid in coin,
+labour and *help*. Brutal, extractive, and people starved under it; Rosik's sheet already calls them
+*"an acceptable inefficiency."* **But it was predictable**, and that is the thing that later goes away.
+
+**Grain was Rosik's leash on Ronas, and it is the only thing that could have been.** The leash is
+everywhere in canon as language — *attack dog*, *a trained dog barking when Rosik points* — and was
+never once specified. It cannot be money or force: Ronas has a cartel, absorbed every rival gang, and
+took his Coterie seat by sustaining a two-month labour stoppage against the other three houses. It is
+the grain going down the shafts, and it holds because he is a Competitor-primary who **cannot afford to
+be seen having a Caretaker's reasons**. The price of snapping it falls on people he can never admit he
+protects, and dressed as a labour-for-grain contract it gave him the pragmatic cover his world demands.
+He could be leashed in public and call it commerce. It also puts a second floor under his Book 2 warning
+to Rosik: he knows exactly what a disordered Warrens does to a food chain that runs on goodwill.
+
+**⚠ Precondition before this is written into prose:** Book 2 has Ronas-and-Rosik scenes on the page and
+they have **not** been read against this. Someone must check them before the mechanism is used.
+
+**The chair empties in Book 2 and stays empty.** Rosik exiled, the Grain cartel smashed. Melina
+Kemvimore is dead; **Xion will not sit in his father's chair, ever, and this is not to be dramatised as
+a hard duty nobly declined.** And the crown does not take it either, on principle — Elara broke the
+cartels *because* a chokehold on necessity was the injustice, and a crown grain monopoly is the thing
+she overthrew wearing a better hat. So food goes to the market at market price, and the market declines
+to haul bulk grain four hundred meters down to customers with no money. Shipments become irregular,
+then rare. **By Book 6 the Warrens are in famine, and it is the empire's doing rather than the
+machinery's.**
+
+**The trap, and it must be closed on the page:** this is *not* "the cartels were better." Rosik's system
+fed people as an instrument of control and let a tolerable number die; the market feeds fewer and
+controls no one; neither defends the other. **The failure is not the breaking — it is twenty years of
+not building**, because the people it hurt had no vote. Same indictment the series already levels.
+
+**Consequence for Ronas:** with grain unreliable, he brokers what still comes down, and by Book 6 the
+Slavers *are* the food system. That is what makes him indispensable and unavoidable, and it is why
+Melina has to deal with him at all.
+
+**Consequence for the Green Cities: they are food security, not charity.** Empires do not fund
+generational desert reclamation as mercy. A capital of ~200,000 fed by imported grain along one desert
+road is a siege waiting to happen, and the Compact War proves it. The relocation is a second use found
+for a war ministry's project — which is also what finally makes Book 6's *"nothing material stands in
+the way"* true and earned. **No character says any of this.**
+
+**The numbers, exactly.** Kaha'an is 150,000–200,000 on the surface plus 60,000 below. Lathion's
+terraces feed 100,000. So Lathion could have fed the Warrens nearly twice over and **could never have
+fed the city** — it was never an answer to the import dependency, only to the Warrens', and it is
+unreachable. The population that starves sits on top of double the food it needs. See
+`Book 3 - Crown Jewel/_LATHION_AFTER.md` for why none of it comes up.
+
 ### Lathion after the Door — **AUTHOR'S RULING 2026-08-04**
 
 **Lathion is a dig site, not a destination.** Its existence becomes known; access does not follow.

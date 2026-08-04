@@ -1,6 +1,6 @@
 # Book 6: Necessary Measures — High-Level Outline
 
-**Narrative Engine:** The external crises are resolved — the Compact War won, Silaris stabilized. Now the empire turns inward to the problem it has been avoiding for twenty years: the Warrens. Sixty thousand people living underground in ancient Lathionese infrastructure — systems that have been running for millennia with nobody maintaining them. Everyone now knows exactly what those tunnels are, and it makes no difference at all. They are failing. The water is dying. People are dying with it.
+**Narrative Engine:** The external crises are resolved — the Compact War won, Silaris stabilized. Now the empire turns inward to the problem it has been avoiding for twenty years: the Warrens. Sixty thousand people living underground in ancient Lathionese infrastructure — systems that have been running for millennia with nobody maintaining them. Everyone now knows exactly what those tunnels are, and it makes no difference at all. They are failing. The water is dying. And the Warrens are hungry — not because a machine broke, but because the Grain cartel was smashed in Book 2 and nobody ever took the chair. The machinery sets the deadline; the empty chair is why people are already dying when the book opens.
 
 **POV:** Tiberian and Melina, continuing from Book 5. This is the book where their partnership matures under the most painful possible conditions.
 
@@ -34,6 +34,62 @@ It's a miracle they lasted this long. A testament to Lathionese engineering that
 
 The water supply is the first critical failure. Filtration systems that have been processing groundwater for five thousand years begin to falter. The water turns brackish, then unreliable, then intermittent. People start getting sick. Then people start dying.
 
+---
+
+### And they are hungry, which is the empire's fault and not the machinery's
+
+**The water is the clock. The food is the body count.** *(Author's ruling, 2026-08-04.)* The failing
+Lathionese systems set the deadline; they are not the reason people are already dying when the book
+opens. That reason is a chair nobody sat in.
+
+**How the Warrens ate, before.** Kaha'an is a desert city that grows almost nothing. House Kemvimore
+controlled the arable land *and* the importation, the granaries, and the rationing — and under Rosik the
+Warrens got bulk grain, sent down in increments, on a schedule, paid for in coin, in labour, and in
+*help*. It was brutal and it was extractive and people starved under it; Rosik's own sheet calls them
+"an acceptable inefficiency." **But it was predictable**, and a predictable brutal ration is a thing
+sixty thousand people can plan a life around.
+
+**It was also the leash.** This is what Rosik held over Ronas Dermir for twenty years, and it is the
+only thing that could have. You cannot leash the Slaver King with money or force — he has both, and he
+broke a two-month labour stoppage against all three other cartels to take his Coterie seat. You leash
+him with the grain that goes down the shafts, because he is a Competitor who cannot afford to be seen
+having a Caretaker's reasons, and the price of snapping the leash is paid by people he can never admit
+he protects. Dressed as a labour-for-grain contract, it gave him the cover his world required. He could
+be leashed in public and call it commerce.
+
+**Then the chair emptied and nobody took it.** Rosik is exiled and the Grain cartel is smashed. The two
+people who could have inherited it cannot: **Melina Kemvimore is dead**, and **Xion will not sit in his
+father's chair** — not reluctantly, not as a hard duty nobly shouldered. Never. The reader who has read
+Books 1 and 2 does not need this explained and must not have it explained.
+
+**And the crown does not take it either, on principle.** Elara broke the cartels because the cartels'
+chokehold on necessity was the injustice; replacing a grain monopoly with a crown monopoly is becoming
+the thing she overthrew. So food goes to the market, at market price — and the market looks at hauling
+bulk grain four hundred meters down a shaft to customers with no money, and declines. Not maliciously.
+It simply is not worth doing. Shipments become irregular, then rare, then a rumour. **The correct
+decision, taken for good reasons, removed the only mechanism that had ever reliably fed the Warrens, and
+nothing was built to replace it, for twenty years, because the people it fed had no vote.**
+
+**Do not let this become "the cartels were better."** That reading is available and it is wrong, and the
+book has to close it off by being precise: Rosik's system fed people *as an instrument of control* and
+let a tolerable number die; the market that replaced it feeds fewer and controls no one; neither is a
+defence of the other. **The failure is not the breaking. It is the twenty years of not building.** That
+is the same indictment the book already levels — the thing you postpone because the people it hurts are
+not in the room — and the famine is simply where the bill arrives.
+
+**What this does to Ronas, and why Melina has to deal with him.** With the grain unreliable, somebody has
+to broker what still comes down. Ronas does, because he has the organisation and because of the drive he
+cannot name. By the time this book opens **the Slavers are the food system**, and that is what the
+outline means below when it says they "control the infrastructure of daily survival." He did not seize
+it. It was left lying in the road, and picking it up made him indispensable in a way twenty years of
+Coterie advocacy never did.
+
+**Where it shows on the page:** the child who dies in the gap between the acts can die of hunger as
+easily as of bad water, and should. And Ronas's *"you have no idea what I've been holding back"* now has
+a second floor under it — he is not only holding back his lieutenants.
+
+---
+
 The surface response to the water crisis creates its own nightmare: piping water down from above means controlling who gets water and when. It means the infrastructure of distribution. It means, inevitably, someone controlling that infrastructure for leverage. It means creating Water Cartel 2.0 in the tunnels — a new power structure built on the most basic human need.
 
 The Lathion technology that is finally making it possible to bring those below *up* — the reclaimed land, the green cities, the infrastructure that works — arrives at the exact moment the ancient technology that kept them below is dying. The pressure is real. The timeline is not political. It's hydrological.
@@ -66,7 +122,7 @@ Three years have passed. The plan is still being refined. Melina's models have r
 
 The child from Act I is dead.
 
-Not dramatically. Not heroically. From contaminated water, or from illness that clean water would have prevented, or from the slow collapse of systems that no one could fix because no one understood them. The death happened offstage, between acts, the way real deaths from institutional failure happen — not in a climactic scene but in a gap between meetings where someone who was alive stopped being alive because the plan wasn't ready yet.
+Not dramatically. Not heroically. From contaminated water, or from hunger, or from illness that clean water and enough food would have prevented, or from the slow collapse of systems that no one could fix because no one understood them. The death happened offstage, between acts, the way real deaths from institutional failure happen — not in a climactic scene but in a gap between meetings where someone who was alive stopped being alive because the plan wasn't ready yet.
 
 The water crisis has worsened. The piped-water system from the surface has created exactly what everyone feared — a distribution network controlled by whoever has the muscle to hold the pipes. Not the Water Cartel formally reconstituted, but a new informal power structure that functions identically. People who were already desperate are now dependent on whoever controls their water.
 

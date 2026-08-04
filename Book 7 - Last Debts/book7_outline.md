@@ -335,7 +335,9 @@ model had no term for any of them.**
 
 ### The World After the Warrens
 
-Before the storm, the reader sees what Tiberian and Melina have built. The Warrens relocation is underway — messy, ongoing, but real. People are moving from dying tunnels to green cities on reclaimed land. It's the largest humanitarian operation in Elvandar's history, and it's working.
+Before the storm, the reader sees what Tiberian and Melina have built. The Warrens relocation is underway — messy, ongoing, but real. People are moving from dying tunnels to green cities on reclaimed land, and onto land that grows food, which is the first time in twenty years that eating has not depended on somebody's goodwill. It's the largest humanitarian operation in Elvandar's history, and it's working.
+
+**The Green Cities were not built for this**, and the book knows it even if nobody says so: the reclamation was national food security, funded because the Compact War proved that a desert capital living on imported grain can be strangled by anyone who cuts the road. The relocation is a second use found for somebody else's strategic project. **Do not have a character point this out.** It is the shape of the thing, not a line.
 
 **It is also the clock on Rosik's plan, and this scene should be written without a hint of that.** The tunnels being emptied here are the ones his network lives in; the relocation is why the assassination happens in this year rather than another. See "The clock" in the plan section above. **Nobody on the page knows it, including Rosik**, and the connection is never drawn anywhere in the book — the scene plays as exactly what it is, which is a good thing being done well. The reader may put it together later or never.
 

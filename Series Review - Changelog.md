@@ -6739,3 +6739,61 @@ death from *"systems that no one could fix because no one understood them."* Bot
 
 `_LATHION_AFTER.md` and the Master List entry updated from *awaiting ruling* to applied, so the Book 3
 session does not act on a superseded flag. No prose, beat draft, skeleton or Royal Road file changed.
+
+---
+
+## 2026-08-04 — The food economy, the leash, and the empty chair
+
+**Author's ruling.** Three connected pieces, all of which specify mechanisms canon had been gesturing
+at without ever stating.
+
+**1. How the Warrens ate.** Kaha'an grows almost nothing; House Kemvimore held the arable land, the
+importation, the granaries and the rationing. The Warrens got bulk grain in increments, paid in coin,
+labour and *help* — brutal, extractive, fatal to a tolerable number, and **predictable**, which is the
+property that later disappears.
+
+**2. Grain was the leash on Ronas.** The leash appears throughout canon as language — *attack dog*,
+*a trained dog barking when Rosik points* — and had never been given a mechanism. Nothing else fits:
+Ronas cannot be leashed by money or force, having a cartel, having absorbed every rival gang, and having
+taken his Coterie seat by outlasting a two-month stoppage against the other three houses. Grain holds
+him because he is a Competitor-primary whose Caretaker secondary is the one thing he cannot afford to be
+seen having — the price of snapping the leash falls on people he can never admit he protects, and a
+labour-for-grain contract lets him be leashed in public and call it commerce. It also deepens his Book 2
+warning to Rosik: he knows what a disordered Warrens does to a food chain.
+
+**Flagged as a precondition, not resolved:** Book 2's Ronas-and-Rosik scenes exist on the page and have
+not been read against this. That check must happen before the mechanism reaches prose.
+
+**3. The chair sits empty, and that is the Book 6 famine.** Rosik exiled and the cartel smashed; Melina
+Kemvimore dead; **Xion will never sit in his father's chair**; and the crown declines it on principle,
+because Elara broke the cartels precisely over the chokehold on necessity and a crown monopoly is the
+same hand in a better glove. Food therefore goes to the market, and the market will not haul bulk grain
+four hundred meters down to customers with no money. Shipments go irregular, then rare.
+
+**What this does to Book 6, which is the point of the whole ruling.** The crisis had been purely
+mechanical — old pipes failing — which is a crisis with no author. It now has two axes: **the water is
+the clock and the food is the body count.** The machinery sets the deadline; the empty chair is why
+people are already dying when the book opens. That converts Book 2's victory into Book 6's bill, which
+is the series' own two-wolves logic, and it makes the Valanars' complicity specific rather than general:
+they did not merely neglect the Warrens, they broke the thing that fed it and built nothing in twenty
+years, because the people it fed had no vote.
+
+**The reactionary reading is closed off explicitly in the outline**, because it is available and it is
+wrong: Rosik's system fed people as an instrument of control; the market feeds fewer and controls no
+one; neither is a defence of the other. The failure is the not-building.
+
+**And Ronas becomes the food system**, which is what the outline already meant by the Slavers holding
+"the infrastructure of daily survival" — he did not seize it, it was left in the road, and picking it up
+made him indispensable in a way twenty years of Coterie advocacy never did. His *"you have no idea what
+I've been holding back"* now has a second floor under it.
+
+**4. The Green Cities are food security, not charity** — the soft spot nobody had poked. Empires do not
+fund generational desert reclamation as mercy. A capital of ~200,000 living on grain hauled along one
+desert road can be strangled by anyone who cuts it, and the Compact War proves that at price. The
+relocation is a second use found for a war ministry's project, which is what finally makes Book 6's
+*"nothing material stands in the way"* earned rather than asserted. Applied to `elvandar_series_outline.md`
+and `book7_outline.md`, both with an explicit instruction that **no character points at it.**
+
+Files edited: `book6_outline.md` (narrative engine, a new famine section, the dead child's causes),
+`elvandar_series_outline.md`, `Book 7 - Last Debts/book7_outline.md`, `Series Review - Master List.md`.
+No prose, beat draft, skeleton or Royal Road file changed.
