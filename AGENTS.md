@@ -275,6 +275,14 @@ Books 1–3. *(One use stands and is not an error:
 under the city — and B2 ch10's *"anything on this earth"*, which is Melina speaking and belongs to Book 2's
 unreviewed prose.)*
 
+**Theology, settled 2026-08-03.** The world is **polytheistic** — *Gods* and *gods*, sixteen times across
+the prose and never once singular. B1 ch4 carried the one exception, Farleen's *"God, Xion, I don't want to
+do this,"* corrected on the author's ruling; it was an internal inconsistency rather than a register
+judgment, since B1 ch22 has *"Gods, thank you"* in the same book. **And *hell* stays.** Farleen's *"What
+the hell did you just do?"* (B1 ch14) and Cullen's *"What the hell is she doing?"* (B1 ch19) were raised in
+the same pass and **ruled fine by the author**. Whether Elvandar has a hell is unspecified and does not
+need specifying. **Do not re-raise this.**
+
 **Chapter files:** one file per chapter in `Chapters/`, named `Chapter N - Title.md` — a space
 either side of a hyphen, the number unpadded, the title in Title Case. `Chapter 7 - Fine.md`,
 not `chapter7.md` or `Chapter 07 - Fine.md`.

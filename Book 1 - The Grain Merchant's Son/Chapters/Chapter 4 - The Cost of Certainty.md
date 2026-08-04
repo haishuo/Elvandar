@@ -108,7 +108,7 @@ The world tilted sideways. "You're a spy."
 
 "How? How do we figure this out? You've proven she exists and you **know** where she is. Your father, my father, all of them—they'll burn this city down before they let someone upset it, and you know they will. You know they will."
 
-She drew the dagger, and her hands were shaking so badly the blade caught the light. "I don't want to do this. God, Xion, I don't want to do this. But if I don't—if I go back and tell them I failed—"
+She drew the dagger, and her hands were shaking so badly the blade caught the light. "I don't want to do this. Gods, Xion, I don't want to do this. But if I don't—if I go back and tell them I failed—"
 
 She couldn't finish the sentence.
 

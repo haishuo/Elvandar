@@ -6317,3 +6317,21 @@ just do?"*, and B1 ch19, Cullen's *"What the hell is she doing?"* Whether Elvand
 unspecified anywhere in the canon files. The construction is naturalised enough in English to pass
 unnoticed, which is exactly the argument for leaving it and also the argument for not leaving it.
 **Recorded rather than decided.**
+
+### The singular *God* corrected; *hell* ruled fine and closed
+
+**Author's ruling: fix the God one, leave *hell* alone.** B1 ch4, Farleen with the dagger already drawn —
+*"I don't want to do this. **God**, Xion, I don't want to do this."* → ***Gods***. The prose now has
+**zero** singular uses and sixteen plural ones, which is what a polytheistic world should read like. The
+change is one letter and it lands in the most emotionally loaded line she has; nothing about the rhythm
+moves.
+
+***Hell* is closed, not deferred.** Both instances stand — B1 ch14 and B1 ch19, dialogue exclamations —
+and the ruling is recorded in `CLAUDE.md` §6 **with an explicit instruction not to re-raise it**. Whether
+Elvandar has a hell is unspecified in every canon file and does not need to be. This document's worst habit
+is flags that outlive their problems and get trusted by the next reader; a question the author has already
+answered is exactly that, and it is being shut rather than left ajar.
+
+**Two chapters of Book 1 prose have now been edited today** — ch4 here, and nothing else — alongside Book
+2's ch10. Both books were previously described in this record as having had no editorial changes applied.
+That description is no longer true and the record says so.
