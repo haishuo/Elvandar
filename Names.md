@@ -43,14 +43,27 @@ in that book. The failure mode is never a name that *looks* wrong on the page.
 
 | Name | Books | Who | Register |
 |---|---|---|---|
-| **Tiberian Valanar** | 5–8 | The Tiger Prince. Xion and Elara's son. *Tib* to his friends | Old Lathionese |
-| **Melina Valanar** | 5–8 | The Spider Queen. Their daughter — **named for Xion's dead sister** | Old Lathionese |
+| **Tiberian Valanar** | 5–8 | The Tiger Prince. Xion and Elara's son; **Melina's twin**, born hours apart during the Compact War. Named for his grandfather | Old Lathionese |
+| **Melina Valanar** | 5–8 | The Spider Queen. His twin — **named for Xion's dead sister** | Old Lathionese |
 | **Kai Issamil** | 5–7 | The Iron Boar. **Kael's son**; holds the line behind Tiberian | Balishan |
-| **Lyra Valanar** | pre-1 | Elara's mother. Dead before Book 1; five mentions, all backstory | Old Lathionese |
 
-**Xion's own mother is never named.** She died in the Rending and exists in the prose only as
-*"after my mother died in the Rending"* (B1 ch22). Do not name her without deciding to — B2 ch5 turns
-on the gap: *"the warmth he could still reach in these walls hadn't been his mother's at all."*
+**Tiberian's two diminutives are split by speaker, and it looks deliberate.** Melina teases him as
+***"Tiber the Tiger"*** when he needs humbling (his sheet, twice; hers, once). Kai calls him ***Tib***
+— B5: *"You've been dragging me into bad ideas since we were old enough to hold swords, Tib."* Sister
+and best friend using different diminutives is true to life; recorded here so the one-letter gap is a
+choice rather than a drift.
+
+## The Rending generation — all dead before Book 1
+
+| Name | Who |
+|---|---|
+| **Emperor Tiberan Valanar IV** | Elara's father. **Tiberian is named for him** — the closest name-pair in the series, and deliberate |
+| **Empress Lyra Valanar** | Elara's mother. Five mentions, all backstory. Homophone of Book 4's *Lira*, ruled acceptable because they never share a book, a scene or a sentence |
+| **Lady Kemvimore** | Xion's mother. **Has a designation but no given name, and should keep it that way** — B2 ch5 turns on the gap: *"the warmth he could still reach in these walls hadn't been his mother's at all"* |
+
+**All three were outside the walls together when the Rending struck**, and none of the three was ever
+seen again (`Magic/The Rending.md`). Xion and Elara were orphaned by one event, in one party, on one
+day. Neither has ever said so to the other on the page.
 
 ## Kaha'an and the Warrens — Books 1–3
 
