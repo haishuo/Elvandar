@@ -667,6 +667,27 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 Decided. Retained so they are not reopened or re-flagged.
 
+### Lathion after the Door — **AUTHOR'S RULING 2026-08-04**
+
+**Lathion is a dig site, not a destination.** Its existence becomes known; access does not follow.
+The Great Shaft is gone, the only route is the Long Knives' road through Dead Man's Passage, and B3 ch6
+settled that the road cannot become a supply line. All traffic is porters, so **knowledge flows out and
+tonnage does not** — purification and energy reach the world as designs rebuilt on the surface, which is
+also why the reverse-engineering takes the years Book 4 requires. The city becomes a small, expensive,
+jointly-staffed research station under Balishan sovereignty with the Destiny Engine sealed and cordoned,
+and **the Green Cities are its actual output**: the bequest reaches the living as somewhere else to
+live. Nobody moves in, for six reasons that are Book 6's business and must not be argued on the page in
+Book 3.
+
+**Full brief, written for the Book 3 drafting session:** `Book 3 - Crown Jewel/_LATHION_AFTER.md`. It
+carries the prohibitions (no reopened Great Shaft ever, no food convoys, no crown map, no settlement)
+and the one open item below.
+
+**Open and not ruled:** `book6_outline.md` lines 27 and 242 say nobody ever learns the Warrens are
+Lathionese. Book 3 makes that impossible. Proposed correction — everyone knows exactly what the tunnels
+are and it does not help, because knowing whose machines these are is not the same as being able to
+maintain them — **awaiting the author's decision; not applied.**
+
 ### Lathion's two entrances — **AUTHOR'S RULING 2026-08-04**
 
 **The Great Shaft was the front door; the Brass Door is the freight entrance.** For the three
