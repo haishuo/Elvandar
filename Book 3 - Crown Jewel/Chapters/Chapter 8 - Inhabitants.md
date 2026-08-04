@@ -116,13 +116,25 @@ And the terraces grew.
 
 They had seen the green from the Gatehouse the night before and taken it for survival — some tenacious thing hanging on in the dark, the way weeds come up through a paving stone. It was nothing of the sort. It was a farm. There was light coming down onto it in the right measure, and water going through it on a schedule, and something being done to the soil at intervals by machines that came and went, and the whole apparatus was running the way a mill runs when the miller is at his dinner.
 
-Food was growing in Lathion, and there was not enough of it.
+It went further than he could see. That was the part he came back to afterward — he walked the near edge for a quarter of an hour and did not come to the end of it, and there were more of them below, tier under tier, going down the curve of the level in the same steady light.
 
-He knew that before he had finished looking, and he knew it in his father's voice, which was the voice that turned up whenever a quantity of grain and a number of mouths appeared in the same thought. What was on these terraces would not feed the roads he had walked that morning. It would not come within sight of it.
+He started doing the arithmetic before he had decided to, and he did it in his father's voice, which was the voice that turned up whenever a quantity of grain and a number of mouths appeared in the same thought. He had spent his childhood in rooms where men said things like *a family eats this much in a year* as though they were remarks about the weather. He had hated those rooms. He had also, apparently, been listening.
 
-Which meant there had been more, because there was no other way for the sum to come out. A shut city does not sit on top of a farm that cannot feed it — not for a generation, and this had been shut for however long it had been shut. There is no door to open and no barge coming up the coast and no bad year to be carried on somebody else's surplus. Either the terraces fed Lathion or Lathion starved, and Lathion had not starved.
+Yield against area. Area against the curve of the level. He was out by a great deal in either direction and knew it and did the sum anyway, the way you take a pulse you already know is bad.
 
-So this was the remainder. He was standing in front of what was left of a thing that had worked, and it was still working, and it was working less.
+The answer had five digits in it.
+
+He stood on a terrace path with his hands loose at his sides and understood that he was looking at the number of people who had lived here. Not an impression of a lot of people. A **quantity**. The sort you could write on a page and hand to a clerk. Somebody had built this to feed a city the size of a city, and had built it to go on doing that for as long as the city needed feeding, and it had.
+
+And it was still doing it.
+
+That was the thing he could not get his shoulders around. The light was still coming down in the right measure. The water was still going through on its schedule. The machines were still working along the rows, and the rows were still bearing, at the rate they had been built to bear, for a hundred thousand people who were not there.
+
+He asked, later, what happened to it. Brennek had already gone and found out. Some of it was in stores — vast ones, cool, ordered, stacked in a way that made Xion think of the vessels on the shelf. The rest went the way it had to go. There were beds at the far end where the machines took what had turned, and turned it back into soil, and put the soil where soil was wanted.
+
+Twenty years of harvest. Brought in, put away, gone over, thrown out, begun again.
+
+Nobody had eaten any of it.
 
 ---
 
@@ -182,21 +194,23 @@ He went out through the open door onto the road and stood in the light for a whi
 
 Brennek was on his knees at the edge of the nearest terrace with his hand in the soil, and had been for some time.
 
-"That's the wrong question to ask the plants," he said. "Ask the plants and they'll tell you they're fine." He sat back on his heels. "They're not fine. Something in the feed is off. Not much. It's been off for a while and it's been getting worse at a rate, and the rate's the useful part."
+"Wrong question for the plants," he said. "The plants are having a lovely time." He sat back on his heels and pointed with two fingers, along and down, at the beds where the machines put what had turned. "Ask those."
 
-"Can you put a number on it?"
+Xion looked, and saw a bank of dark soil, and nothing else.
 
-"That's what I've been doing since breakfast." He wiped his hand on his knee. "This system was maintained. Properly. By somebody who understood it, because you can see where the corrections were made and the corrections are correct." He gestured along the terrace and out past it, at the whole apparatus of pipes and channels and patient machinery. "And then they stopped. Everything since then is the machines carrying on with what they were told last, and machines don't correct. They repeat. So you get drift, and the drift compounds, and you can walk it backward."
+"It goes in in layers," Brennek said. "Has to. They bring it, they cover it, they leave it, they bring the next lot. Nothing mixes it, because nothing down here does anything it wasn't told to." He worked two fingers into the cut edge of the bank and drew them downward, and the face came away clean, and it was banded, the way a cut riverbank is banded. "That's a year. That's a year. That's a year."
 
-"How far back?"
+Xion crouched beside him and looked at a wall of soil with lines in it.
 
-Brennek was quiet for a moment. He was not a man who enjoyed being the one to say a thing.
+"Everything else in this city is brass," Brennek said, "and brass is no use to me. Brass looks the same after twenty years as after two thousand and I can't tell you which. Stone's worse." He wiped his hand on his knee. "But something's been growing here the whole time, and every year of it had to go somewhere, and it came here, and it stacked up in order. This is the only clock in Lathion. It's the one thing down here that ever got older."
 
-"Not five thousand years," he said. "Nothing like. If nobody had touched this in five thousand years there'd be no terrace, there'd be a dry shelf with brass on it." He looked up. "Twenty years. Give me a month and I'll give you a season. But it's twenty. Somebody could live here, Counselor."
+"How many?"
 
-"Somebody did."
+"That's what I've been doing since breakfast." A pause. He was not a man who enjoyed being the one to say a thing. "Twenty. Give me a month and I'll give you a season. But it's twenty, and it isn't nineteen, and it isn't thirty."
 
-"Somebody did," Brennek agreed. "And not long ago at all."
+"Not five thousand."
+
+"Not five thousand. Not five hundred." He looked up. "Somebody was eating this, Counselor. Right up until they weren't."
 
 ---
 

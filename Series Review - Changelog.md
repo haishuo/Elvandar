@@ -6560,3 +6560,49 @@ eye, Rosik's geometry). He reasons that there must have been more, because no ot
 concludes that he is looking at the remainder. A first pass at the fix had him assert *"two thousand
 years"* — a number the exploration chapters exist to establish he does not have. Cut to *"however long
 it had been shut."*
+
+### The Lathion food supply, corrected properly — author's ruling, 2026-08-04
+
+The first attempt at this fix was also wrong, and wrong in a way worth recording because it was
+**invention dressed as reasoning**. The chapter said the terraces could not feed the city; challenged on
+it, the fix asserted that the shortfall was *damage* — decline across twenty untended years. There is no
+damage in Lathion. **The city was emptied by a prepared, consensual sacrifice; the Lathionese closed the
+house and walked out.** Nothing broke and nothing was interrupted, which is the premise the whole
+exploration arc and the next chapter's bequest framing rest on. A quietly failing farm argues against it.
+
+The chain of inventions ran: a stale beat-draft line (*"running at a fraction of its capacity"*) → a
+food shortfall in the prose → decline invented to explain the shortfall. Three claims, none of them from
+canon, each propping up the one before.
+
+**The author's ruling, and it is now the canon of the place.** The city was sealed ~2,000 years ago and
+lived for all of it, at a population of roughly **100,000**. The terraces therefore fed 100,000 people
+for two thousand years — they are enormous and they work. Twenty years ago the population went to zero
+in a single act. **The agricultural automatons have gone on farming ever since, because farming is what
+they were built to do:** the crop is grown, harvested and carried to store, and what turns before it can
+be stored goes to the composting beds. Nobody has eaten any of it.
+
+**Rewritten on that.** Xion walks the near edge for a quarter of an hour without reaching the end of it,
+and does the arithmetic in his father's voice, because grain against mouths is the Kemvimore trade and
+he grew up in rooms where men said *a family eats this much in a year* as a remark about the weather.
+*The answer had five digits in it.* He is not looking at a farm. He is looking at the number of people
+who lived here — **a quantity, the sort you could write on a page and hand to a clerk** — and the farm
+is still producing at that rate for all of them.
+
+**Brennek's dating beat is better for it.** He no longer measures decline; he counts. The composting beds
+go in in layers, year on year, with nothing to mix them because nothing down here does anything it was
+not told to, and the bank cuts like a riverbank and is banded. *"Everything else in this city is brass,
+and brass is no use to me. Brass looks the same after twenty years as after two thousand."* The garden is
+**the only clock in Lathion** — the one thing down here that ever got older. Twenty layers, and not
+nineteen, and not thirty. *"Somebody was eating this, Counselor. Right up until they weren't."*
+
+**`Places/Kaha'an/Lathion_ Physical Layout and Geography.md` was the source of the confusion and is now
+corrected.** Three entries still described a five-thousand-year ruin — *"gardens with living plants (now
+dead or overgrown with strange fungi)"*, *"automated food production (organic components decayed)"*,
+*"organic materials: decayed"* — pre-revision lore that the fresh-tomb pass never reached, and that
+contradicted `Chapter 7 - Wonder`'s *"green. Growing — actually growing."* Corrected, with a standing
+note at the state table: **where an entry reads as decline, check whether it describes an event or an
+absence — the answer is almost always an absence.**
+
+The ch8 and ch9 beat drafts were updated to match; ch9's confirmation now rests on handling marks, which
+are evidence of recent use rather than of decay, and its stale cross-reference to a "workshop
+conversation" that no longer exists is gone. Chapter is now 7,038 words.

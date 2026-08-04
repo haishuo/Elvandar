@@ -319,7 +319,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 **Architecture:** Varied—from grand estates in the Noble Quarters to compact but comfortable apartments in the Commons. Each neighborhood has distinct character. Designed for life, community, beauty.
 
-**Materials:** Mix of stone, brass, wood, and fabric. More organic than upper levels. Gardens with living plants (now dead or overgrown with strange fungi).
+**Materials:** Mix of stone, brass, wood, and fabric. More organic than upper levels. **The gardens are alive and tended.** The agricultural automatons have gone on farming the terraces for the twenty years since the city emptied, because farming the terraces is what they were built to do. Crops are grown, harvested and carried to store; what turns before it can be stored is taken to the composting beds and returned to the soil. Nobody has eaten any of it since the sacrifice.
 
 **Current State:** Homes appear recently abandoned. Tables set for meals never eaten. Beds made. Personal effects remain. Children's toys sit in playrooms. The eerie normalcy of interrupted daily life.
 
@@ -550,7 +550,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 **What Doesn't Work:**
 
 * Communication systems (no one to communicate with) — **the entry is precise and should not be read as damage.** The relay is fully functional; what it lacks is a second party. **This is the system Balisha revives and puts on the Golden Path's waystations**, and it is instantaneous over arbitrary distance. See `Lathion_ The Lost City of Gears.md`, "The Relay."  
-* Automated food production (organic components decayed)  
+* Automated food production — **fully operational, and still producing at capacity.** The terraces fed a population of roughly 100,000 for the two thousand years of the seal; they are still running at that rate for nobody  
 * Some magical wards (faded over millennia)  
 * External sensors (monitoring surface activity, now non-functional)  
 * Some specialized equipment (components failed, no replacements)
@@ -561,8 +561,16 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * Streets: Clean (maintained by automatons)  
 * Buildings: Intact, as if recently occupied  
 * Personal effects: Remain where left  
-* Organic materials: Decayed (food, plants, some fabrics)  
-* Mechanical systems: Operational  
+* Organic materials: **growing crops and stored produce are current, not decayed** — the farm never stopped. Decay applies only to what was left outside the automatons' remit: some fabrics, and anything organic the maintenance routines were not told to tend  
+* Mechanical systems: Operational
+
+> **Corrected 2026-08-04.** Three entries in this file still described Lathion as a five-thousand-year
+> ruin with dead gardens and decayed food stores. That is pre-revision lore and it contradicted both the
+> fresh-tomb canon and `Chapter 7 - Wonder`, which has the terraces *"green. Growing — actually
+> growing."* **Nothing in Lathion was damaged and nothing was interrupted.** The city was emptied by a
+> deliberate, prepared, consensual sacrifice; the machinery it left behind has run without a break ever
+> since. Where an entry reads as decline, check whether it is describing an event or an absence — the
+> answer is almost always an absence.  
 * Magical systems: Mostly functional
 
 **The Irony:** Above this perfectly preserved city—a civilization's masterwork still maintained by tireless machines—60,000 desperate humans live in darkness and poverty, squatting in the service tunnels like rats in the walls of a palace.
