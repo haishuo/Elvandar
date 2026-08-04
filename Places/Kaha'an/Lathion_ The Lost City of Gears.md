@@ -81,8 +81,8 @@ Approximately 2,000 years ago — roughly three millennia into Lathion's existen
 
 - The sealing was deliberate, not forced
 - The population participated willingly
-- The Great Shaft — Lathion's primary surface access during the open period — was deliberately collapsed and filled from below; the magitech elevator that had served it was destroyed
-- The Brass Door — a long-disused back entrance behind a network of natural caves — was sealed as a contingency, though the Lathionese reasoned that no one would ever reach it through the caves
+- The Great Shaft — Lathion's primary surface access during the open period, an elevator spine opening into the Crown's Arrival Halls — was deliberately collapsed and filled from below, leaving no open shaft and no surface trace; the magitech cars that had served it were destroyed and stripped for parts
+- The Brass Door — the freight entrance, and by then long disused — was sealed as a contingency, and the cut haul road that had served it was collapsed in the same operation, leaving only the natural caves it ran through. The Lathionese reasoned that no one would ever cross those caves to reach a door that would not open
 - The service tunnels above the door (now the Warrens) were left fully operational, since the city continued to need its HVAC, water, and maintenance infrastructure — but these were never designed to serve as a route INTO the city
 - The city's systems were configured for indefinite, self-sustaining operation
 

@@ -325,9 +325,11 @@ The tunnel network operates on clear vertical hierarchy based on depth:
 **Depth:** \-500+ meters  
  **Population:** 0 (no permanent residents)
 
+**What it is:** **natural caverns — not Lathionese construction, and not a designed maze.** Water, faulting and mineral precipitation made this network long before anybody built anything above it. A cut Lathionese freight road once descended through it to the Brass Door; that road was deliberately collapsed when the city sealed itself two thousand years ago, and what survives is the raw geology it had been driven through. Every lethal quality below is geological, not architectural. See `Places/Kaha'an/Lathion_ Physical Layout and Geography.md`.
+
 **Physical Description:**
 
-* Deep tunnel labyrinth leading downward  
+* Deep natural cavern network descending below the engineered service tunnels  
 * Three-dimensional maze where passages wind, loop, and dead-end  
 * Some sections flooded with dark water (depth unknown)  
 * Complete darkness (no functioning lighting systems)  
@@ -347,17 +349,17 @@ The tunnel network operates on clear vertical hierarchy based on depth:
 
 * Requires perfect map and careful navigation  
 * Takes a full day to traverse even with guidance  
-* Only one known safe route through (closely guarded secret)  
+* Only one known safe route through (closely guarded secret) — found by the Long Knives at great cost, **not** a rediscovered Lathionese path and not marked on the walls  
 * Without map, survival time measured in days (dehydration, getting lost)
 
 **The Brass Door:** At the end of one specific route through Dead Man's Passage lies a small antechamber:
 
 **Chamber Features:**
 
-* First true constructed space (not utilitarian tunnel)  
+* First true constructed space since the caves began (Lathionese construction resumes here)  
 * Perfectly preserved despite millennia  
 * Faint blue lighting (functioning ancient systems)  
-* Temperature: 80-85°F (27-29°C)  
+* Temperature: 68°F (20°C) — a **sharp drop** from the cave heat behind you, and cold to anyone raised in Kaha'an. The climate system treats this chamber as Lathion proper.  
 * Deep rhythmic sound from beyond door (like breathing or machinery)  
 * Perfect silence except for that sound
 

@@ -6,9 +6,15 @@ Lathion, known in legend as "The City of Gears," is an underground elven metropo
 
 **Location:** Beneath Kaha'an (modern surface city built unknowingly above)  
  **Depth:** Extends from \-500 meters to approximately \-2,000 meters below surface  
- **Size:** Roughly half the area of modern Kaha'an's surface footprint  
- **Population at Peak:** \~500,000 Lathionese elves  
- **Current Status:** Sealed from the surface ~2,000 years ago; inhabited until the Rending; empty for the twenty years since; systems still functioning
+**Size:** Roughly half the area of modern Kaha'an's surface footprint<br>
+**Population at Peak:** \~500,000 Lathionese elves<br>
+**Current Status:** Sealed from the surface ~2,000 years ago; inhabited until the Rending; empty for the twenty years since; systems still functioning
+
+**Canonical visual reference:** [Lathion — First Entry](<Lathion - First Entry.png>) depicts the Crown as Xion's expedition first sees it in Book 3, Chapter 7, *Wonder*.
+
+![Canonical visual reference: Lathion's Crown at first entry](Lathion%20-%20First%20Entry.png)
+
+The illustration is canonical for Lathion's visual register: a dense concentric ring-city whose pale civic surfaces, dark mechanical understructure, brass ribs, blue-white systems, garden terraces and radial streets all belong to one operating machine. It is a scene illustration rather than a scale drawing; the dimensions and seven-level geometry below remain authoritative.
 
 ---
 
@@ -116,26 +122,70 @@ The extensive tunnel network that current Warren residents inhabit was never mea
 
 ---
 
+## **The Great Shaft: The Front Door**
+
+### **What It Was**
+
+For the first three millennia of Lathion's existence the city was **not sealed**, and it did not receive the world through a gear in a cave. It received the world through the Great Shaft — a single enormous vertical conduit running from the surface down to the Crown, and the piece of engineering the Lathionese put in front of everybody they wanted to impress.
+
+**The shaft:**
+
+* A clear vertical bore from the surface to the Crown's arrival level  
+* Diameter on the order of the central city shaft — a work of civil engineering visible as a landmark in its own right  
+* Finished the whole way: no bare rock anywhere on the descent  
+* Lit, ventilated and climate-controlled from top to bottom, so that the journey down was already inside Lathion
+
+**The elevator spine:** not one car but a system, in the way a modern building has a system. Multiple magitech cars ran the shaft on independent tracks:
+
+* **The Main Car** — the ceremonial passenger car, and the one every surviving legend is a corruption of. Gold and brass, a floor big enough to hold a delegation, and the descent slow enough to be an experience rather than a transit. This is what a foreign ambassador, a trade envoy or a refugee column arrived in.  
+* **Secondary passenger cars** — routine traffic, smaller and faster, for people who were not being received  
+* **Freight cars** — heavy-goods lifts on their own tracks, sized for cargo rather than dignity
+
+**What it opened into:** the Crown's **Arrival Halls** and, beyond them, the **Diplomatic Quarter** — which is why those districts exist and why the Crown's architecture is "grand and impressive, designed to awe visitors from the surface." The Crown was built to be the face Lathion showed the world, and the Great Shaft is how the world got to it.
+
+**The Brass Door is the other thing.** It is the freight entrance — the loading dock at the back of the building, reached by the haul road, unceremonious because it was never ceremonial. That is why the antechamber beyond it is a bare eight-meter room and why the passage below it is "well-made and unbeautiful." A staff door into a beautiful building is still a staff door.
+
+### **The Destruction**
+
+At the sealing ~2,000 years ago the Great Shaft was **deliberately collapsed and filled from below**, and the elevators were destroyed. Both halves of that sentence are load-bearing:
+
+**Filled, not merely sealed.** There is no open pit under Kaha'an. A kilometer-deep hole in the ground would be the most famous landmark in the province — somebody's well-digger, somebody's foundation crew or somebody's caravan would find it inside a generation, and the entire premise that the surface has forgotten Lathion exists depends on there being nothing left to find. The surface trace is gone. Sand and two thousand years finished whatever the Lathionese left undone.
+
+**Destroyed, and then salvaged.** The Lathionese did not abandon a spine of the finest magitech they ever built. They stripped it. The cars were broken up and the recoverable components went back into the city, where they are presumably still doing quiet work in systems nobody has yet identified. Whatever residue lies at the bottom of the filled shaft is the part that was not worth carrying home.
+
+**What is not known, and by whom.** Nobody on the surface knows the Great Shaft existed. Nobody in Lathion survived to say so. The reason for the sealing went with them — see `Lathion_ The Lost City of Gears.md`. **The Repository does not hold the answer either**; if it did, somebody would ask it, and the question is worth more unanswered than answered.
+
+---
+
 ## **Dead Man's Passage: The Deep Labyrinth**
 
-### **Purpose and Design**
+### **Nothing About It Was Designed**
 
-Dead Man's Passage is not a navigation failure—it's intentional security.
+**Dead Man's Passage is not Lathionese construction and was never intended to be a route to anywhere.** It is a natural cavern network in the bedrock below the service tunnels (-500 to \-700 meters), formed by ordinary geological processes — water erosion, fault movement, mineral precipitation. The Lathionese inherited it as a feature of the ground they built in. They did not cut it, mark it, or fortify it.
 
-**Security Maze:** The deepest section of the service tunnels (-500 to \-700 meters) was designed as a defensive labyrinth. If surface invaders discovered the tunnels, this maze would prevent them from reaching Lathion proper. The Lathionese intentionally made this section:
+This is the single most important thing to hold on to when writing the Passage, because the temptation to make it sinister is constant and it is always wrong. Every quality that makes it lethal is geology:
 
-* Confusing (passages wind, loop back, branch at odd angles)  
-* Dangerous (structural weaknesses, toxic gas pockets, flooding)  
-* Unmarked (no navigational aids in the security section)  
-* Lethal (designed to trap and kill intruders through exhaustion and disorientation)
+* It winds, loops back and branches at odd angles because that is what caves do  
+* It floods because water made it and water is still in it  
+* It pockets toxic gas because gas collects in low ground  
+* It is structurally unstable because nothing about it was engineered to stand  
+* It is unmarked because there was never anybody to mark it
 
-**The True Path:** Only one specific route through Dead Man's Passage leads to the brass door. This path is marked with subtle Lathionese symbols invisible to those who don't know the key. The Long Knives discovered this path through years of trial, error, and loss of life—accidentally recreating what Lathionese security personnel once knew.
+**Why it kills:** in complete darkness, with no sense of direction or elapsed time, a competent navigator becomes lost, and a lost man at −600 meters dies of thirst before anything else reaches him. The Passage requires no malice to be lethal. It is simply a very large piece of unlit, unmapped, hot, wet rock, and there is no key to it because there is nothing keyed.
 
-**Why It Works:** In complete darkness, with no sense of direction or time, even the most skilled navigator will become lost. The Lathionese designed this maze using three-dimensional geometry and psychological principles—human minds cannot process the space without the key.
+**No true path exists in any Lathionese sense.** There is one route that gets a person from the Warrens to the Brass Door alive, and it was found the way such routes are always found: by the Long Knives, over years, through trial, error, and a great many corpses. The map is theirs. It is not a rediscovery of anything, and it is not marked on the walls. (See `The Warrens_ Factions and Power Structures.md`: the Mistress's map is her single most valuable possession precisely because it was bought and cannot be inferred.)
+
+### **The Freight Road That Used to Be Here**
+
+During the open period, Lathion's service and freight traffic did not crawl through caves. **A cut Lathionese haul road descended from the service tunnel network to the Brass Door,** running through and alongside the natural cavern system — which is why the Door stands where it stands, at a boundary that otherwise makes no sense. Freight moved on the road. The caves were the geology the road was driven through and around.
+
+**When Lathion sealed itself ~2,000 years ago, the haul road was deliberately collapsed** — the same act, the same day's reasoning, as the collapsing of the Great Shaft. This matters and should not be softened into decay: Lathionese construction does not decay. Everything else they built is still running after five millennia. Only demolition explains a missing road, and the Lathionese were thorough about the doors they closed.
+
+What remained after the demolition was the raw cavern network the road had bypassed. That network is what the Warrens now call Dead Man's Passage. Nobody living has any idea a road was ever there.
 
 ### **Current State**
 
-Still deadly. The security maze functions as designed, killing anyone who enters without the map. Flooding, toxic gases, and structural instability have only made it more dangerous over five millennia.
+Still deadly, and deadly for the reasons it has always been. Five thousand years of flooding, gas and rockfall have made it worse, not better. Traversal takes roughly a full day with a guide who knows the way, and is fatal without one.
 
 ---
 
@@ -165,7 +215,7 @@ Still deadly. The security maze functions as designed, killing anyone who enters
   * Mathematical sequence (numerical code)  
   * Magical resonance (attunement to Lathionese magical signature)
 
-**Why It's Sealed:** The Brass Door was sealed approximately 2,000 years ago, when Lathion withdrew from surface relations and collapsed the Great Shaft that had been its primary surface gate. The Brass Door — a long-disused back entrance behind a network of natural caves (Dead Man's Passage) — was sealed as a contingency, on the reasonable assumption that no one would brave the caves to reach it. The Lathionese did not "depart" — they continued to live in Lathion for the next two millennia behind the seal, ending only twenty years ago in the Rending. The door has remained sealed throughout: 2,000 years of Lathionese choosing isolation, followed by 20 years of nobody being left to open it.
+**Why It's Sealed:** The Brass Door was sealed approximately 2,000 years ago, when Lathion withdrew from surface relations and collapsed the Great Shaft that had been its primary surface gate. The Brass Door — the freight entrance, reached in the open period by a cut haul road that was collapsed in the same operation — was sealed as a contingency, on the reasonable assumption that nobody would brave the natural caves left behind (Dead Man's Passage) to reach a door that would not open anyway. The Lathionese did not "depart" — they continued to live in Lathion for the next two millennia behind the seal, ending only twenty years ago in the Rending. The door has remained sealed throughout: 2,000 years of Lathionese choosing isolation, followed by 20 years of nobody being left to open it.
 
 ### **The Antechamber**
 
@@ -440,7 +490,7 @@ Still deadly. The security maze functions as designed, killing anyone who enters
 
 1. Enter surface tunnels through Warren entrances  
 2. Descend through service tunnels (now inhabited by Warren residents)  
-3. Navigate Dead Man's Passage security labyrinth (-500 to \-700 meters)  
+3. Navigate the natural caverns of Dead Man's Passage (-500 to \-700 meters)  
 4. Reach the brass door antechamber  
 5. Open the brass door (requires specific capabilities)  
 6. Descend to The Crown (Level 1\)  
@@ -452,7 +502,7 @@ Still deadly. The security maze functions as designed, killing anyone who enters
 
 **Passive Security:**
 
-* Dead Man's Passage maze (deters/kills intruders)  
+* Dead Man's Passage (not a security measure — natural caves that happen to kill people; the Lathionese relied on it without building it)  
 * Brass door lock (prevents unauthorized access)  
 * Level-specific access controls (some areas require additional clearance)  
 * The Repository chamber (requires magical attunement to access safely)  
@@ -518,4 +568,3 @@ Still deadly. The security maze functions as designed, killing anyone who enters
 **The Irony:** Above this perfectly preserved city—a civilization's masterwork still maintained by tireless machines—60,000 desperate humans live in darkness and poverty, squatting in the service tunnels like rats in the walls of a palace.
 
 They have no idea that beneath their feet lies a city of wonders, still lit, still powered, still waiting.
-

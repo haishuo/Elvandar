@@ -663,6 +663,47 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 Decided. Retained so they are not reopened or re-flagged.
 
+### Lathion's two entrances — **AUTHOR'S RULING 2026-08-04**
+
+**The Great Shaft was the front door; the Brass Door is the freight entrance.** For the three
+millennia Lathion was open, arrivals came down the Great Shaft — a finished vertical bore from the
+surface into the Crown's Arrival Halls, served by an elevator **spine**: a ceremonial main car for
+delegations, smaller cars for routine traffic, freight lifts on their own tracks. The Brass Door is
+the loading dock at the back of the building, which is why its antechamber is a bare eight-meter room
+and why the passage below it is well-made and unbeautiful. Full description in `Places/Kaha'an/Lathion_
+Physical Layout and Geography.md`.
+
+**Three things ruled and not to be reopened:**
+
+1. **The Great Shaft was collapsed and *filled*.** There is no open pit under Kaha'an and no surface
+   trace. An open shaft would be found, and the premise that the surface has forgotten Lathion depends
+   on there being nothing to find.
+2. **The elevators were destroyed and stripped**; the recoverable parts went back into the city.
+3. **The Repository does not hold the reason Lathion sealed itself.** B3 ch9 walks the expedition into
+   the Repository, so this needs to be settled before the chapter is drafted: the reason went with the
+   people who had it. Do not plant an answer nobody pays.
+
+**Dead Man's Passage is natural caverns — not Lathionese construction, not a designed maze.** A cut
+haul road once descended through the caves to the Door and was **deliberately collapsed** at the
+sealing (demolition, not decay — Lathionese work does not decay). What survives is bare geology. There
+is no "true path" marked in Lathionese symbols; the Long Knives' map was bought with corpses, which is
+what B1 ch20, B3 ch6 and the Factions doc have always said. The three-way contradiction between the
+Lathion layout, Kaha'an geography and B3 working notes is closed; all four docs now agree.
+
+**Blast radius: none in the prose.** No chapter, beat draft, skeleton or Royal Road file changed. B1
+ch19–21 and ch23 name the Passage repeatedly and never say who cut it.
+
+### Lathion's canonical visual — **AUTHOR'S RULING 2026-08-04**
+
+`Places/Kaha'an/Lathion - First Entry.png` is the canonical location illustration for the Crown at the
+end of B3 ch7, *Wonder*. Its visual register is binding: **dense concentric city-rings, radial streets,
+pale civic surfaces over a dark mechanical understructure, brass ribs, integrated blue-white systems,
+living garden terraces, and the open central shaft descending toward the Core's warm glow.** Lathion is
+a city built into one operating machine, not a conventional bright palace district and not a decayed
+steampunk ruin. The illustration is not a scale drawing; the prose and `Lathion_ Physical Layout and
+Geography.md` remain authoritative for dimensions and the seven-level structure. The superseded first
+render was deleted when the revised image was promoted to the canonical filename.
+
 ### The beat-draft body/instruction rule — **AUTHOR'S RULING 2026-08-02. Applied to all 64 drafts**
 
 **The rule.** The beats in the body of a beat draft are what appears on the page, and nothing that does not
