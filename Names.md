@@ -100,7 +100,8 @@ day. Neither has ever said so to the other on the page.
 | **Adren Thulgrav** | Gunastran lead engineer, ~50. **She/her** | Old Gunastran |
 | **Ondra Kelgrav** | Gunastran | Old Gunastran |
 | **Veldrin Torkal** | Consortium Chair, Master Engineer, Gunastran | Old Gunastran |
-| **Kaiden Voss** | The engineer of ch8–10 — **unwritten, and under review; see below** | *contested* |
+| **Ormuth** | The Urathan lead scholar. Leads the contingent at the Door and inside the city, ch7–11 | Old Lathionese |
+| **Brennek** | The crown surveyor. Four days on a plan for a door that would not open, eleven pages on it, four hundred minutes hunting a seam — ch2, and ch3 opens on Kael reading his report aloud. Xion's practical counterpart inside Lathion, ch8–10 | Proto-Balishan |
 
 ## Book 4
 
@@ -152,6 +153,18 @@ father and son will share sentences, and *Kael/Kai* differ in one syllable's cod
 distinction the language guide calls the least reliable there is. Sons named after fathers is
 true to life and may well be worth the cost. Flagged, not proposed — the author's call.
 
+## Coined 2026-08-04, and why these two
+
+***Brennek*** is the last survivor of the language guide's five Balishan-common examples: *Halmore*
+went to Book 4, *Vannas* is V-initial, *Doric* lands in the D crowd with Draskin/Dermir/Deshi, and
+*Tovanne* in the T crowd with Tania/Tam. ***Ormuth*** took the last free O. Two Old Lathionese endings
+were already closed to it — *-eth* by **Mereth**, a Urathan scholar who would be named in the same
+breath, and *-ath* by *Urath / Uratha*. The rejected candidate was *Haluth*: H is the last unused
+initial in the entire series, and it shares its /l/ and /θ/ with **Lathion**, which is said constantly
+in exactly the chapters the scholar appears in. **Both names replace *Kaiden Voss***, who was never
+written, whose nation the sources disagreed on, and who was himself a collision — one syllable,
+V-initial, sharing an expedition with **Vesk**.
+
 ## Names already spent, and how
 
 Four renames were forced after the fact. Do not re-coin any of these: **Ver'anar** → *Tor'anar*,
@@ -163,7 +176,7 @@ Zarnstran*, **House Vex** → *Sedranne*, **Silas Vex** → *Bregan Haldorn*, **
 Free series-wide: **H, Q, U, Y**.
 
 **Initials spoken in Book 3:** A, C, D, E, F, I, K, L, M, O, R, S, T, V, X.
-Free in Book 3: **B, G, H, N, P, U, W, Y, Z**.
+Free in Book 3: **G, H, N, P, U, W, Y, Z** — B and O were spent on Brennek and Ormuth, 2026-08-04.
 
 **Endings now crowded and best avoided:** *-anar* (Valanar, Tor'anar), *-eth* (Mereth, Ilareth),
 *-ath* (Urath, Uratha), *-in* (Draskin, Darfi-adjacent), *-onne* (Vartonne, Marrethonne),

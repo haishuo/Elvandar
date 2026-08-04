@@ -477,12 +477,18 @@ C-26, C-27 and C-28 were opened in their place and all three are applied — see
 
 These are live work, not review findings against finished prose.
 
-**B3-1 — `Chapter 6 - Fair Price`: beat draft written 2026-08-03, awaiting the author's read. Prose not
-started.** The skeleton entry is signed off and the draft is built from it. Four constraints came out of the design discussion
-and all four are recorded in the skeleton entry: the Ronas-sells-access / Mistress-sells-presence
-distinction has to be stated plainly once, because **the author wrote ch2's *"Dermir owns him"* and still
-misremembered the lieutenant as a Long Knife**; Farleen argues *for* the Knives and is the one who
-disproves it; Xion goes to the Iron Hall and Elara does not; and neither man says Melina's name.
+**B3-1 — `Chapter 8 - Inhabitants`: beat draft revised 2026-08-04 on three author rulings. Prose not
+started.** The draft predated both the ch6 insertion and ch7's rewrite. The rulings: *Kaiden Voss* is
+retired and the practical man is **Brennek**, the ch2 crown surveyor who catalogued the door; the
+Urathan lead scholar is named **Ormuth**; and the recency discovery arrives through **the closed
+room** — nothing broken, nothing dropped, everything set down — with Brennek's wear-reading supplying
+the date afterward rather than carrying the discovery. Full reasoning in the changelog. Three things
+the prose must hold: the twenty-years/no-mechanism argument runs **once**, in beat 12, and the night
+walk keeps only its cost; Elara **does not read**, and the scholars' shift from *what does this say*
+to *is this important* is the chapter's political seed; and the Tor'anar and Arol Batae stay furniture.
+
+*(B3-1 previously tracked `Chapter 6 - Fair Price`, cleared 2026-08-03 — draft and prose both written,
+signed off, and revised through nine rounds of the author's notes. The chapter is at 5,443 words.)*
 
 **B3-2 — `Book 3 - Crown Jewel/_WORKING_NOTES.md` is stale and banner-flagged.** Its table claims 18
 chapters and calls *Negotiations* ch3; it predates the 2026-08-01 Storm-Line insertion and is now two

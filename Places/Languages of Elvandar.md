@@ -151,8 +151,12 @@ Kira carried 8.
 Three things fell out of that pass, and they are the pattern to look for:
 
 - ***Kira Voss* → *Perrin Halmore*.** The surname was the worse half of the collision and nobody had
-  noticed it: **Kaiden Voss** is the Urathan engineer in Book 3 ch8–10, so two Urathans one book apart
-  shared a surname *and* an initial, which reads as a deliberate family relation that does not exist.
+  noticed it: *Kaiden Voss* was then the Book 3 engineer, so two characters one book apart shared a
+  surname *and* an initial, which reads as a deliberate family relation that does not exist.
+  *(**Voss is now retired entirely.** On 2026-08-04 that character became **Brennek**, the Balishan
+  crown surveyor of ch2 — see `Names.md`. *Voss* was itself a collision nobody had caught: one
+  syllable, V-initial, sharing an expedition with **Vesk**. Two independent flaws in one unwritten
+  name is the argument for keeping the register.)*
   Rename both halves or you fix the smaller problem and keep the larger one. *P* was chosen because it
   was unused anywhere in the series; *Halmore* is one of the Balishan-common examples above.
 - ***Lydia Karven* → *Wilka Zarnstran*.** *Karven/Kalden* is the Vesk/Vrek error again — two syllables,

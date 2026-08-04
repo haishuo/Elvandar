@@ -77,7 +77,7 @@
 
 **Elara post-Engine:** She is functioning. That is the only honest frame. The Empress face she puts on for the negotiation is real — she is a sovereign and she is doing the job — but the woman beneath it is not yet able to feel anything that is not the chamber. Xion sees both layers. The reader should too. Her single act of authority during the negotiation (the *yes* on exclusivity) is precisely calibrated: it is the move of a woman who has the deal's structure in her head and does not have the bandwidth for the bridging conversation Xion would otherwise lead. It is also a quiet signal to Draskin that the Empress, however drawn she looks, is paying attention.
 
-**Voss is offstage.** The chapter is a court negotiation; Voss has no role at this table. He is presumably with Balishan engineers being debriefed on the schematics. Mention him only if needed for some specific information beat; otherwise let him be absent.
+**Brennek is offstage.** The chapter is a court negotiation; Brennek has no role at this table. He is presumably with Balishan engineers being debriefed on the schematics. Mention him only if needed for some specific information beat; otherwise let him be absent.
 
 **Farleen is offstage.** She is in the building, has resumed her camp-style role of making sure the principals are functional and have eaten, but is not in the negotiation. She does not need to be. Her presence is consistent with her established pattern.
 

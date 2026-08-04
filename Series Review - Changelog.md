@@ -6335,3 +6335,70 @@ answered is exactly that, and it is being shut rather than left ajar.
 **Two chapters of Book 1 prose have now been edited today** — ch4 here, and nothing else — alongside Book
 2's ch10. Both books were previously described in this record as having had no editorial changes applied.
 That description is no longer true and the record says so.
+
+---
+
+## 2026-08-04 — B3 ch8 beat draft revised; *Kaiden Voss* retired for **Brennek**; the lead scholar named **Ormuth**
+
+The ch8 draft predated both the ch6 insertion and ch7's rewrite, and a re-read against the current
+prose turned up three problems the author ruled on together.
+
+**Voss did not exist, and could not have.** He appeared in the ch8–11 drafts, the skeleton and the
+working notes, and in **no chapter of any book** — yet ch8 introduced him as an established presence
+("emerges as a presence in these first days"). The sources also disagreed on his nation: `Languages of
+Elvandar.md` called him "the Urathan engineer," the skeleton put him on Balisha's practical track
+(*"what does Balisha actually need from this place"*). And ch3 had already settled that Balisha has no
+engineering to send — Silvanno's *"neither is us and neither will ever be us"* — so a crown Engineer
+arriving at the Door was a rule-1 problem, not a staging one.
+
+**He is now Brennek, and he was already on the page.** The senior surveyor of ch2 — four days building
+a plan for a door that would not open, eleven pages, four hundred minutes hunting a seam he never
+found, and *"not a man given to excitement… he had a phenomenon and no framework, and it was eating
+him."* ch3 opens on Kael reading his report; ch6 has his eleven pages weighted down on the camp table.
+He earns the descent by having catalogued the door, and a cold introduction becomes a payoff.
+
+***Voss* was independently a bad name.** One syllable, V-initial, sharing an expedition with **Vesk** —
+the exact *Vesk/Vrek* collision that forced the Scholar-King's rename, with the aggravating factor the
+language guide calls decisive: they co-occur constantly, both being the practical men in the same
+scenes. Two unrelated flaws in one unwritten name.
+
+**The lead scholar is Ormuth.** He carries ch8 and recurs through ch11 and could not stay "the lead
+scholar" — that held in ch7 only because he was one figure inside a single event. Constrained on both
+sides: *-eth* was closed by **Mereth**, a Urathan scholar who would be named in the same breath, and
+*-ath* by *Urath / Uratha*. *Haluth* was rejected — H is the last unused initial in the series, and it
+shares its /l/ and /θ/ with **Lathion**, said constantly in exactly those chapters.
+
+**The recency discovery now arrives through a room, not an arithmetic.** The draft had routed the whole
+thing through the surveyor reading wear-rates: an inference, delivered as a figure. The skeleton's
+version — *nothing broken, nothing dropped, a house that was closed by people who had time* — was
+stronger and had been lost. Restored as the primary route. One closed room says at once that they were
+not surprised, that they had time, that they chose, that they expected somebody, and that they knew
+they were not returning, and no dialogue decodes any of it. It is also **Xion's instrument**: he reads
+rooms for what was done in them. The automatons make it work — they account for cleanliness, so the
+tell has to be *arrangement*, which is a decision and not a mechanism. Brennek then supplies the one
+thing the room cannot, a date, and only then does the Rending come up.
+
+**Beat 16 was re-running beat 9** — the same twenty-years/no-mechanism argument at higher volume, which
+is the repetition failure by name. The argument now runs once. The night walk keeps only what the
+argument cannot do: a Lathionese child on this boulevard while Xion was a child in the sun above it.
+*They were not a lost people. They were neighbours.*
+
+**Also fixed:** a verbatim collision with ch7's closing image (*"the colour of the earth's own heat"*);
+a beat carrying four namings at once, split; two beats that scripted their dialogue instead of
+describing it; an unnamed female Tor'anar in the footer, now male under the standing rule; and beat 6's
+assertion that the automatons had run "without interruption for fifty centuries," which is the
+assumption the chapter dismantles and now sits in Xion's head rather than in the narration.
+
+### Skeleton drift, corrected in the same pass
+
+- **ch7 described dispatches being sent to Uratha.** The prose has none — ch7 ends on *"Lathion."* The
+  dispatch is a ch8 beat. Cut, and ch10's *"the dispatches sent from Chapter 7"* corrected to ch8.
+- **ch8 said Elara "can parse enough to confirm the scholars' working theories, correct their
+  errors."** Her own beat draft says the opposite, deliberately and in detail: she does not read, she
+  gives impressions, and the scholars' shift from *what does this say* to *is this important* is the
+  chapter's political seed. The skeleton now matches the draft.
+- **`_WORKING_NOTES.md` is stale by two renumbers** and discusses Ch6 Wonder / Ch7 Inhabitants / Ch8
+  Repository / Ch9 Engine throughout. A partial renumber was attempted and **reverted for making it
+  worse** — some references had been corrected in passing and some had not, and the file gives no way
+  to tell which. It now carries a warning banner instead and needs a deliberate pass or deletion. The
+  *Voss* → *Brennek* rename was applied there, being unambiguous.

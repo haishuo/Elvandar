@@ -1,3 +1,11 @@
+> **STALE NUMBERING — do not cite this file for chapter numbers.** It was written before two
+> insertions (`Chapter 3 - Storm-Line`, 2026-08-01; `Chapter 6 - Fair Price`, 2026-08-03) and its
+> references are off by one or two in ways that vary line to line — some were corrected in passing
+> and some were not, and there is no reliable way to tell which from the file itself. A partial
+> renumber was attempted on 2026-08-04 and reverted for making it worse. **The authoritative
+> documents are the beat drafts and `book3_chapter_skeleton.md`.** This file needs a deliberate
+> pass or deletion; until then, treat every `ChN` in it as unverified.
+
 # Book 3 Working Notes — Current State
 *Temporary file. Delete when no longer needed.*
 
@@ -78,7 +86,7 @@ Original requirements (preserved for reference):
   - Other names can be coined as needed
 - **Elara's "return" beat:** Early in this chapter, Elara has a quiet private moment of recognition. She has been carrying fragments of this place her whole life without knowing it. Standing here, it resolves. "Standing here was not discovery. It was return." This is NOT announced — Xion observes it without fully understanding it.
 - **Elara reading fragments:** She can parse some ancient text — not fluently, not explainably — enough to confirm scholars' theories, correct errors, occasionally point at a section and say *that one matters* without knowing why.
-- **Xion + Voss practical track:** Engineer Kaiden Voss and Xion start working parallel to the scholars — what can actually be used, what does Kaha'an need. Voss has an engineer's eye for organizing logic.
+- **Xion + Brennek practical track:** Brennek, the crown surveyor, and Xion start working parallel to the scholars — what can actually be used, what does Kaha'an need. Brennek has an engineer's eye for organizing logic.
 - **Uratha dispatch note:** Messages were sent to Uratha about the discovery (off-screen). This fact is mentioned but not dwelt on. The consequences arrive later.
 - **NO Uratha-suspicious framing.** The scholars are not yet acting in bad faith — they're genuinely overwhelmed scholars doing what scholars do. The political move happens after they emerge, not during.
 - **D'ni / Uru energy:** Exploration chapters should feel exciting. Think the Book of D'ni (Myst novel) or the Uru video game — exploring an ancient underground city, each new room a discovery. This should be fun and wonder-driven.
@@ -86,7 +94,7 @@ Original requirements (preserved for reference):
 ### Priority 2: Chapter 8 beat draft — The Repository ✅ DONE
 Beat draft regenerated from scratch under the corrected canon. Key shifts from the old draft:
 - **The bequest framing.** The Repository is no longer a 5,000-year-old archive miraculously preserved. It is the deliberate work of a civilization that had time to use, and used it on this. The Lathionese organized the room to be findable and legible to strangers who would share none of their assumptions. *Nothing in Lathion was abandoned. Everything was set down.*
-- **Recency thread deepens.** Voss reads the indexing wear and confirms the Repository was being actively maintained within the last generation. The "twenty years" number is now lodged in a second piece of evidence. The expedition does not re-argue the Rending coincidence; the second confirmation just sits on top of the first.
+- **Recency thread deepens.** Brennek reads the indexing wear and confirms the Repository was being actively maintained within the last generation. The "twenty years" number is now lodged in a second piece of evidence. The expedition does not re-argue the Rending coincidence; the second confirmation just sits on top of the first.
 - **Hedrin Vall removed.** No named Urathan villain. The contingent is treated as scholars-doing-scholarship; the lead scholar weeps from professional vertigo, not malice. The political seed is *the scholars cannot stop themselves*, which Uratha-the-state will later weaponize.
 - **Political dread cut.** The original draft ran a "Xion realizes the Repository is the mechanism for a continental war" thread; that belongs to Ch10/11. Ch8's weight on Xion is moral/metaphysical: he owes the dead.
 - **Elara's reactions calibrated up from Crown, well below Engine.** She points at adjacencies the scholars wouldn't find for hours; gives two cryptic articulations (*they knew*; *they were not strangers, Xion. Not exactly.*); cannot translate; cannot explain.
@@ -94,7 +102,7 @@ Beat draft regenerated from scratch under the corrected canon. Key shifts from t
 ### Priority 3: Chapter 9 beat draft — The Destiny Engine ✅ DONE
 Regenerated from scratch under the new canon. Key elements landed:
 - **Opening reframed.** No more Compact-news opening (that was wrong for the new chapter position — the Compact forms in Ch16). Ch9 opens on the pull Elara has been carrying since the Repository.
-- **The Engine is visibly other.** Three beats (3–5) establish the corridor, chamber, and Engine as hastier, less finished, less elegant than the rest of Lathion *before* Elara touches anything. Voss says so aloud: *Someone made this in months.* The reader who has been following the recency thread should clock it immediately.
+- **The Engine is visibly other.** Three beats (3–5) establish the corridor, chamber, and Engine as hastier, less finished, less elegant than the rest of Lathion *before* Elara touches anything. Brennek says so aloud: *Someone made this in months.* The reader who has been following the recency thread should clock it immediately.
 - **The vision is specific, not abstract.** It is the Rending, witnessed from Lathion's side: the Gray Gate opening, the first wave, her parents in the imperial party, the Lathionese instruments measuring, the council deliberating, the months of preparation (including the Repository's organization — the Ch8 bequest framing is retroactively explained), the final day, the seal, and — critically — the shockwave reaching her infant self in the Ruby Palace cradle. *She experiences the moment she became what she is.*
 - **The retroactive completion of Ch8.** Her cryptic phrases from Ch8 (*they knew*; *they were not strangers, Xion. Not exactly.*) are now legible. They had time; they used it on whoever would come; she is who came.
 - **The line that anchors the chapter:** *I'm sorry it took us so long.* Spoken to the dead, twenty years late, in the room they died in.
@@ -166,7 +174,7 @@ A series-wide canon-consistency pass landed between sessions. The authoritative 
 
 **Throughline implication for the Lathion arc:** The expedition is, without anyone realizing it, descending from Lathion's attic (the Warrens, originally Lathion's service tunnels) into Lathion itself, via the service entrance. The Brass Door is not the city's front gate; it is the freight door. (The original front gate — the Great Shaft — was destroyed when the city sealed itself.) None of this is known to the expedition or anyone on the surface.
 
-**Verification pass done on 5,000-year language.** In our drafts: Ch6 (locked) keeps its "five thousand years" phrasing as characters' in-character imprecision (they cannot know better; the Door *is* 5,000 years old, but the seal isn't). Ch7 was edited to soften "five thousand years sealed" → "millennia" / "long before any account he has read" in Xion/Voss interiority, because the recency chapter is *about* their assumptions being wrong and we should not commit them to a *specifically wrong* number. Ch8 needed no changes. Ch9's vision was edited to use the canonical *2,000 years* of sealed observation (the vision is Engine-truth, so Elara witnesses the actual numbers).
+**Verification pass done on 5,000-year language.** In our drafts: Ch6 (locked) keeps its "five thousand years" phrasing as characters' in-character imprecision (they cannot know better; the Door *is* 5,000 years old, but the seal isn't). Ch7 was edited to soften "five thousand years sealed" → "millennia" / "long before any account he has read" in Xion/Brennek interiority, because the recency chapter is *about* their assumptions being wrong and we should not commit them to a *specifically wrong* number. Ch8 needed no changes. Ch9's vision was edited to use the canonical *2,000 years* of sealed observation (the vision is Engine-truth, so Elara witnesses the actual numbers).
 
 **Canon doc verified:** `Magic/The Rending.md` lines 177 and 179 are already fully updated to the new lore (built 5K, open 3M, sealed 2K, Great Shaft destroyed, Brass Door as long-disused back door).
 
@@ -177,7 +185,7 @@ What Gunastran *does* realistically know in Book 3: Lathion is real (leaked disp
 **Governing structure of the exploration arc (Ch6–8): assume → name → dismiss → confirm.**
 - Ch6 (Wonder): expedition assumes an ancient ruin. *Leave Ch6 pure.* The "5,000 years" language is reasonable awe, not error.
 - Ch7 (Inhabitants): expedition discovers the city was emptied only ~20 years ago. They explicitly name the coincidence (*twenty years is also the year of the Rending*) and dismiss it on the only ground available — no mechanism by which a surface catastrophe could have reached a sealed city. The dismissal is correct on the evidence; it doesn't settle.
-- Ch8 (The Repository): the recency deepens (Voss reads indexing wear, confirms twenty years in a second piece of evidence). The bequest framing emerges. Political/military framing stays off — moral weight only.
+- Ch8 (The Repository): the recency deepens (Brennek reads indexing wear, confirms twenty years in a second piece of evidence). The bequest framing emerges. Political/military framing stays off — moral weight only.
 - Ch9 (The Destiny Engine): the dismissed hypothesis is *confirmed*, not deduced — Elara witnesses the Rending itself through the Engine, and realizes Lathion died in the same catastrophe that orphaned her.
 
 ## Critical worldbuilding rules — do not violate
@@ -204,7 +212,7 @@ What Gunastran *does* realistically know in Book 3: Lathion is real (leaked disp
 
 **Xion:** First Counselor to the Crown, POV character. Healer by training. Reads systems. His response to discovery is always partly practical — what does this mean for people who are suffering.
 
-**Engineer Kaiden Voss:** New character introduced in Chapter 7/7. Applied engineering mindset, counterpart to the scholarly track. Brings findings to Xion rather than to the scholars — a small but meaningful choice.
+**Brennek, the crown surveyor,:** New character introduced in Chapter 7/7. Applied engineering mindset, counterpart to the scholarly track. Brings findings to Xion rather than to the scholars — a small but meaningful choice.
 
 **Scholar-King Leowin Draskin:** In Uratha for Chapters 5 and 10. NOTE: Chapter 4's description of him may be inconsistent with later chapters — this needs checking when those chapters are revised. Work sequentially and fix inconsistencies as encountered.
 

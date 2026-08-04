@@ -175,26 +175,24 @@ Behind it: Lathion. The City of Gears.
 
 This is the book's first moment of genuine, unalloyed wonder. After the darkness of Book 2, after scars and hollow victories and empty treasuries, here is something that takes Xion's breath away. A lost civilization, preserved in brass and crystal, technology so advanced it makes Gunastran look primitive. The scale of it. The beauty of it. The *possibility* of it. For a few pages, nobody is calculating political advantage. They're just staring. The chapter ends on someone whispering the word "Lathion" — the name they've known only from legend, now standing inside the thing itself.
 
-Meanwhile, dispatches are sent back to Uratha. The scholars cannot help themselves — this is too momentous to sit on. Those dispatches will have consequences.
-
 **Sets up:** Everything — the Lathion technology race, the existential threat to Gunastran, the Compact formation.
 
 ---
 
 ### Chapter 8: Inhabitants
 **Timeline: First days inside Lathion**
-**Characters present: Xion, Elara, Urathan scholars, Farleen, Kaiden Voss**
+**Characters present: Xion, Elara, Farleen, Brennek (the crown surveyor), Ormuth (the Urathan lead scholar), the Urathan contingent**
 **Emotional work: Wonder becoming something stranger — the discovery that the city is ancient, but its emptiness is not**
 
 The expedition establishes a working camp. The wonder of Chapter 7 hasn't faded — it has simply become the air they breathe, which is its own kind of extraordinary. The lights never change. The temperature never shifts. The slow rotation of the uppermost level underfoot takes getting used to. The self-repair automatons move through corridors at odd hours, cleaning surfaces no one has dirtied. The expedition learns not to startle at them.
 
 They begin, out of practical necessity, to give things names. Not Lathionese names — those died with the civilization that made them. Working names, coined by scholars who need to refer to locations and have nothing else to call them. The uppermost level becomes "the Crown" (it sits at the top, like one). The vast chamber of brass objects becomes "the Repository." The threshold space at the conveyor's base gets called "the Gatehouse." These names spread through the camp and stick, the way improvised names always do. The reader gets the terminology the same way the characters do: coined on the spot, practical, entirely human.
 
-**The discovery that reframes everything.** The expedition walked in assuming what anyone would assume — that Lathion is an ancient ruin, a city five thousand years lost. The architecture *is* that old: the brass, the scale, the engineering all genuinely belong to deep antiquity. But as they begin to truly explore — not gawking now, but *looking* — the signs accumulate, and they do not fit a five-thousand-year absence. This city was inhabited, and not in legend — recently. The evidence is quiet, and the quiet is itself the clue: no meal half-eaten, nothing caught and stopped mid-gesture. This is a city that was *closed* — deliberately, by people who had time. Affairs put in order. Things set down, not dropped. A civilization that knew it was leaving and tidied the house behind it. The realization lands slowly and then all at once: Lathion is five thousand years old, but it was *alive* a generation ago — emptied within living memory, within Elara's own lifetime. The chapter does not end on bewilderment but on a coincidence the characters explicitly name and explicitly dismiss. *Twenty years ago is also the year of the Rending.* Xion says it aloud when Voss states the number; Voss rejects it on the only ground he has — the Rending was a surface catastrophe, and there is no mechanism by which it could have reached a city sealed underground behind a brass door shut for five thousand years. The dismissal is correct on the evidence. It does not take. The reader, who knows where the book is going, sees what the characters cannot yet prove: the year is not a coincidence at all. The chapter closes on that suspended note — a hypothesis named, set aside on principle, and refusing to settle.
+**The discovery that reframes everything.** The expedition walked in assuming what anyone would assume — that Lathion is an ancient ruin, a city five thousand years lost. The architecture *is* that old: the brass, the scale, the engineering all genuinely belong to deep antiquity. But as they begin to truly explore — not gawking now, but *looking* — the signs accumulate, and they do not fit a five-thousand-year absence. This city was inhabited, and not in legend — recently. The evidence is quiet, and the quiet is itself the clue: no meal half-eaten, nothing caught and stopped mid-gesture. This is a city that was *closed* — deliberately, by people who had time. Affairs put in order. Things set down, not dropped. A civilization that knew it was leaving and tidied the house behind it. The realization lands slowly and then all at once: Lathion is five thousand years old, but it was *alive* a generation ago — emptied within living memory, within Elara's own lifetime. The chapter does not end on bewilderment but on a coincidence the characters explicitly name and explicitly dismiss. *Twenty years ago is also the year of the Rending.* Xion says it aloud when Brennek states the number; Brennek rejects it on the only ground he has — the Rending was a surface catastrophe, and there is no mechanism by which it could have reached a city sealed underground behind a brass door shut for five thousand years. The dismissal is correct on the evidence. It does not take. The reader, who knows where the book is going, sees what the characters cannot yet prove: the year is not a coincidence at all. The chapter closes on that suspended note — a hypothesis named, set aside on principle, and refusing to settle.
 
-Elara begins reading fragments. Not fluently — she cannot explain how she reads any of it — but she can parse enough to confirm the scholars' working theories, correct their errors, and occasionally point at a section of text and say *that one is important* without being able to say why. The scholars find this professionally maddening and practically indispensable, the same accommodation they reached at the Door.
+**Elara does not read.** She recognizes the language as Lathionese the way an English speaker recognizes Spanish without speaking it, and occasionally a passage carries an *impression* — warning, importance, age, connection to that other passage. She cannot translate and cannot explain. What changes over these two days is the scholars' question: they stop asking her *what does this say* and start asking *is this important*, which is one she can sometimes answer. They find it professionally maddening and practically indispensable, the same accommodation they reached at the Door.
 
-Xion and Engineer Kaiden Voss begin working the practical track: what can be used, what can be understood well enough to implement, what does Balisha actually need from this place. Voss has an engineer's eye for organizing logic. He and Xion form a working partnership that runs parallel to the scholarly track — two different relationships with the same city.
+Xion and the surveyor Brennek begin working the practical track: what can be used, what can be understood well enough to implement, what does Balisha actually need from this place. Brennek has an engineer's eye for organizing logic. He and Xion form a working partnership that runs parallel to the scholarly track — two different relationships with the same city.
 
 **Sets up:** The Repository chapter; the distinction between scholarly and practical responses to Lathion; and — through the recency discovery — the dread that pays off in Chapter 10, when Elara learns *what* happened twenty years ago.
 
@@ -202,14 +200,14 @@ Xion and Engineer Kaiden Voss begin working the practical track: what can be use
 
 ### Chapter 9: The Repository
 **Timeline: Deeper into the exploration**
-**Characters present: Xion, Elara, Urathan scholars, Kaiden Voss**
+**Characters present: Xion, Elara, Urathan scholars, Brennek**
 **Emotional work: The weight of depth — scale not of space but of knowledge**
 
 The Repository: a vast spherical chamber, still lit, still breathing with soft mechanical purpose. The brass "books" — objects that are not books in any meaningful sense, more like dense crystalline forms that contain information the way a river contains water — line the walls in complex nested arrangements. Thousands. Tens of thousands. The city communicated scale and beauty. This room communicates *depth*. Whatever is stored here is not architecture. It is everything a civilization knew.
 
 Elara can navigate it by instinct — not reading, but feeling which sections belong together, the way you feel chapters in a book you've held many times even without seeing the pages. The Urathans watch this with intensity they don't bother to conceal. They take notes. Xion watches them watching her.
 
-Voss identifies the infrastructure schematics — a cluster of forms that correspond, by configuration and material density, to technical documentation. He brings his findings to Xion rather than to the scholars. A small choice. Xion notices it. What Voss has found is staggering: water purification scaled for a city, agricultural systems, energy distribution. Each one, taken individually, the most significant engineering discovery in Elvandar's recorded history. Xion goes quiet in the way he goes quiet when something hits him as a healer rather than a counselor. Every problem he has watched people die from in Kaha'an's desert margins has an answer in this room.
+Brennek identifies the infrastructure schematics — a cluster of forms that correspond, by configuration and material density, to technical documentation. He brings his findings to Xion rather than to the scholars. A small choice. Xion notices it. What Brennek has found is staggering: water purification scaled for a city, agricultural systems, energy distribution. Each one, taken individually, the most significant engineering discovery in Elvandar's recorded history. Xion goes quiet in the way he goes quiet when something hits him as a healer rather than a counselor. Every problem he has watched people die from in Kaha'an's desert margins has an answer in this room.
 
 The Urathans' discovery is different in kind. They've reached the theoretical sections — mathematics at a register current scholarship hasn't touched, cosmological frameworks so advanced that the scholars argue constantly about what they're even reading. They are not finding answers. They are finding the shape of questions they didn't know how to ask. They cannot stop. Xion passes through their workspace and none of them have eaten.
 
@@ -238,7 +236,7 @@ Xion sees her face and knows something terrible happened in there. She tells him
 
 They emerge from Lathion. The world above has not been standing still.
 
-**Sets up:** The Scholar-King's return offer — the dispatches sent from Chapter 7 have done their work, and Uratha has decided that what it originally negotiated is no longer sufficient.
+**Sets up:** The Scholar-King's return offer — the dispatch sent from Chapter 8 has done its work, and Uratha has decided that what it originally negotiated is no longer sufficient.
 
 ---
 
