@@ -51,6 +51,51 @@ The Grain Cartel operates:
 
 Rosik himself is calculating, patient, and understands that his power derives from people's most basic need. He can be surprisingly generous when it serves his interests, knowing that occasional mercy builds loyalty more effectively than pure cruelty. However, he never forgets that hunger is his greatest weapon.
 
+---
+
+### **How Kaha'an actually pays for its dinner — author's ruling, 2026-08-04**
+
+**One catastrophe created both halves of this economy, and they are very nearly the same size.** The
+Rending destroyed the farmland around Kaha'an, so the city must import nearly everything it eats. The
+Rending *also* killed the Deepwood and the back-country tracks beyond it, which is where caravans used to
+route to avoid the capital's tariffs — see `Places/elvandar_geography.md`: before, *"Kaha'an was important,
+not unavoidable"*; after, the bypasses **ceased to exist as routes.**
+
+**So Kaha'an became the only road at the same hour it became unable to feed itself.**
+
+**The legitimate income is enormous and it is geographic.** Effectively all east–west trade across
+Elvandar must pass the Golden Gates, because the alternative is crossing the Balishan Desert and the
+Balishan Desert kills you. The Golden Path is the only way through and Kaha'an sits astride it. A cut of
+nearly every transaction on the continent flows into the city — the Suez, Singapore and Constantinople
+problem, with the same answer: **whoever holds the isthmus is rich whether or not he is clever.**
+
+**The legitimate outgoing is nearly as enormous, and it is bread.** Grain hauled vast distances into a
+city that cannot pay import prices, sold below what it cost to land. Aggregate revenue and aggregate food
+deficit run within sight of each other, and the margin between them is thinner every year as the desert
+widens.
+
+**Which is why the books are cooked.** *(See `People/Rosik Kemvimore.md`.)* The Grain cartel's aboveboard
+accounts show an operation that pays for the food it imports. It does not, and it has not for twenty
+years. The gap — plus everything that can never be a line item at all: Ronas's retainer, the sweetheart
+supply into the Warrens, the bribes, the Coterie's compliance, the Long Knives back-channel — is closed
+out of the shadow funds. **The city has been quietly insolvent at the level of dinner since the Rending,
+and one man's crimes covered the difference.**
+
+**This reframes the continent's opinion of Balisha without cancelling it.** `Places/Elvandar.md` records
+greed as Balisha's defining characteristic — *"merchants and rulers demand ever-increasing tolls and
+tariffs, accumulating vast wealth behind its walls."* From outside, that is what it looks like. From
+inside, the tolls climb every year because the food deficit grows every year. **Both are true, and the
+distinction is distributional rather than aggregate:** the money genuinely does pile up behind the walls,
+in the Noble District, in fountains, on the good of every shipment — while the bulk of it goes straight
+back out as grain nobody can afford. Balisha is simultaneously rapacious and drowning. **Nobody outside
+the city knows the second half**, and Book 1's indictment of the first half stands entirely.
+
+**And it is why the crown is broke in Book 3 despite owning the richest position on the continent.** Elara
+inherits the revenue *and* the obligation, and the surplus that used to close the gap was criminal, and it
+is gone — Xion took it and spent it rebuilding the wards Ronas wrecked. The treasury is not empty because
+Balisha is poor. It is empty because Balisha holds the only road in Elvandar and that is still not enough,
+which is a far more interesting reason and the actual engine of Book 3.
+
 ### **The Water Cartel: House Larannas**
 
 **Leader:** Tania Larannas  

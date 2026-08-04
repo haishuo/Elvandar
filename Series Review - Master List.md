@@ -731,13 +731,53 @@ went to the Noble District. The Warrens got bulk grain in increments, on a sched
 labour and *help*. Brutal, extractive, and people starved under it; Rosik's sheet already calls them
 *"an acceptable inefficiency."* **But it was predictable**, and that is the thing that later goes away.
 
-**Grain was Rosik's leash on Ronas, and it is the only thing that could have been.** The leash is
-everywhere in canon as language — *attack dog*, *a trained dog barking when Rosik points* — and was
-never once specified. It cannot be money or force: Ronas has a cartel, absorbed every rival gang, and
-took his Coterie seat by sustaining a two-month labour stoppage against the other three houses. It is
-the grain going down the shafts, and it holds because he is a Competitor-primary who **cannot afford to
-be seen having a Caretaker's reasons**. The price of snapping it falls on people he can never admit he
-protects, and dressed as a labour-for-grain contract it gave him the pragmatic cover his world demands.
+**Rosik held Ronas with two levers, and only one of them holds.** *(Revised to both levers 2026-08-04.)*
+There is a **retainer**, paid out of the shadow accounts, which is why the Coterie must never learn where
+the Slaver King's muscle really comes from. And there is the **grain** going down the shafts at a
+sweetheart price. The retainer alone does not survive scrutiny — Ronas has a cartel, absorbed every rival
+gang, and took his Coterie seat by sustaining a two-month stoppage against the other three houses; money
+has substitutes, and a lever with exits is a contract. **Grain has none**, because the same house owns the
+arable land and the import routes and there is no price sixty thousand destitute people could meet.
+**Take the money and Ronas is poorer. Take the grain and the Warrens die.** It holds a Competitor-primary
+for twenty years because the cost of snapping it falls on people he **cannot afford to be seen having
+reasons about**, and a bulk-supply contract lets him be leashed in public and call it commerce.
+
+**Both levers break in one night, which is what makes the heist total** — the shadow funds paid the
+retainer *and* covered the fraud that kept the grain moving at all.
+
+**The Grain cartel's books are cooked, Enron-style — author's ruling, 2026-08-04.** The aboveboard
+accounts show an operation that pays for the food it imports. It does not and has not since the Rending.
+**One catastrophe made Kaha'an unavoidable and unable to feed itself in the same hour**: the Rending
+destroyed the farmland *and* killed the Deepwood bypass routes that had let caravans avoid the capital's
+tariffs, so the city became the only road across Elvandar at the moment it stopped being able to grow
+anything. The tariff income is enormous and geographic — the Suez/Singapore/Constantinople position, the
+Golden Path being the only way through a desert that kills you. The food deficit is nearly as enormous.
+The gap, plus everything that can never be a line item (the retainer, the sweetheart supply, the bribes,
+the Long Knives back-channel), is closed out of the shadow funds. **The city has been quietly insolvent at
+the level of dinner since the Rending, and one man's crimes covered the difference.** Full economy in
+`Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`.
+
+**Consequences, all of which strengthen what was already there:**
+
+- **Why nobody took the chair.** The most valuable asset in Balisha was fictional. Anyone who did due
+  diligence walked away. That is a far better answer than *nobody wanted it*.
+- **Why Book 3's treasury is empty** despite Balisha owning the richest position on the continent: Elara
+  inherits the revenue *and* the obligation, and the criminal surplus that closed the gap is gone. Not
+  *Balisha is poor* — **Balisha holds the only road in Elvandar and it is still not enough.**
+- **Motive is not function, and Rosik's stack survives.** He accumulated because *more* is its own
+  reward; a drive with no terminal state also expands the flagship past what it can carry, and the hoard
+  quietly covered the difference while remaining far larger than the hole. He never framed it as propping
+  anything up. **The books were cooked by a man not, in the first instance, lying to anybody else.**
+- **The continent's read on Balisha stands and gets a second floor.** `Places/Elvandar.md` records greed —
+  ever-increasing tolls, wealth piling behind the walls. True. The tolls also climb because the deficit
+  grows every year. **Rapacious and drowning at once**, and the difference is distributional rather than
+  aggregate, so Book 1's indictment is untouched.
+- **Xion knew it was a hoard and did not know it was load-bearing.** Keep this clean: it is what makes B2
+  ch14's *"He had pictured a cost he could name"* exact.
+
+**Nobody in the story ever assembles the chain.** The reader does, and that is the payment. Do not write a
+discovery scene, and do not let anyone deliver the accounting — if it ever surfaces it is one person
+failing to make the numbers work and giving up.
 He could be leashed in public and call it commerce. It also puts a second floor under his Book 2 warning
 to Rosik: he knows exactly what a disordered Warrens does to a food chain that runs on goodwill.
 

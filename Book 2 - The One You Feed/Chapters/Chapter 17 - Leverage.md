@@ -28,7 +28,7 @@ Xion didn't ease into it.
 
 Something shifted behind Ronas's eyes. Xion went on before it could set into anything.
 
-"Don't look so surprised. Of course I know how the Warrens eat — bulk grain down the shafts at a price nobody else in this city could get, and the rest of the Coterie has never once been told what he charges you for it. So. The game's up. He can't buy what he can't pay for, and he can't send down what he hasn't bought, and I'd wager you worked out how long that leaves you before I did."
+"Don't look so surprised. I know what he pays you and which accounts it comes out of. I also know how the Warrens eat, which is the part that matters — bulk grain down the shafts at a price nobody else in this city could get, and the rest of the Coterie has never once been told what he charges you for it. So. The game's up. He can't buy what he can't pay for, and he can't send down what he hasn't bought, and I'd wager you worked out how long that leaves you before I did."
 
 "...You telling me to take your side, boy?"
 

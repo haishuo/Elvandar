@@ -6978,3 +6978,59 @@ didn't. She is given nothing to say about it.
 Files: `Book 5 - Walled Garden/book5_outline.md` (new Act III subsection and a Book 6 seed bullet),
 `Series Review - Master List.md` (the cross-book thread updated from proposed to applied). No prose, beat
 draft, skeleton or Royal Road file changed.
+
+---
+
+## 2026-08-04 — The Kaha'an economy: the chokepoint, the cooked books, and both levers
+
+**The chokepoint turned out to be canon already**, and stronger than either the author or this pass was
+treating it. `Places/elvandar_geography.md` and `Places/Elvandar.md` record that pre-Rending caravans
+routinely bypassed Kaha'an's tariffs through the Deepwood and the back-country tracks — *"Kaha'an was
+important, not unavoidable"* — and that **the Rending killed those routes.** So the same catastrophe, in
+the same hours, destroyed the farmland around the city *and* made the city the only road across the
+continent. Kaha'an became unavoidable at the moment it became unable to feed itself.
+
+**Author's ruling: that is the whole economy, and the books are cooked.** The tariff income is enormous
+and purely geographic — all east–west trade must pass the Golden Gates because the alternative is a desert
+that kills you. The food deficit is nearly as enormous: grain hauled vast distances into a city that
+cannot meet import prices. The aboveboard accounts show a Grain cartel that pays for its own imports; it
+does not and has not for twenty years, and the gap — plus the retainer, the sweetheart supply into the
+Warrens, the bribes and the Long Knives back-channel, none of which can be a line item — is closed out of
+the shadow funds. **The city has been quietly insolvent at the level of dinner since the Rending, and one
+man's crimes covered the difference.**
+
+**And the leash is now both levers.** Rosik pays Ronas a retainer *and* supplies the Warrens below any
+price they could meet. The retainer is the visible half; the grain is the half that holds, because money
+has substitutes and grain in this city has none. Both break in a single night, because the shadow funds
+paid the wage and covered the fraud. **B2 ch17 adjusted again to match** — Xion now names the accounts
+*and* the grain, with *"which is the part that matters"* doing the work of putting the real lever second
+and last. Beat draft, skeleton note and Royal Road regenerated with it.
+
+**What this fixes, rather than complicates:**
+
+- **Why nobody ever took the Grain chair.** The most valuable asset in Balisha was fictional; anyone who
+  looked at the books walked away. Better than the previous *nobody wanted it*.
+- **Why Book 3's treasury is empty** while Balisha owns the richest position on the continent. Elara
+  inherits the revenue and the obligation together, and the criminal surplus that used to close the gap is
+  gone — Xion took it and spent it rebuilding the wards Ronas wrecked. The engine of Book 3 is not
+  *Balisha is poor*; it is **Balisha holds the only road in Elvandar and it is still not enough.**
+- **Rosik's paradigm reading survives, by separating motive from function.** `People/Rosik Kemvimore.md`
+  had said the shadow funds were *"pure accumulation, surplus to any external purpose"* — true of why he
+  built the hoard, false about what the hoard was doing. A drive with no terminal state also expands the
+  flagship past what it can carry, so the operation outgrew a ruined province and the hoard covered the
+  difference while staying far larger than the hole. **He never framed it as propping anything up.**
+- **The continent's view of Balisha stands.** `Places/Elvandar.md`'s greed — ever-rising tolls, wealth
+  behind the walls — is accurate, and the tolls also rise because the deficit grows yearly. Rapacious and
+  drowning at once; the difference is distributional, so Book 1's indictment is untouched.
+
+**Two constraints written in.** Xion knew it was a hoard and **did not** know it was load-bearing, which
+is what keeps B2 ch14's *"He had pictured a cost he could name"* exact. And **nobody in the story ever
+assembles the chain** — the reader does, and that is the payment. No discovery scene, no accounting
+delivered aloud; if it surfaces at all it is one person failing to make the numbers work and giving up.
+
+Files: `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, `People/Rosik Kemvimore.md`,
+`People/Ronas Dermir.md`, `B2 Chapters/Chapter 17`, `B2 Beat Drafts/Chapter 17`,
+`Series Review - Master List.md`, plus the regenerated Royal Road file.
+
+**Noted, not fixed:** the ch17 beat draft has two beats numbered 7. Renumbering shifts everything after it
+and the footer cross-references *Beat 12b* by number, so it wants a deliberate pass rather than a drive-by.
