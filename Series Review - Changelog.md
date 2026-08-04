@@ -6402,3 +6402,30 @@ assumption the chapter dismantles and now sits in Xion's head rather than in the
   worse** — some references had been corrected in passing and some had not, and the file gives no way
   to tell which. It now carries a warning banner instead and needs a deliberate pass or deletion. The
   *Voss* → *Brennek* rename was applied there, being unambiguous.
+
+### Prose written the same day — `Chapter 8 - Inhabitants`, 6,606 words
+
+Eight scenes, built from the revised draft. Checks run before commit and what they caught:
+
+- **Twenty six-gram echoes of ch7**, including two near-verbatim sentence lifts — *"four hundred meters
+  under the desert… sealed since before his language existed"* and *"one beat every three seconds,
+  arriving in the chest a moment before it arrived"* — plus ch7's shaft description and its *"without
+  any drama at all."* All rewritten; ch7 is down to a single common construction.
+- **Four verbatim phrases from ch2's introduction of the surveyor** carried over at once. One signature
+  phrase kept deliberately — *a phenomenon and no framework*, which is Xion's recognition of his own
+  condition and is the point of the callback — and the rest rephrased, because four is copy-paste
+  rather than recurrence.
+- **Farleen had been watching Xion for "eleven years."** She was embedded at eighteen, five years before
+  Book 1, and her sheet says in terms that *"the five years are load-bearing and should not be
+  shortened."* Doubling them is the same error in the other direction. Corrected to five.
+- A replacement phrase, *"the first winter at the Amber Leaf,"* introduced a **second** winter into a
+  corpus where *the winter* already means Book 1 — the exact ambiguity caught in ch6 on 2026-08-03.
+  Cut to *"since the Amber Leaf."*
+
+**Length: 6,606 words, against the 5,400–6,200 the draft footer set** — 400 over, and now the longest
+chapter in Book 3, ahead of ch4's 6,165. Flagged rather than trimmed: it covers two days and carries
+the book's turn from wonder into unease, and cutting to hit a number set in a footer is the wrong
+reason to cut. The author's call.
+
+The chapter-title sweep flagged *fine*, *wonder* and *descent*; all three are ordinary common nouns
+here, not title references like ch11's *"since Scars."* No finding.
