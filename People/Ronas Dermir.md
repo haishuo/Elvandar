@@ -192,7 +192,15 @@ In the aftermath of Elara's coronation, Rosik Kemvimore builds a coalition withi
 
 This observation is critical. Melina, who understands power dynamics through her father's world of deals and transactions, distinguishes Ronas from his subordinates. The Slaver King is controlled, rational, operating on recognizable principles. His lieutenants are something else — less disciplined, more volatile, held in check only by Ronas's authority. The system works because Ronas sits at the top of it. Remove that cap and the bottle explodes.
 
-Rosik uses shadow funds — off-the-books wealth from extortion, theft, and blackmail — to pay for Ronas's services. The arrangement positions Ronas as Rosik's weapon, a tool to be directed. Ronas has always resented this. He is king of the Warrens, not Rosik's attack dog. But the money keeps coming, and pragmatists take the deal that's on the table.
+**The leash is food.** *(Author's ruling, 2026-08-04; this previously read as a cash retainer paid out of the shadow funds, which does not survive scrutiny — Ronas has a cartel of his own and won his Coterie seat by outlasting a two-month labour stoppage against all three other houses. You cannot buy a man like that. You can feed his city.)*
+
+House Kemvimore controls the arable land and the importation, and the Warrens eat bulk grain sent down the shafts at a price no one else in Kaha'an could get — a sweetheart price, because the Warrens are destitute and there is no market rate sixty thousand of them could meet. The supply exists on Rosik's sufferance. In exchange Ronas provides labour, enforcement, and *help*, and the arrangement positions him as Rosik's weapon, a tool to be directed. He has always resented it. He is king of the Warrens, not Rosik's attack dog.
+
+**It holds him for twenty years because the cost of snapping it falls on people he cannot admit he protects** — and because a bulk-supply contract lets him be leashed in public and call it commerce, which is the only framing his world permits him. The Coterie is never told the terms.
+
+**He is not a hostage, and the material must not soften him into one.** He took the deal, and he took his cut off the top of every load for twenty years, and the Warrens paid for it twice — once at the shaft and once in the men who came to collect. Whatever he was holding a line for, he was paid to hold it and never held it for free. B2 ch17 closes this off in Xion's read, deliberately.
+
+The shadow funds remain exactly as important as before — they prop up the Grain cartel in general and their loss bankrupts Rosik — they simply are not what bought Ronas.
 
 ### Unleashed
 

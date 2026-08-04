@@ -6845,3 +6845,57 @@ it was generated from the straitjacket reading rather than from her.
 
 Files edited: `CLAUDE.md`, `People/Melina Valanar.md`, `Series Review - Master List.md`. No prose, beat
 draft, skeleton or Royal Road file changed.
+
+---
+
+## 2026-08-04 — The leash is food: B2 ch17 changed on a rule 1 ruling
+
+**The check I flagged as a precondition fired, and the prose lost.** `Chapter 17 - Leverage` had stated
+the Rosik–Ronas mechanism outright: *"of course I know he pays you out of the shadow accounts — can't
+have the rest of the Coterie learning where your muscle really comes from, can you… He can't keep you on
+his coin much longer."* That is a cash retainer, and it contradicted the food-leash ruling committed
+earlier the same day.
+
+**Author's ruling: the prose is wrong and the prose changes.** Rule 1. A retainer does not survive
+scrutiny — Ronas has a cartel of his own and took his Coterie seat by outlasting a two-month labour
+stoppage against all three other houses. You cannot buy that man. **You can feed his city**, and the
+Warrens are destitute enough that there is no market rate sixty thousand of them could meet, so the
+grain goes down at a sweetheart price and the whole supply exists on Rosik's sufferance. That is a
+leash. A wage is not.
+
+**The replacement line**, in the same place and the same register:
+
+> "Don't look so surprised. Of course I know how the Warrens eat — bulk grain down the shafts at a price
+> nobody else in this city could get, and the rest of the Coterie has never once been told what he
+> charges you for it. So. The game's up. He can't buy what he can't pay for, and he can't send down what
+> he hasn't bought, and I'd wager you worked out how long that leaves you before I did."
+
+*"You and I both know Rosik's out of money"* stays as the opener; it now runs a supply argument instead
+of a payroll one, and the heist still supplies the bankruptcy that drives it. **The six warehouses held
+strongboxes, not grain** — checked — so nothing about the heist changes.
+
+**The scene gains rather than survives.** The secret becomes worse: not *Rosik funds your enforcers* but
+*your independence is fiction and your whole territory eats on another man's terms*, which is far more
+humiliating to say out loud in the Iron Hall. The line that follows — *"You're the Slaver King. You
+don't answer to anyone"* — now has an answer Ronas can never give, because saying *sixty thousand people
+eat* would be admitting the Caretaker drive his world would devour him for. And *"you and yours bleed
+for him"* widens from his enforcers to the Warrens.
+
+**Grit added on the author's instruction, because the change pulls Ronas toward the reader** and left
+alone would make him a man with no choice. A short paragraph now follows his warning speech: he took his
+cut off the top of every load for twenty years, the Warrens paid for it twice — at the shaft and in the
+men who came to collect — and whatever he was holding a line for, he was paid to hold it and never held
+it for free. **Xion is the one who refuses to let him off**, which is right for a Caretaker primary who
+has been down there, and it costs nothing, because Ronas never asked to be let off.
+
+**The shadow funds are untouched in every other respect.** They prop up the Grain cartel in general,
+their loss bankrupts Rosik, the treasury damage drives Book 3's engine, and Book 7's *he cannot buy an
+army* stands.
+
+Files: `B2 Chapters/Chapter 17`, `B2 Beat Drafts/Chapter 17` (canon for Book 2 — the draft carries the
+correction and the why), `book2_chapter_skeleton.md`, `People/Ronas Dermir.md`, `People/Xion
+Kemvimore.md`, `Series Review - Master List.md`. Royal Road regenerated for Book 2; the run is
+idempotent and only ch17's file moved.
+
+**This is the second editorial change ever applied to Book 2's prose**, after the *"anything on this
+earth"* fix on 2026-08-03.

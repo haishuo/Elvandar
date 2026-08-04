@@ -714,8 +714,22 @@ protects, and dressed as a labour-for-grain contract it gave him the pragmatic c
 He could be leashed in public and call it commerce. It also puts a second floor under his Book 2 warning
 to Rosik: he knows exactly what a disordered Warrens does to a food chain that runs on goodwill.
 
-**⚠ Precondition before this is written into prose:** Book 2 has Ronas-and-Rosik scenes on the page and
-they have **not** been read against this. Someone must check them before the mechanism is used.
+**The precondition fired, and the prose lost — author's ruling, 2026-08-04.** B2 ch17 *did* contradict
+this: it had Xion open with *"of course I know he pays you out of the shadow accounts… he can't keep you
+on his coin much longer."* **The author ruled it a rule 1 error and changed the prose**, on the ground
+that a cash retainer does not survive scrutiny — you cannot buy a man with his own cartel who won his
+Coterie seat by outlasting a two-month stoppage against all three other houses. **You can feed his
+city.** ch17, its beat draft, the Book 2 skeleton, both sheets and the Royal Road file now carry the
+food version. **The shadow funds are untouched in every other respect** — they prop up Grain in general,
+their loss bankrupts Rosik, and Book 7's *he cannot buy an army* still stands.
+
+**The sweetheart price is the load-bearing detail:** the Warrens are destitute and there is no market
+rate sixty thousand of them could meet, so the grain goes down below any price anyone else could get,
+and the supply exists purely on Rosik's sufferance. That is what makes it a leash rather than a trade.
+
+**And Ronas does not become a hostage.** ch17 now closes it off in Xion's read — he took his cut off the
+top of every load for twenty years, the Warrens paid twice, at the shaft and in the men who came to
+collect, and he never held that line for free.
 
 **The chair empties in Book 2 and stays empty.** Rosik exiled, the Grain cartel smashed. Melina
 Kemvimore is dead; **Xion will not sit in his father's chair, ever, and this is not to be dramatised as

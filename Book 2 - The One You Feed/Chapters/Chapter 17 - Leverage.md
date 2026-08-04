@@ -28,7 +28,7 @@ Xion didn't ease into it.
 
 Something shifted behind Ronas's eyes. Xion went on before it could set into anything.
 
-"Don't look so surprised. Of course I know he pays you out of the shadow accounts — can't have the rest of the Coterie learning where your muscle really comes from, can you. So. The game's up. He can't keep you on his coin much longer, and I'd wager you know that better than I do."
+"Don't look so surprised. Of course I know how the Warrens eat — bulk grain down the shafts at a price nobody else in this city could get, and the rest of the Coterie has never once been told what he charges you for it. So. The game's up. He can't buy what he can't pay for, and he can't send down what he hasn't bought, and I'd wager you worked out how long that leaves you before I did."
 
 "...You telling me to take your side, boy?"
 
@@ -53,6 +53,8 @@ Then the grin went off him, and what was left under it was older, and tired. He 
 "You want the joke of it." Not a question. "I told him. Sat across a table from your father, close as you're to me now, and told him plain — you let a thing like this off its chain, you don't get to whistle it back after. It's not a blade you set down when the work's done. It's a fire. Goes where it wants." He turned a page he wasn't reading. "He looked at me like I was a dog that'd started talking. Your father's gone his whole life certain he knows a thing better than the poor bastards who've got to live inside it." A grunt, no humor in it. "Turns out he knew it worse than me. And I'm the one standing out here in the smoke."
 
 Xion said nothing. He set it beside the rest — one more thing laid flat with the others — that the man running the whole of this understood it least of anyone caught in it.
+
+It did not make Ronas clean, and Xion did not let it. He had taken his cut off the top of every load for twenty years, and the Warrens had paid for it twice — once at the shaft, and once in the men who came to collect. Whatever he was holding a line for, he had been paid to hold it, and he had never once held it for free.
 
 There were no terms. No handshake, no spoken stand-down, and Xion didn't reach for one — asking for a promise would have unmade the very thing he'd just built, which was not an alliance but a man being walked back to his own interest and left there to notice it in his own time. The negotiation had been finished before it started. He had led Ronas down a path the man's own mind would have found on its own, only sooner. The arriving was the same either way.
 
