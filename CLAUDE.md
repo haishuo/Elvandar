@@ -129,9 +129,41 @@ Founder, Creator, Spirited Competitor, Merchant — which every character carrie
 summing to 100%, ranked as a sacrifice hierarchy. Under stress the dominant ones surface.
 
 **Use this to validate characterization decisions, not to generate them.** When a proposed line
-feels off, check it against the character's stack in `People/`. Most rule 2 violations show up
-here first: a Caretaker refusing to help on principle, an Engineer offering comfort, a Merchant
-acting out of loyalty.
+feels off, check it against the character's stack in `People/`.
+
+### It is not a straitjacket — author's ruling, 2026-08-04
+
+**The stack predicts what an act *costs* a character. It does not dictate what they do.** This is
+the framework's own design and it is stated in `The Seven Paradigms.md` — "They are not moral
+rankings" — and demonstrated by the Grieving Widow Test, whose entire point is routinely misread.
+In that test **both people tell the same lie.** The Truth Seeker feels *haunted* by it and the
+Caretaker feels *justified*, and the doc's conclusion is *"Same situation, opposite emotional
+responses based on which drive takes priority."* The section it sits in is called **Emotional
+Residue Tests**. Residue, not prediction of action.
+
+So: **people act against their primary constantly**, and most of what a plot is made of is exactly
+that. A stack tells you what someone surrenders last when two drives genuinely collide, and what is
+left over in them afterward. It tells you nothing about what they do on any given Tuesday, and a
+character who behaves "off-stack" is not thereby broken.
+
+**The test that actually catches a rule 2 violation is not *would they do this* — it is *does the
+text charge them for it*.** A Caretaker can refuse to help on principle; a Truth Seeker can accept
+a claim without checking it; a Merchant can act out of loyalty. What breaks characterization is
+when the page treats such an act as free, unremarkable, and costless. Price it and it is
+characterization. Leave it unpriced and it is drift.
+
+**And a stack is a probability distribution, not a rule.** Wide variance is normal, and the
+occasional wild departure is not an error to be corrected — it is often the most interesting thing
+a character does. Do not use a stack to argue a scene out of existence, to demand a character
+re-derive a conclusion under their own power, or to overrule the author on who someone is. If a
+proposed beat and a stack disagree, the likeliest explanation is that the beat has a cost the draft
+has not paid yet — not that the character would never.
+
+*This entry exists because it is a recurring failure and it recurs in a specific direction: reading
+a primary as an obligation, then reporting the derived constraint as though it were a property of
+the character. It cost a full exchange over Melina Valanar, where a Truth Seeker primary was used
+to argue she could not simply take her father's word about Rosik — which the framework never said,
+and which is not who she is.*
 
 Conflicts between characters are often unwinnable by design because their stacks differ — e.g.
 Xion's primary (Caretaker) is Janice's secondary and her primary (Engineer) is his third, which

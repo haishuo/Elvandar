@@ -6797,3 +6797,51 @@ and `book7_outline.md`, both with an explicit instruction that **no character po
 Files edited: `book6_outline.md` (narrative engine, a new famine section, the dead child's causes),
 `elvandar_series_outline.md`, `Book 7 - Last Debts/book7_outline.md`, `Series Review - Master List.md`.
 No prose, beat draft, skeleton or Royal Road file changed.
+
+---
+
+## 2026-08-04 — The Paradigms are not a straitjacket; Melina and her parents
+
+**Author's ruling, and a correction to the project file that caused the error.** The Seven Paradigms
+had been used as a rulebook — a stack read as an obligation, and the derived constraint then reported
+as a property of the character. That is not what the framework is or ever was.
+
+**What it actually does:** it gives an *ordering of what someone values*, and so predicts what an act
+**costs** them. It does not predict what they do. `The Seven Paradigms.md` says "They are not moral
+rankings," and the Grieving Widow Test — routinely misread, including here — has **both people telling
+the same lie**. The Truth Seeker feels haunted, the Caretaker feels justified, and the doc's own
+conclusion is *"Same situation, opposite emotional responses based on which drive takes priority."* The
+section is titled **Emotional Residue Tests**. Residue, not prescription. People act against their
+primary constantly; a stack is a probability distribution with wide variance, and the wild departures
+are frequently the best thing a character does.
+
+**`CLAUDE.md` §3 rewritten** with the anti-straitjacket entry, because the old text was the seed of the
+failure: it listed *"a Caretaker refusing to help on principle, an Engineer offering comfort, a Merchant
+acting out of loyalty"* as examples of rule 2 violations. **None of those is a violation.** They are
+expensive acts. The replacement gives the test that actually works — **not *would they do this* but
+*does the text charge them for it*** — and forbids using a stack to argue a scene out of existence, to
+demand a character re-derive a conclusion under their own power, or to overrule the author on who
+someone is.
+
+**Melina Valanar, applied.** She takes her parents' opinions far more seriously than her public affect
+suggests, Xion's above all, and on Rosik this is decisive: her father's disapproval of the man and his
+methods **colours** her judgment rather than being weighed and set aside. The outward read — cool,
+unflappable, faintly Rosik-shaped, seemingly unemotional — is wrong; she feels a great deal and is
+simply not expressive, and Tiberian is the one who knows the difference. This is specific and familial,
+not deference in general: on any other subject she will take a position against either parent and hold
+it.
+
+That answers the question Book 6 has to be able to answer — **why the empire's most capable systems
+mind does not rebuild the Grain cartel when the Warrens are starving.** Two reasons, unequal in kind:
+the Green Cities are the better solution and she can show her working; and beneath it, her father would
+rather chew broken glass than sit in that chair. **No refusal scene, nobody names it, nobody asks her**
+— the chair has stood empty her entire life and simply never gets priced, which is more damning of it
+than a declination would be. **Not staged as a flaw and not part of an arc.**
+
+An earlier proposal in the same conversation — that she inherits her father's *question* rather than his
+verdict, audits Rosik independently, and reaches the same conclusion under her own power — was **rejected
+by the author** and is recorded here as declined, not deferred. It was the more idealised character, and
+it was generated from the straitjacket reading rather than from her.
+
+Files edited: `CLAUDE.md`, `People/Melina Valanar.md`, `Series Review - Master List.md`. No prose, beat
+draft, skeleton or Royal Road file changed.

@@ -667,6 +667,35 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 Decided. Retained so they are not reopened or re-flagged.
 
+### The Paradigms are not a straitjacket — **AUTHOR'S RULING 2026-08-04**
+
+**The stack predicts what an act costs a character; it does not dictate what they do.** Full entry now
+in `CLAUDE.md` §3, which also replaces the old examples — *"a Caretaker refusing to help on principle"*
+was listed there as a rule 2 violation and is nothing of the kind. **The test is not *would they do
+this*, it is *does the text charge them for it*.** Priced, it is characterization; unpriced, it is
+drift. The Grieving Widow Test is the anchor and it is routinely misread: **both people tell the same
+lie**, and the section it lives in is called *Emotional Residue Tests*.
+
+Recorded because the failure recurs in one direction — reading a primary as an obligation and then
+reporting the derived constraint as a property of the character. It cost an exchange over Melina, where
+Truth Seeker primary was used to argue she could not take her father's word about Rosik. The framework
+never said that.
+
+### Melina Valanar and her parents — **AUTHOR'S RULING 2026-08-04**
+
+**She takes her parents' opinions far more seriously than her public affect suggests**, and Xion's most
+of all. The outward read is cool, unflappable, faintly Rosik-shaped, apparently unemotional; it is
+wrong, she simply is not expressive, and **Tiberian knows the difference**. On Rosik this is decisive:
+her father's disapproval of the man and his methods makes her dubious of them. Not evidence she weighs
+and sets aside — it *colours* her. She is not biddable on anything else and will take a position against
+either parent and hold it; this is specific and familial.
+
+**Consequence: she never takes the grain chair.** Two reasons, unequal in kind — the Green Cities are
+the better solution and she can show her working, and beneath that, her father would rather chew broken
+glass than sit in it. **Nobody names either, nobody asks her, and there is no refusal scene**: the chair
+has stood empty her whole life and simply never gets priced. Full text in `People/Melina Valanar.md`,
+Relationships and the Book 6 arc. **Not a flaw, not an arc, not to be overcome.**
+
 ### How Kaha'an eats, and the empty chair — **AUTHOR'S RULING 2026-08-04**
 
 **Kaha'an grows almost nothing.** House Kemvimore controlled the arable land, the importation, the

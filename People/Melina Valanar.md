@@ -146,6 +146,29 @@ So her aftermath lesson is not *I should have moved faster.* It is that **she wa
 
 **The naming is doing quiet work here and nobody says it to her.** She inherited the name of a woman killed by violence that had stopped being for anything, and her answer was to become the most rigorous modeller in the empire — and it happened again anyway. Leave it for the reader. If it is ever said aloud it is Melina herself, once, late, flatly, to no one in particular.
 
+**Why she never takes her grandfather's chair, which is a question the book has to be able to answer.**
+The Grain cartel was smashed in Book 2 and nobody ever sat in it; Melina Kemvimore is dead, Xion never
+will, and by Book 6 the Warrens are starving because food goes to a market that will not haul bulk
+grain four hundred meters down to customers with no money. Melina Valanar is the one person in the
+empire with the capability to rebuild that system, and she does not. Two reasons, and they are not
+equal in kind:
+
+**One: the Green Cities are simply the better solution**, and she can show her working. Rebuilding a
+grain monopoly means recreating the exact chokehold on necessity her parents fought a shadow war to
+break, and it fixes the shortage by restoring the leverage. Reclaimed land that grows food fixes it by
+removing the leverage. Given both options on a page, she picks the one that does not reinstate the
+failure mode.
+
+**Two, and it is the real one: her father.** Xion would rather chew broken glass than sit in Rosik's
+chair, and that is enough to put Melina off it. Not as an argument she has evaluated — see *She takes
+her parents' opinions more seriously than anyone watching would guess*, above. The chair is his
+father's chair, he has never once wanted it, and his daughter is not going to want it either.
+
+**Nobody says either reason aloud, and nobody asks her.** The chair is not offered and then declined;
+it has stood empty her whole life. If it ever surfaces it is as an option that never got priced —
+which is exactly how it would go with her, and is more damning of the chair than a refusal scene would
+be.
+
 Together, the twins present the relocation initiative to their parents: not perfect, but necessary. Details to be refined through doing rather than studying.
 
 ### Book 7: Last Debts (Age 22)
@@ -197,6 +220,32 @@ Mutual respect despite minimal direct contact. Kess fights; Melina plans. Both a
 She inherited both parents' analytical brilliance. Her father's diagnostic precision — the systematic thinking that found a hidden princess, that dismantled a cartel coalition — merged with her mother's strategic capacity — the political intelligence that rebuilt an empire — to produce a mind that processes complexity faster than anyone around her can follow.
 
 Her mother's greatest lesson: composure is power. Elara maintained royal blue eyes as public performance; Melina perfected the discipline until the mask became indistinguishable from the face. Her father's greatest lesson: systems exist to serve people. Xion never let his systematic thinking become an end in itself. Melina, in the Warrens crisis, temporarily forgets this — and her brother has to remind her.
+
+### She takes her parents' opinions more seriously than anyone watching would guess
+
+**This is the softest place in her and it is not visible from outside.** The public read on Melina
+Valanar is a cool, unflappable, faintly Rosik-shaped young woman who does not appear to feel very much —
+composure so total that observers mistake the mask for an absence. It is wrong. She feels a great deal.
+She is simply not expressive, and the two are not the same thing. **Tiberian knows**, because he is her
+twin and because he has watched the mask go on.
+
+**Where it shows most is her parents, and above all her father.** Elara's and especially Xion's
+judgments carry weight with her out of all proportion to what she lets on, and they *colour* her —
+they are not evidence she weighs and then sets aside. On Rosik in particular this is decisive. You might
+expect the empire's most rigorous analyst to say *objectively the man's system was the best available
+and my parents' feelings do not enter into it.* **She does not say that, and she does not think it.**
+Her father's disapproval of how Rosik did things makes her dubious of how Rosik did things. That is the
+whole mechanism, and it is not a failure of rigour — it is what it looks like when someone loves and
+respects a source who happens to have read that man at close range for twenty-three years.
+
+**This is not deference-in-general.** She is not biddable, she is not looking for approval, and on any
+other subject she will take a position against either parent and hold it. It is specific, it is
+familial, and it is the one place where her instinct to go and check for herself simply does not fire.
+
+**Do not have anyone name this**, including her. And **do not stage it as a flaw for her to overcome** —
+it is not part of an arc, it is a fact about a person.
+
+---
 
 She has never asked her father directly about the name. She doesn't need to, and she suspects he would find it difficult to answer. What she knows — what she has always known, from the specific quality of his silence when the subject is adjacent — is that it was given with care and without condition. He named her after someone he loved and lost. He did not name her after someone he expected her to become. The distinction matters to her more than she has ever said aloud.
 
