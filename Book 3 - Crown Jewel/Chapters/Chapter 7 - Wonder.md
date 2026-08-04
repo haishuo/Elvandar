@@ -152,7 +152,7 @@ The light was everywhere at once. Sourceless, even, arriving from every directio
 
 The scholar beside him said, very quietly: *"Those are plants."*
 
-A terrace, near enough to see properly. Green. Growing — actually growing, putting leaves up toward a ceiling that was not a sky, under a light with no sun behind it, alive when it had every reason on earth not to be.
+A terrace, near enough to see properly. Green. Growing — actually growing, putting leaves up toward a ceiling that was not a sky, under a light with no sun behind it, alive when it had every reason not to be.
 
 He looked back at the big building he had been using to steady himself, the one whose proportions said, in a language he did not speak and could read anyway, that it had mattered enormously to somebody.
 

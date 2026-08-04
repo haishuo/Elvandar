@@ -262,6 +262,16 @@ The test: if the sentence is about the word, it stays italic; if the weight is i
 saying it, it goes bold. Applied across Books 1–2; the full exclusion list is in
 `Series Review - Changelog.md`.
 
+**The world is not named in the prose, and *earth* is not its name.** `Elvandar` appears in **zero**
+chapters across Books 1–3 — it lives in the outlines and the canon files and characters have never once
+said it, which is right: people rarely name their own world out loud. **Do not introduce it in narration,
+and never inside an idiom.** The related trap is *earth* as a stand-in — *"every reason on earth"*, cut
+from B3 ch7 on 2026-08-03, because the idiom borrows a planet name this world does not have. Say *the
+world*, or cut the intensifier, which is usually stronger anyway. *(Two uses stand and are not errors:
+**earth as ground or soil** — B3 ch7's *"the color of the earth's own heat"*, describing geothermal heat
+under the city — and B2 ch10's *"anything on this earth"*, which is Melina speaking and belongs to Book 2's
+unreviewed prose.)*
+
 **Chapter files:** one file per chapter in `Chapters/`, named `Chapter N - Title.md` — a space
 either side of a hyphen, the number unpadded, the title in Title Case. `Chapter 7 - Fine.md`,
 not `chapter7.md` or `Chapter 07 - Fine.md`.

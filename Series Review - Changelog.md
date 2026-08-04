@@ -6263,3 +6263,27 @@ being defined).
 and still not be applied to a book that was drafted after the pass that implemented it. **Rules do not
 retroactively apply themselves.** When a style pass is recorded as done, the record should say *which
 books* it covered — this one did, and that is the only reason the gap was findable.
+
+### *"every reason on earth"* — a planet this world does not have
+
+**Author's catch:** *"should 'earth' exist in this context? It might exist as a word describing dirt, but
+not as the name of a planet."* Correct, and the fix is not the obvious substitution.
+
+**Two facts found while checking.** **`Elvandar` appears in zero chapter prose across Books 1–3.** It
+exists in the outlines and the canon files and no character has ever said it — which is right, because
+people do not habitually name their own world aloud. So *"every reason on Elvandar"* would have been the
+word's **first appearance in the entire series**, spent inside an idiom. And there is a precedent for the
+construction, in B2 ch10, in Melina's mouth: *"Father would rather be anything on this earth than
+frightened."* Book 2 has had no editorial pass applied, and that one is dialogue, so it stands.
+
+**Cut rather than substituted.** *"alive when it had every reason not to be."* The intensifier was padding
+— the sentence already runs on *a ceiling that was not a sky* and *a light with no sun behind it*, and a
+third negation of a natural thing was doing less than nothing. **Neither *Elvandar* nor *world* went in**;
+*world* would have collided with *"the floor of the world"* three paragraphs later.
+
+**Left standing, because it is a different word.** B3 ch7's *"the color of the earth's own heat"* uses
+*earth* as **ground**, describing the geothermal source under the city, which canon puts at the planet's
+molten core. That is the common noun, available in any world, and not a name.
+
+**Recorded in `CLAUDE.md` §6** so the distinction survives: the world is not named in narration, *earth* is
+not a substitute for its name, and *earth*-as-soil is fine.
