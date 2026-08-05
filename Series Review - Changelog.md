@@ -7821,3 +7821,55 @@ ch4's Gunastran answer), three produced canon rulings (the worthiness test, Lath
 Files: `Places/Uratha/Uratha_ The Land of Scholars.md`, `People/Elara's Connection to Lathion.md`,
 `Magic/The Divine Artifacts of Elvandar.md`, `Book 3 - Crown Jewel/book3_chapter_skeleton.md`,
 `Series Review - Master List.md`.
+
+### Elara never sells the gate — settled 2026-08-05, and it fixed a hole in the same day's ch1 beat
+
+**The last open question from the banking work, and settling it exposed a defect in B3 ch1's borrowing beat
+written a few hours earlier.** That beat has Xion give three reasons the lease-houses will not **lend** — no
+record on a six-week-old court, wrong size, and the seizure. **It never answers the obvious counter: they do
+not have to lend. They can buy.**
+
+**Selling the customs forward is not a loan, and it defeats all three objections at once.** The crown sells
+ten or fifteen or twenty years of the gate at whatever discount the consortium can argue for; the houses go
+and collect it themselves at the Golden Gates. **A man who holds the gate needs no record of the crown, does
+not care what its accounts look like, and cannot be defaulted on — he is not owed anything, he owns the
+year.** It is the largest financial instrument in Elvandar, it was available in that scene, and nobody
+mentioned it. **Tania Larannas is the sharpest commercial mind at that table and would reach it in four
+seconds**, so she now does, and the beat is complete.
+
+**The ruling: Elara refuses, instantly, and never sells the gate in any book.** She answers before Xion can
+open his mouth, which means she has been carrying the answer since well before the question.
+
+**The reason is never stated on the page.** She broke the Coterie because private hands on a city's necessity
+was the injustice, and **the gate is how Balisha eats** — the food deficit is closed out of toll income, per
+the economy ruling. Selling it reconstitutes the Coterie in a different commodity, with the same people
+paying. **The room understands it without a word**, and the prose carries it in one gesture: the two people
+at that table who spent twenty years holding necessities privately **do not look at each other**, and the
+not-looking goes round the room like a draught.
+
+**The refusal is priced, and that is the part revision must protect.** Xion runs the arithmetic because
+somebody at that table has to know the size of what was declined — **the best offer Balisha will get this
+year, refused in under a second.** No character tells her she was right, no vindication beat, no approval
+from Xion. **The position is that she was right *and* that it cost**, and the second half is the fragile one.
+
+**Standing rule recorded in three places** — the ch1 beat draft footer, the skeleton, and §6. **The offer
+stays permanently available and permanently refused**, and its never happening is the concrete institutional
+difference between Elara's state and the Coterie: demonstrated, never stated. **If it recurs it must
+escalate** per the recurrence rule — a visibly higher price of refusal each time, **two recurrences at most
+across Books 4–8**, and never in a scene that already carries a fiscal argument. Raising it merely to be
+refused again is repetition, which is this series' named dominant failure mode. *(The strongest available use
+is Ronas in Book 6: the crown that would not privatise its own gate is about to intervene in his.)*
+
+**Note on why this does not collide with the ch12 payoff.** The farm is a *rescue*, and Lathion ends the need
+for one — so the instrument is live only in the ch1-to-ch12 window, and after ch12 the lease-houses are
+asking to lend rather than offering to buy. **What survives past Book 3 is not the fiscal pressure but the
+principle**, which is why later recurrences have to come from somewhere other than a treasury.
+
+ch1 4,812 → 5,112 words. Beat 22a inserted; skeleton and Royal Road moved with the prose.
+
+**§7 now holds one question, and it is the oldest of them:** who holds the mortgages on Kalden's northern
+mines and the Amber Palace after Book 7 kills him.
+
+Files: `Book 3 - Crown Jewel/Chapters/Chapter 1 - Scars.md`,
+`Book 3 - Crown Jewel/Beat Drafts/Chapter 1 - Scars.md`, `book3_chapter_skeleton.md`,
+`Book 3 - Crown Jewel/Royal Road/`, `Series Review - Master List.md`.

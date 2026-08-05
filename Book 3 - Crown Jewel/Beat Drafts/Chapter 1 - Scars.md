@@ -61,6 +61,29 @@
 
 22. **Borrowing is raised, and it is Xion who closes it.** *(Added 2026-08-05.)* Late in the session Tania asks the question the arithmetic has been walking around — there is a great deal of money four streets away, and nobody has said the word. The table turns to Xion, which is itself information about what the last six weeks have done to him, and he answers because he is the only person present who has watched it from the other side of the desk: his father dealt with the customs-lease houses twice a year for twenty years and Xion carried the folios. **He gives three reasons, in the order a lender would.** They have never lent to *this* court — they lent to the Coterie, which handed them twenty years of quarter-days that balanced, and six weeks of a new government is nothing to read. The size is wrong — a lease-house *bridges*, against revenue it can watch arriving, and what Balisha needs is not a bridge but somebody carrying a third of the revenue for nine to fourteen months against no line that closes it. **And the third is his own war**, and he says it flat: the last thing the money in this city watched was the largest private fortune in Kaha'an leaving a house in one night with the crown's blessing and no court ever asked whether it was lawful, and what Vessel Street took from that is that money here can stop being yours overnight. **Nobody at the table looks at him.** The beat's whole weight is in that — he states the cost of the thing he did, as arithmetic, and the room's kindness is to keep its eyes down. **Nobody connects it out loud and nobody ever may.** Elara does not argue with any of it, which is the most expensive thing she does all afternoon.
 
+22a. **Tania closes the hole Xion left, and Elara refuses the only real offer in the book.** *(Added
+2026-08-05 with the customs-farm ruling; beat 22 without this is incomplete and a lender would say so.)*
+Three reasons they will not **lend** does not answer the question of whether they will **buy** — and Tania
+Larannas is the sharpest commercial mind at that table. **Selling the customs forward is not a loan and it
+defeats all three objections at once:** the crown sells ten or fifteen or twenty years of the gate at
+whatever discount the consortium can argue for, the houses collect it themselves at the Golden Gates, and a
+man who holds the gate does not need the crown to have a record, does not care what its accounts look like,
+and cannot be defaulted on because he is not owed anything — he already owns the year. **It is the one
+instrument on Vessel Street large enough for this, and it is available.**
+
+**Elara says *no* before Xion opens his mouth**, which means she has been carrying the answer since well
+before the question. **Nobody asks her to explain, and the reason must never be stated on the page:** she
+broke the Coterie because private hands on a city's necessity was the injustice, and the gate is how Balisha
+eats — the food deficit is closed out of toll income. Selling it reconstitutes the Coterie in a different
+commodity, with the same people paying. **The room understands this without a word**, and the beat carries it
+in one gesture: the two people at that table who spent twenty years holding necessities privately **do not
+look at each other.**
+
+**Price the refusal or it is free.** Xion does the arithmetic because somebody has to know the size of what
+was just declined: **it is the best offer Balisha will get this year and it took her under a second.** No
+approval from him, no vindication, and no character tells her she was right — the chapter's position is that
+she was right and that it cost, and the second half is the part the prose must protect.
+
 23. The Brass Door. Somewhere in the latter part of the chapter, the treasury conversation produces a remark — from Kael, or Silvanno, or perhaps from Elara herself — about the Brass Door. This is not introduced as a quest or an adventure. It is introduced as an option, named reluctantly, in the context of a problem that doesn't have a better solution. Elara encountered the Brass Door in Book 1. She couldn't open it. No one knows what lies behind it. What is known, or suspected, is that whatever is there might be the only thing that could materially change the kingdom's financial position. The remark lands on the table the way desperate ideas land: not with enthusiasm, but with the uncomfortable logic of people who have run out of comfortable options.
 
 24. The session ends. The room clears. Xion and Elara have a brief moment in which the proximity of the decision registers. *(It passes inside the clearing of the room; it is not staged as a scene of its own.)* He is scarred. She can see it. Not broken, but changed in ways that show on the surface: the quality of his stillness, the way he holds certain conversations at a slight remove, the absence of some energy that was present before Melina died and before the two days of weaponized empathy. He is not the same. The work he just committed to is going to require the parts of him that were damaged in the winning of it. Elara doesn't say this. He doesn't say this. But the distance between them in the room — two people who trust each other completely and are both carrying weight they haven't fully put down — is the emotional register that closes the chapter.
@@ -90,6 +113,16 @@ ch4 confirms it from outside and is the pivot to Uratha.** Without ch1's beat, c
 time the reader learns the crown cannot borrow, which makes it exposition arriving late. With it, ch4 is a
 second door closing on a man who already knows the sound. **Do not merge them and do not cut ch1's on the
 grounds that ch4 does the work.**
+
+**On the customs farm, and the standing rule it creates — author's ruling, 2026-08-05.** **Elara never sells
+the gate, in any book.** The offer stays permanently available and permanently refused, which is what makes
+it worth having: it is the one expedient that would always work, and the crown's refusal of it is the
+concrete institutional difference between this state and the Coterie — not stated anywhere, demonstrated by
+its never happening. **If it recurs, it must escalate**, per the recurrence rule: a later book may raise it
+only with the price of refusing visibly higher than here, and raising it merely to be refused again is
+repetition. **Two recurrences at most across Books 4–8, and neither in a scene that already has a fiscal
+argument in it.** *(Ronas will point at it in Book 6 if anyone lets him — the crown that would not privatise
+its own gate is about to intervene in his.)*
 
 **Where beat 22 is paid: ch12, in a paragraph.** *(Author's ruling, 2026-08-05 — Lathion is **collateral, not
 cash**.)* Nothing behind the Door is money, and schematics do not pay inside nine to fourteen months. **What

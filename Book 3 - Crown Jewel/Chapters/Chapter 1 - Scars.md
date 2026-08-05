@@ -138,7 +138,21 @@ Nobody at the table looked at him. He was aware of what that cost them, and of w
 
 "They know that. It doesn't help. A man who lends into this and is wrong has lost his house. A man who declines and is wrong has had a quiet year." Xion turned his palm up on the table, and did not recognise the gesture as one he had watched Elara make an hour earlier. "The arithmetic isn't stupid. It's just not ours."
 
-Elara had not said anything through any of it. She did not argue with it now, which Xion thought was the single most expensive thing she did all afternoon.
+"You've told me they won't lend," Tania said. "You haven't told me they won't buy."
+
+And there it was, four streets away and twenty years long, and Xion was angry at himself for the half second it took him to be sure she had meant it, because of course she had meant it and of course she had got there first.
+
+They would buy. It was the only instrument on that street big enough for this and it was not a loan at all: the crown sold the gate forward — ten years of the customs, or fifteen, or whatever number the consortium could argue him down to — and the houses went and collected it themselves at the Golden Gates, and every objection he had just finished setting out simply stopped applying. A man who holds the gate does not need the crown to have a record. He does not care what the accounts look like. He cannot be defaulted on, because he is not owed anything; he already owns the year.
+
+"No," Elara said.
+
+She had not moved and she did not raise her voice, and she had answered before Xion had opened his mouth, which meant she had been carrying the answer since well before the question.
+
+Nobody asked her to explain it. The two people at that table who had spent twenty years holding a city's necessities in private hands did not look at each other, and the not-looking went round the room like a draught.
+
+Xion did the arithmetic anyway, because he could not help it and because somebody at that table had to know the size of what had just been refused. It was the best offer anyone would make Balisha this year. It had taken her under a second.
+
+Elara had not said anything else through any of it. She did not argue with the rest of it either, which Xion thought was the single most expensive thing she did all afternoon.
 
 It was Silvanno who said it, in the last half hour, in the tone of a man putting something on the table that he expected to be laughed at.
 

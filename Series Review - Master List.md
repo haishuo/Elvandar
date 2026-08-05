@@ -1148,6 +1148,35 @@ letter of the first objection touches them too. They stay. The name is vernacula
 called that *by association* with the warren beneath, by the people who live in both — which is exactly how
 cities name things and is honest work the Uratha use was not doing.
 
+### Elara never sells the gate — settled 2026-08-05
+
+**Author's ruling, and settling it exposed a hole in B3 ch1's own borrowing beat, written the same day.**
+Xion gives three reasons Vessel Street will not **lend** and never answers the obvious counter: **they do not
+have to lend, they can buy.** Selling the customs forward is not a loan and it defeats all three objections at
+once — the houses collect at the Golden Gates themselves, so they need no record of the crown, do not care
+what its accounts show, and cannot be defaulted on, because they are not owed anything; they own the year.
+**It is the largest financial instrument in Elvandar and it was sitting unmentioned in the scene.** Tania
+Larannas would reach it in four seconds and now does.
+
+**Elara refuses it before Xion can speak, and the refusal is never explained on the page.** She broke the
+Coterie because private hands on a city's necessity was the injustice, and **the gate is how Balisha eats** —
+the food deficit is closed out of toll income. Selling it reconstitutes the Coterie in a different commodity
+with the same people paying. **The room understands without a word:** the two people at that table who held
+necessities privately for twenty years do not look at each other.
+
+**And the refusal is priced, which is the part that must survive revision.** Xion runs the arithmetic because
+somebody has to know the size of it — **the best offer Balisha will get this year, declined in under a
+second.** No character tells her she was right. The position is that she was right *and* that it cost.
+
+**Standing rule: she never sells the gate, in any book.** The offer stays permanently available and
+permanently refused, and its never happening is the concrete institutional difference between this state and
+the Coterie — demonstrated rather than stated. **If it recurs it must escalate**, per the recurrence rule:
+higher price of refusal each time, **two recurrences at most across Books 4–8**, never in a scene that
+already carries a fiscal argument. *(Ronas has the strongest available use of it in Book 6 — the crown that
+would not privatise its own gate is about to intervene in his.)*
+
+---
+
 ### Lathion is collateral, not cash — settled 2026-08-05
 
 **Author's ruling.** Nothing behind the Brass Door is money. It is **schematics**, worth a century of
@@ -1286,22 +1315,12 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ## 7. Open questions
 
-**One open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
+**One open, raised 2026-08-05.** *(The customs farm was settled the same day; see §6.)* The three items opened on 2026-08-02 were all ruled on the same day and are
 recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
 Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
 changelog for each.
 
 *(All five Brass Door stress-test findings of 2026-08-05 are resolved: two produced prose — B3 ch6's exclusivity clause and ch4's Gunastran answer — and three produced canon rulings in §6: the Crown's worthiness test, what Lathion is actually worth, and what Uratha does after ch13.)*
-
-**Does Elara ever farm out the customs?** B3 ch1 now establishes that the crown *can* borrow in principle —
-she holds the tolls, which are the best security in Elvandar — and that the lease-houses decline this year on
-her record rather than on her assets. **So the door is not locked; it has a price, and the price rises the
-longer she waits.** Farming the customs is what a broke state in this position historically does: sell years
-of gate revenue to survive this one. **It is the Coterie's own arithmetic offered to the woman who broke the
-Coterie**, which is why it is worth something dramatically. Three live options — never formally offered;
-offered and refused, at a cost; or taken, with Book 8 paying for it. **Author's call, and it belongs to Book
-3's outline rather than to a geography file.** Recorded so that nobody reaches for it as a convenience in the
-meantime.
 
 **Who holds Kalden's mortgages?** Book 7 has him borrowing *"against the northern mines, against the Amber
 Palace itself, against everything that is left"* to hire his mercenaries, and the book closes on *"a
