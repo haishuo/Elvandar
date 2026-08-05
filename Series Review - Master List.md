@@ -23,7 +23,7 @@ them before it is proposed against the prose.
 | **Rule 3** — single-emotion integrity | 0 | — |
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
-| **Book 3 — in draft** | 2 | ch10 prose not started; Places-vs-map audit unfinished |
+| **Book 3 — in draft** | 3 | ch11 prose not started; `The Repository` length unruled; Places-vs-map audit unfinished |
 | **Open questions** | 0 | — |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
@@ -32,8 +32,8 @@ withdrawn, or applied. Book 3 is live work rather than review findings — see [
 **Book 3 is 21 chapters as of 2026-08-04.** `Chapter 6 - Fair Price` was inserted between *Hubris* and
 *Wonder* on 2026-08-03 to carry the return from Uratha and the purchase of a supply line into the Warrens,
 shifting everything from *Wonder* down by one — *Wonder* is now **ch7**. Then `Inhabitants` and `Neighbours`
-were split out of one 7,400-word chapter on 2026-08-04. **Prose exists for ch1–9**; beat drafts exist for
-all twenty-one. Next prose is `Chapter 10 - The Repository`.
+were split out of one 7,400-word chapter on 2026-08-04. **Prose exists for ch1–10**; beat drafts exist for
+all twenty-one. Next prose is `Chapter 11 - The Destiny Engine`.
 
 **Before flagging anything here as outstanding, check the history.** This document has now produced
 more stale entries than live ones. Eight of the original eleven Book 1 craft flags were stale — the
@@ -516,11 +516,18 @@ C-26, C-27 and C-28 were opened in their place and all three are applied — see
 
 These are live work, not review findings against finished prose.
 
-**B3-1 — `Chapter 8 - Inhabitants` and `Chapter 9 - Neighbours` are drafted and written; prose for
-`Chapter 10 - The Repository` not started.** The two were one 7,400-word chapter until 2026-08-04 and
-were split at the seam after the Rending exchange — *"The number did not move."* Act II now runs
-3,050 / 4,590 / 2,810, which is the shape a wonder sequence wants rather than one short chapter and one
-outsized one. Book 3 is **21 chapters**.
+**B3-1 — prose exists for ch1–10; `Chapter 11 - The Destiny Engine` not started.** `Inhabitants` and
+`Neighbours` were one 7,400-word chapter until 2026-08-04 and were split at the seam after the Rending
+exchange — *"The number did not move."* Book 3 is **21 chapters**.
+
+**And the length of `The Repository` is an open question the author has not yet ruled on.** It came in at
+**7,454 words** against an Act II running 3,051 / 4,716 / 2,808, and against a book whose next longest
+chapter is ch4 at 6,165. It is the longest chapter in Book 3 by thirteen hundred words, and 7,400 is the
+number that got `Inhabitants` split four days earlier. All nineteen beats are executed and the loose prose
+has already been tightened, so **any further reduction costs a beat and is therefore structural**. Three
+routes were offered and none chosen: reduce the theoretical-region section to a paragraph and let Ormuth's
+corridor scene carry it; cut the watching beat to four sentences and let ch12 do that work; or split at the
+schematics. **The chapter should also not outweigh ch11**, which is the act's actual climax.
 
 Three things the remaining Lathion chapters must hold. **Nothing in the city is damaged or declining** —
 the Lathionese closed the house and walked out, and any beat implying decay argues against the bequest

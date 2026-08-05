@@ -7220,3 +7220,69 @@ deliberate — the Viewer is a tool, not the series, and it now lives at
 correction. `Tools/` holds `royalroad_export.py` and nothing else.
 
 Files: `Series Review - Master List.md`, and `MIGRATION_GUIDE.md` in the Elvandar Viewer repository.
+
+### B3 ch10 `The Repository` drafted — 2026-08-05
+
+**Prose written from the beat draft; nineteen beats, all executed.** Descent by the service conveyor;
+the corridor of arrival; the sphere; the forms and the lattice that resolves out of them at the right
+angle; the cleanliness that turns out to be arrangement; Elara at the threshold and then moving through
+the room by a route the scholars' spiral would not reach for months; the note-taking; Brennek's perimeter
+track and the schematics; the healer's response; the recency confirmation; the theoretical region; Ormuth
+in the corridor; *they knew*; Brennek arriving at the same word; the debt; *they were not strangers.*
+
+**Two beats were written out and put back, and both are load-bearing downstream.** The first draft
+reached the end without **Brennek's index-mark confirmation** — the second independent piece of recency
+evidence that ch11 stands on. Restored as an unfinished run: sixty plates cut with a finer tool, all at
+the ends of the engineering runs, and the last run stopping with six cut and four blank behind forms
+already shelved. Brennek refuses to date brass and says only that there are two hands in the room and one
+came later; **nobody says the number**, and the text names it as the same answer as the soil, reached from
+a different direction by a man who would not be led. The second was **a scholar saying *"The Great Library
+is a room"*** — without it ch5's library is scenery, which is the exact thing the ch5 note warned about.
+
+**Three deviations from the draft, all deliberate.** Brennek says *"Counselor"* rather than the draft's
+*"Xion"*, because ch8 establishes that address twice including its last line, and the content carries the
+intimacy without spending the marker. The junior scholar who runs out of paper is **male**, because ch9's
+prose fixes the contingent as *"twelve exhausted men"* and the draft's *her* would have contradicted the
+page — a continuity call, not the unnamed-NPC rule. And *"forty thousand"* is used as Xion's own rough
+figure rather than any canon count.
+
+**Four corrections caught in the pass.** *Five thousand years* was softened out of Xion's interiority per
+the skeleton's rule that ch8 onward must not commit the POV to a number the act exists to disprove. A
+depth slip put the answer *"four hundred meters underneath him"* while he was standing a level below the
+Crown, which is deeper than that; it now reads *under his feet.* Two multi-word bolds — *kept clean* and
+*Set out* — were the emphasis rule broken in the way it is always broken, and went to a single-word bold
+and an italic respectively. And invented distances (*four hundred miles*, *nine hundred miles*) and an
+invented transit time for the first dispatch were cut rather than guessed; no walk-on was given a name,
+since **P is still free in the Book 3 register** and a one-line scholar is not worth spending it.
+
+**Length is unresolved and is recorded as outstanding, not as done.** 7,454 words. See master list §3 B3-1.
+
+### The Book 3 beat drafts renumbered — 2026-08-05
+
+**Two insertions had left the drafts pointing a chapter short, and in places two.** `Chapter 3 - Storm-Line`
+was inserted 2026-08-01, `Chapter 6 - Fair Price` on 2026-08-03 (which moved *Wonder* from ch6 to ch7), and
+`Inhabitants`/`Neighbours` were split on 2026-08-04 (which moved everything from *The Repository* down by
+one again). **The filenames and H1s were all correct and the skeleton had been updated; the draft bodies had
+not**, so the cross-references inside them were silently wrong — the class of error this project has already
+been bitten by, since a note claiming a chapter pays something gets trusted and used to veto good material.
+
+**Forty-eight references corrected across twelve drafts plus the skeleton**, resolved **by title rather than
+by arithmetic**, because the drafts are of mixed vintage and a flat +1 or +2 would have been wrong in both
+directions. The heaviest were ch11 (nine), ch12 (seven), ch15 (six) and ch14 (six).
+
+**Three references were rewritten to name the chapter instead of numbering it**, because their vintage could
+not be established well enough to trust any number: ch3's *"the plant for ch11 and ch13"* now reads *the plant
+for the Urathan payoff in `The Repository` and `The Scholar's Crown`*, matching what ch3 and ch8 already say
+elsewhere; ch5's *"ch11 and ch12 contain none of it"* now reads *none of the later Uratha chapters*; and ch5's
+*"two chapters later"* about the Great Library was simply wrong on its face and is now *five*.
+
+**One reference is left alone and is flagged rather than guessed.** `A Warrior's Heart` beat 48 — *"the war
+that was abstract in Chapter 14"* — is genuinely ambiguous. That draft is demonstrably pre-split vintage (its
+Vartonne reference needed correcting from ch16 to ch17), which argues the number means `The Proposal`, now
+ch15; but read against the current numbering it lands on `Ruthless Calculus`, which is also a defensible
+reading of *abstract*. **Author's call.** Correcting it on a guess is exactly how a stale note becomes a
+trusted one.
+
+Files: fourteen of the twenty-one `Book 3 - Crown Jewel/Beat Drafts/` (ch3, ch5, ch6, ch8, ch10–ch19 — the
+other seven carried no stale reference), `book3_chapter_skeleton.md`,
+`Book 3 - Crown Jewel/Chapters/Chapter 10 - The Repository.md`, `Book 3 - Crown Jewel/Royal Road/`.

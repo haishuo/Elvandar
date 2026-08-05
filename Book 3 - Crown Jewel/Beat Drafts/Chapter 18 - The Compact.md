@@ -5,7 +5,7 @@
 **Emotional work:** Two faces of the same man. First, Kalden at his most seductive — securing Vartonne not with gold but by converting an insult into a forecast, the master operator building an alliance out of another nation's wounded pride. Then the pattern that has always lived under the charm, repeating at a larger scale: the reader watches a composed, still man dismiss the one voice of reason in the room and sign a document that starts a war — and the horror comes entirely from the calm with which it happens.
 **POV:** Kalden Erulius (second deliberate POV break; hard cut from Xion)
 
-**POV NOTE:** This is the second deliberate POV break in Book 3, after the Gunastran interlude in Chapter 13. It is a full Kalden chapter. We are inside his head. We do not return to his perspective again in this book.
+**POV NOTE:** This is the second deliberate POV break in Book 3, after the Gunastran interlude in Chapter 14. It is a full Kalden chapter. We are inside his head. We do not return to his perspective again in this book.
 
 ---
 

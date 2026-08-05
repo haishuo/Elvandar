@@ -138,11 +138,11 @@ The agreement is reached: anything material or economic behind the door belongs 
 
 **Then the author asked the harder question: if none of this is relevant, why is it here?** *"Do we ever return to the Great Library? If not, why do we have a history lesson? Does Xion's feeling here serve any narrative purpose?"*
 
-**Checked, and the answer was no on all three.** The Great Library appears in ch5 and in no other chapter or draft. The *"there is no seam"* reasoning recurs nowhere — ch11 and ch12 contain none of it. And within ch5 the payoff was **asserted rather than shown**: the prose claimed *he believes his proposal differently now*, and the negotiation that follows is Elara's, with Xion watching, so nothing cashes it. **Three hundred and thirty words of imperial chronology whose only consequence was a sentence about an internal state.**
+**Checked, and the answer was no on all three.** The Great Library appears in ch5 and in no other chapter or draft. The *"there is no seam"* reasoning recurs nowhere — none of the later Uratha chapters contain any of it. And within ch5 the payoff was **asserted rather than shown**: the prose claimed *he believes his proposal differently now*, and the negotiation that follows is Elara's, with Xion watching, so nothing cashes it. **Three hundred and thirty words of imperial chronology whose only consequence was a sentence about an internal state.**
 
 **Cut to about a hundred, keeping only the part that is characterisation rather than exposition:** the possessive reflex — *they have ours* — arriving before he can stop it, and being put away before he is out of the arcade. **The reader does not need the founding dates. They need to watch a man who reads situations correctly catch himself reading one wrong.** One clause carries the reason (a province, an academy, books arriving at the building put up to receive them) and one line connects it forward to the morning's negotiation.
 
-**And the Library was given an actual job two chapters later.** Ch9's draft now uses it as the measure the Repository breaks — the largest collection in the known world, established flatly in ch5, made into a room by Lathion — **and the beat belongs to the Urathan scholars**, who are the only people present equipped to feel the size of it. Without that, the ch5 library is scenery.
+**And the Library was given an actual job five chapters later.** Ch10's draft now uses it as the measure the Repository breaks — the largest collection in the known world, established flatly in ch5, made into a room by Lathion — **and the beat belongs to the Urathan scholars**, who are the only people present equipped to feel the size of it. Without that, the ch5 library is scenery.
 
 *(5,753 → 5,424 words.)*
 
