@@ -7920,3 +7920,28 @@ produced prose (B3 ch1's borrowing beat and customs refusal, ch4's Gunastran ans
 clause) and five produced canon rulings.
 
 Files: `Book 7 - Last Debts/book7_outline.md`, `People/Kalden Erulius.md`, `Series Review - Master List.md`.
+
+### Character art tracked, and the style suffix dropped — 2026-08-05
+
+**The art is now under version control on one naming convention: `Subject.png`, no style suffix.** The
+folder had been carrying `- Manga` and `- Webtoon` variants of the same subject, which made the filename
+carry a rendering decision rather than an identity, and left two files competing to be the picture of
+Farleen Darfi. There is now **one canonical image per subject**, named for the subject.
+
+**What actually changed, since git distinguishes it and the distinction matters.** Four were **pure
+renames** — `Tiberian Valanar`, `Xion Kemvimore`, `Xion and Elara - Masquerade Ball` and `Xion and
+Farleen - Garden Reception - Non-Canon` are byte-identical to their `- Manga` predecessors and only lost
+the suffix. `Elara Valanar` and `Farleen Darfi` are **new images** replacing their variants; Farleen's two
+files collapsed into one. The remaining eleven are **new art with no predecessor**: Kael Issamil, Kalden
+Erulius, Kess Ashwood, Melina Kemvimore, Melina Valanar, Mistress Janice, Ronas Dermir, Rosik Kemvimore,
+Sa Ko Ren, Silvanno Larannas, Tania Larannas, and `Elara Valanar - Imperial Princess AU - Non-Canon`.
+
+**Every subject was checked against `Names.md` before committing** and all eighteen are registered
+characters with sheets — including Kess Ashwood, who is Books 6–7 and easy to mistake for a coinage.
+**Non-canon images keep the `- Non-Canon` marker in the filename**, which is the one suffix that survives,
+because it records what the image *is* rather than how it was drawn.
+
+**One practical note, not a problem yet.** The folder is 61 MB across eighteen files at roughly 3.5 MB
+each, and git keeps every version of a binary forever. Replacing an image is therefore not free the way
+replacing a paragraph is. Nothing needs doing about it now; it is worth knowing before any pass that
+re-renders the whole set.
