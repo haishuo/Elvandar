@@ -7,10 +7,14 @@ In the world of Elvandar, divine artifacts represent the highest virtues of the 
 > *"Knowledge only grows if it is shared."*
 
 ### The Divine Artifact
-A semi-intelligent divine artifact originally loaned to the Imperial Academy by an ancient Balishan emperor. This remarkable relic grants its bearer (if found worthy) the accumulated knowledge, skills, and abilities of all worthy individuals who have worn it before. Worthiness is determined by whether the wearer contributes novel knowledge.
+A semi-intelligent divine artifact originally loaned to the Imperial Academy by an ancient Balishan emperor. This remarkable relic grants its bearer (if found worthy) the accumulated knowledge, skills, and abilities of all worthy individuals who have worn it before.
+
+**Worthiness tests the drive, not the work.** *(Settled 2026-08-05. This entry previously read "worthiness is determined by whether the wearer contributes novel knowledge," which is **Uratha's doctrine about the Crown rather than the Crown's criterion**. Authoritative treatment is *The Paradigm Drift* in `Places/Uratha/Uratha_ The Land of Scholars.md`; the governing line is in `Magic/elvandar_magic_system.md` — no amount of scholarly achievement substitutes for "the authentic desire to serve others through knowledge.")* The Crown reads the engine underneath the scholarship, which is why it cannot be gamed by producing more of anything, and why **it answers to a soldier who never wrote a paper and refuses a Scholar-King with a library named after him.**
+
+Note that this is the same test as the other two artifacts, stated in the same shape. The Titan's Heart weighs *dedication to personal improvement*, not strength attained. The Spirit's Reflection asks whether you will face your own fear, not whether you are brave. **All three read the motive; none reads the result.** That is the pattern, and the novel-knowledge formulation was the one entry that broke it.
 
 ### Status
-The Scholar's Crown has fallen silent in recent decades. Despite all their published papers and celebrated research, recent Scholar-Kings have failed to present the Crown with truly novel knowledge—merely rehashing old ideas in new language. The Crown's silence serves as a damning indictment of Uratha's intellectual stagnation.
+The Scholar's Crown has been silent for **nearly a century** — no living Provost has seen it work. **Uratha's explanation is that recent Scholar-Kings failed to present it with truly novel knowledge, merely rehashing old ideas in new language**, and that explanation is both universally held among those who know the secret and wrong. It is the comfortable error: it says the failure is insufficient cleverness, which is dignified and in principle solvable. **The actual indictment is not intellectual stagnation but a change of engine** — scholarship pursued as accumulation rather than discovery — and the doctrine is precisely what makes the Globehall look like a solution to the people who built it.
 
 ### The Corrupted Version: The Globehall
 In place of the Scholar's Crown's wisdom, the Provosts have created an abomination beneath the Ivory Tower—the Globehall, sometimes referred to in hushed whispers as the "Ebony Tower." This hidden basement level contains thousands of crystal spheres, each containing an extracted human mind existing in a state of perpetual agony.

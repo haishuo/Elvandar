@@ -7647,3 +7647,62 @@ ch4 6,165 → 6,366 words.
 Files: `Book 3 - Crown Jewel/Chapters/Chapter 4 - Negotiations.md`,
 `Book 3 - Crown Jewel/Beat Drafts/Chapter 4 - Negotiations.md`, `book3_chapter_skeleton.md`,
 `Book 3 - Crown Jewel/Royal Road/`.
+
+### The Scholar's Crown: worthiness tests the engine, not the output — settled 2026-08-05
+
+**Raised as a two-file conflict from the Brass Door stress-test. It was four files, and the answer was
+already written inside one of them.**
+
+`Places/Uratha/Uratha_ The Land of Scholars.md` **contradicted itself.** Its opening paragraph said
+*"Worthiness is determined by the Crown itself based on whether the wearer contributes novel knowledge to
+it."* Its own *Paradigm Drift* section — far longer, far more considered, wired into the Seven Paradigms and
+into Harkim's arc — says **"The Crown reads the *engine*, not the *output*"**, and that it *"cannot be
+deceived by the appearance of scholarship when the drive underneath is accumulation."*
+
+**The second is right.** It agrees with `Magic/elvandar_magic_system.md` — *"No amount of scholarly
+achievement could substitute for the authentic desire to serve others through knowledge"* — and the
+novel-knowledge formulation is an older stratum that had survived as a summary line in **four** places:
+the Uratha file's header and Silent Crown section, `Magic/The Divine Artifacts of Elvandar.md`, and
+`Places/Elvandar.md`. All conformed; the magic-system paragraph is marked as the governing statement.
+
+**The clinching structural argument is the other two artifacts.** The Titan's Heart weighs *dedication to
+personal improvement*, not strength attained. The Spirit's Reflection asks whether you will face your own
+fear, not whether you are brave. **All three read the motive; none reads the result** — and the Crown was the
+single entry breaking a pattern the artifacts document states in its own opening line about virtues.
+
+**The novel-knowledge test is kept, demoted to Urathan doctrine, and it is the most valuable thing in this
+ruling.** It is not a discarded error; it is what the Provosts believe, and believing it is what damns them:
+
+- **It explains the escalation.** Reading the silence as a failure of output, they demand more output — more
+  papers, more exams, more celebrated research. **You cannot pass a test of humility by trying harder at
+  achievement, and trying harder makes it worse.**
+- **It is what *The Paradigm Drift* already meant** by the silence having been *"reinterpreted rather than
+  heeded."* The doctrine is the reinterpretation.
+- **It explains the Globehall, and with horrible precision.** If worthiness were a matter of presenting novel
+  knowledge, then manufacturing novel knowledge out of harvested minds is a *rational* response to the
+  Crown's refusal. **The Globehall is the logical conclusion of the wrong doctrine**, which is far worse — and
+  far better written — than simple wickedness.
+- **It is a flattering error**, which is why it holds: it says Uratha has not been clever enough, and
+  insufficient cleverness is a dignified and solvable failure. The truth is that the drive changed, and no
+  quantity of brilliance addresses that.
+
+**Standing instruction: never state the novel-knowledge test as fact, and never delete it.** It is always
+what Uratha believes.
+
+**What it fixes at B3 ch13**, which is why it was raised. The Crown blazes on Elara — a soldier-empress who
+has not contributed a line of scholarship — four weeks after Uratha traded it away believing it dead. Under
+the novel-knowledge test that scene carries a question mark. Under the engine test it is an indictment: **it
+answers her because it was never reading scholarship, and it refuses a Scholar-King with a library named
+after him.** The delegation's *"shock, quickly masked"* is now shock at the correct thing.
+
+**Corrected in the same pass: the silence is nearly a century, not "recent decades."** `elvandar_series_outline.md`
+fixes it twice — *"silent for nearly a century"*, *"fell silent almost a hundred years ago"* — and Book 8
+rests on it, while two canon files said "recent decades", which any reader takes as twenty or thirty years.
+**No living Provost has seen it work**, and the institution remembers that it did.
+
+**Also cleaned:** the settled item was removed from §7 rather than left struck through, per the standing rule
+against leaving closed questions under that heading — the rule that exists because a reader once reported a
+closed question to the author as live.
+
+Files: `Places/Uratha/Uratha_ The Land of Scholars.md`, `Magic/The Divine Artifacts of Elvandar.md`,
+`Magic/elvandar_magic_system.md`, `Places/Elvandar.md`, `Series Review - Master List.md`.

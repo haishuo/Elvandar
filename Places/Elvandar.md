@@ -70,7 +70,7 @@ The warrior class justifies this cruelty as necessary for maintaining their mart
 
 ### Uratha: The Land of Scholars - Pride
 
-What began as a single Imperial Academy grew into a province entirely dedicated to scholarship and learning. The foundation of Uratha's power and independence lies in the Scholar's Crown, a semi-intelligent divine artifact loaned to the academy by an ancient emperor. This remarkable relic grants its bearer (if found worthy) the knowledge, skills, and abilities of all worthy individuals who have worn it before, with worthiness determined by the contribution of novel knowledge.
+What began as a single Imperial Academy grew into a province entirely dedicated to scholarship and learning. The foundation of Uratha's power and independence lies in the Scholar's Crown, a semi-intelligent divine artifact loaned to the academy by an ancient emperor. This remarkable relic grants its bearer (if found worthy) the knowledge, skills, and abilities of all worthy individuals who have worn it before. **Worthiness tests the drive rather than the work** — see `Places/Uratha/Uratha_ The Land of Scholars.md`, *The Paradigm Drift*. *(This sentence previously ended "with worthiness determined by the contribution of novel knowledge," which is Uratha's doctrine about the Crown and not its criterion; conformed 2026-08-05 with three other files.)*
 
 As Uratha expanded from a building to a campus to a city to a province, its academic influence grew proportionally. When the empire collapsed, Uratha refused to return the Scholar's Crown to Balisha, creating a bitter feud that continues to this day. 
 

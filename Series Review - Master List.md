@@ -1136,6 +1136,35 @@ letter of the first objection touches them too. They stay. The name is vernacula
 called that *by association* with the warren beneath, by the people who live in both — which is exactly how
 cities name things and is honest work the Uratha use was not doing.
 
+### The Scholar's Crown reads the engine, not the output — settled 2026-08-05
+
+**Authority is `Places/Uratha/Uratha_ The Land of Scholars.md`, *The Paradigm Drift*.** Governing one-line
+statement in `Magic/elvandar_magic_system.md`. Full reasoning in the changelog.
+
+**Raised as a two-file conflict and it was four, and the answer was already inside the Uratha file.** Its
+opening line said worthiness turns on **contributing novel knowledge**; its own *Paradigm Drift* section says
+*"the Crown reads the **engine**, not the **output**"* and cannot be deceived by the appearance of scholarship
+when the drive underneath is accumulation. The second is right, it agrees with the magic-system file, and the
+first was an older stratum surviving in four places. **Conformed:** `Uratha_ The Land of Scholars.md`,
+`Magic/The Divine Artifacts of Elvandar.md`, `Magic/elvandar_magic_system.md`, `Places/Elvandar.md`.
+
+**The novel-knowledge test is Urathan doctrine, it is wrong, and it is kept because it is load-bearing.** It
+is why the Provosts respond to the silence by demanding more output — **you cannot pass a test of humility by
+trying harder at achievement** — and it is what makes the Globehall look like a solution to the men who built
+it, since manufacturing novel knowledge out of harvested minds is a rational answer to the wrong question.
+**Do not delete it and do not state it as fact.** It is always what Uratha believes.
+
+**All three divine artifacts test motive, none tests result**, and the Crown was the one entry breaking the
+pattern: the Titan's Heart weighs dedication rather than strength attained, the Spirit's Reflection asks
+whether you will face your fear rather than whether you are brave.
+
+**Consequence for B3 ch13:** the Crown answers Elara despite her never having contributed a line of
+scholarship, because it was never reading that — and refuses a Scholar-King with a library named after him.
+**Also corrected in the same pass:** the silence is **nearly a century**, per `elvandar_series_outline.md` and
+Book 8, not the *"recent decades"* two files carried. No living Provost has seen it work.
+
+---
+
 ### Kaha'an's banking, and why nobody can borrow — settled 2026-08-05
 
 **Authority is `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, "Who clears the money, and why they hold
@@ -1194,24 +1223,17 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ## 7. Open questions
 
-**Five open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
+**Three open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
 recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
 Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
 changelog for each.
 
-**Three raised 2026-08-05 by the Brass Door stress-test, and left open deliberately.**
+**Two raised 2026-08-05 by the Brass Door stress-test and left open deliberately.** *(A third — the Crown's worthiness test — was settled the same day; see §6.)*
 
 - **Uratha knows the Crown is live from ch13**, and has just traded away a working divine artifact believing
   it dead. Book 8 collects this. **Books 4–7 have a Uratha with overwhelming motive and a Balisha holding the
   object** — standing leverage over an ally, currently unused. Not a hole; an unexploited asset, and the risk
   is that four books of silence reads as the author saving it.
-- **Two different worthiness tests for the Scholar's Crown, in two canon files.**
-  `Places/Uratha/Uratha_ The Land of Scholars.md` says worthiness is *"determined by the Crown itself based on
-  whether the wearer contributes novel knowledge to it."* `Magic/elvandar_magic_system.md` says it fell silent
-  because Scholar-Kings *"approached it with pride and expectation rather than humble curiosity."* Those are
-  reconcilable but they are **not the same test**, and they meet on Elara's head at ch13's legitimacy beat.
-  She passes the second cleanly; under the first, a soldier-empress who does not read is a strange candidate.
-  **Worth settling which is the criterion**, because that scene should not carry a question mark.
 - **Lathion does not pay on the treasury's clock.** Ch1 sets nine to fourteen months; what is behind the Door
   is **schematics**, worth a century of advancement and nothing this year. The available answer, and it is
   clean: **Lathion solves the money by making Balisha creditworthy rather than by being money.** The

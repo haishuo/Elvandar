@@ -122,7 +122,9 @@ Each successor state's embrace of a deadly sin cuts them off from True Magic:
 - The other sins similarly corrupt the emotional purity required for True Magic
 
 ### The Crown's Silent Years
-The Scholar's Crown fell silent for decades because recent Scholar-Kings approached it with pride and expectation rather than humble curiosity. They wanted to use its power rather than earn its wisdom. No amount of scholarly achievement could substitute for the authentic desire to serve others through knowledge.
+The Scholar's Crown fell silent nearly a century ago because recent Scholar-Kings approached it with pride and expectation rather than humble curiosity. They wanted to use its power rather than earn its wisdom. No amount of scholarly achievement could substitute for the authentic desire to serve others through knowledge.
+
+**This paragraph is the governing statement of the Crown's criterion, confirmed 2026-08-05.** Two other files opened by saying worthiness turns on contributing novel knowledge; that is Uratha's *doctrine* about the Crown, it is wrong, and both have been conformed — see `Places/Uratha/Uratha_ The Land of Scholars.md`, *The Paradigm Drift*, which reaches the same place through the Paradigms and is the fullest treatment. **The practical consequence: the Crown answers Elara in Book 3 ch13 despite her never having contributed a line of scholarship, because it was never reading that.**
 
 ## The Hidden Layer of the Trilogy
 
