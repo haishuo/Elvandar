@@ -7177,3 +7177,46 @@ Farleen made, not about anything she is stressing. Same shape as Janice's *Fen.*
 All multi-word italics in both chapters check out: interior thought, reported phrases, and the two
 recurrences of *You cannot think about a thing you cannot name.* Existing bolds — *quantity*, *bodies*,
 *stacked*, *stack*, *neighbours* — are all single-word stress and stand.
+
+### The drafting worktree is retired — author's ruling, 2026-08-04
+
+**One checkout, one copy of the book on disk. `book3-prose` survives as an ordinary branch.** The author's
+question was the whole of it: *"Why does it need to be so complicated? Why not just have a regular branch?
+Why duplicate?"* — and the answer is that it never did.
+
+**The worktree was a workaround for a problem that had already been solved.** It existed from 2026-08-03 to
+2026-08-04, first at `.claude/worktrees/book3-prose`, where the Elvandar Viewer could not display it —
+`repository.py` carries `.claude` in `IGNORED_NAMES` and filters every dotted name — so six commits were
+pushed somewhere the author's reader is built never to show. Relocating it to a visible sibling directory
+fixed that symptom and kept the actual cost: **a second full copy of the manuscript that went stale inside a
+day and was opened and read as current** — no ch6 at all, *Wonder* still numbered ch6. When it was finally
+removed it was identical to `main` commit-for-commit.
+
+**Verified rather than assumed, against the live repository.** The Viewer's branch selector lists *Working
+tree · main* plus *Committed · <branch>* for every branch, and selecting one renders that branch's entire
+tree through Git objects — all nine Book 3 chapters listed, ch9 read at 14,945 characters — **with no
+checkout of any kind**. That is precisely the capability the second working copy was invented to provide.
+62/62 of the Viewer's own tests pass, path discovery resolves to `Writing/Elvandar` first, and a branch
+carrying work correctly grows a *Branch vs main* comparison with change-awareness narrowed to that branch.
+
+**Applied.** `git worktree remove`, branch preserved, `worktree prune` clean, no `.git` file anywhere still
+naming `Elvandar-worktrees`, and the sibling directory deleted. `book3-prose` was fast-forwarded to `main`:
+it had been left one commit behind and therefore *displayed the pre-Viewer-removal book* when selected —
+**the worktree's own failure mode at a tenth of the price**. It had zero unique commits, so nothing was
+lost. **Keep every branch fast-forwarded** for exactly that reason.
+
+**And the runbook that would have resurrected it was cut.** `MIGRATION_GUIDE.md`, in the Viewer's own
+repository, instructed the reader to *"relocate Elvandar and recreate its worktree"* and told the agent
+executing it to *"preserve the book3-prose branch by removing and recreating its clean linked worktree."*
+The worktree was in fact recreated by another tool following that guide, hours after being deliberately
+removed. Phase 5 now removes and prunes without recreating, Phase 6 points at the branch selector, the
+destination tree and safety checks drop the worktree entirely, and the pasteable prompt says **do NOT
+recreate it**. Every surviving mention of the word in that file is an instruction to remove one.
+
+**One error of mine, recorded because the correction was the author's.** I read the 44 staged deletions
+under `Tools/elvandar_viewer` as accidental damage from the folder move and restored them. They were
+deliberate — the Viewer is a tool, not the series, and it now lives at
+`/Volumes/Archive/Documents/Dev/elvandar-viewer` as its own repository. Reverted on the author's
+correction. `Tools/` holds `royalroad_export.py` and nothing else.
+
+Files: `Series Review - Master List.md`, and `MIGRATION_GUIDE.md` in the Elvandar Viewer repository.

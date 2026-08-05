@@ -23,15 +23,17 @@ them before it is proposed against the prose.
 | **Rule 3** — single-emotion integrity | 0 | — |
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
-| **Book 3 — in draft** | 2 | ch6 beat draft in progress; `_WORKING_NOTES.md` to salvage and delete |
+| **Book 3 — in draft** | 2 | ch10 prose not started; Places-vs-map audit unfinished |
 | **Open questions** | 0 | — |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied. Book 3 is live work rather than review findings — see [§3](#3-outstanding-work).
 
-**Book 3 is 20 chapters as of 2026-08-03**, not 19. `Chapter 6 - Fair Price` was inserted between
-*Hubris* and *Wonder* to carry the return from Uratha and the purchase of a supply line into the Warrens;
-everything from *Wonder* down shifted by one, and *Wonder* is now **ch7**. Prose exists for ch1–5 and ch7.
+**Book 3 is 21 chapters as of 2026-08-04.** `Chapter 6 - Fair Price` was inserted between *Hubris* and
+*Wonder* on 2026-08-03 to carry the return from Uratha and the purchase of a supply line into the Warrens,
+shifting everything from *Wonder* down by one — *Wonder* is now **ch7**. Then `Inhabitants` and `Neighbours`
+were split out of one 7,400-word chapter on 2026-08-04. **Prose exists for ch1–9**; beat drafts exist for
+all twenty-one. Next prose is `Chapter 10 - The Repository`.
 
 **Before flagging anything here as outstanding, check the history.** This document has now produced
 more stale entries than live ones. Eight of the original eleven Book 1 craft flags were stale — the
@@ -57,27 +59,37 @@ in from the cloud branch on 2026-07-29, where they were numbered C-16 through C-
 invented C-16 onward independently for different items. The mapping is in the changelog under the
 merge entry, and the branch's own commit messages still use the old numbers.
 
-**Where the work happens, from 2026-08-03; relocated 2026-08-04.** Drafting runs in the worktree at
-`../Elvandar-worktrees/book3-prose` on branch `book3-prose`; `main` holds finished work. The author reads
-progress through **Elvandar Viewer** (`Tools/elvandar_viewer`), which is worktree-aware — verified against
-its own `GitClient`: it resolves `--absolute-git-dir` and `--git-common-dir` separately, so its live-update
-watcher follows a worktree's metadata correctly rather than looking for a `.git` folder that isn't there.
+**Where the work happens — author's ruling, 2026-08-04. There is one checkout and one branch.** Drafting
+runs on `main` in `/Volumes/Archive/Documents/Writing/Elvandar`, and that is the only copy of the book on
+disk. The author reads progress through **Elvandar Viewer**, which now lives in its own repository at
+`/Volumes/Archive/Documents/Dev/elvandar-viewer` — it is a tool, not part of the series, and it was removed
+from `Tools/` deliberately. `Tools/` holds `royalroad_export.py` and nothing else.
 
-**The worktree lives outside the repository, and that is not cosmetic.** It sat at
-`.claude/worktrees/book3-prose` for one day and cost most of a session, because the Viewer's own
-`repository.py` carries `.claude` in `IGNORED_NAMES` *and* filters every dotted name, and Finder hides
-dot-directories too. Six commits — the emphasis pass, the *earth* and *Gods* fixes, `Names.md` — were
-pushed to a folder the author's reader is built never to display, and he was told to go and read them
-there. **The exclusion is correct and the placement was wrong.** A worktree the author cannot open is
-worse than no worktree, because the work looks done from this side and does not exist from his. Any future
-worktree goes in a visible sibling directory, never inside the repo and never under a dotted path.
+**The worktree is gone and is not to be recreated.** From 2026-08-03 to 2026-08-04 drafting ran in a
+worktree on a `book3-prose` branch — first at `.claude/worktrees/book3-prose`, then relocated to a visible
+sibling directory — and **the entire arrangement was a workaround for a problem that no longer exists**. The
+Viewer could not display a path under `.claude` (`repository.py` carries it in `IGNORED_NAMES` and filters
+every dotted name; Finder hides dot-directories too), so six commits were pushed somewhere the author's
+reader is built never to show. The relocation outside the repo fixed the visibility and kept the real cost:
+**a second full copy of the book on disk, which went stale within a day and was read as current** — no ch6
+at all, *Wonder* still numbered ch6.
 
-**Two disciplines, and they exist because both failed on 2026-08-03.** **Push after every commit**, because
-fifteen commits once sat unpushed through four rounds of revision and the author was giving notes on a
-chapter he could not read. And **merge to main and delete or re-sync the worktree the moment a chapter is
-done**, because a stale worktree left a second copy of the book on disk showing the previous day's state —
-no ch6 at all, *Wonder* still numbered ch6 — and it was opened and read as current. **A worktree that has
-outlived its purpose is not clutter; it is a wrong copy of the book with an equal claim to being real.**
+**A branch does the job a worktree was doing here, without the duplicate.** Nothing in this project needs two
+checkouts live at once — one person drafts one chapter at a time, sequentially. When `book3-prose` was
+finally removed as a worktree it was identical to `main` commit-for-commit, which is the plainest possible
+statement that the second copy earned nothing. **`book3-prose` survives as an ordinary branch** and is
+fast-forwarded to `main`. Branch and switch **in place**; do not check a branch out somewhere else.
+
+**And the Viewer reads a branch without checking it out** — verified 2026-08-04 against the live repository.
+Its branch selector lists *Working tree · main* plus *Committed · <branch>* for every branch, and selecting
+one renders that branch's whole tree through Git objects: all nine Book 3 chapters listed, ch9 read at
+14,945 characters, with no `git checkout` anywhere. That is the entire capability the worktree was invented
+to provide. **Keep every branch fast-forwarded**, though — a branch left behind `main` shows the older book
+when it is selected, which is the worktree's failure mode at a tenth of the price.
+
+**One discipline survives, and it is the one that matters. Push after every commit** — fifteen commits once
+sat unpushed through four rounds of revision while the author was giving notes on a chapter he could not
+read.
 
 **Sections:** [1. Rule hierarchy](#1-the-rule-hierarchy-authors-binding) · [2. Cross-book threads](#2-cross-book-threads) · [3. Outstanding work](#3-outstanding-work) · [4. Do not touch](#4-do-not-touch) · [5. Character guardrails](#5-character-guardrails) · [6. Settled rulings](#6-settled-rulings) · [7. Open questions](#7-open-questions) · [8. Observations that are not fixes](#8-observations-that-are-not-fixes)
 
