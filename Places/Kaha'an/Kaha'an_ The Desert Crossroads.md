@@ -96,6 +96,95 @@ is gone — Xion took it and spent it rebuilding the wards Ronas wrecked. The tr
 Balisha is poor. It is empty because Balisha holds the only road in Elvandar and that is still not enough,
 which is a far more interesting reason and the actual engine of Book 3.
 
+---
+
+### **Who clears the money, and why they hold no seat — author's ruling, 2026-08-05**
+
+**A city that takes a cut of every transaction on the continent cannot run on coin, and Kaha'an does not.**
+Nobody hauls bullion across the Balishan Desert; a caravan that did would be a caravan worth killing. The
+Golden Path settles in **paper** — bills drawn in one city and paid in another, letters of credit against
+goods still in transit, notes discounted for the months between loading and landing. That trade exists, it
+is old, it is large, and it lives on **Vessel Street**.
+
+**It is also, in Kaha'an, politically null — and the reason is structural rather than accidental.** The
+Coterie is a table of people who hold things that **cannot be moved**: the granaries, the aqueducts, the
+forges, the tunnels, and sixty thousand people who cannot leave. A clearing house's entire competence is
+the opposite — its capital is portable by design, and its whole art is being able to be somewhere else by
+the end of the month. **You cannot seat a power whose business model is the ability to run**, and the three
+who built the Coterie in the year after the Rending would not have thought of it as a question.
+
+**And the Rending is what did it.** Money houses were a great power in pre-Rending Kaha'an, and the
+catastrophe fell on them harder than on anyone. Every other house lost assets; the money houses lost
+**counterparties**. Their capital was claims — against estates that had become desert overnight, against
+caravans that stopped, against families that died at the harvest festival — and a house whose book *is* the
+house does not survive the book going bad. See `houses_of_kahaan.md`: **House Umberlow**, the Paper Lords,
+who are in the Lost Houses for this reason and not for any dramatic one. **Grain lost its land and had a
+business left to reinvent. Umberlow had nothing left to reinvent, because the promises were the business.**
+
+**So the money trade of Elvandar left, and it went to Erulius.** *(Corrected 2026-08-05, on the author's
+instruction to check this against the Vartonne files — the first version of this section had it relocating
+to Vartonne **and** Erulius, and Vartonne does not support that in any respect. See below.)*
+`Places/The Erulian Principality/` has *"banking houses managing the Principality's **growing** wealth"*,
+mineral wealth funding public works, and the most systematically developed economy of any successor state.
+**It also mints.** The Imperial Mark, Kalden's profile on one face and the old imperial seal on the other,
+was introduced **fifteen years ago** — five years after the Rending — replacing the modest Erulian Talent
+that had circulated since the collapse. **Erulius recoined itself in precisely the window when the old
+capital's money trade had just died**, and a continent that needs somewhere to clear its paper found the one
+place issuing sound coin and calling itself the empire.
+
+**Nobody plans it and it is worth noticing.** The credit of Elvandar migrated to the pretender. It is part
+of how twenty years of credentialing in Erulius got paid for, and part of why in Book 7 Kalden can field an
+army and Rosik cannot buy one. **Do not have a character observe this** — it is a structural fact, not an
+insight anyone in Kaha'an is positioned to have.
+
+**Vartonne is not a rival centre. Vartonne is a debtor.** `Places/Vartonne/Vartonne_ Glory Faded.md` has a
+currency whose value *"has steadily declined"*, imperial financial institutions that *"function increasingly
+poorly"*, banking houses lending *"against ancestral properties"* into a nobility where *"debt has become
+endemic"* and estates *"frequently change hands"* — a pawnbroker economy servicing a broke aristocracy, and
+one that has been declining for the two centuries since the court left. **The settling line is that
+Vartonne's export terms *"heavily favor Kaha'ani merchants, who secure favorable terms from financially
+distressed noble estate owners."*** A financial capital does not get rolled on its own export terms by the
+buyers. Vartonne's paper is bad paper and has been since long before the Rending.
+
+**Kaha'an holds the isthmus and does not hold the money that crosses it** — it taxes a flow it does not own,
+which is the mechanism underneath *rapacious and drowning at the same time.*
+
+**What survived on Vessel Street is a service, not a power.** House Greystone, and the resident factors of
+the Erulian houses, clearing other people's continental trade for a fee. Rich, careful, courted by nobody,
+and hedged across all four cartels on principle. Full entry in `houses_of_kahaan.md`.
+
+**Two neighbours are not in this trade and should not be written into it.** **Uratha** has no money trade in
+canon at all and is not to be given one to fill a sentence. **Terinok** is a cash economy on purpose —
+*"Thal'krev, thal'zhuum"*, no coin no swords, full payment in advance, no deductions, no renegotiation — which
+is a standing refusal to accept paper, and it is the reason a Terinok contract has to be funded before it can
+be signed. That constraint bites in Book 7.
+
+**Inside the city, the credit function did not disappear. The cartels absorbed it, and that is what makes a
+cartel a cartel rather than a large firm.** Each of them lends against the thing it also sells, which is why
+there is no walking away from one. **This is already on the page at both ends of the city.** At the top, the
+Grain shadow treasury is *"strongboxes of promissory notes and debt-markers"* and twenty years of who owed
+what (B2 ch13) — Rosik is the largest creditor in Kaha'an and simply has no bank's word for it. At the
+bottom, the intake pipe of the Slaver cartel is **debt**: Tam is taken on fabricated debts in B1 ch1, and
+`People/Ronas Dermir.md` records the quota system manufacturing debtors when real ones run short.
+
+#### The two questions this has to answer, and it does
+
+**Why does Rosik not simply borrow?** Because he cannot show the books. A loan at that scale wants security,
+and his security is a twenty-year fraud — the first competent lender to open the accounts finds the
+insolvency, which is precisely the proof Xion takes in B2 ch13. **He is definitionally the man who cannot go
+to the bank.** Beyond that, Vessel Street writes short paper against goods sitting in a warehouse; it does
+not make sovereign-scale loans to a man whose collateral a crown could seize by decree. **Book 7's *he cannot
+buy an army* is not weakened by the existence of a money trade — it is explained by it.**
+
+**Why does Elara not borrow in Book 3?** She is a restored claimant on a contested throne with no credit
+history, in a city where the last sovereign default was the Rending itself and the men who ate it are still
+alive. **Nobody lends to a claimant.** This makes Book 3's engine harder rather than softer: the door is now
+visible, and it is shut, and *why* it is shut is a fact about her standing rather than about the treasury.
+
+**Do not let a character solve a plot with a loan.** The absence of available credit is load-bearing in
+Books 2, 3 and 7. The first place borrowing becomes genuinely possible is Book 8, when there is a crown
+worth lending to.
+
 ### **The Water Cartel: House Larannas**
 
 **Leader:** Tania Larannas  

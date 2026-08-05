@@ -421,6 +421,64 @@ Manufacturing backbone of Iron cartel operations, producing the tools and equipm
 
 ---
 
+## The Money Trade
+
+### House Greystone - "The Vessel Street House"
+**Motto**: *"Paid Where Promised"*  
+**Sigil**: Grey keystone above two crossed tally-sticks  
+**Current Head**: The Factor-Principal — **deliberately unnamed**; see below  
+**Political Alignment**: Continuationist in public; hedged across all four cartels in fact
+
+#### Historical Overview
+House Greystone were a second-rank money house before the Rending, well behind House Umberlow and resigned
+to it. **They survived because they were short, and Umberlow was long.** *(Corrected 2026-08-05. The first
+version had them surviving on foreign paper drawn on Vartonne, which the Vartonne files contradict flatly —
+that nobility's debt is endemic and its estates change hands constantly. Vartonne paper is bad paper and was
+bad paper before the Rending; being long Vartonne is not a survival story.)*
+
+A great house does the great business: credit advanced against harvests, against estates, on horizons of
+years, secured by **land**. A small house takes what is left, which is the transit clearing — bills falling
+due in weeks, secured by **cargo that is physically in a warehouse or on a boat.** When the Rending came,
+Umberlow's security became desert in an afternoon. Greystone's security was still sitting on the quay, still
+had buyers, and still cleared. **The land did not survive and the goods did.**
+
+**They have never learned to do anything else, and it stopped being a limitation.** The house still lends
+short against things it can walk out and look at, and declines anything secured on a promise — a policy the
+city reads as cowardice and the family declines to defend, having watched what happened to the people who
+were braver.
+
+**Pre-Rending Status**: Minor merchant house, wealthy and socially unrecognised. Cleared bills for
+caravan traffic; too small for the estate credit that made Umberlow.
+
+**The Rending's Impact**: Survived the defaults that destroyed House Umberlow, and inherited the trade by
+outliving it rather than by winning it — a distinction the family is quietly conscious of.
+
+**Post-Rending Transformation**: Became the clearing house of the Golden Path. Effectively all east–west
+trade crossing Elvandar settles in paper somewhere on Vessel Street, and Greystone writes or endorses a
+great deal of it, alongside the resident factors of the **Erulian** houses — which is the sharp end of the
+arrangement, since Erulius is where the continent's money went after the Rending and Greystone clears in a
+coin struck with Kalden's face on it.
+
+#### Notable Members
+**None named, on purpose.** The house's head holds the office of **Factor-Principal** and has no given name
+yet. Nothing in Books 1–3 needs him; the first book that plausibly does is Book 8, when a crown rebuilding
+formal governance needs a counterparty and *the treasury finally borrows* becomes available as a beat.
+**Coin the name when a chapter needs it**, per `Names.md` — the register is tight and a name spent on a
+canon file that never reaches the page is a name wasted.
+
+#### Current Status
+Rich, essential, and **structurally powerless** — and the reason is not snobbery, though there is plenty of
+that. The Coterie is a table of people who hold things that cannot be moved. Greystone's capital is
+portable by design; the house could be operating out of Erulius inside a month, and everyone at the table
+knows it. Wealth on those terms buys service, not a seat.
+
+Greystone lends short, against goods in a warehouse, and declines anything secured on a promise from a
+cartel or a crown. **It is the lesson of House Umberlow, learned by the only people who watched it happen
+and lived.** Full mechanism, including why neither Rosik nor Elara can borrow, in
+`Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
+
+---
+
 ## The Secessionist Houses
 
 ### House Morthen - "The Distant Cousins"
@@ -472,6 +530,30 @@ House Silverbrook maintained imperial legal precedents and court chronicles. The
 
 ---
 
+### House Umberlow - "The Paper Lords"
+**Previous Status**: Great house; the largest of Kaha'an's money houses  
+**Fate**: Destroyed by the Rending's defaults within two years; no surviving line
+
+House Umberlow held the imperial capital's money trade — deposits, bills drawn against the provinces,
+credit advanced to the great agricultural houses against harvests not yet in. Their wealth was the largest
+in the city that was not land, and they were reckoned untouchable for exactly that reason.
+
+**The Rending destroyed them more completely than it destroyed anyone who died in it.** Every other house
+lost assets. Umberlow lost **counterparties**. Their capital was claims — against estates that became
+desert in an afternoon, against caravans that stopped arriving, against families like House Meridian who
+were simply gone — and a house whose book *is* the house does not survive its book going bad. Kemvimore
+lost its land and had a business left to reinvent; Umberlow had nothing left to reinvent, because the
+promises were the business. They were solvent on paper for some months and were not solvent at all, and the
+distinction closed on them the first winter.
+
+**This is the reason no financier sits on the Coterie**, and it is a better reason than an oversight. The
+Coterie was assembled in the year the only question was who keeps the city alive until spring, by three
+people who held food, water and metal. In that year a money house is the most worthless institution in
+Kaha'an. The mechanism, and what replaced it, is in
+`Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
+
+---
+
 ### House Thornwood - "The Garden Keepers"
 **Previous Status**: Landscape architects and agricultural aesthetics  
 **Fate**: Purpose eliminated by environmental transformation
@@ -486,9 +568,8 @@ House Thornwood specialized in landscape design and maintained the beautiful gar
 **Status**: Impoverished minor house maintaining nominal noble recognition  
 **Political Alignment**: Nominally Restorationist, practically irrelevant
 
-### House Greystone  
-**Status**: Merchants house seeking noble recognition through wealth  
-**Political Alignment**: Opportunistically aligned with whichever cartel offers advancement
+### House Greystone
+**Status**: The Vessel Street clearing house — no longer a peripheral entry. See **The Money Trade** above.
 
 ### House Fairwind
 **Status**: Former ship captains who lost their vessels but retained their titles  

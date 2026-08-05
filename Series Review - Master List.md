@@ -1136,6 +1136,47 @@ letter of the first objection touches them too. They stay. The name is vernacula
 called that *by association* with the warren beneath, by the people who live in both — which is exactly how
 cities name things and is honest work the Uratha use was not doing.
 
+### Kaha'an's banking, and why nobody can borrow — settled 2026-08-05
+
+**Authority is `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, "Who clears the money, and why they hold
+no seat."** Houses in `Places/Kaha'an/houses_of_kahaan.md`; full reasoning in the changelog.
+
+**Kaha'an has a money trade and it holds no political power, on purpose.** The Rending was a mass-default
+event: it destroyed the money houses more completely than anyone, because their capital was claims against
+estates that had just become desert. **House Umberlow**, the pre-Rending great house, is extinct and is in
+the Lost Houses for exactly this reason — it exists to be the answer to *why is there no banker on the
+Coterie*.
+
+**The banking of Elvandar relocated to Erulius, and to Erulius only.** *(Corrected 2026-08-05 on the
+author's check; the first version of this ruling said Vartonne as well, and Vartonne is a **debtor** — a
+declining currency, endemic noble debt, and export terms that favour Kaha'ani buyers. Do not reinstate it.)*
+Erulius has the growing wealth, the banking houses, and **the mint**: the Imperial Mark was struck fifteen
+years ago, five years after the Rending, in exactly the window the old capital's money trade died. **The
+credit of the continent migrated to the pretender** — structural, and no character is positioned to notice
+it. **Uratha has no money trade and is not to be given one. Terinok refuses paper on principle**
+(*"Thal'krev, thal'zhuum"* — payment in advance), which means a Terinok contract must be funded before it is
+signed; that constraint bites in Book 7.
+
+**House Greystone** clears the Golden Path from Vessel Street and is rich, essential and seatless: the
+Coterie seats people who hold things that **cannot be moved**, and a clearing house's capital is portable by
+design. Inside the city the credit function was absorbed by the cartels, each lending against the thing it
+also sells — already on the page at both ends, in Grain's promissory notes (B2 ch13) and in the debt-bondage
+that feeds the Slavers (B1 ch1).
+
+**The load-bearing constraint, and the reason this was worth settling: do not let a character solve a plot
+with a loan.** Rosik cannot borrow because he cannot show the books — a lender who opens the accounts finds
+the twenty-year insolvency, which is the proof Xion takes in B2 ch13. **Book 7's *he cannot buy an army* is
+explained by the money trade, not threatened by it.** Elara cannot borrow because nobody lends to a claimant
+on a contested throne, which makes Book 3's empty treasury harder rather than softer. **Book 8 is the first
+point at which borrowing is genuinely available**, and the Greystone Factor-Principal is left unnamed
+against that.
+
+**Ruled against and do not re-raise: House Kemvimore as bankers.** Pre-Rending Kemvimore extended
+agricultural credit — seed against harvest, which is where Rosik's instinct for debt-as-leverage and Book
+1's fabricated debts come from — and that is the whole of it. A banking Kemvimore loses on rule 2 (his power
+is hunger; the house does not want a second engine) and on rule 1 (*why can't he borrow* becomes
+unanswerable). **No prose changed in any book**; the chapters never said there was no bank.
+
 ---
 
 ## 7. Open questions

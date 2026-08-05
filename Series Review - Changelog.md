@@ -7286,3 +7286,132 @@ trusted one.
 Files: fourteen of the twenty-one `Book 3 - Crown Jewel/Beat Drafts/` (ch3, ch5, ch6, ch8, ch10–ch19 — the
 other seven carried no stale reference), `book3_chapter_skeleton.md`,
 `Book 3 - Crown Jewel/Chapters/Chapter 10 - The Repository.md`, `Book 3 - Crown Jewel/Royal Road/`.
+
+### Kaha'an's banking hole — the money trade written, House Umberlow killed — 2026-08-05
+
+**Author's question, and it is a rule 1 question: a chokepoint trade city must have banking, and none had
+ever been written.** Every real analogue has one — the Medici and the Bardi, the Braavosi bank, the sarrafs
+of the caravan world — and Kaha'an takes a cut of effectively every transaction on the continent while
+running a food deficit of comparable size. **The hole was real. It was also smaller than it looked**, because
+the credit system was already on the page at both ends and only the middle was missing.
+
+**What was already there, and needed nothing.** B2 ch13's shadow treasury is *"strongboxes of promissory
+notes and debt-markers"* plus twenty years of who owed what — Rosik is already the city's largest creditor
+without a bank's word for it. B1 ch1 takes Tam on **fabricated debts**, and `People/Ronas Dermir.md` has the
+quota system manufacturing debtors when real ones run short, so debt-bondage is already the Slaver intake
+pipe. B2 ch9 and B3 ch1 both have working counting-houses, B3 ch1 and ch4 put them on **Vessel Street**. And
+`Places/Vartonne/` and `Places/The Erulian Principality/` both already list banking houses.
+
+**The missing middle was: who clears the transit trade, and why is that person not on the Coterie.**
+
+**The answer is the Rending, and it makes the existing canon load-bearing instead of rewriting it.** The
+Coterie was assembled in the year the only question was who keeps the city alive until spring, by three
+people holding food, water and metal. **In that year a money house is the most worthless institution in
+Kaha'an** — its capital is claims against estates that just became desert, caravans that stopped, and
+families that died at the harvest festival. The Rending was a mass-default event and it destroyed the money
+houses more completely than it destroyed anyone who died in it: Grain lost its land and had a business left
+to reinvent, and a house whose book *is* the house had nothing. **So the money trade of Elvandar left Kaha'an
+at the Rending and went to the two cities the files already say have banking houses.** That was sitting in
+the geography docs and had never been read as an answer.
+
+**And the credit function did not vanish inside the city — the cartels absorbed it, which is what makes a
+cartel a cartel rather than a large firm.** Each lends against the thing it also sells, which is why there is
+no walking away from one. More sinister than a separate Medici house would have been, and already written.
+
+**Three files carry it.** `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` takes the mechanism, as a new
+section under the 2026-08-04 economy ruling — *"Who clears the money, and why they hold no seat."*
+`houses_of_kahaan.md` takes the two houses. Everything else points at those.
+
+**House Umberlow — "The Paper Lords" — added to the Lost Houses, extinct.** The pre-Rending great money
+house, destroyed by the defaults within two years. It exists to be the reason no financier sits at the
+table, which is a better reason than an oversight.
+
+**House Greystone promoted out of the Minor Houses stub and given the trade.** *(Author's call: use the
+existing name rather than coin one.)* The stub already read *"merchants house seeking noble recognition
+through wealth / opportunistically aligned with whichever cartel offers advancement"*, which is exactly how
+a seatless clearing house would behave, so the characterisation was kept and given a mechanism. **They
+survived Umberlow because they were small enough to have been lending outward** — foreign paper, drawn on
+Vartonne and the eastern trade — so the defaults that killed the great house left the small one holding
+claims whose debtors were still alive. They now clear the Golden Path alongside the resident Vartonnian,
+Erulian and Urathan factors. Rich, essential, and **structurally powerless**: the Coterie seats people who
+hold things that cannot be moved, and Greystone's capital could be in Vartonne inside a month.
+
+**Two rule 1 stress tests, both answered in the file, because the whole addition fails without them.**
+*Why does Rosik not borrow?* He cannot show the books — the first competent lender who opens the accounts
+finds the twenty-year insolvency, which is the exact proof Xion takes in B2 ch13. **He is definitionally the
+man who cannot go to the bank, and Book 7's *he cannot buy an army* is now explained rather than weakened.**
+*Why does Elara not borrow in Book 3?* Nobody lends to a claimant on a contested throne in a city where the
+last sovereign default was the Rending. **Book 3's engine gets harder, not softer** — the door is now visible
+and shut, and why it is shut is a fact about her standing.
+
+**Ruled against: making House Kemvimore the bankers.** Raised by the author and half-taken. The historical
+instinct is right — Renaissance banking families were landowners first — so **pre-Rending Kemvimore extended
+agricultural credit**, seed and equipment against harvest, which is where Rosik's reflex for debt-as-leverage
+and Book 1's fabricated debts descend from. But not a bank, on two tiers. **Rule 2:** his power is *hunger*,
+and "From Earth, Abundance" does not want a second engine bolted to it. **Rule 1:** a banking Kemvimore makes
+*why can't he borrow* the reader's obvious question, and every available answer is worse than not having the
+problem. **The absence of a bank Rosik could go to is load-bearing on Book 7.**
+
+**No prose changed, in any book.** The chapters say counting houses and promissory notes and never once say
+there is no bank; this is an addition, not a retcon. Verified by grepping every non-`OLD` chapter for the
+banking vocabulary.
+
+**One standing constraint added:** *do not let a character solve a plot with a loan.* Unavailable credit is
+load-bearing in Books 2, 3 and 7. Book 8 is the first place borrowing becomes genuinely possible, and the
+Greystone Factor-Principal is **deliberately left unnamed** against that.
+
+Files: `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, `Places/Kaha'an/houses_of_kahaan.md`, `Names.md`,
+`Series Review - Master List.md`.
+
+### Correction to the above — the money went to Erulius, not to Vartonne — 2026-08-05
+
+**Author's check, same day, and it caught two errors in the entry immediately above.** The instruction was
+to test the Umberlow claim against the Vartonne files. **The Umberlow claim itself survives and is
+reinforced; two things built around it did not.**
+
+**Umberlow stands.** Vartonne's Merchant Districts list *"banking houses managing imperial finances"*
+alongside guild headquarters — bureaucratic treasury work in a former capital. The court moved to Kaha'an
+two centuries ago because *"trade had grown faster than tribute"*, so the trade money went with the court
+and the harbour. **A great merchant-banking house in the imperial capital is exactly what that history
+produces**, and nothing in either Vartonne file contradicts it.
+
+**Error 1 — Vartonne was written as a financial successor and is the opposite of one.** The original entry
+had the money trade relocating to *"the two cities the canon already says have banking houses."* Vartonne
+does not support this anywhere: a currency whose value *"has steadily declined"*, imperial institutions that
+*"function increasingly poorly"*, banking houses lending *"against ancestral properties"* into a nobility
+where *"debt has become endemic"* and estates *"frequently change hands"*. That is a pawnbroker economy
+servicing a broke aristocracy, and it has been declining for the two centuries since the court left. **The
+settling line is that Vartonne's exports *"heavily favor Kaha'ani merchants, who secure favorable terms from
+financially distressed noble estate owners"*** — a financial capital does not get rolled on its own export
+terms by the buyers.
+
+**Error 2, and this is the one that broke — Greystone's survival mechanism.** They were written as surviving
+on foreign paper *"drawn on Vartonne and the eastern trade"*, holding claims whose debtors were still alive.
+By canon Vartonne paper is bad paper and was bad before the Rending; **being long Vartonne in that year is a
+second way to die, not a survival story.**
+
+**Replaced with: they survived because they were short, and Umberlow was long.** A great house does estate
+credit — years, secured by **land**. A small house takes the transit clearing — weeks, secured by **cargo in
+a warehouse or on a boat**. The Rending turned Umberlow's security into desert in an afternoon; Greystone's
+was still on the quay and still had buyers. **The land did not survive and the goods did.** This needs no
+other city to work, it is what actually distinguished bill-discounting from mortgage lending historically,
+and it makes the house's present-day refusal to lend against a promise follow from experience instead of
+being asserted.
+
+**Erulius is the real destination and is stronger than the original entry gave it credit for.** *"Banking
+houses managing the Principality's **growing** wealth"*, mineral wealth funding public works, the most
+systematically developed successor economy — **and it mints.** The Imperial Mark was introduced **fifteen
+years ago**, five years after the Rending, replacing the Talent that had circulated since the collapse.
+**Erulius recoined itself in exactly the window when the old capital's money trade had just died.** The
+credit of the continent migrated to the pretender, which is part of how twenty years of credentialing got
+paid for and part of why Book 7 has Kalden fielding an army that Rosik cannot buy. **Flagged as structural
+and not as an insight** — no character is positioned to observe it and none should.
+
+**Two neighbours removed from the trade.** **Uratha** had been given resident factors on Vessel Street and
+has no money trade in canon at all; invented to fill a sentence, and cut. **Terinok** is recorded as a
+standing constraint rather than a participant: *"Thal'krev, thal'zhuum"*, full payment in advance, no
+deductions — a refusal to take paper, which means a Terinok contract must be funded before it can be signed.
+That bites in Book 7.
+
+Files: `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, `Places/Kaha'an/houses_of_kahaan.md`,
+`Series Review - Master List.md`.

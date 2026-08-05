@@ -126,6 +126,8 @@ day. Neither has ever said so to the other on the page.
 | **Captain-General Lyanna Valoreth** | Former imperial guard; security for the Restorationists |
 | **Master Garrett Caldris** | Backs the Erulian claim |
 | **Lord Mallory** | Vartonne. Absurd, and that is the whole of his stake |
+| **House Greystone** | The Vessel Street clearing house. Head is the **Factor-Principal**, unnamed on purpose — coin it when a chapter needs him, likely Book 8 |
+| **House Umberlow** | Extinct. The pre-Rending money house, destroyed by the Rending's defaults. Never spoken on the page |
 
 ## Offstage and historical
 
@@ -182,6 +184,12 @@ Zarnstran*, **House Vex** → *Sedranne*, **Silas Vex** → *Bregan Haldorn*, **
 
 **Initials in use across the series:** A, B, C, D, E, F, G, I, J, K, L, M, N, O, P, R, S, T, V, W, X, Z.
 Free series-wide: **H, Q, U, Y**.
+
+**U is spent in the record but not on the page.** *House Umberlow*, coined 2026-08-05, is an extinct house
+that appears in canon files only and is never said aloud by anyone. **The scarcity this list tracks is
+names in dialogue**, so U remains available for a spoken name; the entry is here so Umberlow is not
+"discovered" later and treated as a collision. If U is ever wanted for a character, take it — a dead house
+in a geography file will not be confused with anybody.
 
 **Initials spoken in Book 3:** A, C, D, E, F, I, K, L, M, O, R, S, T, V, X.
 Free in Book 3: **G, H, N, P, U, W, Y, Z** — B and O were spent on Brennek and Ormuth, 2026-08-04.
