@@ -1136,6 +1136,28 @@ letter of the first objection touches them too. They stay. The name is vernacula
 called that *by association* with the warren beneath, by the people who live in both — which is exactly how
 cities name things and is honest work the Uratha use was not doing.
 
+### Lathion is collateral, not cash — settled 2026-08-05
+
+**Author's ruling.** Nothing behind the Brass Door is money. It is **schematics**, worth a century of
+advancement and nothing inside ch1's nine-to-fourteen months. **What ends the fiscal crisis is that Balisha
+becomes creditworthy** — the technology is valuable enough that borrowing against it is effectively unbounded
+— **and they do not, in fact, borrow much. The option existing is the whole of what they lacked.**
+
+**This closes the loop ch1 opened**, and it closes it with the same institution: the lease-houses refused a
+six-week-old court with no record and nothing to pledge, and a crown that demonstrably owns a sealed city of
+legendary technology holds the best security on the continent. **Act I's question is answered by Act II's
+discovery**, which is what the book was already doing and had never written down.
+
+**Placed in ch12, in one paragraph, staged as the reversal of ch1's beat 22:** the lease-houses come to the
+crown, the Factor-Principal of House Greystone asks for an audience, and **not one figure in Balisha's
+accounts has changed** — only what it can pledge. **Small, and nobody enjoys it.** No speech, no relief, and
+nobody says *we're saved*; what Xion notices is that the street which would not see him in the spring wants
+an appointment on the strength of a city full of dead people, and he does not say that either. **Act III
+never mentions money again.** Recorded in the ch1 and ch12 beat drafts and the skeleton. *(Ch12 is also where
+the Greystone Factor-Principal finally gets a name — deliberately uncoined until a chapter needed him.)*
+
+---
+
 ### The Scholar's Crown reads the engine, not the output — settled 2026-08-05
 
 **Authority is `Places/Uratha/Uratha_ The Land of Scholars.md`, *The Paradigm Drift*.** Governing one-line
@@ -1223,24 +1245,17 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ## 7. Open questions
 
-**Three open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
+**Two open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
 recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
 Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
 changelog for each.
 
-**Two raised 2026-08-05 by the Brass Door stress-test and left open deliberately.** *(A third — the Crown's worthiness test — was settled the same day; see §6.)*
+**One raised 2026-08-05 by the Brass Door stress-test and left open deliberately.** *(Two others were settled the same day and are in §6: the Crown's worthiness test, and what Lathion is actually worth.)*
 
 - **Uratha knows the Crown is live from ch13**, and has just traded away a working divine artifact believing
   it dead. Book 8 collects this. **Books 4–7 have a Uratha with overwhelming motive and a Balisha holding the
   object** — standing leverage over an ally, currently unused. Not a hole; an unexploited asset, and the risk
   is that four books of silence reads as the author saving it.
-- **Lathion does not pay on the treasury's clock.** Ch1 sets nine to fourteen months; what is behind the Door
-  is **schematics**, worth a century of advancement and nothing this year. The available answer, and it is
-  clean: **Lathion solves the money by making Balisha creditworthy rather than by being money.** The
-  lease-houses refused a six-week-old court with nothing to pledge; a crown that demonstrably owns a sealed
-  city of legendary technology holds the best security on the continent. **That would close Act I's question
-  with Act II's discovery**, and it is currently written nowhere. Author's call whether the book says so.
-
 **Does Elara ever farm out the customs?** B3 ch1 now establishes that the crown *can* borrow in principle —
 she holds the tolls, which are the best security in Elvandar — and that the lease-houses decline this year on
 her record rather than on her assets. **So the door is not locked; it has a price, and the price rises the

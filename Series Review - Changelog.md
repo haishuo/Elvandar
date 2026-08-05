@@ -7706,3 +7706,51 @@ closed question to the author as live.
 
 Files: `Places/Uratha/Uratha_ The Land of Scholars.md`, `Magic/The Divine Artifacts of Elvandar.md`,
 `Magic/elvandar_magic_system.md`, `Places/Elvandar.md`, `Series Review - Master List.md`.
+
+### Lathion is collateral, not cash — author's ruling, 2026-08-05
+
+**The last of the Brass Door stress-test findings, and the author's ruling confirms the reading offered with
+it.** The flag was that Act I's clock and Act II's discovery do not meet: ch1 puts **nine to fourteen months**
+on the table, and what is behind the Door is **schematics** — water purification, agriculture, energy
+distribution, the most significant engineering find in recorded history and **not one coin of it inside a
+year.** You cannot eat a diagram.
+
+**The ruling: Lathion does not solve the money by being money. It solves it by making Balisha
+creditworthy.** The technology is valuable enough that the credit available against it is effectively
+unbounded, so the countdown stops the moment the crown has something to pledge. **And they barely borrow** —
+the author's formulation, and the important half. **The option existing is the whole of what they lacked.**
+
+**This closes the loop with the same institution that opened it**, which is why it is worth writing down
+rather than leaving implicit. Ch1's beat 22 has the lease-houses declining a six-week-old court on three
+grounds: no record, wrong size, and a seizure that taught Vessel Street that property in Kaha'an is
+conditional. **None of those was about Balisha's assets.** A crown that demonstrably owns a sealed city of
+legendary technology answers exactly one of them and that is enough. **Act I's question is answered by Act
+II's discovery** — which is what the book was already doing structurally and had never stated.
+
+**Placed in ch12 and staged as ch1's mirror image.** The lease-houses come to *them*: the Factor-Principal of
+House Greystone requests an audience and the consortium behind him would like to discuss terms. **Not one
+figure in Balisha's accounts has changed.** What changed is what the crown can put on the table, and the
+reversal needs no commentary to land.
+
+**Constraints recorded with it, because this is the kind of beat that inflates.** One paragraph. **Nobody
+enjoys it** — no speech, no scene of relief, nobody says *we're saved*. What Xion notices is that the street
+which would not see him in the spring wants an appointment **on the strength of a city full of dead people**,
+and he does not say that either, and no other character says it for him. **Act III never mentions money
+again.**
+
+**Ch12 is also where the Greystone Factor-Principal gets a name** — left uncoined on 2026-08-05 under the
+`Names.md` rule against spending a name on someone who never reaches the page. He reaches the page here.
+
+**Not written as prose.** Book 3 has prose through ch10 and `Chapter 11 - The Destiny Engine` is not started;
+the standing rule is sequential, so this is recorded in the beat drafts and the skeleton and will be drafted
+in its turn. Both ends are tied: ch1's beat draft now carries a pointer to where beat 22 is paid, and ch12's
+carries the beat itself.
+
+**All five Brass Door stress-test findings are now resolved or recorded.** Two produced prose (ch6's
+exclusivity clause, ch4's Gunastran answer), two produced canon rulings (the Crown's worthiness test, and
+this), and one remains open in §7 as an author's question — Uratha's four-book motive over a Crown it has
+discovered is live.
+
+Files: `Book 3 - Crown Jewel/Beat Drafts/Chapter 12 - The Scholar's Crown.md`,
+`Book 3 - Crown Jewel/Beat Drafts/Chapter 1 - Scars.md`, `book3_chapter_skeleton.md`,
+`Series Review - Master List.md`.

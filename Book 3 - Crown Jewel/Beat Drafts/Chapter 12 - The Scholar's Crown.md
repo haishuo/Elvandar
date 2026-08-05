@@ -69,6 +69,25 @@
 
 **The Crown is absent — and that is the point (statecraft):** The Crown is NOT in the room. Draskin would not haul Uratha's most sacred artifact across a continent before an agreement exists — that would presume Elara's acceptance, expose the artifact, and forfeit his whole position if she refused. It is not good statecraft, and Draskin is nothing if not a statesman. What *is* the tell is that he came in person and waited three days: the matter could not be delegated. The offer is made at the table; Xion and Elara deliberate and agree; and only then is the Crown sent for, to travel to Kaha'an under escort and be transferred at a later ceremony. This costs the chapter the anchor of a dormant Crown on the table, but it buys more than it spends: the negotiation now rests on the human stakes and Draskin's unnerving ease rather than on staring at an object; the Crown's first on-page appearance is saved for its *activation* in Ch13, seen alive rather than dormant-first; and the easy-concessions seed (Draskin pricing a 300-year-contested artifact as though the math were obvious) reads as *more* suspicious without a bold-gesture framing to explain it away. It also inserts a realistic travel gap between this chapter and the ceremony — see the Ch12 timeline.
 
+**The ch1 ledger closes here, in one paragraph — author's ruling, 2026-08-05.** **Lathion is collateral, not
+cash.** Nothing behind the Door is money; it is schematics, and schematics pay in years, not inside the nine
+to fourteen months ch1 put on the table. **What ends the crisis is that Balisha becomes creditworthy** — the
+technology is valuable enough that borrowing against it is effectively unbounded — and **they do not actually
+borrow much.** The option existing is the whole of what they lacked.
+
+**Staging: the lease-houses come to the crown.** In ch1 Xion sat at that table and explained, from the far
+side of the desk, why Vessel Street would not lend — no record on a six-week-old court, a sum that was a
+rebuild rather than a bridge, and a seizure that taught the street property in Kaha'an is conditional. Here
+the Factor-Principal of House Greystone requests an audience and the consortium behind him would like to
+discuss terms. **Not one figure in the accounts has changed.** What changed is what the crown can pledge.
+*(Canon: `Places/Kaha'an/houses_of_kahaan.md`, `Kaha'an_ The Desert Crossroads.md`. The Factor-Principal is
+deliberately unnamed and this is the scene that would name him — coin it here, per `Names.md`.)*
+
+**Keep it small and let nobody enjoy it.** No speech, no scene of relief, nobody says *we're saved*. Xion has
+spent a book being told what the crown cannot afford, and what he notices is that the street which would not
+see him in the spring is asking for an appointment **on the strength of a city full of dead people**. He does
+not say that either. **One paragraph, and Act III never mentions money again.**
+
 **Draskin's easy concessions — the seed for Ch13 and Book 8:** The most important undercurrent of this chapter. Draskin concedes sovereignty without friction; he accepts the sealed-chamber exclusion without bargaining; he prices the Crown against unseen research access as though the math were obvious. Xion notes this. He cannot frame it. The reader cannot yet either. The correct frame — Uratha's secret per Book 8: the Crown has been dormant for nearly a century, the Globehall was built to compensate, Draskin and Venn both know the Crown they are trading is functionally a symbol — is unavailable to anyone at the table on the Balishan side. The chapter must plant this without naming it. Xion's "I cannot frame the easiness" is the chapter's tell. The reader will only understand in retrospect.
 
 **The pen hesitation, inverted:** In Ch5, Draskin hesitated before signing the original treaty. The hesitation was small, easy to miss, and Xion caught it. It was the marker of a man committed to a deal that cost him something. In Ch12, the hesitation is *absent.* Draskin signs the preliminary terms cleanly. That is the inverse of the Ch5 detail and Xion notes it explicitly. In Ch5 he could not name what the hesitation meant. Here he cannot name what its absence means. Both are the same mystery in different forms. The reader who remembers Ch5 should feel the inversion land.

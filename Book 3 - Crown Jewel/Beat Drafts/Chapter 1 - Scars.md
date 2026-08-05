@@ -91,6 +91,14 @@ time the reader learns the crown cannot borrow, which makes it exposition arrivi
 second door closing on a man who already knows the sound. **Do not merge them and do not cut ch1's on the
 grounds that ch4 does the work.**
 
+**Where beat 22 is paid: ch12, in a paragraph.** *(Author's ruling, 2026-08-05 — Lathion is **collateral, not
+cash**.)* Nothing behind the Door is money, and schematics do not pay inside nine to fourteen months. **What
+closes this ledger is that Balisha becomes creditworthy**, borrowing against Lathion being effectively
+unbounded — and they barely borrow. **The option existing is the whole of what they lacked.** Staged as the
+reversal of this beat: the lease-houses come to the crown, the Factor-Principal of Greystone asks for an
+audience, and **not one figure in Balisha's accounts has changed.** Only what it can pledge. Small, unenjoyed,
+no speech — and Act III never mentions money again. See the ch12 beat draft.
+
 **And do not let anyone say the obvious thing.** The reason Vessel Street will not lend is, in substantial
 part, the shadow war Xion ran — he took the fortune that taught the city money is conditional. **He states
 the fact and never the connection**, no character draws it for him, and no narration closes the gap. He

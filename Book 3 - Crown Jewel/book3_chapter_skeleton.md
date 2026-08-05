@@ -314,6 +314,12 @@ opens the multi-week travel gap before *Awakening*, during which news of the exc
 and Gunastran begins to react. The easy-concessions seed therefore lives in the negotiation itself,
 not in the object.
 
+**And somewhere in this chapter the ch1 ledger closes, in a paragraph, without ceremony.** *(Author's ruling, 2026-08-05: Lathion is **collateral, not cash**.)* Nothing behind the Door is money. It is schematics, and schematics pay in years. **What ends the crisis is that Balisha can now borrow** — the technology is valuable enough that the credit available against it is effectively unbounded, so the nine-to-fourteen months stops being a countdown the moment the crown has something to pledge. **They do not, in fact, borrow much.** The point is that the option exists, which is the whole of what they lacked.
+
+The shape of the beat: **the lease-houses come to the crown.** In ch1 Xion explained, from the far side of the desk, exactly why Vessel Street would not lend — no record, wrong size, and a seizure that taught the street property here is conditional. Now the Factor-Principal of House Greystone asks for an audience, and the consortium behind him would very much like to discuss terms. **Not one figure in Balisha's accounts has changed.** What changed is what it can put on the table. *(Greystone and the customs lease: `Places/Kaha'an/houses_of_kahaan.md` and the money-trade section of `Kaha'an_ The Desert Crossroads.md`. The Factor-Principal is deliberately unnamed in canon and this is the scene that would name him.)*
+
+**Keep it small and let nobody be pleased about it.** Xion has spent the book being told what the crown cannot afford, and the reversal is not a triumph — it is a man noticing that the same street which would not see him in the spring is asking for an appointment, on the strength of a city full of dead people. **No speech, no scene of relief, and nobody says *we're saved*.** One paragraph, and Act III never mentions money again.
+
 Xion notes the Urathans' hunger — Provost Venn's intensity, the Scholar-King's eagerness to finalize terms. He reads it as academic ambition — the opportunity of a millennium for a nation of scholars. A reasonable interpretation. The correct one would be unthinkable.
 
 **Sets up:** The Crown ceremony, Gunastran's panic, the Compact formation.
