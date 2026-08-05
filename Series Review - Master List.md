@@ -23,7 +23,7 @@ them before it is proposed against the prose.
 | **Rule 3** — single-emotion integrity | 0 | — |
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
-| **Book 3 — in draft** | 3 | ch11 prose not started; `The Repository` length unruled; Places-vs-map audit unfinished |
+| **Book 3 — in draft** | 2 | ch11 prose not started; Places-vs-map audit unfinished |
 | **Open questions** | 0 | — |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
@@ -532,15 +532,6 @@ These are live work, not review findings against finished prose.
 `Neighbours` were one 7,400-word chapter until 2026-08-04 and were split at the seam after the Rending
 exchange — *"The number did not move."* Book 3 is **21 chapters**.
 
-**And the length of `The Repository` is an open question the author has not yet ruled on.** It came in at
-**7,454 words** against an Act II running 3,051 / 4,716 / 2,808, and against a book whose next longest
-chapter is ch4 at 6,165. It is the longest chapter in Book 3 by thirteen hundred words, and 7,400 is the
-number that got `Inhabitants` split four days earlier. All nineteen beats are executed and the loose prose
-has already been tightened, so **any further reduction costs a beat and is therefore structural**. Three
-routes were offered and none chosen: reduce the theoretical-region section to a paragraph and let Ormuth's
-corridor scene carry it; cut the watching beat to four sentences and let ch12 do that work; or split at the
-schematics. **The chapter should also not outweigh ch11**, which is the act's actual climax.
-
 Three things the remaining Lathion chapters must hold. **Nothing in the city is damaged or declining** —
 the Lathionese closed the house and walked out, and any beat implying decay argues against the bequest
 framing. **Nothing may date the city before the characters date it**: three separate narration lines had
@@ -724,6 +715,40 @@ line is **live chess imagery applied to a person**, not chess etymology.
 ## 6. Settled rulings
 
 Decided. Retained so they are not reopened or re-flagged.
+
+### B3 ch10's length stands at 7,454 words — **AUTHOR'S RULING 2026-08-05**
+
+**`The Repository` is the longest chapter in Book 3 and that is fine.** It was raised as a concern and the
+author ruled on it directly: *"Ch10 length seems fine to me."* **Do not propose cutting it again**, and do
+not treat the profile as an argument on its own — 7,454 against an Act II of 3,051 / 4,716 / 2,808 looks
+outsized in a table and reads correctly on the page, which is exactly what the house rule about judging a
+chapter by the book's rhythm rather than as a standalone unit is for.
+
+The concern was reasonable when raised and is recorded so the reasoning survives: 7,400 is the number that
+got `Inhabitants` split on 2026-08-04, and all nineteen beats were already executed, so any further
+reduction would have cost a beat rather than tightening prose. Three routes were offered — thin the
+theoretical-region section, cut the watching beat, or split at the schematics — and **none was taken.**
+The open question of whether ch10 should outweigh ch11 resolves itself when ch11 is written; if the Engine
+chapter wants more room than the Repository, it takes it.
+
+### The `A Warrior's Heart` chapter reference — **AUTHOR'S RULING 2026-08-05**
+
+**`A Warrior's Heart` beat 48 reads *"the war that was abstract in Chapter 15"* — `The Proposal` — and that
+is settled.** It was the one reference the 2026-08-05 renumbering sweep left alone rather than guess at,
+because the draft is pre-split vintage (its Vartonne reference needed Ch16 → Ch17) and the stale number,
+14, also happened to land on a defensible chapter under the current numbering.
+
+**The tiebreaker was content, not vintage.** That footer describes what the *reader* needs to feel, and
+`Ruthless Calculus` (ch14) is where the reader is told the war is certain — Gunastran votes, commits, and
+goes looking for allies. The abstraction ends there, so ch14 cannot be the "before" state. `The Proposal`
+fits: the war is still being negotiated around while Kalden's offer is live, ch16 is where they choose each
+other and it becomes real, and the skeleton's own ch19 entry dates the change to exactly that — *"the war
+she and Xion chose each other into is no longer abstract."*
+
+**The counter-reading is recorded and rejected**, so it is not rediscovered as a finding: from Xion and
+Elara's vantage the war genuinely *is* abstract in `Ruthless Calculus`, since that chapter's whole engine is
+that the reader knows what they cannot. Read as tracking the characters, ch14 would have been right. It
+tracks the reader. **Do not re-open this.**
 
 ### The Paradigms are not a straitjacket — **AUTHOR'S RULING 2026-08-04**
 

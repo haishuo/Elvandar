@@ -7945,3 +7945,18 @@ because it records what the image *is* rather than how it was drawn.
 each, and git keeps every version of a binary forever. Replacing an image is therefore not free the way
 replacing a paragraph is. Nothing needs doing about it now; it is worth knowing before any pass that
 re-renders the whole set.
+
+### The last ambiguous chapter reference resolved — author's ruling, 2026-08-05
+
+**`A Warrior's Heart` beat 48: *"the war that was abstract in Chapter 14"* → **Chapter 15**.** This was the
+single reference the renumbering sweep declined to guess at, and the author ruled `The Proposal`.
+
+The reasoning is in the master list §6 and the short version is that content decided it rather than vintage.
+The draft is demonstrably pre-split, which argued for +1 on its own — but the stronger argument is that the
+footer describes what the *reader* feels, and `Ruthless Calculus` is the chapter where the reader learns the
+war is certain. The abstraction ends there, so ch14 could not be the "before" state. The counter-reading —
+that from Xion and Elara's vantage the war *is* still abstract in ch14, which is that chapter's whole irony —
+is recorded as rejected so it is not rediscovered as a finding.
+
+**And B3 ch10's length is ruled fine at 7,454 words**, closing the item opened the same day. No cut taken;
+none of the three offered routes used. Both items are out of §3 and in §6.
