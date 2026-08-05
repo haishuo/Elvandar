@@ -455,9 +455,11 @@ outliving it rather than by winning it — a distinction the family is quietly c
 
 **Post-Rending Transformation**: Became the clearing house of the Golden Path. Effectively all east–west
 trade crossing Elvandar settles in paper somewhere on Vessel Street, and Greystone writes or endorses a
-great deal of it, alongside the resident factors of the **Erulian** houses — which is the sharp end of the
-arrangement, since Erulius is where the continent's money went after the Rending and Greystone clears in a
-coin struck with Kalden's face on it.
+great deal of it, alongside a thin row of resident foreign factors. Much of what crosses their counters is
+denominated in the Erulian **Imperial Mark**, which is simply the soundest coin in circulation and carries
+Kalden's profile on one face — a fact Vessel Street handles thousands of times a day and has never once
+found interesting. *(Erulius is **not** a financial centre and this is not a hint that it is; see*
+`Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`*.)*
 
 #### Notable Members
 **None named, on purpose.** The house's head holds the office of **Factor-Principal** and has no given name
@@ -469,8 +471,8 @@ canon file that never reaches the page is a name wasted.
 #### Current Status
 Rich, essential, and **structurally powerless** — and the reason is not snobbery, though there is plenty of
 that. The Coterie is a table of people who hold things that cannot be moved. Greystone's capital is
-portable by design; the house could be operating out of Erulius inside a month, and everyone at the table
-knows it. Wealth on those terms buys service, not a seat.
+portable by design; the house could be operating out of another city inside a month, and everyone at the
+table knows it. Wealth on those terms buys service, not a seat.
 
 Greystone lends short, against goods in a warehouse, and declines anything secured on a promise from a
 cartel or a crown. **It is the lesson of House Umberlow, learned by the only people who watched it happen

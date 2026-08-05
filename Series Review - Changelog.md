@@ -7415,3 +7415,51 @@ That bites in Book 7.
 
 Files: `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, `Places/Kaha'an/houses_of_kahaan.md`,
 `Series Review - Master List.md`.
+
+### Second correction — Erulius is not a financial centre either — 2026-08-05
+
+**Author's check, same day, on the Erulius half of the previous correction. It does not survive, and it was
+wrong in a worse way than the Vartonne claim: not unsupported but inverted.** The claim under test was that
+the credit of Elvandar migrated to Erulius, that this part-funded Kalden's twenty-year credentialing project,
+and that it part-explains why Book 7 has him fielding an army Rosik cannot buy. **All three are false.**
+
+**Erulian wealth is extractive and canon is emphatic.** The Economy section of
+`The Erulian Principality_ The Almost-Heirs.md` opens *"The Principality's greatest strength lies in its
+balanced and abundant natural resources"* and lists mining, agriculture, forestry and manufacturing.
+**Banking does not appear in it at all.** `People/Kalden Erulius.md`: *"Kalden redirected the principality's
+considerable natural resources toward imperial ambition."* The credentialing was bought with iron, silver,
+gems, grain, timber, heavy taxation and the mining conscription system. **The single "banking houses" line is
+one bullet in a district's building list in the geography file, and the verb is *managing*.**
+
+**The Imperial Mark was misread as monetary policy and is a legitimacy instrument.** Canon glosses it itself:
+*"a deliberate statement about the Principality's claims to legitimacy."* Kalden's sheet files the coinage in
+the **credentialing** list beside the Amber Palace, the Chancellery, the Aspirant Guard and the Hall of
+Ancestors. The mint timing (fifteen years ago, five after the Rending) is real and means nothing financial.
+
+**And Book 7 forecloses the reading outright: Kalden is a debtor.** Reparations and sanctions after the
+Compact War, the breadbasket seceded to the Erulian Union, and then he *"borrows against the northern mines,
+against the Amber Palace itself, against everything that is left"* to hire mercenaries who later conclude
+*"their employer could no longer pay them"* and disband. **Erulius is not where the money of Elvandar sits;
+it is where the money is owed.**
+
+**The pattern is now established and is recorded as a caution.** Both errors were the same move: a single
+bullet in a geography file — *"traditional banking houses"*, *"banking houses managing… growing wealth"* —
+inflated into a structural claim about where continental finance lives. **This subject invites it**, because
+a reader wants the money to have gone *somewhere*, and the files decline to say.
+
+**So the corrected position is deliberately smaller than either version: Kaha'an's money trade died and
+nobody inherited it.** No successor state is written as a financial centre, and this document has no business
+appointing one. The Rending destroyed Kaha'an's *great* money house, not the world's ability to move paper;
+the transit clearing continued at a smaller and more cautious scale under the house that had always done it.
+**Erulius is a plausible neighbour for that trade and nothing more**, and the file now says so in terms,
+along with an explicit instruction not to attribute the twenty-year project to banking.
+
+**One genuine question opened, and it is the author's.** Book 7 has Kalden mortgaging the northern mines and
+the Amber Palace, and closes on *"a territory with mortgaged mines and an empty palace, waiting for someone
+else to decide what it becomes next."* **Somebody holds that paper, and it outlives him by weeks.** Nothing
+in canon says who, and this is the first place in the series where a money house would be load-bearing rather
+than decorative. **Not filled in here** — recorded in the master list as an open question, per the standing
+rule against planting what has not been paid. Filling it silently is exactly how a convenience becomes canon.
+
+Files: `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, `Places/Kaha'an/houses_of_kahaan.md`,
+`Series Review - Master List.md`.

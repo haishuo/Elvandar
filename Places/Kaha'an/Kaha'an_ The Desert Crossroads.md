@@ -121,21 +121,37 @@ house does not survive the book going bad. See `houses_of_kahaan.md`: **House Um
 who are in the Lost Houses for this reason and not for any dramatic one. **Grain lost its land and had a
 business left to reinvent. Umberlow had nothing left to reinvent, because the promises were the business.**
 
-**So the money trade of Elvandar left, and it went to Erulius.** *(Corrected 2026-08-05, on the author's
-instruction to check this against the Vartonne files — the first version of this section had it relocating
-to Vartonne **and** Erulius, and Vartonne does not support that in any respect. See below.)*
-`Places/The Erulian Principality/` has *"banking houses managing the Principality's **growing** wealth"*,
-mineral wealth funding public works, and the most systematically developed economy of any successor state.
-**It also mints.** The Imperial Mark, Kalden's profile on one face and the old imperial seal on the other,
-was introduced **fifteen years ago** — five years after the Rending — replacing the modest Erulian Talent
-that had circulated since the collapse. **Erulius recoined itself in precisely the window when the old
-capital's money trade had just died**, and a continent that needs somewhere to clear its paper found the one
-place issuing sound coin and calling itself the empire.
+**So Kaha'an's money trade died, and no successor state inherited it. Nothing needs to have.** *(Twice
+corrected, 2026-08-05, on the author's instruction — first for claiming the trade relocated to Vartonne, then
+for claiming it relocated to Erulius. **Both were single bullets in geography files inflated into structural
+claims, and this is evidently the failure mode this subject invites.** The corrected position is deliberately
+smaller than either.)*
 
-**Nobody plans it and it is worth noticing.** The credit of Elvandar migrated to the pretender. It is part
-of how twenty years of credentialing in Erulius got paid for, and part of why in Book 7 Kalden can field an
-army and Rosik cannot buy one. **Do not have a character observe this** — it is a structural fact, not an
-insight anyone in Kaha'an is positioned to have.
+**Nowhere in Elvandar is written as a financial centre, and it is not this document's business to appoint
+one.** What the Rending destroyed was Kaha'an's *great* money house, not the world's ability to move paper.
+The transit clearing carried on at a smaller, more cautious scale under the house that had always done it —
+see Greystone below — and the continent got by, as the continent had before Umberlow was large.
+
+**Erulius is a plausible neighbour for that trade and nothing more than that.** `The Physical Geography of
+the Erulian Principality.md` lists *"banking houses managing the Principality's growing wealth"* among the
+buildings of a district, and **managing is the operative word**: Erulian wealth is *extractive*, and canon is
+emphatic about it. The Economy section says the Principality's *"greatest strength lies in its balanced and
+abundant natural resources"* — iron, copper, silver, gems, surplus grain, timber — worked in part by the
+mining conscription system, and `People/Kalden Erulius.md` has him redirecting *"the principality's
+considerable natural resources"* into the imperial project. **The credentialing was paid for out of mines and
+farms, not out of finance, and the twenty-year project must never be attributed to banking.**
+
+**The Imperial Mark is a legitimacy instrument, not monetary policy.** Kalden's profile on one face and the
+old imperial seal on the other, struck fifteen years ago in place of the modest Erulian Talent — and canon
+glosses it itself as *"a deliberate statement about the Principality's claims to legitimacy."* Kalden's sheet
+files the coinage in the **credentialing** list, beside the Amber Palace, the Imperial Chancellery, the
+Aspirant Guard and the Hall of Ancestors. It is a vanity mint with a serious purpose, and that purpose is the
+succession question in Kaha'an. **Do not read it as evidence of a financial centre.**
+
+**And by Book 7 Erulius is a debtor, which forecloses the reading entirely.** Reparations and sanctions after
+the Compact War, the breadbasket seceded to the Erulian Union, and then Kalden *"borrows against the northern
+mines, against the Amber Palace itself, against everything that is left"* to hire his mercenaries. **Erulius
+is not where the money of Elvandar sits. It is where the money is owed.**
 
 **Vartonne is not a rival centre. Vartonne is a debtor.** `Places/Vartonne/Vartonne_ Glory Faded.md` has a
 currency whose value *"has steadily declined"*, imperial financial institutions that *"function increasingly
@@ -149,9 +165,9 @@ buyers. Vartonne's paper is bad paper and has been since long before the Rending
 **Kaha'an holds the isthmus and does not hold the money that crosses it** — it taxes a flow it does not own,
 which is the mechanism underneath *rapacious and drowning at the same time.*
 
-**What survived on Vessel Street is a service, not a power.** House Greystone, and the resident factors of
-the Erulian houses, clearing other people's continental trade for a fee. Rich, careful, courted by nobody,
-and hedged across all four cartels on principle. Full entry in `houses_of_kahaan.md`.
+**What survived on Vessel Street is a service, not a power.** House Greystone, and a thin row of resident
+foreign factors, clearing other people's continental trade for a fee. Rich, careful, courted by nobody, and
+hedged across all four cartels on principle. Full entry in `houses_of_kahaan.md`.
 
 **Two neighbours are not in this trade and should not be written into it.** **Uratha** has no money trade in
 canon at all and is not to be given one to fill a sentence. **Terinok** is a cash economy on purpose —

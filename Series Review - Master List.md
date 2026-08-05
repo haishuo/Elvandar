@@ -1147,15 +1147,17 @@ estates that had just become desert. **House Umberlow**, the pre-Rending great h
 the Lost Houses for exactly this reason — it exists to be the answer to *why is there no banker on the
 Coterie*.
 
-**The banking of Elvandar relocated to Erulius, and to Erulius only.** *(Corrected 2026-08-05 on the
-author's check; the first version of this ruling said Vartonne as well, and Vartonne is a **debtor** — a
-declining currency, endemic noble debt, and export terms that favour Kaha'ani buyers. Do not reinstate it.)*
-Erulius has the growing wealth, the banking houses, and **the mint**: the Imperial Mark was struck fifteen
-years ago, five years after the Rending, in exactly the window the old capital's money trade died. **The
-credit of the continent migrated to the pretender** — structural, and no character is positioned to notice
-it. **Uratha has no money trade and is not to be given one. Terinok refuses paper on principle**
-(*"Thal'krev, thal'zhuum"* — payment in advance), which means a Terinok contract must be funded before it is
-signed; that constraint bites in Book 7.
+**Nobody inherited it, and no successor state is to be written as a financial centre.** *(Twice corrected
+2026-08-05 on the author's checks — first for saying Vartonne, then for saying Erulius. **Both were the same
+error**: a single "banking houses" bullet in a geography file inflated into a claim about where continental
+finance lives. The subject invites it; do not reinstate either.)* **Vartonne is a debtor** — declining
+currency, endemic noble debt, export terms favouring Kaha'ani buyers. **Erulian wealth is extractive** —
+mines, farms, timber, heavy taxation and the conscription system, per its own Economy section and Kalden's
+sheet; **the twenty-year credentialing project must never be attributed to banking**, and the Imperial Mark
+is a legitimacy instrument, filed on Kalden's sheet beside the Amber Palace and the Hall of Ancestors. **By
+Book 7 Erulius is mortgaged to the roots.** **Uratha has no money trade and is not to be given one. Terinok
+refuses paper on principle** (*"Thal'krev, thal'zhuum"* — payment in advance), so a Terinok contract must be
+funded before it is signed; that constraint bites in Book 7.
 
 **House Greystone** clears the Golden Path from Vessel Street and is rich, essential and seatless: the
 Coterie seats people who hold things that **cannot be moved**, and a clearing house's capital is portable by
@@ -1181,10 +1183,21 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ## 7. Open questions
 
-**None currently open.** The three items opened on 2026-08-02 were all ruled on the same day and are
+**One open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
 recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
 Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
 changelog for each.
+
+**Who holds Kalden's mortgages?** Book 7 has him borrowing *"against the northern mines, against the Amber
+Palace itself, against everything that is left"* to hire his mercenaries, and the book closes on *"a
+territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes
+next."* **Somebody holds that paper, and it outlives him by weeks.** Nothing in canon says who, and it is the
+first point in the series where a money house would be **load-bearing rather than decorative** — the lender
+inherits a claim on a rump state at the exact moment Balisha is deciding what that state becomes. Deliberately
+**not filled in** during the 2026-08-05 banking work, per the standing rule against planting what has not been
+paid; the candidate is House Greystone, whose whole written character is that they refuse to lend against a
+promise, which makes them the wrong answer unless the mines counted as goods they could walk out and look at.
+**Author's call, and it belongs to Book 7's outline rather than to a geography file.**
 
 **One warning survives them, and it is not a question.** The months-never-years rule must not be
 over-applied now that Book 3 has a span. *"Years ago"* is still wrong everywhere inside Books 1–3, but by
