@@ -1194,10 +1194,30 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ## 7. Open questions
 
-**Two open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
+**Five open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
 recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
 Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
 changelog for each.
+
+**Three raised 2026-08-05 by the Brass Door stress-test, and left open deliberately.**
+
+- **Uratha knows the Crown is live from ch13**, and has just traded away a working divine artifact believing
+  it dead. Book 8 collects this. **Books 4–7 have a Uratha with overwhelming motive and a Balisha holding the
+  object** — standing leverage over an ally, currently unused. Not a hole; an unexploited asset, and the risk
+  is that four books of silence reads as the author saving it.
+- **Two different worthiness tests for the Scholar's Crown, in two canon files.**
+  `Places/Uratha/Uratha_ The Land of Scholars.md` says worthiness is *"determined by the Crown itself based on
+  whether the wearer contributes novel knowledge to it."* `Magic/elvandar_magic_system.md` says it fell silent
+  because Scholar-Kings *"approached it with pride and expectation rather than humble curiosity."* Those are
+  reconcilable but they are **not the same test**, and they meet on Elara's head at ch13's legitimacy beat.
+  She passes the second cleanly; under the first, a soldier-empress who does not read is a strange candidate.
+  **Worth settling which is the criterion**, because that scene should not carry a question mark.
+- **Lathion does not pay on the treasury's clock.** Ch1 sets nine to fourteen months; what is behind the Door
+  is **schematics**, worth a century of advancement and nothing this year. The available answer, and it is
+  clean: **Lathion solves the money by making Balisha creditworthy rather than by being money.** The
+  lease-houses refused a six-week-old court with nothing to pledge; a crown that demonstrably owns a sealed
+  city of legendary technology holds the best security on the continent. **That would close Act I's question
+  with Act II's discovery**, and it is currently written nowhere. Author's call whether the book says so.
 
 **Does Elara ever farm out the customs?** B3 ch1 now establishes that the crown *can* borrow in principle —
 she holds the tolls, which are the best security in Elvandar — and that the lease-houses decline this year on

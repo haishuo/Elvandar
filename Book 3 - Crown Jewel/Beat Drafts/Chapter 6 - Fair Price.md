@@ -55,9 +55,11 @@
 
 22. **Ronas takes it as a toll, which by now it genuinely is.** Commercial language over a protective act, which is how every protective act of his life has been dressed and the only way his world permits him to hold one. Xion has read enough of his father to see the dressing for what it is, and enough sense to leave it alone. The passage is granted: months, guaranteed, in terms that survive the man who signs them.
 
-23. **The win is filthy.** He got the Warrens their chair. He got it as a **price** — which is exactly what he said in ch1 it must never be — and what is now on the record, for anyone who reads the record, is that the way to be governed by Balisha is to hold something Balisha needs. He does not have a scene about this and nobody tells him.
+23. **The last term, asked after the deal is done, and it is the one that costs.** *(Added 2026-08-05; see the footer on why the chapter cannot end without it.)* The pen is already moving when Xion asks for one more clause: the north four and the third tier are the crown's for the four months — **not the crown's *and***. Nobody else buys days on them while the expedition is down there. **Ronas reads it in about four seconds and says so.** You do not write a clause against thieves, because thieves get a beating rather than a clause; you write that clause against somebody who can outbid you, and there are four men in Kaha'an who can outbid the crown and Xion sits down with all four of them twice a month. *So it ain't a man.* Xion does not answer, **and not answering is the answer**, and both of them know it. Then Ronas makes him say it aloud, in the Iron Hall, off his own tongue: *I'm asking you to shut the shafts.* **To everybody.** And he names what that is — the last time he did it the city did not eat for two months, he got a chair out of it, and there are three people at Elara's table still counting it against him twenty years on. **Now the government of Balisha has come down five hundred meters to ask him for it nicely.** He does not charge. Same paper, same four months, no fee: it is his floor, he does not want other people's flags on it either, and **a favour sold gets asked for again cheaper while a written term stays a term.** His closing line is the true one and Xion has no answer to it — *only man in Elvandar can give you that clause and mean it; you knew that comin' down the stairs.*
 
-24. **The camp goes in.** Vesk, the Arol Batae detail, the three-mage Tor'anar detachment granted in ch3, the Long Knives arriving on the Mistress's own bargain rather than on payment, Sa Ko's timber and iron coming down the shafts the crown now holds, Farleen on the manifest and in nobody's column. **The chapter ends on the Door itself** — lit for the first time, five meters by three, doing what it has done since before anybody had a word for any of it, which is nothing. He has bought a road to an object that does not move.
+24. **The win is filthy.** He got the Warrens their chair. He got it as a **price** — which is exactly what he said in ch1 it must never be — and what is now on the record, for anyone who reads the record, is that the way to be governed by Balisha is to hold something Balisha needs. He does not have a scene about this and nobody tells him.
+
+25. **The camp goes in.** Vesk, the Arol Batae detail, the three-mage Tor'anar detachment granted in ch3, the Long Knives arriving on the Mistress's own bargain rather than on payment, Sa Ko's timber and iron coming down the shafts the crown now holds, Farleen on the manifest and in nobody's column. **The chapter ends on the Door itself** — lit for the first time, five meters by three, doing what it has done since before anybody had a word for any of it, which is nothing. He has bought a road to an object that does not move.
 
 ---
 
@@ -84,6 +86,34 @@
 **On Ronas, and the one thing that will go wrong if it is not watched.** `People/Ronas Dermir.md` locks his voice and the lock exists because it has already drifted once: dropped *-ing* always, elision, *got* for *have*, *boy* and *kid* to men far above him, non-standard agreement. **The drift always happens in his longest and most serious speeches** — the temptation to let him speak properly when he is being precise is exactly backwards, and the whole point of him is that a man who talks like this out-thinks the room. His sharpest analytical speech in Book 1 is also his broadest. He is at his most dangerous when he is most casual.
 
 **On Melina, and why neither of them touches her.** Ronas's lieutenant murdered Xion's sister and Ronas holds the responsibility for it without having ordered it, and both men know both facts walking in. Ronas will not raise it: it would blow up his own negotiation and he is not cruel for sport. Xion will not raise it: he came down to buy a road and he knows what happens to the road if he does. **The scene runs on the pressure of the thing neither of them says**, and if either says it the chapter has a different and worse ending. This is also not the place for the Book 2 confrontation to be re-litigated — that account closed when Ronas stood down, and neither man reopens it.
+
+**On beat 23, and why the book does not work without it — rule 1.** *(Author's catch, 2026-08-05, from a
+stress-test of the whole Brass Door chain.)* **Ch12 sells Uratha *exclusive* research access to Lathion, and
+ch13's cold open turns Gunastran away on that clause** — which is what keeps Elara treaty-clean and out of
+the role of the war's aggressor. **Balisha cannot sell exclusivity to a place it reaches down a rented right
+of way.** Everything this chapter establishes says so: a lieutenant sold Vesk eleven days at a price he
+invented standing there, *it is not a country; it is a market with a king in it*, and Ronas prices access to
+anyone who pays. Without this clause, Gunastran's answer to being locked out is not a war — it is a factor
+with a bag of Marks and a lieutenant with a gap in his week, and the entire Compact premise goes soft.
+
+**Ronas is the only person in Elvandar who can supply it, and the proof is his own history.** He consolidated
+every gang in the Warrens into one organisation, and he shut the labour off for **two months** and outlasted
+three cartels who were certain he would blink — the surface economy seized up within weeks and kept seizing.
+**That is the demonstration that he can close the shafts**, it is already canon on his sheet and in
+`Offstage.md`, and this chapter has been referencing it since beat 20. The clause is credible precisely
+because Kaha'an watched him do it once and has never forgiven him for it.
+
+**What it costs, which is the only reason it is a beat and not a line of paperwork.** Xion asks a man to
+reach for the single act that made him a monster in this city's eyes, and to do it as a service to the
+government that has spent twenty years pretending he is not there. **And in asking, he tells the Slaver King
+how much is behind the Door** — no number, no word, just the shape of a clause that is only ever written
+against a rival state. Ronas has that now and keeps it. **Nobody comments on either half**, and Xion does not
+get a scene about it; the exit paragraph registers it in one clause and moves on, which is the same
+discipline the chair beat runs on.
+
+**Placement is load-bearing.** It goes *after* the chair is settled and the pen is already moving, so the
+chair stays the chapter's emotional peak and this is the cold business that follows it. It deepens the grey
+the chapter is designed for — see the ceiling note — without introducing a second feeling.
 
 **On what this hands Book 4.** The Warrens get a seat at the new order's table, and they get it as the price of a right of way rather than on the merits, and **nobody ever tells Xion that this is what he did.** He is not to be handed the verdict by another character — that is the same failure mode as telling him he has become his father, and the same ruling applies. The reader sees it. He carries it without naming it. See `Series Review - Master List.md` §2, *The Warrens chair.*
 

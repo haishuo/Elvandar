@@ -7536,3 +7536,63 @@ Files: `Book 3 - Crown Jewel/Chapters/Chapter 1 - Scars.md`,
 `Book 3 - Crown Jewel/Beat Drafts/Chapter 1 - Scars.md`, `book3_chapter_skeleton.md`,
 `Book 3 - Crown Jewel/Royal Road/` (regenerated), `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`,
 `Places/Kaha'an/houses_of_kahaan.md`, `Series Review - Master List.md`.
+
+### B3 ch6: the shafts are bought closed, which is what makes ch12's exclusivity real — 2026-08-05
+
+**Author's catch, from a stress-test of the whole Brass Door chain, and it is the one thing that came loose.**
+**Ch12 sells Uratha *exclusive* research access to Lathion, and ch13's cold open turns a Gunastran delegation
+away on that clause** — the refusal that keeps Elara treaty-clean and out of the role of the war's aggressor.
+**But Balisha reaches Lathion down a rented right of way**, and this book had been at pains to establish it: a
+lieutenant sold Vesk eleven days at a price he invented standing there, *it is not a country; it is a market
+with a king in it*, and Ronas prices access for anyone who pays.
+
+**So the Compact War's premise was resting on a lock whose key is rented from a man who rents keys.**
+Gunastran's answer to being locked out by treaty would not have been a war. It would have been a factor with
+a bag of Marks and a lieutenant with a gap in his week.
+
+**Fixed at source, in ch6, where the instrument is actually written.** *(Author's ruling: Ronas can close the
+shafts, and that is canon.)* A new last term, asked when the pen is already moving: the north four and the
+third tier are the crown's for four months — **not the crown's *and***. Nobody else buys days on them.
+
+**Ronas is the only person in Elvandar who can supply that clause, and his own history is the proof.** He
+consolidated every gang in the Warrens into one organisation, then **shut the labour off for two months** and
+outlasted three cartels who were certain he would blink; the surface economy seized within weeks and kept
+seizing. It is on his sheet, it is in `Offstage.md`, and this chapter has been referencing it since the chair
+beat. **The clause is credible precisely because Kaha'an watched him do it once and has never forgiven him.**
+
+**What the beat does beyond the plumbing.** Ronas reads the clause in four seconds and says what it means:
+you do not write that against thieves, you write it against somebody who can outbid you, and the four men who
+can outbid the crown sit at Elara's table twice a month — *so it ain't a man.* **Xion does not answer, and not
+answering is the answer.** Then Ronas makes him say it aloud in the Iron Hall, off his own tongue, and names
+what he is being asked for: the single act that made him a monster in this city, now requested as a service
+by the government that has spent twenty years pretending he does not exist. **He does not charge.** It is his
+floor, he wants no other flags on it, and *a favour sold gets asked for again cheaper while a written term
+stays a term.*
+
+**And it costs Xion something that does not get a scene.** In asking for a clause only ever written against a
+rival state, he has told the Slaver King how much is behind the Door — no number, no word. Ronas keeps that.
+**The exit paragraph registers it in one clause and moves on**, which is the same discipline the chair beat
+runs on, and nobody comments on either half.
+
+**Placement is deliberate:** after the chair is settled and the pen is moving, so **the chair stays the
+chapter's emotional peak** and this is the cold business that follows. It deepens the grey ch6 is designed
+for — the runway into ch7's undiluted wonder — without introducing a second feeling. Rule 3 intact.
+
+**Recorded against a foreseeable cut** in three places — the ch6 beat draft footer, the ch12 beat draft at
+beat 16, and the skeleton at both chapters: **this term looks like paperwork and is not.** Ch12's offer and
+ch13's cold open both stand on it.
+
+ch6 5,443 → 5,955 words. Beat draft renumbered 23→24, 24→25; skeleton and Royal Road moved with the prose.
+
+**Four other findings from the same stress-test are recorded and not acted on**, since three are author
+questions and one is a cross-file conflict: Uratha knows the Crown is live from ch13 and has four books of
+motive before Book 8 collects it; `Uratha_ The Land of Scholars.md` and `elvandar_magic_system.md` state two
+**different** worthiness tests for the Crown, and they collide on Elara's head in ch13; Lathion is schematics
+rather than money and does not pay on the treasury's nine-to-fourteen-month clock, though it plausibly makes
+Balisha *creditworthy*, which would close Act I's question with Act II's discovery; and Gunastran's refusal
+needs to read as institutional myopia rather than authorial convenience.
+
+Files: `Book 3 - Crown Jewel/Chapters/Chapter 6 - Fair Price.md`,
+`Book 3 - Crown Jewel/Beat Drafts/Chapter 6 - Fair Price.md`,
+`Book 3 - Crown Jewel/Beat Drafts/Chapter 12 - The Scholar's Crown.md`, `book3_chapter_skeleton.md`,
+`Book 3 - Crown Jewel/Royal Road/`, `Series Review - Master List.md`.

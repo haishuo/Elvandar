@@ -306,11 +306,53 @@ He stopped then. Something went across his face and stopped there, and for about
 
 "If I ain't here, kid, you got bigger problems than a shaft." He reached for a pen. "But sure. Put it in."
 
+"One more term."
+
+"Course there is."
+
+"The north four and the third tier are the crown's for the four months." Xion kept it flat, the way you keep a thing flat when you have known since the top of the stairs that it was the part that would cost. "Not the crown's and. Nobody buys days on them while we're down there. Not a factor, not a broker, not a lieutenant with a gap in his week."
+
+Ronas put the pen back down.
+
+"Say the rest of it."
+
+"That's the term."
+
+"That ain't the whole of anything." He set one finger on the desk and left it there. "Thieves I'd have heard about already, and thieves don't get a clause, they get a beating. You write that clause against somebody who can outbid you." The finger stayed where it was. "There's four men in this city who can outbid the crown and you sit down with all four of 'em twice a month. So it ain't a man."
+
+Xion did not answer, and understood as he did not answer that this was the answer, and that it had been from the moment he opened his mouth.
+
+"Huh," Ronas said. There was nothing in it this time at all.
+
+He looked at the desk for a while.
+
+"You know what you're askin' me for."
+
+"Yes."
+
+"Say it out loud, then. In my house, off your own tongue."
+
+"I'm asking you to shut the shafts," Xion said.
+
+"To everybody."
+
+"To everybody."
+
+"Last time I done that," Ronas said, "this city didn't eat for two months, and I got a chair out of it, and there's three people at that table of yours still countin' it against me twenty years on. Sa Ko'd have it carved on my box." He was not smiling. He was not doing anything with his face at all. "And now the government of Balisha comes down five hundred meters to ask me nice."
+
+There was no version of that Xion could have argued with, and none he was willing to soften, so he stood in it.
+
+"Same paper," Ronas said at last. "Same four months. I ain't chargin' you for it."
+
+"Why not?"
+
+"Because it's my floor." He picked the pen back up. "I don't want other people's flags on it either, and if I take coin for that it's a favor I sold, and a favor sold gets asked for again cheaper. Written down it's a term." He turned the page around. "Only man in Elvandar can give you that clause and mean it. You knew that comin' down the stairs. That's why you come."
+
 ---
 
 They came up through the Market of Sighs and out into the ruin field, and the light was going, and Xion stopped at the top and put his hands on his knees for a moment because five hundred meters of climb was five hundred meters of climb.
 
-He had the shafts. He had them for four months and in writing and on terms that survived the man who had signed them. He had spent nothing that was not his to spend — she had put the chair into his hand herself, and told him to try the money first, and he had tried the money. And there would be a man in that chair before the month turned, which was the thing he had stood up in the summer and said out loud that somebody ought to come down here and see to.
+He had the shafts. He had them for four months and in writing and on terms that survived the man who had signed them, and he had them closed behind him, which was the only clause in the instrument that no other man in Elvandar could have written. He had also, somewhere in the four seconds it took to ask for it, told the Slaver King exactly how much was down there, without a number and without a word, and there was no getting that back and no point standing in the ruin field being sorry about it. He had spent nothing that was not his to spend — she had put the chair into his hand herself, and told him to try the money first, and he had tried the money. And there would be a man in that chair before the month turned, which was the thing he had stood up in the summer and said out loud that somebody ought to come down here and see to.
 
 It was in the record now. Anyone could read the record. What it said, to anyone who read it, was that the Warrens had entered the government of Balisha as a term of sale — a clause in the same instrument as a right of way, priced against four shafts and a stretch of the third tier, because the crown had needed something and had found out that the man who held it could not be paid in coin.
 
