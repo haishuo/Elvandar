@@ -165,9 +165,44 @@ buyers. Vartonne's paper is bad paper and has been since long before the Rending
 **Kaha'an holds the isthmus and does not hold the money that crosses it** — it taxes a flow it does not own,
 which is the mechanism underneath *rapacious and drowning at the same time.*
 
-**What survived on Vessel Street is a service, not a power.** House Greystone, and a thin row of resident
-foreign factors, clearing other people's continental trade for a fee. Rich, careful, courted by nobody, and
-hedged across all four cartels on principle. Full entry in `houses_of_kahaan.md`.
+**What survived on Vessel Street is a market, not a house — and it is large.** *(Expanded 2026-08-05 on the
+author's ruling. The first version had a single cautious house doing all of it, which was the opposite
+over-correction to the Vartonne and Erulius errors: having twice claimed too much for other cities, this
+document then claimed far too little for the one the trade is actually in. **A chokepoint does not have a
+bank. It has a bourse.** Historically the finance at such a city is always plural, always partly foreign,
+enormously rich, and politically subordinate to whoever holds the gate — Galata at Constantinople, the
+Antwerp bourse, the sarrafs of Istanbul, the Karimi of Cairo. None of them ever held a seat and none of them
+was ever small.)*
+
+So: **Vessel Street is a street, and there are perhaps a dozen houses on it.** House Greystone is the oldest
+and the most conservative and is not the largest; there are newer and hungrier native houses, and there are
+the resident factories of foreign houses keeping factors at the Golden Gates. They discount bills, insure
+cargo, change coin, and quarrel. **The money that stays in Kaha'an stays here and in the Noble District**,
+which is the honest answer to *where does the wealth go* — most of the toll income does leave again as grain,
+exactly as recorded above, but the business of intermediating a continent's trade settles permanently, and it
+has settled here since before the Rending.
+
+### The customs lease, which is the largest financial business in the city
+
+**A city that lives on tolls generates one dominant industry, and it is not merchant clearing. It is
+advancing cash against the right to collect.** This is what tax farming is and it is what every pre-modern
+toll state ran on. **Each year a consortium of Vessel Street houses advances the government its gate revenue
+in a single sum, and spends the year collecting it back at the Golden Gates with a margin.** They did it for
+the Coterie; they did it for the imperial administration before the Coterie. The arrangement is called **the
+lease**, and the houses that hold it are the **lease-houses**.
+
+**It explains three things the canon already asserts and had no mechanism for.** It is why the tolls climb
+every year — a farmed revenue is bid up and then squeezed, which compounds with the food deficit rather than
+competing with it. It is who has been bridging the gap between a treasury that collects annually and a city
+that eats daily. And it is where the wealth stays: **the lease is the largest, safest and least portable
+asset in Kaha'an**, and it is held locally.
+
+**And it is still not a seat**, which is the point. The lease-houses are numerous, substitutable and
+structurally *client* — the gate is the asset and they are renting its cash flow from whoever holds it. Any
+one of them can be ruined by the government; none of them can be done without, and no four of them can
+combine, because they are competing for the same lease next year. **That is a far better reason for their
+political nullity than portable capital was**, and it is the reason financiers have always survived next door
+to violent men.
 
 **Two neighbours are not in this trade and should not be written into it.** **Uratha** has no money trade in
 canon at all and is not to be given one to fill a sentence. **Terinok** is a cash economy on purpose —
@@ -185,17 +220,31 @@ bottom, the intake pipe of the Slaver cartel is **debt**: Tam is taken on fabric
 
 #### The two questions this has to answer, and it does
 
-**Why does Rosik not simply borrow?** Because he cannot show the books. A loan at that scale wants security,
-and his security is a twenty-year fraud — the first competent lender to open the accounts finds the
-insolvency, which is precisely the proof Xion takes in B2 ch13. **He is definitionally the man who cannot go
-to the bank.** Beyond that, Vessel Street writes short paper against goods sitting in a warehouse; it does
-not make sovereign-scale loans to a man whose collateral a crown could seize by decree. **Book 7's *he cannot
-buy an army* is not weakened by the existence of a money trade — it is explained by it.**
+**Why does Rosik not simply borrow?** *(Sharpened 2026-08-05 — with a large money trade on the street this
+question gets harder, not easier, and the weak version does not survive it.)* **Vessel Street lends to Grain
+constantly, and that is exactly the problem.** Trade paper against cargo, every week, for twenty years. What
+he needs in Book 2 is not trade paper. It is enough money, fast and unrecorded, to replace a criminal
+fortune — and **any loan that large requires opening the books, and the books are the fraud.** The first
+competent lender who reads them finds twenty years of insolvency, which is the proof Xion took in B2 ch13.
+Routine credit, always. Rescue capital, never. **And Book 7 forecloses it entirely**: by then he is a fugitive
+with a seized estate and no legal standing, and nobody lends to a man in exile. *He cannot buy an army* is
+explained by the money trade rather than threatened by it.
 
-**Why does Elara not borrow in Book 3?** She is a restored claimant on a contested throne with no credit
-history, in a city where the last sovereign default was the Rending itself and the men who ate it are still
-alive. **Nobody lends to a claimant.** This makes Book 3's engine harder rather than softer: the door is now
-visible, and it is shut, and *why* it is shut is a fact about her standing rather than about the treasury.
+**Why does Elara not borrow in Book 3? — and this is the one the lease changes.** She is not assetless. She
+holds the tolls, which is the best security in Elvandar, so **the door is not locked; it has a price, and the
+price is the lease.** The reasons it does not open are on the page in ch1 and are hers rather than the
+treasury's: **the court is six weeks old and there is nothing to read** — the lease-houses lent to a Coterie
+that gave them twenty years of balanced quarter-days; **the sum is a rebuild and not a bridge**, nine to
+fourteen months against no line that closes it; and **the seizure**, which taught every house on that street
+that in Kaha'an a great deal of money can stop being yours overnight, with the crown's blessing and no court
+ever asked. **Lenders price precisely that.**
+
+**The standing temptation, which is a live plot object rather than a closed door.** Farming out the customs —
+selling years of gate revenue to survive this one — is what a broke state in this position historically does,
+and it remains available to Elara at a price that rises the longer she waits. **It is the Coterie's own
+arithmetic offered to the woman who broke the Coterie**, and whether she is ever formally offered it, refuses
+it, or takes it and pays in Book 8 is an author's question recorded in `Series Review - Master List.md` §7.
+**Do not resolve it in a geography file, and do not let a character reach for it as a convenience.**
 
 **Do not let a character solve a plot with a loan.** The absence of available credit is load-bearing in
 Books 2, 3 and 7. The first place borrowing becomes genuinely possible is Book 8, when there is a crown

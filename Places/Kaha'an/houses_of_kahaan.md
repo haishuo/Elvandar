@@ -421,9 +421,25 @@ Manufacturing backbone of Iron cartel operations, producing the tools and equipm
 
 ---
 
-## The Money Trade
+## The Money Trade: Vessel Street
 
-### House Greystone - "The Vessel Street House"
+**This is a market, not a house.** *(Expanded 2026-08-05 on the author's ruling; the section previously held
+House Greystone alone, which made a continental chokepoint's finance look like one cautious family and was
+badly undersized. **Chokepoint finance is always plural** — Galata, the Antwerp bourse, the Istanbul sarrafs,
+the Karimi of Cairo. Never one house, never small, and never seated.)*
+
+**Perhaps a dozen houses work the street**, plus the resident factories of foreign houses keeping factors at
+the Golden Gates. They discount bills, insure cargo, change coin, take deposits, and compete hard. **The
+largest business among them is the customs lease** — the consortium that each year advances the government
+its gate revenue in one sum and spends the year collecting it back with a margin. Mechanism, and why holding
+the biggest asset in Kaha'an still buys no seat, in
+`Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`.
+
+**Only Greystone is written up here**, because only Greystone has a reason to exist in the record yet: it is
+the oldest, the most conservative, and the one whose history explains the shape of everything around it.
+**The others are deliberately unnamed.** Coin one when a chapter needs one, not before.
+
+### House Greystone - "The Oldest House on the Street"
 **Motto**: *"Paid Where Promised"*  
 **Sigil**: Grey keystone above two crossed tally-sticks  
 **Current Head**: The Factor-Principal — **deliberately unnamed**; see below  
@@ -469,10 +485,15 @@ formal governance needs a counterparty and *the treasury finally borrows* become
 canon file that never reaches the page is a name wasted.
 
 #### Current Status
-Rich, essential, and **structurally powerless** — and the reason is not snobbery, though there is plenty of
-that. The Coterie is a table of people who hold things that cannot be moved. Greystone's capital is
-portable by design; the house could be operating out of another city inside a month, and everyone at the
-table knows it. Wealth on those terms buys service, not a seat.
+Rich, respected within its trade, and **not the largest house on the street** — younger and hungrier houses
+have passed it, and Greystone declines to compete for the business that would have kept it first. It holds a
+minority share of the customs lease and has never sought to lead the consortium.
+
+**Structurally powerless, along with every other house on Vessel Street, and the reason is not snobbery** —
+though there is plenty of that. The money is **plural and substitutable**: any single house can be ruined by
+the government, none can be done without, and no four of them can combine, because next year they are bidding
+against each other for the same lease. They are clients of whoever holds the gate. **Wealth on those terms
+buys service, not a seat.**
 
 Greystone lends short, against goods in a warehouse, and declines anything secured on a promise from a
 cartel or a crown. **It is the lesson of House Umberlow, learned by the only people who watched it happen

@@ -108,6 +108,38 @@ They did not solve it.
 
 They had never been going to solve it; four hours was enough to establish what the problem was shaped like and not remotely enough to move it. Kael's revised levy would close perhaps a fifth of the gap and would take eight months to begin collecting. Tania's port concessions might do more, and might also hand Water a lever it would be unwise to hand anyone. The reconstruction obligations could not be slowed without the crown publicly breaking a promise it had made in the districts where the promise had been believed, and Elara refused that flatly, twice, without explaining herself, which Xion thought was the correct number of times to refuse a thing you were not going to reconsider.
 
+"There is money in this city," Tania said, in the third hour. "A great deal of it, four streets from where we are sitting. I would like to hear somebody say why we are not discussing it."
+
+The table turned to Xion, which was itself a piece of information about the last six weeks, and he took a moment with it before he answered.
+
+He gave them the shape of the thing, because the shape was the answer. Every year the houses that held the customs lease advanced the government its gate revenue in one sum, and every year they spent collecting it back at the Golden Gates with a margin on top of it. They had done it under the Coterie. They had done it under the men before the Coterie. Whatever else changed in Kaha'an, the gates did not move and the caravans did not stop, and a house could lend against that in a bad year and sleep well. His father had sat with those men twice a year for twenty years. Xion had carried the folios in and stood against the wall while they read them.
+
+"So we go to them," Tania said.
+
+"They'll see us," Xion said. "They'll be courteous, they'll want the crown's business, and they'll find a reason it can't be this year."
+
+"Give me the reason before they do."
+
+"There are three." He set them down in the order a lender would. "The first is that they've never lent to us. They lent to the Coterie, and the Coterie handed them twenty years of quarter-days that balanced. This court is six weeks old. There is nothing to read."
+
+Kael's pen had stopped.
+
+"The second is the size. They bridge. A lease-house advances against a revenue it can watch arriving, for a season, and takes it back at the gate. What we would be asking is not a bridge. We would be asking somebody to carry a third of the revenue for something between nine and fourteen months against no line in these accounts that closes it. That isn't lending. That's investing in us, and nobody on Vessel Street has ever done that in his life."
+
+"And the third," Tania said.
+
+Xion had known this one was coming since she opened her mouth, and had not found a way to say it that was not simply saying it.
+
+"The third is that the last thing the money in this city watched," he said, "was the largest private fortune in Kaha'an leaving a house in a single night, with the crown's blessing and without any court ever being asked whether it was lawful. Nobody has ruled on it. Nobody is going to. What every man on that street took from it is that in this city a great deal of money can stop being yours between one evening and the next morning." He kept his hands still. "They price that. It's the only thing they do."
+
+Nobody at the table looked at him. He was aware of what that cost them, and of what it would have cost him if they had.
+
+"Then they are fools," Tania said, "because the alternative is a city that cannot pay them either."
+
+"They know that. It doesn't help. A man who lends into this and is wrong has lost his house. A man who declines and is wrong has had a quiet year." Xion turned his palm up on the table, and did not recognise the gesture as one he had watched Elara make an hour earlier. "The arithmetic isn't stupid. It's just not ours."
+
+Elara had not said anything through any of it. She did not argue with it now, which Xion thought was the single most expensive thing she did all afternoon.
+
 It was Silvanno who said it, in the last half hour, in the tone of a man putting something on the table that he expected to be laughed at.
 
 "There's the door."

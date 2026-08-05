@@ -1159,7 +1159,18 @@ Book 7 Erulius is mortgaged to the roots.** **Uratha has no money trade and is n
 refuses paper on principle** (*"Thal'krev, thal'zhuum"* — payment in advance), so a Terinok contract must be
 funded before it is signed; that constraint bites in Book 7.
 
-**House Greystone** clears the Golden Path from Vessel Street and is rich, essential and seatless: the
+**Vessel Street is a bourse, not a house** *(expanded 2026-08-05 on the author's challenge — "so much wealth
+flowing through the city, none of it stays there?" The one-house version was the opposite over-correction to
+the Vartonne and Erulius errors, and chokepoint finance is always plural: Galata, Antwerp, the Istanbul
+sarrafs, the Karimi. Never one house, never small, never seated.)* — a dozen native houses plus resident
+foreign factories, with **House Greystone** the oldest and most conservative and no longer the largest.
+**The customs lease is the biggest business in the city**: a consortium advances the crown its gate revenue
+each year and collects it back at the Golden Gates with a margin. It explains the climbing tolls, it is who
+bridges an annual treasury against a daily city, and **it is where the wealth stays**. Still no seat, for a
+better reason than portable capital: **plural and substitutable**, ruinable one at a time, impossible to
+combine, and bidding against each other for next year's lease.
+
+Greystone clears the Golden Path from Vessel Street and is rich, essential and seatless: the
 Coterie seats people who hold things that **cannot be moved**, and a clearing house's capital is portable by
 design. Inside the city the credit function was absorbed by the cartels, each lending against the thing it
 also sells — already on the page at both ends, in Grain's promissory notes (B2 ch13) and in the debt-bondage
@@ -1183,10 +1194,20 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ## 7. Open questions
 
-**One open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
+**Two open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
 recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
 Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
 changelog for each.
+
+**Does Elara ever farm out the customs?** B3 ch1 now establishes that the crown *can* borrow in principle —
+she holds the tolls, which are the best security in Elvandar — and that the lease-houses decline this year on
+her record rather than on her assets. **So the door is not locked; it has a price, and the price rises the
+longer she waits.** Farming the customs is what a broke state in this position historically does: sell years
+of gate revenue to survive this one. **It is the Coterie's own arithmetic offered to the woman who broke the
+Coterie**, which is why it is worth something dramatically. Three live options — never formally offered;
+offered and refused, at a cost; or taken, with Book 8 paying for it. **Author's call, and it belongs to Book
+3's outline rather than to a geography file.** Recorded so that nobody reaches for it as a convenience in the
+meantime.
 
 **Who holds Kalden's mortgages?** Book 7 has him borrowing *"against the northern mines, against the Amber
 Palace itself, against everything that is left"* to hire his mercenaries, and the book closes on *"a

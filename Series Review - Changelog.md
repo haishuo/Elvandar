@@ -7463,3 +7463,76 @@ rule against planting what has not been paid. Filling it silently is exactly how
 
 Files: `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`, `Places/Kaha'an/houses_of_kahaan.md`,
 `Series Review - Master List.md`.
+
+### The money trade resized: a bourse, the customs lease, and a new B3 ch1 beat — 2026-08-05
+
+**Author's challenge, and it lands: "so much wealth flowing through the city, none of it stays there?"** The
+previous entries left Kaha'an's finance as one cautious house on Vessel Street. **That was the opposite
+over-correction to the Vartonne and Erulius errors** — having twice claimed too much for other cities, this
+review then claimed far too little for the city the trade is actually in. The lesson from those misses was
+never *claim less*; it was *claim it where the trade is.*
+
+**Chokepoint finance is always plural, partly foreign, enormously rich, and politically subordinate.** Galata
+at Constantinople, where the Italians held the money while the Byzantines held the strait, and the Galata
+customs eventually out-earned the imperial side. Antwerp, the financial centre of Europe with no great native
+bank, because the **market** was there. The Istanbul sarrafs; the Karimi of Cairo. **None held a seat. None
+was ever small.** One house is a bank; a chokepoint has a **bourse**.
+
+**So Vessel Street is now a street of perhaps a dozen houses**, plus resident foreign factories. **House
+Greystone is demoted** from *the* house to the oldest and most conservative one, no longer the largest, and
+explicitly holding only a minority share of the lease. The others are deliberately unnamed until a chapter
+needs one.
+
+**And the institution that was missing entirely: the customs lease.** A city living on tolls generates one
+dominant financial industry, and it is not merchant clearing — it is advancing cash against the right to
+collect. Publicani, iltizam, fermiers généraux. **Each year a consortium of Vessel Street houses advances the
+government its gate revenue in a lump and spends the year collecting it back at the Golden Gates with a
+margin.**
+
+**It retro-explains three things the canon asserted without mechanism.** Why the tolls climb every year — a
+farmed revenue is bid up and then squeezed, compounding with the food deficit rather than competing with it.
+Who has been bridging a treasury that collects annually against a city that eats daily. And **where the
+wealth stays**, which was the author's actual question: in the lease, the largest and least portable asset in
+Kaha'an, held locally, alongside the Noble District.
+
+**The no-seat ruling is unchanged but now rests on a better reason.** Not portable capital, which was doing
+too much work. **Plural and substitutable**: any one house can be ruined by the government, none can be done
+without, and no four can combine because next year they bid against each other for the same lease. Clients of
+whoever holds the gate. That is why financiers survive next to violent men.
+
+**Rosik's stress test sharpened, because a large money trade makes it harder.** Vessel Street lends to Grain
+constantly — trade paper against cargo, for twenty years. **That is the problem, not the answer.** What he
+needs in Book 2 is fast unrecorded money at a scale that replaces a criminal fortune, and any loan that large
+requires opening the books, and the books are the fraud. Routine credit always; rescue capital never. Book 7
+forecloses it outright — a fugitive with a seized estate and no standing.
+
+**Elara's changes, and improves.** She is not assetless; she holds the tolls. **The door is not locked, it
+has a price**, and the reasons it does not open are hers rather than the treasury's.
+
+**New prose beat, B3 ch1 — beat 22, ~630 words.** Placed in the last movement, immediately before Silvanno
+raises the Brass Door, so the extraordinary option arrives only after the ordinary one has closed. **Tania
+asks why nobody has said the word. The table turns to Xion**, which is itself information about the six
+weeks, and he answers because he is the only person present who watched those houses from the other side —
+Rosik dealt with them twice a year for twenty years and Xion carried the folios. Three reasons in a lender's
+order: no record on this court, six weeks old against the Coterie's twenty years of balanced quarter-days;
+wrong size, a rebuild rather than a bridge; **and the seizure** — the largest private fortune in Kaha'an
+leaving a house in one night with the crown's blessing and no court ever asked whether it was lawful.
+
+**The beat's weight is in what is not said.** The third reason is the consequence of Xion's own shadow war.
+**He states the fact and never the connection**, nobody draws it for him, and the narration does not close
+the gap — the room simply declines to look at him, which is the only acknowledgement permitted under the
+standing rule that no character delivers that verdict to his face. Elara does not argue with any of it.
+
+**Recorded against a foreseeable mis-fix:** ch1's refusal and ch4's Gunastran consortium refusal are the same
+shape and **escalate** rather than repeat — domestic money declining on Balisha's own record, then a foreign
+state declining on contract and jurisdiction. Without ch1's beat, ch4 is the first time the reader learns the
+crown cannot borrow, which makes it exposition arriving late. **Do not merge them; do not cut either.** Noted
+in the ch1 beat draft footer as well as here.
+
+ch1 4,185 → 4,812 words, which is still the shortest of Book 3's opening chapters and does not touch the
+open length flag on ch10 (B3-1).
+
+Files: `Book 3 - Crown Jewel/Chapters/Chapter 1 - Scars.md`,
+`Book 3 - Crown Jewel/Beat Drafts/Chapter 1 - Scars.md`, `book3_chapter_skeleton.md`,
+`Book 3 - Crown Jewel/Royal Road/` (regenerated), `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`,
+`Places/Kaha'an/houses_of_kahaan.md`, `Series Review - Master List.md`.
