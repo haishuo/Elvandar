@@ -284,6 +284,22 @@ Thulgrav watched that exchange with the expression of a person who knows exactly
 
 The factor's answer, when it came, was polite and correct and final. Gunastran would be delighted to engage on appropriate contractual terms. Those terms, as presently described, were not available. Should Balisha produce a fuller proposal — one addressing transport, indemnity, rights in recovered principle, and guaranteed return — the consortium would review it with interest.
 
+Xion spent his last coin then, because he had one left and it would have been negligent to carry it home.
+
+"And if another nation opens it?"
+
+The factor did him the courtesy of thinking about it.
+
+"Counselor. You have told us this morning that you do not know what is behind that door. You have told us, by the questions you were not able to answer, roughly where your treasury stands. Neither of those is a criticism. They are simply the position." His hands stayed where they were on the table. "A body that takes this on is buying a risk it cannot price against a return nobody can describe. If another nation would like to buy that, we would not stand in their way, and we would not envy them."
+
+"And if they found something."
+
+"Then we would purchase it from them afterward," the factor said, "as we have purchased every other thing worth having. It is generally cheaper than being first."
+
+It was the most reasonable answer anyone gave him in Gunastran, and Xion could not fault a line of it, and did not try.
+
+Thulgrav's jaw moved very slightly. She said nothing. It was not her table.
+
 Xion thanked them, and meant it, and shook the engineer's hand at the door, and she held it half a second longer than the courtesy required.
 
 ---

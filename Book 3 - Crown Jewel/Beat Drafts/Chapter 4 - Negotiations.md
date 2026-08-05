@@ -80,6 +80,10 @@ A17. The exit, which is what the whole movement is built to reach. Twice before 
 
 11. The return journey gives him time. By the time the delegation reaches Balisha, Xion knows what he is going to propose.
 
+9a. **Xion spends his last coin, and the answer he gets is the best argument in the chapter.** *(Added 2026-08-05 on the author's ruling.)* With the refusal already delivered he tries the only lever he has left — *and if another nation opens it?* **The factor does not blink, because the question has an answer and the answer is correct.** Balisha has said this morning that it does not know what is behind the door, and has said, by the questions it could not answer, roughly where its treasury stands; neither is a criticism, both are simply the position. **A body that takes this on is buying a risk it cannot price against a return nobody can describe.** If another nation would like to buy that, Gunastran will not stand in its way and will not envy it — *and if they found something, we would purchase it from them afterward, as we have purchased every other thing worth having. It is generally cheaper than being first.*
+
+    **This is the whole Compact War sitting in one sentence, and nobody in the room hears it.** The consortium's model is that any discovery can be bought after the fact, which is true of every discovery ever made until Ch12 sells Uratha **exclusivity** — the one instrument that makes a finding unpurchasable. Gunastran does not fail to consider the rival. **They consider the rival, price the outcome correctly on the information they have, and are ruined by a clause that does not exist yet.** Thulgrav's jaw moves and she says nothing; it is not her table. Xion cannot fault a line of it and does not try. **No foreshadowing, no narrator's thumb, and no later character calling it a blunder.**
+
 12. The debrief. Elara asks for the report and gets it plainly: Gunastran's engineers are excellent, their interest was genuine, the consortium's terms are ones Balisha cannot meet. The option is closed until the financial picture changes, which it will not change until they solve the problem they were trying to hire Gunastran to solve. There is a beat of quiet around the table — the circular logic is not lost on anyone. The advisors are doing the arithmetic.
 
 13. Xion names Uratha. With the quiet confidence of a man who arrived at this answer during the return journey and has been waiting for the right moment to name it. He is careful about what he is and is not claiming: Uratha's scholars are not more generous than Gunastran's engineers. They are not some academy of pure altruism who would help out of love for knowledge. Their scholars' time is as valuable to them as Gunastran's engineers' time is to Gunastran. If Balisha walked into the Ivory Tower and asked for help opening a mysterious door in their basement, the Urathans would decline just as politely and finally as the consortium did. The reason Uratha is different is not who they are. It is what Kaha'an has that they want.
@@ -151,6 +155,25 @@ A17. The exit, which is what the whole movement is built to reach. Twice before 
 **On the ledger chain:** How Kael finds her is not incidental and should not be smoothed over in the prose. B1 ch5: Elara asks whether his father writes any of it down, and Xion answers *on paper* without thinking, because he has known since he was nine which of the three rooms was shown to magistrates. B2 ch13: he takes those books out of six sites in one night, and it is the most ruthless thing he has ever done. B3 ch4: the same books hand him back a person. The instrument of his revenge turns out to have had a woman's name in it the whole time, four lines long, filed as an expense that stopped. Nobody in the chapter remarks on this.
 
 **On the Gunastran failure:** The visit is not a mistake or a miscalculation — it is the right first move made in good faith. Gunastran was the obvious candidate, and Xion treats it as such rather than dismissing it in a council room without trying. The failure is structural, not personal: Balisha cannot afford what a contract-based partner requires. The value of the failure is the clarity it produces. He doesn't come back from Gunastran defeated; he comes back having confirmed the shape of the problem. This is a specific kind of intelligence: not the cleverness that avoids failure, but the competence that learns quickly from it and doesn't waste the lesson.
+
+**On beat 9a, and the standing instruction it carries — author's ruling, 2026-08-05.** The stress-test
+question was whether Gunastran's refusal reads as institutional myopia, and the ruling is that **it is not an
+error at all and must never be written as one.** *"You literally just got done saying you don't know what's
+behind that door, and that you're basically broke. If Uratha wants to take on a project that uncertain,
+they're welcome to it."* **That is a correct decision on the information available**, and the author's
+comparison is exact: Blockbuster declining to buy Netflix was, at the time and on the facts then in evidence,
+very likely the right call. It looks like folly only from a future that had not happened yet.
+
+**This is the same ruling the series already applies to Rosik in Book 7** — *do not write his failure as
+folly; the plan was sound and lost to things that had no intention in them to read.* The pattern is
+deliberate and it is one of this series' load-bearing positions: **competent people making correct decisions
+and being destroyed by information that did not exist when they decided.** Gunastran is the first instance
+and the cheapest to get wrong.
+
+**So: no character in any book calls this a blunder, and nobody in Gunastran is written as having missed
+something.** When the panic arrives, the honest version is that they were right and the world moved — which
+is worse for them and better for the book. The factor is not to be given a line of regret, and Thulgrav is
+not to be given an *I told them so.*
 
 **On Xion's political intelligence:** The Uratha proposal is the first full deployment of Xion's specific skill set in Book 3. The key thing to get right in the prose is that Uratha is not motivated by scholarly curiosity — they would have declined just as Gunastran did if the door were all Balisha had to offer. The insight is not "Uratha loves knowledge, so we'll give them a discovery." The insight is that Kaha'an has been holding a specific diplomatic asset — the performance of wanting the Scholar's Crown back — and has been treating it as a grievance rather than a resource. The moment Xion reframes it as leverage, the situation transforms. You cannot surrender what you do not possess; but you can trade the inconvenience of your asking for something you actually need. The framing of "everyone wins" — Uratha resolves a three-century thorn, Balisha gets help with the door, and neither side has risked anything they actually had — is what makes the argument unanswerable. He is not clever in the way of tricks, but in the way of clear sight. This is what Rosik trained. This is what Elara fought to keep.
 

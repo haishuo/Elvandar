@@ -7596,3 +7596,54 @@ Files: `Book 3 - Crown Jewel/Chapters/Chapter 6 - Fair Price.md`,
 `Book 3 - Crown Jewel/Beat Drafts/Chapter 6 - Fair Price.md`,
 `Book 3 - Crown Jewel/Beat Drafts/Chapter 12 - The Scholar's Crown.md`, `book3_chapter_skeleton.md`,
 `Book 3 - Crown Jewel/Royal Road/`, `Series Review - Master List.md`.
+
+### B3 ch4: Gunastran's refusal is correct, not myopic — author's ruling, 2026-08-05
+
+**This closes the last of the Brass Door stress-test findings, and it closes it against the reviewer's own
+suggestion.** The flagged risk was that nobody in Gunastran asks *what if Uratha does it instead*, and the
+proposed fix was a line showing the consortium optimising for contract risk while visibly missing strategic
+risk — i.e. an error the reader could see. **The author's version is better and is the ruling: it is not an
+error.**
+
+*"You literally just got done saying you don't actually know what's behind that door, and that you're
+basically broke. If Uratha wants to take on a project that uncertain, they're welcome to it."* **That is a
+correct decision on the information available**, and the comparison is exact: Blockbuster declining to buy
+Netflix was, on the facts then in evidence, very likely the right call. It reads as folly only from a future
+that had not happened yet.
+
+**The existing prose was already better than the flag suggested** and never framed it as a mistake — *"He was
+not hostile… Each question was reasonable. Each question was one Xion would have asked… The consortium had
+not failed him and had not insulted him."* What was missing was the affirmative version, said out loud.
+
+**Added, beat 9a: Xion spends his last coin after the refusal — *and if another nation opens it?*** The
+factor answers it cleanly, and the answer is the best argument in the chapter: neither of Balisha's two
+admissions is a criticism, both are simply the position; a body that takes this on is buying a risk it cannot
+price against a return nobody can describe; another nation is welcome to it and will not be envied. **And
+then the line that is the entire Compact War, unheard by everyone in the room:** *"Then we would purchase it
+from them afterward, as we have purchased every other thing worth having. It is generally cheaper than being
+first."*
+
+**That is Gunastran's actual model and it is correct until Ch12 invents the exception.** Every discovery in
+history can be bought after the fact — until Balisha sells Uratha **exclusivity**, the one instrument that
+makes a finding unpurchasable. **They do not fail to consider the rival. They consider the rival, price the
+outcome correctly, and are ruined by a clause that does not exist yet.**
+
+**Standing instruction recorded in the ch4 beat draft and the skeleton: this is never written as a blunder,
+by any character, in any book.** No line of regret for the factor, no *I told them so* for Thulgrav, nobody
+in Gunastran written as having missed something. When the panic arrives the honest version is that they were
+right and the world moved, which is worse for them and better for the book.
+
+**And it is the same ruling the series already applies to Rosik in Book 7** — *do not write his failure as
+folly; the plan was sound.* **The pattern is deliberate and load-bearing: competent people deciding correctly
+and being destroyed by information that did not exist when they decided.** Gunastran is the first instance
+and the cheapest to get wrong. Cross-referenced in both drafts so the two are read together.
+
+No flash-forward and no narrator's thumb: a drafted closing line — *he would remember it later with a
+precision that did him no good* — was cut before it reached the file, as a straight breach of the
+no-foreknowledge rule. The beat ends on *Xion could not fault a line of it, and did not try.*
+
+ch4 6,165 → 6,366 words.
+
+Files: `Book 3 - Crown Jewel/Chapters/Chapter 4 - Negotiations.md`,
+`Book 3 - Crown Jewel/Beat Drafts/Chapter 4 - Negotiations.md`, `book3_chapter_skeleton.md`,
+`Book 3 - Crown Jewel/Royal Road/`.
