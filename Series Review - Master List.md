@@ -127,6 +127,18 @@ These are the spine. Each is already working; each could be broken by an unwary 
 
 **Frozen silence → chosen silence.** B1 ch1: rooted to the paving stones while Tam is taken, because acting means saying his own name. → B1 ch8: Elara asks him at the gate why he didn't, and *"nothing came out of it. The same nothing, arriving in the same order."* → B1 ch19: Farleen argues him down a maze in five stages and he answers none of them. → B2 ch16: he refuses Rosik the argument, and the text distinguishes the two explicitly. **This is the arc, and it spans two books.** Book 1 not closing it is correct.
 
+**The Crown, and what Uratha does about it.** B3 ch9: the scholars stop asking *what does this say* and start
+asking *is this important*, and Elara becomes **"a phenomenon they orbit rather than a colleague"** — planted
+in a week when nobody is acting in bad faith. → B3 ch12: Uratha trades the Crown away believing it dead. →
+**B3 ch13: it ignites on her head**, the delegation's shock is masked in seconds, and the century-old excuse
+that the artifact was malfunctioning dies in front of the whole court. → **B4–B7: they do not try to get it
+back**, because it is still dead for them and always would be; they reinterpret it as **Valanar blood**,
+which turns a verdict into a research problem, and the research subject is Elara. Quiet the whole way —
+access requests, papers taking her as their subject, an institutional wish to have her where she can be
+observed, and nothing a Balishan character could point at. → **B8: the Globehall**, and the reader should
+arrive already knowing what this institution does to a mind it finds interesting. **The thread is the study,
+not the object.** Full ruling in `Places/Uratha/Uratha_ The Land of Scholars.md`, "What ch13 does to them."
+
 **The empty Grain chair.** B2 ch16–19: Rosik exiled, the cartel broken, Melina Kemvimore dead. → **B3 ch1,
 already written and doing the whole job**: *"The first was Grain. There was no one to send… the thing that
 had made those parts into a cartel had been a single man's attention, and that attention was somewhere east
@@ -1158,6 +1170,35 @@ the Greystone Factor-Principal finally gets a name — deliberately uncoined unt
 
 ---
 
+### What the Crown gives Elara, and what Uratha does about it — settled 2026-08-05
+
+**Two limbs of one ruling; full text in `Places/Uratha/Uratha_ The Land of Scholars.md` and
+`People/Elara's Connection to Lathion.md`. Raised because the Crown does not appear once in Books 4–7.**
+
+**Worthiness gates transmission; it does not deliver.** Opening the channel is one thing and drawing anything
+through it is a skill — scholarly practice, forming a question precisely enough to be answered — and Elara
+was raised by soldiers. **She gets impressions, not knowledge**, calibrated deliberately to her Lathion sense:
+occasional, involuntary, un-articulable, scaled to what she is in front of, never on command. **The Crown
+never solves a plot in any book.** If a scene would be materially harder without it, it is not in that scene.
+**The resulting state is the point:** Uratha has every question and no worthiness, Elara has worthiness and
+no questions, and the artifact's halves sit in two nations that cannot use it.
+
+**Uratha does not want it back, and that was the wrong frame.** They gave away a dead artifact and it is
+still dead for them; a Provost touching it tomorrow gets silence. **What ch13 destroys is the excuse** — the
+private century-long position that the thing must be malfunctioning. **So they reinterpret rather than heed,
+exactly as their own Paradigm Drift section says they always do:** the new doctrine is that the Crown answers
+**Valanar blood**, which is flattering, unfalsifiable, and converts a verdict into a mechanism. **A mechanism
+is a research problem, and the subject is Elara.** That is the Merchant drift performing itself in one move,
+and it is the same step that built the Globehall.
+
+**Books 4–7 carry it quiet** — access requests, questions slightly too specific, papers taking her as their
+subject, an institutional wish to have her observable — **and no Balishan character can read it as anything
+but scholarly enthusiasm, because for four books that is all it honestly is.** Balisha also never uses the
+Crown as leverage, because leverage requires knowing its worth to the other side and Uratha's secret holds.
+**Payoff is Book 8.** Recorded as a cross-book thread in §2.
+
+---
+
 ### The Scholar's Crown reads the engine, not the output — settled 2026-08-05
 
 **Authority is `Places/Uratha/Uratha_ The Land of Scholars.md`, *The Paradigm Drift*.** Governing one-line
@@ -1245,17 +1286,13 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ## 7. Open questions
 
-**Two open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
+**One open, raised 2026-08-05.** The three items opened on 2026-08-02 were all ruled on the same day and are
 recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
 Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
 changelog for each.
 
-**One raised 2026-08-05 by the Brass Door stress-test and left open deliberately.** *(Two others were settled the same day and are in §6: the Crown's worthiness test, and what Lathion is actually worth.)*
+*(All five Brass Door stress-test findings of 2026-08-05 are resolved: two produced prose — B3 ch6's exclusivity clause and ch4's Gunastran answer — and three produced canon rulings in §6: the Crown's worthiness test, what Lathion is actually worth, and what Uratha does after ch13.)*
 
-- **Uratha knows the Crown is live from ch13**, and has just traded away a working divine artifact believing
-  it dead. Book 8 collects this. **Books 4–7 have a Uratha with overwhelming motive and a Balisha holding the
-  object** — standing leverage over an ally, currently unused. Not a hole; an unexploited asset, and the risk
-  is that four books of silence reads as the author saving it.
 **Does Elara ever farm out the customs?** B3 ch1 now establishes that the crown *can* borrow in principle —
 she holds the tolls, which are the best security in Elvandar — and that the lease-houses decline this year on
 her record rather than on her assets. **So the door is not locked; it has a price, and the price rises the

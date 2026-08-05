@@ -7754,3 +7754,70 @@ discovered is live.
 Files: `Book 3 - Crown Jewel/Beat Drafts/Chapter 12 - The Scholar's Crown.md`,
 `Book 3 - Crown Jewel/Beat Drafts/Chapter 1 - Scars.md`, `book3_chapter_skeleton.md`,
 `Series Review - Master List.md`.
+
+### The Crown after ch13: what it gives Elara, and what Uratha does — settled 2026-08-05
+
+**The last open Brass Door finding, and checking it turned up a larger one. The Scholar's Crown does not
+appear once in Books 4–7.** It goes on Elara's head at the end of Book 3 and vanishes from the plan until the
+Globehall. Two things were dormant, not one.
+
+**Limb one — the motive was wrong, which is why four books of nothing felt wrong.** The reviewer had framed
+it as Uratha wanting the Crown back and having four books of unused motive. **They did not lose a working
+artifact. They lost a dead one, and it is still dead for them** — a Provost touching it tomorrow gets
+silence, because the Crown was never refusing its location. **Getting it back gains them nothing, so they
+never seriously try**, and the four-book gap is not a hole waiting for a recovery attempt.
+
+**What ch13 destroys is the excuse.** The private position for a century has been that the artifact must be
+malfunctioning — the Uratha file says so in terms. **A soldier who never wrote a paper lit it up in front of
+the assembled court**, which forecloses that permanently and leaves one conclusion standing.
+
+**And they do what that file already says they always do: reinterpret rather than heed.** The new doctrine is
+that the Crown answers **Valanar blood** — flattering, unfalsifiable on the available evidence, superficially
+plausible (Urath IV Valanar founded the academy and lent it), and it **converts a verdict into a mechanism.**
+**A mechanism is a research problem rather than an indictment, and that is the Merchant drift performing
+itself in a single move** — the same step that built the Globehall. A Truth Seeker asks *what is wrong with
+us*; a Merchant asks *what is the mechanism and can we acquire it.*
+
+**So the Books 4–7 thread is not the Crown. It is Elara** — and it was already seeded in good faith at B3
+ch9, where the scholars stop asking *what does this say* and start asking *is this important*, and she becomes
+*"a phenomenon they orbit rather than a colleague."* After ch13 that interest acquires a second engine, and
+the Lathion compact has already given Uratha a permanent treaty presence under her capital. **Written quiet:**
+access requests, questions slightly too specific, papers taking her as their subject, an institutional wish to
+have her observable. **No Balishan character can read it as anything but scholarly enthusiasm, and none is
+being stupid — for four books that is all it honestly is.** Payoff is Book 8, where the reader should reach
+the Globehall already knowing what this institution does to a mind it finds interesting.
+
+**Balisha never uses the Crown as leverage either**, which closes the other half of the gap: leverage requires
+knowing what a thing is worth to the other party, and Uratha's secret holds. To Balisha it is a returned
+national treasure and a legitimacy trophy until Book 8.
+
+**Limb two, which the review had missed and which was the more serious of the two.** Canon says the Crown
+grants *"the accumulated knowledge, skills, and abilities of all worthy individuals who have worn it
+before."* **If that fired on Elara she would be the most knowledgeable person alive for five books, and
+nothing in the plan uses a line of it.** An unused power-up of that size is a rule 1 problem.
+
+**Author's ruling: worthiness gates transmission; it does not perform delivery.** Opening the channel is one
+thing; **drawing anything through it is a skill — scholarly practice, forming a question precisely enough to
+be answered — and Elara was raised in an Arol Batae compound by soldiers.** She gets impressions, not
+knowledge, **calibrated deliberately to her Lathion sense** and governed by the same limitations section:
+occasional, involuntary, un-articulable, scaled to what she is standing in front of, never on command.
+**Standing rule: the Crown never solves a plot in any book. If a scene would be materially harder without it,
+it is not in that scene.**
+
+**And the resulting state is the thing the artifact exists to expose.** Uratha has every question and no
+worthiness. Elara has worthiness and no questions. **The Crown's two halves are split across two nations and
+neither can use it**, which is a judgment on both and cheaply fixable by neither.
+
+**One source each, everything else pointing at it**, per the standing rule: the mechanism in
+`Magic/The Divine Artifacts of Elvandar.md`, Elara's side in `People/Elara's Connection to Lathion.md`,
+Uratha's side in `Places/Uratha/Uratha_ The Land of Scholars.md`. **Books 4–7 outlines were deliberately not
+edited** — a thread this quiet does not want four restatements that can drift; it wants one account and a
+cross-book thread entry, which §2 now carries.
+
+**This closes the Brass Door stress-test.** Five findings: two produced prose (ch6's exclusivity clause,
+ch4's Gunastran answer), three produced canon rulings (the worthiness test, Lathion as collateral, and this).
+§7 is back to one open question, the customs farm, which is an author's decision rather than a defect.
+
+Files: `Places/Uratha/Uratha_ The Land of Scholars.md`, `People/Elara's Connection to Lathion.md`,
+`Magic/The Divine Artifacts of Elvandar.md`, `Book 3 - Crown Jewel/book3_chapter_skeleton.md`,
+`Series Review - Master List.md`.

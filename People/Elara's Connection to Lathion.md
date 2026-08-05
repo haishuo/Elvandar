@@ -92,6 +92,26 @@ Elara's connection may evolve throughout the story:
 - Possibly including emotional echoes or fragmentary memories from Lathion's final days
 - Never reaching full fluency or complete understanding, preserving the mystery
 
+## The Scholar's Crown runs on this same calibration — author's ruling, 2026-08-05
+
+**From Book 3 ch13 onward Elara wears a divine artifact that answered her, and everything below governs it
+too.** The Crown finds her worthy — it reads the engine rather than the output, see
+`Magic/The Divine Artifacts of Elvandar.md` — and worthiness is a gate on **transmission**, not a delivery.
+**What comes through it behaves exactly like Lathion does in her:** occasional, involuntary, un-articulable,
+scaled to what she is standing in front of, and never available on demand.
+
+**She is worthy and untrained, which is the whole point of the pairing.** The Crown offers and she does not
+know what to ask it. Receiving what it holds requires scholarly practice — the habit of forming a question
+precisely enough to be answered — and she was raised in an Arol Batae compound by soldiers. **Uratha has
+every question and no worthiness. Elara has worthiness and no questions. The artifact's two halves are split
+across two nations and neither can use it**, which is the state the Crown was built to expose and is a
+judgment on both.
+
+**Practical rule for Books 4–8: it never solves a plot.** No look-it-up, no sudden expertise, no
+recall-on-command. What it can do is what her Lathion sense already does — hand her an impression she cannot
+source or defend, more often about *importance* than about content. **If a scene would be materially harder
+without the Crown, the Crown does not appear in it.**
+
 ## Limitations to Maintain Balance
 
 To prevent this connection from becoming too convenient or powerful:

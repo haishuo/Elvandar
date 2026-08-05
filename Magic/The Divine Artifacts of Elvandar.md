@@ -11,6 +11,19 @@ A semi-intelligent divine artifact originally loaned to the Imperial Academy by 
 
 **Worthiness tests the drive, not the work.** *(Settled 2026-08-05. This entry previously read "worthiness is determined by whether the wearer contributes novel knowledge," which is **Uratha's doctrine about the Crown rather than the Crown's criterion**. Authoritative treatment is *The Paradigm Drift* in `Places/Uratha/Uratha_ The Land of Scholars.md`; the governing line is in `Magic/elvandar_magic_system.md` — no amount of scholarly achievement substitutes for "the authentic desire to serve others through knowledge.")* The Crown reads the engine underneath the scholarship, which is why it cannot be gamed by producing more of anything, and why **it answers to a soldier who never wrote a paper and refuses a Scholar-King with a library named after him.**
 
+**Worthiness gates transmission; it does not perform delivery.** *(Author's ruling, 2026-08-05, prompted by
+Elara wearing it from B3 ch13 — if the Crown simply handed over centuries of accumulated scholarship, she
+would be the most knowledgeable person alive for five books and nothing in the plan uses a line of it.)*
+**Being found worthy opens the channel. Drawing anything through it is a skill**, and the skill is scholarly
+practice: forming a question precisely enough that it can be answered. **A worthy bearer with no training
+gets impressions, not knowledge** — occasional, involuntary, unbidden, and impossible to source or defend.
+Elara's calibration is in `People/Elara's Connection to Lathion.md`, and it is deliberately identical to her
+Lathion sense, because it is the same woman and the same register. **The Crown never solves a plot.**
+
+**Which produces the state the artifact exists to expose: its two halves are split across two nations and
+neither can use it.** Uratha has every question and no worthiness. Elara has worthiness and no questions.
+Neither condition is an accident and neither is quickly fixable.
+
 Note that this is the same test as the other two artifacts, stated in the same shape. The Titan's Heart weighs *dedication to personal improvement*, not strength attained. The Spirit's Reflection asks whether you will face your own fear, not whether you are brave. **All three read the motive; none reads the result.** That is the pattern, and the novel-knowledge formulation was the one entry that broke it.
 
 ### Status
