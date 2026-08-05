@@ -7873,3 +7873,50 @@ mines and the Amber Palace after Book 7 kills him.
 Files: `Book 3 - Crown Jewel/Chapters/Chapter 1 - Scars.md`,
 `Book 3 - Crown Jewel/Beat Drafts/Chapter 1 - Scars.md`, `book3_chapter_skeleton.md`,
 `Book 3 - Crown Jewel/Royal Road/`, `Series Review - Master List.md`.
+
+### Who held Kalden's mortgages — settled 2026-08-05
+
+**The last open question in §7, and the ruling is mostly about scope.** Book 7 has Kalden borrowing *"against
+the northern mines, against the Amber Palace itself, against everything that is left"*, and closing on *"a
+territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes."*
+Somebody holds that paper and it outlives him by weeks.
+
+**Checked first, because the standing rule is that an entry earns its place only if something downstream
+rests on it: Erulius does not appear in Book 8 at all.** So this is **not** a plot object and does not become
+one. It gets one line of settled fact, so that a reader who thinks about it is answered and the question is
+not re-asked in a year, and it stops there.
+
+**The creditors are domestic and stay unnamed:** the twelve original noble houses and the Erulian banking
+houses of the Amber District — **the same twelve who counselled austerity after the Compact War and were
+overruled.** Nothing coined, no new party, no foreign power needed.
+
+**The fact worth having is free and it is devastating: nobody was surprised when he died, because nobody had
+lent on the assumption that he would live.** Look at what was actually on offer — a sanctioned rump state, a
+third of it seceded with the best farmland gone, mortgaging mines and a palace to fund a war of aggression
+against the strongest power on the continent. **Nobody advances against that at a price that assumes
+success.** They priced failure, and pricing failure is not lending; **it is buying the mines at a
+catastrophic discount and waiting.** He believed he was raising an army. They believed they were buying a
+country cheaply. **They were right, and the interval was about six weeks.**
+
+**Which answers *waiting for someone else to decide what it becomes* without any outside power acting: the
+state ends up owned by the men who told him not to do it.**
+
+**And it is the last and cruellest instance of the ruling made earlier the same day about Gunastran** —
+competent people pricing correctly and being proved right. There the thing priced was a door; here it is a
+man's final act of self-belief. His sheet already reads the last descent as *"pure Merchant shadow"* dressed
+by him as *"a wronged heir making a final righteous stand."* **In the ledgers of the people who financed it,
+he was a discount.** *Nobody says it on the page and no character in any book works it out.*
+
+**Considered and rejected, recorded so they are not re-proposed.** The **Erulian Union** buying the paper
+through intermediaries to inherit the rump — genuinely clever, and fatal, because Kalden would sooner have
+died than borrow from the secessionists and would have found out. And **Vessel Street**, which was the
+reviewer's own first guess when the question was raised: **House Greystone lends short against goods it can
+walk out and look at and refuses anything secured on a promise**, so an unenforceable twenty-year mine
+mortgage in a foreign rump state, funding an invasion of its own crown, breaks every rule that house has. The
+negative is recorded because it is the obvious guess.
+
+**§7 is now empty.** Every question opened by the 2026-08-05 banking and Brass Door work is closed: four
+produced prose (B3 ch1's borrowing beat and customs refusal, ch4's Gunastran answer, ch6's exclusivity
+clause) and five produced canon rulings.
+
+Files: `Book 7 - Last Debts/book7_outline.md`, `People/Kalden Erulius.md`, `Series Review - Master List.md`.

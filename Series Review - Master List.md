@@ -1148,6 +1148,36 @@ letter of the first objection touches them too. They stay. The name is vernacula
 called that *by association* with the warren beneath, by the people who live in both — which is exactly how
 cities name things and is honest work the Uratha use was not doing.
 
+### Who held Kalden's mortgages — settled 2026-08-05
+
+**Authority is `Book 7 - Last Debts/book7_outline.md`, "Who held the paper"; consequence on
+`People/Kalden Erulius.md`. One line of fact, deliberately not a thread — Erulius does not appear in Book 8
+and nothing downstream rests on it.**
+
+**The creditors are domestic and unnamed:** the twelve original noble houses and the Erulian banking houses
+of the Amber District — the same twelve who counselled austerity after the Compact War and were overruled.
+No new party, no foreign power, nothing coined.
+
+**The fact worth having: nobody was surprised when he died, because nobody lent on the assumption he would
+live.** A sanctioned rump state, a third of it seceded with the farmland, mortgaging mines and a palace to
+attack the strongest power on the continent — **no one advances against that at a price assuming success.**
+They priced failure, which is not lending; **it is buying the mines cheaply and waiting.** He thought he was
+raising an army. They thought they were buying a country at a discount. **They were right, and it took about
+six weeks.**
+
+**So the state ends up owned by the men who told him not to**, which answers *waiting for someone else to
+decide what it becomes* without any outside power acting. **And it is the last and cruellest instance of the
+Gunastran ruling** — competent people pricing correctly — because what is being priced correctly here is a
+man's final act of self-belief. In his own telling he is a wronged heir making a righteous stand; in the
+ledgers, **he is a discount.** *Nobody says it on the page and no character ever works it out.*
+
+**Rejected:** the Erulian Union buying the paper through intermediaries (Kalden would have found out and
+would sooner have died), and **Vessel Street** — Greystone lends short against goods it can inspect and
+refuses anything secured on a promise, so an unenforceable foreign mine mortgage funding an invasion of its
+own crown breaks every rule that house has.
+
+---
+
 ### Elara never sells the gate — settled 2026-08-05
 
 **Author's ruling, and settling it exposed a hole in B3 ch1's own borrowing beat, written the same day.**
@@ -1315,29 +1345,15 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ## 7. Open questions
 
-**One open, raised 2026-08-05.** *(The customs farm was settled the same day; see §6.)* The three items opened on 2026-08-02 were all ruled on the same day and are
+**None currently open.** The three items opened on 2026-08-02 were all ruled on the same day and are
 recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
 Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
 changelog for each.
 
-*(All five Brass Door stress-test findings of 2026-08-05 are resolved: two produced prose — B3 ch6's exclusivity clause and ch4's Gunastran answer — and three produced canon rulings in §6: the Crown's worthiness test, what Lathion is actually worth, and what Uratha does after ch13.)*
-
-**Who holds Kalden's mortgages?** Book 7 has him borrowing *"against the northern mines, against the Amber
-Palace itself, against everything that is left"* to hire his mercenaries, and the book closes on *"a
-territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes
-next."* **Somebody holds that paper, and it outlives him by weeks.** Nothing in canon says who, and it is the
-first point in the series where a money house would be **load-bearing rather than decorative** — the lender
-inherits a claim on a rump state at the exact moment Balisha is deciding what that state becomes. Deliberately
-**not filled in** during the 2026-08-05 banking work, per the standing rule against planting what has not been
-paid; the candidate is House Greystone, whose whole written character is that they refuse to lend against a
-promise, which makes them the wrong answer unless the mines counted as goods they could walk out and look at.
-**Author's call, and it belongs to Book 7's outline rather than to a geography file.**
-
-**One warning survives them, and it is not a question.** The months-never-years rule must not be
-over-applied now that Book 3 has a span. *"Years ago"* is still wrong everywhere inside Books 1–3, but by
-the back half of Book 3 a character can truthfully say *a year ago* about Book 1. The rule exists to
-prevent inflation; **the opposite error is now equally available.** Check the week table in
-`Story Timeline.md` before writing any interval, in either direction.
+**And the 2026-08-05 banking and Brass Door work closed everything it opened, the same day.** Prose: B3 ch1's
+borrowing beat and the customs refusal, ch4's Gunastran answer, ch6's exclusivity clause. Canon rulings in
+§6: the Crown's worthiness test, what the Crown gives Elara and what Uratha does after ch13, Lathion as
+collateral, Elara never selling the gate, and who held Kalden's mortgages.
 
 **Numbering warning, kept because it caused a real misreport.** This section was once numbered 1–4
 while the closed-items list used a separate Q1/Q2/Q3 scheme for different items, and three

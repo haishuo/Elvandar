@@ -250,6 +250,10 @@ He dies unceremoniously at the end of an Arol Batae spear.
 
 The Almost-Heir becomes the Never-Was. His claims to imperial legitimacy die with him on the ground outside Kaha'an's walls. The Erulian Principality — or what remained of it — is now simply a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes next.
 
+**And the someone else is the twelve houses that told him not to.** *(Settled 2026-08-05; full note in `Book 7 - Last Debts/book7_outline.md`, "Who held the paper." One line of fact, not a thread — Erulius does not appear in Book 8.)* The creditors were domestic and they were never lending on the assumption he would win. **Nobody advances against a sanctioned rump state mortgaging its mines to attack the strongest power on the continent unless the price assumes failure** — which is not lending, it is buying the mines cheaply and waiting. **He thought he was raising an army; they thought they were buying a country at a discount, and they were right, and it took about six weeks.**
+
+**This is the final and cruellest expression of the Merchant reading of him.** The sheet's account of the last descent is *"pure Merchant shadow… a wronged heir making a final righteous stand"* in his own telling. In the ledgers of the men who financed it, **he was a discount.** He never knows, nobody says it, and no character in any book works it out.
+
 ---
 
 ## The Ledger
