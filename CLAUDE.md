@@ -431,6 +431,11 @@ is on, which is what replaces the history git was providing.
 ./Tools/sync_art.sh pull       download — DRY RUN unless you add --yes
 ```
 
+**The script is identical in every writing project and differs only in its `PREFIX` line.**
+`Psion the Fraying` and `DnD Artificer Rework` carry the same file at their own roots. If you fix
+something in it, fix it in all three — a script that has drifted between copies is the same class of
+bug as a stale beat draft.
+
 **The reasoning, so it is not relitigated.** Git stores meaning in text: a three-word edit to a beat
 draft costs bytes and reads as three words. A PNG has no diffable interior, so git stores a whole new
 multi-megabyte object and gives nothing back — you pay git's storage model and receive none of its

@@ -8004,3 +8004,36 @@ pushed history, but GitHub retains unreachable objects until its own garbage col
 `refs/pull/1/head` still exists server-side from an old pull request. **The images are gone from the
 history but the storage is reclaimed on GitHub's schedule, not on ours**; forcing it requires asking
 GitHub support.
+
+### The B2 arrangement extended to the sibling projects — 2026-08-05
+
+**`Psion the Fraying` migrated; `DnD Artificer Rework` set up before it needs it.** Recorded here
+because the arrangement is now cross-project and this file is where the reasoning lives.
+
+**Psion: 24 MB → 964 KB, and a fresh clone from GitHub is 836 KB.** Nine images (six tracked, plus three
+untracked `rachel-moreno` iterations that were only ever on local disk) are in
+`haishuo-writing-images/psion-the-fraying/`, hash-verified at 9 matching files before anything was
+removed, with the 22 MB pre-purge bundle alongside Elvandar's. The restore path was tested end to end:
+clone from GitHub, `./sync_art.sh pull --yes`, nine images back, tree still clean.
+
+**Two things about Psion that Elvandar did not have.** It had **uncommitted authored work** in the way of
+the rewrite — `filter-repo` requires a clean tree and its post-rewrite checkout would have discarded it —
+so the three files were copied aside, restored afterward, and confirmed byte-identical by SHA-256. And it
+was **24 commits ahead of a remote holding only "Initial commit"**, so the force-push published the
+project for the first time.
+
+**`DnD Artificer Rework` has no images at all**, in tree or history, and was set up anyway: the ignore
+rules, the sync script, and a README section, so the first image to land is handled without anyone having
+to remember to think about it. **Arriving with the rule in place is much cheaper than two history
+rewrites**, which is what the other two cost.
+
+**One script, three copies, differing in one line.** The first version probed the B2 *prefix* to test
+reachability, which fails on a project whose first image has not landed — an empty prefix does not exist
+in object storage. It now checks the bucket and reports counts, and reports "no images in this project
+yet" instead of erroring. All three copies were brought to that version.
+
+**Also corrected: a claim I made and had wrong.** I reported a broken marcus-thiel embed in Psion's
+`images/README.md`. It is not broken — it sits inside backticks as an example of the pattern, and the grep
+that found it did not distinguish code spans from real embeds. Every real embed in that project resolves.
+**The nearest thing to a real defect is that all five will show as broken images on github.com**, which is
+the accepted consequence of the move and must not be "fixed" by re-committing the PNGs.
