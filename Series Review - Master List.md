@@ -716,6 +716,24 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 Decided. Retained so they are not reopened or re-flagged.
 
+### The camera does not leave Xion for a closing image — **AUTHOR'S RULING 2026-08-06**
+
+**Stated generally by the author, so it applies past the chapter that prompted it:** *unless it is Xion's
+speculation, no omniscient narrator telling the reader things Xion wouldn't know.* This is the §6 house
+rule — *the narrator knows only what the POV character knows* — and rule 0 restated as a preference about
+endings, and it was prompted by B3 ch10's final paragraph, now cut. **A chapter-closing pull-away is the
+specific temptation**, because the last line of a chapter feels like a place a camera is allowed to drift,
+and it is not one. The named exceptions in `CLAUDE.md` — establishing the whole book, ending the whole
+book — are the only arguments, and neither is available in the body of a book.
+
+**Be precise about which rule catches it, because the two fail differently.** B3 ch10's cut line —
+*"Below all of it, from somewhere under the last level anybody had seen, the pulse came up through the
+stone"* — contained **no fact Xion lacked.** He hears the pulse, and he knows how far the expedition has
+mapped, so the inference was his to make. What was wrong was **camera position**: *below all of it*
+stations the reader beneath the city, where Xion is not. So the test is not only *does he know this*, it is
+also *where is this sentence standing*. A version of that line observed from his shoulder would have been
+legal — and would still have been cut, for the separate reasons in the ch10 draft's beat 19 note.
+
 ### Images live in Backblaze B2, not in git — **AUTHOR'S RULING 2026-08-05**
 
 **Raster images are not tracked in this repository and are not to be re-added.** They live in the B2

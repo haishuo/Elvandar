@@ -1,6 +1,6 @@
 It took them four days to get down to it, and three of those days were spent being careful.
 
-Xion had expected them to run. They had a name for the place and four cross-references pointing at it, and he had watched men with less than that go through a wall. Instead Ormuth put two of his people onto the corridor inscriptions above the descent and would not be hurried, and when a junior man asked why they were reading the signage on a road they already knew went down, Ormuth said that he had been in exactly one place in his life he could not go back into, and that he had gone into it fast, and had been paying for the first ten minutes of it ever since.
+Xion had expected them to run. They had a name for the place and four cross-references pointing at it, and he had watched men with less than that dig on a rumour. Instead Ormuth put two of his people onto the corridor inscriptions above the descent and would not be hurried, and when a junior man asked why they were reading the signage on a road they already knew went down, Ormuth said that he had been in exactly one place in his life he could not go back into, and that he had gone into it fast, and had been paying for the first ten minutes of it ever since.
 
 Nobody asked again.
 
@@ -242,9 +242,9 @@ The thing standing in front of Xion was a water system.
 
 He kept arriving back at that and it kept refusing to become smaller. It was a water system that removed what was in the water, at the scale of a city, using heat that came out of the ground for nothing, drawn at a level of detail that assumed the reader would be building it.
 
-He had watched a child die of bad water in the third summer of his practice. He could still produce the room: a ground-floor back room off the tannery road with a curtain instead of a door, and a father who had done everything right and had done all of it a day and a half late because the first day and a half you tell yourself it is nothing. Xion had been twenty. He had known what it was within a minute of walking in and had known there was nothing in his bag for it, and he had stayed anyway, because staying was what he had.
+He had watched a child die of bad water in the sixth summer of his practice. He could still produce the room: a ground-floor back room off the tannery road with a curtain instead of a door, and a father who had done everything right and had done all of it a day and a half late because the first day and a half you tell yourself it is nothing. Xion had been twenty. He had known what it was within a minute of walking in and had known there was nothing in his bag for it, and he had stayed anyway, because staying was what he had.
 
-He had done that fourteen more times over the following eight years. He knew the number because he had written every one of them down, in cipher, in a book that had burned.
+He had done that fourteen more times over the following three years. He knew the number because he had written every one of them down, in cipher, in a book that had burned.
 
 And the whole of it — every one of those rooms, the curtain, the father, the specific smell of the tannery road in a hot week — the whole of it had had an answer. The answer had existed the entire time. It had been under his feet, on a shelf, indexed on the outside so a man could find it without opening it, in a room that somebody was **keeping** clean.
 
@@ -477,5 +477,3 @@ He looked at her for a while from further up the corridor and could not name it,
 She was standing the way a person stands in a house that has been left to them.
 
 They were not exploring any more.
-
-Below all of it, from somewhere under the last level anybody had seen, the pulse came up through the stone. Three seconds. Three seconds.

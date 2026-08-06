@@ -8037,3 +8037,75 @@ yet" instead of erroring. All three copies were brought to that version.
 that found it did not distinguish code spans from real embeds. Every real embed in that project resolves.
 **The nearest thing to a real defect is that all five will show as broken images on github.com**, which is
 the accepted consequence of the move and must not be "fixed" by re-committing the PNGs.
+
+### B3 ch10: *go through a wall* → *dig on a rumour* — 2026-08-06
+
+**One line, first paragraph of the chapter body.** *"He had watched men with less than that go through a
+wall"* became *"...dig on a rumour."* Raised by the author as simply confusing, and it was: the idiom has
+two English senses that pull opposite ways — *run through a wall for someone* (devotion) and *go through a
+wall* as in hit one (coming to grief) — and the second inverts the sentence, which needs men charging
+ahead so that Ormuth's three days of caution can contrast with it. Worse, four days into an excavation in
+Lathion, men going through a wall reads as masonry rather than metaphor.
+
+**The figure was also already taken, in a sense that is not this one.** *Through a wall* appears four times
+in Book 2 — ch6 (*"couldn't reach her through a wall"*), ch9 (*"late, and through a wall"*), ch11 (*"reached
+three months through a wall"*), plus the ch9 and ch11 beat drafts — and in every instance it means
+**separation**: someone straining to reach someone else across an obstacle. That is a deliberate recurring
+figure for Xion and Elara's year apart. B3 ch10 was using the same words for recklessness, which is the
+kind of collision that costs an established image more than it gains a sentence. The replacement carries no
+idiom at all and keeps the excavation register.
+
+**Royal Road regenerated for Book 3.** No beat-draft change: the plan never specified the figure.
+
+### B3 ch10: the tannery-road memory had two arithmetic breaks — 2026-08-06
+
+**Raised by the author on the second of them, and the first fell out of checking it.** The paragraph is the
+water-system recognition, the emotional centre of the chapter, and both errors were in its dates rather
+than in anything it does.
+
+**`the following eight years` → `three years`.** Eight years is not a stretch of Xion's practice, it *is*
+his practice: `Story Timeline.md:55` starts Master Fen in 1036 at fifteen, and he is 23 through Books 1–2,
+turning 24 inside Lathion during this exploration. So a count running eight years past his twentieth
+year runs off the end of his life. Three is the span that exists, and it terminates where the record does
+— age 20 to 23, ending when the clinic burned, which is the same book that burned the ciphered ledger the
+sentence says he kept the number in. Fifteen deaths over three years is roughly five a year.
+
+**`the third summer of his practice` → `the sixth summer`.** Two sentences earlier, and inconsistent with
+*"Xion had been twenty"* in the same breath: a practice begun at fifteen puts its third summer at
+seventeen. **The direction of the fix was forced by the first one** — keeping *third summer* would have
+meant making him seventeen, which pushes the window back to six years and undoes what had just been
+corrected. The age is the anchor; the ordinal moved.
+
+**Neither number was in the beat draft**, which does not specify them, so the plan is unchanged and only
+the prose was wrong. The skeleton's *"eight years of underground work"* (l.34) is correct as written and
+was not touched — that one is the whole practice, which is the very thing the chapter had borrowed the
+figure for. Royal Road regenerated for Book 3.
+
+### B3 ch10 now ends on the verdict; the closing pulse is cut — 2026-08-06
+
+**Author's call, raised as a question about which sentence was the better ending.** The chapter's last
+paragraph — *"Below all of it, from somewhere under the last level anybody had seen, the pulse came up
+through the stone. Three seconds. Three seconds."* — is gone, and the chapter now stops on *"They were not
+exploring any more."*
+
+**This was a change to the plan, not a correction of drift.** Beat 19 of the ch10 draft ended *"The pulse
+continues, patient, from below,"* and the prose was following it. Book 3 is planned first, so the draft is
+canon and the prose was not the thing that was wrong; the beat has been rewritten in the same commit, with
+the reasoning kept in place as a **do not close on the pulse** note.
+
+**Three reasons, and they generalize.** The line before is image-then-verdict — Elara standing the way a
+person stands in a house left to her, then the flat naming — and that adjacency is the punch; atmosphere
+after it lets the air out. It was the pulse's third appearance in the chapter and the thinnest, after beat
+12's flat refusal (*not a new number, and nothing to be done with it*), which makes it recurrence as volume
+rather than as movement. And it closed from a camera position below the city, one chapter into twenty-one,
+with no argument for the pull-away.
+
+**Nothing downstream needed the plant.** The motif stays live in the chapter at beats 1 and 18, both
+anchored to Xion, and Ch11's beat 1 builds its own downward pull — Elara walking the lower levels, going
+further than the rest, the scholars following her instead of leading — without a signpost planted in ch10.
+
+**The general preference is now recorded** in the master list's settled rulings, since the author stated it
+as a principle rather than a one-off: no omniscient narrator handing the reader what Xion would not know,
+and chapter endings are where that temptation lives. Recorded with it is the distinction that the cut line
+broke **camera position, not narrator knowledge** — every fact in it was Xion's to infer. Royal Road
+regenerated for Book 3.
