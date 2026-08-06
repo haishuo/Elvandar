@@ -7960,3 +7960,47 @@ is recorded as rejected so it is not rediscovered as a finding.
 
 **And B3 ch10's length is ruled fine at 7,454 words**, closing the item opened the same day. No cut taken;
 none of the three offered routes used. Both items are out of §3 and in §6.
+
+### The images left git for Backblaze B2, retroactively — author's ruling, 2026-08-05
+
+**All 25 PNGs are out of the working tree and out of history, and the repository is text again.** Full
+ruling and reasoning in master list §6; this is the record of what was done and what went wrong doing it.
+
+**Order of operations, which mattered.** The complete pre-purge history was bundled (`git bundle create
+--all`, 123 MB), verified with `git bundle verify` as recording a complete history, and uploaded to
+`haishuo-writing-images/_repo_backups/` — SHA-1 confirmed identical on both ends before anything was
+deleted. The 25 PNGs went up next, at repo-mirroring paths under `elvandar/`, and `rclone check` reported
+**25 matching files, 0 differences.** Only then was `git filter-repo` run. **Nothing was removed before
+its replacement was hash-verified**, which is the whole discipline here.
+
+**Result:** 305 commits preserved, 314 tracked files, all five SVGs intact, ch10 still 7,454 words.
+
+**The purge did not work on the first attempt, and the reason is worth recording.** `filter-repo` rewrote
+every commit correctly, but the repository stayed at 103 MB with 30 image blobs still reachable — because
+five `refs/codex/turn-diffs/checkpoints/**` refs, written by a concurrent Codex session, point directly at
+*tree* objects rather than commits. `filter-repo` skipped them (*"Unexpected object of type tree"*) and
+those unrewritten refs went on anchoring the original trees, and through them every original blob.
+**They are local-only — the remote has no `refs/codex/*` at all** — so the force-push produced a clean
+GitHub regardless, and the local `.git` will not shrink until those refs are dropped. Left in place
+deliberately: they are another tool's checkpoint state and not this project's history to delete.
+
+**`filter-repo` also removes the working-tree copies and drops the `origin` remote.** Both expected, both
+handled: the images were restored from B2 (the first real use of the new arrangement, which is a decent
+proof it works) and the remote re-added.
+
+**One error of mine, recorded because the correction was not free.** I overwrote the existing
+`.gitignore` without reading it first, discarding its `.DS_Store` rule — visible immediately, because
+twenty-two `.DS_Store` files appeared as untracked. Recovered with `git show HEAD:.gitignore` and merged
+rather than replaced. **The rule is to look at the target before overwriting it**, and a two-line file is
+exactly the size that invites skipping the check.
+
+**Added:** `Tools/sync_art.sh` (status / verify / push / pull; push and pull are **dry runs** unless given
+`--yes`), the `.gitignore` rules with the reasoning inline, and a `CLAUDE.md` §7 section covering the
+bucket, the commands, the SVG exception, and the one accepted casualty — the `Lathion - First Entry.png`
+embed, which renders in the Viewer and shows a broken image on github.com.
+
+**One thing the author should know about GitHub specifically.** A force-push removes the objects from the
+pushed history, but GitHub retains unreachable objects until its own garbage collection runs, and
+`refs/pull/1/head` still exists server-side from an old pull request. **The images are gone from the
+history but the storage is reclaimed on GitHub's schedule, not on ours**; forcing it requires asking
+GitHub support.

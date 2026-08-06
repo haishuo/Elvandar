@@ -395,6 +395,8 @@ Places/              geography and settings
 Magic/               metaphysics, incl. the authoritative The Rending.md
 Templates/           document patterns
 Tools/               royalroad_export.py — regenerates every Royal Road/ folder
+                     sync_art.sh — moves images between the repo and Backblaze B2
+Character Art/       UNTRACKED. Lives in B2; on disk here for the Viewer. See below.
 Offstage.md                  canon that never got a scene — see below
 Names.md                     the cast register — every named person, Books 1-8; check before coining
 Story Timeline.md            in-series chronology (authoritative on timing)
@@ -416,3 +418,36 @@ python3 Tools/royalroad_export.py "Book 2"   # one book
 
 It is idempotent — re-running over unchanged prose produces no diff, so it is safe to run at
 the end of any session. Never hand-edit a file under `Royal Road/`; the next run overwrites it.
+
+**Raster images are not in git. They live in Backblaze B2 — author's ruling, 2026-08-05.**
+The bucket is `haishuo-writing-images`, this project's prefix is `elvandar/`, and paths inside it
+mirror the repository, so a restore is a straight copy back into the repo root. B2 file versioning
+is on, which is what replaces the history git was providing.
+
+```
+./Tools/sync_art.sh status     what differs between local and B2 (default)
+./Tools/sync_art.sh verify     compare every file by hash
+./Tools/sync_art.sh push       upload  — DRY RUN unless you add --yes
+./Tools/sync_art.sh pull       download — DRY RUN unless you add --yes
+```
+
+**The reasoning, so it is not relitigated.** Git stores meaning in text: a three-word edit to a beat
+draft costs bytes and reads as three words. A PNG has no diffable interior, so git stores a whole new
+multi-megabyte object and gives nothing back — you pay git's storage model and receive none of its
+benefit. Before this change the images were **99% of the repository**: the entire textual history of
+all eight books packs to 1.2 MB, and the images were 122 MB. **Art needs durability, not history**,
+and that is a different problem with a different tool.
+
+**The working copy stays on disk and that is deliberate.** The Viewer resolves inline embeds against
+the document's own folder on the filesystem, so images render there exactly as before — `.gitignore`
+is invisible to it. A **fresh clone has no images**; run `sync_art.sh pull --yes` after cloning.
+
+**SVG is tracked and must stay tracked.** It is XML text, it diffs, all five in `Places/` total
+115 KB, and `elvandar_map_v1.svg` plus `render_elvandar_map.py` are the sources
+`elvandar_map_painted.png` is rendered from — which is why that 10 MB PNG is build output and had no
+business being in git under any reading.
+
+**One known casualty, accepted.** `Places/Kaha'an/Lathion_ Physical Layout and Geography.md` embeds
+`Lathion - First Entry.png`. It renders correctly in the Viewer and shows a broken image on
+github.com, because GitHub renders from the repository tree and cannot see your disk. **Do not
+"fix" this by re-adding the PNG.**

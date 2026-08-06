@@ -716,6 +716,36 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 Decided. Retained so they are not reopened or re-flagged.
 
+### Images live in Backblaze B2, not in git — **AUTHOR'S RULING 2026-08-05**
+
+**Raster images are not tracked in this repository and are not to be re-added.** They live in the B2
+bucket `haishuo-writing-images` under the `elvandar/` prefix, at paths mirroring the repo, with B2 file
+versioning on. `Tools/sync_art.sh` moves them; `CLAUDE.md` §7 carries the operating instructions. **All
+25 PNGs were also purged from history retroactively** with `git filter-repo`, and both branches were
+force-pushed.
+
+**The author's reasoning, which is the part to keep:** *"Git's purpose was originally for code; it's not
+a cold storage bin, that's literally what B2's purpose is. And art doesn't need versions the way text
+does."* Git stores meaning in text — a three-word edit to a draft costs bytes and reads as three words.
+A PNG has no diffable interior, so git stores a whole new multi-megabyte object and returns nothing.
+**The images were 99% of the repository**: the entire textual history of eight books packs to 1.2 MB and
+the images were 122 MB.
+
+**Two carve-outs I proposed were wrong and were withdrawn.** I argued `elvandar_map_painted.png` earned
+its place because the master list names it as the authority for the `Places/` audit — but being *cited*
+is not needing *history*, and the audit wants the current map, not its ancestors. It is also **generated
+output**, rendered by `render_elvandar_map.py` from `elvandar_map_v1.svg`, both of which remain tracked.
+I then argued for keeping `Lathion - First Entry.png` because a canon file embeds it — but the Viewer
+resolves embeds against the filesystem, so it renders fine locally, and only github.com shows a broken
+image. **Ruled acceptable. Do not re-add the PNG to fix it.**
+
+**SVG stays tracked and this is not an inconsistency.** It is XML text, it diffs, and the five in
+`Places/` total 115 KB.
+
+**A fresh clone has no images.** Run `./Tools/sync_art.sh pull --yes` after cloning. The Viewer is
+unaffected on this machine because it lists and resolves from the working tree, which `.gitignore` does
+not touch.
+
 ### B3 ch10's length stands at 7,454 words — **AUTHOR'S RULING 2026-08-05**
 
 **`The Repository` is the longest chapter in Book 3 and that is fine.** It was raised as a concern and the

@@ -1,2 +1,20 @@
 # macOS Finder metadata
 .DS_Store
+
+# Raster images are NOT tracked here. They live in Backblaze B2 — see CLAUDE.md §7.
+#
+# Git stores meaning in text: a three-word edit to a beat draft costs bytes and reads
+# as three words. A PNG has no diffable interior, so git stores a whole new multi-megabyte
+# object and returns nothing for it. Art needs durability, not history, and that is a
+# different problem with a different tool.
+#
+# Author's ruling, 2026-08-05. The images live in haishuo-writing-images/elvandar/ with
+# B2 file versioning on. Restore them with `Tools/sync_art.sh pull`.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+
+# SVG is deliberately NOT ignored. It is XML text, it diffs, all five in Places/ total
+# 115 KB, and two of them are the sources the PNG maps are rendered from.
