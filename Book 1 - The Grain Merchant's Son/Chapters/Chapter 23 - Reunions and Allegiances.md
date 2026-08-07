@@ -48,13 +48,13 @@ His voice caught. He stopped himself, jaw working.
 
 It was the first thing he'd said since coming through the door. Xion turned.
 
-"It burned." Kael's voice was flat and careful, which was how Xion understood what was coming. "Four nights ago. The weaver's shop and two buildings either side of it, before the water crews got there."
+"It's shut." Kael's voice was flat and careful, which was how Xion understood what was coming. "Four nights ago. Door off its hinges, shelves cleared, and a burn on the counter about the size of a stack of ledgers. It's been sitting empty since."
 
 The room tilted, very slightly.
 
 "Janice," Xion said.
 
-"Grain cartel men brought her out the front before it caught properly. That's what the neighbours say. Walking. Hands bound." Kael didn't look away from him. "We've asked everywhere since. The Accounting Office has no record. The debtors' halls have no record. Silvanno's mother made inquiries and was told there is no such person." A pause. "She isn't anywhere, Xion."
+"Grain cartel men brought her out the front. That's what the neighbours say. Walking. Hands bound." Kael didn't look away from him. "We've asked everywhere since. The Accounting Office has no record. The debtors' halls have no record. Silvanno's mother made inquiries and was told there is no such person." A pause. "She isn't anywhere, Xion."
 
 Xion looked down at his hands.
 

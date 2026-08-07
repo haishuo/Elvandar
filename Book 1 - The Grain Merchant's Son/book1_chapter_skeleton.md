@@ -553,9 +553,9 @@ Cut on rule 3. She stops using words and puts her arms around him instead.
 **Characters present: Xion, Elara, Farleen, Silvanno, Kael, Commander Vesk**
 **Emotional work: A rescue story becomes a succession story, and Xion is charged for the turn**
 
-Silvanno punches him and then holds on. Kael delivers the other news flat and careful: the clinic
-burned four nights ago, Grain cartel men walked Janice out the front with her hands bound, and she is
-nowhere. **And the sentence the chapter exists for** — he has not thought about her since the smoke.
+Silvanno punches him and then holds on. Kael delivers the other news flat and careful: the clinic was
+raided four nights ago and stands empty, Grain cartel men walked Janice out the front with her hands
+bound, and she is nowhere. **And the sentence the chapter exists for** — he has not thought about her since the smoke.
 
 Elara is revealed to his friends. Silvanno asks Farleen how she knew Xion had been attacked, and Xion
 lies to his oldest friend's face, on the spot, in words that are all technically true. Kael's eyes

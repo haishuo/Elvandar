@@ -15,9 +15,9 @@
 
 3. Silvanno keeps a hand on Xion's shoulder like an anchor and lays out the fourteen days from his side — vanishing from his mother's party with half the city guard in pursuit, after Farleen said Xion had been attacked, after appearing at the masquerade with no warning. His voice catches and he stops himself.
 
-4. Kael speaks for the first time since coming through the door, and Xion turns, because the voice is flat and careful and that is how he knows what is coming. The clinic burned. Four nights ago — the weaver's shop and two buildings either side before the water crews arrived.
+4. Kael speaks for the first time since coming through the door, and Xion turns, because the voice is flat and careful and that is how he knows what is coming. The clinic is shut. Four nights ago — the door off its hinges, the shelves cleared, and a burn on the counter about the size of a stack of ledgers. **The shop is standing and stays standing** (author's ruling 2026-08-01); what Kael is describing is a raid and its leavings, and the burn mark is the only thing in the room Xion can already account for. Kael reports evidence; he does not know what it means. Xion does, four beats later.
 
-5. The name arrives as a question that is not one. Grain cartel men brought her out the front before it caught properly; that is what the neighbours say. Walking. Hands bound. The chapter does not stop on whose men those are and Xion does not say it. And she is nowhere. The Accounting Office has no record, the debtors' halls have no record, and Silvanno's mother made inquiries and was told there is no such person. *She isn't anywhere, Xion.*
+5. The name arrives as a question that is not one. Grain cartel men brought her out the front; that is what the neighbours say. Walking. Hands bound. The chapter does not stop on whose men those are and Xion does not say it. And she is nowhere. The Accounting Office has no record, the debtors' halls have no record, and Silvanno's mother made inquiries and was told there is no such person. *She isn't anywhere, Xion.*
 
 6. The sentence the chapter is built to deliver. He looks at his hands, and the narration states it without excuse: he has not thought about her since the smoke. Four days — the Tiers, the Crossroads, the Iron Hall, the whole black length of Dead Man's Passage with a dying boy on his shoulder — and the woman who gave him his name never once entered his head.
 
@@ -71,7 +71,7 @@
 
 ---
 
-**On Janice, and the sentence the chapter exists to deliver.** The finding is not the fire and it is not the disappearance. It is that he had not thought about her since the smoke — four days, with a dying child on his shoulder, and the woman who gave him his name never once entered his head. That is the invoice for the take-over, presented flat, unexcused, and unnoticed by everyone in the room. Do not let a character absolve him and do not let him defend himself. He looks at his hands, says one accurate clinical thing about the patient records, and turns away. Even here his first sentence is about the work.
+**On Janice, and the sentence the chapter exists to deliver.** The finding is not the raid and it is not the disappearance. It is that he had not thought about her since the smoke — four days, with a dying child on his shoulder, and the woman who gave him his name never once entered his head. That is the invoice for the take-over, presented flat, unexcused, and unnoticed by everyone in the room. Do not let a character absolve him and do not let him defend himself. He looks at his hands, says one accurate clinical thing about the patient records, and turns away. Even here his first sentence is about the work.
 
 **On whose men took her.** Grain cartel men brought her out the front, walking, hands bound. Nobody in the chapter says the obvious thing and Xion least of all. The reader is left to assemble it, which is the correct amount of pressure — and it is the same faculty failing late that ch6 and ch16 established, working on schedule.
 
