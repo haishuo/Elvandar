@@ -1,5 +1,7 @@
 The Larannas estate blazed with light, every window glowing like a promise or a threat. Xion helped Elara down from the hired carriage, acutely aware of how her hand trembled slightly in his. Behind her mask—a delicate thing of blue silk and silver wire—her eyes were carefully, perfectly blue.
 
+His own was plain black and had cost nothing, bought eight years ago for the first of these he had not been able to get out of and worn to every one since. A man who is invited to a great many parties and enjoys none of them ends up owning exactly one mask.
+
 "Remember," he murmured as they joined the stream of guests flowing toward the entrance. "You're bored by all of this. It's charming but provincial compared to Uratha's social season."
 
 "Charming but provincial," she repeated, and he caught the slight edge in her voice. Not nerves. Anger, already building.
@@ -100,7 +102,17 @@ Before Elara could respond, a commotion near the main entrance drew their attent
 
 Rosik Kemvimore entered like a king claiming his throne.
 
-Xion's father had foregone a mask entirely, his authority too absolute to hide behind pretense. He moved through the ballroom with casual confidence, accepting greetings and deference as his natural due. Tania Larannas hurried to welcome him, her earlier composure replaced by genuine warmth.
+Xion's father was not wearing a mask. He was not dressed for a party either — the same dark coat he wore to the counting rooms, no colour in it anywhere, the coat of a man who had been at a table an hour ago and expected to be back at one before midnight.
+
+He had not come to the masquerade. He had come *into* it.
+
+He moved through the ballroom accepting greetings and deference as his natural due, and Tania Larannas hurried to welcome him, her earlier composure replaced by genuine warmth.
+
+Everyone else in the room saw the Lord of the Grain accepting greetings.
+
+Xion saw the greetings being got through.
+
+He had been watching his father work rooms for twenty-three years, and the difference between a man surveying a room and a man looking for something in it was not in the face — it was in where the attention went in the half second after each courtesy. Rosik let people come to him, which he always did. He answered them briefly, which he did not. And each time, before the man in front of him had finished being answered, his eyes went back to the doors.
 
 "That's him," Xion said unnecessarily. "My father."
 
@@ -112,7 +124,13 @@ Elara studied Rosik with the same intensity she'd brought to watching the founta
 
 "By controlling its resources. In his mind, those are different things."
 
-Rosik's gaze swept the ballroom, and for a horrible moment, Xion thought it might land on them. But his father's attention caught on someone else—another cartel leader requiring acknowledgment—and the moment passed.
+Rosik's gaze came down their side of the room.
+
+Xion kept talking and did not watch it come, and understood, with the flatness of a diagnosis arriving, exactly what he was looking at. His father had not come here for Tania Larannas. A Kemvimore invitation had been presented at a Larannas door, at night, by a son the house had not been able to account for in over a week, on the arm of a woman out of Uratha that nobody had ever heard of. That was not a young man at a party. That was an unauthorised member of the organisation conducting foreign business in the family name.
+
+The gaze passed within four feet of them and moved on, because another cartel leader required acknowledging.
+
+Xion stood behind a plain black mask a few paces from his own father and was not found.
 
 "We should circulate," Xion said. "Staying in one place too long invites questions."
 

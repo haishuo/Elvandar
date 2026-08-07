@@ -8269,3 +8269,64 @@ trades on.** Ch1 goes 2,783 → 3,342 words.
 **Recorded as the second override** of the immovable-Book-1-prose rule in `Story Timeline.md`; the first was
 Xion's age. Beat drafts for ch1 and ch2 and the Book 1 skeleton corrected to match the page, Royal Road
 regenerated for all 25 chapters.
+
+### B1 ch10 and ch13: Rosik came to work, and the net has a cause — 2026-08-07
+
+**Three linked changes, all author-originated, applied together because they are one causal chain.**
+
+**Ch10 — Rosik is not attending a masquerade, he has entered one to conduct business.** The prose had
+*"his authority too absolute to hide behind pretense,"* which is the narration decoding its own symbol.
+He now arrives in the coat he wears to the counting rooms, and the line is *"He had not come to the
+masquerade. He had come **into** it."* The symbolism survives without being explained, and the lack of a
+mask carries five things at once: he has no interest in the game, he has come as Lord of the Grain, the
+room accommodates him, he is looking for an absent subordinate who happens to be his son — and **Xion is
+hiding behind a literal mask from the man who imposed his public identity on him.**
+
+**That last image did not exist and had to be built.** Xion is never given a mask anywhere in the chapter;
+Elara has blue silk and silver wire, Silvanno straightens his, Harvik pulls his aside, and the POV
+character is bare-faced by omission. He now owns *"exactly one mask"* — plain black, bought eight years ago
+for the first of these he could not get out of.
+
+**The search is legible only through Xion's instrument.** Rosik is never angry and never looks it. What
+Xion sees is twenty-three years of watching this man work a room: *"Everyone else in the room saw the Lord
+of the Grain accepting greetings. Xion saw the greetings being got through."* The eyes going back to the
+doors in the half second after each courtesy. The gaze sweep is no longer a generic horrible moment but a
+search passing **within four feet** of its target, and ch10's existing closing line — *"somewhere across
+the ballroom, Xion saw his father's head turn"* — is untouched and re-armed: the hunt succeeds at the worst
+moment, by the worst route, and what the room hands him is not his son.
+
+**The beat draft's *"never learns his son is present"* could not survive** — Tania greeted Xion at the door
+and has no reason to conceal it. What the note was protecting was the **near-miss**, and that is intact.
+Amended to *never locates his son*, with the reason he does not simply ask Tania: **asking a rival cartel
+head where his own heir is would announce in public that House Kemvimore contains a man it cannot account
+for.** He would sooner spend the evening on the doors. Tania is untouched and stays her own agent,
+pricing an alliance, with no idea she is standing between a man and his son.
+
+**Ch13 — the net now has a cause, and it was already half-written.** Xion's window list had *"The Grain
+cartel searching for their missing heir"* as the first of three guesses. It is now the answer, reached by
+elimination in his own idiom, and it lands on the sharper version: *"They had not found Master Fen. They
+were looking for Xion Kemvimore — and Master Fen was simply where the looking had got to."*
+
+**Farleen's five-year stall, which was on the page and invisible.** Both halves already existed — the lie
+about the location at the door, the *"I characterized it as harmless"* admission two hundred lines later in
+the Warrens — separated by a raid, an escape and a descent, both delivered mid-panic by a woman the prose
+immediately tells the reader to discount. They now land together, at the door, with the escalation that
+makes them legible: **they asked her *again*.** A year ago it was one man in a corridor; tonight it was all
+four of them in the same room. **She does not say *Coterie*** — the word does not appear in Book 1 until
+ch18 — and does not need to, because twelve chapters have established these people as rivals and *all four
+at once* does more damage than the proper noun would.
+
+**The seam that surfaced, and how it closed.** Farleen is **Water's** asset, placed by Tania, while the raid
+is **Grain** — ch13 line 37 is *"Grain cartel colors. His father's livery."* Who *they* were was never
+stated, and survived only as one vague pronoun in a panic. Author's ruling: **the Coterie, acting as one for
+the reason it exists.** Rosik's sheet has it as a truce built because a three-way war would destroy
+everything, so it does not jointly commission surveillance on a back-alley healer — it acts together only
+against a threat to all four, and **ch10 manufactured exactly that** when the royal trait went off in front
+of Councilor Harvik. A living Valanar heir is the one thing the arrangement cannot survive, because the
+arrangement rests on there being no crown. So the interest is joint and the hands are separate: Water asks
+because Water holds her leash, Grain raids because it is Rosik's son. **None of it is explained on the page
+and none of it should be.**
+
+Farleen's sheet updated with the stall and with why the *harmless* admission stands in both places —
+confession under duress at the door, a claim to credit flung at Elara in the Warrens. Ch10 and ch13 beat
+drafts corrected, Royal Road regenerated.

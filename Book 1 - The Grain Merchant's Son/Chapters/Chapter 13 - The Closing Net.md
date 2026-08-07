@@ -14,7 +14,9 @@ But it wasn't nothing. Twenty minutes later, a different man took up position ne
 
 Elara joined him at the window, careful to keep back from the glass. "How many?"
 
-"Three that I can see. Probably more I can't." He moved away from the window, mind racing through possibilities. The Grain cartel searching for their missing heir. Water cartel forces acting on intelligence from Silvanno's mother. Even Slavers, though they rarely operated this openly in the Middle District.
+"Three that I can see. Probably more I can't." He moved away from the window and went through the possibilities, and they collapsed almost at once, which was the trouble with them. Water cartel men acting on Silvanno's mother would have come to the front with a writ and enjoyed doing it. Slavers did not watch a place; they arrived at one. What was outside was patient and well dressed and interested in the exits, and it had started the morning after a Kemvimore invitation was presented at a Larannas door.
+
+They had not found Master Fen. They were looking for Xion Kemvimore — and Master Fen was simply where the looking had got to.
 
 "How long do we have?" Elara's hand had moved to where a weapon would be if she carried one.
 
@@ -90,7 +92,13 @@ Elara's eyes flashed amber and she stepped forward, but Xion held up a hand. The
 
 "Why should we believe you?"
 
-A pause. When Farleen spoke again, the words came out in a rush. "Because they asked me directly where your clinic was. They wouldn't ask unless they already suspected. I lied, told them I didn't know the exact location, but they're not stupid. They'll figure it out, or they already have. I came as soon as I could get away."
+A pause. "Because they asked me where your clinic is. Again."
+
+A breath, and then it came out fast. "They asked a year ago too. That time it was one man in a corridor who didn't much care what I said, and I told him I knew it existed and didn't know where, and that was the end of it. Tonight it was all four of them. In the same room. Nobody in that room likes anybody else in it, Xion. They were all there, and they all wanted the same answer."
+
+"And you told them—"
+
+"The same thing. That I don't know where." Her voice went thin. "I've been telling them your work was harmless for five years. It's the only decent thing I ever did in that house. But nobody asks twice about harmless, and nobody asks *together* about harmless, and I've been theirs long enough to know what a question like that is for. They won't need me. They'll have it in a day, two at the outside. I came because I'd rather you were gone by then."
 
 Xion's hand tightened on his knife. The desperation in her voice sounded real. But then again, so had her confession of love before she'd driven a blade into his shoulder.
 
