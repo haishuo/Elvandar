@@ -435,6 +435,28 @@ Three people hold pieces of it and none of them will ever speak, which has two c
 
 **The two antagonists die days apart in Book 7 and fail in inverse ways.** Recorded 2026-07-31; the note lives at the head of Act III in `Book 7 - Last Debts/book7_outline.md` ("The two deaths are opposites") and both sheets point at it. The constraint in one line: **Kalden had every advantage and squandered it; Rosik's plan was sound and lost to two things that had no intention in them to read** — an artery, and an analyst who moved before the data was in. **Do not write Rosik's failure as folly**, because the series' position is that the difference between him and his son was never capability, and Book 2 spends four chapters establishing it.
 
+**The four unopened letters — planted B1 ch1, detonates B2 ch1–ch2.** Ch1's estate room contains nothing
+Xion chose except a false-bottomed box of money *"and the letters. There were four of them on the table by
+the window, in his sister's hand."* He opens none of them, and the text gives the reason rather than the
+mystery: answering means deciding what to say about a life he cannot describe. **That is the only trace of
+Melina in the whole of Book 1** — she is not named, does not appear, and is not referred to again, and all
+three of those are deliberate.
+
+**Why it stops there — author's ruling, 2026-08-07.** Putting Melina into Book 1 properly was considered and
+declined. **An introduced sister creates an obligation Book 1 cannot pay:** after ch10 the book goes
+underground and stays there — Warrens, Long Knives, Brass Door, the trial, the coronation — and she has no
+natural place in any of it, so a named character established in ch1 and absent for twenty-four chapters
+would be worse than no sister at all. **And B2 does not need the help**: its ch1 introduces her completely
+in about fifteen lines, and the prose says so — *"the whole map of them in four exchanges."* Her death is
+fifteen chapters after that, which is all the runway it needs. **Naming her in B1 ch1 would convert texture
+into a promise. Leave her unnamed.**
+
+**What it pays.** B2 ch1's *"You put far less in letters, for years"* stops being characterisation and
+becomes a callback, and B2 ch2 — titled `Letters`, opening *"The letter he sent ran four pages. The letter
+that came back ran four lines"* — becomes a **reversal**: the man who could not start one in Book 1 writes
+four pages in Book 2, once he has nothing left to conceal. **Do not pay this off inside Book 1.** The seed
+is Book 1's and the detonation is Book 2's, and the gap is the point.
+
 **The Mistress's standing invitation — opened B1 ch21, answered B3 ch2, and still not paid.** She ends
 the Book 1 scene with *"when you take the throne — and you will — if you ever figure out what you are,
 find me. We should talk."* B3 ch2 is Elara arriving without the answer, and the Mistress trades anyway:

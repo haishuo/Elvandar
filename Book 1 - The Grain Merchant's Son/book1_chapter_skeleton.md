@@ -46,7 +46,8 @@ Night: he changes out of Master Fen in a rented room that is a changing room and
 goes up the hill to the **Kemvimore estate**, in at the delivery gate by a procedure eight years old,
 and turns right at the head of the back stair because he always turns right and cannot say why. The
 chapter's thinking happens in his own room there — emptier than the rented one, nothing in it he
-chose. **The double life is established as logistics, not as biography**, and what he does not have is
+chose — except four unopened letters in his sister's hand, the one exception the room makes, and the
+only trace of Melina anywhere in Book 1. **The double life is established as logistics, not as biography**, and what he does not have is
 the day: he is expected at his father's table tomorrow and will not be there. *Rewritten 2026-08-07;
 the chapter previously ended in the rented room, which read as estrangement.* **Rosik does not appear
 and is not seen until ch10** — he is present only as the voice a mild question would arrive in.

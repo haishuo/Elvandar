@@ -206,6 +206,10 @@ He had gone right for eight years. It added perhaps forty steps. He did it the w
 
 His own room was at the end. It was clean, because somebody came and made it so on a schedule he had never been told. There was a bed he had not chosen and a chair he had not chosen and a shelf of books somebody had put there when he was eleven, three of which he had read, none of which had been added to since. Nothing in the room was his except a wooden box under the bed with a false bottom, and what was in the false bottom was money.
 
+That, and the letters. There were four of them on the table by the window, in his sister's hand, propped where he could not miss them by whoever had been dusting.
+
+He did not open any of them, and it was not reluctance. Answering meant sitting down and deciding what to say about a life he could not describe, and there had not yet been an evening when that was the easiest thing in front of him.
+
 He sat down on the edge of the bed without lighting the lamp and started at the beginning, because that was what he did with a problem.
 
 What he had: a name, said aloud in a square by a man reading off a paper. Seven stitches in a left palm that had been pulled open once already this evening, in front of him. Days, then. Not the week he had asked for.

@@ -8330,3 +8330,36 @@ and none of it should be.**
 Farleen's sheet updated with the stall and with why the *harmless* admission stands in both places —
 confession under duress at the door, a claim to credit flung at Elara in the Warrens. Ch10 and ch13 beat
 drafts corrected, Royal Road regenerated.
+
+### B1 ch1: four unopened letters, and Melina stays out of Book 1 — 2026-08-07
+
+**The question was whether to put Melina into Book 1 now that ch1 is inside the estate. Declined, and the
+reasoning is in the master list so it is not relitigated.** Short form: an introduced sister creates an
+obligation Book 1 cannot pay — after ch10 the book goes underground and never comes back up, and she has no
+place in the Warrens, the Brass Door, the trial or the coronation — and B2 ch1 introduces her completely in
+fifteen lines without help. A named character established in ch1 and gone for twenty-four chapters is worse
+than absence.
+
+**What went in instead is one exception in a paragraph about an empty room.** *"Nothing in the room was his
+except a wooden box under the bed with a false bottom… That, and the letters. There were four of them on
+the table by the window, in his sister's hand."* The paragraph corrects itself, which puts her in the same
+breath as the other thing in that room he cannot talk about.
+
+**The reason is stated, not withheld.** *"He did not open any of them, and it was not reluctance. Answering
+meant sitting down and deciding what to say about a life he could not describe."* Not estrangement and not
+mystery — **the double life eating the one relationship he has**, which is the chapter's new theme turning
+up somewhere the reader will not be braced for it.
+
+**She is not named, and that is the whole discipline of the beat.** *Melina* would be a promise; *his
+sister's hand* is texture. Book 1 contained no reference to a sister at all before this, which is exactly
+why the line works once and would start costing at two.
+
+**What it pays, in Book 2 and not before.** B2 ch1's *"You put far less in letters, for years"* becomes a
+callback rather than characterisation, and B2 ch2 — titled `Letters`, opening *"The letter he sent ran four
+pages. The letter that came back ran four lines"* — becomes a reversal: the man who could not start one in
+Book 1 writes four pages once he has nothing left to hide. **Recorded in the master list's cross-book
+threads with a standing note not to pay it off inside Book 1.**
+
+**One thing deliberately avoided.** The corridor turn four paragraphs earlier already ends on *"had never
+once been able to put into plain words why not."* A second unexplainable-avoidance beat on the same page
+would have turned a plant into a tic, so this one explains itself.
