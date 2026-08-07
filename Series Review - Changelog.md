@@ -8228,3 +8228,44 @@ late, the Scholar-King of Uratha is kept waiting past three days already spent, 
 and Elara explains it to nobody then or ever. One downstream nick fixed in the same pass: beat 5 had her
 choosing the reception room *"in the brief hour between rising and dressing,"* and beats 1–2 now occupy
 that hour.
+
+### B1 ch1 now ends at the Kemvimore estate — 2026-08-07
+
+**Author's diagnosis, and it was right: Book 1 never showed the double life, it only asserted it.** The
+material exists — ch11's *"Can't help people if my father learns what I'm doing and shuts me down,"* ch9
+and ch11 on the allowance, ch9's Kemvimore invitation — but **all of it lands after ch9, all of it spoken
+to Elara, and all of it explanation rather than pressure.** Meanwhile ch1 ended with Xion returning to
+*"his tiny rented room above a baker's shop,"* the only home in the book, so the reader's model was a man
+estranged from his house rather than concealing himself inside it. **His sheet has always said otherwise** —
+*"Grain cartel heir by day, underground healer by night"* — which made this a sheet-page disagreement in the
+one book where the page normally wins, and here the page was the thing that had dropped something.
+
+**What was missing was never identity. It was time.** Nobody ever noticed he was gone. He is at the clinic
+before light and leaves at late afternoon and no one anywhere accounts for him.
+
+**Applied.** Ch1's closing movement now runs: the rented room demoted to what it always was — *"where he
+stopped being one man and started being the other,"* taken for its outside stair and a baker who never asks —
+then the climb, then the estate by the north delivery gate on a procedure eight years old, then his own
+room, cleaner and emptier than the rented one, with *"nothing in the room that was his except a wooden box
+under the bed with a false bottom."* The elimination list gains a fourth item, **the day**, which is not
+his: the Terriks come tomorrow, one absence absorbs and two do not, and the reckoning arrives *"as a mild
+question over the plates, in the voice his father used for weather."* Ch2 gains a fifth note, to the
+steward's tray, the only one of the five that is a lie.
+
+**Three things were protected on purpose.** **Rosik is a pressure and never a presence** — he is a voice a
+question would arrive in, and ch10's *"entered like a king claiming his throne"* remains his first
+appearance. **Melina is handled by the hour, not by explanation:** he comes in late, the house is asleep, he
+passes no one, so her total absence from Book 1 stays invisible. And **the turn to the right at the head of
+the back stair is Mira, unnamed** — *"he had never once been able to put into plain words why not"* — which
+is the technique ch1 already uses on her (*"the woman whose name you took,"* *"two words. That was all it
+had taken"*). No name, no memory, no reason given, or ch22's reveal leaks.
+
+**Blast radius checked before applying.** The rented room recurs in ch3 and the baker's stall is a
+surveillance landmark in ch13, so it had to survive and does. The estate has never been entered on-screen
+anywhere in Books 1–3 — B2 keeps him outside deliberately, at the wall in the square with Melina and at
+ch6's *"could not make himself walk through it"* — so this contradicts nothing and **creates the loss B2
+trades on.** Ch1 goes 2,783 → 3,342 words.
+
+**Recorded as the second override** of the immovable-Book-1-prose rule in `Story Timeline.md`; the first was
+Xion's age. Beat drafts for ch1 and ch2 and the Book 1 skeleton corrected to match the page, Royal Road
+regenerated for all 25 chapters.

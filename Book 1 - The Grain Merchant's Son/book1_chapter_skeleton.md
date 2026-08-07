@@ -42,7 +42,16 @@ And in the crowd, a woman in a brown cloak whose eyes go blue to amber. He never
 He gets two steps after her, the boy cries out, and he turns back — which is the choice the
 ending then has to charge him for.
 
-He goes home and works the rescue the way he works a case: what he has, what he needs, and the
+Night: he changes out of Master Fen in a rented room that is a changing room and not a home, and
+goes up the hill to the **Kemvimore estate**, in at the delivery gate by a procedure eight years old,
+and turns right at the head of the back stair because he always turns right and cannot say why. The
+chapter's thinking happens in his own room there — emptier than the rented one, nothing in it he
+chose. **The double life is established as logistics, not as biography**, and what he does not have is
+the day: he is expected at his father's table tomorrow and will not be there. *Rewritten 2026-08-07;
+the chapter previously ended in the rented room, which read as estrangement.* **Rosik does not appear
+and is not seen until ch10** — he is present only as the voice a mild question would arrive in.
+
+He goes home — and home, the chapter finally shows, is up the hill — and works the rescue the way he works a case: what he has, what he needs, and the
 easy answers taken away until the true one is left, which is the one his own body already gave
 him in the square. It fails on *where they took the boy*, which he does not know and will not
 know until ch12. Then he notices, without interpreting it, that he stopped thinking about Tam

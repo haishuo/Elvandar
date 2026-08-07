@@ -15,6 +15,19 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 > author's ruling — nothing in the series is published yet — but it is still the most authoritative
 > record there is, and sheets yield to it unless the author says otherwise.
 
+> **Amendment 2 (Xion's double life is on the page now).** Second override, author's ruling
+> **2026-08-07**, and this one changes staging rather than a fact. Book 1 asserted the double life
+> only in dialogue from ch9 onward, and ch1 ended with Xion going back to *"his tiny rented room
+> above a baker's shop"* — the only home in the book — which read as **estrangement from House
+> Kemvimore rather than concealment inside it.** His sheet says the opposite and always has: *"Grain
+> cartel heir by day, underground healer by night,"* *"for eight years he maintained this double
+> life."* The page had dropped it. **Ch1 now ends at the Kemvimore estate**: the rented room is
+> demoted to the changing room it always was, he goes in at the delivery gate by an eight-year-old
+> procedure, and the chapter's thinking happens in his own room up the hill. Ch2 gains a fifth note,
+> to the steward, the only one of the five that is a lie. **The rented room survives and had to** —
+> ch3 works out of it and ch13 puts a watcher near the baker's stall. **Rosik is still not seen
+> until ch10.**
+
 **Two hard anchors** (world timeline): **1024 BR — The Rending**; **1044 BR — Book 1 begins** (exactly 20 years later).
 
 ---

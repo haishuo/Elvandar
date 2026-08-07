@@ -188,11 +188,31 @@ She held the row up to the lamp and studied the gap where the bad thread had bee
 
 ---
 
-By the time he reached his tiny rented room above a baker's shop, the city was quiet. He sat down on the cot without lighting the lamp and started at the beginning, because that was what he did with a problem.
+He went to the rented room first, the way he always did.
+
+It was above a baker's two streets from the shop, and it held a cot he had slept in perhaps forty nights in eight years, a chest, a basin, and nothing else worth the rent. The rent was not for the room. The room was where he stopped being one man and started being the other, and he had taken it for the stair, which was on the outside, and for the baker, who began work at the second hour and had never once asked him anything.
+
+The brown tunic went into the chest. Janice had made it, and the two before it, and he folded it the way she folded things, because she had shown him once without saying she was showing him. Then he washed to the elbow again, though his hands were already clean, and put on what was in the other half of the chest, and the man who came down the outside stair was dressed like the son of the master of the Grain.
+
+The city changed as he climbed. It always did, gradually and then all at once — fewer people, then wider ways, then the walls, and then the lamps, lit along their posts for the convenience of perhaps two hundred people who were all indoors.
+
+He went in at the north gate, which was for deliveries, and which he had been using since he was fifteen. There was a way to do it. You came up on the hour rather than the half, because the yard men crossed on the half. You carried no lamp. You went along the wall of the kitchen court where the noise covered you, and in at the service door, and up the back stair, and if you did it properly you passed one person, or none.
+
+Tonight, none.
+
+At the head of the back stair the corridor ran two ways, and he went right, which was longer.
+
+He had gone right for eight years. It added perhaps forty steps. He did it the way you step over a board you know is loose, without deciding to, and he did not look down the other way, and he had never once been able to put into plain words why not.
+
+His own room was at the end. It was clean, because somebody came and made it so on a schedule he had never been told. There was a bed he had not chosen and a chair he had not chosen and a shelf of books somebody had put there when he was eleven, three of which he had read, none of which had been added to since. Nothing in the room was his except a wooden box under the bed with a false bottom, and what was in the false bottom was money.
+
+He sat down on the edge of the bed without lighting the lamp and started at the beginning, because that was what he did with a problem.
 
 What he had: a name, said aloud in a square by a man reading off a paper. Seven stitches in a left palm that had been pulled open once already this evening, in front of him. Days, then. Not the week he had asked for.
 
 What he needed: where they had taken the boy, which he did not know. Somebody to ask, and he could think of four who might know and not one who would answer without wanting to know why Master Fen was asking. Money, which he had, and no way to spend it that did not end in somebody writing down where it came from.
+
+And the day, which was not his. The Terriks were coming to the house tomorrow, and he was expected at that table, and had been expected at that table since he was old enough to sit at one. He had been gone the whole of today already. A day could be absorbed. Two would not be — and it would not arrive as an accusation, it would arrive as a mild question over the plates, in the voice his father used for weather, and Xion had watched that voice take a warehouse off a man.
 
 He went at it the way he went at a chest that would not clear, taking away the easy answers until only the true one was left standing — and the true one had already been handed to him that evening, in a market square, by his own body, standing still.
 

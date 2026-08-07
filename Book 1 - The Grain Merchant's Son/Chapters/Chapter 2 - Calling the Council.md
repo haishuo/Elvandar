@@ -1,5 +1,7 @@
 He wrote the notes before the light came up. Four of them, identical, on parchment torn small, and four runners who did not know about one another. *Urgent. Meet today. Something has happened.*
 
+Then a fifth, which took longer than the other four together, and which went no further than the steward's tray at the foot of the stairs. It said he was unwell and would not be at the table, and it was the only one of the five that was a lie, and he read it over twice before he left it.
+
 In five years he had never called them together. They called him — came to the clinic, stood in the doorway until he put something down, walked him to the Amber Leaf whether he had the afternoon or not. He thought about that on the way and it did not slow him down.
 
 His hands were not steady. He had not slept, and every time he had shut his eyes it had been there again, and it had been the eyes and never the boy. Blue, then amber, then violet, in a light that was going.
