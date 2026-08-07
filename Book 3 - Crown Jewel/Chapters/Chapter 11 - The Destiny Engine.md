@@ -572,14 +572,4 @@ He did not open them. He knew what was in them without opening them, in outline,
 
 It was going to be a very hard morning.
 
-He put the satchel on the table and left it there and went back up the stairs, because the morning was not here yet, and there was still an hour of the night left, and the night belonged to her.
-
-She was awake when he came in. He had known she would be.
-
-He sat down on the end of the bed and they did not talk, and after a while he realised he was counting — that some part of him at the base of the skull had been counting the whole way up nine hours of tunnel and had never stopped, and was still going, patiently, three seconds and three seconds, under a merchant's house in the low city with four hundred metres of rock between him and any possible reason for it.
-
-He looked at Elara and saw her hand move very slightly on the blanket. Once. Then, three seconds later, again.
-
-Neither of them said the number.
-
-Outside the window the sky was starting to do the thing it does.
+He left the satchel where it was and went back up. She was awake when he came in, which he had known she would be, and neither of them said anything, and he sat down on the end of the bed and after a while understood that he was still counting — and then that her hand was moving on the blanket, once and once again, three seconds apart, and had probably been doing it the whole time he had been in the room.

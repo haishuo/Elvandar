@@ -8383,3 +8383,41 @@ ch11 is that same night, ch12 is Day 14, ch13 is Day 15. Corrected to *"it had b
 **The author had this right in the original proposal — "two days later, Grain has found the clinic" — and I
 wrote past it.** The two days are exactly what the Coterie needs to convene, ask Farleen a second time, and
 get the answer another way, so the interval is load-bearing rather than incidental.
+
+### B3 ch11's ending cut from six paragraphs to four — 2026-08-07
+
+**Author's call: it dragged. The cause was repetition, not length.** Two of the closing six paragraphs were
+lines the book had already spent. *"Neither of them said the number"* is ch10's, near-verbatim, one chapter
+earlier — *"neither of them said the number out loud."* And *"the sky was starting to do the thing it
+does"* is **this chapter's own**, from two hundred lines before, when they came up out of the Warrens: *"The
+sky was doing the thing it does about an hour before sunrise, which is nothing much, a thinning at one
+edge."* The first is specific and earns the shrug; the second is the same joke with the specifics removed.
+
+**A third paragraph was explaining a decision the scene had already made** — *"because the morning was not
+here yet, and there was still an hour of the night left, and the night belonged to her"* — three clauses of
+justification with a thematic statement on the end.
+
+**What stands, at about 55 words against 180:** he leaves the satchel and goes back up; she is awake and he
+knew she would be; he sits down and understands that **he is still counting**; her hand moves on the
+blanket, once, and three seconds later again.
+
+**The verb is left without an object on purpose.** *Still counting* names nothing — the pulse has been in
+the reader's ear since ch7 — and her hand then supplies the number, which is precisely what the cut line was
+narrating on the image's behalf.
+
+**Second pass, same day: the four short paragraphs were wrong and the author caught it.** They read as
+staccato against a book whose rhythm is long paragraphs, and the mechanism turned out to be sharper than
+paragraph length. **The book lands once.** Ch9 is a paragraph and then *"Now the thinking started."* Ch10 is
+a paragraph and then *"They were not exploring any more."* Weight, then one flat line. But *"It was going to
+be a very hard morning"* is **already** a landing, closing the satchel beat — so the four paragraphs after it
+made the chapter finish three times. Rewritten as **one paragraph**, which restores the house shape and ends
+on the image: *"…understood that he was still counting — and then that her hand was moving on the blanket,
+once and once again, three seconds apart, and had probably been doing it the whole time he had been in the
+room."* The added turn is Xion noticing late, which is the diagnostic eye failing on the one person it keeps
+failing on. **Deleting all four was considered** — it ends cleanly on *a very hard morning* — and declined,
+because it spends the last note of Elara's chapter on Xion's diplomacy and leaves the pulse without a close
+in the chapter that reveals what the pulse is. Chapter settles at 8,754 words. **The chapter still ends on Xion in the room**, so yesterday's ruling holds.
+The one real loss is *"four hundred metres of rock between him and any possible reason for it,"* the best
+clause in the passage; it was offered back in a shorter form and declined, on the grounds that the bare
+version is colder and the arithmetic is the reader's to do. Beat 19 rewritten to specify the four beats and
+to name both repetitions as things not to restore. Chapter is 8,720 words.
