@@ -14,7 +14,7 @@ But it wasn't nothing. Twenty minutes later, a different man took up position ne
 
 Elara joined him at the window, careful to keep back from the glass. "How many?"
 
-"Three that I can see. Probably more I can't." He moved away from the window and went through the possibilities, and they collapsed almost at once, which was the trouble with them. Water cartel men acting on Silvanno's mother would have come to the front with a writ and enjoyed doing it. Slavers did not watch a place; they arrived at one. What was outside was patient and well dressed and interested in the exits, and it had started the morning after a Kemvimore invitation was presented at a Larannas door.
+"Three that I can see. Probably more I can't." He moved away from the window and went through the possibilities, and they collapsed almost at once, which was the trouble with them. Water cartel men acting on Silvanno's mother would have come to the front with a writ and enjoyed doing it. Slavers did not watch a place; they arrived at one. What was outside was patient and well dressed and interested in the exits, and it had begun two days after a Kemvimore invitation was presented at a Larannas door.
 
 They had not found Master Fen. They were looking for Xion Kemvimore — and Master Fen was simply where the looking had got to.
 

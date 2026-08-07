@@ -126,7 +126,7 @@ Elara studied Rosik with the same intensity she'd brought to watching the founta
 
 Rosik's gaze came down their side of the room.
 
-Xion kept talking and did not watch it come, and understood, with the flatness of a diagnosis arriving, exactly what he was looking at. His father had not come here for Tania Larannas. A Kemvimore invitation had been presented at a Larannas door, at night, by a son the house had not been able to account for in over a week, on the arm of a woman out of Uratha that nobody had ever heard of. That was not a young man at a party. That was an unauthorised member of the organisation conducting foreign business in the family name.
+Xion kept talking and did not watch it come, and understood, with the flatness of a diagnosis arriving, exactly what he was looking at. His father had not come here for Tania Larannas. A Kemvimore invitation had been presented at a Larannas door, at night, by a son the house had not been able to account for in twelve days, on the arm of a woman out of Uratha that nobody had ever heard of. That was not a young man at a party. That was an unauthorised member of the organisation conducting foreign business in the family name.
 
 The gaze passed within four feet of them and moved on, because another cartel leader required acknowledging.
 

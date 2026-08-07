@@ -49,6 +49,29 @@ Companion to [Global Historical Timeline.md](Global%20Historical%20Timeline.md) 
 
 ---
 
+## Book 1's twenty-one days, and the gap that matters
+
+`book1_chapter_skeleton.md` carries a per-chapter day map and **it is authoritative**; the whole novel is
+**21 days**. The three fixed points the ch1/ch10/ch13 prose now depends on:
+
+| | Day | |
+|---|---|---|
+| **ch1** | **1** | Dawn to dusk. Tam in the morning, the square at evening, and Xion **sleeps at the Kemvimore estate** — the last night the house can account for him. |
+| **ch2** | **2** | Before dawn. Four notes to the group, and **a fifth to the steward's tray**: he is unwell and will not be at the table. **The absence starts here.** |
+| **ch10** | **13** | Evening into night. The masquerade. |
+| **ch13** | **15** | Morning through night. The watchers, and the raid. |
+
+**The gap is twelve days — pinned 2026-08-07, previously unstated anywhere.** Xion misses his father's table
+from Day 2 to Day 13, and it is on Day 13 that a Kemvimore invitation is presented at a Larannas door by the
+son nobody has been able to account for since. **B1 ch10 says twelve days and that number now has to hold.**
+Before this the prose had only Silvanno's *"Kael and I have been searching for days,"* which was the sole
+statement of duration in the book and would not carry the weight ch10 and ch13 now put on it.
+
+**And the raid is two days after the ball, not the next morning.** Ch10 is Day 13, ch11 is that same night,
+ch12 is Day 14, ch13 is Day 15. *(Corrected in ch13's prose on the day it was written, which had said "the
+morning after"; the author had it right first time at "two days later.")* The two days are the Coterie
+convening, asking Farleen a second time, and getting the answer some other way.
+
 ## Principal ages at Book 1 (1044 BR)
 
 | Character | Age | Born (approx.) | Notes |

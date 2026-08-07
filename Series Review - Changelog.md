@@ -8363,3 +8363,23 @@ threads with a standing note not to pay it off inside Book 1.**
 **One thing deliberately avoided.** The corridor turn four paragraphs earlier already ends on *"had never
 once been able to put into plain words why not."* A second unexplainable-avoidance beat on the same page
 would have turned a plant into a tic, so this one explains itself.
+
+### Book 1's gap pinned at twelve days — and a same-day error of mine corrected — 2026-08-07
+
+**The duration ch10 and ch13 now lean on was unstated anywhere in the series.** The only statement of
+elapsed time in Book 1 was Silvanno's *"Kael and I have been searching for days,"* which will not carry the
+weight the masquerade revision puts on it. Derived rather than invented: `book1_chapter_skeleton.md` already
+carries a per-chapter day map — the novel is **21 days** — and the fixed points are **ch1 Day 1** (he sleeps
+at the estate, the last night the house can account for him), **ch2 Day 2** (the fifth note to the steward
+begins the absence), **ch10 Day 13** (the masquerade), **ch13 Day 15** (the watchers and the raid).
+
+**So the gap is twelve days.** Ch10's *"a son the house had not been able to account for in over a week"* is
+now *"in twelve days,"* and a table in `Story Timeline.md` records the four fixed points so the number has
+somewhere to be checked against.
+
+**And the raid is two days after the ball, not the next morning.** Ch13's new opening said *"it had started
+the morning after a Kemvimore invitation was presented at a Larannas door,"* which is wrong — ch10 is Day 13,
+ch11 is that same night, ch12 is Day 14, ch13 is Day 15. Corrected to *"it had begun two days after."*
+**The author had this right in the original proposal — "two days later, Grain has found the clinic" — and I
+wrote past it.** The two days are exactly what the Coterie needs to convene, ask Farleen a second time, and
+get the answer another way, so the interval is load-bearing rather than incidental.
