@@ -442,8 +442,20 @@ find me. We should talk."* B3 ch2 is Elara arriving without the answer, and the 
 written anywhere.** That promise is now load-bearing in two directions. It is why the Long Knives permit a
 camp in the chamber they have guarded for generations, which is what ch6's expedition and ch9's exit both
 sit on top of. And it is a debt with a due date: **the moment Lathion is opened, Elara owes her a briefing
-ahead of her own court**, and nothing yet written shows her paying it. Do not quietly drop it, and do not
-let the ch6 wonder chapter carry the payment — that scene takes one emotion.
+ahead of her own court**. Do not let the ch6 wonder chapter carry the payment — that scene takes one
+emotion.
+
+**Where it is paid — settled 2026-08-06, and it nearly was dropped.** Ch11 triggers the promise twice in
+forty seconds: the Engine answers the B1 ch21 question of *what she is*, and the Door is open and she knows
+what is behind it. **Ch12's draft then had her at a table with Draskin at noon trading Lathion — the court
+hearing it, and a treaty written down — with the Mistress unmentioned in the entire chapter.** As planned,
+Elara would have broken her word on the page and no one in the book would have noticed. The fix is
+**ch12 beats 1–2: the Mistress is received at dawn, ahead of everything**, told the truth and not a version
+of it, and the payment is priced — it runs late, it keeps a head of state waiting, and Elara never explains
+why to anybody. **Ch11 sets it up from Xion's side** in the Warrens crossing: he registers the account as
+nine hours overdue, and understands that the Mistress will not send anyone, because waiting is the whole
+message. **What she is not told is the part about Elara herself**, and she notices the hole and does not
+reach into it — leave that where it is.
 
 **The Mistress is Xion's grandmother — true, canon, and not a thread. Author's ruling, 2026-08-02.**
 `Places/Kaha'an/The Long Knives_ Death Merchants of Kaha'an.md` records her as Rosik's mother, hidden from
@@ -650,6 +662,7 @@ happened,"* it predates this revision.
 - **Her sight is fine — author's ruling, 2026-07-29. VETOED and removed from the series.** The failing-sight thread was doing too little narrative work for what it cost. **Do not reintroduce it in any book.** What the first injury was is deliberately unspecified and must stay that way, and **Xion cured it**. See [§6](#6-settled-rulings).
 - **She is the purest instance in the series of help with no ledger under it.** He cured her and she owed him nothing; her first act toward him was to hand back the correction that made his whole life possible. Two people fixed each other inside a week and neither opened an account — which is exactly the thing Xion cannot understand, and exactly what she is still refusing to become eight years later.
 - **Confirmed: she is alive.** See [§6](#6-settled-rulings) for the return plan.
+- **The shop never burns, in any book.** Only the six journals do, on her own counter, in B1 ch13. The building is the clinic's front half; Book 2 lives in it for nine chapters and B3 ch11 has it standing, shuttered, and impounded. Ruled 2026-08-01, but the ruling was applied only to Book 3 and B1 ch23's prose still said *"It burned … before the water crews got there"* until **2026-08-06**. What she loses is **the shop as hers, not the shop as a structure** — taken for eleven days over records that no longer existed, and never allowed back. If the phrasing recurs, the tell is a water crew, a neighbouring building, or the word *fire* attached to anything but paper.
 
 ### Farleen — green eyes, honey-blonde hair (author's ruling, 2026-08-03)
 
@@ -719,12 +732,21 @@ Decided. Retained so they are not reopened or re-flagged.
 ### The camera does not leave Xion for a closing image — **AUTHOR'S RULING 2026-08-06**
 
 **Stated generally by the author, so it applies past the chapter that prompted it:** *unless it is Xion's
-speculation, no omniscient narrator telling the reader things Xion wouldn't know.* This is the §6 house
-rule — *the narrator knows only what the POV character knows* — and rule 0 restated as a preference about
-endings, and it was prompted by B3 ch10's final paragraph, now cut. **A chapter-closing pull-away is the
-specific temptation**, because the last line of a chapter feels like a place a camera is allowed to drift,
-and it is not one. The named exceptions in `CLAUDE.md` — establishing the whole book, ending the whole
-book — are the only arguments, and neither is available in the body of a book.
+speculation, no omniscient narrator telling the reader things Xion wouldn't know.* It was prompted by B3
+ch10's final paragraph, now cut. **A chapter-closing pull-away is the specific temptation**, because the
+last line of a chapter feels like a place a camera is allowed to drift, and it is not one.
+
+**The rule that catches this in Books 2–8 is §6, not rule 0.** *(Correcting a misattribution made when this
+entry was first written, 2026-08-06.)* Rule 0 — *the camera stays on Xion's shoulder* — is scoped **Book 1
+only** in its own first four words, because it is the theme of a book called *The Grain Merchant's Son*,
+and its named exceptions (establishing the whole book, ending the whole book) belong to it. Outside Book 1
+the binding constraint is the §6 house rule, *close third-person limited; the narrator knows only what the
+POV character knows*, plus whatever the chapter's own beat draft locks in its **POV:** line. **The
+distinction is not academic.** Rule 0 forbids the camera leaving Xion at all; §6 forbids the narrator
+knowing what its POV character does not — which permits a **deliberate, planned POV break to another
+character**, and Book 3 has two of them on the books already (ch14, Ondra Kelgrav; ch18, Kalden Erulius).
+An argument that reaches for rule 0 outside Book 1 will over-forbid, and will over-forbid in the direction
+of refusing moves the plan already contains.
 
 **Be precise about which rule catches it, because the two fail differently.** B3 ch10's cut line —
 *"Below all of it, from somewhere under the last level anybody had seen, the pulse came up through the

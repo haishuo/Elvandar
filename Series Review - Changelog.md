@@ -8067,8 +8067,12 @@ than in anything it does.
 his practice: `Story Timeline.md:55` starts Master Fen in 1036 at fifteen, and he is 23 through Books 1–2,
 turning 24 inside Lathion during this exploration. So a count running eight years past his twentieth
 year runs off the end of his life. Three is the span that exists, and it terminates where the record does
-— age 20 to 23, ending when the clinic burned, which is the same book that burned the ciphered ledger the
-sentence says he kept the number in. Fifteen deaths over three years is roughly five a year.
+— age 20 to 23, ending when the clinic ended, which is also when the ciphered ledger the sentence says he
+kept the number in stopped existing. Fifteen deaths over three years is roughly five a year. *(This
+paragraph first read "ending when the clinic burned," corrected 2026-08-06 the same day: **the clinic
+never burned** — the 2026-08-01 ruling is that only the six journals do, on Janice's own counter in B1
+ch13, and ch10's "a book that had burned" is one of those journals and is exactly right. The building is
+shut, raided and impounded, not destroyed.)*
 
 **`the third summer of his practice` → `the sixth summer`.** Two sentences earlier, and inconsistent with
 *"Xion had been twenty"* in the same breath: a practice begun at fifteen puts its third summer at
@@ -8109,3 +8113,118 @@ as a principle rather than a one-off: no omniscient narrator handing the reader 
 and chapter endings are where that temptation lives. Recorded with it is the distinction that the cut line
 broke **camera position, not narrator knowledge** — every fact in it was Xion's to infer. Royal Road
 regenerated for Book 3.
+
+### B3 ch11 `The Destiny Engine` drafted — 8,670 words — 2026-08-06
+
+**Written from the beat draft, which was restructured first on the author's ruling.** The draft asked for
+something its own **POV:** line forbids: beat 10 was roughly five hundred words of Elara's interior
+experience in a chapter narrated close-third from a man standing four metres away. Three options were put
+to the author — stay in Xion and deliver the content as her later account; break POV for the vision; or
+stay in Xion and let the telling *become* the experience. **He took the third.** The vision moved from beat
+10 to a new beat 18, its full content kept verbatim in a footer so that relocating it cost nothing, and
+the chamber now shows only what Xion can see.
+
+**What that bought, and it is the chapter's best forty seconds.** Xion watches her and has nothing, so he
+does the only thing his hands know: he takes her pulse. Ninety and even. Breathing regular. Not seizing,
+no slack in the face, pupils wide and tracking nothing. **Every reading comes back *well* and not one of
+them says where she is** — the diagnostic instrument he has built a life on, useless for the first time,
+on the one person he would most like it to work for. That beat does not exist if the reader is inside the
+vision instead of beside him.
+
+**Two rules caught things during the write.** The unnamed junior scholar had acquired a name (*Kelvan*) that
+is in no register — cut back to an unnamed man, per the walk-on default. And **beat 19 ended on a wide shot
+of the Engine behind its sealed door with the pulse continuing from below**, which is the identical
+pull-away cut from ch10 earlier the same day; the beat was rewritten before the prose was written rather
+than after. The chapter now ends in the room, on Xion, with both of them still unconsciously counting
+three seconds under a merchant's house in the low city, and neither of them saying the number.
+
+**The skeleton was stale and is now corrected.** Its ch11 entry said *"The Destiny Engine fires one last
+time"* and called the vision *involuntary* — the beat draft reverses both (the Engine is silent; she
+chooses to touch it, and Xion has time to stop her and decides not to). Both fixed, along with a note on
+where the vision is delivered.
+
+**Length is flagged, not defended.** At 8,670 words this is the longest chapter in the book, against
+ch10's 7,454, which the author ruled stands. It is the set-piece and the answer to the question ch8 raised
+and ch9 and ch10 refused, so the position argues for weight — but the number is the author's call and the
+tightening candidates are the ascent and the Warrens crossing, which are transit.
+
+---
+
+## 2026-08-06 — B1 ch23: the shop-fire ruling finally swept into Book 1
+
+**The 2026-08-01 ruling was applied to Book 3 and never to Book 1.** That entry — *the shop never
+burned, only the journals did* — corrected six phrases across the B3 ch4 draft and stopped there.
+Nobody grepped backward. So the single most explicit statement of the error in the entire repository
+sat untouched in Book 1's finished prose for five days: **Kael says the building burned down.**
+
+Author's catch, and it is the right catch: the shop **cannot** burn, because Book 2 lives in it for
+nine chapters through ch19, and B3 ch11's skeleton has it *standing, shuttered, and impounded.*
+
+### What was wrong
+
+`Book 1/Chapters/Chapter 23 - Reunions and Allegiances.md`:
+
+| was | now |
+|---|---|
+| *"**It burned.** … The weaver's shop and two buildings either side of it, before the water crews got there."* | *"**It's shut.** … Door off its hinges, shelves cleared, and a burn on the counter about the size of a stack of ledgers. It's been sitting empty since."* |
+| *"Grain cartel men brought her out the front **before it caught properly**."* | *"Grain cartel men brought her out the front."* |
+
+And the two derived documents in the same commit — the ch23 beat draft (beats 4 and 5, and the footer's
+*the finding is not the fire* → *the raid*) and `book1_chapter_skeleton.md`'s ch23 entry.
+
+**One more survivor, from the same missed sweep:** `Book 3/Beat Drafts/Chapter 1 - Scars.md` beat 18
+still read *"he asked it the week the shop burned"* — the exact phrase the 2026-08-01 table corrected in
+ch4 A1. Now *the week they took her.* The B3 ch1 prose was already clean.
+
+### What is unaffected, and was checked
+
+**B1 ch13 is correct as written and is the source of truth.** Janice squares the journals on her own
+counter and lifts the chimney off her own lamp; four streets on, *a thin column of smoke going up
+perfectly straight in the windless air*, and Elara says *"The records."* Nothing there is a building
+fire. **B1 ch18's** *"the last of what he'd taken off Janice's shelves before the smoke"* and **ch23's**
+*"he had not thought about her since the smoke"* both point at that column and both stand — *the smoke*
+is now unambiguously the journals, which is what it always meant.
+
+### The replacement is better than the error, in the ch23 shape specifically
+
+Kael reports **evidence and does not know what it means** — a door, bare shelves, a scorch the size of a
+stack of ledgers. Four beats later Xion supplies the meaning: *"She burned the patient records. Before
+they got in. So they couldn't use the names."* Under the old line Kael delivered a conclusion and Xion
+had nothing left to add. Now the one thing Xion says out loud is the one thing in the room only he can
+read, which is the chapter's own argument about him.
+
+### The pattern, again
+
+**A ruling that corrects one book is not a ruling that has been applied.** The 2026-08-01 entry closed
+itself out with *"the repo is now clean of it"* about the eight-years figure and said nothing about
+sweeping the fire backward. Grep the whole repository, not the book in hand.
+
+### The Mistress's briefing gets paid — B3 ch11 and ch12 — 2026-08-06
+
+**Caught by the author on a memory that turned out to be half right, and the correction made it worse.**
+The recollection was of a promise Elara made in B1 ch21. There is none — the Mistress issues a standing
+invitation (*"if you ever figure out what you are, find me"*) and Elara's only reply is *"About what?"*
+**The binding promise is B3 ch2 and it is in Elara's own mouth:** *"when it's open, whatever's behind it,
+you will hear what it is from me directly, before the court hears it, and before it is written anywhere."*
+It is what bought the camp in a chamber the Long Knives have held for generations.
+
+**Ch11 triggers it twice** — the Engine answers what she is, and the Door is open and she knows what is
+behind it — **and ch12's draft then broke it in its first ten minutes.** Noon at a table with Draskin,
+trading Lathion, is the court hearing it and a treaty is written anywhere; the Mistress appeared nowhere in
+the chapter. The master list had flagged this debt as unpaid and warned against dropping it, and it was
+about to be dropped by a chapter that never mentioned it.
+
+**Ch11, prose:** the Warrens crossing now names the account instead of gesturing at courtesy. Xion registers
+what the promise bought, that it came due nine hours ago, and that the Mistress will not send anyone —
+four of her people have just watched the expedition come out of the ground at speed, weeks early, in the
+dark, with the Empress in the column, and she will have all of it inside the hour. *She would wait,
+correctly, for what she had been promised, and the waiting would be the entire message.*
+
+**Ch12, draft:** two new beats at the front, all twenty-seven existing beats renumbered to 3–29. The
+Mistress is received at dawn — sent for, not visited, because an empress descending into the Warrens the
+morning after would be theatre — and told the truth and not a version of it, minus the part about herself,
+which she notices and declines to reach into. **The payment is priced rather than performed:** it runs
+late, the Scholar-King of Uratha is kept waiting past three days already spent, the delegation notices,
+and Elara explains it to nobody then or ever. One downstream nick fixed in the same pass: beat 5 had her
+choosing the reception room *"in the brief hour between rising and dressing,"* and beats 1–2 now occupy
+that hour.
