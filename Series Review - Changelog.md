@@ -8477,3 +8477,40 @@ the closing-line footer both specified the three-way ambiguity as something the 
 The ambiguity was real; the chapter could not hold it, because the only way the prose could signal it was
 to announce it. **Elara's post-Engine state is carried instead by her face not moving when Draskin says
 his version** — earlier, quieter, and it needs no corridor. Chapter closes at 5,938 words.
+
+### Interval audit across Books 1 and 2 — four more found, all inflating — 2026-08-08
+
+**Run at the author's instruction after the *two years* class fix, on the suspicion that the reflex was not
+only in this session's drafting. It was not.** Every stated interval in Books 1 and 2 was extracted and
+checked against `book1_chapter_skeleton.md`'s day map and `Story Timeline.md`'s week table.
+
+**Book 1 — two hard errors, impossible rather than merely loose.** Ch11's *"He had left it there for three
+weeks"* sits on Day 13 and refers to the market square on Day 1 — **twelve days**, and three weeks is the
+length of the entire novel. Ch18's *"what six weeks in a collapsed tunnel had made of his own work"* reads
+stitches Xion put in on Day 1, on Day 17 — **sixteen days**, and the exact number is better than the round
+one, because a physician looking at his own failed work knows precisely how long ago he did it.
+
+**Book 2 — two inflations, corrected on the author's ruling.** Ch20's *"finishing each other's hard
+sentences for the better part of a year"* stands at about six and a half months → *the better part of six
+months*. Ch3's *"it felt like a different century, though it was less than a year"* is about two months →
+*less than three months*, which is both accurate and sharper, since the line exists for the gap between felt
+time and real time and the real figure is the brutal half of it.
+
+**Also corrected: one of mine from three days earlier.** B1 ch10's *"watching his father work rooms for
+twenty-three years"* — Xion is 23, so it has him reading rooms as an infant, and B2 ch12 already fixes the
+figure at *"never once, in twenty years, seen him come undone."* Now twenty.
+
+**What came back clean, which is most of it.** Book 1's day-counts are otherwise right throughout — ch12's
+*maybe two weeks ago* for Tam, ch23's *known for weeks now*, ch25's *weeks ago*. All its *years* are
+backstory and all check: Mira's eight, the reform group's five, the Xion–Silvanno seven, the Rending's
+twenty, Uratha's four hundred. **Book 2 is the tighter book**, and it is tight precisely because it counts
+in months and stays consistent doing it — two months at ch5, ch6 and ch9; ten weeks at ch10; three months
+seven separate times in ch11; five months at ch19. That chain holds end to end, and ch20 was its only slip.
+
+**The finding that outlasts the individual fixes: all nine inflate.** Five *two years*, two Book 1
+week-counts, two Book 2 year-references — not one ever ran short. **The reflex is always to make the story
+older than it is**, never younger, which gives the check a direction to suspect and is now recorded on the
+master-list craft entry.
+
+*(Recorded a commit late: the prose fixes went up in `b1514a8` while the script writing this entry died on a
+failed assertion. Noted here rather than silently backfilled.)*
