@@ -8514,3 +8514,41 @@ master-list craft entry.
 
 *(Recorded a commit late: the prose fixes went up in `b1514a8` while the script writing this entry died on a
 failed assertion. Noted here rather than silently backfilled.)*
+
+### B3 ch13 `Awakening` drafted — 3,488 words — 2026-08-08
+
+**The shortest chapter in the book's second half, and deliberately.** It is a cold open, a ceremony, and a
+flicker. Ch10 ran 7,454 and ch11 8,754 because they were doing the work of a whole arc; this one does one
+thing and the new §5 rule was run on it before the file was handed over, which cut two closing paragraphs
+(*"Everything else in that hall today had been confirmation. / That had been something else."*) — the
+narration explaining a contrast the chapter had just dramatised. It ends on the folder having three things
+in it and still not having a name.
+
+**Rule 3 held: nothing from the cold open bleeds into the hall.** The Gunastran refusal is four minutes of
+administration at the fourth item of eleven, delivered treaty-clean — *"there is no clause I could reach
+for"* — and Xion, who wrote the clause, answers the envoy's one technical question and then drinks half a
+cup of something and does not think about it again. No misgiving, no glance, no callback anywhere in the
+ceremony. **The force of the beat is a man this careful being unable to feel it**, because nothing about
+what he has just done is visible from inside Kaha'an.
+
+**Two canon points the chapter had to carry without stating.** The Crown reads the engine, not the output,
+so it answers a woman who has never written a line of scholarship. And it is **worthiness as a gate on
+transmission, not a delivery** — so the prose gives her recognition rather than knowledge, and Xion's read
+is explicit that she has been handed something enormous and has no instrument to take hold of it with. **The
+Crown solves nothing and tells her nothing**, per the standing rule on her sheet.
+
+**Draskin is absent and Venn stayed**, which is a small judgment the draft left open — a Scholar-King does
+not wait four weeks in a foreign capital for a case to be carried down a mountain, and putting the High
+Provost at the front of the delegation ties ch12's unfinished thread straight into ch13's flicker. **The
+flicker stays light**, as the footer requires: two men going the colour of the cushion, one turning his head
+for help, and Venn putting a hand flat on a rail for the length of a breath. Xion gets a quarter of a second
+of it at forty feet through blue light and knows he has no business being confident about it.
+
+**Four stale cross-references corrected in the beat draft first.** The file told the drafter that *Chapter
+13* would retroactively explain its own cold open, twice, and told them to leave the Erulian proposal to
+ch14 in the same paragraph that said ch15 delivers it. Survivals from the renumbering; now ch14 and ch15
+respectively.
+
+**One interval error caught by the new check, in the chapter written immediately after the audit that found
+nine of them.** *"A woman in a brown cloak at the edge of a market crowd two winters ago"* — it is about
+thirteen months. Now *a year ago*. **Tenth instance, and it inflates like the other nine.**
