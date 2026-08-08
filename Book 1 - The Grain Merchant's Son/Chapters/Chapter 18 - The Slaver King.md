@@ -246,7 +246,7 @@ He got the boy down — a body this empty goes over the moment it stops being he
 
 "Let me see your hand."
 
-Tam gave it over without being asked twice, the way he had in a back room in the Middle District a lifetime ago. Xion turned it into the torchlight and found what six weeks in a collapsed tunnel had made of his own work.
+Tam gave it over without being asked twice, the way he had in a back room in the Middle District a lifetime ago. Xion turned it into the torchlight and found what sixteen days in a collapsed tunnel had made of his own work.
 
 The stitches were gone. Not cut — some pulled out, the rest simply given up on, the line of the wound opened along most of its length and closed again badly on its own terms. The edges stood thickened and shining, and the whole hand was fuller than its fellow.
 

@@ -44,7 +44,7 @@ And then he watched her arrive.
 
 "That's what four words cost."
 
-He should have left it there. He had left it there for three weeks.
+He should have left it there. He had left it there for twelve days.
 
 "I nearly said them."
 

@@ -112,7 +112,7 @@ Everyone else in the room saw the Lord of the Grain accepting greetings.
 
 Xion saw the greetings being got through.
 
-He had been watching his father work rooms for twenty-three years, and the difference between a man surveying a room and a man looking for something in it was not in the face — it was in where the attention went in the half second after each courtesy. Rosik let people come to him, which he always did. He answered them briefly, which he did not. And each time, before the man in front of him had finished being answered, his eyes went back to the doors.
+He had been watching his father work rooms for twenty years, and the difference between a man surveying a room and a man looking for something in it was not in the face — it was in where the attention went in the half second after each courtesy. Rosik let people come to him, which he always did. He answered them briefly, which he did not. And each time, before the man in front of him had finished being answered, his eyes went back to the doors.
 
 "That's him," Xion said unnecessarily. "My father."
 
