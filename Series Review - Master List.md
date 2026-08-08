@@ -113,6 +113,14 @@ When these conflict, the lower number wins. Everything else in this document is 
 - **Some scenes take one emotion, and hedging them is a loss.** B1 ch25 is triumph, full stop — the Jurassic Park reveal, not Malcolm at lunch. The contrast in adjacent chapters is what earns it.
 - **Do not invent a payoff for something the text already paid off better nearby.**
 - **State emotional content through action where the action already carries it.**
+- **Never write an interval without checking the week number.** `Story Timeline.md` already says this in
+  both directions; it is repeated here because it is the one craft rule that has been broken by drafting
+  more than any other. **The specific failure is *"two years"* used as generic shorthand for *long enough
+  to know someone well*** — five instances across B3 ch9–ch12, corrected 2026-08-08, one of which (*a
+  house that had not written to the Valanar administration in two years*) described a silence longer than
+  the administration had existed. **At B3 ch12 the whole saga is about twelve and a half months old.** The
+  interval a character can truthfully reach for in late Book 3 is **a year**, and by ch21 *the better part
+  of a year*. Anything longer is drafting reflex, not chronology.
 - **A beat draft's body is the page.** The numbered beats are what happens; instructions to the drafter go around them, never inside them. Full statement of the rule and its provenance in `Templates/Beat Draft Template.md`; the sweep that applied it across all 64 drafts is in the changelog under 2026-08-02.
 
 ---

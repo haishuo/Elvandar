@@ -448,7 +448,7 @@ They had made it kind.
 
 He sat with his head back against the wall and found that the awe had gone out of it somewhere in the last hour, and what had come in underneath was not comfortable, and was not going to leave, and was going to want paying.
 
-Elara came around the corner and sat down beside him without asking and without saying anything, close enough that her shoulder was against his, which she had done perhaps four times in two years.
+Elara came around the corner and sat down beside him without asking and without saying anything, close enough that her shoulder was against his, which she had done perhaps four times in a year.
 
 They sat.
 

@@ -70,7 +70,7 @@ It was a good report, and that was the difficulty with it, and the difficulty di
 
 He sealed the pouch and handed it to the courier and walked with him as far as the Gatehouse, and watched him step onto the ascending platform with the thing under his arm, and had one clear moment — no longer than a breath — of wanting to call him back.
 
-Not because the report was wrong. Because Xion had spent two years learning how information moves, and he knew exactly one thing about information of this size, which is that it does not travel by itself. It brings people with it.
+Not because the report was wrong. Because Xion had spent the better part of a year learning how information moves, and he knew exactly one thing about information of this size, which is that it does not travel by itself. It brings people with it.
 
 The platform carried the courier up into the passage and out of sight.
 

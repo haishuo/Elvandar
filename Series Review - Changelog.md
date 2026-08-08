@@ -8421,3 +8421,59 @@ The one real loss is *"four hundred metres of rock between him and any possible 
 clause in the passage; it was offered back in a shorter form and declined, on the grounds that the bare
 version is colder and the arithmetic is the reader's to do. Beat 19 rewritten to specify the four beats and
 to name both repetitions as things not to restore. Chapter is 8,720 words.
+
+
+### *"Two years"* — five instances, all wrong, B3 ch9–ch12 — 2026-08-08
+
+**Author's catch, on a phrase rather than a fact:** *what is up with you and "two years"?* It was a
+drafting reflex — *two years* reached for as generic shorthand for *long enough to know someone well* —
+and underneath the tic it was a chronology error in every instance, in the one book where the
+months-never-years rule finally has a true alternative.
+
+**The arithmetic.** Ch12 is Book 3 wk 19. Book 1 (~4 wks) + the gap (2–3) + Book 2 (~22) + the gap (~6) +
+19 ≈ **53 weeks**, so Xion has known Elara about **twelve and a half months**. Every *two years* was
+roughly double. `Story Timeline.md` already carries the rule that was broken — *check the week number
+before writing any interval, in either direction* — and it was not checked once.
+
+**One was not merely inflated but impossible.** B3 ch11's *"had not written to anybody in the Valanar
+administration in two years"* describes a silence longer than the administration has existed; the
+coronation is about eleven months back. Rewritten to *"since there had been one,"* which is both true and
+sharper — a house that has never once written to this court.
+
+**All five corrected in one pass**, per the handle-a-class rule: ch9 (*the better part of a year learning
+how information moves*), ch10 (*perhaps four times in a year*), ch11 (*a year learning to read this
+woman*), ch11 (the Valanar silence), and ch12, where the clause was cut rather than repaired — *"Xion also
+knew that she had just bought herself thirty seconds inside her own face"* needs no credential, because
+twelve chapters have established he reads her. **Two of the five predate this session's drafting** (ch9,
+ch10) and were corrected on the same continuity grounds. **Three instances of *two years* survive and are
+correct:** B3 ch1's *"the next two years"* is forward-looking about the crisis, and the two in ch10 and
+ch11 refer to Lathion's own spans, not to anyone's acquaintance.
+
+A craft-principles entry now names the failure in the master list, because the rule existing in the
+timeline doc plainly was not enough.
+
+
+### B3 ch12's ending cut, and a standing rule added to `CLAUDE.md` — 2026-08-08
+
+**Third over-written ending in two days, all three caught by the author, so it is now a rule rather than
+a note.** Added to `CLAUDE.md` §5: **before handing over any chapter, ask whether it can end sooner than
+it does** — find the earliest place it could stop, argue the remainder back in line by line, and cut
+whatever cannot be argued back before the author sees it. The entry names the four tells, because they
+have been the same four every time.
+
+**What was cut here:** the courtyard walk, the case being readied a thousand miles north, Elara's *they
+did wait until I was capable of this,* and the sentence after it. The chapter now ends on *"So we
+watch," Elara said. / "So we watch."*
+
+**Two reasons, and the second is the one that decides it.** Draskin already delivers that line in the
+room and better — *I think we had been waiting for somebody we could give it to* — where saying it costs
+him something; Elara repeating it in a corridor is recurrence as volume. And the sentence that followed
+it, *he had heard three things in it and was not certain she had meant fewer*, is **the narration
+decoding its own ambiguity**, which is the identical failure to ch10's *authority too absolute to hide
+behind pretense*, cut on the author's own instruction three days earlier.
+
+**The beat draft loses a designed beat, and that is recorded rather than quietly dropped.** Beat 29 and
+the closing-line footer both specified the three-way ambiguity as something the reader carries forward.
+The ambiguity was real; the chapter could not hold it, because the only way the prose could signal it was
+to announce it. **Elara's post-Engine state is carried instead by her face not moving when Draskin says
+his version** — earlier, quieter, and it needs no corridor. Chapter closes at 5,938 words.

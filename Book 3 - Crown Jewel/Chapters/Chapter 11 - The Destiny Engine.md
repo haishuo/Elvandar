@@ -174,7 +174,7 @@ Elara had walked to the edge of the base.
 
 Xion saw it out of the side of his attention and then all at once with the whole of it. She had come across the floor while Ormuth was talking and she had stopped at the foot of the raised platform with her hands loose at her sides, and she was standing the way she stood at the railing on the Crown, which was to say entirely still, with her weight forward.
 
-He had spent two years learning to read this woman and had got about a third of the way. He knew this one.
+He had spent a year learning to read this woman and had got about a third of the way. He knew this one.
 
 He crossed the floor.
 
@@ -566,7 +566,7 @@ There were too many of them. That was the first thing. There were more of them t
 
 The second thing was the seals. He read the outsides of nine and put them back and stood there with his hand flat on the satchel.
 
-Two of those houses did not write to him. One of them had not written to anybody in the Valanar administration in two years, on principle, at some expense to itself. There was a seal in there from a man who had sat across the long table in the south gallery and told him, courteously, in front of everyone, that he considered the throne a temporary arrangement.
+Two of those houses did not write to him. One of them had not written to anybody in the Valanar administration since there had been one, on principle, at some expense to itself. There was a seal in there from a man who had sat across the long table in the south gallery and told him, courteously, in front of everyone, that he considered the throne a temporary arrangement.
 
 He did not open them. He knew what was in them without opening them, in outline, and outline was enough to be going on with: the dispatch had reached Uratha, and Uratha had done something with it, and whatever had been done had come back down the mountain and arrived here, and the world he had walked out of eleven days ago was not the world standing in this hallway.
 

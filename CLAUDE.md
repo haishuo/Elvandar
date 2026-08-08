@@ -239,6 +239,18 @@ corrections and typo-level fixes don't need this.
 **Work sequentially.** Each chapter should be correct before moving to the next. Writing
 chapters independently and reconciling later has been tried and does not work.
 
+**Before handing over any chapter, ask: can this end sooner than it does?** Then find the earliest
+place it could stop and argue the remainder back in, line by line. Anything that cannot be argued
+back is cut before the author ever sees it. **This is not a preference, it is a measured defect** —
+B3 ch11's ending was cut twice in one day (six paragraphs to four, then to one) and B3 ch12's was cut
+again the next morning, all three times by the author, all three times because the drafting kept
+writing past the landing. **The tells are consistent and worth checking for by name:** a line the book
+has already spent, repeated quieter; a second landing after the chapter has already landed; the
+narration explaining an image or an ambiguity the prose just achieved; and a closing beat that
+restates in a corridor what a character already said in the room, where it cost something. **The book
+lands once** — a paragraph of weight, then one flat line. Ch9's *Now the thinking started* and ch10's
+*They were not exploring any more* are the pattern.
+
 **Handle a class of problem in one pass, not piecemeal.** If a habit appears in nine places,
 fix all nine together so the books get one consistent through-line.
 
