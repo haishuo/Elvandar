@@ -117,30 +117,16 @@ the victims and has never applied it to the perpetrators**, who exist across all
 Slaver lieutenant, and the reader is given time to loathe him while Ronas is still alive and nothing can be
 done about him.
 
-**What he is in Act I is a man operating at exactly the permitted maximum.** Ronas's rule is on his own sheet
-— *the product is not to be damaged beyond what extraction requires* — and Ronas punishes lieutenants who
-break it more harshly than he punishes almost anything else. Sarn has never broken it. He has spent twenty
-years working out precisely where it sits and living against it, every day, and that calibration is the only
-expertise he has ever acquired. **He obeys out of fear and nothing else.** He has seen what the Iron Hall does
-to lieutenants who go too far, and the memory of it is the whole of his restraint.
+**What Act I needs from him is the accumulation**, which is why he is placed here rather than introduced in
+Act IV as the thing Tiberian kills: he is at Ronas's permitted maximum and never past it, being pettily and
+repeatedly vile in a way nobody present can do anything about. **The reader's relationship to him in these
+scenes is the Warrens' own** — hating him and having no recourse, because the only thing standing between
+him and worse is a man nobody can appeal to either.
 
-**And Book 2 already supplies what he saw — settled 2026-08-14.** Sarn was in the organisation when Rosik
-first ordered the leash off, which the twenty years above already commits to. **He was not one of the ones
-who ran wild**, and that is the point rather than a technicality: his only governor is fear of the man who
-punishes him, and in Book 2 **Ronas was still standing** — and proved it by executing the lieutenant who
-murdered Melina Kemvimore, immediately, to re-establish control. A man built the way Sarn is built watched
-that and drew exactly one lesson from it. **The one who stayed in line is the one who spent twenty years
-storing it up**, and that is worse than having been among the wild ones.
-
-**This is a constraint on how to write his restraint, not a beat.** The reader never needs it dated, no
-character refers to it, and it is emphatically not a recognition for the reader to have — **Book 2's prose
-never individuates a single one of Ronas's lieutenants**, so there is nobody there to recognise. It is here
-so a drafter knows the fear is specific and has a source.
-
-**Write him small.** Not atrocity — pettiness, repeatedly. A man who commits one enormous evil is a plot
-device; a man who commits forty small ones is a person, and it is the accumulation that makes him real. **The
-reader's relationship to him in Act I is the Warrens' own**: hating him, and having no recourse, because the
-only thing standing between him and worse is a man nobody can appeal to either.
+**Who he is, why the restraint is fear rather than principle, what he saw in Book 2, and the rule about
+writing him small are all on his sheet — `People/Bittek Sarn.md`, which is authoritative on him.** Read it
+before writing a line of him. This outline carries where he appears and what happens; it deliberately does
+not carry his characterization twice.
 
 **What the reader should feel:** Urgency that the characters don't fully share. The reader can see the cost of delay because the reader has been underground. The characters are looking at reports.
 
@@ -167,11 +153,8 @@ reader should feel relief watching it, and should notice afterward what the reli
 functioning check on this man is one aging criminal's capacity for violence, and everyone in the tunnel knows
 it, including Sarn, who counted.
 
-**He does not learn anything from it.** He is not deterred in the sense of revising a belief; he is deterred
-in the sense of a dog and a stick. **That distinction is the whole engine of Act IV** — a man whose only
-governor was ever external has no internal one to fall back on, and has spent twenty years storing what the
-external one refused him. When it goes, he does not escalate gradually. He is simply, immediately, everything
-he was already prepared to be.
+**He does not learn anything from it** — he is deterred the way a dog is deterred, not the way a man revises a
+belief, and **that distinction is the engine of Act IV.** See his sheet.
 
 **Do not have any character say this out loud in Act II**, least of all Ronas, whose sheet forbids him from
 naming protective work as protective work. What the scene shows is a boss disciplining a subordinate. The
@@ -434,7 +417,8 @@ The synthesis is therefore not *he was right in substance, she was right in prep
 
 **The dead child:** This is the emotional center. Not a dramatic death scene — a *gap*. The child who was alive in Act I is dead by Act II. The reader should feel the absence like a missing tooth. No one killed this child. The plan killed this child, by not being ready in time.
 
-**Bittek Sarn — what he is for, and the four rules that keep him working.** *(Added 2026-08-14.)* He exists
+**Bittek Sarn — what he is for, and the two architectural rules that keep him working.** *(Added 2026-08-14;
+his characterization moved to `People/Bittek Sarn.md` the same day.)* He exists
 because the book already knows that a number nobody can picture is toothless and one named person is not —
 that is the stated design of the dead child — and it had never applied the same technique to the other side
 of the ledger, where four acts of horror were being carried by three category nouns. **He is the perpetrators'
@@ -452,41 +436,12 @@ face, on exactly the terms the child is the victims'.**
    **isn't the delay**, and the delay is the antagonist of this book. Different districts. No shared scene.
    He does not control the tap her family drinks from, and no character ever puts the two of them in one
    sentence. **The two faces do the same job from opposite ends and must never meet.**
-3. **Nobody credits him with a plan.** He is the only source of his own reputation. See Act III.
-4. **He is complete as designed. Do not add depth to him later.** *(Corrected 2026-08-14. An earlier version
-   of this note called him "a deliberate exception to the series' characterization standard," which was
-   wrong: there is no such standard. A search of the entire repository for any rule requiring an antagonist
-   to be sympathetic, grey, or possessed of redeeming features returns nothing, because none was ever
-   written. That every other villain in the series happens to be grey is a description of what exists, not a
-   constraint on what may exist.)*
 
-   **The framework actively provides for him.** `The Seven Paradigms.md` carries the Joffrey Baratheon
-   Counterpoint as a fully worked example of precisely this type — Merchant primary with nothing balancing
-   it, Spirited Competitor near-zero, *"wants the opposition disarmed first"* — presented as a legitimate
-   reading of a person rather than as a defect. And `CLAUDE.md` is explicit that the paradigms are for
-   validating characterization decisions rather than generating them, that the stack "is not a
-   straitjacket," and that the test which actually catches a rule 2 violation is **does the text charge them
-   for it**. That test barely engages here: Sarn never once acts against his own stack. **He is the most
-   internally consistent character in the book**, and the book charges him in full, once, at the end.
-
-   **What this rule protects against is a later pass "deepening" him** because he reads thin beside Rosik,
-   Ronas and Kalden. He is not thin — he is shallow on purpose, and the shallowness is the characterization.
-   **Give him no wound, no reason, no moment of unexpected tenderness, no glimpse of the boy he was.** Book 6
-   is the greyest book of the eight, where Melina's delay kills and Tiberian's intervention kills and nothing
-   in it has a clean answer, and Sarn is the relief valve for that. *(The related instinct — that the device
-   is worth spending once and would cheapen if every book had one — is a craft judgement about this series,
-   offered as such and not as a rule.)*
-
-**And he is what Ronas spent twenty years pretending to be**, which is the thematic work he does for free.
-Ronas's whole self-presentation is the pure apex predator — *damaged product sells for less*, *the Warrens
-has no place for weakness* — and his sheet is explicit that this is a Caretaker drive wearing Competitor
-armour, denied because his world would kill him for it. Sarn is that claim with nothing underneath it, and he
-is pathetic. **The reader who meets him understands, without one character saying so, that Ronas was lying
-about himself for two decades.** `The Seven Paradigms.md` has the structure already: Sarn is the Joffrey
-counterpoint — Merchant primary with nothing balancing it, Spirited Competitor near-zero, *"wants the
-opposition disarmed first"* — standing next to a Competitor primary with terminal states, in the same
-organisation, proving the doc's own line that a Merchant in the stack and a Merchant on top with nothing else
-are radically different people.
+**Both of those are constraints on the book's architecture, which is why they live here.** Everything about
+the man himself — his stack, why the restraint is fear, what he saw in Book 2, write him small, nobody
+credits him with a plan, do not deepen him, the misjudgment of Tiberian, and what he does to Ronas by
+contrast — is on **`People/Bittek Sarn.md`**, which is authoritative on him. **This outline does not restate
+it.**
 
 **The name is settled — author's ruling, 2026-08-14 — and he is in `Names.md`.** Proto-Balishan, matching
 Dermir, Darfi, Corris and Vesk. B and S were the free initials in a book already carrying Tiberian, Melina,
@@ -495,11 +450,8 @@ including the cleared near-collision with Book 1's *"Lady Sarif,"* is in `Names.
 
 **Both open questions are now settled.** The capable lieutenant is **Garrin** — single name, matching the
 Warrens pattern in `Names.md` where Ronas's other named lieutenant *Cullen*, and *Korvin*, *Varris* and
-*Rykan* beside him, all go by one. And Sarn's Book 2 position is fixed in Act I above: **present, and not
+*Rykan* beside him, all go by one. And Sarn's Book 2 position is settled on his sheet: **present, and not
 among those who ran wild.**
-
-**He is emphatically not the lieutenant who killed Melina Kemvimore** — Ronas executed that man immediately,
-and the revenge frame it would import would wreck both this design and Act IV.
 
 **Ronas as tragic figure:** Ronas is not the villain here. He's the man who held the worst place in the city together through force and discipline for twenty years, who warned everyone what would happen when he was removed, and who was substantially right. His removal is still necessary — his system was monstrous.
 

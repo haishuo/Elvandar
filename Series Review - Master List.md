@@ -580,7 +580,8 @@ now a settled ruling; see [§6](#6-settled-rulings).
 ### Book 6 — in draft
 
 **B6-1 is closed.** Both open questions were ruled on 2026-08-14 — see [§6](#6-settled-rulings). Book 6's
-design work has nothing outstanding; the outline holds it.
+design work has nothing outstanding; `book6_outline.md` holds the structure and `People/Bittek Sarn.md` holds
+the character.
 
 **B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
 
@@ -1571,6 +1572,49 @@ chair"* and a separate male chair in beats 4 and 15 — all residue from before 
 **Beat 15's tension survives the fix:** an engineer being asked to cross into policy, with the question coming
 from the table and her chairing made part of the difficulty rather than a contradiction of it. *Do not
 reintroduce a second chair, and do not restore Torkal.*
+
+### Sarn gets a sheet after all — and the test for who does is not book-span — 2026-08-14
+
+**`People/Bittek Sarn.md` exists. I argued against it twice and was wrong twice, on the same underlying
+error.** The author's argument decided it and is worth preserving in his own terms.
+
+**The reasoning I gave was that "sheets exist to stop drift *between books*" and Sarn appears in one.** That
+sentence is in `CLAUDE.md`, and it is a statement of **what guardrails do**, not a rule about who qualifies
+for a file. **I turned a purpose statement into an eligibility criterion** — which is precisely the error
+recorded two entries below about villains and greyness, and the one `CLAUDE.md` §3 already documents about
+paradigm primaries. **Three instances in one session, all the same shape: a description read as a rule.**
+The tell is identical every time — a constraint that cannot be quoted from any file.
+
+**The author's first argument was the precedent: Melina Kemvimore.** She is introduced, developed and killed
+inside Book 2, and carries a 222-line sheet while her presence in Book 2's beat drafts is scattered plot
+mentions. *(Checked. The register does list her as 2–8, since she is load-bearing as a wound long after she
+dies, so the precedent is not quite the pure one-book case — but that distinction does not rescue my
+position, it undermines it further: what her sheet demonstrates is that **the sheet is where characterization
+lives regardless of span.**)*
+
+**The second argument is the one that actually decides it, and it was drawn from my own text.** The outline
+had come to contain the sentence *"This is a constraint on how to write his restraint, not a beat."*
+**An outline is a document of beats and structure.** A line inside it announcing that it is not a beat is a
+line advertising that it is in the wrong file. Because I had ruled out the document designed for
+characterization, the outline had been absorbing characterization it is not shaped to hold — a stack, a
+psychology, five behavioural rules.
+
+**And I had the one-source principle backwards.** *"One source, and everything else points at it"* means pick
+the right home and point at it from elsewhere; it does not mean refuse to create the right home. The outline
+already does this correctly for Ronas — *"the constraint on Ronas's last line is on his own sheet."* I cited
+the principle as a reason not to make a file, which inverts it.
+
+**The working test, replacing the one I invented.** Beat drafts hold beats; outlines hold structure and
+placement; **sheets hold who someone is and how to write them, for as long as anyone has to write them.**
+Span is not the criterion — a character who appears in a single scene can need a sheet if that scene depends
+on knowing him, and a character in eight books needs none if he is only ever furniture.
+
+**What moved and what stayed.** The outline keeps the two architectural rules — *specimen never source* and
+*he never touches the child* — because both are constraints on the book's shape rather than on the man, plus
+his placement in each act and what happens. Everything else moved. **The sheet is deliberately short**, and
+says so: padding it would be the first symptom of the drift its own first guardrail exists to prevent.
+
+---
 
 ### B6-1 CLOSED — Garrin named, and Sarn's Book 2 position settled — 2026-08-14
 

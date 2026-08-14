@@ -9098,3 +9098,47 @@ lieutenants": Book 2 already had the instance, so Book 6 need not invent one.
 If it changes how a scene is written, it goes in the outline beside that scene — this went into Act I as a
 constraint on writing his restraint. If it changes nothing, it is trivia and goes nowhere. **The absence of a
 sheet is not a gap that needs filling elsewhere.**
+
+### `People/Bittek Sarn.md` created — the sheet I argued against twice — 2026-08-14
+
+**The author's argument won and my reasoning was wrong in a way worth recording, because it is the third
+instance of one failure in a single session.**
+
+**What I claimed:** sheets exist to stop drift *between books*, Sarn appears in one, therefore no sheet.
+**That sentence is in `CLAUDE.md` and it describes what guardrails do — it is not a rule about who qualifies
+for a file.** I converted a purpose statement into an eligibility criterion. Two entries earlier I converted
+the author's observation that his villains are grey into a rule requiring them to be, and `CLAUDE.md` §3
+already documents the same move applied to paradigm primaries. **Three times, same direction: a description
+read as a rule.** The tell never changes — the constraint cannot be quoted from any file.
+
+**The author's precedent was Melina Kemvimore**, introduced, developed and killed inside Book 2, carrying a
+222-line sheet while her presence in Book 2's beat drafts is scattered plot mentions. Checked, and it holds
+in the way that matters. *(`Names.md` lists her as 2–8, since she stays load-bearing as a wound long after
+she dies, so it is not a pure one-book case — but that does not rescue my position. What her sheet
+demonstrates is that **characterization lives in the sheet regardless of span.**)*
+
+**His decisive argument came out of my own text**, and it is the better one. The outline had acquired the
+sentence *"This is a constraint on how to write his restraint, not a beat."* **An outline is a document of
+beats and structure**, so a line inside it announcing that it is not a beat is a line advertising that it is
+filed wrong. Having ruled out the document built for characterization, I had made the outline absorb a stack,
+a psychology and five behavioural rules — none of which it is shaped to hold.
+
+**I had also used the one-source principle backwards.** *"One source, and everything else points at it"*
+means choose the right home and point at it; it does not mean decline to create one. The outline already does
+this correctly for Ronas — *"the constraint on Ronas's last line is on his own sheet."*
+
+**The replacement test, now recorded in the master list.** Beat drafts hold beats. Outlines hold structure
+and placement. **Sheets hold who someone is and how to write them.** Span is not the criterion.
+
+**What moved.** The outline kept the two architectural rules — *specimen never source*, *he never touches the
+child* — since both constrain the book's shape rather than the man, along with his placement per act and what
+happens in each. His stack, the fear and its Book 2 source, *write him small*, *nobody credits him with a
+plan*, *do not deepen him*, the misjudgment of Tiberian and the Ronas contrast all moved to the sheet, and
+the outline now points at it in four places instead of restating it.
+
+**The sheet is deliberately short and says so in its own first guardrail.** He is shallow by design; a
+300-line treatment of him would be the first symptom of the drift the guardrail exists to prevent. It also
+carries a **Voice** section marked *not yet locked*, with the useful constraint already identified — he must
+not be given Ronas's register, and the truthful choice is that **he talks like a bigger man than he is**,
+borrowing cadence from people he has watched, which suits a man assembled entirely from other men's
+reputations.
