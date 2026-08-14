@@ -315,7 +315,24 @@ tense-consistent within the utterance, it is a real and recognisable speech patt
 
 **Book 2 status:** he speaks one line in the whole book (ch17) — short, unmarked, no contrastive formality. Checked and deliberately left alone; Book 2 has had no editorial changes applied.
 
-**Book 6:** he reappears. Read this section before writing a word of him.
+**Book 6:** he reappears, and he dies there. Read this section before writing a word of him — **including his last line**, which is the single most likely place in eight books for the register to slip, because it is long, serious and dignified, and those are exactly the conditions the drift happens under.
+
+### Book 6: his death — AUTHOR'S RULING, 2026-08-14
+
+**Tiberian Valanar kills him, personally, after offering him one last chance to stand down.** He refuses:
+he would rather die as the Slaver King than live as king of nothing. **This had never been recorded
+anywhere** — not in the outline, not on either sheet, not in any commit in the repository's history — and
+the author had believed it was canon for some time. Full reasoning in `Series Review - Master List.md`.
+
+**The refusal is on-stack and is not a death wish.** A Competitor primary whose every transition was won as
+a contest, whose ambition had terminal states, and who has *"I want the Slavers to survive, I want to die of
+old age"* on this sheet, still cannot accept terms that end the contest by conceding it. What he refuses is
+not survival; it is being **the man who handed it over**. The distinction is the character.
+
+**And the offer matters for what comes after him.** Ronas is the one man in the Warrens who could actually
+deliver a stand-down, which is why extending it is sound practice rather than sentiment. Anyone who is
+refused later is being refused a *negotiation* — because they can deliver nothing — and not being refused
+the mercy Ronas got. Keep that asymmetry legible or the later refusal reads as inconsistency in Tiberian.
 
 ### Behavioral Patterns
 

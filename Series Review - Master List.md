@@ -24,6 +24,7 @@ them before it is proposed against the prose.
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
 | **Book 3 — in draft** | 1 | Places-vs-map audit unfinished |
+| **Book 6 — in draft** | 1 | Sarn's name provisional; two coinage questions open |
 | **Open questions** | 0 | — |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
@@ -575,6 +576,26 @@ These are live work, not review findings against finished prose.
 
 **B3-1 is closed** — the Lathion arc is written through ch13 and the three constraints it carried are
 now a settled ruling; see [§6](#6-settled-rulings).
+
+### Book 6 — in draft
+
+**B6-1 — Bittek Sarn's name is provisional and three things are open.** The design is settled and lives in
+`book6_outline.md` (Acts I–IV and the structural notes); nothing is in `People/` or `Names.md` yet, on
+purpose.
+
+- **The name.** *Bittek Sarn* is Proto-Balishan, matching Dermir/Darfi/Corris/Vesk. B and S are free initials
+  in a book already carrying Tiberian, Melina, Ronas, Kess, Kai, Xion, Elara and Farleen, and both elements
+  return zero repository hits including as substrings. Alternatives checked clean: *Nillek*, *Havvik*,
+  *Duvvin*, *Gossek*; house names *Dolch*, *Grask*. **He goes into `Names.md` the moment the name is ruled**,
+  whether or not he ever gets a sheet.
+- **Whether the capable lieutenant he betrays is named.** He carries real weight in Act III as the last
+  legible actor in the Warrens, which argues for a name; that is a second coinage and has not been made.
+- **Whether Sarn was one of the lieutenants who ran wild in Book 2.** The slot is genuinely free — Book 2's
+  prose never individuates Ronas's lieutenants once — and it would make Melina Kemvimore's *"they're not like
+  him, they're worse"* partly about him. **The cost is historical weight**, which the specimen-not-source
+  guardrail exists to withhold. If taken, take the lightest version. **He is emphatically not the lieutenant
+  who killed Melina Kemvimore**; Ronas executed that man immediately, and the revenge frame would wreck both
+  the design and Act IV.
 
 **B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
 
@@ -1565,6 +1586,69 @@ chair"* and a separate male chair in beats 4 and 15 — all residue from before 
 **Beat 15's tension survives the fix:** an engineer being asked to cross into policy, with the question coming
 from the table and her chairing made part of the difficulty rather than a contradiction of it. *Do not
 reintroduce a second chair, and do not restore Torkal.*
+
+### There is no rule requiring villains to be grey — and one was invented and then excepted from — 2026-08-14
+
+**A guardrail written for Book 6's Bittek Sarn called him "a deliberate exception to the series'
+characterization standard." No such standard exists.** A search of the entire repository for any rule
+requiring an antagonist to be sympathetic, morally grey, or possessed of redeeming features returns nothing.
+The author challenged the claim directly — *"where is it written?"* — and the answer was nowhere.
+
+**What produced it is worth more than the correction.** The author's own observation, made while pitching the
+character — *every major villain here is a study in shades of gray* — is a **description of what has been
+written**. It was read as a **constraint on what may be written**, and a dispensation was then drafted against
+a rule that had never existed. **The dispensation is the worse half**, because granting an exception implies
+the rule is real and leaves it standing for the next reader.
+
+**This is the failure `CLAUDE.md` §3 already documents, one level up.** That entry warns against "reading a
+primary as an obligation, then reporting the derived constraint as though it were a property of the
+character," and records that it cost a full exchange over Melina Valanar. The same move applied to a *pattern*
+rather than a stack produces the same result. **Descriptions of the corpus are not rules governing it**, and
+the tell is identical in both cases: a constraint that cannot be quoted from any file.
+
+**The framework provides for characters like Sarn rather than tolerating them.** `The Seven Paradigms.md`
+carries the Joffrey Baratheon Counterpoint as a worked example of the exact type — Merchant primary with
+nothing balancing it, Spirited Competitor near-zero, *"wants the opposition disarmed first"* — presented as a
+legitimate reading of a person. `CLAUDE.md` adds that the stack is for validating decisions rather than
+generating them, that it "is not a straitjacket," and that the test which catches a rule 2 violation is
+**does the text charge them for it**. Sarn never acts against his stack, so the test barely engages.
+
+**The guardrail now reads as a design instruction — *he is complete as designed, do not deepen him later***
+— which is the thing actually worth protecting: a future pass noticing he reads thin beside Rosik, Ronas and
+Kalden, and trying to help.
+
+---
+
+### Tiberian kills Ronas Dermir — AUTHOR'S RULING, 2026-08-14
+
+**Tiberian Valanar kills the Slaver King personally, in Book 6, after offering him one last chance to stand
+down.** Ronas refuses: he would rather die as the Slaver King than live as king of nothing.
+
+**This had never been written down anywhere, and the author believed it had.** Checked before recording, and
+the finding is worth keeping because it is the reassuring answer rather than the alarming one: `book6_outline.md`
+said only that "the crown moves against him" and that "he goes down swinging," `Offstage.md` said "when Ronas
+went down," and neither sheet named a hand. **A search of every commit in the repository's history returns
+nothing** — so it was never recorded and lost, it was simply never recorded. **Nothing is wrong with the
+archive; the ruling was living in one head.** That is precisely the gap `Offstage.md` and this section exist
+to close, and the lesson is that a *fate* is exactly the kind of fact that feels too settled to write down.
+
+**Recorded in four places:** `book6_outline.md` (Act III and the structural note), `People/Ronas Dermir.md`
+(a new death section under the voice lock), and `People/Tiberian Valanar.md` (his Book 6 entry).
+
+**The offer is load-bearing and is not a courtesy.** Ronas is the only man in the Warrens who could actually
+*deliver* a stand-down, so extending it is sound practice as well as characterization. **The consequence to
+protect: anyone refused later is being refused a negotiation, not the mercy Ronas was given** — because they
+control nothing and can deliver nothing. Keep that asymmetry visible or the later refusal reads as
+inconsistency in Tiberian rather than as characterization of whoever is begging.
+
+**And Ronas's last line is the highest-risk sentence in Book 6 for register drift.** His voice is locked, and
+his sheet names the exact failure mode: the drift always happens in his longest and most serious speeches,
+because the temptation is to let him speak "properly" when the content is grave. **A balanced antithetical
+epigram is the wrong instrument**, however well it states the sentiment — the register wants dropped
+auxiliaries, *ain't*, *got*, and the historical present. The Grand Hunt speech is the one licensed rise and
+is explicitly not licence for this one.
+
+---
 
 ### B3-1 — CLOSED. The Lathion arc is written, and its three constraints held — 2026-08-14
 

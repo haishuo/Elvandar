@@ -142,6 +142,15 @@ The Warrens crisis forces Tiberian into a different role: not the one who acts, 
 
 This is Tiberian's Caretaker drive directed at his twin — the one person he loves enough to be this blunt with. He teaches her what the Silaris crisis taught him: that action with imperfect information is sometimes more moral than perfect inaction.
 
+**He kills Ronas Dermir himself.** *(Author's ruling, 2026-08-14; it had never been written down anywhere.)*
+He offers the Slaver King a stand-down first — which costs a Caretaker primary nothing to offer, and which
+Ronas refuses, because he would rather die as the Slaver King than live as king of nothing. **Tiberian is
+not vindicated by the refusal and should not be written as relieved by it.** He extended a real way out to
+the most dangerous man in the Warrens and it was declined, and the vacuum that follows is the one he was
+warned about and planned against and could not hold. **The kill is not the catharsis of the book**; it is
+the act that starts Act IV's bill running. Full account in `book6_outline.md`; the constraint on Ronas's
+last line is on his own sheet, and the register is locked.
+
 **Kess:** During this period, Tiberian frees Kess from the fighting pits, gaining his most loyal companion. She guards him with her life; they coordinate attacks seamlessly. The rescue reflects his Caretaker core — he cannot walk past suffering — and the partnership reflects his Spirited Competitor secondary: Kess matches his aggressive energy on the battlefield.
 
 Together, the twins present their plan to their parents: not a perfect solution, but a necessary action whose details will be refined through implementation rather than endless planning.

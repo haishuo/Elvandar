@@ -110,6 +110,25 @@ She's not wrong. The complexity is real. But the complexity is also a shield.
 
 **The child:** Somewhere in Act I, we meet a specific person in the Warrens — a child, a family, someone the reader can attach to. Not a statistic. A name, a face, a life being lived in increasingly desperate conditions. The water comes less often. The sickness spreads. This person is alive in Act I.
 
+**The other face, and it is the same technique pointed the other way.** *(Added 2026-08-14.)* The brief above
+is explicit that sixty thousand people are unthinkable and one named child is not. **The book applies that to
+the victims and has never applied it to the perpetrators**, who exist across all four acts as three categories
+— the psychos, the predators, the opportunists — and not one face. So Act I also introduces **Bittek Sarn**
+*(name provisional; see the structural note)*, a Slaver lieutenant, and the reader is given time to loathe him
+while Ronas is still alive and nothing can be done about him.
+
+**What he is in Act I is a man operating at exactly the permitted maximum.** Ronas's rule is on his own sheet
+— *the product is not to be damaged beyond what extraction requires* — and Ronas punishes lieutenants who
+break it more harshly than he punishes almost anything else. Sarn has never broken it. He has spent twenty
+years working out precisely where it sits and living against it, every day, and that calibration is the only
+expertise he has ever acquired. **He obeys out of fear and nothing else.** He has seen what the Iron Hall does
+to lieutenants who go too far, and the memory of it is the whole of his restraint.
+
+**Write him small.** Not atrocity — pettiness, repeatedly. A man who commits one enormous evil is a plot
+device; a man who commits forty small ones is a person, and it is the accumulation that makes him real. **The
+reader's relationship to him in Act I is the Warrens' own**: hating him, and having no recourse, because the
+only thing standing between him and worse is a man nobody can appeal to either.
+
 **What the reader should feel:** Urgency that the characters don't fully share. The reader can see the cost of delay because the reader has been underground. The characters are looking at reports.
 
 ---
@@ -127,6 +146,23 @@ Not dramatically. Not heroically. From contaminated water, or from hunger, or fr
 The water crisis has worsened. The piped-water system from the surface has created exactly what everyone feared — a distribution network controlled by whoever has the muscle to hold the pipes. Not the Water Cartel formally reconstituted, but a new informal power structure that functions identically. People who were already desperate are now dependent on whoever controls their water.
 
 Ronas Dermir has been managing this. Holding it together. The biggest, meanest dog keeping the yard from tearing itself apart while the surface debates logistics. But Ronas is aging, his grip is loosening, and the psychos he spent decades keeping leashed are testing the boundaries.
+
+**Sarn is who that sentence is about, and Act II is where the reader watches him test it.** *(Added
+2026-08-14.)* Three years on he goes past the line — not far, and not bravely; he goes as far as he thinks the
+old man's grip has slipped and no further. **Ronas comes down on him in public and it is not close.** The
+reader should feel relief watching it, and should notice afterward what the relief was made of: the only
+functioning check on this man is one aging criminal's capacity for violence, and everyone in the tunnel knows
+it, including Sarn, who counted.
+
+**He does not learn anything from it.** He is not deterred in the sense of revising a belief; he is deterred
+in the sense of a dog and a stick. **That distinction is the whole engine of Act IV** — a man whose only
+governor was ever external has no internal one to fall back on, and has spent twenty years storing what the
+external one refused him. When it goes, he does not escalate gradually. He is simply, immediately, everything
+he was already prepared to be.
+
+**Do not have any character say this out loud in Act II**, least of all Ronas, whose sheet forbids him from
+naming protective work as protective work. What the scene shows is a boss disciplining a subordinate. The
+reader assembles the rest.
 
 **The confrontation:**
 
@@ -197,7 +233,11 @@ He's not wrong about any of it. He's wrong about the conclusion — that the sol
 
 What she gets is not a contest.
 
-**Ronas goes down.** He does not surrender. He does not negotiate a graceful exit. Ronas Dermir is the Slaver King — not as a title but as an identity, the only version of himself he has ever been. When the crown moves to remove him, his reaction is not pragmatic retreat but a final, defiant stand. He goes down swinging, the way he lived. There's a brutal kind of honor in it.
+**Ronas goes down, and Tiberian Valanar kills him personally.** *(Author's ruling, 2026-08-14. It had never been written down anywhere — see the master list's settled rulings.)* He does not surrender. He does not negotiate a graceful exit. Ronas Dermir is the Slaver King — not as a title but as an identity, the only version of himself he has ever been. When the crown moves to remove him, his reaction is not pragmatic retreat but a final, defiant stand. He goes down swinging, the way he lived. There's a brutal kind of honor in it.
+
+**And he is offered a way out first.** Tiberian gives him one last chance to stand down, which costs a Caretaker primary nothing to offer and which Ronas refuses on the only ground he has ever stood on: he would rather die as the Slaver King than live as king of nothing. **The offer is load-bearing and not a courtesy** — Ronas is the one man down there who could actually *deliver* a stand-down, so extending it is sound practice as well as character. Anyone later who gets no such offer is being refused a negotiation rather than refused mercy, and the difference must stay visible.
+
+**The refusal is Ronas's last line and it has to be in Ronas's mouth.** His voice is locked (`People/Ronas Dermir.md`, "The voice — LOCKED") and the sheet's stated failure mode is drift toward clean Standard English in exactly this kind of speech — the long, serious, dignified one. **A balanced epigram is the wrong instrument here**, however well it states the sentiment; the register wants dropped auxiliaries, *ain't*, *got*, and the historical present. The Grand Hunt speech is the one licensed rise in register and it is not licence for this.
 
 And the psychos are loose.
 
@@ -216,6 +256,48 @@ Now Ronas is gone entirely. And every predator, every psychopath, every violent 
 **And Ronas was wrong too, which deepens him rather than diminishing him.** He predicted his lieutenants running wild — a motivated, legible forecast from an Engineer who understands his own system's failure modes better than anyone alive. He was right that they could not plan for it. **He was wrong to believe he could describe it**, because what came was not his system failing, and collapse is not a system state. The man who understood the Warrens best had a model too, and it broke in the same place hers did.
 
 **What the reader should feel:** not *they didn't listen* — they did, and it is worse. Horror at the discovery that **listening was not the variable.** They took the enemy's warning seriously, planned against exactly what he described, staged it, resourced it, and were beaten by something that had no plan of its own to beat. The failure is not moral and not a lapse of attention. It is the discovery that preparation has a boundary, and that everybody in the room found it at the same moment.
+
+### Sarn is what that looks like in one man, and the model is not silent on him — it is confidently wrong
+
+*(Added 2026-08-14.)* The section above is the diagnosis in the abstract. **Sarn is the instance**, and he is
+the reason the abstraction does not have to be narrated at length.
+
+**He has enormous wants and no mapping from wants to actions.** A model does not need a man to want things; it
+needs him to *do the work that gets him the thing*, and that is the assumption Sarn does not satisfy. He wants
+Ronas's position and will not do a day's labour to earn it. He wants to be feared and has only ever frightened
+people who were already restrained. **So he satisfies every clause of the failure described above while being
+stuffed with appetite:** he takes the water and cannot run it, so the violence *takes nothing*; he will not
+negotiate, because negotiating means giving something up, so it *opens no negotiation*; he betrays whoever is
+nearest whenever it is easy, so it *guards no asset*; and he is not driving anyone toward terms, so it
+*frightens nobody toward any table.*
+
+**This is better than a man who wants nothing, and the difference is dramatic rather than philosophical.** A
+character who wants nothing is a void — hard to write, impossible to hate, and generic on the page however
+well described. A man whose wanting is disconnected from action produces an identical signature and can be
+put in a room.
+
+**And the model has a file on him.** This is the part to keep. Melina's profile of Sarn is thorough,
+well-sourced and confident, because the lieutenants are the section she has the most reason to be careful
+about — *it is the founding wound of her family, and she is named for the woman it killed.* The profile
+predicts he consolidates, because that is what a man with his appetites does. **He does not consolidate.** He
+holds a tap, hurts people, and lets the system rot underneath him. **A gap in a model is a known unknown a
+careful person hedges against; a detailed and confident wrong answer is what gets people killed** — and it
+sits, exactly as the principle above says, where its author was most confident.
+
+**The betrayal, and why it is not a scheme.** Ronas's death leaves one lieutenant of real capability — not
+Ronas's equal, but a competent man attempting to hold some of the cartel together. **That man is the legible
+succession contest**, the last thing in the Warrens that could have been modelled, bought, isolated or beaten,
+and Melina's plan for the vacuum is largely a plan for him. Sarn kills him. **Not as a manoeuvre** — he takes
+an opening that falls into his lap, clumsily, because the man had begun restraining him and restraint is the
+one thing he cannot tolerate. He gains nothing by it and is measurably less safe afterward. **Ask what he got
+and the answer is nothing**, which is precisely why no model ranked it: models can rank ambition and cannot
+rank a man knifing his own best protector for telling him no.
+
+**He then narrates it to himself as a masterstroke for the rest of the book**, and he is the only source for
+that reading. **No competent character may credit him with a plan** — not Melina calling him cunning, not
+one of her analysts crediting him with strategy, not Tiberian conceding him one at the end. The moment
+anyone with standing describes him as clever he acquires a stature the whole design exists to deny him. The
+reader should be able to see the seam between what he did and what he says he did.
 
 ---
 
@@ -255,6 +337,56 @@ Tiberian shows up and saves her again. (The timing is convenient. Sometimes timi
 
 Kess and the werewolf marines (if this is the term for her fighters / allies — to be developed) end up fighting alongside Tiberian's force. Together they storm the remaining pockets of resistance — the psychos Ronas warned about, the predators who filled the vacuum, the opportunists who saw chaos as a business opportunity. Kess is not Tiberian's soldier. She is a woman who decided, for her own reasons, that these particular enemies needed killing.
 
+### Sarn at the taps, and the one scene in this book that is allowed to be satisfying
+
+*(Added 2026-08-14.)* **What Sarn took when the thumb came off was the water**, and it is the right prize for
+him because it required nothing of him. The piped system comes down from the surface, built and paid for by
+other people; Act II established that it creates "a distribution network controlled by whoever has the muscle
+to hold the pipes." He did not build it, did not take it from anyone who could stop him, and cannot maintain
+it. **He stands on it.** That is the prize-without-the-work rendered as an object, and because he has no
+systems capacity whatsoever, the taps he holds run worse every month he holds them and he blames whoever is
+nearest. His uselessness reaches the page without a line of narration asserting it.
+
+**Tiberian corners him.** Sarn has spent the descent escaping — through betrayal, through putting other
+people between himself and the column, through every cowardly expedient available — and has read each escape
+as evidence of his own brilliance. **He badly misjudges Tiberian, and the mechanism is not ignorance.** He
+knows the reputation perfectly well and dismisses it as propaganda, because he manufactures his own the same
+way: he built his standing on beating people who could not fight back and letting the story do the rest, so
+he assumes the Tiger Prince's standing is the identical con with better tailoring. **A fraud assumes everyone
+else is a fraud.** That assumption is what kills him, and it is characterization rather than a plot hole to
+be patched.
+
+**The fight is not one.** Sloppy brawling learned on people in chains against a man trained by Terinok
+warriors who fought a real war. It should be brief to the point of embarrassment.
+
+**He begs, and what he begs with is another betrayal** — he is selling somebody else, mid-sentence, when
+Tiberian ends it. **This is the load-bearing detail.** He never gets the dignity of a genuine surrender, so
+Tiberian is not executing a broken man who has given up; he is refusing to buy from a man who is still, in
+his final seconds, exactly what he has been since Act I. **And it preserves the asymmetry with Ronas**, who
+was offered a stand-down and refused it: Ronas got that offer because Ronas could actually deliver one. Sarn
+is being refused a *negotiation*, not the mercy Ronas was given, because he controls nothing and can deliver
+nothing. **Keep that distinction legible** or the refusal reads as Tiberian being inconsistent rather than as
+the last fact about Sarn.
+
+He dies at the end of Tiberian's sword, soiling himself.
+
+**Rule 3 applies here in its purest form and the scene takes one emotion.** No grief, no irony, no *what does
+this make me*, no arc-closure, and above all **no reflection from Tiberian inside the scene.** This is the
+one place in a book of grey where the reader is allowed to feel good without qualification, and the entire
+value of it is that nothing dilutes it. **The bill arrives in the next scene, not this one.**
+
+**Placement: his death is the climax of the fighting and must not be the last thing in the act.** What
+Tiberian carries out of the Warrens is the crossfire, not the kill — so the satisfaction lands and then the
+book keeps going into what it cost. Reversing that order would make the catharsis read as compensation, and
+the Aftermath's devastation is the true ending of this movement.
+
+**And Kess does not need to be part of it.** She is in these sequences and fighting her own war; the outline
+is deliberate that Sarn is not the master of the pit she was taken from, precisely so that no claim on his
+death competes with Tiberian's.
+
+**What killing him actually buys is local and real:** the taps open, and a district drinks. **It does not
+stop the collapse**, which is still running when he dies, and it does not vindicate anybody.
+
 **It's bloody.** It's far from clean. Innocents die in the crossfire — because they always do, in situations like this, when violence erupts in enclosed spaces full of civilians. The tunnels make it worse. Every engagement risks collapse, flooding from failed systems, civilians trapped between combatants. The Warrens were never designed for warfare. They were designed for living. Fighting in them destroys what's left of what kept people alive.
 
 **What the reader should feel:** The visceral cost of action — the counterweight to the visceral cost of inaction from the first three acts. Three years of delay cost lives. The intervention costs lives. There was no option that didn't cost lives. The only question was which lives, and when, and how many.
@@ -289,11 +421,82 @@ The synthesis is therefore not *he was right in substance, she was right in prep
 
 **The dead child:** This is the emotional center. Not a dramatic death scene — a *gap*. The child who was alive in Act I is dead by Act II. The reader should feel the absence like a missing tooth. No one killed this child. The plan killed this child, by not being ready in time.
 
+**Bittek Sarn — what he is for, and the four rules that keep him working.** *(Added 2026-08-14.)* He exists
+because the book already knows that a number nobody can picture is toothless and one named person is not —
+that is the stated design of the dead child — and it had never applied the same technique to the other side
+of the ledger, where four acts of horror were being carried by three category nouns. **He is the perpetrators'
+face, on exactly the terms the child is the victims'.**
+
+1. **Specimen, never source.** He is fairly typical of what Ronas was sitting on, the narration never calls
+   him the worst of them, and the Warrens is still collapsing when he dies. If the book positions him as the
+   cause, Act IV becomes a boss fight and — far worse — **Melina's failure retroactively shrinks from *her
+   method reached its boundary* to *she missed one man*,** which is forgivable in a way this book needs it
+   not to be. The more ordinary he is among his peers, the more horrifying the world is and the less his
+   death repairs.
+2. **He never touches the child.** This is the most dangerous move available and the most tempting.
+   The note below is the book's own sentence — *no one killed this child; the plan killed this child* — and
+   the moment a reader can draw a causal line from Sarn to her, they have somewhere to put the anger that
+   **isn't the delay**, and the delay is the antagonist of this book. Different districts. No shared scene.
+   He does not control the tap her family drinks from, and no character ever puts the two of them in one
+   sentence. **The two faces do the same job from opposite ends and must never meet.**
+3. **Nobody credits him with a plan.** He is the only source of his own reputation. See Act III.
+4. **He is complete as designed. Do not add depth to him later.** *(Corrected 2026-08-14. An earlier version
+   of this note called him "a deliberate exception to the series' characterization standard," which was
+   wrong: there is no such standard. A search of the entire repository for any rule requiring an antagonist
+   to be sympathetic, grey, or possessed of redeeming features returns nothing, because none was ever
+   written. That every other villain in the series happens to be grey is a description of what exists, not a
+   constraint on what may exist.)*
+
+   **The framework actively provides for him.** `The Seven Paradigms.md` carries the Joffrey Baratheon
+   Counterpoint as a fully worked example of precisely this type — Merchant primary with nothing balancing
+   it, Spirited Competitor near-zero, *"wants the opposition disarmed first"* — presented as a legitimate
+   reading of a person rather than as a defect. And `CLAUDE.md` is explicit that the paradigms are for
+   validating characterization decisions rather than generating them, that the stack "is not a
+   straitjacket," and that the test which actually catches a rule 2 violation is **does the text charge them
+   for it**. That test barely engages here: Sarn never once acts against his own stack. **He is the most
+   internally consistent character in the book**, and the book charges him in full, once, at the end.
+
+   **What this rule protects against is a later pass "deepening" him** because he reads thin beside Rosik,
+   Ronas and Kalden. He is not thin — he is shallow on purpose, and the shallowness is the characterization.
+   **Give him no wound, no reason, no moment of unexpected tenderness, no glimpse of the boy he was.** Book 6
+   is the greyest book of the eight, where Melina's delay kills and Tiberian's intervention kills and nothing
+   in it has a clean answer, and Sarn is the relief valve for that. *(The related instinct — that the device
+   is worth spending once and would cheapen if every book had one — is a craft judgement about this series,
+   offered as such and not as a rule.)*
+
+**And he is what Ronas spent twenty years pretending to be**, which is the thematic work he does for free.
+Ronas's whole self-presentation is the pure apex predator — *damaged product sells for less*, *the Warrens
+has no place for weakness* — and his sheet is explicit that this is a Caretaker drive wearing Competitor
+armour, denied because his world would kill him for it. Sarn is that claim with nothing underneath it, and he
+is pathetic. **The reader who meets him understands, without one character saying so, that Ronas was lying
+about himself for two decades.** `The Seven Paradigms.md` has the structure already: Sarn is the Joffrey
+counterpoint — Merchant primary with nothing balancing it, Spirited Competitor near-zero, *"wants the
+opposition disarmed first"* — standing next to a Competitor primary with terminal states, in the same
+organisation, proving the doc's own line that a Merchant in the stack and a Merchant on top with nothing else
+are radically different people.
+
+**The name is provisional and needs the author's ruling.** *Bittek Sarn* is Proto-Balishan register, matching
+Dermir, Darfi, Corris and Vesk; B and S are free initials in a book already carrying Tiberian, Melina, Ronas,
+Kess, Kai, Xion, Elara and Farleen; and both elements return zero hits across the repository, including as
+substrings, so they will not pollute a grep. **He is not yet in `Names.md`** and should not be added until
+the name is settled. Alternatives checked and clean: *Nillek*, *Havvik*, *Duvvin*, *Gossek*; house names
+*Dolch*, *Grask*.
+
+**Two things left open.** Whether the capable lieutenant Sarn betrays is named at all, or stays a role — he
+carries real weight in Act III and probably wants a name, which is a second coinage. And whether Sarn is one
+of the lieutenants who ran wild in Book 2 when Rosik first dropped the leash. **That slot is genuinely free**
+— Book 2's prose never individuates Ronas's lieutenants once — and it would mean Melina Kemvimore's *"they're
+not like him, they're worse"* was partly about him. **The cost is that any Book 2 tie gives him historical
+weight**, which is the thing rule 1 above is trying to withhold. If taken, take the lightest version: he was
+there, no character ever remarks on it, and only the reader assembles it. **He is emphatically not the
+lieutenant who killed Melina Kemvimore** — Ronas executed that man immediately, and the revenge frame it
+would import would wreck both this design and Act IV.
+
 **Ronas as tragic figure:** Ronas is not the villain here. He's the man who held the worst place in the city together through force and discipline for twenty years, who warned everyone what would happen when he was removed, and who was substantially right. His removal is still necessary — his system was monstrous.
 
 **But the tragedy is no longer "nobody listened to him."** They did. His warnings got the respect they deserved and were planned against in detail, and it made no difference — which is worse for everyone including him. **And he was wrong in the same way Melina was wrong**, which is the most interesting thing about him in this book: he forecast his lieutenants running wild, a motivated and legible prediction from an Engineer who genuinely does understand his own system's failure modes better than anyone alive. He was right that they could not plan for it. He was wrong to think he was describing it. Collapse is not a system state, and the man with the best model of the Warrens still had a *model*. **The person who understood the place best could not predict its end either.**
 
-**Ronas's fate:** Ronas Dermir cannot imagine not being the Slaver King. It's not a title he holds — it's his identity, the thing that makes him *him*. When that identity is threatened, his reaction is not retreat, not negotiation, not the pragmatic surrender his engineering brain might otherwise calculate. It's a final blaze of glory. He goes down the way he lived: swinging. There's a brutal kind of honor in that — the man who held the worst place in the city together for twenty years choosing to die on his feet rather than live as something less than what he was. He goes down, and the vacuum he predicted opens exactly the way he said it would.
+**Ronas's fate — he dies at Tiberian's hand, after being offered a stand-down and refusing it.** *(Author's ruling, 2026-08-14.)* Ronas Dermir cannot imagine not being the Slaver King. It's not a title he holds — it's his identity, the thing that makes him *him*. When that identity is threatened, his reaction is not retreat, not negotiation, not the pragmatic surrender his engineering brain might otherwise calculate. It's a final blaze of glory. He goes down the way he lived: swinging. There's a brutal kind of honor in that — the man who held the worst place in the city together for twenty years choosing to die on his feet rather than live as something less than what he was. He goes down, and the vacuum he predicted opens exactly the way he said it would.
 
 **Kai Issamil:** Kael's son should be established earlier in the series — at minimum seeded in Book 5 so the reader knows who he is before he becomes Tiberian's companion in the Warrens. The friendship between the fathers (Xion and Kael) makes the sons' bond organic. Kai likely has his father's practical temperament, his Iron connections, his understated competence. He is Tiberian's Kael — the steady presence who makes the machinery work.
 

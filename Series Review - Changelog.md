@@ -8925,3 +8925,104 @@ deleted a book.
 
 **Re-run over all three books afterward: 58 files, zero diff, nothing pruned.** Idempotence holds, and no
 orphans remain anywhere.
+
+### Tiberian kills Ronas Dermir — author's ruling recorded — 2026-08-14
+
+**The author exercised fiat on a point he had believed was already canon, and it was not.** Tiberian Valanar
+kills the Slaver King personally in Book 6, after offering him one last chance to stand down; Ronas refuses,
+on the ground that he would rather die as the Slaver King than live as king of nothing.
+
+**Checked before recording, and the finding is the reassuring one.** `book6_outline.md` said only that "the
+crown moves against him" and that "he goes down swinging"; `Offstage.md` said "when Ronas went down"; neither
+sheet named a hand. **A search across every commit in the repository returns nothing**, so the ruling was
+never written and subsequently lost — it was never written at all. **Nothing is wrong with the archive.** The
+lesson worth keeping is that a character's *fate* is exactly the class of fact that feels too settled to
+bother recording, which is how it ends up living in one head.
+
+**Recorded in four places, and none of them restates the others at length:** `book6_outline.md` carries the
+account in Act III plus the structural note; `People/Ronas Dermir.md` carries a new death section sitting
+directly under the voice lock, which is where it will actually be read; `People/Tiberian Valanar.md` carries
+the consequence for him; and the master list carries the ruling and the reasoning.
+
+**Two constraints came out of it that were not in the ruling as given.**
+
+**The offer is load-bearing rather than decorative.** Ronas is the one man down there who can actually
+deliver a stand-down, so extending it is sound practice as well as Caretaker characterization — and it sets
+up an asymmetry that has to stay legible. **Anyone refused later is being refused a negotiation, not the
+mercy Ronas got**, because they control nothing and can deliver nothing. Without that distinction on the
+page, a later refusal reads as Tiberian being inconsistent instead of as characterization of whoever is
+doing the begging.
+
+**And Ronas's last line is now the highest-risk sentence in Book 6.** His sheet locks the voice and names the
+failure mode precisely: drift happens in his *longest and most serious* speeches, because the temptation is
+to let him speak properly when the content is grave, and the sheet says that is exactly backwards. The
+sentiment as the author stated it is right and on-stack. **The form it arrives in is not his** — a balanced
+antithetical epigram is a rhetorical construction, and the register wants dropped auxiliaries, *ain't*, *got*
+and the historical present. Flagged rather than rewritten: the line is the author's to write.
+
+**The Book 6 antagonist discussed in the same session is recorded separately below**, once the design was
+settled.
+
+### Book 6 gets a straightforward villain — Bittek Sarn, outlined — 2026-08-14
+
+**Author's proposal, and the reasoning is his.** Every antagonist in the series is a study in grey, Book 6 is
+the greyest book of the eight — Melina's delay kills, Tiberian's intervention kills, nothing in it has a clean
+answer — and that is its own kind of exhausting for a reader. **Sarn is the relief valve:** a Slaver
+lieutenant with no redeeming feature, whom the reader may hate without having to think about it, and whose
+death is the one unqualified satisfaction in the book.
+
+**The argument that settled his structural role is the author's, and it is the Anne Frank principle.** A
+number in the millions is toothless because no one can picture it; one named person makes it thinkable. **The
+book already knew this and applied it only to the victims** — Act I's brief for the dead child is literally
+*"not a statistic, a name, a face"* — while the perpetrators existed across four acts as three category nouns
+(the psychos, the predators, the opportunists) and not one face. Sarn is the same technique pointed at the
+other end of the ledger. **Nothing new was invented; a device the book already relies on was finished.**
+
+**Placed across all four acts, because the effect depends on accumulation rather than one scene.** Act I: at
+Ronas's permitted maximum, having spent twenty years locating exactly where the line sits, restrained by fear
+alone — written small, forty petty cruelties rather than one atrocity. Act II: he tests the loosening grip and
+Ronas destroys him publicly, filling a slot the outline already had open and empty. Act III: the betrayal.
+Act IV: the taps, and the death.
+
+**He does not contradict Act III's ruling — he instantiates it, and this was the one real risk.** *(The
+2026-08-02 correction establishes that what follows Ronas is not a succession contest and that Melina's models
+failed because "you cannot forecast the behaviour of men who have stopped wanting things.")* An early reading
+of Sarn as a schemer would have broken that, and was withdrawn. **The resolution: a model does not need a man
+to want things, it needs him to do the work that gets him the thing** — and Sarn's whole personality is
+wanting the prize while refusing the work. He therefore satisfies every clause of the existing diagnosis while
+being stuffed with appetite: takes the water and cannot run it, will not negotiate, guards nothing, drives
+nobody toward terms.
+
+**And the upgrade worth keeping: the model is not silent on him, it is confidently wrong.** Melina's profile
+of Sarn is thorough and well-sourced, because the lieutenants are the section she has most reason to be
+careful about — it is the founding wound of her family and she is named for the woman it killed. It predicts
+he consolidates. He does not. **A gap in a model is a known unknown a careful person hedges against; a
+detailed, confident wrong answer is what gets people killed** — and it sits exactly where the outline's own
+principle says a blind spot sits, at the point of greatest confidence.
+
+**Four guardrails recorded, of which two are the load-bearing ones.** *Specimen, never source* — if he is the
+cause, Act IV becomes a boss fight and Melina's failure shrinks from *her method reached its boundary* to *she
+missed one man*. And *he never touches the child* — the book's own sentence is **"no one killed this child;
+the plan killed this child,"** and the moment a reader can draw a line from Sarn to her they have somewhere to
+put the anger that is not the delay, which is the antagonist of the book. Different districts, no shared
+scene, no character ever placing them in one sentence.
+
+**One correction to my own note, made on the author's challenge.** The guardrail originally called Sarn "a
+deliberate exception to the series' characterization standard." **There is no such standard.** A search of the
+entire repository for any rule requiring an antagonist to be sympathetic, grey, or possessed of redeeming
+features returns nothing, because none was ever written. What happened was that the author's own observation
+— *every major villain here is a study in shades of gray* — was read as a constraint rather than as a
+description, and a dispensation was then written against a rule that did not exist. **This is the documented
+recurring failure in `CLAUDE.md` §3, in the same direction**: reading a pattern as an obligation and reporting
+the derived constraint as though it were a property. It cost an exchange over Melina Valanar once already.
+
+**The correct position is stronger than the one it replaced.** `The Seven Paradigms.md` *provides* for Sarn —
+the Joffrey Baratheon Counterpoint is a fully worked example of the type, Merchant primary with nothing
+balancing it and a Competitor near-zero that "wants the opposition disarmed first" — and `CLAUDE.md` states
+the stack "is not a straitjacket" and that the real rule 2 test is *does the text charge them for it*. That
+test barely engages: **Sarn never acts against his own stack once**, making him the most internally consistent
+character in the book. The guardrail now says what it should have said — *he is complete as designed, do not
+deepen him later* — which is a design instruction rather than a dispensation.
+
+**Nothing about him is in `People/` or `Names.md`, deliberately.** The name is provisional pending the
+author's ruling; see the master list for what is still open.
