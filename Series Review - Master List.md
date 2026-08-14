@@ -1604,10 +1604,23 @@ the right home and point at it from elsewhere; it does not mean refuse to create
 already does this correctly for Ronas — *"the constraint on Ronas's last line is on his own sheet."* I cited
 the principle as a reason not to make a file, which inverts it.
 
-**The working test, replacing the one I invented.** Beat drafts hold beats; outlines hold structure and
-placement; **sheets hold who someone is and how to write them, for as long as anyone has to write them.**
-Span is not the criterion — a character who appears in a single scene can need a sheet if that scene depends
-on knowing him, and a character in eight books needs none if he is only ever furniture.
+**The rule is the author's and is now in `CLAUDE.md` §6, where both document types are defined.** *"Beat
+drafts are for recording story beats, not characterization. If you find yourself recording characterization
+in a beat draft, that is a sign the character needs to be moved to a dedicated sheet."* Who qualifies is
+decided by **whether the characterization matters** — unnamed walk-ons never, role-fillers usually not,
+anyone important enough to crystallize or important enough that the planning documents have started
+enforcing it, yes. **Span is not the criterion.**
+
+**His formulation is better than the one I offered and the improvement is specific: mine was descriptive and
+his is diagnostic.** Saying "sheets hold who someone is" tells you how to file things you already recognise.
+Saying "characterization appearing in a beat draft is the signal" tells you **when to act**, using a symptom
+you can actually notice while working — which is what caught this one.
+
+**One refinement recorded with it: the leak is originating, not referencing.** A beat draft citing an
+established stack to justify a beat is correct and expected. The failure is a planning document being the
+**only** place a character's characterization exists. **Swept the same day: nine planning documents across
+Books 1, 2, 3, 6 and 7 reference paradigm stacks, and every one was pointing at a sheet.** Sarn was the sole
+anomaly, and only because there was no sheet to point at.
 
 **What moved and what stayed.** The outline keeps the two architectural rules — *specimen never source* and
 *he never touches the child* — because both are constraints on the book's shape rather than on the man, plus

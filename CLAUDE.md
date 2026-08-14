@@ -392,6 +392,34 @@ beat draft changes, the skeleton entry for that chapter changes with it.**
 **Character sheets:** stack first, then function, then guardrails. The guardrails are the point —
 they are what stops a character from drifting between books.
 
+### Which document holds what — author's ruling, 2026-08-14
+
+**Beat drafts record story beats, not characterization. Outlines record structure and placement.
+Sheets record who someone is and how to write them.** If you find yourself writing characterization
+into a beat draft or an outline, that is not a stylistic wobble — **it is the signal that the
+character needs a sheet of his own**, and the fix is to make one and move it.
+
+**Who gets a sheet is decided by whether the characterization matters, not by how many books
+someone appears in.** Unnamed walk-ons never do. Characters who exist to fill a role usually do
+not. **Anyone whose characterization is important enough to crystallize — or important enough that
+the planning documents have started enforcing it — does.** A character in one scene can need a
+sheet if the scene depends on knowing him; a character in eight books needs none if he is only ever
+furniture.
+
+**The distinction is originating versus referencing, and only one of them is the leak.** A beat
+draft *citing* an established stack to justify why a beat must go a certain way is correct and
+expected — that is what §3 means by using the framework to validate decisions. **The leak is a
+planning document being the only place a character's characterization exists.** *(Swept
+2026-08-14: nine planning documents across Books 1, 2, 3, 6 and 7 reference paradigm stacks, and
+every one of them was referencing a sheet. Clean.)*
+
+*This entry exists because `People/Bittek Sarn.md` was argued against twice on the grounds that
+"sheets stop drift between books" and Sarn appears in one — which took the line above describing
+what guardrails **do** and made it a rule about who **qualifies**. The outline then had to absorb a
+stack, a psychology and five behavioural rules, and ended up containing the sentence "this is a
+constraint on how to write his restraint, not a beat" — a line inside a document of beats,
+announcing it was in the wrong file. **That sentence is the tell. Watch for it.***
+
 ---
 
 ## 7. Layout

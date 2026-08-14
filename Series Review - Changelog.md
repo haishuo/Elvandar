@@ -9142,3 +9142,34 @@ carries a **Voice** section marked *not yet locked*, with the useful constraint 
 not be given Ronas's register, and the truthful choice is that **he talks like a bigger man than he is**,
 borrowing cadence from people he has watched, which suits a man assembled entirely from other men's
 reputations.
+
+### The document-boundary rule, recorded in `CLAUDE.md` — author's ruling — 2026-08-14
+
+**The author's formulation, verbatim in substance:** *"Beat drafts are for recording story beats, not
+characterization. If you find yourself recording characterization in a beat draft, that is a sign the
+character needs to be moved to a dedicated sheet."* And who qualifies is decided by **whether the
+characterization matters**, not by book-span — unnamed walk-ons never, characters existing to fill a role
+usually not, anyone important enough to crystallize or important enough that the planning documents have
+begun enforcing it, yes.
+
+**It is now in `CLAUDE.md` §6**, directly beneath the definitions of beat drafts and character sheets, which
+is the boundary it governs. Generalised to outlines as well as beat drafts, because the instance that
+produced it was an outline rather than a beat draft and the same leak can happen in either.
+
+**Why his version is better than the one I had offered, which is worth being precise about.** Mine — *sheets
+hold who someone is and how to write them* — is **descriptive**: it tells you how to file something you have
+already recognised as characterization. His is **diagnostic**: it names a symptom you can notice while
+working, and the symptom is the thing that catches the error before it sets. That is the difference between a
+taxonomy and a test, and only the test does any work at the moment it is needed.
+
+**One refinement added: the leak is originating, not referencing.** A beat draft citing an established stack
+to justify why a beat must go a certain way is correct and is exactly what `CLAUDE.md` §3 means by using the
+framework to validate decisions. **The failure is a planning document being the only place a character's
+characterization exists.**
+
+**Swept before recording, and the result is clean.** Nine planning documents across Books 1, 2, 3, 6 and 7
+carry paradigm-stack language — B1 ch1 and ch2, B2 ch13 and ch17, B3's skeleton plus ch5 and ch6, and the
+Book 6 and 7 outlines. **Every one of them is referencing a sheet rather than originating characterization**,
+which is the correct direction. Sampled and read rather than counted. **Sarn was the sole anomaly and only
+because there was no sheet for the outline to point at** — so the rule arrives with no backlog attached, and
+nobody should go looking for one.
