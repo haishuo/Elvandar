@@ -49,7 +49,7 @@
 
 **On length and unnamed walk-ons.** This chapter runs ~4,600 and its companion `Neighbours` ~2,800. The pair was one 7,400-word chapter until 2026-08-04 and was split at the seam after the Rending exchange; Act II now runs 3,050 / 4,600 / 2,800, which is the shape a wonder sequence wants. Every unnamed walk-on — junior scholars, porters, the Arol Batae, the Tor'anar — is male by default under the standing rule.
 
-**Sets up:** `Neighbours` directly. The number is on the table and nobody can do anything with it, which is the condition the next chapter lives in. The closed-room reading is also what *The Repository*'s bequest framing is built on two chapters later — *nothing here was abandoned; everything was set down.*
+**Sets up:** `Neighbours` directly. The number is on the table and nobody can do anything with it, which is the condition the next chapter lives in. The closed-room reading is also what `Bequest`'s framing is built on two chapters later — *nothing here was abandoned; everything was set down.*
 
 ### The graded wonder — trimmed 2026-08-14
 

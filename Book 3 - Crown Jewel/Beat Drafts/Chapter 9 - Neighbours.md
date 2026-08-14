@@ -41,4 +41,4 @@
 
 **On the Tor'anar and the Arol Batae.** Furniture, exactly as in `Inhabitants`, and for the same reason. One glancing observation is the whole budget. Do not give either institution a scene.
 
-**Sets up:** `The Repository`. The scholars have located it from Crown-level cross-references and have started calling it that, half certain and half hoping. Elara does not move toward it and some part of her has already started down. Her reactions, held small across these two chapters, begin to grow from here.
+**Sets up:** `Bequest`. The scholars have located the Repository from Crown-level cross-references and have started calling it that, half certain and half hoping. Elara does not move toward it and some part of her has already started down. Her reactions, held small across these two chapters, begin to grow from here.

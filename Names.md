@@ -169,7 +169,7 @@ V-initial, sharing an expedition with **Vesk**.
 
 ## Retired before use — do not reintroduce
 
-***Hedrin Vall*** was a named Urathan antagonist in an early draft of *The Repository*, **cut on
+***Hedrin Vall*** was a named Urathan antagonist in an early draft of B3 ch10 (*Bequest*, then titled *The Repository*), **cut on
 purpose**: Book 3 has no named Urathan villain, and the contingent is written as scholars doing
 scholarship. The political seed is *the scholars cannot stop themselves*, which Uratha-the-state
 weaponizes later — a named villain would convert that into ordinary malice and lose it.

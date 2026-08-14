@@ -23,7 +23,7 @@ them before it is proposed against the prose.
 | **Rule 3** — single-emotion integrity | 0 | — |
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
-| **Book 3 — in draft** | 2 | ch11 prose not started; Places-vs-map audit unfinished |
+| **Book 3 — in draft** | 1 | Places-vs-map audit unfinished |
 | **Open questions** | 0 | — |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
@@ -32,8 +32,9 @@ withdrawn, or applied. Book 3 is live work rather than review findings — see [
 **Book 3 is 21 chapters as of 2026-08-04.** `Chapter 6 - Fair Price` was inserted between *Hubris* and
 *Wonder* on 2026-08-03 to carry the return from Uratha and the purchase of a supply line into the Warrens,
 shifting everything from *Wonder* down by one — *Wonder* is now **ch7**. Then `Inhabitants` and `Neighbours`
-were split out of one 7,400-word chapter on 2026-08-04. **Prose exists for ch1–10**; beat drafts exist for
-all twenty-one. Next prose is `Chapter 11 - The Destiny Engine`.
+were split out of one 7,400-word chapter on 2026-08-04. **Prose exists for ch1–13**; beat drafts exist for
+all twenty-one. Next prose is `Chapter 14 - Ruthless Calculus`. **Ch10 and ch11 were retitled on
+2026-08-14** — `Bequest` and `Time`, replacing `The Repository` and `The Destiny Engine`.
 
 **Before flagging anything here as outstanding, check the history.** This document has now produced
 more stale entries than live ones. Eight of the original eleven Book 1 craft flags were stale — the
@@ -572,16 +573,8 @@ C-26, C-27 and C-28 were opened in their place and all three are applied — see
 
 These are live work, not review findings against finished prose.
 
-**B3-1 — prose exists for ch1–10; `Chapter 11 - The Destiny Engine` not started.** `Inhabitants` and
-`Neighbours` were one 7,400-word chapter until 2026-08-04 and were split at the seam after the Rending
-exchange — *"The number did not move."* Book 3 is **21 chapters**.
-
-Three things the remaining Lathion chapters must hold. **Nothing in the city is damaged or declining** —
-the Lathionese closed the house and walked out, and any beat implying decay argues against the bequest
-framing. **Nothing may date the city before the characters date it**: three separate narration lines had
-to be cut for asserting *twenty years* ahead of the discovery, and the seal date of two thousand years is
-a number no character can ever have. **Elara does not read** — impressions only, and the scholars' shift
-from *what does this say* to *is this important* is the political seed.
+**B3-1 is closed** — the Lathion arc is written through ch13 and the three constraints it carried are
+now a settled ruling; see [§6](#6-settled-rulings).
 
 **B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
 
@@ -820,7 +813,8 @@ not touch.
 
 ### B3 ch10's length stands at 7,454 words — **AUTHOR'S RULING 2026-08-05**
 
-**`The Repository` is the longest chapter in Book 3 and that is fine.** It was raised as a concern and the
+**`Bequest` is the longest chapter in Book 3 and that is fine.** *(Titled `The Repository` when this was
+ruled on; retitled 2026-08-14.)* It was raised as a concern and the
 author ruled on it directly: *"Ch10 length seems fine to me."* **Do not propose cutting it again**, and do
 not treat the profile as an argument on its own — 7,454 against an Act II of 3,051 / 4,716 / 2,808 looks
 outsized in a table and reads correctly on the page, which is exactly what the house rule about judging a
@@ -1539,6 +1533,115 @@ instructions out of numbered beats into footers across all 64 drafts. Ch7, ch11 
 and **ch7 dodges the trap at its most exposed point** — its draft carries the ch4 shape verbatim (*"They are
 not standing at the entrance to a ruin"*) and the prose never uses the word. **The two rules are a pair:
 keep instructions out of beat bodies, then check the page for what got through anyway.**
+
+---
+
+### The beat-body exceptions are settled — do not re-flag them a third time — 2026-08-14
+
+**The 2026-08-02 instruction/body rule has two recorded exceptions, and they are not oversights.** **Negative
+choices** (a character visibly not doing something) are events and stay in beat bodies. **Effect analysis** (a
+statement about what a beat achieves) is not an order and stays. That entry closed with *"the distinction is
+recorded because a future sweep will want to take them too."*
+
+**On 2026-08-14 a sweep of ch14–21 returned about sixty items, and the great majority were exactly those two
+exceptions.** Every high-signal item was probed against the 08-02 commit and found **already present when
+that sweep finished** — nothing had reaccumulated; they had been deliberately left. **All declined.** If a
+future audit surfaces *"the reader sees…"* statements, *"not snobbery"*-shaped negations, or *"this is
+important"* emphases inside Book 3 beat bodies, **that is this ruling, not a finding.**
+
+**What *was* real in the same audit is the POV half**, which 08-02 was not hunting — its own record describes
+the catch in the singular. **Nine unstageable beats fixed** across ch16–ch21, and the diagnostic that found
+them is worth keeping: **look for a footer stating a constraint and the beat under it breaking that same
+constraint.** Ch17's footer had contradicted itself (*"None of that is available to the narration"* closing on
+*"The beat ends on the report being filed"* — in Vartonne), which is precisely why that beat survived the
+first sweep. **A footer at war with its own beat is a bug, not a second opinion.**
+
+### Ondra Kelgrav chairs the Consortium — CLOSED, resolved against canon 2026-08-14
+
+**She is the Chair.** Authority is `Places/Gunastran/Gunastran_ The Land of Magi-Tech.md` (*"Current Consortium
+Chair, Master Engineer Ondra Kelgrav… she chairs Book 3's vote for war"*) plus the dated 2026-08-01 ruling that
+retired **Veldrin Torkal** from canon. B3 ch14's draft contradicted itself in three places — beat 3's *"not its
+chair"* and a separate male chair in beats 4 and 15 — all residue from before that ruling, now conformed.
+**Beat 15's tension survives the fix:** an engineer being asked to cross into policy, with the question coming
+from the table and her chairing made part of the difficulty rather than a contradiction of it. *Do not
+reintroduce a second chair, and do not restore Torkal.*
+
+### B3-1 — CLOSED. The Lathion arc is written, and its three constraints held — 2026-08-14
+
+**The entry was stale and had been for eight days.** It read *"prose exists for ch1–10; `Chapter 11 - The
+Destiny Engine` not started"*, and was found during the ch10/ch11 retitle: ch11 drafted 2026-08-06, ch12 the
+same week, ch13 on 2026-08-13. **Prose exists for ch1–13 and the next chapter is ch14 `Ruthless Calculus`.**
+This is the failure mode §5 of `CLAUDE.md` names by name — a flag that outlives its problem — and it survived
+because nothing in the drafting loop goes back to the status block when a chapter lands. **Update the status
+block in the same commit as the chapter, not afterward.**
+
+**The three Lathion constraints are preserved here because they bind again in Book 7**, when the series
+returns to the city (`Book 3 - Crown Jewel/_LATHION_AFTER.md`). **Nothing in the city is damaged or
+declining** — the Lathionese closed the house and walked out, and any beat implying decay argues against the
+bequest framing. **Nothing may date the city before the characters date it** — three narration lines were cut
+for asserting *twenty years* ahead of the discovery, and the seal date of two thousand years is a number no
+character can ever have. **Elara does not read** — impressions only; the scholars' shift from *what does this
+say* to *is this important* is the political seed. All three held across ch7–ch11 as written.
+
+---
+
+### B3 ch10 and ch11 retitled — `Bequest` and `Time` — author's ruling, 2026-08-14
+
+**The old titles were `The Repository` and `The Destiny Engine`, and both named the room rather than the
+chapter.** The author raised them as too straightforward and proposed both replacements; both were adopted
+whole. **No prose changed in either chapter** — the room is still called the Repository in the text, which is
+correct, because the scholars derive that name from Crown-level cross-references and use it in front of the
+reader.
+
+**The load-bearing reason, and the one to keep: *Destiny Engine* is not a name the book has.** The prose calls
+it *the Engine*, and *Destiny Engine* appears in **zero chapters of any book** — it lives in the canon files
+(`Magic/`, `Places/Kaha'an/`, `People/Elara's Connection to Lathion.md`, the Book 8 outline) and in the
+skeleton. Putting it on a chapter made the one place a workshop label leaked onto the page, and it leaked
+against the standing rule that no Lathionese proper name is used by any character or by the narrator in
+Xion's POV. **The artifact keeps the name in the canon files; the chapter does not carry it.**
+
+**What each title is doing.** `Bequest` is the word the ch10 draft says the chapter reaches for and cannot
+hold — *"The Repository is not a library. It is a bequest. She does not use that word; she does not have to"*
+— so the title is the one sanctioned place to say it, and it pays off in the closing image of a woman standing
+in a house left to her. `Time` is staked in the chapter: it is one of Ormuth's four words off the wall
+(*Seal. Threshold. Time.* — *Necessary*), and the chapter is metronomed by it end to end, from *made this in
+months* to *they had months* to the three-second count in the last line. The pair reads as what they left and
+what it cost.
+
+**A title family now exists and is intentional:** B2 ch16 `Disinheritance`, B3 ch2 `Inheritance`, B3 ch10
+`Bequest` — cast out of it, born to it and unable to use it, deliberately left by the dead. Ch11 reveals the
+second and third are the same thing. **Do not add a fourth without a reason.**
+
+**Runner-up, recorded so it is not re-proposed as new:** `Necessary`, Ormuth's fourth word. More distinctive
+on a contents page, and there is house form for titling on a spoken word (B2's `Don't.`), but it aims at one
+beat where `Time` covers the whole spend, and it breaks the diptych.
+
+---
+
+### Book 3's renumbering makes chapter numbers unsafe in the record — 2026-08-14
+
+**`Fair Price` inserted as ch6 (2026-08-03) and `Inhabitants` split at the Rending seam (2026-08-04) shifted
+every chapter below by two.** Editorial entries written before those dates name chapters that are now two
+higher. The 08-02 sweep section in the changelog has been annotated with a full title mapping rather than
+rewritten, since it is append-only history. **Titles are the stable identity; numbers are not.** Four stale
+cross-references were already found inside ch13's own draft from the same cause. **When citing a Book 3 chapter
+in any editorial document, give the title.**
+
+**The residue itself is CLOSED.** ch15 `The Proposal` was the only draft carrying stale references to *other*
+chapters — four corrected on 2026-08-14, three others in the same file left standing because they were already
+right. **Every Book 3 draft was then scanned for the class and is clean**; the apparent hits elsewhere are
+footers discussing their own chapter by number, which is correct usage. **The lesson worth keeping is the
+method, not the count: check each reference against the chapter it names, never shift a file by a fixed
+amount.** ch15 had been updated unevenly — some references short by one, some by two — so a blanket +2 would
+have broken the three that were correct. **Where a number is genuinely ambiguous, make the reference
+descriptive** (*"the irony this chapter runs on"*) rather than renumbering it, so it cannot go stale again.
+
+**Amended 2026-08-14: titles are the *more* stable identity, not a permanent one.** Ch10 and ch11 were
+retitled the same day, which means editorial entries written before it name `The Repository` and `The Destiny
+Engine` for chapters now called `Bequest` and `Time`. **Both old titles are also room-and-artifact names that
+remain correct in the prose and the canon files**, so a search for either will return live, valid hits that
+must not be "corrected" — check whether a reference means the chapter or the thing before changing it. The
+append-only changelog entries predating the rename were left standing, as with the renumbering.
 
 ---
 

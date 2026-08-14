@@ -4776,6 +4776,17 @@ constructions of the kind the register forbids outright, and both were sitting i
 drafter would transcribe them. Both now stop where their character stops; the downstream reasoning is in
 the footers, flagged as unavailable to the narration.
 
+> **Renumbering note, added 2026-08-14 — every Book 3 chapter number in this section is now two lower than
+> the chapter it names.** This entry was written when Book 3 had 19 chapters. `Fair Price` was inserted as
+> ch6 on 2026-08-03 and `Inhabitants` was split at the Rending seam on 2026-08-04, shifting everything below
+> by two. **Titles are the stable identity here; numbers are not.** The sweep covered, by title:
+> *Ruthless Calculus* (then ch12, **now ch14**), *The Proposal* (13 → **15**), *Crossroads* (14 → **16**),
+> *Good Faith* (15 → **17**), *The Compact* (16 → **18**), *A Warrior's Heart* (17 → **19**), *Valanar*
+> (18 → **20**), *First Strike* (19 → **21**). So the POV beat fixed above sits in **A Warrior's Heart**,
+> and the two flash-forwards in **Good Faith** and **The Compact**. Read at face value today, this section
+> claims a sweep of chapters it never touched and no coverage of *Valanar* or *First Strike*, which it did.
+> **Nothing above was altered** — this is history and stays as written.
+
 **B1 ch3 beat 15 paraphrased a line it marked as verbatim.** The draft had *"the one about preferring a mad
 friend, because a mad friend I can walk home"*; the prose reads *"I'd rather my friend was mad. Because a
 mad friend I can walk home."* Book 1's page is the source and its drafts are derived, so the draft was
@@ -8709,3 +8720,183 @@ is drafted rather than retrospectively.**
 
 *(ch4 6,366→6,316 · ch5 5,319→5,306 · ch6 5,955→5,921 · ch8 4,716→4,705 · ch10 7,430→7,417. Five beat
 drafts annotated in the same commit; Royal Road regenerated.)*
+
+## 2026-08-14 — ch14–21 audited: POV breaches fixed, instruction relocations declined
+
+**Asked for as "the same sweep for ch14 onward," and the premise did not hold.** Those chapters have **no
+prose** — beat drafts only. The drafter-instruction sweep tests the finished page against its plan, so with
+no page there is nothing it can find. Ran the **preventive** half of the pair instead: the 2026-08-02 rule
+that instructions must never sit inside numbered beats, which is the condition that produces the defect once
+a chapter gets written.
+
+### The large half of the result was declined, and the reason is on the record already
+
+About sixty items came back across eight drafts. **Probed the high-signal ones against the 08-02 sweep
+commit, which touched all eight files: every one was already there when that sweep finished.** Nothing has
+reaccumulated. These sentences went through a deliberate separation pass and were left standing — and that
+entry says why, in a line that reads as though written for this day:
+
+> **Two things were deliberately left in the bodies**, and the distinction is recorded because a future
+> sweep will want to take them too.
+
+**Negative choices** are events and stay. **Effect analysis** is not an order and stays. Between them they
+cover the bulk of what came back — the *"the reader sees…"* statements, the *"not snobbery"* and *"not a
+mask over devastation"* negations, the *"this is important"* emphases. **This audit was the predicted future
+sweep, and it wanted precisely what it had been told to leave.** Declined in full, and recorded here so a
+third pass does not spend another afternoon rediscovering them.
+
+### The half that was real: POV breaches
+
+The 08-02 commit describes its POV catch in the singular — *"and one beat that no POV could see."* It was
+hunting misplaced instructions; unstageable beats were incidental. **Nine more, and the strongest are
+unarguable because the chapter's own footer forbids exactly what the beat body does.**
+
+- **ch19 `A Warrior's Heart` beat 17** — *"the one no Compact planner will be drawing on any map now."* The
+  Sentinel Mountains footer says in as many words that this **"cannot be narrated, because none of it is
+  visible from where Xion is standing."** Clause cut; the mountains are still named once in his hearing.
+- **ch18 `The Compact` beat 19** — *"Kalden does not know yet what this evening will cost"* against a footer
+  reading **"nothing in the closing image may reach forward."** Now *he knows what this evening has already
+  cost him, and finds that sum acceptable.* (*"The second sum"* lost its antecedent with the cut and was
+  rephrased.)
+- **ch17 `Good Faith` beat 17** — the envoy's account composed *during the return journey*, plus *he will
+  never understand what he actually did.* Relocated to the blindspot footer. Xion reads the man's
+  complacency at the door and cannot read one word of what it becomes.
+- **ch17 beat 21** — staged the envoy arriving home with **Vartonne as the perceiving party**, in a chapter
+  at Xion's shoulder in Kaha'an. **The footer had contradicted itself and that is why the beat survived
+  08-02:** it said *"None of that is available to the narration"* and then closed on *"The beat ends on the
+  report being filed"* — but a report filed in Vartonne is no more visible than the recruitment. Footer
+  corrected; the beat now ends in Kaha'an, session moving to the next item, nobody treating it as an event.
+- **ch16 `Crossroads` beat 17** — Kalden's private wound, Gunastran's continuing ignorance, and the Compact
+  consolidating over following chapters, none of it visible from a closed audience room. **The header's
+  camera pull-back is a focal-distance shift, not a POV break** — it stays trained on Xion and does not
+  travel to Erulius. Cut; the secrecy-consequence footer already held all three.
+- **ch21 `First Strike` beat 1** — the chapter opened on a courier delivering the report *"before Xion and
+  Elara are in the room."* He now walks in on it being given. Beat 2's *"Xion arrives already knowing"*
+  adjusted to match.
+- **ch21 beat 15** — Elara's private reckoning over Kalden, recast as what Xion can read and declines to
+  name.
+- **ch20 `Valanar` beat 13** — one sentence, her private conclusion plus an out-of-world *"throughout Book 3"*. Cut; the declined negations in the same beat were left alone.
+- **ch21 beat 16** — Farleen's interior, in a beat that **states outright that none of it is visible**
+  (*"if anyone looked at her face right now they would see nothing except attentiveness"*) and then narrates
+  it anyway. Moved to her footer, flagged as the reader's to assemble. What reaches the page is a woman
+  checking a window latch.
+
+### ch14's Ondra contradiction — resolved against external canon
+
+The header and beat 2 made her **Chair of the Industrial Consortium**; beat 3 said *"not its chair"*; beats
+4 and 15 had a separate chair with a male voice. **`Places/Gunastran/Gunastran_ The Land of Magi-Tech.md`
+settles it** — *"Current Consortium Chair, Master Engineer Ondra Kelgrav… **she chairs Book 3's vote for
+war**"* — as does the dated 2026-08-01 ruling retiring the previous chair, Veldrin Torkal. **Beats 3, 4 and
+15 were residue from before that ruling.** Beat 3 now has her chairing and being *an engineer before she is
+a politician*, which is the canon file's own phrasing and keeps the characterization the negation was
+carrying. **Beat 15 was the one with something to lose** — its tension is an engineer asked to cross into
+policy — so the question now comes from the table rather than a phantom chair, and her eleven years of
+*keeping the two apart while chairing the room where they meet* makes the chair fact work for the beat
+instead of against it.
+
+*(Thirteen beat bodies and three footers edited across seven drafts. No prose exists for any of these chapters, so
+nothing was regenerated.)*
+
+### B3 ch15 `The Proposal` — renumbering residue corrected — 2026-08-14
+
+**The last item outstanding from the ch14–21 audit.** Book 3 was renumbered twice after this draft was
+written (`Fair Price` inserted as ch6 on 08-03, `Inhabitants` split on 08-04), and the file had been updated
+**unevenly** — some references short by one, some by two, some already correct.
+
+**Method matters here: each reference was checked against the chapter it names, not shifted by a fixed
+amount.** Three of the seven were already right, and a blanket +2 would have broken all three.
+
+**Corrected:**
+- *Emotional work* — the Kalden question must stay live in **Chapter 16**, not "Chapter 15", which is this
+  file naming itself. Both closing footers already said Chapter 16.
+- *Kalden's blind spot* — **Ch16's** refusal, not "Ch15's". That footer's own heading already read
+  *(for Ch16)*, so it had been contradicting itself in the space of four lines.
+- *Why the proposal is confidential* — "the Chapter 13 irony" → **"the irony this chapter runs on"**. The
+  number was genuinely ambiguous between `Awakening`'s blind refusal and this chapter's blind deciding.
+  **Made descriptive rather than renumbered, so it cannot go stale a third time.**
+- *Timeline* — the Gunastran refusal was **two chapters ago**, not "a chapter ago"; `Ruthless Calculus` sits
+  between.
+
+**Left standing because they were already correct:** `Chapter 13` as the home of the Gunastran cold open
+(twice), the cold open having *moved to Chapter 13*, `Chapter 14` as where the reader learns what it
+detonated, and the three `Chapter 16` references in the closing footers.
+
+**And the rest of Book 3 was scanned for the same class: clean.** The apparent hits are all footers
+discussing their own chapter by number, which is correct usage, plus one *Book 1 ch23* that is valid. **ch15
+was the sole casualty of the renumbering, and it is now closed.**
+
+### B3 ch10 and ch11 retitled — `Bequest` and `Time` — 2026-08-14
+
+**Author's call, and both replacements were his.** The old titles were `The Repository` and `The Destiny
+Engine`; he raised them as too straightforward and proposed *Bequest* (what the Lathionese left) and *Time*
+(what they spent). Both adopted whole. **No prose changed in either chapter.** The room is still called the
+Repository on the page, which is correct — the scholars derive that name from Crown-level cross-references
+and use it in front of the reader.
+
+**The two titles were the only map labels in a book of POV abstractions** — Scars, Hubris, Wonder, Fair
+Price, Neighbours, Awakening — which put a dungeon itinerary at exactly the point the book stops being about
+exploration. Ch10's own draft footer names its core movement as *exploration* to *receipt*, and the old title
+sat on the exploration side of it.
+
+**The harder defect, and the reason this was more than taste: *Destiny Engine* is not a name the book has.**
+The prose calls it *the Engine*. *Destiny Engine* appears in **zero chapters of any book** — it is a canon-file
+label (`Magic/arcane_magic_system.md`, `Magic/arcane_combinations.md`, `Places/Kaha'an/`, `People/Elara's
+Connection to Lathion.md`, `book8_outline.md`) — so the chapter title was the single place a workshop label
+reached the page, against the standing rule that no Lathionese proper name is used by any character or by the
+narrator in Xion's POV. It also front-ran the chapter's best sequence, which is the ordering of facts — hasty
+corridor, unfinished chamber, ugly machine, the argument cut into the wall — by announcing a named artifact
+before the corridor opens. **The artifact keeps the name in the canon files. Those were not touched.**
+
+**`Bequest` is the word the chapter is built to withhold.** Beat 15 of the draft: *"The Repository is not a
+library. It is a bequest. She does not use that word; she does not have to."* The title is the one sanctioned
+place to say it, and the chapter's last image already pays it off — *"standing the way a person stands in a
+house that has been left to them."* **Cost, stated honestly:** a reader who knows the word gets the frame a few
+pages early. Accepted — the chapter is not built as a twist, and ch11's footer says the reader is meant to run
+slightly ahead of the characters on the recency thread.
+
+**`Time` is staked in the chapter, not imposed on it.** It is one of Ormuth's four words off the wall — *Seal.
+Threshold. Time.* — *Necessary* — so the title is a word cut into the Engine's casing. And the chapter is
+metronomed by it: three seconds and three seconds, *"Somebody made this in months,"* the twenty years, *"They
+had **months**"* said four separate times, and the closing image of Elara's hand moving on the blanket three
+seconds apart. It also answers Brennek's ch10 line, *"There's no clock in this room"* — the Engine is the clock.
+
+**The pair is the point.** *Bequest* / *Time* — what they left and what it cost — across two chapters the drafts
+already treat as gesture-then-cause.
+
+**Runner-up, recorded so it is not re-proposed as new:** `Necessary`. More distinctive on a contents page, and
+there is house form for titling on a spoken word (B2's `Don't.`), but it aims at one beat where *Time* covers
+the whole spend, and it breaks the diptych.
+
+**A title family now exists and is intentional** — B2 ch16 `Disinheritance`, B3 ch2 `Inheritance`, B3 ch10
+`Bequest`: cast out of it, born to it and unable to use it, deliberately left by the dead who chose you without
+knowing you. Ch11 reveals the second and third are the same thing. Flagged to the author before applying;
+**do not add a fourth without a reason.**
+
+**What was touched.** Both chapter files and both beat drafts renamed with `git mv`; the beat-draft headings;
+`Sets up:` lines in the ch8, ch9 and ch10 drafts and in the ch3 draft's footer; five entries and the structural
+notes in `book3_chapter_skeleton.md`; the retired-name entry in `Names.md`; the status block and §3/§6 of the
+master list; and `Royal Road/` regenerated, which renamed two HTML files. **Nothing dated before today was
+rewritten** — earlier entries in this file name the old titles and stand, as with the renumbering.
+
+**Both old titles remain live text elsewhere and must not be swept.** *The Repository* is the room, in the
+prose and in `Places/Kaha'an/`; *The Destiny Engine* is the artifact, in the canon files. A grep for either
+returns valid hits. **Check whether a reference means the chapter or the thing before changing it.**
+
+### B3-1 was stale by eight days — status block corrected — 2026-08-14
+
+**Found while retitling, not looked for.** The master list's status block and its B3-1 entry both said *"prose
+exists for ch1–10; `Chapter 11 - The Destiny Engine` not started."* Ch11 was drafted 2026-08-06, ch12 the same
+week, ch13 on 2026-08-13, and every one of those has an entry in this file above. **Prose exists for ch1–13;
+next is ch14 `Ruthless Calculus`.** The status table's Book 3 count drops from 2 to 1 — the Places-vs-map audit
+is the only live item left.
+
+**Cause, and the fix that matters more than the correction.** Nothing in the drafting loop returns to the status
+block when a chapter lands, so the block records the state of the world on the day someone last thought about
+it. **Update the status block in the same commit as the chapter.** This is the exact failure `CLAUDE.md` §5
+describes — a flag that outlives its problem — and it is now the third time it has been caught by something
+else rather than by a check of its own.
+
+**B3-1's three Lathion constraints were preserved, not deleted**, and moved into the master list's settled
+rulings: nothing in the city is damaged or declining; nothing may date the city before the characters date it;
+Elara does not read. All three held across ch7–ch11 as written, and **they bind again in Book 7**, when the
+series returns to the city.

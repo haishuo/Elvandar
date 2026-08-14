@@ -187,9 +187,9 @@ that assumption is left **pure**; its "five thousand years" language is reasonab
 *Inhabitants* — it discovers the city was emptied only twenty years ago, names the coincidence aloud
 (*twenty years is also the Rending*) and dismisses it on the only ground available, that no surface
 catastrophe reaches a sealed city. The dismissal is correct on the evidence and does not settle.
-*The Repository* — recency deepens through a second, independent piece of evidence; the bequest
-framing emerges; political and military framing stay off, and the weight on Xion is moral. *The
-Destiny Engine* — the dismissed hypothesis is **confirmed rather than deduced**: Elara witnesses the
+*Bequest* — recency deepens through a second, independent piece of evidence; the bequest
+framing emerges; political and military framing stay off, and the weight on Xion is moral. *Time* —
+the dismissed hypothesis is **confirmed rather than deduced**: Elara witnesses the
 Rending itself and learns Lathion died in the catastrophe that orphaned her.
 
 **Consequence for the five-thousand-year language.** *Wonder* keeps "five thousand years" as the
@@ -257,11 +257,11 @@ The dispatch goes up — required by the access terms, factual, measured, and su
 
 He finds Elara at the railing for the third time in two days. The scholars have found Crown-level cross-references to a chamber below where the Lathionese kept what they knew, and have started calling it *the Repository*, half certain and half hoping. Neither of them says that this is where the heart of the place is. She does not move toward it, and some part of her has already started down.
 
-**Sets up:** `The Repository`, and — through the recency thread these two chapters establish — the dread that pays off in Chapter 11, when Elara learns *what* happened twenty years ago.
+**Sets up:** `Bequest`, and — through the recency thread these two chapters establish — the dread that pays off in Chapter 11, when Elara learns *what* happened twenty years ago.
 
 ---
 
-### Chapter 10: The Repository
+### Chapter 10: Bequest
 **Timeline: Deeper into the exploration**
 **Characters present: Xion, Elara, Urathan scholars, Brennek**
 **Emotional work: The weight of depth — scale not of space but of knowledge**
@@ -276,11 +276,11 @@ The Urathans' discovery is different in kind. They've reached the theoretical se
 
 He thinks about the dispatches already sent to Uratha. He doesn't know yet what those dispatches have set in motion.
 
-**Sets up:** The Destiny Engine chapter — there is one more level to find.
+**Sets up:** `Time` — there is one more level to find.
 
 ---
 
-### Chapter 11: The Destiny Engine
+### Chapter 11: Time
 **Timeline: The final discovery**
 **Characters present: Xion, Elara, research teams**
 **Emotional work: Wonder turns to horror — what Lathion cost, and how recently it cost it**
@@ -557,8 +557,9 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 
 ## Structural Notes
 
-**Chapter count:** 21 (17 originally; the Lathion exploration was expanded — Ch 3 "Storm-Line" was inserted on 2026-08-01; Ch 6 "Fair Price" on 2026-08-03, shifting everything from Wonder down by one; and on 2026-08-04 "Inhabitants" was split at the Rending seam into Ch 8 "Inhabitants" and Ch 9 "Neighbours", carrying "The Repository" to Ch 10 and "The Destiny Engine" to Ch 11. *Count corrected 2026-08-04; it had been left at 20 after the split.*)
-**Why the restructure:** The Destiny Engine's original placement (Ch 14 of the 17-chapter version) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 11 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Lathion mid-crisis.
+**Chapter count:** 21 (17 originally; the Lathion exploration was expanded — Ch 3 "Storm-Line" was inserted on 2026-08-01; Ch 6 "Fair Price" on 2026-08-03, shifting everything from Wonder down by one; and on 2026-08-04 "Inhabitants" was split at the Rending seam into Ch 8 "Inhabitants" and Ch 9 "Neighbours", carrying Ch 10 and Ch 11 down one apiece. *Count corrected 2026-08-04; it had been left at 20 after the split.*)
+**Ch 10 and Ch 11 were retitled on 2026-08-14** — "The Repository" → **"Bequest"**, "The Destiny Engine" → **"Time"**. Both old titles named the room rather than the chapter, and *The Destiny Engine* named it in a register the book does not have: the prose calls it *the Engine*, and *Destiny Engine* is a canon-file label that appears in no chapter of any book. The artifact keeps that name in the canon files; the chapter does not carry it. Nothing in either chapter's prose changed.
+**Why the restructure:** The Engine chapter's original placement (Ch 14 of the 17-chapter version) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 11 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Lathion mid-crisis.
 
 **POV:** Primarily Xion, with two deliberate POV breaks: Gunastran (Chapter 14) and Kalden (Chapter 18). This mirrors Book 2's use of rare, load-bearing interludes. The Gunastran scene plants dramatic irony: the reader knows Gunastran has committed to war; Xion and Elara can see only that a coalition is *forming*, not how far it has already gone, when they resolve the love triangle.
 

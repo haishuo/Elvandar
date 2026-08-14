@@ -1,4 +1,4 @@
-# Chapter 10: The Repository
+# Chapter 10: Bequest
 
 **Timeline:** Days after Chapter 9 — the expedition has settled into the rhythm of working in Lathion, and begins descending past the Crown
 **Characters:** Xion, Elara, the surveyor Brennek, the Urathan scholars (treated as a contingent rather than singled out by name); Farleen at the camp; the Arol Batae detail and the Tor'anar detachment present throughout
@@ -73,7 +73,7 @@
 
 **The dispatch beat.** Handled in a single beat (18), without dwelling. The earlier dispatch is already in Uratha and has already done whatever it has done. The next dispatch — which will contain the Repository — is being composed and Xion knows it. He notes the thought and lets it go. The Ch12 escalation will land harder for having been refused dramatization here.
 
-**Sets up:** Chapter 11 (The Destiny Engine). Elara's *they were not strangers* and *they knew* are the threads. The bequest framing primes the reader to receive the Engine's revelation as the gesture's *cause* — when Ch10 shows Elara what the Lathionese chose, the Repository retroactively becomes their last act before the choice. The recency thread (now confirmed twice) is one Brennek observation away from being undeniable, and the discovery of the Engine — visibly other, hastily built, the one thing in Lathion that does not match — will close the gap the characters have refused to close themselves.
+**Sets up:** Chapter 11 (`Time`). Elara's *they were not strangers* and *they knew* are the threads. The bequest framing primes the reader to receive the Engine's revelation as the gesture's *cause* — when Ch10 shows Elara what the Lathionese chose, the Repository retroactively becomes their last act before the choice. The recency thread (now confirmed twice) is one Brennek observation away from being undeniable, and the discovery of the Engine — visibly other, hastily built, the one thing in Lathion that does not match — will close the gap the characters have refused to close themselves.
 
 ### The planted-detail line — cut 2026-08-14
 
