@@ -115,6 +115,12 @@ day. Neither has ever said so to the other on the page.
 | **Darius Severen** | Erulian commander; once a Urathan scholar |
 | **Bregan Haldorn** | Field Commander, Gunastran |
 
+## Book 6 — the Warrens
+
+| Name | Who | Register |
+|---|---|---|
+| **Bittek Sarn** | Slaver lieutenant under Ronas. The one antagonist in the series written with no redeeming feature; present across all four acts and killed by Tiberian in Act IV. Design and guardrails in `book6_outline.md` | Proto-Balishan |
+
 ## Houses and factions
 
 | Name | Who |
@@ -166,6 +172,29 @@ initial in the entire series, and it shares its /l/ and /θ/ with **Lathion**, w
 in exactly the chapters the scholar appears in. **Both names replace *Kaiden Voss***, who was never
 written, whose nation the sources disagreed on, and who was himself a collision — one syllable,
 V-initial, sharing an expedition with **Vesk**.
+
+## Coined 2026-08-14 — Bittek Sarn
+
+**Book 6's initials are crowded and the crowding is lopsided.** Spoken in that book: T (Tiberian), M
+(Melina), X (Xion), E (Elara), R (Ronas), F (Farleen) — and **three K's**, since *Kess*, *Kai* and *Kael*
+all share it, which is the register's one live hazard already flagged above. **B and S were both free**, and
+the name takes one of each.
+
+Proto-Balishan, which is the Warrens register — *Dermir*, *Darfi*, *Corris*, *Vesk*. It carries the
+signature *-ek* ending and a doubled consonant, both on the language guide's list for the family.
+
+**One near-collision, checked and cleared: *Sarn* against Book 1's *"Lady Sarif."*** Three shared opening
+letters is close enough to be worth writing down. Sarif is Elara's false identity in B1 ch9–10 and appears
+nowhere else in the series, so **the two never share a book, a scene or a sentence** — the same ground on
+which *Lyra / Lira* was ruled acceptable. **Recorded here so it is not discovered later and "fixed" by
+someone doing the right thing for the wrong reason.**
+
+***Brennek*** shares the *-ek* ending and does not appear in Book 6 at all, so the two never meet either.
+Rejected alternatives, all checked clean and still free for later use: *Nillek*, *Havvik*, *Duvvin*,
+*Gossek*, with *Dolch* and *Grask* as house names.
+
+**Still uncoined:** the capable lieutenant Sarn betrays in Act III. He carries real weight as the last
+legible actor in the Warrens and probably wants a name; it has not been made.
 
 ## Retired before use — do not reintroduce
 

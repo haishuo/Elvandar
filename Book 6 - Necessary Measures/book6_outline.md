@@ -113,9 +113,9 @@ She's not wrong. The complexity is real. But the complexity is also a shield.
 **The other face, and it is the same technique pointed the other way.** *(Added 2026-08-14.)* The brief above
 is explicit that sixty thousand people are unthinkable and one named child is not. **The book applies that to
 the victims and has never applied it to the perpetrators**, who exist across all four acts as three categories
-— the psychos, the predators, the opportunists — and not one face. So Act I also introduces **Bittek Sarn**
-*(name provisional; see the structural note)*, a Slaver lieutenant, and the reader is given time to loathe him
-while Ronas is still alive and nothing can be done about him.
+— the psychos, the predators, the opportunists — and not one face. So Act I also introduces **Bittek Sarn**, a
+Slaver lieutenant, and the reader is given time to loathe him while Ronas is still alive and nothing can be
+done about him.
 
 **What he is in Act I is a man operating at exactly the permitted maximum.** Ronas's rule is on his own sheet
 — *the product is not to be damaged beyond what extraction requires* — and Ronas punishes lieutenants who
@@ -475,14 +475,12 @@ opposition disarmed first"* — standing next to a Competitor primary with termi
 organisation, proving the doc's own line that a Merchant in the stack and a Merchant on top with nothing else
 are radically different people.
 
-**The name is provisional and needs the author's ruling.** *Bittek Sarn* is Proto-Balishan register, matching
-Dermir, Darfi, Corris and Vesk; B and S are free initials in a book already carrying Tiberian, Melina, Ronas,
-Kess, Kai, Xion, Elara and Farleen; and both elements return zero hits across the repository, including as
-substrings, so they will not pollute a grep. **He is not yet in `Names.md`** and should not be added until
-the name is settled. Alternatives checked and clean: *Nillek*, *Havvik*, *Duvvin*, *Gossek*; house names
-*Dolch*, *Grask*.
+**The name is settled — author's ruling, 2026-08-14 — and he is in `Names.md`.** Proto-Balishan, matching
+Dermir, Darfi, Corris and Vesk. B and S were the free initials in a book already carrying Tiberian, Melina,
+Ronas, Xion, Elara, Farleen and three K's (Kess, Kai and Kael all share Book 6). The full coinage note,
+including the cleared near-collision with Book 1's *"Lady Sarif,"* is in `Names.md`.
 
-**Two things left open.** Whether the capable lieutenant Sarn betrays is named at all, or stays a role — he
+**One thing left open, and one decision.** Whether the capable lieutenant Sarn betrays is named at all, or stays a role — he
 carries real weight in Act III and probably wants a name, which is a second coinage. And whether Sarn is one
 of the lieutenants who ran wild in Book 2 when Rosik first dropped the leash. **That slot is genuinely free**
 — Book 2's prose never individuates Ronas's lieutenants once — and it would mean Melina Kemvimore's *"they're

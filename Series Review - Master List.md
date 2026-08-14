@@ -24,7 +24,7 @@ them before it is proposed against the prose.
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
 | **Book 3 — in draft** | 1 | Places-vs-map audit unfinished |
-| **Book 6 — in draft** | 1 | Sarn's name provisional; two coinage questions open |
+| **Book 6 — in draft** | 1 | Sarn named; one coinage and one decision open |
 | **Open questions** | 0 | — |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
@@ -579,15 +579,13 @@ now a settled ruling; see [§6](#6-settled-rulings).
 
 ### Book 6 — in draft
 
-**B6-1 — Bittek Sarn's name is provisional and three things are open.** The design is settled and lives in
-`book6_outline.md` (Acts I–IV and the structural notes); nothing is in `People/` or `Names.md` yet, on
-purpose.
+**B6-1 — two things are open on Bittek Sarn.** The design is settled and lives in `book6_outline.md` (Acts
+I–IV and the structural notes), and **the name was ruled on 2026-08-14 and is in `Names.md`** with its
+coinage note. **He has no sheet in `People/`, deliberately** — sheets exist to stop drift *between books*
+and he appears in one, his guardrails are already recorded in the acts they govern, and duplicating them
+would create the two-documents-disagreeing bug this project keeps paying for. **Revisit only if drafting
+gives him a voice worth locking**, which is the one thing a sheet holds that an outline holds badly.
 
-- **The name.** *Bittek Sarn* is Proto-Balishan, matching Dermir/Darfi/Corris/Vesk. B and S are free initials
-  in a book already carrying Tiberian, Melina, Ronas, Kess, Kai, Xion, Elara and Farleen, and both elements
-  return zero repository hits including as substrings. Alternatives checked clean: *Nillek*, *Havvik*,
-  *Duvvin*, *Gossek*; house names *Dolch*, *Grask*. **He goes into `Names.md` the moment the name is ruled**,
-  whether or not he ever gets a sheet.
 - **Whether the capable lieutenant he betrays is named.** He carries real weight in Act III as the last
   legible actor in the Warrens, which argues for a name; that is a second coinage and has not been made.
 - **Whether Sarn was one of the lieutenants who ran wild in Book 2.** The slot is genuinely free — Book 2's

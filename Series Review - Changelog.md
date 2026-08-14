@@ -9026,3 +9026,32 @@ deepen him later* — which is a design instruction rather than a dispensation.
 
 **Nothing about him is in `People/` or `Names.md`, deliberately.** The name is provisional pending the
 author's ruling; see the master list for what is still open.
+
+### Bittek Sarn named and entered in the register — 2026-08-14
+
+**Author's ruling on the provisional name from earlier the same day.** He is now in `Names.md` under a new
+**Book 6 — the Warrens** section, with a coinage note beside the 2026-08-04 one.
+
+**The register's own check was run rather than assumed.** Book 6's spoken initials are T (Tiberian), M
+(Melina), X (Xion), E (Elara), R (Ronas), F (Farleen) — **and three K's, because *Kess*, *Kai* and *Kael* all
+share the book**, which is the hazard the register already flags for the two Issamils. B and S were free and
+the name takes one of each. Proto-Balishan throughout, matching the Warrens family (*Dermir*, *Darfi*,
+*Corris*, *Vesk*), with the signature *-ek* ending and a doubled consonant.
+
+**Two potential collisions checked and both cleared, and the second is the one worth having found.**
+***Brennek*** carries the same *-ek* ending and returns zero hits in the Book 6 outline, so they never meet.
+And ***Sarn*** sits three letters deep into Book 1's ***"Lady Sarif"*** — close enough to be a real question.
+Sarif is Elara's false identity in B1 ch9–10 and appears nowhere else in the series, so the two **never share
+a book, a scene or a sentence**, which is the exact ground the register used to clear *Lyra / Lira*.
+**Recorded in `Names.md` rather than left to be found**, because an undocumented near-miss is the kind of
+thing a later reader tidies up correctly and wrongly.
+
+**No sheet in `People/`, and the reasoning is recorded in the master list so it is not re-litigated.** House
+rule says sheets exist to stop a character drifting *between books*; Sarn appears in one and dies at the end
+of it. His guardrails already sit in the acts they govern, and `Offstage.md`'s one-source principle cuts
+against restating them in a second document that would then need syncing. **The trigger for revisiting is
+specific: if drafting gives him a voice worth locking**, which is the thing a sheet holds that an outline
+holds badly, and which is why Ronas has the longest guardrail section in the repository.
+
+**Still uncoined:** the capable lieutenant Sarn betrays in Act III, recorded in both `Names.md` and the
+master list as B6-1.
