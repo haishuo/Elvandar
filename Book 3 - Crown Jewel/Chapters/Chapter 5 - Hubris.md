@@ -48,9 +48,7 @@ The city did not undercut the tower, which was the surprising part. Xion had exp
 
 You could walk out from the tower, in other words, and pass through the fields of knowledge in the order a person would have to learn them.
 
-That was the point at which Xion stopped being impressed in the ordinary way and started being impressed in the other way, the one that has a little cold in it.
-
-Because it went further than the districts, once he was looking. The colonnade along the east approach had its columns at intervals that were not regular and were not random; the escort's youngest member, asked, said they were the intervals of something astronomical and named it, and seemed surprised to be asked. A courtyard near the Dormitory Quarter was paved in a pattern that was a proof — an actual proof, of an actual proposition, which a child could walk across on the way to breakfast for twelve years and absorb without ever being told it was there. The pool in the Scholar's Gardens was cut to a curve that meant something.
+And it went further than the districts, once he was looking. The colonnade along the east approach had its columns at intervals that were not regular and were not random; the escort's youngest member, asked, said they were the intervals of something astronomical and named it, and seemed surprised to be asked. A courtyard near the Dormitory Quarter was paved in a pattern that was a proof — an actual proof, of an actual proposition, which a child could walk across on the way to breakfast for twelve years and absorb without ever being told it was there. The pool in the Scholar's Gardens was cut to a curve that meant something.
 
 Somebody had built a city of a hundred and twenty thousand people *as a teaching instrument*, and had then filled it with people who were being taught by it whether or not they noticed, and had done all of this in white stone, on a plain, where it could be seen from a day's ride away.
 
@@ -66,9 +64,7 @@ He had the pattern by then and was pleased with himself for having it — purple
 
 And then, because Xion did not say anything, he explained, in the manner of a man who did not think the subject required any particular handling. The Service Quarter. Thirty in every hundred, near enough. They kept the market and they carried and cooked and cleaned, and it was the most densely built ground inside the walls because it had to be, and it lay outside the last of the colleges for the plain reason that the rings ran out there.
 
-The name was exact. That was the thing Xion could not put down for the rest of the day.
-
-This was a country that had named a courtyard for the proof set into its paving. It had put the disciplines in the order a person learns them and then built a city in that order, in white stone, on a plain. And when it came to the third of its people who stood outside the sequence entirely, it had not reached for a euphemism, and it had not reached for an insult either. It had looked at what those people were **for**, and written that down, and gone on to something more interesting.
+The name was exact.
 
 ---
 
@@ -91,6 +87,10 @@ He filed that. He filed a great many things over those two days, which is what h
 What he noticed about the scholars themselves was more familiar than he had expected. They moved with a slight abstraction — the habit of people frequently thinking about something other than where their feet were going — and they clustered, and they argued in the specific low-key way of people who have argued with each other for years and enjoy it. He recognized the posture. He had seen it in a back room at three in the morning with four people and one lamp.
 
 These were people who had organized their whole lives around a practice. The practice was thinking rather than mending. But the shape of the life was one he knew.
+
+He had run his on one lamp, because a second would have shown under the door, and at three in the morning, because three in the morning was the hour nobody came looking. Four people, because four was as many as he could trust. He had taken all of that for the practice.
+
+Here it was going on at midday, in an arcade, in front of anybody who cared to stop walking. Nobody was watching a door.
 
 ---
 
@@ -238,7 +238,7 @@ Nobody in that chamber knew what was behind the door. That was the whole difficu
 
 It required neither party to guess correctly. It only required both of them to agree the rule before the door was open, which was a thing they could actually do.
 
-Xion, listening to it settle, was careful not to admire it more than it deserved. It was not clever. It was the only shape the problem permitted, and two capable people had found it in about ninety minutes because there was nothing else to find. That it happened to give Uratha the category Uratha always fought for, and Balisha the category Balisha was in desperate need of, was not why they chose it.
+Xion, listening to it settle, was careful not to admire it more than it deserved. Two capable people had found it in about ninety minutes because there was nothing else to find. That it happened to give Uratha the category Uratha always fought for, and Balisha the category Balisha was in desperate need of, was not why they chose it.
 
 It was why it would hold.
 

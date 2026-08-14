@@ -8552,3 +8552,160 @@ respectively.
 **One interval error caught by the new check, in the chapter written immediately after the audit that found
 nine of them.** *"A woman in a brown cloak at the edge of a market crowd two winters ago"* — it is about
 thirteen months. Now *a year ago*. **Tenth instance, and it inflates like the other nine.**
+
+### B3 ch5 `Hubris` — the verdict paragraph out, the back-room recognition raised — 2026-08-14
+
+**Author's question, and it was about the whole chapter:** would Uratha be more interesting if Xion arrived
+*wowed* rather than analysing, given that on the surface it looks like his kind of place and the rot is
+invisible — or is it too early to hang that gun?
+
+**Checked, and the chapter is already almost entirely awe.** There were exactly three suspicion loads in
+5,382 words and they are different in kind. **The pen stays** — ch4's gamble beat, ch6's opening, ch11 and
+ch12 all draw on it, and it is the one genuinely hidden thing in the chapter. **The dinner arithmetic stays
+and is not negotiable:** Xion spent eight years in rooms where the person who mattered was the one nobody
+looked at, so a version where wonder blinds him to a servant is a **rule 2 break, not a fix**. He sees her
+and concludes nothing, which is the correct model.
+
+**Cut: the Service Quarter gloss** — three sentences closing on *"it had looked at what those people were
+**for**, and written that down, and gone on to something more interesting,"* plus *"That was the thing Xion
+could not put down for the rest of the day."* **This was the narration passing sentence on Uratha's moral
+character on day two**, before the dinner and before the negotiation — and therefore **before the woman
+refilling the jug**, so the reader met her already holding the frame and the concrete image arrived as
+confirmation of a thesis instead of the discovery it was built as. The exchange it sat under (*"None," the
+escort said. "It isn't a discipline."*) and the escort's flat explanation **both stay**; they deliver no
+verdict at all. The section now lands on ***The name was exact.*** — weight, then one flat line, per §5.
+
+**This is the §6 note in its plainest form:** a paragraph explaining what the previous paragraph already
+did. The beat took three attempts to find and the surviving version was never the problem.
+
+**Raised: the back-room recognition**, previously three sentences buried between the cuffs and the library.
+**A white tower is awe any POV character supplies**, which is why it reads as scenery; the back room at
+three in the morning with four people and one lamp, running at midday in an arcade in front of anybody, is
+wonder **only Xion can feel** — the character's own instrument rather than generic competent description.
+The addition unpacks the constraints he had mistaken for the practice (one lamp because a second would show
+under the door, the hour because nobody came looking then) and lands on **Nobody was watching a door.**
+Ordering matters: the naming sentence now precedes the memory so the section closes on the concrete rather
+than on *"the shape of the life was one he knew."*
+
+**Nothing invented.** Four people and one lamp were already on the page; only the reasons are new. No claim
+is made about who in Kaha'an knew his name, which the Janice guardrail makes a live hazard.
+
+**Blast radius verified before cutting.** Nothing downstream rests on the Service Quarter gloss: ch6's
+opening explicitly cashes the road and the pen and nothing else, and `book4_outline.md` reaches back to the
+Ivory Tower and the libraries. The term survives in `The Physical Geography of Uratha.md` and in the 2026-08-02
+naming ruling either way.
+
+**And the framing was pushed back on, which is why the cut costs nothing.** The bakarn is **not a Chekhov's
+gun** and should not behave like one — it is not hidden and is not meant to be, thirty per cent of the city,
+named accurately in public. **Book 4's power depends on the reader having walked past it exactly as Xion
+did.** Uratha's actual gun is the **Globehall**, already hung at one line and flagged *do not weight it*.
+Recorded in the skeleton so a later pass does not read the absence of a verdict as a gap.
+
+**One thing raised in the same pass and declined by the author, recorded so it is not re-found as new.**
+*"That was the point at which Xion stopped being impressed in the ordinary way and started being impressed
+in the other way, the one that has a little cold in it"* is a near-transcription of the ch5 beat draft's own
+construction note — **the third instance of a drafter instruction reaching the page**, after ch4's *"not
+from a ruin"* and the Lathion-list line. **It stands**, and the reasoning is sound: the cold it names is
+attached to the teaching instrument, a city that shapes people without asking, which is a different and
+better cold than the bakarn one.
+
+*(−111 words, +78: 5,382 → 5,350. Beat draft and skeleton updated in the same commit; the ch5 footer's
+earlier 5,424 figure was stale by 42 words before this pass and is corrected there.)*
+
+### B3 ch5 — the cold line cut, and the drafter-instruction sweep opened — 2026-08-14
+
+**Same day, second look, author's reversal.** The line left standing an hour earlier — *"That was the point
+at which Xion stopped being impressed in the ordinary way and started being impressed in the other way, the
+one that has a little cold in it"* — is **cut**. The author's objection was how verbatim it read against
+the beat draft's *"This is where Xion's awe stops being ordinary and acquires some cold."*
+
+**Reading it in place produced a better argument than the transcription had.** The section runs: the ring
+order → **this line** → three concrete instances (the colonnade's astronomical intervals, the courtyard
+paved as an actual proof, the pool cut to a curve that means something) → *a teaching instrument… filled
+with people who were being taught by it whether or not they noticed* → *a city that had decided what it
+was* → **He could not decide whether that was the most impressive thing he had ever seen or the strangest.**
+
+**The cut line is a spoiler for the section's own landing.** It names the cold *before* the evidence, and
+the closing line delivers the same content afterward, earned, in better words, without naming the feeling.
+**Narration explaining an ambiguity the prose then goes and achieves** — the §5 tell, exactly.
+
+**Deleted, not rephrased.** A paraphrase would have kept a redundant sentence and only disguised where it
+came from. The next paragraph's *"Because it went further than the districts"* was grammatically tethered
+to it and becomes ***And** it went further than the districts.* Nothing else moved. **Rule 3 gains too:**
+the section now runs undiluted awe until the evidence complicates it, the same principle as the Service
+Quarter cut earlier the same day.
+
+*(−31 words: 5,350 → 5,319. Cumulative for ch5 today: 5,382 → 5,319.)*
+
+## 2026-08-14 — the drafter-instruction sweep, Book 3 prose (ch1–13)
+
+**The pass the ch5 cold line opened.** With three confirmed instances on record — ch4's *"not from a ruin"*,
+ch5's Lathion-list line, and ch5's cold line earlier the same day — the habit was a class rather than three
+accidents, and §5 says a class gets handled in one pass. All thirteen drafted chapters swept, prose against
+beat draft, both files read in full for each.
+
+**The defect, stated precisely.** A beat draft carries construction notes written *to* the drafter — *this
+chapter must make X feel Y*, *the reader should understand Z*, *do not let the prose warm up here*. The
+defect is one of those notes **transcribed into the prose as narration**, so the finished page asserts the
+intended effect instead of producing it. **It is not** shared plot facts, shared imagery, dialogue, or a
+draft quoting prose it wants — and the distinction that generates the most false positives is that these
+drafts carry *"What the prose settled"* sections written **after** the chapter, which are records, not
+instructions. Every candidate was checked for which side of that line its draft passage sat on.
+
+**Six confirmed, all in narration, none in dialogue. Five applied; ch2's ruled a keep by the author.**
+
+**ch6 was the serious one and is a different category from the rest** — it did not merely transcribe a note,
+it **broke a constraint two documents state outright.** Beat 24 is pure evaluation containing no
+dramatizable event; the draft footer says *"The reader sees it. He carries it without naming it"*; the
+skeleton says **"Nobody articulates it, least of all Xion."** The prose had him articulate it in free
+indirect narration, in the draft's own words. The generalisation and the *anyone could read the record*
+framing are cut; **the factual half stays**, because the document is not the thesis. *The footer ties this
+to the* nobody-tells-him-he-has-become-his-father *guardrail, and handing a man the verdict inside his own
+head is that failure with the messenger removed.*
+
+**ch10** — *"It did not announce itself. It sat underneath the whole day, gathering weight."* The cleanest
+specimen found: a sentence about the chapter rather than the world, off beat 5's *"That detail does not
+announce itself yet. It sits in the background, accumulating."* Deleted; the beats either side already did
+the work.
+
+**ch4** — the tell was one phrase. *"Merely stubborn"* exists in the footer solely to name a misreading to
+avoid, and it reached the page, alongside *she has a line, and it falls precisely between what is returned
+and what is given* almost unchanged. Cut; the returned-versus-given distinction is already made in dialogue
+two lines above.
+
+**ch8** — the evaluative tag only (*"which struck him as the more extraordinary of the two states"*, off
+beat 2's *"which is its own kind of extraordinary"*). The sentence it hung on is good and stays.
+
+**ch5** — *"It was not clever"*, an **anti-instruction** (*"The prose should not make this feel cleverer
+than it is"*) obeyed by assertion. Redundancy carried the decision: the section already opened on *the only
+one available, which was why it worked*.
+
+**ch2 — found, reported, and ruled a keep by the author.** The Farleen gloss at the platform steps is
+near-verbatim off its footer, but it is **Xion reading a face, which is his instrument and is rule 0
+working correctly**, and the negative definition has warrant because the paragraph above it recalls her
+Book 1 evisceration. **Recorded so it is not re-found as new.**
+
+### Two things protected in the same pass, and they matter as much as the cuts
+
+**ch9's *"They were not a lost people. They were neighbours."*** Verbatim off its footer — and it is the
+chapter's title, Xion's in-world conclusion, and the payoff of four concrete paragraphs. **ch10's *"They
+were not exploring any more."*** Named in `CLAUDE.md` itself as the model for the book's ending rhythm.
+**Both were surfaced by the sweep and both were recommended against by the readers who found them.** This
+is the C-6 hazard exactly: a real pattern pointing at the best sentence in a chapter.
+
+### Distribution, and the scope rule that falls out of it
+
+ch7, ch11 and ch13 came back clean, and **ch7 dodges the trap at its single most exposed point** — its
+draft carries *"They are not standing at the entrance to a ruin. The word 'ruin' is no longer the right
+word,"* the ch4 shape verbatim, and the prose never uses the word, giving the conclusion to Xion as
+dialogue instead (*"It's still running."*). **That is the 2026-08-02 instruction/body separation rule
+working**; this sweep is the downstream check on what got through before it existed.
+
+**This sweep must never extend to Books 1 or 2, and the reason is structural.** Their drafts are derived
+*from* the prose, so a match proves nothing — as this changelog already put it, *"a draft written by
+reading a chapter records why the chapter works, which is craft commentary, which is instruction."* The
+defect is only diagnosable where the draft precedes the page. **Book 3 onward, and best run per book as it
+is drafted rather than retrospectively.**
+
+*(ch4 6,366→6,316 · ch5 5,319→5,306 · ch6 5,955→5,921 · ch8 4,716→4,705 · ch10 7,430→7,417. Five beat
+drafts annotated in the same commit; Royal Road regenerated.)*

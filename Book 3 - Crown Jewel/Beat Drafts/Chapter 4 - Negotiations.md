@@ -206,3 +206,27 @@ not to be given an *I told them so.*
 The test, applied to every negation before it reaches the page: **does the sentence before this one give the reader any reason to believe the thing being denied?** If yes, the negation is doing work — *"He took the seat that had been left for him. Not at the head."* If no, it is a note to the drafter wearing prose, and it must come out. **Keep corrections in parentheses, in italics, or in the footer — anywhere the eye reads them as instruction rather than as text.**
 
 **Sets up:** The Urathan expedition, the scholars who will arrive with their own agendas, the formal end of the Crown dispute and what that means diplomatically downstream, and the deeper question of what the Scholar's Crown is and whether it still does what it once did — a thread that will not fully resolve until the third act.
+
+### "Merely stubborn" — cut 2026-08-14
+
+**Found by the Book 3 drafter-instruction sweep, and the tell was a single phrase.** This draft's footer
+names a misreading for the drafter to avoid — *"A woman who refused everything would read as **merely
+stubborn**. A woman who takes one thing and refuses four is **discriminating**"* — and **the failure-mode
+word itself reached the page**, inside a sentence that also carried the note's *"She has a line, and it
+falls precisely between what is returned and what is given"* almost unchanged.
+
+**Cut:** *"…and Xion understood, watching her do it, that she had never in eight years been merely
+stubborn. She had a line. It fell precisely between what was returned and what was given, and she had
+located it inside a situation nobody had ever put her in before…"*
+
+**Kept:** the action and the speed — *"She took one thing out of five and left the other four on the table,
+in the time it took to check two figures."*
+
+**The distinction the gloss was explaining is already made two lines above, in dialogue, by Xion** — *"It
+was never anybody's to give you. It's a correction."* — and answered by her *"Then strike it out."*
+**Returned versus given is stated by the characters and then acted on; the narration was restating it as a
+property of her character.** The scene now runs straight from the refusal to *"Then she picked the row back
+up. / 'It won't fix your clinic,' she said,"* which lands harder without a paragraph of appraisal in front
+of it.
+
+*(−50 words: 6,366 → 6,316.)*

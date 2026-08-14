@@ -354,9 +354,7 @@ They came up through the Market of Sighs and out into the ruin field, and the li
 
 He had the shafts. He had them for four months and in writing and on terms that survived the man who had signed them, and he had them closed behind him, which was the only clause in the instrument that no other man in Elvandar could have written. He had also, somewhere in the four seconds it took to ask for it, told the Slaver King exactly how much was down there, without a number and without a word, and there was no getting that back and no point standing in the ruin field being sorry about it. He had spent nothing that was not his to spend — she had put the chair into his hand herself, and told him to try the money first, and he had tried the money. And there would be a man in that chair before the month turned, which was the thing he had stood up in the summer and said out loud that somebody ought to come down here and see to.
 
-It was in the record now. Anyone could read the record. What it said, to anyone who read it, was that the Warrens had entered the government of Balisha as a term of sale — a clause in the same instrument as a right of way, priced against four shafts and a stretch of the third tier, because the crown had needed something and had found out that the man who held it could not be paid in coin.
-
-Which meant the way to be governed by Balisha was to be holding something Balisha wanted.
+It was in the record now. The Warrens had entered the government of Balisha as a term of sale, in the same instrument as a right of way, priced against four shafts and a stretch of the third tier, because the crown had needed something and had found out that the man who held it could not be paid in coin.
 
 He straightened up. Farleen was watching the road rather than him, in the way she watched roads.
 

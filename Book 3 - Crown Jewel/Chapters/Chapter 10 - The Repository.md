@@ -102,8 +102,6 @@ Somebody had decided. Somebody had stood in this sphere and worked out which obj
 
 Whatever the reason was, it was a **reason**.
 
-It did not announce itself. It sat underneath the whole day, gathering weight.
-
 The room had not been abandoned.
 
 It had been *arranged*.

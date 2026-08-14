@@ -129,6 +129,15 @@ This is **First Counselor Xion Fen** at his sharpest — the political mind that
 
 Xion and Elara travel to Uratha with a small delegation. Their first encounter with Urathan society is dazzling: the gleaming Ivory Tower, the robed scholars moving through pristine halls, the libraries that stretch for acres, the culture of intellectual rigor and achievement. This is a civilization that has organized itself around the pursuit of knowledge, and the results are extraordinary.
 
+**The awe is kept undiluted, and the bakarn is deliberately under-weighted — author's ruling, 2026-08-14.**
+Xion sees the Service Quarter and sees the servants nobody looks at, and **draws no conclusion about either**;
+the narration passes no sentence on Uratha's moral character anywhere in this chapter. That is not squeamishness,
+it is load-bearing in two directions: **Book 4's power depends on the reader having walked past the bakarn exactly
+as Xion did**, and Books 4 and 8 hurt in proportion to how much the reader liked Uratha first. The gun on this
+mantelpiece is the **Globehall**, hung at one line (*stairs going down, and* some way *as the answer*) and not to
+be weighted. *Do not re-arm the bakarn here, and do not read the absence of a verdict as a gap.* Full reasoning in
+the ch5 beat draft, "The verdict paragraph."
+
 Xion notices the Urathans' unusual eagerness. They *want* access to whatever's behind the Brass Door. Something about it matters to them more than they're admitting.
 
 **But this must not read as a pushover in the room, and the prose does not let it.** Draskin anchors high, narrows once, and settles at a genuine floor; the negotiation is professional throughout and Xion admires it. **What is faster than expected is that the deal happened at all** — Xion arrived unsure they would take it (ch4's gamble beat), and the Crown clause was accepted the instant it was offered, with something in Draskin letting go that Xion reads off his hands and cannot name. **The pen is the only thing out of place.** Xion rereads this negotiation differently after ch11; he must not read it differently now.

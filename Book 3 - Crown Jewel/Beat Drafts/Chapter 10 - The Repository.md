@@ -74,3 +74,24 @@
 **The dispatch beat.** Handled in a single beat (18), without dwelling. The earlier dispatch is already in Uratha and has already done whatever it has done. The next dispatch — which will contain the Repository — is being composed and Xion knows it. He notes the thought and lets it go. The Ch12 escalation will land harder for having been refused dramatization here.
 
 **Sets up:** Chapter 11 (The Destiny Engine). Elara's *they were not strangers* and *they knew* are the threads. The bequest framing primes the reader to receive the Engine's revelation as the gesture's *cause* — when Ch10 shows Elara what the Lathionese chose, the Repository retroactively becomes their last act before the choice. The recency thread (now confirmed twice) is one Brennek observation away from being undeniable, and the discovery of the Engine — visibly other, hastily built, the one thing in Lathion that does not match — will close the gap the characters have refused to close themselves.
+
+### The planted-detail line — cut 2026-08-14
+
+**The cleanest specimen the Book 3 drafter-instruction sweep turned up**, and the only sentence found in
+four chapters that was about *the chapter* rather than about the world. Beat 5 reads *"That detail does not
+announce itself yet. It sits in the background, accumulating"* — a note about how the chapter should deploy
+a detail across its own runtime. The prose carried it almost verb for verb: **"It did not announce itself.
+It sat underneath the whole day, gathering weight."**
+
+**That is the narrator telling the reader a detail is being planted and will matter later.** Deleted
+outright, nothing put in its place. It sat between two things that each already did the work — *"Whatever
+the reason was, it was a **reason**"* above it, and *"The room had not been abandoned. / It had been
+arranged"* below — and removing it leaves three escalating beats where there were three plus a stage
+direction.
+
+**Not touched, and not to be:** the chapter's last line, *"They were not exploring any more."* It surfaced
+in the same sweep and was recommended against by the reader who found it, correctly — `CLAUDE.md` names it
+by name as the model for the book's ending rhythm, and the dated ruling in this file specifies it as a
+craft choice rather than leaking it as a note.
+
+*(−13 words: 7,430 → 7,417.)*

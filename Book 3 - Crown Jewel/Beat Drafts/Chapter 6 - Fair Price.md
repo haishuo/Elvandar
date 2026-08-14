@@ -118,3 +118,35 @@ the chapter is designed for — see the ceiling note — without introducing a s
 **On what this hands Book 4.** The Warrens get a seat at the new order's table, and they get it as the price of a right of way rather than on the merits, and **nobody ever tells Xion that this is what he did.** He is not to be handed the verdict by another character — that is the same failure mode as telling him he has become his father, and the same ruling applies. The reader sees it. He carries it without naming it. See `Series Review - Master List.md` §2, *The Warrens chair.*
 
 **Sets up:** Ch7 directly — the standing camp, the assembled expedition, and a seam that requires no change to that chapter's opening. **The Urathans are not named in the closing beat.** Ch7's *"The Urathans arrived on a grey morning"* is their first appearance; pre-announcing them here cost the ending its last line and put the camera somewhere Xion was not. The Crown established as a real price paid, so that Uratha returning it in ch12 lands as the reversal it is. Sa Ko's demonstration, delivered in ch7 while she is elsewhere. And the Warrens seat, which is Book 4's inheritance.
+
+### The verdict named in narration — cut 2026-08-14
+
+**Found by the Book 3 drafter-instruction sweep, and this chapter's instance was the serious one**, because
+it did not merely transcribe a note — **it broke a constraint two documents state outright.** Beat 24 is
+pure evaluation with no dramatizable event in it (*"what is now on the record, for anyone who reads the
+record, is that the way to be governed by Balisha is to hold something Balisha needs"*), the footer above
+says **"The reader sees it. He carries it without naming it,"** and `book3_chapter_skeleton.md` says
+**"Nobody articulates it, least of all Xion."** The prose had him articulate it, in free indirect
+narration, in the draft's own words.
+
+**Cut:** *"Anyone could read the record. What it said, to anyone who read it, was…"* and the whole of
+*"Which meant the way to be governed by Balisha was to be holding something Balisha wanted."*
+
+**Kept, deliberately:** the factual half. *It was in the record now. The Warrens had entered the government
+of Balisha as a term of sale, in the same instrument as a right of way, priced against four shafts and a
+stretch of the third tier…* **That is the document, not the thesis** — Xion notices what the instrument
+says and does not generalise from it, which is exactly what *carries it without naming it* means. The
+generalisation was always the reader's to make, and the scene that precedes it (Ronas made to say *I'm
+asking you to shut the shafts* aloud in his own hall, the chair written into the same clause as the right
+of way) makes it available without help.
+
+**The half the chapter was already honouring stays untouched** — *"He did not say any of the rest of it, to
+her or to Elara that night or to anyone at all, and nobody said it to him."* **Checked: *the rest of it*
+still has its referent**, which is now the two paragraphs of what he is carrying rather than a thesis the
+narration handed him.
+
+**Why this one mattered more than the other four in the sweep.** The footer ties it explicitly to the
+*nobody tells him he has become his father* guardrail — *"He is not to be handed the verdict by another
+character."* **Handing it to him inside his own head is the same failure with the messenger removed.**
+
+*(−34 words: 5,955 → 5,921.)*

@@ -50,3 +50,22 @@
 **On length and unnamed walk-ons.** This chapter runs ~4,600 and its companion `Neighbours` ~2,800. The pair was one 7,400-word chapter until 2026-08-04 and was split at the seam after the Rending exchange; Act II now runs 3,050 / 4,600 / 2,800, which is the shape a wonder sequence wants. Every unnamed walk-on — junior scholars, porters, the Arol Batae, the Tor'anar — is male by default under the standing rule.
 
 **Sets up:** `Neighbours` directly. The number is on the table and nobody can do anything with it, which is the condition the next chapter lives in. The closed-room reading is also what *The Repository*'s bequest framing is built on two chapters later — *nothing here was abandoned; everything was set down.*
+
+### The graded wonder — trimmed 2026-08-14
+
+**Found by the Book 3 drafter-instruction sweep.** Beat 2 reads *"the wonder… has become the medium they
+are moving through, **which is its own kind of extraordinary**"*, and the header states the chapter's
+intended effect as *"Wonder becoming habitable."* The prose carried the evaluative tag onto the page:
+*"…started being the air, **which struck him as the more extraordinary of the two states.**"*
+
+**Only the tag was cut.** *"The wonder had not gone anywhere. It had simply stopped being an event and
+started being the air"* is the chapter's premise stated well and stays exactly as written. What went was
+the clause **grading the moment for the reader** — ranking two states of wonder against each other, which
+is the drafter's evaluation rather than Xion's perception.
+
+**The three images around it already produce the state** and are untouched: the man who gets four lamps
+down the row before he looks up at the ceiling that is not a ceiling and starts laughing, *"It was not much
+of a joke. But it broke something open,"* and the junior scholar with the festival face whose eyes are
+*"being given more than they had ever been asked to hold."*
+
+*(−11 words: 4,716 → 4,705.)*

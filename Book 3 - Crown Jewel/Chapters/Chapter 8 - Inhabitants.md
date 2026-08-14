@@ -12,7 +12,7 @@ Around him the camp was waking in the particular quiet of people who had not yet
 
 It was not much of a joke. But it broke something open, and after that people talked.
 
-Xion sat up and put his boots on and listened to it happen. The wonder had not gone anywhere. It had simply stopped being an event and started being the air, which struck him as the more extraordinary of the two states. A junior scholar was eating a strip of dried fruit standing up at the mouth of the alcove, staring down the boulevard, and had the face on him that Xion had last seen on a child at a festival — not delight exactly. The expression of somebody whose eyes were being given more than they had ever been asked to hold.
+Xion sat up and put his boots on and listened to it happen. The wonder had not gone anywhere. It had simply stopped being an event and started being the air. A junior scholar was eating a strip of dried fruit standing up at the mouth of the alcove, staring down the boulevard, and had the face on him that Xion had last seen on a child at a festival — not delight exactly. The expression of somebody whose eyes were being given more than they had ever been asked to hold.
 
 ---
 

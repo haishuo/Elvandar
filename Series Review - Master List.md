@@ -1470,6 +1470,78 @@ unanswerable). **No prose changed in any book**; the chapters never said there w
 
 ---
 
+### Uratha's rot stays unremarked in B3 ch5 — settled 2026-08-14
+
+**The bakarn is not a Chekhov's gun and must not be written as one.** It is not hidden and is not meant to
+be: thirty per cent of the city, its own quarter, named accurately in public by an institution that names a
+courtyard for the proof in its paving. **Book 4's power depends on the reader having walked past it exactly
+as Xion did**, and Books 4 and 8 hurt in proportion to how much the reader liked Uratha first —
+`book4_outline.md` already assumes this in as many words: *"the civilization **that dazzled Xion in Book
+3**."* **Uratha's actual gun is the Globehall**, hung at one line in ch5 (*stairs going down, and* some way
+*as the answer*) and flagged in that chapter's beat draft as **do not weight it**. That calibration is
+correct and is not to be adjusted.
+
+**What was applied:** ch5's Service Quarter gloss is cut — the narration passing sentence on Uratha's moral
+character on day two, before the dinner and therefore before the woman refilling the jug, which turned that
+discovery into confirmation of a thesis the reader had already been handed. The exchange under it (*"None,"
+the escort said. "It isn't a discipline."*) stays and delivers no verdict. **The back-room recognition is
+raised** in the same pass, because the answer to *make him wowed rather than analytical* was never to remove
+analysis: a white tower is awe any POV character supplies, and the back room at three in the morning running
+at midday in an arcade is wonder only Xion can feel. Full record in the changelog and in the ch5 beat draft,
+"The verdict paragraph."
+
+**Two standing constraints fall out of this.** **Xion always sees and never concludes** — beat 9's dinner
+arithmetic is not negotiable, because a Caretaker who spent eight years in rooms where the person who
+mattered was the one nobody looked at cannot be blinded to a servant by scenery; that is a **rule 2 break,
+not a fix**. And **do not read ch5's absence of a verdict as a gap** and re-arm the bakarn to fill it. The
+constraint is recorded in `book3_chapter_skeleton.md` at the ch5 entry so a later pass meets it there.
+
+**Raised in the same pass, left standing, and reversed by the author within the hour — now CUT.** Ch5's
+*"started being impressed in the other way, the one that has a little cold in it"* was the **third** instance
+of a drafter instruction reaching the page, after ch4's *"not from a ruin"* and the Lathion-list line. Read in
+place it made a stronger case against itself than the transcription did: **it announced the cold before the
+evidence, and the section's own last line — *He could not decide whether that was the most impressive thing
+he had ever seen or the strangest* — delivers the identical content afterward, earned and unnamed.** The
+narration was explaining an ambiguity the prose then went and achieved. **Deleted rather than rephrased**, so
+that a redundant sentence did not survive with its provenance merely disguised.
+
+---
+
+### Drafter instructions reaching the page — swept, and the scope is fixed at Book 3+ — settled 2026-08-14
+
+**The defect:** a construction note written *to* the drafter (*this chapter must make X feel Y*, *the reader
+should understand Z*, *do not let the prose warm up here*) transcribed into the prose **as narration**, so
+the page asserts the intended effect instead of producing it. **Not** shared plot facts, shared imagery,
+dialogue, or a draft quoting prose it wants.
+
+**Swept across all thirteen drafted Book 3 chapters on 2026-08-14. Six confirmed; five applied, ch2's kept.**
+Full record in the changelog. **ch6's was a different category** — not a transcription but a **breach of a
+constraint stated in two places**, this file's skeleton (*"Nobody articulates it, least of all Xion"*) and
+the beat draft footer (*"He carries it without naming it"*). **A verdict handed to Xion inside his own head
+is the *nobody tells him he has become his father* failure with the messenger removed**, and that equivalence
+is now the standing test for this chapter and any like it.
+
+**DO NOT TOUCH — surfaced by this sweep and protected.** ch9's *"They were not a lost people. They were
+neighbours"* (the chapter's title, Xion's in-world conclusion, the payoff of four concrete paragraphs) and
+ch10's *"They were not exploring any more"* (named in `CLAUDE.md` as the model for the book's ending
+rhythm). Both are verbatim against their footers and **both are correct.** *This is the C-6 hazard: a real
+pattern pointing at the best sentence in a chapter.* **ch2's Farleen gloss is also a keep**, on the author's
+ruling — it is Xion reading a face, which is his instrument and rule 0 working as designed.
+
+**The scope rule, and it is structural rather than a matter of effort.** **Books 1 and 2 are permanently out
+of scope.** Their beat drafts are derived *from* the prose, so a match proves nothing — *a draft written by
+reading a chapter records why the chapter works, which is craft commentary, which is instruction.* The
+defect is only diagnosable where the draft precedes the page. **Book 3 onward, and run per book while it is
+being drafted, not retrospectively.**
+
+**The upstream fix already exists and is working.** The 2026-08-02 instruction/body separation sweep moved
+instructions out of numbered beats into footers across all 64 drafts. Ch7, ch11 and ch13 came back clean,
+and **ch7 dodges the trap at its most exposed point** — its draft carries the ch4 shape verbatim (*"They are
+not standing at the entrance to a ruin"*) and the prose never uses the word. **The two rules are a pair:
+keep instructions out of beat bodies, then check the page for what got through anyway.**
+
+---
+
 ## 7. Open questions
 
 **None currently open.** The three items opened on 2026-08-02 were all ruled on the same day and are

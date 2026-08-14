@@ -124,7 +124,7 @@ The agreement is reached: anything material or economic behind the door belongs 
 
 > *"None," the escort said. "It isn't a discipline."*
 
-**That is the whole thing.** A city organised entirely by discipline has one district that is not one, and it is named accurately, because this is a country that names a courtyard for the proof set into its paving. Confronted with the third of its people who stand outside the sequence, it reached for neither euphemism nor insult — **it looked at what those people were for, wrote that down, and went on to something more interesting.**
+**That is the whole thing** — and *the whole thing* turned out to be more literal than the first draft of this footer took it for. A city organised entirely by discipline has one district that is not one, and it is named accurately. **The exchange is the beat. Everything that was written under it was the beat being explained**, and it came out on 2026-08-14; see *The verdict paragraph* below.
 
 **The lesson for the drafter, which is the reason to record a dead beat at all:** the first version was a coincidence of vocabulary wearing the costume of an insight. It felt clever and was not, and the test that catches it is simple — **would this land if the two words happened not to match?** Here the answer was no, and the version that survives does not depend on any coincidence at all.
 
@@ -151,5 +151,97 @@ The agreement is reached: anything material or economic behind the door belongs 
 `book3_chapter_skeleton.md` says the Urathans are *"conceding ground faster than expected"*; this draft has Draskin anchoring high, narrowing once, and settling at a genuine floor. **Both are true and the prose keeps them separate.** What is faster than expected is that the deal happened **at all** — Xion arrived unsure they would take it (the gamble beat, ch4 beat 25), and the Crown clause was received the moment it was offered. The haggling over discovery rights is professional and reaches its natural floor, and **nothing in the room reads as a pushover**, which is what makes the pen the only thing out of place. Xion will reread this negotiation after ch11 and see it differently. **Do not have him see it differently now.**
 
 *(Housekeeping: this draft's beats run 1–8, then an unlabelled block that is beat 9, then 10–20.)*
+
+### The verdict paragraph, and the beat that was under-weighted — author's ruling, 2026-08-14
+
+**Raised by the author as a question about the whole chapter:** would Uratha be more interesting if Xion
+arrived *wowed* rather than analysing, since on the surface it looks like his kind of place and the rot is
+invisible? **The chapter turned out to be almost entirely awe already**, and the diagnosis landed on one
+paragraph rather than on a mode.
+
+**Cut: the Service Quarter gloss.** Three sentences following the escort's explanation, ending *"it had
+looked at what those people were **for**, and written that down, and gone on to something more
+interesting."* **It was the narration passing sentence on Uratha's moral character on day two** — before
+the dinner, before the negotiation, and crucially **before the woman refilling the jug**, which meant the
+reader met her already holding the frame and the concrete image arrived as confirmation of a thesis
+instead of as the discovery it was built to be. *"That was the thing Xion could not put down for the rest
+of the day"* went with it for the same reason. **The section now lands on *The name was exact.*** — weight,
+then one flat line.
+
+**What was deliberately kept.** The exchange itself (*"None," the escort said. "It isn't a discipline."*)
+and the escort's flat explanation, which deliver no verdict at all. **And beat 9's dinner arithmetic, which
+is not negotiable:** Xion is a Caretaker who spent eight years in rooms where the person who mattered was
+the one nobody looked at, and a version where wonder blinds him to a servant is a rule 2 break, not a fix.
+He sees her and draws no conclusion — *that* is the model the cut paragraph was violating.
+
+**And the bakarn is not a Chekhov's gun**, which is why none of this weakens anything. It is not hidden and
+is not meant to be — thirty per cent of the city, named accurately in public. **Book 4's power depends on
+the reader having walked past it exactly as Xion did.** The gun on Uratha's mantelpiece is the Globehall,
+and it stays hung at the one line it has always had (*stairs going down, and* some way *as the answer*).
+**Do not weight that line, and do not re-arm the bakarn here to compensate for this cut.**
+
+**Raised: the back-room recognition** (previously three sentences, buried between the cuffs and the
+library). **This is the beat that answers the author's actual question.** A white tower is awe any POV
+character supplies, which is why it reads as scenery; *the back room at three in the morning with four
+people and one lamp, running at midday in an arcade in front of anybody*, is wonder only Xion can feel,
+and it uses his own instrument. The addition unpacks the constraints he had mistaken for the practice —
+one lamp because two would show under the door, the hour because nobody came looking then — and lands on
+**Nobody was watching a door.**
+
+**Its real job is downstream.** Book 4 and Book 8 hurt in proportion to how much the reader liked Uratha,
+and they liked it best through the eyes of a man who recognised himself in it. *(`book4_outline.md` already
+assumes this: "the civilization **that dazzled Xion in Book 3**.")*
+
+### The cold line — cut on the second look, same day
+
+**Raised in the pass above, left standing, and then reversed by the author within the hour:** *"That was the
+point at which Xion stopped being impressed in the ordinary way and started being impressed in the other
+way, the one that has a little cold in it"* — a near-transcription of this footer's own construction note
+(*"This is where Xion's awe stops being ordinary and acquires some cold"*), and **the third instance of a
+drafter instruction reaching the page**, after ch4's *"not from a ruin"* and the Lathion-list line.
+
+**Reading it in place turned out to make a stronger case than the transcription did.** The section runs:
+the ring order (*you could walk out and pass through the fields of knowledge in the order a person would
+have to learn them*) → **this line** → the three concrete instances, the colonnade and the paved proof and
+the pool → *a teaching instrument… filled with people who were being taught by it whether or not they
+noticed* → *a city that had decided what it was* → **He could not decide whether that was the most
+impressive thing he had ever seen or the strangest.**
+
+**The cut line is a spoiler for the section's own landing.** It announces the cold *before* the evidence,
+and the last line delivers the identical content afterward, earned, in better words and without naming the
+feeling. **The narration was explaining an ambiguity the prose then went and achieved.**
+
+**Deleted rather than rephrased**, because a paraphrase would have kept a redundant sentence and only
+disguised its provenance. The following paragraph's *"Because it went further than the districts"* was
+tethered to it grammatically and becomes ***And** it went further than the districts.* Nothing else moved.
+**Rule 3 gains as well:** the section is now undiluted awe until the evidence complicates it, which is the
+same principle as the Service Quarter cut above.
+
+*(−31 words: 5,350 → 5,319.)*
+
+### "It was not clever" — trimmed 2026-08-14, third ch5 pass of the day
+
+**Found by the Book 3 drafter-instruction sweep, and the transcription was of an *anti*-instruction.** The
+footer above (pre-draft, sitting above the 2026-08-02 record divider, so an instruction and not a record)
+says **"The prose should not make this feel cleverer than it is."** The prose said ***"It was not
+clever."*** — the note obeyed by assertion rather than by construction, and in the negation shape this
+chapter's own history keeps producing.
+
+**But the decisive argument was redundancy, not provenance.** The section already opens on *"The division
+they arrived at was the only one available, which was why it worked."* Six lines later it said *"It was the
+only shape the problem permitted"* — **the same sentence twice, with the evidence in between.**
+
+**Cut:** *"It was not clever. It was the only shape the problem permitted, and"*.
+
+**Kept, and both for cause:** *"Xion, listening to it settle, was careful not to admire it more than it
+deserved"* is characterisation — the son of a negotiator refusing to be impressed, which is his own
+instrument — and the close (*that the split happened to suit both sides was not why they chose it / It was
+why it would hold*) is the paragraph's actual insight and appears nowhere above it.
+
+*(−13 words: 5,319 → 5,306. **Cumulative for ch5 on 2026-08-14: 5,382 → 5,306**, across three passes —
+the Service Quarter verdict, the back-room raise, the cold line, and this.)*
+
+*(−111 words on the cut, +78 on the raise: 5,382 → 5,350. Note that this footer's earlier figure of 5,424
+was stale by 42 words before this pass began; 5,382 is the measured pre-pass count.)*
 
 **Sets up:** The Urathan scholars' arrival in Kaha'an; the name "Lathion" as legend (required for Chapter 7's ending to land); the question of what Leowin Draskin already knows about it and why Uratha has always wanted it back.

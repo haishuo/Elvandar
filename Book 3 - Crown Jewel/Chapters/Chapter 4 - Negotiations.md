@@ -130,7 +130,7 @@ He was aware, saying it, that he was not being generous. He was being *correct*,
 
 She said, "Then strike it out."
 
-That was all. She did not thank him at length. She did not soften, or revise her position on the pension, or the house, or the register — those stayed refused, and stayed refused for the rest of his life. What she did was take one thing out of five and leave the other four on the table, and Xion understood, watching her do it, that she had never in eight years been merely stubborn. She had a line. It fell precisely between what was returned and what was given, and she had located it inside a situation nobody had ever put her in before, in the time it took to check two figures.
+That was all. She did not thank him at length. She did not soften, or revise her position on the pension, or the house, or the register — those stayed refused, and stayed refused for the rest of his life. She took one thing out of five and left the other four on the table, in the time it took to check two figures.
 
 Then she picked the row back up.
 
