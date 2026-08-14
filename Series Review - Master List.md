@@ -24,7 +24,7 @@ them before it is proposed against the prose.
 | **Craft — Book 1** | 0 | — |
 | **Craft — Book 2** | 0 | — |
 | **Book 3 — in draft** | 1 | Places-vs-map audit unfinished |
-| **Book 6 — in draft** | 1 | Sarn named; one coinage and one decision open |
+| **Book 6 — in draft** | 0 | — |
 | **Open questions** | 0 | — |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
@@ -579,21 +579,8 @@ now a settled ruling; see [§6](#6-settled-rulings).
 
 ### Book 6 — in draft
 
-**B6-1 — two things are open on Bittek Sarn.** The design is settled and lives in `book6_outline.md` (Acts
-I–IV and the structural notes), and **the name was ruled on 2026-08-14 and is in `Names.md`** with its
-coinage note. **He has no sheet in `People/`, deliberately** — sheets exist to stop drift *between books*
-and he appears in one, his guardrails are already recorded in the acts they govern, and duplicating them
-would create the two-documents-disagreeing bug this project keeps paying for. **Revisit only if drafting
-gives him a voice worth locking**, which is the one thing a sheet holds that an outline holds badly.
-
-- **Whether the capable lieutenant he betrays is named.** He carries real weight in Act III as the last
-  legible actor in the Warrens, which argues for a name; that is a second coinage and has not been made.
-- **Whether Sarn was one of the lieutenants who ran wild in Book 2.** The slot is genuinely free — Book 2's
-  prose never individuates Ronas's lieutenants once — and it would make Melina Kemvimore's *"they're not like
-  him, they're worse"* partly about him. **The cost is historical weight**, which the specimen-not-source
-  guardrail exists to withhold. If taken, take the lightest version. **He is emphatically not the lieutenant
-  who killed Melina Kemvimore**; Ronas executed that man immediately, and the revenge frame would wreck both
-  the design and Act IV.
+**B6-1 is closed.** Both open questions were ruled on 2026-08-14 — see [§6](#6-settled-rulings). Book 6's
+design work has nothing outstanding; the outline holds it.
 
 **B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
 
@@ -1584,6 +1571,38 @@ chair"* and a separate male chair in beats 4 and 15 — all residue from before 
 **Beat 15's tension survives the fix:** an engineer being asked to cross into policy, with the question coming
 from the table and her chairing made part of the difficulty rather than a contradiction of it. *Do not
 reintroduce a second chair, and do not restore Torkal.*
+
+### B6-1 CLOSED — Garrin named, and Sarn's Book 2 position settled — 2026-08-14
+
+**The capable lieutenant is *Garrin*, one name.** Warrens figures in `Names.md` overwhelmingly carry a single
+name, and the closest analogue is exact: *Cullen* is Ronas's other named lieutenant. Coinage note in
+`Names.md`, including why *Corran* — the better-sounding candidate — was disqualified **on sound rather than
+spelling**, since a hard /k/ onset would have been the fourth in a book already carrying Kess, Kai and Kael.
+
+**And Sarn was present in Book 2 but not among the lieutenants who ran wild.** *(The outline's "twenty years"
+already committed him to being in the organisation; this settles what he did.)*
+
+**The reason the alternative was dropped is worth keeping, because it was offered as an upside and wasn't
+one.** Making Sarn one of the wild ones was floated as a payoff — Melina Kemvimore's *"they're not like him,
+they're worse"* turning out to be partly about him. **That payoff cannot exist.** It requires the reader to
+recognise someone, and **Book 2's prose never individuates a single one of Ronas's lieutenants** — they are a
+pure category, verified by search. There is nobody there to recognise, so the "connection" would have been a
+fact with no reader-facing surface at all: exactly the trivia `Offstage.md`'s third test is designed to
+reject.
+
+**What replaced it is better and is the opposite of it.** Sarn's only governor is fear of the man who
+punishes him, and in Book 2 **Ronas was still standing** — and demonstrated it by executing the lieutenant
+who murdered Melina Kemvimore, immediately, to re-establish control. So Sarn stayed in line, and **the one
+who stayed in line is the one who spent twenty years storing it up.** This supplies the *specific* execution
+behind the author's own formulation that his restraint comes from having "literally seen it happen to other
+lieutenants" — Book 2 already had the instance, so Book 6 does not invent one.
+
+**It lives in the outline's Act I as a constraint on how to write his restraint, not as a beat.** No character
+refers to it and the reader never needs it dated. **This is also the answer to where backstory goes when a
+character has no sheet:** if it changes how a scene is written, it goes in the outline beside the scene; if it
+changes nothing, it is trivia and goes nowhere.
+
+---
 
 ### There is no rule requiring villains to be grey — and one was invented and then excepted from — 2026-08-14
 

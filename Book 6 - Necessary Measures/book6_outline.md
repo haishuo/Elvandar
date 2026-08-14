@@ -124,6 +124,19 @@ years working out precisely where it sits and living against it, every day, and 
 expertise he has ever acquired. **He obeys out of fear and nothing else.** He has seen what the Iron Hall does
 to lieutenants who go too far, and the memory of it is the whole of his restraint.
 
+**And Book 2 already supplies what he saw — settled 2026-08-14.** Sarn was in the organisation when Rosik
+first ordered the leash off, which the twenty years above already commits to. **He was not one of the ones
+who ran wild**, and that is the point rather than a technicality: his only governor is fear of the man who
+punishes him, and in Book 2 **Ronas was still standing** — and proved it by executing the lieutenant who
+murdered Melina Kemvimore, immediately, to re-establish control. A man built the way Sarn is built watched
+that and drew exactly one lesson from it. **The one who stayed in line is the one who spent twenty years
+storing it up**, and that is worse than having been among the wild ones.
+
+**This is a constraint on how to write his restraint, not a beat.** The reader never needs it dated, no
+character refers to it, and it is emphatically not a recognition for the reader to have — **Book 2's prose
+never individuates a single one of Ronas's lieutenants**, so there is nobody there to recognise. It is here
+so a drafter knows the fear is specific and has a source.
+
 **Write him small.** Not atrocity — pettiness, repeatedly. A man who commits one enormous evil is a plot
 device; a man who commits forty small ones is a person, and it is the accumulation that makes him real. **The
 reader's relationship to him in Act I is the Warrens' own**: hating him, and having no recourse, because the
@@ -284,10 +297,10 @@ holds a tap, hurts people, and lets the system rot underneath him. **A gap in a 
 careful person hedges against; a detailed and confident wrong answer is what gets people killed** — and it
 sits, exactly as the principle above says, where its author was most confident.
 
-**The betrayal, and why it is not a scheme.** Ronas's death leaves one lieutenant of real capability — not
-Ronas's equal, but a competent man attempting to hold some of the cartel together. **That man is the legible
-succession contest**, the last thing in the Warrens that could have been modelled, bought, isolated or beaten,
-and Melina's plan for the vacuum is largely a plan for him. Sarn kills him. **Not as a manoeuvre** — he takes
+**The betrayal, and why it is not a scheme.** Ronas's death leaves one lieutenant of real capability —
+**Garrin**, not Ronas's equal, but a competent man attempting to hold some of the cartel together. **Garrin is
+the legible succession contest**, the last thing in the Warrens that could have been modelled, bought,
+isolated or beaten, and Melina's plan for the vacuum is largely a plan for him. Sarn kills him. **Not as a manoeuvre** — he takes
 an opening that falls into his lap, clumsily, because the man had begun restraining him and restraint is the
 one thing he cannot tolerate. He gains nothing by it and is measurably less safe afterward. **Ask what he got
 and the answer is nothing**, which is precisely why no model ranked it: models can rank ambition and cannot
@@ -480,15 +493,13 @@ Dermir, Darfi, Corris and Vesk. B and S were the free initials in a book already
 Ronas, Xion, Elara, Farleen and three K's (Kess, Kai and Kael all share Book 6). The full coinage note,
 including the cleared near-collision with Book 1's *"Lady Sarif,"* is in `Names.md`.
 
-**One thing left open, and one decision.** Whether the capable lieutenant Sarn betrays is named at all, or stays a role — he
-carries real weight in Act III and probably wants a name, which is a second coinage. And whether Sarn is one
-of the lieutenants who ran wild in Book 2 when Rosik first dropped the leash. **That slot is genuinely free**
-— Book 2's prose never individuates Ronas's lieutenants once — and it would mean Melina Kemvimore's *"they're
-not like him, they're worse"* was partly about him. **The cost is that any Book 2 tie gives him historical
-weight**, which is the thing rule 1 above is trying to withhold. If taken, take the lightest version: he was
-there, no character ever remarks on it, and only the reader assembles it. **He is emphatically not the
-lieutenant who killed Melina Kemvimore** — Ronas executed that man immediately, and the revenge frame it
-would import would wreck both this design and Act IV.
+**Both open questions are now settled.** The capable lieutenant is **Garrin** — single name, matching the
+Warrens pattern in `Names.md` where Ronas's other named lieutenant *Cullen*, and *Korvin*, *Varris* and
+*Rykan* beside him, all go by one. And Sarn's Book 2 position is fixed in Act I above: **present, and not
+among those who ran wild.**
+
+**He is emphatically not the lieutenant who killed Melina Kemvimore** — Ronas executed that man immediately,
+and the revenge frame it would import would wreck both this design and Act IV.
 
 **Ronas as tragic figure:** Ronas is not the villain here. He's the man who held the worst place in the city together through force and discipline for twenty years, who warned everyone what would happen when he was removed, and who was substantially right. His removal is still necessary — his system was monstrous.
 

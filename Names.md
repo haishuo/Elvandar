@@ -120,6 +120,7 @@ day. Neither has ever said so to the other on the page.
 | Name | Who | Register |
 |---|---|---|
 | **Bittek Sarn** | Slaver lieutenant under Ronas. The one antagonist in the series written with no redeeming feature; present across all four acts and killed by Tiberian in Act IV. Design and guardrails in `book6_outline.md` | Proto-Balishan |
+| **Garrin** | Ronas's most capable lieutenant. Tries to hold the cartel together after his death and is the last legible actor in the Warrens; Sarn kills him in Act III | Proto-Balishan |
 
 ## Houses and factions
 
@@ -193,8 +194,27 @@ someone doing the right thing for the wrong reason.**
 Rejected alternatives, all checked clean and still free for later use: *Nillek*, *Havvik*, *Duvvin*,
 *Gossek*, with *Dolch* and *Grask* as house names.
 
-**Still uncoined:** the capable lieutenant Sarn betrays in Act III. He carries real weight as the last
-legible actor in the Warrens and probably wants a name; it has not been made.
+### And ***Garrin***, the same day
+
+**One name, not two, and that is the register rather than economy.** Warrens figures in this file
+overwhelmingly go by a single name — *Cullen*, who is Ronas's other named lieutenant, plus *Korvin*,
+*Varris*, *Vex*, *Jorik* and *Rykan*. Garrin matches Cullen exactly, which is the closest existing analogue:
+a named lieutenant of the Slaver King.
+
+**Built from three Proto-Balishan signatures at once** — a hard-stop onset (*g*, on the phonology list), a
+doubled consonant (*-rr-*), and the *-in* ending, which *Draskin* and *Leowin* already carry. G was free in
+Book 6 and free of near-neighbours anywhere.
+
+**The say-aloud test ruled out the obvious alternative.** *Corran* was the better-sounding candidate and is
+disqualified on **sound rather than spelling**: its onset is a hard /k/, and Book 6 already carries *Kess*,
+*Kai* and *Kael*: a fourth hard-K onset in one book, when the rule in this file is to say the name aloud
+beside every short name already there. **Spelling it with a C does not help the reader hearing it.** Also
+rejected: *Aldric*, the only tested candidate returning repository hits. Clean and still free for later:
+*Halvor*, *Gorran*, *Nerrin*, *Orrin*, *Halcin*, *Loken*, *Wendric*.
+
+**He is deliberately the more solid-sounding of the pair.** *Bittek Sarn* is thin-vowelled and slightly
+ridiculous; *Garrin* has weight. The contrast is doing work — the competent man and the toad who kills him
+should not sound like they belong to the same weight class.
 
 ## Retired before use — do not reintroduce
 

@@ -9055,3 +9055,46 @@ holds badly, and which is why Ronas has the longest guardrail section in the rep
 
 **Still uncoined:** the capable lieutenant Sarn betrays in Act III, recorded in both `Names.md` and the
 master list as B6-1.
+
+### Garrin named, and Sarn's Book 2 position settled — B6-1 closed — 2026-08-14
+
+**The capable lieutenant Sarn betrays is *Garrin*, and he carries one name rather than two.** That is the
+register rather than economy: Warrens figures in `Names.md` overwhelmingly go by a single name, and the
+closest analogue is exact — ***Cullen*** is Ronas's other named lieutenant. Built from three Proto-Balishan
+signatures at once: hard-stop onset, doubled *-rr-*, and the *-in* ending that *Draskin* and *Leowin* already
+carry.
+
+**The say-aloud test earned its place for once.** *Corran* was the better-sounding candidate and was
+disqualified **on sound rather than spelling** — its onset is a hard /k/, and Book 6 already carries *Kess*,
+*Kai* and *Kael*, so it would have been the fourth hard-K onset in one book. **Spelling it with a C does
+nothing for a reader hearing it.** The register's instruction is to say the name aloud beside every short
+name already in the book, and this is the first coinage where following that changed the answer.
+
+**Garrin is deliberately the more solid-sounding of the pair.** *Bittek Sarn* is thin-vowelled and faintly
+ridiculous; *Garrin* has weight. The competent man and the toad who kills him should not sound like the same
+weight class.
+
+### And the Book 2 question resolved against the option I offered
+
+**Sarn was in the organisation when Rosik first ordered the leash off — which the outline's "twenty years"
+already committed to — and he was not among the ones who ran wild.**
+
+**The reason matters more than the ruling, because I had offered the alternative as an upside and it was
+not one.** Making Sarn one of the wild lieutenants was floated as a payoff: Melina Kemvimore's *"they're not
+like him, they're worse"* turning out to be partly about him. **That payoff cannot exist.** It requires the
+reader to recognise somebody, and **Book 2's prose never individuates a single one of Ronas's lieutenants** —
+they are a pure category, verified by search. There is nobody to recognise. The author reached the same
+conclusion independently and put it plainly: it does not serve a purpose in the prose, it is sheet material,
+and there is no sheet.
+
+**What replaced it is the opposite of it and is better.** Sarn's only governor is fear of the man who
+punishes him. **In Book 2 Ronas was still standing** — and proved it by executing the lieutenant who murdered
+Melina Kemvimore, immediately, to re-establish control. So Sarn stayed in line, and **the one who stayed in
+line is the one who spent twenty years storing it up.** It also supplies the *specific* execution behind the
+author's own formulation that Sarn's restraint comes from having "literally seen it happen to other
+lieutenants": Book 2 already had the instance, so Book 6 need not invent one.
+
+**And it answered a general question worth recording: where backstory goes when a character has no sheet.**
+If it changes how a scene is written, it goes in the outline beside that scene — this went into Act I as a
+constraint on writing his restraint. If it changes nothing, it is trivia and goes nowhere. **The absence of a
+sheet is not a gap that needs filling elsewhere.**
