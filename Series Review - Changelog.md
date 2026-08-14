@@ -8900,3 +8900,28 @@ else rather than by a check of its own.
 rulings: nothing in the city is damaged or declining; nothing may date the city before the characters date it;
 Elara does not read. All three held across ch7–ch11 as written, and **they bind again in Book 7**, when the
 series returns to the city.
+
+### `royalroad_export.py` now prunes stale output — 2026-08-14
+
+**Fixes the defect found an hour earlier during the ch10/ch11 retitle**, where the entry above records the
+script writing new HTML and leaving the old files beside it. The exporter only ever wrote; it never deleted,
+so a renamed or cut chapter left its old `.html` sitting in a paste-ready folder. **That is worse than a
+missing file, because it looks finished** — the folder is explicitly build output nobody is meant to read
+closely before pasting.
+
+**Each book's `Royal Road/` is now reconciled against its `Chapters/` on every run, and every deletion is
+named on stdout.** Non-`.html` files in the folder are left alone.
+
+**The one subtlety, kept in a comment because it is invisible and would be "simplified" away.** Files are
+matched by identity — `(st_dev, st_ino)` — not by name. This filesystem is case-insensitive, so a case-only
+rename (`- alpha.md` → `- Alpha.md`) writes through to the existing directory entry and leaves the name on
+disk differing from the name written; a name comparison would then classify the run's own fresh output as an
+orphan and delete it. Identity matching is correct on both kinds of filesystem. **Verified against exactly
+that case on a scratch book**: the file survived with its content intact.
+
+**A book with no chapters still prunes nothing**, which is deliberate and also commented — an empty
+`Chapters/` is far likelier to mean the script is running from the wrong directory than to mean the author
+deleted a book.
+
+**Re-run over all three books afterward: 58 files, zero diff, nothing pruned.** Idempotence holds, and no
+orphans remain anywhere.
