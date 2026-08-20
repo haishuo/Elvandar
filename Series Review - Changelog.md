@@ -9173,3 +9173,17 @@ Book 6 and 7 outlines. **Every one of them is referencing a sheet rather than or
 which is the correct direction. Sampled and read rather than counted. **Sarn was the sole anomaly and only
 because there was no sheet for the outline to point at** — so the rule arrives with no backlog attached, and
 nobody should go looking for one.
+
+### Elara is no longer canonically taller than Xion — author's ruling, 2026-08-20
+
+**Removed, not reversed.** B1 ch24 had described Sa Ko Ren as *"taller than Xion, nearly matching
+Elara's height,"* and the Elara and Sa Ko sheets repeated the comparison. A full search found no other
+independent support, no scene staged around it, and no downstream dependency. All three formulations came
+from the repository's initial commit; the later retro beat draft retained only that Sa Ko was tall.
+
+The author's account is the reason for the correction: **"This is almost certainly a leftover from some
+older thing that I don't even remember."** He genuinely did not recall making the call and had never
+actually conceived of Elara as taller than Xion. Ch24 now reads *"She was tall, with the muscular build…"*;
+`People/Elara Valanar.md` explicitly leaves Elara's height relative to Xion unspecified; both repeated
+Elara comparisons were removed from `People/Sa Ko Ren.md`. Sa Ko remains tall. No contrary relation was
+introduced. Book 1's Royal Road HTML was regenerated from the corrected prose.

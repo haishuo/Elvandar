@@ -14,7 +14,7 @@ Sa Ko Ren was already waiting.
 
 Xion understood immediately why Kael had suggested her. She stood near the center of the training floor, and even motionless she radiated controlled danger. The same intensity as the Arol Batae warriors, but with something harder underneath. Like looking at tempered steel rather than merely sharpened blade.
 
-She was tall—taller than Xion, nearly matching Elara's height—with the muscular build of someone who still worked with her hands. Her dark hair showed silver at the temples, pulled back in a practical style that kept it out of her way. She wore training clothes that had clearly seen decades of use, faded but immaculately maintained.
+She was tall, with the muscular build of someone who still worked with her hands. Her dark hair showed silver at the temples, pulled back in a practical style that kept it out of her way. She wore training clothes that had clearly seen decades of use, faded but immaculately maintained.
 
 Xion had seen her before at formal gatherings, but always from a distance, always as his father's shadow in rooms full of careful politics. Here, in her own training hall, stripped of diplomatic pretense, she was something else entirely. Raw power barely contained by discipline.
 

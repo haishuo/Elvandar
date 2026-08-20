@@ -761,6 +761,21 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 Decided. Retained so they are not reopened or re-flagged.
 
+### Elara and Xion have no canon height relation — **AUTHOR'S RULING 2026-08-20**
+
+**The old claim that Elara was taller than Xion is removed, not reversed.** The only prose support was
+B1 ch24's description of Sa Ko Ren as *"taller than Xion, nearly matching Elara's height"*; Elara's and
+Sa Ko's sheets repeated the same comparison. All three formulations traced to the repository's initial
+commit, with no later authorial ruling, no independent staging anywhere in Books 1–3, and no downstream
+dependency. The later retro beat draft calls Sa Ko tall and does not preserve either comparison.
+
+The author's ruling when the sentence surfaced during visual development: **"This is almost certainly a
+leftover from some older thing that I don't even remember."** He genuinely did not recall ever deciding
+that Elara was taller or conceiving of the pair that way. Ch24 now describes Sa Ko as tall without using
+either character as a measuring stick; the Elara and Sa Ko sheets match it. **Nothing now establishes
+Elara's height relative to Xion's, and no difference should be inferred in either direction unless the
+author makes a new call.** Sa Ko remains canonically tall.
+
 ### The camera does not leave Xion for a closing image — **AUTHOR'S RULING 2026-08-06**
 
 **Stated generally by the author, so it applies past the chapter that prompted it:** *unless it is Xion's

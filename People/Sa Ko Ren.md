@@ -134,7 +134,7 @@ Everything comes down to one woman's judgment.
 
 Kael leads them to Iron cartel territory. The industrial district reveals Sa Ko's character before she says a word — forges lining the streets, workshops open to catch the breeze, no fountains wasting water, no decorative excess. Just production, efficiency, the honest work of making things. The training hall where Sa Ko waits is "starker. More utilitarian." Everything practical. Nothing wasted.
 
-Sa Ko herself is tall — nearly matching Elara's height — with a muscular build from decades of metalwork and combat, dark hair showing silver at the temples pulled back in a practical style. She wears training clothes that have "clearly seen decades of use, faded but immaculately maintained." Even motionless, she radiates "controlled danger." Xion sees "tempered steel rather than merely sharpened blade."
+Sa Ko herself is tall, with a muscular build from decades of metalwork and combat, dark hair showing silver at the temples pulled back in a practical style. She wears training clothes that have "clearly seen decades of use, faded but immaculately maintained." Even motionless, she radiates "controlled danger." Xion sees "tempered steel rather than merely sharpened blade."
 
 Elara presents her credentials: the royal eye-shifting, the Spirit's Reflection, Arol Batae support. Sa Ko dismisses each in turn with blunt efficiency. Then the challenge: single combat, no weapons, first blood or tap out or surrender. The Arol Batae guards tense. This was not the plan. Elara accepts without hesitation, without consulting anyone.
 
@@ -204,7 +204,7 @@ Sa Ko occupies a unique position in the Coterie — respected for her cartel's o
 
 ### Physical Presence
 
-Sa Ko Ren is tall — nearly matching Elara's height — with a muscular build from decades of metalwork and combat. Her dark hair shows silver at the temples, pulled back in a practical style that keeps it out of her way. Her arms are "corded with muscle from decades of metalwork and combat." She wears training clothes that have seen decades of use, "faded but immaculately maintained." Her voice carries an accent that marks her Terinok origins.
+Sa Ko Ren is tall, with a muscular build from decades of metalwork and combat. Her dark hair shows silver at the temples, pulled back in a practical style that keeps it out of her way. Her arms are "corded with muscle from decades of metalwork and combat." She wears training clothes that have seen decades of use, "faded but immaculately maintained." Her voice carries an accent that marks her Terinok origins.
 
 She radiates "controlled danger" even motionless. Xion perceives "tempered steel rather than merely sharpened blade" — the distinction between raw threat and disciplined power. In the training hall she is "violence given human form, forty-eight years of warrior experience radiating from every controlled movement." Her fighting stance is "looser, more fluid" than the Arol Batae school, "her posture speaking to different training entirely."
 

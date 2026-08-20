@@ -362,7 +362,7 @@ will.** See [the Book 7 thread](../Series%20Review%20-%20Master%20List.md).
 
 ### Physical Presence
 
-Approximately twenty years old, with dark hair typically pulled back in a practical style. Tall — close to Sa Ko Ren's height, taller than Xion. Athletic build concealed beneath practical clothing, with a "natural grace she usually kept hidden beneath practicality." She bears a faint scar on her chin from training and small scars on her hands from years of weapons work.
+Approximately twenty years old, with dark hair typically pulled back in a practical style. Athletic build concealed beneath practical clothing, with a "natural grace she usually kept hidden beneath practicality." She bears a faint scar on her chin from training and small scars on her hands from years of weapons work. Her height is not established relative to Xion's; do not infer a difference in either direction.
 
 She moves like a soldier — controlled, aware, ready. Her combat training has made her naturally graceful, but she moves "with too much precision" for social contexts, "anticipating steps rather than flowing through them." In crowds, she proves surprisingly good at blending in, moving "like someone who belonged among the common folk rather than above them."
 
