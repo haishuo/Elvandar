@@ -41,7 +41,7 @@
 
 16. Farleen — the principle migrates rather than breaks. She has fought, on the page, in the first person; what the chapter does not stage is her grief. We do not watch her break. We get one gesture — a single beat where the person underneath the training surfaces for a moment — and then she goes to work. She pulls on her network. She puts her hands to the nearest useful task. Her final play failed, and her answer to that is the most Farleen thing available to her: she cannot protect what she cannot have, so she protects him anyway. This is not suppression. It is who she is.
 
-17. Final beat: forward-facing. Kalden has been refused — privately, but no less absolutely, by name. And here the secrecy pays its cruelest dividend: because no one saw the proposal and no one will see the refusal, Kalden loses nothing he cannot hide. He does not have to nurse a public humiliation; he simply folds the private wound into a cold pivot. Gunastran never learns he tried to marry the enemy. What the world will see is only a coalition hardening — the first tremor of the Compact that consolidates in the chapters ahead, with Kalden stepping into the anchor's place as though he had meant to all along. The war is not in this room. But the decision that will shape it just happened here, in secret, and the chapter closes before the world has any idea a door quietly closed at all.
+17. Final beat, and it stays in the room. Kalden has been refused — privately, but no less absolutely, and by name. The envoy carries the answer away and the doors close behind him, and the whole thing is over in less time than it took to convene. The war is not in this room. But the decision that will shape it just happened here, in secret, and the chapter closes before anyone outside these walls has any idea a door quietly closed at all.
 
 ---
 
@@ -58,3 +58,15 @@
 **The outcome is canon; the suspense is technique.** Xion chooses Elara — he takes the Valanar name at this marriage, and by Book 8 he is Lord Consort Valanar. None of that is in doubt to the author. The craft challenge is to make the reader genuinely doubt it anyway, all the way to beat 14. The fixed result and the live suspense are not in tension; the whole point of the wide-shot reveal is that a foregone conclusion can still stop a reader's breath if the telling withholds it honestly.
 
 **The reader's position.** The reader should want Xion to choose Elara. They should also feel, clearly, what is being given up — the pastry, the low wall, the shoulder in the dark, the world where nobody dies and Xion is simply happy. Both things must be true at once. The chapter fails if it resolves into pure romantic satisfaction. It succeeds if it resolves into something more honest: the right choice, made with eyes open, in front of witnesses, knowing the cost — and revealed one agonizing second later than the reader could stand.
+
+### Beat 17's forecast — cut 2026-08-14
+
+**Cut from the final beat:** Kalden folding the private wound into a cold pivot, *"Gunastran never learns he
+tried to marry the enemy,"* and the Compact consolidating over the chapters ahead with Kalden stepping into
+the anchor's place. **None of it is visible from a closed audience room in Kaha'an**, and the
+**secrecy-consequence** footer already carries all three at length.
+
+**The header's camera move does not license it.** The pull-back for the reveal is a **focal-distance shift,
+not a POV break** — *"still trained on Xion, but external."* It stands back from the man; it does not
+travel to Erulius. The beat now ends in the room: the refusal given privately and by name, the envoy
+carrying it away, and the chapter closing before anyone outside those walls knows a door shut.

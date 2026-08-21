@@ -65,7 +65,7 @@ R7. The Vartonnen matter left to ripen, Kalden returns to the one thing still ou
 
 18. He picks up the letter of rejection and reads it again. Once. He sets it down. He does not destroy it — he is not a man who destroys documents; information is always potentially useful, and this is a record of something. He sets it aside with the same care he used to set it down the first time. The stillness has not broken. He expected the stillness to break at some point this evening, expected some edge to show itself — felt it almost surface when the advisor named the luck of Rosik taking the blame, felt it almost surface when he picked up the pen. It did not break. He is not sure whether this steadiness is strength or whether it is something else, something that has moved too far past grief to have a name for it. He does not examine the question. He has a war to prepare for.
 
-19. Final beat: The Amber Palace at evening. The light through the tall windows has shifted from amber to the first blue-gray of oncoming dark. The collar on Kalden's neck — not the one he adjusts in the mirror in Book 2, but its successor, its continuation, the same collar twenty years on, still sitting exactly right. The genealogical chart on the wall still traces the line from House Erulius to the Valanars. The portraits in the Hall of Ancestors still suggest a dynasty in preparation. Everything in this room says the same thing it has always said. Everything in this room means something slightly different than it did this morning. Kalden does not know yet what this evening will cost. He knows what it has already cost. He finds the second sum acceptable, and the chapter ends there.
+19. Final beat: The Amber Palace at evening. The light through the tall windows has shifted from amber to the first blue-gray of oncoming dark. The collar on Kalden's neck — not the one he adjusts in the mirror in Book 2, but its successor, its continuation, the same collar twenty years on, still sitting exactly right. The genealogical chart on the wall still traces the line from House Erulius to the Valanars. The portraits in the Hall of Ancestors still suggest a dynasty in preparation. Everything in this room says the same thing it has always said. Everything in this room means something slightly different than it did this morning. He knows what this evening has already cost him. He finds that sum acceptable, and the chapter ends there.
 
 ---
 
@@ -84,3 +84,12 @@ R7. The Vartonnen matter left to ripen, Kalden returns to the one thing still ou
 **Dramatic irony:** The reader knows where this goes. The Compact War, the defeat, the reparations, the army that walks away unpaid, the breadbasket that secedes, the rump state, Book 7's mercenaries and a man dying of a stroke outside Kaha'an's walls. Kalden does not know any of this. He is still composed, still in possession of everything he has built, still capable of reading a document with a careful eye and signing it with a steady hand. The chapter closes on a man who has just made the worst decision of his life with complete equanimity. The reader holds both of these things at once. That gap is what the chapter is for.
 
 **Sets up:** The Terinok alliance, the diplomatic architecture of Book 4's war, and the continental coalition that will occupy the first half of Book 4. The Compact is real and its members have genuine grievances — this is not melodrama but tragedy, three nations with legitimate injuries pointed at a common target because one man could not absorb a wound.
+
+### Beat 19's forward reach — cut 2026-08-14
+
+**The closing beat broke the constraint its own footer sets.** *"Kalden does not know yet what this evening
+will cost"* asserts that there is a future cost — and **On the closing beat** says **"nothing in the closing
+image may reach forward, because the chapter is inside a man who cannot see past this evening."** The beat
+now reads *He knows what this evening has already cost him. He finds that sum acceptable.* (*"The second
+sum"* took its antecedent from the cut sentence and was rephrased with it.) **The larger sum stays the
+reader's**, which is what the footer was protecting.

@@ -223,7 +223,7 @@ separate note below.
 ### The holes, which are not to be filled by inference
 
 - **The dates.** No BR year is pinned for the war's start or end. `Story Timeline.md` places Book 5 at
-  roughly twenty years after Book 1 (~1064 BR) and the war "following the Book 3 alliance", which leaves a
+  roughly eighteen years after Book 1 (~1062 BR) and the war "following the Book 3 alliance", which leaves a
   wide unpinned gap.
 - **Balisha's war.** The King's Gambit is now the one substantial piece of it, and it covers the opening
   phase only. Elara deployed Lathion technology and Xion coordinated strategy; beyond that, **what Balisha
@@ -241,10 +241,10 @@ separate note below.
 
 ---
 
-**On the twins being born in a book that cannot show it.** Book 4 is *entirely* Danshall Harkim's, and the
+**On the twins being born after a book that cannot show it.** Book 4 is *entirely* Danshall Harkim's, and the
 outline is explicit that Xion, Elara and Farleen do not appear and exist only as distant names. So the
-birth of the two people who carry Books 5 through 8 happens inside the one book architecturally incapable
-of depicting it. **That is not a gap to be repaired by giving Book 4 a scene** — the deliberate absence of
+birth of the two people who carry Books 5 through 8 happens after its war, in the offstage peace that follows
+the one book architecturally incapable of depicting their parents. **That is not a gap to be repaired by giving Book 4 a scene** — the deliberate absence of
 the protagonists is the point of that book's design. It is a gap that belongs here.
 
 **On why this entry is thin where the other one is thick.** The Taking of the Tiger Prince was settled in
@@ -317,7 +317,7 @@ of the only thing he has ever consistently been.
 
 **Which is exactly why it works on Kalden, and only on Kalden.** Kalden does not know him. **Kalden's Xion
 is a different person wearing the name** — a machiavellian overmind who arranges continents, who took Elara
-as a prize, who is behind everything that has gone wrong in Kalden's life for thirty years. Xion knows
+as a prize, who is behind everything that has gone wrong in Kalden's life for nearly twenty years. Xion knows
 precisely what that imaginary man looks like, because he has been watching Kalden shout about him for
 years. **So he plays the part of Kalden's Xion**, and Kalden's response is not *I am persuaded*. It is
 **I knew it.**
@@ -376,12 +376,12 @@ knows how to point it. Do not treat that as a slip or a fall — but do not trea
 is worth remembering that the man he used it on is the same man **Rosik will use the identical lever on
 twenty years later**, for a different purpose, with the same contempt for him as an instrument.
 
-**On the imaginary Xion, which is the thread that runs from here to Kalden's death.** Kalden spends thirty
+**On the imaginary Xion, which is the thread that runs from here to Kalden's death.** Kalden spends nearly twenty
 years fighting a man who does not exist. **This is where that man is first weaponised** — Xion, having
 identified the fantasy, feeds it deliberately, and Kalden loses a war to a version of his enemy that he
 invented himself. **And it is what eventually kills him.** In Book 7 he rides out to meet the same
 imaginary man, screaming *where is he, where is Xion*, and finds a calm young stranger who turns out to be
-the son, and the collision between thirty years of story and the reality in front of him kills him where he sits — a stroke, and years of ruin arriving at once.
+the son, and the collision between forty years of story and the reality in front of him kills him where he sits — a stroke, and years of ruin arriving at once.
 **Xion helped build the delusion. Rosik later uses the same delusion. It is the delusion that kills him**,
 and no one ever tells him it was not real.
 
@@ -434,7 +434,7 @@ than as stupidity. It is also where the last entry in his ledger lives; see `Peo
 Four claims, made to a man drinking in a palace he could no longer heat properly. **Every one of them is
 true.**
 
-**1. *I have insider knowledge of Kaha'an.*** He does. It is thirty years of it, and it is excellent — and
+**1. *I have insider knowledge of Kaha'an.*** He does. It is an adult lifetime of it, and it is excellent — and
 it is **infiltration** intelligence. Corridors, watch rotations, second-shift routes, the way a particular
 household moves through a particular building at a particular hour. It is worth exactly what it cost him
 and it is worth nothing whatsoever for taking a city. **Rosik describes his actual asset accurately and
@@ -661,10 +661,10 @@ it**, which is the other reason the votes run three to one.
 
 Work through the alternative. Had the Coterie declared the Valanars **dead**, the throne becomes vacant,
 and a vacant throne is a **succession question** — which has to be answered, and answered *now*. And the
-answer, on the genealogy, points at Erulius: House Erulius carries a third-cousin-twice-removed connection
-on the mother's side from many centuries back, which was trivia while Valanars sat the throne and became
-**the closest surviving link to the imperial line** the moment they stopped. Thin, and real, and the best
-anyone had.
+answer, on the genealogy, points at Erulius: the first Lord Erulius had been a Valanar emperor's third
+cousin twice removed, on the emperor's mother's side, through a distant shared ancestor. That kinship was
+trivia while Valanars sat the throne and became **the closest surviving link to the imperial line** the
+moment they stopped. Thin, and real, and the best anyone had.
 
 **Which is exactly why that door was never going to open.** Not one of Rosik, Tania or Sa Ko would hand
 Kaha'an to a foreign prince, and the three of them held the city. A succession question asked in those
@@ -690,7 +690,7 @@ seat of an empire**, so he set about making Erulius look like one. See `People/K
 that says about him; the point here is only that **the work had a target, and the target was a decision by
 a specific body in a specific city.**
 
-### And this is where the campaign failed, twenty years before the armies
+### And this is where the campaign remained vulnerable, not futile
 
 **He did the Kaha'an half, and it is more substantial than it first looks.** See
 `Places/Kaha'an/kahaan_political_factions.md` — the **Secessionist Fringe**, "the Conspirators," is a
@@ -700,25 +700,33 @@ Seven**; money from the families who fled to Erulius after the Rending; and a st
 operation about the legitimacy of Kalden's claim specifically. **That is not an intelligence service. That
 is a political base**, built patiently, in the right city, aimed at the right question.
 
-**Two things were wrong with it, and neither is stupidity.**
+**Two things limited it, and neither makes the campaign a failure.**
 
 **It is a coalition of everyone in Kaha'an who has already lost.** The file's own recruitment list is
 displaced nobles who lost everything, merchants crushed by cartel monopolies, ideological dissidents, and
 residents with foreign ties. Every one of those is a real grievance and a reliable recruit. **None of
 them can deliver an institutional ruling**, because the ruling would have to be issued by the people who
-won. After twenty years it is still, in the city's own reckoning, a *fringe*.
+won. After twenty years it is still, in the city's own reckoning, a *fringe*. But a fringe can normalize a
+name, make permanent ambiguity expensive, build connections, and turn a once-ridiculous claim into the
+answer serious actors have to account for whenever succession is discussed. That is what this one did.
 
-**And the three who could actually reopen the question were never touched.** Rosik, Tania and Sa Ko held
-the city and the ruling was theirs to revisit. He has nothing on any of them — no leverage, no debt, no
-faction inside any of the three cartels that matters. **The entire apparatus routes around the only body
-with the authority to give him what he wants.**
+**And he never secured direct leverage over the three who could actually reopen the question.** Rosik,
+Tania and Sa Ko held the city and the ruling was theirs to revisit. He has nothing on any of them — no
+leverage, no debt, no faction inside any of the three cartels that matters. That is a serious limitation,
+but he does not need to make any of them an enthusiastic Erulian. He needs the calculation around them to
+change until reopening the succession costs less than preserving permanent ambiguity. His apparatus cannot
+award him the throne. It can create the pressure under which the people with authority eventually decide
+that awarding it is the least expensive available answer. By the eve of Elara's arrival, it is moving that
+calculation in the right direction.
 
-**Which points at what he actually built.** Sabotage capability, fifth-column placement, supply caches,
+**And the apparatus has a darker second use.** Sabotage capability, fifth-column placement, supply caches,
 assassination contacts running to the Long Knives, "identifying targets for future liberation." **That is
-an instrument for taking a city, and a succession ruling is something that has to be granted.** He built
-both halves and the coercive half is far the more developed, which is characteristic — and it is also why
-the later pivot to force is so fast. **He does not have to build anything new when the legal route dies.
-The other machine has been sitting in Kaha'an the whole time.**
+an instrument for taking a city, while a succession ruling has to be granted.** The coercive half is more
+developed than it should be, which is a real strategic and moral weakness — and it is also why the later
+pivot to force is so fast. But the existence of that second machine does not make the first one fictitious.
+For twenty years the political half performed credentialing and pressure, and it was working. **When the
+legal route dies, he does not have to build anything new; the darker machine has been sitting beside it in
+Kaha'an the whole time.**
 
 **One irony worth keeping.** Kaha'an contains the machinery for validating a Valanar and the machinery for
 validating Kalden at the same time — House Thessalar of the Imperial Faction maintains the genealogical
@@ -727,9 +735,10 @@ activates and the second is annihilated**, and Morthen discovers it backed the w
 
 **Which is why Elara's arrival is not a counter-example to his ledger, and a later pass should not treat
 it as one.** It is the single thing that happened *to* him rather than because of him, and it still is not
-injustice: **a legitimate heir returning is the system working exactly as designed**, and he had twenty
-unopposed years to close a question that a returning Valanar would have closed at any point in them. The
-runway was the reprieve. What he built on it was a palace.
+injustice: **a legitimate heir returning is the system working exactly as designed.** The twenty years
+were a real opportunity and he used them well enough to turn a remote possibility into a serious, probably
+winning legal campaign. Elara does not expose the campaign as futile. She supersedes it with the one claim
+no amount of credentialing can outrank.
 
 **One consequence worth holding.** Rosik authored the fiction that preserved Kalden as a claimant for
 twenty years, and Rosik is the man who eventually walks into the Amber Palace and spends him. **Neither of

@@ -4,7 +4,7 @@
 
 **POV:** Primarily Tiberian and Melina. Possible interlude from Kalden's perspective (mirroring the Kalden/Gunastran interludes of earlier books) to show the alliance forming from his side — the useful idiot who doesn't know he's being used. Xion and Elara are present but the defense is their children's to lead.
 
-**Timeline:** Several months — from the formation of the Kalden-Rosik alliance through the assault on Balisha and its aftermath.
+**Timeline:** Several months — from the formation of the Kalden-Rosik alliance through the assault on Balisha and its aftermath. It follows Book 6 promptly because the accelerating Warrens relocation is destroying Rosik's remaining base; the twins are approximately eighteen.
 
 **Core Theme:** "Settling accounts with the past." This is the book where the ghosts of the original trilogy are finally laid to rest. Kalden's imperial delusion. Rosik's need to prove he was the best. The cartel system's last breath. The succession crisis that has haunted Elvandar since the Rending. All of it ends here.
 
@@ -38,7 +38,7 @@ Rosik finds Kalden and reads him in seconds: a broken man with resources (mortga
 
 **The truth Kalden can't see:** Rosik's real plan has nothing to do with the war. The mercenary army is not a distraction in the abstract — it is a precision instrument, calibrated to produce a specific behavioral response in a specific person. Rosik has spent years modeling Balisha's defenses, and the bulk of that work focused on personalities, not walls. He knows Tiberian's character: the Tiger Prince will not let a foreign mercenary force camp on Balishan soil. He will ride out to engage. He knows Kess Ashwood's pattern: she goes where Tiberian goes. **That pattern is recent** — it dates from the kidnapping between the books, which is public enough to read and dramatic enough to explain the change. **The Slavers' last grab at relevance is what put her permanently at Tiberian's shoulder, and therefore what guarantees she rides out of the city with him here.** Their final attempt to matter served the one man who was using their whole world as scenery, and none of them ever know it. He knows the Arol Batae deployment logic: a substantial contingent will accompany them. Kalden's army is sized and positioned to draw exactly that response — enough threat to require a field engagement, not so much that the city would batten down behind its walls. The plan is a Rube Goldberg device with Kalden as its trigger and Tiberian's character as its lever.
 
-This intelligence-gathering came at a price. Rosik burned his entire Kaha'an network getting it. Every contact, every coin, every favor accumulated across thirty years went into reading the city. He arrives for the actual infiltration with no operational support whatsoever — no sabotage cells to activate, no informants to coordinate, no fallback assets. Just the knowledge, a blade, and the skills the Long Knives taught him forty years ago.
+This intelligence-gathering came at a price. Rosik burned his entire Kaha'an network getting it. Every contact, every coin, every favor accumulated over an adult lifetime went into reading the city. He arrives for the actual infiltration with no operational support whatsoever — no sabotage cells to activate, no informants to coordinate, no fallback assets. Just the knowledge, a blade, and the skills the Long Knives taught him nearly half a century ago.
 
 Kalden is the useful idiot. The loud, angry, delusional front man. Rosik doesn't care whether Kalden wins or loses — he only needs him to *last*. An hour is his minimum. **What he actually expects is the better part of a day, and the expectation is empirical rather than optimistic — Kalden and Tiberian have fought one campaign to its conclusion already, and it occupied Tiberian for most of a day.** Enough field engagement time for Tiberian and Kess and the Arol Batae contingent to be committed somewhere Rosik isn't. After that, Rosik doesn't care if Kalden dies in the field; in fact, he probably will. Rosik also has no illusions about his own survival. He expects the Arol Batae to descend on him like locusts the moment the deed is done. He has accepted this. He cares about killing the son who destroyed him, and there is nothing else left to want.
 
@@ -146,9 +146,12 @@ stands between them is not Xion; it is the apparatus around him — the Arol Bat
 commands them, and a daughter who reads patterns for a living. **So the problem is not how to kill him.
 It is how to make the apparatus face the other way.**
 
-**He cannot simply go.** The Arol Batae are a standing guard on a hardened palace, and he is fifty-eight
-— trained to a standard nobody in that building can match and no longer the man who was trained to it.
-Alone, unaided, against an alerted perimeter, it is a death sentence that does not even reach Xion.
+**He cannot simply go.** The Arol Batae are a standing guard on a hardened palace, and he is approximately
+sixty-four — trained to a standard nobody in that building can match and no longer the boy who was trained
+to it. Alone, unaided, against an alerted perimeter, it is a death sentence that does not even reach Xion.
+But he is still lean, practiced and operationally exact: young enough that a thinned, modelled route remains
+inside his honest assessment of his own ability. **The distraction is what makes the attempt sound, not what
+makes an otherwise impossible old man briefly lucky.**
 
 **And underneath the Arol Batae there is Kess Ashwood, who is the actual problem.** Everything else in
 the apparatus can be modelled, thinned, or timed. She cannot. She is dual-natured, pit-bred, and she
@@ -258,7 +261,7 @@ learned nothing.
 
 ### What it cost, and why he considered that acceptable
 
-His **entire Kaha'an network** — every contact, coin and favour accumulated across thirty years — spent
+His **entire Kaha'an network** — every contact, coin and favour accumulated over an adult lifetime — spent
 buying the model. No sabotage cells, no informants, no fallback, and **no way to receive information once
 he is inside.**
 
@@ -497,7 +500,7 @@ a clown who dies in a separate scene while the real plot happens elsewhere. **He
 of somebody else's structure, and he fails under his own weight before it can be pulled.** The distraction
 would have worked. It was working. The only thing it required of him was to remain alive and moderately
 inconvenient for the length of an afternoon, and he could not manage it — because of the drinking, and the
-weight, and the gout, and thirty years of ungoverned rage, all of which are his own doing and none of which
+weight, and the gout, and nearly twenty years of ungoverned rage, all of which are his own doing and none of which
 anyone made him choose.
 
 **So the last thing Kalden Erulius ever does is ruin a sound plan by being Kalden**, which is the last thing
@@ -507,7 +510,7 @@ he ever did on every previous occasion as well. He does not know that either.
 
 Rosik does not know any of this. He has no network left to tell him. He committed weeks ago, on the model he built, and the model said Tiberian and Kess and a chunk of the Arol Batae would be a hundred miles east on the Golden Path and out of the city for the better part of a day. That was the window. **It was a sound reading, and an empirical one — see the section on how he estimated it.** He moves into the window.
 
-He's still one of the best. The Long Knife skills never atrophied — they just went underground for thirty years and emerged sharper than before. The first perimeter falls to him quietly. The second falls. He's inside.
+He's still one of the best. The Long Knife skills never atrophied — they just went underground for most of half a century and emerged sharper than before. The first perimeter falls to him quietly. The second falls. He's inside.
 
 And then he notices the patrol cadence is wrong.
 
@@ -571,7 +574,7 @@ The aftermath. Kalden's claims to imperial legitimacy die with him on the Golden
 
 **What Melina actually gets is an audit, and it is better.** There are residual contacts — a clerk who sold a duty roster, a mason who confirmed a service stair, a man who was paid once, in cash, eighteen months ago, and has been waiting ever since to find out what for. They are found because they are findable: none of them was ever tradecraft, they were **purchases**, and purchases leave receipts. Running them down is accountancy, not counterintelligence, and it takes weeks of unglamorous work by people who are not in this book.
 
-**And the finding is the last confirmation of what he did.** Reconstructed from the far end, the shape is unmistakable: thirty years of accumulated contacts, coin and favour, converted inside a single season into one product — where Xion Valanar would be, and how to reach him. **Nothing was held back and nothing was left running.** Melina assembles the ledger of it afterward and understands, in a way nobody warned her she would, that the thing she spent the crisis hunting had already been sold to buy the thing that nearly worked.
+**And the finding is the last confirmation of what he did.** Reconstructed from the far end, the shape is unmistakable: an adult lifetime of accumulated contacts, coin and favour, converted inside a single season into one product — where Xion Valanar would be, and how to reach him. **Nothing was held back and nothing was left running.** Melina assembles the ledger of it afterward and understands, in a way nobody warned her she would, that the thing she spent the crisis hunting had already been sold to buy the thing that nearly worked.
 
 The last remnant of the cartel system's old guard dies with him. House Kemvimore is truly finished — not the name Xion carries (he is Valanar now) but the power structure it once represented.
 

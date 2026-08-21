@@ -4,7 +4,7 @@
 
 "People are suffering RIGHT NOW while we debate!"
 
-That's Tiberian Valanar at eighteen — Crown Prince of the restored Balishan Empire, son of Empress Elara and Emperor Consort Xion, twin brother of Melina — standing in a council chamber and failing to understand why anyone would choose analysis over action when people are dying. He has his father's compassion and his mother's fury, and the combination produces something neither parent entirely expected: a young man who experiences moral clarity as an imperative to move.
+That's Tiberian Valanar at sixteen — Crown Prince of the restored Balishan Empire, son of Empress Elara and Emperor Consort Xion, twin brother of Melina — standing in a council chamber and failing to understand why anyone would choose analysis over action when people are dying. He has his father's compassion and his mother's fury, and the combination produces something neither parent entirely expected: a young man who experiences moral clarity as an imperative to move.
 
 Named for his grandfather Emperor Tiberan Valanar IV, Tiberian inherited the weight of imperial legacy but forged something distinctly his own. Where his mother learned to wield power from the throne and his father learned to heal from the shadows, Tiberian leads from the front. He is the prince who rides at the head of the column, not because he craves glory, but because he cannot ask others to face what he won't face himself.
 
@@ -28,11 +28,11 @@ Tiberian's core motivation is the same as his father's — the drive to protect 
 
 Every major decision he makes across the trilogy traces back to this core. In Walled Garden, he sees through Kalden's rhetoric about "protecting" Silaris and recognizes what's actually happening: a cultural treasure is being looted, people are suffering, and artists are fleeing. His response isn't strategic calculation — it's moral fury: "Balisha has both resources and moral obligation to preserve Elvandar's greatest cultural treasure!" He intervenes with a small force against his parents' initial wishes, not because he's reckless, but because he cannot stand still while harm is being done.
 
-In Necessary Measures, his confrontation with Melina over the Warrens relocation is Caretaker energy directed at his own sister. He finds her at midnight surrounded by another round of plan revisions, and his frustration isn't intellectual — it's visceral: "You've been 'perfecting' this plan for three years while children die in those tunnels." He experiences her analysis paralysis as a moral failure, because to him, delay is complicity.
+In Necessary Measures, his confrontation with Melina over the Warrens relocation is Caretaker energy directed at his own sister. He finds her at midnight surrounded by another round of plan revisions, and his frustration isn't intellectual — it's visceral: "You've been 'perfecting' this plan for eighteen months while children die in those tunnels." He experiences her analysis paralysis as a moral failure, because to him, delay is complicity.
 
-**He is right about the cost of waiting and wrong about what speed buys, and Book 6 collects on the second half.** *(Causality corrected 2026-08-02; see `book6_outline.md`.)* When the Warrens collapse, the collapse is not a thing anyone could have modelled — which means it was not modellable three years earlier either, and three years earlier there would have been no receiving cities and no staged water capacity underneath it. **Acting sooner would have met the same chaos with less to catch it.**
+**He is right about the cost of waiting and wrong about what speed buys, and Book 6 collects on the second half.** *(Causality corrected 2026-08-02; see `book6_outline.md`.)* When the Warrens collapse, the collapse is not a thing anyone could have modelled — which means it was not modellable eighteen months earlier either, and eighteen months earlier the receiving cities had not been adapted or staffed and there would have been no staged water capacity underneath it. **Acting sooner would have met the same chaos with less to catch it.**
 
-So the line he eventually says to his sister — *three years of models, and reality did what it liked with them* — **must carry its own concession or it is a brother scoring a point off a grieving woman.** He did not expect it to be this bad either, and he admits that, and he admits it first or immediately after. He is too kind to put any of it plainly and he says it anyway, sideways, in the voice of a man who has been down there and come back up. **Neither of them is vindicated.** They held the same unexamined belief from opposite ends — that enough of the right thing, done well enough, makes an irreversible act survivable — and the Warrens took it off both of them in the same week.
+So the line he eventually says to his sister — *eighteen months of models, and reality did what it liked with them* — **must carry its own concession or it is a brother scoring a point off a grieving woman.** He did not expect it to be this bad either, and he admits that, and he admits it first or immediately after. He is too kind to put any of it plainly and he says it anyway, sideways, in the voice of a man who has been down there and come back up. **Neither of them is vindicated.** They held the same unexamined belief from opposite ends — that enough of the right thing, done well enough, makes an irreversible act survivable — and the Warrens took it off both of them in the same week.
 
 In Last Debts, facing the combined assault of Kalden and Rosik, his Caretaker drive must contend with something new: the learned patience that tells him rushing to save people can get more people killed. His growth across the trilogy is the maturation of his primary drive — not the replacement of compassion with strategy, but the integration of both.
 
@@ -58,7 +58,7 @@ His relationship with his sister contains a competitive edge tempered by love. S
 
 Tiberian sees through deception with a clarity that surprises people who mistake his passion for naivety. He sees through Kalden's rhetoric about "protecting" Silaris immediately — recognizing the cultural acquisition masquerading as aid. He recognizes the Warrens delay for what it is: institutional cowardice wrapped in the language of prudence. He identifies the difference between genuine complexity and manufactured complexity designed to prevent action.
 
-His Truth Seeker drive is blunter than Melina's. Where she pursues truth through analysis — accumulating data, modeling scenarios, testing hypotheses — Tiberian pursues truth through confrontation. He says the uncomfortable thing. He names the reality everyone is avoiding. "You've been 'perfecting' this plan for three years while children die in those tunnels" isn't analysis. It's diagnosis delivered with a hammer.
+His Truth Seeker drive is blunter than Melina's. Where she pursues truth through analysis — accumulating data, modeling scenarios, testing hypotheses — Tiberian pursues truth through confrontation. He says the uncomfortable thing. He names the reality everyone is avoiding. "You've been 'perfecting' this plan for eighteen months while children die in those tunnels" isn't analysis. It's diagnosis delivered with a hammer.
 
 His moral clarity — the ability to cut through sophisticated justifications to the simple truth underneath — is his Truth Seeker drive in service of his Caretaker primary. He doesn't pursue truth for its own sake. He pursues it because people hide behind complexity to avoid doing the right thing, and he won't let them.
 
@@ -108,7 +108,7 @@ He shares this Merchant-bottom placement with everyone in his immediate orbit �
 
 ## Backstory
 
-Born during the Continental War (or the Compact War, depending which history book you read) — a conflict that tested the restored empire in its early years — Tiberian and his twin sister Melina entered a world still rebuilding from The Rending. Their parents had transformed Balisha from a cartel-controlled city-state into the heart of a new empire, but that transformation was ongoing, fragile, and contested.
+Born after the Compact War, once victory finally made a future feel possible, Tiberian and his twin sister Melina entered a world still rebuilding from The Rending. Their parents had transformed Balisha from a cartel-controlled city-state into the heart of a new empire, but that transformation was ongoing, fragile, and contested.
 
 Tiberian grew up in the Imperial Palace, raised with the weight of the Valanar legacy but encouraged to forge his own path. His father — the former grain merchant's son who became a healer, a revolutionary, and an emperor consort — modeled compassion as the foundation of leadership. His mother — the hidden princess who claimed the Ruby Throne and rebuilt an empire — modeled decisive authority and the willingness to fight for what matters.
 
@@ -120,7 +120,7 @@ His relationship with Silvanno — who knew his father in the idealistic circle 
 
 ## Trilogy Arc
 
-### Book 5: Walled Garden (Age 18-19)
+### Book 5: Walled Garden (Age 16)
 
 The Silaris crisis is Tiberian's proving ground. When Kalden moves to seize Silaris's cultural treasures under the guise of protection, Tiberian sees through the rhetoric immediately and demands action. His sister raises valid objections — capacity, resources, legal frameworks, political ramifications. His parents are torn. Xion worries about repeating imperialistic patterns.
 
@@ -132,11 +132,11 @@ The Gallery War plays out in Silaris's narrow streets and galleries, where every
 
 **The Lesson:** Moral passion without strategic thinking causes more harm than good. The intervention succeeds, but its costs teach Tiberian that charging in isn't always the same as saving people. Sometimes the charge itself creates casualties.
 
-### Book 6: Necessary Measures (Age 19–22)
+### Book 6: Necessary Measures (Age 16–18)
 
-*Book 6 spans roughly three years and the gap is the story — the delay is the antagonist and the dead child depends on it. The twins therefore enter at nineteen and leave at about twenty-two, and are twenty-two in Book 7. Corrected 2026-07-31; the sheets had them at nineteen throughout and twenty in Book 7, which the three-year span makes impossible.*
+*Book 6 follows Book 5 without a substantial discretionary gap and spans roughly eighteen months. The delay remains the antagonist and the dead child still depends on it; what the interval buys is adaptation and staffing of Green Cities that already exist, staged food and water, mapped dependencies and transitional order. The twins enter before or around their seventeenth birthday and leave at about eighteen.*
 
-The Warrens crisis forces Tiberian into a different role: not the one who acts, but the one who makes someone else act. His sister has spent three years "perfecting" the relocation plan while children die underground. Tiberian finds her at midnight, surrounded by revisions, and delivers the confrontation that breaks her paralysis.
+The Warrens crisis forces Tiberian into a different role: not the one who acts, but the one who makes someone else act. His sister has spent eighteen months "perfecting" the relocation plan while children die underground. Tiberian finds her at midnight, surrounded by revisions, and delivers the confrontation that breaks her paralysis.
 
 "Overthinking is its own form of cowardice. Sometimes you have to stop analyzing and start DOING."
 
@@ -155,7 +155,7 @@ last line is on his own sheet, and the register is locked.
 
 Together, the twins present their plan to their parents: not a perfect solution, but a necessary action whose details will be refined through implementation rather than endless planning.
 
-### Book 7: Last Debts (Age 22)
+### Book 7: Last Debts (Age 18)
 
 The combined assault of Kalden and Rosik represents the greatest threat the twins have ever faced — external military attack paired with internal subversion from enemies who know Balisha's weaknesses intimately.
 
@@ -185,7 +185,7 @@ She's not wrong. Tiberian's compassion-fury, the defining synthesis of his chara
 
 ### Melina Valanar (Twin Sister)
 
-The emotional core of his life. Born hours apart during the Compact War, inseparable ever since. Melina is his strategic conscience — the analytical mind that tempers his aggressive instincts, the voice that asks whether the charge is wise before he makes it. He is her push to action — the emotional force that breaks her out of analysis paralysis, the reminder that perfect planning is worthless if it never becomes action.
+The emotional core of his life. Born hours apart after the Compact War, inseparable ever since. Melina is his strategic conscience — the analytical mind that tempers his aggressive instincts, the voice that asks whether the charge is wise before he makes it. He is her push to action — the emotional force that breaks her out of analysis paralysis, the reminder that perfect planning is worthless if it never becomes action.
 
 She teases him as "Tiber the Tiger" when he needs humbling. He tells her "stop analyzing and start DOING" when she needs moving. Their complementary strengths — his boldness and her brilliance, his passion and her patience — make them a formidable team when working in concert and a dangerous liability when either operates alone.
 
@@ -193,7 +193,7 @@ Their relationship is the evolution of their parents' partnership: Xion and Elar
 
 ### Kess
 
-Freed from the fighting pits during the Warrens descent at the end of Book 6, when he is twenty-two.
+Freed from the fighting pits during the Warrens descent at the end of Book 6, when he is about eighteen.
 **She is not his soldier, not his subordinate and not his bodyguard by appointment** — she ran the first
 time he freed her, she shadowed his team rather than joining it, and she fought beside him at the end of
 Book 6 because she decided those particular enemies needed killing. Every step of it was hers. *Trust,

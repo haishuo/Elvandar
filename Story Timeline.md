@@ -79,7 +79,26 @@ convening, asking Farleen a second time, and getting the answer some other way.
 | **Xion Kemvimore** | **23** at Book 1 (locked) | **1021 BR**, late autumn — birthday pinned 2026-08-02, see below | **Three** at the Rending — old enough for affective memory: warmth, safety, a laugh, a hand at his back. Not for narrative. |
 | **Elara Valanar** | **20** at Book 1 (locked) | **1024 BR**, summer — birthday pinned 2026-08-02, see below | Infant at the Rending; hidden & raised by the Arol Batae 20 years. |
 | **Melina Kemvimore** | **26** (locked) | ~1018 BR | Elder sister; three years Xion's senior — **six** at the Rending. Enough for real memories of their mother where his are only weather; the bar the prose sets is relative to him, not absolute. Fixed by prose: B2 ch7, *"Twenty-six years old and still the family's smile."* |
-| **Rosik Kemvimore** | **58** (sheet) | ~986 BR | Former Long Knife; widowed by the Rending. |
+| **Rosik Kemvimore** | **44** | ~1000 BR | Former Long Knife; Melina born when he was 18, Xion when he was 21; widowed by the Rending at 24. |
+| **Kalden Erulius** | **35** | ~1009 BR | Father dies and Kalden inherits at **15**, a few months before the Rending; approximately 55 in Book 7. |
+
+---
+
+## Kalden's accession and imperial project
+
+| BR Year | Age | Event |
+|---|---:|---|
+| ~1009 | **0** | Kalden Erulius is born. |
+| **1024**, a few months before the Rending | **15** | Kalden's father dies after an illness. The Erulian High Council confirms Kalden as prince and appoints no regent. He inherits his father's experienced ministers, stable institutions and prosperous state; at first, ordinary government continues around him while he learns. |
+| **1024**, the Rending | **15** | News reaches Eruliath of the magical catastrophe, the emperor and empress presumed dead, no known surviving heirs and Kaha'an in disarray. Family lore had long held that House Erulius was distantly related to the Valanars. Kalden searches the archives and reconstructs the exact history: the first Lord Erulius was a Valanar emperor's third cousin twice removed, on the emperor's mother's side, through a distant shared ancestor. He turns that inherited trivia into an imperial project. His youth is causal: an older ruler might have read a tenuous claim; the brash new prince reads a real chance to make himself matter. |
+| **1024–1044** | **15→35** | Kalden grows into genuine administrative competence while reorganizing Erulius around the claim. The institutions and improvements he builds are real even when they also serve credentialing and imperial theatre. |
+| **1044** | **35** | Books 1–2. Elara's recognition by the Ruby Throne destroys the legal route Kalden has spent twenty years building. |
+| **~1045** | **~36** | Book 3. Kalden proposes marriage, is rejected, and signs the Compact. |
+| **~1064** | **~55** | Book 7. Roughly forty years after the Rending and nearly twenty after he made Xion his imagined enemy, Kalden dies on the Golden Path. |
+
+**The distinction is binding:** the sound pre-Rending state was his father's achievement. Kalden's own
+competence is the result of what he learned and built during the twenty-year imperial project, not evidence
+that he had already governed for years before inheriting at fifteen.
 
 ---
 
@@ -201,10 +220,13 @@ the desert in a city that has been empty for twenty years, with nobody mentionin
 exactly the register this should have — **it is a pin, not a scene**, and if a later draft ever reaches for
 a birthday beat the answer is no.
 
-**Downstream check.** Elara is 21 at the marriage and about 22 when the twins are born (~2 years after
-Book 1), which puts them at 18 roughly 20.3 years after Book 1 — matching the Book 5 figure. **Melina
-Kemvimore (26) and Rosik (58) are unaffected**; both are fixed by B2 ch7 prose and the sheet respectively,
-and neither has a birthday inside the Book 1–3 span that anything depends on.
+**Downstream check.** Elara is 21 at the marriage. She and Xion wait through the Compact War and the twins
+are conceived only after victory; the birth remains approximately two years after Book 1 without requiring
+either parent to pursue a pregnancy during the fighting. The twins are sixteen when Book 5 opens, roughly
+eighteen years after Book 1. **Melina Kemvimore is unaffected. Rosik is 44 in Book 1 and approximately 64
+in Book 7.** Eighteen at Melina's birth is his chronological floor: any younger would require his childhood
+training, rise to premier Long Knife, failed Kemvimore assignment, defection, manufactured identity and
+marriage all to finish before seventeen.
 
 ---
 
@@ -213,6 +235,6 @@ and neither has a birthday inside the Book 1–3 span that anything depends on.
 From the outlines; placeholders, not locked:
 
 - **Book 4 (Harkim's War):** the Compact War (~6 months), following the Book 3 alliance.
-- **Books 5–8 (next generation):** **generational jump** — Tiberian & Melina Valanar are **~18** in Book 5, ≈ **20 years after Book 1** (~1064+ BR). Book 6 spans ~3 years; Books 7–8 follow.
+- **Books 5–8 (next generation):** **compressed generational jump** — Tiberian and Melina Valanar are **16** in Book 5, roughly **18 years after Book 1** (~1062 BR). Book 5 spans several months; Book 6 follows without a substantial gap and spans approximately eighteen months; Book 7 follows promptly with the twins about 18. Book 8 adds only the interval its story requires.
 
 *(Pin exact BR years here as these books get drafted.)*

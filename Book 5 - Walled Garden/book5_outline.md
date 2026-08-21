@@ -2,9 +2,9 @@
 
 **Narrative Engine:** The Compact War is over. The Tripartite Alliance won. But victory comes with a bill — reparations, reconstruction, the massive task of governing an empire that barely existed before the war. And into this fragile peace drops the Silaris crisis: a city-state in terminal decline that becomes the flashpoint for the next generation's first test.
 
-**POV:** Tiberian and Melina Valanar, now eighteen. The series shifts to the next generation. Xion and Elara are present — as parents, as rulers, as the people who built this world — but the story belongs to their children. The reader meets two young adults who inherited an empire and must prove they can sustain it.
+**POV:** Tiberian and Melina Valanar, now sixteen. The series shifts to the next generation. Xion and Elara are present — as parents, as rulers, as the people who built this world — but the story belongs to their children. The reader meets two prodigious young heirs who inherited an empire and must prove they can sustain it.
 
-**Timeline:** Several months — from the first reports of the Silaris crisis through the Gallery War and its aftermath.
+**Timeline:** Several months — from the first reports of the Silaris crisis through the Gallery War and its aftermath. The twins begin shortly after turning sixteen and remain sixteen throughout.
 
 **Core Theme:** "Inheriting the world your parents made." Tiberian and Melina didn't choose this empire. They didn't fight the revolution or negotiate the alliances or start the war. They were born into the result. Now they have to decide what to do with it — and they disagree.
 
@@ -115,7 +115,7 @@ Tiberian's bold maneuvering and developing tactical capability — the Relief of
 
 **Kai in the Gallery War:** One vivid moment — Kai pulls Tiberian out of a collapsing gallery, or covers him while he evacuates civilians and artists. No big speech. Just a quick *"Told you this was a bad idea"* as they stumble out together. The reader sees the trust in action: these two operate as a unit under fire, the same way their fathers did.
 
-**What Kalden loses:** The Silaris gambit fails. The plank floats away. Kalden is left treading water with nothing but the rump state and the northern mines. The man who once had a legitimate claim to an empire cannot hold a failing city-state against an eighteen-year-old prince. The humiliation deepens the spiral described in his profile — the hatred intensifies, the drinking accelerates, the slide toward Book 7 begins.
+**What Kalden loses:** The Silaris gambit fails. The plank floats away. Kalden is left treading water with nothing but the rump state and the northern mines. The man who once had a legitimate claim to an empire cannot hold a failing city-state against a sixteen-year-old prince. The humiliation deepens the spiral described in his profile — the hatred intensifies, the drinking accelerates, the slide toward Book 7 begins.
 
 ---
 
@@ -173,7 +173,7 @@ and it is the mistake Book 6 charges them for.
 one is uneasy. The reader should be able to reconstruct the whole thing afterward from Book 6 and find it
 was in front of them.
 
-**Melina is nineteen and in the room**, and this is where she sees the reclamation programme up close
+**Melina is sixteen and in the room**, and this is where she sees the reclamation programme up close
 long before it becomes hers. It is also the first place she could have thought about her grandfather's
 chair and demonstrably didn't. **Give her nothing to say about it** — see `People/Melina Valanar.md`,
 *She takes her parents' opinions more seriously than anyone watching would guess*, and the Book 6 arc.

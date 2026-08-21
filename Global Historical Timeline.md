@@ -26,7 +26,7 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 > The former seat of the empire, now marginalized, chooses autonomy after years of slow decay and resentment.
 
 **Year 725 BR** — **The Erulian Principality Declares Autonomy**
-> Led by a cadet branch of the imperial family, the Erulians claim to preserve imperial legitimacy, though they are seen as usurpers by others.
+> House Erulius descends from a frontier lord who was distant collateral kin to a Valanar emperor through a shared ancestor on the emperor's mother's side. The Erulians claim to preserve imperial legitimacy, though they are seen as usurpers by others.
 
 **Year 735 BR** — **Silaris Splinters from the Empire**
 > Dependent on foreign imports and trade, Silaris had clung to the empire until isolation forced its independence.
@@ -40,8 +40,11 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 **Year 1020 BR** — **Kaha’an Consolidates Regional Independence**
 > Without declaring secession, Kaha’an becomes de facto independent and leads a stable, self-governed society.
 
+**Year 1024 BR, months before the Rending** — **Kalden Erulius Succeeds His Father**
+> The Erulian prince dies after an illness. The High Council confirms his fifteen-year-old son Kalden without appointing a regent; the experienced government and stable institutions of the principality continue around the young ruler.
+
 **Year 1024 BR** — **The Rending**
-> A massive magical catastrophe annihilates the province surrounding Kaha’an, leaving it a wasteland. The emperor and empress perish; only the capital survives, shielded by ancient wards.
+> A massive magical catastrophe annihilates the province surrounding Kaha’an, leaving it a wasteland. The emperor and empress perish; only the capital survives, shielded by ancient wards. The absence of a known heir sends the newly enthroned Kalden into the Erulian archives, where he reconstructs the first Lord Erulius's distant collateral kinship to a historic Valanar emperor and begins the imperial project that will define his reign.
 
 **Year 1044 BR** — **Events of *The Grain Merchant’s Son***
 > The events of *The Grain Merchant's Son* begin. The successor states remain locked in cold conflict, Kaha’an continues to demand the return of the Scholar’s Crown, and the scars of The Rending still shape trade and diplomacy. A generation has grown up in the shadow of imperial collapse, and the balance of power begins to shift once more.
@@ -62,21 +65,24 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 > Terinok. **Kaha'an itself is invested** — Kalden Erulius abandons the pincer and brings a host of horse
 > west to besiege the capital, arrives without a siege train, and sits in front of unbreached walls until
 > the war is decided elsewhere. **Erulius loses a third of itself to the Erulian Union and never recovers.**
-> Tiberian and Melina Valanar are born during this war.
+> Xion and Elara wait until victory before trying for children. Tiberian and Melina Valanar are conceived
+> after the war and born roughly nine months later.
 > *Not yet dated. Full account and its open holes: `Offstage.md`.*
 
 **Year ~1062 BR** — **Events of *Walled Garden***
-> The Silaris crisis and the Gallery War. The twins are eighteen. *Year approximate; derived from the
+> The Silaris crisis and the Gallery War. The twins are sixteen. *Year approximate; derived from the
 > generational gap rather than pinned.*
 
-**Year ~1063–1066 BR** — **Events of *Necessary Measures***
-> The Warrens relocation. **Spans approximately three years**, and the delay is the substance of it. The
+**Year ~1063–1064 BR** — **Events of *Necessary Measures***
+> The Warrens relocation. **Spans approximately eighteen months**, and the delay is the substance of it. The
 > Lathionese tunnel systems that kept the Warrens alive for five millennia fail. Ronas Dermir dies. The
-> twins go from nineteen to twenty-two.
+> twins enter before or around their seventeenth birthday and leave at about eighteen.
 
-**Year ~1066 BR** — **Events of *Last Debts***
+**Year ~1064 BR** — **Events of *Last Debts***
 > Kalden Erulius and Rosik Kemvimore make the last play of the old order, and both die within a day of
-> each other. *Between this book and the last, the Taking of the Tiger Prince — see `Offstage.md`.*
+> each other. Rosik is approximately sixty-four: old enough that the infiltration requires the precise
+> thinning and timing he builds, but young and practiced enough to believe rationally that he can still
+> execute it. *Between this book and the last, the Taking of the Tiger Prince — see `Offstage.md`.*
 
 **Year ? BR** — **Events of *Shattered Mirror***
 > The state visit to Uratha and the Globehall. *Interval after Book 7 not established.*

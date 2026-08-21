@@ -1,8 +1,8 @@
 # Chapter 15: The Proposal
 
-**Timeline:** Days after the Gunastran Consortium's vote, which Balisha does not know happened. **Gunastran's request for access was made and refused a chapter ago** — in Chapter 13's cold open, weeks before this, and it is why the Consortium met at all. Nothing about it recurs here.
+**Timeline:** Days after the Gunastran Consortium's vote, which Balisha does not know happened. **Gunastran's request for access was made and refused two chapters ago** — in Chapter 13's cold open, weeks before this, and it is why the Consortium met at all. Nothing about it recurs here.
 **Characters:** Xion, Elara, Kalden's Erulian envoy
-**Emotional work:** The reader must hold two incompatible truths at once — that this offer is genuinely good, and that accepting it would cost Elara something real. But by the end, the reader must **not know what Elara will do** — because Xion doesn't, and because he refuses to decide it for her. The chapter's job is to leave the Kalden question genuinely open, so it can still be live in Chapter 15.
+**Emotional work:** The reader must hold two incompatible truths at once — that this offer is genuinely good, and that accepting it would cost Elara something real. But by the end, the reader must **not know what Elara will do** — because Xion doesn't, and because he refuses to decide it for her. The chapter's job is to leave the Kalden question genuinely open, so it can still be live in Chapter 16.
 **POV:** Xion, close third-person limited, throughout.
 
 ---
@@ -58,6 +58,34 @@
 
 **What the move cost, and why it was still right.** The old cold open bought a genuine contrast — two delegations back to back, the door that closes without a sound and the door that will not close at all — and that contrast is gone. It was not worth the price. It only worked by putting Gunastran's refusal *after* the vote it was supposed to have caused, which made the most consequential word anyone in Balisha speaks in this book into a formality. **A good juxtaposition is not worth an inverted causal chain.** What replaces it is better anyway: the reader met that refusal in Chapter 13 as four minutes of administration and learned in Chapter 14 what it detonated, so by the time the Erulian envoy arrives here the reader is carrying dread the characters have no access to at all — which is precisely the load this chapter needs, and it now arrives without a scene to carry it.
 
-**Why the proposal is confidential (Kalden's double-game):** The approach is delivered in secret — off the record, hidden even from the Balishan court's wider hearing — because Kalden is running two games at once and cannot let either table see the other. To Gunastran, who has just approached him, he is a prospective ally still "considering his options." To Elara, in secret, he is a suitor. The secrecy is what keeps both doors open: if she accepts, he reveals the marriage, declines the Compact, and Gunastran is left isolated and outmatched; if she refuses, Gunastran never learns he tried to defect, and he pivots cleanly to leading the coalition against her. A *public* proposal would leak to Gunastran and burn that optionality — so it cannot be public. This also seeds a thread for Xion: the secrecy itself is information. He clocks that Kalden is hiding this from someone, without being able to name who (he does not yet know Gunastran exists as a threat). Keep his read light — he files it, he does not crack it. Over-cluing Xion here would collapse the Chapter 13 irony that he and Elara are deciding blind.
+**Why the proposal is confidential (Kalden's double-game):** The approach is delivered in secret — off the record, hidden even from the Balishan court's wider hearing — because Kalden is running two games at once and cannot let either table see the other. To Gunastran, who has just approached him, he is a prospective ally still "considering his options." To Elara, in secret, he is a suitor. The secrecy is what keeps both doors open: if she accepts, he reveals the marriage, declines the Compact, and Gunastran is left isolated and outmatched; if she refuses, Gunastran never learns he tried to defect, and he pivots cleanly to leading the coalition against her. A *public* proposal would leak to Gunastran and burn that optionality — so it cannot be public. This also seeds a thread for Xion: the secrecy itself is information. He clocks that Kalden is hiding this from someone, without being able to name who (he does not yet know Gunastran exists as a threat). Keep his read light — he files it, he does not crack it. Over-cluing Xion here would collapse the irony this chapter runs on, which is that he and Elara are deciding blind.
 
-**Kalden's blind spot is the tragic engine (for Ch16).** Kalden's plan is genuinely sound on every axis he can see — and he is *right* that the marriage is a good deal for Elara (that is exactly what Xion confirms in beats 7–8). His one fatal error is structural: he cannot model that Elara would refuse a rationally-perfect alliance for love, because he sees people as pieces on a board. This rhymes with the series' spine — Xion could not model his father's Merchant drive and Melina died for it; Kalden cannot model Elara's love and a continent burns for it. The villain is undone not by a cleverer schemer but by the human variable his own nature renders invisible. Ch15's refusal is where that blind spot detonates.
+**Kalden's blind spot is the tragic engine (for Ch16).** Kalden's plan is genuinely sound on every axis he can see — and he is *right* that the marriage is a good deal for Elara (that is exactly what Xion confirms in beats 7–8). His one fatal error is structural: he cannot model that Elara would refuse a rationally-perfect alliance for love, because he sees people as pieces on a board. This rhymes with the series' spine — Xion could not model his father's Merchant drive and Melina died for it; Kalden cannot model Elara's love and a continent burns for it. The villain is undone not by a cleverer schemer but by the human variable his own nature renders invisible. Ch16's refusal is where that blind spot detonates.
+
+### Renumbering residue — corrected 2026-08-14
+
+**Book 3 was renumbered twice after this draft was written** — `Fair Price` inserted as ch6 on 2026-08-03,
+`Inhabitants` split at the Rending seam on 2026-08-04 — and this file was updated unevenly, leaving some
+references short by one and some by two. **Each was checked against the chapter it names rather than shifted
+by a fixed amount**, which matters, because three references in this file were already correct and a blanket
++2 would have broken them.
+
+**Corrected:**
+- Header, *Emotional work* — the Kalden question must stay live in **Chapter 16**, not "Chapter 15", which
+  is this file. `Crossroads` is where it resolves, and the two footers below already said so.
+- *Kalden's blind spot* — **Ch16's** refusal is where the blind spot detonates, not "Ch15's". That footer's
+  own heading already reads *(for Ch16)*.
+- *Why the proposal is confidential* — "the Chapter 13 irony" is now **"the irony this chapter runs on"**.
+  The number was ambiguous between `Awakening`'s blind refusal and this chapter's blind deciding, and the
+  sentence is about Xion and Elara deciding without knowing Gunastran exists, which is this chapter.
+  **Made descriptive rather than renumbered, so it cannot go stale again.**
+- Timeline — the Gunastran refusal was **two chapters ago**, not "a chapter ago"; `Ruthless Calculus` sits
+  between it and this chapter.
+
+**Left alone because they were already right:** `Chapter 13`'s cold open as the home of the Gunastran
+refusal (twice), the cold open having *moved to Chapter 13*, `Chapter 14` as where the reader learns what it
+detonated, and all three `Chapter 16` references in the closing footers.
+
+**Every other Book 3 draft was scanned for the same class and is clean.** The only apparent hits are footers
+discussing their own chapter by number, which is correct usage, and one reference to *Book 1 ch23*, which is
+valid. **This file was the sole casualty.**

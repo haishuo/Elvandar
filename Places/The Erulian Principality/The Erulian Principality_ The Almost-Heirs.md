@@ -12,7 +12,7 @@ The Principality's very name began as a way to end an argument. Its founder — 
 
 For approximately 80 years after the empire's collapse, the Erulian Principality existed in relative obscurity. While maintaining theoretical claims to imperial connection, the pre-Rending principality was content to manage its abundant resources and maintain its autonomy, with only a simmering undercurrent of jealousy toward Kaha'an's more direct imperial lineage.
 
-The Rending changed everything. The catastrophic magical event that transformed Balisha's surroundings into desert and presumably ended the imperial line created a power vacuum that Prince Kalden Erulius, then a young ruler newly ascended to the principality's throne, recognized as a once-in-a-lifetime opportunity. What had been a dormant claim to imperial legitimacy suddenly became viable—if not to claim the Ruby Throne directly, then at least to position Erulius as the most legitimate heir to imperial tradition.
+The Rending changed everything. Kalden's father had died after an illness only months earlier, leaving a fifteen-year-old prince whom the High Council confirmed without appointing a regent. He inherited a stable state, experienced ministers, and institutions capable of carrying the ordinary work while their young ruler learned. Then the catastrophic magical event that transformed Balisha's surroundings into desert presumably ended the imperial line. The newly ascended Kalden recognized a once-in-a-lifetime opportunity. His father's stories had taught him the vague family lore that House Erulius was related to the Valanars; the Rending sent him into the archives to recover the exact chain. What had been dynastic trivia suddenly became viable—if not to claim the Ruby Throne directly, then at least to position Erulius as the most legitimate heir to imperial tradition.
 
 Prince Kalden transformed this opportunity into an organizing principle for his realm. The previously modest provincial capital rapidly expanded, imperial traditions were revived and adapted, and Erulian diplomatic efforts became increasingly focused on undermining Balisha's claims while building a coalition of supporters. The principality's abundant resources, previously dedicated to comfortable self-sufficiency, were redirected toward this greater ambition.
 
@@ -35,7 +35,7 @@ Three major rivers flow through Erulian territory—the Ennor, the Tethian, and 
 
 The Erulian government operates as a feudal principality with imperial adaptations:
 
-- **The Prince's Court**: Headed by Prince Kalden Erulius, a charismatic but intensely jealous ruler in his early forties who has transformed the once-ceremonial position into one of actual power. His ambitions were ignited by The Rending, which he saw as divine providence creating an opportunity for Erulius to claim its rightful place.  
+- **The Prince's Court**: Headed by Prince Kalden Erulius, a charismatic but intensely jealous ruler of thirty-five at the series' opening who has transformed the once-ceremonial position into one of actual power. His ambitions were ignited by The Rending, which he saw as divine providence creating an opportunity for Erulius to claim its rightful place.
     
 - **The High Council**: Twelve noble houses that governed their regions semi-autonomously under imperial rule, now serving as a reluctant advisory body to the Prince. Several houses quietly maintain reservations about Kalden's imperial ambitions, preferring the principality's former focus on self-development.  
     

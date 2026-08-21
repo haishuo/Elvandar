@@ -41,7 +41,7 @@
 
 16. The aftermath. Xion and Elara leaving the War Table chamber with a blood oath in hand and the particular exhaustion of people who got what they came for through a method neither of them would have planned from the start. Xion finds something to say — he usually does, and it usually lands — but the beat here is actually the quiet between them. They chose this war together. They are now, functionally, ready to fight it.
 
-17. Sa Ko Ren receives the confirmation, or hears it, or is present for it — depending on where the chapter leaves her. The Tripartite Alliance is real: Balisha, Uratha, Terinok. A Compact with technology and no army; an Alliance with technology and the army that has not lost a land engagement in four centuries. And the Sentinel Mountains are named once, in Xion's hearing, as the line nobody is talking about — the most direct route through Terinok territory, and the one no Compact planner will be drawing on any map now. Nobody explains why. Xion does not need it explained.
+17. Sa Ko Ren receives the confirmation, or hears it, or is present for it — depending on where the chapter leaves her. The Tripartite Alliance is real: Balisha, Uratha, Terinok. A Compact with technology and no army; an Alliance with technology and the army that has not lost a land engagement in four centuries. And the Sentinel Mountains are named once, in Xion's hearing, as the line nobody is talking about — the most direct route through Terinok territory. Nobody explains why. Xion does not need it explained.
 
 ---
 
@@ -56,3 +56,18 @@
 **The Sentinel Mountains:** The closing seed is not expository — it is planted with exactly enough weight to register without being explained. What it points at is that the Compact's strategic planners will make decisions about attack routes that conspicuously avoid the mountain passes that have always been the most direct line through Terinok territory. **None of that can be narrated, because none of it is visible from where Xion is standing** — the beat previously described a decision being taken in Vartonne, which no one in this chapter can see. The seed has to reach the page as a name spoken in Xion's hearing and nothing more. The reader who has just watched Terinok vote will understand why before they are told. Let them arrive there on their own.
 
 **Sa Ko Ren's presence:** Left flexible in the skeleton and kept flexible here. If Sa Ko Ren witnesses any part of this — the challenge, the vote, the oath — it is worth a beat on her reaction. She was the junior Balishan member that Rosik resented having more palace access than her; she is now watching the Empress she serves close the Alliance her predecessors failed at for four hundred years. Whatever political calculations she has been running, this data point changes them.
+
+### Beat 17's Compact-planner clause — cut 2026-08-14
+
+**The footer above already forbade this in as many words and the beat body was still carrying it.** *"…the
+most direct route through Terinok territory, **and the one no Compact planner will be drawing on any map
+now**"* — an assertion about enemy planning, in a chapter narrated from Xion's shoulder at the War Table.
+**The Sentinel Mountains footer says it exactly: "None of that can be narrated, because none of it is
+visible from where Xion is standing."** The mountains are still named once, in his hearing, as the line
+nobody is talking about; *Nobody explains why. Xion does not need it explained* is untouched and is the
+whole of the seed.
+
+**Still outstanding in this beat and deliberately not touched:** *"Sa Ko Ren receives the confirmation, or
+hears it, or is present for it — depending on where the chapter leaves her."* That is undecided staging
+rather than a POV breach, and the **Sa Ko Ren's presence** footer already holds the flexibility note. The
+beat body should eventually state one staging.
