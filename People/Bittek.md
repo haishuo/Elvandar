@@ -1,9 +1,9 @@
-# Bittek Sarn: The Little Man
+# Bittek: The Little Man
 
 ## The One Ronas Was Sitting On
 
 Ronas Dermir spent twenty years telling anyone who would listen that the Warrens produced psychotic filth and
-that his boot on its neck was the only thing standing between that filth and everybody else. It was true. Sarn
+that his boot on its neck was the only thing standing between that filth and everybody else. It was true. Bittek
 is what he meant.
 
 He is a Slaver lieutenant of no particular rank and no particular use, who has survived two decades in an
@@ -28,7 +28,7 @@ terminal state. The doc's own summary of the type is the summary of him: **he wa
 and throws tantrums when it isn't.**
 
 **Read only the top and the bottom.** For most of this cast the interesting part of a stack is the middle —
-the collisions, the drive that gets surrendered second-to-last. Sarn has no middle. Everything from fourth
+the collisions, the drive that gets surrendered second-to-last. Bittek has no middle. Everything from fourth
 down is negligible and the ordering between them is close to arbitrary. **That flatness is the
 characterization**, not a gap in the analysis.
 
@@ -76,11 +76,11 @@ Ronas, and the inversion is the point.
 
 **He is the perpetrators' face, on exactly the terms the dead child is the victims'.** Book 6's own brief for
 that child is *"not a statistic. A name, a face"* — and the book applied that principle only to the people
-being killed, leaving the people doing the killing as three category nouns across four acts. Sarn finishes a
+being killed, leaving the people doing the killing as three category nouns across four acts. Bittek finishes a
 device the book already relies on.
 
 **And Book 6 is the greyest book of the eight** — Melina's delay kills, Tiberian's intervention kills, nothing
-in it has a clean answer — which is exhausting by design. **Sarn is the relief valve**: someone the reader may
+in it has a clean answer — which is exhausting by design. **Bittek is the relief valve**: someone the reader may
 hate without having to think about it, whose death is the one unqualified satisfaction in the book.
 
 ### What he does to Ronas Dermir, without either of them knowing it
@@ -90,7 +90,7 @@ predator — *damaged product sells for less*, *the Warrens has no place for wea
 explicit that this is a Caretaker drive wearing Competitor armour, denied because his world would kill him
 for admitting it.
 
-**Sarn is that claim with nothing underneath it, and he is pathetic.** The reader who meets him understands,
+**Bittek is that claim with nothing underneath it, and he is pathetic.** The reader who meets him understands,
 without one character saying so, that Ronas was lying about himself for two decades. `The Seven Paradigms.md`
 has the structure already: a Merchant on top with nothing else, standing beside a Competitor primary with
 terminal states, in the same organisation, demonstrating the doc's own line that **a Merchant in the stack
@@ -128,7 +128,7 @@ real. This is why he is placed across all four acts rather than introduced as th
 **4. His restraint under Ronas is fear and nothing else, and Book 2 supplies its source.** He was in the
 organisation when Rosik first ordered the leash off, and **he was not among the ones who ran wild** — his only
 governor is fear of the man who punishes him, and in Book 2 Ronas was still standing, and proved it by
-executing the lieutenant who murdered Melina Kemvimore, immediately, to re-establish control. Sarn watched
+executing the lieutenant who murdered Melina Kemvimore, immediately, to re-establish control. Bittek watched
 that and drew exactly one lesson.
 
 **The one who stayed in line is the one who spent twenty years storing it up.** *(Never dated on the page, no
@@ -180,7 +180,7 @@ If Book 6 drafting produces something worth pinning, pin it here.
 
 There isn't one, and that is the design. Every other antagonist in this series carries a genuine internal
 collision — Rosik's denied grief against his Merchant, Ronas's Caretaker against the armour he cannot take
-off, Kalden's real claim against his real vanity. **Sarn has no collision, because he has nothing to collide
+off, Kalden's real claim against his real vanity. **Bittek has no collision, because he has nothing to collide
 with the appetite.** He wants, he takes what is nearest, he is frightened of whoever can hurt him, and when
 the last person who could hurt him is dead he becomes, immediately and completely, everything he was already
 prepared to be.

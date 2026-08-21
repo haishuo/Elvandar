@@ -177,7 +177,7 @@ Farleen is furious: the display destroyed their anonymity. The criticism is vali
 
 The Warrens journey tests every relationship. Farleen begs them to stop going deeper. Elara dismisses her pragmatism as cowardice: "Sounds like you're just trying to justify cowardice." Farleen fires back with everything she's sacrificed — "So don't you dare call me a coward, princess." The hostility between them is real, personal, and never fully resolved.
 
-They trade favors with information broker Arlo Berakailen, attempt a failed extraction, and ultimately stand before Ronas Dermir himself — the Slaver King whose pragmatism saves them all. When Tam is brought in — alive but devastated, dangerously thin, hollow-eyed, barely able to stand — and whispers "Master Fen," Elara watches Xion catch the boy and promise to get him out. After everything, they're just leaving. With Tam.
+They trade favors with information broker Arlo, attempt a failed extraction, and ultimately stand before Ronas Dermir himself — the Slaver King whose pragmatism saves them all. When Tam is brought in — alive but devastated, dangerously thin, hollow-eyed, barely able to stand — and whispers "Master Fen," Elara watches Xion catch the boy and promise to get him out. After everything, they're just leaving. With Tam.
 
 ### The Trance
 

@@ -40,7 +40,7 @@ Note also the Merchant asymmetry — her fifth, his seventh. She wants a number 
 
 Janice's core question is *does this work, and can it work better*. Her signature image is diagnostic and it is the first thing on the page: she unpicks a finished row, backward, stitch by stitch, because one thread was miscounted the day before. Sunk cost means nothing to her. A structure with a flaw in it is a structure that comes out.
 
-**What is in her lap is one of Xion's tunics** — *"Brown, plain, cut for a man who wanted to be looked past. His. She had made it, and the two before it, and had never once told him what the cloth cost."* This is the character's load-bearing prop and it must carry six things at once without a line of dialogue decoding any of them: precise patient backward work to reach the origin of an error; that **she makes his cover**, physically, and has for eight years; that it is **unpaid**, which is what makes her copper demand the opposite of hypocrisy — she knows exactly what free costs because she is the one paying it; that a weaver prices cloth by feel, which is **how she knows he is a Kemvimore** and has never said; that she works by feel because her sight is going; and that the flaw is in **her own** work, which is precisely what she is asking him to do with his.
+**What is in her lap is one of Xion's tunics** — *"Brown, plain, cut for a man who wanted to be looked past. His. She had made it, and the two before it, and had never once told him what the cloth cost."* This is the character's load-bearing prop and it must carry five things at once without a line of dialogue decoding any of them: precise patient backward work to reach the origin of an error; that **she makes his cover**, physically, and has for eight years; that it is **unpaid**, which is what makes her copper demand the opposite of hypocrisy — she knows exactly what free costs because she is the one paying it; that a weaver prices cloth by feel, which is **how she knows he is a Kemvimore** and has never said; and that the flaw is in **her own** work, which is precisely what she is asking him to do with his.
 
 Note the symmetry, which is never stated: he will not give her a number, and she has never given him one either. *"I've never asked where the money comes from"* and *"had never told him what the cloth cost"* are the same refusal running in opposite directions.
 
@@ -112,7 +112,9 @@ She does not need Xion to concede. She needs the clinic to survive, and a humili
 
 ## Backstory
 
-She is older than Xion — enough to needle him, enough to have known the previous generation. She owns her weaver's shop outright, or near enough to decide who uses the back of it, and has run it through at least the twenty years since The Rending.
+She is sixty-one in Book 3, and approximately sixty across the opening trilogy — old enough to needle Xion,
+old enough to have known the previous generation. She owns her weaver's shop outright, or near enough to
+decide who uses the back of it, and has run it through at least the twenty years since The Rending.
 
 She knew Mira Fen. Her line *"the woman whose name you took wouldn't have argued with me about the copper"* establishes acquaintance, and Xion's reply — *"She'd have argued with you for an hour and then done exactly what she wanted"* — establishes that they knew her *the same way*, well enough to disagree about her temperament.
 
@@ -185,7 +187,7 @@ The raid comes to her building, as she has been telling him for eight years that
 
 Xion turns back for the patient logs and finds the shelf empty and Janice at the front counter with all six journals squared edge to edge and the lamp already open. Her argument is not about her own safety and never touches his guilt. It is operational, and it is the last and best version of the copper argument:
 
-> "Then it isn't you they hang. It's Korvin. It's the Corris family. It's every name in here… Eight years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
+> "Then it isn't you they hang. It's Korvin. It's Tam's whole family. It's every name in here… Eight years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
 
 She burns the records. It is the only act in the building that only she can perform — she is one of two people alive who can read the cipher, and ch11 has already established the logs as evidence against the cartels. **The woman who spent eight years demanding he keep a proper ledger ends by destroying the only one that exists.**
 
@@ -259,9 +261,22 @@ They never speak. Elara stays in the clinic for several chapters, and the two wo
 
 ### Physical Presence
 
-Undescribed. No age, height, hair, face, or dress is specified anywhere in the text. What she has instead is a **posture**: seated, in a doorway, with a work-basket in her lap, working with her hands while she talks and not looking up until the sentence that matters. In both Chapter 1 scenes she is in the same place doing the same thing, morning and night.
+The prose specifies one conventional physical fact: **Janice is sixty-one in Book 3**. It otherwise gives
+her a posture rather than an appearance: seated in a doorway with a work-basket in her lap, working with her
+hands while she talks and not looking up until the sentence that matters. In both Chapter 1 scenes she is in
+the same place doing the same thing, morning and night. Her sight is normal, and at sixty-one she retains the
+fine dexterity to unpick a row stitch by stitch.
 
-If she is ever described, the description should be functional rather than warm — hands first.
+**Author-approved reference design, 2026-08-20:** Janice is vigorous rather than frail, with a compact,
+sturdy working build; a strong, slightly square face, prominent cheekbones, and a firm mouth; dark hair now
+substantially iron-grey, secured in a plain braided coil; clear hazel eyes; and a medium olive complexion.
+Her artisan's hands are strong and work-worn, with minor needle marks but no dramatic scars. She wears
+impeccably constructed but well-used Middle District clothing in muted brown, charcoal, or faded indigo,
+normally with a practical linen apron. She stands **5′4″ / 163 cm**.
+
+Descriptions and reference images should remain functional rather than sentimental — hands first. She is
+not a kindly storybook grandmother or a mystical crone, but an exacting tradeswoman who notices structural
+errors before anyone else does.
 
 ### Behavioral Patterns
 

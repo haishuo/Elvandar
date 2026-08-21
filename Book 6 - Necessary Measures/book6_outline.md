@@ -4,7 +4,7 @@
 
 **POV:** Tiberian and Melina, continuing from Book 5. This is the book where their partnership matures under the most painful possible conditions.
 
-**Timeline:** The book spans approximately three years, but the three-year gap IS the story. Act I establishes the crisis. Act II is set three years later — same crisis, worse. The delay itself is the villain.
+**Timeline:** The book spans approximately eighteen months, and the gap IS the story. Act I establishes the crisis. Act II is set eighteen months later — same crisis, worse. The delay itself is the villain. The Green Cities already exist; this interval buys the surveys, staffing, staged food and water, dependency mapping and transitional arrangements required to use them for sixty thousand people. The first part of that work is necessary. The final refinements are what become indefensible.
 
 **Core Theme:** "The cost of waiting." The enemy in this book is not a foreign army or a delusional prince. It is the institutional inertia, the comfortable delay, the pursuit of perfection as an excuse for inaction. And by the time that inertia breaks, people have died who didn't have to.
 
@@ -113,7 +113,7 @@ She's not wrong. The complexity is real. But the complexity is also a shield.
 **The other face, and it is the same technique pointed the other way.** *(Added 2026-08-14.)* The brief above
 is explicit that sixty thousand people are unthinkable and one named child is not. **The book applies that to
 the victims and has never applied it to the perpetrators**, who exist across all four acts as three categories
-— the psychos, the predators, the opportunists — and not one face. So Act I also introduces **Bittek Sarn**, a
+— the psychos, the predators, the opportunists — and not one face. So Act I also introduces **Bittek**, a
 Slaver lieutenant, and the reader is given time to loathe him while Ronas is still alive and nothing can be
 done about him.
 
@@ -124,7 +124,7 @@ scenes is the Warrens' own** — hating him and having no recourse, because the 
 him and worse is a man nobody can appeal to either.
 
 **Who he is, why the restraint is fear rather than principle, what he saw in Book 2, and the rule about
-writing him small are all on his sheet — `People/Bittek Sarn.md`, which is authoritative on him.** Read it
+writing him small are all on his sheet — `People/Bittek.md`, which is authoritative on him.** Read it
 before writing a line of him. This outline carries where he appears and what happens; it deliberately does
 not carry his characterization twice.
 
@@ -132,11 +132,11 @@ not carry his characterization twice.
 
 ---
 
-## ACT II: THREE YEARS LATER
+## ACT II: EIGHTEEN MONTHS LATER
 
 **Emotional arc: The cost of delay made visceral — the child from Act I is dead**
 
-Three years have passed. The plan is still being refined. Melina's models have reached extraordinary sophistication — she can project outcomes across seventeen scenarios, calculate resource requirements to the last wagon, anticipate social integration challenges with statistical precision.
+Eighteen months have passed. The plan is still being refined. Melina's models have reached extraordinary sophistication — she can project outcomes across seventeen scenarios, calculate resource requirements to the last wagon, anticipate social integration challenges with statistical precision.
 
 The child from Act I is dead.
 
@@ -146,12 +146,12 @@ The water crisis has worsened. The piped-water system from the surface has creat
 
 Ronas Dermir has been managing this. Holding it together. The biggest, meanest dog keeping the yard from tearing itself apart while the surface debates logistics. But Ronas is aging, his grip is loosening, and the psychos he spent decades keeping leashed are testing the boundaries.
 
-**Sarn is who that sentence is about, and Act II is where the reader watches him test it.** *(Added
-2026-08-14.)* Three years on he goes past the line — not far, and not bravely; he goes as far as he thinks the
+**Bittek is who that sentence is about, and Act II is where the reader watches him test it.** *(Added
+2026-08-14.)* Eighteen months on he goes past the line — not far, and not bravely; he goes as far as he thinks the
 old man's grip has slipped and no further. **Ronas comes down on him in public and it is not close.** The
 reader should feel relief watching it, and should notice afterward what the relief was made of: the only
 functioning check on this man is one aging criminal's capacity for violence, and everyone in the tunnel knows
-it, including Sarn, who counted.
+it, including Bittek, who counted.
 
 **He does not learn anything from it** — he is deterred the way a dog is deterred, not the way a man revises a
 belief, and **that distinction is the engine of Act IV.** See his sheet.
@@ -174,7 +174,7 @@ But then he says something quieter:
 
 *"I would rather make mistakes trying to help them than make none while they suffocate."*
 
-This is the line the book turns on. Not because it's a rhetorical triumph — Melina can dismantle it logically in seconds. But because the alternative has been tested for three years and the result is a dead child and a water cartel in the tunnels.
+This is the line the book turns on. Not because it's a rhetorical triumph — Melina can dismantle it logically in seconds. But because the alternative has been tested for eighteen months and the result is a dead child and a water cartel in the tunnels.
 
 **What the reader should feel:** Both siblings are right and both are wrong and someone is dead. The delay wasn't laziness or cruelty. It was the pursuit of perfection. And perfection, it turns out, has a body count.
 
@@ -223,7 +223,7 @@ His arguments aren't entirely wrong:
 
 He's not wrong about any of it. He's wrong about the conclusion — that the solution is to leave him in charge indefinitely. But his operational concerns are legitimate, and dismissing them as the self-serving arguments of a criminal is exactly the kind of mistake that costs lives.
 
-**And they do not make that mistake. This is the load-bearing correction.** Melina has an answer to every line of it, and the answers are good, because she has been building them for three years: receiving cities staged and staffed, transitional order arranged with the Long Knives rather than imposed by soldiers who don't know the tunnels, the dependency networks mapped street by street. **And she has a plan for the lieutenants specifically** — of course she does. It is the founding wound of her family. She is named for the woman it killed.
+**And they do not make that mistake. This is the load-bearing correction.** Melina has an answer to every line of it, and the answers are good, because she has been building them for eighteen months: receiving cities staged and staffed, transitional order arranged with the Long Knives rather than imposed by soldiers who don't know the tunnels, the dependency networks mapped street by street. **And she has a plan for the lieutenants specifically** — of course she does. It is the founding wound of her family. She is named for the woman it killed.
 
 **What she planned for was a succession contest**, and that is the whole tragedy in one sentence. Rivals competing to inherit Ronas's position: who moves on which chokepoint, who holds the water stations, who can be bought, who can be isolated, which alliances form in the first week. That is a legible problem. It has actors, it has ends, it has a shape. **It is precisely the kind of thing her methods are for**, and her model of it is very good.
 
@@ -241,11 +241,11 @@ Remember Melina? Remember what happened when Rosik told Ronas the leash was off?
 
 Now Ronas is gone entirely. And every predator, every psychopath, every violent opportunist he spent decades keeping leashed is free.
 
-### Why three years of models could not hold it, and the reason is technical
+### Why eighteen months of models could not hold it, and the reason is technical
 
 **Book 2 already wrote this diagnosis, in Farleen's mouth and in Xion's head, and Book 6 should use the same mechanism rather than invent one.** B2 ch14: the Surface Warrens had always run on an arithmetic — who you were, who you belonged to, what it would cost a man to touch you — and everybody down there could do the sum from ten paces. Then Farleen comes back and says: *"Nobody's counting… It isn't that it's violent. It's that it's stopped being **for** anything."* And Xion, doing the thing his father made him able to do, looks for the plan across three days of reports. *"There wasn't one."*
 
-**A model is a representation of actors pursuing ends. That is what modelling *is*.** Melina's three years correctly captured every part of the Warrens that had an objective function — Ronas's organisation, the water dependencies, the receiving capacity, the sequencing, and the lieutenants' *incentives*. **Her model did not miss a variable. It reached the edge of what a model can be.** You cannot forecast the behaviour of men who have stopped wanting things, because there is no quantity in them to forecast. The violence takes nothing, opens no negotiation, guards no asset, frightens nobody toward any table. It is not a worse version of the scenario she planned for. It is a different category of event, and no amount of further refinement would have produced it, because refinement makes a model *more precise about actors* and the problem is that the actors stopped being actors.
+**A model is a representation of actors pursuing ends. That is what modelling *is*.** Melina's eighteen months correctly captured every part of the Warrens that had an objective function — Ronas's organisation, the water dependencies, the receiving capacity, the sequencing, and the lieutenants' *incentives*. **Her model did not miss a variable. It reached the edge of what a model can be.** You cannot forecast the behaviour of men who have stopped wanting things, because there is no quantity in them to forecast. The violence takes nothing, opens no negotiation, guards no asset, frightens nobody toward any table. It is not a worse version of the scenario she planned for. It is a different category of event, and no amount of further refinement would have produced it, because refinement makes a model *more precise about actors* and the problem is that the actors stopped being actors.
 
 **State the principle once, in the narration, and never as a proverb in anyone's mouth.** The more carefully a thing is built proof against failure, the more particular the failure that finds it — and a plan's blind spot always sits exactly where its author was most confident. **No modern saying, no fool-and-foolproof line**; it is out of register and it would flatten the thing into a joke.
 
@@ -253,13 +253,13 @@ Now Ronas is gone entirely. And every predator, every psychopath, every violent 
 
 **What the reader should feel:** not *they didn't listen* — they did, and it is worse. Horror at the discovery that **listening was not the variable.** They took the enemy's warning seriously, planned against exactly what he described, staged it, resourced it, and were beaten by something that had no plan of its own to beat. The failure is not moral and not a lapse of attention. It is the discovery that preparation has a boundary, and that everybody in the room found it at the same moment.
 
-### Sarn is what that looks like in one man, and the model is not silent on him — it is confidently wrong
+### Bittek is what that looks like in one man, and the model is not silent on him — it is confidently wrong
 
-*(Added 2026-08-14.)* The section above is the diagnosis in the abstract. **Sarn is the instance**, and he is
+*(Added 2026-08-14.)* The section above is the diagnosis in the abstract. **Bittek is the instance**, and he is
 the reason the abstraction does not have to be narrated at length.
 
 **He has enormous wants and no mapping from wants to actions.** A model does not need a man to want things; it
-needs him to *do the work that gets him the thing*, and that is the assumption Sarn does not satisfy. He wants
+needs him to *do the work that gets him the thing*, and that is the assumption Bittek does not satisfy. He wants
 Ronas's position and will not do a day's labour to earn it. He wants to be feared and has only ever frightened
 people who were already restrained. **So he satisfies every clause of the failure described above while being
 stuffed with appetite:** he takes the water and cannot run it, so the violence *takes nothing*; he will not
@@ -272,7 +272,7 @@ character who wants nothing is a void — hard to write, impossible to hate, and
 well described. A man whose wanting is disconnected from action produces an identical signature and can be
 put in a room.
 
-**And the model has a file on him.** This is the part to keep. Melina's profile of Sarn is thorough,
+**And the model has a file on him.** This is the part to keep. Melina's profile of Bittek is thorough,
 well-sourced and confident, because the lieutenants are the section she has the most reason to be careful
 about — *it is the founding wound of her family, and she is named for the woman it killed.* The profile
 predicts he consolidates, because that is what a man with his appetites does. **He does not consolidate.** He
@@ -283,7 +283,7 @@ sits, exactly as the principle above says, where its author was most confident.
 **The betrayal, and why it is not a scheme.** Ronas's death leaves one lieutenant of real capability —
 **Garrin**, not Ronas's equal, but a competent man attempting to hold some of the cartel together. **Garrin is
 the legible succession contest**, the last thing in the Warrens that could have been modelled, bought,
-isolated or beaten, and Melina's plan for the vacuum is largely a plan for him. Sarn kills him. **Not as a manoeuvre** — he takes
+isolated or beaten, and Melina's plan for the vacuum is largely a plan for him. Bittek kills him. **Not as a manoeuvre** — he takes
 an opening that falls into his lap, clumsily, because the man had begun restraining him and restraint is the
 one thing he cannot tolerate. He gains nothing by it and is measurably less safe afterward. **Ask what he got
 and the answer is nothing**, which is precisely why no model ranked it: models can rank ambition and cannot
@@ -311,7 +311,7 @@ This is partly Tiberian's doing. He knew — of course he knew — that removing
 
 The line the chapter lands on is the one Book 6 is a variation of: *"the models were his one inheritance, his one reliable tool, and they had just failed him utterly, **on the single man he had been surest he could read.**"*
 
-**That is the rhyme. Not father-and-son making the same mistake — father and daughter failing at their strongest point.** Xion's certainty about Rosik was not laziness; it was twenty-three years of the most careful reading he had ever done, and the reading was correct right up until the man stopped being someone a reading applies to. Melina's three years were not delay dressed as diligence; they were genuinely excellent work, and the excellence was on the axis that turned out not to matter. **Both of them are destroyed by the part of the problem they had most reason to feel safe about.** Preparation does not remove your blind spot. It moves it to wherever your confidence is.
+**That is the rhyme. Not father-and-son making the same mistake — father and daughter failing at their strongest point.** Xion's certainty about Rosik was not laziness; it was twenty-three years of the most careful reading he had ever done, and the reading was correct right up until the man stopped being someone a reading applies to. Melina's eighteen months were not delay dressed as diligence; they were genuinely excellent work, and the excellence was on the axis that turned out not to matter. **Both of them are destroyed by the part of the problem they had most reason to feel safe about.** Preparation does not remove your blind spot. It moves it to wherever your confidence is.
 
 **Xion should recognise it and should not say most of it.** He has been here. He knows the specific texture of a model failing — not being wrong at the edges, but the ground going out from under the whole method — and he is the only person alive who can tell his daughter that it happens to people who did everything right. **Whether he manages to say it is a Book 6 decision. That he recognises it in the first hour is not.** Keep him well clear of comfort-by-instruction: the man who spent Book 2 discovering this does not lecture about it.
 
@@ -333,9 +333,9 @@ Tiberian shows up and saves her again. (The timing is convenient. Sometimes timi
 
 Kess and the werewolf marines (if this is the term for her fighters / allies — to be developed) end up fighting alongside Tiberian's force. Together they storm the remaining pockets of resistance — the psychos Ronas warned about, the predators who filled the vacuum, the opportunists who saw chaos as a business opportunity. Kess is not Tiberian's soldier. She is a woman who decided, for her own reasons, that these particular enemies needed killing.
 
-### Sarn at the taps, and the one scene in this book that is allowed to be satisfying
+### Bittek at the taps, and the one scene in this book that is allowed to be satisfying
 
-*(Added 2026-08-14.)* **What Sarn took when the thumb came off was the water**, and it is the right prize for
+*(Added 2026-08-14.)* **What Bittek took when the thumb came off was the water**, and it is the right prize for
 him because it required nothing of him. The piped system comes down from the surface, built and paid for by
 other people; Act II established that it creates "a distribution network controlled by whoever has the muscle
 to hold the pipes." He did not build it, did not take it from anyone who could stop him, and cannot maintain
@@ -343,7 +343,7 @@ it. **He stands on it.** That is the prize-without-the-work rendered as an objec
 systems capacity whatsoever, the taps he holds run worse every month he holds them and he blames whoever is
 nearest. His uselessness reaches the page without a line of narration asserting it.
 
-**Tiberian corners him.** Sarn has spent the descent escaping — through betrayal, through putting other
+**Tiberian corners him.** Bittek has spent the descent escaping — through betrayal, through putting other
 people between himself and the column, through every cowardly expedient available — and has read each escape
 as evidence of his own brilliance. **He badly misjudges Tiberian, and the mechanism is not ignorance.** He
 knows the reputation perfectly well and dismisses it as propaganda, because he manufactures his own the same
@@ -359,10 +359,10 @@ warriors who fought a real war. It should be brief to the point of embarrassment
 Tiberian ends it. **This is the load-bearing detail.** He never gets the dignity of a genuine surrender, so
 Tiberian is not executing a broken man who has given up; he is refusing to buy from a man who is still, in
 his final seconds, exactly what he has been since Act I. **And it preserves the asymmetry with Ronas**, who
-was offered a stand-down and refused it: Ronas got that offer because Ronas could actually deliver one. Sarn
+was offered a stand-down and refused it: Ronas got that offer because Ronas could actually deliver one. Bittek
 is being refused a *negotiation*, not the mercy Ronas was given, because he controls nothing and can deliver
 nothing. **Keep that distinction legible** or the refusal reads as Tiberian being inconsistent rather than as
-the last fact about Sarn.
+the last fact about Bittek.
 
 He dies at the end of Tiberian's sword, soiling himself.
 
@@ -377,7 +377,7 @@ book keeps going into what it cost. Reversing that order would make the catharsi
 the Aftermath's devastation is the true ending of this movement.
 
 **And Kess does not need to be part of it.** She is in these sequences and fighting her own war; the outline
-is deliberate that Sarn is not the master of the pit she was taken from, precisely so that no claim on his
+is deliberate that Bittek is not the master of the pit she was taken from, precisely so that no claim on his
 death competes with Tiberian's.
 
 **What killing him actually buys is local and real:** the taps open, and a district drinks. **It does not
@@ -385,7 +385,7 @@ stop the collapse**, which is still running when he dies, and it does not vindic
 
 **It's bloody.** It's far from clean. Innocents die in the crossfire — because they always do, in situations like this, when violence erupts in enclosed spaces full of civilians. The tunnels make it worse. Every engagement risks collapse, flooding from failed systems, civilians trapped between combatants. The Warrens were never designed for warfare. They were designed for living. Fighting in them destroys what's left of what kept people alive.
 
-**What the reader should feel:** The visceral cost of action — the counterweight to the visceral cost of inaction from the first three acts. Three years of delay cost lives. The intervention costs lives. There was no option that didn't cost lives. The only question was which lives, and when, and how many.
+**What the reader should feel:** The visceral cost of action — the counterweight to the visceral cost of inaction from the first three acts. Eighteen months of delay cost lives. The intervention costs lives. There was no option that didn't cost lives. The only question was which lives, and when, and how many.
 
 ---
 
@@ -397,11 +397,11 @@ He is devastated. Some part of him wanted to believe that if he just moved *fast
 
 But he doesn't regret the decision. He believes — and the evidence supports him — that further delay would have killed *more* people. The water systems were failing. Every day of inaction was a day the body count grew. The choice wasn't between action and safety. It was between action now and action later, with the body count higher each time they waited.
 
-**Tiberian's line to his sister, and it must carry its own concession.** He is too kind to put it plainly and he says it anyway, sideways, in the tone of a man who has been down there and come back up: *three years of models, and reality did what it liked with them.* And then the part that makes it land instead of gloat — **he did not expect it to be this bad either.** He admits that first, or he admits it immediately after, but he admits it. Without the concession he is a brother scoring a point off a grieving woman, which is not who he is and would cost the scene everything. **Write the whole exchange as two people who were both wrong arriving at it from opposite directions**, not as a verdict delivered.
+**Tiberian's line to his sister, and it must carry its own concession.** He is too kind to put it plainly and he says it anyway, sideways, in the tone of a man who has been down there and come back up: *eighteen months of models, and reality did what it liked with them.* And then the part that makes it land instead of gloat — **he did not expect it to be this bad either.** He admits that first, or he admits it immediately after, but he admits it. Without the concession he is a brother scoring a point off a grieving woman, which is not who he is and would cost the scene everything. **Write the whole exchange as two people who were both wrong arriving at it from opposite directions**, not as a verdict delivered.
 
-**Because Tiberian is not vindicated, and the book must be honest about it.** If the collapse could not be modelled, then it could not be modelled three years earlier either — and three years earlier there were no receiving cities, no staged water capacity, no mapped dependencies. **Acting sooner would have hit the same chaos with less underneath it.** His charge was right about the cost of waiting and wrong about what speed buys. Her caution was right about the complexity and wrong about what precision buys. **Neither method was going to make this safe, and the belief that some method would is the thing they both actually held.**
+**Because Tiberian is not vindicated, and the book must be honest about it.** If the collapse could not be modelled, then it could not be modelled eighteen months earlier either — and eighteen months earlier the receiving cities had not been adapted or staffed, the water capacity had not been staged and the dependencies had not been mapped. **Acting sooner would have hit the same chaos with less underneath it.** His charge was right about the cost of waiting and wrong about what speed buys. Her caution was right about the complexity and wrong about what precision buys. **Neither method was going to make this safe, and the belief that some method would is the thing they both actually held.**
 
-Melina processes it differently, and her lesson is not *I should have moved faster.* It is worse and more useful: **she was buying something that was not for sale.** Three years of refinement did not fail to prevent the chaos — refinement was never the sort of thing that could. What it did buy was real and she should be allowed to keep it: when the collapse came, the receiving infrastructure existed, and that is the only reason the relocation can proceed at all. **Her work was not wasted. Her theory of what the work was for was wrong.**
+Melina processes it differently, and her lesson is not *I should have moved faster.* It is worse and more useful: **she was buying something that was not for sale.** Eighteen months of refinement did not fail to prevent the chaos — refinement was never the sort of thing that could. What it did buy was real and she should be allowed to keep it: when the collapse came, the receiving infrastructure existed, and that is the only reason the relocation can proceed at all. **Her work was not wasted. Her theory of what the work was for was wrong.**
 
 The synthesis is therefore not *he was right in substance, she was right in preparation.* It is that both of them held the same unexamined belief — that enough of the right thing, done well enough, makes an irreversible act survivable — and the Warrens took it off them in the same week. What they build afterward, they build knowing better. That is the partnership the rest of the series runs on, and it costs a body count that both of them carry.
 
@@ -411,14 +411,14 @@ The synthesis is therefore not *he was right in substance, she was right in prep
 
 ## Structural Notes
 
-**The three-year delay as the villain — still true, but for a different reason than the first draft had.** The structural choice stands: inaction is the antagonist, not Ronas and not Melina. What changes is *why* the delay is damning. It is **not** that they would have got it right if they had started sooner — they wouldn't have; the thing that broke was never inside the model's domain, and three years earlier there would have been less underneath the collapse, not more.
+**The eighteen-month delay as the villain — still true, but for a different reason than the first draft had.** The structural choice stands: inaction is the antagonist, not Ronas and not Melina. What changes is *why* the delay is damning. It is **not** that they would have got it right if they had started sooner — they wouldn't have; the thing that broke was never inside the model's domain, and eighteen months earlier there would have been less underneath the collapse, not more.
 
 **The delay is villainous because of what it was bought with and what it was bought for.** Every month of refinement was a month of children in failing tunnels, exchanged for greater precision about the part of the problem that was never going to be the problem. The gap between knowing what's right and doing it was funded by a promise that could not be kept — that enough modelling makes an irreversible act safe. **The reader should feel every month of that gap, and then feel it a second time, retroactively, on learning what the months purchased.** That is a harder and better indictment than *they should have hurried*, and it does not require anybody in the book to have been careless.
 
 **The dead child:** This is the emotional center. Not a dramatic death scene — a *gap*. The child who was alive in Act I is dead by Act II. The reader should feel the absence like a missing tooth. No one killed this child. The plan killed this child, by not being ready in time.
 
-**Bittek Sarn — what he is for, and the two architectural rules that keep him working.** *(Added 2026-08-14;
-his characterization moved to `People/Bittek Sarn.md` the same day.)* He exists
+**Bittek — what he is for, and the two architectural rules that keep him working.** *(Added 2026-08-14;
+his characterization moved to `People/Bittek.md` the same day.)* He exists
 because the book already knows that a number nobody can picture is toothless and one named person is not —
 that is the stated design of the dead child — and it had never applied the same technique to the other side
 of the ledger, where four acts of horror were being carried by three category nouns. **He is the perpetrators'
@@ -432,7 +432,7 @@ face, on exactly the terms the child is the victims'.**
    death repairs.
 2. **He never touches the child.** This is the most dangerous move available and the most tempting.
    The note below is the book's own sentence — *no one killed this child; the plan killed this child* — and
-   the moment a reader can draw a causal line from Sarn to her, they have somewhere to put the anger that
+   the moment a reader can draw a causal line from Bittek to her, they have somewhere to put the anger that
    **isn't the delay**, and the delay is the antagonist of this book. Different districts. No shared scene.
    He does not control the tap her family drinks from, and no character ever puts the two of them in one
    sentence. **The two faces do the same job from opposite ends and must never meet.**
@@ -440,17 +440,19 @@ face, on exactly the terms the child is the victims'.**
 **Both of those are constraints on the book's architecture, which is why they live here.** Everything about
 the man himself — his stack, why the restraint is fear, what he saw in Book 2, write him small, nobody
 credits him with a plan, do not deepen him, the misjudgment of Tiberian, and what he does to Ronas by
-contrast — is on **`People/Bittek Sarn.md`**, which is authoritative on him. **This outline does not restate
+contrast — is on **`People/Bittek.md`**, which is authoritative on him. **This outline does not restate
 it.**
 
 **The name is settled — author's ruling, 2026-08-14 — and he is in `Names.md`.** Proto-Balishan, matching
-Dermir, Darfi, Corris and Vesk. B and S were the free initials in a book already carrying Tiberian, Melina,
-Ronas, Xion, Elara, Farleen and three K's (Kess, Kai and Kael all share Book 6). The full coinage note,
-including the cleared near-collision with Book 1's *"Lady Sarif,"* is in `Names.md`.
+Brennek and Garrin. B was the free initial in a book already carrying Tiberian, Melina, Ronas, Xion, Elara,
+Farleen and three K's (Kess, Kai and Kael all share Book 6). **He was *Bittek Sarn* until 2026-08-21**, when
+the naming rule took the house name off him — a Slaver lieutenant has no house to be named for. The full
+coinage note is in `Names.md`, along with why the *Bittek / Garrin* weight contrast improved rather than
+survived.
 
-**Both open questions are now settled.** The capable lieutenant is **Garrin** — single name, matching the
-Warrens pattern in `Names.md` where Ronas's other named lieutenant *Cullen*, and *Korvin*, *Varris* and
-*Rykan* beside him, all go by one. And Sarn's Book 2 position is settled on his sheet: **present, and not
+**Both open questions are now settled.** The capable lieutenant is **Garrin** — single name, which as of
+2026-08-21 is not a pattern but the rule, matching everyone in `Names.md` where Ronas's other named lieutenant *Cullen*, and *Korvin*, *Varris* and
+*Rykan* beside him, all go by one. And Bittek's Book 2 position is settled on his sheet: **present, and not
 among those who ran wild.**
 
 **Ronas as tragic figure:** Ronas is not the villain here. He's the man who held the worst place in the city together through force and discipline for twenty years, who warned everyone what would happen when he was removed, and who was substantially right. His removal is still necessary — his system was monstrous.
@@ -475,7 +477,7 @@ What is genuinely not known is narrower and more useful: **nobody knows how to m
 
 **The Melina echo:** Melina died in the Warrens — killed by the chaos Rosik unleashed in Book 2. The relocation initiative is, among other things, the final resolution of the conditions that made her death possible. Xion cannot approach the Warrens without remembering his sister.
 
-**And the naming is doing work the earlier draft left on the table.** Melina Valanar is named for a woman killed by violence that had stopped being *for* anything — and her answer to inheriting that name has been to become the most rigorous modeller in the empire. **That is not a coincidence to point at; it is a characterisation to leave alone and let the reader find.** She built three years of models against the exact thing that killed the woman she is named for, and the models were good, and it happened again anyway. Nobody in the book says this to her. **Especially not Xion**, who would rather cut his hand off, and **especially not Tiberian**, who is her brother and is already carrying one hard thing he has to say to her.
+**And the naming is doing work the earlier draft left on the table.** Melina Valanar is named for a woman killed by violence that had stopped being *for* anything — and her answer to inheriting that name has been to become the most rigorous modeller in the empire. **That is not a coincidence to point at; it is a characterisation to leave alone and let the reader find.** She built eighteen months of models against the exact thing that killed the woman she is named for, and the models were good, and it happened again anyway. Nobody in the book says this to her. **Especially not Xion**, who would rather cut his hand off, and **especially not Tiberian**, who is her brother and is already carrying one hard thing he has to say to her.
 
 If the connection is ever made aloud it should be Melina herself, once, late, flatly, and to no one in particular.
 

@@ -104,7 +104,46 @@ A starter list. Treat as canonical unless contradicted by existing prose; extend
 | **Leowin** | Proto-Balishan | Native human given name. *Leo-* (lion, courage) + *-win* (joy, friend) |
 | **Farleen** | Proto-Balishan | Native human given name |
 | **Melina** | Old Lathionese | *Mel-* (honey, sweetness) + *-ina* (feminine name suffix). A Lathionese-register personal name, fashionable among Balishan nobility |
+| **Fen** | Proto-Balishan | **Not a name — a trade.** The common Kaha'ani word for herb-work and the people who do it, the way *smith* is a word before it is anyone's name. *Mira Fen* is *Mira the herb-woman*. There were other Fens. See **Who Gets a Second Name**, below |
+| **Dermir** | Proto-Balishan | A house name on a man entitled to none. Ronas took it, the way he took *Slaver King*, and enforced it by being who he is |
 | **Sa Ko Ren** | Far Eastern | Three-monosyllable structure marks origin outside the old imperial linguistic zone |
+
+---
+
+## Who Gets a Second Name
+
+*Author's ruling, 2026-08-21. **This is a Balishan custom, not a law of the world** — see the scope note at the end before applying it anywhere else.*
+
+**A second name is a grant, and only the throne grants one.** In Balisha a house name is a thing conferred — on a family, for service or for money, by an emperor or by the Coterie acting in an emperor's absence — and it is conferred rarely enough that carrying one is itself the statement. Nobles have them. **Commoners have one name and no more.**
+
+This is not a rule the books had to be bent to fit. **They were already written this way** and nobody noticed: *Cullen, Korvin, Jorik, Varris, Vex, Rykan, Sela, Deshan, Deshi, Old Taren, Grandmother Shira, Brennek, Ormuth, Lira, Garrin, Bittek* — every commoner in the register goes by one name. The rule was reverse-engineered from the practice, not imposed on it.
+
+**How commoners identify each other: bynames.** A trade, a street, a parent, a feature — *Tam, twelve, the boy with the bandaged hand*. A byname is not a name and does not descend; it is how you find the right person in a crowd when the crowd has forty Tams. Slavers, bailiffs and debt-writs therefore have to **describe** people, which is a texture worth using: the writ that cannot name you has to point at you.
+
+**Honorific plus one name is the commoner shape** — *Master Fen, Mistress Janice, Mistress Keya, Master Keelen* — and it is why Xion's alias worked for eight years.
+
+### Ronas Dermir took his
+
+*Dermir* is a house name on a man with no house. He was a slaver lieutenant in the pre-Rending Slums who took a name the way he took the title of **Slaver King** — `People/Ronas Dermir.md`: *"The title was not granted by anyone — there was no one to grant it. He declared it, and then he enforced the declaration by being who he was."* Both are the same act, and the name is the earlier one. Nobody in the Coterie has ever said so out loud, which is its own kind of acknowledgement.
+
+**The one line that already knew.** B1 ch18, Ronas to Xion: *"Also heard you been callin' yourself Master Fen down here. Patchin' people up. **Got yourself a name off it.**"* Read it literally. The only two men in Kaha'an who took their names off the work are in that room, and one of them is pointing it out.
+
+### Fen was never a surname
+
+**It is the word for the work.** Mira had no house name because no servant does. *Fen* is what you call a woman who grinds poultices, and *Mira Fen* is *Mira the herb-woman* — so **"Master Fen" was never a name at all. It was a job**, which is what made it the most anonymous thing a hunted man could hide behind, and why B3 ch1's undersecretary has to spell it (*"F, e, n"*): he knows the word perfectly well; he has simply never had to write it in the column where houses go.
+
+**This is what B3 ch1 is actually doing.** Xion does not swap one house for another. He asks the imperial record to enter **a common noun where a house name goes** — a dead servant's trade, in the register of the empire, in a margin, because the First Counselor asked and no clerk was going to argue. Nobody in the room can read it. Elara can. Neither says anything.
+
+**And it is why Melina is the only one who ever finds Mira.** You cannot look up *Fen* any more than you can look up *smith*; there were other Fens. There is no record to search, so the route is servants and witnesses and twenty-year-old estate business — which is exactly what `People/Melina Valanar.md` already says it is. A trade-word is *hidden in plain sight* in the literal sense.
+
+**One consequence, permanent:** *Fen* is not a family. There is no Fen line, no Fen cousin, and there never can be.
+
+### Scope — where this rule does not reach
+
+- **Erulius.** Retainers and commoners are Erulian in both halves (see the Erulian section below). The Principality apes Balisha's given names and not its grants, which is a difference worth having.
+- **Gunastran, Uratha, Terinok, the Far East, bakarn Silaris.** Their own customs. *Perrin Halmore* is a bakarn dockworker and keeps her name.
+- **Clan names are a different category.** *Ashwood* is a timber wolf clan, not a house — `People/Kess Ashwood.md`. Kess is unaffected.
+- **Nouveau houses count as houses.** *House Darfi* was bought inside the last twenty years and is looked down on for it, and Farleen is still a noblewoman with a noble's name. Bought and granted are both grants; that is the point of the resentment.
 
 ---
 
@@ -184,6 +223,7 @@ This is the convention behind **Emperor Urath IV Valanar**, founder of Uratha: b
 The Vartonnese imperial tradition treats throne-name taking as part of what *constitutes* a valid coronation — not a decorative flourish but a load-bearing ritual act. By that reading, **Empress Elara** has not quite performed the rite. She was raised by the Arol Batae and never taught the convention; she takes the throne under her birth name, with no Old Lathionese throne-name and no numeral, because that is who she is and no one ever told her there was anything else to do. Vartonne reads this not as a chosen snub from a pool of throne-names (there *is* no Elara in the pool — the construction is incoherent in their tradition, the equivalent of *King Joe of England*) but as a procedural defect: a coronation that omitted one of its essential ritual elements. The fact that she calls herself *Empress* at all is, in their view, a kind of polite fiction the rest of the continent is going along with. See [Elara Valanar.md](../People/Elara Valanar.md) for the full beat.
 
 ### Balishan (common / native human / non-noble)
+- **One name only.** Second names are grants and commoners do not receive them — see **Who Gets a Second Name**, above. Coin one name, not two, and reach for a byname (trade, street, parent, feature) when a scene needs to tell two of them apart
 - Draw from Proto-Balishan roots
 - Harder consonants, consonant clusters, V-initial common, *-onne / -ore / -ek / -in / -annas* endings
 - No glottal stop

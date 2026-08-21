@@ -110,7 +110,7 @@ The crowd in the market square was the wrong shape.
 
 He knew it before he knew why — too dense at the middle, too still at the edges, everybody facing in. He had seen that shape at bedsides. It meant the thing had already happened and nobody was going to be the one to move.
 
-Then a name came up out of it. "Tam Corris!"
+Then a name came up out of it. "Tam! Boy called Tam!"
 
 He went in through the bodies without deciding to, shoving past a fishmonger and a woman with a basket of bread.
 

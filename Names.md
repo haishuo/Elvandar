@@ -33,7 +33,7 @@ in that book. The failure mode is never a name that *looks* wrong on the page.
 | **Sa Ko Ren** | 1–3, 5 | The Iron Lady. Iron cartel, Coterie. **She/her** | Far Eastern |
 | **Mistress Janice** | 1, 3 | Warrens. Calls Xion *Fen*, never anything else | — |
 | **Mira Fen** | 1–2, 7 | **The apothecary at the Kemvimore estate — not Xion's mother.** Raised him after his mother died in the Rending and taught him healing in secret for years. Executed by Rosik when Xion was fifteen, on two words, with Xion in the room. His defining wound, and **the source of his alias** — *Master Fen* is her name | — |
-| **Tam Corris** | 1–3 | The boy Xion saves | Proto-Balishan |
+| **Tam** | 1–3 | The boy Xion saves. One name — Middle District, no house | Proto-Balishan |
 | **Tarren Vesk** | 1, 3 | Commander of the Arol Batae; raised Elara | Proto-Balishan |
 | **Kalden Erulius** | 2–8 | Prince of the Erulian Principality. *"The Steady One"* | Balishan given, Erulian house |
 | **Danshall Harkim** | 3–4, 8 | Book 4 is entirely his | — |
@@ -43,7 +43,7 @@ in that book. The failure mode is never a name that *looks* wrong on the page.
 
 | Name | Books | Who | Register |
 |---|---|---|---|
-| **Tiberian Valanar** | 5–8 | The Tiger Prince. Xion and Elara's son; **Melina's twin**, born hours apart during the Compact War. Named for his grandfather | Old Lathionese |
+| **Tiberian Valanar** | 5–8 | The Tiger Prince. Xion and Elara's son; **Melina's twin**, born hours apart after the Compact War. Named for his grandfather | Old Lathionese |
 | **Melina Valanar** | 5–8 | The Spider Queen. His twin — **named for Xion's dead sister** | Old Lathionese |
 | **Kai Issamil** | 5–7 | The Iron Boar. **Kael's son**; holds the line behind Tiberian | Balishan |
 
@@ -70,7 +70,7 @@ day. Neither has ever said so to the other on the page.
 | Name | Books | Who |
 |---|---|---|
 | **Cullen** | 1, 3 | Ronas's lieutenant. Takes people topside |
-| **Arlo Berakailen** | 1 | Information broker at the Crossroads |
+| **Arlo** | 1 | Information broker at the Crossroads |
 | **Vex** | 1 | Warrens operator. *"Calls himself Vex"* — an alias in-world |
 | **Korvin** | 1 | Dockworker; crushed hand Xion rebuilt |
 | **Jorik** | 1 | Grain warehouse foreman |
@@ -86,6 +86,8 @@ day. Neither has ever said so to the other on the page.
 | **Lord Markus Tervan** | 1 | Minor Iron family |
 | **Lord Terrik** | 1 | Grain cartel, allied to Rosik |
 | **Councilor Harvik** | 1 | — |
+| **Harkin Vess** | 1 | Iron cartel; controls half the city's smithies. Named once, at the ch10 masquerade |
+| **Sera Quillin** | 1 | Minor Water family with Slaver connections. Named once, at the ch10 masquerade |
 | **"Lady Sarif"** | 1 | Elara's false identity — a Urathan textile merchant's daughter |
 
 ## Book 3 — the expedition and the powers
@@ -119,8 +121,8 @@ day. Neither has ever said so to the other on the page.
 
 | Name | Who | Register |
 |---|---|---|
-| **Bittek Sarn** | Slaver lieutenant under Ronas. The one antagonist in the series written with no redeeming feature; present across all four acts and killed by Tiberian in Act IV. Design and guardrails in `book6_outline.md` | Proto-Balishan |
-| **Garrin** | Ronas's most capable lieutenant. Tries to hold the cartel together after his death and is the last legible actor in the Warrens; Sarn kills him in Act III | Proto-Balishan |
+| **Bittek** | Slaver lieutenant under Ronas. One name — commoners have no other. The one antagonist in the series written with no redeeming feature; present across all four acts and killed by Tiberian in Act IV. Design and guardrails in `book6_outline.md` | Proto-Balishan |
+| **Garrin** | Ronas's most capable lieutenant. Tries to hold the cartel together after his death and is the last legible actor in the Warrens; Bittek kills him in Act III | Proto-Balishan |
 
 ## Houses and factions
 
@@ -145,6 +147,28 @@ day. Neither has ever said so to the other on the page.
 | **Aurelan III** | Sat the Ruby Throne four hundred years ago; Kalden copies his collar |
 
 ---
+
+## Raised and closed the same day — *Harkin Vess* against *Tarren Vesk*
+
+*Author's ruling, 2026-08-21. Recorded so it is not re-derived by someone doing the right thing for the
+wrong reason.*
+
+**Not a collision, because collisions need weight on both sides.** *Vess* and *Vesk* differ in one
+consonant's coda, which is the least reliable distinction this guide recognises, and it is the same fault
+that forced ***Vrek → Draskin***. **That rename was correct and this one is not**, and the difference is
+recurrence rather than similarity: Draskin and Vesk are both major supporting characters, in multiple books,
+said aloud constantly. **Harkin Vess exists in one clause of one chapter** — B1 ch10, where Xion names two
+masked guests for Elara — and in no beat draft, skeleton, outline or sheet anywhere in the series. *Sera
+Quillin*, named in the same sentence, is the same. **A character with a few lines in one chapter does not get
+renamed.**
+
+**They are in the register now for the opposite reason to the one that found them.** Both were missing from
+this file entirely. The risk was never that a reader confuses Vess with Vesk — it is that *Harkin Vess* gets
+coined a second time, years from now, for somebody who matters. **That is what these rows are for.**
+
+**The general test, which belongs beside the *Lyra / Lira* ruling below:** co-occurrence is necessary and not
+sufficient. Before flagging a near-collision, **count the mentions on the quieter side.** One scene and no
+downstream documents means furniture, and furniture does not collide.
 
 ## Two duplications that are deliberate
 
@@ -174,25 +198,26 @@ in exactly the chapters the scholar appears in. **Both names replace *Kaiden Vos
 written, whose nation the sources disagreed on, and who was himself a collision — one syllable,
 V-initial, sharing an expedition with **Vesk**.
 
-## Coined 2026-08-14 — Bittek Sarn
+## Coined 2026-08-14 — Bittek
 
 **Book 6's initials are crowded and the crowding is lopsided.** Spoken in that book: T (Tiberian), M
 (Melina), X (Xion), E (Elara), R (Ronas), F (Farleen) — and **three K's**, since *Kess*, *Kai* and *Kael*
-all share it, which is the register's one live hazard already flagged above. **B and S were both free**, and
-the name takes one of each.
+all share it, which is the register's one live hazard already flagged above. **B was free**, and the name
+takes it.
 
-Proto-Balishan, which is the Warrens register — *Dermir*, *Darfi*, *Corris*, *Vesk*. It carries the
-signature *-ek* ending and a doubled consonant, both on the language guide's list for the family.
+Proto-Balishan, which is the commoner register — *Brennek*, *Garrin*, *Korvin*. It carries the signature
+*-ek* ending and a doubled consonant, both on the language guide's list for the family.
 
-**One near-collision, checked and cleared: *Sarn* against Book 1's *"Lady Sarif."*** Three shared opening
-letters is close enough to be worth writing down. Sarif is Elara's false identity in B1 ch9–10 and appears
-nowhere else in the series, so **the two never share a book, a scene or a sentence** — the same ground on
-which *Lyra / Lira* was ruled acceptable. **Recorded here so it is not discovered later and "fixed" by
-someone doing the right thing for the wrong reason.**
+**He had a house name until 2026-08-21 and lost it to the naming rule.** *Bittek Sarn* was coined with a
+surname because the register did not yet have one, and under the rule settled that day a Slaver lieutenant
+has no house to be named for. **S came back to Book 6 with it**, and the whole near-collision analysis
+against Book 1's *"Lady Sarif"* went with it — recorded here so nobody re-derives a problem that no longer
+exists. **The contrast the pair was built for survived and improved**: *Bittek* is thin-vowelled and
+slightly ridiculous, *Garrin* has weight, and one name each is a cleaner comparison than the toad carrying
+more name than the competent man who dies.
 
-***Brennek*** shares the *-ek* ending and does not appear in Book 6 at all, so the two never meet either.
 Rejected alternatives, all checked clean and still free for later use: *Nillek*, *Havvik*, *Duvvin*,
-*Gossek*, with *Dolch* and *Grask* as house names.
+*Gossek*, with *Dolch* and *Grask* as house names — the last two now **noble-only**, per the rule.
 
 ### And ***Garrin***, the same day
 
@@ -212,7 +237,7 @@ beside every short name already there. **Spelling it with a C does not help the 
 rejected: *Aldric*, the only tested candidate returning repository hits. Clean and still free for later:
 *Halvor*, *Gorran*, *Nerrin*, *Orrin*, *Halcin*, *Loken*, *Wendric*.
 
-**He is deliberately the more solid-sounding of the pair.** *Bittek Sarn* is thin-vowelled and slightly
+**He is deliberately the more solid-sounding of the pair.** *Bittek* is thin-vowelled and slightly
 ridiculous; *Garrin* has weight. The contrast is doing work — the competent man and the toad who kills him
 should not sound like they belong to the same weight class.
 

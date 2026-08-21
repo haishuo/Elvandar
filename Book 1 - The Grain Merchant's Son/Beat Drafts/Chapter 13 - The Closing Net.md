@@ -43,7 +43,7 @@
 
 15. The shelf is empty. Janice is at the front counter with all six of them squared edge to edge the way she squares everything, and the lamp lit beside them with the glass chimney already off. She has been ahead of him since the curtain.
 
-16. She asks how long he has got. Minutes. Then he is wasting them. He crosses anyway and asks for the journals so he can carry them, and she gives the operational answer: he will be caught with them, and then it is not him they hang — it is Korvin, it is the Corris family, it is every name in the book. Eight years of people who came to a door with nothing, in a cipher two people can read. One of us is leaving.
+16. She asks how long he has got. Minutes. Then he is wasting them. He crosses anyway and asks for the journals so he can carry them, and she gives the operational answer: he will be caught with them, and then it is not him they hang — it is Korvin, it is Tam’s whole family, it is every name in the book. Eight years of people who came to a door with nothing, in a cipher two people can read. One of us is leaving.
 
 17. He says they will know it was her. She corrects him the way she would correct a figure: they will know it was her shop, which has been true since he was fifteen, and she has had a long time to be ready for it and he has had a long time not to think about it, and this is where that stops mattering.
 

@@ -1,7 +1,7 @@
 # Chapter 15: Questions and Answers
 
 **Timeline:** Day 16. Morning into midday, in the Tiers and at the Crossroads.
-**Characters:** Xion (POV), Elara, Farleen, Korvin, a food vendor, a Slaver enforcer, Arlo Berakailen
+**Characters:** Xion (POV), Elara, Farleen, Korvin, a food vendor, a Slaver enforcer, Arlo
 **Emotional work:** Two discoveries running in opposite directions. Master Fen turns out to be currency down here — the thing that keeps opening doors — and Elara turns out to find that unbearable. The reader should end the chapter with the rescue newly possible and the partnership newly cracked, and should not be certain which of the two matters more.
 **POV:** Xion — close third-person limited.
 
@@ -35,7 +35,7 @@
 
 12. He will help and he cannot be seen helping — he has a wife and children — so he pretends to show them his wares while he talks, gesturing at food as if they are haggling. The tradecraft is his, invented on the spot, because people who live here know how to do this.
 
-13. What he gives them: the Crossroads is where information trades, and the man to see is Arlo Berakailen, the best broker in the Warrens. But it will not be free, and Arlo does not take coin — he takes other information, favours, whatever he judges worth the trade.
+13. What he gives them: the Crossroads is where information trades, and the man to see is Arlo, the best broker in the Warrens. But it will not be free, and Arlo does not take coin — he takes other information, favours, whatever he judges worth the trade.
 
 14. He hands Xion dried meat as though completing a sale, says that is all he can tell them and they did not hear it from him. Xion thanks him for the risk and the man's answer is the chapter's motif stated plainly: *you saved my life, figure I owe you that much* — and after this we are even, and I cannot acknowledge knowing you if we cross paths. He turns to other customers immediately and makes a point of not watching them go.
 
@@ -61,7 +61,7 @@
 
 24. Farleen ends it on tactics rather than merit — they are having a very public disagreement in the middle of the Crossroads and can table it somewhere less exposed. Elara agrees tightly and says the conversation is not over. Xion says he did not expect it to be.
 
-25. Arlo Berakailen, younger than expected, maybe forty, clever eyes and a face that gives nothing away. He has been expecting them; the Warrens have been buzzing about Xion's arrival and his very impressive companion. He knows who Xion is because he makes it his business to know everyone who matters in the Warrens — and Xion, he says, matters quite a bit, even if he does not realise it.
+25. Arlo, younger than expected, maybe forty, clever eyes and a face that gives nothing away. He has been expecting them; the Warrens have been buzzing about Xion's arrival and his very impressive companion. He knows who Xion is because he makes it his business to know everyone who matters in the Warrens — and Xion, he says, matters quite a bit, even if he does not realise it.
 
 26. He might know where the boy is. But first they should discuss what the information is worth and what they are willing to trade. Xion's heart sinks at the negotiation he has been dreading — the moment his resources run up against reality — and he asks what Arlo wants. Arlo leans back with evident satisfaction and tells him that is exactly the right question. End there.
 

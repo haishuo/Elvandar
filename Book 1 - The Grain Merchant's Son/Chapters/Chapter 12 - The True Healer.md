@@ -88,7 +88,7 @@ A middle-aged woman stood in the doorway, her face worn with worry and sleepless
 
 The woman sat heavily, and when she spoke, her words hit Xion like a physical blow.
 
-"His name is Tam. Tam Corris. He came to you maybe two weeks ago with a bad cut on his hand. You treated him, didn't charge us nothing, told him to rest."
+"His name is Tam. He came to you maybe two weeks ago with a bad cut on his hand. You treated him, didn't charge us nothing, told him to rest."
 
 Xion's throat went dry. Behind him, he heard Elara's sharp intake of breath.
 

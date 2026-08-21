@@ -178,7 +178,7 @@ Janice stood at the front counter with all six of them stacked in front of her, 
 
 He crossed to the counter anyway. "Give them to me. I'll carry them—"
 
-"And you'll be caught with them." Now she looked up, and her face held the same flat patience it held every morning of eight years. "Then it isn't you they hang. It's Korvin. It's the Corris family. It's every name in here." She laid one hand flat on the top journal. "Eight years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
+"And you'll be caught with them." Now she looked up, and her face held the same flat patience it held every morning of eight years. "Then it isn't you they hang. It's Korvin. It's Tam's whole family. It's every name in here." She laid one hand flat on the top journal. "Eight years of people who came to a door with nothing. In a cipher two of us can read." A beat. "One of us is leaving."
 
 Something cold moved through him. "They'll know it was you."
 

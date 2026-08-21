@@ -94,7 +94,7 @@ The man was quiet for a long moment, clearly wrestling with something. His eyes 
 
 The vendor pretended to show them his wares, gesturing at the food on his cart as if they were discussing a purchase. To anyone watching, it would look like normal business.
 
-"The Crossroads," he said quietly. "That's where information gets traded. There's a man there—Arlo Berakailen. Best information broker in the Warrens. If anyone can tell you about one specific kid, it's him." He paused. "But Master Fen... it won't be free. Information down here costs. And Arlo don't take coin."
+"The Crossroads," he said quietly. "That's where information gets traded. There's a man there—Arlo. Best information broker in the Warrens. If anyone can tell you about one specific kid, it's him." He paused. "But Master Fen... it won't be free. Information down here costs. And Arlo don't take coin."
 
 "What does he take?" Farleen asked, her voice carefully neutral.
 

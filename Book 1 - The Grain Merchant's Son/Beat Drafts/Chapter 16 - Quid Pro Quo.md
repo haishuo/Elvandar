@@ -1,7 +1,7 @@
 # Chapter 16: Quid Pro Quo
 
 **Timeline:** Day 16, continuous with ch15. Midday through night.
-**Characters:** Xion (POV), Elara, Farleen, Arlo Berakailen, a guard who does not survive
+**Characters:** Xion (POV), Elara, Farleen, Arlo, a guard who does not survive
 **Emotional work:** They buy Tam's location and the reader should feel every part of the price. A man dies offstage for it, Farleen is injured for it, and Xion — who twelve hours earlier delivered a beautiful speech about nobody having the right to weigh a life — finds he can only ask how old the man was. Then it gives them one genuinely warm scene — the first since the alley — and has him destroy it himself with a question he has been holding for months.
 **POV:** Xion — close third-person limited. He is not present for the heist and the chapter must not go without him.
 

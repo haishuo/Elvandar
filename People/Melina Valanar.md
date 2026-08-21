@@ -26,27 +26,23 @@ This also distinguishes her sharply from the aunt she is named for. Melina Kemvi
 
 Melina's deepest drive is the pursuit of complete understanding. She wants to know how things work — not abstractly, not philosophically, but with precision: what are the inputs, what are the outputs, where are the failure points, what are the contingencies, what are the contingencies' contingencies. The Engineer in her builds systems; the Truth Seeker primary *demands the systems be fully mapped before they are trusted*.
 
-The clearest evidence is the Warrens plan. After three years of continuous refinement, the plan is, by any Engineer's standard, *ready*. The numbers work. The logistics are sound. The implementation could begin tomorrow. An Engineer would have shipped two years ago. But Melina cannot release it, because every new pass through the analysis reveals another layer to *understand*. Engineer pathology is over-optimization of a working system. Melina's pathology is being unable to *move from analysis to action* — the perpetual one-more-variable, the inability to call the map complete. That is Truth Seeker pathology, not Engineer pathology.
+The clearest evidence is the Warrens plan. After eighteen months of continuous refinement, the plan is, by any Engineer's standard, *ready*. The numbers work. The logistics are sound. The implementation could begin tomorrow. An Engineer would already have shipped it. But Melina cannot release it, because every new pass through the analysis reveals another layer to *understand*. Engineer pathology is over-optimization of a working system. Melina's pathology is being unable to *move from analysis to action* — the perpetual one-more-variable, the inability to call the map complete. That is Truth Seeker pathology, not Engineer pathology.
 
 "Every analysis reveals new complexities. Every solution creates new problems to analyze." This is the Truth Seeker's central crisis stated explicitly: understanding is asymptotic, and asymptotic understanding is the Truth Seeker's nightmare when paired with a Caretaker drive that needs to act.
 
-The Erulian Network Collapse, accomplished before the trilogy begins, is Truth Seeker mastery applied to enemy intelligence: identifying seventeen compromised agents through obsessive pattern recognition, building the picture piece by piece until the truth was inescapable, then deploying the engineered countermeasure. The deployment is the Engineer's work. The *seeing* is the Truth Seeker's, and that's the harder half. Most analysts would have caught five agents. Melina caught seventeen because she could not stop until she understood the *complete* shape of the operation.
-
-The honeypot strategy is the cleanest crystallization of her primary directing her secondary. *"If people are going to attack, better they do so along the vectors I know than the vectors I don't."* Her Engineer designs systems; her Truth Seeker chooses which systems to design — the ones that channel reality into *observable, mappable* patterns. She does not just want to control adversaries. She wants to *see* them, completely, before she does anything else.
-
 Her royal trait reinforces this. Elara's eyes betray emotion; Melina's betray cognition. The Kaleidoscope — the rapid prismatic shifts during complex strategic processing — is the *visible Truth Seeker drive in motion*, the mind mapping the world in real time. Her mother's eyes show feeling. Melina's show understanding under construction.
 
-**Shadow:** The infinite recursion. Three years of perfecting the Warrens plan while children die underground. Her brother's accusation — *"overthinking is its own form of cowardice"* — hits because it's true. Her Truth Seeker drive can become an elegant justification for inaction, every delay reframed as necessary caution, every hesitation dressed in the language of responsible analysis. The mapping is real. The world is real too, and the world is not waiting.
+**Shadow:** The infinite recursion. Eighteen months of perfecting the Warrens plan while children die underground. Her brother's accusation — *"overthinking is its own form of cowardice"* — hits because it's true. Her Truth Seeker drive can become an elegant justification for inaction, every delay reframed as necessary caution, every hesitation dressed in the language of responsible analysis. The mapping is real. The world is real too, and the world is not waiting.
 
 ### Engineer (Secondary)
 
-Melina builds systems with extraordinary capability — but the systems are *instruments* of her Truth Seeker primary, not ends in themselves. The Engineer in her translates the Truth Seeker's understanding into functional architecture: the central command coordinating all five Pillars, the spy network producing the intelligence streams, the honeypot creating the observable adversary behaviors, the Warrens plan (when it eventually ships) implementing the relocation. Each is an Engineer output, deployed in service of an underlying Truth Seeker drive.
+Melina builds systems with extraordinary capability — but the systems are *instruments* of her Truth Seeker primary, not ends in themselves. The Engineer in her translates the Truth Seeker's understanding into functional architecture: the central command coordinating all five Pillars, the Warrens plan implementing the relocation, and the defensive response in Book 7 that turns incomplete reports into immediate patrol orders. Each is an Engineer output, deployed in service of an underlying Truth Seeker drive.
 
-Her strategic approach to warfare defines the Engineer drive at its most developed: multi-layered planning with contingencies for contingencies, intelligence warfare and counterintelligence operations, psychological operations that demoralize enemies before engagement. She is the spider at the center of the web — not because she craves control, but because she has *mapped* the threads completely and the most efficient command position is the center.
+Her strategic approach reaches its most developed form in Book 7: coordinating the Five Pillars from central command, recognizing that reports from the field are too fast and too clean, and acting before she can know what the hidden threat is. She is the spider at the center of the web — not because she craves control, but because the most efficient command position is the one from which she can see the threads together.
 
 In Walled Garden, she learns "to trust her analytical instincts even when they argue against popular moral positions." This is the Engineer maturing into a *willingness to ship* when the Truth Seeker says understanding is sufficient. The two drives working together produce the Spider Queen: Truth Seeker mapping the strategic field with comprehensive precision, Engineer building the operational architecture that turns the map into action.
 
-**Shadow:** Her engineering competence can become an elaborate apparatus that makes Truth Seeker paralysis look like productive activity. Three years of refining the Warrens plan *was* engineering work. Charts were updated. Models were rebuilt. Stakeholder analyses were performed. The output of her Engineer was real — and none of it shipped, because her primary refused to release it.
+**Shadow:** Her engineering competence can become an elaborate apparatus that makes Truth Seeker paralysis look like productive activity. Eighteen months of refining the Warrens plan *was* engineering work. Charts were updated. Models were rebuilt. Stakeholder analyses were performed. The output of her Engineer was real — and none of it shipped, because her primary refused to release it.
 
 ### Caretaker (Third)
 
@@ -70,21 +66,19 @@ But Founder energy isn't her primary drive. She thinks about institutions becaus
 
 ### Spirited Competitor (Fifth)
 
-The Erulian Network Collapse carries a competitive edge — the satisfaction of outmaneuvering an entire intelligence operation, of being so thoroughly superior that the enemy doesn't realize they've lost until it's over. "I win battles weeks before they occur. By the time swords are drawn, the outcome is already determined." There's pride in that statement. Not arrogance — pride. The quiet satisfaction of someone who knows she's very, very good at what she does.
-
 Her relationship with Tiberian contains competitive energy — the sibling dynamic of two exceptionally capable people who push each other, challenge each other, and occasionally need to humble each other. She teases him as "Tiber the Tiger" when his aggression needs checking. He pushes her when her analysis needs breaking.
 
 **Shadow:** Minimal. Her competitive drive is real but subordinated to her higher priorities. She doesn't compete for its own sake; she competes because the stakes are real.
 
 ### Creator (Sixth)
 
-Very low, but not absent. Melina designs systems and strategies, but these are Engineer outputs serving her Truth Seeker primary, not creative expression. Whatever Creator capacity she has appears in two narrow forms: the *imaginative leaps* required to model unknown scenarios (envisioning what an adversary might do before they do it), and the *novel architectural choices* in her counterintelligence designs (the honeypot was not a standard cartel-era technique — she invented it). Both are instrumental. She does not create for expression's sake. She invents because the mapping requires it.
+Very low, but not absent. Melina designs systems and strategies, but these are Engineer outputs serving her Truth Seeker primary, not creative expression. Whatever Creator capacity she has appears in the imaginative leaps required to model unknown scenarios — envisioning what an adversary might do before they do it. It is instrumental. She does not create for expression's sake. She invents because the mapping requires it.
 
 **Shadow:** Minimal. She does not envision new worlds or pursue aesthetic vision. The single most consequential thing she will ever build — the post-cartel future her parents fought for and her generation must construct — will require Creator capacity she has not yet developed, and her growth in the trilogy's epilogue may depend on how much of this drive she can cultivate.
 
 ### Merchant (Seventh)
 
-Melina's lowest drive, by some distance. She does not accumulate for accumulation's sake. The closest she comes to accumulative behavior is the *gathering of intelligence* — but intelligence-gathering is Truth Seeker work, not Merchant work. The Merchant accumulates substrate (wealth, leverage, position, holdings); the Truth Seeker accumulates *understanding*, which is a fundamentally different psychological transaction. Melina's spy network does not exist to extract value. It exists to render the world *legible*.
+Melina's lowest drive, by some distance. She does not accumulate for accumulation's sake. The Merchant accumulates substrate — wealth, leverage, position, holdings — while the Truth Seeker accumulates *understanding*, which is a fundamentally different psychological transaction. Melina wants the world legible, not owned.
 
 She shares this Merchant-bottom placement with her parents, her brother, Silvanno, Farleen, and every member of the Caretaker-primary cluster around the Valanar throne. The post-cartel-era Balisha continues to be governed by people for whom accumulation is genuinely not motivating. Melina's variant of this is particularly clean: she has access to the Crown's full strategic apparatus, sees the entire kingdom's resource flows from her central command position, and has no interest in directing any of it toward personal or institutional accumulation. Her command of the Five Pillars is the largest concentration of operational capability in Elvandar, and she uses it for protection and information, not for growth.
 
@@ -106,19 +100,17 @@ She is not her aunt. She knows this. Her father knows this. The name is a memori
 
 ---
 
-Born hours after Tiberian during the Compact War, Melina entered the world as the second of the Valanar twins — the princess who arrived after the prince, younger by a margin too small to matter and too significant to forget. She grew up in the Imperial Palace as the daughter of Empress Elara and Emperor Consort Xion, inheriting what the outline calls "both parents' analytical brilliance."
+Born hours after Tiberian following the Compact War, Melina entered the world as the second of the Valanar twins — the princess who arrived after the prince, younger by a margin too small to matter and too significant to forget. She grew up in the Imperial Palace as the daughter of Empress Elara and Emperor Consort Xion, inheriting what the outline calls "both parents' analytical brilliance."
 
 Where Tiberian absorbed his parents' emotional intensity — Xion's compassion, Elara's fury — Melina absorbed their cognitive capacity. Xion's diagnostic precision (the systematic thinking that found Elara, that dismantled Rosik's coalition) and Elara's strategic capability (the political intelligence that rebuilt an empire) combined in their daughter to produce a mind of extraordinary analytical power.
 
 Her royal trait — the Kaleidoscope, the rapid prismatic eye shifts during complex processing — is unique to her. Her mother's eyes change with emotion. Melina's change with cognition. It's as if the Valanar bloodline adapted itself to match the particular genius of each bearer.
 
-The Erulian Network Collapse, accomplished before the trilogy begins, established her reputation: seventeen enemy agents identified and turned over six months, an entire intelligence operation destroyed from the inside. At eighteen or younger, she had already demonstrated the capability that would define her — the ability to understand a system so completely that she could dismantle it without anyone realizing it was happening.
-
 ---
 
 ## Trilogy Arc
 
-### Book 5: Walled Garden (Age 18-19)
+### Book 5: Walled Garden (Age 16)
 
 The Silaris crisis places Melina in opposition to her brother for the first time. Tiberian wants immediate action. Melina raises the questions no one else is asking: capacity, resources, legal frameworks, political ramifications. "Brother, your heart is in the right place, but we need a plan, not just good intentions."
 
@@ -126,11 +118,11 @@ She isn't wrong. The questions are valid. The concerns are real. But when Kalden
 
 **The Lesson:** She learns to trust her analytical instincts even when they argue against popular moral positions. Her restraint wasn't wrong — but neither was Tiberian's passion. The synthesis is the point: analysis that enables action, rather than analysis that prevents it.
 
-### Book 6: Necessary Measures (Age 19–22)
+### Book 6: Necessary Measures (Age 16–18)
 
-*Book 6 spans roughly three years and the gap is the story — the delay is the antagonist and the dead child depends on it. The twins therefore enter at nineteen and leave at about twenty-two, and are twenty-two in Book 7. Corrected 2026-07-31; the sheets had them at nineteen throughout and twenty in Book 7, which the three-year span makes impossible.*
+*Book 6 follows Book 5 without a substantial discretionary gap and spans roughly eighteen months. The delay remains the antagonist and the dead child still depends on it; what the interval buys is adaptation and staffing of Green Cities that already exist, staged food and water, mapped dependencies and transitional order. The twins enter before or around their seventeenth birthday and leave at about eighteen.*
 
-The Warrens crisis is Melina's crucible. She knows the relocation is necessary — "intellectually, morally, statistically." She has the plan. She has had the plan for three years. She keeps refining it because every refinement reveals new complexities, and she cannot act on incomplete understanding.
+The Warrens crisis is Melina's crucible. She knows the relocation is necessary — "intellectually, morally, statistically." She has the plan. She has had the plan for eighteen months. She keeps refining it because every refinement reveals new complexities, and she cannot act on incomplete understanding.
 
 Her internal justifications are bulletproof from the inside: "We can't afford to get this wrong." "Social disruption could destabilize the entire kingdom." "Once we start, there's no going back — we must be certain." Each one is reasonable. Each one is also, as Tiberian finally tells her, a form of cowardice.
 
@@ -142,7 +134,7 @@ The midnight confrontation breaks her. Not because Tiberian is right and she's w
 
 **What arrives is not a contest, and the reason her work cannot hold it is technical rather than moral.** A model represents actors pursuing ends; that is what modelling *is*. She captured everything in the Warrens that had an objective function. Men who have stopped wanting things have no quantity in them to forecast — B2 ch14's diagnosis, in Farleen's words: *"It isn't that it's violent. It's that it's stopped being **for** anything."* **Her model did not miss a variable. It reached the edge of what a model can be**, and no further refinement would have changed that, because refinement makes a model more precise about actors.
 
-So her aftermath lesson is not *I should have moved faster.* It is that **she was buying something that was not for sale** — that no quantity of the right work, done well enough, makes an irreversible act survivable. What the three years did buy was real and she keeps it: the receiving infrastructure existed when the collapse came, which is the only reason the relocation proceeds at all. **Her work was not wasted; her theory of what the work was for was wrong.**
+So her aftermath lesson is not *I should have moved faster.* It is that **she was buying something that was not for sale** — that no quantity of the right work, done well enough, makes an irreversible act survivable. What the eighteen months did buy was real and she keeps it: the receiving infrastructure existed when the collapse came, which is the only reason the relocation proceeds at all. **Her work was not wasted; her theory of what the work was for was wrong.**
 
 **The naming is doing quiet work here and nobody says it to her.** She inherited the name of a woman killed by violence that had stopped being for anything, and her answer was to become the most rigorous modeller in the empire — and it happened again anyway. Leave it for the reader. If it is ever said aloud it is Melina herself, once, late, flatly, to no one in particular.
 
@@ -171,11 +163,11 @@ be.
 
 Together, the twins present the relocation initiative to their parents: not perfect, but necessary. Details to be refined through doing rather than studying.
 
-### Book 7: Last Debts (Age 22)
+### Book 7: Last Debts (Age 18)
 
 The combined assault of Kalden and Rosik demands everything Melina has learned. The external military threat requires her engineering brilliance — coordination, logistics, strategic planning. The internal subversion from Rosik demands something harder: rapid decision-making without perfect information.
 
-Melina must "overcome analytical nature to make rapid decisions identifying and neutralizing internal threats, acting decisively without perfect information." This is the culmination of her arc — the Spider Queen who spent three years perfecting a plan learning to act in hours on partial intelligence. Not because the intelligence is sufficient, but because waiting for sufficiency would mean losing.
+Melina must "overcome analytical nature to make rapid decisions identifying and neutralizing internal threats, acting decisively without perfect information." This is the culmination of her arc — the Spider Queen who spent eighteen months perfecting a plan learning to act in hours on partial intelligence. Not because the intelligence is sufficient, but because waiting for sufficiency would mean losing.
 
 Together with Tiberian, she demonstrates "true complementary leadership" — her thorough analysis paired with his decisive action, her patience with his courage, her web with his charge. The final alliance of Kalden and Rosik fails against the combined force of the twins' mature partnership.
 
@@ -197,7 +189,7 @@ When the twins reach their parents, they face the impossible question: what to d
 
 ### Tiberian Valanar (Twin Brother)
 
-The central relationship. He is her push to action; she is his strategic conscience. Born hours apart during the war, inseparable ever since. She teases him as "Tiber the Tiger" when his aggression needs checking — the affectionate diminutive that reminds him he's still her brother before he's the Tiger Prince. He tells her "stop analyzing and start DOING" when her brilliance becomes a cage.
+The central relationship. He is her push to action; she is his strategic conscience. Born hours apart after the war, inseparable ever since. She teases him as "Tiber the Tiger" when his aggression needs checking — the affectionate diminutive that reminds him he's still her brother before he's the Tiger Prince. He tells her "stop analyzing and start DOING" when her brilliance becomes a cage.
 
 Their partnership is the emotional and strategic core of the Five Pillars. When they work in concert — her planning creating space for his action, his boldness executing what her analysis designs — they are formidable. When they operate alone, each defaults to their worst tendency: he charges without thinking; she thinks without charging.
 
@@ -258,7 +250,7 @@ She has never asked her father directly about the name. She doesn't need to, and
 
 **She is the only one of them who sees it**, and then she has to describe it to the brother who rode back as hard as a man can ride and still missed it. She sends for him before the outcome is known, so her message says *attempt* — and she is the one who then has to say the rest of it out loud. **Her account will be accurate**, Truth Seeker first, including the parts that undercut the heroic reading. She names the man — *Rosik Kemvimore* — because a complete account names him, and that is the whole of how the relation enters the room. **Nobody glosses it.** It is the same mechanism by which she has carried her aunt her entire life: the name is the speech.
 
-Tiberian will build his father into a moral compass out of that report anyway, and she will watch him do it. **She knows about Mira Fen, and she found out by herself.** Nobody told her. The evidence was the alias — her father spent eight years publicly calling himself *Master Fen*, and she is the one person patient enough to ask whose surname that was. From there it is servants, and witnesses, and twenty-year-old estate business.
+Tiberian will build his father into a moral compass out of that report anyway, and she will watch him do it. **She knows about Mira Fen, and she found out by herself.** Nobody told her. The evidence was the alias — her father spent eight years publicly calling himself *Master Fen*, and she is the one person patient enough to ask whose name that was — and to keep asking after she was told it was not a name at all, but the word for a trade. From there it is servants, and witnesses, and twenty-year-old estate business.
 
 **What she has is partial, and the limit matters.** An apothecary called Mira Fen, at the Kemvimore estate, executed by Rosik around the time her father was fifteen. She does *not* have the east hall, the two words, the note — and she does not know that **Xion was standing there and said nothing.** She knows there is a wound and not what shape it is, and she knows that she doesn't. She could not correct her brother even if she chose to.
 
@@ -287,14 +279,14 @@ Her composure is her most visible characteristic. Royal blue eyes maintained und
 
 - **Analytical processing**: Her default response to any situation is to understand it completely before acting. She maps systems, identifies variables, models scenarios, and plans contingencies. The processing is visible — observers watch the Kaleidoscope and know she's working.
 - **Controlled communication**: She speaks precisely, with dry humor that surfaces unexpectedly. Her teasing of Tiberian — "Tiber the Tiger" — is the warmest her public persona gets. In private, the control relaxes slightly, but never disappears.
-- **Patient execution**: She designs strategies that win battles weeks before they begin. The Erulian Network Collapse is her masterpiece: six months of patient manipulation, the outcome determined long before the enemy realized they were fighting.
+- **Patient execution**: Once she accepts that the map is sufficient, she can coordinate complex action without losing sight of the whole — the quality Book 7 forces her to use on incomplete information.
 - **Centralized coordination**: She operates from the center, not the edge. Where Tiberian leads from the front, Melina leads from the web — seeing all threads, understanding all connections, directing all movements simultaneously.
 
 ### The Central Tension
 
 Melina Valanar's story is about the relationship between understanding and action — the question of when analysis becomes sufficient, when planning becomes preparation rather than procrastination, when the pursuit of perfect knowledge becomes the enemy of necessary decision.
 
-Her greatest fear isn't being wrong. It's acting on incomplete understanding and causing harm that better analysis would have prevented. The Warrens crisis proves this fear can become self-fulfilling: three years of delay cause exactly the suffering she's trying to prevent. Tiberian's intervention forces her to confront the paradox: her analytical nature, her greatest strength, has become the instrument of the very failure she feared most.
+Her greatest fear isn't being wrong. It's acting on incomplete understanding and causing harm that better analysis would have prevented. The Warrens crisis proves this fear can become self-fulfilling: eighteen months of delay cause exactly the suffering she's trying to prevent. Tiberian's intervention forces her to confront the paradox: her analytical nature, her greatest strength, has become the instrument of the very failure she feared most.
 
 The arc of the trilogy asks her to resolve this tension — not by abandoning analysis (that would make her reckless) or by achieving perfect knowledge (that's impossible), but by learning to act at the point of sufficient understanding. To trust that her planning has prepared her enough. To accept that implementation reveals what analysis cannot. To let the web do its work and trust the spider's instincts.
 

@@ -9187,3 +9187,354 @@ actually conceived of Elara as taller than Xion. Ch24 now reads *"She was tall, 
 `People/Elara Valanar.md` explicitly leaves Elara's height relative to Xion unspecified; both repeated
 Elara comparisons were removed from `People/Sa Ko Ren.md`. Sa Ko remains tall. No contrary relation was
 introduced. Book 1's Royal Road HTML was regenerated from the corrected prose.
+
+---
+
+## 2026-08-20 — Next-generation chronology compressed; Melina's résumé operation removed
+
+**Author's ruling: canon spends the minimum time its events require.** Tiberian and Melina Valanar now begin
+Book 5 at sixteen and remain sixteen through its several-month span. Book 6 follows without a discretionary
+gap and now spans approximately eighteen months rather than three years; Book 7 follows promptly with the
+twins approximately eighteen. This supersedes the 2026-07-31 ruling that the three-year gap must stand.
+
+The Book 6 structure is unchanged. Delay remains the antagonist, the named child still dies between Acts I
+and II, Melina's model still reaches its technical boundary, and her work still leaves real infrastructure
+beneath the collapse. The interval shortened because the Green Cities already exist: eighteen months buys
+their adaptation and staffing, staged food and water, dependency mapping, and transitional order. The final
+refinements, rather than the entire period, are the culpable delay.
+
+**The twins are now conceived after the Compact War and born roughly nine months later.** Xion and Elara wait
+until victory before trying for children. The birth remains offstage and Book 4 remains entirely Harkim's.
+
+**Melina Valanar's Erulian Network Collapse was deleted outright.** All references to the named operation,
+seventeen turned agents, and the honeypot existed only on her character sheet; no chapter, outline, timeline,
+or offstage account depended on them. Her sheet now grounds her competence in the actual trilogy: Silaris,
+the Warrens, central coordination, and the incomplete-information patrol order in Book 7. Counterintelligence
+techniques remain available for future scenes but are not retained as résumé achievements.
+
+**Files changed:** `Book 5 - Walled Garden/book5_outline.md`, `Book 6 - Necessary Measures/book6_outline.md`,
+`Book 7 - Last Debts/book7_outline.md`, `People/Tiberian Valanar.md`, `People/Melina Valanar.md`, `Names.md`,
+`Story Timeline.md`, `Global Historical Timeline.md`, `Offstage.md`, `elvandar_series_outline.md`, and both
+editorial records. No prose or generated Royal Road HTML changed.
+
+**One question remains open:** Rosik is 58 in Book 1 and erroneously still 58 in Book 7. The compressed
+chronology places Book 7 approximately twenty years later. The master list records the recommended correction
+as roughly 50 in Book 1 and 70 in Book 7, pending authorial ruling.
+
+---
+
+## 2026-08-20 — Rosik compressed to the youngest age his history can bear
+
+**Author's ruling: Rosik is 44 in Book 1 and approximately 64 in Book 7.** Melina Kemvimore's locked age of
+26 makes Rosik eighteen at her birth; he is twenty-one when Xion is born and twenty-four at the Rending.
+This supersedes both the old 58-year Book 1 anchor and the provisional 50/70 recommendation recorded above.
+
+**Eighteen at Melina's birth is the floor.** Rosik is now explicitly raised inside the Long Knives, trained
+from childhood, operational in his early teens, and one of their premier killers by sixteen or seventeen.
+He receives the Kemvimore assignment in late adolescence, defects, manufactures his noble identity, and
+marries by seventeen. Making him younger would compress that entire first career past credibility.
+
+**The Book 7 plan now fits the man making it.** At approximately 64, Rosik is no longer capable of forcing
+an alert palace and knows it; he is still lean, practiced and skilled enough to judge that he can traverse
+a route whose defenses he has modelled and deliberately thinned. The distraction makes a rational attempt
+possible. Going forward after Kalden dies remains the irrational break, preserving the plan's established
+soundness and the character's final failure.
+
+Book 7's exact thirty- and forty-year references to Rosik's network and training were replaced with an adult
+lifetime and nearly half a century. The same lifetime wording now governs the recruitment account in
+`Offstage.md` and Kalden's sheet. **Book 2 ch15, `Melina`, was checked and not changed:** its line about a
+boundary Rosik had not crossed in thirty years reaches back to his early operational adolescence and remains
+consistent. Therefore no chapter prose or generated Royal Road HTML changed.
+
+**Files changed for this ruling:** `People/Rosik Kemvimore.md`, `People/Kalden Erulius.md`,
+`Book 7 - Last Debts/book7_outline.md`, `Story Timeline.md`, `Global Historical Timeline.md`, `Offstage.md`,
+and both editorial records.
+
+---
+
+## 2026-08-20 — Basic physical-characteristics ledger and fixed calibration system created
+
+Created `People/Basic Physical Characteristics.md` as the single visual-continuity ledger for the principal
+and next-generation cast. It records reference age, height, build, hair, eyes, complexion, identifying marks,
+and inherited facial traits while labeling each entry as an author ruling, textual fact, sheet-only statement,
+or genuinely unset. Old art and image-generation choices do not silently become canon; approved visual
+decisions become binding only when explicitly copied into the ledger.
+
+The technical height-reference workflow is now fixed: one reusable armorer's fitting frame, a shared level
+floor, square camera, fixed lens and distance, neutral posture, and flat-soled footwear. The calibration
+plates are separate from identity portraits and narrative scenes, and the written measurements govern if an
+image introduces apparent scale drift.
+
+No numerical height was invented in this pass. Current canon remains relational: Elara and Xion have no
+established difference; Farleen is the shortest of that trio; Rosik and Sa Ko Ren are tall; Tiberian is
+modestly taller than Melina at sixteen. Exact heights will be added only after the author approves them.
+
+No chapter prose, beat draft, outline, timeline, or generated Royal Road HTML changed.
+
+---
+
+## 2026-08-20 — First six canonical heights fixed
+
+**Author's ruling:** Xion Kemvimore and Elara Valanar are each **5′11″ / 180 cm**; Farleen Darfi is
+**5′7″ / 170 cm**; Rosik Kemvimore is **6′1″ / 185 cm** in Book 1; at sixteen, Tiberian Valanar is
+**5′10″ / 178 cm** and Melina Valanar is **5′8″ / 173 cm**.
+
+The equal Xion–Elara measurement replaces no prose fact; it numerically settles the height relation that had
+been left open when the obsolete “Elara is taller” comparison was removed. The twins' measurements attach
+specifically to age sixteen and do not determine their adult heights.
+
+The first technical calibration set was generated and archived from one empty armorer's fitting-room
+master: `Armorer Fitting Room - Calibration Master.png`, followed by individual plates for Xion, Elara,
+Farleen, Rosik, Tiberian, and Melina Valanar under `Character Art/`. Each subject stands on the common heel
+line in flat-soled footwear; the frame's written scale and the ledger's numerical measurement remain
+authoritative over any apparent variation introduced by hair or generative compositing.
+
+No prose or generated Royal Road HTML changed.
+
+---
+
+## 2026-08-20 — Mistress Janice age corrected and canonical appearance fixed
+
+Corrected two stale statements against `Book 3 - Crown Jewel/Chapters/Chapter 4 - Negotiations.md`: Janice
+is explicitly **sixty-one in Book 3**, not age-unspecified, and the rejected claim that she works by feel
+because her sight is failing has been removed. Her sight remains normal; the first-patient injury remains
+unspecified and cured.
+
+**Author's visual ruling:** Janice is compact, sturdy, and vigorous rather than frail, with a strong slightly
+square face, prominent cheekbones, a firm mouth, dark hair substantially iron-grey in a plain braided coil,
+clear hazel eyes, a medium olive complexion, and capable work-worn artisan's hands. Her clothing is
+impeccably made but well used, appropriate to a Middle District weaver. Exact height remains unset until her
+calibration plate is approved.
+
+Generated and archived the approved canonical identity portrait as `Character Art/Mistress Janice -
+Photorealistic.png`: Janice seated in her shop with a work-basket in her lap, unpicking a flawed row from a
+plain brown tunic, her eyes lifted in flat patient assessment. The portrait was added to the physical
+ledger's source anchors; it does not fix her height.
+
+No chapter prose or generated Royal Road HTML changed.
+
+---
+
+## 2026-08-20 — Mistress Janice height fixed and calibration plate generated
+
+**Author's visual ruling:** Mistress Janice stands **5′4″ / 163 cm**. Updated her character sheet and the
+series physical-continuity ledger, then generated and archived `Character Art/Mistress Janice - Height
+Calibration - Photorealistic.png` from the common empty fitting-room master and her approved identity
+portrait. She stands neutrally in flat shoes with both heels on the brass baseline and her crown at the
+fourth one-inch tick above five feet.
+
+No chapter prose or generated Royal Road HTML changed.
+
+---
+
+## 2026-08-20 — Kalden's accession fixed at fifteen; age fixed at 35 in Book 1
+
+**Author's ruling:** Kalden Erulius was born around 1009 BR. His father ruled the stable pre-Rending
+principality and died after an illness a few months before the Rending. The Erulian High Council
+confirmed the fifteen-year-old Kalden as prince without appointing a regent; he inherited experienced
+ministers, functioning institutions and a realm whose first demand was simply that he not damage it.
+
+The Rending turned old Erulian family lore into possibility. On learning that the emperor and empress were
+presumed dead, no known heir had been found and Kaha'an was in disarray, Kalden searched the archives and
+reconstructed the exact third-cousin-twice-removed Valanar connection. The decision is now explicitly rooted
+in his youth: a more experienced ruler might have treated the discovery as an uncertain legal project; the
+brash new prince read it as destiny and the chance to carve his name into history.
+
+Kalden is therefore **35 at the series opening**, approximately 36 in Book 3 and approximately 55 in Book
+7. The stable state he inherited remains his father's achievement. Kalden's subsequent competence remains
+real: across the next twenty years he learned to govern, improved the inherited machinery and built the
+functional institutions that made his claim credible.
+
+Corrected the two distinct downstream clocks: Kalden's imperial self-narrative lasts about forty years by
+Book 7, while his invented grievance against Xion lasts nearly twenty. The old thirty-year wording for both
+has been superseded.
+
+**Files changed for this ruling:** `People/Kalden Erulius.md`, `People/Basic Physical Characteristics.md`,
+`Places/The Erulian Principality/The Erulian Principality_ The Almost-Heirs.md`, `Story Timeline.md`,
+`Global Historical Timeline.md`, `Offstage.md`, `Book 7 - Last Debts/book7_outline.md`,
+`elvandar_series_outline.md`, and both editorial records.
+
+No chapter prose, beat draft or generated Royal Road HTML changed.
+
+---
+
+## 2026-08-21 — Kalden's original legal campaign fixed as viable and winning
+
+Revised `People/Kalden Erulius.md` without changing its structure or paradigm stack to make the chronology
+of Kalden's imperial project explicit. At fifteen he discovers that a route exists and listens when his
+ministers explain why the blood claim cannot carry him by itself. In his twenties the claim stops sounding
+ridiculous; around thirty Erulius becomes a serious candidate; at thirty-five, immediately before Elara's
+return, twenty years of functional state-building, diplomatic work, Kaha'an pressure and imperial
+credentialing have given him a phenomenal chance of eventually reopening and winning the deferred
+succession. The line that he can *taste* the throne now belongs to that mature Kalden, not the boy at the
+start of the project.
+
+Corrected the genealogy throughout the live canon summaries. The first Lord Erulius was the reigning
+Valanar emperor's **third cousin twice removed, on the emperor's mother's side, through a distant shared
+ancestor**. House Erulius is not descended from a Valanar cadet branch. The original ceremonial princely
+title and remote frontier principality were a polite exile for an unbearable but genuinely related lord;
+modern family memory retained only the vague fact of blood kinship until Kalden reconstructed the records
+after the Rending. This clarification updates `Story Timeline.md`, `Global Historical Timeline.md`, and the
+working ruling in `Series Review - Master List.md`; the earlier changelog's shorthand “Valanar connection”
+is superseded by this exact relationship.
+
+Rebalanced the Secessionist Fringe as an imperfect but effective normalization campaign rather than proof
+of futility; preserved credentialing as rational politics before Elara and marked its later transition into
+self-mythologizing and symbolic fixation. Fixed the Book 2 assassination analysis so the primary wound is
+Merchant, with Founder language serving as Kalden's dignified self-narration. Preserved the Book 3 marriage
+proposal as self-serving but genuinely strong geopolitics, with Elara's rejection turning a political
+grievance personal and making Xion useful as rival and scapegoat.
+
+The sheet now holds the full distinction between bad luck and injustice. Elara's return destroys a winning
+project but steals nothing from Kalden; the law and wards function correctly. The two messenger events now
+mirror one another — public tragedy creates his private possibility at fifteen, public hope creates his
+private catastrophe at thirty-five — while every later escalation belongs increasingly to consequence.
+Kalden's early competence is part of the tragedy: the abilities that made the original campaign credible
+give his later refusal to update continental reach.
+
+Corrected the authoritative Coterie account in `Offstage.md` as part of the same pass. Its former heading
+said the Kaha'an campaign had “failed” twenty years before the armies and treated the political network as
+having routed uselessly around the Coterie. The revised account preserves the network's marginal base, lack
+of direct leverage over Rosik, Tania and Sa Ko, and overdeveloped coercive half as genuine weaknesses, while
+recording the successful work it did: normalizing Kalden, generating pressure and changing the political
+cost of leaving the succession unresolved.
+
+**Files changed for this ruling:** `People/Kalden Erulius.md`, `Offstage.md`, `Story Timeline.md`,
+`Global Historical Timeline.md`, and both editorial records.
+
+No chapter prose, beat draft or generated Royal Road HTML changed.
+
+---
+
+## 2026-08-21 — Kalden fixed at 5′11″ and added to the calibration set
+
+**Author's visual ruling:** Kalden Erulius stands **5′11″ / 180 cm** at the series opening. He is neither
+notably short nor notably tall; his height is not part of his characterization or the source of a
+Napoleonic visual joke.
+
+Updated `People/Kalden Erulius.md` and `People/Basic Physical Characteristics.md`, then generated and
+archived `Character Art/Kalden Erulius - Height Calibration - Photorealistic.png`. The final plate uses the
+approved mirror portrait as the identity reference and Xion's existing 5′11″ plate as the technical edit
+target, preserving the common room, heel line and crown height. An initial generation that overshot the
+scale was rejected and was not added to the project.
+
+No chapter prose, beat draft or generated Royal Road HTML changed.
+
+---
+
+## 2026-08-21 — Commoners lose their second names; *Fen* is a trade, not a surname
+
+**Author's ruling.** In Balisha a second name is a **grant** — conferred by a throne, on a family, for
+service or for money — so nobles carry one and **commoners carry a single name**. The full rule, its scope
+and its two named exceptions are now in `Places/Languages of Elvandar.md` → **Who Gets a Second Name**,
+which is authoritative.
+
+**The books were already written this way.** Every commoner in `Names.md` — *Cullen, Korvin, Jorik, Varris,
+Vex, Rykan, Sela, Deshan, Deshi, Old Taren, Grandmother Shira, Brennek, Ormuth, Lira, Garrin* — already goes
+by one name, and `Names.md` had argued the point explicitly for Garrin a week earlier without noticing it
+was a rule. The rule was reverse-engineered from the practice. **Three characters were the exceptions and
+all three are resolved below.**
+
+**Prose changed — four lines, all Book 1.** Nothing in Books 2 or 3 was touched.
+
+- **ch1.** `"Tam Corris!"` → `"Tam! Boy called Tam!"` The enforcer is reading a debt writ into a crowded
+  square, and a writ that cannot name a boy has to shout twice to find him.
+- **ch12.** `"His name is Tam. Tam Corris. He came to you maybe two weeks ago…"` → **deletion only.** The
+  mother's next clause already identifies him by the wound Xion closed, which is how a byname actually
+  works; the doubled formal name was doing nothing the sentence after it wasn't doing better.
+- **ch13.** Janice: `"It's the Corris family"` → `"It's Tam's whole family."` Preserves her widening — one
+  man, one family, every name in the book — and names the boy the reader watched get taken.
+- **ch15.** `"Arlo Berakailen"` → `"Arlo"`, matching Cullen, Korvin and Jorik.
+
+**Ronas Dermir keeps his, and it is now an act rather than a fact.** *Dermir* is a house name on a man
+entitled to none. He took it the way he took **Slaver King** — his sheet's *"The title was not granted by
+anyone… He declared it, and then he enforced the declaration by being who he was"* now covers both, and the
+name is the earlier one. Paragraph added to `People/Ronas Dermir.md`. **B1 ch18 needed no change and is the
+best evidence in the book:** *"Got yourself a name off it"* is literal, and the only two men in Kaha'an who
+took their names off the work are in that room.
+
+**Farleen Darfi keeps hers and is not an exception.** She is a noblewoman of a lesser house (`People/Farleen
+Darfi.md`), and House Darfi was *bought* inside the last twenty years — which is the rule's own best
+illustration and the reason old blood despises them. **Kael Issamil** (minor Iron clan), **the Larannases**,
+**Vesk** (only ever *Vesk* on the page) and **Kess Ashwood** (*Ashwood* is a timber wolf **clan**, not a
+house) are all unaffected.
+
+**Bittek Sarn → Bittek.** A Slaver lieutenant has no house to be named for. Zero prose — Book 6 is unwritten
+— so this was 48 mentions across five documents plus a file rename to `People/Bittek.md`. Two consequences
+recorded in `Names.md`: **S returns to Book 6**, and the whole cleared near-collision against B1's *"Lady
+Sarif"* is void. **The weight contrast the pair was built for improved:** one name each is a cleaner
+comparison than the toad carrying more name than the competent man he kills.
+
+### *Fen* was never a surname, and this is the load-bearing half
+
+**It is the common Kaha'ani word for herb-work.** *Mira Fen* is *Mira the herb-woman*, so **"Master Fen" was
+never a name — it was a job**, which is what made it the most anonymous thing a hunted man could hide behind.
+Glossed in the language guide.
+
+**No prose changed, and two existing lines got better without being touched.** B1 ch18's *"Got yourself a
+name off it"* (above), and **B3 ch1's undersecretary spelling it back — *"F, e, n"*** — a clerk who knows the
+word perfectly well and has simply never had to write it in the column where houses go.
+
+**What B3 ch1 now means.** Xion does not swap one house for another; he asks the crown to enter **a common
+noun where a house name goes**. A dead servant's trade, in the imperial record, because the First Counselor
+asked. Nobody in the room can read it. Elara can. Gloss updated in `book3_chapter_skeleton.md`, the ch1 and
+ch20 beat-draft footers, and `People/Xion Kemvimore.md`.
+
+**Melina's route to Mira gets harder in the right direction.** You cannot look up *Fen* any more than you can
+look up *smith*, and there were other Fens — so there is no record to search and the route is servants,
+witnesses and twenty-year-old estate business, which is what her sheet always said it was. Her sheet and
+`Master List` §Melina updated: *"whose surname that was"* → *"whose name that was."*
+
+**One permanent consequence:** *Fen* is not a family. No Fen line, no Fen cousin, ever.
+
+**Also registered, found during the sweep:** **Harkin Vess** and **Sera Quillin**, both spoken at B1 ch10's
+masquerade and both missing from `Names.md` entirely. Added. Both are nobles and the rule does not touch
+them — but *Vess* against *Vesk* is a one-consonant near-collision inside a single book, so it was flagged rather
+than fixed unasked — and **ruled not a problem by the author the same day.** See the entry below.
+
+**Royal Road regenerated** for the four Book 1 chapters.
+
+---
+
+## 2026-08-21 — N-1 closed: a name collision needs weight on both sides
+
+**Raised and closed the same day.** *Harkin Vess* against *Tarren Vesk* was flagged during the naming-rule
+sweep, on the grounds that they differ in one consonant's coda — the same fault that forced *Vrek →
+Draskin*. **Author's ruling: not a problem, no rename.**
+
+**The reasoning, which is the reusable part.** `Names.md` cleared *Lyra / Lira* on **co-occurrence**, and
+that test is necessary but not sufficient. **The missing axis is weight.** *Vrek → Draskin* was correct
+because the Scholar-King of Uratha and the commander of the Arol Batae both recur across multiple books and
+are said aloud constantly. **Harkin Vess exists in one clause of one chapter** — B1 ch10, Xion naming two
+masked guests for Elara — and in no beat draft, skeleton, outline or sheet anywhere in the series. *Sera
+Quillin* is named in the same sentence and is the same. A character with a few lines in one chapter does not
+get renamed.
+
+**The register entries stand, for the opposite reason to the one that found them.** Both were missing from
+`Names.md` entirely; the risk was never reader confusion but re-coinage — *Harkin Vess* being spent a second
+time, later, on somebody who matters. That is what the rows are for.
+
+**No prose changed.** Recorded in `Names.md` (replacing the live-hazard note) and in `Master List` §6.
+Removed from §3, which is work rather than history.
+
+---
+
+## 2026-08-21 — Character-art archive reorganized and indexed
+
+**Replaced the flat `Character Art/` directory with a purpose-led visual archive.** The forty-four raster
+assets present at migration were all preserved and given descriptive names under four top-level uses:
+`Reference Models/`, `Scenes/`, `Alternate Universes/`, and `Drafts/`. Reference models are further divided
+into height-calibration plates, approved photorealistic solos, illustrated models, and group references.
+The first Kalden mirror generation remains under `Drafts/` as the explicitly superseded facing-camera
+variant; the approved mirror-facing portrait and calibration plate remain approved reference models.
+
+**Added `Character Art/README.md` as the tracked visual index.** It links every raster asset, records canon
+status and age where necessary, and fixes the reuse hierarchy for future generations: the common armorer's
+height-calibration plates are the primary “T-pose” models; photorealistic solos and group plates supplement
+facial detail and relative scale; scene art is not a default identity model; alternate-universe art is
+non-canon. `People/Basic Physical Characteristics.md`, `Master List` §6, and `CLAUDE.md` now point to the new
+structure. The raster paths in Backblaze B2 mirror the local archive; old flat remote paths were removed
+only after the new paths had been uploaded and verified, and remain recoverable through B2 versioning.
+
+**No prose, beat draft, skeleton, character sheet, or Royal Road HTML changed.** This is an asset-management
+migration only.

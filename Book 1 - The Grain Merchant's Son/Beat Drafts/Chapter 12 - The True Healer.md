@@ -27,7 +27,7 @@
 
 9. Tam's parents. A woman worn with worry and sleepless nights, and a man who looks a decade older than he should. She asks for help about their son. Xion has his professional smile ready and something about them feels familiar before he understands why.
 
-10. She gives the name — Tam Corris — and the details land like a physical blow: he came maybe two weeks ago with a bad cut on his hand, Master Fen treated him, charged nothing, told him to rest. Xion's throat goes dry and behind him he hears Elara's sharp intake of breath. Neither of them says what they both know.
+10. She gives the name — Tam — and the details land like a physical blow: he came maybe two weeks ago with a bad cut on his hand, Master Fen treated him, charged nothing, told him to rest. Xion's throat goes dry and behind him he hears Elara's sharp intake of breath. Neither of them says what they both know.
 
 11. The mother tells it: the Slavers took him right after he left here, claiming debts including medical fees Master Fen never charged. They have not seen him since. The father speaks for the first time to say they have asked around, and someone told them the boy was sent to the Warrens, to the scavenging operations.
 

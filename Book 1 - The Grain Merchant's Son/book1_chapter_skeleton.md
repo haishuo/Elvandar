@@ -24,7 +24,7 @@ impossible, is disbelieved, is proved right, and pays for it.*
 
 ### Chapter 1: The Healer's Hands
 **Timeline: Day 1. Dawn through dusk.**
-**Characters present: Xion, Mistress Janice, Tam Corris, Elara (unrecognised), Slaver enforcers**
+**Characters present: Xion, Mistress Janice, Tam, Elara (unrecognised), Slaver enforcers**
 **Emotional work: Establish the man by his hands and his blindness in the same chapter**
 
 Morning in the back room behind Janice's weaver's shop. Xion grinds verbana, works through a
@@ -361,7 +361,7 @@ here as pure risk assessment.
 
 ### Chapter 15: Questions and Answers
 **Timeline: Day 16. Morning into midday.**
-**Characters present: Xion, Elara, Farleen, Korvin, a vendor, a Slaver enforcer, Arlo Berakailen**
+**Characters present: Xion, Elara, Farleen, Korvin, a vendor, a Slaver enforcer, Arlo**
 **Emotional work: Master Fen turns out to be worth something down here, and Elara finds that unbearable**
 
 Doors open that should not. A vendor Xion stitched up six months ago pretends to sell him food while

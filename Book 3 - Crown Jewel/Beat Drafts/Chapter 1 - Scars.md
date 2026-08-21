@@ -55,7 +55,7 @@
 
     *(Eight years, not five. `Story Timeline.md` locks it from B1 ch11 — "Eight years. Since I was fifteen" — and this draft carried the superseded figure until 2026-08-01. Five is the reform group's number, not the clinic's.)*
 
-    Now, given the choice of what to be called when no disguise is needed, he chooses her. Kemvimore is his father's name, and his father is a man who publicly declared him no son. Fen is the name of the woman who taught him what he actually became. Choosing it is not a dramatic gesture. It is a preference, stated quietly.
+    Now, given the choice of what to be called when no disguise is needed, he chooses her. Kemvimore is his father's name, and his father is a man who publicly declared him no son. Fen is the name of the woman who taught him what he actually became — and it is not a house name at all but the common word for herb-work, which is why the undersecretary has to spell it back at him. He is asking the crown to write a trade where a house goes. Choosing it is not a dramatic gesture. It is a preference, stated quietly.
 
 21. Elara knows exactly who Mira Fen was. She has heard the story — she knows what it cost, what it meant, why it matters that he is choosing this name over the name that just generated a procedural objection in a room full of political actors. She does not say anything. Neither does Xion. The moment passes into the record, and the session ends.
 

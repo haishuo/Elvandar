@@ -183,7 +183,7 @@ Taking refuge at his clinic, Xion finally revealed his deepest secret: he IS Mas
 
 When cartel forces closed in on the clinic, Farleen returned with warning and a path to escape — down into the Warrens. The underground city of 60,000 became both refuge and proving ground. Elara's combat skills drew attention. Xion's reputation as Master Fen opened unexpected doors — including with Ronas Dermir himself, whose own crew used Fen's services.
 
-They hunted for Tam through the Warrens' dangerous levels, trading favors with information broker Arlo Berakailen, attempting a failed extraction, and ultimately being summoned before Ronas. The Slaver King's pragmatism saved them: killing Master Fen would turn his own people against him, and killing the Grain cartel heir would mean war with Rosik. He released Tam to them and ordered them out.
+They hunted for Tam through the Warrens' dangerous levels, trading favors with information broker Arlo, attempting a failed extraction, and ultimately being summoned before Ronas. The Slaver King's pragmatism saved them: killing Master Fen would turn his own people against him, and killing the Grain cartel heir would mean war with Rosik. He released Tam to them and ordered them out.
 
 But Elara was pulled by a mysterious force into Long Knife territory, navigating impossible passages in a trance, leading them to a massive brass door and the Spirit's Reflection — a divine artifact that tested her worthiness for the throne. She passed. Xion carried the fever-stricken Tam through the ordeal and back to the surface.
 
@@ -285,7 +285,7 @@ She formally names him **First Counselor to the Crown** — the first formal tit
 
 Separately from the appointment — not required, not ceremonial, not announced — Xion states quietly in the margins of the administrative record: *"If the records are being updated, I'd prefer Xion Fen."*
 
-"Fen" is Mira Fen's name. The estate apothecary who taught him to heal. Who was executed by Rosik. Whose name he carried forward for eight years as Master Fen. Choosing "Fen" as his family name is choosing the woman who taught him compassion over the man who taught him cruelty — the healer over the Grain Lord, the clinic over the cartel. It is quiet, marginal, stated the way you state a filing preference. The room doesn't know who Mira Fen was. Elara does. Neither says anything. The moment passes.
+"Fen" is Mira Fen's name. The estate apothecary who taught him to heal. Who was executed by Rosik. Whose name he carried forward for eight years as Master Fen. "Fen" is not a house name and never was — it is the common Kaha'ani word for herb-work, so *Mira Fen* is *Mira the herb-woman* and *Master Fen* was always a job rather than a name. What he asks the crown to enter is therefore **a common noun in the column where houses go**: a dead servant's trade, in the imperial record, because the First Counselor asked. He is not swapping houses. He is putting her in the book. Choosing it is choosing the woman who taught him compassion over the man who taught him cruelty — the healer over the Grain Lord, the clinic over the cartel. It is quiet, marginal, stated the way you state a filing preference. The room doesn't know who Mira Fen was. Elara does. Neither says anything. The moment passes.
 
 He is Xion Fen through the first half of Book 3. He takes the Valanar name at marriage to Elara later in the same book.
 

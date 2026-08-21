@@ -415,7 +415,7 @@ Then, in order: **(1)** Melina, holding the city, gets a field report so fast an
 
 **Tiberian does not know about Mira, and never will.** Xion does not volunteer it, in any book. **Elara will not repeat it** — she understands what it cost him to say it once, and she takes it to the grave; see her guardrail in [§5](#5-character-guardrails).
 
-**Melina works it out.** Nobody tells her; she is Truth Seeker primary with a lifetime of mapping gaps, and **the evidence is the alias.** Her father spent eight years publicly calling himself *Master Fen*, and a daughter patient enough to ask whose surname that was has a trail at the other end: Rosik executed a servant in front of witnesses, and B1 ch22 has Xion learning the details *"in pieces, from people who'd been standing in the room."* Some of them are alive twenty years later. The memorial was hidden in plain sight for two decades and one person read it.
+**Melina works it out.** Nobody tells her; she is Truth Seeker primary with a lifetime of mapping gaps, and **the evidence is the alias.** Her father spent eight years publicly calling himself *Master Fen*, and a daughter patient enough to ask whose name that was has a trail at the other end: Rosik executed a servant in front of witnesses, and B1 ch22 has Xion learning the details *"in pieces, from people who'd been standing in the room."* Some of them are alive twenty years later. The memorial was hidden in plain sight for two decades and one person read it.
 
 **Cap what she gets, because the cap is doing work.** She can reconstruct an apothecary named Mira Fen, at the Kemvimore estate, executed by Rosik around the time her father was fifteen. She does **not** have the east hall, the two words, the flower and the note — and above all she does not know that **Xion was standing there and said nothing.** She knows there is a wound; she does not know its shape, and she knows that she doesn't. **Only Elara has the whole of it, because only Elara got it from him.** So Melina could not correct her brother even if she chose to.
 
@@ -545,6 +545,9 @@ Resolved items and their closing evidence live in [§6](#6-settled-rulings), so 
 
 **None outstanding.** Every continuity error found in Books 1 and 2 has been fixed (see the changelog).
 
+**N-1 was opened and closed on 2026-08-21** — *Harkin Vess* against *Tarren Vesk*. Ruled not a problem by the
+author the same day; see §6, **A name collision needs weight on both sides**. Do not re-raise it.
+
 The last item closed here was not an error in the prose but an error in the sheets — B2 ch7's
 *"Twenty-six years old and still the family's smile"*, briefly changed to thirty and then reverted,
 because the prose was right and the sheet was wrong. **Melina's age is fixed by B2 ch7 and by nothing
@@ -580,7 +583,7 @@ now a settled ruling; see [§6](#6-settled-rulings).
 ### Book 6 — in draft
 
 **B6-1 is closed.** Both open questions were ruled on 2026-08-14 — see [§6](#6-settled-rulings). Book 6's
-design work has nothing outstanding; `book6_outline.md` holds the structure and `People/Bittek Sarn.md` holds
+design work has nothing outstanding; `book6_outline.md` holds the structure and `People/Bittek.md` holds
 the character.
 
 **B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
@@ -760,6 +763,85 @@ line is **live chess imagery applied to a person**, not chess etymology.
 ## 6. Settled rulings
 
 Decided. Retained so they are not reopened or re-flagged.
+
+### A name collision needs weight on both sides — author's ruling, 2026-08-21
+
+**Two axes, not one, and the register only had the first one written down.** `Names.md` clears *Lyra / Lira*
+on **co-occurrence** — *"they never share a book, a scene or a sentence."* That test is necessary and it is
+not sufficient, because it says nothing about how often either name is actually said.
+
+**The second axis is weight.** ***Vrek → Draskin* was a real problem** because the Scholar-King of Uratha and
+the commander of the Arol Batae are both major supporting characters who recur across multiple books and are
+spoken aloud constantly. ***Vess* against *Vesk* is not**, and was closed the day it was raised: **Harkin
+Vess exists in one clause of one chapter of one book** — B1 ch10, where Xion names two masked guests for
+Elara — and appears in no beat draft, skeleton, outline or sheet. *Sera Quillin*, named in the same sentence,
+is the same. **A character who gets a few lines in one chapter does not get renamed to protect a name nobody
+will carry out of the room.**
+
+**Both are in `Names.md` now anyway**, which is the actual remedy: they were missing from the register
+entirely, so the risk was never that a reader would confuse Vess with Vesk — it was that someone would later
+coin *Harkin Vess* a second time, for somebody else. The register exists to stop duplicates, and a walk-on
+occupying a row costs nothing.
+
+**Applying this:** before flagging a near-collision, count the mentions on the *quieter* side. One scene and
+no downstream documents means it is furniture, and furniture does not collide.
+
+### A second name is a grant — commoners have one name — author's ruling, 2026-08-21
+
+**`Places/Languages of Elvandar.md` → *Who Gets a Second Name* is authoritative.** In Balisha a house name is
+conferred by a throne; nobles carry one and **commoners carry a single name**. Read the rule there before
+coining anyone, and read `Names.md` beside it as always.
+
+**It is a Balishan custom, not a law of the world.** Erulian retainers and commoners are Erulian in both
+halves and keep theirs; Gunastran, Uratha, Terinok, the Far East and bakarn Silaris keep their own customs —
+*Perrin Halmore* is a bakarn dockworker and keeps her name. **Clan names are a different category** and
+*Ashwood* is one, so Kess is unaffected. **Bought houses are still houses:** Farleen is a noblewoman of a
+house her father bought, and that is the rule illustrating itself rather than an exception to it.
+
+**The books were already doing this** — every commoner in `Names.md` already went by one name, and the file
+had argued the point for Garrin a week earlier without noticing it was a rule. Three exceptions existed and
+all three are resolved: **Tam** and **Arlo** lost their surnames (four prose lines, all Book 1), **Bittek**
+lost his before a word of Book 6 was written, and **Ronas Dermir** keeps *Dermir* because he took it, the
+same act as taking *Slaver King* and the earlier of the two.
+
+**The load-bearing half is *Fen*, and it is not a surname.** It is the common word for herb-work — *Mira Fen*
+is *Mira the herb-woman*, and *Master Fen* was always a job rather than a name. **No prose changed for it**;
+two existing lines simply became literal (B1 ch18's *"Got yourself a name off it"*, B3 ch1's undersecretary
+spelling *"F, e, n"*), and B3 ch1 is now a man asking the crown to enter a common noun where a house name
+goes. **Consequences that bind:** *Fen* is not a family and never can be; and Melina's route to Mira runs
+through people rather than records, because a trade-word cannot be looked up.
+
+Full application in the changelog, 2026-08-21.
+
+### Physical canon lives in one visual continuity ledger — author's ruling, 2026-08-20
+
+`People/Basic Physical Characteristics.md` is the single source for recurring visual facts: reference age,
+height, build, hair, eyes, complexion, identifying marks, and explicitly approved inheritance decisions.
+Individual sheets and prose remain the evidence beneath it; old art is not allowed to fill an unspecified
+field by accident. The ledger marks author rulings, textual facts, sheet-only statements, and genuinely
+unset traits separately.
+
+**The calibration system is fixed, and its first six numerical heights are now canon.** Each technical
+plate uses the same armorer's fitting frame, floor line, camera, lens, subject distance, neutral posture, and
+flat-soled footwear. The written height remains authoritative over apparent image scale. Identity portraits
+and narrative scenes stay separate from these deliberately plain measurement plates.
+
+**Author's ruling, 2026-08-20:** Xion and Elara are each 5′11″ / 180 cm; Farleen is 5′7″ / 170 cm; Rosik is
+6′1″ / 185 cm in Book 1; at sixteen, Tiberian is 5′10″ / 178 cm and Melina Valanar is 5′8″ / 173 cm. Sa Ko
+Ren remains textually tall without an exact number. Adolescent measurements attach to age and are not
+silently carried into adulthood.
+
+**Janice correction and visual ruling, 2026-08-20:** Book 3 explicitly makes Janice sixty-one; the old
+ledger and sheet claims that her age was unset were stale. Her rejected failing-sight concept is purged from
+the remaining sheet analysis: her sight is normal. Her approved identity design is compact, sturdy, and
+vigorous, with a strong slightly square face, prominent cheekbones, a firm mouth, dark hair substantially
+iron-grey in a plain braided coil, clear hazel eyes, a medium olive complexion, and capable work-worn
+artisan's hands.
+
+**Janice height ruling, 2026-08-20:** Janice stands **5′4″ / 163 cm**. Her identity portrait and technical
+plate are archived separately under `Character Art/Reference Models/Photorealistic/` and
+`Character Art/Reference Models/Height Calibration/`; the plate uses the common armorer's fitting frame,
+flat shoes, heel baseline, and neutral posture.
 
 ### Elara and Xion have no canon height relation — **AUTHOR'S RULING 2026-08-20**
 
@@ -1588,12 +1670,12 @@ chair"* and a separate male chair in beats 4 and 15 — all residue from before 
 from the table and her chairing made part of the difficulty rather than a contradiction of it. *Do not
 reintroduce a second chair, and do not restore Torkal.*
 
-### Sarn gets a sheet after all — and the test for who does is not book-span — 2026-08-14
+### Bittek gets a sheet after all — and the test for who does is not book-span — 2026-08-14
 
-**`People/Bittek Sarn.md` exists. I argued against it twice and was wrong twice, on the same underlying
+**`People/Bittek.md` exists. I argued against it twice and was wrong twice, on the same underlying
 error.** The author's argument decided it and is worth preserving in his own terms.
 
-**The reasoning I gave was that "sheets exist to stop drift *between books*" and Sarn appears in one.** That
+**The reasoning I gave was that "sheets exist to stop drift *between books*" and Bittek appears in one.** That
 sentence is in `CLAUDE.md`, and it is a statement of **what guardrails do**, not a rule about who qualifies
 for a file. **I turned a purpose statement into an eligibility criterion** — which is precisely the error
 recorded two entries below about villains and greyness, and the one `CLAUDE.md` §3 already documents about
@@ -1634,7 +1716,7 @@ you can actually notice while working — which is what caught this one.
 **One refinement recorded with it: the leak is originating, not referencing.** A beat draft citing an
 established stack to justify a beat is correct and expected. The failure is a planning document being the
 **only** place a character's characterization exists. **Swept the same day: nine planning documents across
-Books 1, 2, 3, 6 and 7 reference paradigm stacks, and every one was pointing at a sheet.** Sarn was the sole
+Books 1, 2, 3, 6 and 7 reference paradigm stacks, and every one was pointing at a sheet.** Bittek was the sole
 anomaly, and only because there was no sheet to point at.
 
 **What moved and what stayed.** The outline keeps the two architectural rules — *specimen never source* and
@@ -1644,27 +1726,27 @@ says so: padding it would be the first symptom of the drift its own first guardr
 
 ---
 
-### B6-1 CLOSED — Garrin named, and Sarn's Book 2 position settled — 2026-08-14
+### B6-1 CLOSED — Garrin named, and Bittek's Book 2 position settled — 2026-08-14
 
 **The capable lieutenant is *Garrin*, one name.** Warrens figures in `Names.md` overwhelmingly carry a single
 name, and the closest analogue is exact: *Cullen* is Ronas's other named lieutenant. Coinage note in
 `Names.md`, including why *Corran* — the better-sounding candidate — was disqualified **on sound rather than
 spelling**, since a hard /k/ onset would have been the fourth in a book already carrying Kess, Kai and Kael.
 
-**And Sarn was present in Book 2 but not among the lieutenants who ran wild.** *(The outline's "twenty years"
+**And Bittek was present in Book 2 but not among the lieutenants who ran wild.** *(The outline's "twenty years"
 already committed him to being in the organisation; this settles what he did.)*
 
 **The reason the alternative was dropped is worth keeping, because it was offered as an upside and wasn't
-one.** Making Sarn one of the wild ones was floated as a payoff — Melina Kemvimore's *"they're not like him,
+one.** Making Bittek one of the wild ones was floated as a payoff — Melina Kemvimore's *"they're not like him,
 they're worse"* turning out to be partly about him. **That payoff cannot exist.** It requires the reader to
 recognise someone, and **Book 2's prose never individuates a single one of Ronas's lieutenants** — they are a
 pure category, verified by search. There is nobody there to recognise, so the "connection" would have been a
 fact with no reader-facing surface at all: exactly the trivia `Offstage.md`'s third test is designed to
 reject.
 
-**What replaced it is better and is the opposite of it.** Sarn's only governor is fear of the man who
+**What replaced it is better and is the opposite of it.** Bittek's only governor is fear of the man who
 punishes him, and in Book 2 **Ronas was still standing** — and demonstrated it by executing the lieutenant
-who murdered Melina Kemvimore, immediately, to re-establish control. So Sarn stayed in line, and **the one
+who murdered Melina Kemvimore, immediately, to re-establish control. So Bittek stayed in line, and **the one
 who stayed in line is the one who spent twenty years storing it up.** This supplies the *specific* execution
 behind the author's own formulation that his restraint comes from having "literally seen it happen to other
 lieutenants" — Book 2 already had the instance, so Book 6 does not invent one.
@@ -1678,7 +1760,7 @@ changes nothing, it is trivia and goes nowhere.
 
 ### There is no rule requiring villains to be grey — and one was invented and then excepted from — 2026-08-14
 
-**A guardrail written for Book 6's Bittek Sarn called him "a deliberate exception to the series'
+**A guardrail written for Book 6's Bittek called him "a deliberate exception to the series'
 characterization standard." No such standard exists.** A search of the entire repository for any rule
 requiring an antagonist to be sympathetic, morally grey, or possessed of redeeming features returns nothing.
 The author challenged the claim directly — *"where is it written?"* — and the answer was nowhere.
@@ -1695,12 +1777,12 @@ character," and records that it cost a full exchange over Melina Valanar. The sa
 rather than a stack produces the same result. **Descriptions of the corpus are not rules governing it**, and
 the tell is identical in both cases: a constraint that cannot be quoted from any file.
 
-**The framework provides for characters like Sarn rather than tolerating them.** `The Seven Paradigms.md`
+**The framework provides for characters like Bittek rather than tolerating them.** `The Seven Paradigms.md`
 carries the Joffrey Baratheon Counterpoint as a worked example of the exact type — Merchant primary with
 nothing balancing it, Spirited Competitor near-zero, *"wants the opposition disarmed first"* — presented as a
 legitimate reading of a person. `CLAUDE.md` adds that the stack is for validating decisions rather than
 generating them, that it "is not a straitjacket," and that the test which catches a rule 2 violation is
-**does the text charge them for it**. Sarn never acts against his stack, so the test barely engages.
+**does the text charge them for it**. Bittek never acts against his stack, so the test barely engages.
 
 **The guardrail now reads as a design instruction — *he is complete as designed, do not deepen him later***
 — which is the thing actually worth protecting: a future pass noticing he reads thin beside Rosik, Ronas and
@@ -1818,12 +1900,144 @@ append-only changelog entries predating the rename were left standing, as with t
 
 ---
 
+### The next-generation chronology is compressed to its causal minimum — author's ruling, 2026-08-20
+
+**Tiberian and Melina are sixteen when Book 5 opens, shortly after their birthday.** Book 5 spans several
+months and they remain sixteen throughout. Book 6 follows without a discretionary inter-book gap and spans
+approximately **eighteen months**; the twins enter before or around seventeen and leave at about eighteen.
+Book 7 follows promptly, while they are approximately eighteen, because the accelerating Warrens relocation
+is destroying Rosik's remaining Kaha'an base and gives him no reason to wait.
+
+**Eighteen months is the minimum Book 6 can bear.** The Green Cities already exist — Book 5 funds them as
+food security — so Book 6 is not buying three years of construction. It is buying surveys, conversion and
+staffing, staged food and water, dependency mapping, and transitional order for sixty thousand people. A
+year could still read as responsible speed at that scale. Eighteen months allows the necessary work to be
+real and the final refinements to become indefensible. The delay remains the antagonist; the old three-year
+ruling is superseded.
+
+**The twins are conceived only after the Compact War.** Xion and Elara wait until victory before trying for
+children; the birth occurs roughly nine months later and remains offstage. Book 4 stays entirely Harkim's and
+does not acquire a Valanar-family scene to show it.
+
+**Governing chronology principle:** spend only the time causality requires. Unassigned time remains available
+for later books; no ambient year is inserted merely to make characters look older. Expansion can be added if
+a drafted story eventually requires it. Compression creates larger downstream age and continuity costs.
+
+### Melina Valanar has no pre-series intelligence masterpiece — author's ruling, 2026-08-20
+
+**The Erulian Network Collapse, seventeen turned agents, and the honeypot are deleted, not relocated.** A
+repository-wide check found every reference on Melina's own sheet and nowhere in an outline, timeline,
+offstage account, or chapter. The event was self-referential résumé inflation: it existed to prove the
+competence the sheet asserted and no story depended on it.
+
+**The techniques remain available without the event.** Melina may analyze intelligence, turn an agent, feed
+an adversary a false picture, or build a trap if a later scene actually requires one. None is a named past
+achievement or a preserved future appointment. Her reputation is earned on the page through Silaris, the
+Warrens plan and collapse, and the partial-information decision that catches Rosik in Book 7. Moving the
+operation between Books 6 and 7 was rejected because that interval is deliberately short and Rosik's clock
+requires it to be; preserving an unneeded event there would spend chronology to maintain a résumé.
+
+### Rosik is 44 in Book 1 and approximately 64 in Book 7 — author's ruling, 2026-08-20
+
+**This is the youngest chronology his established life can bear.** Melina Kemvimore is 26 in Book 1, so
+Rosik fathered her at eighteen; he fathered Xion at twenty-one and was twenty-four at the Rending. His first
+life is correspondingly precocious and explicit: raised inside the Long Knives, trained from childhood,
+operational in his early teens, one of their premier killers by sixteen or seventeen, married into House
+Kemvimore by seventeen. Any younger collapses the assassin career, failed Kemvimore assignment, defection,
+manufactured noble identity, marriage and Melina's birth into an interval the characterization cannot carry.
+
+**Book 7 is the reason the old age anchor had to move.** The compressed next-generation chronology places
+the book roughly twenty years after Book 1. Preserving 58 would make Rosik approximately 78, old enough that
+an intelligent former assassin should regard personal infiltration of Kaha'an as fantasy before he begins.
+At approximately 64, still lean, practiced and exceptionally trained, he can honestly judge that a thinned,
+modelled route is within him while also knowing that an alert palace, or four seconds with Kess, is not.
+His plan remains sound. The irrational act is proceeding after Kalden's body collapses the distraction.
+
+**Duration language follows the new anchor.** Book 7's thirty-year network and dormant-skill references are
+now an adult lifetime and most of half a century. Book 2 ch15's prose — a line Rosik had spent thirty years
+never crossing — remains: his operational life began in early adolescence, so the rounded duration still
+holds. No chapter prose changed.
+
+### Kalden inherits at fifteen and is 35 at the series opening — author's ruling, 2026-08-20
+
+**Kalden is born around 1009 BR, succeeds his father at fifteen a few months before the Rending, and is
+thirty-five when Book 1 opens.** His father dies after an illness. The Erulian High Council confirms
+the succession without appointing a regent, and the mature government his father left behind continues the
+ordinary work: experienced ministers, functioning offices, reliable revenues and a state that is already
+stable. Kalden's first task is preservation, not construction.
+
+**The Rending turns inherited trivia into the project of his life.** His father had raised him on the vague
+family story that the founder of House Erulius had been blood kin to a Valanar emperor. When the
+fifteen-year-old hears that the emperor and empress are presumed dead, no heir is known and Kaha'an is in
+disarray, he searches the archives and reconstructs the exact history: the first Lord Erulius was a historic
+Valanar emperor's third cousin twice removed, on the emperor's mother's side, through a distant shared
+ancestor. This is collateral kinship, **not descent from a Valanar cadet branch.** His youth is causal rather
+than incidental: the brash new prince first wants to go to Kaha'an and announce the claim; when his ministers
+explain why that would fail, he listens and asks how they can make it possible.
+
+**Do not transfer either man's work to the other.** The sound pre-Rending state belongs to Kalden's father.
+The real Chancellery, military reforms, diplomatic network, infrastructure and administrative competence
+Kalden develops across the next twenty years belong to Kalden. At the series opening he is not an untested
+boy; he is a thirty-five-year-old ruler who has spent most of his life learning to operate and extend the
+machine he inherited. He is approximately thirty-six in Book 3 and fifty-five in Book 7.
+
+The duration correction has two clocks. Kalden's imperial self-narrative runs from the Rending to Book 7
+and is about **forty years**. His imaginary war with Xion begins only after Elara chooses Xion in Book 3
+and lasts **nearly twenty years**. Old thirty-year wording for either clock is superseded.
+
+**The legal campaign is the good plan, and it is winning when Elara appears.** At fifteen Kalden has found
+only a chance. In his twenties the claim stops sounding ridiculous; around thirty Erulius becomes a serious
+candidate in any reopened succession; at thirty-five, absent a surviving Valanar, he has a phenomenal chance
+of eventually reaching the Ruby Throne and can finally *taste* it. The succession has been deferred rather
+than decided against him. His functional institutions, diplomatic network, imperial credentialing and
+Secessionist Fringe have made his name the unavoidable answer whenever Kaha'an discusses reopening it. The
+faction remains marginal and lacks direct authority over Rosik, Tania or Sa Ko, but that is a limitation of
+an effective campaign, not evidence of twenty years of futility.
+
+**Elara ends that viable route without wronging him.** Her return is catastrophic luck for Kalden and the
+succession system functioning correctly at the same time. The news deliberately mirrors the Rending: at
+fifteen he hears public tragedy and discovers private possibility; at thirty-five a joyful messenger brings
+public hope and Kalden hears private catastrophe. His immediate assassination order is the Merchant wound —
+an acquisition assembled for twenty years has become unavailable — overrunning Engineer patience; Founder
+language is the dignified account he gives himself afterward. The Book 3 marriage proposal is the one
+intelligent recovery: self-serving, geopolitically strong, and plausibly the expected dynastic choice for a
+conventionally raised Elara. Her rejection makes the grievance personal and makes Xion useful as rival and,
+later, scapegoat.
+
+**The delusion is refusal to update, not the original ambition.** Kalden is competent for twenty years and
+his competence improves his odds. Initially rational credentialing becomes self-mythologizing only after
+Elara removes its political purpose; after the Compact War, preserving the symbols while the state collapses
+becomes pure fixation. Elara is the terrible luck. Attempted regicide, war, fiscal collapse, secession and
+the final mercenary effort are increasingly consequence. Reality repeatedly gives Kalden exits, and he
+recodes every exit as persecution. The reader must be able to total the account; Kalden never may.
+
+No chapter prose, beat draft or Royal Road HTML changed. The existing Book 2 chapter about Kalden remains
+fully consistent: its twenty years of patience are precisely the years between his accession and Elara's
+arrival.
+
+**Height and calibration — author's ruling, 2026-08-21.** Kalden stands **5′11″ / 180 cm** at thirty-five,
+the same measured height as Xion and Elara. The choice is conventional rather than symbolic: he is neither
+notably short nor notably tall. His approved early-series identity model has been placed in the common
+armorer's fitting room with flat-soled boots, heels on the brass baseline and crown aligned to the 5′11″
+standard. The written measurement governs over any apparent variation in generative perspective.
+
+**Character-art archive — reorganized 2026-08-21.** The flat image directory is superseded by a purpose-led
+archive under `Character Art/`: approved reference models (height calibration, photorealistic, illustrated,
+and group references), scenes, explicitly non-canon alternate universes, and retained drafts. The tracked
+`Character Art/README.md` is the visual index and establishes the reuse order: calibration plates are the
+primary “T-pose” models; photorealistic solos and group references supplement identity and relative scale;
+scenes are not default model sheets; alternate-universe art never establishes canon. All forty-four raster
+assets present at migration were preserved. Art remains downstream of this physical-characteristics ledger.
+
+---
+
 ## 7. Open questions
 
-**None currently open.** The three items opened on 2026-08-02 were all ruled on the same day and are
-recorded in the changelog: the birthdays are **pinned** (`Story Timeline.md`), the Mistress's relation to
-Xion is **canon and not a thread**, and Book 4 **has no relay**. See [§2](#2-cross-book-threads) and the
-changelog for each.
+**No open questions at present.**
+
+**Previously open items remain closed.** The three items opened on 2026-08-02 were all ruled on the same day
+and are recorded in the changelog: the birthdays are pinned (`Story Timeline.md`), the Mistress's relation
+to Xion is canon and not a thread, and Book 4 has no relay.
 
 **And the 2026-08-05 banking and Brass Door work closed everything it opened, the same day.** Prose: B3 ch1's
 borrowing beat and the customs refusal, ch4's Gunastran answer, ch6's exclusivity clause. Canon rulings in

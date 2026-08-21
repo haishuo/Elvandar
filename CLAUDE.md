@@ -102,6 +102,14 @@ inside the Book 1–3 span.
 *The Balishan Empire* = the historical seven-province extent. The Compact = Gunastran + Erulius
 + Vartonne; the Tripartite Alliance = Balisha + Uratha + Terinok.
 
+**Names are grants, and commoners have one.** In Balisha a second name is conferred by a throne, so
+nobles carry a house name and everyone else carries a single name and a byname when a scene needs one.
+`Places/Languages of Elvandar.md` → **Who Gets a Second Name** is authoritative; read it before coining
+anybody. Two things it settles that get re-derived otherwise: **Ronas took *Dermir* himself**, the same act
+as taking *Slaver King*, and ***Fen* is not a surname** — it is the word for herb-work, so *Master Fen* was
+always a job rather than a name. The rule is **Balishan**; Erulian, Gunastran, Urathan and bakarn customs
+differ, and *Ashwood* is a clan, not a house.
+
 **The Rending** happened ~20 years before Book 1. There is only one. Never reintroduce "First
 Rending" or "Sundering." `Magic/The Rending.md` is authoritative.
 
@@ -413,8 +421,8 @@ planning document being the only place a character's characterization exists.** 
 2026-08-14: nine planning documents across Books 1, 2, 3, 6 and 7 reference paradigm stacks, and
 every one of them was referencing a sheet. Clean.)*
 
-*This entry exists because `People/Bittek Sarn.md` was argued against twice on the grounds that
-"sheets stop drift between books" and Sarn appears in one — which took the line above describing
+*This entry exists because `People/Bittek.md` was argued against twice on the grounds that
+"sheets stop drift between books" and Bittek appears in one — which took the line above describing
 what guardrails **do** and made it a rule about who **qualifies**. The outline then had to absorb a
 stack, a psychology and five behavioural rules, and ended up containing the sentence "this is a
 constraint on how to write his restraint, not a beat" — a line inside a document of beats,
@@ -436,7 +444,7 @@ Magic/               metaphysics, incl. the authoritative The Rending.md
 Templates/           document patterns
 Tools/               royalroad_export.py — regenerates every Royal Road/ folder
                      sync_art.sh — moves images between the repo and Backblaze B2
-Character Art/       UNTRACKED. Lives in B2; on disk here for the Viewer. See below.
+Character Art/       Structured visual archive. README tracked; raster files live in B2. See below.
 Offstage.md                  canon that never got a scene — see below
 Names.md                     the cast register — every named person, Books 1-8; check before coining
 Story Timeline.md            in-series chronology (authoritative on timing)
@@ -462,7 +470,9 @@ the end of any session. Never hand-edit a file under `Royal Road/`; the next run
 **Raster images are not in git. They live in Backblaze B2 — author's ruling, 2026-08-05.**
 The bucket is `haishuo-writing-images`, this project's prefix is `elvandar/`, and paths inside it
 mirror the repository, so a restore is a straight copy back into the repo root. B2 file versioning
-is on, which is what replaces the history git was providing.
+is on, which is what replaces the history git was providing. `Character Art/README.md` is the tracked
+visual index; preserve its purpose-led subfolders and update the index whenever an asset is added, moved,
+approved, or superseded.
 
 ```
 ./Tools/sync_art.sh status     what differs between local and B2 (default)

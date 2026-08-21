@@ -129,6 +129,8 @@ His first move was to succeed his boss. The details have never been confirmed, a
 
 By the end of that period, Ronas Dermir was the only slaver power in the Warrens, and the daily violence had dropped sharply. Not because the Warrens had become safe — it had not — but because the violence was now *organized*. It served a purpose, executed by men in a chain of command, against targets selected for operational reasons. Random brutality had been replaced by systematic enforcement. That was the trade Ronas offered the Warrens, and the Warrens accepted it because the alternative was the anarchy of the first years, and the Warrens had not forgotten what that was like.
 
+He had taken the name first, and by the same method. **Dermir is a house name on a man entitled to none** — in Balisha a second name is conferred by a throne, and no throne ever conferred one on a slaver out of the Slums. He took it, wore it, and dared the city to raise the point; the Coterie seats him at its table under it every season and has never once said the word aloud. Xion has carried a stolen name for eight years and does not know that the man across the Iron Hall from him has carried one for thirty. *(See `Places/Languages of Elvandar.md` → **Who Gets a Second Name**.)*
+
 He styled himself **Slaver King**. The title was not granted by anyone — there was no one to grant it. He declared it, and then he enforced the declaration by being who he was. The name stuck because it was accurate.
 
 ### Forcing the Coterie
