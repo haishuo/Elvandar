@@ -370,7 +370,7 @@ understand, it has become the one thing this series has refused for seven books.
 
 ### Physical Presence
 
-In his early twenties, Xion has outgrown the frailty of his childhood but remains slender rather than imposing. His dark hair is typically worn longer than is fashionable among Balisha nobility, and his features favor his mother, with expressive eyes that betray his emotions too easily for a city built on deception.
+In his early twenties, Xion has outgrown the frailty of his childhood but remains slender rather than imposing. His natural complexion is light warm olive, in the same classical Mediterranean family register as Rosik and Melina; time spent walking the city gives him no more than a faint additional warmth. His dark hair is typically worn longer than is fashionable among Balisha nobility, and his features favor his mother, with expressive eyes that betray his emotions too easily for a city built on deception.
 
 He dresses simply by noble standards, often wearing practical clothing that wouldn't draw attention in the Middle District. His hands show the careful dexterity of someone trained in delicate work — mixing medicines, treating wounds, handling the tools of healing rather than weapons of war. He carries a medical bag everywhere.
 

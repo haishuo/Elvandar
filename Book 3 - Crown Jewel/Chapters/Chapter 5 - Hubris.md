@@ -146,7 +146,7 @@ There were manuscripts, she said, and rather a lot of them, and what one had to 
 
 The theories, she said, were extensive.
 
-Some had it as a passage between worlds, which was popular in the devotional literature and nowhere else. Some had it as a treasury of the Ancients, sealed against looting by mechanisms whose principles were lost — that one recurred in the mercantile sources, she noted, which told you something about who was writing them. There was a persistent tradition, appearing independently in four separate manuscript families, that it was the gate of Lathion, the lost City of Gears, a civilization of such mechanical sophistication that later generations had reasonably concluded it must be an invention.
+Some had it as a passage between worlds, which was popular in the devotional literature and nowhere else. Some had it as a treasury of the Ancients, sealed against looting by mechanisms whose principles were lost — that one recurred in the mercantile sources, she noted, which told you something about who was writing them. There was a persistent tradition, appearing independently in four separate manuscript families, that it was the gate of Hauren, the lost City of Gears, a civilization of such mechanical sophistication that later generations had reasonably concluded it must be an invention.
 
 And there was the underworld reading: that the door opened onto a road by which the dead could be fetched back, if the traveler were sufficiently brave, or sufficiently stupid.
 

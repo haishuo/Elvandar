@@ -311,7 +311,7 @@
 
     <!-- Balishan Desert: label placed below the desert with a leader, since the desert is small -->
     <text x="700" y="600" font-size="14" font-style="italic">Balishan Desert</text>
-    <text x="700" y="615" font-size="9" fill="#5a4a2a">(former Province of Balisha)</text>
+    <text x="700" y="615" font-size="9" fill="#5a4a2a">(former Province of Litrava)</text>
     <text x="518" y="568" font-size="8" fill="#444" font-style="italic">Gray Wastes</text>
 
     <!-- Golden Path label -->

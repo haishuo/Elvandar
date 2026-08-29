@@ -4,13 +4,38 @@
 
 Vartonne stands as the most visible embodiment of the Balishan Empire's faded glory. For over five centuries, it served as the imperial capital, the crown jewel of a continent-spanning power. Its grand boulevards, magnificent palaces, and sprawling imperial bureaucracy once represented the pinnacle of civilization in Elvandar.
 
-The city's founding dates to the early days of Balishan expansion, when Emperor Tiberius I established a permanent capital on the fertile plains. What began as a military encampment grew into an architectural marvel, with successive emperors adding increasingly elaborate constructions to outshine their predecessors. The city expanded in concentric rings, with the Imperial Circle at its heart, surrounded by the Noble Ring, the Ministerial Quarter, the Merchant Districts, and finally the Commons.
+The **imperial city** dates to the founding of the Balishan Empire, when Emperor Valan I Valanar established a
+permanent military and administrative camp at an older river settlement already called Vartonne. He chose
+the place for what had drawn people there long before him: three rivers, fertile plains, defensible water,
+and the capacity to feed and move a population. The camp absorbed the existing town and became the center
+of a planned capital. Successive emperors rebuilt outward in concentric rings — the Imperial Circle at the
+heart, then the Noble Ring, Ministerial Quarter, Merchant Districts, and Commons — until the monumental city
+largely buried the settlement beneath it.
+
+The older name describes that geography. Ancestral Continental *vart* meant a confluence or
+meeting-center; borrowed Late Open *onna* meant an established settlement. **Vartonne** is therefore
+“Settlement at the Confluence,” pronounced **VAR-ton**, /ˈvar.ton/. The familiar “Heart-place” translation
+is the old poetic extension of *vart* as the heart of a network, later reinforced by five centuries as the
+imperial center. The rivers made it a heart before Valan made it a capital.
+
+Imperial histories consequently call Valan I the founder of Vartonne, because the Vartonne they mean is
+the capital they built. The older layer survives in the name, the riverside communities, rural rites and
+sacred groves, and in records the city's official histories prefer to treat as prehistory. When the court
+moved away and the title *Kaha'an* went with it, the old settlement-name was still there to return.
 
 For centuries, Vartonne functioned as both the administrative and cultural center of the empire. The Imperial Academy (before Uratha's ascendance), the Grand Cathedral, the Hall of Records, and countless other institutions of governance and culture operated from magnificent buildings that defined Elvandar's architectural standards.
 
-The decline began approximately two centuries ago when Emperor Varellian IV made the fateful decision to relocate the imperial court to coastal Kaha'an. This move, intended to be temporary—ostensibly to address rising threats from beyond the eastern seas—became permanent as successive emperors found Kaha'an's position more advantageous for trade and defense. While officially described as "the Emperor's seasonal residence," Kaha'an gradually usurped Vartonne's position as the true seat of power.
+The decline began more than five centuries ago when Emperor Varellian IV made the fateful decision to relocate the imperial court to coastal Kaha'an. This move, intended to be temporary—ostensibly to address rising threats from beyond the eastern seas—became permanent as successive emperors found Kaha'an's position more advantageous for trade and defense. While officially described as "the Emperor's seasonal residence," Kaha'an gradually usurped Vartonne's position as the true seat of power.
 
 This transfer of imperial attention triggered a slow but inexorable decline. The most ambitious nobles followed the court to Kaha'an, leaving their Vartonne estates in the care of lesser family members. Key institutions relocated or established branch offices that eventually superseded their parent organizations. Trade routes shifted, investment dwindled, and Vartonne found itself increasingly isolated from the empire's vitality despite remaining its symbolic heart.
+
+The population transfer was selective, and that selection still shapes Vartonne's speech. The household,
+guard, envoys, portable treasury, maritime offices, ambitious noble branches, financiers, and the service
+economy of access moved east. The Hall of Records, land and grain administration, old courts, cathedral
+establishments, hereditary offices, estate managers, and most ordinary residents stayed. Vartonnian
+therefore preserves Early Imperial formulas, verb-final legal structures, and procedural vocabulary most
+strongly in writing and ceremony, while ordinary spoken Vartonnian continues its own western reductions.
+Its claim to linguistic purity is institutionally real without making the living language unchanged.
 
 By the time the empire began its final collapse, Vartonne had already been hollowed out, maintaining the appearance of imperial grandeur while its foundations crumbled. When the final dissolution came, Vartonne's remaining nobles and officials simply continued as before, acting as if nothing had changed—a delusion that has persisted for decades.
 

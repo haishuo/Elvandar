@@ -180,7 +180,9 @@ Minimal direct relationship. Silvanno barely speaks to Elara at the masquerade, 
 
 ### Physical Presence
 
-The text provides remarkably little physical description of Silvanno. He carries himself with "easy confidence." He wears formal clothes at the masquerade and, at the coronation, clothing described as "both dignified and practical." No hair color, eye color, build, height, or facial features are specified. What the text does convey is kinetic energy — he settles into booths, drops wine glasses in shock, punches and embraces, keeps hands on shoulders. He is characterized more through movement and gesture than through static description.
+The prose provides remarkably little static description of Silvanno, but his approved visual design fixes the otherwise open fields. At twenty-three he stands **5′11″ / 180 cm**, lean and trim, with a young oval face, high cheekbones, a straight nose, deep chestnut wavy hair, grey-green eyes, and a light-medium warm olive complexion closely matching his mother Tania's. He is clean-shaven and has no distinctive scars. His register is classical Mediterranean — closer to a young Roman or Italian nobleman than a visual inference drawn from Kaha'an's newly created desert. His formal clothing remains what the coronation prose calls it: "both dignified and practical," with Water-cartel teal used through good cloth and restrained detailing rather than theatrical display.
+
+The more important textual constant is kinetic energy. He carries himself with "easy confidence." He settles into booths, drops wine glasses in shock, punches and embraces, and keeps hands on shoulders. Even in formal clothes at the masquerade or coronation, he is characterized more through movement and gesture than through static presentation.
 
 ### Behavioral Patterns
 

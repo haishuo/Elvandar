@@ -1,6 +1,6 @@
 # Book 6: Necessary Measures — High-Level Outline
 
-**Narrative Engine:** The external crises are resolved — the Compact War won, Silaris stabilized. Now the empire turns inward to the problem it has been avoiding for twenty years: the Warrens. Sixty thousand people living underground in ancient Lathionese infrastructure — systems that have been running for millennia with nobody maintaining them. Everyone now knows exactly what those tunnels are, and it makes no difference at all. They are failing. The water is dying. And the Warrens are hungry — not because a machine broke, but because the Grain cartel was smashed in Book 2 and nobody ever took the chair. The machinery sets the deadline; the empty chair is why people are already dying when the book opens.
+**Narrative Engine:** The external crises are resolved — the Compact War won, Silaris stabilized. Now the empire turns inward to the problem it has been avoiding for twenty years: the Warrens. Sixty thousand people living underground in ancient Haureni infrastructure — systems that have been running for millennia with nobody maintaining them. Everyone now knows exactly what those tunnels are, and it makes no difference at all. They are failing. The water is dying. And the Warrens are hungry — not because a machine broke, but because the Grain cartel was smashed in Book 2 and nobody ever took the chair. The machinery sets the deadline; the empty chair is why people are already dying when the book opens.
 
 **POV:** Tiberian and Melina, continuing from Book 5. This is the book where their partnership matures under the most painful possible conditions.
 
@@ -16,7 +16,7 @@ The series outline states it plainly: Elara and Xion spent twenty years essentia
 
 This is not villainous neglect. It's human nature. The tendency to postpone uncomfortable realities. "We'll address the Warrens... after the trade negotiations... after harvest... after we're sure the technology is stable... after the next council session..." The list of reasons to delay is infinite and each individual reason is valid.
 
-Lathion technology changed the equation. Massive desert reclamation succeeded beyond anyone's expectations. Green cities with proper infrastructure could house the Warrens' entire population in dignity. The resources exist. The technology works. The land is ready.
+Hauren technology changed the equation. Massive desert reclamation succeeded beyond anyone's expectations. Green cities with proper infrastructure could house the Warrens' entire population in dignity. The resources exist. The technology works. The land is ready.
 
 It's not money or technology stopping them. It's the same thing that always stops people from doing the right thing: it's hard, it's disruptive, and tomorrow is always a better day to start.
 
@@ -24,13 +24,13 @@ It's not money or technology stopping them. It's the same thing that always stop
 
 ## THE WARRENS ARE DYING
 
-The Warrens tunnels are ancient Lathionese infrastructure. Not crude refugee housing dug by desperate people. Precision-engineered subterranean systems built by the civilization that created the City of Gears — systems for water filtration, air circulation, structural reinforcement, and environmental maintenance that have been running autonomously for five thousand years.
+The Warrens tunnels are ancient Haureni infrastructure. Not crude refugee housing dug by desperate people. Precision-engineered subterranean systems built by the civilization that created the City of Gears — systems for water filtration, air circulation, structural reinforcement, and environmental maintenance that have been running autonomously for five thousand years.
 
-**Everyone knows this, and it does not help them. That is the point.** The expedition of Book 3 walked down through these tunnels to reach the Brass Door; the empire has spent twenty years building from Lathionese designs; the surveys are done and the origin is not in question. Knowing whose machines these are is simply not the same thing as being able to keep them running, and the gap between those two is the whole crisis. Balisha reverse-engineered *recipes* — it builds new purification and energy systems on the surface, from an incomplete understanding, in workshops it controls. Repairing a five-thousand-year-old integrated system in place, four hundred meters down, with no parts, no manual and no maintainer alive who ever trained on it, is a different capability that the empire does not have and cannot buy.
+**Everyone knows this, and it does not help them. That is the point.** The expedition of Book 3 walked down through these tunnels to reach the Brass Door; the empire has spent twenty years building from Haureni designs; the surveys are done and the origin is not in question. Knowing whose machines these are is simply not the same thing as being able to keep them running, and the gap between those two is the whole crisis. Balisha reverse-engineered *recipes* — it builds new purification and energy systems on the surface, from an incomplete understanding, in workshops it controls. Repairing a five-thousand-year-old integrated system in place, four hundred meters down, with no parts, no manual and no maintainer alive who ever trained on it, is a different capability that the empire does not have and cannot buy.
 
 So the failure is worse than a mystery would be. They can name precisely what is dying and watch it die anyway. Every engineer sent down comes back with a better description of a machine he cannot fix.
 
-It's a miracle they lasted this long. A testament to Lathionese engineering that these systems kept sixty thousand people alive for generations with no one maintaining them at all. But everything fails eventually. And when Lathionese systems fail, they don't degrade gracefully — they were never designed to. They were designed to be maintained by people who understood them, and those people fed themselves into the Destiny Engine twenty years before anyone thought to look.
+It's a miracle they lasted this long. A testament to Haureni engineering that these systems kept sixty thousand people alive for generations with no one maintaining them at all. But everything fails eventually. And when Haureni systems fail, they don't degrade gracefully — they were never designed to. They were designed to be maintained by people who understood them, and those people fed themselves into the Destiny Engine twenty years before anyone thought to look.
 
 The water supply is the first critical failure. Filtration systems that have been processing groundwater for five thousand years begin to falter. The water turns brackish, then unreliable, then intermittent. People start getting sick. Then people start dying.
 
@@ -39,7 +39,7 @@ The water supply is the first critical failure. Filtration systems that have bee
 ### And they are hungry, which is the empire's fault and not the machinery's
 
 **The water is the clock. The food is the body count.** *(Author's ruling, 2026-08-04.)* The failing
-Lathionese systems set the deadline; they are not the reason people are already dying when the book
+Haureni systems set the deadline; they are not the reason people are already dying when the book
 opens. That reason is a chair nobody sat in.
 
 **How the Warrens ate, before.** Kaha'an is a desert city that grows almost nothing. House Kemvimore
@@ -92,7 +92,7 @@ a second floor under it — he is not only holding back his lieutenants.
 
 The surface response to the water crisis creates its own nightmare: piping water down from above means controlling who gets water and when. It means the infrastructure of distribution. It means, inevitably, someone controlling that infrastructure for leverage. It means creating Water Cartel 2.0 in the tunnels — a new power structure built on the most basic human need.
 
-The Lathion technology that is finally making it possible to bring those below *up* — the reclaimed land, the green cities, the infrastructure that works — arrives at the exact moment the ancient technology that kept them below is dying. The pressure is real. The timeline is not political. It's hydrological.
+The Hauren technology that is finally making it possible to bring those below *up* — the reclaimed land, the green cities, the infrastructure that works — arrives at the exact moment the ancient technology that kept them below is dying. The pressure is real. The timeline is not political. It's hydrological.
 
 ---
 
@@ -343,14 +343,23 @@ it. **He stands on it.** That is the prize-without-the-work rendered as an objec
 systems capacity whatsoever, the taps he holds run worse every month he holds them and he blames whoever is
 nearest. His uselessness reaches the page without a line of narration asserting it.
 
-**Tiberian corners him.** Bittek has spent the descent escaping — through betrayal, through putting other
-people between himself and the column, through every cowardly expedient available — and has read each escape
-as evidence of his own brilliance. **He badly misjudges Tiberian, and the mechanism is not ignorance.** He
-knows the reputation perfectly well and dismisses it as propaganda, because he manufactures his own the same
-way: he built his standing on beating people who could not fight back and letting the story do the rest, so
-he assumes the Tiger Prince's standing is the identical con with better tailoring. **A fraud assumes everyone
-else is a fraud.** That assumption is what kills him, and it is characterization rather than a plot hole to
-be patched.
+**Tiberian has to corner him alone.** This is strategy rather than swagger. Every organised attempt to close
+on Bittek has produced the same result: he abandons the position, puts expendable people between himself and
+the column, and disappears through the Warrens before overwhelming force can reach him. **His cowardice
+works.** A man who never enters a contest he might lose is maddeningly difficult to bring to one, and treating
+that as mere contemptible weakness would let Tiberian make exactly the mistake Bittek survives by inviting.
+
+Tiberian recognises that visible force will never catch him. He leaves Kai and the strike team conducting the
+larger operation and approaches the taps **truly alone** — no soldiers hidden in the next corridor, no reserve
+waiting to close the exits. The apparent vulnerability is the trap. Bittek sees an eighteen-year-old prince who
+stands exactly his own height and decides that this is finally a contest whose outcome is certain in *his*
+favour.
+
+**Bittek badly misjudges Tiberian, and the mechanism is not ignorance.** He knows the reputation perfectly
+well and dismisses it as propaganda, because he manufactures his own the same way: he built his standing on
+beating people who could not fight back and letting the story do the rest, so he assumes the Tiger Prince's
+standing is the identical con with better tailoring. **A fraud assumes everyone else is a fraud.** That
+assumption is what kills him, and it is characterization rather than a plot hole to be patched.
 
 **The fight is not one.** Sloppy brawling learned on people in chains against a man trained by Terinok
 warriors who fought a real war. It should be brief to the point of embarrassment.
@@ -465,9 +474,9 @@ among those who ran wild.**
 
 **Kess Ashwood:** Introduced in the arena. Her full character and role in the series — whether she's a one-book presence or becomes significant going forward — should be developed separately. What matters for the outline: Kess does not trust people. Everyone who has ever shown interest in her has wanted something — usually for her to hurt things. Surfacers are the worst; they bet at the arena. Tiberian frees her without expectation ("you're free, go wherever you like"), and she runs. She gets cornered, he saves her again, and she *still* doesn't join him — she shadows. Trust, for Kess, is not a single moment of rescue. It's accumulated evidence that this person is not like every other person. By the end of the Warrens descent, she's fighting alongside Tiberian — but on her terms, for her reasons. She is not his subordinate. She is someone who decided these enemies deserved killing.
 
-**The Lathionese tunnels: there is no discovery to make, and the book must not stage one.** *(Corrected 2026-08-04. The earlier version of this note said the origin was never discovered and "the tunnels are old, that's all anyone knows," which Book 3 makes impossible — the expedition descends through these tunnels to reach the Brass Door, and the empire then spends twenty years building from Lathionese designs.)*
+**The Haureni tunnels: there is no discovery to make, and the book must not stage one.** *(Corrected 2026-08-04. The earlier version of this note said the origin was never discovered and "the tunnels are old, that's all anyone knows," which Book 3 makes impossible — the expedition descends through these tunnels to reach the Brass Door, and the empire then spends twenty years building from Haureni designs.)*
 
-The origin is settled fact by the time this book opens, as ordinary and unremarkable as the age of a cathedral. Nobody realises anything; nobody is surprised. The brass of the Iron Hall, the precision of the water systems, the scale of the ventilation — all of it is understood to be Lathionese work, and the understanding is worth nothing. **Do not write a revelation scene, and do not let any character treat the connection as news.**
+The origin is settled fact by the time this book opens, as ordinary and unremarkable as the age of a cathedral. Nobody realises anything; nobody is surprised. The brass of the Iron Hall, the precision of the water systems, the scale of the ventilation — all of it is understood to be Haureni work, and the understanding is worth nothing. **Do not write a revelation scene, and do not let any character treat the connection as news.**
 
 What is genuinely not known is narrower and more useful: **nobody knows how to maintain any of it.** The knowledge Balisha holds is design knowledge, extracted a notebook at a time through a cave and rebuilt in surface workshops. It does not extend to keeping a five-thousand-year-old system alive in place. The engineers can read the machine and cannot save it, and every survey makes that clearer.
 

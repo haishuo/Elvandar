@@ -4,7 +4,7 @@ Xion had expected them to run. They had a name for the place and four cross-refe
 
 Nobody asked again.
 
-Brennek found the conveyor on the third day, which was not difficult; it was where the road said it would be. It was a smaller thing than the one that had carried them down from the Door — no ornament on it anywhere, a plain moving floor in a plain shaft, wide enough for four men abreast or one loaded cart, worn in two grooved lines down the middle where a great many centuries of feet had gone. Whatever the Lathionese had used it for, it had not been ceremony. It was the sort of thing you built to get people to work.
+Brennek found the conveyor on the third day, which was not difficult; it was where the road said it would be. It was a smaller thing than the one that had carried them down from the Door — no ornament on it anywhere, a plain moving floor in a plain shaft, wide enough for four men abreast or one loaded cart, worn in two grooved lines down the middle where a great many centuries of feet had gone. Whatever the Haureni had used it for, it had not been ceremony. It was the sort of thing you built to get people to work.
 
 They went down on the fourth morning, if morning meant anything, which it did not.
 
@@ -48,13 +48,13 @@ And every surface of it — every foot of that curving inner face, arranged in n
 
 Not brass panelling. Objects. Rows and banks and blocks of small brass objects, set into the galleries in their thousands, and the light went into them and came back changed. It caught the way light catches on the surface of still water when the water is deep; it did not glare, it *lay* on them, and underneath it there was a second thing happening, some slower refraction going on inside the material that the eye kept trying to resolve and could not.
 
-The room hummed. That was the last thing he noticed, and only because someone behind him stopped breathing hard enough to make the silence audible. The whole of Lathion had a low mechanical purpose running under it, everywhere, at the edge of hearing. Here it was not at the edge of hearing. Here it was in the floor.
+The room hummed. That was the last thing he noticed, and only because someone behind him stopped breathing hard enough to make the silence audible. The whole of Hauren had a low mechanical purpose running under it, everywhere, at the edge of hearing. Here it was not at the edge of hearing. Here it was in the floor.
 
 Xion stood in the mouth of the corridor and understood something that he would spend the rest of the day failing to say to anybody.
 
 The city had been giving them size. For three days it had given them size and beauty and cleverness, boulevards and terraces and water that ran hot from a place they could not see, and all of it had been *outward* — a thing you stood in front of and craned at. This room was not doing that. This room went the other way.
 
-It was not showing them how much the Lathionese could build.
+It was not showing them how much the Haureni could build.
 
 It was showing them how much they had **known**.
 

@@ -5,13 +5,33 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 ## 📜 Chronological History
 
 **Year 0 BR** — **Founding of the Old Balishan Empire**
-> A powerful trade-based empire is founded on the continent of Elvandar, unifying disparate regions into a single bureaucratic and economic system.
+> Valan I's founding compact begins the work of drawing disparate regions into a shared bureaucratic and
+> economic system. Year 0 marks the beginning of imperial expansion, not the simultaneous conquest of every
+> later province.
+
+**Year 0 BR** — **Imperial Refounding of Vartonne**
+> Valan I Valanar establishes a permanent military and administrative camp at the older river settlement of
+> Vartonne. The camp absorbs the town and becomes the planned concentric capital; later imperial histories
+> call him the city's founder, while the pre-imperial name and riverside communities survive beneath the
+> monumental city.
+
+**Year 0 BR** — **The First Terinok Blade-Oath**
+> Valan demonstrates martial worth recognized by Terinok's fiercely independent cantons. They swear their
+> blades to him without surrendering canton law, the Warrior's Code, or their internal sovereignty. The
+> conditional compact gives the new empire its military arm and establishes the standard by which Terinok
+> will judge later Valanar rulers.
 
 **Year 0 BR** — **The Age of Empire Begins**
 > The empire enters a golden age marked by centralized governance, military campaigns, and flourishing trade.
 
 **Year 500 BR** — **Relocation of the Imperial Capital to Kaha’an**
-> Originally based in landlocked Vartonne, the imperial capital is moved to coastal Kaha’an under the pretense of a temporary shift. The relocation eventually becomes permanent, driven by trade and political influence.
+> Originally based in landlocked Vartonne, the imperial court moves to coastal Marresonne under the
+> pretense of a temporary or seasonal eastern shift; the throne's arrival transfers the title *Kaha'an*.
+> The household, Kaha Batae, resident envoys, portable government, maritime offices, ambitious noble
+> branches, financiers and their service economy move in successive waves. Vartonne retains the Hall of
+> Records, land machinery, cathedral establishments, inherited offices and most of its population. The
+> relocation becomes permanent as trade and political access follow the throne, creating a coastal court
+> koine beside Vartonne's continuing documentary and ceremonial standard.
 
 **Year 680 BR** — **Terinok Declares Independence**
 > Viewing the relocated imperial leadership as weak, Terinok — a militaristic and honor-driven state — becomes the first province to break away.
@@ -45,6 +65,10 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 
 **Year 1024 BR** — **The Rending**
 > A massive magical catastrophe annihilates the province surrounding Kaha’an, leaving it a wasteland. The emperor and empress perish; only the capital survives, shielded by ancient wards. The absence of a known heir sends the newly enthroned Kalden into the Erulian archives, where he reconstructs the first Lord Erulius's distant collateral kinship to a historic Valanar emperor and begins the imperial project that will define his reign.
+> The surviving **Kaha Batae**, the *Imperial Guard*, take the post-catastrophe name **Arol Batae**, the
+> *Old Guard*. The change is made inside the same learned imperial register: they deliberately replace
+> *kaha*, the sovereignty of a living Crown, with *arol*, the old or former order, while retaining
+> *batae*, the commissioned guarding body. The institution survives; the authority named over it does not.
 
 **Year 1044 BR** — **Events of *The Grain Merchant’s Son***
 > The events of *The Grain Merchant's Son* begin. The successor states remain locked in cold conflict, Kaha’an continues to demand the return of the Scholar’s Crown, and the scars of The Rending still shape trade and diplomacy. A generation has grown up in the shadow of imperial collapse, and the balance of power begins to shift once more.
@@ -53,13 +77,13 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 > Immediately following. Book 2 spans roughly five months; Book 3 opens weeks after it.
 
 **Year ~1045 BR** — **Events of *Crown Jewel***
-> Lathion is opened. The Tripartite Alliance forms — Balisha, Uratha, Terinok. The Scholar's Crown is
+> Hauren is opened. The Tripartite Alliance forms — Balisha, Uratha, Terinok. The Scholar's Crown is
 > returned to Uratha and does not answer it. Xion and Elara marry; he becomes Emperor-Consort and takes
 > the name Valanar. *Year approximate.*
 
 **Year ? BR** — **The Compact War**
 > Gunastran, the Erulian Principality and Vartonne strike Uratha first, to sever it from its allies and
-> slow its work on Lathion technology before the Alliance's advantage becomes decisive. Empirica falls;
+> slow its work on Hauren technology before the Alliance's advantage becomes decisive. Empirica falls;
 > the Ivory Tower is bombarded; bakarn classification is suspended for the duration and quietly allowed
 > to lapse afterward. Roughly six months to the Alliance counteroffensive that retakes Empirica, led by
 > Terinok. **Kaha'an itself is invested** — Kalden Erulius abandons the pincer and brings a host of horse
@@ -75,7 +99,7 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 
 **Year ~1063–1064 BR** — **Events of *Necessary Measures***
 > The Warrens relocation. **Spans approximately eighteen months**, and the delay is the substance of it. The
-> Lathionese tunnel systems that kept the Warrens alive for five millennia fail. Ronas Dermir dies. The
+> Haureni tunnel systems that kept the Warrens alive for five millennia fail. Ronas Dermir dies. The
 > twins enter before or around their seventeenth birthday and leave at about eighteen.
 
 **Year ~1064 BR** — **Events of *Last Debts***
@@ -92,7 +116,7 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 ## ⚠️ Notes and Uncertainties
 
 - The order of secession is based on cultural independence and historical tensions.
-- Kaha’an did not secede, but instead remained the imperial remnant after all provinces broke away.
+- Kaha’an did not secede: it remained the imperial capital inside Litrava after all other provinces broke away.
 - The Rending is the most important magical event in post-imperial history.
 - **This timeline stopped at Year 1044 BR — the opening of Book 1 — until 2026-07-31**, leaving seven
   books of history with no chronicle entry at all. The entries above are extended from the outlines and

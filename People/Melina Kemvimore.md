@@ -200,7 +200,18 @@ Their relationship in Book 2 is professional and draining. Melina mediates betwe
 
 ### Physical Presence
 
-Dark hair. Mid-to-late twenties. Composed, socially fluent, with the practiced grace of nobility. The canonical text provides no detailed physical description beyond these basics — her characterization is conveyed through behavior and voice rather than appearance. What the text does establish is presence: she carries herself with the confidence of someone who has navigated these rooms since childhood, who knows how to enter a conversation and how to leave one, who has made composure so habitual that its absence would be alarming.
+Twenty-six and **5′8″ / 173 cm**, with a healthy, softly slender build and a light warm-olive complexion closely matching Rosik's sheltered family baseline. Her near-black hair is
+softly wavy and arranged in a polished low court style; her eyes are dark brown. Her refined features make
+her credibly Xion's sister without duplicating him, with something of Rosik in the brows and habitual
+composure. She dresses in impeccably tailored Kaha'ani noble layers—restrained wheat-gold, warm cream and
+deep brown, expensive through cut and fabric rather than display—and wears the understated ring her thumb
+turns when she is worried.
+
+What the prose establishes most strongly is presence: the straight back, unhurried step, and confidence of
+someone who has navigated these rooms since childhood; the family diplomat who knows how to enter a
+conversation and how to leave one. Her controlled half-smile is the public face she calls *the family's
+smile*. Exhaustion shows only around the eyes and as weight worked deep into her shoulders. She has made
+composure so habitual that its absence would be alarming.
 
 ### Behavioral Patterns
 

@@ -14,7 +14,7 @@ Sa Ko Ren was already waiting.
 
 Xion understood immediately why Kael had suggested her. She stood near the center of the training floor, and even motionless she radiated controlled danger. The same intensity as the Arol Batae warriors, but with something harder underneath. Like looking at tempered steel rather than merely sharpened blade.
 
-She was tall, with the muscular build of someone who still worked with her hands. Her dark hair showed silver at the temples, pulled back in a practical style that kept it out of her way. She wore training clothes that had clearly seen decades of use, faded but immaculately maintained.
+She was tall, leanly athletic, with the balanced carriage of someone who had trained for combat most of her life. Her dark hair was pulled back in a practical style that kept it out of her way. She wore training clothes that had clearly seen decades of use, faded but immaculately maintained.
 
 Xion had seen her before at formal gatherings, but always from a distance, always as his father's shadow in rooms full of careful politics. Here, in her own training hall, stripped of diplomatic pretense, she was something else entirely. Raw power barely contained by discipline.
 
@@ -44,7 +44,7 @@ The question made Sa Ko smile. Sharp and approving, like Elara had said exactly 
 
 The Arol Batae warriors tensed. This wasn't part of the plan. Commander Vesk's hand went to his sword, though he didn't draw. Silvanno looked between Elara and Sa Ko with growing alarm.
 
-Xion's medical training kicked in automatically. He'd seen Elara fight—brutal efficiency in the Warrens, the desperate flight from the masquerade. But this was different. Sa Ko Ren stood like violence given human form, forty-eight years of warrior experience radiating from every controlled movement.
+Xion's medical training kicked in automatically. He'd seen Elara fight—brutal efficiency in the Warrens, the desperate flight from the masquerade. But this was different. Sa Ko Ren stood like violence given human form, decades of warrior experience radiating from every controlled movement.
 
 Elara was going to get hurt.
 
@@ -56,7 +56,7 @@ No hesitation. No consultation. Just immediate acceptance, like Sa Ko had offere
 
 They began stripping off outer layers. Elara removed her traveling cloak and overshirt, revealing the practical fighting clothes she'd worn underneath—loose pants and a fitted top that allowed full range of movement. Standard Arol Batae training gear.
 
-Sa Ko pulled off her own outer tunic, revealing arms corded with muscle from decades of metalwork and combat. Her training clothes were simple, worn soft with age, speaking to countless hours of use.
+Sa Ko pulled off her own outer tunic with unhurried economy. Her training clothes were simple, worn soft with age, speaking to countless hours of use.
 
 Xion had never seen Elara fight like this. Not formally. Not in a proper duel with rules and boundaries. In the Warrens, she'd moved with desperate efficiency. At the masquerade, they'd fled rather than engaged. This was something else entirely.
 

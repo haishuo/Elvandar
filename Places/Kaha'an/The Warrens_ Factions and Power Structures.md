@@ -13,6 +13,20 @@ The Warrens has no unified government. Power is fragmented among multiple compet
 
 ## **The Long Knives**
 
+### **Origin: The Charge That Outlived Its Meaning**
+
+The full canon account is `Offstage.md`, **“The First Charge of the Long Knives.”** The guild descends from
+a human custodial order commissioned by Hauren when the city sealed roughly two thousand years ago. Its
+founding charge was to control the last surviving surface approach to the Brass Door and discourage anyone
+from reaching it. Surveillance, hidden movement, route control, and silent killing began as instruments of
+that duty.
+
+The original Haureni name, the identity of what lay beyond the Door, and the reason for the charge all
+disappeared over the intervening millennia. The duty did not. By the modern period the order had become the
+assassins' guild now called the **Long Knives** in Modern Balishan. No present member knows the founding
+history; what survives is the absolute institutional fact that the Door and its approaches are theirs to
+guard.
+
 ### **Leadership**
 
 **The Mistress**
@@ -124,9 +138,14 @@ She eventually proved herself again through a combination of ruthless efficiency
 
 **What They Guard:** The Long Knives control the only known safe route through Dead Man's Passage to a massive sealed brass door deep below. Only senior members know this route exists. Only the inner circle knows the actual path.
 
-**The Map:** The Mistress possesses the only complete map of the true path through Dead Man's Passage. This map was created over years through trial, error, and significant loss of life. It's her most valuable asset—worth more than all the Warrens combined.
+**The Map:** The Mistress possesses the only complete map of the true path through Dead Man's Passage. It
+is not the founding order's map preserved for two thousand years. That route knowledge was lost as
+passages collapsed, flooded, and changed. The present map was rebuilt over years through trial, error, and
+significant loss of life. It is her most valuable asset—worth more than all the Warrens combined.
 
-**Why They Guard It:** The Mistress doesn't know what the brass door protects, but she knows:
+**Why They Guard It:** The inherited charge comes first, stripped of its explanation: the Long Knives
+guard the Door because the Long Knives have always guarded the Door. The Mistress does not know the origin,
+but she also knows:
 
 * It's ancient (predates the Warrens)  
 * It's sealed (no one can open it)  
@@ -135,7 +154,10 @@ She eventually proved herself again through a combination of ruthless efficiency
 
 She's assigned a rotating guard detail that doesn't know why they're guarding an empty chamber with a door that won't open. They just know disobedience means death.
 
-**The Long Game:** The Mistress believes that eventually someone will want access to what's beyond that door. When that day comes, the Long Knives will have leverage over whoever—or whatever—comes seeking it. This is her legacy insurance.
+**The Long Game:** The Mistress believes that eventually someone will want access to what's beyond that
+door. When that day comes, the Long Knives will have leverage over whoever—or whatever—comes seeking it.
+This is her legacy insurance and the modern strategic explanation she gives an obligation far older than
+she knows.
 
 ### **Philosophy and Code**
 
@@ -935,7 +957,7 @@ This is personal choice, not policy. Other guides will take those clients. The a
 * Metalworking and weapon smithing  
 * Equipment repair  
 * Tool manufacturing  
-* Occasionally repurpose Lathion technology (trial and error)  
+* Occasionally repurpose Hauren technology (trial and error)
 * Custom work for wealthy clients
 
 **Products:**
@@ -944,7 +966,7 @@ This is personal choice, not policy. Other guides will take those clients. The a
 * Tools (essential for survival)  
 * Repairs (everything from lanterns to locks)  
 * Custom items (prosthetics, specialty equipment)  
-* Lathion artifact modifications (dangerous but profitable)
+* Hauren artifact modifications (dangerous but profitable)
 
 **The Forges:** Operate illegal forges in specific chambers:
 
@@ -956,7 +978,7 @@ This is personal choice, not policy. Other guides will take those clients. The a
 **Skills:** Highly respected for practical skills:
 
 * Blacksmithing (traditional and innovative)  
-* Mechanical engineering (learning from Lathion tech)  
+* Mechanical engineering (learning from Hauren tech)
 * Problem-solving (figure out how ancient tech works)  
 * Innovation (create new tools from salvaged materials)
 
@@ -975,7 +997,7 @@ This is personal choice, not policy. Other guides will take those clients. The a
 
 **Operations:** Venture into dangerous areas looking for:
 
-* Lathion artifacts (brass fixtures, glowing stones, ancient tools)  
+* Hauren artifacts (brass fixtures, glowing stones, ancient tools)
 * Ancient metal (valuable for forging)  
 * Anything useful or valuable  
 * Sometimes discover new chambers or passages
@@ -1048,7 +1070,7 @@ This is personal choice, not policy. Other guides will take those clients. The a
 
 **Shrines:** Decorated with:
 
-* Salvaged Lathion artifacts  
+* Salvaged Hauren artifacts
 * Offerings (food, water, personal items)  
 * Candles and lanterns  
 * Drawings and symbols  
@@ -1133,7 +1155,7 @@ The Red Marks are symptom of Warren desperation—young people with no future cr
 ### **The Silent Wardens**
 
 **Nature:** Mysterious maintenance phenomena  
- **Reality:** Lathion's automated repair constructs (unknown to Warren residents)
+ **Reality:** Hauren's automated repair constructs (unknown to Warren residents)
 
 **What Residents Observe:** Systems mysteriously maintain themselves:
 
@@ -1142,11 +1164,11 @@ The Red Marks are symptom of Warren desperation—young people with no future cr
 * Collapsed passages get cleared (small obstructions)  
 * Ancient fixtures get cleaned and maintained
 
-**What's Actually Happening (Author Knowledge):** Lathion's self-repair systems continue functioning as designed. The automated constructs (cleaning automatons, repair drones, maintenance units) still patrol the service tunnels on their programmed maintenance cycles. They:
+**What's Actually Happening (Author Knowledge):** Hauren's self-repair systems continue functioning as designed. The automated constructs (cleaning automatons, repair drones, maintenance units) still patrol the service tunnels on their programmed maintenance cycles. They:
 
 * Operate primarily during "night" when fewer people are active  
 * Avoid direct contact with humans (safety protocols)  
-* Repair only Lathion systems (not human construction)  
+* Repair only Hauren systems (not human construction)
 * Follow 5,000-year-old maintenance schedules  
 * Are powered by the geothermal Core
 
@@ -1171,16 +1193,16 @@ The Red Marks are symptom of Warren desperation—young people with no future cr
 
 **Why No One Figures It Out:**
 
-* Most residents have never seen Lathion constructs  
+* Most residents have never seen Hauren constructs
 * The automatons deliberately avoid humans (programming)  
 * In darkness, seeing anything clearly is difficult  
 * No one expects ancient machines to still function  
 * Easier to believe in secret humans than eternal robots  
 * Those who glimpse constructs assume they're people in strange armor
 
-**Impact:** The Warren residents benefit from Lathion's continued maintenance without understanding it. The ancient city still cares for its service tunnels through tireless mechanical servants, keeping the systems functional for the refugees who now inhabit them.
+**Impact:** The Warren residents benefit from Hauren's continued maintenance without understanding it. The ancient city still cares for its service tunnels through tireless mechanical servants, keeping the systems functional for the refugees who now inhabit them.
 
-**The Irony:** Thousands of humans live in desperate poverty in tunnels maintained by machines that have run for five thousand years—and that, in the last twenty, have outlived the very people they were built to serve. The Lathionese are gone, but their servants continue working, indifferent to who benefits from their labor.
+**The Irony:** Thousands of humans live in desperate poverty in tunnels maintained by machines that have run for five thousand years—and that, in the last twenty, have outlived the very people they were built to serve. The Haureni are gone, but their servants continue working, indifferent to who benefits from their labor.
 
 **Relationship with Other Factions:** None. The constructs have no awareness of factions, politics, or human society. They simply maintain the systems as programmed 5,000 years ago.
 
@@ -1295,4 +1317,3 @@ The three major factions represent different approaches to power:
 Supporting them are essential services (Lantern Boys, Forge Rats) and minor players (Gate Clans, Dustwalkers, Ghostlights, Red Marks, Silent Wardens).
 
 This fragile balance has held for twenty years. How much longer it can last is uncertain.
-

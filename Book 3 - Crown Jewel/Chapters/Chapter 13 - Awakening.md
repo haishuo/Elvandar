@@ -2,7 +2,7 @@ It was the fourth item of eleven, and it took four minutes.
 
 The Gunastran envoy had come through the ordinary channels, with the ordinary notice, and had been given the ordinary room — the small audience chamber off the north corridor where the crown heard things that did not require the hall. No state visit. No delegation. One man with good boots and a folder, lodging a working request on behalf of the Industrial Consortium.
 
-He put it well. Xion, standing at Elara's left with the morning's schedule in his hand and eleven items on it, noted that the man put it very well indeed: scholarly and technical access to Lathion, framed in the language of shared advancement, with two specific proposals about metallurgical survey that were plainly the work of somebody who had read everything published on the subject in the last two months and had understood most of it.
+He put it well. Xion, standing at Elara's left with the morning's schedule in his hand and eleven items on it, noted that the man put it very well indeed: scholarly and technical access to Hauren, framed in the language of shared advancement, with two specific proposals about metallurgical survey that were plainly the work of somebody who had read everything published on the subject in the last two months and had understood most of it.
 
 He was able. He was well briefed. He had come a long way to ask a reasonable question in a reasonable manner.
 
@@ -56,9 +56,9 @@ Behind her, on a cushion carried by an attendant who had plainly been practising
 
 It was smaller than the histories made it. That surprised him and he let it. It was a band of something pale and greyish that was not silver and was not brass, worked in a way that made no sense at any distance he was permitted to stand at — no stones, no ornament, none of the aggressive craftsmanship the Balishan regalia went in for. It looked like an instrument. It looked, in fact, a great deal like the objects on the shelves of a room four hundred metres under the floor of this building, and Xion had known that it would and was not prepared for how hard it landed anyway.
 
-Lathion had made this.
+Hauren had made this.
 
-Lathion had made this, and given it to the Valanar, and then sealed itself away for two thousand years, and then died in a chamber to save the world it had given it to. And the thing had gone north three hundred years ago in a crate and had sat in a tower ever since, and not one person who had ever fought over it had known what it was or who had made it or what those makers had done at the end.
+Hauren had made this, and given it to the Valanar, and then sealed itself away for two thousand years, and then died in a chamber to save the world it had given it to. And the thing had gone north three hundred years ago in a crate and had sat in a tower ever since, and not one person who had ever fought over it had known what it was or who had made it or what those makers had done at the end.
 
 He knew. There were perhaps thirty people alive who knew, and most of them were scholars from Uratha, and two of them were in this room.
 
@@ -172,7 +172,7 @@ Not for long — the ceremony was moving and there were eleven people he was sup
 
 *Why would that surprise them.*
 
-The Crown was made in Lathion. The Valanar are Lathion's line; that was the whole theological argument, it was in every history, it was the reason three hundred years of Balishan ambassadors had been able to stand in the Ivory Tower and say *that is ours* without embarrassment. An artifact of Lathionese make answering a Valanar sovereign was not a surprise. It was the single most predicted event in the room. It was what the entire liturgy had been written on the assumption of.
+The Crown was made in Hauren. The Valanar are Hauren's line; that was the whole theological argument, it was in every history, it was the reason three hundred years of Balishan ambassadors had been able to stand in the Ivory Tower and say *that is ours* without embarrassment. An artifact of Haureni make answering a Valanar sovereign was not a surprise. It was the single most predicted event in the room. It was what the entire liturgy had been written on the assumption of.
 
 Every Urathan in this hall had known that better than he did. They were scholars; it was their own doctrine; Venn's people had been maintaining the Crown for three centuries and had presumably had a view about what it would do.
 

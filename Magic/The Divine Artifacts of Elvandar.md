@@ -17,8 +17,8 @@ would be the most knowledgeable person alive for five books and nothing in the p
 **Being found worthy opens the channel. Drawing anything through it is a skill**, and the skill is scholarly
 practice: forming a question precisely enough that it can be answered. **A worthy bearer with no training
 gets impressions, not knowledge** — occasional, involuntary, unbidden, and impossible to source or defend.
-Elara's calibration is in `People/Elara's Connection to Lathion.md`, and it is deliberately identical to her
-Lathion sense, because it is the same woman and the same register. **The Crown never solves a plot.**
+Elara's calibration is in `People/Elara's Connection to Hauren.md`, and it is deliberately identical to her
+Hauren sense, because it is the same woman and the same register. **The Crown never solves a plot.**
 
 **Which produces the state the artifact exists to expose: its two halves are split across two nations and
 neither can use it.** Uratha has every question and no worthiness. Elara has worthiness and no questions.

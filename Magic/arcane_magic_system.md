@@ -92,7 +92,7 @@ Water Magic draws its name from the flowing nature of time—like a river that c
 - **Exhausting Practice**: Temporal magic strains the mind more than other schools
 
 #### The Destiny Engine Exception:
-Lathion's Destiny Engine represents the only known successful alteration of established timeline, achieved through the collective sacrifice of an entire civilization. This remains secret knowledge, its methods beyond current understanding.
+Hauren's Destiny Engine represents the only known successful alteration of established timeline, achieved through the collective sacrifice of an entire civilization. This remains secret knowledge, its methods beyond current understanding.
 
 #### Regional Variations:
 - **Uratha**: Historical research, preserving knowledge, academic foresight
@@ -288,7 +288,7 @@ These energy constraints create significant strategic considerations:
 - Magic as symbol of legitimate authority
 - Ceremonial applications emphasizing grandeur
 - Desert-adapted techniques for survival and governance
-- Integration with ancient Lathion technology
+- Integration with ancient Hauren technology
 
 ### Terinok: Warrior Enhancement
 - Combat applications prioritized above all else

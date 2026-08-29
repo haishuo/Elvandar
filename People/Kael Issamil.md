@@ -98,9 +98,10 @@ He has been part of the reform group for **six years** as of Chapter 2 — the t
 
 That he arrived through Silvanno rather than Xion is worth holding onto, because it explains the particular shape of his loyalty. Kael did not sign up for Xion's cause; he was vouched for by a friend, turned up, found the work worth doing, and became Xion's man over six years rather than in a moment of conviction. It is also why his skepticism reads as licence rather than disloyalty — he is the one who says *that's not nothing, Xion* and *then you'll do it alone*, and he can say both because his standing at that table predates any of Xion's grand ideas and does not depend on agreeing with them.
 
-His clothes are "simple but well-made." His build is "practical." Everything about him signals someone who values function over display. In a city of cartel heirs and political maneuvering, Kael dresses like someone who actually works.
+His clothes are simple but well-made. His build is practical. Everything about him signals someone who values function over display. In a city of cartel heirs and political maneuvering, Kael dresses like someone who actually works.
 
-*Note: The surname "Issamil" does not appear in any chapter text. Throughout the narrative, he is identified only as "Kael" with the descriptor "from a minor Iron clan." The surname may derive from other source documents.*
+*Note: Book 1 identifies him only as "Kael" and as a man from a minor Iron clan. Book 3 uses the full name
+"Kael Issamil" in prose; the former claim that his surname appeared nowhere in the chapters was stale.*
 
 ---
 
@@ -178,9 +179,27 @@ Kael's knowledge of Sa Ko Ren is the most consequential information any supporti
 
 ### Physical Presence
 
-The only physical description of Kael in twenty-five chapters: "The young man from the minor Iron clan had a practical build, his clothes simple but well-made." At the coronation, he wears Iron clan colors that look "almost ceremonial in the morning light." He is described as "young" — the same generation as Xion, Silvanno, and Farleen.
+Kael is twenty-three in Book 1 and stands **5′10″ / 178 cm**. He has a medium, practical build: quietly
+sturdy and moderately broad through the shoulders, but neither a warrior nor a manual laborer. His
+complexion is light-medium warm olive, one subtle shade darker and warmer than Xion's and Silvanno's while
+remaining well short of a deep tan or bronze.
 
-No hair color, eye color, height, facial features, or distinguishing marks are specified. What the text conveys through absence is itself revealing: Kael is someone you'd overlook in a crowd. Practical build. Simple clothes. Nothing that draws the eye. He is, in every sense, someone who works from the background.
+His face is broad and rectangular, with a firm jaw and substantial chin, pronounced natural cheekbones,
+heavy level brows, a wider straight nose, and hazel-brown eyes. His medium-dark chestnut hair is short,
+tidy, close at the sides, and brushed back from his forehead. He is clean-shaven and has no visible scars.
+
+His ordinary clothes are simple but well-made: structured charcoal and iron-grey Iron-clan professional
+clothing with restrained copper and rust details. He commonly carries a ledger or folio. He looks like
+what he is — a young operations coordinator from a minor industrial house, not a court peacock, warrior,
+blacksmith, or laborer. His economical movement, contained expression, and habit of watching before he
+speaks keep him visually unobtrusive until someone notices how much he has already understood.
+
+The current chapters deliberately describe him more through movement, gaze, and instrument than through
+facial inventory. The old line calling his build practical and his clothes simple but well-made appeared in
+an earlier version of Book 1, Chapter 2 and did not survive that chapter's rewrite; those traits remained in
+this sheet and the physical register and are now confirmed by authorial ruling rather than attributed to
+current prose. At the coronation he wears Iron clan colors that look "almost ceremonial in the morning
+light."
 
 ### Behavioral Patterns
 

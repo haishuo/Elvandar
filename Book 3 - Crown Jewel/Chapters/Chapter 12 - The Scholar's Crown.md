@@ -26,7 +26,7 @@ It took a quarter of an hour, and Xion sat through all of it with his hands flat
 
 She did not soften it. That was what he took away, afterward, and kept: that a woman who had been awake for a day and a half, who had been on her hands and knees on the base of a machine at the bottom of the world, sat in a borrowed chair and gave a criminal the truth in order, at the pace it could be taken in, and did not once reach for the version that would have been easier to say.
 
-Lathion was real, and it was a city, and it had been a city for five thousand years.
+Hauren was real, and it was a city, and it had been a city for five thousand years.
 
 It had not been abandoned. It had been emptied, and it had emptied itself, and it had done so twenty years ago.
 
@@ -98,7 +98,7 @@ The answer was *enough*.
 
 It was not a good answer. It was the answer, and he had learned in council rooms and in the Warrens and in a chamber under the ground that the difference between enough and plenty is generally invisible from the other side of a table.
 
-He had two hours of sleep, eleven days of Lathion, and the whole of a night in a borrowed room listening to a woman describe watching her parents die from underneath.
+He had two hours of sleep, eleven days of Hauren, and the whole of a night in a borrowed room listening to a woman describe watching her parents die from underneath.
 
 He was what was available.
 
@@ -186,7 +186,7 @@ So Draskin had to raise it. Only Draskin could raise it.
 
 He had, and he had done it in the first minute, before the city, before terms, before anybody could be accused of trading one for the other.
 
-"Uratha will return the Scholar's Crown," Draskin said. "Permanent transfer of custody, full ceremony, on the record, and I will say plainly in that ceremony that it was Uratha's to give and that we gave it. In exchange, I want expanded and exclusive Urathan scholarly access to Lathion, formalised in a compact whose terms we can settle in this room today."
+"Uratha will return the Scholar's Crown," Draskin said. "Permanent transfer of custody, full ceremony, on the record, and I will say plainly in that ceremony that it was Uratha's to give and that we gave it. In exchange, I want expanded and exclusive Urathan scholarly access to Hauren, formalised in a compact whose terms we can settle in this room today."
 
 He let that sit for exactly as long as it needed.
 
@@ -250,7 +250,7 @@ He filed it and kept talking.
 
 The first term was sovereignty and it was not negotiable and he said so.
 
-Balisha's administrative sovereignty over Lathion, stated in the compact, early, in plain words, not implied and not left to interpretation. The city was Balishan ground. Access was a permission, and a permission is a thing that has an owner.
+Balisha's administrative sovereignty over Hauren, stated in the compact, early, in plain words, not implied and not left to interpretation. The city was Balishan ground. Access was a permission, and a permission is a thing that has an owner.
 
 "Yes," Draskin said.
 
@@ -268,7 +268,7 @@ He did not know which this was. He wrote the clause down and went on to artifact
 
 Artifacts took longer, and Venn came into it.
 
-Anything found in Lathion — object, text, material, mechanism — remained under Balishan jurisdiction. Urathan scholars could study, catalogue, copy, publish. They could remove nothing from the city without the Empress's written approval, given case by case.
+Anything found in Hauren — object, text, material, mechanism — remained under Balishan jurisdiction. Urathan scholars could study, catalogue, copy, publish. They could remove nothing from the city without the Empress's written approval, given case by case.
 
 Venn wanted to push. Xion saw the whole of it arrive in her and saw her decline to let it out — the small settling of a person putting something back down — and what she said instead was a technical question about the classification of copies, which he answered, and which she accepted.
 
@@ -324,13 +324,13 @@ He thought about that afterward. At the time he only registered that she knew pr
 
 Then he raised the chamber, because Draskin had not.
 
-That was the tell and it was not subtle to a man who had been listening for two hours. Draskin had not asked what the Empress had sealed. He had not asked why the expedition came up weeks early. He had built an entire access framework without once enquiring about the one thing in Lathion that the compact would need to be silent about, and a man does not fail to ask a question that size by accident.
+That was the tell and it was not subtle to a man who had been listening for two hours. Draskin had not asked what the Empress had sealed. He had not asked why the expedition came up weeks early. He had built an entire access framework without once enquiring about the one thing in Hauren that the compact would need to be silent about, and a man does not fail to ask a question that size by accident.
 
 He was leaving it implicit. He intended the access terms to be broad enough that the sealed door could be raised later, in a smaller room, on a quieter day, by somebody other than himself.
 
 Xion closed it.
 
-"One exclusion," he said. "The Empress has sealed a chamber in Lathion by imperial command. It sits outside this agreement entirely. No Urathan scholar approaches it, attempts entry, surveys or measures its exterior, or refers to its existence in published work, without written authority from the Empress herself." He set his pen down. "That is not a term I am able to trade against anything else in this document."
+"One exclusion," he said. "The Empress has sealed a chamber in Hauren by imperial command. It sits outside this agreement entirely. No Urathan scholar approaches it, attempts entry, surveys or measures its exterior, or refers to its existence in published work, without written authority from the Empress herself." He set his pen down. "That is not a term I am able to trade against anything else in this document."
 
 The room got very quiet.
 
@@ -450,7 +450,7 @@ They walked.
 
 "Venn."
 
-"She wants Lathion the way a nation of scholars would want it, and that reading covers everything she did today, and I believe it." He turned it over as he said it, checking the join. "But I could not find the bottom of her. With most people who want something badly, you get there eventually — you can see the whole of what they want and roughly what they would pay, and after that they're legible. I never got there with her. It kept going back."
+"She wants Hauren the way a nation of scholars would want it, and that reading covers everything she did today, and I believe it." He turned it over as he said it, checking the join. "But I could not find the bottom of her. With most people who want something badly, you get there eventually — you can see the whole of what they want and roughly what they would pay, and after that they're legible. I never got there with her. It kept going back."
 
 "Back into what?"
 

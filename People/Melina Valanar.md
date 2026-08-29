@@ -275,6 +275,8 @@ Melina rarely visits front lines. She commands from Kaha'an's central command ce
 
 Her composure is her most visible characteristic. Royal blue eyes maintained under extreme stress. Perfect emotional control as both discipline and identity. The moments when control breaks — the color shift when her parents vanish — are significant precisely because of how rare they are.
 
+The approved reference design fixes her face, build, dark hair, royal-blue eyes, resemblance pattern, and complexion. By authorial ruling on 2026-08-21, her complexion is light warm beige/olive inherited from both parents, close to their sheltered baseline and subtly less sun-touched than Tiberian. This reflects their different habits and training without making the fraternal twins unnaturally identical in tone.
+
 ### Behavioral Patterns
 
 - **Analytical processing**: Her default response to any situation is to understand it completely before acting. She maps systems, identifies variables, models scenarios, and plans contingencies. The processing is visible — observers watch the Kaleidoscope and know she's working.

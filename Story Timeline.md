@@ -107,7 +107,7 @@ that he had already governed for years before inheriting at fifteen.
 | BR Year | Age | Event |
 |---|---|---|
 | ~1024 | **3** | **The Rending.** Lady Kemvimore dies. Xion is three — what he keeps is warmth, not detail. |
-| **1036** | **15** | **Mira Fen** ("the real Master Fen") **executed** by Rosik. Xion takes up her name and work — the secret **"second life" as Master Fen begins** here. *(ch12, ch22)* |
+| **1036** | **15** | **Mira Fen** (the original *Fen*) **executed** by Rosik. Xion takes up her byname and work — the secret **"second life" as Master Fen begins** here. *(ch12, ch22)* |
 | 1036–1037 | 15→16 | Master Fen operates **alone** — the clinic in Janice's weaver shop, healing the poor in secret. About one year, and it is the only stretch he works without anyone. |
 | **1037** | **16** | **Silvanno finds out**, and the partnership begins — **7 years before Book 1**. Not a recruitment: Silvanno has known Xion since childhood (one of the friends the sickly boy couldn't go outside to play with), notices he's been spending time in the lower wards, and asks him directly rather than reporting it. *"Don't worry, I'm not going to turn you in. But what are you doing down there?"* From here the two of them work together, and everything else accretes around that pair. *(ch3 — "breaking the law beside you for seven years")* |
 | **1038** | **17** | **Kael Issamil joins — brought in by Silvanno, not Xion.** 6 years before Book 1. This is why Kael's loyalty runs through the friendship rather than through Xion's cause: he arrived as Silvanno's man and became Xion's over years. |
@@ -159,7 +159,7 @@ derived from the timing lines in the beat drafts and `book3_chapter_skeleton.md`
 | Ch7 Wonder | Wk 12–15 | *"the fourteenth day"* + two days' impasse; the Door opens at the end |
 | Ch8 Inhabitants | Wk 15 | the first day inside; the closed room and the twenty-year count |
 | Ch9 Neighbours | Wk 15–17 | the second day, continuous; the dispatch goes up |
-| Ch10–11 Lathion | Wk 17–19 | *"they have been exploring for weeks"* |
+| Ch10–11 Hauren | Wk 17–19 | *"they have been exploring for weeks"* |
 | Ch12 The Scholar's Crown | Wk 19 | **the day after** ch11 |
 | Ch13 Awakening | Wk 23–24 | the Crown's journey from the Ivory Tower is the gap |
 | Ch14 Ruthless Calculus | Wk 25 | |
@@ -204,14 +204,14 @@ Weeks are counted from **Book 1 ch1 = week 0** (Book 1 opens in **winter** — t
 
 | | Born | Birthday falls | Result |
 |---|---|---|---|
-| **Xion** | **late autumn, 1021 BR** | wk **51** — Book 3's wk 16 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Lathion**, during the ch8–10 exploration. Marries at 24 in ch20. |
+| **Xion** | **late autumn, 1021 BR** | wk **51** — Book 3's wk 16 | 23 for all of Books 1 and 2 and Book 3's first act; **turns 24 inside Hauren**, during the ch8–10 exploration. Marries at 24 in ch20. |
 | **Elara** | **summer, 1024 BR** | wk **24** — mid-Book 2 | 20 for all of Book 1, **crowned at 20**; 21 from mid-Book 2 onward, and 21 for all of Book 3. Marries at 21. |
 
 **Corrected 2026-08-03 — the ruling stands, the arithmetic under it did not.** The pin was originally
 Book 3's wk 13, derived from a table that gave ch7 a single week. Ch7's own prose does not fit in a week:
 *"the fourteenth day"*, two further days of impasse, and *"weeks"* of work before either. Ch7 therefore
-runs wk 12–15 and Lathion is not entered until the end of it, which put wk 13 at the Door rather than
-inside the city. **The author's ruling was never a week number — it was *turns 24 inside Lathion, with
+runs wk 12–15 and Hauren is not entered until the end of it, which put wk 13 at the Door rather than
+inside the city. **The author's ruling was never a week number — it was *turns 24 inside Hauren, with
 nobody mentioning it including him*** — so the week moved to preserve it rather than the reverse. Wk 51
 overall, Book 3's wk 16, comfortably inside the ch8–10 exploration. Late autumn still holds.
 
@@ -235,6 +235,6 @@ marriage all to finish before seventeen.
 From the outlines; placeholders, not locked:
 
 - **Book 4 (Harkim's War):** the Compact War (~6 months), following the Book 3 alliance.
-- **Books 5–8 (next generation):** **compressed generational jump** — Tiberian and Melina Valanar are **16** in Book 5, roughly **18 years after Book 1** (~1062 BR). Book 5 spans several months; Book 6 follows without a substantial gap and spans approximately eighteen months; Book 7 follows promptly with the twins about 18. Book 8 adds only the interval its story requires.
+- **Books 5–8 (next generation):** **compressed generational jump** — Tiberian and Melina Valanar are **16** in Book 5, roughly **18 years after Book 1** (~1062 BR). Book 5 spans several months; Book 6 follows without a substantial gap and spans approximately eighteen months; Book 7 follows promptly with the twins about 18. Kess Ashwood is also approximately eighteen when Tiberian frees her near the end of Book 6, making her their contemporary. Book 8 adds only the interval its story requires.
 
 *(Pin exact BR years here as these books get drafted.)*

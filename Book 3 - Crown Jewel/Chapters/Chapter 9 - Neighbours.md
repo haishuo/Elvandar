@@ -150,7 +150,7 @@ Third time in two days. He stopped a little way off, as he had that morning, and
 
 They looked down together. The shaft dropped away under them, level below level, each one turning at its own rate and none of them agreeing, down past the last thing he could resolve and further than that, to the slow warm colour everything up here was arranged around. The pulse came up out of it. Three seconds, and then three seconds. It had been the same at the Door and it was not the same here, because here it had weight, and the weight came up through the boots and stayed.
 
-The scholars had found something in the Crown inscriptions that afternoon — cross-references, four of them, all pointing at the same place on a level below this one. A chamber where the Lathionese had put what they knew. They had started calling it the Repository, half certain and half hoping, and had been saying the word all evening in the tone of men who did not want to jinx it.
+The scholars had found something in the Crown inscriptions that afternoon — cross-references, four of them, all pointing at the same place on a level below this one. A chamber where the Haureni had put what they knew. They had started calling it the Repository, half certain and half hoping, and had been saying the word all evening in the tone of men who did not want to jinx it.
 
 Neither he nor Elara said that this was where the heart of the place was.
 

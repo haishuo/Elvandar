@@ -30,6 +30,59 @@ and the decision to make it one is a decision about a book.
 
 ---
 
+## The First Charge of the Long Knives
+
+**When:** At Hauren's sealing, roughly two thousand years before Book 1.
+**Who:** Hauren's closing surface authorities and a small human custodial order.
+
+When Hauren withdrew from the surface, it destroyed the entrance through which the surface knew it. The
+Great Shaft was collapsed and filled from below; its elevator spine was dismantled; the freight road was
+collapsed. The Brass Door itself remained. It was sealed, and the natural caverns left between it and the
+surface were lethal, but it was still a physical threshold that a sufficiently determined or unlucky
+visitor might reach.
+
+The Haureni did not leave that final threshold to stone and probability alone. They entrusted it to a
+small human order drawn from among the last surface people they still trusted. The custodians were charged
+to control the surviving approaches, turn away curiosity, and ensure that nobody reached the Door. They
+were given enough knowledge to understand that the threshold mattered and that their charge was permanent.
+They were not given the reason for the sealing or the means to open it.
+
+The work shaped the order. Guarding a hidden threshold did not principally require ranks standing in front
+of it. It required watchers, guides, route control, secrecy, the ability to follow an intruder without
+being seen, and the ability to make a determined visitor disappear without advertising that anything had
+been guarded. The martial and assassination disciplines that later defined the Long Knives began as the
+instruments of that custodial duty. Killing was not the institution's original purpose. It was one of the
+methods by which the purpose could remain invisible.
+
+The order almost certainly received a Late Open Halauri institutional name. That name is lost and is
+not to be reconstructed until the language can produce it honestly.
+
+Two thousand years did what no deliberate betrayal did. The Great Shaft disappeared first from living
+memory and then from legend. The identity of the city behind the Door became a warning, then an
+importance, then nothing more articulate than *this must be guarded*. The reason for the charge vanished.
+The original route knowledge vanished too: collapses, flooding, changing passages, lost records, and failed
+transmission made any first map useless long before the present guild. The modern safe route through Dead
+Man's Passage was genuinely rebuilt through trial, error, and deaths. It is not an ancient chart recopied.
+
+The duty survived because the institution survived. It became hereditary tradition, then professional
+taboo: the order guarded the Door because the order had always guarded the Door. Its disciplines found
+other uses on the surface and in the tunnels. Watchers became intelligence brokers; silent removals became
+contract killing; control of approaches became territorial rule. By the modern period the custodial order
+was an assassins' guild and criminal power whose current Balishan name is translated for the reader as
+**the Long Knives**. The name preserves the weapon and the method. It does not preserve the mandate.
+
+The Mistress does not know this history. She inherits the charge, knows the Door is important, and supplies
+the strategic explanation available to her: whoever controls the route controls the value beyond it. Her
+long game is real, but it is a modern rationalization for a duty older than every state on the continent.
+Her words to Elara—*we've waited this long; we can wait longer*—are therefore more literal than she knows.
+
+**Why this entry exists:** Book 1 depends on the Long Knives watching the Brass Door before Elara reaches
+it and preserving a duty they cannot explain; Book 3 depends on the route being the guild and not a map the
+crown can purchase; every later journey into Hauren depends on their continued control. The origin remains
+author-facing history. No surviving Long Knife can explain it on the page.
+
+---
+
 ## The Taking of the Tiger Prince
 
 **When:** Between Book 6 and Book 7, during the population of the Green Cities.
@@ -182,17 +235,17 @@ books stand on consequences whose causes are never depicted.
 was soft. The Tripartite Alliance as a combined force — Uratha's technological and magical sophistication,
 Balisha's political and economic weight, Terinok's martial excellence — was a coalition that had to be
 disrupted before it could coordinate. **The strike was a strategic compliment.** The specific aim was to
-cut Uratha off from Balisha and Terinok and to slow its work on Lathion technology before the alliance's
+cut Uratha off from Balisha and Terinok and to slow its work on Hauren technology before the alliance's
 advantage became decisive.
 
 **Why each party was in it.** Gunastran acted out of existential panic at being technologically outrun.
 **Erulius joined out of spite and wounded pride, following Kalden's rejection by Elara Valanar** — the war
 is, at its root, partly a jilted suitor's grievance escalated to a continental scale, which is a fact
-about Kalden that Books 5 and 7 both rest on. Uratha could not surrender the Lathion advantage it had
+about Kalden that Books 5 and 7 both rest on. Uratha could not surrender the Hauren advantage it had
 bought with the Scholar's Crown. Vartonne's stake is unstated beyond Lord Mallory being absurd.
 
 **The opening.** Empirica — Uratha's second city and its maritime research hub — falls in the first
-chapter of Book 4, violently, with Gunastran bombardment while scholars burn Lathion documentation. **The
+chapter of Book 4, violently, with Gunastran bombardment while scholars burn Hauren documentation. **The
 attack specifically targets research centres**, which confirms the strategic priority: deny the Alliance
 the technological edge.
 
@@ -204,7 +257,7 @@ equipped for the war it was in, and its gaps were absorbed in the field by Terin
 scholars condescend to most openly.
 
 **How it ended, and why the Compact lost.** The northern arm of the pincer never arrived — see **The King's Gambit** below, which is the causal core of the whole war. Then an Alliance counteroffensive, with **Terinok warriors leading the assault on Empirica**
-while Lathion-derived defensive technology was deployed. Resistance activated inside the city, scholar and
+while Hauren-derived defensive technology was deployed. Resistance activated inside the city, scholar and
 bakarn together. The liberation was messy and violent. The Alliance won.
 
 **What it cost Erulius, which is the consequence with the longest reach.** Reparations Kalden refused to
@@ -226,7 +279,7 @@ separate note below.
   roughly eighteen years after Book 1 (~1062 BR) and the war "following the Book 3 alliance", which leaves a
   wide unpinned gap.
 - **Balisha's war.** The King's Gambit is now the one substantial piece of it, and it covers the opening
-  phase only. Elara deployed Lathion technology and Xion coordinated strategy; beyond that, **what Balisha
+  phase only. Elara deployed Hauren technology and Xion coordinated strategy; beyond that, **what Balisha
   did for the remaining months, where, and at what cost is unwritten.**
 - **Terinok's war**, beyond leading the assault that took Empirica back.
 - **The other fronts.** Empirica is the only theatre anyone has described. Whether there were others, and
@@ -266,7 +319,7 @@ live chess imagery anywhere.***
 
 ### Why he did it
 
-Xion could not pretend he was not a large part of why the war had started. The alliance, the Lathion
+Xion could not pretend he was not a large part of why the war had started. The alliance, the Hauren
 work, and the marriage that answered Kalden's suit were all his doing or downstream of it, and Book 3
 ch18 already has him arriving at the council *already knowing the shape of it* — a war triggered by
 conditions he helped create, beginning before the defensive architecture was finished.

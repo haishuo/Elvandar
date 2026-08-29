@@ -102,7 +102,7 @@ The most mysterious magical items in Elvandar are not simply powerful Arcane con
 - Arcane Function: Projects and reflects fears and emotions
 - True Magic Recognition: Only functions for those courageous enough to face their accumulated fears from multiple lifetimes
 
-### Lathion's Technology
+### Hauren's Technology
 The ancient city's self-maintaining systems represent the highest achievement in combining Arcane precision with True Magic principles. Their technology doesn't just run on magical energy but on the collective will and sacrifice of their creators - divine fragments choosing to preserve and protect knowledge for future generations.
 
 ## Historical Implications
@@ -112,7 +112,7 @@ The Empire's greatest achievements were unconsciously supported by True Magic:
 - Imperial wards strengthened by subjects' genuine love for their homeland
 - Prosperity flowed when rulers truly cared for their people
 - The empire began declining when leadership became focused on power rather than service
-- **The Rending** was stopped not by Lathion's technology alone, but by the ultimate True Magic act - an entire civilization's divine fragments choosing perfect self-sacrifice
+- **The Rending** was stopped not by Hauren's technology alone, but by the ultimate True Magic act - an entire civilization's divine fragments choosing perfect self-sacrifice
 
 ### Why the Seven Sins Matter
 Each successor state's embrace of a deadly sin cuts them off from True Magic:
@@ -138,7 +138,7 @@ Every major event has two explanations:
 
 ### The Hidden Layer (True Magic)
 - Xion's healing success when driven by pure compassion
-- Elara's connection to Lathion through an ancient soul's recognition
+- Elara's connection to Hauren through an ancient soul's recognition
 - The Scholar's Crown awakening to genuine worthiness
 - Resistance movements succeeding when united by authentic shared purpose
 - Critical moments where "impossible" coordination or timing saves the day
@@ -148,7 +148,7 @@ Neither characters nor readers fully grasp this deeper layer. Like the character
 ## Implications for Character Development
 
 ### Elara's Journey
-Her color-changing eyes aren't just a royal trait but possibly a sign of an **ancient soul** that more readily remembers its divine nature. Her connection to Lathion, the Scholar's Crown's response, and her effectiveness as a leader all suggest a divine fragment that has learned across many lifetimes.
+Her color-changing eyes aren't just a royal trait but possibly a sign of an **ancient soul** that more readily remembers its divine nature. Her connection to Hauren, the Scholar's Crown's response, and her effectiveness as a leader all suggest a divine fragment that has learned across many lifetimes.
 
 ### Xion's Healing
 His success doesn't come from herbal knowledge alone but from genuine compassion that occasionally triggers True Magic. He attributes miraculous recoveries to medicine and the patient's strength, never realizing his authentic care sometimes rewrites reality.

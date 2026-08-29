@@ -70,7 +70,7 @@ east of the city, in the desert, on the Path. Nobody picks that battlefield. Ari
 **The waystations are early warning and relay in one system, and the relay is instantaneous.** *(Made
 explicit 2026-08-02. This was implicit before and the implicitness was a defect — an outside reader went
 through this book's entire timing sequence without picking it up. The mechanism is now stated outright in
-`Places/Kaha'an/Lathion_ The Lost City of Gears.md`, "The Relay.")* The waystations carry Lathion
+`Places/Kaha'an/Hauren_ The Lost City of Gears.md`, "The Relay.")* The waystations carry Hauren
 communication relays, the third tier of the technology to reach the surface after water and energy. **The
 Golden Path was already a chain of warded, defended, maintained points at regular intervals across lethal
 ground** — which is exactly the shape a relay chain needs, so Balisha put the stations where the stations
@@ -458,7 +458,7 @@ Silaris. Two minutes is outside anything anyone had grounds to model.
 entire sequence and did not pick up the mechanism, because the mechanism was never stated — which means a
 reader will file Rosik's death as coincidence. An earlier phrasing here said "four days' communication";
 both that and a subsequent attempt to run the clock on a relay **rider** are wrong. The road carries a
-Lathion relay and **the signal is instantaneous.**)*
+Hauren relay and **the signal is instantaneous.**)*
 
 **There is no travel time on the information, and that is the whole point.** The Golden Path's waystations
 are relay stations; both ends of this are on the chain. **Melina learns that Kalden is dead within minutes

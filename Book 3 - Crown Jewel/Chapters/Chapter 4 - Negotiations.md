@@ -208,7 +208,7 @@ He got as far as the corner, where Farleen was, and did not say anything for two
 
 The session on Gunastran took an hour, which was about fifty minutes longer than the decision needed.
 
-Nobody argued about the destination. Valorian had made the case in one sentence a fortnight earlier and nobody had improved on it since: the door was, by every appearance anybody had, an engineering problem, and there was one nation on the continent whose entire self-regard rested on being able to say what a mechanism was for. Silvanno said one sentence about the Tor'anar — that the corps had been asked, had come, had tried, and had said plainly that the instrument was wrong — and the room let it lie, because it was a settled fact and not a wound, and because the man who had said it had made it easy to leave alone.
+Nobody argued about the destination. Hadris had made the case in one sentence a fortnight earlier and nobody had improved on it since: the door was, by every appearance anybody had, an engineering problem, and there was one nation on the continent whose entire self-regard rested on being able to say what a mechanism was for. Silvanno said one sentence about the Tor'anar — that the corps had been asked, had come, had tried, and had said plainly that the instrument was wrong — and the room let it lie, because it was a settled fact and not a wound, and because the man who had said it had made it easy to leave alone.
 
 What Xion argued about was the shape of the approach.
 

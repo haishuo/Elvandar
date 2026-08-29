@@ -1,20 +1,20 @@
-# **Lathion: Physical Layout and Geography**
+# **Hauren: Physical Layout and Geography**
 
 ## **Overview**
 
-Lathion, known in legend as "The City of Gears," is an underground elven metropolis built five thousand years ago, located directly beneath what would become Kaha'an. The city was designed as a marvel of magi-tech engineering—seven massive circular levels that rotate independently, powered by geothermal energy from the planet's core.
+Hauren, known in legend as "The City of Gears," is an underground elven metropolis built five thousand years ago, located directly beneath what would become Kaha'an. The city was designed as a marvel of magi-tech engineering—seven massive circular levels that rotate independently, powered by geothermal energy from the planet's core.
 
 **Location:** Beneath Kaha'an (modern surface city built unknowingly above)  
  **Depth:** Extends from \-500 meters to approximately \-2,000 meters below surface  
 **Size:** Roughly half the area of modern Kaha'an's surface footprint<br>
-**Population at Peak:** \~500,000 Lathionese elves<br>
+**Population at Peak:** \~500,000 Haureni elves<br>
 **Current Status:** Sealed from the surface ~2,000 years ago; inhabited until the Rending; empty for the twenty years since; systems still functioning
 
-**Canonical visual reference:** [Lathion — First Entry](<Lathion - First Entry.png>) depicts the Crown as Xion's expedition first sees it in Book 3, Chapter 7, *Wonder*.
+**Canonical visual reference:** [Hauren — First Entry](<Hauren - First Entry.png>) depicts the Crown as Xion's expedition first sees it in Book 3, Chapter 7, *Wonder*.
 
-![Canonical visual reference: Lathion's Crown at first entry](Lathion%20-%20First%20Entry.png)
+![Canonical visual reference: Hauren's Crown at first entry](Hauren%20-%20First%20Entry.png)
 
-The illustration is canonical for Lathion's visual register: a dense concentric ring-city whose pale civic surfaces, dark mechanical understructure, brass ribs, blue-white systems, garden terraces and radial streets all belong to one operating machine. It is a scene illustration rather than a scale drawing; the dimensions and seven-level geometry below remain authoritative.
+The illustration is canonical for Hauren's visual register: a dense concentric ring-city whose pale civic surfaces, dark mechanical understructure, brass ribs, blue-white systems, garden terraces and radial streets all belong to one operating machine. It is a scene illustration rather than a scale drawing; the dimensions and seven-level geometry below remain authoritative.
 
 ---
 
@@ -22,28 +22,28 @@ The illustration is canonical for Lathion's visual register: a dense concentric 
 
 ### **Purpose and Design**
 
-The extensive tunnel network that current Warren residents inhabit was never meant for habitation. It is sophisticated infrastructure designed to support Lathion proper—the city far below. These service tunnels connect the surface to Lathion at \-500+ meters depth, serving multiple critical functions.
+The extensive tunnel network that current Warren residents inhabit was never meant for habitation. It is sophisticated infrastructure designed to support Hauren proper—the city far below. These service tunnels connect the surface to Hauren at \-500+ meters depth, serving multiple critical functions.
 
 ### **Ventilation System**
 
-**Purpose:** Circulate fresh air from the surface throughout Lathion's seven levels, and exhaust stale air back to surface.
+**Purpose:** Circulate fresh air from the surface throughout Hauren's seven levels, and exhaust stale air back to surface.
 
 **Major Ventilation Shafts:**
 
 * Diameter: 3-5 meters  
-* Run vertically or at steep angles from surface to Lathion  
+* Run vertically or at steep angles from surface to Hauren  
 * Equipped with magi-tech fans (still functional after 5,000 years)  
 * Fans operate on geothermal power drawn from the Core  
 * Create continuous air circulation throughout the underground city  
 * Multiple redundant shafts (designed for safety and load distribution)
 
-**Waystation Function:** Rest stops for maintenance workers traveling between surface and Lathion. Workers would monitor air quality, check fan operation, and make repairs during regular maintenance cycles.
+**Waystation Function:** Rest stops for maintenance workers traveling between surface and Hauren. Workers would monitor air quality, check fan operation, and make repairs during regular maintenance cycles.
 
-**Current State:** Still functional. The fans continue turning, drawing fresh air down and pushing stale air up. This is why Warren residents can survive in the tunnels—the Lathionese ventilation system is still doing its job, albeit supporting a fraction of its designed population.
+**Current State:** Still functional. The fans continue turning, drawing fresh air down and pushing stale air up. This is why Warren residents can survive in the tunnels—the Haureni ventilation system is still doing its job, albeit supporting a fraction of its designed population.
 
 ### **Water Access System**
 
-**Purpose:** Draw fresh water from underground aquifers and transport it to Lathion's water distribution network.
+**Purpose:** Draw fresh water from underground aquifers and transport it to Hauren's water distribution network.
 
 **Water Access Tunnels:**
 
@@ -51,12 +51,12 @@ The extensive tunnel network that current Warren residents inhabit was never mea
 * Run horizontally toward deep aquifers  
 * Contain pumping stations with magi-tech pumps  
 * Pumps draw water and pressurize it for distribution  
-* Connected to Lathion's internal water network  
+* Connected to Hauren's internal water network  
 * Multiple sources for redundancy
 
 **Waystation Function:** Monitoring stations where workers would check water quality, maintain pumps, and ensure proper pressure. Equipment storage for pump repairs and water testing apparatus.
 
-**Current State:** Six major pumping stations still function. The magi-tech pumps continue drawing water from aquifers, though now they serve Warren residents instead of Lathionese elves. Some purification systems still work (the blue-lit chambers deeper in the network), providing cleaner water than others.
+**Current State:** Six major pumping stations still function. The magi-tech pumps continue drawing water from aquifers, though now they serve Warren residents instead of Haureni elves. Some purification systems still work (the blue-lit chambers deeper in the network), providing cleaner water than others.
 
 ### **Maintenance Corridors**
 
@@ -66,17 +66,17 @@ The extensive tunnel network that current Warren residents inhabit was never mea
 
 * Width: 1.5-2.5 meters  
 * Most common tunnel type  
-* Built to Lathionese proportions (elves were tall and slender)  
+* Built to Haureni proportions (elves were tall and slender)  
 * Narrow and winding (efficiency prioritized over comfort)  
 * Connect all waystations and major systems
 
 **Waystation Function:** Tool storage, worker break areas, equipment caches. Small waystations (10-15 meters diameter) served individual maintenance teams.
 
-**Current State:** Structurally sound but confusing to navigate. The Lathionese used a logical mathematical system for layout and marking, but humans can't read the language or understand the underlying principles.
+**Current State:** Structurally sound but confusing to navigate. The Haureni used a logical mathematical system for layout and marking, but humans can't read the language or understand the underlying principles.
 
 ### **Emergency Escape Routes**
 
-**Purpose:** Evacuate Lathion's population to the surface in case of catastrophic system failure.
+**Purpose:** Evacuate Hauren's population to the surface in case of catastrophic system failure.
 
 **Design:**
 
@@ -89,7 +89,7 @@ The extensive tunnel network that current Warren residents inhabit was never mea
 
 **Waystation Function:** Emergency shelters stocked with supplies (now empty or decayed). Medical stations for treating evacuees. Staging areas for organized evacuation.
 
-**Current State:** Most structurally sound passages in the network. The Lathionese over-engineered these routes for safety, which is why they've survived 5,000 years intact.
+**Current State:** Most structurally sound passages in the network. The Haureni over-engineered these routes for safety, which is why they've survived 5,000 years intact.
 
 ### **Waystations: True Purpose**
 
@@ -116,9 +116,9 @@ The extensive tunnel network that current Warren residents inhabit was never mea
 * Emergency shelters  
 * Dead-end monitoring points
 
-**Why They're Comfortable:** Waystations were designed for workers who spent days or weeks maintaining systems. The Lathionese built them with high ceilings, good ventilation, water access, and comfortable temperatures. They weren't utilitarian tunnels—they were functional workspaces.
+**Why They're Comfortable:** Waystations were designed for workers who spent days or weeks maintaining systems. The Haureni built them with high ceilings, good ventilation, water access, and comfortable temperatures. They weren't utilitarian tunnels—they were functional workspaces.
 
-**Current Irony:** The Lathionese maintenance workers' rest stops now house 60,000 human refugees. The spaces designed for dozens of elves taking breaks now shelter hundreds of desperate families.
+**Current Irony:** The Haureni maintenance workers' rest stops now house 60,000 human refugees. The spaces designed for dozens of elves taking breaks now shelter hundreds of desperate families.
 
 ---
 
@@ -126,14 +126,14 @@ The extensive tunnel network that current Warren residents inhabit was never mea
 
 ### **What It Was**
 
-For the first three millennia of Lathion's existence the city was **not sealed**, and it did not receive the world through a gear in a cave. It received the world through the Great Shaft — a single enormous vertical conduit running from the surface down to the Crown, and the piece of engineering the Lathionese put in front of everybody they wanted to impress.
+For the first three millennia of Hauren's existence the city was **not sealed**, and it did not receive the world through a gear in a cave. It received the world through the Great Shaft — a single enormous vertical conduit running from the surface down to the Crown, and the piece of engineering the Haureni put in front of everybody they wanted to impress.
 
 **The shaft:**
 
 * A clear vertical bore from the surface to the Crown's arrival level  
 * Diameter on the order of the central city shaft — a work of civil engineering visible as a landmark in its own right  
 * Finished the whole way: no bare rock anywhere on the descent  
-* Lit, ventilated and climate-controlled from top to bottom, so that the journey down was already inside Lathion
+* Lit, ventilated and climate-controlled from top to bottom, so that the journey down was already inside Hauren
 
 **The elevator spine:** not one car but a system, in the way a modern building has a system. Multiple magitech cars ran the shaft on independent tracks:
 
@@ -141,7 +141,7 @@ For the first three millennia of Lathion's existence the city was **not sealed**
 * **Secondary passenger cars** — routine traffic, smaller and faster, for people who were not being received  
 * **Freight cars** — heavy-goods lifts on their own tracks, sized for cargo rather than dignity
 
-**What it opened into:** the Crown's **Arrival Halls** and, beyond them, the **Diplomatic Quarter** — which is why those districts exist and why the Crown's architecture is "grand and impressive, designed to awe visitors from the surface." The Crown was built to be the face Lathion showed the world, and the Great Shaft is how the world got to it.
+**What it opened into:** the Crown's **Arrival Halls** and, beyond them, the **Diplomatic Quarter** — which is why those districts exist and why the Crown's architecture is "grand and impressive, designed to awe visitors from the surface." The Crown was built to be the face Hauren showed the world, and the Great Shaft is how the world got to it.
 
 **The Brass Door is the other thing.** It is the freight entrance — the loading dock at the back of the building, reached by the haul road, unceremonious because it was never ceremonial. That is why the antechamber beyond it is a bare eight-meter room and why the passage below it is "well-made and unbeautiful." A staff door into a beautiful building is still a staff door.
 
@@ -149,11 +149,11 @@ For the first three millennia of Lathion's existence the city was **not sealed**
 
 At the sealing ~2,000 years ago the Great Shaft was **deliberately collapsed and filled from below**, and the elevators were destroyed. Both halves of that sentence are load-bearing:
 
-**Filled, not merely sealed.** There is no open pit under Kaha'an. A kilometer-deep hole in the ground would be the most famous landmark in the province — somebody's well-digger, somebody's foundation crew or somebody's caravan would find it inside a generation, and the entire premise that the surface has forgotten Lathion exists depends on there being nothing left to find. The surface trace is gone. Sand and two thousand years finished whatever the Lathionese left undone.
+**Filled, not merely sealed.** There is no open pit under Kaha'an. A kilometer-deep hole in the ground would be the most famous landmark in the province — somebody's well-digger, somebody's foundation crew or somebody's caravan would find it inside a generation, and the entire premise that the surface has forgotten Hauren exists depends on there being nothing left to find. The surface trace is gone. Sand and two thousand years finished whatever the Haureni left undone.
 
-**Destroyed, and then salvaged.** The Lathionese did not abandon a spine of the finest magitech they ever built. They stripped it. The cars were broken up and the recoverable components went back into the city, where they are presumably still doing quiet work in systems nobody has yet identified. Whatever residue lies at the bottom of the filled shaft is the part that was not worth carrying home.
+**Destroyed, and then salvaged.** The Haureni did not abandon a spine of the finest magitech they ever built. They stripped it. The cars were broken up and the recoverable components went back into the city, where they are presumably still doing quiet work in systems nobody has yet identified. Whatever residue lies at the bottom of the filled shaft is the part that was not worth carrying home.
 
-**What is not known, and by whom.** Nobody on the surface knows the Great Shaft existed. Nobody in Lathion survived to say so. The reason for the sealing went with them — see `Lathion_ The Lost City of Gears.md`. **The Repository does not hold the answer either**; if it did, somebody would ask it, and the question is worth more unanswered than answered.
+**What is not known, and by whom.** Nobody on the surface knows the Great Shaft existed. Nobody in Hauren survived to say so. The reason for the sealing went with them — see `Hauren_ The Lost City of Gears.md`. **The Repository does not hold the answer either**; if it did, somebody would ask it, and the question is worth more unanswered than answered.
 
 ---
 
@@ -161,7 +161,7 @@ At the sealing ~2,000 years ago the Great Shaft was **deliberately collapsed and
 
 ### **Nothing About It Was Designed**
 
-**Dead Man's Passage is not Lathionese construction and was never intended to be a route to anywhere.** It is a natural cavern network in the bedrock below the service tunnels (-500 to \-700 meters), formed by ordinary geological processes — water erosion, fault movement, mineral precipitation. The Lathionese inherited it as a feature of the ground they built in. They did not cut it, mark it, or fortify it.
+**Dead Man's Passage is not Haureni construction and was never intended to be a route to anywhere.** It is a natural cavern network in the bedrock below the service tunnels (-500 to \-700 meters), formed by ordinary geological processes — water erosion, fault movement, mineral precipitation. The Haureni inherited it as a feature of the ground they built in. They did not cut it, mark it, or fortify it.
 
 This is the single most important thing to hold on to when writing the Passage, because the temptation to make it sinister is constant and it is always wrong. Every quality that makes it lethal is geology:
 
@@ -173,13 +173,19 @@ This is the single most important thing to hold on to when writing the Passage, 
 
 **Why it kills:** in complete darkness, with no sense of direction or elapsed time, a competent navigator becomes lost, and a lost man at −600 meters dies of thirst before anything else reaches him. The Passage requires no malice to be lethal. It is simply a very large piece of unlit, unmapped, hot, wet rock, and there is no key to it because there is nothing keyed.
 
-**No true path exists in any Lathionese sense.** There is one route that gets a person from the Warrens to the Brass Door alive, and it was found the way such routes are always found: by the Long Knives, over years, through trial, error, and a great many corpses. The map is theirs. It is not a rediscovery of anything, and it is not marked on the walls. (See `The Warrens_ Factions and Power Structures.md`: the Mistress's map is her single most valuable possession precisely because it was bought and cannot be inferred.)
+**No true path exists in any Haureni sense.** There is one route that gets a person from the Warrens to
+the Brass Door alive, and its modern form was found by the Long Knives over years, through trial, error,
+and a great many corpses. Their founding custodians once guarded the approach, but two millennia of
+collapse, flooding, lost records, and institutional drift destroyed whatever route knowledge those humans
+received. The Mistress's map is not an ancient chart or a rediscovery of marked ways. It is theirs because
+they bought it again, and it cannot be inferred. (See `Offstage.md`, “The First Charge of the Long Knives,”
+and `The Warrens_ Factions and Power Structures.md`.)
 
 ### **The Freight Road That Used to Be Here**
 
-During the open period, Lathion's service and freight traffic did not crawl through caves. **A cut Lathionese haul road descended from the service tunnel network to the Brass Door,** running through and alongside the natural cavern system — which is why the Door stands where it stands, at a boundary that otherwise makes no sense. Freight moved on the road. The caves were the geology the road was driven through and around.
+During the open period, Hauren's service and freight traffic did not crawl through caves. **A cut Haureni haul road descended from the service tunnel network to the Brass Door,** running through and alongside the natural cavern system — which is why the Door stands where it stands, at a boundary that otherwise makes no sense. Freight moved on the road. The caves were the geology the road was driven through and around.
 
-**When Lathion sealed itself ~2,000 years ago, the haul road was deliberately collapsed** — the same act, the same day's reasoning, as the collapsing of the Great Shaft. This matters and should not be softened into decay: Lathionese construction does not decay. Everything else they built is still running after five millennia. Only demolition explains a missing road, and the Lathionese were thorough about the doors they closed.
+**When Hauren sealed itself ~2,000 years ago, the haul road was deliberately collapsed** — the same act, the same day's reasoning, as the collapsing of the Great Shaft. This matters and should not be softened into decay: Haureni construction does not decay. Everything else they built is still running after five millennia. Only demolition explains a missing road, and the Haureni were thorough about the doors they closed.
 
 What remained after the demolition was the raw cavern network the road had bypassed. That network is what the Warrens now call Dead Man's Passage. Nobody living has any idea a road was ever there.
 
@@ -198,7 +204,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * 5 meters tall, 3 meters wide  
 * Constructed of brass-like alloy (unknown composition, impossibly durable)  
 * Circular design with gear motif  
-* Surface covered in intricate Lathionese script and geometric patterns  
+* Surface covered in intricate Haureni script and geometric patterns  
 * Mathematical equations inscribed around the perimeter  
 * Perfectly preserved after 5,000 years
 
@@ -211,11 +217,20 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * No visible lock, handle, or keyhole  
 * Operates on magi-tech principles  
 * Requires specific combination of:  
-  * Lathionese linguistic command (spoken password)  
+  * Haureni linguistic command (spoken password)  
   * Mathematical sequence (numerical code)  
-  * Magical resonance (attunement to Lathionese magical signature)
+  * Magical resonance (attunement to Haureni magical signature)
 
-**Why It's Sealed:** The Brass Door was sealed approximately 2,000 years ago, when Lathion withdrew from surface relations and collapsed the Great Shaft that had been its primary surface gate. The Brass Door — the freight entrance, reached in the open period by a cut haul road that was collapsed in the same operation — was sealed as a contingency, on the reasonable assumption that nobody would brave the natural caves left behind (Dead Man's Passage) to reach a door that would not open anyway. The Lathionese did not "depart" — they continued to live in Lathion for the next two millennia behind the seal, ending only twenty years ago in the Rending. The door has remained sealed throughout: 2,000 years of Lathionese choosing isolation, followed by 20 years of nobody being left to open it.
+**Why It's Sealed:** The Brass Door was sealed approximately 2,000 years ago, when Hauren withdrew from
+surface relations and collapsed the Great Shaft that had been its primary surface gate. The Brass Door—the
+freight entrance, reached in the open period by a cut haul road that was collapsed in the same operation—
+was sealed as a contingency. The Haureni expected the remaining natural caves and the lock to defeat
+almost anyone, but they did not leave the last physical threshold to probability alone: they commissioned
+a trusted human custodial order to control its surviving approaches. That order became the Long Knives;
+the full account is in `Offstage.md`. The Haureni did not “depart”—they continued to live in Hauren for
+the next two millennia behind the seal, ending only twenty years ago in the Rending. The Door remained
+sealed throughout: 2,000 years of Haureni choosing isolation, followed by 20 years of nobody being left
+to open it.
 
 ### **The Antechamber**
 
@@ -224,7 +239,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 **First Chamber:**
 
 * Small circular room, 8 meters diameter  
-* Perfectly smooth walls (true Lathionese architecture)  
+* Perfectly smooth walls (true Haureni architecture)  
 * Faint blue lighting from functional magi-tech systems  
 * Temperature controlled at comfortable 20°C (68°F)  
 * No dust, no debris—self-cleaning systems still operate
@@ -234,17 +249,17 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * Deep rhythmic sound audible from below (1 pulse per \~3 seconds)  
 * Sense of pressure, of weight—something massive operating nearby  
 * Air perfectly fresh (connected to main ventilation)  
-* The chamber is pristine, as if the Lathionese left yesterday
+* The chamber is pristine, as if the Haureni left yesterday
 
-**Beyond the Antechamber:** A descending passage leads to Lathion's uppermost level (The Crown). The passage is wide (5 meters), well-lit, and features a mechanical conveyor system still functional for rapid descent.
+**Beyond the Antechamber:** A descending passage leads to Hauren's uppermost level (The Crown). The passage is wide (5 meters), well-lit, and features a mechanical conveyor system still functional for rapid descent.
 
 ---
 
-## **Lathion Proper: The Seven Levels**
+## **Hauren Proper: The Seven Levels**
 
 ### **Overall Structure**
 
-**City Layout:** Lathion consists of seven massive circular levels, each built around a central shaft. Each level rotates independently on enormous gear-driven mechanisms powered by geothermal energy from the Core. The levels are stacked vertically with the largest at the top, decreasing in size as they descend.
+**City Layout:** Hauren consists of seven massive circular levels, each built around a central shaft. Each level rotates independently on enormous gear-driven mechanisms powered by geothermal energy from the Core. The levels are stacked vertically with the largest at the top, decreasing in size as they descend.
 
 **The Central Shaft:**
 
@@ -255,7 +270,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * Observation platforms at each level  
 * The "spine" of the city
 
-**Size Comparison:** The total area of all seven levels combined equals roughly half of modern Kaha'an's surface area. At peak population, Lathion housed \~500,000 elves across these levels.
+**Size Comparison:** The total area of all seven levels combined equals roughly half of modern Kaha'an's surface area. At peak population, Hauren housed \~500,000 elves across these levels.
 
 ### **Level 1: The Crown (Uppermost Level)**
 
@@ -267,13 +282,13 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 **Districts:**
 
-* **The Gleaming Palace:** Seat of Lathion's government  
+* **The Gleaming Palace:** Seat of Hauren's government  
 * **The Diplomatic Quarter:** Embassy district for surface nations  
 * **The Archives:** Historical records and cultural repositories  
 * **The Garden Terraces:** Surface plants grown under artificial sunlight  
 * **The Arrival Halls:** Entry point from surface tunnels
 
-**Architecture:** Grand and impressive, designed to awe visitors from the surface. High ceilings (10-15 meters), wide boulevards (20-30 meters), ornate facades. This was the face Lathion showed to the world.
+**Architecture:** Grand and impressive, designed to awe visitors from the surface. High ceilings (10-15 meters), wide boulevards (20-30 meters), ornate facades. This was the face Hauren showed to the world.
 
 **Materials:** White stone with brass accents. Smooth walls, perfect angles, no visible seams. Glowing panels provide ambient lighting.
 
@@ -299,7 +314,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 **Materials:** Pale stone, large windows (illusory—showing magical projections of sky), extensive use of crystal for light diffusion.
 
-**Current State:** Books remain on shelves. Scrolls in cases. Laboratories contain experiments frozen mid-progress. The knowledge of Lathion waits silently.
+**Current State:** Books remain on shelves. Scrolls in cases. Laboratories contain experiments frozen mid-progress. The knowledge of Hauren waits silently.
 
 ### **Level 3: The Residences (Living Districts)**
 
@@ -307,7 +322,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
  **Diameter:** \~2.5 kilometers  
  **Designed Population:** \~150,000
 
-**Purpose:** Primary residential district for Lathion's population.
+**Purpose:** Primary residential district for Hauren's population.
 
 **Districts:**
 
@@ -391,23 +406,23 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
  **Diameter:** \~500 meters  
  **Designed Population:** \~0 (automated systems only)
 
-**Purpose:** The heart of Lathion—the geothermal power generation facility.
+**Purpose:** The heart of Hauren—the geothermal power generation facility.
 
 **The Geothermal Core:**
 
 * Taps directly into the planet's molten core via deep shafts  
 * Generates enormous quantities of power through heat conversion  
-* Powers all of Lathion's systems  
+* Powers all of Hauren's systems  
 * Self-maintaining through automated systems  
 * Still active after 5,000 years
 
-**The Central Chamber:** A massive spherical chamber (300 meters diameter) containing power generation and distribution systems. The chamber is a complex three-dimensional lattice of brass gears, crystal conduits, and glowing energy channels. The systems rotate in complex patterns, generating and distributing power throughout Lathion.
+**The Central Chamber:** A massive spherical chamber (300 meters diameter) containing power generation and distribution systems. The chamber is a complex three-dimensional lattice of brass gears, crystal conduits, and glowing energy channels. The systems rotate in complex patterns, generating and distributing power throughout Hauren.
 
-**Architecture:** Pure function. Every surface serves a purpose—power conduits, cooling systems, maintenance access, control panels. The most technologically dense space in Lathion.
+**Architecture:** Pure function. Every surface serves a purpose—power conduits, cooling systems, maintenance access, control panels. The most technologically dense space in Hauren.
 
 **Materials:** Heat-resistant alloys, enchanted brass that channels magical energy, crystal matrices for power conversion. Everything built to withstand extreme temperatures and magical energy.
 
-**Current State:** Fully operational. The power generation systems continue their eternal task, maintaining Lathion's systems with no inhabitants to serve. The chamber is hot (35-40°C), loud (machinery hum), and bright (energy discharge creates constant illumination).
+**Current State:** Fully operational. The power generation systems continue their eternal task, maintaining Hauren's systems with no inhabitants to serve. The chamber is hot (35-40°C), loud (machinery hum), and bright (energy discharge creates constant illumination).
 
 **The Deep Rhythm:** The sound that echoes up to the brass door chamber—a rhythmic pulse of the power systems. One pulse per approximately three seconds as the primary distribution cycle completes.
 
@@ -417,7 +432,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 ### **The Rotation Mechanism**
 
-**How It Works:** Each of Lathion's seven levels sits on a massive gear-bearing system. Geothermal power drives the rotation slowly—each level completes one full rotation every 24 hours (though at different speeds and directions).
+**How It Works:** Each of Hauren's seven levels sits on a massive gear-bearing system. Geothermal power drives the rotation slowly—each level completes one full rotation every 24 hours (though at different speeds and directions).
 
 **Purpose:**
 
@@ -443,7 +458,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * Operated by mechanical systems powered from the Core  
 * Can travel between any two levels  
 * Still functional  
-* Respond to pressure plates and control panels marked in Lathionese
+* Respond to pressure plates and control panels marked in Haureni
 
 **Design:**
 
@@ -456,7 +471,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 ### **Self-Repair Systems**
 
-**Automated Maintenance:** The Lathionese built self-repair systems into Lathion's infrastructure:
+**Automated Maintenance:** The Haureni built self-repair systems into Hauren's infrastructure:
 
 * Cleaning automatons remove dust and debris (spider-like constructs)  
 * Repair constructs fix minor damage (various specialized forms)  
@@ -471,7 +486,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * Repairs executed following pre-programmed protocols  
 * Systems return to standby after completing tasks
 
-**Current State:** Still active. This is why Lathion looks recently abandoned rather than ancient. The self-repair systems have maintained the city for 5,000 years as if the residents will return.
+**Current State:** Still active. This is why Hauren looks recently abandoned rather than ancient. The self-repair systems have maintained the city for 5,000 years as if the residents will return.
 
 **Limitations:**
 
@@ -484,7 +499,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 ## **Access and Security**
 
-### **From Surface to Lathion**
+### **From Surface to Hauren**
 
 **The Complete Journey:**
 
@@ -502,13 +517,13 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 **Passive Security:**
 
-* Dead Man's Passage (not a security measure — natural caves that happen to kill people; the Lathionese relied on it without building it)  
+* Dead Man's Passage (not a security measure — natural caves that happen to kill people; the Haureni relied on it without building it)  
 * Brass door lock (prevents unauthorized access)  
 * Level-specific access controls (some areas require additional clearance)  
 * The Repository chamber (requires magical attunement to access safely)  
 * The Core chamber (sealed against unauthorized entry)
 
-**Active Security:** Unknown if any guardian constructs remain active. The Lathionese may have left automated defenses that activate if certain conditions are met.
+**Active Security:** Unknown if any guardian constructs remain active. The Haureni may have left automated defenses that activate if certain conditions are met.
 
 ### **The Long Knives' Knowledge**
 
@@ -521,12 +536,15 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 **What They Don't Know:**
 
-* The door leads to Lathion proper  
-* What Lathion is or was  
+* The door leads to Hauren proper  
+* What Hauren is or was  
 * How to open the door  
 * What lies in the depths beyond
 
-**Why They Guard It:** Instinct and tradition. The Mistress has made guarding the route to the brass door a core Long Knives mission, recognizing its importance even without understanding what it protects.
+**Why They Guard It:** An inherited charge reduced to instinct and tradition. The founding order was
+commissioned to guard this threshold, but its Haureni name, patron, and explanation are lost. The
+Mistress knows only that guarding the route is a core Long Knives duty and recognizes its strategic value
+without understanding what it protects.
 
 ---
 
@@ -539,7 +557,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * Ventilation systems (fans turning, air circulating)  
 * Water pumping stations (drawing from aquifers)  
 * Geothermal power generation (Core still active)  
-* Lighting systems (throughout Lathion proper)  
+* Lighting systems (throughout Hauren proper)  
 * Temperature control (all levels maintained at comfortable range)  
 * Rotation mechanism (levels still turning)  
 * Elevators (functional but waiting)  
@@ -549,7 +567,7 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 
 **What Doesn't Work:**
 
-* Communication systems (no one to communicate with) — **the entry is precise and should not be read as damage.** The relay is fully functional; what it lacks is a second party. **This is the system Balisha revives and puts on the Golden Path's waystations**, and it is instantaneous over arbitrary distance. See `Lathion_ The Lost City of Gears.md`, "The Relay."  
+* Communication systems (no one to communicate with) — **the entry is precise and should not be read as damage.** The relay is fully functional; what it lacks is a second party. **This is the system Balisha revives and puts on the Golden Path's waystations**, and it is instantaneous over arbitrary distance. See `Hauren_ The Lost City of Gears.md`, "The Relay."  
 * Automated food production — **fully operational, and still producing at capacity.** The terraces fed a population of roughly 100,000 for the two thousand years of the seal; they are still running at that rate for nobody  
 * Some magical wards (faded over millennia)  
 * External sensors (monitoring surface activity, now non-functional)  
@@ -564,10 +582,10 @@ Still deadly, and deadly for the reasons it has always been. Five thousand years
 * Organic materials: **essentially nothing has decayed, because twenty years is not long enough.** Crops and stored produce are current — the farm never stopped. **Cloth, bedding, clothing and furnishings are intact**; textiles do not rot in two decades in a climate-controlled city with no weather and no vermin. The expedition is walking through a fully furnished city, not a stripped one  
 * Mechanical systems: Operational
 
-> **Corrected 2026-08-04.** Three entries in this file still described Lathion as a five-thousand-year
+> **Corrected 2026-08-04.** Three entries in this file still described Hauren as a five-thousand-year
 > ruin with dead gardens and decayed food stores. That is pre-revision lore and it contradicted both the
 > fresh-tomb canon and `Chapter 7 - Wonder`, which has the terraces *"green. Growing — actually
-> growing."* **Nothing in Lathion was damaged and nothing was interrupted.** The city was emptied by a
+> growing."* **Nothing in Hauren was damaged and nothing was interrupted.** The city was emptied by a
 > deliberate, prepared, consensual sacrifice; the machinery it left behind has run without a break ever
 > since. Where an entry reads as decline, check whether it is describing an event or an absence — the
 > answer is almost always an absence.  

@@ -365,6 +365,16 @@ the oldest open question any faction in the series has, it is held by somebody w
 antagonist, and it is aimed at the one thing Elara cannot supply. Do not let a revision convert the
 Mistress into a mentor, a patron, or an enemy; her whole position is that she is *waiting*.
 
+**The waiting now has an author-facing origin, settled 2026-08-22.** At Hauren's sealing roughly two
+thousand years ago, the Haureni commissioned a small trusted human custodial order to control the final
+approach to the Brass Door. Surveillance, route control, hidden movement, and silent killing began as the
+instruments of that charge. The original Late Open Halauri name, patron, reason, and knowledge of what
+lay behind the Door were lost across two millennia; the mandate survived and the institution became the
+Modern-Balishan-named **Long Knives**. The Mistress does **not** know the history. Her leverage theory is a
+modern rationalization for the duty she inherited. The modern route map was rebuilt through deaths after
+the founding route knowledge was lost—it is not a two-thousand-year-old chart—and Book 3's *the route is
+the guild* remains untouched. `Offstage.md`, “The First Charge of the Long Knives,” is the single source.
+
 **The wound in front of him — B1 ch22 planted, Book 7 collects.** *The authority for this book is `Book 7 - Last Debts/book7_outline.md`, which is detailed and predates all of this; everything below has been reconciled against it, and the one place it was overridden is flagged there in its own structural note.* *Planned, not written. Constraints only; the staging belongs to Book 7's beat drafts.*
 
 In ch22 Xion says, at the top of his voice, that healers are not judges, that they do not decide who is worthy of care, that they treat the wound in front of them — **and he says it about Rosik**: *my father decided Mira didn't deserve to live. Two words and she was gone. So no — I won't make those judgments.* That is a plant, and the outline puts Rosik on the ground in front of him in Book 7, dying of an Arol Batae spear, having come there to kill him. Xion works on him. It is not forgiveness and it is not belief; it is the only thing he has ever been able to do with a body in front of him. **He fails.**
@@ -475,13 +485,13 @@ find me. We should talk."* B3 ch2 is Elara arriving without the answer, and the 
 **whatever is behind the Brass Door, she hears it from Elara directly, before the court and before it is
 written anywhere.** That promise is now load-bearing in two directions. It is why the Long Knives permit a
 camp in the chamber they have guarded for generations, which is what ch6's expedition and ch9's exit both
-sit on top of. And it is a debt with a due date: **the moment Lathion is opened, Elara owes her a briefing
+sit on top of. And it is a debt with a due date: **the moment Hauren is opened, Elara owes her a briefing
 ahead of her own court**. Do not let the ch6 wonder chapter carry the payment — that scene takes one
 emotion.
 
 **Where it is paid — settled 2026-08-06, and it nearly was dropped.** Ch11 triggers the promise twice in
 forty seconds: the Engine answers the B1 ch21 question of *what she is*, and the Door is open and she knows
-what is behind it. **Ch12's draft then had her at a table with Draskin at noon trading Lathion — the court
+what is behind it. **Ch12's draft then had her at a table with Draskin at noon trading Hauren — the court
 hearing it, and a treaty written down — with the Mistress unmentioned in the entire chapter.** As planned,
 Elara would have broken her word on the page and no one in the book would have noticed. The fix is
 **ch12 beats 1–2: the Mistress is received at dawn, ahead of everything**, told the truth and not a version
@@ -577,7 +587,7 @@ C-26, C-27 and C-28 were opened in their place and all three are applied — see
 
 These are live work, not review findings against finished prose.
 
-**B3-1 is closed** — the Lathion arc is written through ch13 and the three constraints it carried are
+**B3-1 is closed** — the Hauren arc is written through ch13 and the three constraints it carried are
 now a settled ruling; see [§6](#6-settled-rulings).
 
 ### Book 6 — in draft
@@ -595,6 +605,436 @@ the character.
 - **Draskin's description in `Chapter 4 - Negotiations` may contradict `Hubris` and `The Scholar's
   Crown`.** Flagged when those chapters were drafted and never resolved. Check before Act III drafting
   reaches him.
+
+### Languages — in development
+
+**Generative priority — AUTHOR'S RULING, 2026-08-22.** Language creation now follows the same iterative
+authority as canonical character art: build the artifact until the author approves it, then retrofit
+canon to agree. History and culture constrain the speakers, contact routes, institutions, and registers;
+the existing name corpus does **not** select the language's sounds, roots, grammar, or derivations.
+
+**Protection ladder clarified by the author, 2026-08-22.** P0 now contains **Xion, Elara, Valanar,
+Kemvimore, Rosik, Kaha'an,** and the complete institutional name **Arol Batae**. P0 compels accommodation:
+the language history must reach these forms however much legitimate historical layering that requires.
+P1 contains words present in chapter prose. They are nearly fixed and should survive whenever a natural
+route exists, but they may change before the language is contorted around them. P2–P4 have no linguistic
+design authority; they may be ignored during construction and should be replaced when their register is
+wrong.
+
+`Languages/Design Plates/Early Imperial Balishan - Plate 1.md` is the first clean generative proposal and
+was **approved by the author on 2026-08-22**. It is now the canonical foundation for Early Imperial
+Balishan. The earlier contact phonologies,
+settlement derivations, imperial cluster, *fen/sar/len/sathen*, *dal/seldal*, *-annas*, and *Hadris* are
+now candidates from a superseded reconstruction plate. None is grandfathered; each may return only by
+winning on the merits of an approved language.
+
+`Languages/Design Plates/Late Open Halauri - Plate 1.md` is now the **working, unapproved** proposal for
+the final broadly surface-facing stage of living Open Halauri. It independently supplies metropolitan
+SOV and taught contact SVO registers, case marking, institutional and place derivation, a seed lexicon,
+formal claim-source clitics, and a first cognate pool aimed toward approved EIB. It derives P0 *Kaha'an*
+from *kaha* “sovereign public authority” + narrow office-seat *-'an*, and P0 *Arol Batae* from *arol* “old”
++ *bata-e* “constituted guarding body.” The plate remains generally unapproved, but its roots ***lita***
+“open; expose access” and ***rava*** “assembled civic community,” plus the compound ***Litarava***, are
+canonical in the bounded province-name history through the approved Balishan realm/province plate. No
+other form becomes canon merely through that bounded approval.
+**Example notation is explicit as of 2026-08-22:** bold first lines are ordinary author-facing
+romanization with affixes and clitics joined; italic second lines are morphological analysis, where `-`
+marks an affix boundary and `=` marks a clitic. The native script and its spacing remain unbuilt.
+
+`Languages/Design Plates/Late Open Halauri - Plate 2.md` is the **working, unapproved** productive test
+for ***-'an***. The apostrophe writes an actual /ʔ/, and the construction is not ordinary possession:
+genitive *-n* answers “whose?”, ordinary site *-eth* says work happens there, and *-'an* forms the
+recognized locus where an institution is legally present and able to issue effective acts. The fresh
+family was generated before returning to P0: **veda'an, esha'an, netha'an, ketha'an, vela'an, riena'an,
+bata'an,** and **thuma'an**. *Kaha'an* is therefore the sovereign and historically surviving member of a
+real construction, not the only word invented to justify itself. None of the new forms is canon until the
+author approves the plate or a bounded part of it.
+
+The construction also produces a historically useful near-collision: Late Open ***kahan doma***
+/ˈka.han ˈdo.ma/ is “a building of the Crown,” with case suffix *-n*, while ***Kaha'an*** /ka.ˈha.ʔan/
+is the complete noun “Royal Seat,” with derivational *-'an*. Human glottal loss makes the descendants easy
+to confuse and permits later folk etymology, while the learned apostrophe preserves the older distinction.
+
+**Urathan pronunciation — AUTHOR'S RULING, 2026-08-22.** Kaha'ani residents call their city
+**kah-HAN**, /kaˈhan/; Urathans call it **kah-HAH-an**, /ka.ˈha.ʔan/, and characteristically enunciate the
+hiatus and glottal stop. The Urathan form is not confined to formal citation: Collegiate renewal has made
+the learned pronunciation the standard Urathan proper name inside otherwise ordinary speech. An Urathan
+using **kah-HAN** is accommodating or code-switching toward the city. To Kaha'ani ears, the Urathan
+default sounds book-taught and determined to pronounce the city's own name more correctly than its
+inhabitants do—which is exactly the intended cultural effect.
+
+**The name *Lathion* was an authorized replacement target — AUTHOR'S RULING, 2026-08-22.** It was not P0
+and, despite appearing in Book 3 prose, received no P1 design deference. The Foundational city-name plate
+generated the original name from the founding event, carried it through three millennia of native change,
+and then through human surface transmission before the reader-facing replacement was approved. Verified
+pre-migration blast radius: **zero occurrences in Book 1–2 prose; 33 occurrences across eight Book 3
+chapter files; 124 across sixteen Book 3 beat drafts; 33 generated Book 3 HTML occurrences; 1,523 total
+occurrences across 94 current repository files excluding `TGMS - OLD/`.**
+
+`Languages/Design Plates/Foundational City Name - Plate 1.md` is the first working native-name plate. The
+author's 2026-08-22 preference promotes ***Halauren*** (Late Open city endonym) and ***Halauri*** (native
+people, language, and adjective) as the lead ancient suite, from Foundational *Halā-qur-ēna*, “Life Under
+Shelter” or historically “the Refuge of the Living.” This permits the city to have begun as an actual
+refuge while leaving what drove the elves underground deliberately unknown; no Halauri survive and no
+surface account reaches the founding. Refuge does not predict the sealing three thousand years later.
+
+`Languages/Design Plates/Halauren Name Transmission - Plate 1.md` separates that endonym from the modern
+human name. `Languages/Design Plates/Surface Halauric Bridge - Plate 1.md` now tests the bridge on
+forty-one unrelated cognates before applying it to the city-name. The resulting approved modern suite is
+***Hauren***, **HOW-ren**, /ˈhau.rən/, for the city and ***Haureni***, **HOW-reh-nee**, /ˈhau.re.ni/, for
+the people, language, and adjective. Native *Halauri* and learned *Halauren/Halaurena* remain distinct
+historical forms. **The author approved the native name, full transmission, bridge, and modern suite on
+2026-08-22.** *Lathion/Lathionese* are retired labels. The separate controlled migration conformed Book 3
+prose, its beat drafts and skeleton, generated Royal Road HTML, and downstream current canon to
+**Hauren/Haureni**; ancient native and author-facing linguistic contexts use **Halauri/Halauric**.
+
+**Place-names are now derived as transmission histories, not one-step glosses.** `Languages/Toponymy and
+Name Transmission.md` records the first naming community, original referent, source language, borrowing
+and inheritance stages, regular sound changes, modern endonyms/exonyms, reader-facing translation, and
+protection tier for each important place. A location may carry separate names for its landform,
+settlement, imperial construction, transferable title, province, and modern state. The immediate plate
+order is Old/Open Halauri; the Surface-Halauric bridge into approved EIB; modern Balishan/Kaha'ani and
+Vartonnian; Terinoki; Urathan; Erulian; Gunastran; Silarian; and Frozen North languages only when needed.
+
+`Languages/Design Plates/Modern Balishan - Plate 1.md` is the **working, unapproved** national and Kaha'ani
+daughter-language proposal. It keeps the approved Early Imperial SVO, prepositional, particle-based frame;
+retains **c** /ts/, **j** /dʒ/, and **ai/au/oi** in ordinary speech; and makes urban Kaha'ani distinct
+through frequency-driven contraction, cliticization, and commercial ellipsis rather than reader-facing
+eye-dialect. Its learned court channel remains socially and phonetically distinct. The independent
+geographic test generates inherited and new vocabulary for the old fertile heartland, port infrastructure,
+and post-Rending desert, then separates opaque pre-imperial names, **-ava** imperial foundations,
+function/terrain compounds, locally compressed names, and transparent post-Rending names. The P0 suite
+fits without a new ordinary phoneme or single-use grammar rule. No generated Modern Balishan form or map
+replacement is canon until the author approves this plate or a bounded subsystem.
+The post-generation comparison also exposes one real decision: the superseded reconstruction's proposed
+respect title **sar** collides with canonical Early Imperial **sar** “seed.” Homophony is possible but is
+not presumed merely to preserve the older coinage; the honorific must win a controlled test or change.
+
+`Languages/Design Plates/Modern Balishan - Plate 2.md` is the **approved canonical lost-province suite**.
+The Rending makes the corpus unusually free: none of the lost settlements is a navigable present-day
+destination, and the former support labels had no chapter-prose footprint. The canonical settlements are
+**Talrava, Gonmer, Yelava, Unava, Tirun, Feshber,** and **Durcai**. The canonical landmarks and works are
+**Dunyelas** forest, **Dunkargar** fortress, **Limel Mar** Great Plain, **Gonmel Mar** Great Grainlands,
+**Yeltal** river, **Yelpas** forest passage, **Unpel Dun** northern aqueduct, **Maulom** harbor basin, and
+the **Maukaras** reef coast. **Dunyelas** replaces *Deepwood Forest* and **Dunkargar** replaces *Fort
+Dinkarth* in current canon. `Places/Balisha/Pre-Rending Litrava.md` records how the settlements, farms,
+water system, coast, and northern tariff bypass functioned as one country before the Rending removed every
+node outside protected Kaha'an. This bounded approval canonizes only the geographic material required by
+the suite; Modern Balishan Plate 1 remains otherwise working.
+
+`Languages/Design Plates/Balishan Realm and Province Names - Plate 1.md` is the **approved canonical**
+realm/province split. It generates western substrate ***bal***, an apportioned common share carrying an
+obligation, and fossil territorial ***-isha*** before deriving pre-imperial Vartonne-country
+***Balisha***, “share-country.” The country-name widens to Valan's polity, then remains attached to the
+portable Crown and state after the capital transfer and Vartonne's secession. **The author revised the
+eastern suite on 2026-08-27:** Late Open Halauri ***Litarava***, *lita + rava*, “the Community of the
+Opening,” becomes human ***Litrava***, **LIT-rah-vah**, /ˈlit.ra.va/. It first names the recognized human
+surface community around Hauren's opened access, then broadens into the country and province containing
+Kaha'an. Litrava is the seventh province while Balisha remains the supra-provincial empire and later
+successor state; approved territorial ***-an*** regularly gives ***Litravan*** /ˈlit.ra.van/. The Rending
+destroys Litrava as a functioning country and explains why the state-name, but
+not the province-name, remains ordinary modern geography. Supporting geography and the map are conformed;
+chapter prose already used only generic references and did not change.
+
+**Talrava remains canonical by authorial ruling, 2026-08-27.** Its resemblance to *Litrava* is a genuine
+etymological family resemblance, not an accidental near-duplicate: contact-era *Litarava > Litrava* and
+younger Early Imperial *Talarava > Talrava* independently preserve Halauri-derived *rava* “civic
+community/city.” The former is an opaque country-name by Year 0; the latter is the transparent “river
+city” inside it.
+
+**Legacy note:** the remainder of this language subsection records the superseded reconstruction pass.
+Its history and cultural findings remain useful; its linguistic “settled,” “binding,” and “passed” labels
+have been overridden by the ruling above and carry no current authority.
+
+**L-1 — culture-first reconstruction is open.** The language material now lives under `Languages/` and
+begins with `Ethnolinguistic History.md`. The inherited naming guide remains authoritative for explicit
+authorial rulings but its proposed family tree, phonological signatures and etymologies are working
+hypotheses until culture and chronology support them.
+
+**Urathan genealogy is settled:** it descends from Imperial Balishan, with at least 349 years of independent
+development between secession in 695 BR and Book 1 in 1044 BR, plus an older period of differentiation as an
+academy, city and province inside the empire. **Its scholarly register is deliberately re-Halaurized**, not
+merely conservative: scholars revive old roots and coin new compounds in the prestige tongue because age
+signals dignity, precision and institutional authority. `Languages/Urathan.md` holds the full register
+model. Its first controlled contrasts are inherited root stress versus learned penultimate stress,
+ordinary loss of /ʔ/ versus restoration in citation, SVO vernacular clauses versus cultivated verb-final
+academic structures, and inherited vocabulary versus revived or newly coined Hieratic material. The exact
+academy founding date and local population remain open, so Urathan is not yet assigned exclusively to the
+Vartonnian or Kaha'ani daughter branch.
+
+`Languages/Design Plates/Modern Urathan - Plate 1.md` is the **working, unapproved** full-language
+proposal. It derives a brisk Imperial-Balishan vernacular beneath a deliberately archaizing Collegiate
+register, then tests that machinery on Uratha's state intelligence and research-enforcement service. The
+generated full title is *Vela Theraris, Rava Eshais va Koiathu Vedaris Kethae*, “The Constituted Commission
+for Licensed Inquiry, Civic Order, and Extraordinary Mandates.” **Approved 2026-08-22:** the common
+formal name is ***Vela Theraris*** and ordinary speech uses ***the Theraris***. The two-word form is a
+complete service-name on the same terms as *Arol Batae* and *Kaha Batae*, not an incomplete clipping.
+P3 *Ilhamori* and its unsupported “eternal flame” analysis are retired. This bounded approval does not
+approve the remainder of Modern Urathan Plate 1.
+
+`Languages/Design Plates/Modern Urathan - Plate 2.md` is the **working, unapproved** Tower-name test. It
+treats the familiar English Tower names as reader-facing translations, distinguishes physical **durdom**
+from institutional **Dur**, and generates the native common suite **Palmur Dur, Zhalkar Dur, Nirkar Dur,
+Senkar Dur, Selkar Dur, Halkar Dur, Mosar Dur, Noskar Dur,** and **Nosyel Dur**. It also generates current Collegiate charter titles
+and three secret registers: whispered **Nosyel Dur** “Ebony Tower,” technical **Limzhomor** “Globehall,”
+and ledger euphemism **Koiathu Rienaeth** “Extraordinary Preservation Annex.” No generated Plate 2 form
+is canon until the author judges the complete suite.
+
+`Languages/Design Plates/Modern Urathan - Plate 3.md` is the **approved** Modern Urathan numeral system.
+It preserves inherited **an, du, sei, kau > ko, pem,** and **des**, generates the remaining standardized
+digits **nu, vek, zhu, tae, nor**, and builds every ordinary quantity from coefficient-before-rank
+**des** “ten,” **hek** “hundred,” and **mir** “thousand.” Values are grouped in triads; ten thousand is
+**des mir**, hundred thousand **hek mir**, and no separate ten-thousand rank exists. Large scales use
+productive **kel** “count; measure”: **mir kel du** is 1,000² or one million, **mir kel sei** is 1,000³,
+and the exponent can itself be any numeral. The plate also proposes **nu** as zero/gap, **koi** as decimal
+point, **tir** for fractions, and inherited **=ya** for ordinals. **Approved 2026-08-22:** the full spoken
+system and its reader-facing translation policy are canon; glyph shapes, measurement units, arithmetic
+operators, currency subdivision, and regional counting systems remain open extensions.
+
+**Vartonne's origin is settled:** the river settlement and its name predate the empire; Valan I Valanar's camp
+absorbed it in 0 BR and founded the monumental concentric capital later histories mean by "the city." The
+settlement/capital distinction also lets House Kemvimore's lineage predate the imperial city without
+predating human settlement on the site. `Languages/Balishan.md` holds the foundation. **Valan I Valanar is
+the founding emperor**, and the overview's former "several dynasties" are successive reigning branches of
+House Valanar: cadet lines and marriages change the ruling branch without breaking the house's seven-century
+continuity. The throne-name pool accumulates after Valan I rather than predating him.
+The name itself is now derived in `Languages/Halauric Core Lexicon.md`: CON *vart* “confluence,
+meeting-center” + borrowed LOL *onna* “established settlement” gives **“Settlement at the Confluence”**
+and modern **VAR-ton**, /ˈvar.ton/. “Heart-place” is the legitimate poetic interpretation, not the narrow
+gloss.
+**There is no question to solve in the state and capital having different names:** Balisha is the realm;
+Vartonne is a city; Kaha'an is the capital-title. What *Balisha* denoted before the empire is an eventual
+etymology question, not a coherence gap.
+
+**The founding coalition is settled at the institutional level.** Valan's following supplied command and
+arbitration; Vartonne supplied river transport, agriculture, markets, and the first capital's daily base;
+Marresonne supplied commercial networks, scribal practice, and transmitted Halauri learning. Valan won
+Terinok's blades through demonstrated martial worth, but its cantons did not surrender the Warrior's Code,
+internal command, or sovereignty. A later emperor's attempt to subordinate the Code broke that conditional
+oath; Elara's Book 3 alliance restores the founding relation between worthy Valanar and equal cantons.
+`Languages/Early Balishan Culture.md` holds the full cultural and linguistic consequences. The precise feat,
+oath form, and Valan's pre-imperial origins remain later construction questions rather than continuity gaps.
+
+**The 500 BR imperial hinge and population transfer are settled.** The move begins under the fiction of a
+temporary or seasonal eastern court and becomes permanent across successive reigns. The imperial household,
+Kaha Batae, resident envoys, portable government, maritime and foreign offices, ambitious noble branches,
+financiers, clerks, artisans, servants, suppliers, and other people whose livelihoods depend on access
+follow the throne to Marresonne. The court does not replace the port population. Their Imperial Balishan
+enters local marriages, schools, offices, and workshops, and the city renamed *Kaha'an* becomes the social
+center of a new coastal court koine.
+
+**What stays is equally causal.** Vartonne retains the Hall of Records, land and grain machinery, old
+courts, cathedral establishments, hereditary offices, estate administration, and most ordinary residents.
+Its formal register preserves old legal syntax, role relics, and procedures because those forms continue to
+authorize those institutions; spoken Vartonnian nevertheless keeps changing through western syncope and
+final-vowel loss. Conservatism is institutional, not linguistic stasis.
+
+**The first imperial daughter split is established.** Common Imperial Balishan retains its
+Vartonnian-derived SVO and prepositional frame. Transferred Court Balishan admits coastal /s/ outcomes,
+fuller weak vowels, harbor and commercial usage, and intensified Hieratic renewal beside western compact
+forms already spread through the koine. Modern Balishan is the national/administrative descendant centered
+on the surviving capital; Kaha'ani is its urban dialect and cultural adjective. The Rending produces rapid
+dialect leveling among refugees, not a new language in twenty years. Vartonnian remains mutually
+intelligible but diverges most sharply in archival, ceremonial, rural, and deliberately national speech.
+`Languages/Imperial Balishan.md` is authoritative for the transfer and first correspondences.
+
+**Balishan genealogy is settled:** Proto-Balishan and Imperial Balishan descend from human-nativized
+Surface Halauric, rather than from an unrelated human language carrying only prestigious Halauri
+loans. Living metropolitan Halauri develops through the sealed period into Terminal Halauri;
+Hieratic Old Halauri continues as a conservative but historically changing human textual tradition;
+Surface Halauric develops into the Vartonnian/Marresonnian continuum and the imperial koine. An older
+human **Ancestral Continental** stratum survives as substrate in its sounds, constructions, names, and
+vocabulary. Its independent branches are deliberately unassigned: Terinoki, Old Gunastran, and Erulian
+will not be forced into one deep family before their peoples are built. `Languages/Language Families.md`
+is authoritative for this relationship.
+
+**Hauren's contact culture is settled at the language-facing level.** The Great Shaft, Arrival Halls, and
+Diplomatic Quarter sustained routine diplomatic, mercantile, instructional, freight, visitor, and refugee
+traffic. Crown officials, interpreters, teachers, copyists, merchants, technical instructors, apprentices,
+and surface communities used a teachable contact register; growing human-to-human use turned it into
+Surface-Halauric mother tongues without Halauri conquest. Hauren itself had broad functional civic
+literacy but tiered access to advanced texts, one related script tradition with multiple hands and
+technical extensions, and distinct household, civic, Crown, Athenaeum, Forge, Arcanum, and Repository
+registers. The sealing ends contact while speech continues changing on both sides. `Languages/Halauri
+Culture.md` is authoritative; the reason for the sealing remains canonically lost. Exact lifespan,
+constitution, theology, household form, glyphs, and sealed-period sound changes remain construction
+questions, not continuity gaps.
+
+**The attested-form inventory is established.** `Languages/Attested Forms Register.md` separates forms
+from proposed etymologies and assigns five change-cost tiers: protected/locked, prose-established,
+load-bearing planned, supporting-canon, and disposable construction material. **Xion, Elara, Valanar,
+Kemvimore, Rosik, Kaha'an, Balisha, and Balishan survive any reconstruction;** prose forms strongly govern
+it; off-screen forms may change only after the relevant sound system demonstrates a real conflict.
+Silaris is fully available for later replacement but not presently inconsistent. Uratha's off-screen
+Latinate map names (*Lumina Vale, Empirica, Memorium, Agraria*) are the clearest future register audit.
+The old naming guide's root glosses remain hypotheses, and the apostrophe is no longer treated as an
+automatic family marker across unrelated Halauri-looking and Terinoki forms.
+
+**The inventory exposed one continuity question rather than silently solving it:** the Vartonne dossier
+names **Emperor Varellian IV** as the ruler who moved the court in 500 BR, but *Varellian* is absent from
+the settled throne-name pool; the Silaris dossier also supplies **Tiberan II**, while Elara's father is
+Tiberan IV. Both are now indexed in `Names.md` and the forms register. Determine whether the throne-name
+pool is incomplete or whether either off-screen historical name should change before deriving royal
+morphology.
+
+**The first contact-era phonologies and ordered daughter changes are established.** `Languages/Late Open
+Halauri.md` defines the teachable public register: five stable vowels, default penultimate stress, clear
+hiatus, ordinary voiced and voiceless stops, **th** /θ/, **sh** /ʃ/, rare learned **x** /ɕ/, phonemic **'**
+/ʔ/, and predominantly simple onsets. `Languages/Ancestral Continental.md` defines the minimal human
+substrate profile: initial root stress, unstressed centralization and loss, broad clusters and codas,
+disfavored hiatus, and no common /θ/, /ɕ/, or /ʔ/ contrasts. The interaction supplies a mechanism for
+Surface-Halauric reduction and clusters without making it “bad Halauri.” `Languages/Early Surface
+Halauric.md` orders that interaction, distinguishes coastal Marresonnian from western Vartonnian
+outcomes, and explains how the later imperial koine can inherit from both. `Languages/Grammar
+Foundations.md` now supplies the minimum structural history: Late Open has head-final noun phrases,
+verb-final neutral civic clauses, final role marking, and productive linking vowels; Ancestral Continental
+has the same modifier-before-head order but ordinary SVO clauses, prepositions, and direct compounds.
+Early Surface keeps the shared noun-phrase order while shifting its ordinary clause frame and spatial
+grammar toward the substrate. `Languages/Halauric Core Lexicon.md` passes the first lexical test: LOL
+*on-* “dwell permanently” + result/place *-na* produces *onna* “established settlement,” whose coastal,
+western, and documentary descendants yield **-onne**. CON *vart + onna* regularly produces *Vartonne*;
+LOL *marreth* “sheltered deep-water sea-harbor” + *onna* regularly produces coastal *Marresonne* through
+/θ/ > /s/ and vowel reduction. The earlier off-screen placeholder *Marrethonne* is retired because keeping
+it would require a learned spelling exception for a form the story does not need to protect.
+The second controlled test derives the imperial cluster: whole-title LOL *Kaha'an* through Hieratic
+transmission; human learned *Kaha Batae* and post-Rending *Arol Batae*; and hybrid *Arol Rhutan*, whose
+ordinary inherited head descends from LOL *re-hutan*. Exact grammatical exponents and almost all other
+roots remain uncoined.
+
+**The imperial transmission test also passes.** Existing western /t/, coastal /s/, and learned /θ/
+channels; ordinary loss versus learned restoration of /ʔ/; root-initial inherited stress versus
+penultimate learned stress; and ordinary hiatus repair versus careful retention survive the capital move
+as social alternatives within one political language. No protected or prose-established form requires a
+respelling.
+
+**The first productive Imperial-Balishan morphology test passes.** Early Imperial polity-relational
+***-an*** /an/ derives *Balishan* and *Urathan* from the realm stems, with regular *a + a* coalescence.
+Marresonnian–Late Imperial settlement-relational ***-i*** /i/ derives city-local *Kaha'ani* from the whole
+title; historical /ka.ˈha.ʔa.ni/ regularly yields native Kaha'ani /kaˈha.ni/. The semantic division is
+now binding: *Balishan* and *Urathan* operate at polity,
+people, and national-language scale; *Kaha'ani* names an inhabitant, urban cultural adjective, or the
+capital's dialect/accent. One person can be both Balishan and Kaha'ani. LOL bound *-'an* inside *Kaha'an*
+is a third, older morpheme meaning a governing seat. *Terinoki, Gunastran, Erulian, Marresonnian,* and
+*Vartonnian* are not pulled into the system by visual resemblance. No name changes were required.
+
+**The first ordinary Balishan lexical test passes.** CON ***fen*** /fen/, **FEN**, means “prepare plant
+remedies; herbal medicine as skilled work.” Its stressed CVC form survives Surface-Halauric change
+unchanged. Zero derivation supplies the activity, craft, and practitioner without a suffix; context and
+the existing optional-number grammar distinguish “herb-work,” one *fen*, and multiple practitioners.
+The word has no gender—“Mira the herb-woman” is an English explanation, not a feminine form.
+
+The semantic boundary is binding: ***fen*** is herbal/apothecary work, not the general word for every
+healer. Mira was both a *fen* and a healer; Xion learned *fen* from her and extended his practice into
+wounds, infection, surgery, and broader care. Master Keelen demonstrates that an apothecary can use his
+personal name rather than *Fen* as a compulsory title.
+
+The three fixed story forms use the common noun differently. ***Mira Fen*** is personal name plus
+occupational byname. ***Master Fen*** is native *sar Fen*, a respect title plus trade used as a complete
+working identity—effectively “respected [the] Herb-worker”—which is why it is anonymous. ***Xion Fen*** is the crown
+allowing a common trade noun to occupy the imperial house-name field. Capitalization reflects the
+author-facing byname or title; it is not spoken morphology. None of the three creates a surname, house,
+Fen lineage, or Fen cousin. `Languages/Halauric Core Lexicon.md` is authoritative.
+
+**The first ordinary Balishan honorific test passes.** CON ***sar*** /sar/, **SAHR**, survives unchanged
+as an invariant title placed before a personal name or occupational byname. It recognizes a socially
+established adult or someone acting in a respected skilled capacity; it is not a guild grade, licence,
+house name, or noble rank. English translates the same genderless form as *Master* or *Mistress*.
+
+The four closed examples are native *sar Fen, sar Janice, sar Keelen,* and *sar Keya*: reader-facing
+*Master Fen, Mistress Janice, Master Keelen,* and *Mistress Keya*. Keya is the controlling edge case—she
+is Xion's older patient, not a practitioner—so the title marks ordinary adult respect rather than mastery
+of a craft. Janice's bare *Fen* remains an intimate omission. Noble *young master*, cartel or corps
+headship, mastery grades, and the Long Knives' unique *Mistress* are separate English senses and remain
+uncoined in Balishan.
+
+**The first ordinary Balishan medical-register test passes.** CON ***len*** /len/, **LEN**, means “treat or
+mend a sick or injured living body” and zero-derives the practice and practitioner translated
+*healing/healer*. It is broader than *fen*, does not promise a cure, and does not lexically contain Xion's
+ethical rule that healers treat the wound in front of them. That rule belongs to his and Mira's vocation,
+not to every speaker's dictionary.
+
+CON practical-service site suffix ***-um*** /um/ reduces regularly to /əm/ in Surface Halauric. It gives
+***lenum*** /ˈle.nəm/, **LEN-əm**, “clinic,” and ***fenum*** /ˈfe.nəm/, **FEN-əm**, “apothecary shop or
+workroom.” The suffix classifies recurring organized work rather than architecture. Master Fen's back room
+is a *lenum* while patients can be received there and merely a room when the practice ends; Mira is the
+estate *fen*, while Keelen's apothecary as a place is his *fenum*.
+
+Learned LOL ***sathen*** /ˈsa.θen/, **SAH-then**, combines *sath-* “diagnose a living body's internal
+condition from signs” with specialist *-en*. It is the competence term translated *physician*, not a legal
+licence or palace appointment. Xion is truthfully *fen, len,* and *sathen*. Mira and Keelen are securely
+*fen* and *len* without the corpus requiring the learned title; palace physicians are institutionally
+appointed *sathen*, with robes marking the appointment rather than creating the lexical category. The
+forms overlap rather than making a rank ladder.
+
+The native forms behind *medicine, surgeon, midwife, bonesetter, hospital,* and other specialties or
+institutions remain uncoined. No specialist list follows automatically from this controlled cluster.
+
+**The first Balishan household and chartered-House test passes.** CON ***dal*** /dal/, **DAHL**, names the
+functioning household maintained under one continuing provision, roof, and domestic authority. It can
+include blood kin, married-in members, wards, servants, and dependants; it names neither the building nor
+nobility. LOL legal ***sel-*** /sel/ “enter or constitute in authoritative public record” precedes it in
+mixed EIB ***seldal*** /ˈsel.dal/, **SEL-dahl**, the crown-recognized legal body translated as capitalized
+***House***.
+
+The system keeps five axes separate: biological blood, *seldal* membership, the second name carried in
+records, heirship, and present office. Marriage instruments decide House entry for spouses and recognized
+children; individual charters govern succession. There is no universal paternal, maternal, male, or
+firstborn default. Rosik can marry into and later head Kemvimore; Xion can lose heirship before ceasing to
+bear its name; he can later enter Valanar at marriage without changing his ancestry.
+
+Fossil patronymic ***-annas*** /an.nas/ gives *Lar-annas*, “descendants or issue of Lar,” but is no longer
+productive. House names share a legal slot rather than a noble suffix: opaque native *Kemvimore* and
+***Hadris*** /ˈhad.ris/, neo-Halauri *Valanar*, purchased *Darfi*, foreign *Sa Ko Ren*, stolen *Dermir*,
+exceptional *Fen*, and reader-translated *Greystone* reach it through different histories.
+
+**Tobias Valorian is now Tobias Hadris.** *Valorian* falsely implied kinship with *Valanar* and worsened
+the closed V-initial cluster. **Hadris**, **HAD-riss**, /ˈhad.ris/, is a compact, collision-free native
+charter-name. The change is nominal only across B3 ch1, ch3, and ch4; Hadris's actions, House history,
+politics, titles, and characterization are unchanged. Older changelog entries retain the former name as
+historical records.
+
+**Transparent English House names are translations, not phonological evidence.** *Greystone, Umberlow,
+Ashworth, Blackmoor, Silverbrook, Thornwood, Whitmore, Fairwind,* and *Ironwood* may remain reader-facing
+semantic renderings while their native sound-forms stay uncoined, exactly as *Long Knives* translates a
+meaningful Modern Balishan name. Dossier-only opaque names remain provisional until their historical
+language layer is demonstrated.
+
+**The protected-form test passes without one-source flattening.** *Kaha'an, Balisha, Hauren, Elara,
+Valanar, Melina, Ilareth, Ormuth, Tor'anar,* and *Arol Batae* fit direct, Hieratic, or neo-Halauri sound
+shapes; *Rosik* and *Kemvimore* can be substrate or mixed; *Vartonne* and *Marresonne* now have controlled
+mixed and inherited-coastal derivations; other national forms remain outside the family. Written
+**Xion** fits Late Open /ɕ/, but its ordinary Modern Balishan initial is
+now fixed by authorial ruling as **ZY-on**, /ˈzaɪ.ən/. It follows a learned Marresonnian–Hieratic chain:
+/ˈɕi.on/ > /ˈzi.on/ > [ˈziː.on] > /ˈziː.ən/ > /ˈzaɪ.ən/. The conservative spelling and modern pronunciation
+therefore reinforce rather than contradict one another; no clipped longer form is required.
+
+**The confirmed imperial cluster is fully derived.** LOL *kaha* means sovereignty as an office, and bound
+*-'an* is the seat in which authority is instantiated. Their lexicalized title *Kaha'an*, **“Royal Seat”**
+or literally “Seat of Sovereignty,” passed whole through the Hieratic tradition; the Valanar court made it
+transferable. Native Kaha'ani pronunciation is **kah-HAN**, /kaˈhan/: ordinary glottal loss and vowel
+contraction made the two-syllable form categorical enough to function as a local shibboleth, reinforced
+by residents' constant use of the city-name. Historical **kah-HAH-an**, /ka.ˈha.ʔan/, survives in fixed
+coronation language, Hieratic citation, standard Urathan usage after Collegiate renewal, and some foreign
+reading traditions. In ordinary city conversation it sounds book-taught and can identify an outsider. The same
+distribution gives native *Kaha'ani* /kaˈha.ni/ beside instructed historical /ka.ˈha.ʔa.ni/. The spelling
+remains *Kaha'an*; *Ka'han* is only a pronunciation aid.
+
+*Batae* is learned LOL *bat-ae*, **“appointed guard; commissioned guarding body.”** Human imperial *Kaha
+Batae*, **“Imperial Guard,”** therefore combines two learned elements. After the Rending the survivors
+deliberately substitute learned *arol*—“old, long-established, or belonging to the former order”—to become
+*Arol Batae*, the **Old Guard**. The name is not a Modern Balishan translation: it is a solemn replacement
+inside the old title, changing the authority above the same institutional head. Careful pronunciations are
+**KAH-hah bah-TAH-eh**, /ˈka.ha ba.ˈta.e/, and **AH-rol bah-TAH-eh**, /ˈa.rol ba.ˈta.e/.
+
+*Arol Rhutan*, the **Old Tunnels**, is deliberately not the same route. It combines learned *arol* with
+ordinary inherited *rhutan*, **ROO-tən**, /ˈru.tən/, a lexical collective regularly descended from LOL
+*re-hutan*, “interconnected tunnel system.” The count noun *hutan* means one tunnel; prefix-vowel loss and
+/r + h/ coalescence explain historical **rh**. The whole phrase is **AH-rol ROO-tən**, /ˈa.rol ˈru.tən/.
+Post-sealing, pre-imperial Marresonnian record-keepers formed the phrase; the empire later retained it.
+This makes it a surface-registry hybrid, not the builders' own name. *Batae* is number-neutral through its
+duty-holder/body derivation; *rhutan* is collective by derivation. Neither is a plural suffix. All four
+formations preserve modifier-before-head order without flattening learned and inherited speech into one
+register. `Languages/Halauric Core Lexicon.md` is authoritative for the derivations.
 
 ---
 
@@ -788,7 +1228,7 @@ no downstream documents means it is furniture, and furniture does not collide.
 
 ### A second name is a grant — commoners have one name — author's ruling, 2026-08-21
 
-**`Places/Languages of Elvandar.md` → *Who Gets a Second Name* is authoritative.** In Balisha a house name is
+**`Languages/Languages of Elvandar.md` → *Who Gets a Second Name* is authoritative.** In Balisha a house name is
 conferred by a throne; nobles carry one and **commoners carry a single name**. Read the rule there before
 coining anyone, and read `Names.md` beside it as always.
 
@@ -821,6 +1261,14 @@ Individual sheets and prose remain the evidence beneath it; old art is not allow
 field by accident. The ledger marks author rulings, textual facts, sheet-only statements, and genuinely
 unset traits separately.
 
+**Biome is not ancestry — author's ruling, 2026-08-22.** Character art must not infer complexion or ethnic
+register from a location's present-day biome. Kaha'an became a desert only in the Rending, approximately
+twenty years before Book 1; old Kaha'ani and Balishan court culture defaults visually toward a classical
+Mediterranean, Italian/Roman register unless a stronger source says otherwise. Explicit prose, beat drafts,
+character sheets and this ledger, approved family/reference models, and direct authorial instruction govern
+in that order. Family resemblance and fixed complexion outrank environmental associations. An unspecified
+trait must be chosen consciously rather than supplied silently by a desert stereotype.
+
 **The calibration system is fixed, and its first six numerical heights are now canon.** Each technical
 plate uses the same armorer's fitting frame, floor line, camera, lens, subject distance, neutral posture, and
 flat-soled footwear. The written height remains authoritative over apparent image scale. Identity portraits
@@ -830,6 +1278,67 @@ and narrative scenes stay separate from these deliberately plain measurement pla
 6′1″ / 185 cm in Book 1; at sixteen, Tiberian is 5′10″ / 178 cm and Melina Valanar is 5′8″ / 173 cm. Sa Ko
 Ren remains textually tall without an exact number. Adolescent measurements attach to age and are not
 silently carried into adulthood.
+
+**Elara complexion correction, 2026-08-21:** Elara's untanned natural complexion is light warm ivory/beige
+with a faint olive undertone. Mainline Elara's outdoor martial training gives her a modest tan comparable
+to the visible Leah reference that originally served as her direct visual conception. Leah's own outdoors-oriented
+Verbena life means she is not an indoor baseline: the court-sheltered Imperial Princess AU should be fairer
+than visible Leah and nearly as fair as Farleen, though fractionally warmer rather than pink or porcelain.
+The substantially darker complexion in the first photorealistic model was
+never supported by prose or sheet canon and appears to have been an over-reading of present-day Kaha'an as
+a desert culture, despite the desert being only twenty years old. This is a complexion correction, not a
+facial recast. Farleen remains slightly lighter than Elara. Corrected solo and 5′11″ calibration candidates
+were approved and promoted on 2026-08-21; the previous darker versions remain archived under `Character
+Art/Drafts/Elara Valanar/Complexion Correction/Superseded/`. The corrected `Xion, Elara and Farleen` group
+reference was approved and promoted on 2026-08-21; its darker predecessor is preserved with the other
+superseded Elara assets. The corrected `Xion and Elara` two-person reference, rebuilt from both 5′11″
+calibration plates to protect their equal baseline and scale, was approved and promoted on 2026-08-21; its
+darker predecessor is preserved alongside the others. The corrected `Formal Dance Practice` and `The
+Vartonnian Envoy` scenes were approved and promoted on 2026-08-21, with their darker predecessors
+preserved. The corrected preferred Imperial Princess AU portrait was approved and promoted on 2026-08-21;
+its darker predecessor remains archived. The corrected `Expecting the Twins` scene was approved and promoted
+on 2026-08-22, with its darker predecessor archived. The older direct-translation Imperial Princess
+photorealistic remake was retired into the superseded archive rather than complexion-corrected; the
+calibration-derived portrait is now the sole active photorealistic AU interpretation. Tiberian's and Melina Valanar's
+previous models inherited the old visual drift and are no longer complexion authorities. Their corrected
+solo portraits were approved and promoted on 2026-08-21: both use a light warm beige/olive inherited from
+the approved parent models, with Tiberian modestly more sun-touched through martial training and Melina
+closer to the parents' sheltered baseline. Their previous darker portraits remain archived. The paired
+reference and height-calibration plates still require propagation of this approved ruling.
+
+The corrected individual height-calibration plates were approved and promoted on 2026-08-21, preserving
+Tiberian's 5′10″ and Melina's 5′8″ baselines; their darker predecessors remain archived. The first corrected
+paired-reference candidate was rejected because it retained too much of the superseded bronze coloring,
+especially on Melina, despite preserving the established two-inch difference. It remains archived as a
+rejected attempt; the approved paired reference has not yet been replaced.
+
+The stronger second-pass paired reference was approved and promoted on 2026-08-21. It brings both twins
+into the same apparent range as the approved solos and height plates, with Melina subtly lighter than
+Tiberian, while retaining the original paired composition and two-inch height difference. The former darker
+pair remains archived. The twins' complexion correction is now fully propagated across their canonical
+solo, paired, and height-calibration references.
+
+The Elara complexion pass is closed across the active photorealistic archive: canonical solo and height
+references, group references, formal dance, Vartonnian envoy, pregnancy scene, preferred Imperial Princess
+AU portrait, and the twins' descendant reference suite all carry the approved ruling. Remaining darker
+assets are explicitly superseded, rejected, retired, or illustrated rather than active photorealistic canon.
+
+**Xion and Melina Kemvimore complexion ruling, 2026-08-22:** Rosik establishes the intended Kemvimore
+family complexion register: light warm olive and classical Mediterranean/Italian-Roman, capable of reading
+comparatively fair under indoor light. Melina shares that sheltered baseline, fractionally warmer only
+through youth. Xion shares the same natural baseline and carries at most a faint additional warmth from
+spending more time moving through the city. Neither is deeply tanned or bronze. Their first photorealistic
+models repeated the same unsupported post-Rending desert drift corrected in Elara and Silvanno. The revised
+solo portraits were approved and promoted on 2026-08-22, with their darker predecessors archived under
+their respective complexion-correction draft folders. Corrected 5′11″ Xion and 5′8″ Melina calibration
+plates were approved and promoted on 2026-08-22, preserving the existing heel lines, crown positions, and
+written measurements; their darker predecessors are archived. Corrected two- and three-person group
+references were approved and promoted on 2026-08-22, preserving the fixed 5′11″ / 5′11″ / 5′7″ relative
+scale and the already-corrected Elara and Farleen complexions. Corrected versions of the three active
+Xion-and-Elara scenes were approved and promoted on 2026-08-22: `Formal Dance Practice`, `The Vartonnian
+Envoy`, and `Expecting the Twins`. Their darker-Xion predecessors remain archived as superseded. The
+Kemvimore complexion correction is now fully propagated across Xion's active solo, height-calibration,
+group-reference, and canonical-scene suite, and across Melina Kemvimore's active solo and height plate.
 
 **Janice correction and visual ruling, 2026-08-20:** Book 3 explicitly makes Janice sixty-one; the old
 ledger and sheet claims that her age was unset were stale. Her rejected failing-sight concept is purged from
@@ -842,6 +1351,118 @@ artisan's hands.
 plate are archived separately under `Character Art/Reference Models/Photorealistic/` and
 `Character Art/Reference Models/Height Calibration/`; the plate uses the common armorer's fitting frame,
 flat shoes, heel baseline, and neutral posture.
+
+**Tania Larannas visual ruling, 2026-08-21:** Tania is forty-seven in Book 1 and stands **5′6″ / 168
+cm**. She has a medium, softly curvy build; deep chestnut hair beginning to silver subtly at the temples;
+grey-green eyes; and a light-medium warm olive complexion. Her mature oval face has high cheekbones, a
+straight nose, fine lines around the eyes, and a full but exceptionally controlled mouth; she has no scars.
+Her authority is social and presentational rather than physically intimidating. The photorealistic model is
+developed independently from the earlier illustration, which remains historical design material rather than
+a likeness source. Her approved identity portrait and technical 5′6″ plate are archived separately under
+`Character Art/Reference Models/Photorealistic/` and `Character Art/Reference Models/Height Calibration/`.
+
+**Silvanno Larannas visual ruling, 2026-08-22; height fixed 2026-08-27:** Silvanno is twenty-three in Book 1 and stands **5′11″ / 180 cm**, lean and trim, with a
+young oval face, high cheekbones, a straight nose, deep chestnut wavy hair, grey-green eyes, and a
+light-medium warm olive complexion closely matching his mother Tania's. He is clean-shaven and has no
+distinctive scars. His approved register is classical Mediterranean — a young Italian/Roman nobleman —
+rather than a complexion inferred from Kaha'an's post-Rending desert. Dignified, practical teal court
+clothing carries his Water-cartel identity without suppressing the easy confidence and kinetic physicality
+established in prose. The first, substantially darker portrait is rejected and archived; the corrected
+approved identity portrait is archived at `Character Art/Reference Models/Photorealistic/Silvanno Larannas.png`,
+and his approved technical plate at `Character Art/Reference Models/Height Calibration/Silvanno Larannas.png`.
+
+**Danshall Harkim visual ruling, 2026-08-27:** Danshall is in his mid-twenties at Book 4's opening and
+stands **5′9″ / 175 cm**. He is lean-to-average with slightly narrow shoulders and is not physically
+imposing. His approved identity fixes fair neutral freckled skin, short practical sandy-brown hair,
+grey-blue eyes, substantial straight brows, and a broad softly rectangular face with modest cheekbones,
+a slightly wide asymmetric nose, and a firm unsculpted jaw. He is clean-shaven and has no scars. His
+amber-gold Topaz robe bears the single thin silver cuff band of a junior scholar and remains functional
+rather than elegant. The active identity portrait is archived at
+`Character Art/Reference Models/Photorealistic/Danshall Harkim.png`; his approved technical fitting-frame
+plate is archived at `Character Art/Reference Models/Height Calibration/Danshall Harkim.png`. Its retained
+construction record includes the white-background source, transparent cutout and raw deterministic
+5′9″ composite under `Character Art/Drafts/Danshall Harkim/Height Calibration/`.
+
+**Lira Harkim visual ruling, 2026-08-27:** Lira is four years younger than Danshall, approximately twenty
+or twenty-one at Book 4's opening, and stands **5′5″ / 165 cm**. She has a slight-to-average unathletic build.
+Her approved identity makes the sibling relationship legible through the Harkim family's fair freckled skin,
+sandy-brown colouring, grey-blue eyes, substantial straight brows, broad facial foundation, modest cheekbones,
+and slightly wide asymmetric nose, while giving Lira her own softer jaw, rounder cheeks, smaller chin, and
+distinct mouth and eye spacing. Her straight shoulder-length hair is simply cut; plain well-mended civilian
+clothing carries no Tower colour or rank marks. Her active portrait depicts her defining Book 4 introduction:
+calmly packing in the modest apartment before Danshall arrives, already prepared because she memorized the
+evacuation route. The earlier laboratory-like candidate is rejected for incorrectly translating Danshall's
+institutional visual grammar onto a woman hidden outside that system. The approved portrait is archived at
+`Character Art/Reference Models/Photorealistic/Lira Harkim.png`; her technical plate remains in production.
+
+**Sa Ko Ren visual and origin ruling, 2026-08-22:** Sa Ko is forty-eight in Book 1 and stands **5′10″ /
+178 cm**, but appears approximately in her mid-thirties. She is a Terinoki warrior who survived the Wild
+Sands, found its singular windfall, and converted that capital into the forges, workshops, artisans, and
+production system that became the Iron cartel. She directs and tests that system; she was never personally
+a metalworker or forge laborer. Her appearance therefore follows her actual life: tall and leanly athletic,
+with a lifelong soldier's balance and economy; refined East Asian features; deep black hair without silver;
+dark brown eyes; a warm light-medium complexion; and no distinctive scars. Her formal register is a
+Terinoki warrior-aristocratic one—wrap-front layers, a structured jacket, divided hakama, obi, and a
+sheathed sword—not Kaha'ani court dress. The old corded-arms, silver-temples, and forge-burn language is
+superseded. Her approved identity portrait is archived at
+`Character Art/Reference Models/Photorealistic/Sa Ko Ren.png`; her approved exact 5′10″ fitting-frame
+plate is archived at `Character Art/Reference Models/Height Calibration/Sa Ko Ren.png`.
+
+**Melina Kemvimore visual and height ruling, 2026-08-22:** Melina is twenty-six in the Book 1/2
+chronology and stands **5′8″ / 173 cm**. Her approved photorealistic identity is healthy and softly
+slender, with a light warm-olive complexion closely matching Rosik's sheltered family baseline, near-black softly wavy hair in a polished low court
+arrangement, dark brown eyes, and refined features that read credibly as Xion's sister while retaining a
+trace of Rosik in the brows and habitual composure. Her restrained wheat-gold, cream and deep-brown noble
+dress communicates Grain-house status through cut and fabric rather than ostentation. Her approved solo
+portrait is archived at `Character Art/Reference Models/Photorealistic/Melina Kemvimore.png`; her exact
+5′8″ plate is archived at `Character Art/Reference Models/Height Calibration/Melina Kemvimore.png`.
+Because the generative plate repeatedly placed her around six feet, its geometry was first fixed against
+the master frame with a deterministic 68-inch placement rather than treating a generated measuring scale
+as authoritative. That construction introduced visible cutout artifacts, so the approved final plate is a
+cohesive generative repaint locked to the corrected 5′8″ crown and brass heel-line positions. The
+artifact-heavy deterministic source and rejected too-tall plate remain in the draft archive.
+
+**Ronas Dermir visual ruling, 2026-08-22:** Ronas is forty-nine in Book 1. He is solid,
+broad-shouldered, work-hardened and quietly powerful rather than bodybuilder-large, with thick strong
+hands; short dark-brown hair beginning to grey at the temples; restrained dark stubble; dark hazel-brown,
+hard eyes; and a warm medium complexion. The prose-established scar remains a single modest old mark
+through one eyebrow, with no additional distinctive facial scars, and one side of his upper lip turns
+habitually upward in skepticism or contempt. His presentation is deliberately rougher than a merchant's:
+coarse homespun, battered leather, patches, repairs and scuffed boots, without noble or cartel polish. The
+Iron Hall's authority is likewise salvage-built—ancient brass around rough platforms and a scarred
+heavy-plank desk—not a respectable paneled office. His approved Book 1 identity portrait is archived at
+`Character Art/Reference Models/Photorealistic/Ronas Dermir.png`. He stands **6′0″ / 183 cm** in Book 1:
+one inch taller than Xion and Elara, two inches taller than Sa Ko, and one inch shorter than Rosik, with
+his broad build making the height read more heavily than Rosik's lean frame. His approved technical plate
+is archived at `Character Art/Reference Models/Height Calibration/Ronas Dermir.png`.
+
+**Bittek visual ruling, 2026-08-22:** Bittek's Book 6 appearance is a two-stage read. At first glance he
+looks hard, powerful and dangerous: blackened leather, padded shoulders, excessive straps, buckles and
+studs, high boots, a deliberately wide stance, and an oversized ornate knife displayed like a credential.
+Closer inspection reveals the actual man—naturally narrow-shouldered, softly built and untrained, with a
+slight belly; a broad faintly toadlike face; thinning medium-brown hair combed back too carefully; close-set
+brown eyes; and a light-medium sallow-warm complexion. **He is completely scarless**, including an unbroken
+nose, unmarked ears and unscarred hands: he wants the proof that he paid a physical price and refuses to do
+what earning it requires. The immaculate knife is status jewelry masquerading as a weapon. He is in his
+early-to-mid forties and **5′10″ / 178 cm**—shorter than Xion and exactly Tiberian's height at their
+late-Book-6 encounter, when Tiberian is about eighteen.
+Exact age remains unset. His approved identity portrait is archived at
+`Character Art/Reference Models/Photorealistic/Bittek.png`; his approved calibration plate is archived at
+`Character Art/Reference Models/Height Calibration/Bittek.png`.
+
+**Bittek confrontation ruling, 2026-08-22:** Tiberian descends into the Warrens with Kai and a strike team,
+but he confronts Bittek at the taps **truly alone**. The distinction is load-bearing. Bittek never accepts a
+fight he believes he might lose; organised attempts to seize him repeatedly fail because he abandons
+positions, spends other people as obstacles and disappears before visible force can close. His cowardice is
+operationally effective. Tiberian recognises that the only way to stop him is to offer apparent vulnerability,
+leaves Kai and the squad conducting the larger operation, and approaches without hidden backup. Bittek sees an
+eighteen-year-old prince of exactly his own height, mistakes the Tiger Prince's reputation for the same kind of
+manufactured intimidation he uses himself, and accepts the only fight of his life because he believes it is
+already won. **No strike team is present or nearby for the confrontation.**
+The approved scene reference is archived at `Character Art/Scenes/Tiberian and Bittek/At the Taps.png`:
+both men stand naturally at the failing water station before either weapon is drawn, with Bittek's padded
+breadth and hand on the immaculate knife carrying the performance while Tiberian supplies no theatrical
+gesture at all.
 
 ### Elara and Xion have no canon height relation — **AUTHOR'S RULING 2026-08-20**
 
@@ -904,7 +1525,7 @@ the images were 122 MB.
 its place because the master list names it as the authority for the `Places/` audit — but being *cited*
 is not needing *history*, and the audit wants the current map, not its ancestors. It is also **generated
 output**, rendered by `render_elvandar_map.py` from `elvandar_map_v1.svg`, both of which remain tracked.
-I then argued for keeping `Lathion - First Entry.png` because a canon file embeds it — but the Viewer
+I then argued for keeping `Hauren - First Entry.png` because a canon file embeds it — but the Viewer
 resolves embeds against the filesystem, so it renders fine locally, and only github.com shows a broken
 image. **Ruled acceptable. Do not re-add the PNG to fix it.**
 
@@ -914,6 +1535,64 @@ image. **Ruled acceptable. Do not re-add the PNG to fix it.**
 **A fresh clone has no images.** Run `./Tools/sync_art.sh pull --yes` after cloning. The Viewer is
 unaffected on this machine because it lists and resolves from the working tree, which `.gitignore` does
 not touch.
+
+### Retired visual assets have no authority — **AUTHOR'S RULING 2026-08-22**
+
+**The earlier illustrated suite is retired in full.** All fifteen illustrated character models, the
+illustrated Xion-and-Elara masquerade scene, and the original illustrated Imperial Princess Elara AU image
+now live under `Character Art/Retired/`. The Xion-and-Farleen AU `Garden Reception.png` is retired there as
+well. These eighteen images are historical visual-development records only: they do not establish canon,
+do not establish AU continuity, and must not be supplied as reference inputs for new generations.
+
+**No active likeness is better than a misleading one.** Kess Ashwood's retired illustration did not fill
+her earlier vacancy; her independent age-eighteen photorealistic portrait was approved and promoted on
+2026-08-22 and now supplies her active likeness. Kael Issamil's first candidate was rejected because it
+resembled Xion too closely. His independent second candidate was approved and promoted on 2026-08-22 and
+now supplies his active likeness. `Character Art/README.md` is the authority for whether an image is active,
+alternate-universe material, a superseded draft, or retired outright.
+
+**Kess Ashwood visual ruling, 2026-08-22:** Kess is approximately eighteen when Tiberian frees her near the
+end of Book 6, the same age as the Valanar twins at that point. This is her age at liberation, not the age
+at which the Warrens began making her fight. The first independent photorealistic candidate read too old
+and is rejected; the approved identity-preserving revision retains the same face and lean pit-fighter build
+while correcting her apparent age to the late teens. She is **5′9″ / 175 cm**, exactly one inch shorter than
+Tiberian at their meeting, with dark ash-brown roughly cut hair, grey-hazel eyes, a light-medium neutral olive
+complexion, small ordinary fighting marks but no decorative facial scar, repaired Warrens fighting clothes,
+and no literal animal features in human form. Her active portrait is
+`Character Art/Reference Models/Photorealistic/Kess Ashwood.png`.
+
+Her approved 5′9″ fitting-frame plate is the first complete use of the white-background calibration pipeline:
+identity-preserving white studio source, deterministic extraction and placement against the immutable master
+room, then AI integration limited to edge, shadow and lighting repair. The first composite was rejected after
+measurement showed a roughly two-inch visual difference from Tiberian. The corrected candidate places the
+crown fourteen pixels below his on the identical 1024×1536 frame—one ruler inch—and was approved and
+promoted on 2026-08-22 to `Character Art/Reference Models/Height Calibration/Kess Ashwood.png`.
+
+**Kael Issamil visual ruling, 2026-08-22:** Kael is twenty-three in Book 1 and **5′10″ / 178 cm**, with a
+medium practical build and light-medium warm-olive complexion one subtle shade darker and warmer than Xion
+and Silvanno. His approved design uses a broad rectangular face, firm jaw, heavy level brows, hazel-brown
+eyes, and short brushed-back medium-dark chestnut hair. He is clean-shaven and unscarred. Structured
+charcoal Iron-clan professional clothing, restrained copper/rust accents, and a folio establish him as an
+operations coordinator from an industrial minor house rather than a smith, warrior, laborer, or court
+peacock. His visual register is quiet, analytical and deliberately easy to overlook.
+
+Kael's 5′10″ fitting-frame plate was approved and promoted on 2026-08-22. Five earlier generative attempts
+are archived as rejected because they failed the technical ruler geometry: excessive height, feet below
+the heel line, overcorrection to approximately 5′6″–5′7″, renewed baseline drift, and failure to preserve
+an approved 5′10″ donor plate. The active plate instead derives its geometry from Xion's approved 5′11″
+plate, holds the same heel line, and places Kael's crown exactly one inch tick lower.
+
+**Fitting-frame construction ruling, 2026-08-22:** Height is a deterministic geometry problem, not a
+generative suggestion. For every future plate, first generate the character alone in normal clothing,
+standing naturally in a neutral frontal pose against a pure, evenly lit white background. The full body and
+both feet must be visible, with no scenery or floor clutter and no more than a faint contact shadow. Cut out
+that clean figure and composite it onto the immutable master fitting-frame room at the exact pixel height:
+boot soles on the brass baseline, crown at the required ruler coordinate. Only then use AI image editing to
+repair cutout edges, contact shadows, lighting mismatch and visible seams; the cleanup pass must preserve the
+approved identity, clothing, pose and frame geometry rather than redesigning the plate. Check the crown and
+heel coordinates again afterward because cleanup can drift them. This is the successful Melina Kemvimore
+pattern, now made explicit as **white-background generation → deterministic placement → AI integration**, and
+it replaces repeated attempts to make a generative model obey a ruler directly.
 
 ### B3 ch10's length stands at 7,454 words — **AUTHOR'S RULING 2026-08-05**
 
@@ -1004,7 +1683,7 @@ retainer *and* covered the fraud that kept the grain moving at all.
 **The Grain cartel's books are cooked, Enron-style — author's ruling, 2026-08-04.** The aboveboard
 accounts show an operation that pays for the food it imports. It does not and has not since the Rending.
 **One catastrophe made Kaha'an unavoidable and unable to feed itself in the same hour**: the Rending
-destroyed the farmland *and* killed the Deepwood bypass routes that had let caravans avoid the capital's
+destroyed the farmland *and* killed the Dunyelas–Yelpas bypass routes that had let caravans avoid the capital's
 tariffs, so the city became the only road across Elvandar at the moment it stopped being able to grow
 anything. The tariff income is enormous and geographic — the Suez/Singapore/Constantinople position, the
 Golden Path being the only way through a desert that kills you. The food deficit is nearly as enormous.
@@ -1109,15 +1788,15 @@ road is a siege waiting to happen, and the Compact War proves it. The relocation
 for a war ministry's project — which is also what finally makes Book 6's *"nothing material stands in
 the way"* true and earned. **No character says any of this.**
 
-**The numbers, exactly.** Kaha'an is 150,000–200,000 on the surface plus 60,000 below. Lathion's
-terraces feed 100,000. So Lathion could have fed the Warrens nearly twice over and **could never have
+**The numbers, exactly.** Kaha'an is 150,000–200,000 on the surface plus 60,000 below. Hauren's
+terraces feed 100,000. So Hauren could have fed the Warrens nearly twice over and **could never have
 fed the city** — it was never an answer to the import dependency, only to the Warrens', and it is
 unreachable. The population that starves sits on top of double the food it needs. See
-`Book 3 - Crown Jewel/_LATHION_AFTER.md` for why none of it comes up.
+`Book 3 - Crown Jewel/_HAUREN_AFTER.md` for why none of it comes up.
 
-### Lathion after the Door — **AUTHOR'S RULING 2026-08-04**
+### Hauren after the Door — **AUTHOR'S RULING 2026-08-04**
 
-**Lathion is a dig site, not a destination.** Its existence becomes known; access does not follow.
+**Hauren is a dig site, not a destination.** Its existence becomes known; access does not follow.
 The Great Shaft is gone, the only route is the Long Knives' road through Dead Man's Passage, and B3 ch6
 settled that the road cannot become a supply line. All traffic is porters, so **knowledge flows out and
 tonnage does not** — purification and energy reach the world as designs rebuilt on the surface, which is
@@ -1127,14 +1806,14 @@ and **the Green Cities are its actual output**: the bequest reaches the living a
 live. Nobody moves in, for six reasons that are Book 6's business and must not be argued on the page in
 Book 3.
 
-**Full brief, written for the Book 3 drafting session:** `Book 3 - Crown Jewel/_LATHION_AFTER.md`. It
+**Full brief, written for the Book 3 drafting session:** `Book 3 - Crown Jewel/_HAUREN_AFTER.md`. It
 carries the prohibitions (no reopened Great Shaft ever, no food convoys, no crown map, no settlement)
 and the Book 6 correction below.
 
 **Book 6's ignorance premise — CLOSED, applied 2026-08-04.** `book6_outline.md` had said nobody ever
-learns the Warrens are Lathionese — *"The tunnels are old. That's all anyone knows"* — which Book 3
+learns the Warrens are Haureni — *"The tunnels are old. That's all anyone knows"* — which Book 3
 makes impossible, since the expedition descends through those tunnels to reach the Door and the empire
-then spends twenty years building from Lathionese designs. **Ruled: everyone knows exactly what the
+then spends twenty years building from Haureni designs. **Ruled: everyone knows exactly what the
 tunnels are, and it does not help.** Knowing whose machines these are is not the same as being able to
 maintain them; Balisha holds *design* knowledge, extracted a notebook at a time and rebuilt in surface
 workshops, which does not extend to keeping a five-thousand-year-old system alive in place. The
@@ -1145,44 +1824,44 @@ as the age of a cathedral. And the correction strengthens the book rather than p
 same lesson Book 6 already teaches through Melina — *a thorough and correct account of a thing is not
 the power to change it* — so the surveys fail the way her models fail. **Do not point at the rhyme.**
 
-### Lathion's two entrances — **AUTHOR'S RULING 2026-08-04**
+### Hauren's two entrances — **AUTHOR'S RULING 2026-08-04**
 
 **The Great Shaft was the front door; the Brass Door is the freight entrance.** For the three
-millennia Lathion was open, arrivals came down the Great Shaft — a finished vertical bore from the
+millennia Hauren was open, arrivals came down the Great Shaft — a finished vertical bore from the
 surface into the Crown's Arrival Halls, served by an elevator **spine**: a ceremonial main car for
 delegations, smaller cars for routine traffic, freight lifts on their own tracks. The Brass Door is
 the loading dock at the back of the building, which is why its antechamber is a bare eight-meter room
-and why the passage below it is well-made and unbeautiful. Full description in `Places/Kaha'an/Lathion_
+and why the passage below it is well-made and unbeautiful. Full description in `Places/Kaha'an/Hauren_
 Physical Layout and Geography.md`.
 
 **Three things ruled and not to be reopened:**
 
 1. **The Great Shaft was collapsed and *filled*.** There is no open pit under Kaha'an and no surface
-   trace. An open shaft would be found, and the premise that the surface has forgotten Lathion depends
+   trace. An open shaft would be found, and the premise that the surface has forgotten Hauren depends
    on there being nothing to find.
 2. **The elevators were destroyed and stripped**; the recoverable parts went back into the city.
-3. **The Repository does not hold the reason Lathion sealed itself.** B3 ch10 walks the expedition into
+3. **The Repository does not hold the reason Hauren sealed itself.** B3 ch10 walks the expedition into
    the Repository, so this needs to be settled before the chapter is drafted: the reason went with the
    people who had it. Do not plant an answer nobody pays.
 
-**Dead Man's Passage is natural caverns — not Lathionese construction, not a designed maze.** A cut
+**Dead Man's Passage is natural caverns — not Haureni construction, not a designed maze.** A cut
 haul road once descended through the caves to the Door and was **deliberately collapsed** at the
-sealing (demolition, not decay — Lathionese work does not decay). What survives is bare geology. There
-is no "true path" marked in Lathionese symbols; the Long Knives' map was bought with corpses, which is
+sealing (demolition, not decay — Haureni work does not decay). What survives is bare geology. There
+is no "true path" marked in Haureni symbols; the Long Knives' map was bought with corpses, which is
 what B1 ch20, B3 ch6 and the Factions doc have always said. The three-way contradiction between the
-Lathion layout, Kaha'an geography and B3 working notes is closed; all four docs now agree.
+Hauren layout, Kaha'an geography and B3 working notes is closed; all four docs now agree.
 
 **Blast radius: none in the prose.** No chapter, beat draft, skeleton or Royal Road file changed. B1
 ch19–21 and ch23 name the Passage repeatedly and never say who cut it.
 
-### Lathion's canonical visual — **AUTHOR'S RULING 2026-08-04**
+### Hauren's canonical visual — **AUTHOR'S RULING 2026-08-04**
 
-`Places/Kaha'an/Lathion - First Entry.png` is the canonical location illustration for the Crown at the
+`Places/Kaha'an/Hauren - First Entry.png` is the canonical location illustration for the Crown at the
 end of B3 ch7, *Wonder*. Its visual register is binding: **dense concentric city-rings, radial streets,
 pale civic surfaces over a dark mechanical understructure, brass ribs, integrated blue-white systems,
-living garden terraces, and the open central shaft descending toward the Core's warm glow.** Lathion is
+living garden terraces, and the open central shaft descending toward the Core's warm glow.** Hauren is
 a city built into one operating machine, not a conventional bright palace district and not a decayed
-steampunk ruin. The illustration is not a scale drawing; the prose and `Lathion_ Physical Layout and
+steampunk ruin. The illustration is not a scale drawing; the prose and `Hauren_ Physical Layout and
 Geography.md` remain authoritative for dimensions and the seven-level structure. The superseded first
 render was deleted when the revised image was promoted to the canonical filename.
 
@@ -1432,7 +2111,7 @@ would not privatise its own gate is about to intervene in his.)*
 
 ---
 
-### Lathion is collateral, not cash — settled 2026-08-05
+### Hauren is collateral, not cash — settled 2026-08-05
 
 **Author's ruling.** Nothing behind the Brass Door is money. It is **schematics**, worth a century of
 advancement and nothing inside ch1's nine-to-fourteen months. **What ends the fiscal crisis is that Balisha
@@ -1457,11 +2136,11 @@ the Greystone Factor-Principal finally gets a name — deliberately uncoined unt
 ### What the Crown gives Elara, and what Uratha does about it — settled 2026-08-05
 
 **Two limbs of one ruling; full text in `Places/Uratha/Uratha_ The Land of Scholars.md` and
-`People/Elara's Connection to Lathion.md`. Raised because the Crown does not appear once in Books 4–7.**
+`People/Elara's Connection to Hauren.md`. Raised because the Crown does not appear once in Books 4–7.**
 
 **Worthiness gates transmission; it does not deliver.** Opening the channel is one thing and drawing anything
 through it is a skill — scholarly practice, forming a question precisely enough to be answered — and Elara
-was raised by soldiers. **She gets impressions, not knowledge**, calibrated deliberately to her Lathion sense:
+was raised by soldiers. **She gets impressions, not knowledge**, calibrated deliberately to her Hauren sense:
 occasional, involuntary, un-articulable, scaled to what she is in front of, never on command. **The Crown
 never solves a plot in any book.** If a scene would be materially harder without it, it is not in that scene.
 **The resulting state is the point:** Uratha has every question and no worthiness, Elara has worthiness and
@@ -1596,7 +2275,7 @@ constraint is recorded in `book3_chapter_skeleton.md` at the ch5 entry so a late
 
 **Raised in the same pass, left standing, and reversed by the author within the hour — now CUT.** Ch5's
 *"started being impressed in the other way, the one that has a little cold in it"* was the **third** instance
-of a drafter instruction reaching the page, after ch4's *"not from a ruin"* and the Lathion-list line. Read in
+of a drafter instruction reaching the page, after ch4's *"not from a ruin"* and the Hauren-list line. Read in
 place it made a stronger case against itself than the transcription did: **it announced the cold before the
 evidence, and the section's own last line — *He could not decide whether that was the most impressive thing
 he had ever seen or the strangest* — delivers the identical content afterward, earned and unnamed.** The
@@ -1821,7 +2500,7 @@ is explicitly not licence for this one.
 
 ---
 
-### B3-1 — CLOSED. The Lathion arc is written, and its three constraints held — 2026-08-14
+### B3-1 — CLOSED. The Hauren arc is written, and its three constraints held — 2026-08-14
 
 **The entry was stale and had been for eight days.** It read *"prose exists for ch1–10; `Chapter 11 - The
 Destiny Engine` not started"*, and was found during the ch10/ch11 retitle: ch11 drafted 2026-08-06, ch12 the
@@ -1830,9 +2509,9 @@ This is the failure mode §5 of `CLAUDE.md` names by name — a flag that outliv
 because nothing in the drafting loop goes back to the status block when a chapter lands. **Update the status
 block in the same commit as the chapter, not afterward.**
 
-**The three Lathion constraints are preserved here because they bind again in Book 7**, when the series
-returns to the city (`Book 3 - Crown Jewel/_LATHION_AFTER.md`). **Nothing in the city is damaged or
-declining** — the Lathionese closed the house and walked out, and any beat implying decay argues against the
+**The three Hauren constraints are preserved here because they bind again in Book 7**, when the series
+returns to the city (`Book 3 - Crown Jewel/_HAUREN_AFTER.md`). **Nothing in the city is damaged or
+declining** — the Haureni closed the house and walked out, and any beat implying decay argues against the
 bequest framing. **Nothing may date the city before the characters date it** — three narration lines were cut
 for asserting *twenty years* ahead of the discovery, and the seal date of two thousand years is a number no
 character can ever have. **Elara does not read** — impressions only; the scholars' shift from *what does this
@@ -1850,9 +2529,9 @@ reader.
 
 **The load-bearing reason, and the one to keep: *Destiny Engine* is not a name the book has.** The prose calls
 it *the Engine*, and *Destiny Engine* appears in **zero chapters of any book** — it lives in the canon files
-(`Magic/`, `Places/Kaha'an/`, `People/Elara's Connection to Lathion.md`, the Book 8 outline) and in the
+(`Magic/`, `Places/Kaha'an/`, `People/Elara's Connection to Hauren.md`, the Book 8 outline) and in the
 skeleton. Putting it on a chapter made the one place a workshop label leaked onto the page, and it leaked
-against the standing rule that no Lathionese proper name is used by any character or by the narrator in
+against the standing rule that no Haureni proper name is used by any character or by the narrator in
 Xion's POV. **The artifact keeps the name in the canon files; the chapter does not carry it.**
 
 **What each title is doing.** `Bequest` is the word the ch10 draft says the chapter reaches for and cannot
@@ -2033,7 +2712,12 @@ assets present at migration were preserved. Art remains downstream of this physi
 
 ## 7. Open questions
 
-**No open questions at present.**
+**One language-history foundation is open:** the founding date and local population of Urath IV's academy.
+Urathan's genealogy, Balishan's deeper Halauric ancestry, Vartonne's settlement history, Valan I Valanar's
+founding dynasty and coalition, and the ordinary distinction between Balisha and its capital are settled.
+The open foundation is described in
+`Languages/Urathan.md` and `Languages/Ethnolinguistic History.md`; it is a design question rather than an
+error in prose.
 
 **Previously open items remain closed.** The three items opened on 2026-08-02 were all ruled on the same day
 and are recorded in the changelog: the birthdays are pinned (`Story Timeline.md`), the Mistress's relation
@@ -2041,7 +2725,7 @@ to Xion is canon and not a thread, and Book 4 has no relay.
 
 **And the 2026-08-05 banking and Brass Door work closed everything it opened, the same day.** Prose: B3 ch1's
 borrowing beat and the customs refusal, ch4's Gunastran answer, ch6's exclusivity clause. Canon rulings in
-§6: the Crown's worthiness test, what the Crown gives Elara and what Uratha does after ch13, Lathion as
+§6: the Crown's worthiness test, what the Crown gives Elara and what Uratha does after ch13, Hauren as
 collateral, Elara never selling the gate, and who held Kalden's mortgages.
 
 **Numbering warning, kept because it caused a real misreport.** This section was once numbered 1–4

@@ -64,7 +64,7 @@ Kai has his father's practical temperament, his economical speech, his understat
 
 Reports reach the Valanar court: Silaris is failing. The intelligence is detailed and dire — food riots, infrastructure collapse, master artists seeking asylum in Gunastran and Uratha, creditors threatening to seize cultural assets as collateral. The reader already knows what's at stake — they were just there.
 
-**Tiberian's response** is immediate and moral. Balisha has resources. Balisha has Lathion technology that could solve Silaris's infrastructure problems overnight. Balisha has a moral obligation to preserve Elvandar's greatest cultural treasure. People are suffering RIGHT NOW. The path is obvious.
+**Tiberian's response** is immediate and moral. Balisha has resources. Balisha has Hauren technology that could solve Silaris's infrastructure problems overnight. Balisha has a moral obligation to preserve Elvandar's greatest cultural treasure. People are suffering RIGHT NOW. The path is obvious.
 
 **Melina's response** is analytical and cautious. What's Balisha's actual capacity to integrate a failing city-state? What are the resource requirements? The political ramifications with other successor states? The legal frameworks? "Brother, your heart is in the right place, but we need a plan, not just good intentions."
 
@@ -72,7 +72,7 @@ Reports reach the Valanar court: Silaris is failing. The intelligence is detaile
 
 **And underneath the debate is a bar Elara cannot argue her way past, which must be established here rather than invented in Act II.** Balisha does not have the option of marching. It is inside the Tripartite Alliance and inside the post-war settlement, and a unilateral Balishan deployment into a neutral city-state requires Alliance consultation at minimum and arguably breaches the peace terms outright. **Elara's *no* is not maternal caution. It is an instrument.** She says so plainly, once, in the flat voice of a woman who has read the clause, and she is not wrong and she does not enjoy being right.
 
-**This is a deliberate rhyme and it should not be pointed at.** Elara was bound by paper once before — Book 3 ch12, refusing Gunastran access to Lathion under the Uratha exclusivity compact — and that refusal started a continental war. She does not make the connection aloud and neither does the narration. **Xion might.** He wrote the clause that bound her the first time, and he is the one person in the room who knows what a correct refusal can cost. Whether he says anything is a Book 5 decision; that he *notices* is not optional.
+**This is a deliberate rhyme and it should not be pointed at.** Elara was bound by paper once before — Book 3 ch12, refusing Gunastran access to Hauren under the Uratha exclusivity compact — and that refusal started a continental war. She does not make the connection aloud and neither does the narration. **Xion might.** He wrote the clause that bound her the first time, and he is the one person in the room who knows what a correct refusal can cost. Whether he says anything is a Book 5 decision; that he *notices* is not optional.
 
 Meanwhile, **Kalden** enters. Post-war, his principality hemorrhaging from reparations, he sees Silaris as the strategic lifeline described in his profile — the harbor, the arable land, the resources the Erulian Union took from him. His public framing is characteristically grandiose: "The Erulian Principality offers to restore Silaris to its rightful place as cultural heart of the reformed Balishan Empire." But underneath the rhetoric is genuine desperation. He needs Silaris to survive.
 
@@ -150,7 +150,7 @@ anywhere near it.
 on the Alliance's strength; it was an attempt to **sever the supply corridors** between its members. A
 desert capital of two hundred thousand that eats grain hauled along one road can be strangled by anyone
 willing to cut the road, and Balisha spent a war discovering that its own throat was in someone else's
-hand the entire time. Lathion's reclamation techniques are the only answer anybody has, so the crown
+hand the entire time. Hauren's reclamation techniques are the only answer anybody has, so the crown
 funds them — as **food security**, out of the war ministry's reasoning, not out of mercy. **Nobody in this
 book says the word Warrens.** That is the whole point, and it is what makes Book 6's indictment land.
 

@@ -20,7 +20,7 @@ The name "Warrens" is grimly appropriate. The tunnels form a rat's warren of pas
 
 Pre-Rending Kaha'an had a typical urban slum in its northern district—known plainly as the Slums District, a rough neighborhood housing perhaps 3,000-5,000 people in poverty. Overcrowded tenements, narrow streets, high crime, but ultimately manageable for an imperial capital of 200,000-300,000 people. That same neighborhood is what residents today call the **Surface Warrens**—the name "Warrens" having crept upward, over twenty years, to swallow the district that sat atop the tunnel-mouths.
 
-Beneath the city lay something else entirely: an extensive network of ancient tunnels, built thousands of years ago by unknown builders. The surface world called them the **Arol Rhutan**—simply "the old tunnels"—and gave them little more thought than the name. They had stood empty for millennia. To anyone who recalled they existed at all, they were unstable ruins, possibly haunted, and plainly never meant for habitation: the proportions were wrong, the dark was total, and nothing about them invited a living soul. The one exception was the Long Knives, the city's old assassins' guild, who now and then sent recruits down into the empty Arol Rhutan to train. No one else had any use for the place.
+Beneath the city lay something else entirely: an extensive network of ancient tunnels, built thousands of years ago by unknown builders. The surface world called them the **Arol Rhutan**, **AH-rol ROO-tən**, /ˈa.rol ˈru.tən/, and gave them little more thought than the name. The phrase means **“Old Tunnels,”** but its two words reached imperial speech differently: *arol* is the learned Halauri word “old, belonging to the former order,” while inherited *rhutan* is a lexical collective for an interconnected tunnel system. It descends regularly from Late Open *re-hutan*; *hutan* by itself names one tunnel, and historical **rh** records the coalescence of /r + h/ after the weak prefix vowel disappeared. Post-sealing, pre-imperial Marresonnian record-keepers formed the hybrid phrase to classify something already ancient; the empire later retained their name. It was never the builders' own name for the system. The tunnels had stood empty for millennia. To anyone who recalled they existed at all, they were unstable ruins, possibly haunted, and plainly never meant for habitation: the proportions were wrong, the dark was total, and nothing about them invited a living soul. The one exception was the Long Knives, the city's old assassins' guild, who guarded the deepest approaches by an obligation older than their surviving history and sent recruits into the empty Arol Rhutan to train. No one else had any use for the place. The guild does not remember that it began as the human custodial order Hauren placed over the Brass Door; see `Offstage.md`, “The First Charge of the Long Knives.”
 
 Kaha'an's underworld in those days included slavers—but not *the* Slavers. Slaving was the trade of a scatter of disconnected gangs who fought one another over territory and victims nearly as often as they fought the city guard that hunted them. There was no Slaver cartel, and no Slaver King. That would come later—and it would come from below.
 
@@ -342,7 +342,7 @@ Residents call the creators "the builders" and marvel at their engineering, but 
 
 ### **Legends and Myths**
 
-Some surface scholars speak of "Lathion," a mythical lost city of elves supposedly somewhere underground, somewhere in the region. Like Atlantis or El Dorado—probably legend, possibly metaphor, maybe (maybe) real?
+Some surface scholars speak of "Hauren," a mythical lost city of elves supposedly somewhere underground, somewhere in the region. Like Atlantis or El Dorado—probably legend, possibly metaphor, maybe (maybe) real?
 
 Most Warren residents have never heard the name. They just know the tunnels are ancient, impossibly well-built, and that some systems still work despite millennia of abandonment.
 
@@ -484,4 +484,3 @@ The Warrens is:
 Twenty years old and still growing, the Warrens represents both the worst of human society and the best of human spirit. In the bones of an ancient city, in passages meant for purposes now forgotten, thousands endure in darkness.
 
 And they call themselves Warren rats with pride.
-

@@ -140,6 +140,12 @@ drafter knows the fear is specific and has a source.)*
 perfectly well and dismisses it as propaganda **because he manufactures his own the same way** — he built his
 standing on beating people who could not fight back and letting the story do the rest, so he assumes
 Tiberian's standing is the identical con with better tailoring. **A fraud assumes everyone else is a fraud.**
+
+But Tiberian cannot reach that misjudgment by bringing an army to Bittek's door. Bittek never accepts a fight
+he believes he might lose, and every organised attempt to seize him produces flight, human obstacles and an
+empty position. This avoidance is narrow, contemptible and **genuinely effective**. Tiberian defeats it only
+by approaching the taps truly alone, with no hidden squad or nearby reserve, and offering Bittek the one
+appearance he cannot resist: an eighteen-year-old prince of exactly his own height whom he believes he can beat.
 That assumption kills him, and it is characterization rather than a plot hole to be patched.
 
 **6. He is not the lieutenant who killed Melina Kemvimore.** Ronas executed that man immediately in Book 2.
@@ -153,6 +159,16 @@ book's architecture rather than on him, and the outline is their home.)*
 ---
 
 ## Personal Characteristics
+
+### Physical Presence
+
+Bittek is in his early-to-mid forties in Book 6, though his exact age is unset. He is **5′10″ / 178 cm**—shorter than Xion and exactly Tiberian's height when they meet near the end of Book 6, at about eighteen. His natural build is narrow-shouldered and soft, with untrained arms and a slight belly. Most of the breadth visible at first glance comes from his clothes rather than his body.
+
+He has a broad, faintly toadlike face without crossing into caricature: a low brow, close-set watchful brown eyes, fleshy cheeks and lower face, and a small mouth habitually set in dissatisfied importance. His light-medium warm complexion tends sallow. Thinning medium-brown hair is combed or slicked back too carefully. **He has no scars anywhere visible**—no split eyebrow, no broken nose, no damaged ear, no mark on the hands that would suggest he ever entered a fight whose outcome was uncertain. He wants the evidence of having paid a physical price and will not do what acquiring that evidence requires.
+
+The intimidation is manufactured with great care. Bittek wears blackened leather built into an exaggerated hard silhouette: padded or reinforced shoulders, too many straps, buckles, seams and studs, a dark coat longer and less honestly worn than Ronas's, and high heavy boots. At his hip sits an oversized fighting knife in an ornate, conspicuously displayed sheath. Hilt and leather are suspiciously immaculate. The knife is status jewelry masquerading as a weapon, positioned so everyone in the room notices it before they notice the man.
+
+At a glance, the construction works: he looks hard, powerful and dangerous. Looking longer reveals the soft body under the padding, the unmarked skin, the rehearsed breadth of his stance and the way his eyes keep checking whether the performance has landed. Ronas occupies space without effort. Bittek is always trying to occupy more space than he possesses.
 
 ### Voice — not yet locked, and a warning about locking it
 

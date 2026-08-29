@@ -70,13 +70,13 @@ Tiberian develops systematic capability across the trilogy, but it's learned rat
 
 By Last Debts, he has internalized enough engineering thinking to "coordinate external defense, resisting urge to rush into Rosik's traps." This represents genuine growth — the impulsive prince learning to think in systems — but it never becomes his primary mode. He uses systematic thinking as a tool, not a lens.
 
-His unconventional use of Lathion technology in battlefield applications reflects Engineer energy channeled through Spirited Competitor: he doesn't just use the tools; he finds unexpected ways to use them, turning technological capability into tactical advantage.
+His unconventional use of Hauren technology in battlefield applications reflects Engineer energy channeled through Spirited Competitor: he doesn't just use the tools; he finds unexpected ways to use them, turning technological capability into tactical advantage.
 
 **Shadow:** His engineering competence will always lag behind his passion. Under extreme stress, the systematic thinking he's learned can crack, and the tiger underneath comes through.
 
 ### Creator (Fifth)
 
-Tiberian's Creator energy manifests in tactical innovation — the battlefield applications of Lathion technology, the bold maneuvers that enemies can't predict, the unconventional approaches that redefine the terms of engagement. He creates new solutions in the heat of combat, improvising where others would follow doctrine.
+Tiberian's Creator energy manifests in tactical innovation — the battlefield applications of Hauren technology, the bold maneuvers that enemies can't predict, the unconventional approaches that redefine the terms of engagement. He creates new solutions in the heat of combat, improvising where others would follow doctrine.
 
 But this is creation in service of competition and protection, not creation for its own sake. He doesn't envision new worlds or design new systems. He innovates under pressure because the situation demands it.
 
@@ -262,7 +262,9 @@ correctly. Do not resolve it. No character explains it to him, and Xion least of
 
 ### Physical Presence
 
-Tiberian leads from the front — a principle of personal leadership that puts him at the head of columns and in the center of engagements. His combat style emphasizes rapid offensive maneuvers, aggressive decision-making, and unconventional use of Lathion technology on the battlefield. He inspires morale through physical presence: his people fight harder because their prince fights beside them.
+Tiberian leads from the front — a principle of personal leadership that puts him at the head of columns and in the center of engagements. His combat style emphasizes rapid offensive maneuvers, aggressive decision-making, and unconventional use of Hauren technology on the battlefield. He inspires morale through physical presence: his people fight harder because their prince fights beside them.
+
+The approved reference design fixes his face, build, dark hair, royal-blue eyes, resemblance pattern, and complexion. By authorial ruling on 2026-08-21, his complexion is light warm beige/olive inherited from both parents, with modest acquired outdoor warmth from martial training. He is slightly more sun-touched than Melina without returning to the bronze drift of the superseded model. He is **5′10″ / 178 cm** at sixteen and remains that height when he enters the Warrens at about eighteen; the Bittek confrontation does not silently reuse the younger measurement.
 
 ### Behavioral Patterns
 

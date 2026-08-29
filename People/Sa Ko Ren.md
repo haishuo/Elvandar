@@ -4,7 +4,7 @@
 
 In a city built on inherited wealth, political maneuvering, and carefully maintained fictions, Sa Ko Ren operates on a principle so simple it confounds everyone around her: prove it.
 
-Bloodline? Prove it matters. Divine favor? Prove it's worth something. A claim to the throne? Step into the ring and show me what you're willing to fight for. Sa Ko Ren, the Terinok immigrant who built the Iron cartel through metalwork and sheer force of will, does not care what you say you are. She cares what you can demonstrate. And the distinction between those two things — between the claimed and the proven — is the foundation of everything she values.
+Bloodline? Prove it matters. Divine favor? Prove it's worth something. A claim to the throne? Step into the ring and show me what you're willing to fight for. Sa Ko Ren, the Terinok warrior who turned a Wild Sands windfall into the Iron cartel and built it through disciplined production, does not care what you say you are. She cares what you can demonstrate. And the distinction between those two things — between the claimed and the proven — is the foundation of everything she values.
 
 The other cartel leaders trade in euphemisms and political positioning. Sa Ko speaks bluntly when others soften, acts directly when others maneuver, and evaluates everyone through contest rather than conversation. At Coterie meetings she stands out as "the Terinok woman who spoke bluntly when others traded in euphemisms." Her fellow cartel leaders find her manner uncomfortable, sometimes barbaric, occasionally inconvenient. They also cannot dismiss her, because the Iron cartel runs with brutal efficiency and Sa Ko Ren has never failed to deliver on what she promises.
 
@@ -38,7 +38,7 @@ Sa Ko's verdict: "You can't beat me. But you knew that and fought anyway." And t
 
 This is Spirited Competitor at its most mature — not seeking easy victories but seeking *worthy opponents*, people who prove their quality under pressure. Victory over a weak opponent means nothing to Sa Ko. A loss from someone who refuses to quit tells her everything she needs to know.
 
-**Shadow:** Her insistence on proving worth through direct contest can blind her to forms of value that don't translate into measurable challenge. Elara's compassion, her connection to Lathion, her capacity to inspire devotion — none of these register in Sa Ko's testing framework. She evaluates will and strength because those are what she understands. The qualities she cannot test for may be the ones that matter most.
+**Shadow:** Her insistence on proving worth through direct contest can blind her to forms of value that don't translate into measurable challenge. Elara's compassion, her connection to Hauren, her capacity to inspire devotion — none of these register in Sa Ko's testing framework. She evaluates will and strength because those are what she understands. The qualities she cannot test for may be the ones that matter most.
 
 ### Truth Seeker (Secondary)
 
@@ -56,7 +56,7 @@ The Iron cartel under Sa Ko's leadership reflects her engineering drive in servi
 
 Sa Ko builds systems that work, and she builds them with the same no-pretense directness she applies to everything else. Her cartel's operations function with mechanical precision not because efficiency satisfies her in the abstract, but because well-built systems win. An efficient forge produces better weapons. A well-organized cartel outperforms its competitors. Engineering serves the competitive edge.
 
-Her muscular build from "decades of metalwork and combat" proves she still works with her hands despite leading a major cartel — the Engineer's instinct made physical. She didn't stop making things when she started running things.
+Her engineering is institutional rather than artisanal. Sa Ko did not personally become a metalworker: she spent the Wild Sands windfall on forges, workshops, artisans and training halls, then organized that capacity into the only great cartel whose wealth comes from production. The Engineer's instinct appears in the system she built and the standards she demands, not in forge labor transferred from Iron's workers to its owner.
 
 **Shadow:** Her engineering is narrowly applied to competitive advantage. She builds systems to win, not to serve broader purposes. The Iron cartel's efficiency may not extend to considering the welfare of those outside her competitive framework.
 
@@ -90,7 +90,7 @@ She doesn't think in dynasties. She doesn't maneuver for long-term institutional
 
 ### Creator (Seventh)
 
-Expression and vision for their own sake provide Sa Ko nothing. She creates through metalwork — she still works with her hands — but the satisfaction is in the *quality* of the creation, not its artistry. A well-forged blade is satisfying because it works, because it proves the maker's skill, not because it expresses an inner vision. Her training hall has "high windows to let in light without making the space decorative." The aesthetic of the Iron district is the aesthetic of function: honest, unadorned, effective.
+Expression and vision for their own sake provide Sa Ko nothing. The actual creation belongs to Iron's artisans; Sa Ko's satisfaction is in the *quality* of what their system produces, not its artistry. A well-forged blade is satisfying because it works, because it proves the maker's skill, not because it expresses an inner vision. Her training hall has "high windows to let in light without making the space decorative." The aesthetic of the Iron district is the aesthetic of function: honest, unadorned, effective.
 
 **Shadow:** Her complete indifference to vision and expression means she cannot inspire through anything other than personal example. She leads by proving worth, not by painting a picture of what could be.
 
@@ -134,7 +134,7 @@ Everything comes down to one woman's judgment.
 
 Kael leads them to Iron cartel territory. The industrial district reveals Sa Ko's character before she says a word — forges lining the streets, workshops open to catch the breeze, no fountains wasting water, no decorative excess. Just production, efficiency, the honest work of making things. The training hall where Sa Ko waits is "starker. More utilitarian." Everything practical. Nothing wasted.
 
-Sa Ko herself is tall, with a muscular build from decades of metalwork and combat, dark hair showing silver at the temples pulled back in a practical style. She wears training clothes that have "clearly seen decades of use, faded but immaculately maintained." Even motionless, she radiates "controlled danger." Xion sees "tempered steel rather than merely sharpened blade."
+Sa Ko herself is tall and leanly athletic, with the balanced carriage of a lifelong soldier and dark hair pulled back in a practical style. She wears training clothes that have "clearly seen decades of use, faded but immaculately maintained." Even motionless, she radiates "controlled danger." Xion sees "tempered steel rather than merely sharpened blade."
 
 Elara presents her credentials: the royal eye-shifting, the Spirit's Reflection, Arol Batae support. Sa Ko dismisses each in turn with blunt efficiency. Then the challenge: single combat, no weapons, first blood or tap out or surrender. The Arol Batae guards tense. This was not the plan. Elara accepts without hesitation, without consulting anyone.
 
@@ -204,7 +204,9 @@ Sa Ko occupies a unique position in the Coterie — respected for her cartel's o
 
 ### Physical Presence
 
-Sa Ko Ren is tall, with a muscular build from decades of metalwork and combat. Her dark hair shows silver at the temples, pulled back in a practical style that keeps it out of her way. Her arms are "corded with muscle from decades of metalwork and combat." She wears training clothes that have seen decades of use, "faded but immaculately maintained." Her voice carries an accent that marks her Terinok origins.
+Sa Ko Ren is **5′10″ / 178 cm**, tall and leanly athletic, with the exact balance and economical movement of a lifelong soldier rather than a laborer's or bodybuilder's physique. She is forty-eight in Book 1 but appears roughly in her mid-thirties. Her hair is uniformly deep black, without silver, and is pulled back practically for training; in formal settings she wears a simple polished low knot. She has dark-brown eyes, a warm light-medium complexion, refined mature features, and no distinctive scars. Her voice carries an accent that marks her Terinok origins.
+
+Her ordinary formal presentation is Terinoki warrior-aristocratic rather than Kaha'ani court fashion: a restrained indigo wrap layer, short structured outer jacket, divided hakama trousers, practical obi, and a sheathed Terinoki sword worn as part of her station. She looks like the head of a great warrior house, not a court ornament and not a forge laborer. In the training hall she instead wears simple clothes that have seen decades of use, "faded but immaculately maintained."
 
 She radiates "controlled danger" even motionless. Xion perceives "tempered steel rather than merely sharpened blade" — the distinction between raw threat and disciplined power. In the training hall she is "violence given human form, forty-eight years of warrior experience radiating from every controlled movement." Her fighting stance is "looser, more fluid" than the Arol Batae school, "her posture speaking to different training entirely."
 
@@ -213,7 +215,7 @@ She radiates "controlled danger" even motionless. Xion perceives "tempered steel
 * **Direct Communication**: She speaks bluntly when others soften, states facts rather than makes threats, and uses few words — each one weighted with conviction. Her dismissal of Elara's credentials takes three short sentences. Her verdict takes four. She does not explain herself at length because she sees no need to.
 * **Testing Through Contest**: She evaluates everyone through challenge — physical, professional, personal. She creates situations where pretense becomes impossible and only demonstrated capability remains. This is not cruelty; it is the only form of assessment she trusts.
 * **Action Over Deliberation**: She decides quickly and commits fully. Her pledge to Elara is immediate once the test is passed: public support, personal threats against objectors, direct notification of the Imperial Palace. No hedging, no conditions, no political calculation.
-* **Hands-On Authority**: She still works with her hands despite leading a major cartel. Her training hall is her real office. Her body is her primary credential.
+* **Embodied Authority**: She still trains and tests people personally despite leading a major cartel. Her training hall is her real office. Authority, to Sa Ko, has to remain demonstrable rather than merely titular.
 
 ### The Central Tension
 

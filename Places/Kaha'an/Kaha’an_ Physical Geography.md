@@ -8,7 +8,7 @@ Kaha'an stands as the last major city in a region transformed by catastrophe. Bu
  **Additional Population:** \~60,000 in the Warrens (underground, officially unacknowledged)  
  **Area:** Roughly 15-20 square kilometers within the walls  
  **Climate:** Desert (post-Rending)  
- **Notable Feature:** Built unknowingly above the ancient underground city of Lathion
+ **Notable Feature:** Built unknowingly above the ancient underground city of Hauren
 
 ---
 
@@ -21,7 +21,7 @@ Kaha'an is divided into seven major surface districts, each with distinct charac
 **Location:** The geographic and political center of Kaha'an, with the Ruby Palace occupying its own city block at the very heart of the district  
  **Controlling Authority:** Joint administration by all four cartels (neutral ground)
 
-The heart of the city and its oldest section, home to the Ruby Palace where the empty throne awaits an occupant. This district serves as the political and administrative center of Kaha'an. The palace's central placement is not coincidence — both the Balishan Empire (when Kaha'an was its capital) and the ancient Lathionese (whose city lies sealed beneath) sited their most important structures at the city's center; the Ruby Palace sits, by accident or design, directly above the Destiny Engine chamber of Lathion.
+The heart of the city and its oldest section, home to the Ruby Palace where the empty throne awaits an occupant. This district serves as the political and administrative center of Kaha'an. The palace's central placement is not coincidence — both the Balishan Empire (when Kaha'an was its capital) and the ancient Haureni (whose city lies sealed beneath) sited their most important structures at the city's center; the Ruby Palace sits, by accident or design, directly above the Destiny Engine chamber of Hauren.
 
 **Key Features:**
 
@@ -91,7 +91,8 @@ The Middle District is where the daily life of ordinary Kaha'an actually happens
 **Location:** The city's southern frontage, where the wall meets the Azure Sea, extending east along the southeastern stretch of coastline. The harbor and breakwaters lie on this southern face — Kaha'an's south is sea, and this is the district built into that meeting.  
  **Controlling Faction:** House Larannas (Water Cartel)
 
-Kaha'an's maritime gateway, featuring a protected harbor and the infrastructure of a trading port.
+Kaha'an's maritime gateway, built around **Maulom**, the protected harbor basin, and the infrastructure of
+a trading port. *Maulom* names the water; *Kaha'an* names the capital-city.
 
 **Key Features:**
 
@@ -189,34 +190,45 @@ The commercial and industrial heart of Kaha'an, containing markets, workshops, a
  **Population:** \~50,000-52,000 underground residents  
  **Total Warrens Population:** \~60,000 (including surface ruins)
 
-**Physical Reality:** The Warrens is not just the surface ruins — the true city is underground. Tens of thousands live in an ancient network of tunnels and chambers built roughly 5,000 years ago as **the HVAC, water, and maintenance infrastructure** for the lost city of Lathion below.
+**Physical Reality:** The Warrens is not just the surface ruins — the true city is underground. Tens of thousands live in an ancient network of tunnels and chambers built roughly 5,000 years ago as **the HVAC, water, and maintenance infrastructure** for the lost city of Hauren below.
 
-This is the key fact about the Warrens, and it explains everything else: **these tunnels were not designed to be a city. They were designed to be the service plant for a city.** Ventilation shafts, water mains, maintenance corridors, technician staging chambers, emergency escape routes — the entire system is Lathionese engineering meant to keep Lathion proper habitable and operating. The refugees who flooded into the Warrens after the Rending are squatting in what was, originally, the basement utilities of a civilization that no longer exists.
+This is the key fact about the Warrens, and it explains everything else: **these tunnels were not designed to be a city. They were designed to be the service plant for a city.** Ventilation shafts, water mains, maintenance corridors, technician staging chambers, emergency escape routes — the entire system is Haureni engineering meant to keep Hauren proper habitable and operating. The refugees who flooded into the Warrens after the Rending are squatting in what was, originally, the basement utilities of a civilization that no longer exists.
 
-**A note on Lathion's history.** Lathion was built ~5,000 years ago by the Lathionese — an elven civilization whose origins and motives for building so deep underground are no longer recorded. For approximately three millennia after construction, **Lathion was not sealed**. The city maintained relations with the surface — trade, cultural exchange, possibly migration in both directions. Surface access was via **the Great Shaft**, a massive vertical conduit reaching from the city up to the surface, served by a spine of magitech elevators — a ceremonial main car for delegations and arrivals, smaller cars for routine traffic, freight lifts on their own tracks. It opened directly into the Crown's Arrival Halls and Diplomatic Quarter. The Great Shaft was Lathion's front door; the Warrens were always the service entrance, and **the Brass Door was the freight entrance**, reached in those centuries by a cut Lathionese haul road running down through the caverns below the service tunnels.
+**A note on Hauren's history.** Hauren was built ~5,000 years ago by the Haureni — an elven civilization whose origins and motives for building so deep underground are no longer recorded. For approximately three millennia after construction, **Hauren was not sealed**. The city maintained relations with the surface — trade, cultural exchange, possibly migration in both directions. Surface access was via **the Great Shaft**, a massive vertical conduit reaching from the city up to the surface, served by a spine of magitech elevators — a ceremonial main car for delegations and arrivals, smaller cars for routine traffic, freight lifts on their own tracks. It opened directly into the Crown's Arrival Halls and Diplomatic Quarter. The Great Shaft was Hauren's front door; the Warrens were always the service entrance, and **the Brass Door was the freight entrance**, reached in those centuries by a cut Haureni haul road running down through the caverns below the service tunnels.
 
-Approximately 2,000 years ago — for reasons not preserved in any surviving record — Lathion chose to seal itself off from the surface. The Great Shaft was deliberately collapsed and **filled**, leaving no open pit and no surface trace for anyone to find. The elevators were destroyed and stripped for parts, which went back into the city. The freight haul road down to the Brass Door was collapsed in the same operation, leaving only the natural caverns it had been driven through. The Lathionese turned inward, and the surface gradually forgot Lathion existed. By the time the Balishan Empire rose on the surface a few centuries later, Lathion was already legend.
+Approximately 2,000 years ago—for reasons not preserved in any surviving record—Hauren chose to seal
+itself off from the surface. The Great Shaft was deliberately collapsed and **filled**, leaving no open pit
+and no surface trace for anyone to find. The elevators were destroyed and stripped for parts, which went
+back into the city. The freight haul road down to the Brass Door was collapsed in the same operation,
+leaving only the natural caverns it had been driven through. A small trusted human order was charged with
+guarding those surviving approaches; it became the Long Knives, although the modern guild remembers only
+the charge and not its source. The Haureni turned inward, and the surface gradually forgot Hauren
+existed. By the time the Balishan Empire rose a few centuries later, Hauren was already legend. Full
+account: `Offstage.md`, “The First Charge of the Long Knives.”
 
 What remained, after the Great Shaft was destroyed, were two access routes — neither of them intended for routine traffic:
 
 1. **The Warrens service tunnels above** — still operational, still climate-controlled, still pumping water and air; but service-only, not designed to bring visitors *into* the city, only to support it from above
-2. **A network of natural caverns connecting (somewhere deep) to a sealed back entrance** — the Brass Door chamber, which the Lathionese fortified as a contingency seal "just in case." They reasoned, not unreasonably, that no one would be insane enough to traverse the natural caves to reach a door that wouldn't open anyway.
+2. **A network of natural caverns connecting (somewhere deep) to a sealed back entrance**—the Brass Door
+   chamber, which the Haureni fortified as a contingency seal “just in case.” They expected few people
+   to survive the caves or defeat the lock and commissioned human custodians to discourage anyone from
+   trying.
 
-The natural cavern network is what we now call **Dead Man's Passage** (see below). It is not Lathionese construction. The Lathionese inherited it as a geological feature of the bedrock beneath their city, and they sealed the access point (the Brass Door) rather than try to fill in or rework the caves themselves.
+The natural cavern network is what we now call **Dead Man's Passage** (see below). It is not Haureni construction. The Haureni inherited it as a geological feature of the bedrock beneath their city, and they sealed the access point (the Brass Door) rather than try to fill in or rework the caves themselves.
 
-**On the haul road, and why nothing of it survives.** During the open period freight did not crawl through caves: a cut Lathionese road descended from the service tunnels to the Brass Door, driven through and around this cavern system, which is why the Door stands at a boundary that otherwise makes no sense. That road was **deliberately collapsed** at the sealing. This is a demolition, not a decay — Lathionese work does not decay, and everything else they built is still running — and it is the reason the surviving route is raw rock the whole way. Nobody alive knows a road was ever there.
+**On the haul road, and why nothing of it survives.** During the open period freight did not crawl through caves: a cut Haureni road descended from the service tunnels to the Brass Door, driven through and around this cavern system, which is why the Door stands at a boundary that otherwise makes no sense. That road was **deliberately collapsed** at the sealing. This is a demolition, not a decay — Haureni work does not decay, and everything else they built is still running — and it is the reason the surviving route is raw rock the whole way. Nobody alive knows a road was ever there.
 
-One important implication of the open period: **much of what surface civilizations now call "magitech" likely descends, in degraded and incomplete form, from Lathionese arts transmitted during the three millennia of contact.** Gunastran's industrial magitech is the most advanced surface tradition — and may, without knowing it, be a long-distant inheritance from the Lathionese themselves. The Lathionese were the theorists; Gunastran are the latter-day engineers working with degraded recipes. (See *Magic/The Rending.md* for the dual significance of this for the Destiny Engine.)
+One important implication of the open period: **much of what surface civilizations now call "magitech" likely descends, in degraded and incomplete form, from Haureni arts transmitted during the three millennia of contact.** Gunastran's industrial magitech is the most advanced surface tradition — and may, without knowing it, be a long-distant inheritance from the Haureni themselves. The Haureni were the theorists; Gunastran are the latter-day engineers working with degraded recipes. (See *Magic/The Rending.md* for the dual significance of this for the Destiny Engine.)
 
 **Why the Warrens are "suspiciously livable":**
 
 A geologist visiting these depths in any other underground formation would expect natural cave conditions — stable cool temperature (around 55–60°F), poor air circulation, no reliable water flow, total darkness. The Warrens have none of those problems. The air is fresh. The temperature is *engineered* — comfortable in the upper and middle levels in a way that natural geology cannot produce. The ventilation fans still turn. The water pumps still pump. Acoustically muffled corridors carry the faint, steady sound of mechanisms operating somewhere out of sight. After 5,000 years.
 
-This is not because the systems are simple. It is because the Lathionese built systems that *do their job* — and were built to a tolerance that did not contemplate the operators being gone.
+This is not because the systems are simple. It is because the Haureni built systems that *do their job* — and were built to a tolerance that did not contemplate the operators being gone.
 
-**The original design philosophy** assumed Lathionese maintenance workers would traverse these passages on routine duty rotations. The corridors are sized for *people*; staging chambers are sized for *crews*; access doors have *handles*. The whole infrastructure has a human-scale ergonomic assumption baked into it. At some point — well before the sealing, in the latter centuries of Lathion's flourishing — the maintenance work was **automated**. Brass-and-arcane constructs took over the routine inspections. Lathionese citizens stopped going up into the service tunnels personally. The automatons handled it. This is partly why, when the city eventually sealed itself with the Destiny Engine, the service infrastructure could continue running indefinitely without occupants — it had already been designed to run that way.
+**The original design philosophy** assumed Haureni maintenance workers would traverse these passages on routine duty rotations. The corridors are sized for *people*; staging chambers are sized for *crews*; access doors have *handles*. The whole infrastructure has a human-scale ergonomic assumption baked into it. At some point — well before the sealing, in the latter centuries of Hauren's flourishing — the maintenance work was **automated**. Brass-and-arcane constructs took over the routine inspections. Haureni citizens stopped going up into the service tunnels personally. The automatons handled it. This is partly why, when the city eventually sealed itself with the Destiny Engine, the service infrastructure could continue running indefinitely without occupants — it had already been designed to run that way.
 
-Whether any of those automatons are *still operating* in the deeper Warrens or behind the brass door in Lathion proper is one of the questions no surface dweller knows to ask. Faint, distant sounds reported by residents of the Depths (rhythmic mechanical noise, occasionally moving past at distance, never visible) are dismissed as imagination by most. Some refugees who have lived in the Depths for years are less sure.
+Whether any of those automatons are *still operating* in the deeper Warrens or behind the brass door in Hauren proper is one of the questions no surface dweller knows to ask. Faint, distant sounds reported by residents of the Depths (rhythmic mechanical noise, occasionally moving past at distance, never visible) are dismissed as imagination by most. Some refugees who have lived in the Depths for years are less sure.
 
 **The Tunnel Network:**
 
@@ -231,22 +243,28 @@ Whether any of those automatons are *still operating* in the deeper Warrens or b
 * **Surface Warrens:** Ruins with tunnel entrances (8,000–10,000). Above the engineered envelope; surface weather and desert heat reach here.
 * **The Tiers** (−20 to −100m): Upper service corridors. Engineered climate fully effective — air circulating, temperature stable, water flowing. *Suspiciously livable.* 15,000–18,000 residents.
 * **The Midlevels** (−100 to −300m): The bulk of the service infrastructure. Engineered climate still effective — most of the population lives here precisely because the conditions are stable. 25,000–30,000.
-* **The Depths** (−300 to −500m): The boundary zone where the climate engineering begins to taper. Warmer (80–95°F), poorer air, the engineering doing less of the work. Closer to Lathion's heat sources. 8,000–10,000 desperate residents who could not afford or were not permitted to live higher.
-* **Dead Man's Passage** (−500m+): **Natural caverns, not Lathionese construction.** A network of caves formed by ordinary geological processes — water erosion, fault movement, mineral precipitation — that happen to connect, somewhere in their depths, to the back wall of Lathion's outer chamber. The Lathionese inherited these caves as a feature of the bedrock; they did not build them. This is why the prose descriptions of the passage emphasize crude rock, unfinished walls, branching that leads nowhere, and dead ends: those are normal cave features, not design choices. The caves wind because that's what caves do.
+* **The Depths** (−300 to −500m): The boundary zone where the climate engineering begins to taper. Warmer (80–95°F), poorer air, the engineering doing less of the work. Closer to Hauren's heat sources. 8,000–10,000 desperate residents who could not afford or were not permitted to live higher.
+* **Dead Man's Passage** (−500m+): **Natural caverns, not Haureni construction.** A network of caves formed by ordinary geological processes — water erosion, fault movement, mineral precipitation — that happen to connect, somewhere in their depths, to the back wall of Hauren's outer chamber. The Haureni inherited these caves as a feature of the bedrock; they did not build them. This is why the prose descriptions of the passage emphasize crude rock, unfinished walls, branching that leads nowhere, and dead ends: those are normal cave features, not design choices. The caves wind because that's what caves do.
 
 The passage is hot for the same reason: natural geology. At this depth, the geothermal gradient produces ambient temperatures in the 80–95°F range, and there is no climate control to mitigate it because nothing was built to occupy these spaces. The air is bad for the same reason — no ventilation engineering exists. The labyrinthine quality is geological happenstance, not design.
 
-The Lathionese, when they sealed their city, chose not to fill in or restructure the natural cave system. They reasoned (correctly, for two thousand years and counting) that the caves were sufficiently hostile that no one would brave them, and that even if someone did, the Brass Door at the far end would not open for them. So the caves remain as they always were — a hostile geological dead-zone separating the bottom of Lathion's service infrastructure from the back wall of the city itself. The Lathionese didn't engineer a kill-zone; they identified one and trusted it.
+The Haureni, when they sealed their city, chose not to fill in or restructure the natural cave system.
+They recognized that the caves were already sufficiently hostile to defeat most visitors, while the Brass
+Door would stop whoever survived. The human custodians who became the Long Knives supplied the final layer:
+people whose work was to prevent curiosity from becoming an expedition. The caves remain what they always
+were—a hostile geological dead-zone separating the bottom of Hauren's service infrastructure from the
+back wall of the city itself. The Haureni did not engineer a kill-zone; they identified one, locked the
+threshold beyond it, and placed trusted eyes on the approach.
 
-The faint blue ancient glow that appears in the deepest parts of the passage is the visible signature of Lathionese power conduits running *behind* the cave walls — not embedded in the caves themselves, but in the city's outer structure that the caves abut. The glow gets stronger as you approach the Brass Door because you are getting closer to where the natural caves meet the city's engineered wall.
+The faint blue ancient glow that appears in the deepest parts of the passage is the visible signature of Haureni power conduits running *behind* the cave walls — not embedded in the caves themselves, but in the city's outer structure that the caves abut. The glow gets stronger as you approach the Brass Door because you are getting closer to where the natural caves meet the city's engineered wall.
 
 Lethal maze, 0 permanent residents. Only the Long Knives know a reliable route through.
 
-* **The Brass Door Chamber** (−500m+, at the far end of the natural caves): **Lathionese construction resumes.** Stable temperature, breathable air, ancient blue lighting working as designed. This chamber is the official back entry to Lathion — the contingency seal — and the climate-control system treats it as Lathion proper. The walls become smooth, finished, precise. The temperature drops sharply from the cave heat behind you to a comfortable engineered stable. Characters who survive Dead Man's Passage and reach the Brass Door experience a sudden, dramatic temperature drop back to comfortable conditions. The relief is sensory and immediate. They are no longer in the caves; they are at the city's door.
+* **The Brass Door Chamber** (−500m+, at the far end of the natural caves): **Haureni construction resumes.** Stable temperature, breathable air, ancient blue lighting working as designed. This chamber is the official back entry to Hauren — the contingency seal — and the climate-control system treats it as Hauren proper. The walls become smooth, finished, precise. The temperature drops sharply from the cave heat behind you to a comfortable engineered stable. Characters who survive Dead Man's Passage and reach the Brass Door experience a sudden, dramatic temperature drop back to comfortable conditions. The relief is sensory and immediate. They are no longer in the caves; they are at the city's door.
 
-* **Lathion proper** (below and beyond the Brass Door): **Fully habitable.** It is a *city*. Lathion's climate envelope is stable, comfortable, designed for civilization. The Destiny Engine, despite being the city's power source, is not a free-radiating furnace — its output is channeled into the city's systems (climate, lighting, mechanical operations), not dumped as ambient heat. Walking through Lathion proper, a visitor would find the temperature roughly equivalent to a comfortable spring day. The city was built to be *lived in* — for three thousand years it *was* lived in — and the climate engineering reflects that.
+* **Hauren proper** (below and beyond the Brass Door): **Fully habitable.** It is a *city*. Hauren's climate envelope is stable, comfortable, designed for civilization. The Destiny Engine, despite being the city's power source, is not a free-radiating furnace — its output is channeled into the city's systems (climate, lighting, mechanical operations), not dumped as ambient heat. Walking through Hauren proper, a visitor would find the temperature roughly equivalent to a comfortable spring day. The city was built to be *lived in* — for three thousand years it *was* lived in — and the climate engineering reflects that.
 
-The thing to notice — and which Urathan scholars would notice immediately if any of them ever surveyed the Warrens and Lathion properly — is that the temperature profile has a sharply **discontinuous structure that no natural process produces**: stable engineered (Warrens) → tapering at the boundary → *natural geothermal hot zone (Dead Man's Passage)* → stable engineered again on the other side (Brass Door + Lathion). The hot zone in the middle is *bracketed* by climate-controlled engineered habitats above and below. The discontinuity at each transition is sharp. No natural cave system produces that shape — it is the thermodynamic signature of two separate engineered habitats *separated by* a natural feature, rather than a single continuous environment. Nobody has done the survey, because the Warrens are not the kind of place Urathan scholars survey, and Lathion proper is sealed. But the data would be there if they did.
+The thing to notice — and which Urathan scholars would notice immediately if any of them ever surveyed the Warrens and Hauren properly — is that the temperature profile has a sharply **discontinuous structure that no natural process produces**: stable engineered (Warrens) → tapering at the boundary → *natural geothermal hot zone (Dead Man's Passage)* → stable engineered again on the other side (Brass Door + Hauren). The hot zone in the middle is *bracketed* by climate-controlled engineered habitats above and below. The discontinuity at each transition is sharp. No natural cave system produces that shape — it is the thermodynamic signature of two separate engineered habitats *separated by* a natural feature, rather than a single continuous environment. Nobody has done the survey, because the Warrens are not the kind of place Urathan scholars survey, and Hauren proper is sealed. But the data would be there if they did.
 
 **Major Factions:**
 
@@ -264,7 +282,10 @@ The thing to notice — and which Urathan scholars would notice immediately if a
 * The Long Knives occasionally provide intelligence to surface authorities  
 * Economic interdependence masked by political fiction
 
-**The Secret Below:** Unknown to all but a few, the deepest passages lead to a sealed brass door. Beyond it lies Lathion proper—an intact ancient city still powered and maintained by automated systems. The Long Knives guard the route but don't know what they protect.
+**The Secret Below:** Unknown to all but a few, the deepest passages lead to a sealed brass door. Beyond it
+lies Hauren proper—an intact ancient city still powered and maintained by automated systems. The Long
+Knives guard the route because their order was founded to do so, but two thousand years erased what they
+protect and who gave the charge.
 
 **For more detail:** See dedicated Warrens documentation (Overview, Geography, Factions, Named Locations)
 
@@ -275,6 +296,10 @@ The thing to notice — and which Urathan scholars would notice immediately if a
 ### **The Aqueduct Network**
 
 **Overview:** Ancient imperial aqueduct system, significantly expanded post-Rending
+
+The historical trunk line is **Unpel Dun**, the Northern Aqueduct. It once descended through the lost
+headworks city of Unava before dividing between Kaha'an and the old agricultural network. The source and
+parts of the high and capital-facing line survived or were rebuilt; Unava and the lowland branches did not.
 
 **Key Features:**
 
@@ -320,7 +345,7 @@ The thing to notice — and which Urathan scholars would notice immediately if a
 
 * Connects to pre-imperial ruins  
 * Secret passages used by the Long Knives  
-* The "Brass Door" leading to legendary Lathion (dismissed as myth)
+* The "Brass Door" leading to legendary Hauren (dismissed as myth)
 
 **Reality:** All true, but far more extensive than anyone imagines.
 
@@ -355,7 +380,8 @@ used it.*
 
 **Location:** Quiet corner of the Noble District
 
-**Description:** Heavily fortified complex, home to the Arol Batae (remnants of the imperial guard)
+**Description:** Heavily fortified complex, home to the Arol Batae—“Old Guard,” the surviving institution
+renamed from the pre-Rending Kaha Batae, “Imperial Guard”
 
 **Status:** Maintains strict isolation from the rest of the city
 
@@ -471,7 +497,7 @@ used it.*
 
 ## **The Hidden City Below**
 
-**The Great Irony:** Kaha'an was built unknowingly above Lathion, an ancient elven city that lies sealed but intact beneath the streets. The surface city has existed for centuries, never realizing that:
+**The Great Irony:** Kaha'an was built unknowingly above Hauren, an ancient elven city that lies sealed but intact beneath the streets. The surface city has existed for centuries, never realizing that:
 
 1. A vastly more advanced civilization built here first  
 2. Their "ancient foundations" are actually service tunnels for the city below  
@@ -484,14 +510,14 @@ used it.*
 * Surface authorities deny the Warrens exists (despite 60,000 residents)  
 * Warren residents live in service tunnels, not knowing what lies below  
 * The Long Knives guard a brass door they cannot open  
-* Princess Elara may possess the means to access Lathion  
-* The city of Lathion waits, powered and maintained, unknown to the world above
+* Princess Elara may possess the means to access Hauren
+* The city of Hauren waits, powered and maintained, unknown to the world above
 
 **Three Layers:**
 
 * **Surface Kaha'an:** \~150,000-200,000, knows nothing of what's below  
-* **The Warrens:** \~60,000 in ancient service tunnels, doesn't know Lathion exists  
-* **Lathion:** 0 inhabitants, perfectly preserved, waiting to be discovered
+* **The Warrens:** \~60,000 in ancient service tunnels, doesn't know Hauren exists
+* **Hauren:** 0 inhabitants, perfectly preserved, waiting to be discovered
 
 ---
 
@@ -644,21 +670,21 @@ The Deep Desert is different.
 
 Every other part of Elvandar has been mapped at some level of fidelity. The mountain passes of the Sentinels and the Frost Spine have been surveyed by Terinok and Gunastran for military reasons. The forests of Vartonne and Erulius have been logged and resurveyed for centuries. The coastlines have charts updated within the past decade. Even the Wild Sands have rough working maps. The Deep Desert is the single exception: a stretch of the post-Rending Balishan Desert lying past the Wild Sands, edging toward the Gray Wastes, which has *never* been mapped in any form that an experienced finder would call usable.
 
-The reason is straightforward: anyone who has ever gone deep enough into the Deep Desert to begin mapping it has either died there or returned in no condition to deliver a coherent map. Whatever they saw, they did not return whole enough to draw it. The handful of "Deep Desert maps" that circulate in Kaha'an's underground markets are pre-Rending parchments — and pre-Rending parchments describe a landscape that no longer exists. The Deepwood Forest is gone. Fort Dinkarth is gone. The river bends, the named hills, the imperial outposts, the milestones along the imperial highway — all gone, buried, scoured. Even an authentic pre-Rending Vault-map describes a featureless dune now. *Useless* is the right word; some of the people selling these maps know it, and some of them don't.
+The reason is straightforward: anyone who has ever gone deep enough into the Deep Desert to begin mapping it has either died there or returned in no condition to deliver a coherent map. Whatever they saw, they did not return whole enough to draw it. The handful of "Deep Desert maps" that circulate in Kaha'an's underground markets are pre-Rending parchments — and pre-Rending parchments describe a landscape that no longer exists. Dunyelas is gone. Dunkargar is gone. The river bends, the named hills, the imperial outposts, the milestones along the imperial highway — all gone, buried, scoured. Even an authentic pre-Rending Vault-map describes a featureless dune now. *Useless* is the right word; some of the people selling these maps know it, and some of them don't.
 
 This is one of the things that makes the Vault legend unique among Elvandar's lost treasures. Other lost things — sunken ships, ruined towns, abandoned shrines — sit in places that *can* be searched. The Vault sits in a place that effectively cannot.
 
 **The Story:** Several generations before the Rending, one of the earlier Valanar emperors — fearing a coup or a sacking of the capital — moved a substantial portion of the imperial treasury (gold, gem-stones, magical artifacts, and a number of minor divine relics) out of Kaha'an's Ruby Palace into a secured vault elsewhere in Balisha. The intent was redundancy: a store of imperial wealth that no usurper could seize merely by taking the capital. **Imperial records confirm the Vault's existence and hint, in fragmentary inventory references, at the scale of the wealth involved — somewhere on the order of a third of the national treasury at the time of its placement.** The Vault is not, in this sense, *legendary*. It is *documented*. What is missing is reach.
 
-In its day, the Vault was housed in the basement of **Fort Dinkarth**, an imperial fortress on the plains just south of the **Deepwood Forest** in the north of old Balisha. While the empire stood, it was simply secure: well-garrisoned, accessible only to a small circle of imperial officials, not advertised but not exactly secret. Records of its location existed in the Ruby Palace's archives. Routine imperial inspections of Fort Dinkarth and its vault occurred on a defined schedule.
+In its day, the Vault was housed beneath **Dunkargar**, an imperial fortress on Limel Mar immediately south of **Dunyelas** in the north of old Balisha. While the empire stood, it was simply secure: well-garrisoned, accessible only to a small circle of imperial officials, not advertised but not exactly secret. Records of its location existed in the Ruby Palace's archives. Routine imperial inspections of Dunkargar and its vault occurred on a defined schedule.
 
-Then the Rending happened. The Deepwood died with the rest of the surface. Fort Dinkarth — including everything that stood above the Vault — was reduced to nothing recognizable, and the dunes have buried whatever remained of its foundations in the twenty years since. The Vault itself, being subterranean, *may* have survived intact, but no living person can confirm this. The Ruby Palace's archives were lost when the city was sealed by its wards during the Rending; anything not in the small set of rooms the post-Rending Coterie could access went down with the rest of the imperial bureaucracy. So the location of the Valanar Vault is now known only at the level of generality recorded in surviving imperial fragments: *somewhere on the plains south of the (former) Deepwood, beneath the (former) Fort Dinkarth*. Both landmarks are now featureless dune. Somewhere in the Deep Desert.
+Then the Rending happened. Dunyelas died with the rest of the surface. Dunkargar — including everything that stood above the Vault — was reduced to nothing recognizable, and the dunes have buried whatever remained of its foundations in the twenty years since. The Vault itself, being subterranean, *may* have survived intact, but no living person can confirm this. The Ruby Palace's archives were lost when the city was sealed by its wards during the Rending; anything not in the small set of rooms the post-Rending Coterie could access went down with the rest of the imperial bureaucracy. So the location of the Valanar Vault is now known only at the level of generality recorded in surviving imperial fragments: *somewhere on Limel Mar south of Dunyelas, beneath Dunkargar*. Every named landmark is now featureless dune. Somewhere in the Deep Desert.
 
 **The Pitch (As a Hunter Hears It):**
 
 In the dock-district taverns and Middle District back rooms where finders' guilds recruit, the story is told something like this:
 
-> *Imperial records record that a Valanar Emperor, fearing coup, hid a substantial portion of the imperial treasury — gold, jewels, priceless artifacts — in a basement vault beneath Fort Dinkarth in the north, just outside the Deepwood Forest (back when both still stood). The wealth was almost a third of the nation's wealth. A substantial sum.*
+> *Imperial records record that a Valanar Emperor, fearing coup, hid a substantial portion of the imperial treasury — gold, jewels, priceless artifacts — beneath Dunkargar in the north, just outside Dunyelas (back when both still stood). The wealth was almost a third of the nation's wealth. A substantial sum.*
 >
 > *When the Rending struck, that Vault was buried under sand. We have no maps that reliably point to its location. But we know it's out there. Waiting. Anyone who can find it and loot it is set for life. There's enough gold in there to set them up as a fifth seat at the Table.*
 >
@@ -1003,7 +1029,6 @@ Kaha'an is a city built on layers of ignorance and denial:
 
 **Hidden Layer:** The Warrens—60,000 refugees living in ancient tunnels, creating their own society in darkness, with surface authorities pretending they don't exist.
 
-**Deepest Layer:** Lathion—a sealed ancient city of wonders, still functioning after 5,000 years, unknown to almost everyone.
+**Deepest Layer:** Hauren—a sealed ancient city of wonders, still functioning after 5,000 years, unknown to almost everyone.
 
 The physical geography of Kaha'an is thus far more complex than it appears. What seems to be a desert trading city is actually the latest chapter in a location that has been significant for five millennia—built atop the bones of a civilization that surpassed anything the current age has achieved.
-

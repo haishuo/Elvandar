@@ -123,7 +123,7 @@ Elara's compound education was thorough within its limits. Commander Vesk oversa
 
 What she did not receive was any understanding of the world outside the walls. The compound was immaculate but hollow. Arrow slits, iron gates thick enough to stop cavalry charges, and an atmosphere of perpetual vigilance. The Arol Batae blamed themselves for not being there during The Rending, and their guilt manifested as overprotection — keeping Elara safe at the cost of keeping her ignorant.
 
-She also did not receive any of the courtly tradition that a princess raised by palace tutors would have absorbed by osmosis. One consequence will surface the moment she takes the throne and become a quiet diplomatic incident in itself: for centuries, Valanar monarchs have not reigned under their birth names. Upon coronation, the new emperor or empress *takes* a throne-name from a small fixed pool of Old Lathionese dynastic names — *Urath, Valan, Tharen, Sera, Mariath, Korin* — and is numbered in sequence with every prior bearer (*Urath IV, Valan VII, Tharen II*). The numeral asserts continuity with the line of that name; the birth name is set aside at coronation and survives only in family records. Vartonne, in particular, treats this throne-name taking as part of what *constitutes* a coronation — a load-bearing ritual act, not a decorative one.
+She also did not receive any of the courtly tradition that a princess raised by palace tutors would have absorbed by osmosis. One consequence will surface the moment she takes the throne and become a quiet diplomatic incident in itself: for centuries, Valanar monarchs have not reigned under their birth names. Upon coronation, the new emperor or empress *takes* a throne-name from a small fixed pool of Old Halauri dynastic names — *Urath, Valan, Tharen, Sera, Mariath, Korin* — and is numbered in sequence with every prior bearer (*Urath IV, Valan VII, Tharen II*). The numeral asserts continuity with the line of that name; the birth name is set aside at coronation and survives only in family records. Vartonne, in particular, treats this throne-name taking as part of what *constitutes* a coronation — a load-bearing ritual act, not a decorative one.
 
 Elara doesn't know the tradition and would not care if she did. She takes the throne as **Empress Elara** — her own birth name, no throne-name, no numeral — because that is who she is, and because the Arol Batae taught her many things but not this one. To her, that is the entire decision. To Vartonne, it is something stranger: the construction *Empress Elara* is not a chosen throne-name from the dynastic pool (there *is* no Elara in the pool — the form is incoherent, the equivalent of *King Joe of England*), so it reads not as a snub but as a procedural defect. A coronation that omitted one of its essential ritual elements. From the Vartonnese view, the fact that she calls herself *Empress* at all is a kind of polite fiction the rest of the continent is going along with, and the question is when someone is going to have to say so out loud. The Vartonnese sensibility cannot accommodate the possibility that an empress simply *doesn't know* a tradition they consider foundational — the assumption that she must be doing it deliberately (whether as a slight, a heresy, or some incomprehensible new doctrine) is itself a piece of how Vartonne misreads the new court from the outset.
 
@@ -325,12 +325,12 @@ Her inability to compromise with the cartels in Book 2 is not stubbornness alone
 
 ---
 
-## The Lathion Connection
+## The Hauren Connection
 
-Elara possesses an innate connection to the ancient underground city of Lathion and its technology — a consequence of being an infant in the Ruby Palace during The Rending, when the Destiny Engine's activation seeped essence energy through the palace foundations into her developing consciousness.
+Elara possesses an innate connection to the ancient underground city of Hauren and its technology — a consequence of being an infant in the Ruby Palace during The Rending, when the Destiny Engine's activation seeped essence energy through the palace foundations into her developing consciousness.
 
 This connection manifests as:
-- Intuitive recognition of Lathionese structures and mechanisms
+- Intuitive recognition of Haureni structures and mechanisms
 - The trance states that draw her through underground passages with eerie certainty
 - The ability to activate ancient technology (the brass door, the palace doors)
 - Fragmentary understanding that feels like "remembering something she never learned"
@@ -363,6 +363,8 @@ will.** See [the Book 7 thread](../Series%20Review%20-%20Master%20List.md).
 ### Physical Presence
 
 Approximately twenty years old, with dark hair typically pulled back in a practical style. Athletic build concealed beneath practical clothing, with a "natural grace she usually kept hidden beneath practicality." She bears a faint scar on her chin from training and small scars on her hands from years of weapons work. Her height is not established relative to Xion's; do not infer a difference in either direction.
+
+By authorial visual ruling, Elara's untanned natural complexion is light warm ivory/beige with a faint olive undertone. Mainline Elara's years of outdoor martial training give her a modest acquired tan comparable to the visible Leah reference that originally served as the direct conception of her appearance, not the substantially darker inherited complexion of the first photorealistic model. Leah herself is an outdoors-oriented Verbena and therefore not an indoor baseline. The non-canon Imperial Princess version, raised largely inside the imperial court rather than among soldiers, should consequently be fairer than visible Leah and nearly as fair as Farleen, though still fractionally warmer rather than pink or porcelain. This is a complexion correction only, not a recasting of Elara's established face, build, hair, scars, or eyes.
 
 She moves like a soldier — controlled, aware, ready. Her combat training has made her naturally graceful, but she moves "with too much precision" for social contexts, "anticipating steps rather than flowing through them." In crowds, she proves surprisingly good at blending in, moving "like someone who belonged among the common folk rather than above them."
 

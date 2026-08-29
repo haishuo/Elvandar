@@ -194,7 +194,9 @@ Tania occupies a specific niche in the Coterie: she is not the most powerful (Ro
 
 The text provides minimal physical description. At the masquerade, Tania wears emerald silk matching Water cartel colors. Her mask is deliberately minimal — "just enough to satisfy the evening's theme while ensuring everyone knew exactly who she was." Her eyes are "shrewd and assessing." Her smile shifts between "warm and utterly calculated" and "sharpened" depending on what she is processing.
 
-The absence of physical detail is itself characterizing. Tania is described almost entirely through social behavior — how she greets, how she probes, how she signals, how she calculates. Her body is less important to the text than her performance.
+By authorial visual ruling, Tania is forty-seven in Book 1 and stands 5′6″ / 168 cm. She has a medium, softly curvy build — healthy and carefully maintained, but neither athletic nor physically imposing. Her complexion is light-medium warm olive. Her hair is deep chestnut brown, beginning to silver subtly at the temples, and normally arranged with polished court sophistication. Her eyes are grey-green. She has a mature oval face, high cheekbones, a straight nose, fine lines around the eyes, and a full but exceptionally controlled mouth. She has no scars.
+
+The prose's absence of physical detail remains characterizing. Tania is described almost entirely through social behavior — how she greets, how she probes, how she signals, how she calculates. Her body is less important to the text than her performance. The approved visual design therefore avoids making her physically intimidating: her authority remains social, institutional, and presentational.
 
 ### Behavioral Patterns
 

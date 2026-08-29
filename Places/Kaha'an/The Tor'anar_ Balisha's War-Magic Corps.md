@@ -6,7 +6,7 @@ The Tor'anar are the last remnant of Imperial Balisha's military-magic branch �
 
 Their signature magic is storm — force, weather, pressure, motion, applied at range and at scale. Where Uratha's mages specialize in theory and Terinok's clan-shamans work fire and earth close to the body, a Tor'anar battle-mage is built to function as living artillery. They were never meant to duel. They were meant to end formations.
 
-**Name:** *Tor'anar* — coined *tor-* ("storm, thunder, the breaking of weather") + *-anar* (Old Lathionese, "line, blood, bearing" — the same suffix that produces *Valanar*, "the True Blood"). Read together: "The Storm-Line." **The shared suffix is deliberate and load-bearing**: they are sworn to Valanar blood specifically, and their name says so. The glottal stop marks it as a name of the highest prestige register, on par with *Kaha'an* itself — appropriate for an institution as old as the empire that named it. Individual members are called, informally, **the Tor**, or collectively **Toranai**.
+**Name:** *Tor'anar* — coined *tor-* ("storm, thunder, the breaking of weather") + *-anar* (Old Halauri, "line, blood, bearing" — the same suffix that produces *Valanar*, "the True Blood"). Read together: "The Storm-Line." **The shared suffix is deliberate and load-bearing**: they are sworn to Valanar blood specifically, and their name says so. The glottal stop marks it as a name of the highest prestige register, on par with *Kaha'an* itself — appropriate for an institution as old as the empire that named it. Individual members are called, informally, **the Tor**, or collectively **Toranai**.
 
 *Renamed from* **Ver'anar** *on 2026-08-01. The old form differed from* Valanar *only in the liquid —* VAL *against* VER *— which is the least reliable distinction in speech, and the two were confusable when read aloud however clearly they scanned on the page.* Tor'anar *differs in consonant, vowel and coda while keeping the suffix that carries the meaning. Nothing else about the corps changed, and the name appears in no chapter prose.*
 
@@ -127,16 +127,16 @@ Nothing in Book 2 — the poisoning attempt, the Coterie's legal usurpation of E
 
 The Tor'anar are the obvious first call when the treasury crisis forces the question of opening the Brass Door — they're Elara's own sworn corps, and asking them before asking a foreign power is the natural move. They can't do it. Storm magic is built for open ground and formations at range: pressure, force, weather, applied at scale against an enemy that can be pushed, broken, or scattered. A sealed precision lock in a cramped tunnel is neither of those things, and storm magic performs badly in confined spaces regardless — it needs room to move. There's nothing to batter down and nowhere for the working to breathe. The Tor'anar say so plainly, without pretending otherwise, and that admission is what actually sends Xion to Gunastran and then Uratha: not because the Tor'anar were skipped, but because they were asked first and were honest about the limits of what their magic is for.
 
-## Book 3 ("Crown Jewel"): The Lathion Assignment
+## Book 3 ("Crown Jewel"): The Hauren Assignment
 
-Lathion is different in kind. A five-thousand-year-old sealed magical civilization reopening, with a delegation of Urathan **Amethyst Tower** scholars — theoretical magic, top of Uratha's prestige hierarchy, "study first, apply a distant second" — operating inside Balishan territory near a site with Destiny-Engine-scale stakes, is exactly the register of threat the Tor'anar exist to watch for. It is arguably *more* their business than anyone else's: they are the one institution old enough to remember precisely what an uncontained magical catastrophe on this stretch of ground actually costs.
+Hauren is different in kind. A five-thousand-year-old sealed magical civilization reopening, with a delegation of Urathan **Amethyst Tower** scholars — theoretical magic, top of Uratha's prestige hierarchy, "study first, apply a distant second" — operating inside Balishan territory near a site with Destiny-Engine-scale stakes, is exactly the register of threat the Tor'anar exist to watch for. It is arguably *more* their business than anyone else's: they are the one institution old enough to remember precisely what an uncontained magical catastrophe on this stretch of ground actually costs.
 
 This is where the Tor'anar push, for the first time in the series, for an active role — not by acting unbidden, but by pressing Elara hard for permission to embed with the expedition. Elara grants it: a small, low-stakes trust step, long before anything like a combat order.
 
 ### The deputation, and what they actually argue
 
 **When:** B3 **Chapter 3 ("Storm-Line")**, days after the Door answers Elara and refuses to open. **The
-trigger is not Lathion**, which nobody has heard of yet as anything but a name in a list of legends. It is
+trigger is not Hauren**, which nobody has heard of yet as anything but a name in a list of legends. It is
 the Door itself — and the sequence that brings the corps into the room is the one this file has always
 specified: they are asked *first*, they try, and they cannot.
 
@@ -180,11 +180,11 @@ supporting figure, not a character with an arc, and not to be built out to Vesk'
 a bearing, not a biography**: he does not decorate an answer, does not explain himself, and does not
 appear to notice when something he has said is funny. Everything else stays unwritten until a scene needs
 it. *Storm-Marshal* follows the corpus pattern of compound function-titles (*Scholar-King*, *High
-Provost*, *Engineer-Lord*) and reads off the corps' own name; *Ilareth* is Old Lathionese in shape, with
+Provost*, *Engineer-Lord*) and reads off the corps' own name; *Ilareth* is Old Halauri in shape, with
 the guide-listed *-eth* ending, an initial unoccupied elsewhere in the cast, and no collision with the
 crowded V-initial group or the *-anar* suffix.
 
-**His function is security and counterintelligence, not research.** He is not there as a magical peer to the Urathan delegation, and the corps does not think of him as an observer in the academic sense. The governing logic: an allied nation's intelligence service does not get unsupervised access to a classified facility just because the two states are friendly — you post a guard regardless, especially with the head of state physically present (Elara attends the Lathion exploration and experiences the Destiny Engine vision firsthand in Chapter 10). The Tor'anar do not fully trust the Amethyst Tower's restraint around a site of this magnitude, allied nation or not, and their position is that "supervised" and "trusted" are not the same thing. The person assigned to that job isn't chosen for diplomatic tact or scholarly credentials — he's chosen for being capable enough to physically stop the Urathans if they prove uncooperative, the same way a foreign dignitary's protective detail is built from operators, not from whoever's best at making conversation. If the story needs more than one Tor'anar mage on-site to make that credible given the stakes, that's an open scaling question, not a fixed constraint.
+**His function is security and counterintelligence, not research.** He is not there as a magical peer to the Urathan delegation, and the corps does not think of him as an observer in the academic sense. The governing logic: an allied nation's intelligence service does not get unsupervised access to a classified facility just because the two states are friendly — you post a guard regardless, especially with the head of state physically present (Elara attends the Hauren exploration and experiences the Destiny Engine vision firsthand in Chapter 10). The Tor'anar do not fully trust the Amethyst Tower's restraint around a site of this magnitude, allied nation or not, and their position is that "supervised" and "trusted" are not the same thing. The person assigned to that job isn't chosen for diplomatic tact or scholarly credentials — he's chosen for being capable enough to physically stop the Urathans if they prove uncooperative, the same way a foreign dignitary's protective detail is built from operators, not from whoever's best at making conversation. If the story needs more than one Tor'anar mage on-site to make that credible given the stakes, that's an open scaling question, not a fixed constraint.
 
 The mages assigned are drawn from the lean-years cohort — the corps' genuinely combat-capable veterans, not the green post-coronation recruits — because this posting is a real commitment of scarce capability, not a routine one. There's a quiet echo worth noting: the last time the Tor'anar were seriously worried about a member of the imperial family near uncontained magical danger, they weren't listened to in time, and the Emperor and Empress rode out with too little support and didn't come back. This time, they're the ones pushing for the safeguard, and Elara actually grants it.
 
@@ -198,10 +198,10 @@ Three mages, not one — small enough not to read as an occupying military prese
 
 The two supporting mages are competent professionals, lightly characterized. This structure means the named officer doesn't need to be physically present for every event in Act II — he can be elsewhere, handling the Urathans, while the other two cover Elara or the site, which gives the existing chapter drafts room to breathe rather than requiring him shoehorned into every scene.
 
-**The Arol Batae accompany the expedition too, and need to.** Elara traveling to Lathion surrounded only by a foreign power's mages, with neither her own bodyguard institution nor her own war-magic corps present, doesn't hold up — especially with Book 2's assassination attempt already on record. The two institutions aren't redundant with each other: the Arol Batae protect Elara's body from any threat, the same job they've always had; the Tor'anar detachment supervises the Urathan delegation's magical conduct specifically. Different jurisdictions, same trip — the way a head of state abroad travels with both a personal protective detail and counterintelligence coverage, for different reasons.
+**The Arol Batae accompany the expedition too, and need to.** Elara traveling to Hauren surrounded only by a foreign power's mages, with neither her own bodyguard institution nor her own war-magic corps present, doesn't hold up — especially with Book 2's assassination attempt already on record. The two institutions aren't redundant with each other: the Arol Batae protect Elara's body from any threat, the same job they've always had; the Tor'anar detachment supervises the Urathan delegation's magical conduct specifically. Different jurisdictions, same trip — the way a head of state abroad travels with both a personal protective detail and counterintelligence coverage, for different reasons.
 
 **Actioned 2026-08-01.** This paragraph previously ended by flagging that *"earlier drafting that had Xion
-and Elara at Lathion with no security presence at all from either institution should be revised."* **The
+and Elara at Hauren with no security presence at all from either institution should be revised."* **The
 flag had been acted on for one institution and not the other.**
 
 **The Arol Batae were already there.** B3 ch2 puts **Commander Vesk** at the Brass Door running the first
@@ -210,7 +210,7 @@ Elara steps up to the Door alone, and watches the mechanism light up *"with the 
 information."* *(Corrected 2026-08-02: this previously said he negotiated with the Long Knives. He didn't —
 the Long Knives are Elara answering the standing invitation the Mistress issued in B1 ch21, and Vesk is
 overruled on their terms inside four words. What Vesk buys is Ronas's ground.)* The presence is established; it simply lapsed after ch2 and had to be carried forward into
-the Lathion chapters.
+the Hauren chapters.
 
 **The Tor'anar were genuinely absent** from every Book 3 document. They are now in the ch5–ch9 drafts and
 the skeleton.
@@ -221,7 +221,7 @@ the skeleton.
 
 ### Why This Doesn't Undercut "Balisha Lacks Military Might"
 
-Book 3's Terinok-alliance arc depends on Balisha and Uratha having technology but lacking the numbers for a continental war. The Tor'anar don't contradict this: a few dozen elite battle-mages are a scalpel, not an army — a devastating force-multiplier for the exact kind of contained, high-stakes magical threat Lathion represents, and no substitute at all for the mass a real continental war requires. That's precisely why Terinok still has to be recruited.
+Book 3's Terinok-alliance arc depends on Balisha and Uratha having technology but lacking the numbers for a continental war. The Tor'anar don't contradict this: a few dozen elite battle-mages are a scalpel, not an army — a devastating force-multiplier for the exact kind of contained, high-stakes magical threat Hauren represents, and no substitute at all for the mass a real continental war requires. That's precisely why Terinok still has to be recruited.
 
 The natural payoff sits at the Book 3/Book 4 seam: Book 3 ends "the moment after the climax," with the Compact's attack on Uratha's Empirica just landing and the Tripartite Alliance's protocols activating. That's the plausible point — end of Book 3, or the opening of Book 4 — for Elara to give the Tor'anar their first real combat order of the entire series, closing the loop Book 2 opened. It also sets up Terinok's fire/earth war-shamans and the Tor'anar's storm-mages meeting on the same battlefield, likely for the first time in the empire's history, in Book 4.
 

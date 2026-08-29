@@ -2,7 +2,7 @@
 
 ## Origins and Development
 
-What began as a single Imperial Academy in the Balishan Empire evolved into an entire province dedicated to scholarship and learning. The academy was founded by **Emperor Urath IV Valanar**, who wanted a legacy beyond conquest and chose to build one in the form of an institution of learning — naming it, in the imperial fashion, after himself in the prestige tongue. *Uratha* is Old Lathionese for *[the place] of Urath*. The name began as the academy's, then traveled outward with the institution: from building, to campus, to city, to province. Uratha's transformation from institution to nation was gradual but profound, and by the time of the empire's collapse, the province had attained significant autonomy in fact if not yet in name.
+What began as a single Imperial Academy in the Balishan Empire evolved into an entire province dedicated to scholarship and learning. The academy was founded by **Emperor Urath IV Valanar**, who wanted a legacy beyond conquest and chose to build one in the form of an institution of learning — naming it, in the imperial fashion, after himself in the prestige tongue. *Uratha* is Old Halauri for *[the place] of Urath*. The name began as the academy's, then traveled outward with the institution: from building, to campus, to city, to province. Uratha's transformation from institution to nation was gradual but profound, and by the time of the empire's collapse, the province had attained significant autonomy in fact if not yet in name.
 
 The foundation of Uratha's power and legitimacy lies in the Scholar's Crown, a semi-intelligent divine artifact originally loaned to the academy by Urath IV himself at its founding. This remarkable relic serves as both symbol and substance of Uratha's intellectual heritage, granting its bearer (if found worthy) the accumulated knowledge, skills, and abilities of all worthy individuals who have worn it before.
 
@@ -59,7 +59,7 @@ acquire it.* It is the same step that built the Globehall.
 variable, and by their own theory the variable is her. The interest is seeded well before ch13 and in
 complete good faith — see B3 ch9, where the scholars stop asking *what does this say* and start asking *is
 this important*, and she becomes **"a phenomenon they orbit rather than a colleague they work with."** After
-ch13 that interest acquires a second engine, and the Lathion compact has already given Uratha a permanent,
+ch13 that interest acquires a second engine, and the Hauren compact has already given Uratha a permanent,
 treaty-sanctioned presence underneath her capital to pursue it from.
 
 **Write it quiet.** No overt surveillance, no villainy, nothing a Balishan character could point at — it is
@@ -128,7 +128,7 @@ What lies beneath the Ivory Tower is another matter entirely.
 ### The Amethyst Tower
 *College of Magical Studies — theoretical magic, arcane research, and the regulation of magical practice*
 
-The most prestigious of the colored towers, and its scholars know it. Amethyst is the color of the arcane, and the Amethyst Tower has cultivated an institutional hauteur that makes even the Ivory Tower faculty occasionally wince. They study magic as a theoretical discipline first and an applied one a distant second — which is why the Amethyst Tower's reaction to Lathion technology has been, broadly, to attempt to theorize it into submission. If it can be categorized within existing frameworks, the existing frameworks remain supreme. Whether this effort will succeed is, at present, an open question.
+The most prestigious of the colored towers, and its scholars know it. Amethyst is the color of the arcane, and the Amethyst Tower has cultivated an institutional hauteur that makes even the Ivory Tower faculty occasionally wince. They study magic as a theoretical discipline first and an applied one a distant second — which is why the Amethyst Tower's reaction to Hauren technology has been, broadly, to attempt to theorize it into submission. If it can be categorized within existing frameworks, the existing frameworks remain supreme. Whether this effort will succeed is, at present, an open question.
 
 Dark magic, necromancy, and other so-called "regulated arts" fall under the Amethyst Tower's purview. They are not prohibited — Uratha is a nation of scholarship, and prohibiting fields of inquiry would be philosophically incoherent. They are *regulated*, which in practice means licensed, monitored, and quietly discouraged for those without the right institutional connections.
 
@@ -167,7 +167,7 @@ The comparison to Gunastran is the wound that never heals. When Uratha looks at 
 
 What the Topaz Tower's scholars have heard, at one too many faculty dinners, is some version of the observation that their work — however useful — lacks sufficient theoretical grounding to constitute genuine scholarship. The Travis Oilaphant problem, as it might be called in another world entirely: the person who builds the thing everyone depends on, told that building things is not quite the same as understanding them.
 
-Lathion has changed this calculus dramatically and visibly. The Topaz Tower is now the most consequential faculty in Uratha, and its scholars are not being gracious about it.
+Hauren has changed this calculus dramatically and visibly. The Topaz Tower is now the most consequential faculty in Uratha, and its scholars are not being gracious about it.
 
 ### The Emerald Tower
 *College of Agriculture and Natural Sciences*
@@ -198,7 +198,7 @@ Here the gemstone metaphor breaks down, deliberately. Onyx does not catch light.
 
 The Onyx Tower is Uratha's intelligence faculty. Officially, it studies information systems, social dynamics, cryptography, and the theoretical foundations of statecraft. Its graduates write papers on deception theory and institutional control. They have tenure. They attend conferences. They present their findings at the Quarterly Colloquia with the same academic formality as any other discipline.
 
-The Ilhamori — Uratha's magical police — recruit quietly and consistently from Onyx Tower alumni lists. The relationship between them is not officially acknowledged. It is, however, well understood by anyone paying attention, in the same way that certain real-world academic programs and certain real-world intelligence services share a relationship that everyone knows about and no one documents.
+The Theraris — Uratha's magical police — recruits quietly and consistently from Onyx Tower alumni lists. Its relationship with the Tower is not officially acknowledged. It is, however, well understood by anyone paying attention, in the same way that certain real-world academic programs and certain real-world intelligence services share a relationship that everyone knows about and no one documents.
 
 The Onyx Tower's scholars are the people who designed the official documentation confirming that the Ebony Tower does not exist. They did so using peer-reviewed methods of institutional concealment. When Xion Kemvimore observes that the Provosts' choice to hide the Globehall underground proves they know it's wrong — the people who built that concealment apparatus were Onyx Tower graduates. They are very good at their work.
 
@@ -223,7 +223,7 @@ Understanding Uratha requires understanding that not all towers are equal, and t
 
 This hierarchy is nowhere written down. It does not need to be. It manifests in housing allocations, publication acceptance rates, Council speaking time, resource budgets, and the seating arrangements at faculty dinners. It is reproduced automatically by a system whose participants absorbed it before they understood what they were absorbing.
 
-The Topaz Tower's recent rise in practical consequence — courtesy of Lathion — has not yet translated into a commensurate rise in prestige. Prestige moves slowly. The Amethyst Tower is confident that this is a temporary anomaly and is preparing several theoretical frameworks to explain why.
+The Topaz Tower's recent rise in practical consequence — courtesy of Hauren — has not yet translated into a commensurate rise in prestige. Prestige moves slowly. The Amethyst Tower is confident that this is a temporary anomaly and is preparing several theoretical frameworks to explain why.
 
 The Emerald Tower has stopped expecting a rise in prestige. It has been necessary for centuries. It has been condescended to for centuries. It has developed dry humor about this, which is the only dignified response available.
 
@@ -296,9 +296,9 @@ The Emerald Tower was not consulted during the Globehall's construction. This wa
 
 ---
 
-## The Ilhamori: Enforcers of Academic Protocol
+## The Theraris: Enforcers of Academic Protocol
 
-To maintain Uratha's system of regulated free inquiry, the nation employs the Ilhamori (Urathan for "eternal flame"). This elite force serves as magical police and investigative bureau combined:
+To maintain Uratha's system of regulated free inquiry, the nation employs the service whose full legal title is ***Vela Theraris, Rava Eshais va Koiathu Vedaris Kethae*** — “The Constituted Commission for Licensed Inquiry, Civic Order, and Extraordinary Mandates.” Its normal complete name is ***Vela Theraris***; in ordinary speech, it is simply ***the Theraris***. This elite force serves as magical police and investigative bureau combined:
 
 - They enforce the rulings of the Council of Provosts
 - They hunt those who practice unsanctioned magic or conduct unregistered research
@@ -306,9 +306,9 @@ To maintain Uratha's system of regulated free inquiry, the nation employs the Il
 - They report directly to the Council of Provosts, bypassing normal departmental hierarchies
 - Their training combines magical combat, investigation techniques, and academic knowledge
 - They are recruited exclusively from the scholarly class, with preference for those with Onyx Tower backgrounds or multi-disciplinary training
-- When a scholar joins the Ilhamori, they shed their tower robe entirely; institutional identity replaces disciplinary identity. Their livery is a deep ink-blue — darker and more uniform than Sapphire Tower's blue — with no tower-color body and no cuff rank bands. A silver flame pin at the collar marks their service (*ilhamori*: "eternal flame"). Most Urathans read the deep blue as an extension of law and order, which is the Sapphire Tower's domain; that Ilhamori recruits come predominantly from the Onyx Tower is not publicly documented, and the color misdirection is not accidental
+- When a scholar joins the Theraris, they shed their tower robe entirely; institutional identity replaces disciplinary identity. Their livery is a deep ink-blue — darker and more uniform than Sapphire Tower's blue — with no tower-color body and no cuff rank bands. A silver service pin at the collar marks their commission. Most Urathans read the deep blue as an extension of law and order, which is the Sapphire Tower's domain; that Theraris recruits come predominantly from the Onyx Tower is not publicly documented, and the color misdirection is not accidental
 
-The Ilhamori are feared and respected in equal measure. While they do not prohibit any field of study outright, they are merciless in punishing those who circumvent Uratha's bureaucratic requirements for research. Their presence ensures that while knowledge may be free, access to it remains tightly controlled by the academic hierarchy.
+Theraris officers are feared and respected in equal measure. While they do not prohibit any field of study outright, they are merciless in punishing those who circumvent Uratha's bureaucratic requirements for research. Their presence ensures that while knowledge may be free, access to it remains tightly controlled by the academic hierarchy.
 
 The organization has several specialized divisions:
 
@@ -318,7 +318,7 @@ The organization has several specialized divisions:
 - **The Nullifiers** — Trained to contain and neutralize dangerous magical experiments
 - **The Auditors** — Review research proposals and conduct surprise inspections of active projects
 
-Several of the highest-ranking Ilhamori are secretly aware of the Globehall's existence and serve as its guardians, though most members of the organization remain ignorant of this abomination. The pipeline from the Onyx Tower to the Ilhamori means that the people best equipped to uncover the Globehall's existence are precisely the people most institutionally committed to concealing it.
+Several of the highest-ranking Theraris officers are secretly aware of the Globehall's existence and serve as its guardians, though most members of the organization remain ignorant of this abomination. The pipeline from the Onyx Tower to the Theraris means that the people best equipped to uncover the Globehall's existence are precisely the people most institutionally committed to concealing it.
 
 ---
 
@@ -332,9 +332,9 @@ From Uratha's perspective, Gunastran is a Topaz Tower without the self-awareness
 
 This is not to say Uratha is incapable of applied science. The Topaz Tower is proof otherwise. But within Uratha's internal hierarchy, *mere* engineering carries the same faint stigma that applied mathematics carries in certain academic departments — necessary, impressive in its way, but not quite the same as genuine theoretical scholarship. The Topaz Tower scholars hear some version of *but is it truly scholarship?* often enough that it has become a running dark joke among themselves.
 
-Lathion has detonated this comfortable arrangement. Ancient, poorly understood, productive of results that don't map cleanly onto existing theoretical frameworks — Lathion technology is essentially the AI of Elvandar. What had been a respected-but-condescended-to applied science has suddenly catapulted to the forefront of consequence, leapfrogging disciplines with centuries of accumulated prestige. The Amethyst Tower is responding the way the physics department responds to machine learning: by attempting to theorize it within existing frameworks while quietly panicking that no one is coming to their seminars anymore.
+Hauren has detonated this comfortable arrangement. Ancient, poorly understood, productive of results that don't map cleanly onto existing theoretical frameworks — Hauren technology is essentially the AI of Elvandar. What had been a respected-but-condescended-to applied science has suddenly catapulted to the forefront of consequence, leapfrogging disciplines with centuries of accumulated prestige. The Amethyst Tower is responding the way the physics department responds to machine learning: by attempting to theorize it within existing frameworks while quietly panicking that no one is coming to their seminars anymore.
 
-The existential threat Lathion poses to Gunastran is precisely this: the theorists beat the engineers at engineering. That is not merely an economic wound. It is an ideological humiliation. It is the wound that drives Gunastran into the Compact.
+The existential threat Hauren poses to Gunastran is precisely this: the theorists beat the engineers at engineering. That is not merely an economic wound. It is an ideological humiliation. It is the wound that drives Gunastran into the Compact.
 
 ---
 
@@ -442,7 +442,7 @@ While not as industrially focused as Gunastran, Uratha has developed significant
 ### Relations with Terinok (Wrath)
 - **Diplomatic Status**: Cautious mutual respect, formalized into military alliance during the Compact War
 - **Practical Cooperation**: Terinok warriors occasionally protect Urathan expeditions into dangerous regions — a mercenary relationship that evolves into something more significant when both join the Tripartite Alliance alongside Balisha
-- **Compact War**: Uratha's inclusion in the Tripartite Alliance is, militarily speaking, enormously improved by Terinok's presence. Uratha's Ruby Tower is not fully equipped to fight a land war; Terinok is. The alliance is uncomfortable culturally but strategically sound — Uratha provides the knowledge and Lathion-derived technological advantage, Terinok provides the martial force the Ruby Tower's theorists cannot
+- **Compact War**: Uratha's inclusion in the Tripartite Alliance is, militarily speaking, enormously improved by Terinok's presence. Uratha's Ruby Tower is not fully equipped to fight a land war; Terinok is. The alliance is uncomfortable culturally but strategically sound — Uratha provides the knowledge and Hauren-derived technological advantage, Terinok provides the martial force the Ruby Tower's theorists cannot
 - **Cultural Disconnect**: Scholarly works on combat theory are largely ignored by Terinok's practical warriors; Urathan analysis of Terinok tactics is extensive but frequently misses cultural context. Terinok finds Uratha's academic approach to warfare faintly absurd. Uratha finds Terinok's disdain for theory frustrating but has the good sense not to say so during a war
 - **Bondage Dynamics**: Deep mutual disdain — Terinok views the bakarn system as weakness disguised as philosophy; Uratha views Terinok's slave system as barbaric and intellectually wasteful. Neither is entirely wrong about the other.
 
@@ -454,13 +454,13 @@ While not as industrially focused as Gunastran, Uratha has developed significant
 ### Relations with the Erulian Principality (Envy)
 - **Diplomatic Status**: Cordial but distant, deteriorating sharply into open hostility
 - **Political Intersection**: The Principality occasionally commissioned Urathan scholars to legitimize their imperial heritage claims — a relationship that ended abruptly when Kalden Erulius joined the Compact
-- **Compact War**: Uratha and the Erulian Principality are on opposing sides. Erulius joins the Compact out of spite and wounded pride following Kalden's rejection by Elara Valanar; Uratha joins the Tripartite Alliance because it cannot surrender its Lathion advantage, dearly bought with the Scholar's Crown
+- **Compact War**: Uratha and the Erulian Principality are on opposing sides. Erulius joins the Compact out of spite and wounded pride following Kalden's rejection by Elara Valanar; Uratha joins the Tripartite Alliance because it cannot surrender its Hauren advantage, dearly bought with the Scholar's Crown
 
 ### Relations with Gunastran (Gluttony)
 - **Diplomatic Status**: Professional cooperation masking deep mutual condescension, collapsed into open war
 - **Technological Exchange**: Prior to the Compact War, scholarly exchanges focused on integrating magical theory with Gunastran practical applications, though differences in approach created consistent friction
 - **Underlying Tension**: Uratha views Gunastran's environmental impact with growing academic concern; Gunastran views Uratha's theoretical orientation as elaborate justification for doing less work; both find the other's prestige hierarchy baffling
-- **Compact War**: Uratha and Gunastran end up on opposite sides — Tripartite Alliance versus the Compact. Gunastran's existential fear of technological obsolescence — the theorists beating the engineers at engineering — is the wound that drives them into the Compact. The Compact War's opening move targets Uratha specifically, as Gunastran and the Erulian Principality strike first to cut Uratha off from its Tripartite allies and slow its progress on Lathion technology.
+- **Compact War**: Uratha and Gunastran end up on opposite sides — Tripartite Alliance versus the Compact. Gunastran's existential fear of technological obsolescence — the theorists beating the engineers at engineering — is the wound that drives them into the Compact. The Compact War's opening move targets Uratha specifically, as Gunastran and the Erulian Principality strike first to cut Uratha off from its Tripartite allies and slow its progress on Hauren technology.
 
 ---
 
@@ -486,10 +486,10 @@ While not as industrially focused as Gunastran, Uratha has developed significant
 - The bakarn population bears the brunt of resource shortages while scholars remain largely insulated from hardship
 - The Emerald Tower consistently receives the least generous budget allocations of any Tower, despite feeding the kingdom
 
-### The Lathion Question
-- Access to Lathion technology has upended Uratha's internal prestige hierarchy in ways the institution has not yet processed
+### The Hauren Question
+- Access to Hauren technology has upended Uratha's internal prestige hierarchy in ways the institution has not yet processed
 - The Topaz Tower's sudden practical ascendancy is generating significant inter-departmental friction
-- The Amethyst Tower's attempt to theorize Lathion within existing frameworks is ongoing and, so far, incomplete
+- The Amethyst Tower's attempt to theorize Hauren within existing frameworks is ongoing and, so far, incomplete
 - Gunastran's resulting existential panic has made Uratha a primary target in the Compact War — a war Uratha's Ruby Tower is not fully equipped to fight
 
 ---

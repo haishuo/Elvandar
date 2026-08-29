@@ -48,7 +48,7 @@ Dense forests providing valuable timber and natural barriers along the soft Urat
 
 The arid transitional lands where the Principality fades into the Balishan Desert (and beyond it, the city of Kaha'an):
 
-* **The Former Provinces**: Lands annexed from the old Province of Balisha after the Rending isolated the city — the Principality holds these by right of effective occupation  
+* **The Former Litravan Lands**: Lands annexed from the old Province of Litrava after the Rending isolated Kaha'an — the Principality holds these by right of effective occupation
 * **The Transition Zone**: Areas becoming increasingly arid as they approach the desert proper  
 * **Salt Flats**: Valuable mineral deposits extracted through specialized techniques  
 * **Quarry Operations**: Stone extraction for construction projects throughout the Principality  

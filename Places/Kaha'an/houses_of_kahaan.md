@@ -12,6 +12,43 @@ This comprehensive overview examines the noble houses that shape modern Kaha'an,
 
 ---
 
+## How Balishan Houses and House Names Work
+
+*Linguistic and legal audit completed 2026-08-22. Full derivation: `Languages/Halauric Core Lexicon.md`,
+“The first Balishan household and chartered-house register.”*
+
+Balishan distinguishes ordinary ***dal*** /dal/, a functioning household under one provision and domestic
+authority, from ***seldal*** /ˈsel.dal/, a household constituted in authoritative public record: the legal
+body translated as capitalized **House**. Blood, House membership, the second name carried in records,
+heirship, and present office are separate. Marriage instruments can enter a spouse and children into
+either House; individual charters govern succession. There is no universal paternal, maternal, male, or
+firstborn rule.
+
+House names therefore share a **legal position**, not one linguistic suffix. They reached that position
+through different histories:
+
+| House-name type | Current examples | Status |
+|---|---|---|
+| Protected or deeply embedded native/mixed names | **Kemvimore, Larannas, Darfi, Issamil** | Keep; build history around the forms |
+| Neo-Halauri prestige dynasty | **Valanar** | Keep; a human authority-claim, not proof of elven descent |
+| Compact native charter-name | **Hadris** /ˈhad.ris/ | Established in place of former *Valorian*, which falsely crowded and echoed *Valanar* |
+| Foreign name recognized whole under Kaha'ani law | **Sa Ko Ren / House Ren** | Keep; do not segment as Balishan |
+| House-shaped name without a grant | **Dermir** | Ronas's social seizure, not a lawful *seldal* name |
+| Reader-translated transparent charter-name | **Greystone, Umberlow, Ashworth, Blackmoor, Silverbrook, Thornwood, Whitmore, Fairwind, Ironwood** | English semantic translations; native sound-forms remain uncoined |
+| Plausible but still unanalysed support-canon forms | **Sedranne, Altamiris, Thessalar, Valoreth, Tolvane, Malthorn, Corvallen, Nerrick, Belgrand, Vorthak, Morthen** | Retain provisionally; none establishes new morphology |
+| Learned or cross-cultural form awaiting its regional language | **Meridian** | Preserve its Silaris dependency; derive or revise during the Silarian pass |
+
+Fossil patronymic ***-annas*** /an.nas/ is established only in ***Lar-annas***, approximately “descendants
+or issue of Lar.” It is no longer productive and does not license manufacturing more noble names with the
+same ending.
+
+The translation convention is deliberate. Just as **Long Knives** renders a meaningful Modern Balishan
+name for the reader, a semantically transparent charter-name can appear in English while an opaque name
+such as *Kemvimore* remains transcribed. A translated name supplies meaning, not evidence that Balishan
+contains the English words *grey, stone, ash,* or *wood*.
+
+---
+
 ## The Cartel Houses: The New Powers
 
 ### House Kemvimore - "The Grain Lords"
@@ -72,11 +109,11 @@ Second most powerful cartel, with absolute control over Kaha'an's water supply. 
 #### Historical Overview
 Unlike the other cartel houses, House Ren has no pre-Rending history—it was created entirely by Sa Ko Ren after her immigration from Terinok. This makes it unique among Kaha'an's noble houses: a completely self-made dynasty built on personal competence rather than inherited advantage.
 
-**Pre-Rending Status**: Did not exist. Sa Ko Ren arrived as a skilled metalworker with no noble connections or inherited resources.
+**Pre-Rending Status**: Did not exist. Sa Ko Ren arrived as a penniless Terinoki warrior with no noble connections or inherited resources.
 
-**The Rending's Impact**: The catastrophe created opportunities for anyone capable of providing essential services. With traditional power structures disrupted, Sa Ko Ren's metalworking skills became valuable enough to build a power base from nothing.
+**The Rending's Impact**: Roughly a year after the catastrophe, Sa Ko reached the singular Wild Sands refugee cache recorded in `Offstage.md`, "The Forming of the Coterie." The windfall supplied founding capital; her warrior training was what let her reach it and survive.
 
-**Post-Rending Transformation**: Through superior craftsmanship and systematic business practices, Sa Ko Ren established dominance over all metalworking in Kaha'an. She created House Ren through achievement rather than inheritance, earning noble recognition through demonstrated capability.
+**Post-Rending Transformation**: Sa Ko spent the windfall on forges, workshops, trained artisans and production capacity rather than political leverage. Through disciplined organization and exacting standards, she established dominance over Kaha'an's metal industries. She created House Ren through achievement rather than inheritance, earning noble recognition through demonstrated capability. She owns and directs the production system; the metalworking belongs to Iron's craftspeople.
 
 #### Notable Members
 - **Sa Ko Ren**: Founder and current head, whose Terinok origins and direct leadership style have made House Ren both respected and feared
@@ -235,14 +272,14 @@ Provides the Restorationist with military expertise and security, maintaining co
 
 ## The Cartel Affiliated Houses
 
-### House Valorian - "The Grain Merchants"
+### House Hadris - "The Grain Merchants"
 **Motto**: *"Prosperity Through Partnership"*  
 **Sigil**: Golden scales balanced above wheat stalks  
-**Current Head**: Lord Merchant Tobias Valorian  
+**Current Head**: Lord Merchant Tobias Hadris
 **Political Alignment**: Continuationist (Grain Loyalists)
 
 #### Historical Overview
-House Valorian operated as grain merchants during the imperial period, working closely with House Kemvimore's agricultural production. When The Rending destroyed traditional farming, they adapted by fully integrating with Kemvimore operations.
+House Hadris operated as grain merchants during the imperial period, working closely with House Kemvimore's agricultural production. When The Rending destroyed traditional farming, they adapted by fully integrating with Kemvimore operations.
 
 **Pre-Rending Status**: Minor merchant house specializing in grain trade. Maintained good relationships with agricultural producers but lacked significant political influence.
 
@@ -408,7 +445,7 @@ Essential military suppliers for Iron cartel operations, providing the weapons a
 **Political Alignment**: Continuationist (Iron Alliance)
 
 #### Historical Overview
-House Vorthak produced tools, hardware, and mechanical devices for various industries throughout the Kaha'an region. Their practical focus on functional equipment complemented Sa Ko Ren's systematic approach to metalworking.
+House Vorthak produced tools, hardware, and mechanical devices for various industries throughout the Kaha'an region. Their practical focus on functional equipment complemented the Iron cartel's systematic production standards.
 
 **Pre-Rending Status**: Minor craft house specializing in tool production. Provided equipment for agricultural, commercial, and domestic use throughout the region.
 
@@ -622,7 +659,7 @@ Houses that declined or disappeared often exhibited:
 
 ### The Survival Strategies
 Different houses adopted different approaches to post-Rending survival:
-- **Integration**: Complete merger with cartel operations (House Valorian)
+- **Integration**: Complete merger with cartel operations (House Hadris)
 - **Specialization**: Focus on essential technical skills (House Nerrick)
 - **Coordination**: Organizing activities for faction or cartel interests (House Sedranne)
 - **Information**: Trading knowledge and connections for protection (House Altamiris)

@@ -63,7 +63,7 @@
 
 24. Xion ends it without resolving it, which is the correct move for him: he does not have to trust her, he needs her to get them into the Warrens, and after that they will see. Something flashes in Farleen's face at after that.
 
-25. The descent. Rough-cut stairs spiralling down, water dripping, air cooling. He counts fifty, then a hundred. Farleen identifies the construction as pre-imperial — from whatever civilisation was here before Kaha'an — and notes the Warrens are built in and around the ruins. The counting is his instrument and the archaeology is the first hint of Lathion.
+25. The descent. Rough-cut stairs spiralling down, water dripping, air cooling. He counts fifty, then a hundred. Farleen identifies the construction as pre-imperial — from whatever civilisation was here before Kaha'an — and notes the Warrens are built in and around the ruins. The counting is his instrument and the archaeology is the first hint of Hauren.
 
 26. Sound arrives before sight: thousands of lives in close quarters, voices, movement, the particular echo of a vast enclosed space. Then they come out onto a ledge.
 

@@ -94,7 +94,7 @@
 - **Temporal Combat**: Fire provides attacks, Air positions them, Water strikes at past/future moments
 
 ### Earth + Air + Water: Spatiotemporal Matter
-- **The Lathion Brass Door**: Earth creates the material, Air enables the spatial mechanics, Water preserves it across millennia
+- **The Hauren Brass Door**: Earth creates the material, Air enables the spatial mechanics, Water preserves it across millennia
 - **Pocket Dimensions**: Earth provides substance, Air creates space, Water maintains duration
 - **Temporal Vaults**: Earth forms containers, Air places them outside normal space, Water slows internal time
 - **Archaeological Reconstruction**: Earth provides materials, Air rebuilds spatial relationships, Water reveals historical states
@@ -110,7 +110,7 @@ The theoretical combination of all four schools approaches divine power. **Perha
 - **Cosmic Repair**: Healing fundamental damage to reality itself (like The Rending)
 
 ### The Destiny Engine: A Four-School Master's Legacy
-The Destiny Engine may not have been built in response to The Rending at all. Perhaps it was created eons ago by the only confirmed four-school mage in history - an ancient Lathionese archmage whose purposes remain utterly mysterious. Built thousands upon thousands of years before The Rending for reasons lost to time, it waited in the depths of Lathion until the moment when reality itself needed repair.
+The Destiny Engine may not have been built in response to The Rending at all. Perhaps it was created eons ago by the only confirmed four-school mage in history - an ancient Haureni archmage whose purposes remain utterly mysterious. Built thousands upon thousands of years before The Rending for reasons lost to time, it waited in the depths of Hauren until the moment when reality itself needed repair.
 
 This presents a profound question: Did this ancient master foresee The Rending specifically, or did they simply know that someday, somehow, reality would face a wound so deep that only the Destiny Engine could heal it? Was it built as insurance against any cosmic catastrophe, or for some other, completely unknowable purpose that just happened to serve when needed?
 

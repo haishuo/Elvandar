@@ -95,16 +95,16 @@ A popular legend among the lower classes of Kaha'an:
 - This curse will only be lifted when a true heir sits upon the Ruby Throne
 - The continued devastation serves as proof that the current rulers lack legitimacy
 
-### Lathion's Vengeance
+### Hauren's Vengeance
 
 In regions closer to Gunastran, a different tale circulates:
 
-- The legendary City of Gears (Lathion) was not actually lost but went into hiding
-- The Rending was Lathion's revenge against the empire that tried to steal its technology
+- The legendary City of Gears (Hauren) was not actually lost but went into hiding
+- The Rending was Hauren's revenge against the empire that tried to steal its technology
 - The devastation was caused by a magitech weapon of unprecedented power
-- Lathion remains hidden, waiting to strike again if its existence is threatened
+- Hauren remains hidden, waiting to strike again if its existence is threatened
 
-This narrative is particularly popular among those who distrust magic and favor technological solutions to problems. It is also a precise inversion of the truth: Lathion did not end the world, but saved it.
+This narrative is particularly popular among those who distrust magic and favor technological solutions to problems. It is also a precise inversion of the truth: Hauren did not end the world, but saved it.
 
 ## Isolated Truths
 
@@ -139,16 +139,16 @@ The former imperial guards who now protect Princess Elara possess a crucial piec
 - They know the imperial party arrived too late to prevent the ritual and too close to survive its result.
 - The Arol Batae keep this knowledge secret, fearing it would be twisted — used to argue that the Valanars themselves triggered the Rending by meddling, or used to manipulate the Princess with the manner of her parents' deaths.
 
-### Lathion's Complete Record
+### Hauren's Complete Record
 
-The most comprehensive and accurate account of The Rending exists within Lathion itself, specifically in its Great Repository:
+The most comprehensive and accurate account of The Rending exists within Hauren itself, specifically in its Great Repository:
 
-- Before activating the Destiny Engine, the inhabitants of Lathion created a final recording
+- Before activating the Destiny Engine, the inhabitants of Hauren created a final recording
 - This record details what they detected happening on the surface, their analysis of the threat, the building of the Engine, and why its activation was their only option
 - It likely includes firsthand observations, scientific measurements of the Gray Gate widening, and the council's deliberations
 - The recording would explain both the nature of the catastrophe and the sacrifice they were about to make
 
-The challenge of accessing this knowledge is immense. Lathion's advanced magitech would be nearly incomprehensible to even the most educated scholars from the surface. Their information storage methods — the brass "books" and data systems — would require knowledge of specific activation methods unknown to outsiders. The Lathionese language and writing systems likely evolved separately from surface languages, creating another barrier to understanding.
+The challenge of accessing this knowledge is immense. Hauren's advanced magitech would be nearly incomprehensible to even the most educated scholars from the surface. Their information storage methods — the brass "books" and data systems — would require knowledge of specific activation methods unknown to outsiders. The Haureni language and writing systems likely evolved separately from surface languages, creating another barrier to understanding.
 
 Even if explorers from Kaha'an reached the Great Repository, they would face the equivalent of an ancient human attempting to operate advanced technology from thousands of years in their future. The conceptual framework for understanding the devices simply wouldn't exist in their experience. Perhaps only the most exceptional Urathan scholars with access to ancient translation matrices might have a chance at deciphering fragments, but comprehensive understanding would remain beyond reach.
 
@@ -172,32 +172,32 @@ Kaha'an itself should have died with its province. It did not. The ancient imper
 
 **The slow death.** Had the Gray Gate fallen shut, the Rending would have been a single dreadful day. It did not. The opening went on widening, and as it widened the dying spread — no longer a wave now but a slow, patient tide. The desert crept outward, league by league, month after month, for the better part of a year. This second death was slower than the first but far more certain: the wave had been survivable, by luck or distance or geography, but the encroaching waste was not. Those who had lived through the first day understood, watching the gray horizon draw closer, that nothing would stop it on its own — and so they fled, abandoning their ruined homes and moving ahead of the advancing waste toward the one place known to have endured it: Kaha'an, behind its wards.
 
-**Lathion.** The refugees could not have known that their salvation was already being built beneath their feet.
+**Hauren.** The refugees could not have known that their salvation was already being built beneath their feet.
 
-Deep below Kaha'an lay Lathion, the City of Gears — an elven civilization that had built itself five thousand years ago, maintained relations with the surface for nearly three millennia of open exchange, and then — for reasons since forgotten even by its own descendants — sealed itself away two thousand years before the Rending. The Great Shaft that had served as Lathion's surface gate during the open period was collapsed and filled, the magitech elevator destroyed. Only a long-disused back door (the Brass Door, behind a network of natural caves) remained as theoretical access. Sealed, but not blind: Lathionese instruments had observed the surface for the full two millennia of their isolation. Now those instruments measured the Gray Gate, modeled its widening, and returned the same answer every time. Unchecked, the Gray Gate would not stop at a province, or a continent. It would not stop at all. Every living thing on Elvandar would die.
+Deep below Kaha'an lay Hauren, the City of Gears — an elven civilization that had built itself five thousand years ago, maintained relations with the surface for nearly three millennia of open exchange, and then — for reasons since forgotten even by its own descendants — sealed itself away two thousand years before the Rending. The Great Shaft that had served as Hauren's surface gate during the open period was collapsed and filled, the magitech elevator destroyed. Only a long-disused back door (the Brass Door, behind a network of natural caves) remained as theoretical access. Sealed, but not blind: Haureni instruments had observed the surface for the full two millennia of their isolation. Now those instruments measured the Gray Gate, modeled its widening, and returned the same answer every time. Unchecked, the Gray Gate would not stop at a province, or a continent. It would not stop at all. Every living thing on Elvandar would die.
 
-The Lathionese had no ancient weapon waiting for such a day. What they possessed instead was five thousand years of theory — the deepest understanding of reality and of time that Elvandar had ever produced, refined for two thousand years in isolation after three thousand years of open inquiry — and, perhaps, just enough time to turn that theory into a machine. They chose to spend it. Through the long months of the slow death, while the desert climbed toward the city above them, Lathion raced to build the only thing their science said could close a wound in the world: the Destiny Engine.
+The Haureni had no ancient weapon waiting for such a day. What they possessed instead was five thousand years of theory — the deepest understanding of reality and of time that Elvandar had ever produced, refined for two thousand years in isolation after three thousand years of open inquiry — and, perhaps, just enough time to turn that theory into a machine. They chose to spend it. Through the long months of the slow death, while the desert climbed toward the city above them, Hauren raced to build the only thing their science said could close a wound in the world: the Destiny Engine.
 
-(A long-tail consequence of the open period: much of what surface civilizations would later call "magitech" — particularly Gunastran's industrial magical engineering — is the degraded inheritance of Lathionese arts transmitted during those three open millennia. Gunastran's modern theorists do not know they are working with the broken-down children of Lathionese science. Lathion's instruments, watching from below, almost certainly noticed.)
+(A long-tail consequence of the open period: much of what surface civilizations would later call "magitech" — particularly Gunastran's industrial magical engineering — is the degraded inheritance of Haureni arts transmitted during those three open millennia. Gunastran's modern theorists do not know they are working with the broken-down children of Haureni science. Hauren's instruments, watching from below, almost certainly noticed.)
 
 
 **Editorial ruling — this is backstory only; do not deploy it on the page.** It is authorial truth that
 makes the world cohere, not material any Book 3 chapter needs. Gunastran does not know it and could not
 realistically learn it inside Book 3: espionage steals contracts and prototypes, it does not reconstruct
-three millennia of forgotten lineage. What Gunastran *does* know is enough on its own — that Lathion is
-real (leaked dispatches make deniability impossible), that Balisha is fielding Lathion-derived systems
+three millennia of forgotten lineage. What Gunastran *does* know is enough on its own — that Hauren is
+real (leaked dispatches make deniability impossible), that Balisha is fielding Hauren-derived systems
 (observable as they scale), that Uratha holds exclusive access by treaty, and that Balisha's outputs
 operate at a register Gunastran's do not reach. They can back-calculate principles from observed
 implementations, and that is the whole basis of their panic. The lineage fact stays off-page.
 *(Salvaged from `Book 3 - Crown Jewel/_WORKING_NOTES.md` before deletion, 2026-08-04.)*
 
-It was finished. And its makers had always known its price. The Engine could reach into the fabric of reality and force the Gray Gate shut — but to do so it had to be powered by life itself, freely given, on a scale to answer the scale of the wound. Nearly every Lathionese who remained gave their existence to it. They fed themselves into the Engine, knowingly and willingly, and the Engine did what it had been built to do: the Gray Gate was sealed, and the torn boundary between the living world and the realm of the dead was mended. The slow tide stopped — abruptly, mid-desert, halting against nothing at all, as though a hand had been laid flat against the world.
+It was finished. And its makers had always known its price. The Engine could reach into the fabric of reality and force the Gray Gate shut — but to do so it had to be powered by life itself, freely given, on a scale to answer the scale of the wound. Nearly every Haureni who remained gave their existence to it. They fed themselves into the Engine, knowingly and willingly, and the Engine did what it had been built to do: the Gray Gate was sealed, and the torn boundary between the living world and the realm of the dead was mended. The slow tide stopped — abruptly, mid-desert, halting against nothing at all, as though a hand had been laid flat against the world.
 
 In the same moment, the Engine's activation sent a metaphysical shockwave through the region. Where it met Kaha'an's failing wards, it did not break them — it reinforced them, restoring and strengthening the shell that had so nearly fallen, so that the city survived both the Gray Gate's final violence and the reality-deep backlash of its own cure.
 
-The cost was a civilization. Lathion had been alive that morning — hundreds of thousands of people in a city of wonders. By the time the Engine fell silent, Lathion was a tomb, perfectly preserved, its tireless machines still tending empty halls. The City of Gears is not, as legend holds, "lost." It is dead — and it died to save a world that never knew it was there.
+The cost was a civilization. Hauren had been alive that morning — hundreds of thousands of people in a city of wonders. By the time the Engine fell silent, Hauren was a tomb, perfectly preserved, its tireless machines still tending empty halls. The City of Gears is not, as legend holds, "lost." It is dead — and it died to save a world that never knew it was there.
 
-The Gray Wastes remain "thin" because the boundary between worlds, though mended, never healed cleanly — a scar in reality where the cut had been deepest. The gray coloration of the sand is the residue of minute particles of death essence that steeped the soil through the long year the Gray Gate hung open. The strange phenomena experienced by visitors are echoes of both the original catastrophe and Lathion's reality-altering countermeasure.
+The Gray Wastes remain "thin" because the boundary between worlds, though mended, never healed cleanly — a scar in reality where the cut had been deepest. The gray coloration of the sand is the residue of minute particles of death essence that steeped the soil through the long year the Gray Gate hung open. The strange phenomena experienced by visitors are echoes of both the original catastrophe and Hauren's reality-altering countermeasure.
 
 ## Long-Term Implications
 
@@ -209,7 +209,7 @@ Whether or not the true cause of The Rending is ever uncovered, its effects cont
 - The year-long advance of the desert drove a flood of survivors into Kaha'an — the one surviving refuge — in the space of a single year. The capital's population swelled catastrophically, a demographic shock the city was never built to absorb. How those refugees were housed has defined the shape of modern Kaha'an ever since (see the Warrens documentation)
 - The seven successor states, once united under imperial rule, have each embraced one of the seven deadly sins in the catastrophe's aftermath
 - The Gray Wastes serve as a constant reminder of forces beyond human understanding or control
-- The discovery of Lathion beneath the Warrens offers both promise and peril — access to advanced knowledge but also to potentially destructive power
+- The discovery of Hauren beneath the Warrens offers both promise and peril — access to advanced knowledge but also to potentially destructive power
 - Princess Elara Valanar's existence represents hope for reunification, but also a threat to those who have built power in the post-Rending world
 
 The Rending not only transformed the physical landscape of Elvandar but also its political, economic, and spiritual character. What began as one man's desperate attempt to defy death's finality ended by reshaping an entire continent — and by quietly extinguishing the civilization that paid, in full and unwitnessed, to keep that ending from being final.

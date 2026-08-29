@@ -104,7 +104,7 @@ inside the Book 1–3 span.
 
 **Names are grants, and commoners have one.** In Balisha a second name is conferred by a throne, so
 nobles carry a house name and everyone else carries a single name and a byname when a scene needs one.
-`Places/Languages of Elvandar.md` → **Who Gets a Second Name** is authoritative; read it before coining
+`Languages/Languages of Elvandar.md` → **Who Gets a Second Name** is authoritative; read it before coining
 anybody. Two things it settles that get re-derived otherwise: **Ronas took *Dermir* himself**, the same act
 as taking *Slaver King*, and ***Fen* is not a surname** — it is the word for herb-work, so *Master Fen* was
 always a job rather than a name. The rule is **Balishan**; Erulian, Gunastran, Urathan and bakarn customs
@@ -113,9 +113,10 @@ differ, and *Ashwood* is a clan, not a house.
 **The Rending** happened ~20 years before Book 1. There is only one. Never reintroduce "First
 Rending" or "Sundering." `Magic/The Rending.md` is authoritative.
 
-**Lathion.** Built ~5,000 years ago, sealed ~2,000 years ago, inhabited until ~20 years ago.
+**Hauren.** The modern Balishan name is approved; its native historical suite is *Halauren/Halauri*.
+The referent is hard canon: built ~5,000 years ago, sealed ~2,000 years ago, inhabited until ~20 years ago.
 Fresh tomb, not ancient one. The Destiny Engine was built in months during the Rending crisis
-and should look visibly hastier than everything around it. Characters do not know Lathionese
+and should look visibly hastier than everything around it. Characters do not know Haureni
 proper names and neither does the narrator in Xion's POV.
 
 **Book 3's Wonder chapter (`Chapters/Chapter 7 - Wonder.md`) carries one emotion and nothing else.**
@@ -124,7 +125,7 @@ do not revise it*, and that wording was wrong in a way that showed: it exerted a
 came near the chapter, up to and including refusing to fix the seam where ch5 hands off to it. **The prose
 is revisable like any other prose in this repository.** Revise it for correctness, for continuity, for the
 join with the chapter before it. What must never happen is a second emotion getting in — no grief, no
-irony, no arc-closure, no logistics, no foreshadowing of what Lathion costs. The Jurassic Park principle
+irony, no arc-closure, no logistics, no foreshadowing of what Hauren costs. The Jurassic Park principle
 applies here in its purest form. *Renumbered twice and never rewritten: ch5 until 2026-08-01 when
 `Chapter 3 - Storm-Line` was inserted, ch6 until 2026-08-03 when `Chapter 6 - Fair Price` was.*
 
@@ -441,6 +442,7 @@ Book N - Title/
 People/              character sheets
 Places/              geography and settings
 Magic/               metaphysics, incl. the authoritative The Rending.md
+Languages/           linguistic history, naming systems, grammars, scripts, and lexicons
 Templates/           document patterns
 Tools/               royalroad_export.py — regenerates every Royal Road/ folder
                      sync_art.sh — moves images between the repo and Backblaze B2
@@ -502,7 +504,7 @@ is invisible to it. A **fresh clone has no images**; run `sync_art.sh pull --yes
 `elvandar_map_painted.png` is rendered from — which is why that 10 MB PNG is build output and had no
 business being in git under any reading.
 
-**One known casualty, accepted.** `Places/Kaha'an/Lathion_ Physical Layout and Geography.md` embeds
-`Lathion - First Entry.png`. It renders correctly in the Viewer and shows a broken image on
+**One known casualty, accepted.** `Places/Kaha'an/Hauren_ Physical Layout and Geography.md` embeds
+`Hauren - First Entry.png`. It renders correctly in the Viewer and shows a broken image on
 github.com, because GitHub renders from the repository tree and cannot see your disk. **Do not
 "fix" this by re-adding the PNG.**

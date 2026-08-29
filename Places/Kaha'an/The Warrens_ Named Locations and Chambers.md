@@ -116,7 +116,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 ### **Brightness Hall**
 
-**Type:** Medium chamber with functioning Lathion lighting  
+**Type:** Medium chamber with functioning Hauren lighting
  **Location:** \-40m, eastern Tiers  
  **Size:** 25 meters diameter  
  **Description:** Rare chamber where ancient blue lighting still functions brightly. Almost painfully bright compared to normal darkness. Used for work requiring good light.
@@ -147,7 +147,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 ### **The Drop**
 
-**Type:** Vertical shaft (natural feature, not Lathion-made)  
+**Type:** Vertical shaft (natural feature, not Hauren-made)
  **Location:** \-50m, western Tiers  
  **Description:** 30-meter vertical drop where ceiling of a lower chamber collapsed into upper passage. Crude rope ladders provide access. Dangerous but serves as shortcut.
 
@@ -198,7 +198,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 **Type:** Large chamber divided by ancient wall  
  **Location:** \-75m, southern Tiers  
  **Size:** 50 meters diameter (divided into two 25m sections)  
- **Description:** Only chamber in the Warrens with an internal wall (Lathion construction—purpose unknown). Wall divides chamber into "Upper Split" and "Lower Split" (floor levels differ by 2 meters). Each section developed separate community.
+ **Description:** Only chamber in the Warrens with an internal wall (Hauren construction—purpose unknown). Wall divides chamber into "Upper Split" and "Lower Split" (floor levels differ by 2 meters). Each section developed separate community.
 
 **Population:** \~200 per side (\~400 total)  
  **Character:** Rivalry between sides (friendly competition)
@@ -276,7 +276,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 **Type:** Long, wide passage with carved alcoves  
  **Location:** \-175m, connecting major chambers  
- **Description:** 100-meter-long passage with small alcoves carved into walls every 5 meters (Lathion design—purpose unknown). Residents use alcoves as tiny living spaces (barely 2x2 meters each). Called "gallery" because it resembles art gallery.
+ **Description:** 100-meter-long passage with small alcoves carved into walls every 5 meters (Hauren design—purpose unknown). Residents use alcoves as tiny living spaces (barely 2x2 meters each). Called "gallery" because it resembles art gallery.
 
 **Population:** \~150 (desperate people in alcoves)  
  **Character:** Extremely cramped poverty
@@ -292,10 +292,10 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 ### **The Grinding Stone**
 
-**Type:** Medium chamber with mysterious Lathion fixture  
+**Type:** Medium chamber with mysterious Hauren fixture
  **Location:** \-190m, northern Midlevels  
  **Size:** 30 meters diameter  
- **Description:** Chamber dominated by large circular stone disc (3 meters diameter) that slowly rotates (ancient Lathion mechanism—purpose unknown). Residents use it to grind grain by placing it on the moving stone. Unintended but useful.
+ **Description:** Chamber dominated by large circular stone disc (3 meters diameter) that slowly rotates (ancient Hauren mechanism—purpose unknown). Residents use it to grind grain by placing it on the moving stone. Unintended but useful.
 
 **Population:** \~100  
  **Special Use:** Grain milling (communal)
@@ -304,7 +304,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 **Type:** Tunnel section  
  **Location:** \-200m, southern Midlevels  
- **Description:** 50-meter passage section that's noticeably warmer than surroundings (80-85°F). Runs near geothermal source or active Lathion power conduit. Uncomfortable but useful for drying clothes/food.
+ **Description:** 50-meter passage section that's noticeably warmer than surroundings (80-85°F). Runs near geothermal source or active Hauren power conduit. Uncomfortable but useful for drying clothes/food.
 
 **Usage:** Avoided except for specific purposes  
  **Hazard:** Dehydration if you stay too long
@@ -351,7 +351,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 **Type:** Massive chamber (unusual shape)  
  **Location:** \-170m, eastern Midlevels  
  **Size:** 60 meters long, 15 meters wide, 5 meters high  
- **Description:** Unusually elongated chamber (Lathion design—purpose unknown). Residents built two-story structures along both sides, creating a covered "street." Feels more like a corridor than a chamber.
+ **Description:** Unusually elongated chamber (Hauren design—purpose unknown). Residents built two-story structures along both sides, creating a covered "street." Feels more like a corridor than a chamber.
 
 **Population:** \~400  
  **Character:** Busy commercial street-like atmosphere
@@ -361,7 +361,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 **Type:** Medium chamber with structural columns  
  **Location:** \-185m, western Midlevels  
  **Size:** 30 meters diameter  
- **Description:** Only chamber in service tunnels with free-standing pillars (four pillars supporting ceiling—Lathion construction). Pillars are 1 meter diameter, perfectly smooth brass. Residents built platforms between pillars creating unique multi-level space.
+ **Description:** Only chamber in service tunnels with free-standing pillars (four pillars supporting ceiling—Hauren construction). Pillars are 1 meter diameter, perfectly smooth brass. Residents built platforms between pillars creating unique multi-level space.
 
 **Population:** \~150  
  **Architecture:** Most interesting residential chamber
@@ -370,7 +370,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 **Type:** Tunnel section  
  **Location:** \-130m, connecting passages  
- **Description:** 200-meter passage lined with rusty iron fixtures (Lathion hardware that has corroded—rare). Used as major navigation landmark. The rust provides texture for touch-navigation in darkness.
+ **Description:** 200-meter passage lined with rusty iron fixtures (Hauren hardware that has corroded—rare). Used as major navigation landmark. The rust provides texture for touch-navigation in darkness.
 
 **Traffic:** Heavy (major route)  
  **Navigation:** Easy to follow by touch
@@ -380,7 +380,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 **Type:** Water station  
  **Location:** \-230m, eastern Midlevels  
  **Size:** 20 meters diameter  
- **Description:** Smallest water station. Named for unusual quiet—no echoing, no dripping sounds. Water flows silently from taps. Acoustically dampened (Lathion design—purpose unknown).
+ **Description:** Smallest water station. Named for unusual quiet—no echoing, no dripping sounds. Water flows silently from taps. Acoustically dampened (Hauren design—purpose unknown).
 
 **Water Quality:** Good  
  **Population:** \~25 Well Mothers  
@@ -488,7 +488,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 **Type:** Extremely hot chamber  
  **Location:** \-390m, near geothermal source  
  **Size:** 25 meters diameter  
- **Description:** Chamber where temperature reaches 105°F+ due to proximity to active Lathion power conduit in wall. Unbearable for extended time but useful for drying, heating, forging small items.
+ **Description:** Chamber where temperature reaches 105°F+ due to proximity to active Hauren power conduit in wall. Unbearable for extended time but useful for drying, heating, forging small items.
 
 **Population:** \~20 (desperate people who tolerate heat)  
  **Usage:** Industrial—temporary work, not residence
@@ -530,7 +530,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 **Type:** Series of small chambers  
  **Location:** \-395m, eastern Depths  
  **Size:** Multiple 10m diameter chambers  
- **Description:** Six small connected chambers filled with ancient rusted equipment (Lathion machinery that failed). Resembles tomb or burial ground. Delvers strip it for metal.
+ **Description:** Six small connected chambers filled with ancient rusted equipment (Hauren machinery that failed). Resembles tomb or burial ground. Delvers strip it for metal.
 
 **Population:** 0  
  **Delver Activity:** Heavy
@@ -546,20 +546,20 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 ### **The Shimmer**
 
-**Type:** Small chamber with active Lathion lighting  
+**Type:** Small chamber with active Hauren lighting
  **Location:** \-365m, central Depths  
  **Size:** 15 meters diameter  
- **Description:** Chamber where blue Lathion lights flicker and pulse (malfunction?). Creates shimmering, hypnotic effect. Beautiful but unsettling. Some claim it causes hallucinations if you stay too long.
+ **Description:** Chamber where blue Hauren lights flicker and pulse (malfunction?). Creates shimmering, hypnotic effect. Beautiful but unsettling. Some claim it causes hallucinations if you stay too long.
 
 **Population:** \~30 (Ghostlights shrine)  
  **Control:** Ghostlights (spiritual significance)
 
 ### **The Watcher**
 
-**Type:** Chamber with Lathion construct  
+**Type:** Chamber with Hauren construct
  **Location:** \-405m, western Depths  
  **Size:** 20 meters diameter  
- **Description:** Chamber containing inactive(?) Lathion construct mounted in wall. Looks vaguely humanoid, 2 meters tall, brass and crystal. Residents swear it "watches" them. Actually part of Silent Wardens (automated repair system).
+ **Description:** Chamber containing inactive(?) Hauren construct mounted in wall. Looks vaguely humanoid, 2 meters tall, brass and crystal. Residents swear it "watches" them. Actually part of Silent Wardens (automated repair system).
 
 **Population:** \~25 (brave/desperate people)  
  **Atmosphere:** Deeply unsettling
@@ -620,7 +620,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 **Type:** Tunnel section  
  **Location:** \-165m, eastern Midlevels  
- **Description:** 80-meter passage where Lathion lighting still functions. One of few consistently lit passages. Used heavily despite being out of the way—light is worth the detour.
+ **Description:** 80-meter passage where Hauren lighting still functions. One of few consistently lit passages. Used heavily despite being out of the way—light is worth the detour.
 
 **Traffic:** Heavy
 
@@ -644,7 +644,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 **Type:** Actual stairs (rare)  
  **Location:** \-220m to \-280m  
- **Description:** One of few passages with actual carved stairs (Lathion construction). 60-meter descent over stairs. Much easier than climbing passages. Always crowded.
+ **Description:** One of few passages with actual carved stairs (Hauren construction). 60-meter descent over stairs. Much easier than climbing passages. Always crowded.
 
 **Traffic:** Very heavy
 
@@ -688,7 +688,7 @@ This gazetteer catalogs the named chambers, passages, and landmarks throughout t
 
 **Type:** Temperature landmark  
  **Location:** \-240m passage  
- **Description:** Section of wall that's noticeably warm to touch (Lathion power conduit behind it). Used as navigation marker—"turn left at the warm wall."
+ **Description:** Section of wall that's noticeably warm to touch (Hauren power conduit behind it). Used as navigation marker—"turn left at the warm wall."
 
 **Significance:** Touch-based navigation marker
 
@@ -835,4 +835,3 @@ New names emerge constantly as:
 * Communities develop distinct identities
 
 This gazetteer represents current major named locations but is not exhaustive. Thousands of chambers exist; only the most significant earn names.
-

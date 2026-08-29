@@ -36,7 +36,7 @@ These minds are trapped in agony. Memories and skills extracted through a proces
 
 THIS is how Uratha maintained its technological lead over the rest of Elvandar. Not through the Crown's divine wisdom. Not through superior scholarship. Through industrialized cognitive extraction. A knowledge factory built on trapped, screaming minds.
 
-The process has a horrifying resonance with Lathion technology — similar principles applied with none of the Lathionese's care or consent mechanisms. The "Lathion-stuff" inside Elara — the spirit of the Lathionese that allows her to intuit their language and connect with their technology — is what makes her a receiver. The Globehall's victims are broadcasting their agony on a frequency Elara can hear.
+The process has a horrifying resonance with Hauren technology — similar principles applied with none of the Haureni's care or consent mechanisms. The "Hauren-stuff" inside Elara — the spirit of the Haureni that allows her to intuit their language and connect with their technology — is what makes her a receiver. The Globehall's victims are broadcasting their agony on a frequency Elara can hear.
 
 ---
 
@@ -52,19 +52,19 @@ Xion and Elara arrive in Uratha. It is a triumph. The alliance that survived the
 
 The Provosts are gracious hosts. As a gesture of trust — an honor extended to almost no foreign visitors — they invite Xion and Elara into the Ivory Tower itself. Not the Sapphire Tower where all prior Balishan diplomacy was conducted, but the inner sanctum. *We consider you our closest allies. Come see where we truly work.* It is a genuine gesture of openness. No one intends for anything to go wrong.
 
-**Critically:** The Provosts have no reason to fear this visit. The Globehall's existence is known to almost no one outside the inner Provost circle. They have no particular reason to worry about Elara — Lathion-essence is not a common trait and they have never encountered it in a visitor. They are not setting a trap. They are being hospitable. The catastrophe that follows is not a plan unfolding. It is an accident happening.
+**Critically:** The Provosts have no reason to fear this visit. The Globehall's existence is known to almost no one outside the inner Provost circle. They have no particular reason to worry about Elara — Hauren-essence is not a common trait and they have never encountered it in a visitor. They are not setting a trap. They are being hospitable. The catastrophe that follows is not a plan unfolding. It is an accident happening.
 
 ### Nightmares
 
-Inside the Ivory Tower for the first time, things go wrong — and the wrongness is not anticipated by anyone in the building. Elara begins receiving the Globehall's broadcast: terrible visions of screaming and torture, like how Lathion pulled her to the Brass Door in Book 1, but instead of wonder, this is horror. Psychic fragments. The desperate pleas of people begging for the pain to stop.
+Inside the Ivory Tower for the first time, things go wrong — and the wrongness is not anticipated by anyone in the building. Elara begins receiving the Globehall's broadcast: terrible visions of screaming and torture, like how Hauren pulled her to the Brass Door in Book 1, but instead of wonder, this is horror. Psychic fragments. The desperate pleas of people begging for the pain to stop.
 
-The visions escalate. Debilitating headaches. Nightmares so vivid they leave her shaking. She is receiving the broadcast of thousands of trapped minds, and her Lathion-connection translates their agony into her lived experience.
+The visions escalate. Debilitating headaches. Nightmares so vivid they leave her shaking. She is receiving the broadcast of thousands of trapped minds, and her Hauren-connection translates their agony into her lived experience.
 
 The Provosts see Elara's symptoms and do not understand them. No one has ever responded to the Ivory Tower this way. Confusion turns to alarm turns to a terrible realization: *she's receiving something she shouldn't be able to receive.* The internal scramble that follows is panicked, not premeditated.
 
 ### The Discovery
 
-She follows the invisible pull into the hidden basement layer. Through passages that official documents insist don't exist. Past security she shouldn't be able to bypass but can, because the Lathion-resonance in her blood opens doors that were designed to keep out normal intruders.
+She follows the invisible pull into the hidden basement layer. Through passages that official documents insist don't exist. Past security she shouldn't be able to bypass but can, because the Hauren-resonance in her blood opens doors that were designed to keep out normal intruders.
 
 She finds the Globehall.
 
@@ -74,7 +74,7 @@ Thousands of crystalline spheres. Each one a person. Each one screaming.
 
 Xion follows Elara. When he sees the Globehall, the healer — the man whose core drive is protecting the vulnerable, whose entire revolution began because he couldn't walk past a suffering child — is so incensed he tries to destroy it immediately.
 
-But the Ilhamori — Uratha's magical police — swarm them before he can finish. In desperation, Xion "locks" the Globehall with a magical mechanism and refuses to give the Provosts access. If he can't free the trapped minds, he can at least deny the Provosts the use of them.
+But Theraris officers — Uratha's magical police — swarm them before he can finish. In desperation, Xion "locks" the Globehall with a magical mechanism and refuses to give the Provosts access. If he can't free the trapped minds, he can at least deny the Provosts the use of them.
 
 ### The Stalemate
 
@@ -86,7 +86,7 @@ The Provosts face an impossible situation:
 - But the Globehall is locked and they need Xion's "password" to unlock it.
 - Their entire academic and intellectual dominance depends on the Globehall — they're so reliant on extracted knowledge they've lost the capacity for genuine independent scholarship.
 - The Scholar's Crown is in Kaha'an (returned in Book 3), and even if it was here, it hasn't worked in a century.
-- They need the Globehall's extracted knowledge to continue studying Lathion technology — the very thing they traded the Crown for.
+- They need the Globehall's extracted knowledge to continue studying Hauren technology — the very thing they traded the Crown for.
 
 They separate Xion and Elara for interrogation.
 
@@ -118,7 +118,7 @@ She is not threatening. She is promising.
 
 Tiberian and Melina don't know anything is wrong. Their parents went on a diplomatic mission. A routine one — the kind of post-war state visit that has become almost ceremonial. They saw them off on an ordinary morning and went about their day.
 
-The expected return time passes. They're late. That's the first data point, and it doesn't register as alarming — *the Lathion discussions probably ran long, you know how Urathans are about their scholarship. Father probably got pulled into a side conversation. He does that.* The rationalizations are not naive; they are based on accurate knowledge of who Xion and Elara are and what a Urathan state visit involves. There is genuinely no reason to worry yet.
+The expected return time passes. They're late. That's the first data point, and it doesn't register as alarming — *the Hauren discussions probably ran long, you know how Urathans are about their scholarship. Father probably got pulled into a side conversation. He does that.* The rationalizations are not naive; they are based on accurate knowledge of who Xion and Elara are and what a Urathan state visit involves. There is genuinely no reason to worry yet.
 
 Then they're very late. Still not panic — but Tiberian sends a message to the Urathan delegation. The response is cordial and technically unresponsive. *The visit has been extended at the Empress's request. She is engaged in important discussions.* Tiberian frowns. Melina reads the message three times.
 
@@ -134,7 +134,7 @@ And then it reforms. The Engineer reasserts itself. Panic is a data point. Her p
 
 Melina begins a campaign to discover the truth — spy thriller investigation, deploying the intelligence network that Farleen built and that Melina inherited as a strategic asset. Pieces come in fragments: the state visit went as planned for the first few days. Then communications stopped. The Urathan delegation claims Xion and Elara extended their stay voluntarily. This is obviously false — Elara would never leave Balisha without word to her children.
 
-Melina traces the lie backward. The diplomatic communications are fabricated. The Provosts' explanations shift subtly each time they're questioned. There are inconsistencies in the security reports. The Ilhamori deployment patterns changed on a specific date — the same date the last genuine communication from her parents was sent.
+Melina traces the lie backward. The diplomatic communications are fabricated. The Provosts' explanations shift subtly each time they're questioned. There are inconsistencies in the security reports. Theraris deployment patterns changed on a specific date — the same date the last genuine communication from her parents was sent.
 
 Slowly, methodically, Melina pieces together what happened. Not the full truth — not yet — but enough to know her parents are alive, imprisoned, and that the Provosts are desperately trying to maintain a fiction while dealing with something they can't control.
 
@@ -144,7 +144,7 @@ And then she finds **Danshall Harkim**.
 
 Or rather — Harkim finds her. The notebook he started in the epilogue of Book 4 has become something else entirely. In the years since the Compact War, the Topaz Tower researcher has quietly built a bakarn underground inside Uratha — a network of people who, like him, noticed that the post-war reforms never stuck, that the Provosts' indifference to their own classification system was not apathy but *evidence*. People who have been watching, recording, asking questions the Provosts assumed no one would think to ask. That the underground's architect is a Topaz scholar is fitting: the tower that spent centuries doing the essential work while being told it wasn't quite scholarship has produced a man who is very good at building things that function without being noticed.
 
-Harkim doesn't know what the Globehall is. He's never been inside the Ebony Tower's nonexistent basement. But he has been mapping its shadow for years. The energy consumption anomalies. The Ilhamori's classified unit. The personnel records that don't match any visible facility. The bakarn who disappeared and were never accounted for — not during the old system, but *after* the reforms. Disappearances that no one investigated because no one with power cared about missing bakarn.
+Harkim doesn't know what the Globehall is. He's never been inside the Ebony Tower's nonexistent basement. But he has been mapping its shadow for years. The energy consumption anomalies. The classified Theraris unit. The personnel records that don't match any visible facility. The bakarn who disappeared and were never accounted for — not during the old system, but *after* the reforms. Disappearances that no one investigated because no one with power cared about missing bakarn.
 
 He has the shape of the thing without its name.
 
@@ -154,7 +154,7 @@ What Harkim brings to Melina is not just information. It's *years* of informatio
 
 ### The Deeper Truth
 
-The investigation leads Melina to the Globehall's existence. Not through the front door — through the convergence of Harkim's internal data and Melina's external intelligence. The energy consumption of the Ivory Tower doesn't match its visible operations. The Ilhamori has a classified unit with no official mandate. There are personnel records for staff assigned to a facility that doesn't appear on any blueprint. And there are Harkim's records — the bakarn who vanished, the patterns of disappearance, the Provosts' systematic indifference to a classification system they had spent generations building.
+The investigation leads Melina to the Globehall's existence. Not through the front door — through the convergence of Harkim's internal data and Melina's external intelligence. The energy consumption of the Ivory Tower doesn't match its visible operations. The Theraris has a classified unit with no official mandate. There are personnel records for staff assigned to a facility that doesn't appear on any blueprint. And there are Harkim's records — the bakarn who vanished, the patterns of disappearance, the Provosts' systematic indifference to a classification system they had spent generations building.
 
 When the full picture assembles — the scope of what the Provosts have been doing, the horror of the Globehall, the realization that this trusted ally has been committing this atrocity for decades — Melina's Kaleidoscope fires at a speed no one has ever seen. The Spider Queen processes the implications: diplomatic, military, moral, strategic.
 
@@ -172,7 +172,7 @@ And then Melina decides.
 
 The specifics of the rescue are a structural question: does Tiberian lead a military intervention? Does Melina orchestrate an infiltration? Do they combine approaches — Tiberian's force creating opportunity for Melina's precision?
 
-What matters: **Harkim's underground makes it possible.** Whatever form the rescue takes, it depends on people inside Uratha — Harkim's network, the bakarn who have been watching and waiting and documenting, the quiet infrastructure of resistance that a junior researcher started building the day he opened a notebook in a liberated city. They know the internal layouts, the guard rotations, the Ilhamori deployment gaps. They are the reason Melina can plan a rescue instead of an invasion.
+What matters: **Harkim's underground makes it possible.** Whatever form the rescue takes, it depends on people inside Uratha — Harkim's network, the bakarn who have been watching and waiting and documenting, the quiet infrastructure of resistance that a junior researcher started building the day he opened a notebook in a liberated city. They know the internal layouts, the guard rotations, the Theraris deployment gaps. They are the reason Melina can plan a rescue instead of an invasion.
 
 Harkim is not a soldier. He's not leading a charge. He's the man who opened the door — who spent years building the network that gives Melina's precision something to work with and Tiberian's force somewhere to strike. The junior researcher from Empirica, the true believer whose faith cracked in a six-month war and never healed, has become the person without whom the rescue doesn't happen.
 
@@ -218,7 +218,7 @@ Eight books. Beginning, middle, end. Done.
 
 ## Structural Notes
 
-**The mirror metaphor:** The title — Shattered Mirror — works on multiple levels. Uratha is the mirror: a civilization that appeared to reflect enlightenment but actually concealed horror. The Globehall shatters that reflection. Elara's Lathion-connection is a mirror too: the Lathionese technology that she marveled at in Book 3 has a dark reflection in the Globehall's extraction process. And the family dynamic is a mirror: the children rescue the parents, reversing the direction of protection that defined the original trilogy.
+**The mirror metaphor:** The title — Shattered Mirror — works on multiple levels. Uratha is the mirror: a civilization that appeared to reflect enlightenment but actually concealed horror. The Globehall shatters that reflection. Elara's Hauren-connection is a mirror too: the Haureni technology that she marveled at in Book 3 has a dark reflection in the Globehall's extraction process. And the family dynamic is a mirror: the children rescue the parents, reversing the direction of protection that defined the original trilogy.
 
 **Why this works as a capstone:** Every previous book dealt with enemies who were, on some level, comprehensible. Kalden was delusional but his original claim was real. Rosik was ruthless but his administrative competence was genuine. The Compact had legitimate grievances. Even Ronas was honest about what he was.
 
@@ -240,5 +240,5 @@ The Provosts are different. They are the culmination of the series' deepest them
 - **Book 3:** The Urathans' strange eagerness. The Crown ceremony shock. Provost Venn's hunger. All of it explained.
 - **Book 4:** The bakarn reforms were real but built on a lie. The system changed on the surface. Underneath, something worse was growing. And Harkim — the true believer who watched the reforms fail — started the notebook that became the underground that made the rescue possible.
 - **Book 4 → Book 8:** Harkim's War never ended. The title of Book 4 pays off here: the Continental War lasted six months, but Harkim's personal war — against the system, against comfortable lies, against the institution that consumed his people — lasted years and concludes in this book. The war is won when the Globehall is broken open.
-- **Book 3:** The Destiny Engine's horror — mass sacrifice for the greater good — finds its dark mirror in the Globehall. The Lathionese chose their sacrifice. The Globehall's victims did not.
+- **Book 3:** The Destiny Engine's horror — mass sacrifice for the greater good — finds its dark mirror in the Globehall. The Haureni chose their sacrifice. The Globehall's victims did not.
 - **The Scholar's Crown:** Returned in Book 3, activated for Elara, silent for Uratha. The Crown knew. It always knew.

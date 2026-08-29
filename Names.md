@@ -6,8 +6,8 @@ Built 2026-08-04 from a full sweep of `Book */Chapters/`, `Book */Beat Drafts/`,
 outlines, `People/`, `Places/`, `Offstage.md` and the timelines. `TGMS - OLD/` excluded.
 
 **This file exists to stop duplicate and colliding names before they are coined, not after.**
-Four renames have already been forced by collisions that were only noticed once the name was in
-prose — see `Places/Languages of Elvandar.md`, which holds the phonology and the coinage rules.
+Several renames have already been forced by collisions that were only noticed once the name was in
+prose — see `Languages/Languages of Elvandar.md`, which holds the phonology and the coinage rules.
 This register holds the roster; that file holds the register-rules. **Check both before naming
 anyone.**
 
@@ -15,24 +15,30 @@ anyone.**
 that book, and take one that is free. Then say the new name aloud beside every short name already
 in that book. The failure mode is never a name that *looks* wrong on the page.
 
+**Balishan House names are not ordinary surnames and do not share one suffix.** A chartered House is a
+native *seldal*; blood, membership, public name, heirship, and office can diverge. Semantically transparent
+House names may be translated for the reader (*Greystone, Umberlow*), while opaque names remain
+transcribed (*Kemvimore, Hadris*). Full rules are in `Languages/Languages of Elvandar.md`, “Who Gets a
+Second Name.”
+
 ---
 
 ## Principals
 
 | Name | Books | Who | Register |
 |---|---|---|---|
-| **Xion Kemvimore** | 1–8 | The grain merchant's son; healer, later First Counselor of Balisha. POV of the series | Balishan, given name clipped from Old Lathionese |
-| **Elara Valanar** | 1–8 | Empress of Balisha. Raised in an Arol Batae compound | Old Lathionese — *"She of the Star"* |
+| **Xion Kemvimore** | 1–8 | The grain merchant's son; healer, later First Counselor of Balisha. POV of the series | Balishan; **Xion** is pronounced **ZY-on** /ˈzaɪ.ən/ and descends through the learned Marresonnian–Hieratic tradition |
+| **Elara Valanar** | 1–8 | Empress of Balisha. Raised in an Arol Batae compound | Old Halauri — *"She of the Star"* |
 | **Farleen Darfi** | 1–8 | Warrens-born; Xion's oldest ally. Green eyes, honey-blonde | Proto-Balishan |
 | **Rosik Kemvimore** | 1–8 | Xion's father. Lord of the Grain cartel | Modern Balishan house name |
-| **Melina Kemvimore** | 2–8 | Xion's sister. The bridge that burned. Dies in Book 2 | Old Lathionese — *"honey"* |
+| **Melina Kemvimore** | 2–8 | Xion's sister. The bridge that burned. Dies in Book 2 | Old Halauri — *"honey"* |
 | **Kael Issamil** | 1–3, 5–6 | Diagnostic Engineer; reform group. *"Sa Ko Ren might"* | Balishan |
 | **Silvanno Larannas** | 1–3 | Founded the reform group seven years before Book 1 | Balishan |
 | **Tania Larannas** | 1–3 | Coterie | Balishan |
 | **Ronas Dermir** | 1–8 | Head of the Slaver cartel; the Warrens' power | Proto-Balishan |
 | **Sa Ko Ren** | 1–3, 5 | The Iron Lady. Iron cartel, Coterie. **She/her** | Far Eastern |
-| **Mistress Janice** | 1, 3 | Warrens. Calls Xion *Fen*, never anything else | — |
-| **Mira Fen** | 1–2, 7 | **The apothecary at the Kemvimore estate — not Xion's mother.** Raised him after his mother died in the Rending and taught him healing in secret for years. Executed by Rosik when Xion was fifteen, on two words, with Xion in the room. His defining wound, and **the source of his alias** — *Master Fen* is her name | — |
+| **Mistress Janice** | 1, 3 | Warrens. Calls Xion *Fen*, never anything else | Balishan *sar* + Janice UNK |
+| **Mira Fen** | 1–2, 7 | **The apothecary at the Kemvimore estate — not Xion's mother.** Raised him after his mother died in the Rending and taught him healing in secret for years. Executed by Rosik when Xion was fifteen, on two words, with Xion in the room. *Fen* is her occupational byname, the common herb-worker trade, and the source of his alias; it is not a house or family name | Mira UNK; *fen* CON substrate; also *len* “healer” |
 | **Tam** | 1–3 | The boy Xion saves. One name — Middle District, no house | Proto-Balishan |
 | **Tarren Vesk** | 1, 3 | Commander of the Arol Batae; raised Elara | Proto-Balishan |
 | **Kalden Erulius** | 2–8 | Prince of the Erulian Principality. *"The Steady One"* | Balishan given, Erulian house |
@@ -43,8 +49,8 @@ in that book. The failure mode is never a name that *looks* wrong on the page.
 
 | Name | Books | Who | Register |
 |---|---|---|---|
-| **Tiberian Valanar** | 5–8 | The Tiger Prince. Xion and Elara's son; **Melina's twin**, born hours apart after the Compact War. Named for his grandfather | Old Lathionese |
-| **Melina Valanar** | 5–8 | The Spider Queen. His twin — **named for Xion's dead sister** | Old Lathionese |
+| **Tiberian Valanar** | 5–8 | The Tiger Prince. Xion and Elara's son; **Melina's twin**, born hours apart after the Compact War. Named for his grandfather | Old Halauri |
+| **Melina Valanar** | 5–8 | The Spider Queen. His twin — **named for Xion's dead sister** | Old Halauri |
 | **Kai Issamil** | 5–7 | The Iron Boar. **Kael's son**; holds the line behind Tiberian | Balishan |
 
 **Tiberian's two diminutives are split by speaker, and it looks deliberate.** Melina teases him as
@@ -75,8 +81,8 @@ day. Neither has ever said so to the other on the page.
 | **Korvin** | 1 | Dockworker; crushed hand Xion rebuilt |
 | **Jorik** | 1 | Grain warehouse foreman |
 | **Varris** | 1 | Patient — ch18, treated against Farleen's warning |
-| **Mistress Keya** | 1 | Healer |
-| **Master Keelen** | 1 | — |
+| **Mistress Keya** | 1 | Older patient of Master Fen; her sons cannot find forge work | Balishan *sar* + Keya UNK |
+| **Master Keelen** | 1 | Elderly apothecary and healer | Balishan *sar* + Keelen UNK; *fen* and *len* practitioner |
 | **Rykan** | 1 | Named through his cousin, who settles a debt |
 | **Old Taren** | — | Blind Warrens navigator, ~55 |
 | **Grandmother Shira** | — | Leads the Well Mothers; controls the water sources |
@@ -94,16 +100,16 @@ day. Neither has ever said so to the other on the page.
 
 | Name | Who | Register |
 |---|---|---|
-| **Tobias Valorian** | Lord Merchant; argued for Gunastran | Balishan |
+| **Tobias Hadris** | Lord Merchant; argued for Gunastran | Balishan; **HAD-riss**, /ˈhad.ris/ |
 | **Storm-Marshal Ilareth** | Tor'anar, Balisha's war-magic corps | Balishan ceremonial |
 | **Leowin Draskin** | Scholar-King of Uratha | Proto-Balishan both halves |
 | **High Provost Venn** | Uratha | — |
-| **Iyanna Mereth** | History Provost, Sapphire Tower. The Brass Door is her subject | Old Lathionese *-eth* |
+| **Iyanna Mereth** | History Provost, Sapphire Tower. The Brass Door is her subject | Old Halauri *-eth* |
 | **Adren Thulgrav** | Gunastran lead engineer, ~50. **She/her** | Old Gunastran |
 | **Ondra Kelgrav** | Gunastran | Old Gunastran |
 | **Veldrin Torkal** | Consortium Chair, Master Engineer, Gunastran | Old Gunastran |
-| **Ormuth** | The Urathan lead scholar. Leads the contingent at the Door and inside the city, ch7–11 | Old Lathionese |
-| **Brennek** | The crown surveyor. Four days on a plan for a door that would not open, eleven pages on it, four hundred minutes hunting a seam — ch2, and ch3 opens on Kael reading his report aloud. Xion's practical counterpart inside Lathion, ch8–10 | Proto-Balishan |
+| **Ormuth** | The Urathan lead scholar. Leads the contingent at the Door and inside the city, ch7–11 | Old Halauri |
+| **Brennek** | The crown surveyor. Four days on a plan for a door that would not open, eleven pages on it, four hundred minutes hunting a seam — ch2, and ch3 opens on Kael reading his report aloud. Xion's practical counterpart inside Hauren, ch8–10 | Proto-Balishan |
 
 ## Book 4
 
@@ -112,7 +118,7 @@ day. Neither has ever said so to the other on the page.
 | **Lira** | Harkim's sister |
 | **Perrin Halmore** | Bakarn resistance organizer |
 | **Wilka Zarnstran** | Chief Acquisitor, Gunastran |
-| **Thalia Neth** | Former Ilhamori Inspector |
+| **Thalia Neth** | Former Theraris Inspector |
 | **Emmett Thorne** | Research Director; warns Harkim at midnight |
 | **Darius Severen** | Erulian commander; once a Urathan scholar |
 | **Bregan Haldorn** | Field Commander, Gunastran |
@@ -129,7 +135,7 @@ day. Neither has ever said so to the other on the page.
 | Name | Who |
 |---|---|
 | **Emrick Sedranne** | Lord Steward, House Sedranne (formerly House Vex) |
-| **Wystan Nerrick** | Engineer-Lord, House Thessian — the Water Wardens |
+| **Wystan Nerrick** | Engineer-Lord, House Nerrick — the Water Wardens |
 | **Aldwin Morthen** | House Morthen; distant Valanar cousins |
 | **Lady Cordelia Ashworth** | — |
 | **Captain-General Lyanna Valoreth** | Former imperial guard; security for the Restorationists |
@@ -138,6 +144,28 @@ day. Neither has ever said so to the other on the page.
 | **House Greystone** | The Vessel Street clearing house. Head is the **Factor-Principal**, unnamed on purpose — coin it when a chapter needs him, likely Book 8 |
 | **House Umberlow** | Extinct. The pre-Rending money house, destroyed by the Rending's defaults. Never spoken on the page |
 
+## Supporting-canon names with no book assignment
+
+These people are named only in place dossiers. None is in chapter prose, a beat draft, or a series
+outline. They are registered to prevent accidental reuse, but remain P3 material under
+`Languages/Attested Forms Register.md` and may be revised when their languages are built.
+
+| Name | Who |
+|---|---|
+| **Carenza Altamiris** | Maestro; current head of House Altamiris |
+| **Damien Thessalar** | Archiviste; current head of House Thessalar |
+| **Celia Tolvane** | Lady Administrator; current head of House Tolvane |
+| **Osric Malthorn** | Master Processor; current head of House Malthorn |
+| **Nevin Darfi** | Lord Maritime; current head of House Darfi |
+| **Seraphina Corvallen** | Lady Navigator; current head of House Corvallen |
+| **Rhenna Issamil** | Master-Smith; current head of House Issamil |
+| **Roderick Belgrand** | Blademaster; current head of House Belgrand |
+| **Donnel Vorthak** | Craftmaster; current head of House Vorthak |
+| **Lady Josephine Halleck** | High Chancellor of Vartonne |
+| **Master Composer Lydia Valens** | Current Grand Director of Silaris |
+| **Kraal of the Red Mountain** | Blood Pack Voice in the Bloodsworn dossier |
+| **Kraag Vos'hal** | Current wielder of the Demon's Edge |
+
 ## Offstage and historical
 
 | Name | Who |
@@ -145,6 +173,8 @@ day. Neither has ever said so to the other on the page.
 | **Captain Salvian Ostrus** | Last captain of the Aspirant Guard. *Salv-* = *keeping in trust*; he preserved nothing, and nobody remarks on it |
 | **Emperor Urath IV Valanar** | Founded Uratha and named it after himself |
 | **Aurelan III** | Sat the Ruby Throne four hundred years ago; Kalden copies his collar |
+| **Emperor Tiberan II** | Granted House Meridian the charter that established Silaris, per the Silaris dossier |
+| **Emperor Varellian IV** | Credited with moving the court from Vartonne to Kaha'an, per the Vartonne dossier; requires reconciliation with the current throne-name pool |
 
 ---
 
@@ -190,10 +220,10 @@ true to life and may well be worth the cost. Flagged, not proposed — the autho
 
 ***Brennek*** is the last survivor of the language guide's five Balishan-common examples: *Halmore*
 went to Book 4, *Vannas* is V-initial, *Doric* lands in the D crowd with Draskin/Dermir/Deshi, and
-*Tovanne* in the T crowd with Tania/Tam. ***Ormuth*** took the last free O. Two Old Lathionese endings
+*Tovanne* in the T crowd with Tania/Tam. ***Ormuth*** took the last free O. Two Old Halauri endings
 were already closed to it — *-eth* by **Mereth**, a Urathan scholar who would be named in the same
 breath, and *-ath* by *Urath / Uratha*. The rejected candidate was *Haluth*: H is the last unused
-initial in the entire series, and it shares its /l/ and /θ/ with **Lathion**, which is said constantly
+initial in the entire series, and it shares its /l/ and /θ/ with **Hauren**, which is said constantly
 in exactly the chapters the scholar appears in. **Both names replace *Kaiden Voss***, who was never
 written, whose nation the sources disagreed on, and who was himself a collision — one syllable,
 V-initial, sharing an expedition with **Vesk**.
@@ -251,13 +281,13 @@ weaponizes later — a named villain would convert that into ordinary malice and
 
 ## Names already spent, and how
 
-Four renames were forced after the fact. Do not re-coin any of these: **Ver'anar** → *Tor'anar*,
+Further renames have been forced after the fact. Do not re-coin any of these: **Ver'anar** → *Tor'anar*,
 **Leowin Vrek** → *Draskin*, **Kira Voss** → *Perrin Halmore*, **Lydia Karven** → *Wilka
 Zarnstran*, **House Vex** → *Sedranne*, **Silas Vex** → *Bregan Haldorn*, **Marcus Vex** →
-*Emrick Sedranne*, **Marcus Nerrick** → *Wystan Nerrick*.
+*Emrick Sedranne*, **Marcus Nerrick** → *Wystan Nerrick*, **Tobias Valorian** → *Tobias Hadris*.
 
-**Initials in use across the series:** A, B, C, D, E, F, G, I, J, K, L, M, N, O, P, R, S, T, V, W, X, Z.
-Free series-wide: **H, Q, U, Y**.
+**Initials in use across the series:** A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, V, W, X, Z.
+Free series-wide: **Q, U, Y**.
 
 **U is spent in the record but not on the page.** *House Umberlow*, coined 2026-08-05, is an extinct house
 that appears in canon files only and is never said aloud by anyone. **The scarcity this list tracks is
@@ -265,13 +295,14 @@ names in dialogue**, so U remains available for a spoken name; the entry is here
 "discovered" later and treated as a collision. If U is ever wanted for a character, take it — a dead house
 in a geography file will not be confused with anybody.
 
-**Initials spoken in Book 3:** A, C, D, E, F, I, K, L, M, O, R, S, T, V, X.
-Free in Book 3: **G, H, N, P, U, W, Y, Z** — B and O were spent on Brennek and Ormuth, 2026-08-04.
+**Initials spoken in Book 3:** A, C, D, E, F, H, I, K, L, M, O, R, S, T, V, X.
+Free in Book 3: **G, N, P, U, W, Y, Z** — B and O were spent on Brennek and Ormuth, 2026-08-04; H
+was spent on Hadris in the 2026-08-22 House-register pass.
 
 **Endings now crowded and best avoided:** *-anar* (Valanar, Tor'anar), *-eth* (Mereth, Ilareth),
-*-ath* (Urath, Uratha), *-in* (Draskin, Darfi-adjacent), *-onne* (Vartonne, Marrethonne),
+*-ath* (Urath, Uratha), *-in* (Draskin, Darfi-adjacent), *-onne* (Vartonne, Marresonne),
 *-ore* (Halmore), *-annas* (Larannas), *-grav / -dorn / -stran* (all three Gunastran slots taken).
 
-**V-initial is closed.** *Valanar, Vartonne, Valorian, Valoreth, Vorthak, Vesk, Venn, Vex* — the
+**V-initial is closed.** *Valanar, Vartonne, Valoreth, Vorthak, Vesk, Venn, Vex* — the
 guide's standing instruction is to prefer a non-V initial for anything new, and the *Vesk/Vrek*
 rename is why.

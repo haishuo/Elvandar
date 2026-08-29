@@ -21,7 +21,7 @@ The kingdom is running on fumes. Xion is scarred — Melina's death, the disinhe
 
 The immediate crisis: the treasury is nearly empty. Rosik's coalition and blocking function are gone — but the cartel leaders themselves are intact. Sa Ko Ren still leads Iron. Tania Larannas still runs Water. Ronas still controls the Warrens. What no longer exists is the informal arrangement by which those power centers collectively governed the city in the emperor's absence. Rosik was the architect of that arrangement; without him, it has no center. The Grain cartel specifically is fractured — its seat is empty, and whoever fills it will not be Rosik. The government that was supposed to emerge from the revolution hasn't materialized. They won the war and now have to govern the ruins.
 
-**The recognition scene:** Elara convenes a first working session with cartel and noble house representatives to begin building what replaces the Coterie's governance role. Xion is present — clearly advising her, clearly trusted. A representative of the old noble houses (Valorian or Tolvane — houses that were aligned with Rosik's faction and are now finding their footing) raises a procedural objection to his presence: *"On what basis does a Kemvimore counsel the crown? House Kemvimore's formal standing with this court has not been clarified. We simply wish to understand the status of any counsel being offered."* The word "simply" is doing significant work. The objection is not wrong on its face — Xion carries the name of the man who nearly destroyed Elara's court, and no one has formally addressed what that means.
+**The recognition scene:** Elara convenes a first working session with cartel and noble house representatives to begin building what replaces the Coterie's governance role. Xion is present — clearly advising her, clearly trusted. Lord Merchant Tobias Hadris, representing old houses that aligned with Rosik's faction and are now finding their footing, raises a procedural objection to his presence: *"On what basis does a Kemvimore counsel the crown? House Kemvimore's formal standing with this court has not been clarified. We simply wish to understand the status of any counsel being offered."* The word "simply" is doing significant work. The objection is not wrong on its face — Xion carries the name of the man who nearly destroyed Elara's court, and no one has formally addressed what that means.
 
 Elara holds up the record. Not anger — precision. She has been wanting to say this version of the argument since the day after her coronation: the protocols that escorted him out the day she sat on the throne. The months he spent outside trying to warn them about Rosik, cut off before he could finish. The single exceptional visit she had to command by invoking direct imperial authority — once, in months, the one time the palace let in the man who helped her claim it. He helped them win the months that followed anyway. He lost his sister winning it. His father — the man being invoked by name — publicly declared him no son. Rosik Kemvimore himself did the objecting noble's work for them. *"What more would this council require? Name the price. Tell me what proof looks like, because I would like to know what it costs."* The objection is not renewed.
 
@@ -79,7 +79,7 @@ The room has already begun comparing foreign options when **Vesk interrupts to a
 
 **Rule 1 note:** Balisha has a standing war-magic corps sworn to the Valanar line, and the previous version of this book went abroad without anyone mentioning them. `Places/Kaha'an/The Tor'anar_ Balisha's War-Magic Corps.md` has always specified that they were *"asked first and were honest about the limits of what their magic is for."* This chapter is that implementation.
 
-**Sets up:** Chapter 4's foreign search, now properly motivated. The Tor'anar detachment on the Lathion expedition from Chapter 7. The corps being right about the Urathans in Chapters 10 and 12.
+**Sets up:** Chapter 4's foreign search, now properly motivated. The Tor'anar detachment on the Hauren expedition from Chapter 7. The corps being right about the Urathans in Chapters 10 and 12.
 
 ---
 
@@ -118,7 +118,7 @@ This is **First Counselor Xion Fen** at his sharpest — the political mind that
 
 **This is load-bearing for Chapter 5 and beyond.** It stops the Crown angle reading as a magic bullet — *you cannot surrender what you do not possess* is elegant enough to seem airtight, and an airtight plan is a plot device. More importantly, **it sets the size of the signal in ch5**: Xion travels to Uratha braced for a hard sell and Draskin concedes faster than his own hopes allowed for. Had he gone in certain, that eagerness is a curiosity. Because he went in unsure, it is the first loose thread of the Crown mystery — and it runs through ch11, ch12 and into Book 8.
 
-**Sets up:** The Urathan expedition, and the deeper Crown/Lathion dynamic that will reshape everything.
+**Sets up:** The Urathan expedition, and the deeper Crown/Hauren dynamic that will reshape everything.
 
 ---
 
@@ -146,7 +146,7 @@ The deal is struck: Balisha stops demanding the Crown's return; Uratha provides 
 
 The Scholar-King signs with a pen that hovers momentarily before committing. Both sides believe they got the better deal.
 
-**Sets up:** Lathion, the Crown's deeper significance, the Urathan alliance.
+**Sets up:** Hauren, the Crown's deeper significance, the Urathan alliance.
 
 ---
 
@@ -173,7 +173,7 @@ The Scholar-King signs with a pen that hovers momentarily before committing. Bot
 
 **On the chapter's ceiling.** This is deliberately the lowest point in the book, and that is structural rather than incidental: it is the runway into ch7's undiluted wonder. Grey, transactional, morally uncomfortable — and then the Door turns. Ch5's closing unease alone is too thin to do that work.
 
-**Rule-4 discipline.** The thematic payload — an empire looking at Uratha and Lathion while the sixty thousand under its feet get governed only once they hold something worth buying — falls out of rules 1 and 2 rather than being imposed on them. **Nobody articulates it, least of all Xion.**
+**Rule-4 discipline.** The thematic payload — an empire looking at Uratha and Hauren while the sixty thousand under its feet get governed only once they hold something worth buying — falls out of rules 1 and 2 rather than being imposed on them. **Nobody articulates it, least of all Xion.**
 
 **Sets up:** Ch7 directly — this is the camp the Urathans walk into, and the seam is built so ch7 opens unchanged on *"The Urathans arrived on a grey morning."* The Warrens seat, which is the domestic thread Book 4 inherits. And the Crown priced as something real, so that Uratha handing it **back** in Ch13 lands as the reversal it is.
 
@@ -190,7 +190,7 @@ catastrophe reaches a sealed city. The dismissal is correct on the evidence and 
 *Bequest* — recency deepens through a second, independent piece of evidence; the bequest
 framing emerges; political and military framing stay off, and the weight on Xion is moral. *Time* —
 the dismissed hypothesis is **confirmed rather than deduced**: Elara witnesses the
-Rending itself and learns Lathion died in the catastrophe that orphaned her.
+Rending itself and learns Hauren died in the catastrophe that orphaned her.
 
 **Consequence for the five-thousand-year language.** *Wonder* keeps "five thousand years" as the
 characters' in-character imprecision — the Door genuinely is that old, the seal is not, and they
@@ -199,15 +199,15 @@ cannot know better. From *Inhabitants* onward, soften it in Xion's and Brennek's
 assumption being wrong and must not commit the POV to a specifically wrong number. Elara's Engine
 vision uses the true figures, the seal included, because the vision is Engine-truth.
 
-**Epistemic honesty throughout.** *Lathion* is a working hypothesis, not a confirmed identification —
+**Epistemic honesty throughout.** *Hauren* is a working hypothesis, not a confirmed identification —
 a very strong one, but the scholars behave like real researchers who think they have found Atlantis,
-and some of them stay dubious with the evidence in front of them. **No Lathionese proper name is ever
+and some of them stay dubious with the evidence in front of them. **No Haureni proper name is ever
 used**, by any character or by the narrator in Xion's POV. Where a place needs a name it gets the
 expedition's coinage or a description.
 
 **The conveyor is service infrastructure**, not a commuter system — built to move workers and freight,
 which is why it is utilitarian for its whole length and only the threshold at its foot turns civic.
-The overwhelming majority of Lathionese never went up it.
+The overwhelming majority of Haureni never went up it.
 
 
 ### Chapter 7: Wonder
@@ -217,20 +217,20 @@ The overwhelming majority of Lathionese never went up it.
 
 The Urathan contingent comes down into the camp ch6 built — and then **the Door does nothing for three weeks.** That stretch is the chapter's engine, deliberately undramatic, and it is what the wonder is earned against; ch6 ends on the Door doing nothing and ch7 makes that its subject before turning it over. Combined expertise works: Urathan scholarship meets Elara's intuitive connection, and the sequence that emerges belongs to neither of them. Then the massive gear door rotates for the first time in millennia.
 
-Behind it: Lathion. The City of Gears.
+Behind it: Hauren. The City of Gears.
 
-This is the book's first moment of genuine, unalloyed wonder. After the darkness of Book 2, after scars and hollow victories and empty treasuries, here is something that takes Xion's breath away. A lost civilization, preserved in brass and crystal, technology so advanced it makes Gunastran look primitive. The scale of it. The beauty of it. The *possibility* of it. For a few pages, nobody is calculating political advantage. They're just staring. The chapter ends on someone whispering the word "Lathion" — the name they've known only from legend, now standing inside the thing itself.
+This is the book's first moment of genuine, unalloyed wonder. After the darkness of Book 2, after scars and hollow victories and empty treasuries, here is something that takes Xion's breath away. A lost civilization, preserved in brass and crystal, technology so advanced it makes Gunastran look primitive. The scale of it. The beauty of it. The *possibility* of it. For a few pages, nobody is calculating political advantage. They're just staring. The chapter ends on someone whispering the word "Hauren" — the name they've known only from legend, now standing inside the thing itself.
 
-**Sets up:** Everything — the Lathion technology race, the existential threat to Gunastran, the Compact formation.
+**Sets up:** Everything — the Hauren technology race, the existential threat to Gunastran, the Compact formation.
 
 ---
 
 ### Chapter 8: Inhabitants
-**Timeline: The first day inside Lathion**
+**Timeline: The first day inside Hauren**
 **Characters present: Xion, Elara, Farleen, Brennek (the crown surveyor), the Urathan contingent**
 **Emotional work: Wonder becoming habitable — and then acquiring a date**
 
-The expedition wakes in a camp thrown together in the dark and discovers that there is no morning here: the light has not changed, the pulse has not changed, and all of it is still true. The wonder of Chapter 7 has not faded; it has become the medium they move through. Out of pure practical necessity they begin naming things — **the Crown**, the Gatehouse, the Compass, the Gallery of Unknowns — none of them Lathionese, all of them coined by exhausted foreigners in a day, and the reader acquires the book's vocabulary exactly as the characters do. The automatons are met and absorbed. Brennek walks the infrastructure with Xion while the scholars work the inscriptions, and the water, the climate and the terraces all turn out to be running.
+The expedition wakes in a camp thrown together in the dark and discovers that there is no morning here: the light has not changed, the pulse has not changed, and all of it is still true. The wonder of Chapter 7 has not faded; it has become the medium they move through. Out of pure practical necessity they begin naming things — **the Crown**, the Gatehouse, the Compass, the Gallery of Unknowns — none of them Haureni, all of them coined by exhausted foreigners in a day, and the reader acquires the book's vocabulary exactly as the characters do. The automatons are met and absorbed. Brennek walks the infrastructure with Xion while the scholars work the inscriptions, and the water, the climate and the terraces all turn out to be running.
 
 **The terraces are where the scale lands.** Xion does the arithmetic in his father's voice, because grain against mouths is the Kemvimore trade, and the answer has five digits in it. He is not looking at a farm; he is looking at the number of people who lived here — and the farm is still producing at that rate for all of them, harvested and stored and composted, twenty years of it, none of it eaten.
 
@@ -245,17 +245,17 @@ Xion takes the next step and names the coincidence — *twenty years is also the
 ---
 
 ### Chapter 9: Neighbours
-**Timeline: The second day inside Lathion, continuous**
+**Timeline: The second day inside Hauren, continuous**
 **Characters present: Xion, Elara, Farleen, Brennek, Ormuth**
 **Emotional work: Living with the number — and then understanding what it means, which is proximity, not mystery**
 
-Two days of ordinary working life on top of a date nobody can explain. **Elara does not read.** She recognizes the language as Lathionese the way an English speaker recognizes Spanish without speaking it, and occasionally a passage carries an *impression* — warning, importance, age, connection. She cannot translate and cannot explain. What changes here is the scholars' question: they stop asking *what does this say* and start asking *is this important*, which is one she can sometimes answer. They catalogue her impressions like field notes, hedges preserved, and go back to translating by their own methods. **That recalibration is the chapter's political seed** — it establishes her as indispensable and un-replicable, a phenomenon they orbit rather than a colleague, and Uratha's later interest in containing that standing starts here, in a week when nobody is acting in bad faith. Ormuth says as much to Xion privately, and it is not flattery; it is a man saying aloud something he is having to learn to live with.
+Two days of ordinary working life on top of a date nobody can explain. **Elara does not read.** She recognizes the language as Haureni the way an English speaker recognizes Spanish without speaking it, and occasionally a passage carries an *impression* — warning, importance, age, connection. She cannot translate and cannot explain. What changes here is the scholars' question: they stop asking *what does this say* and start asking *is this important*, which is one she can sometimes answer. They catalogue her impressions like field notes, hedges preserved, and go back to translating by their own methods. **That recalibration is the chapter's political seed** — it establishes her as indispensable and un-replicable, a phenomenon they orbit rather than a colleague, and Uratha's later interest in containing that standing starts here, in a week when nobody is acting in bad faith. Ormuth says as much to Xion privately, and it is not flattery; it is a man saying aloud something he is having to learn to live with.
 
 The dispatch goes up — required by the access terms, factual, measured, and sufficient to change the world without exaggerating. Xion seals it, watches the courier rise, and has one moment of wanting it back, because information of that size does not travel alone. Farleen keeps the camp fed and watches him. The expedition gathers at the Compass in the evening and it is the best meeting Xion has ever sat in, because everyone in it is working at the edge of what they know and saying so.
 
-**Then the night walk, which is why the chapter exists.** Not the argument again — its cost. Somebody designed that façade. Somebody walked this road in the opposite direction and looked up at the same steady light, and did it inside Xion's own lifetime: a Lathionese child on this street while he was a boy on an estate wall in the sun four hundred meters above, neither knowing the other was there. **They were not a lost people. They were neighbours.** And then they were gone, and the lights are still on.
+**Then the night walk, which is why the chapter exists.** Not the argument again — its cost. Somebody designed that façade. Somebody walked this road in the opposite direction and looked up at the same steady light, and did it inside Xion's own lifetime: a Haureni child on this street while he was a boy on an estate wall in the sun four hundred meters above, neither knowing the other was there. **They were not a lost people. They were neighbours.** And then they were gone, and the lights are still on.
 
-He finds Elara at the railing for the third time in two days. The scholars have found Crown-level cross-references to a chamber below where the Lathionese kept what they knew, and have started calling it *the Repository*, half certain and half hoping. Neither of them says that this is where the heart of the place is. She does not move toward it, and some part of her has already started down.
+He finds Elara at the railing for the third time in two days. The scholars have found Crown-level cross-references to a chamber below where the Haureni kept what they knew, and have started calling it *the Repository*, half certain and half hoping. Neither of them says that this is where the heart of the place is. She does not move toward it, and some part of her has already started down.
 
 **Sets up:** `Bequest`, and — through the recency thread these two chapters establish — the dread that pays off in Chapter 11, when Elara learns *what* happened twenty years ago.
 
@@ -283,13 +283,13 @@ He thinks about the dispatches already sent to Uratha. He doesn't know yet what 
 ### Chapter 11: Time
 **Timeline: The final discovery**
 **Characters present: Xion, Elara, research teams**
-**Emotional work: Wonder turns to horror — what Lathion cost, and how recently it cost it**
+**Emotional work: Wonder turns to horror — what Hauren cost, and how recently it cost it**
 
 They have been exploring for weeks. The city has become familiar in the way that impossible things become familiar when you live inside them. Then Elara finds something that doesn't fit — a passage the scholars hadn't mapped, leading deeper than the Repository, to a level the expedition's working names haven't reached yet.
 
-Deep in Lathion's heart: a massive chamber housing an enormous machine. The inscriptions are in Lathionese — Elara intuits fragments but not enough to read the warnings. It is clearly still active in some dormant way. The scholars want to study it. Elara approaches. The machine responds to her the way everything Lathionese responds to her — recognition, resonance. She touches something. The wrong thing. Or the right thing.
+Deep in Hauren's heart: a massive chamber housing an enormous machine. The inscriptions are in Haureni — Elara intuits fragments but not enough to read the warnings. It is clearly still active in some dormant way. The scholars want to study it. Elara approaches. The machine responds to her the way everything Haureni responds to her — recognition, resonance. She touches something. The wrong thing. Or the right thing.
 
-**The Engine does not fire, and this entry used to say it did.** *(Corrected 2026-08-06 against the beat draft, which is canon here and reverses it: "The Engine does not fire. The Engine is silent.")* What happens is **recognition** — the Engine acknowledging the fragment of itself that went into her twenty years ago, and answering it. Nothing in the chamber lights, turns or sounds; the pulse does not change; the six men present afterward give six accounts that do not agree, and that disagreement is the only evidence in the room that anything happened. **Nor is it involuntary.** She crosses the floor and lays her hand on it while the lead scholar is still assigning survey arcs, and Xion — who sees it coming and has time to stop her — decides not to. She is shown the past — fragmentary, overwhelming, visceral. She sees the people of Lathion: the civilization that built this city, alive, going about its life. And then she sees the end — and it is not an ancient cataclysm. It is the Rending. The same catastrophe that killed her parents and burned the province around Kaha'an to desert — witnessed now from the other side, measured by Lathion's instruments as it spread toward all life. She sees the Lathionese make their choice, willingly and knowingly: in their last desperate months they build this machine and feed themselves into it, to stop the Rending from consuming the world. Elara does not piece this together from inscriptions she half-understands. She witnesses it — and understands, with a horror that will never fully leave her, that Lathion died in the very disaster that orphaned her.
+**The Engine does not fire, and this entry used to say it did.** *(Corrected 2026-08-06 against the beat draft, which is canon here and reverses it: "The Engine does not fire. The Engine is silent.")* What happens is **recognition** — the Engine acknowledging the fragment of itself that went into her twenty years ago, and answering it. Nothing in the chamber lights, turns or sounds; the pulse does not change; the six men present afterward give six accounts that do not agree, and that disagreement is the only evidence in the room that anything happened. **Nor is it involuntary.** She crosses the floor and lays her hand on it while the lead scholar is still assigning survey arcs, and Xion — who sees it coming and has time to stop her — decides not to. She is shown the past — fragmentary, overwhelming, visceral. She sees the people of Hauren: the civilization that built this city, alive, going about its life. And then she sees the end — and it is not an ancient cataclysm. It is the Rending. The same catastrophe that killed her parents and burned the province around Kaha'an to desert — witnessed now from the other side, measured by Hauren's instruments as it spread toward all life. She sees the Haureni make their choice, willingly and knowingly: in their last desperate months they build this machine and feed themselves into it, to stop the Rending from consuming the world. Elara does not piece this together from inscriptions she half-understands. She witnesses it — and understands, with a horror that will never fully leave her, that Hauren died in the very disaster that orphaned her.
 
 The vision ends. Elara is shaking. She may not understand the full mechanics — the nature of the machine, the rules it breaks, the scope of what it prevented — but the emotional truth is seared into her: an entire civilization chose to die to save the world. The beautiful City of Gears has stood empty not for five thousand years, but for twenty — because that is when its people gave themselves, all at once, to stop the Rending.
 
@@ -297,7 +297,7 @@ She seals the chamber immediately. No debate, no committee, no "let the scholars
 
 Xion sees her face and knows something terrible happened in there. **And the telling is where the vision lives** — the chapter is Xion's POV throughout, with no break, so the chamber shows only what he can see (a woman with her hand on a machine, forty seconds, and a physician's read that comes back *well* and cannot tell him where she is). The content arrives hours later and four hundred metres up, in a borrowed room in Kaha'an, as **Elara telling him**, her account sliding out of the past tense and not coming back. The city they've been marveling at for weeks is a tomb — and a barely-cold one. Its builders chose that.
 
-They emerge from Lathion. The world above has not been standing still.
+They emerge from Hauren. The world above has not been standing still.
 
 **Sets up:** The Scholar-King's return offer — the dispatches sent from Chapters 9 and 10 have done their work, and Uratha has decided that what it originally negotiated is no longer sufficient.
 
@@ -308,15 +308,15 @@ They emerge from Lathion. The world above has not been standing still.
 **Characters present: Xion, Elara, Scholar-King Leowin Draskin, High Provost Venn**
 **Emotional work: The deal shifts — Uratha reveals how badly it wants in**
 
-The Scholar-King arrives in Kaha'an. The dispatches sent during the exploration reached Uratha and landed like a stone in still water. What was behind the Brass Door was not a library, not a sealed chamber, not the broom closet the pessimists predicted. It was Lathion. The lost city. The City of Gears. A whole civilization, sealed underground for five thousand years and preserved in near-perfect condition, with technology that makes everything Gunastran has built look provisional.
+The Scholar-King arrives in Kaha'an. The dispatches sent during the exploration reached Uratha and landed like a stone in still water. What was behind the Brass Door was not a library, not a sealed chamber, not the broom closet the pessimists predicted. It was Hauren. The lost city. The City of Gears. A whole civilization, sealed underground for five thousand years and preserved in near-perfect condition, with technology that makes everything Gunastran has built look provisional.
 
 Uratha's original position was "help you open the door in exchange for you stopping the Crown demands." That deal was struck in ignorance of what lay behind it. Now Uratha knows, and the position reverses dramatically.
 
-New offer: Uratha will *return* the Scholar's Crown to Balisha — something Elara's predecessors demanded in vain for 300 years — in exchange for **exclusive** research access to Lathion (no other foreign body; this exclusivity is what later locks Gunastran out, and it is load-bearing for the war). Notably, Draskin comes in person but does *not* bring the Crown — hauling it across a continent before any agreement would presume acceptance, which is poor statecraft. The deal is struck first; the Crown is then sent for from the Ivory Tower and arrives weeks later, for the ceremony.
+New offer: Uratha will *return* the Scholar's Crown to Balisha — something Elara's predecessors demanded in vain for 300 years — in exchange for **exclusive** research access to Hauren (no other foreign body; this exclusivity is what later locks Gunastran out, and it is load-bearing for the war). Notably, Draskin comes in person but does *not* bring the Crown — hauling it across a continent before any agreement would presume acceptance, which is poor statecraft. The deal is struck first; the Crown is then sent for from the Ivory Tower and arrives weeks later, for the ceremony.
 
 The Crown for the City. The reader should feel the weight of this: a divine artifact returned after three centuries of refusal. Something every Balishan ruler failed to achieve, and Elara accomplished it by finding something Uratha wanted more.
 
-Xion negotiates the terms — sovereignty over Lathion stays with Balisha, artifacts stay in Lathion, Urathan scholars get *exclusive* research access under Kaha'ani authority. **The exclusivity is deliverable, and it is deliverable because of ch6:** the crown does not merely hold a right of way down the north four and the third tier, it holds them **closed**, on a term only Ronas Dermir could have written and only Ronas Dermir can enforce. Without that clause Balisha would be selling Uratha a lock it does not own the door to. *Do not let a later pass cut ch6's last term on the grounds that it is paperwork — this chapter and ch13's cold open both rest on it.* The scene is Xion doing what he does best: reading people, finding the angle, protecting Balisha's interests while giving the Urathans enough to keep them committed.
+Xion negotiates the terms — sovereignty over Hauren stays with Balisha, artifacts stay in Hauren, Urathan scholars get *exclusive* research access under Kaha'ani authority. **The exclusivity is deliverable, and it is deliverable because of ch6:** the crown does not merely hold a right of way down the north four and the third tier, it holds them **closed**, on a term only Ronas Dermir could have written and only Ronas Dermir can enforce. Without that clause Balisha would be selling Uratha a lock it does not own the door to. *Do not let a later pass cut ch6's last term on the grounds that it is paperwork — this chapter and ch13's cold open both rest on it.* The scene is Xion doing what he does best: reading people, finding the angle, protecting Balisha's interests while giving the Urathans enough to keep them committed.
 
 **The Crown is not brought to this chapter, and that is deliberate.** Draskin comes in person and
 **without it** — arriving with the artifact would presume acceptance, which is bad statecraft and
@@ -325,7 +325,7 @@ opens the multi-week travel gap before *Awakening*, during which news of the exc
 and Gunastran begins to react. The easy-concessions seed therefore lives in the negotiation itself,
 not in the object.
 
-**And somewhere in this chapter the ch1 ledger closes, in a paragraph, without ceremony.** *(Author's ruling, 2026-08-05: Lathion is **collateral, not cash**.)* Nothing behind the Door is money. It is schematics, and schematics pay in years. **What ends the crisis is that Balisha can now borrow** — the technology is valuable enough that the credit available against it is effectively unbounded, so the nine-to-fourteen months stops being a countdown the moment the crown has something to pledge. **They do not, in fact, borrow much.** The point is that the option exists, which is the whole of what they lacked.
+**And somewhere in this chapter the ch1 ledger closes, in a paragraph, without ceremony.** *(Author's ruling, 2026-08-05: Hauren is **collateral, not cash**.)* Nothing behind the Door is money. It is schematics, and schematics pay in years. **What ends the crisis is that Balisha can now borrow** — the technology is valuable enough that the credit available against it is effectively unbounded, so the nine-to-fourteen months stops being a countdown the moment the crown has something to pledge. **They do not, in fact, borrow much.** The point is that the option exists, which is the whole of what they lacked.
 
 The shape of the beat: **the lease-houses come to the crown.** In ch1 Xion explained, from the far side of the desk, exactly why Vessel Street would not lend — no record, wrong size, and a seizure that taught the street property here is conditional. Now the Factor-Principal of House Greystone asks for an audience, and the consortium behind him would very much like to discuss terms. **Not one figure in Balisha's accounts has changed.** What changed is what it can put on the table. *(Greystone and the customs lease: `Places/Kaha'an/houses_of_kahaan.md` and the money-trade section of `Kaha'an_ The Desert Crossroads.md`. The Factor-Principal is deliberately unnamed in canon and this is the scene that would name him.)*
 
@@ -348,9 +348,9 @@ For Xion, this is a moment of wonder. He doesn't know the Crown's history in det
 
 He catches a fleeting look on the Urathan delegation's faces — something like shock, quickly masked. Strange. Why would they be surprised that a divine artifact responds to a Valanar? But the moment passes. They compose themselves within seconds, and Xion has no reason to pursue it. *(What they are actually seeing is the end of a century-old excuse: the Crown works, it worked for a soldier who never wrote a paper, and therefore the silence was never the Crown's fault. **They are not grieving the object — it is still dead for them and getting it back would change nothing.** Within days they will have reinterpreted it as a matter of Valanar blood, which is flattering, unfalsifiable, and converts a verdict into a research problem — and the research subject is Elara. Full ruling in `Places/Uratha/Uratha_ The Land of Scholars.md`, "What ch13 does to them." **Nothing of this is legible to any Balishan character here or for four books**, and Xion's reading of it as scholarly enthusiasm is correct on the evidence he has.)*
 
-**And the Crown gives her nothing usable, on purpose.** Worthiness gates transmission; drawing anything through it takes scholarly practice she does not have. What comes through behaves exactly like her Lathion sense — occasional, involuntary, un-articulable, never on command. See `People/Elara's Connection to Lathion.md` and `Magic/The Divine Artifacts of Elvandar.md`. **The Crown never solves a plot in any book.** There are more pressing things to think about.
+**And the Crown gives her nothing usable, on purpose.** Worthiness gates transmission; drawing anything through it takes scholarly practice she does not have. What comes through behaves exactly like her Hauren sense — occasional, involuntary, un-articulable, never on command. See `People/Elara's Connection to Hauren.md` and `Magic/The Divine Artifacts of Elvandar.md`. **The Crown never solves a plot in any book.** There are more pressing things to think about.
 
-**The cold open — and it is the most consequential four minutes in the book.** Before the ceremony, on an ordinary working morning, a Gunastran delegation lodges a routine request through ordinary channels: scholarly and technical access to Lathion. Elara refuses. She is bound by the Uratha compact signed weeks ago — exclusive access, no third foreign body — and the refusal costs her nothing, takes no thought, and is never mentioned again. **She is treaty-clean, which is what keeps her from being the war's aggressor.** The clause that binds her is one Xion wrote in Ch12, on the sound reasoning that *Gunastran is not in the picture yet.* Neither of them feels a thing. The reader does not yet know what they have watched; Ch14 tells them.
+**The cold open — and it is the most consequential four minutes in the book.** Before the ceremony, on an ordinary working morning, a Gunastran delegation lodges a routine request through ordinary channels: scholarly and technical access to Hauren. Elara refuses. She is bound by the Uratha compact signed weeks ago — exclusive access, no third foreign body — and the refusal costs her nothing, takes no thought, and is never mentioned again. **She is treaty-clean, which is what keeps her from being the war's aggressor.** The clause that binds her is one Xion wrote in Ch12, on the sound reasoning that *Gunastran is not in the picture yet.* Neither of them feels a thing. The reader does not yet know what they have watched; Ch14 tells them.
 
 Nothing from the cold open bleeds into the hall. The ceremony's wonder runs unbroken.
 
@@ -363,9 +363,9 @@ Nothing from the cold open bleeds into the hall. The ceremony's wonder runs unbr
 **Characters present: Gunastran's Industrial Consortium (POV break)**
 **Emotional work: Existential terror — make the reader understand why Gunastran goes to war**
 
-Hard cut to Gunastran's Central Foundry. **The Consortium is not convened by fear; it is convened by a letter.** Balisha's refusal has come back with the envoy who carried the request, alongside the report that a divine artifact ignited on the Empress's head in front of every faction in Kaha'an. Lathion's technology is being implemented — water purification first, then energy systems, then communications — and the one non-military way out was tried a chapter ago and is gone. Their engineers run the numbers.
+Hard cut to Gunastran's Central Foundry. **The Consortium is not convened by fear; it is convened by a letter.** Balisha's refusal has come back with the envoy who carried the request, alongside the report that a divine artifact ignited on the Empress's head in front of every faction in Kaha'an. Hauren's technology is being implemented — water purification first, then energy systems, then communications — and the one non-military way out was tried a chapter ago and is gone. Their engineers run the numbers.
 
-**The communications tier is stated outright here and it is the one the rest of the series draws on.** Lathion communication is **instantaneous over any distance**, by relay, and Balisha does not have to build the chain — the Golden Path already carries warded waystations at one day's interval across the desert, which is the exact shape a relay needs. A power whose orders arrive the moment they are given, against powers whose orders arrive at the speed of a horse, is not a power with an advantage; it is operating in a different tense. **Ondra does not say that; she gives the timeline and lets seven engineers do their own arithmetic.** *(Canon: `Places/Kaha'an/Lathion_ The Lost City of Gears.md`, "The Relay." Book 7's climax depends on the reader acquiring this here — **word is instant, people are not** — so it must not stay a word in a list.)*
+**The communications tier is stated outright here and it is the one the rest of the series draws on.** Hauren communication is **instantaneous over any distance**, by relay, and Balisha does not have to build the chain — the Golden Path already carries warded waystations at one day's interval across the desert, which is the exact shape a relay needs. A power whose orders arrive the moment they are given, against powers whose orders arrive at the speed of a horse, is not a power with an advantage; it is operating in a different tense. **Ondra does not say that; she gives the timeline and lets seven engineers do their own arithmetic.** *(Canon: `Places/Kaha'an/Hauren_ The Lost City of Gears.md`, "The Relay." Book 7's climax depends on the reader acquiring this here — **word is instant, people are not** — so it must not stay a word in a list.)*
 
 **The causal order is the author's and is load-bearing:** Gunastran asks → Balisha refuses → Gunastran concludes it must fight → Gunastran goes looking for allies → Kalden. An earlier version of this skeleton ran the refusal *after* this vote, in Ch15's cold open, which made Elara's *no* a receipt rather than a cause. Corrected 2026-08-02.
 
@@ -373,7 +373,7 @@ Hard cut to Gunastran's Central Foundry. **The Consortium is not convened by fea
 
 Six months before defensive systems Gunastran can't counter. A year before industrial obsolescence. Two years before Gunastran becomes irrelevant — reduced from technological superpower to raw materials supplier.
 
-This is NOT villainy. This is a nation staring at existential extinction. Gunastran's entire economy, identity, and self-conception is built on technological superiority. Lathion doesn't just threaten their market share — it threatens their reason for existing. The Consortium votes unanimously for the alliance with Kalden.
+This is NOT villainy. This is a nation staring at existential extinction. Gunastran's entire economy, identity, and self-conception is built on technological superiority. Hauren doesn't just threaten their market share — it threatens their reason for existing. The Consortium votes unanimously for the alliance with Kalden.
 
 The reader should understand, even sympathize with, this decision. Ondra Kelgrav — Master Engineer, Chair of the Industrial Consortium — is not a monster. She's an engineer who can read the math, and the math says her nation dies if she does nothing.
 
@@ -491,7 +491,7 @@ The chapter closes on Kalden — still composed, still in possession of everythi
 
 The Tripartite Alliance needs a third member. Balisha and Uratha have technology but lack military might for a continental war. Terinok — the warrior cantons that broke away 400 years ago, declaring a Valanar emperor unworthy of their swords and extending that judgment to his line until proven otherwise — has the fighters.
 
-This is no longer a nice-to-have. With Vartonne in the Compact rather than neutral, the Alliance faces a military gap it cannot cover with Lathion technology alone. And there is a bitter symmetry: Xion chose Vartonne first *precisely because* Terinok looked unwinnable — the safe bet not only failed, it defected, so now he must win the hard prize anyway. Terinok is not merely aloof; it is **contested** — the Compact has been courting it through Erulius (whose Aspirant Guard is Terinok-trained), and Terinok held out only on its own proud independence. Every Valanar ruler since the schism sent diplomats; every diplomat was laughed out. This cannot fail.
+This is no longer a nice-to-have. With Vartonne in the Compact rather than neutral, the Alliance faces a military gap it cannot cover with Hauren technology alone. And there is a bitter symmetry: Xion chose Vartonne first *precisely because* Terinok looked unwinnable — the safe bet not only failed, it defected, so now he must win the hard prize anyway. Terinok is not merely aloof; it is **contested** — the Compact has been courting it through Erulius (whose Aspirant Guard is Terinok-trained), and Terinok held out only on its own proud independence. Every Valanar ruler since the schism sent diplomats; every diplomat was laughed out. This cannot fail.
 
 Elara arrives already running hot. The Vartonne expulsion is recent; the Compact signing is recent; the war she and Xion chose each other into is no longer abstract. The Terinok mission lands in front of a woman already primed — and for once, running hot is exactly the right posture.
 
@@ -539,7 +539,7 @@ Farleen is present. Her composure holds. The intelligence network she's building
 **Characters present: Xion, Elara, war council**
 **Emotional work: The consequences arrive — everything they built toward, including the things they wanted and the things they didn't**
 
-The Compact strikes first. Gunastran and the Erulian Principality attack Uratha — specifically Empirica, its coastal research city — strategic logic similar to the British plan at Saratoga, aiming to cut Uratha off from Balisha and Terinok before Lathion technology can be fully implemented. They are not attacking the Sentinel Mountains. They are not stupid. The Compact's planners looked at the southern border of Terinok and made the correct strategic calculation: you cannot reach Terinok through the mountains without going through the gray wolf packs and the Bloodsworn, and no war plan survives that approach. So they route around. Isolate Uratha at the coast. Sever the supply lines. Pick the Alliance apart before it can coordinate.
+The Compact strikes first. Gunastran and the Erulian Principality attack Uratha — specifically Empirica, its coastal research city — strategic logic similar to the British plan at Saratoga, aiming to cut Uratha off from Balisha and Terinok before Hauren technology can be fully implemented. They are not attacking the Sentinel Mountains. They are not stupid. The Compact's planners looked at the southern border of Terinok and made the correct strategic calculation: you cannot reach Terinok through the mountains without going through the gray wolf packs and the Bloodsworn, and no war plan survives that approach. So they route around. Isolate Uratha at the coast. Sever the supply lines. Pick the Alliance apart before it can coordinate.
 
 News arrives in Kaha'an. The continental war that Xion's math predicted — the war that was the price of choosing Elara over Kalden — has begun.
 
@@ -557,9 +557,9 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 
 ## Structural Notes
 
-**Chapter count:** 21 (17 originally; the Lathion exploration was expanded — Ch 3 "Storm-Line" was inserted on 2026-08-01; Ch 6 "Fair Price" on 2026-08-03, shifting everything from Wonder down by one; and on 2026-08-04 "Inhabitants" was split at the Rending seam into Ch 8 "Inhabitants" and Ch 9 "Neighbours", carrying Ch 10 and Ch 11 down one apiece. *Count corrected 2026-08-04; it had been left at 20 after the split.*)
+**Chapter count:** 21 (17 originally; the Hauren exploration was expanded — Ch 3 "Storm-Line" was inserted on 2026-08-01; Ch 6 "Fair Price" on 2026-08-03, shifting everything from Wonder down by one; and on 2026-08-04 "Inhabitants" was split at the Rending seam into Ch 8 "Inhabitants" and Ch 9 "Neighbours", carrying Ch 10 and Ch 11 down one apiece. *Count corrected 2026-08-04; it had been left at 20 after the split.*)
 **Ch 10 and Ch 11 were retitled on 2026-08-14** — "The Repository" → **"Bequest"**, "The Destiny Engine" → **"Time"**. Both old titles named the room rather than the chapter, and *The Destiny Engine* named it in a register the book does not have: the prose calls it *the Engine*, and *Destiny Engine* is a canon-file label that appears in no chapter of any book. The artifact keeps that name in the canon files; the chapter does not carry it. Nothing in either chapter's prose changed.
-**Why the restructure:** The Engine chapter's original placement (Ch 14 of the 17-chapter version) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 11 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Lathion mid-crisis.
+**Why the restructure:** The Engine chapter's original placement (Ch 14 of the 17-chapter version) arrived deep into the political spiral, after the Compact had formed and war was imminent. Moving it to Ch 11 — the culmination of the exploration phase — is more coherent in every direction: the discovery lands while the characters are still in wonder mode, which makes the tomb revelation hit harder; the Engine is what the Urathans hear about via dispatches and what causes them to escalate their demands; and the political chapters now flow directly from the exploration's conclusions rather than returning to Hauren mid-crisis.
 
 **POV:** Primarily Xion, with two deliberate POV breaks: Gunastran (Chapter 14) and Kalden (Chapter 18). This mirrors Book 2's use of rare, load-bearing interludes. The Gunastran scene plants dramatic irony: the reader knows Gunastran has committed to war; Xion and Elara can see only that a coalition is *forming*, not how far it has already gone, when they resolve the love triangle.
 
@@ -567,7 +567,7 @@ Book 4 will show what that war costs. Not from the throne room, but from the gro
 
 **The Compact's legitimacy:** Each member of the Compact has a genuine grievance. Gunastran faces existential technological obsolescence. Kalden had a real (if tenuous) claim that was invalidated. Vartonne has centuries of resentment about losing the imperial capital — AND now a fresh, specific wound from being expelled by the very court they tried to counsel. Their grievance is both historical and personal. The coming war is not good vs. evil — it's competing legitimate interests that couldn't be reconciled peacefully.
 
-**Tone shift from Book 2:** Book 2 was claustrophobic, dark, focused on political maneuvering in a single city. Book 3 opens up — literally (Uratha, Lathion, Terinok) and figuratively (from city politics to continental geopolitics). The wonder of Lathion provides genuine uplift after Book 2's darkness. But the wonder has teeth — every discovery makes war more likely.
+**Tone shift from Book 2:** Book 2 was claustrophobic, dark, focused on political maneuvering in a single city. Book 3 opens up — literally (Uratha, Hauren, Terinok) and figuratively (from city politics to continental geopolitics). The wonder of Hauren provides genuine uplift after Book 2's darkness. But the wonder has teeth — every discovery makes war more likely.
 
 **The love triangle resolution:** Happens in Chapter 16 — past the midpoint, not at the end. This is deliberate. The resolution isn't the climax — the *consequences* of the resolution are the climax. Choosing Elara doesn't end the story. It starts the war.
 

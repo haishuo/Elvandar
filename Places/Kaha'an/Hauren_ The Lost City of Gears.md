@@ -1,26 +1,26 @@
-# Lathion: The Lost City of Gears
+# Hauren: The Lost City of Gears
 
-## What Is Lathion?
+## What Is Hauren?
 
-Lathion, known in legend as "The City of Gears," is an underground elven metropolis built five thousand years ago beneath what would become Kaha'an. It represents the pinnacle of Lathionese civilization—a seamless integration of advanced technology, magical theory, and architectural mastery that has never been equaled.
+Hauren, known in legend as "The City of Gears," is an underground elven metropolis built five thousand years ago beneath what would become Kaha'an. It represents the pinnacle of Haureni civilization—a seamless integration of advanced technology, magical theory, and architectural mastery that has never been equaled.
 
 **Status:** Built ~5,000 years ago; maintained open relations with the surface for nearly three millennia; sealed ~2,000 years ago; inhabited until the Rending; silent for the twenty years since, its systems still functioning
 **Location:** Beneath Kaha'an (unknown to surface dwellers)
 **Size:** Approximately half of modern Kaha'an's surface area
-**Population:** ~500,000 Lathionese elves — a living civilization until twenty years ago
+**Population:** ~500,000 Haureni elves — a living civilization until twenty years ago
 **Current State:** Empty for two decades; perfectly preserved; a tomb its machines will not allow to decay
 
-**In Modern Times:** Lathion exists primarily as legend—like Atlantis or El Dorado. Some surface scholars speak of it as a mythical lost city of elves, supposedly somewhere underground, somewhere in the region. Most consider it pure fantasy. A few believe it might have existed but was destroyed millennia ago.
+**In Modern Times:** Hauren exists primarily as legend—like Atlantis or El Dorado. Some surface scholars speak of it as a mythical lost city of elves, supposedly somewhere underground, somewhere in the region. Most consider it pure fantasy. A few believe it might have existed but was destroyed millennia ago.
 
-No one knows it lies intact beneath Kaha'an, still powered, still maintained by tireless machines, directly below the feet of 60,000 Warren refugees who live in its service tunnels. And no one knows the truth that would unsettle them most: the city did not die in legendary antiquity. It died twenty years ago—in the same catastrophe that orphaned the Princess and made the Wastes—and nearly everyone now living in Kaha'an was alive on the day Lathion ended.
+No one knows it lies intact beneath Kaha'an, still powered, still maintained by tireless machines, directly below the feet of 60,000 Warren refugees who live in its service tunnels. And no one knows the truth that would unsettle them most: the city did not die in legendary antiquity. It died twenty years ago—in the same catastrophe that orphaned the Princess and made the Wastes—and nearly everyone now living in Kaha'an was alive on the day Hauren ended.
 
 ---
 
 ## Historical Context
 
-### The Lathionese Civilization
+### The Haureni Civilization
 
-Five thousand years ago, the Lathionese elves were one of the most advanced civilizations on Elvandar:
+Five thousand years ago, the Haureni elves were one of the most advanced civilizations on Elvandar:
 
 **Technological Mastery:**
 
@@ -45,11 +45,17 @@ Five thousand years ago, the Lathionese elves were one of the most advanced civi
 - Emphasis on knowledge preservation
 - Long-term strategic thinking (planning in centuries)
 
-**Relationship with the Surface World:** For nearly three millennia after the city's founding, the Lathionese maintained open relations with surface civilizations. They were known but mysterious — elves who lived underground in a city of wonders, trading knowledge for resources, keeping a careful neutrality in surface conflicts. During this long open period, Lathionese magical theory and engineering passed into surface use in countless small ways: techniques borrowed, refined, simplified, taught to apprentices who never knew the original source. **Much of what surface civilizations now call "magitech" — particularly Gunastran's industrial tradition — descends in degraded and incomplete form from Lathionese arts transmitted during this period.** The Lathionese were the originators; modern magitech practitioners are the latter-day inheritors, working with broken pieces of a knowledge system whose source they have forgotten. That openness ended approximately 2,000 years ago, when Lathion sealed itself away. From that point the relationship became wholly one-sided: Lathion watched the surface, and the surface gradually forgot Lathion.
+**Relationship with the Surface World:** For nearly three millennia after the city's founding, the Haureni maintained open relations with surface civilizations. They were known but mysterious — elves who lived underground in a city of wonders, trading knowledge for resources, keeping a careful neutrality in surface conflicts. During this long open period, Haureni magical theory and engineering passed into surface use in countless small ways: techniques borrowed, refined, simplified, taught to apprentices who never knew the original source. **Much of what surface civilizations now call "magitech" — particularly Gunastran's industrial tradition — descends in degraded and incomplete form from Haureni arts transmitted during this period.** The Haureni were the originators; modern magitech practitioners are the latter-day inheritors, working with broken pieces of a knowledge system whose source they have forgotten. That openness ended approximately 2,000 years ago, when Hauren sealed itself away. From that point the relationship became wholly one-sided: Hauren watched the surface, and the surface gradually forgot Hauren.
+
+**Language consequence:** This was sustained institutional contact through the Great Shaft, Arrival Halls,
+and Diplomatic Quarter, not rare visitation. A taught Haureni contact register became a lingua franca
+among some surface communities and then a human mother tongue, producing the Surface-Halauric branch
+ancestral to Proto-Balishan. The full culture and transmission model lives in
+`Languages/Halauri Culture.md`; this place history does not duplicate it.
 
 ### Why Underground?
 
-The Lathionese chose to build underground for several reasons:
+The Haureni chose to build underground for several reasons:
 
 **Practical:**
 
@@ -69,38 +75,41 @@ The Lathionese chose to build underground for several reasons:
 **Strategic:**
 
 - Defensibility (difficult to attack what you cannot reach)
-- Secrecy (the surface world knew of Lathion but not its extent)
+- Secrecy (the surface world knew of Hauren but not its extent)
 - Independence from surface resource chains
 - The ability to seal themselves away entirely, if it ever became necessary
 
 ### The Decision to Seal
 
-Approximately 2,000 years ago — roughly three millennia into Lathion's existence, after a long flourishing in which the city had been a known and active partner of surface civilizations — the Lathionese made a momentous decision: they sealed their city away from the surface world.
+Approximately 2,000 years ago — roughly three millennia into Hauren's existence, after a long flourishing in which the city had been a known and active partner of surface civilizations — the Haureni made a momentous decision: they sealed their city away from the surface world.
 
 **What Is Known (from records):**
 
 - The sealing was deliberate, not forced
 - The population participated willingly
-- The Great Shaft — Lathion's primary surface access during the open period, an elevator spine opening into the Crown's Arrival Halls — was deliberately collapsed and filled from below, leaving no open shaft and no surface trace; the magitech cars that had served it were destroyed and stripped for parts
-- The Brass Door — the freight entrance, and by then long disused — was sealed as a contingency, and the cut haul road that had served it was collapsed in the same operation, leaving only the natural caves it ran through. The Lathionese reasoned that no one would ever cross those caves to reach a door that would not open
+- The Great Shaft — Hauren's primary surface access during the open period, an elevator spine opening into the Crown's Arrival Halls — was deliberately collapsed and filled from below, leaving no open shaft and no surface trace; the magitech cars that had served it were destroyed and stripped for parts
+- The Brass Door—the freight entrance, and by then long disused—was sealed as a contingency, and the cut
+  haul road that had served it was collapsed in the same operation, leaving only the natural caves it ran
+  through. The Haureni expected the caves and lock to stop almost anyone and entrusted the remaining
+  approaches to a human custodial order; that order became the Long Knives
 - The service tunnels above the door (now the Warrens) were left fully operational, since the city continued to need its HVAC, water, and maintenance infrastructure — but these were never designed to serve as a route INTO the city
 - The city's systems were configured for indefinite, self-sustaining operation
 
-**What the sealing was *not*:** It was not an ending. The Lathionese did not die or vanish when they sealed the city — they *withdrew*. Behind the seal, Lathion lived on: a complete, self-sufficient civilization that had simply chosen to step out of surface history. For two thousand years it endured — generations born, lived, and died in a sealed city of wonders — while on the surface above, empires rose and shattered and rose again. Nor was the city blind to that surface. Lathionese instruments observed the world overhead throughout those twenty centuries. The Lathionese watched. They simply, deliberately, chose never again to touch.
+**What the sealing was *not*:** It was not an ending. The Haureni did not die or vanish when they sealed the city — they *withdrew*. Behind the seal, Hauren lived on: a complete, self-sufficient civilization that had simply chosen to step out of surface history. For two thousand years it endured — generations born, lived, and died in a sealed city of wonders — while on the surface above, empires rose and shattered and rose again. Nor was the city blind to that surface. Haureni instruments observed the world overhead throughout those twenty centuries. The Haureni watched. They simply, deliberately, chose never again to touch.
 
-**Why they sealed themselves away** is the genuine mystery, and it may never be answered, because everyone who knew the reason is now gone. Theories abound — a wish to escape some surface danger, a philosophical turn toward perfect isolation, a research undertaking that demanded total seclusion, a catastrophic event whose nature has been deliberately erased from the surface record — but they remain theories. Whatever drove an entire civilization behind a closed door, the Lathionese took the reason with them.
+**Why they sealed themselves away** is the genuine mystery, and it may never be answered, because everyone who knew the reason is now gone. Theories abound — a wish to escape some surface danger, a philosophical turn toward perfect isolation, a research undertaking that demanded total seclusion, a catastrophic event whose nature has been deliberately erased from the surface record — but they remain theories. Whatever drove an entire civilization behind a closed door, the Haureni took the reason with them.
 
-**The end of Lathion** came not with the sealing but two thousand years later. Twenty years ago, the Rending tore a breach between the living world and the realm of the dead, and Lathion's instruments measured a catastrophe that would not stop until all life on Elvandar was gone. Lathion broke its long isolation in the only way left to it — by ending itself. Its inhabitants built the Destiny Engine and gave their existence to power it, sealing the breach and saving the surface world that had largely forgotten them. The "final act" — every Lathionese entering the city's heart to be given to the Engine — belongs to that day, twenty years ago, not to the sealing two millennia before. (The full account is given in the Rending document, to which the truth of Lathion's death properly belongs.)
+**The end of Hauren** came not with the sealing but two thousand years later. Twenty years ago, the Rending tore a breach between the living world and the realm of the dead, and Hauren's instruments measured a catastrophe that would not stop until all life on Elvandar was gone. Hauren broke its long isolation in the only way left to it — by ending itself. Its inhabitants built the Destiny Engine and gave their existence to power it, sealing the breach and saving the surface world that had largely forgotten them. The "final act" — every Haureni entering the city's heart to be given to the Engine — belongs to that day, twenty years ago, not to the sealing two millennia before. (The full account is given in the Rending document, to which the truth of Hauren's death properly belongs.)
 
-**The Result:** For two thousand years after the sealing, Lathion was a living city — hidden and silent to the surface, but vibrant within. Only twenty years ago did it truly end. Since that day the city has stood empty: intact, powered, and tended by self-repair machines that do not know, and cannot be told, that the hands which built them are gone.
+**The Result:** For two thousand years after the sealing, Hauren was a living city — hidden and silent to the surface, but vibrant within. Only twenty years ago did it truly end. Since that day the city has stood empty: intact, powered, and tended by self-repair machines that do not know, and cannot be told, that the hands which built them are gone.
 
 ---
 
-## Lathion in Legend
+## Hauren in Legend
 
 ### Surface World Knowledge
 
-**Among Scholars (especially Uratha):** Lathion appears in ancient texts as:
+**Among Scholars (especially Uratha):** Hauren appears in ancient texts as:
 
 - A mythical underground city of elves
 - A place of great learning and technology
@@ -114,14 +123,18 @@ Most scholars consider it interesting mythology, not historical fact. A few beli
 
 - A fairy-tale city where elves lived underground
 - A place of magic and wonders (in children's stories)
-- "Lost like Lathion" = vanished completely
+- "Lost like Hauren" = vanished completely
 - Generally considered pure fantasy
 
-**Among Warren Residents:** Most have never heard the name. They know they live in ancient tunnels built by "the builders" thousands of years ago, but they do not connect this to legendary Lathion. The two concepts exist separately in cultural consciousness.
+**Among Warren Residents:** Most have never heard the name. They know they live in ancient tunnels built by "the builders" thousands of years ago, but they do not connect this to legendary Hauren. The two concepts exist separately in cultural consciousness.
 
 ### The Long Knives' Secret
 
 The Long Knives know more than anyone else in the Warrens:
+
+They do not know why. Their guild descends from the human order Hauren commissioned at the sealing to
+guard the last surviving approach. The founding name and explanation are lost; only the charge remains.
+Full canon account: `Offstage.md`, “The First Charge of the Long Knives.”
 
 **What They Know:**
 
@@ -133,21 +146,24 @@ The Long Knives know more than anyone else in the Warrens:
 
 **What They Don't Know:**
 
-- The door leads to Lathion proper
-- What Lathion is, or was
-- That Lathion is an intact city—and that it was an *inhabited* one until twenty years ago
+- The door leads to Hauren proper
+- What Hauren is, or was
+- That Hauren is an intact city—and that it was an *inhabited* one until twenty years ago
 - How to open the door
 - Why it was sealed
 
-**The Mistress's Strategy:** She treats the brass door as a strategic asset and an insurance policy. Eventually, someone will want what lies beyond that door. When that day comes, the Long Knives will hold the leverage. She is playing a long game with stakes she does not fully understand.
+**The Mistress's Strategy:** She treats the brass door as a strategic asset and an insurance policy.
+Eventually, someone will want what lies beyond that door. When that day comes, the Long Knives will hold
+the leverage. She is playing a long game with stakes she does not fully understand, supplying a modern
+reason for an obligation her order inherited without one.
 
 ---
 
 ## The Wonder and the Mystery
 
-### What Makes Lathion Remarkable
+### What Makes Hauren Remarkable
 
-**Systems That Have Never Stopped:** The most extraordinary fact about Lathion is the sheer endurance of its infrastructure. For five thousand years—through the city's living centuries and its twenty silent ones alike—its systems have run without interruption:
+**Systems That Have Never Stopped:** The most extraordinary fact about Hauren is the sheer endurance of its infrastructure. For five thousand years—through the city's living centuries and its twenty silent ones alike—its systems have run without interruption:
 
 - Power generation
 - Air circulation
@@ -160,7 +176,7 @@ The Long Knives know more than anyone else in the Warrens:
 
 No modern civilization has achieved, or come near, this level of durability and reliability.
 
-**A Tomb Only Twenty Years Cold:** Lathion does not look like a five-thousand-year-old ruin, because as a *living place* it is not one—it was inhabited until twenty years ago, and its self-repair systems have kept it pristine in the two decades since. An explorer finds:
+**A Tomb Only Twenty Years Cold:** Hauren does not look like a five-thousand-year-old ruin, because as a *living place* it is not one—it was inhabited until twenty years ago, and its self-repair systems have kept it pristine in the two decades since. An explorer finds:
 
 - No decay or deterioration
 - Clean streets and buildings
@@ -168,7 +184,7 @@ No modern civilization has achieved, or come near, this level of durability and 
 - Intact records and artifacts
 - A city deliberately set in order, closed down rather than fled
 
-But it is not a city caught mid-breath. There is no meal half-eaten, no tool dropped where its owner stood—because the Lathionese were not taken by surprise. They had months between understanding what they had to do and doing it, and they spent that time the way a people would: finishing what could be finished, setting their affairs in order, closing the city deliberately behind them in the full knowledge that none of them would return. The effect on an explorer is therefore not of *interrupted life* but of *deliberate departure*—a home its family chose to leave in order. Lathion has been empty only twenty years, kept flawless by machines that were never told; it feels less like a ruin than like a house shut up with great care by people who made very sure they would never come back.
+But it is not a city caught mid-breath. There is no meal half-eaten, no tool dropped where its owner stood—because the Haureni were not taken by surprise. They had months between understanding what they had to do and doing it, and they spent that time the way a people would: finishing what could be finished, setting their affairs in order, closing the city deliberately behind them in the full knowledge that none of them would return. The effect on an explorer is therefore not of *interrupted life* but of *deliberate departure*—a home its family chose to leave in order. Hauren has been empty only twenty years, kept flawless by machines that were never told; it feels less like a ruin than like a house shut up with great care by people who made very sure they would never come back.
 
 **Knowledge Repository:** The Great Repository contains information that could revolutionize modern understanding:
 
@@ -181,11 +197,11 @@ But it is not a city caught mid-breath. There is no meal half-eaten, no tool dro
 
 For Urathan scholars, this represents the ultimate prize—knowledge beyond imagination.
 
-**The Destiny Engine:** At Lathion's heart lies the device that ended it—a creation of unprecedented power, built in desperation in the city's final months and used, once, to close the wound in the world. Its nature, its purpose, and the sacrifice it required are detailed in the Rending document.
+**The Destiny Engine:** At Hauren's heart lies the device that ended it—a creation of unprecedented power, built in desperation in the city's final months and used, once, to close the wound in the world. Its nature, its purpose, and the sacrifice it required are detailed in the Rending document.
 
 ### Unanswered Questions
 
-To the surface world—which knows none of the truth—Lathion remains a knot of mysteries:
+To the surface world—which knows none of the truth—Hauren remains a knot of mysteries:
 
 **The Inhabitants:**
 
@@ -199,7 +215,7 @@ To the surface world—which knows none of the truth—Lathion remains a knot of
 - Why build such an elaborate city?
 - What were they researching?
 - What drove them to seal themselves away?
-- Was Lathion's true purpose ever revealed?
+- Was Hauren's true purpose ever revealed?
 
 **The Security:**
 
@@ -210,16 +226,16 @@ To the surface world—which knows none of the truth—Lathion remains a knot of
 
 **The Future:**
 
-- Should Lathion be opened?
+- Should Hauren be opened?
 - Who has the right to claim its knowledge?
-- What would access to Lathion mean for Elvandar?
+- What would access to Hauren mean for Elvandar?
 - Are there dangers in disturbing what was deliberately sealed?
 
 ---
 
 ## Access and Discovery
 
-### The Path to Lathion
+### The Path to Hauren
 
 **Requirements:**
 
@@ -228,7 +244,7 @@ To the surface world—which knows none of the truth—Lathion remains a knot of
 3. Navigate Dead Man's Passage (a lethal maze; only the Long Knives have the map)
 4. Reach the brass door (few have seen it)
 5. Open the brass door (no one knows how)
-6. Enter Lathion proper (unknown what awaits)
+6. Enter Hauren proper (unknown what awaits)
 
 **Barriers:**
 
@@ -247,13 +263,13 @@ To the surface world—which knows none of the truth—Lathion remains a knot of
 
 ### Discovery Scenarios
 
-**Controlled Discovery:** A knowledgeable party (Elara, with proper preparation) deliberately seeks Lathion, opens the door carefully, and explores methodically. Knowledge is revealed gradually, dangers are managed, decisions are made thoughtfully.
+**Controlled Discovery:** A knowledgeable party (Elara, with proper preparation) deliberately seeks Hauren, opens the door carefully, and explores methodically. Knowledge is revealed gradually, dangers are managed, decisions are made thoughtfully.
 
-**Forced Discovery:** Political upheaval or crisis drives someone to seek Lathion desperately. The door is opened without full understanding. Consequences are unpredictable and potentially catastrophic.
+**Forced Discovery:** Political upheaval or crisis drives someone to seek Hauren desperately. The door is opened without full understanding. Consequences are unpredictable and potentially catastrophic.
 
-**Accidental Discovery:** Someone stumbles upon the door's opening mechanism by chance. Lathion is revealed unexpectedly. Multiple factions race to claim it. Chaos ensues.
+**Accidental Discovery:** Someone stumbles upon the door's opening mechanism by chance. Hauren is revealed unexpectedly. Multiple factions race to claim it. Chaos ensues.
 
-**Gradual Revelation:** The door opens but provides access only to the antechamber initially. Further access requires solving puzzles, gathering keys, or demonstrating specific qualities. Lathion reveals itself slowly, testing those who enter.
+**Gradual Revelation:** The door opens but provides access only to the antechamber initially. Further access requires solving puzzles, gathering keys, or demonstrating specific qualities. Hauren reveals itself slowly, testing those who enter.
 
 ---
 
@@ -265,16 +281,16 @@ timing sequence without picking it up, because the only trace of it anywhere was
 sitting third in a list of technology tiers in a Gunastran briefing. **The timing of Book 7's climax
 depends entirely on this, so it has to be established loudly and early enough to be load-bearing.***
 
-**Lathion had the equivalent of instantaneous voice-and-signal communication across arbitrary distance,
+**Hauren had the equivalent of instantaneous voice-and-signal communication across arbitrary distance,
 and it worked by relay.** Not a single transmitter reaching everywhere — a chain of fixed installations,
 each receiving and re-sending, so that a signal crosses a continent in the time it takes to say it,
 provided the chain is intact. Inside the city itself this connected every waystation and major system
-(`Lathion_ Physical Layout and Geography.md`). It is listed there under what *doesn't* work, and the
+(`Hauren_ Physical Layout and Geography.md`). It is listed there under what *doesn't* work, and the
 reason given is exact and worth keeping: **the system is fully functional and has nobody to talk to.**
 
 ### The Balishan deployment
 
-**This is the third tier of Lathion technology to reach the surface**, after water purification and energy
+**This is the third tier of Hauren technology to reach the surface**, after water purification and energy
 — the order Gunastran's Industrial Consortium models in Book 3 ch13, and the tier that turns their problem
 from commercial into existential. Balisha installs relay stations at the **magically warded waystations
 already spaced a day's travel apart along the Golden Path**, which is the single piece of infrastructure in
@@ -283,7 +299,7 @@ otherwise lethal ground. **The road was built for water and shelter and turns ou
 this.** No new construction is required, which is why it happens fast.
 
 **The in-world name is simply "the relay,"** lowercase, functional — the same species of working name the
-expedition coins for everything else in Lathion (*the Crown*, *the Repository*, *the Gatehouse*). Nobody
+expedition coins for everything else in Hauren (*the Crown*, *the Repository*, *the Gatehouse*). Nobody
 gives it a ceremonial title. People say *it came over the relay* the way they would say *it came by rider*,
 and within a few years they stop noticing that they are describing a miracle.
 
@@ -346,7 +362,7 @@ room. Books 5 and 6 sit in between and may use it or not as they need; nothing y
 
 **Political:**
 
-- Whoever controls Lathion controls significant power
+- Whoever controls Hauren controls significant power
 - The cartel balance would be destroyed
 - Surface authorities could no longer ignore the Warrens
 - Potential for violent conflict over access
@@ -376,7 +392,7 @@ room. Books 5 and 6 sit in between and may use it or not as they need; nothing y
 
 - Should knowledge deliberately sealed away be reclaimed?
 - Do they have the wisdom to use it responsibly?
-- What if the Lathionese sealed it for good reason?
+- What if the Haureni sealed it for good reason?
 
 ### For Elvandar
 
@@ -388,29 +404,29 @@ room. Books 5 and 6 sit in between and may use it or not as they need; nothing y
 
 **Magical:**
 
-- Lathionese magical theory could revolutionize practice
+- Haureni magical theory could revolutionize practice
 - New possibilities for research and application
 - Potential dangers from misunderstood techniques
 
 **Political:**
 
 - The power balance between nations would shift
-- Whoever controls Lathion gains an enormous advantage
+- Whoever controls Hauren gains an enormous advantage
 - Potential for war over access
 
 **Philosophical:**
 
 - What does it mean that such achievement was abandoned?
-- Should modern civilization follow in the Lathionese footsteps?
+- Should modern civilization follow in the Haureni footsteps?
 - Are there some things better left undiscovered?
 
 ---
 
 ## The Warning
 
-Lathion was sealed deliberately, approximately two thousand years ago, by a civilization that understood far more than modern Elvandar — and the reason for that sealing was never recorded anywhere the surface can reach.
+Hauren was sealed deliberately, approximately two thousand years ago, by a civilization that understood far more than modern Elvandar — and the reason for that sealing was never recorded anywhere the surface can reach.
 
-**Why That Matters:** The Lathionese possessed:
+**Why That Matters:** The Haureni possessed:
 
 - Technology beyond modern understanding
 - Magical capability exceeding current practice
@@ -421,9 +437,9 @@ And they chose, at the height of all of it, to close the brass door and step out
 
 **The Question:** If a civilization that advanced decided their city should be shut away, should it be opened?
 
-**The Counterargument:** They did not seal the city to destroy it. They left the systems running, the tunnels accessible, the city preserved—the arrangements of people who intended their work to endure, perhaps for someone, someday. And in the end it was Lathion's preservation that saved the world: a city kept alive behind a door was a city still able to act when the Rending came.
+**The Counterargument:** They did not seal the city to destroy it. They left the systems running, the tunnels accessible, the city preserved—the arrangements of people who intended their work to endure, perhaps for someone, someday. And in the end it was Hauren's preservation that saved the world: a city kept alive behind a door was a city still able to act when the Rending came.
 
-**The Uncertainty:** But *why* remains unanswered. The Lathionese sealed themselves away for a reason urgent enough to commit an entire civilization to two thousand years of isolation — and that reason is lost. To open Lathion is to act in ignorance of the very fear that closed it.
+**The Uncertainty:** But *why* remains unanswered. The Haureni sealed themselves away for a reason urgent enough to commit an entire civilization to two thousand years of isolation — and that reason is lost. To open Hauren is to act in ignorance of the very fear that closed it.
 
 ---
 
@@ -449,21 +465,21 @@ And they chose, at the height of all of it, to close the brass door and step out
 - Sealed approximately two thousand years ago (after roughly three millennia of open relations with the surface)
 - A living city until twenty years ago
 - Silent and empty for the two decades since
-- To the machines that tend it, the distinction means nothing—they will maintain Lathion until they fail, and they show no sign of failing
+- To the machines that tend it, the distinction means nothing—they will maintain Hauren until they fail, and they show no sign of failing
 
 ---
 
-## Lathion's Legacy
+## Hauren's Legacy
 
-Even sealed, dead, and forgotten, Lathion shapes the world above it:
+Even sealed, dead, and forgotten, Hauren shapes the world above it:
 
-**The Warrens:** 60,000 people survive because Lathionese ventilation and water systems still function. The service tunnels—built to move air, water, and maintenance crews through a living city—now shelter a refugee population the surface world chose to bury rather than house. Ancient elven engineering keeps alive the very people Kaha'an abandoned.
+**The Warrens:** 60,000 people survive because Haureni ventilation and water systems still function. The service tunnels—built to move air, water, and maintenance crews through a living city—now shelter a refugee population the surface world chose to bury rather than house. Ancient elven engineering keeps alive the very people Kaha'an abandoned.
 
-**The Architecture:** Perfectly smooth walls that cannot be cut or modified. Brass fixtures that still gleam. Systems that function without anyone understanding them. The Lathionese built to last—and twenty years after the last of them died, their city has not so much as gathered dust.
+**The Architecture:** Perfectly smooth walls that cannot be cut or modified. Brass fixtures that still gleam. Systems that function without anyone understanding them. The Haureni built to last—and twenty years after the last of them died, their city has not so much as gathered dust.
 
-**The Mystery:** A city of wonders lies beneath Kaha'an, intact and unknown. It waits in darkness while the world above struggles with problems—thirst, hunger, disease—that the Lathionese solved five thousand years ago and took to their graves.
+**The Mystery:** A city of wonders lies beneath Kaha'an, intact and unknown. It waits in darkness while the world above struggles with problems—thirst, hunger, disease—that the Haureni solved five thousand years ago and took to their graves.
 
-**The Promise:** That one day someone will open the brass door, descend into Lathion proper, reach the Repository, and recover what was lost.
+**The Promise:** That one day someone will open the brass door, descend into Hauren proper, reach the Repository, and recover what was lost.
 
 **The Question:** Will that be Elvandar's salvation, or its undoing?
 
@@ -471,12 +487,12 @@ Even sealed, dead, and forgotten, Lathion shapes the world above it:
 
 ## Summary
 
-Lathion stands as testament to heights once achieved and deliberately set aside — and then, at the very end, spent. For nearly three thousand years it was a civilization that lived openly alongside the surface, sharing its arts and watching the world grow. For two thousand years after that it was a civilization that chose to watch the world rather than live in it. For one final year it was a civilization that chose to die for that world anyway.
+Hauren stands as testament to heights once achieved and deliberately set aside — and then, at the very end, spent. For nearly three thousand years it was a civilization that lived openly alongside the surface, sharing its arts and watching the world grow. For two thousand years after that it was a civilization that chose to watch the world rather than live in it. For one final year it was a civilization that chose to die for that world anyway.
 
-The city waits now—powered, maintained, preserved—for whatever comes next. Its machines continue their eternal tasks, indifferent to the passage of years, tending the halls of a people two decades dead. The brass door remains sealed, requiring knowledge and capability that has not existed since the night Lathion ended.
+The city waits now—powered, maintained, preserved—for whatever comes next. Its machines continue their eternal tasks, indifferent to the passage of years, tending the halls of a people two decades dead. The brass door remains sealed, requiring knowledge and capability that has not existed since the night Hauren ended.
 
 Above it, 60,000 refugees live in its service tunnels, surviving on systems they do not understand, maintained by machines they have never seen, in passages built for purposes they cannot imagine—unaware that the lost city of legend is not lost at all, only silent, and only just beneath their feet.
 
-And somewhere, the possibility waits: that someone—Princess Elara, perhaps, or another with the right blood and the right knowledge—could turn the key, open the door, and bring the modern world face to face with what the Lathionese were, and what they did.
+And somewhere, the possibility waits: that someone—Princess Elara, perhaps, or another with the right blood and the right knowledge—could turn the key, open the door, and bring the modern world face to face with what the Haureni were, and what they did.
 
 Whether that meeting brings wonder or catastrophe remains to be seen.

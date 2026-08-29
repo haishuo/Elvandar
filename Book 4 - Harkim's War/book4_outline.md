@@ -1,6 +1,6 @@
 # Book 4: Harkim's War — High-Level Outline
 
-**Narrative Engine:** The Compact War has begun. Gunastran and the Erulian Principality strike Uratha first — cut it off from Balisha and Terinok before Lathion technology can be fully implemented. This book shows what the political decisions of Books 1-3 cost ordinary people, and what happens when the system those people believed in is tested to destruction.
+**Narrative Engine:** The Compact War has begun. Gunastran and the Erulian Principality strike Uratha first — cut it off from Balisha and Terinok before Hauren technology can be fully implemented. This book shows what the political decisions of Books 1-3 cost ordinary people, and what happens when the system those people believed in is tested to destruction.
 
 **POV:** Entirely Danshall Harkim. We do not meet Xion, Elara, or Farleen. They exist only as distant names — the empress's decree heard third-hand, the consort referenced in whispered rumors. The deliberate absence of the series protagonists forces the reader to experience the war from the ground, without the comfort of familiar faces.
 
@@ -12,7 +12,7 @@
 
 ## THE PROTAGONIST
 
-**Danshall Harkim** is a Topaz Tower junior researcher in the Department of Theoretical Applications at Empirica's Maritime Research Center. He is not a soldier, not a hero, not a political figure. He is a young academic who happens to be brilliant at applied magi-tech — specifically the practical implementation of Lathion water purification systems. His tower affiliation is relevant: the Topaz scholar exists near the bottom of Uratha's prestige hierarchy, doing the work the kingdom depends on while the Amethyst theorists look down their noses at it. Harkim has internalized this framing. He accepts that applied science is slightly lesser than theoretical scholarship, because the system makes sense to him — and if the system makes sense, so does his tower's position within it. He is a man who knows what it is to be condescended to, and still condescends.
+**Danshall Harkim** is a Topaz Tower junior researcher in the Department of Theoretical Applications at Empirica's Maritime Research Center. He is not a soldier, not a hero, not a political figure. He is a young academic who happens to be brilliant at applied magi-tech — specifically the practical implementation of Hauren water purification systems. His tower affiliation is relevant: the Topaz scholar exists near the bottom of Uratha's prestige hierarchy, doing the work the kingdom depends on while the Amethyst theorists look down their noses at it. Harkim has internalized this framing. He accepts that applied science is slightly lesser than theoretical scholarship, because the system makes sense to him — and if the system makes sense, so does his tower's position within it. He is a man who knows what it is to be condescended to, and still condescends.
 
 He is also, critically, a *believer*. Harkim grew up inside the Urathan system and it made sense to him. The High Exam is rigorous, yes — but rigor is how you identify the capable and give them the tools to advance knowledge. The bakarn classification is harsh, yes — but the alternative is mediocrity, a society that can't distinguish between those who can contribute to scholarship and those who can't. The system produces results. Uratha leads the continent in scholarship, in technology, in institutional knowledge. The proof is in the Ivory Tower, in the libraries that stretch for acres, in the civilization that dazzled Xion in Book 3.
 
@@ -28,15 +28,15 @@ This is the worldview the war will destroy.
 
 **Emotional arc: From normalcy to survival — the system still intact in his mind**
 
-The Compact strikes. Empirica falls in the opening chapter — not gradually but violently, with Gunastran bombardment shaking the research facilities while scholars scramble to destroy sensitive Lathion documentation before it's captured. The attack specifically targets research centers, confirming the Compact's strategic priority: deny the Tripartite Alliance the technological edge that Lathion represents.
+The Compact strikes. Empirica falls in the opening chapter — not gradually but violently, with Gunastran bombardment shaking the research facilities while scholars scramble to destroy sensitive Hauren documentation before it's captured. The attack specifically targets research centers, confirming the Compact's strategic priority: deny the Tripartite Alliance the technological edge that Hauren represents.
 
 Harkim's immediate concern is Lira. He reaches their apartment to find her calmly packing, having already memorized evacuation routes from city maps she glimpsed once in his office. Her extraordinary capability and her vulnerability exist in the same person. He notes this the way he always has — as his sister being remarkable *despite* her condition, not *because of* a capability the system fails to measure.
 
-The occupation establishes itself. Field Commander Bregan Haldorn issues proclamations about "technological cooperation" that barely disguise the systematic confiscation of research. Chief Acquisitor Wilka Zarnstran screens scholars by specialty, with those possessing Lathion knowledge receiving "special assignments."
+The occupation establishes itself. Field Commander Bregan Haldorn issues proclamations about "technological cooperation" that barely disguise the systematic confiscation of research. Chief Acquisitor Wilka Zarnstran screens scholars by specialty, with those possessing Hauren knowledge receiving "special assignments."
 
 Harkim observes the occupation through a scholar's lens. He is horrified by the violence against his fellow researchers, by the confiscation of knowledge, by the desecration of academic spaces. He barely notices what's happening in the bakarn districts. They're not his world. The Compact has less interest in controlling bakarn areas — no valuable knowledge there, in the Compact's assessment. In Harkim's assessment too, if he's honest.
 
-A midnight visit from Research Director Emmett Thorne — the highest-ranking Urathan official remaining in Empirica — introduces two critical elements: Thorne knows about Lira (he "made arrangements" years ago to help keep her hidden), and the former Ilhamori Inspector Thalia Neth has been asking about researchers with "unusual cognitive profiles." Trust no one.
+A midnight visit from Research Director Emmett Thorne — the highest-ranking Urathan official remaining in Empirica — introduces two critical elements: Thorne knows about Lira (he "made arrangements" years ago to help keep her hidden), and the former Theraris Inspector Thalia Neth has been asking about researchers with "unusual cognitive profiles." Trust no one.
 
 **What the reader sees:** The cost of the Book 3 political decisions arrives as lived experience. And a protagonist whose worldview the reader should find uncomfortable — because Harkim genuinely believes in a system the reader can already see is wrong.
 
@@ -54,7 +54,7 @@ He encounters **Perrin Halmore**, a bakarn dockworker who notices his modified f
 
 **Commander Darius Severen** — an Erulian officer who was once a defected Urathan scholar — is a particularly dangerous antagonist because he understands Urathan society from the inside. Harkim survives by leaning into the class prejudice Severen expects to see. The performance works because it *isn't entirely* a performance — and that overlap makes Harkim uncomfortable for the first time. Why was it so easy to play the part?
 
-A threatening note forces Harkim and Lira to relocate to a bakarn district, where they discover Inspector Neth — the very person Thorne warned against — is now coordinating resistance. Neth's journey is ahead of Harkim's: the rigid Ilhamori enforcer has already been forced by circumstance to question the system. Harkim watches her treat bakarn resisters as equals and finds it strange.
+A threatening note forces Harkim and Lira to relocate to a bakarn district, where they discover Inspector Neth — the very person Thorne warned against — is now coordinating resistance. Neth's journey is ahead of Harkim's: the rigid Theraris enforcer has already been forced by circumstance to question the system. Harkim watches her treat bakarn resisters as equals and finds it strange.
 
 Neth asks Lira to serve as a living repository for knowledge the Compact is destroying. Harkim refuses to risk his sister. But his refusal has a second, unexamined layer: some part of him recoils at the idea of Lira's extraordinary gift being entrusted to bakarn networks.
 
@@ -94,7 +94,7 @@ He can't explain this yet. But it registers.
 
 **Emotional arc: The war ends, but the deeper fight is just beginning**
 
-The Alliance counteroffensive. Terinok warriors lead the assault on Empirica while deploying Lathion-derived defensive technologies. The resistance activates throughout the city — scholar and bakarn side by side, using strategies developed through their forced cooperation. The liberation is messy, violent, and real.
+The Alliance counteroffensive. Terinok warriors lead the assault on Empirica while deploying Hauren-derived defensive technologies. The resistance activates throughout the city — scholar and bakarn side by side, using strategies developed through their forced cooperation. The liberation is messy, violent, and real.
 
 Commander Severen corners Harkim and Lira during the chaos. Severen is interesting because he's the dark mirror: a man who always understood the classification system's flaws but exploited them for personal advancement rather than questioning them. He defected from Uratha not because he disagreed with the system but because he could get a better deal elsewhere. Harkim looks at Severen and sees, with horrible clarity, what a system like Uratha's produces when it meets cynicism instead of belief. Lira's perfect recall of Severen's own tactical writings enables their escape.
 
@@ -116,7 +116,7 @@ The new Harkim sees it differently. He sees an institution performing reform whi
 
 Lira teaches. Not at a new integrated school — that didn't happen. She tutors children privately, the way she always has, still technically hidden, still technically classified as something less than what she is. The emergency is over. The exception Harkim built around his sister — *she's an outlier, the system is still correct* — is gone. He can no longer pretend the system misfired in one case. He knows now that it misfires constantly, systematically, by design. And the people who designed it don't seem to care whether it exists or not.
 
-The final scene: Harkim begins keeping a notebook. Quiet observations. Things that don't add up. The Provosts' strange indifference. The energy consumption figures for the Ivory Tower that don't match its visible operations. The Ilhamori's classified unit with no official mandate. Small things. Data points that don't fit the model.
+The final scene: Harkim begins keeping a notebook. Quiet observations. Things that don't add up. The Provosts' strange indifference. The energy consumption figures for the Ivory Tower that don't match its visible operations. A classified Theraris unit with no official mandate. Small things. Data points that don't fit the model.
 
 He doesn't know what the Globehall is. He won't learn for years. But the question is planted: if the Provosts don't need the bakarn system, what do they have instead?
 
@@ -141,15 +141,15 @@ In the years between Book 4 and Book 8, this notebook becomes a network. The net
 
 **The Compact as multifaceted enemy:** Not uniformly evil. Commander Haldorn is competent. Chief Acquisitor Zarnstran has genuine intellectual curiosity. Vartonne's Lord Mallory is absurd. Commander Severen is dangerous because he understands Urathan society. The Compact is an alliance of competing interests — echoing the reader's understanding from Book 3 that each member has legitimate grievances.
 
-**What happens to Xion, Elara, and the others during this book:** They exist. The Alliance fights the war. Elara deploys Lathion technology. Xion coordinates strategy. The Terinok honor their oaths. All of this reaches Harkim as distant rumor and official proclamation. War looks different from the ground than from the throne room.
+**What happens to Xion, Elara, and the others during this book:** They exist. The Alliance fights the war. Elara deploys Hauren technology. Xion coordinates strategy. The Terinok honor their oaths. All of this reaches Harkim as distant rumor and official proclamation. War looks different from the ground than from the throne room.
 
 **Tone:** Grittier and more immediate than Books 1-3. But also more introspective — the internal war requires access to Harkim's unexamined assumptions, his discomfort, his gradual recalibration. Honestly uncomfortable in its protagonist's biases.
 
-**Connection to Book 3:** The technologies Harkim works with — water purification, energy systems — are the same ones Xion marveled at in Lathion. The Compact's assault targets the research that grew from the Urathan alliance. Everything connects. Nothing is free.
+**Connection to Book 3:** The technologies Harkim works with — water purification, energy systems — are the same ones Xion marveled at in Hauren. The Compact's assault targets the research that grew from the Urathan alliance. Everything connects. Nothing is free.
 
-**And the list stops there. There is no relay in this book.** *(Author's ruling, 2026-08-02.)* Lathion's instantaneous communication network is real, it is the **third** tier after purification and energy, and it does not exist yet — the war opens a few *months* after the Brass Door is unsealed, and three things have to happen first that cannot be compressed: engineers have to genuinely understand the technology rather than merely possess it, which is years; the queue has to reach communications, and a nation whose people are dying of bad water does not build a signal network first; and then it has to be *installed*, station by station, along a desert road.
+**And the list stops there. There is no relay in this book.** *(Author's ruling, 2026-08-02.)* Hauren's instantaneous communication network is real, it is the **third** tier after purification and energy, and it does not exist yet — the war opens a few *months* after the Brass Door is unsealed, and three things have to happen first that cannot be compressed: engineers have to genuinely understand the technology rather than merely possess it, which is years; the queue has to reach communications, and a nation whose people are dying of bad water does not build a signal network first; and then it has to be *installed*, station by station, along a desert road.
 
-**So Book 4 runs on the Golden Path and riders, like every book before it.** Distance costs time; a message moves at the speed of a horse; a commander learns things late. **This is not a constraint to write around — it is the ordinary condition of the world for the whole of the first four books**, and any beat here that needs word to travel should be built on couriers. The relay is a Book 5-and-later fact and is unremarkable by Book 7. Canon: `Places/Kaha'an/Lathion_ The Lost City of Gears.md`, "The Relay."
+**So Book 4 runs on the Golden Path and riders, like every book before it.** Distance costs time; a message moves at the speed of a horse; a commander learns things late. **This is not a constraint to write around — it is the ordinary condition of the world for the whole of the first four books**, and any beat here that needs word to travel should be built on couriers. The relay is a Book 5-and-later fact and is unremarkable by Book 7. Canon: `Places/Kaha'an/Hauren_ The Lost City of Gears.md`, "The Relay."
 
 **Seeds for future books:**
 - **Book 5:** The post-war landscape. Kalden's reparations burden. Silaris's vulnerability. The bakarn "reforms" that aren't really reforms.

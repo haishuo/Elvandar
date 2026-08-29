@@ -6,7 +6,7 @@ The most dangerous thing about Danshall Harkim is not that he was wrong. It is t
 
 He grew up inside Uratha's tower hierarchy and absorbed its logic the way children absorb grammar — not by studying it, but by breathing it. The High Exam is rigorous, so it must be fair. The bakarn classification is harsh, but harshness and fairness aren't mutually exclusive. The system produces results: gleaming libraries, technological leadership, the civilization Xion Kemvimore marveled at when he visited the Ivory Tower. What more evidence could you ask for?
 
-This is the worldview of a Topaz Tower junior researcher who has accepted, without examination, that his tower sits near the bottom of Uratha's prestige hierarchy — and that this, too, is fair. Applied science is slightly lesser than theoretical scholarship. He has internalized the frame that diminishes him. He works with Lathion water purification systems and calls his department "Theoretical Applications," because a Topaz scholar learns early to add "theoretical" to the front of everything, and because this small performance feels entirely normal to a man who has never thought to examine why it's necessary.
+This is the worldview of a Topaz Tower junior researcher who has accepted, without examination, that his tower sits near the bottom of Uratha's prestige hierarchy — and that this, too, is fair. Applied science is slightly lesser than theoretical scholarship. He has internalized the frame that diminishes him. He works with Hauren water purification systems and calls his department "Theoretical Applications," because a Topaz scholar learns early to add "theoretical" to the front of everything, and because this small performance feels entirely normal to a man who has never thought to examine why it's necessary.
 
 He has a sister named Lira he hides from the system he believes in.
 
@@ -38,11 +38,11 @@ The notebook he starts after liberation is the Truth Seeker's instrument, freed 
 
 ### Engineer (Secondary)
 
-Harkim builds things that work. Water purification systems optimized for harbor intake. The "Department of Theoretical Applications" work that practically implements Lathion technology while the Amethyst Tower is still writing papers about it. He is not a theorist who sometimes gets his hands dirty — he is an applied scientist who has learned to describe his work in theoretical language because that is the price of institutional survival.
+Harkim builds things that work. Water purification systems optimized for harbor intake. The "Department of Theoretical Applications" work that practically implements Hauren technology while the Amethyst Tower is still writing papers about it. He is not a theorist who sometimes gets his hands dirty — he is an applied scientist who has learned to describe his work in theoretical language because that is the price of institutional survival.
 
 Under occupation, his engineering instinct serves the resistance without him quite intending it to. He implements Lira's reconstructed schematics to solve practical problems — contaminated water, failing heating — disguising the sophistication, managing the outputs. He doesn't think of this as resistance. He thinks of it as competence. But the Compact is occupying his city and his competence is what keeps people alive. The distinction between "applying my skills" and "resisting the enemy" collapses somewhere in Act II, and Harkim barely notices.
 
-The underground he builds between Books 4 and 8 is his engineering masterwork: a network of people watching, documenting, and communicating without ever attracting the Ilhamori's attention. Not dramatic. Not heroic. Functional. It works because he designed it to work, and because a man who spent his career making things function under academic condescension knows how to build something that operates without requiring recognition.
+The underground he builds between Books 4 and 8 is his engineering masterwork: a network of people watching, documenting, and communicating without ever attracting the Theraris's attention. Not dramatic. Not heroic. Functional. It works because he designed it to work, and because a man who spent his career making things function under academic condescension knows how to build something that operates without requiring recognition.
 
 **Shadow:** His engineering focus makes him a problem-solver by instinct, which means he tends to address the immediate problem rather than its systemic cause. During the occupation, he helps people survive without questioning why the system produced the conditions that made survival necessary. The engineer optimizes within constraints; it takes the Truth Seeker to question whether the constraints should exist.
 
@@ -70,7 +70,7 @@ The underground functions as an institution: membership, communication protocols
 
 ### Spirited Competitor (Fifth)
 
-There is a small, quiet satisfaction Harkim allows himself: the Topaz Tower's vindication. He has spent his career being told that applied science is slightly lesser than theoretical scholarship, and then Lathion happened, and then the Compact specifically targeted Empirica to destroy Topaz Tower's work, because the theorists beat the engineers at engineering and the engineers couldn't bear it. He did not cause this. He does not celebrate the war. But somewhere beneath the horror of occupation, there is a Topaz scholar who knows his tower's work mattered enough to make them a target, and finds this a complicated thing to sit with.
+There is a small, quiet satisfaction Harkim allows himself: the Topaz Tower's vindication. He has spent his career being told that applied science is slightly lesser than theoretical scholarship, and then Hauren happened, and then the Compact specifically targeted Empirica to destroy Topaz Tower's work, because the theorists beat the engineers at engineering and the engineers couldn't bear it. He did not cause this. He does not celebrate the war. But somewhere beneath the horror of occupation, there is a Topaz scholar who knows his tower's work mattered enough to make them a target, and finds this a complicated thing to sit with.
 
 He is also, in the resistance, quietly competent in a situation that rewards competence without asking for credentials. No one in the underground cares which tower he came from. This is both disorienting and, he eventually admits to himself, a relief.
 
@@ -78,7 +78,7 @@ He is also, in the resistance, quietly competent in a situation that rewards com
 
 ### Creator (Sixth)
 
-Very low, but not absent. Harkim does not make art and shows no expressive impulse — but the *form* the underground eventually takes does involve quiet Creator-instrumental work. The codes, the contact protocols, the architecture of plausible deniability that lets watchers communicate without attracting Ilhamori attention — these are *invented* structures, not just optimized ones. Lira's encoded-knowledge network in Book 4 is the same energy expressed in Harkim's vicinity: creative solutions to constraints, deployed instrumentally. He himself would not describe any of this as creative. He would say he was solving the problem the situation presented.
+Very low, but not absent. Harkim does not make art and shows no expressive impulse — but the *form* the underground eventually takes does involve quiet Creator-instrumental work. The codes, the contact protocols, the architecture of plausible deniability that lets watchers communicate without attracting Theraris attention — these are *invented* structures, not just optimized ones. Lira's encoded-knowledge network in Book 4 is the same energy expressed in Harkim's vicinity: creative solutions to constraints, deployed instrumentally. He himself would not describe any of this as creative. He would say he was solving the problem the situation presented.
 
 **Shadow:** Minimal. He does not create for expression's sake, and beyond the instrumental inventions the underground requires, he has no creative impulse to speak of.
 
@@ -108,6 +108,8 @@ He has never spent significant time in the bakarn districts. There is no reason 
 
 His sister is four years younger and profoundly unusual in ways the system has no framework for. Her eidetic recall is not like having a good memory — it is total, permanent reproduction of anything she has seen once, in precise detail. She can reconstruct a document from a single glance, navigate a city by its map, recall technical specifications she has glimpsed across a room. She is also, in other cognitive dimensions, different in ways the High Exam would classify as deficits: processing differences the exam is designed to catch, deviations from the narrow band of intellectual performance the system recognizes as intelligence.
 
+At Book 4's opening Lira is approximately twenty or twenty-one and stands **5′5″ / 165 cm**, with a slight-to-average unathletic build. The sibling relationship is visible without making her Danshall's duplicate: both have fair freckled skin, sandy-brown colouring, grey-blue eyes, substantial straight brows, a broad facial foundation, modest cheekbones, and a slightly wide naturally asymmetric nose. Lira's own face is softer, with rounder cheeks, a smaller chin, and distinct mouth and eye spacing; her straight shoulder-length hair is simply and slightly unevenly cut. She wears plain, well-mended civilian clothing without Tower colour or rank marks. She has no scars, cosmetics, or jewelry. Her presentation belongs to the hidden domestic life Danshall built around her, not to his institutional world.
+
 She would fail. She would fail not because she is less than the people who pass, but because the exam measures something she is not, and does not measure something she is. This is, to Harkim, an outlier case. A misfiring. He hides her with the same methodical competence he brings to everything — arrangements made, documentation managed, her existence in his life quietly maintained outside official records — because she is his sister and he loves her, and some things exist outside the system's purview.
 
 He does not, even secretly, believe the system is wrong. He believes Lira is exceptional. The distinction feels important to him. It will stop feeling important about halfway through Book 4.
@@ -122,7 +124,7 @@ The Compact strikes. Empirica falls. Harkim's first instinct — his immediate, 
 
 He finds her calmly packing, having already reconstructed the optimal evacuation route from a map she glimpsed once in his office. He notes this the way he always has: as his sister being remarkable *despite* her condition. As an exception being exceptional.
 
-The occupation establishes itself around them. Chief Acquisitor Wilka Zarnstran screens scholars by specialty. Research Director Emmett Thorne appears at midnight to warn him: she knows about Lira. Former Ilhamori Inspector Thalia Neth is asking about researchers with unusual cognitive profiles. Trust no one.
+The occupation establishes itself around them. Chief Acquisitor Wilka Zarnstran screens scholars by specialty. Research Director Emmett Thorne appears at midnight to warn him: she knows about Lira. Former Theraris Inspector Thalia Neth is asking about researchers with unusual cognitive profiles. Trust no one.
 
 Harkim observes the occupation through a scholar's lens, which means he barely notices what's happening in the bakarn districts. The Compact has less interest in controlling bakarn areas — no valuable knowledge there, in their assessment. In Harkim's assessment too, if he's honest.
 
@@ -132,7 +134,7 @@ Under Gunastran supervision at the research center, Harkim encounters **Perrin H
 
 He meets **Commander Darius Severen** — an Erulian officer who was once a Urathan scholar, who understands Urathan society from the inside. Harkim survives by leaning into the class prejudice Severen expects to see. This works because it is not entirely a performance. And the moment when Harkim realizes it is not entirely a performance is the first crack: the question he cannot quite suppress. *Why was that so easy?*
 
-Necessity forces him and Lira into the bakarn district, where they discover Neth has been ahead of him all along — the rigid Ilhamori enforcer who has already, through her own forced proximity to bakarn resisters, begun to question everything she enforced. Harkim watches her treat them as equals. He finds this strange.
+Necessity forces him and Lira into the bakarn district, where they discover Neth has been ahead of him all along — the rigid Theraris enforcer who has already, through her own forced proximity to bakarn resisters, begun to question everything she enforced. Harkim watches her treat them as equals. He finds this strange.
 
 ### The War Inside
 
@@ -168,7 +170,7 @@ And the anomaly from the capital will not stop nagging.
 
 The Provosts built and maintained the bakarn classification for generations. When it was suspended, they didn't fight. They just waited. Patient. Unconcerned. As if the classification system was never actually important to them. As if they had something else.
 
-Harkim opens a notebook. Quiet observations. Things that don't add up. The Provosts' strange indifference. Energy consumption figures for the Ivory Tower that don't match its visible operations. An Ilhamori classified unit with no official mandate. Small things. Data points that don't fit the model.
+Harkim opens a notebook. Quiet observations. Things that don't add up. The Provosts' strange indifference. Energy consumption figures for the Ivory Tower that don't match its visible operations. A classified Theraris unit with no official mandate. Small things. Data points that don't fit the model.
 
 He doesn't know what the Globehall is. He won't learn for years.
 
@@ -180,9 +182,9 @@ But the question is planted: *if they don't need the bakarn system, what do they
 
 In the years between the Compact War and Xion and Elara's state visit to Uratha, Harkim builds.
 
-The notebook fills. One man cannot document an anomaly of the size he's mapping — cannot simultaneously track energy consumption records, personnel files, Ilhamori deployment patterns, and the systematic disappearance of bakarn even after the official classification is abolished. He recruits carefully, through channels, with the patient caution of a man who has spent a decade hiding his sister and learned the discipline required for invisible work.
+The notebook fills. One man cannot document an anomaly of the size he's mapping — cannot simultaneously track energy consumption records, personnel files, Theraris deployment patterns, and the systematic disappearance of bakarn even after the official classification is abolished. He recruits carefully, through channels, with the patient caution of a man who has spent a decade hiding his sister and learned the discipline required for invisible work.
 
-The underground he builds is not a revolutionary cell. It is an evidence-gathering operation. Its members are, largely, people like him: people who noticed something that didn't fit and couldn't let it go. Former bakarn who watched neighbors disappear and were told to stop asking. Junior scholars whose research touched anomalies the Ilhamori audited and redirected. Emerald Tower scholars — the ones who noticed that familiar faces were still disappearing after the reforms, who worked closely enough to the bakarn to feel their absence.
+The underground he builds is not a revolutionary cell. It is an evidence-gathering operation. Its members are, largely, people like him: people who noticed something that didn't fit and couldn't let it go. Former bakarn who watched neighbors disappear and were told to stop asking. Junior scholars whose research touched anomalies the Theraris audited and redirected. Emerald Tower scholars — the ones who noticed that familiar faces were still disappearing after the reforms, who worked closely enough to the bakarn to feel their absence.
 
 They are watchers. They are note-keepers. They do not know what they are documenting, exactly. They know its shape: a facility that doesn't exist on any blueprint, consuming power at a rate inconsistent with its official non-existence, staffed by personnel assigned to locations that cannot be found, surrounded by a pattern of disappearance that began before the Compact War and continued through the reforms and never, at any point, stopped.
 
@@ -238,9 +240,9 @@ By the end of the occupation, his gratitude to her is genuine. Whether he has re
 
 She is, more than any other person, the human face of the evidence that breaks his framework. Every exception eventually has a face.
 
-### Thalia Neth (Former Ilhamori Inspector, Resistance Leader)
+### Thalia Neth (Former Theraris Inspector, Resistance Leader)
 
-She is ahead of him throughout Book 4, which unsettles him more than almost anything else. The rigid Ilhamori enforcer, the product of Uratha's most politically compromised Tower, was forced by circumstances to revise her framework before he was forced to revise his. She has already made the journey he's partway through. Watching her treat bakarn resisters as equals is, early in the occupation, strange to him. Later, it is instructive.
+She is ahead of him throughout Book 4, which unsettles him more than almost anything else. The rigid Theraris enforcer, the product of Uratha's most politically compromised Tower, was forced by circumstances to revise her framework before he was forced to revise his. She has already made the journey he's partway through. Watching her treat bakarn resisters as equals is, early in the occupation, strange to him. Later, it is instructive.
 
 Neth's path and Harkim's run parallel without quite converging — she arrives at disillusionment through different experience, and they meet somewhere in the middle of the resistance, both of them changed, with different shapes of change. She is not a mentor to him. She is a data point he didn't expect.
 
@@ -266,7 +268,7 @@ He is, above all, relieved.
 
 ### Physical Presence
 
-A Topaz Tower scholar in his mid-twenties by Book 4's opening: not physically imposing, not marked by his work in any visible way. He carries himself with the specific confidence of someone who is genuinely excellent at a practical skill — an ease in technical environments, a precision in gesture, a tendency to look at things rather than through them. His hands are the hands of someone who works with equipment. His clothing is functional without being rough.
+A Topaz Tower scholar in his mid-twenties by Book 4's opening, Danshall stands **5′9″ / 175 cm** and is not physically imposing: lean-to-average, with slightly narrow shoulders, and not marked by his work in any visible way. He has fair neutral skin with subtle freckles and the mild pallor of an indoor scholar, short practical sandy-brown hair, grey-blue eyes beneath substantial straight brows, and a broad, softly rectangular face. His cheekbones are modest, his nose slightly wide and naturally asymmetric, and his jaw firm without being sculpted; he is clean-shaven and has no scars. He carries himself with the specific confidence of someone who is genuinely excellent at a practical skill — an ease in technical environments, a precision in gesture, a tendency to look at things rather than through them. His hands are the hands of someone who works with equipment. His clothing is functional without being rough: matte amber-gold Topaz livery, dark practical underlayers, and the single thin silver cuff band of a junior scholar.
 
 By Book 8, he is older. Not dramatically — scholars age slowly when they are not at war. But the decade of sustained, careful, necessarily invisible work has given him a particular quality of stillness. He has learned to take up very little space. This is a skill he developed deliberately.
 

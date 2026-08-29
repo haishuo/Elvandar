@@ -180,7 +180,7 @@
   <line x1="365" y1="700" x2="755" y2="700" stroke="#3a2a18" stroke-width="1.5" stroke-dasharray="6 3" opacity="0.7"/>
 
   <!-- ============ KEY LANDMARKS ============ -->
-  <!-- Ruby Palace (CENTER of city, Imperial Quarter, directly above Lathion's Destiny Engine).
+  <!-- Ruby Palace (CENTER of city, Imperial Quarter, directly above Hauren's Destiny Engine).
        The geographic centrality is load-bearing: the palace sits above the Engine chamber. -->
   <g transform="translate(510,375)">
     <rect x="-32" y="-22" width="64" height="44" fill="#a83232" stroke="#3a2a18" stroke-width="1.6"/>
@@ -191,11 +191,11 @@
     <circle cx="0" cy="-52" r="3" fill="#a83232" stroke="#3a2a18" stroke-width="1"/>
     <!-- gate -->
     <rect x="-6" y="6" width="12" height="16" fill="#3a2a18"/>
-    <!-- subtle glyph beneath indicating "above Lathion's Engine" -->
+    <!-- subtle glyph beneath indicating "above Hauren's Engine" -->
     <circle cx="0" cy="40" r="14" fill="none" stroke="#3a2a18" stroke-width="0.6" stroke-dasharray="2 2" opacity="0.55"/>
   </g>
   <text x="510" y="335" font-size="11" font-weight="700" text-anchor="middle" fill="#7a1d1d">RUBY PALACE</text>
-  <text x="510" y="446" font-size="7" text-anchor="middle" fill="#5a3a18" font-style="italic" opacity="0.7">~ above Lathion's heart ~</text>
+  <text x="510" y="446" font-size="7" text-anchor="middle" fill="#5a3a18" font-style="italic" opacity="0.7">~ above Hauren's heart ~</text>
 
   <!-- Hall of Cartels (just north of palace, in Imperial Quarter) -->
   <g transform="translate(510,290)">

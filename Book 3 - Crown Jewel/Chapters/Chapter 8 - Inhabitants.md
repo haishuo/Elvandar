@@ -58,7 +58,7 @@ The circular plaza where six roads came together around a fountain still running
 
 And a long curved gallery lined with alcoves, each alcove holding an object nobody could identify, became the Gallery of Unknowns. That one was a joke and everybody knew it was a joke and the junior scholars said it with obvious pleasure every single time.
 
-None of them were right. Xion understood that perfectly well. The Lathionese had walked these roads for fifty centuries and had called them something, and whatever they had called them had gone wherever they had gone, and what was being laid over the top of it now was a set of noises invented by exhausted foreigners in the space of one working day.
+None of them were right. Xion understood that perfectly well. The Haureni had walked these roads for fifty centuries and had called them something, and whatever they had called them had gone wherever they had gone, and what was being laid over the top of it now was a set of noises invented by exhausted foreigners in the space of one working day.
 
 He found himself moved by the smallness of it, and could not have said exactly why. Four little human words, put down carefully on top of something enormous. It was not much. It was the only thing they had.
 
@@ -102,7 +102,7 @@ Xion noticed. He did not do anything about it. He put it where he put things.
 
 ---
 
-They took the infrastructure and left the inscriptions, and by the afternoon there were two expeditions in Lathion working the same city from opposite ends.
+They took the infrastructure and left the inscriptions, and by the afternoon there were two expeditions in Hauren working the same city from opposite ends.
 
 The scholars had the writing. They were up and down the Crown's frontages with rubbing paper and lenses, arguing in low voices, and every so often one of them would make a sound that brought three others at a run.
 
@@ -186,7 +186,7 @@ He had been handling cloth professionally since he was fifteen. He knew what old
 
 Nothing in this room had reached it.
 
-He stood there working through the reasons that would let it be nothing. No sun. No damp. No weather at all, in here — no season, no frost, no rot, and if there had ever been a moth in Lathion the machines had presumably dealt with its descendants some centuries ago. That was a real argument. It was the same argument as the floor, and it might well be the right one, and he could not make himself finish it, because he was holding a corner of a curtain between his finger and his thumb and it felt like a curtain.
+He stood there working through the reasons that would let it be nothing. No sun. No damp. No weather at all, in here — no season, no frost, no rot, and if there had ever been a moth in Hauren the machines had presumably dealt with its descendants some centuries ago. That was a real argument. It was the same argument as the floor, and it might well be the right one, and he could not make himself finish it, because he was holding a corner of a curtain between his finger and his thumb and it felt like a curtain.
 
 He let it go and it swung and stopped.
 
@@ -220,7 +220,7 @@ Xion looked, and saw a bank of dark soil, and nothing else.
 
 Xion crouched beside him and looked at a wall of soil with lines in it.
 
-"Everything else in this city is brass," Brennek said, "and brass is no use to me. Brass looks the same after twenty years as after five thousand and I can't tell you which. Stone's worse." He wiped his hand on his knee. "But something's been growing here the whole time, and every year of it had to go somewhere, and it came here, and it stacked up in order. This is the only clock in Lathion. It's the one thing down here that ever got older."
+"Everything else in this city is brass," Brennek said, "and brass is no use to me. Brass looks the same after twenty years as after five thousand and I can't tell you which. Stone's worse." He wiped his hand on his knee. "But something's been growing here the whole time, and every year of it had to go somewhere, and it came here, and it stacked up in order. This is the only clock in Hauren. It's the one thing down here that ever got older."
 
 "How many?"
 

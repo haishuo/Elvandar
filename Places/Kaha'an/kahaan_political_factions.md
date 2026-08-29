@@ -73,7 +73,7 @@ and stability and preservation are themselves acts of loyalty.
 irritating thing is that this is not wholly false.**
 
 **Base**
-- Cartel-integrated houses — **Valorian**, **Tolvane**, **Malthorn** (Grain); **Darfi**, **Corvallen**,
+- Cartel-integrated houses — **Hadris**, **Tolvane**, **Malthorn** (Grain); **Darfi**, **Corvallen**,
   **Nerrick** (Water); **Issamil**, **Belgrand**, **Vorthak** (Iron)
 - Administrators and magistrates whose authority derives from Coterie appointment
 - Commercial beneficiaries of the cartel order

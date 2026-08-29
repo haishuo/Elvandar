@@ -186,4 +186,4 @@ That was all. That was everything.
 
 Somebody — Xion never knew who, and thought afterward that it might have been himself — whispered it.
 
-"Lathion."
+"Hauren."

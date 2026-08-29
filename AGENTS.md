@@ -105,9 +105,22 @@ inside the Book 1–3 span.
 **The Rending** happened ~20 years before Book 1. There is only one. Never reintroduce "First
 Rending" or "Sundering." `Magic/The Rending.md` is authoritative.
 
-**Lathion.** Built ~5,000 years ago, sealed ~2,000 years ago, inhabited until ~20 years ago.
+**Visual appearance is not inferred from the current biome.** Kaha'an became a desert only after the
+Rending, approximately twenty years before Book 1; before that, the region was grassland. Do not
+automatically translate *Kaha'ani* or *desert city* into Middle Eastern, North African, deeply tanned, or
+dark-complexioned character design. The intended general register for old Kaha'ani and Balishan court
+culture is closer to classical Mediterranean — Italian or Roman — unless the text establishes otherwise.
+
+For character art, use this authority order: **explicit prose → beat drafts → character sheets and
+`People/Basic Physical Characteristics.md` → approved photorealistic family/reference models → authorial
+direction.** Family resemblance and established complexion outrank environmental associations. If an
+appearance remains unspecified, make the choice consciously; do not let setting stereotypes silently
+decide it.
+
+**Hauren.** The modern Balishan name is approved; its native historical suite is *Halauren/Halauri*.
+The referent is hard canon: built ~5,000 years ago, sealed ~2,000 years ago, inhabited until ~20 years ago.
 Fresh tomb, not ancient one. The Destiny Engine was built in months during the Rending crisis
-and should look visibly hastier than everything around it. Characters do not know Lathionese
+and should look visibly hastier than everything around it. Characters do not know Haureni
 proper names and neither does the narrator in Xion's POV.
 
 **Book 3's Wonder chapter (`Chapters/Chapter 7 - Wonder.md`) carries one emotion and nothing else.**
@@ -116,7 +129,7 @@ do not revise it*, and that wording was wrong in a way that showed: it exerted a
 came near the chapter, up to and including refusing to fix the seam where ch5 hands off to it. **The prose
 is revisable like any other prose in this repository.** Revise it for correctness, for continuity, for the
 join with the chapter before it. What must never happen is a second emotion getting in — no grief, no
-irony, no arc-closure, no logistics, no foreshadowing of what Lathion costs. The Jurassic Park principle
+irony, no arc-closure, no logistics, no foreshadowing of what Hauren costs. The Jurassic Park principle
 applies here in its purest form. *Renumbered twice and never rewritten: ch5 until 2026-08-01 when
 `Chapter 3 - Storm-Line` was inserted, ch6 until 2026-08-03 when `Chapter 6 - Fair Price` was.*
 
@@ -361,6 +374,7 @@ Book N - Title/
 People/              character sheets
 Places/              geography and settings
 Magic/               metaphysics, incl. the authoritative The Rending.md
+Languages/           linguistic history, naming systems, grammars, scripts, and lexicons
 Templates/           document patterns
 Tools/               royalroad_export.py — regenerates every Royal Road/ folder
 Offstage.md                  canon that never got a scene — see below

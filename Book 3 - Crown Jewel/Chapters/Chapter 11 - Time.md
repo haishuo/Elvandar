@@ -46,7 +46,7 @@ By the time they reached the bottom of the descent she was already a hundred met
 
 It was Brennek who stopped.
 
-Xion went another three steps before he registered it, turned, and found the surveyor standing with his lamp up against the wall — which was itself strange, because there was no need for a lamp anywhere in Lathion and Brennek carried one anyway, out of what he had once described as professional distrust.
+Xion went another three steps before he registered it, turned, and found the surveyor standing with his lamp up against the wall — which was itself strange, because there was no need for a lamp anywhere in Hauren and Brennek carried one anyway, out of what he had once described as professional distrust.
 
 "Counselor."
 
@@ -86,7 +86,7 @@ Xion had walked into the Repository nine days earlier and had thought, at the ti
 
 The chamber was enormous — larger than the Repository, half again as large, a volume that took the eye a moment to accept — and it was **unfinished**.
 
-Not ruined. Not collapsed. Nothing in Lathion had ever collapsed. It was unfinished the way a room in a good house is unfinished when the money has stopped: the floor laid perfectly for two-thirds of its run and then simply ending in a level bed of grey composite that nobody had ever come back to face. Stretches of wall left bare where the panelling ran out. The great ribs of the ceiling supports carrying their load exactly as they had been calculated to carry it, and carrying it naked, without a single one of the brass sheaths that covered every structural member in the city above.
+Not ruined. Not collapsed. Nothing in Hauren had ever collapsed. It was unfinished the way a room in a good house is unfinished when the money has stopped: the floor laid perfectly for two-thirds of its run and then simply ending in a level bed of grey composite that nobody had ever come back to face. Stretches of wall left bare where the panelling ran out. The great ribs of the ceiling supports carrying their load exactly as they had been calculated to carry it, and carrying it naked, without a single one of the brass sheaths that covered every structural member in the city above.
 
 Somebody had built this to the very edge of what it needed and had stopped there, and had not stopped there because they ran out of care.
 
@@ -102,11 +102,11 @@ And it was ugly.
 
 That was the second fact, and it was the one that mattered, and Xion understood — standing there with his hands at his sides — that he was going to remember the order in which those two facts had arrived for the rest of his life.
 
-Everything else in Lathion had been *made*. A stair rail had a curve in it that no stair rail needed. The panels on a frontage in the second boulevard turned the light in a way that had cost some man a season of his working life and had improved nothing whatsoever except the light. He had walked past a drinking fountain in the Crown with a lip on it worked so that the water would break correctly, for nobody, forever.
+Everything else in Hauren had been *made*. A stair rail had a curve in it that no stair rail needed. The panels on a frontage in the second boulevard turned the light in a way that had cost some man a season of his working life and had improved nothing whatsoever except the light. He had walked past a drinking fountain in the Crown with a lip on it worked so that the water would break correctly, for nobody, forever.
 
 This thing had none of that. Not a line of it. Every surface was the surface required, every joint the joint that would hold, and where two assemblies met at an angle that would have embarrassed the men who built the boulevards, they met at that angle anyway and were bolted through.
 
-The precision was Lathionese. The precision was terrifying. The beauty had simply not been in the budget.
+The precision was Haureni. The precision was terrifying. The beauty had simply not been in the budget.
 
 Brennek came up beside him and stood and looked at it and did not say anything for a very long time. Xion let him. He had watched this man describe a water main with something close to reverence; he had heard him call a corridor's ventilation the deepest piece of thinking he had ever been allowed to look at.
 
@@ -134,7 +134,7 @@ He drifted along behind them and listened.
 
 "It's the same language," one of them said, to nobody. "It is not the same *hand*."
 
-That much even Xion could see. The Lathionese script in the Repository had been cut into brass plates the way a good clerk writes: even, unhurried, each mark the same depth as the mark before it, over acres of surface, in a room where forty thousand objects had been indexed on their outsides so that a stranger could find one without opening it.
+That much even Xion could see. The Haureni script in the Repository had been cut into brass plates the way a good clerk writes: even, unhurried, each mark the same depth as the mark before it, over acres of surface, in a room where forty thousand objects had been indexed on their outsides so that a stranger could find one without opening it.
 
 These cuts were deep. They were uneven. In places the stroke had run past its stop.
 
@@ -270,7 +270,7 @@ Twenty years. The number Brennek had found on the shelving in the Repository and
 
 They had not been two facts.
 
-Lathion had not emptied around the time of the Rending. Lathion had emptied **in** it. The same event. The same week, the same day, in some accounting that nobody up above had ever had the information to make. Four hundred metres under a city that had spent twenty years calling itself a survivor, another city had been dying of the identical wound.
+Hauren had not emptied around the time of the Rending. Hauren had emptied **in** it. The same event. The same week, the same day, in some accounting that nobody up above had ever had the information to make. Four hundred metres under a city that had spent twenty years calling itself a survivor, another city had been dying of the identical wound.
 
 And it had not died by accident.
 
@@ -314,7 +314,7 @@ He did not say one syllable of it in that room.
 
 The practical work took the rest of the afternoon, and Xion did it, because it was what he could do.
 
-The Lathionese had not built a door across the corridor mouth. They had built the *fitting* for a door, and left the door in its housing, and never used it — one more thing on the list of what four months does not cover. Brennek found the housing in about an hour and spent three more on the mechanism, working the way he worked, which was to touch nothing until he had drawn it, and then to touch exactly one thing.
+The Haureni had not built a door across the corridor mouth. They had built the *fitting* for a door, and left the door in its housing, and never used it — one more thing on the list of what four months does not cover. Brennek found the housing in about an hour and spent three more on the mechanism, working the way he worked, which was to touch nothing until he had drawn it, and then to touch exactly one thing.
 
 At the eighth hour a slab of brass came out of the wall of the corridor and rotated across its mouth and seated with a sound Xion felt in his back teeth.
 
@@ -438,7 +438,7 @@ That is what the long tables are, deeper in, on a level below anything the exped
 
 Then the day.
 
-A place with nothing around it. She does not know where it is and she has never been shown a map with it on. There is one man there and he is alone and he is doing something, and the instruments in Lathion begin to register it — she has no word for what they register — and go on registering it, and the register climbs, and the people at the tables stop writing.
+A place with nothing around it. She does not know where it is and she has never been shown a map with it on. There is one man there and he is alone and he is doing something, and the instruments in Hauren begin to register it — she has no word for what they register — and go on registering it, and the register climbs, and the people at the tables stop writing.
 
 The Gray Gate.
 

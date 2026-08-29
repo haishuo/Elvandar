@@ -4,15 +4,45 @@
 
 In a city where everything has a price, the Long Knives represent the ultimate commodity broker—they trade in death itself. This guild of assassins has been a shadow power in Kaha'an since before The Rending, growing stronger as the city's moral fabric frayed.
 
-### Pre-Rending Foundations
+### The First Charge
 
-- Originally formed during the late imperial period as a small covert organization  
-- Operated primarily through discreet contracts among the nobility and wealthy merchants  
-- Maintained strict protocols to remain invisible to imperial authorities  
-- Specialized in eliminating targets without evidence or suspicion  
-- Developed rigorous training methods focused on stealth, poison craft, and untraceable killing  
-- Built a reputation for absolute reliability and discretion  
-- Established their base in what would later become the Warrens
+The guild is far older than Kaha'an, the Balishan Empire, or the name **Long Knives**. At Hauren's sealing
+roughly two thousand years ago, the Haureni commissioned a small human custodial order to control the
+surviving approaches to the Brass Door. Watchfulness, hidden movement, route control, and silent killing
+were methods of keeping a forbidden threshold invisible before they became a profession sold for coin.
+
+Two millennia erased the original Late Open Halauri name, the identity of the patron, and the reason the
+Door mattered. The charge survived. The current guild does not know this history; it knows only that the
+Door and its approaches have belonged to the order since time immemorial. The full authoritative account
+is `Offstage.md`, **“The First Charge of the Long Knives.”**
+
+### The Long Drift
+
+The custodial disciplines found other uses as the explanation behind them disappeared:
+
+- watchers and approach control became intelligence networks;
+- silent removal of intruders became assassination craft;
+- control of the hidden route became control of tunnels and territory;
+- an institutional oath became a taboo whose source nobody could name;
+- the founding title disappeared and the order acquired the Modern Balishan name translated as **Long
+  Knives**.
+
+The original route knowledge did not survive intact. Collapses, flooding, lost records, and failed
+transmission made any founding map useless; the Mistress's present route through Dead Man's Passage was
+rebuilt through trial, error, and deaths.
+
+### Late Imperial Criminal Form
+
+By the late imperial period the organization had become recognizably the covert guild later Kaha'ani
+history records:
+
+- it operated through discreet contracts among nobles and wealthy merchants;
+- it maintained strict protocols to remain invisible to imperial authorities;
+- it specialized in eliminating targets without evidence or suspicion;
+- it developed rigorous training in stealth, poison craft, and untraceable killing;
+- it built a reputation for absolute reliability and discretion;
+- it established its criminal base in what would later become the Warrens while continuing to guard the
+  Door for reasons none of its members could explain.
 
 ### Post-Rending Expansion
 

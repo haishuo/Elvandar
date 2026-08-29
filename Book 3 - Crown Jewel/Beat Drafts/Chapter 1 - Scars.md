@@ -11,7 +11,7 @@
 
 1. The kingdom is running on fumes, and the room knows it. The first working session of the new order convenes in a chamber that has been cleared of its Coterie-era furnishings — not symbolically, but practically, because the room is being used. The deliberate plainness of it signals something: Elara is not interested in the theater of governance. She is interested in governance. The people gathered around the table are not there by accident. They are there because they run things that cannot be run without them.
 
-2. We take stock of who is in the room. Sa Ko Ren of Iron. Tania Larannas of Water. Representatives of the old noble houses — Valorian or Tolvane, families that had been aligned with Rosik's faction and are now recalibrating. Elara at the head of the table. Kael and Silvanno in supporting positions. And Xion, seated slightly off-center — not at the table's head, not sidelined, but clearly in the position of someone whose function here is advisory and whose presence is not accidental.
+2. We take stock of who is in the room. Sa Ko Ren of Iron. Tania Larannas of Water. Lord Merchant Tobias Hadris for the old cartel-aligned houses now recalibrating. Elara at the head of the table. Kael and Silvanno in supporting positions. And Xion, seated slightly off-center — not at the table's head, not sidelined, but clearly in the position of someone whose function here is advisory and whose presence is not accidental.
 
 3. What is not in the room: Ronas. The Slavers cartel's absence is conspicuous, and everyone knows what it means. Ronas controls the Warrens. He has not sent a representative. He has not declined. He simply has not acknowledged that this session exists, which is its own kind of statement. His absence is the first governance problem of the new order, and it will not be solved today.
 
@@ -23,7 +23,7 @@
 
 7. Farleen is present in the quiet, steady way that Book 2 established. She is not at the table but near it. Watching. Available. She doesn't speak in this scene, but her placement communicates something: there are people around Xion now who understand what the last months cost him, and who intend to stay. The texture of this is important — not comfort, exactly, but continuity. Farleen being in the room means there is something on the other side of all this work.
 
-8. The procedural objection. A representative of one of the old noble houses — Valorian or Tolvane — raises a question about Xion's presence that is framed with careful neutrality. On what basis does a Kemvimore counsel the crown? House Kemvimore's formal standing with this court has not been clarified. The representative says they simply want to understand the status of any counsel being offered. The word "simply" does significant work. The question is framed as administrative — as though the answer might be "he's here as a guest" or "we haven't gotten to the paperwork yet." The actual question underneath is more corrosive: *can you trust the son of the man who tried to destroy you?* The representative is not wrong on the face of it. Xion carries a name that has been publicly associated with treason, manipulation, and the near-collapse of Elara's court. No one has formally addressed what that means.
+8. The procedural objection. Hadris raises a question about Xion's presence that is framed with careful neutrality. On what basis does a Kemvimore counsel the crown? House Kemvimore's formal standing with this court has not been clarified. He says they simply want to understand the status of any counsel being offered. The word "simply" does significant work. The question is framed as administrative — as though the answer might be "he's here as a guest" or "we haven't gotten to the paperwork yet." The actual question underneath is more corrosive: *can you trust the son of the man who tried to destroy you?* Hadris is not wrong on the face of it. Xion carries a name that has been publicly associated with treason, manipulation, and the near-collapse of Elara's court. No one has formally addressed what that means.
 
 9. Xion does not respond. He doesn't need to. He watches Elara.
 
@@ -124,9 +124,9 @@ repetition. **Two recurrences at most across Books 4–8, and neither in a scene
 argument in it.** *(Ronas will point at it in Book 6 if anyone lets him — the crown that would not privatise
 its own gate is about to intervene in his.)*
 
-**Where beat 22 is paid: ch12, in a paragraph.** *(Author's ruling, 2026-08-05 — Lathion is **collateral, not
+**Where beat 22 is paid: ch12, in a paragraph.** *(Author's ruling, 2026-08-05 — Hauren is **collateral, not
 cash**.)* Nothing behind the Door is money, and schematics do not pay inside nine to fourteen months. **What
-closes this ledger is that Balisha becomes creditworthy**, borrowing against Lathion being effectively
+closes this ledger is that Balisha becomes creditworthy**, borrowing against Hauren being effectively
 unbounded — and they barely borrow. **The option existing is the whole of what they lacked.** Staged as the
 reversal of this beat: the lease-houses come to the crown, the Factor-Principal of Greystone asks for an
 audience, and **not one figure in Balisha's accounts has changed.** Only what it can pledge. Small, unenjoyed,

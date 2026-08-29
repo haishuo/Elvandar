@@ -88,7 +88,7 @@ What she has, she will not value as accumulation. The closest thing to wealth sh
 
 ### The Forest That Was
 
-The timber wolves were a lowland forest people — Balisha branch of a broader clan structure that included the gray wolves of the Sentinel Mountains as distant kin. They lived in the forested regions outside what would later become Kaha'an: pack-structured, dual-natured, oriented toward the survival of the pack and the holding of forest territory. Their name carried the trees they lived in. *Ashwood* was a clan among them.
+The timber wolves were a lowland forest people — Balisha branch of a broader clan structure that included the gray wolves of the Sentinel Mountains as distant kin. They lived in **Dunyelas**, the great northern forest outside Kaha'an: pack-structured, dual-natured, oriented toward the survival of the pack and the holding of forest territory. Their name carried the trees they lived in. *Ashwood* was a clan among them.
 
 The Rending burned the forests. The animals of those forests had nowhere to go. The lowland clans — pack-oriented, organized around territory that no longer existed in any useful form — dispersed in the chaos that followed. Some fled north toward Terinok and were absorbed by gray wolf packs willing to make room. Some scattered into the desert and did not survive long. Many ended up in Balisha, because Balisha was the city that survived and the city that swallowed every refugee it could.
 
@@ -165,7 +165,26 @@ She would, in all likelihood, find them as exhausting as the gray wolves find th
 
 ### Physical Presence
 
-Kess is shaped by the pit — the body of someone whose strength was developed not for aesthetic reasons but for staying alive against opponents who were trying very hard to make her stop being alive. Lean rather than bulky — pit fighters who carried excess mass tended not to survive long-distance fights. What she carries that other people notice without always being able to name is *presence*, the kind of presence that other fighters recognize even when she is not currently fighting. The wolf-nature underlies the human form constantly, visible to those who can read for it.
+Kess is approximately eighteen when Tiberian finds her near the end of Book 6, making her the same age as
+the Valanar twins. The pits did not wait for adulthood before using her; eighteen is the age at which she is
+freed, not the age at which she began fighting.
+
+She is **5′9″ / 175 cm**, exactly one inch shorter than Tiberian at their late-Book-6 meeting: compact enough
+to keep her center of gravity under her without reading as notably short. Kess is shaped by the pit — the
+body of someone whose strength was developed not for aesthetic reasons but for staying alive against
+opponents who were trying very hard to make her stop being alive. Lean rather than bulky — pit fighters who
+carried excess mass tended not to survive long-distance fights. What she carries that other people notice
+without always being able to name is *presence*, the kind of presence that other fighters recognize even
+when she is not currently fighting. The wolf-nature underlies the human form constantly, visible to those
+who can read for it.
+
+Her approved human-form reference has a light-to-medium neutral olive complexion, guarded grey-hazel eyes,
+strong level brows, high cheekbones, a firm angular jaw, and dark ash-brown hair cut roughly between jaw and
+shoulder length. Her hands and forearms carry the small ordinary marks of repeated fighting, but she has no
+decorative facial scar. She wears repaired charcoal and faded-brown Warrens fighting clothes, leather wraps
+and battered boots: practical, modest, and assembled for survival rather than spectacle. Nothing in her
+human form is literally lupine. The wolf registers through stillness, attention, and the uncomfortable sense
+that she has already measured every distance in the room.
 
 In wolf form she would be a timber wolf — somewhat smaller than the gray wolves of Terinok (the Sentinel range selected for larger frames; the lowland forests did not), but with the same predator stillness and the same controlled-but-not-entirely-voluntary shift under sufficient physical threat or emotional extremity.
 

@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Kaha'an stands as the last major city in what was once a thriving region, now transformed into an unforgiving desert wasteland. Built unknowingly atop the ancient ruins of Lathion, a lost elven civilization, Kaha'an represents both the resilience of humanity and the depths to which greed can drive a society. Twenty years after The Rending shattered the world, this city endures—not through cooperation or shared purpose, but through a brutal equilibrium maintained by four powerful cartels, each embodying different facets of human ambition and vice.
+Kaha'an stands as the last major city in what was once a thriving region, now transformed into an unforgiving desert wasteland. Built unknowingly atop the ancient ruins of Hauren, a lost elven civilization, Kaha'an represents both the resilience of humanity and the depths to which greed can drive a society. Twenty years after The Rending shattered the world, this city endures—not through cooperation or shared purpose, but through a brutal equilibrium maintained by four powerful cartels, each embodying different facets of human ambition and vice.
 
 ---
 
@@ -10,11 +10,63 @@ Kaha'an stands as the last major city in what was once a thriving region, now tr
 
 *Kaha'an* is not, strictly speaking, the name of a city. It is a title — *Royal Seat* in the old imperial tongue — conferred by the Balishan Empire upon whichever city holds the imperial throne. Like the standard that travels with a monarch, the name travels with the court. The place beneath it changes; the title does not.
 
+The title is literal. *Kaha* carries crown or sovereign authority, while *-'an* is the governing seat or
+official locus. The same modifier once named the **Kaha Batae**, the *Imperial Guard*. After the Rending,
+the surviving institution replaced *kaha* with *arol*, “old,” and became the **Arol Batae**: the *Old
+Guard*. The corps predates the catastrophe by centuries; its present name dates from it.
+
 For the first five centuries of the empire, Kaha'an *was* Vartonne. The imperial capital sat in the heartland, ringed by concentric boulevards and the great cosmological architecture for which Vartonne is still known, and the city was called Kaha'an by everyone in the empire who had cause to name it. What the city was called *before* it became the imperial seat is a matter for Vartonne's own historians; in imperial usage, it was Kaha'an, and that was the only name that mattered.
+
+The title was older than the empire. Late Open Halauri *kaha* meant sovereignty understood as an
+office, while bound *-'an* named the seat in which an authority was made present. The Valanar court took
+the whole Hieratic title *Kaha'an*—literally “Seat of Sovereignty,” conventionally **“Royal Seat”**—and
+made it transferable. Careful court pronunciation is **kah-HAH-an**, /ka.ˈha.ʔan/. It names neither a
+people nor a permanent patch of ground: the throne makes a city Kaha'an, and its departure unmakes it.
+
+That is the historical pronunciation, not the native modern one. Kaha'ani residents call their city
+**kah-HAN**, /kaˈhan/: loss of the glottal stop and contraction of adjacent vowels, regularized by people
+who must use the name constantly. The reduction is a local shibboleth. Someone who says full
+**kah-HAH-an** in ordinary conversation sounds as though he learned the city from its spelling or from a
+foreign classroom. The full form survives in fixed coronation language, Hieratic citation, and Collegiate
+Urathan recitation, where a resident may reproduce it as a historical reading. The canonical spelling
+remains ***Kaha'an***; ***Ka'han*** is only an author-facing pronunciation aid.
 
 The move came generations later, under one of the middle Valanars. The empire's center of gravity had shifted seaward — trade had grown faster than tribute, and Vartonne's small inland lake could not host a fleet. The Valanars looked east, to their summer palace on the coast: a vibrant trade city built around the only true deep-water harbor in the region, where the imperial family had long retreated from the summer heat. The court was moved there, permanently. The harbor city became Kaha'an. Vartonne reverted to Vartonne — its older name, its proper name, the name it had carried before the empire chose it and would carry long after the empire abandoned it.
 
-What the coastal city had been called before it became Kaha'an is, in practical terms, lost — in Kaha'an itself, no one alive remembers it. The city was called **Marrethonne**: Proto-Balishan for *Sea-place*, the plain native name of a working port-city whose defining feature had always been its deep-water harbor. The name shares the *-onne* morpheme with *Vartonne* — *Heart-place* — and marks the two cities as ancient sister-settlements of the Balishan heartland, paired by their naming-tradition long before either ever wore an imperial title. Common usage forgot the name within two generations of the title's transfer; the imperial bureaucracy had no reason to preserve it, and the inhabitants themselves found it convenient to be addressed by the title their city now wore. *Marrethonne* survives now only in Vartonne's archives — pointedly catalogued there, as a reminder of what was taken — in pre-imperial Urathan scholarly indices, and in the deepest pre-imperial Vault inventories. The title has fused to the place so completely that the distinction has gone soft, and most Kaha'ani would be surprised to learn there was a distinction at all, let alone that their city was once named in the same plain register as the Vartonne they affect to look down upon.
+The transfer took generations to finish even though the title moved with the throne. The imperial
+household, Kaha Batae, resident envoys, foreign and maritime offices, ambitious noble branches, financiers,
+clerks, artisans, servants, and suppliers followed access and money east. They did not replace the port's
+population. Their common imperial speech entered marriages, offices, workshops, and schools already using
+Marresonnian, creating the coastal court koine ancestral to modern Balishan and urban Kaha'ani. Vartonne's
+Hall of Records, land machinery, cathedral offices, and hereditary administration remained behind, which
+is why the two cities can both claim linguistic continuity with the empire and mean different things by
+it. Full transmission: `Languages/Imperial Balishan.md`.
+
+The two modern adjectives name different scales. ***Balishan*** uses the imperial polity suffix *-an* and
+belongs to the realm; ***Kaha'ani*** uses the eastern city-local suffix *-i* and belongs specifically to
+the capital's inhabitants, speech, or culture. Thus a Kaha'ani house or accent can still be Balishan.
+Native ***Kaha'ani*** is **kah-HAH-nee**, /kaˈha.ni/. Historical **kah-HAH-ah-nee**,
+/ka.ˈha.ʔa.ni/, preserves the transparent old derivation: the title's final /n/ resyllabifies before the
+suffix while its learned glottal stop remains.
+
+What the coastal city had been called before it became Kaha'an is, in practical terms, lost — in Kaha'an
+itself, no one alive remembers it. The city was called **Marresonne**, “Harbor Settlement”: *marreth* was
+the Late Open Halauri term for a sheltered deep-water sea-harbor, and *onna* an established habitation.
+The broad old translation **“Sea-place”** is still fair. Regular coastal sound change turned source
+*Marrethonna* into **Marresonne**, **MAR-reh-son**, /ˈmar.ə.son/. The city's living human name therefore
+carried its history in its sound rather than preserving a learned Halauri spelling.
+
+The final **-onne** is the same old settlement head preserved in *Vartonne*, though the western city's
+stem is human: *vart* means a confluence or meeting-center, making that name “Settlement at the
+Confluence” and giving rise to its poetic “Heart-place” interpretation. The shared head marks the two as
+ancient sister-settlements in one naming corridor, not as products of one uniform people or language.
+Common usage forgot *Marresonne* within two generations of the title's transfer; the imperial bureaucracy
+had no reason to preserve it, and the inhabitants themselves found it convenient to be addressed by the
+title their city now wore. The name survives now only in Vartonne's archives — pointedly catalogued there,
+as a reminder of what was taken — in pre-imperial Urathan scholarly indices, and in the deepest
+pre-imperial Vault inventories. The title has fused to the place so completely that the distinction has
+gone soft, and most Kaha'ani would be surprised to learn there was a distinction at all, let alone that
+their city was once named in the same plain register as the Vartonne they affect to look down upon.
 
 There is an irony in this that the cartels do not advertise. The empire that conferred the title is gone. The throne in the Ruby Palace sits empty. The Coterie rules from a city whose very name is an imperial honorific they have no standing to confer or revoke — and which, in strict imperial usage, would follow the throne wherever a legitimate Valanar restoration chose to place it. The name *Kaha'an* is, like the name *Balisha*, a piece of borrowed grandeur the cartels have grown too comfortable in to give up.
 
@@ -57,7 +109,7 @@ Rosik himself is calculating, patient, and understands that his power derives fr
 
 **One catastrophe created both halves of this economy, and they are very nearly the same size.** The
 Rending destroyed the farmland around Kaha'an, so the city must import nearly everything it eats. The
-Rending *also* killed the Deepwood and the back-country tracks beyond it, which is where caravans used to
+Rending *also* killed Dunyelas and the Yelpas roads through it, which is where caravans used to
 route to avoid the capital's tariffs — see `Places/elvandar_geography.md`: before, *"Kaha'an was important,
 not unavoidable"*; after, the bypasses **ceased to exist as routes.**
 
@@ -272,7 +324,7 @@ Tania is more subtle than the other cartel leaders, preferring to work through i
 **Leader:** Sa Ko Ren  
  **Resource Controlled:** Metalworking, weapons, tools, and manufacturing
 
-The Iron Cartel controls all significant metalworking in Kaha'an—from weapons and armor to tools and building materials. In a harsh desert environment where everything breaks down and needs constant maintenance, control of metal goods provides tremendous leverage. Sa Ko Ren, an immigrant from Terinok, built this cartel from nothing through sheer skill and determination, making her unique among the cartel leaders for having earned rather than inherited or married into her position.
+The Iron Cartel controls all significant metalworking in Kaha'an—from weapons and armor to tools and building materials. In a harsh desert environment where everything breaks down and needs constant maintenance, control of metal goods provides tremendous leverage. Sa Ko Ren, an immigrant Terinoki warrior, converted a singular Wild Sands windfall into forges, workshops and trained production capacity, then built the resulting cartel through discipline and organization. She is unique among the cartel leaders for having founded rather than inherited or married into her position; she directs the industrial system but is not herself a forge laborer.
 
 The Iron Cartel operates:
 
@@ -327,7 +379,7 @@ The Long Knives and the Slavers maintain an uneasy peace within the Warrens, eac
 
 ## **The Warrens: City Beneath the City**
 
-The Warrens developed after The Rending as hundreds of thousands of refugees flooded into Kaha'an. When the surface city could no longer contain them and desert heat made the northern ruins nearly uninhabitable, desperate people discovered ancient tunnel entrances beneath the old imperial slums. These tunnels—part of Lathion's 5,000-year-old service infrastructure—became home to approximately 60,000 refugees who survive in darkness and poverty.
+The Warrens developed after The Rending as hundreds of thousands of refugees flooded into Kaha'an. When the surface city could no longer contain them and desert heat made the northern ruins nearly uninhabitable, desperate people discovered ancient tunnel entrances beneath the old imperial slums. These tunnels—part of Hauren's 5,000-year-old service infrastructure—became home to approximately 60,000 refugees who survive in darkness and poverty.
 
 **Physical Reality:** The Warrens consists of two interconnected parts:
 
@@ -341,14 +393,14 @@ The Warrens developed after The Rending as hundreds of thousands of refugees flo
 
 *Underground Network:*
 
-* 50,000-52,000 residents in ancient Lathionese tunnels  
+* 50,000-52,000 residents in ancient Haureni tunnels
 * Vertical stratification from \-20m to \-500m+ depth  
 * The Tiers (-20 to \-100m): Upper chambers, relatively better conditions (15,000-18,000)  
 * The Midlevels (-100 to \-300m): Where most residents live (25,000-30,000)  
 * The Depths (-300 to \-500m): Hot, dangerous, desperate (8,000-10,000)  
 * Dead Man's Passage (-500m+): Lethal labyrinth leading to sealed brass door
 
-**Infrastructure:** The ancient Lathionese systems still function partially:
+**Infrastructure:** The ancient Haureni systems still function partially:
 
 * Ventilation shafts with slowly-turning mechanical fans (millennia old, still working)  
 * Water access tunnels connecting to underground aquifers  
@@ -496,9 +548,9 @@ This represents a profound loss, though few in Kaha'an recognize it. The focus o
 
 ## **The Hidden Truth**
 
-What makes Kaha'an's situation even more tragic is what lies beneath it—literally. Unknown to almost everyone, the city was built atop Lathion, an ancient elven civilization that achieved wonders far beyond anything the current age has managed. Sealed behind the brass door in Dead Man's Passage lies a complete city, still powered and maintained by automated systems after 5,000 years.
+What makes Kaha'an's situation even more tragic is what lies beneath it—literally. Unknown to almost everyone, the city was built atop Hauren, an ancient elven civilization that achieved wonders far beyond anything the current age has managed. Sealed behind the brass door in Dead Man's Passage lies a complete city, still powered and maintained by automated systems after 5,000 years.
 
-The Lathionese had:
+The Haureni had:
 
 * Technology indistinguishable from magic  
 * Solutions to energy, water, and resource scarcity  
@@ -574,7 +626,6 @@ The city represents a cautionary vision: what humanity becomes when immediate ma
 
 Yet even in this darkness, there are glimmers of something else. The monks at the Sanctuary helping refugees. Sa Ko Ren's respect for demonstrated competence. Communities in the Warrens supporting each other despite brutal conditions. The Long Knives maintaining complex codes of conduct. These suggest that even in a society built on greed, other human qualities persist.
 
-The question is whether these remnants of better impulses can grow, or whether Kaha'an's trajectory toward complete moral collapse is inevitable. The answer may depend on whether the sealed secrets beneath the city remain hidden—or whether discovery of Lathion's wonders could provide the resources to break the scarcity that drives Kaha'an's cruelty.
+The question is whether these remnants of better impulses can grow, or whether Kaha'an's trajectory toward complete moral collapse is inevitable. The answer may depend on whether the sealed secrets beneath the city remain hidden—or whether discovery of Hauren's wonders could provide the resources to break the scarcity that drives Kaha'an's cruelty.
 
 For now, the city endures: a desert crossroads where desperate people fight over scraps while standing unknowingly atop abundance, where civilization's forms mask barbarism's substance, and where humanity's worst impulses have created a society that works precisely because it has abandoned any pretense of justice, compassion, or shared purpose.
-

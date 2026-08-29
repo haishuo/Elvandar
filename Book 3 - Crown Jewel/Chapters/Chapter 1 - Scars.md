@@ -6,7 +6,7 @@ It was not a statement. That was the part he liked. Nobody had stood in the door
 
 He took the seat that had been left for him. Not at the head. Not against the wall with the secretaries either. A little off the axis of the table, close enough to be spoken to, far enough that nobody had to decide what he was.
 
-Sa Ko Ren was already there, forearms on the wood, sleeves pushed back over old burn scars she had never once explained to anybody. Tania Larannas arrived four minutes later in grey rather than emerald, which Xion filed and did not comment on. Kael Issamil came in with a folio under his arm and sat where he could see the door. Silvanno followed, and did the thing Silvanno did, which was to greet three people warmly on his way to a chair and leave each of them slightly better disposed toward the room.
+Sa Ko Ren was already there, sleeves pushed back, one forefinger holding her place in an open ledger. Tania Larannas arrived four minutes later in grey rather than emerald, which Xion filed and did not comment on. Kael Issamil came in with a folio under his arm and sat where he could see the door. Silvanno followed, and did the thing Silvanno did, which was to greet three people warmly on his way to a chair and leave each of them slightly better disposed toward the room.
 
 Two seats stayed empty, and everyone in the chamber understood both of them.
 
@@ -40,7 +40,7 @@ Xion spoke three times in the first hour. Twice on the reconstruction schedule, 
 
 He knew where Farleen was without looking. She had come in behind the secretaries and settled against the wall by the second window, in the place with the sightline to both doors, and she had not moved since. She would not speak. She had no standing here and did not want any. But she had been at the wall in the square when he could not stand up, and she had walked him back, and she had been in every room he had needed to be in since, and it had stopped being remarkable somewhere in the last month, which was its own kind of remarkable.
 
-It was Lord Merchant Tobias Valorian who broke it, and he did it well.
+It was Lord Merchant Tobias Hadris who broke it, and he did it well.
 
 He waited for a natural seam in the discussion. He did not interrupt. He set his hands flat on the table, which is what a man does when he wants to look like he is not enjoying himself, and he addressed Elara rather than Xion, which was correct, and which was also the point.
 
@@ -48,11 +48,11 @@ He waited for a natural seam in the discussion. He did not interrupt. He set his
 
 The room did not go silent. That was not how these things worked. The room simply stopped moving, the way water stops moving before it changes state.
 
-"House Kemvimore's formal standing with this court has not been clarified," Valorian said. "I raise it now because we are about to commit numbers to a record, and I would not like the record to be ambiguous. We simply wish to understand the status of any counsel being offered."
+"House Kemvimore's formal standing with this court has not been clarified," Hadris said. "I raise it now because we are about to commit numbers to a record, and I would not like the record to be ambiguous. We simply wish to understand the status of any counsel being offered."
 
 *Simply.* Xion turned the word over and found it beautifully made. Nothing in the sentence was false. Nothing in it was even discourteous. It was a question a clerk might ask, delivered in the voice a clerk might use, and underneath it was the only question anyone in Kaha'an had actually wanted to ask him for six weeks: *can you trust the son of the man who tried to destroy you?*
 
-And Valorian was not wrong to ask. That was the part Xion had made his peace with somewhere around the third week. His name had been on the ledgers. His name had been in the proclamations. The man who had nearly broken this court had shared a house and a table and a surname with him for twenty-three years, and no one had ever formally said what that meant, because there had been no formal anything yet. This was the first room in which a formal anything could be said.
+And Hadris was not wrong to ask. That was the part Xion had made his peace with somewhere around the third week. His name had been on the ledgers. His name had been in the proclamations. The man who had nearly broken this court had shared a house and a table and a surname with him for twenty-three years, and no one had ever formally said what that meant, because there had been no formal anything yet. This was the first room in which a formal anything could be said.
 
 He did not answer. He had thought about how he would answer, in the dark, more than once, and had assembled three or four versions of it, and all of them were worse than silence. Anything he said would be a man defending himself. He set his hands loosely on the table and he looked at Elara.
 
@@ -64,7 +64,7 @@ She did not raise her voice. She did not lean forward. What she did was pick the
 
 "The day I took the throne," she said, "the palace protocols escorted him out of the building. Not by my order. By procedure — he had no standing, and there was no category for him, and the men whose job it is to be certain about categories were certain. For the four months that followed he wrote to me. Some of it reached me. Most of it reached a desk. He came to the gate and was turned at the gate, and I know precisely how many times, because it is in the porters' book and I have read the porters' book."
 
-Valorian's hands stayed flat on the table.
+Hadris's hands stayed flat on the table.
 
 "Once," Elara said, "in those four months, he was inside these walls, and it happened because I invoked direct imperial authority to make it happen. Once. I had to spend the crown's own prerogative to get a half hour with the man who put me on the throne, and I want that on the record too, since we are being careful about the record."
 
@@ -78,7 +78,7 @@ She turned her hand over on the table, palm up. It was the only gesture she made
 
 Nobody said anything.
 
-Xion watched Valorian's shoulders come down a half inch and his jaw stay where it was, and read in it a man who had lost the room and knew it and was going to be gracious about it because gracious was the only currency he had left in this exchange. He did not renew the objection. He inclined his head, and said, "Thank you, Majesty," and meant, more or less, *understood*, and the room started moving again.
+Xion watched Hadris's shoulders come down a half inch and his jaw stay where it was, and read in it a man who had lost the room and knew it and was going to be gracious about it because gracious was the only currency he had left in this exchange. He did not renew the objection. He inclined his head, and said, "Thank you, Majesty," and meant, more or less, *understood*, and the room started moving again.
 
 What Xion noticed, sitting off the axis of the table with his hands still loose on the wood, was everything she had not done.
 

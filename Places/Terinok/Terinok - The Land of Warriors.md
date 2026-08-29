@@ -4,17 +4,22 @@
 
 Terinok holds the distinction of being the first province to formally break with the Balishan Empire — not during the empire's decline, but near its height, when the imperial administration was at its most confident and most expansive. That timing is the point. Terinok did not leave a sinking ship. Terinok made a judgment.
 
+The relationship began with another judgment. At the empire's founding, Valan I Valanar demonstrated martial worth in terms the fiercely independent cantons recognized. The precise feat is not preserved here, but its political consequence is: the cantons swore their blades to Valan without surrendering the Warrior's Code, canton law, or their internal command. He earned an oath from equals; he did not conquer a province into obedience.
+
+Later Valanars inherited the benefit of that oath but not an unconditional ownership of it. Valan's name established a precedent the dynasty still had to remain worthy of. Terinok could fight as the empire's military backbone for centuries and remain fully itself because the founding bargain never placed the cantons beneath ordinary imperial administration.
+
 For generations, the relationship between Terinok and the empire had been one of uneasy mutual benefit. Terinok supplied warriors; the empire supplied legitimacy and trade access. The cantons governed themselves under the Warrior's Code; the empire's administrators governed everything else and knew better than to push the boundary. It was not friendship. It was a working arrangement between parties who understood each other's limits.
 
 What ended it was an edict.
 
 Sometime in the reign of one of the later Balishan emperors — the historical record is disputed in ways that may be deliberate, as Terinok shows little interest in commemorating the empire's name — the imperial legal apparatus issued a ruling that disputes adjudicated under the Warrior's Code could be appealed to imperial courts. The intention, from the imperial perspective, was routine administrative tidying: legal consistency across provinces, subordination of local custom to imperial law. The kind of thing that makes sense to a bureaucracy that has confused governing with administering.
 
-To Terinok, it was the clearest possible statement of what the empire had always thought of them.
+To Terinok, it was the clearest possible statement that the throne no longer understood the agreement it
+had inherited from Valan I.
 
 The Warrior's Code is not a set of customs. It is not a regional legal tradition that coexists with higher authority. It is the foundation — constitution, sacred text, and moral framework — upon which everything in Terinok is built. To place it beneath imperial courts was to declare that Terinok's identity as a people was subject to the emperor's revision. That was not a legal dispute. That was an insult that could not be answered with words.
 
-The cantons met at Takama. The imperial administrator was sent home. When the empire dispatched soldiers to enforce the edict, they encountered what happens when you attempt to administer something that has not consented to be administered. The soldiers did not return in the numbers that had departed. The matter was not raised again through military means.
+The cantons met at Takama. The imperial administrator was sent home. When the empire dispatched soldiers to enforce the edict, they encountered what happens when you attempt to administer something that has not consented to be administered. The soldiers did not return in the numbers that had departed. The matter was not raised again through military means. In Terinok's account, the empire did not lose ownership of their swords; a later emperor proved himself unworthy of the oath Valan had earned.
 
 What came next was the formal declaration — not of independence, exactly, but of judgment. The specific language, preserved in the earliest texts of the Warrior's Code, does not say *we are free*. It says *you are no longer worthy of our swords.* The distinction is everything. Terinok was not asserting a right. It was rendering a verdict on an emperor who had revealed, through a bureaucratic edict, that he did not understand the people whose warriors had been holding his borders for two centuries.
 

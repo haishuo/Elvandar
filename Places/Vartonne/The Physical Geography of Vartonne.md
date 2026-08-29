@@ -25,6 +25,9 @@ The region is defined by three significant rivers that converge near the capital
 
 This convergence determined the original settlement location, providing transportation, defense, and irrigation:
 
+- It also gave the settlement its name: CON *vart* “confluence, meeting-center” + borrowed LOL *onna*
+  “established settlement,” hence **“Settlement at the Confluence”** and the later poetic “Heart-place”
+
 - The rivers create a natural moat around much of the capital city  
 - An elaborate system of canals and aqueducts extends their reach throughout the region  
 - Annual flooding cycles deposit fresh nutrients on agricultural lands when properly managed  
@@ -84,6 +87,8 @@ Vartonne's capital stands as the most complete physical manifestation of imperia
 ### Overview and Layout
 
 - Built on gentle hills at the convergence of the three major rivers  
+- The imperial ring-city absorbed an older river settlement; buried streets and the surviving riverside
+  quarters preserve the pre-imperial layer outside the official plan
 - Concentric ring design with the Imperial Circle at the center  
 - Each successive ring historically housed decreasing levels of social status and importance  
 - Major boulevards radiating from the center like spokes on a wheel  

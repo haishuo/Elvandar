@@ -88,7 +88,7 @@
 **On Melina, and why neither of them touches her.** Ronas's lieutenant murdered Xion's sister and Ronas holds the responsibility for it without having ordered it, and both men know both facts walking in. Ronas will not raise it: it would blow up his own negotiation and he is not cruel for sport. Xion will not raise it: he came down to buy a road and he knows what happens to the road if he does. **The scene runs on the pressure of the thing neither of them says**, and if either says it the chapter has a different and worse ending. This is also not the place for the Book 2 confrontation to be re-litigated — that account closed when Ronas stood down, and neither man reopens it.
 
 **On beat 23, and why the book does not work without it — rule 1.** *(Author's catch, 2026-08-05, from a
-stress-test of the whole Brass Door chain.)* **Ch12 sells Uratha *exclusive* research access to Lathion, and
+stress-test of the whole Brass Door chain.)* **Ch12 sells Uratha *exclusive* research access to Hauren, and
 ch13's cold open turns Gunastran away on that clause** — which is what keeps Elara treaty-clean and out of
 the role of the war's aggressor. **Balisha cannot sell exclusivity to a place it reaches down a rented right
 of way.** Everything this chapter establishes says so: a lieutenant sold Vesk eleven days at a price he
