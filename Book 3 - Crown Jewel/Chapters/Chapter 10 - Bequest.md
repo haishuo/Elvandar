@@ -124,7 +124,7 @@ He had walked into ten thousand rooms behind ten thousand doors, and he knew wha
 
 She did none of it. She stepped over the threshold and started walking with her eyes at the middle distance, and her shoulders came down, and Xion, watching, thought: *she has been here.*
 
-She had not been here. She had been nine years old and asleep in a compound on the surface twenty years ago, and before that she had been a child in a palace, and there was no arrangement of facts on the continent by which Elara Valanar had ever stood in this room.
+She had not been here. She had been an infant twenty years ago, and every year since in a compound on the surface, and there was no arrangement of facts on the continent by which Elara Valanar had ever stood in this room.
 
 The thought would not go away for being false.
 

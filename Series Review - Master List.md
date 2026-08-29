@@ -2710,6 +2710,49 @@ assets present at migration were preserved. Art remains downstream of this physi
 
 ---
 
+### Elvandar is the continent, and the prose may name it — settled 2026-08-29
+
+**The world has no name; the continent is Elvandar.** `Places/Elvandar.md` is explicit and repeated — *"the
+continent of Elvandar,"* *"the Balishan Empire spanned the entirety of Elvandar"* — and `Magic/The Rending.md`
+calls it *"an entire continent."* The Hauren rename did not touch the referent.
+
+**So naming the continent in prose is allowed, and the §6 rule that said otherwise was stale.** It claimed
+*"`Elvandar` appears in **zero** chapters,"* which stopped being true at `da80f25`, and it reasoned from
+*"people rarely name their own world out loud"* — treating the continent's name as the world's. Acting on it,
+Ronas's *"Only man in Elvandar can give you that clause and mean it"* (B3 ch6) was proposed for rewriting.
+**The prose stands.** It is the same continental-scope construction the books already use freely: *"one nation
+on the continent"* (ch5), *"the best-read men on the continent"* (ch8), *"no arrangement of facts on the
+continent"* (ch10).
+
+**What remains banned is intensifier duty**, for either word — *"every reason on earth"*, cut from B3 ch7 on
+2026-08-03, because it borrows a planet-name this world does not have. Say *the world*, or cut the intensifier.
+**Do not re-flag Ronas's line.**
+
+*This is the C-6 failure mode with a different flag: a rule whose factual premise expired, trusted by the next
+reader, aimed at good material. The rule was corrected in `CLAUDE.md` and `AGENTS.md` rather than the chapter.*
+
+---
+
+### B3 ch10 conformed to the locked chronology — the last de-aging survival — 2026-08-29
+
+**Elara was an infant at the Rending, not nine.** ch10 read *"nine years old and asleep in a compound on the
+surface twenty years ago, and before that she had been a child in a palace"* — wrong in age, wrong in place,
+and inverted in sequence. `Story Timeline.md` locks her at **20** in Book 1, *"Infant at the Rending,"* and the
+ch11 beat draft has her as *"a six-month-old infant"* in the Ruby Palace cradle. Canon is **palace at the
+Rending, compound afterward.**
+
+**It was load-bearing.** Her connection to Hauren exists because she was an infant in the palace when the
+Engine fired; ch10, ch11 and ch13 all rest on it. Corrected under the author's standing ruling that **where
+ages conflict, the younger reading wins.** The new line stops short of the Ruby Palace cradle, which is ch11's
+reveal and cannot arrive a chapter early.
+
+**Swept for siblings and clean.** The remaining *"N years old"* instances across Books 1–3 are all correct:
+Tam at twelve (ch12/14/16, consistent), Xion *"since he was nine years old"* (backstory), the sixty-nine-year-old
+Aspirant Guard in `Offstage.md`, and *"a population figure eleven years old"*, already ruled correct on
+2026-08-03. No other survival of the older chronology remains in the prose.
+
+---
+
 ## 7. Open questions
 
 **One language-history foundation is open:** the founding date and local population of Urath IV's academy.

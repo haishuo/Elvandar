@@ -11866,3 +11866,40 @@ shoulder-length straight hair. Her active portrait now lives at
 
 **Conformed:** `People/Danshall Harkim.md`, `People/Basic Physical Characteristics.md`, the character-art
 index, and the master list. No prose, beat draft, skeleton, outline, or Royal Road HTML changed.
+
+---
+
+## 2026-08-29 — Elara is an infant at the Rending in B3 ch10; the Elvandar rule is corrected
+
+**B3 ch10 carried the last survival of the pre-de-aging chronology.** The Repository beat read *"She had been
+nine years old and asleep in a compound on the surface twenty years ago, and before that she had been a child
+in a palace."* Both halves were wrong and the sequence was inverted. `Story Timeline.md` is authoritative and
+locks Elara at **20** in Book 1 with *"Infant at the Rending; hidden & raised by the Arol Batae 20 years"*;
+`People/Elara Valanar.md`, `People/Elara's Connection to Hauren.md` and the ch11 beat draft all agree, the last
+of them explicitly — *"a six-month-old infant lay sleeping. Her."* Canon is the **Ruby Palace at the Rending,
+the compound afterward**, and the line had it the other way round.
+
+This was load-bearing rather than cosmetic. Elara's connection to Hauren exists *because* she was an infant in
+the palace when the Engine fired, and ch10, ch11 and ch13 all rest on that mechanism. Applied on the author's
+standing ruling that where ages conflict, **the younger reading is the correct one**.
+
+Now reads: *"She had been an infant twenty years ago, and every year since in a compound on the surface."*
+The correction deliberately does **not** name the Ruby Palace cradle, which is ch11's reveal — *"I'm in the
+cradle, and I'm in the room"* — and Xion cannot have it a chapter early. Only the prose had drifted; the ch10
+beat draft never made the claim, so nothing derived needed conforming. Royal Road ch10 regenerated.
+
+**The *Elvandar* rule in `CLAUDE.md` §6 was wrong, and it produced a false positive before it was caught.**
+It asserted that *"`Elvandar` appears in **zero** chapters across Books 1–3"* — false since `da80f25`, which
+put it twice into B3 ch6 — and it justified the ban with *"people rarely name their own world out loud,"*
+silently treating Elvandar as the name of the world. **It is the continent.** `Places/Elvandar.md` says so
+three times and was not touched by the Hauren rename. On that stale flag Ronas's *"Only man in Elvandar can
+give you that clause and mean it"* was proposed for rewriting; the author caught it. The prose stands.
+
+The rule now separates the two things it had conflated: the **world** is unnamed and no character reaches for
+a name, while the **continent** may be named as a place — which the prose already does, *"one nation on the
+continent"* (ch5), *"the best-read men on the continent"* (ch8). What stays banned is either word doing
+**intensifier** duty, which is what *"every reason on earth"* was doing when it was cut from B3 ch7 on
+2026-08-03. Corrected identically in `CLAUDE.md` and `AGENTS.md`.
+
+**Conformed:** `Book 3 - Crown Jewel/Chapters/Chapter 10 - Bequest.md`, its Royal Road HTML, `CLAUDE.md`,
+`AGENTS.md`, and the master list. No beat draft, skeleton or outline changed.

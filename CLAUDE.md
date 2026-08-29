@@ -315,10 +315,12 @@ The test: if the sentence is about the word, it stays italic; if the weight is i
 saying it, it goes bold. Applied across Books 1–2; the full exclusion list is in
 `Series Review - Changelog.md`.
 
-**The world is not named in the prose, and *earth* is not its name.** `Elvandar` appears in **zero**
-chapters across Books 1–3 — it lives in the outlines and the canon files and characters have never once
-said it, which is right: people rarely name their own world out loud. **Do not introduce it in narration,
-and never inside an idiom.** The related trap is *earth* as a stand-in — *"every reason on earth"*, cut
+**The world is not named in the prose, and *earth* is not its name.** The world has no name and no
+character reaches for one, which is right: people rarely name their own world out loud. ***Elvandar* is
+the continent, not the world** — `Places/Elvandar.md` is explicit — and **naming it as a place is
+allowed**, the way the prose already says *"one nation on the continent"* (B3 ch5), *"the best-read men on
+the continent"* (B3 ch8), and Ronas's *"Only man in Elvandar can give you that clause"* (B3 ch6). What is
+banned is either word doing **intensifier** duty. The trap is *earth* as a stand-in — *"every reason on earth"*, cut
 from B3 ch7 on 2026-08-03, because the idiom borrows a planet name this world does not have. Say *the
 world*, or cut the intensifier, which is usually stronger anyway. **Applied retroactively on the author's ruling, 2026-08-03**, which made B2 ch10 the first editorial
 change ever applied to Book 2's prose: Melina's *"Father would rather be anything on this earth than
