@@ -56,9 +56,11 @@ The plate keeps three different things separate:
    whose grammatical scope is larger than its host word.
 3. The third line is a word-by-word grammatical gloss, followed by an idiomatic English translation.
 
-The native Halauri script has not yet been designed. Consequently, “written Halauri” in this plate means
-only the agreed author-facing romanization; the examples make no claim yet about native glyphs, word
-spacing, or whether the native script visually joins clitics to their hosts.
+The native Halauri script is now under construction in `Halauri Script - Plate 1.md`. Its runic and
+operative architecture is authorized, while the exact glyph inventory remains a working visual candidate.
+Consequently, “written Halauri” in this plate still means only the agreed author-facing romanization; the
+examples make no claim yet about approved native glyphs, word spacing, or whether documentary hands
+visually join clitics to their hosts.
 
 ## 2. Sound system
 

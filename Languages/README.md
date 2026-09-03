@@ -92,7 +92,13 @@ must not be cited as canon until individually recovered through an approved plat
   geography and layered place-name test; Modern Balishan Plate 2 canonizes the bounded lost-province
   suite and the geographic material required to form it; the approved Balishan Realm and Province Names
   Plate 1 derives Vartonne-country *Balisha* from the western allocation family *bal* and
-  gives the separately named Kaha'an province the Halauri-to-human history *Litarava > Litrava*
+  gives the separately named Kaha'an province the Halauri-to-human history *Litarava > Litrava*; Halauri
+  Script Plate 1 establishes the authorized monumental-rune/operative architecture and one-syllable
+  rune-name principle while retaining its exact inventory and first bound words as working candidates;
+  Halauri Bound Words Plate 1 stress-tests that inventory through a governor-initial civic frame, seven
+  complete tessera sequences, shared operator families, and controlled one-rune substitutions
+- **`Script Charts/`** — visual sheets for script proposals; Halauri Monumental Runes Plate 1 is the current
+  working citation-form chart and does not promote its individual glyphs merely by depicting them
 - **`Toponymy and Name Transmission.md`** — the provenance ledger for important places: who first named
   them, in what language stage, through which later languages the form passed, and which plates are needed
   before a modern name can be coined or judged

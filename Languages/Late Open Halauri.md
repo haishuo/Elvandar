@@ -262,7 +262,8 @@ inventory. No longer form behind *Xion* is required, and the old “probably cli
 - no exact Halauri personal-name morphology;
 - no Hieratic surface pronunciation two thousand years later;
 - no Sealed or Terminal sound changes;
-- no native glyph inventory or writing direction;
+- no approved native glyph inventory or writing direction; the separately authorized runic/operative
+  architecture and working forms live in `Design Plates/Halauri Script - Plate 1.md`;
 - no reason for the sealing.
 
 ## Next historical step

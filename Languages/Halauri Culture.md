@@ -3,7 +3,8 @@
 **Status:** Cultural and contact-language foundation, established 2026-08-22. This document settles the
 institutions and transmission routes needed to construct Open, Surface, Sealed, and Terminal Halauri.
 It does not name the reason for the sealing, fix an elven lifespan, define Hauren's constitution or
-theology, or establish phonology, grammar, script forms, and vocabulary.
+theology, or establish phonology, grammar, and vocabulary. `Design Plates/Halauri Script - Plate 1.md`
+separately establishes the runic/operative architecture; its exact glyph inventory remains working.
 
 ## The culture the language belongs to
 
@@ -158,7 +159,7 @@ broad access to basic writing for equal access to every text.
 The open-period foundation uses **one related script tradition with multiple hands and technical
 extensions**, rather than assuming that every register uses an unrelated script.
 
-At minimum the eventual script design must distinguish:
+The authorized script architecture distinguishes:
 
 - monumental and dedicatory writing intended to endure with architecture;
 - civic and documentary hands used for government, contracts, correspondence, and teaching;
@@ -168,8 +169,11 @@ At minimum the eventual script design must distinguish:
 
 The late public/documentary tradition is what surface schools can most readily copy. After the sealing it
 becomes the basis of Hieratic Old Halauri orthography, while human scribes adapt it to Surface-Halauric
-sounds and eventually to Proto-Balishan. Exact glyphs, writing direction, media, and spelling depth remain
-open until the sound system exists.
+sounds and eventually to Proto-Balishan. Monumental letters are runes; their exact technical forms can also
+carry operative Arcane values, while ordinary writing remains inert. `Design Plates/Halauri Script - Plate
+1.md` is authoritative for that architecture. Its twenty-seven proposed citation forms, exact names,
+public writing direction, documentary hands, punctuation, and later sealed forms remain working rather
+than canon.
 
 ## Speech inside the city
 
@@ -322,7 +326,8 @@ much as their separate histories permit.
 - Whether Halauri citizens lived permanently on the surface
 - The dates, locations, and social breadth of particular human language shifts
 - Exact distribution of Ancestral Continental languages around the open-period corridor
-- Script forms, writing direction, media, spelling conventions, and technical notation
+- Exact approved glyph forms, public writing direction, spelling conventions, documentary and workshop
+  hands, punctuation, and later development of the authorized operative notation
 - The degree of grammatical difference between the contact register and metropolitan speech
 - The internal periods and sound changes of Sealed Halauri
 

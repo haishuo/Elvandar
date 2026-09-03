@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1020" viewBox="0 0 1440 1020">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11161a"/>
+      <stop offset="0.55" stop-color="#1b2023"/>
+      <stop offset="1" stop-color="#111316"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0d59a"/>
+      <stop offset="0.45" stop-color="#c89b50"/>
+      <stop offset="1" stop-color="#8f642d"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font: 700 38px Georgia, serif; fill: #f0dfbd; letter-spacing: 2px; }
+      .subtitle { font: 16px Georgia, serif; fill: #b9aa8d; }
+      .cell { fill: #1d2326; stroke: #5b4a32; stroke-width: 1.5; }
+      .cell-vowel { fill: #18272a; stroke: #55777a; stroke-width: 1.5; }
+      .code { font: 700 15px Helvetica, Arial, sans-serif; fill: #c9b996; letter-spacing: 1px; }
+      .name { font: italic 700 19px Georgia, serif; fill: #f0dfbd; }
+      .operator { font: 700 11px Helvetica, Arial, sans-serif; fill: #a99775; letter-spacing: 1.2px; }
+      .note { font: 15px Georgia, serif; fill: #b9aa8d; }
+      .tiny { font: 12px Helvetica, Arial, sans-serif; fill: #88795f; letter-spacing: 0.5px; }
+      .rune { color: #d7ae62; filter: url(#glow); }
+      .rune-vowel { color: #74b5b2; filter: url(#glow); }
+    </style>
+
+    <!-- Stop series: tooth height marks place; short counter-stroke marks the voiced partner. -->
+    <g id="p" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 16L54 30L22 44" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="b" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 16L54 30L22 44 M8 74H22" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="t" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 30L54 46L22 62" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="d" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 30L54 46L22 62 M8 74H22" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="k" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 46L54 62L22 78" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="g" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 46L54 62L22 78 M8 26H22" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="glottal" transform="scale(1.03125 0.7708333)"><path d="M32 8V34 M32 62V88 M10 48H54 M18 38L32 48L46 38" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+
+    <!-- Fricatives: paired open cuts; mirror and voicing marks distinguish related values. -->
+    <g id="f" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 16L54 26 M22 34L54 44" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="v" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 16L54 26 M22 34L54 44 M8 74H22" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="s" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 32L54 42 M22 50L54 60" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="z" transform="scale(1.03125 0.7708333)"><path d="M22 8V88 M22 32L54 42 M22 50L54 60 M8 74H22" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="th" transform="scale(1.03125 0.7708333)"><path d="M42 8V88 M42 32L10 42 M42 50L10 60" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="dh" transform="scale(1.03125 0.7708333)"><path d="M42 8V88 M42 32L10 42 M42 50L10 60 M42 74H56" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="sh" transform="scale(1.03125 0.7708333)"><path d="M32 8V88 M32 26L8 40 M32 26L56 40 M32 56L8 70 M32 56L56 70" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="x" transform="scale(1.03125 0.7708333)"><path d="M32 8V88 M8 28L56 68 M56 28L8 68" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="h" transform="scale(1.03125 0.7708333)"><path d="M14 8V88 M50 8V88 M14 66L50 30" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+
+    <!-- Sonorants and glides use continuous or paired paths. -->
+    <g id="m" transform="scale(1.03125 0.7708333)"><path d="M8 86V16L32 44L56 16V86" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="n" transform="scale(1.03125 0.7708333)"><path d="M10 86V16L54 78V10" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="l" transform="scale(1.03125 0.7708333)"><path d="M18 8V70L52 88 M18 70L42 52" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="r" transform="scale(1.03125 0.7708333)"><path d="M18 88V10L52 28L18 48 M18 48L54 88" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="w" transform="scale(1.03125 0.7708333)"><path d="M6 12L18 86L32 50L46 86L58 12" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="y" transform="scale(1.03125 0.7708333)"><path d="M8 10L32 44L56 10 M32 44V88 M18 68H46" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+
+    <!-- Freestanding vowel forms. -->
+    <g id="a" transform="scale(1.03125 0.7708333)"><path d="M32 8L58 88 M32 8L6 88 M16 58H48" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="e" transform="scale(1.03125 0.7708333)"><path d="M32 8L56 32L32 56L8 32Z M32 56V88 M18 72H46" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="i" transform="scale(1.03125 0.7708333)"><path d="M32 8V88 M14 8H50 M14 88H50 M20 48H44" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="o" transform="scale(1.03125 0.7708333)"><path d="M32 6L58 48L32 90L6 48Z M18 48H46" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+    <g id="u" transform="scale(1.03125 0.7708333)"><path d="M8 10V62L32 88L56 62V10 M18 30H46" stroke="currentColor" fill="none" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/></g>
+  </defs>
+
+  <rect width="1440" height="1020" fill="url(#bg)"/>
+  <path d="M30 105H1410" stroke="url(#brass)" stroke-width="2" opacity="0.65"/>
+  <text x="720" y="54" text-anchor="middle" class="title">HALAURI MONUMENTAL RUNES</text>
+  <text x="720" y="82" text-anchor="middle" class="subtitle">Plate 1 · Late Open citation forms · working visual candidate</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(30 125)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">P · /p/</text><use xlink:href="#p" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Pel</text><text x="105" y="146" text-anchor="middle" class="operator">ROUTE</text></g>
+  <g transform="translate(260 125)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">B · /b/</text><use xlink:href="#b" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Bat</text><text x="105" y="146" text-anchor="middle" class="operator">GUARD</text></g>
+  <g transform="translate(490 125)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">T · /t/</text><use xlink:href="#t" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Tir</text><text x="105" y="146" text-anchor="middle" class="operator">SEVER</text></g>
+  <g transform="translate(720 125)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">D · /d/</text><use xlink:href="#d" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Dar</text><text x="105" y="146" text-anchor="middle" class="operator">HOLD</text></g>
+  <g transform="translate(950 125)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">K · /k/</text><use xlink:href="#k" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Kur</text><text x="105" y="146" text-anchor="middle" class="operator">CLOSE</text></g>
+  <g transform="translate(1180 125)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">G · /g/</text><use xlink:href="#g" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Gar</text><text x="105" y="146" text-anchor="middle" class="operator">SENSE</text></g>
+
+  <!-- Row 2 -->
+  <g transform="translate(30 300)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">ʼ · /ʔ/</text><use xlink:href="#glottal" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">ʼAn</text><text x="105" y="146" text-anchor="middle" class="operator">INSTANTIATE</text></g>
+  <g transform="translate(260 300)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">F · /f/</text><use xlink:href="#f" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Fal</text><text x="105" y="146" text-anchor="middle" class="operator">PROCEED</text></g>
+  <g transform="translate(490 300)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">V · /v/</text><use xlink:href="#v" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Vel</text><text x="105" y="146" text-anchor="middle" class="operator">AUTHORIZE</text></g>
+  <g transform="translate(720 300)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">S · /s/</text><use xlink:href="#s" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Sel</text><text x="105" y="146" text-anchor="middle" class="operator">TRANSFER</text></g>
+  <g transform="translate(950 300)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">Z · /z/</text><use xlink:href="#z" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Zen</text><text x="105" y="146" text-anchor="middle" class="operator">RECORD</text></g>
+  <g transform="translate(1180 300)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">TH · /θ/</text><use xlink:href="#th" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Thum</text><text x="105" y="146" text-anchor="middle" class="operator">SUSTAIN</text></g>
+
+  <!-- Row 3 -->
+  <g transform="translate(30 475)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">DH · /ð/</text><use xlink:href="#dh" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Dhu</text><text x="105" y="146" text-anchor="middle" class="operator">COUPLE</text></g>
+  <g transform="translate(260 475)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">SH · /ʃ/</text><use xlink:href="#sh" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Sha</text><text x="105" y="146" text-anchor="middle" class="operator">BRANCH</text></g>
+  <g transform="translate(490 475)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">X · /ɕ/</text><use xlink:href="#x" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Xel</text><text x="105" y="146" text-anchor="middle" class="operator">ALIGN</text></g>
+  <g transform="translate(720 475)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">H · /h/</text><use xlink:href="#h" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Hut</text><text x="105" y="146" text-anchor="middle" class="operator">CHANNEL</text></g>
+  <g transform="translate(950 475)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">M · /m/</text><use xlink:href="#m" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Mer</text><text x="105" y="146" text-anchor="middle" class="operator">EXCHANGE</text></g>
+  <g transform="translate(1180 475)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">N · /n/</text><use xlink:href="#n" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Nav</text><text x="105" y="146" text-anchor="middle" class="operator">BIND</text></g>
+
+  <!-- Row 4 -->
+  <g transform="translate(30 650)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">L · /l/</text><use xlink:href="#l" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Lit</text><text x="105" y="146" text-anchor="middle" class="operator">OPEN</text></g>
+  <g transform="translate(260 650)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">R · /r/</text><use xlink:href="#r" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Ren</text><text x="105" y="146" text-anchor="middle" class="operator">RETURN</text></g>
+  <g transform="translate(490 650)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">W · /w/</text><use xlink:href="#w" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Wen</text><text x="105" y="146" text-anchor="middle" class="operator">REPEAT</text></g>
+  <g transform="translate(720 650)"><rect width="210" height="155" rx="8" class="cell"/><text x="14" y="24" class="code">Y · /j/</text><use xlink:href="#y" x="72" y="30" width="66" height="74" class="rune"/><text x="105" y="126" text-anchor="middle" class="name">Yar</text><text x="105" y="146" text-anchor="middle" class="operator">ASSEMBLE</text></g>
+  <g transform="translate(950 650)"><rect width="210" height="155" rx="8" class="cell-vowel"/><text x="14" y="24" class="code">A · /a/</text><use xlink:href="#a" x="72" y="30" width="66" height="74" class="rune-vowel"/><text x="105" y="126" text-anchor="middle" class="name">Ar</text><text x="105" y="146" text-anchor="middle" class="operator">PRIOR</text></g>
+  <g transform="translate(1180 650)"><rect width="210" height="155" rx="8" class="cell-vowel"/><text x="14" y="24" class="code">E · /e/</text><use xlink:href="#e" x="72" y="30" width="66" height="74" class="rune-vowel"/><text x="105" y="126" text-anchor="middle" class="name">Esh</text><text x="105" y="146" text-anchor="middle" class="operator">CONDITION</text></g>
+
+  <!-- Row 5 -->
+  <g transform="translate(30 825)"><rect width="210" height="155" rx="8" class="cell-vowel"/><text x="14" y="24" class="code">I · /i/</text><use xlink:href="#i" x="72" y="30" width="66" height="74" class="rune-vowel"/><text x="105" y="126" text-anchor="middle" class="name">Ir</text><text x="105" y="146" text-anchor="middle" class="operator">IDENTIFY</text></g>
+  <g transform="translate(260 825)"><rect width="210" height="155" rx="8" class="cell-vowel"/><text x="14" y="24" class="code">O · /o/</text><use xlink:href="#o" x="72" y="30" width="66" height="74" class="rune-vowel"/><text x="105" y="126" text-anchor="middle" class="name">Or</text><text x="105" y="146" text-anchor="middle" class="operator">HOST</text></g>
+  <g transform="translate(490 825)"><rect width="210" height="155" rx="8" class="cell-vowel"/><text x="14" y="24" class="code">U · /u/</text><use xlink:href="#u" x="72" y="30" width="66" height="74" class="rune-vowel"/><text x="105" y="126" text-anchor="middle" class="name">Ur</text><text x="105" y="146" text-anchor="middle" class="operator">TARGET</text></g>
+
+  <g transform="translate(735 825)">
+    <rect width="655" height="155" rx="8" fill="#15191c" stroke="#403a30" stroke-width="1.5"/>
+    <text x="24" y="36" class="code">OPERATIVE RULE</text>
+    <text x="24" y="67" class="note">A rune has an operative value, but no free power.</text>
+    <text x="24" y="94" class="note">Execution requires exact geometry + binding frame + host + charge.</text>
+    <text x="24" y="125" class="tiny">MONUMENTAL CITATION FORMS · DOCUMENTARY AND TERMINAL HANDS NOT YET DESIGNED</text>
+  </g>
+</svg>

@@ -11903,3 +11903,67 @@ continent"* (ch5), *"the best-read men on the continent"* (ch8). What stays bann
 
 **Conformed:** `Book 3 - Crown Jewel/Chapters/Chapter 10 - Bequest.md`, its Royal Road HTML, `CLAUDE.md`,
 `AGENTS.md`, and the master list. No beat draft, skeleton or outline changed.
+
+---
+
+## 2026-09-01 — Lira Harkim 5′5″ fitting-frame plate approved
+
+**Promoted Lira's technical height reference.** The approved plate preserves the fixed armorer's room,
+camera, frame and brass heel line and places Lira at her canonical **5′5″ / 165 cm**. Its geometry comes from
+the deterministic construction workflow rather than a generated estimate: a pure-white standing source was
+extracted, scaled to an 895-pixel crown-to-sole figure from y=402 to y=1297, and placed against the immutable
+master frame. Image integration supplied only the final lighting, contact shadow and edge cleanup.
+
+The active plate now lives at `Character Art/Reference Models/Height Calibration/Lira Harkim.png`. The
+white-background source, transparent cutout and raw deterministic 5′5″ composite remain under
+`Character Art/Drafts/Lira Harkim/Height Calibration/` as the reproducible construction record.
+
+**Conformed:** the character-art index and the master list. No prose, beat draft, skeleton, outline, character
+sheet, timeline, or Royal Road HTML changed.
+
+---
+
+## 2026-09-02 — Halauri runic/operative architecture authorized; first glyph plate built
+
+**Established the architecture without prematurely approving the alphabet.** Late Open Halauri monumental
+writing is runic, and the same exact signs can carry conventional Arcane operators in technical arrays.
+Ordinary writing is inert. An executable sequence requires calibrated geometry, keyed joins, a closed
+binding frame, a compatible host and supplied charge; the runes coordinate existing Arcane forces rather
+than creating power or granting mastery.
+
+**Bound words provide the Diablo-like construction in-world.** A meaningful Halauri word can also close as
+valid operator syntax, and compatible devices can receive those sequences as modular brass, ceramic,
+crystal or composite tesserae. The system cannot encode or compel True Magic, worthiness, motive, love or
+sacrifice, so it can control parts of the Destiny Engine without supplying what made the Engine possible.
+
+**Rune-names are short workshop call-signs.** The authorized principle is one syllable and normally two or
+three phonemes, allowing artificers to dictate and audit sequences aloud. `Pel, Bat, Tir, Dar, Kur, Gar,
+'An, Fal, Vel, Sel, Zen, Thum, Dhu, Sha, Xel, Hut, Mer, Nav, Lit, Ren, Wen, Yar, Ar, Esh, Ir, Or, Ur` are
+the first candidate inventory, not yet approved individually.
+
+Created `Languages/Design Plates/Halauri Script - Plate 1.md` and its SVG/PNG chart under
+`Languages/Script Charts/`; conformed the language index, Halauri cultural and historical dossiers, the
+Late Open design plate and phonology dossier, Arcane Magic dossier and master list. No chapter prose, beat
+draft, skeleton, outline or Royal Road HTML changed.
+
+---
+
+## 2026-09-02 — First Halauri bound-word stress plate built
+
+**Tested the working rune inventory as a machine language rather than a list of evocative names.**
+`Languages/Design Plates/Halauri Bound Words - Plate 1.md` proposes a governor-initial civic frame and seven
+complete four-tessera words: ***lita*** for opening, ***vela*** for bounded authorization, ***sela*** for
+transfer, ***zena*** for recording, ***rena*** for restoration, ***thuma*** for maintenance and ***bata***
+for guarding. Later tesserae qualify the governing first rune through keyed joins; their order is therefore
+hierarchical rather than a naive left-to-right firing sequence.
+
+**One-rune substitutions now test failure instead of merely promising danger.** ***Zena → wena*** remains a
+valid word and array in the wrong archival host; ***sela → vela*** changes a lift from transfer to access
+authorization; ***lita → kita*** remains a possible service array but ceases to be a word; and ***thuma →
+thura*** creates a formally closed demand that can oscillate or drain its source under continuing load.
+The resulting hierarchy makes random combinations normally inert and makes knowledgeable bypass of host
+keys and safety frames the dangerous case.
+
+The plate remains working and does not approve its exact words, joins, families or tests. Conformed the
+parent script plate, language index and master list. No prose, beat draft, skeleton, outline, magic-system
+ruling or Royal Road HTML changed.

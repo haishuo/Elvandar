@@ -172,8 +172,8 @@ manuscript-preserved *Halauren* may coexist as a learned historical doublet.
 - Exact family, inheritance, and household structure
 - Hauren's constitution and formal offices during the open and sealed periods
 - Religion, death practice, and the cultural meaning of the world's "heart"
-- Writing media, glyph forms, direction, spelling, and technical notation within the settled related script
-  tradition
+- Documentary and workshop hands, punctuation, spelling depth, exact approved glyph forms, public writing
+  direction, and the historical development of the authorized monumental runic/operative tradition
 - Whether Hauren was one city among other elven communities or the final center of a wider people
 - The exact breadth of bilingualism and permanent cross-boundary residence during surface contact
 - The internal periods of sealed speech and the strength of prescriptive movements after withdrawal

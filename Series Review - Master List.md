@@ -639,7 +639,26 @@ canonical in the bounded province-name history through the approved Balishan rea
 other form becomes canon merely through that bounded approval.
 **Example notation is explicit as of 2026-08-22:** bold first lines are ordinary author-facing
 romanization with affixes and clitics joined; italic second lines are morphological analysis, where `-`
-marks an affix boundary and `=` marks a clitic. The native script and its spacing remain unbuilt.
+marks an affix boundary and `=` marks a clitic. These marks are not claims about native spelling.
+
+**Halauri runic/operative architecture — AUTHOR'S RULING, 2026-09-02.** The monumental alphabet is runic,
+and each exact technical rune can carry both a phonetic value and a conventional Arcane operator. Ordinary
+writing remains inert; execution requires exact geometry, keyed joins, a closed binding frame, a compatible
+host, and supplied power. Meaningful Halauri words that also close as valid operator sequences are bound
+words/runewords, and compatible devices can accept modular rune tesserae. The notation cannot create power,
+grant school mastery, or encode True Magic, worthiness, motive, love, or sacrifice. Rune-names are short
+workshop call-signs: one syllable, normally two or three phonemes. `Languages/Design Plates/Halauri Script -
+Plate 1.md` is authoritative for this architecture. Its twenty-seven exact forms, proposed names and
+operators, first four bound words, writing direction, and historical transmission remain a working
+inventory pending visual and linguistic approval.
+
+`Languages/Design Plates/Halauri Bound Words - Plate 1.md` is the **working, unapproved** operational stress
+test. It proposes the governor-initial four-tessera civic frame; complete ***lita, vela, sela, zena, rena,
+thuma,*** and ***bata*** arrays; the shared *-ela* and *-ena* machine families; and four controlled one-rune
+substitutions. Its failure hierarchy makes random combinations normally inert and locates real danger in
+valid or nearly valid arrays installed in a wrong or deliberately unrestricted host. The plate does not
+make P0 ***Arol Batae*** executable, give the narrator rune knowledge, or alter the Brass Door reveal. None
+of its exact words, joins, or tests becomes canon before approval.
 
 `Languages/Design Plates/Late Open Halauri - Plate 2.md` is the **working, unapproved** productive test
 for ***-'an***. The apostrophe writes an actual /ʔ/, and the construction is not ordinary possession:
@@ -857,8 +876,8 @@ literacy but tiered access to advanced texts, one related script tradition with 
 technical extensions, and distinct household, civic, Crown, Athenaeum, Forge, Arcanum, and Repository
 registers. The sealing ends contact while speech continues changing on both sides. `Languages/Halauri
 Culture.md` is authoritative; the reason for the sealing remains canonically lost. Exact lifespan,
-constitution, theology, household form, glyphs, and sealed-period sound changes remain construction
-questions, not continuity gaps.
+constitution, theology, household form, approved glyph inventory, and sealed-period sound changes remain
+construction questions, not continuity gaps.
 
 **The attested-form inventory is established.** `Languages/Attested Forms Register.md` separates forms
 from proposed etymologies and assigns five change-cost tiers: protected/locked, prose-established,
@@ -1393,7 +1412,10 @@ clothing carries no Tower colour or rank marks. Her active portrait depicts her 
 calmly packing in the modest apartment before Danshall arrives, already prepared because she memorized the
 evacuation route. The earlier laboratory-like candidate is rejected for incorrectly translating Danshall's
 institutional visual grammar onto a woman hidden outside that system. The approved portrait is archived at
-`Character Art/Reference Models/Photorealistic/Lira Harkim.png`; her technical plate remains in production.
+`Character Art/Reference Models/Photorealistic/Lira Harkim.png`, and her approved **5′5″** fitting-frame plate
+at `Character Art/Reference Models/Height Calibration/Lira Harkim.png`. Its retained construction record —
+white-background source, transparent cutout and deterministic composite — lives under
+`Character Art/Drafts/Lira Harkim/Height Calibration/`.
 
 **Sa Ko Ren visual and origin ruling, 2026-08-22:** Sa Ko is forty-eight in Book 1 and stands **5′10″ /
 178 cm**, but appears approximately in her mid-thirties. She is a Terinoki warrior who survived the Wild

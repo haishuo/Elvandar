@@ -44,6 +44,7 @@ variation. All character plates use the same room, camera, frame and brass heel 
 - [Kael Issamil](<Reference Models/Height Calibration/Kael Issamil.png>) — Book 1; approved 5′10″ calibration
 - [Kalden Erulius](<Reference Models/Height Calibration/Kalden Erulius.png>)
 - [Kess Ashwood](<Reference Models/Height Calibration/Kess Ashwood.png>) — age eighteen; approved 5′9″ calibration
+- [Lira Harkim](<Reference Models/Height Calibration/Lira Harkim.png>) — approximately twenty-one; approved 5′5″ calibration
 - [Melina Kemvimore](<Reference Models/Height Calibration/Melina Kemvimore.png>) — age twenty-six; approved clean 5′8″ calibration
 - [Melina Valanar](<Reference Models/Height Calibration/Melina Valanar.png>) — age sixteen
 - [Mistress Janice](<Reference Models/Height Calibration/Mistress Janice.png>)

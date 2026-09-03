@@ -242,6 +242,20 @@ The massive gear door beneath Kaha'an represents triple-school mastery:
 - Common in military units and research institutions
 - Most "impossible" magical feats are actually group efforts
 
+### Halauri Operative Runes
+
+Late Open Halauri monumental letters are runes with both phonetic and conventional operative values. In
+ordinary inscriptions they are inert. An executable array requires exact geometry, keyed joins, a closed
+binding frame, a compatible host, and power from a caster, stored source, environment, or larger system.
+Runes therefore coordinate Arcane forces; they neither create energy nor grant mastery of a school.
+
+A meaningful Halauri word whose rune sequence is also valid control syntax is an author-facing **bound
+word** or **runeword**. Haureni devices can install such sequences as modular brass, ceramic, crystal, or
+composite tesserae. The host determines what the array can act upon, the joins determine syntax, and the
+available schools and charge determine its effects and limits. No rune can encode or compel True Magic,
+worthiness, motive, love, or sacrifice. `Languages/Design Plates/Halauri Script - Plate 1.md` is
+authoritative for the architecture; its exact glyph inventory remains a working proposal.
+
 ## Power Sources and Limitations
 
 ### Personal Energy
