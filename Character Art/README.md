@@ -43,8 +43,8 @@ for the role; the casting test's loose hair is not a new prose requirement.
 The restoration pass completed on 2026-09-22 updates fourteen active images: eight of Elara and six of
 Tiberian/Melina Valanar. The twins retain their individual identities and established inheritance pattern:
 Tiberian's structure favors Elara, Melina's favors Xion. Their revised solo references govern the faces
-in their plates and scenes. These are generated revisions under the approved casting direction, not
-fourteen separate author approvals.
+in their plates and scenes. The author approved the complete fourteen-image set on 2026-09-22;
+these are now the active approved references.
 
 [Review all fourteen before/after pairs](<Drafts/Elara Valanar/Leah Identity Restoration/Review.html>).
 [Manifest, prompts and archive notes](<Drafts/Elara Valanar/Leah Identity Restoration/README.md>).

@@ -8,8 +8,8 @@ The casting test was approved on 2026-09-21; this propagation pass completed on 
 [Open all fourteen before/after comparisons](<Review.html>).
 
 The approved casting test is reused directly as the active Elara portrait. The other thirteen active images
-were revised with the built-in image generation/editing tool. These are generated revisions for review,
-not thirteen additional author approvals. Existing images were preserved before replacement.
+were revised with the built-in image generation/editing tool. The author approved the complete
+fourteen-image set on 2026-09-22. Existing images were preserved before replacement.
 
 | # | Image | Current | Archived |
 |---|---|---|---|

@@ -12005,3 +12005,12 @@ illustrations and older superseded drafts remain historical records and were not
 and four reference/intermediate images. The checksum check returned **32 matching files, 0 differences**.
 No remote files were deleted. The before/after gallery's image links resolve and all fourteen revised
 PNGs decode successfully; checksums and dimensions are recorded in the restoration folder.
+
+---
+
+## 2026-09-22 — Author approves the complete Elara restoration set
+
+The author approved all fourteen revised images and explicitly authorized pushing the reference rules
+and editorial records to the public GitHub repository. The active images and verified B2 backup already
+contain the approved set. Updated the art index, visual ledger, master list, restoration notes and
+before/after gallery to retire the pending-review status. No image files or prose changed in this step.

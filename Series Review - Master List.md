@@ -1310,7 +1310,7 @@ Applied across fourteen active images: Elara's portrait and calibration, both gr
 Xion/Elara scenes, Imperial Princess AU, the twins' four solo/calibration references, their paired image,
 and Tiberian's *At the Taps*. The latter was restored from B2 before editing. Tiberian retains the greater
 maternal structural resemblance; Melina retains the greater paternal resemblance. The propagated images
-are generated revisions under the approved direction, not individual author approvals. Full before/after
+were approved as a complete fourteen-image set by the author on 2026-09-22. Full before/after
 review and prompts are under `Character Art/Drafts/Elara Valanar/Leah Identity Restoration/`; all fourteen
 originals are preserved in its `Superseded/` tree. The first rebuilt Elara calibration candidate was
 rejected for shifting crown height; the selected version applies the new face to the existing plate.

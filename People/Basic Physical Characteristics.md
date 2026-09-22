@@ -177,8 +177,8 @@ The 2026-09-22 image pass propagates this face through Elara's active archive an
 family resemblance. Tiberian still favors his mother structurally; Melina still favors her father.
 Their individual identities, ages and measurements remain distinct. Revised solo portraits are the
 facial references for the updated paired image, calibration plates, and Tiberian's *At the Taps* scene.
-The author approved the Elara casting anchor; the propagated images are revisions for review, not
-individually approved new canon. See `Character Art/README.md` for the complete before/after manifest.
+The author approved the complete fourteen-image set on 2026-09-22, following approval of the Elara
+casting anchor. See `Character Art/README.md` for the complete before/after manifest.
 
 ## Calibration assets and next measurement work
 
