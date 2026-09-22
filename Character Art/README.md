@@ -29,6 +29,28 @@ Characteristics.md` remains the authority for fixed measurements and physical tr
    and other compositing artifacts while preserving the approved identity, clothing, pose and frame geometry.
    Recheck crown and heel positions after cleanup; an attractive plate with shifted geometry is rejected.
 
+## Elara's facial identity — author's ruling, 2026-09-21
+
+**Leah Mercer's fictional actress plays Elara without a facial redesign.** The author-approved casting
+test is preserved at [Approved Leah-Based Casting Test](<Drafts/Elara Valanar/Leah Identity Restoration/Approved Leah-Based Casting Test.png>)
+and is also the current Elara photorealistic portrait. For Elara's face, this image takes precedence over
+older calibration plates, portraits, scenes, and the 2026-08 complexion-only correction. Calibration
+plates govern height and scale; they cannot overrule this facial anchor. Clothing, hairstyle, pose and
+expression can serve the role. Setting and martial training must not change her facial proportions or
+silently add muscularity. Her usual practical hairstyle and prose-established traits remain available
+for the role; the casting test's loose hair is not a new prose requirement.
+
+The restoration pass completed on 2026-09-22 updates fourteen active images: eight of Elara and six of
+Tiberian/Melina Valanar. The twins retain their individual identities and established inheritance pattern:
+Tiberian's structure favors Elara, Melina's favors Xion. Their revised solo references govern the faces
+in their plates and scenes. These are generated revisions under the approved casting direction, not
+fourteen separate author approvals.
+
+[Review all fourteen before/after pairs](<Drafts/Elara Valanar/Leah Identity Restoration/Review.html>).
+[Manifest, prompts and archive notes](<Drafts/Elara Valanar/Leah Identity Restoration/README.md>).
+All fourteen pre-restoration originals remain in that folder's `Superseded/` tree. Retired illustrations
+and older superseded drafts have not been revised and have no current likeness authority.
+
 ## Reference Models
 
 ### Height Calibration

@@ -266,6 +266,11 @@ Tiberian leads from the front — a principle of personal leadership that puts h
 
 The approved reference design fixes his face, build, dark hair, royal-blue eyes, resemblance pattern, and complexion. By authorial ruling on 2026-08-21, his complexion is light warm beige/olive inherited from both parents, with modest acquired outdoor warmth from martial training. He is slightly more sun-touched than Melina without returning to the bronze drift of the superseded model. He is **5′10″ / 178 cm** at sixteen and remains that height when he enters the Warrens at about eighteen; the Bittek confrontation does not silently reuse the younger measurement.
 
+The 2026-09-22 visual restoration updates his maternal resemblance against Elara's approved Leah-based
+face while retaining his individual identity and Xion's contribution. His revised solo portrait is the
+facial reference for his calibration, paired image and *At the Taps*. This is a propagated art revision,
+not a change to the resemblance pattern, age or measurements. See [the visual ledger](Basic%20Physical%20Characteristics.md).
+
 ### Behavioral Patterns
 
 - **Moral urgency**: He experiences injustice as a physical sensation — something that demands immediate response. Delay feels like complicity. Analysis feels like cowardice. He's learning that this isn't always true, but the feeling never fully quiets.

@@ -1,0 +1,184 @@
+[
+  {
+    "image": "Reference Models/Photorealistic/Elara Valanar.png",
+    "current_dimensions": [
+      1122,
+      1402
+    ],
+    "previous_dimensions": [
+      1122,
+      1402
+    ],
+    "current_sha256": "b0914e958f6c5910d1b331b800526a64abbe14a3517afd15d2c396d7bba357ac",
+    "previous_sha256": "ef7a4ceaba7a418276937c339cfbdec5aae6a2035fd04e08f48a14da7f26e4f6"
+  },
+  {
+    "image": "Reference Models/Height Calibration/Elara Valanar.png",
+    "current_dimensions": [
+      1024,
+      1536
+    ],
+    "previous_dimensions": [
+      1024,
+      1536
+    ],
+    "current_sha256": "925b6610ca62164557c3d8389c67e27f243e924c48ea1eb469b7a118aa1dd082",
+    "previous_sha256": "7db91ee0671dadf4f6a6ae7cb5e7690f48b892044c47cc6be24e49afe9255bb7"
+  },
+  {
+    "image": "Reference Models/Group References/Xion and Elara.png",
+    "current_dimensions": [
+      1023,
+      1537
+    ],
+    "previous_dimensions": [
+      1023,
+      1537
+    ],
+    "current_sha256": "64e6183d61781dd7138358ff0768f204326e30df123d6024d0aadd5b44648740",
+    "previous_sha256": "26055568c11409fdb127a1c0ec8eb551c883558e491f48eb969cd890b02cb9e9"
+  },
+  {
+    "image": "Reference Models/Group References/Xion Elara and Farleen.png",
+    "current_dimensions": [
+      1122,
+      1402
+    ],
+    "previous_dimensions": [
+      1122,
+      1402
+    ],
+    "current_sha256": "4eba86a181c9a1bf95d57fccac69508ae6226b2017a217ee48cff18b42f106e7",
+    "previous_sha256": "375218f777193ba5c0a5bdf3f84224f19fa7faaa0e3c7133d059a238a0699b39"
+  },
+  {
+    "image": "Scenes/Xion and Elara/Expecting the Twins.png",
+    "current_dimensions": [
+      1023,
+      1537
+    ],
+    "previous_dimensions": [
+      1023,
+      1537
+    ],
+    "current_sha256": "375b3ae0e73e0c50128da63a6af5c33d57c907dc96fd8c906f578bc56ea58965",
+    "previous_sha256": "20c31dbbd48717c977bcdcc65767c75f0bae68523ee396aa4e46a559471f3bb2"
+  },
+  {
+    "image": "Scenes/Xion and Elara/Formal Dance Practice.png",
+    "current_dimensions": [
+      1023,
+      1537
+    ],
+    "previous_dimensions": [
+      1023,
+      1537
+    ],
+    "current_sha256": "8283496563dd855db7098890b343796195f7b05f8886734b73314c85a402247a",
+    "previous_sha256": "30a850a6ed9f525589090c998d0f4a684a80d96cb87aec91b8b26ce2b50bbbef"
+  },
+  {
+    "image": "Scenes/Xion and Elara/The Vartonnian Envoy.png",
+    "current_dimensions": [
+      1536,
+      1024
+    ],
+    "previous_dimensions": [
+      1536,
+      1024
+    ],
+    "current_sha256": "f8a7fd2c70349f6cadd7c84d277a36f692b6566a3ecf7943bb65fa0020ad1914",
+    "previous_sha256": "0c14e36336304891a01034736e813314e7a4d0b99b8fe8dc474b9b9c0a28788f"
+  },
+  {
+    "image": "Alternate Universes/Imperial Princess Elara/Photorealistic From Calibration Model.png",
+    "current_dimensions": [
+      1024,
+      1536
+    ],
+    "previous_dimensions": [
+      1024,
+      1536
+    ],
+    "current_sha256": "b10bd0151bc60c2dfdfea14b1ba9b2e7678b595aa8192d72fad818fc4c8c6091",
+    "previous_sha256": "8c307f4276b1f23f5e838b0d3f557e2e7b5c53bf1c37af8abfd80d7f3e43ef76"
+  },
+  {
+    "image": "Reference Models/Photorealistic/Tiberian Valanar.png",
+    "current_dimensions": [
+      1023,
+      1537
+    ],
+    "previous_dimensions": [
+      1023,
+      1537
+    ],
+    "current_sha256": "131a00daf67745fba1ccc8604eed8bb5c773ec530d6b15e357ce656406b887af",
+    "previous_sha256": "f9e5d58b419a62882c6198207f1b5b8df6e5f274abfae5e73a8c2c1c54f50eb3"
+  },
+  {
+    "image": "Reference Models/Height Calibration/Tiberian Valanar.png",
+    "current_dimensions": [
+      1024,
+      1536
+    ],
+    "previous_dimensions": [
+      1024,
+      1536
+    ],
+    "current_sha256": "168f07e6ab9438693168c5d8454bb3deb356e968f70e437ea3460f5a62bb1cf1",
+    "previous_sha256": "33122faafb0727bd543e5f7169b885e42da88c39bc11f661f525f7b617cbf700"
+  },
+  {
+    "image": "Reference Models/Photorealistic/Melina Valanar.png",
+    "current_dimensions": [
+      1023,
+      1537
+    ],
+    "previous_dimensions": [
+      1023,
+      1537
+    ],
+    "current_sha256": "f9dab92935721fb0f0aa89b51296bc14dc95e0e3e0f93bf9ff475b7ccb3deb74",
+    "previous_sha256": "6cc0fb981c43a80ae2c1c3d88419a6ff0ad66da75bbca3b3063c64748e685c18"
+  },
+  {
+    "image": "Reference Models/Height Calibration/Melina Valanar.png",
+    "current_dimensions": [
+      1024,
+      1536
+    ],
+    "previous_dimensions": [
+      1024,
+      1536
+    ],
+    "current_sha256": "3fdd7745182e10ade065d11d9b54c118004801a9d029f7fcf369ae903c2b38b2",
+    "previous_sha256": "17fb3e6a81eb5cd8b7b23f361e04a53e65ac1ef1b60107b3666a51e8bf23d99b"
+  },
+  {
+    "image": "Reference Models/Group References/Tiberian and Melina Valanar.png",
+    "current_dimensions": [
+      1536,
+      1024
+    ],
+    "previous_dimensions": [
+      1536,
+      1024
+    ],
+    "current_sha256": "a199a1b6a340bbb91ecf077dd365faf5aa5e444b3a8773b573622f2c7cc3b22b",
+    "previous_sha256": "6580ca453b037f9f0b064c134338353984dd143bbb3c5a8c4ddc528df0435116"
+  },
+  {
+    "image": "Scenes/Tiberian and Bittek/At the Taps.png",
+    "current_dimensions": [
+      1536,
+      1024
+    ],
+    "previous_dimensions": [
+      1536,
+      1024
+    ],
+    "current_sha256": "caca3c420c09627fd2956dfadbd02c698c52a6209de1f9728ae05f89ee58307e",
+    "previous_sha256": "2f5ab31fabcee2dd64980792fe4f355f1295d9f3d5cf97a784a59799a6d20103"
+  }
+]

@@ -164,6 +164,22 @@ The tables are concise by design. These are the principal textual anchors behind
 - **All other rows:** the named character's “Physical Presence” section where one exists, plus `Names.md`
   for principal status and generation. A field left **U** was not supplied by those sources.
 
+## Elara's face and the twins — author's ruling, 2026-09-21
+
+Elara is played by Leah Mercer's fictional actress, with the actress's facial geometry preserved.
+The approved casting test is now `Character Art/Reference Models/Photorealistic/Elara Valanar.png`.
+It governs her face over all earlier Elara models, including the August complexion-corrected ones.
+Do not sharpen her jaw, change her nose or mouth proportions, or add muscularity because of martial
+training or setting. Costume, practical hairstyling, expression and prose-established role details do
+not authorize facial redesign. The numerical heights above are unchanged.
+
+The 2026-09-22 image pass propagates this face through Elara's active archive and updates the twins'
+family resemblance. Tiberian still favors his mother structurally; Melina still favors her father.
+Their individual identities, ages and measurements remain distinct. Revised solo portraits are the
+facial references for the updated paired image, calibration plates, and Tiberian's *At the Taps* scene.
+The author approved the Elara casting anchor; the propagated images are revisions for review, not
+individually approved new canon. See `Character Art/README.md` for the complete before/after manifest.
+
 ## Calibration assets and next measurement work
 
 The empty armorer's fitting-room master and individual plates for Xion, Elara, Farleen, Rosik, Melina

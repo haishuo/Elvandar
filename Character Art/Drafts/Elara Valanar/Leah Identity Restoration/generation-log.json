@@ -1,0 +1,114 @@
+[
+  {
+    "key": "pair",
+    "destination": "Reference Models/Group References/Xion and Elara.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-ad937695-f858-4b31-8732-390db37daf57.png",
+    "prompt": "Use case: identity-preserve. Image 1 is the edit target: Xion and Elara standing together. Image 2 is the sole authoritative new FACE for Elara, an AI-generated fictional actress. Replace the woman on the LEFT in Image 1 with this exact actress wearing Elara's existing dark quilted outfit. Carry across Image 2's exact facial proportions, softer jaw/cheeks, full lips, nose, eyes and eyebrows, complexion, age, and natural unbulked physique. Do not blend her with the old woman's face. Her hair can be loosely gathered back for the role with soft strands at the temples, but the face must remain the exact actress. Preserve the man on the RIGHT (Xion) completely: his face, hair, skin color, clothing, pose, scale and expression. Preserve the courtyard, lighting, framing and whole-body composition. They are both 5ft11 and must stand on the same floor baseline with equal anatomical height; do not make either taller. Neutral expressions and arms down as in target. Match the scene's illumination without darkening Elara's intrinsic skin color. Natural photographic texture, no text or watermark.",
+    "status": "superseded attempt"
+  },
+  {
+    "key": "trio",
+    "destination": "Reference Models/Group References/Xion Elara and Farleen.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-8a412ba7-277a-4d7f-9b8f-86593654824e.png",
+    "prompt": "Use case: identity-preserve. Image 1 is the AUTHORITATIVE ACTRESS FACE for Elara. Image 2 is the scene to edit: Xion on left, Elara in center, Farleen on right. Replace ONLY the CENTER woman's facial identity with the EXACT actress from Image 1. This is Leah's actress playing Elara, not a similar-looking woman: preserve Image 1's full lips and mouth width, soft cheek and jaw contours, eyelid shape and eye spacing, nose bridge/tip, eyebrows and skin color. Do not average or blend with Image 2's old center face. Natural slender physique, no added muscles. Hair gathered loosely back with soft strands as practical role styling. Keep her existing navy quilted costume and pose. Xion on the LEFT and blonde Farleen on the RIGHT must remain precisely unchanged in face, body, costume, pose and complexion. Preserve the original stone courtyard, composition, light, image dimensions and floor positions. Xion and Elara each 5ft11 equal anatomical height; Farleen 5ft7 four inches shorter, as established. Preserve photographic quality and skin detail, no text.",
+    "status": "selected"
+  },
+  {
+    "key": "twins_preg",
+    "destination": "Scenes/Xion and Elara/Expecting the Twins.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-a02299e0-6b19-43ed-a59d-cbf0c5e1f63d.png",
+    "prompt": "Use case: identity-preserve. Image 1 is the exact fictional actress who MUST play Elara. Image 2 is the edit target: Elara and Xion expecting twins. Replace only the pregnant woman's facial identity with the actress of Image 1, plausibly looking downward and smiling softly in this tender moment. Preserve her exact facial geometry including full lips, soft oval jaw, cheek contours, eyelids, brow structure and nose; do not blend with the old face. Same intrinsic complexion as Image 1 under the warm scene light. Preserve her pregnant body, blue dress, hand placement, hair arrangement appropriate to the pose, and the intimate forehead contact. Keep Xion's face, hair, skin color, clothing, body and hands exactly as in Image 2. Preserve scene composition, setting, lighting, closeness, pregnancy and affectionate single emotional tone. This is the same actress in a different expression, not a redesigned face. No extra muscles or angular warrior features. Photorealistic texture, no text.",
+    "status": "selected"
+  },
+  {
+    "key": "dance",
+    "destination": "Scenes/Xion and Elara/Formal Dance Practice.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-3c1f333d-50da-40e0-bb72-eb9885b41eb9.png",
+    "prompt": "Use case: identity-preserve. Image 1 is the sole facial reference for Elara: this exact fictional actress, Leah's actress in Elara costume. Image 2 is the scene edit target, Formal Dance Practice. Replace ONLY the woman's facial identity in Image 2 with the exact actress from Image 1 viewed in profile, keeping her hair dressed for dancing. Maintain the reference actress's nose profile, full lips, soft cheek and jaw contours, eye and brow structure, natural complexion; do not inherit the old scene woman's facial geometry, do not sharpen or strengthen the jaw. Preserve the original scene: close formal dance hold, mutual serious attentive eye contact, her deep blue embroidered gown, their hands and posture, the room and window lighting, composition and framing. Xion is the man on the left and must remain exactly the same face, hair, skin, clothing and body. Their established anatomical heights are equal at 5ft11. No additional muscularity. This is an actress substitution in an existing film still, not a new scene or mood. Photorealistic, no text.",
+    "status": "selected"
+  },
+  {
+    "key": "envoy",
+    "destination": "Scenes/Xion and Elara/The Vartonnian Envoy.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-943dd320-dac8-4929-8deb-848aa308cf61.png",
+    "prompt": "Use case: identity-preserve. Image 1 is the exact author-approved fictional actress for Elara, the sole facial authority. Image 2 is the edit target: The Vartonnian Envoy, Elara standing on the left pointing to dismiss the envoy, Xion sitting beside her, the envoy in foreground. Replace ONLY Elara's facial identity with the actress from Image 1, carrying her full lips, softer jaw and cheeks, nose, eyelids and eyebrows, facial proportions and complexion intact into this firm commanding expression. Do not average with the old face or make a harder warrior jaw. Keep her formal pinned hairstyle, circlet, royal blue-and-gold gown, exact arm/hand gestures and position. Keep Xion and the envoy entirely unchanged in face, hair, skin, costume, anatomy and pose. Preserve the thrones, dais, hall, window lighting, composition and image dimensions. Natural photorealistic image, no extra people, no text, no redesign beyond Elara's actress.",
+    "status": "selected"
+  },
+  {
+    "key": "princess",
+    "destination": "Alternate Universes/Imperial Princess Elara/Photorealistic From Calibration Model.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-2aba5d2e-a6bd-44b8-bcf7-a74b0ab85a59.png",
+    "prompt": "Use case: identity-preserve. Image 1 is the exact approved fictional actress for Elara. Image 2 is the target image: Imperial Princess Elara, an alternate life raised at court. Put the exact actress from Image 1 into Image 2's princess role. Preserve her facial geometry completely: same full lips and mouth width, soft cheeks and jaw, chin, nose, brow shape, eye shape and spacing; do not blend with the old princess face. Retain a natural slender physique without added muscle. Keep Image 2's blue-and-gold court gown, jewelry and circlet, formal hair arrangement, hand on chair, letter in other hand, palace surroundings, daylight, full-length composition and perspective. Her softly lit sheltered complexion may be subtly less sun-touched, but do not recast or redesign her features. This must unmistakably read as the same actress as Image 1 in royal costume with formal hair. Preserve photorealism and natural skin texture. No text or extra people.",
+    "status": "selected"
+  },
+  {
+    "key": "tiberian",
+    "destination": "Reference Models/Photorealistic/Tiberian Valanar.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-5c5f9a49-bb08-4c9f-953c-63201066e678.png",
+    "prompt": "Use case: identity-preserve / family resemblance correction. Image 1 is Tiberian Valanar's existing portrait (edit target), age SIXTEEN. Image 2 is his mother's corrected face, Elara (Leah's fictional actress). Image 3 is his father Xion. Revise Tiberian's facial inheritance to fit these actual two parent models, especially his corrected mother. He is his own distinct sixteen-year-old son, NOT an adult and NOT his mother with short hair. His facial structure should favor Elara: her brow structure, cheekbone placement and soft underlying cheek/jaw transitions, direct gaze. Retain Xion's influence in the mouth, eyes and dark tousled hair. Preserve the original boy's recognizable identity as far as compatible with the mother correction; avoid the old sharpened Elara-derived jaw and heavy facial planes. Retain natural royal-blue eyes, clean-shaven adolescent skin, light warm beige/olive family complexion with modest outdoor warmth. Preserve his slim athletic adolescent build, no adult bulk. Keep Image 1's costume, sword, stance, hands, full-length composition, courtyard, tiger banner, lighting and image dimensions unchanged. Only the son appears. Photorealistic skin and fabric, no text.",
+    "status": "selected"
+  },
+  {
+    "key": "melina",
+    "destination": "Reference Models/Photorealistic/Melina Valanar.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-57f5ba36-3137-4ce8-95d0-508c5c99441d.png",
+    "prompt": "Use case: identity-preserve / family resemblance correction. Image 1 is Melina Valanar's existing portrait, the edit target, age SIXTEEN. Image 2 is her mother Elara's corrected actress face. Image 3 is her father Xion. Make a restrained family-resemblance correction to Melina using these actual parent faces. She remains a distinct sixteen-year-old girl whose facial structure favors Xion: longer/narrower face, observant eyes, nose and mouth derived more from him. Add only a credible trace of her corrected mother through softer cheek/jaw transitions and brow/eye relationship; avoid the old mother's harder sculpted facial planes. Do NOT make Melina a teenage clone of Elara. Preserve her recognizable identity, naturally youthful adolescent appearance, practical dark hair, royal-blue eyes, slender unathletic adolescent build, and light warm beige/olive family complexion close to sheltered baseline. Keep her restrained thoughtful expression. Preserve Image 1's fully covering navy long scholarly coat, belt, trousers, boots, book, hand placement, posture, full-length composition, study setting and lighting. Only Melina appears. No added muscle, no makeup glamour or adult aging. Photorealistic, no text.",
+    "status": "selected"
+  },
+  {
+    "key": "tiberian_cal",
+    "destination": "Reference Models/Height Calibration/Tiberian Valanar.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-52912d30-fd12-4cc2-a192-f9902240ed8c.png",
+    "prompt": "Use case: identity-preserve. Image 1 is Tiberian Valanar's updated facial reference, aged sixteen. Image 2 is the existing height-calibration plate and EDIT TARGET. Transfer Image 1's EXACT face to the boy in Image 2. A strictly localized facial correction: preserve his sixteen-year-old youth, soft adolescent cheeks, eyes, brows, nose, lips, jaw, complexion and dark tousled hair from Image 1. Preserve the rest of Image 2: his clothing, sword, hands, body proportions, neutral stance, boot placement, crown height and overall silhouette. Do not move or resize the figure, do not change his height. He is 5ft10. The fitting frame, rulers, numerals, wall, floor, camera, crop and dimensions must be unchanged. This is facial continuity maintenance of a pre-existing measurement plate, not a new composition. Natural photorealism, no text added.",
+    "status": "selected"
+  },
+  {
+    "key": "melina_cal",
+    "destination": "Reference Models/Height Calibration/Melina Valanar.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-b6259f08-f489-409f-aaad-4384d28bc0f3.png",
+    "prompt": "Use case: identity-preserve. Image 1 is Melina Valanar's updated facial reference, age sixteen. Image 2 is her existing height-calibration plate and EDIT TARGET. Replace only the facial likeness in Image 2 with the exact face of Image 1. Preserve her individual identity, naturally youthful sixteen-year-old features, longer narrower paternal facial structure with subtle maternal softness, royal-blue eyes, practical dark hair, and light warm beige/olive skin. Keep Image 2's body, full covering scholarly coat, book, hands, stance, trousers and boots unchanged. Do not move or resize the figure; preserve original crown height and boot soles. Written height 5ft8. Keep every element of the fitting-room frame, ruler marks and numerals, wall, floor, camera, crop, resolution and lighting unchanged. A localized face continuity edit of a technical plate, not a new portrait. No adult aging, no extra muscle, no text.",
+    "status": "selected"
+  },
+  {
+    "key": "twins_pair",
+    "destination": "Reference Models/Group References/Tiberian and Melina Valanar.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-e190edef-4091-4ccd-b033-e9c4840fc391.png",
+    "prompt": "Use case: identity-preserve. Image 1 and Image 2 are the updated facial authorities: Tiberian Valanar (boy) and Melina Valanar (girl), fraternal twins age SIXTEEN. Image 3 is their paired-reference EDIT TARGET. Update the two faces in Image 3 to match their respective solo references EXACTLY. Tiberian on the LEFT must match Image 1 in all facial proportions, features, age, skin tone and dark tousled hair. Melina on the RIGHT must match Image 2 in all facial proportions, features, age, skin tone and practical hair. Keep them two distinct adolescent people, royal-blue eyes, boy modestly more sun-touched, girl slightly lighter. Preserve Image 3's poses, costumes, sword, book, hands, bodies, courtyard, framing and light. Preserve their relative heights: Tiberian 5ft10 and Melina 5ft8, two-inch difference, same floor plane. Do not add adult musculature or age them. Photorealistic face continuity edit, no text or extra figures.",
+    "status": "selected"
+  },
+  {
+    "key": "taps",
+    "destination": "Scenes/Tiberian and Bittek/At the Taps.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-78471a2d-5f72-45c8-88c4-6f746169f50c.png",
+    "prompt": "Use case: identity-preserve. Image 1 is updated Tiberian Valanar's facial identity reference at sixteen. Image 2 is the edit target, At the Taps: Tiberian on LEFT facing Bittek on RIGHT in underground waterworks. Update ONLY Tiberian's face to the same person as Image 1, now about EIGHTEEN, a very modest two-year maturation preserving facial geometry, nose, mouth, brow/eye shapes, soft youthful cheeks and dark tousled hair. Keep him clean-shaven, slim athletic and youthful, no adult bulk. Match his original intent gaze toward Bittek and side-angle pose. Preserve his clothing, hands, sword and stance. Bittek on the RIGHT must remain entirely unchanged: his broad fleshy unscarred face, thinning hair, body, padded overbuilt black leather, exaggerated straps and immaculate status knife, expression and posture. Keep original wet waterworks, taps, pipes, stone, lanterns, composition, framing and light. Both men are 5ft10; do not change relative scale. No new scars or blood. Natural photorealism, no text.",
+    "status": "selected"
+  },
+  {
+    "key": "elara_cal_final",
+    "destination": "Reference Models/Height Calibration/Elara Valanar.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-8c859698-3daa-47a4-87a9-5929dc7c0e0b.png",
+    "prompt": "Use case: identity-preserve. Image 1 is the exact approved actress face for Elara, the only facial authority. Image 2 is the ORIGINAL height-calibration plate and edit target. Perform a localized facial identity replacement in Image 2: copy the exact actress's facial proportions, full lips and mouth width, soft oval cheek/jaw contours, nose and eyelid shapes, brows and intrinsic complexion. Do NOT average her face with the old woman. Keep Image 2's existing practical gathered-back hairstyle, body silhouette, outfit, limbs, pose and boots exactly where they are. No physique changes, no added muscles. Crucially preserve the original crown height at about y=326 in the 1024x1536 image and the original boot soles at about y=1233. This is an existing 5ft11 plate: do not make her taller or move her on the floor. Keep all frame wood, rulers and numerals, wall relief, floor, lighting, crop and dimensions exactly unchanged. Only the facial region should be replaced and naturally blended. Do not change head size, face proportions must be those of Image 1 at the target scale. No text added.",
+    "status": "selected"
+  },
+  {
+    "key": "pair_final",
+    "destination": "Reference Models/Group References/Xion and Elara.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-d959f882-eafb-49d8-943e-b65f05242c05.png",
+    "prompt": "Use case: identity-preserve. Image 1 is the EXACT approved facial identity of Elara: Leah's fictional actress in Elara's costume. Image 2 is the Xion-and-Elara group reference to edit. Replace ONLY the LEFT woman's face with Image 1's exact actress. Make her unmistakably the woman from Image 1: same full lips and lip outline, mouth width, soft oval jaw and cheeks, nose, hooded eyelids, brows, complexion and age, adapted naturally to the target head angle. Do not blend with or preserve the old woman's facial geometry. Keep her hair loosely gathered back with a few face-framing strands. Keep her existing dark quilted clothing and standing pose. Preserve Xion, the man on the RIGHT, precisely in facial identity, hair, skin, costume and posture. Preserve the stone courtyard, camera, whole-body framing and light. Both characters are 5ft11 on the same ground plane, equal anatomical heights, no new muscle or build changes. No text. The sole change is the actress playing Elara, rendered with natural skin texture.",
+    "status": "selected"
+  },
+  {
+    "key": "elara_white",
+    "destination": "Drafts/Elara Valanar/Leah Identity Restoration/Elara White Background Source.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-2a6e840a-a413-4d0b-b568-e974476eaa7c.png",
+    "prompt": "Use case: identity-preserve. Technical full-body source photograph for a height-calibration plate. Input image is the sole facial/body/clothing authority: the author-approved fictional actress as Elara. Preserve EXACTLY her face, soft jaw and cheek contours, full lips and their proportions, nose, eyes and brows, complexion and physique. Do not increase musculature or angularity. Show this same woman full length, front-facing, standing straight naturally with arms relaxed by sides and both feet visible, flat-soled dark leather boots, dark trousers, same navy-black quilted jacket, brown belt and bracers. Hair loosely gathered behind her shoulders so the torso is visible, retaining the same soft face-framing strands. Keep facial identity intact. Neutral gentle expression, gaze straight toward camera. Pure evenly lit white background, no scenery, frame, text, props or floor clutter, only faint contact shadow. White background must reach all four edges. Entire figure including crown and boot soles with white margin above and below, portrait orientation. Natural photorealism, faithful skin texture and color, soft balanced light. She is 5ft11, slender natural proportions, not bulked up.",
+    "status": "construction source"
+  },
+  {
+    "key": "elara_cal",
+    "destination": "Drafts/Elara Valanar/Leah Identity Restoration/Elara Calibration Candidate.png",
+    "source": "/Users/haishuo/.codex/generated_images/01a0c589-3cbc-7533-8e1b-91faaecffdf5/exec-3bfe63e4-07c7-412e-9cab-54eb591b89ae.png",
+    "prompt": "Use case: identity-preserve. Edit Image 1, the existing Elara height-calibration plate. Replace ONLY the woman with the exact woman in Image 2 (white-background full-body source), whose face must match Image 3 (approved actress portrait). Preserve Image 1's entire fitting frame, wall, rulers, numerals, floor, camera, crop, image dimensions and brass heel line unchanged. Position new woman on precisely the old woman's boot-sole baseline and crown level: image 1024x1536, boot soles at y=1243, highest crown hair at y=328 (5ft11 on frame); centered at x=512. Do not change ruler geometry. Use Image 2's natural slim physique and navy quilted jacket, trousers, belt, bracers, boots, sheathed sword and loose dark hair. Preserve the EXACT approved actress's face: soft oval cheek/jaw contours, full lips, nose and eyelid shapes, eyebrow placement, complexion. No stronger jaw, no narrower mouth, no added muscle. Front-facing natural neutral stance, arms at sides, whole body visible. Blend the white-background figure naturally into the fitting-room lighting with clean hair edges and realistic foot contact. The image is a measurement plate, not a new scene. No extra text.",
+    "status": "rejected: crown height shifted"
+  }
+]

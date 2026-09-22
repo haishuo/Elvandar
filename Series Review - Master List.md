@@ -1298,7 +1298,25 @@ and narrative scenes stay separate from these deliberately plain measurement pla
 Ren remains textually tall without an exact number. Adolescent measurements attach to age and are not
 silently carried into adulthood.
 
-**Elara complexion correction, 2026-08-21:** Elara's untanned natural complexion is light warm ivory/beige
+**Elara's actress restored — author's ruling 2026-09-21; propagation completed 2026-09-22.**
+The author rejected the previous facial drift and approved the direct Leah-to-Elara casting test:
+Leah Mercer's fictional actress plays Elara with her underlying face unaltered. That test is now the
+active Elara photorealistic portrait and the facial authority over the older calibration and scene
+models. Neither Kaha'an's present biome nor Arol Batae training licenses facial redesign or extra muscle.
+The former instruction to preserve the old face during a complexion-only correction is superseded.
+Hairstyles, costumes and expressions can change for the role; numerical heights and prose remain intact.
+
+Applied across fourteen active images: Elara's portrait and calibration, both group references, three
+Xion/Elara scenes, Imperial Princess AU, the twins' four solo/calibration references, their paired image,
+and Tiberian's *At the Taps*. The latter was restored from B2 before editing. Tiberian retains the greater
+maternal structural resemblance; Melina retains the greater paternal resemblance. The propagated images
+are generated revisions under the approved direction, not individual author approvals. Full before/after
+review and prompts are under `Character Art/Drafts/Elara Valanar/Leah Identity Restoration/`; all fourteen
+originals are preserved in its `Superseded/` tree. The first rebuilt Elara calibration candidate was
+rejected for shifting crown height; the selected version applies the new face to the existing plate.
+No prose, beat drafts, skeletons or Royal Road HTML changed.
+
+**Historical Elara complexion correction, 2026-08-21 (facial-preservation instruction superseded above):** Elara's untanned natural complexion is light warm ivory/beige
 with a faint olive undertone. Mainline Elara's outdoor martial training gives her a modest tan comparable
 to the visible Leah reference that originally served as her direct visual conception. Leah's own outdoors-oriented
 Verbena life means she is not an indoor baseline: the court-sheltered Imperial Princess AU should be fairer

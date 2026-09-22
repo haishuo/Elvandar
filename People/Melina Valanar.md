@@ -277,6 +277,11 @@ Her composure is her most visible characteristic. Royal blue eyes maintained und
 
 The approved reference design fixes her face, build, dark hair, royal-blue eyes, resemblance pattern, and complexion. By authorial ruling on 2026-08-21, her complexion is light warm beige/olive inherited from both parents, close to their sheltered baseline and subtly less sun-touched than Tiberian. This reflects their different habits and training without making the fraternal twins unnaturally identical in tone.
 
+The 2026-09-22 visual restoration makes a restrained family-resemblance correction using Elara's approved
+Leah-based face. Melina still favors Xion structurally and remains distinct from her mother and brother.
+Her revised solo portrait supplies the face for her calibration and paired image. This is a propagated
+art revision, not a change to her age, measurements or resemblance pattern. See [the visual ledger](Basic%20Physical%20Characteristics.md).
+
 ### Behavioral Patterns
 
 - **Analytical processing**: Her default response to any situation is to understand it completely before acting. She maps systems, identifies variables, models scenarios, and plans contingencies. The processing is visible — observers watch the Kaleidoscope and know she's working.

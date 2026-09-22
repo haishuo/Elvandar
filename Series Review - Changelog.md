@@ -11967,3 +11967,41 @@ keys and safety frames the dangerous case.
 The plate remains working and does not approve its exact words, joins, families or tests. Conformed the
 parent script plate, language index and master list. No prose, beat draft, skeleton, outline, magic-system
 ruling or Royal Road HTML changed.
+
+---
+
+## 2026-09-22 — Restore Elara's Leah-based actress across fourteen images
+
+**The author approved the direct Leah-to-Elara casting test on 2026-09-21 and requested propagation
+through the active family archive.** The former complexion-only pass had preserved facial drift that
+lightening the images did not resolve. The approved casting test is now Elara's active photorealistic
+portrait and governs her face over the earlier Elara models. Setting and martial training must not
+redesign the actress's face or add muscularity. Hairstyling and costume remain role choices.
+
+**Applied to fourteen active images:** Elara's portrait and height plate; `Xion and Elara` and
+`Xion Elara and Farleen`; `Expecting the Twins`, `Formal Dance Practice`, `The Vartonnian Envoy`;
+the preferred photorealistic Imperial Princess AU; Tiberian's and Melina Valanar's solo portraits and
+height plates; their paired reference; and `At the Taps`. Downloaded the missing original of `At the
+Taps` from B2 before editing. The twins retain the established resemblance pattern and individual
+identities: Tiberian favors Elara structurally; Melina favors Xion. No age or height ruling changed.
+
+**Preserved all fourteen originals** under
+`Character Art/Drafts/Elara Valanar/Leah Identity Restoration/Superseded/`, with matching relative paths.
+The approved test, white-background construction source, rejected calibration candidate and first
+pair-reference attempt are also retained. The initial calibration rebuild shifted Elara's crown height
+and was rejected; the selected replacement is a localized facial edit of the original plate. The existing
+plate geometry was visually compared; this pass does not certify new deterministic measurements.
+
+All generation used the built-in image tool. The approved test was reused directly; the other thirteen
+active images were edited from their existing compositions with explicit facial references. Full prompts,
+source paths, selection status and the before/after gallery are in the restoration folder. The author
+approved the casting anchor, not each propagated image individually; the set is available for review.
+
+**Conformed:** the art index, `People/Basic Physical Characteristics.md`, Elara's and the twins' sheets,
+and the master list. No chapters, beat drafts, skeletons, outlines or Royal Road HTML changed. Retired
+illustrations and older superseded drafts remain historical records and were not regenerated.
+
+**Backup verified:** the scoped B2 copy uploaded all fourteen active revisions, fourteen archived originals
+and four reference/intermediate images. The checksum check returned **32 matching files, 0 differences**.
+No remote files were deleted. The before/after gallery's image links resolve and all fourteen revised
+PNGs decode successfully; checksums and dimensions are recorded in the restoration folder.
