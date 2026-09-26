@@ -86,8 +86,8 @@ if image perspective, posture, hair, or footwear creates an apparent discrepancy
 
 | Character | Reference age | Height | Build | Hair | Eyes | Complexion | Distinguishing traits and inheritance |
 |---|---:|---|---|---|---|---|---|
-| **Tiberian Valanar** | Sixteen throughout Book 5; about eighteen by the late-Book-6 Warrens descent **A/T** | **5′10″ / 178 cm at sixteen and still 5′10″ at the late-Book-6 encounter** **A** | Athletic adolescent fighter; trained and capable, not adult-bulky **A** | Dark and tousled/wavy in the locked reference model **A** | Royal blue in the locked reference model **A** | Light warm beige/olive inherited from both parents, with modest acquired outdoor warmth from martial training **A** | Facial structure favors Elara — especially brows, cheekbones, and direct gaze — while the mouth, eyes, and hair retain Xion **A** |
-| **Melina Valanar** | Sixteen throughout Book 5 **A/T** | **5′8″ / 173 cm at sixteen** **A** | Slender, composed adolescent; not a front-line fighter's build **A/S** | Dark, worn practically in the locked reference model **A** | Royal blue at rest; the Kaleidoscope cycles prismatic colours during complex cognition **A/S** | Light warm beige/olive inherited from both parents, closer to their sheltered baseline and subtly less sun-touched than Tiberian **A** | Facial structure favors Xion — longer/narrower face, observant eyes, nose and mouth — with Elara's royal composure and colouring **A** |
+| **Tiberian Valanar** | Sixteen throughout Book 5; about eighteen by the late-Book-6 Warrens descent **A/T** | **5′10″ / 178 cm at sixteen and still 5′10″ at the late-Book-6 encounter** **A** | Athletic adolescent fighter; trained and capable, not adult-bulky **A** | Dark, lightly wavy, shorter loose side-sweep with clearer forehead in the 2026-09-26 facial anchor **A** | Royal blue in the locked reference model **A** | Natural complexion of the approved 2026-09-26 parent-based facial anchor; do not add a training-derived tan **A** | Facial structure favors Elara — especially brows, cheekbones, and direct gaze — while the mouth, eyes, and hair retain Xion **A** |
+| **Melina Valanar** | Sixteen throughout Book 5 **A/T** | **5′8″ / 173 cm at sixteen** **A** | Slender, composed adolescent; not a front-line fighter's build **A/S** | Dark, worn in the loose practical braid of the 2026-09-26 facial anchor **A** | Royal blue at rest; the Kaleidoscope cycles prismatic colours during complex cognition **A/S** | Natural complexion of the approved 2026-09-26 parent-based facial anchor **A** | Facial structure favors Xion — longer/narrower face, observant eyes, nose and mouth — with Elara's royal composure and colouring **A** |
 | **Kai Issamil** | Tiberian's generation **S** | Unset **U** | Unset; the *Iron Boar* epithet may suggest stockier than Kael, but the text does not establish it **S/U** | Unset **U** | Unset **U** | Unset **U** | Practical, unobtrusive presentation inherited from Kael is suggested, not physically fixed **S/U** |
 
 ## Source anchors
@@ -178,7 +178,29 @@ family resemblance. Tiberian still favors his mother structurally; Melina still 
 Their individual identities, ages and measurements remain distinct. Revised solo portraits are the
 facial references for the updated paired image, calibration plates, and Tiberian's *At the Taps* scene.
 The author approved the complete fourteen-image set on 2026-09-22, following approval of the Elara
-casting anchor. See `Character Art/README.md` for the complete before/after manifest.
+casting anchor. The twins’ likenesses are superseded by the 2026-09-26 recasting below. See `Character Art/README.md` for the complete before/after manifest.
+
+## Twins’ facial identities — author-approved recasting, 2026-09-26
+
+The author approved fresh parent-based faces for both twins and explicitly locked them on 2026-09-26.
+Their initial identities were generated using only Xion and the approved Leah-based Elara references,
+including the pregnancy scene; no former twin image supplied a face. Melina’s first candidate was
+accepted. Tiberian’s face was retained with a shorter, lightly wavy side-swept haircut, a clearer forehead
+and less bulk around ears and nape, so his silhouette does not duplicate Xion’s.
+
+The exact approved headshots in `Character Art/Reference Models/Facial Identity/` govern facial geometry,
+complexion and the reference hairstyles over every older twin portrait, plate or scene. Preserve these
+faces rather than reinterpret ethnic labels, martial training or setting cues. Family resemblance must
+not turn either twin into a copy of a parent or of the other twin. The earlier conceptual maternal/paternal
+resemblance pattern does not authorize redesigning an approved face. Tiberian remains 5′10″ at sixteen
+and about eighteen; Melina remains 5′8″ at sixteen.
+
+Six active images now propagate these anchors: both solo portraits, both fitting-room plates, their
+paired reference, and *At the Taps*. The author approved the two anchors and authorized this propagation;
+the six derivatives have not received separate individual approval. The plates are generative edits of
+the existing layouts, not newly certified deterministic calibrations; written heights govern residual
+visual variation. Originals, prompts and a review gallery are preserved in
+`Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/`.
 
 ## Calibration assets and next measurement work
 

@@ -1,0 +1,122 @@
+[
+  {
+    "path": "Character Art/Reference Models/Photorealistic/Tiberian Valanar.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "sha256": "11dfe0c7c077125f0a5fdabfedbe9aca344d0466ac7fdb5fa46b199655ad65d6"
+  },
+  {
+    "path": "Character Art/Reference Models/Photorealistic/Melina Valanar.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "sha256": "8b416f908c80c008abf518da8896d83b921f4a17429ef9f8777d8ef73a77512f"
+  },
+  {
+    "path": "Character Art/Reference Models/Height Calibration/Tiberian Valanar.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "6164b5c773972de503d4253a040ce964e96d526ddad77845778bd260b41a1ba4"
+  },
+  {
+    "path": "Character Art/Reference Models/Height Calibration/Melina Valanar.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "4672fbe81f2afa094cae99e88586d840453cea7ba85311183801e5e80aac5917"
+  },
+  {
+    "path": "Character Art/Reference Models/Group References/Tiberian and Melina Valanar.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "sha256": "cd71f27dabc20c3139e459f6f06584a097a3096055f8ddaa4072c5c701b474e5"
+  },
+  {
+    "path": "Character Art/Scenes/Tiberian and Bittek/At the Taps.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "3d2ce8ea92922e5dfbdec617df8f8e6afd653fc693bfe643f550675dc3739e7b"
+  },
+  {
+    "path": "Character Art/Reference Models/Facial Identity/Tiberian Valanar.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "sha256": "56a55d74879ea506a3fd164fb0ff41b90c44ce8662517bb30888c16c7beaafc7"
+  },
+  {
+    "path": "Character Art/Reference Models/Facial Identity/Melina Valanar.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "sha256": "ceebc7231f0bb6d13ceb25617d039cf7e582d3801176df9d12a9d19a53d0bf5f"
+  },
+  {
+    "path": "Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/Superseded/Reference Models/Photorealistic/Tiberian Valanar.png",
+    "size": [
+      1023,
+      1537
+    ],
+    "sha256": "131a00daf67745fba1ccc8604eed8bb5c773ec530d6b15e357ce656406b887af"
+  },
+  {
+    "path": "Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/Superseded/Reference Models/Photorealistic/Melina Valanar.png",
+    "size": [
+      1023,
+      1537
+    ],
+    "sha256": "f9dab92935721fb0f0aa89b51296bc14dc95e0e3e0f93bf9ff475b7ccb3deb74"
+  },
+  {
+    "path": "Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/Superseded/Reference Models/Height Calibration/Tiberian Valanar.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "168f07e6ab9438693168c5d8454bb3deb356e968f70e437ea3460f5a62bb1cf1"
+  },
+  {
+    "path": "Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/Superseded/Reference Models/Height Calibration/Melina Valanar.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "3fdd7745182e10ade065d11d9b54c118004801a9d029f7fcf369ae903c2b38b2"
+  },
+  {
+    "path": "Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/Superseded/Reference Models/Group References/Tiberian and Melina Valanar.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "a199a1b6a340bbb91ecf077dd365faf5aa5e444b3a8773b573622f2c7cc3b22b"
+  },
+  {
+    "path": "Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/Superseded/Scenes/Tiberian and Bittek/At the Taps.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "caca3c420c09627fd2956dfadbd02c698c52a6209de1f9728ae05f89ee58307e"
+  },
+  {
+    "path": "Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/Tiberian - Superseded Shag Hairstyle.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "sha256": "c0e0e6b99a6724c1f06788c517d32e60abe68afc9daddc264cad2ae743b5f1a5"
+  }
+]

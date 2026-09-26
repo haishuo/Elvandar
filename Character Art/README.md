@@ -44,12 +44,42 @@ The restoration pass completed on 2026-09-22 updates fourteen active images: eig
 Tiberian/Melina Valanar. The twins retain their individual identities and established inheritance pattern:
 Tiberian's structure favors Elara, Melina's favors Xion. Their revised solo references govern the faces
 in their plates and scenes. The author approved the complete fourteen-image set on 2026-09-22;
-these are now the active approved references.
+the Elara images remain active. The six twins’ images and their facial authority are superseded by the
+2026-09-26 recasting below.
 
 [Review all fourteen before/after pairs](<Drafts/Elara Valanar/Leah Identity Restoration/Review.html>).
 [Manifest, prompts and archive notes](<Drafts/Elara Valanar/Leah Identity Restoration/README.md>).
 All fourteen pre-restoration originals remain in that folder's `Superseded/` tree. Retired illustrations
 and older superseded drafts have not been revised and have no current likeness authority.
+
+## Twins’ facial identities — author-approved recasting, 2026-09-26
+
+The author approved fresh parent-based faces for both twins and explicitly locked them on 2026-09-26.
+Their initial identities were generated using only Xion and the approved Leah-based Elara references,
+including the pregnancy scene; no former twin image supplied a face. Melina’s first candidate was
+accepted. Tiberian’s face was retained with a shorter, lightly wavy side-swept haircut, a clearer forehead
+and less bulk around ears and nape, so his silhouette does not duplicate Xion’s.
+
+The exact approved headshots in `Character Art/Reference Models/Facial Identity/` govern facial geometry,
+complexion and the reference hairstyles over every older twin portrait, plate or scene. Preserve these
+faces rather than reinterpret ethnic labels, martial training or setting cues. Family resemblance must
+not turn either twin into a copy of a parent or of the other twin. The earlier conceptual maternal/paternal
+resemblance pattern does not authorize redesigning an approved face. Tiberian remains 5′10″ at sixteen
+and about eighteen; Melina remains 5′8″ at sixteen.
+
+Six active images now propagate these anchors: both solo portraits, both fitting-room plates, their
+paired reference, and *At the Taps*. The author approved the two anchors and authorized this propagation;
+the six derivatives have not received separate individual approval. The plates are generative edits of
+the existing layouts, not newly certified deterministic calibrations; written heights govern residual
+visual variation. Originals, prompts and a review gallery are preserved in
+`Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/`.
+
+### Locked twin headshots
+
+- [Tiberian Valanar](<Reference Models/Facial Identity/Tiberian Valanar.png>) — approved face and revised haircut
+- [Melina Valanar](<Reference Models/Facial Identity/Melina Valanar.png>) — approved first parent-based candidate
+- [Six-image before/after review](<Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/Review.html>)
+- [Archive and generation record](<Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/README.md>)
 
 ## Reference Models
 
@@ -80,7 +110,8 @@ variation. All character plates use the same room, camera, frame and brass heel 
 
 ### Photorealistic Solo Models
 
-These are the approved photorealistic identity references currently available.
+These are the current photorealistic models. The twins’ separate locked headshots govern their faces;
+their updated full-length portraits are authorized derivatives.
 
 - [Bittek](<Reference Models/Photorealistic/Bittek.png>) — Book 6
 - [Danshall Harkim](<Reference Models/Photorealistic/Danshall Harkim.png>) — Book 4

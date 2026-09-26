@@ -12014,3 +12014,28 @@ The author approved all fourteen revised images and explicitly authorized pushin
 and editorial records to the public GitHub repository. The active images and verified B2 backup already
 contain the approved set. Updated the art index, visual ledger, master list, restoration notes and
 before/after gallery to retire the pending-review status. No image files or prose changed in this step.
+
+---
+
+## 2026-09-26 — Lock the parent-based twins and replace six active images
+
+The author approved Melina’s first fresh parent-based face and Tiberian’s hair-only revision, then
+explicitly instructed that both be locked and propagated. Preserved those exact candidates as separate
+facial anchors under `Character Art/Reference Models/Facial Identity/`. The initial faces used only Xion
+and the approved Leah-based Elara family references, not former twin portraits. Tiberian’s shorter
+wavy side-sweep replaces the initial Xion-like shag silhouette; the rejected hairstyle remains archived.
+
+Replaced both full-length solo portraits, both fitting-room plates, the paired twin reference and
+*At the Taps*. The first three compositions are generated from new identity/costume references; existing
+plates and the scene serve as edit targets only. Tiberian retains his late-Book-6 age of about eighteen
+in the scene; written heights remain 5′10″ and 5′8″. Plate geometry is approximate inherited geometry,
+not a newly certified deterministic calibration. The headshots are individually author-approved;
+the derivatives are authorized propagation, not separately approved images.
+
+Preserved all six originals in the recasting folder’s `Superseded/` tree. Saved full prompts, a manifest,
+checksums, decoded dimensions and a before/after gallery. Conformed the art index, visual ledger,
+both twin sheets and master list. Earlier records remain historical; their twins’ facial-preservation
+instructions are superseded. Elara’s approved references remain unchanged. No prose, beat drafts,
+skeletons, outlines or Royal Road output changed.
+
+**B2 backup pending:** automatic approval review rejected upload of this specific 15-image batch as requiring explicit export authorization. All files remain saved locally; no upload or remote deletion occurred.

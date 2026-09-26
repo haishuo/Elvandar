@@ -1298,6 +1298,30 @@ and narrative scenes stay separate from these deliberately plain measurement pla
 Ren remains textually tall without an exact number. Adolescent measurements attach to age and are not
 silently carried into adulthood.
 
+## Twins’ facial identities — author-approved recasting, 2026-09-26
+
+**Storage follow-up:** the scoped 15-image B2 backup awaits explicit batch export approval after automatic review blocked it. Local replacements and originals are safe.
+
+The author approved fresh parent-based faces for both twins and explicitly locked them on 2026-09-26.
+Their initial identities were generated using only Xion and the approved Leah-based Elara references,
+including the pregnancy scene; no former twin image supplied a face. Melina’s first candidate was
+accepted. Tiberian’s face was retained with a shorter, lightly wavy side-swept haircut, a clearer forehead
+and less bulk around ears and nape, so his silhouette does not duplicate Xion’s.
+
+The exact approved headshots in `Character Art/Reference Models/Facial Identity/` govern facial geometry,
+complexion and the reference hairstyles over every older twin portrait, plate or scene. Preserve these
+faces rather than reinterpret ethnic labels, martial training or setting cues. Family resemblance must
+not turn either twin into a copy of a parent or of the other twin. The earlier conceptual maternal/paternal
+resemblance pattern does not authorize redesigning an approved face. Tiberian remains 5′10″ at sixteen
+and about eighteen; Melina remains 5′8″ at sixteen.
+
+Six active images now propagate these anchors: both solo portraits, both fitting-room plates, their
+paired reference, and *At the Taps*. The author approved the two anchors and authorized this propagation;
+the six derivatives have not received separate individual approval. The plates are generative edits of
+the existing layouts, not newly certified deterministic calibrations; written heights govern residual
+visual variation. Originals, prompts and a review gallery are preserved in
+`Character Art/Drafts/Tiberian and Melina Valanar/Parent-Based Recasting/`.
+
 **Elara's actress restored — author's ruling 2026-09-21; propagation completed 2026-09-22.**
 The author rejected the previous facial drift and approved the direct Leah-to-Elara casting test:
 Leah Mercer's fictional actress plays Elara with her underlying face unaltered. That test is now the

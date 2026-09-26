@@ -275,12 +275,17 @@ Melina rarely visits front lines. She commands from Kaha'an's central command ce
 
 Her composure is her most visible characteristic. Royal blue eyes maintained under extreme stress. Perfect emotional control as both discipline and identity. The moments when control breaks — the color shift when her parents vanish — are significant precisely because of how rare they are.
 
-The approved reference design fixes her face, build, dark hair, royal-blue eyes, resemblance pattern, and complexion. By authorial ruling on 2026-08-21, her complexion is light warm beige/olive inherited from both parents, close to their sheltered baseline and subtly less sun-touched than Tiberian. This reflects their different habits and training without making the fraternal twins unnaturally identical in tone.
+The author locked her new parent-based face on 2026-09-26. The exact approved headshot at
+`Character Art/Reference Models/Facial Identity/Melina Valanar.png` governs facial proportions,
+natural complexion, royal-blue eyes and reference hairstyle over all earlier twin images. The initial
+casting used only Xion and the approved Leah-based Elara as family references, not the previous twins.
+Do not reinterpret the face through setting stereotypes, training or an additional tan.
 
-The 2026-09-22 visual restoration makes a restrained family-resemblance correction using Elara's approved
-Leah-based face. Melina still favors Xion structurally and remains distinct from her mother and brother.
-Her revised solo portrait supplies the face for her calibration and paired image. This is a propagated
-art revision, not a change to her age, measurements or resemblance pattern. See [the visual ledger](Basic%20Physical%20Characteristics.md).
+Her reference hairstyle is the approved loose practical braid. She remains **5′8″ / 173 cm** at sixteen, slender and distinct from both her mother and brother.
+
+The new solo portrait, fitting-room plate, paired reference and any scene art follow that headshot;
+they do not supersede it. The author approved the headshot and authorized the derivative updates.
+See [the visual ledger](Basic%20Physical%20Characteristics.md).
 
 ### Behavioral Patterns
 

@@ -264,12 +264,17 @@ correctly. Do not resolve it. No character explains it to him, and Xion least of
 
 Tiberian leads from the front — a principle of personal leadership that puts him at the head of columns and in the center of engagements. His combat style emphasizes rapid offensive maneuvers, aggressive decision-making, and unconventional use of Hauren technology on the battlefield. He inspires morale through physical presence: his people fight harder because their prince fights beside them.
 
-The approved reference design fixes his face, build, dark hair, royal-blue eyes, resemblance pattern, and complexion. By authorial ruling on 2026-08-21, his complexion is light warm beige/olive inherited from both parents, with modest acquired outdoor warmth from martial training. He is slightly more sun-touched than Melina without returning to the bronze drift of the superseded model. He is **5′10″ / 178 cm** at sixteen and remains that height when he enters the Warrens at about eighteen; the Bittek confrontation does not silently reuse the younger measurement.
+The author locked his new parent-based face on 2026-09-26. The exact approved headshot at
+`Character Art/Reference Models/Facial Identity/Tiberian Valanar.png` governs facial proportions,
+natural complexion, royal-blue eyes and reference hairstyle over all earlier twin images. The initial
+casting used only Xion and the approved Leah-based Elara as family references, not the previous twins.
+Do not reinterpret the face through setting stereotypes, training or an additional tan.
 
-The 2026-09-22 visual restoration updates his maternal resemblance against Elara's approved Leah-based
-face while retaining his individual identity and Xion's contribution. His revised solo portrait is the
-facial reference for his calibration, paired image and *At the Taps*. This is a propagated art revision,
-not a change to the resemblance pattern, age or measurements. See [the visual ledger](Basic%20Physical%20Characteristics.md).
+His reference haircut is shorter and lightly wavy, with a loose side-sweep, clearer forehead and less bulk at ears and nape; do not restore Xion’s shag silhouette. He is **5′10″ / 178 cm** at sixteen and remains that height at about eighteen in the Warrens and *At the Taps*.
+
+The new solo portrait, fitting-room plate, paired reference and any scene art follow that headshot;
+they do not supersede it. The author approved the headshot and authorized the derivative updates.
+See [the visual ledger](Basic%20Physical%20Characteristics.md).
 
 ### Behavioral Patterns
 
