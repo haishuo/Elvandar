@@ -1223,6 +1223,27 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 Decided. Retained so they are not reopened or re-flagged.
 
+### Kalden never meets Elara or Xion, and how Xion read him anyway — author's ruling, 2026-09-26
+
+**Kalden Erulius is never in a room with Elara or Xion, on the page or off it, in any book.** The first of
+the family he ever stands in front of is Tiberian, on the Golden Path in Book 7, and it kills him. **Do not
+add a meeting**, and do not convert B3 ch15's confidential envoy into Kalden in person. That was proposed
+and declined: it breaks ch15's secrecy (the double-game with Gunastran) and ch18's timing (the relay riders
+outrunning the courier, the Compact signed at his desk in Eruliath), it runs against his proxy signature,
+and above all it breaks the King's Gambit, which works only because *"anyone who has spent an hour with
+Xion would have laughed at it."*
+
+**The question it raised was how Xion could read Kalden without ever meeting him**, and the answer is now
+written into `Offstage.md`, "The King's Gambit" → "What Xion saw", which is the single source. In short:
+he reads a sequence of moves, not a face — the secrecy he clocked in B3 ch15, the refusal he gave in his own
+name in ch16, the Compact's timing he can reckon in ch21 — and nobody on the Compact's side can take that
+read, because the evidence was secret.
+
+**The same pass fixed a timing error.** `Offstage.md` had Xion *"watching Kalden shout about him for years"*
+before the Gambit, but the Compact War follows Book 3 directly and the Gambit is its opening phase. Xion
+does not play a fantasy that already exists; he hands Kalden its first draft, and *I knew it* is where the
+imaginary Xion sets. Kalden's and Xion's sheets conform.
+
 ### A name collision needs weight on both sides — author's ruling, 2026-08-21
 
 **Two axes, not one, and the register only had the first one written down.** `Names.md` clears *Lyra / Lira*
