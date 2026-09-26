@@ -12039,3 +12039,17 @@ instructions are superseded. Elara’s approved references remain unchanged. No 
 skeletons, outlines or Royal Road output changed.
 
 **B2 backup pending:** automatic approval review rejected upload of this specific 15-image batch as requiring explicit export authorization. All files remain saved locally; no upload or remote deletion occurred.
+
+---
+
+## 2026-09-26 — Verify twins recasting backup on B2
+
+Following explicit author authorization, uploaded the 15-image recasting batch to the existing
+`haishuo-writing-images/elvandar` B2 archive. Checksum verification returned **15 matching files,
+0 differences**. This closes the earlier blocked backup; no remote files were deleted.
+
+Also compared the local image inventory with B2 in response to the request to back up newly added
+images. All three local Tania Larannas images already match B2 by SHA-1. No additional locally present
+image paths were missing outside the twins batch. Two differing Xion references were left untouched:
+they are outside this upload scope and may be older local copies. The location of any additional
+user-uploaded files remains to be identified.

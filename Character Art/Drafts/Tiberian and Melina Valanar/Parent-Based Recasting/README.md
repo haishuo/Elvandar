@@ -24,4 +24,4 @@ are current authorized replacements, not six separately approved portraits. All 
 The scoped `b2-files.txt` covers six active replacements, two approved headshots, six archived originals,
 and the superseded first Tiberian haircut. No other remote image is overwritten or deleted by this pass.
 
-**B2 backup pending:** automatic approval review rejected upload of this specific 15-image batch as requiring explicit export authorization. All files remain saved locally; no upload or remote deletion occurred.
+**B2 backup verified, 2026-09-26:** following explicit author authorization, uploaded the scoped 15-image batch. `rclone check --one-way` returned 15 matching files and 0 differences. No remote files were deleted.

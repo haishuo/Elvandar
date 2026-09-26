@@ -1300,7 +1300,7 @@ silently carried into adulthood.
 
 ## Twins’ facial identities — author-approved recasting, 2026-09-26
 
-**Storage follow-up:** the scoped 15-image B2 backup awaits explicit batch export approval after automatic review blocked it. Local replacements and originals are safe.
+**Storage complete, 2026-09-26:** the author explicitly authorized the scoped 15-image B2 upload; checksum verification returned 15 matching files and 0 differences. Local originals remain preserved.
 
 The author approved fresh parent-based faces for both twins and explicitly locked them on 2026-09-26.
 Their initial identities were generated using only Xion and the approved Leah-based Elara references,
