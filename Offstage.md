@@ -393,9 +393,12 @@ is a different person wearing the name** — and at this point, weeks into the w
 all: a *nobody healer* who took what should have been Kalden's, which is all Kalden has had time to decide
 and all his Merchant's account of the loss requires. **Xion does not play a fantasy that already exists. He
 hands Kalden its first draft** — the nobody who stole the prize, now reaching for the army as well — and
-Kalden's response is not *I am persuaded*. It is **I knew it.** That is the moment the imaginary Xion sets.
-The machiavellian overmind who arranges continents, and who is behind everything that goes wrong in
-Kalden's life for the next twenty years, is built on this foundation, and Xion laid it.
+Kalden's response is not *I am persuaded*. It is **I knew it.**
+
+**Xion needed the performance to hold for one campaign, and no longer — author's ruling, 2026-09-26.** It
+was built to be disposable. If Kalden had looked back after the war and called it nonsense, Xion would have
+been entirely content: the country, the city and his wife were saved, and that was all the performance was
+for. **He never intended to be anyone's villain for twenty years, and he is not the one who made him one.**
 
 **And the trap contains a true fact, which is what makes it hold.** Xion genuinely has no military
 experience whatsoever. Kalden is not wrong about that and never becomes wrong about it — he simply draws
@@ -449,18 +452,27 @@ falling. **That is his father's method, taught to him in B2 ch12, in his father'
 inherited the geometry along with the healer's eye, and by this point in his life he knows he has it and
 knows how to point it. Do not treat that as a slip or a fall — but do not treat it as nothing, either. It
 is worth remembering that the man he used it on is the same man **Rosik will use the identical lever on
-twenty years later**, for a different purpose, with the same contempt for him as an instrument.
+twenty years later**, for a different purpose. What differs is how much of Kalden each of them needed:
+Xion needed one campaign, and Rosik needs everything that is left.
 
 **On the imaginary Xion, which is the thread that runs from here to Kalden's death.** Kalden spends nearly twenty
-years fighting a man who does not exist. **This is where that man is first given a shape** — Xion, having
-identified the grudge, feeds it deliberately, and Kalden loses a war to a version of his enemy that he
-finished inventing himself. **And it is what eventually kills him.** In Book 7 he rides out to meet the same
+years fighting a man who does not exist, **and he builds that man himself, after the war and out of the
+defeat.** At the Gambit, Kalden's Xion is a *nobody healer*, and the attack only makes sense on that
+premise. Then Kalden loses to him. His sheet is explicit that he cannot absorb a loss as a loss; it has to
+be theft. A nobody cannot have beaten him, so the nobody is promoted: after the war the healer has to
+have been a mastermind, a man who arranges continents, because that is the only Xion it is bearable to
+have lost to. **The escalation from *nobody* to *overmind* is Kalden's, entirely, and it happens after
+Xion has stopped performing.** Xion fed the grudge once, for a season. Kalden ran with it for twenty
+years. **And it is what eventually kills him.** In Book 7 he rides out to meet the same
 imaginary man, screaming *where is he, where is Xion*, and finds instead the calm young man who already told
 him no once, at the parley at Silaris — the son, sent again — and the collision between forty years of story and the reality in front of him kills him where he sits — a stroke, and years of ruin arriving at once.
-**Xion helped build the delusion. Rosik later uses the same delusion. It is the delusion that kills him**,
-and no one ever tells him it was not real.
+**Xion used the grudge once and was done with it. Kalden built the delusion out of it. Rosik finds it
+twenty years later, full grown, and feeds it deliberately, because he needs it big. It is the delusion that
+kills him**, and no one ever tells him it was not real.
 
-**And it means Xion is partly the author of Kalden's ruin.** The Erulian ledger that defines Book 7 —
+**And it means Xion is partly the author of Kalden's ruin — the ruin, not the delusion.** Baiting Kalden
+into losing a war is genuinely Xion's doing. The twenty years of story Kalden told about it afterwards are
+not. The Erulian ledger that defines Book 7 —
 reparations, the unpaid army, the third of the principality gone to the Erulian Union — begins with a war
 Kalden lost, and he lost it here, in front of walls he had no way to bring down, because Xion invited him
 to. **Which produced exactly the broken, resourced, grievance-bearing man Rosik needed a lever for.** The

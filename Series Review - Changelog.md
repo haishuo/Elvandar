@@ -12113,3 +12113,24 @@ Gallery War, so Kalden's death in Book 7 becomes a recognition rather than a mee
 - **Master List §6:** the Kalden ruling is amended. He meets no Valanar except Tiberian, twice.
 
 No prose, beat drafts, skeletons or Royal Road output changed.
+
+---
+
+## 2026-09-26 — Xion's gambit was disposable; the overmind is Kalden's
+
+**Author's ruling.** Xion needed Kalden to believe the coup for one campaign only, and would have been fine
+with Kalden calling it nonsense after the war. Kalden ran with it.
+
+- **`Offstage.md`, "The King's Gambit":** removed *"built on this foundation, and Xion laid it"* (added
+  earlier the same day) and stated the ruling in its place. The imaginary-Xion thread now places the
+  escalation from *nobody healer* to *overmind* after the war, inside Kalden: losing to a nobody is
+  unbearable, so the nobody is promoted. *"Xion helped build the delusion"* now separates the three: Xion
+  used the grudge once, Kalden built the delusion, and Rosik feeds it deliberately. *"Xion is partly the
+  author of Kalden's ruin"* stands, qualified as the ruin and not the delusion.
+  *"With the same contempt for him as an instrument"* (Xion and Rosik compared) now reads as the difference
+  in what each needed: Xion needed one campaign, and Rosik needs everything that is left.
+- **`People/Kalden Erulius.md`, "The imaginary Xion":** records the mechanism, the nobody and the overmind
+  held at once, and splits *"Two Kemvimores fed that delusion"* by intent.
+- **Master List §6:** ruling added, including *do not write Xion as having cultivated the fantasy*.
+
+No prose, beat drafts, skeletons or Royal Road output changed.
