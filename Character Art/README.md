@@ -146,6 +146,11 @@ their updated full-length portraits are authorized derivatives.
 - [Formal Dance Practice](<Scenes/Xion and Elara/Formal Dance Practice.png>)
 - [The Vartonnian Envoy](<Scenes/Xion and Elara/The Vartonnian Envoy.png>) — Book 3, Chapter 17, *Good Faith*
 
+### Valanar Family
+
+- [Family Supper](<Scenes/Valanar Family/Family Supper.png>) — author-approved 2026-09-26; imagined off-page meal with Xion, Elara and the sixteen-year-old twins. All four seated in a private palace dining room, sharing relaxed family conversation.
+- [Generation record](<Scenes/Valanar Family/Family Supper - Generation Record.json>) — prompt, approval and image checksum
+
 ### Tiberian and Bittek
 
 - [At the Taps](<Scenes/Tiberian and Bittek/At the Taps.png>) — canonical Book 6 confrontation

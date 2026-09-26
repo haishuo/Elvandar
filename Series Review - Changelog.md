@@ -12053,3 +12053,16 @@ images. All three local Tania Larannas images already match B2 by SHA-1. No addi
 image paths were missing outside the twins batch. Two differing Xion references were left untouched:
 they are outside this upload scope and may be older local copies. The location of any additional
 user-uploaded files remains to be identified.
+
+---
+
+## 2026-09-26 — Approve and archive the Valanar family supper
+
+The author approved the generated private family meal with Xion, Elara, Melina and Tiberian and
+explicitly authorized B2 upload. Saved the exact output as
+`Character Art/Scenes/Valanar Family/Family Supper.png`, alongside the full generation prompt,
+approval status, dimensions and SHA-256. Added it to the art index and master list as an imagined
+off-page moment. The twins use their approved new faces; Elara is seated with her family, not cooking.
+No facial anchors, prose, beat drafts or other story canon changed.
+
+**B2 backup verified:** 1 matching file, 0 differences. No remote files deleted.

@@ -1298,6 +1298,12 @@ and narrative scenes stay separate from these deliberately plain measurement pla
 Ren remains textually tall without an exact number. Adolescent measurements attach to age and are not
 silently carried into adulthood.
 
+**Valanar family supper — approved 2026-09-26.** The author approved the exact four-person private
+palace meal image, archived at `Character Art/Scenes/Valanar Family/Family Supper.png`. Xion and Elara
+exchange a smile while the sixteen-year-old twins join the conversation; Elara is seated, not cooking.
+An imagined off-page family moment, not a newly inserted prose event. Existing facial anchors remain
+authoritative. The Thiel family image supplied the warm domestic mood only.
+
 ## Twins’ facial identities — author-approved recasting, 2026-09-26
 
 **Storage complete, 2026-09-26:** the author explicitly authorized the scoped 15-image B2 upload; checksum verification returned 15 matching files and 0 differences. Local originals remain preserved.
