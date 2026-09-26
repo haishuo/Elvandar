@@ -409,7 +409,7 @@ everything that has gone wrong in his life for nearly twenty years. **The real m
 an inheritance most people would kill for, treating the poor for nothing in a back room, specifically so
 he would not have to be somebody.** The two have almost nothing in common beyond a name.
 
-**This is exploitable and it was exploited.** During the Compact War, Xion staged a coup against his own
+**It was exploited before it was finished, and the exploiting is what finished it.** During the Compact War, Xion staged a coup against his own
 wife — an act so grotesquely out of character that anyone who had met him would have laughed — precisely
 because Kalden would not laugh. Kalden's reaction was not *I am persuaded*; it was **I knew it.** He
 abandoned the pincer on Uratha to besiege Kaha'an with a host of cavalry and no siege train, and lost the

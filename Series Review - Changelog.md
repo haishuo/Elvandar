@@ -12066,3 +12066,25 @@ off-page moment. The twins use their approved new faces; Elara is seated with he
 No facial anchors, prose, beat drafts or other story canon changed.
 
 **B2 backup verified:** 1 matching file, 0 differences. No remote files deleted.
+
+---
+
+## 2026-09-26 — How Xion read Kalden: the King's Gambit's evidence, and a timing fix
+
+**Author-approved.** `Offstage.md`, "The King's Gambit":
+
+- **"What Xion saw"** now states how Xion reads a man he has never met: the secrecy of the proposal
+  (B3 ch15, beat 1), the refusal given in his own name (ch16, beat 14), the arithmetic on the Compact's
+  timing (ch21, beat 15), and his father's instrument, learned in Book 2. None of it was available to the
+  Compact's side, because the proposal was secret from Gunastran.
+- **Timing error corrected.** *"Watching Kalden shout about him for years"* was impossible, since the
+  Gambit falls weeks into a war that directly follows Book 3. Xion now hands Kalden the first draft of the
+  imaginary Xion instead of playing a finished one; the later *"first weaponised … invented himself"* line
+  conformed to match.
+- **Stale reference.** "Book 3 ch18 … arriving at the council" → **ch21**, `First Strike`. Ch18 has been
+  the Kalden POV chapter since the renumbering.
+
+Conformed `People/Xion Kemvimore.md` ("had invented a machiavellian version" → "had decided he was a nobody
+who had stolen his prize") and `People/Kalden Erulius.md` ("The imaginary Xion": the Gambit is where the
+fantasy set). Settled ruling added to the master list: Kalden never meets Elara or Xion, and B3 ch15 stays
+an envoy. No prose, beat drafts, skeletons or Royal Road output changed.

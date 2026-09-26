@@ -321,7 +321,7 @@ live chess imagery anywhere.***
 
 Xion could not pretend he was not a large part of why the war had started. The alliance, the Hauren
 work, and the marriage that answered Kalden's suit were all his doing or downstream of it, and Book 3
-ch18 already has him arriving at the council *already knowing the shape of it* — a war triggered by
+ch21 already has him arriving at the council *already knowing the shape of it* — a war triggered by
 conditions he helped create, beginning before the defensive architecture was finished.
 
 **So he set out to prove to Elara that she had not made a mistake choosing him.** She would have told him,
@@ -348,6 +348,26 @@ peace and the war is over.
 nobody on the Compact's side had thought to take: **the man hated him personally.** Not Balisha, not the
 Alliance. Him.
 
+**He had never met Kalden, and he did not need to.** The read is not psychology taken from a face; it is
+arithmetic on a sequence of moves, and Book 3 put Xion in the room for every one of them:
+
+- **The secrecy (B3 ch15, beat 1).** A proposal that large, delivered that quietly, was being hidden from
+  someone. Xion filed the question without an answer. The Compact's announcement supplied it: Kalden had
+  been courting Elara behind Gunastran's back.
+- **The refusal was given in his name (B3 ch16, beat 14).** Xion answered the envoy himself, in a closed
+  room. Kalden was not refused by Balisha. He was refused in favour of Xion, and Xion knows which name went
+  back to Eruliath with the answer.
+- **The timing (B3 ch21, beat 15).** Xion was there when the letter went out and can do the arithmetic on
+  the window it closed. A sound offer, abandoned for an alliance against Erulius's own interest the moment
+  it was refused, is not policy. It is a wound.
+- **The instrument is his father's.** He cannot read Kalden's body, so he reads his ledger: a man who
+  measures everything as acquisition, and who experiences a refusal as theft. Book 2 taught him, at the
+  price of Melina, what a Merchant does when you take something off his table.
+
+**Nobody on the Compact's side could have taken that read, because the only evidence for it was
+secret.** Gunastran never learned Kalden had tried to defect. The concealment Kalden built to protect
+himself is precisely what exposed him, to the only people who had been in the room.
+
 So he offered a bait that only worked on one man in the world.
 
 ### The performance
@@ -369,11 +389,13 @@ who would ever stage a coup.** The performance is not merely out of character; i
 of the only thing he has ever consistently been.
 
 **Which is exactly why it works on Kalden, and only on Kalden.** Kalden does not know him. **Kalden's Xion
-is a different person wearing the name** — a machiavellian overmind who arranges continents, who took Elara
-as a prize, who is behind everything that has gone wrong in Kalden's life for nearly twenty years. Xion knows
-precisely what that imaginary man looks like, because he has been watching Kalden shout about him for
-years. **So he plays the part of Kalden's Xion**, and Kalden's response is not *I am persuaded*. It is
-**I knew it.**
+is a different person wearing the name** — and at this point, weeks into the war, he is barely a person at
+all: a *nobody healer* who took what should have been Kalden's, which is all Kalden has had time to decide
+and all his Merchant's account of the loss requires. **Xion does not play a fantasy that already exists. He
+hands Kalden its first draft** — the nobody who stole the prize, now reaching for the army as well — and
+Kalden's response is not *I am persuaded*. It is **I knew it.** That is the moment the imaginary Xion sets.
+The machiavellian overmind who arranges continents, and who is behind everything that goes wrong in
+Kalden's life for the next twenty years, is built on this foundation, and Xion laid it.
 
 **And the trap contains a true fact, which is what makes it hold.** Xion genuinely has no military
 experience whatsoever. Kalden is not wrong about that and never becomes wrong about it — he simply draws
@@ -430,9 +452,9 @@ is worth remembering that the man he used it on is the same man **Rosik will use
 twenty years later**, for a different purpose, with the same contempt for him as an instrument.
 
 **On the imaginary Xion, which is the thread that runs from here to Kalden's death.** Kalden spends nearly twenty
-years fighting a man who does not exist. **This is where that man is first weaponised** — Xion, having
-identified the fantasy, feeds it deliberately, and Kalden loses a war to a version of his enemy that he
-invented himself. **And it is what eventually kills him.** In Book 7 he rides out to meet the same
+years fighting a man who does not exist. **This is where that man is first given a shape** — Xion, having
+identified the grudge, feeds it deliberately, and Kalden loses a war to a version of his enemy that he
+finished inventing himself. **And it is what eventually kills him.** In Book 7 he rides out to meet the same
 imaginary man, screaming *where is he, where is Xion*, and finds a calm young stranger who turns out to be
 the son, and the collision between forty years of story and the reality in front of him kills him where he sits — a stroke, and years of ruin arriving at once.
 **Xion helped build the delusion. Rosik later uses the same delusion. It is the delusion that kills him**,
