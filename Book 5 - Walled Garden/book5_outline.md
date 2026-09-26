@@ -109,13 +109,41 @@ Against his parents' initial wishes, Tiberian leads a small force to Silaris. Th
 
 **Melina's role:** She doesn't accompany Tiberian (or perhaps she does in an advisory capacity — this is flexible). Either way, her contribution is the planning that prevents Tiberian's intervention from becoming a disaster. Even if she disagrees with the timing, once the decision is made, her engineering brain works to make it succeed.
 
+### The parley at Silaris — author's ruling, 2026-09-26
+
+**Before the fighting, Tiberian and Kalden meet face to face, under a flag, outside the city.** It is the
+first time Kalden has ever stood in front of a Valanar. He never meets Elara or Xion, in any book (see
+`Series Review - Master List.md` §6), so after twenty years of the family as a position, the first one he
+actually faces is a sixteen-year-old who is not impressed. Tiberian's POV.
+
+**Why Kalden comes himself, which is against his habit of working through proxies.** Price it on the page and
+do not treat it as free. He comes because the parley is a stage. *Cultural preservation* only works as a
+performance, and a Valanar prince at Silaris is a portrait Kalden will not let anyone paint without him in
+it. His grandeur outranks his caution, and the collar goes on for the occasion.
+
+**What happens.** Kalden gives the speech: protection, restoration, the cultural heart of the reformed
+empire. Tiberian names it plunder, plainly and briefly. That is the *"sees through the rhetoric immediately"*
+above, said to Kalden's face rather than to the war council. Kalden treats him as what he takes him to be,
+**a boy his father sent**, and asks where Xion is. Tiberian gives him a flat no and nothing else. No speech,
+no debate; he is sixteen and certain, and the certainty is the point.
+
+**Three constraints, all load-bearing for Book 7.**
+- **Kalden must not call him a bastard here.** On the Golden Path, Tiberian's *"*bastard* is a new one"*
+  must be true. Kalden only arrives at the word later.
+- **The parley is the first of two times Tiberian tells him no in person.** Book 7's recognition, *"you,
+  again,"* depends on it. The recurrence changes Kalden's position: at Silaris Tiberian is Xion's errand
+  boy; on the Golden Path he is the only opponent Kalden has ever lost to face to face, sent again, and still
+  not Xion.
+- **Nothing in the scene reaches forward.** No foreshadowing of the stroke, the drink, or the road. It is a
+  parley that fails, and then the Gallery War.
+
 **The Gallery War:** Combat in Silaris's narrow streets and galleries, where every building has cultural significance and every casualty represents irreplaceable artistic knowledge. This is warfare with consequences beyond the military — a stray fire here destroys a fresco that survived five centuries. A siege there starves the artisans whose work defines a civilization's heritage.
 
 Tiberian's bold maneuvering and developing tactical capability — the Relief of Silaris — prevents Kalden from seizing the cultural capital. The intervention succeeds. But the costs teach Tiberian that charging in isn't the same as saving people. The Gallery War itself damaged some of what he came to protect. Some casualties were caused by the rescue as much as by the threat.
 
 **Kai in the Gallery War:** One vivid moment — Kai pulls Tiberian out of a collapsing gallery, or covers him while he evacuates civilians and artists. No big speech. Just a quick *"Told you this was a bad idea"* as they stumble out together. The reader sees the trust in action: these two operate as a unit under fire, the same way their fathers did.
 
-**What Kalden loses:** The Silaris gambit fails. The plank floats away. Kalden is left treading water with nothing but the rump state and the northern mines. The man who once had a legitimate claim to an empire cannot hold a failing city-state against a sixteen-year-old prince. The humiliation deepens the spiral described in his profile — the hatred intensifies, the drinking accelerates, the slide toward Book 7 begins.
+**What Kalden loses:** The Silaris gambit fails. The plank floats away. Kalden is left treading water with nothing but the rump state and the northern mines. The man who once had a legitimate claim to an empire cannot hold a failing city-state against a sixteen-year-old prince, and it is the same prince who told him no to his face at the parley. The humiliation deepens the spiral described in his profile — the hatred intensifies, the drinking accelerates, the slide toward Book 7 begins.
 
 ---
 

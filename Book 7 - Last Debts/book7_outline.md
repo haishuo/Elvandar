@@ -428,19 +428,23 @@ information he spent his whole network to stop needing. Do not give either of th
 
 The two forces meet on the Golden Path about a hundred miles east of Kaha'an — **where they meet, not where anyone chose**, because two armies closing on the continent's only desert road eat the gap at forty miles a day. Tiberian's outriders make contact first; the formal engagement begins shortly after. Kalden, mounted at the head of his mercenary line, expects his moment — the confrontation with Xion, the final chapter of the story he's been telling himself for the entire second half of his life. Twenty years of mirror-rehearsals. The imperial collar adjusted just so. The lines memorized.
 
-He finds Tiberian.
+He finds Tiberian — again. The boy from the parley at Silaris (Book 5), older now, just as calm, and still not Xion.
+
+*"You."*
 
 "WHERE IS HE?! WHERE IS XION?!!"
 
 Tiberian quirks an eyebrow. The military logic confuses him for a half-second — it would make zero sense for Xion to be here. Xion is emperor-consort, much older now, a *healer* by training and temperament. Why would he be on a battlefield his teenage son was already deployed to handle? Before Tiberian can formulate a response, Kalden roars on, the imperial register collapsing into something closer to a personal grievance from a barroom:
 
-*"And I must now suffer the indignity of dealing with that man's BASTARD SON?!"*
+*"Could not even be bothered to come himself! And I must suffer that man's BASTARD SON — AGAIN?!"*
 
 Tiberian grins. Not cruelly. Almost amused. "Huh. *Bastard.* That's a new one." A small shrug. "Last I checked, my mother really was Elara Valanar."
 
 Kalden turns purple. Then green. Then falls off his horse, dead.
 
 A massive stroke — the culmination of years of drinking, weight gain, gout, uncontrolled fury, and the catastrophic blood pressure spike that comes when reality delivers its final, unanswerable contradiction. The finish line he ran toward for decades had no one standing at it. Not even the right opponent. He died approximately two minutes into a battle he'd mortgaged a principality to start.
+
+**The recognition is load-bearing.** Kalden has met this boy once, at the parley at Silaris, and lost to him. On the Golden Path, Tiberian is the only opponent Kalden has ever lost to face to face, sent again, and still not the man he came for. *"Could not even be bothered to come himself"* accuses Xion of working through proxies. It comes from the man whose defining habit is proxies, and he never notices.
 
 The mercenaries pause. Survey the situation. Conclude with admirable speed that their employer is no longer in a position to pay them. They loot Kalden's corpse first — the imperial collar, the rings, the purse, the sword — and then disband. The army that was supposed to restore the Erulian Principality to imperial glory dissolves the way mercenary armies always dissolve when the money stops, except faster, because the money is now in their saddlebags.
 
