@@ -455,8 +455,8 @@ twenty years later**, for a different purpose, with the same contempt for him as
 years fighting a man who does not exist. **This is where that man is first given a shape** — Xion, having
 identified the grudge, feeds it deliberately, and Kalden loses a war to a version of his enemy that he
 finished inventing himself. **And it is what eventually kills him.** In Book 7 he rides out to meet the same
-imaginary man, screaming *where is he, where is Xion*, and finds a calm young stranger who turns out to be
-the son, and the collision between forty years of story and the reality in front of him kills him where he sits — a stroke, and years of ruin arriving at once.
+imaginary man, screaming *where is he, where is Xion*, and finds instead the calm young man who already told
+him no once, at the parley at Silaris — the son, sent again — and the collision between forty years of story and the reality in front of him kills him where he sits — a stroke, and years of ruin arriving at once.
 **Xion helped build the delusion. Rosik later uses the same delusion. It is the delusion that kills him**,
 and no one ever tells him it was not real.
 

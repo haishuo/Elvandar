@@ -1225,8 +1225,9 @@ Decided. Retained so they are not reopened or re-flagged.
 
 ### Kalden never meets Elara or Xion, and how Xion read him anyway — author's ruling, 2026-09-26
 
-**Kalden Erulius is never in a room with Elara or Xion, on the page or off it, in any book.** The first of
-the family he ever stands in front of is Tiberian, on the Golden Path in Book 7, and it kills him. **Do not
+**Kalden Erulius is never in a room with Elara or Xion, on the page or off it, in any book.** The only
+Valanar he ever stands in front of is Tiberian, twice: at the parley at Silaris in Book 5, and on the Golden
+Path in Book 7, where it kills him. **Do not
 add a meeting**, and do not convert B3 ch15's confidential envoy into Kalden in person. That was proposed
 and declined: it breaks ch15's secrecy (the double-game with Gunastran) and ch18's timing (the relay riders
 outrunning the courier, the Compact signed at his desk in Eruliath), it runs against his proxy signature,
@@ -1243,6 +1244,13 @@ read, because the evidence was secret.
 before the Gambit, but the Compact War follows Book 3 directly and the Gambit is its opening phase. Xion
 does not play a fantasy that already exists; he hands Kalden its first draft, and *I knew it* is where the
 imaginary Xion sets. Kalden's and Xion's sheets conform.
+
+**Tiberian meets him first at Silaris — author's ruling, 2026-09-26.** A parley before the Gallery War,
+recorded in `Book 5 - Walled Garden/book5_outline.md`, "The parley at Silaris". It makes the Golden Path a
+recognition rather than a stranger: *"You."*, *"Could not even be bothered to come himself"*, *"his bastard
+son — AGAIN?!"* This resolves a three-way disagreement: Kalden's sheet already had *"again"*, the Book 7
+outline did not, and `Offstage.md` said *"a calm young stranger."* **Kalden must not use the word *bastard*
+at Silaris**, because Tiberian's *"*bastard* is a new one"* has to stay true.
 
 ### A name collision needs weight on both sides — author's ruling, 2026-08-21
 

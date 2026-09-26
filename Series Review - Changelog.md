@@ -12088,3 +12088,28 @@ Conformed `People/Xion Kemvimore.md` ("had invented a machiavellian version" →
 who had stolen his prize") and `People/Kalden Erulius.md` ("The imaginary Xion": the Gambit is where the
 fantasy set). Settled ruling added to the master list: Kalden never meets Elara or Xion, and B3 ch15 stays
 an envoy. No prose, beat drafts, skeletons or Royal Road output changed.
+
+---
+
+## 2026-09-26 — Tiberian meets Kalden at a parley in Book 5
+
+**Author-approved.** Tiberian and Kalden now meet once before the Golden Path, at a parley before the
+Gallery War, so Kalden's death in Book 7 becomes a recognition rather than a meeting with a stranger.
+
+- **`Book 5 - Walled Garden/book5_outline.md`:** new section "The parley at Silaris". It covers why Kalden
+  comes in person, priced against his habit of working through proxies; Tiberian naming the looting as
+  plunder to Kalden's face; and three constraints: Kalden does not use *bastard* here, this is the first
+  of Tiberian's two refusals in person, and nothing in the scene foreshadows Book 7. "What Kalden loses" now
+  names the same prince.
+- **`Book 7 - Last Debts/book7_outline.md`:** "He finds Tiberian" becomes a recognition: *"You."* and
+  *"Could not even be bothered to come himself! … BASTARD SON — AGAIN?!"*, with a note on why the
+  recognition matters. Tiberian's reply is unchanged.
+- **`Offstage.md`:** *"a calm young stranger who turns out to be the son"* now reads as the young man who
+  already told him no at Silaris.
+- **`People/Kalden Erulius.md`:** the parley is added to Books 5–6; the death scene now carries the
+  recognition and the new line. A stale contradiction is fixed: he died *"on the ground outside Kaha'an's
+  walls"* against the same section's *"does not get within sight of the walls"*, and it now reads *"on the
+  Golden Path, a hundred miles short of Kaha'an's walls."*
+- **Master List §6:** the Kalden ruling is amended. He meets no Valanar except Tiberian, twice.
+
+No prose, beat drafts, skeletons or Royal Road output changed.

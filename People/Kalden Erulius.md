@@ -206,7 +206,7 @@ This is when Kalden turned to Silaris — and the critical thing is that the Sil
 
 His public framing was characteristically grandiose: "The Erulian Principality offers to restore Silaris to its rightful place as cultural heart of the reformed Balishan Empire." But beneath the imperial rhetoric was genuine strategic desperation. He needed Silaris the way a drowning man needs a plank.
 
-He allied with Vartonne again — they remembered the snub from Kaha'an's court, remembered Kalden as the man who validated their grievance — promising recognition as "true" imperial seat while keeping actual power for himself. When Tiberian Valanar intervened to prevent what amounted to cultural plunder, the conflict played out in Silaris's narrow streets and galleries, where every building had significance and every casualty represented irreplaceable knowledge.
+He allied with Vartonne again — they remembered the snub from Kaha'an's court, remembered Kalden as the man who validated their grievance — promising recognition as "true" imperial seat while keeping actual power for himself. When Tiberian Valanar intervened to prevent what amounted to cultural plunder, the two met once under a flag of parley. It was the first time Kalden had ever stood in front of a Valanar, and a sixteen-year-old told him no to his face. Then the conflict played out in Silaris's narrow streets and galleries, where every building had significance and every casualty represented irreplaceable knowledge.
 
 Tiberian blocked him. The plank floated away. And Kalden was left treading water with nothing but the rump state, the northern mines, and a hatred that was rapidly replacing everything else inside him.
 
@@ -240,11 +240,11 @@ Kalden's mercenary army never arrives at Kaha'an. Tiberian rides out to meet it 
 
 He does not find Xion.
 
-He finds Tiberian Valanar.
+He finds Tiberian Valanar — again. The boy who faced him down at the parley at Silaris and then took the city from him.
 
 Kalden is incensed. This was not the plan. This was not the story. He was supposed to confront the man who ruined him — the nobody healer, the thief of brides, the architect of every humiliation. Instead he is facing Tiberian, who is young and calm and completely unimpressed by the overweight, raging prince who has mortgaged his entire realm to stand here.
 
-"Where is he?! WHERE IS XION?!! Not enough he is not here, but I now have to deal with his bastard son again?!"
+"*You.* Where is he?! WHERE IS XION?!! Could not even be bothered to come himself — and I must deal with his bastard son AGAIN?!"
 
 Tiberian grins, quirking an eyebrow. "I've been called many things, but I gotta admit, *bastard* is a new one."
 
@@ -260,7 +260,7 @@ Meanwhile, Rosik — who never needed the army to succeed — attempts his assas
 
 He dies unceremoniously at the end of an Arol Batae spear.
 
-The Almost-Heir becomes the Never-Was. His claims to imperial legitimacy die with him on the ground outside Kaha'an's walls. The Erulian Principality — or what remained of it — is now simply a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes next.
+The Almost-Heir becomes the Never-Was. His claims to imperial legitimacy die with him on the Golden Path, a hundred miles short of Kaha'an's walls. The Erulian Principality — or what remained of it — is now simply a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes next.
 
 **And the someone else is the twelve houses that told him not to.** *(Settled 2026-08-05; full note in `Book 7 - Last Debts/book7_outline.md`, "Who held the paper." One line of fact, not a thread — Erulius does not appear in Book 8.)* The creditors were domestic and they were never lending on the assumption he would win. **Nobody advances against a sanctioned rump state mortgaging its mines to attack the strongest power on the continent unless the price assumes failure** — which is not lending, it is buying the mines cheaply and waiting. **He thought he was raising an army; they thought they were buying a country at a discount, and they were right, and it took about six weeks.**
 
