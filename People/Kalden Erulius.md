@@ -409,16 +409,25 @@ everything that has gone wrong in his life for nearly twenty years. **The real m
 an inheritance most people would kill for, treating the poor for nothing in a back room, specifically so
 he would not have to be somebody.** The two have almost nothing in common beyond a name.
 
-**It was exploited before it was finished, and the exploiting is what finished it.** During the Compact War, Xion staged a coup against his own
+**It was exploited once, before it existed, and Kalden finished it himself.** During the Compact War, Xion staged a coup against his own
 wife — an act so grotesquely out of character that anyone who had met him would have laughed — precisely
 because Kalden would not laugh. Kalden's reaction was not *I am persuaded*; it was **I knew it.** He
 abandoned the pincer on Uratha to besiege Kaha'an with a host of cavalry and no siege train, and lost the
 war doing it. See `Offstage.md`, "The King's Gambit."
 
+**Xion needed the performance to hold for one campaign and did not care what Kalden made of it afterwards.
+Kalden made a god of it.** The mechanism is the Merchant wound. At the Gambit his Xion is a *nobody healer*,
+and the attack rests on that premise. Then he loses. He cannot absorb a loss as a loss, only as theft, and
+being robbed by a nobody is unbearable, so after the war the nobody is promoted to mastermind: the only
+Xion it is tolerable to have lost to is one who arranges continents. **He holds both at once for the rest of
+his life, the nobody and the overmind**, and never notices that they contradict each other. Every step of
+that escalation is his own, and all of it comes after Xion stopped performing.
+
 **And the same fantasy kills him in Book 7.** He rides out to meet the imaginary man, demands to know
 where he is, and finds his son — and the collision between forty years of story and the reality in front
 of him kills him — a massive stroke, years of drink and weight and gout and ungoverned rage all coming due
-in one instant. **Two Kemvimores fed that delusion, twenty years apart, for opposite reasons.**
+in one instant. **Two Kemvimores fed it, twenty years apart, and not in the same way.** Xion fed a grudge once, needing it
+to hold for a season. Rosik fed the finished delusion on purpose, needing it as large as it would go.
 Nobody ever tells him it was not real, and nobody is in a position to.
 
 ### Book 7: what he thinks he is doing

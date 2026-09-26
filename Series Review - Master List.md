@@ -1242,8 +1242,15 @@ read, because the evidence was secret.
 
 **The same pass fixed a timing error.** `Offstage.md` had Xion *"watching Kalden shout about him for years"*
 before the Gambit, but the Compact War follows Book 3 directly and the Gambit is its opening phase. Xion
-does not play a fantasy that already exists; he hands Kalden its first draft, and *I knew it* is where the
-imaginary Xion sets. Kalden's and Xion's sheets conform.
+does not play a fantasy that already exists. Kalden's and Xion's sheets conform.
+
+**Xion never intended the performance to outlive the war — author's ruling, 2026-09-26.** He needed Kalden
+to believe it for one campaign, and would have been content to see it called nonsense afterwards. **The
+twenty-year overmind is Kalden's own construction, built after the defeat**: losing to a *nobody healer* is
+unbearable, so the nobody has to become a mastermind. Xion is the author of Kalden's lost war, not of his
+delusion; Rosik is the one who feeds the delusion deliberately. Single source: `Offstage.md`, "The King's
+Gambit"; mechanism on `People/Kalden Erulius.md`, "The imaginary Xion". **Do not write Xion as having
+cultivated the fantasy, or as owning it.**
 
 **Tiberian meets him first at Silaris — author's ruling, 2026-09-26.** A parley before the Gallery War,
 recorded in `Book 5 - Walled Garden/book5_outline.md`, "The parley at Silaris". It makes the Golden Path a
