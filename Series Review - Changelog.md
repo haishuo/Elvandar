@@ -12304,3 +12304,17 @@ true believers are never charged, and she knows every name. Pointers updated on 
 list: §7 items closed into the §6 ruling, and the status table is back to 0.
 
 No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — *The Erulian Union* gets its own file
+
+New `Places/The Erulian Principality/The Erulian Union.md`, on the author's design. It is a republic that
+grew from the Farmers' Assembly and was formed by the freeholders. The twelve houses stayed in the rump. The
+file draws the new border: the Union takes the Heartlands, the Golden Valley up to Eruliath's walls, Verdant
+Plains and Port Valen. It records the sea trade in grain with Kaha'an and the thin trade with the rump, and
+it records Kalden's reading of the Kaha'an trade as Xion's work.
+
+Pointers added: `People/Kalden Erulius.md` (the rump's extent; *The imaginary Xion*), `Offstage.md` (*The
+Compact War*), and a dating note at the head of both Erulian place files, which describe the principality at
+the series' opening. Master list: §6 ruling.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.

@@ -262,7 +262,7 @@ bakarn together. The liberation was messy and violent. The Alliance won.
 
 **What it cost Erulius, which is the consequence with the longest reach.** Reparations Kalden refused to
 meet with austerity. The army going unpaid, and then walking away. **A third of the principality seceding
-to form the Erulian Union, taking the best of the farmland.** Mines mortgaged, and later the Amber Palace
+to form the Erulian Union, taking the best of the farmland** (and Port Valen; see `Places/The Erulian Principality/The Erulian Union.md`). Mines mortgaged, and later the Amber Palace
 itself. What remained was a rump state. **Book 5's Silaris gambit and the whole of Book 7 are downstream
 of this ledger** — Kalden in Book 7 is not a villain with a plan, he is a man who lost this war and never
 absorbed it.

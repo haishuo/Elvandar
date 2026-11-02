@@ -2973,6 +2973,28 @@ the cost of one omitted source. He never doubts her. **The plotters:** the lesse
 investigation stops at the conspirators' own go-betweens, so the true believers are never charged. She knows
 every name.
 
+### The Erulian Union — author's design, 2026-11-02
+
+**New file, `Places/The Erulian Principality/The Erulian Union.md`.** The Union had nine references and no
+home. It is a **republic** that grew from the Farmers' Assembly at Verdant Plains, and it was formed by the
+freeholders, not by the twelve houses. Those houses stayed in the rump and are Kalden's Book 7 creditors. The
+secession was bloodless because the army had already walked away.
+
+**Territory:** the Heartlands, the Golden Valley up to Eruliath's walls, Verdant Plains, and **Port Valen**,
+which is forced because the rump is "landlocked". The rump keeps Eruliath, the mines, Northcrest and part of
+the western marches.
+
+**Trade:** its first business is grain to Kaha'an, by sea, because the rump lies between them overland. For
+Kaha'an it is the post-Grain policy of never depending on a single exporter, the same reasoning as Book 5's
+Green Cities. **Constraint: it is a market and does not reach the Warrens.** It is not the Grain chair
+refilled, and it does not prevent Book 6's famine. With the rump it trades well below what geography
+predicts, because both sides remember. **Kalden reads the Kaha'an trade as proof of Xion's hand.** It is one
+of the first things the post-war overmind feeds on, and his sheet now says so.
+
+**Left open in the file, deliberately:** what became of the twelve houses' Heartland estates, and the Union's
+currency. Nothing depends on either. Pointers added to Kalden's sheet, `Offstage.md`, and both Erulian place
+files.
+
 ---
 
 ## 7. Open questions

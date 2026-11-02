@@ -1,5 +1,8 @@
 # The Erulian Principality: The Almost-Heirs
 
+*(This describes the principality at the series' opening. After the Compact War a third of it secedes as
+the Erulian Union, with the Heartlands, Verdant Plains and Port Valen. See `Places/The Erulian Principality/The Erulian Union.md`.)*
+
 ## Origins and Transformation
 
 Once merely a province governed by a distant relative of the emperor who held the largely ceremonial title of "prince," the Erulian Principality gained new significance after The Rending. With the imperial line of Balisha believed to be cut and the emperor and empress presumed dead, the ruling house of Erulius suddenly found itself as the closest surviving relatives to the throne—though still not close enough to legitimately claim it.

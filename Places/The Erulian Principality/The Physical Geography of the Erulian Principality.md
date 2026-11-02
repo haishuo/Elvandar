@@ -1,5 +1,8 @@
 # **The Physical Geography of the Erulian Principality**
 
+*(This describes the principality at the series' opening. After the Compact War a third of it secedes as
+the Erulian Union, with the Heartlands, Verdant Plains and Port Valen. See `Places/The Erulian Principality/The Erulian Union.md`.)*
+
 ## **Geographic Overview and Regional Divisions**
 
 The Erulian Principality occupies a strategically advantageous position in southeastern Elvandar, with the Azure Sea along its eastern coast, a soft northern administrative border with Uratha, the Cerulean River and Lyric Mountains separating it from Silaris to the south, and the Balishan Desert (with Balisha beyond) to the west. This diverse landscape has enabled the Principality to develop into one of Elvandar's most resource-rich successor states, though its geographic advantages also fuel Prince Kalden's imperial ambitions.

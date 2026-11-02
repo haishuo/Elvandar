@@ -202,7 +202,7 @@ And then the people followed.
 
 One-third of the Erulian Principality refused taxation. Not a revolution — something quieter and more devastating. A repudiation. The provinces that had embraced Kalden's vision for twenty years looked at what that vision had actually cost them and said *no*. They formed the Erulian Union — a breakaway state that took with it the principality's best farmland. The fertile heartlands, the Grain Exchange, the Agricultural College, the surplus production that had been the backbone of Erulian prosperity — all of it gone. The breadbasket seceded.
 
-What remained was a rump state. The capital, the northern mines, some of the western marches. Enough to sustain a principality. Not enough to sustain an empire.
+What remained was a rump state. The capital, the northern mines, some of the western marches. The new border runs under Eruliath's walls, and Port Valen went with the Union. See `Places/The Erulian Principality/The Erulian Union.md`. Enough to sustain a principality. Not enough to sustain an empire.
 
 This is when Kalden turned to Silaris — and the critical thing is that the Silaris gambit was not purely about pride. It was practical. Silaris had a harbor. Silaris had arable land. Silaris had the resources that the Erulian Union had just taken from him. With Silaris, the rump principality could survive as something more than a landlocked mining operation. Without it, Kalden was ruling a territory that could barely feed itself.
 
@@ -423,7 +423,9 @@ and the attack rests on that premise. Then he loses. He cannot absorb a loss as 
 being robbed by a nobody is unbearable, so after the war the nobody is promoted to mastermind: the only
 Xion it is tolerable to have lost to is one who arranges continents. **He holds both at once for the rest of
 his life, the nobody and the overmind**, and never notices that they contradict each other. Every step of
-that escalation is his own, and all of it comes after Xion stopped performing.
+that escalation is his own, and all of it comes after Xion stopped performing. **One of the first things it
+feeds on is the Erulian Union trading with Kaha'an within months of seceding.** He takes it as proof of Xion's
+hand, and nobody arranged it (`Places/The Erulian Principality/The Erulian Union.md`).
 
 **And the same fantasy kills him in Book 7.** He rides out to meet the imaginary man, demands to know
 where he is, and finds his son — and the collision between forty years of story and the reality in front
