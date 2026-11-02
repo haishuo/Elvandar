@@ -196,7 +196,7 @@ Kalden could not do it. The Founder in him could not bear to dismantle the trapp
 
 He just stopped paying his army.
 
-The parallel to Louis XVI is precise and damning. A ruler who taxed his people to maintain luxury while the institutions that actually mattered — the military, in Kalden's case — went unpaid and unfed. The army that had fought the Compact War, that had bled for Kalden's vision, watched their prince host lavish state dinners while their wages went into arrears. They did not wait long. Without pay, without purpose, without belief in the man who had led them into a losing war and then stiffed them on the bill, the Erulian military simply... left. Disbanded. Walked away. The Aspirant Guard that had embodied the principality's martial ambitions evaporated.
+The parallel to Louis XVI is precise and damning. A ruler who taxed his people to maintain luxury while the institutions that actually mattered — the military, in Kalden's case — went unpaid and unfed. The army that had fought the Compact War, that had bled for Kalden's vision, watched their prince host lavish state dinners while their wages went into arrears. They waited far longer than anyone had a right to ask — more than a decade of arrears. Then, without pay, without purpose, without belief in the man who had led them into a losing war and then stiffed them on the bill, the Provincial Legions simply... left. Disbanded. Walked away, some four or five years before Book 5. **The Aspirant Guard is not the army and did not go with it.** It was always a small, personally sworn elite, closer to a marine corps than to a field force, and it stayed. But a guard is not an army, and from then on it thinned year by year, until by Book 7 it is one sixty-nine-year-old man (`Offstage.md`, *The Recruitment of Kalden Erulius*).
 
 And then the people followed.
 
@@ -204,7 +204,7 @@ One-third of the Erulian Principality refused taxation. Not a revolution — som
 
 What remained was a rump state. The capital, the northern mines, some of the western marches. The new border runs under Eruliath's walls, and Port Valen went with the Union. See `Places/The Erulian Principality/The Erulian Union.md`. Enough to sustain a principality. Not enough to sustain an empire.
 
-This is when Kalden turned to Silaris — and the critical thing is that the Silaris gambit was not purely about pride. It was practical. Silaris had a harbor. Silaris had arable land. Silaris had the resources that the Erulian Union had just taken from him. With Silaris, the rump principality could survive as something more than a landlocked mining operation. Without it, Kalden was ruling a territory that could barely feed itself.
+This is when Kalden turned to Silaris — and the critical thing is that the Silaris gambit was not purely about pride. It was practical. **And it needed no army, which was as well, because he no longer had one.** Silaris was shopping for a sponsor and asking to be bought (`Places/Silaris/Silaris_ The Conservatory.md`, *By Book 5*). Silaris had a harbor — silting, but restorable with work, and the means of rebuilding the navy that went to Port Valen with the Union. Silaris had arable land — fertile, and barely tilled, because a conservatory of artists does not know farm work. Silaris had the resources that the Erulian Union had just taken from him. With Silaris, the rump principality could survive as something more than a landlocked mining operation. Without it, Kalden was ruling a territory that could barely feed itself.
 
 His public framing was characteristically grandiose: "The Erulian Principality offers to restore Silaris to its rightful place as cultural heart of the reformed Balishan Empire." But beneath the imperial rhetoric was genuine strategic desperation. He needed Silaris the way a drowning man needs a plank.
 
@@ -294,9 +294,9 @@ had inherited. The ledger begins only when the viable project ends and he refuse
 | Offered marriage, was refused, and signed with the Compact in a fit of jealousy (B3) | — | A continental war entered on wounded pride |
 | Abandoned a sound war plan for bait, and besieged Kaha'an with cavalry and no engineers | — | **He lost the Compact War personally**, in public, in front of walls he never scratched |
 | Refused austerity after the defeat — **expanded** the Amber Palace, ate and drank richly, and taxed his people past what they could bear | — | — |
-| Stopped paying the Aspirant Guard | — | They deserted |
+| Stopped paying the army | — | **The Provincial Legions walked away**, after more than a decade of arrears. The Aspirant Guard stayed, and began to thin |
 | Kept going | Pikes, a stormed palace, a crowd | **The Erulian Union simply seceded and left**, taking the best farmland |
-| Moved on Silaris — sound reasoning, real need, prestige and arable land in one stroke | — | Blocked by an eighteen-year-old |
+| Moved on Silaris — sound reasoning, real need, prestige and arable land in one stroke | — | Blocked by a sixteen-year-old |
 | **Dismissed Captain Salvian Ostrus** for asking him not to mortgage the principality (B7) | — | **He was told, by the one man with fifty years of standing to tell him, and he put the man out of the house** |
 
 **The last row is the only one that is a person, and that is why it closes the account.** Every other exit
@@ -392,7 +392,7 @@ Kalden cannot see this. He believes the alliance is destiny — two wronged men 
 
 The Erulian populace embraced Kalden's vision for twenty years — the intoxicating promise of imperial destiny, the genuine prosperity his competent governance provided. They followed him into war. They paid the taxes. They believed.
 
-Then the Compact War ended in defeat, and Kalden responded by taxing his people to maintain his court's splendor while refusing to pay his army. The soldiers walked away. One-third of the principality refused taxation entirely and formed the Erulian Union, taking the best farmland with them. The people Kalden built his legacy for did not rebel violently — they simply stopped believing. They looked at what the vision had actually cost them, looked at the prince who was still hosting state dinners while the treasury hemorrhaged, and said *no*.
+Then the Compact War ended in defeat, and Kalden responded by taxing his people to maintain his court's splendor while refusing to pay his army. The soldiers walked away. Within a year, one-third of the principality refused taxation entirely and formed the Erulian Union, taking the best farmland with them. The people Kalden built his legacy for did not rebel violently — they simply stopped believing. They looked at what the vision had actually cost them, looked at the prince who was still hosting state dinners while the treasury hemorrhaged, and said *no*.
 
 It is the most damning judgment on Kalden's leadership: not that he was overthrown but that he was *left*. They didn't hate him enough to fight. They just stopped caring enough to stay.
 

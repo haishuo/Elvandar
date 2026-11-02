@@ -88,7 +88,8 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 > to lapse afterward. Roughly six months to the Alliance counteroffensive that retakes Empirica, led by
 > Terinok. **Kaha'an itself is invested** — Kalden Erulius abandons the pincer and brings a host of horse
 > west to besiege the capital, arrives without a siege train, and sits in front of unbreached walls until
-> the war is decided elsewhere. **Erulius loses a third of itself to the Erulian Union and never recovers.**
+> the war is decided elsewhere. **More than a decade later, Erulius loses a third of itself to the Erulian Union and never recovers**
+> (the army walks ~4–5 years before *Walled Garden*, the Union secedes within a year).
 > Xion and Elara wait until victory before trying for children. Tiberian and Melina Valanar are conceived
 > after the war and born roughly nine months later.
 > *Not yet dated. Full account and its open holes: `Offstage.md`.*

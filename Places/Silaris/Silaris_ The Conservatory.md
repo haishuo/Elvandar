@@ -447,6 +447,28 @@ Growing internal discourse about priorities:
 
 This ongoing conversation represents Silaris's internal struggle to reconcile its artistic identity with practical necessities. The outcome of this debate will likely determine whether Silaris can achieve a sustainable future or will continue its beautiful decline.
 
+## By Book 5: shopping for a sponsor
+
+*(Author's ruling, 2026-11-02.)* **The Conservatory never wanted to be a nation.** It was chartered as a
+province built to serve art, it became independent because the empire it served fell, and it has been bad at
+it. By Book 5 it reckons on perhaps **a decade** before full economic and infrastructural collapse, and it is
+openly looking for a sponsor. **It is, in effect, selling itself.**
+
+**It asks Balisha first and directly**, and the treaty bars Balisha from accepting (`book5_outline.md`, *The
+Crisis Reaches Balisha*). That leaves one bidder, and the reason is plain economics: a debt-laden city ten
+years from collapse is bad value to anyone who prices it correctly, and **only a man who needs it this badly
+will pay.** That man is Kalden, and what he is buying is real:
+
+- **The land.** The hinterland is fertile and barely tilled, because a city of artists does not know farm
+  work. Its "minimal agricultural capacity" is a failure of husbandry, not of soil.
+- **The port.** The harbour silts for want of dredging, but it is a real port, smaller by far than Port Valen
+  and restorable with work. It is the means of rebuilding the navy he lost to the Erulian Union.
+- **The city does not have to be conquered.** It is asking to be bought, which matters because Kalden no
+  longer has an army (`Places/The Erulian Principality/The Erulian Union.md`).
+
+**State this as economics, never as a theme.** Nobody who did due diligence wanting it is the same shape as
+the empty Grain chair and Book 7's creditors, and a third telling would be volume.
+
 ## International Relations
 
 Silaris maintains complex relationships with the other successor states, generally characterized by cultural exchange, artistic influence, and growing practical dependencies:

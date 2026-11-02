@@ -12318,3 +12318,26 @@ Compact War*), and a dating note at the head of both Erulian place files, which 
 the series' opening. Master list: §6 ruling.
 
 No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — The Union dated; the Aspirant Guard split from the army; Silaris asks Balisha
+
+Author's rulings. The Erulian army walks away ~4–5 years before Book 5, and the Union secedes within a year.
+Recorded in `Story Timeline.md`, `Global Historical Timeline.md` and the Union file. The Aspirant Guard is
+a small sworn elite that stayed and thinned, not the army. `People/Kalden Erulius.md` was revised in its
+army paragraph, its Silaris paragraph and its ledger table, and `Offstage.md` in its Salvian Ostrus line.
+
+`book5_outline.md`:
+- Silaris asks Balisha directly to take it.
+- Tiberian's case: not Kalden; treaties can be renegotiated; people are suffering now.
+- Kalden's sponsorship is the only bid, for untilled land and a restorable port.
+- He brings few troops: the Guard, with recognition and next to no men from Vartonne.
+
+`Places/Silaris/Silaris_ The Conservatory.md` gains *By Book 5: shopping for a sponsor*.
+
+Continuity fixes:
+- `Offstage.md`: the twins conceived after the war, not born during it.
+- Kalden's ledger: "blocked by a sixteen-year-old", not eighteen.
+
+Master list: §6 Union ruling extended.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.

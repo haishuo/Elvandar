@@ -267,8 +267,8 @@ itself. What remained was a rump state. **Book 5's Silaris gambit and the whole 
 of this ledger** — Kalden in Book 7 is not a villain with a plan, he is a man who lost this war and never
 absorbed it.
 
-**One thing that happened during it and is never shown.** Tiberian and Melina Valanar were born, hours
-apart, during this war. **Book 4 is entirely Harkim's POV and structurally cannot depict it** — see the
+**One thing that came straight after it and is never shown.** Tiberian and Melina Valanar were conceived
+after the victory and born hours apart (`Story Timeline.md`). **Book 4 is entirely Harkim's POV and structurally cannot depict it** — see the
 separate note below.
 
 ---
@@ -602,7 +602,7 @@ out is Rosik, at Kalden's shoulder, speaking quietly into his ear.** He does not
 ### Why he is not a saint, which matters
 
 **He brought the wine.** For fifteen years, to a man drinking himself and his state into ruin, and he never
-once said no. He watched the Aspirant Guard walk out unpaid, watched a third of the principality secede,
+once said no. He watched the army walk out unpaid and the Guard thin around him, watched a third of the principality secede,
 watched Silaris, and said nothing every time. His loyalty is real and it is also **complicity**, and the
 objection at the end is the first he has ever raised in his life.
 

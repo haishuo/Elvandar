@@ -15,8 +15,11 @@ the Book 5 and Book 7 outlines stay consistent, and so that the border is drawn 
 
 **The order is the whole explanation, and it is already canon** (`People/Kalden Erulius.md`; `Offstage.md`,
 *The Compact War*). Kalden lost the war. He met the reparations by taxing his people and kept the court in full
-splendour, and he stopped paying the army. **The army walked away first.** Then a third of the principality
-refused taxation and formed the Union. **It was bloodless because there was nobody left to send.** It was
+splendour, and he stopped paying the army. **The army walked away first**: the Provincial Legions, after more
+than a decade of arrears, some four or five years before Book 5. Within a year a third of the principality
+refused taxation and formed the Union, **so it is three or four years old when Book 5 opens**, and its trade
+with Kaha'an is new. *(Author's ruling, 2026-11-02.)* The Aspirant Guard is a small sworn elite, not the
+army, and it stayed with Kalden and thinned. **It was bloodless because there was nobody left to send.** It was
 not a revolution. It was a repudiation, and the most damning judgment on Kalden's reign is that he was not
 overthrown but *left*.
 
@@ -37,7 +40,8 @@ freeholders the principality had always taxed hard, the farming communities, and
   Kalden kept his city and lost the fields that fed it.
 - **Verdant Plains**, which is its seat. It has the Grain Exchange, the Agricultural College and the Farmers'
   Assembly.
-- **Port Valen**, with the largest harbour facilities in Elvandar, the Naval Academy and the Foreign Quarter.
+- **Port Valen**, with the largest harbour facilities in Elvandar, the Naval Academy, the Foreign Quarter and
+  the Erulian Navy.
   **This one is forced.** The rump is *"a landlocked mining operation"* that needs Silaris's harbour, and it
   cannot also hold the biggest port on the continent.
 

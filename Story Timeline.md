@@ -235,6 +235,7 @@ marriage all to finish before seventeen.
 From the outlines; placeholders, not locked:
 
 - **Book 4 (Harkim's War):** the Compact War (~6 months), following the Book 3 alliance.
+- **Between Book 4 and Book 5:** reparations and refused austerity grind on for over a decade. The Erulian army walks away, unpaid, **~4–5 years before Book 5**, and the **Erulian Union secedes within a year**, so it is ~3–4 years old when Book 5 opens *(author's ruling, 2026-11-02; `Places/The Erulian Principality/The Erulian Union.md`)*.
 - **Books 5–8 (next generation):** **compressed generational jump** — Tiberian and Melina Valanar are **16** in Book 5, roughly **18 years after Book 1** (~1062 BR). Book 5 spans several months; Book 6 follows without a substantial gap and spans approximately eighteen months; Book 7 follows promptly with the twins about 18. Kess Ashwood is also approximately eighteen when Tiberian frees her near the end of Book 6, making her their contemporary. Book 8 adds only the interval its story requires.
 
 *(Pin exact BR years here as these books get drafted.)*

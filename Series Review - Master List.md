@@ -2995,6 +2995,27 @@ of the first things the post-war overmind feeds on, and his sheet now says so.
 currency. Nothing depends on either. Pointers added to Kalden's sheet, `Offstage.md`, and both Erulian place
 files.
 
+**Extended the same day: the Union dated, the army split from the Guard, and Silaris shopping.** *(Author's
+ruling, 2026-11-02.)*
+
+- **Dating.** Reparations and refused austerity grind on for over a decade. The Provincial Legions walk away
+  ~4–5 years before Book 5, and the Union secedes within a year, so it is ~3–4 years old in Book 5. That is
+  why the army's leaving, not the defeat, is what lets it go.
+- **The Aspirant Guard is not the army.** It is a small sworn elite, closer to a marine corps, that stayed when
+  the Legions left and thinned until Book 7's single old man. Kalden's sheet previously had it "evaporate"
+  with the army.
+- **Silaris is selling itself**, a decade from collapse. **It asks Balisha directly**, and the treaty bars
+  Balisha from accepting. Tiberian's case is *not Kalden, he would strip-mine it; they asked us; treaties can
+  be renegotiated; people are suffering now.* Kalden is the only bidder. He is buying fertile untilled land
+  and a restorable port, and it is a city that needs no army to take, which is as well. **He brings few
+  troops because he has few**: the Guard plus scrapings, and Vartonne brings recognition and next to no men.
+  The Gallery War is two personal retinues and no state army. **The economics are never stated as a theme**,
+  because they are the third use of the Grain-chair and Book 7-creditor shape.
+
+**Two continuity fixes found on the way:** `Offstage.md` had the twins "born during this war", where both
+timelines have them conceived after it. Kalden's ledger table had him "blocked by an eighteen-year-old",
+where Book 5 has Tiberian at sixteen.
+
 ---
 
 ## 7. Open questions
