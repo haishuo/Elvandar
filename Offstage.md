@@ -862,3 +862,170 @@ much care whether the throne is empty or merely ignored.
 **And it makes Ronas defectible.** Two decades of losing every vote three to one is the standing grievance
 Xion works in B1 ch18, and it is why the Slaver Cartel withdraws from the Coterie's working consensus in
 Book 2 rather than backing Rosik.
+
+---
+
+## The Children of the Great Hunt
+
+**When:** The ban, among Elara's first edicts after Book 1. The conspiracy, between Book 7 and Book 8.
+**Who:** Melina Valanar and Nessa Halcin; Tiberian Valanar and Kess Ashwood; the heirs of the hunting houses;
+the Long Knives; a lesser house of assassins.
+
+### The ban
+
+The Great Hunt was the tradition Elara heard discussed at the Larannas masquerade in B1 ch10, and the
+conversation that put her eyes out of control in front of the whole Noble District. As soon as she held the
+throne she outlawed it. It was not the first privilege she stripped from the old nobility, but it was the one
+that broke the camel's back. The houses that had hunted — something like **two in five of the nobility** —
+called it imperial interference with traditional values.
+
+**The old guard knew better than to press the point.** A tradition of hunting people is difficult to defend
+on any ground, and they understood that in strict law she could have had the Arol Batae arrest the lot of
+them. **She did not, because arresting two-fifths of a nation's nobility in a single stroke would have been
+politically explosive**, and she judged that the ban was enough. They complained, and they let it go.
+
+**Their children did not have to let anything go, because they never had anything to let go of.** Eighteen
+years later they had the resentment without the background. They had not been at the masquerades and had
+never seen the prey. What they knew was that their houses had once been great and that the Valanars had made
+them small. **The heirs of houses that had stood with the Grain under Rosik had the furthest to fall**, and
+by the end of Book 7 they had watched the last hope of the old order die on the Golden Path. *(None of them
+knows that the tradition they grew up resenting the loss of was itself a revival. The original Hunt opened
+the royal forests to commoners alongside the nobility. The human-prey version was born after the Rending and
+was barely twenty years old when it was banned.)*
+
+### How it formed
+
+It began as idle talk. The young nobles saw each other at soirées and masquerades and talked the way people
+in that position talk. Then someone said something dangerous as a joke, and nobody laughed. Someone asked,
+obliquely, whether he was serious, and the silence was an answer. **The next gathering was a great deal more
+tense than the last.**
+
+**Their reasoning was not stupid. It was wrong in every particular.** Each part of it was a fair inference
+from what the court can see.
+
+- **Elara was out of the question.** She had made the policies and would never unmake them. On matters like
+  this she was famously stubborn, and she would call it *ethical*.
+- **Xion was useless.** To a watching court he was a soft-spoken healer who agreed with his formidable wife
+  about everything. That he carries enormous weight with her, and that she married him for the judgment she
+  takes so seriously, is invisible from the outside, **because every conversation that matters between them
+  happens in private.**
+- **Tiberian was his mother again, only louder.** The Tiger Prince had her fire, would keep her policies and
+  might well extend them, and he was the heir.
+- **And then there was Melina.** She was calm, methodical and analytical, and to them she looked reasonable.
+  Surely a woman of her abilities resented standing behind a brother famous for swinging a sword. Surely she
+  felt cheated that he would inherit. Put her on the throne, and she would remember who had put her there.
+
+**That made her the plan rather than an obstacle to it.** Since the Green Cities, Kess Ashwood had not left
+Tiberian's side, and a direct attack was not going to succeed. **What they needed was someone already inside**:
+someone with access to his food, his rooms and his habits, who could make possible what force could not,
+which meant poison. A resentful younger sister was perfect.
+
+**Every part of it was wrong.** Tiberian is the elder by a few hours, he is the heir, and she has never
+minded. Her drive to win is fifth in her stack and her drive to accumulate is last. He is the person she
+keeps almost nothing from.
+
+### The two approaches, and the two refusals
+
+**They worked toward the princess obliquely**, the same way they had recruited each other, and nothing they
+said to her could have been repeated as an offer. **And they went to the Orb Weaver**, because everyone in
+Kaha'an knows the Orb Weaver, and a plot like this needs knowledge that cannot be had anywhere else. They knew
+better than to ask for anything but information.
+
+**They went to the Long Knives first, and the Long Knives declined.** The Mistress who had raised Rosik was
+dead or retired by then. Her successor had no family reason to refuse, and needed none, **because the job was
+bad business.** The Imperial House is not another client's rival. Killing its heir is the equivalent of
+murdering a head of state. It is not a thing lightly asked, and it would have staked the guild's whole
+standing with the crown on a single contract. **They did not interfere, either.** A guild that sabotaged
+other houses' contracts, however ill-advised, would soon have no clients of its own. That would be worse
+business still.
+
+**A lesser house took the job instead**: a smaller outfit, hungry to make its name, which saw the Long Knives'
+refusal as an opening rather than a warning.
+
+### How she found it
+
+**Nobody told her. She assembled it.** It was the kind of puzzle she is best at. A question at a soirée about
+her brother's habits that, taken alone, meant nothing. A run of purchases from the Orb Weaver by buyers who
+did not know they were buying from the same woman, each one innocent, and together the outline of a
+household being studied. A rival broker turning down a large job. **Their own security was what exposed
+them.** They had broken the work into pieces and asked many small questions through many mouths, so that no
+one source would see the whole. That works everywhere except where every source leads back to one person.
+
+**What she reached was a probability, not a proof**: *there is a very decent chance someone is trying to kill
+my brother.* She could not confirm it without warning them.
+
+### How it was taken apart
+
+**Melina and Nessa peeled it apart from the inside.** Not everyone in it was a true believer, and the pattern
+that showed her the plot also showed her the people with doubts. Their questions to the broker sounded like
+looking for an exit rather than planning a killing. **Melina found them. Nessa worked them.** The Orb Weaver
+sells nothing but information, and it did not need to sell anything else. The doubters were told, accurately
+and for a price, what they were part of: that the Long Knives had turned the job down; that Kess Ashwood had
+not left the prince's side since the Green Cities; that an empress who once declined to arrest two-fifths of
+her nobility should not be counted on to decline twice. **It was all true, and that is why it worked.** They
+drifted out, one at a time. A circle that loses members without explanation suspects its own, and nobody
+looked toward a broker or her palace informant.
+
+**Nessa's cover was never burned.** Her standing to the trade as the Orb Weaver's palace informant survived
+intact.
+
+### The attempt
+
+**The true believers and the lesser house went ahead anyway.** Melina had resisted telling anyone until then.
+That was strategy, not shame: Tiberian charges, and if he had known while the waverers were being peeled away,
+he would have gone straight at the circle and wrecked the quiet work. **Once they committed to the attempt that
+risk was gone and Kess needed to know.** So she told Tiberian, and Tiberian told Kess.
+
+**She told him all of it, including that they had meant her to be the poisoner.** The full account was also
+the safe one. *They have been sounding me out for weeks, and I put the rest together*: both halves are true,
+the second is what everyone already knows she does, and the only thing left out is that some of the pieces
+came through her own market. **The Orb Weaver stayed hidden from him** at the price of one omitted source, and
+for a Truth Seeker that price was small but real. **He was angry for her before he was concerned for himself**,
+because the insult was to her. He never doubted her for a moment. *(The Orb Weaver remains one of the two things
+she keeps from him; see her sheet.)*
+
+**It came to nothing.** They had too little intelligence, their resources were crippled by every defection,
+and the inside woman they had built the plan around had never been theirs. **They did not get past Kess. They
+did not get within fifty feet of Tiberian.**
+
+### Afterward
+
+**The lesser house was broken. The true believers were never charged.** The investigation that follows any
+attempt on the heir got as far as the house and then hit the go-betweens the conspirators had used to keep
+each other at arm's length. **The security that exposed them to her protected them from the crown.** Her own
+word was no use either: they had approached her deniably by design, and *they sounded me out* is not evidence.
+
+**She knows every name, and she goes on seeing them at soirées.** What it leaves in her is that a whole circle
+of the court looked at her composure and decided she was someone who could kill her brother. It is never
+said.
+
+### Why no scene
+
+**It does not warrant a scene**, and the reason belongs in the entry. **It was neither the first attempt on his
+life nor the last.** Being who he is puts a target on him, and that is a regrettable but ordinary fact of
+his life. Melina did everything she could to prevent it, and in the end they went ahead regardless. What
+makes this attempt matter is the work that blunted it, and none of that work was ever visible.
+
+---
+
+**Why this entry exists.** Two things in Book 8 rest on it.
+
+**The Orb Weaver goes into Book 8 tested.** The narrow line set at its founding is that she burns it only for
+information directly dangerous to her family. This is the first time that line meets a real plot against her
+family, and the instrument holds. It neither breaks nor burns, and it is the reason the plot failed. So when
+her parents vanish in Uratha, she reaches without hesitation for a network she has every reason to trust,
+and **that is what makes it so bad when the pieces will not come together.**
+
+**Book 8's ordinary morning is earned.** The family Book 8 opens on has just survived something most of the
+court never knew was happening. The morning is calm because Melina made it calm, and nobody in the room
+says so.
+
+**What it is not.** It is not Melina's coming-of-age; Book 7 holds that. It is not a second Book 8 puzzle; told
+as account and not as scene, it gives the reader the fact and leaves Book 8 the experience. **And it is not
+the Taking of the Tiger Prince again.** That was force and it reached him. This is the answer to the guard
+the Taking created, an attempt to get past Kess by recruiting the one person already inside. It did not
+reach him at all.
+
+**Constraint downstream.** Ronas's Great Hunt speech (`People/Ronas Dermir.md`) indicts the Hunt in the present
+tense — *"you hunt humans"*. Wherever it is placed, it must fall before the ban or be put into the past
+tense.

@@ -2,7 +2,7 @@
 
 **Status:** Sociolinguistic foundation, settled 2026-08-21 and connected to the imperial daughter history
 2026-08-22. Genealogy, register structure, the first vernacular/Collegiate correspondence channels, the
-**Theraris / Vela Theraris** service-name suite, and the Modern Urathan numeral system are canon. Full
+**Ilhamori** title and shortening, and the Modern Urathan numeral system are canon. Full
 phonology, grammar, historical sound changes, and general vocabulary remain to be built.
 
 ## Genealogy and age
@@ -153,6 +153,100 @@ language.
   belong entirely to Urathan history.
 - Elara's involuntary impressions remain categorically different from academic mastery; neither replaces
   the other.
+
+## The Ilhamori — institutional title and shortening
+
+**Authorial direction, 2026-10-31:** Uratha's special police are **the Ilhamori**. The author has used
+this name since the organization's inception; it is a **P0 protected form**. The following bounded
+construction fills the longer-title and derivation gap at the author's request. It retains the chosen
+English designation without approving the wider Modern Urathan language plate.
+
+### Full legal title
+
+> **Vela Theraris, Rava Eshais va Ilhamori Kethae**<br>
+> *vela thera-ar-is, rava esha-is va ilham-ori ketha-e*<br>
+> licensed.access inquiry-DISC-REL, civic law-REL and jurisdictional.exception-mandate classify-BODY<br>
+> **“The Constituted Commission for Licensed Inquiry, Civic Order, and Extraordinary Mandates.”**
+
+The title is Modern Collegiate Urathan. Its three coordinated domains modify the final head **Kethae**,
+a constituted body empowered to classify, inspect, and rule distinctions. The shared head serves all
+three domains, not just the last. **Va** is modern Urathan “and”; this is not a sentence in ancient
+Halauri, whose similar-looking morphology must not be substituted into the analysis.
+
+| Title element | Construction and function | English rendering |
+|---|---|---|
+| **Vela Theraris** | licensed access + the domain of demonstrated inquiry | Licensed Inquiry |
+| **Rava Eshais** | civic community + lawful order as an institutional quality | Civic Order |
+| **Ilhamori** | *ilham + ori*, jurisdictional exception + operative mandate | Extraordinary Mandates |
+| **Kethae** | *ketha + -e*, classification/inspection + constituted body | Constituted Commission |
+
+These are institutional translations, not a claim that every English word has a separate Urathan
+counterpart. Bare nouns are number-neutral: **ori** can denote one mandate or mandates as a class.
+The coordinated title names domains of competence rather than counting individual warrants.
+
+### The two new legal stems
+
+**Ilham** /ˈil.ham/ is a noun for an authorized departure from the standing allocation of powers: a
+jurisdictional exception or special delegation. It is not general strangeness, illegality, or unlimited
+power. It identifies authority that the ordinary office does not possess by default and that must be
+conferred for the purpose at hand.
+
+**Ori** /ˈo.ri/ is a noun for an operative directive or warrant: an authoritative instrument assigning
+an action or power to its bearer. It is distinct from **esha**, law as an ordered system; **nava**, a
+compact or binding agreement; and **vela**, permission or licensed access. An *ori* is the particular
+instrument through which a power is exercised. It need not be a police warrant.
+
+These stems are new Modern Collegiate Urathan vocabulary constructed in this pass. They were not found
+in earlier notes and are not asserted to be attested ancient Halauri. Their pre-Urathan origins are
+unassigned, as with other lexical bases. The service-name's derivation from them is complete without
+inventing ancestral spellings or a special historical sound change.
+
+Existing modifier–head compounding gives **ilham + ori → ilhamori**, literally “exceptional-jurisdiction
+mandate,” conventionally **“extraordinary mandate.”** No letters are deleted or added. The final *i*
+belongs to **ori**; it is neither a plural nor a police suffix. The internal letters *mor* do not make
+this a derivative of Imperial **mor**, “death.” The relevant boundary is *ilham-ori*.
+
+The stems also work outside the institution's name, using existing word-building:
+
+| Form | Analysis | Use |
+|---|---|---|
+| **velaori** | *vela-ori* | an access warrant or licensing instrument |
+| **ravaori** | *rava-ori* | a civic directive |
+| **ilhamis** | *ilham-is* | the status of holding exceptional jurisdiction |
+| **ilhamu** | *ilham-u* | acting under, or pertaining to, exceptional authorization |
+
+These constructions give the terms uses in licensing and civic administration as well as policing.
+They illustrate the lexical family; they do not establish new institutions or events in the books.
+The older working **koiathu vedaris** remains a broad description of out-of-scope executive authority;
+**ilhamori** specifically names the mandate that confers such authority.
+
+### How the title becomes the name
+
+| Register | Form | Use |
+|---|---|---|
+| Full legal | **Vela Theraris, Rava Eshais va Ilhamori Kethae** | charters, formal warrants, and the full designation |
+| Short formal | **Ilhamori Kethae** | Commission for Extraordinary Mandates |
+| Everyday | **the Ilhamori** | the institution and its officers in ordinary reference |
+
+The shortening preserves the distinctive final domain and then drops the generic **Kethae**. The
+remaining mandate-name denotes the body entrusted with those mandates. This is phrase shortening and
+institutional metonymy, not an acronym or an irregular phonetic contraction. Ordinary people need not
+recite the full title or consciously parse its roots when they use the familiar name.
+
+**Ilhamori** is pronounced **il-ha-MO-ri**, /il.ha.ˈmo.ri/, under Collegiate penultimate stress. The
+lexical boundary follows *m*, but syllabification puts that consonant before the following vowel.
+The institutional name retains that pronunciation in everyday use; no separate vernacular contraction
+is introduced. Reader-facing ranks remain translated: **Ilhamori Inspector**, **Ilhamori officer**.
+
+### Boundaries
+
+The public remit and the Council's authority over the service remain as described in the Uratha dossier.
+The title does not confer limitless discretion on each officer or require a newly invented warrant
+scene. The unsupported “eternal flame” etymology remains retired, and the silver service pin stands.
+The 2026-08-22 **Vela Theraris / the Theraris** service-name is superseded; **Vela Theraris** survives
+inside the full title only as the licensed-inquiry domain. Working lexical *theraris* and the proposed
+Tower titles containing it are unaffected. This bounded title adopts the listed forms and their
+construction; it does not approve the rest of Modern Urathan Plate 1 or the general Halauri system.
 
 ## Canonical numeral standard
 

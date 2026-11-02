@@ -42,7 +42,7 @@ Harkim builds things that work. Water purification systems optimized for harbor 
 
 Under occupation, his engineering instinct serves the resistance without him quite intending it to. He implements Lira's reconstructed schematics to solve practical problems — contaminated water, failing heating — disguising the sophistication, managing the outputs. He doesn't think of this as resistance. He thinks of it as competence. But the Compact is occupying his city and his competence is what keeps people alive. The distinction between "applying my skills" and "resisting the enemy" collapses somewhere in Act II, and Harkim barely notices.
 
-The underground he builds between Books 4 and 8 is his engineering masterwork: a network of people watching, documenting, and communicating without ever attracting the Theraris's attention. Not dramatic. Not heroic. Functional. It works because he designed it to work, and because a man who spent his career making things function under academic condescension knows how to build something that operates without requiring recognition.
+The underground he builds between Books 4 and 8 is his engineering masterwork: a network of people watching, documenting, and communicating without ever attracting the Ilhamori's attention. Not dramatic. Not heroic. Functional. It works because he designed it to work, and because a man who spent his career making things function under academic condescension knows how to build something that operates without requiring recognition.
 
 **Shadow:** His engineering focus makes him a problem-solver by instinct, which means he tends to address the immediate problem rather than its systemic cause. During the occupation, he helps people survive without questioning why the system produced the conditions that made survival necessary. The engineer optimizes within constraints; it takes the Truth Seeker to question whether the constraints should exist.
 
@@ -78,7 +78,7 @@ He is also, in the resistance, quietly competent in a situation that rewards com
 
 ### Creator (Sixth)
 
-Very low, but not absent. Harkim does not make art and shows no expressive impulse — but the *form* the underground eventually takes does involve quiet Creator-instrumental work. The codes, the contact protocols, the architecture of plausible deniability that lets watchers communicate without attracting Theraris attention — these are *invented* structures, not just optimized ones. Lira's encoded-knowledge network in Book 4 is the same energy expressed in Harkim's vicinity: creative solutions to constraints, deployed instrumentally. He himself would not describe any of this as creative. He would say he was solving the problem the situation presented.
+Very low, but not absent. Harkim does not make art and shows no expressive impulse — but the *form* the underground eventually takes does involve quiet Creator-instrumental work. The codes, the contact protocols, the architecture of plausible deniability that lets watchers communicate without attracting Ilhamori attention — these are *invented* structures, not just optimized ones. Lira's encoded-knowledge network in Book 4 is the same energy expressed in Harkim's vicinity: creative solutions to constraints, deployed instrumentally. He himself would not describe any of this as creative. He would say he was solving the problem the situation presented.
 
 **Shadow:** Minimal. He does not create for expression's sake, and beyond the instrumental inventions the underground requires, he has no creative impulse to speak of.
 
@@ -124,7 +124,7 @@ The Compact strikes. Empirica falls. Harkim's first instinct — his immediate, 
 
 He finds her calmly packing, having already reconstructed the optimal evacuation route from a map she glimpsed once in his office. He notes this the way he always has: as his sister being remarkable *despite* her condition. As an exception being exceptional.
 
-The occupation establishes itself around them. Chief Acquisitor Wilka Zarnstran screens scholars by specialty. Research Director Emmett Thorne appears at midnight to warn him: she knows about Lira. Former Theraris Inspector Thalia Neth is asking about researchers with unusual cognitive profiles. Trust no one.
+The occupation establishes itself around them. Chief Acquisitor Wilka Zarnstran screens scholars by specialty. Research Director Emmett Thorne appears at midnight to warn him: she knows about Lira. Former Ilhamori Inspector Thalia Neth is asking about researchers with unusual cognitive profiles. Trust no one.
 
 Harkim observes the occupation through a scholar's lens, which means he barely notices what's happening in the bakarn districts. The Compact has less interest in controlling bakarn areas — no valuable knowledge there, in their assessment. In Harkim's assessment too, if he's honest.
 
@@ -134,7 +134,7 @@ Under Gunastran supervision at the research center, Harkim encounters **Perrin H
 
 He meets **Commander Darius Severen** — an Erulian officer who was once a Urathan scholar, who understands Urathan society from the inside. Harkim survives by leaning into the class prejudice Severen expects to see. This works because it is not entirely a performance. And the moment when Harkim realizes it is not entirely a performance is the first crack: the question he cannot quite suppress. *Why was that so easy?*
 
-Necessity forces him and Lira into the bakarn district, where they discover Neth has been ahead of him all along — the rigid Theraris enforcer who has already, through her own forced proximity to bakarn resisters, begun to question everything she enforced. Harkim watches her treat them as equals. He finds this strange.
+Necessity forces him and Lira into the bakarn district, where they discover Neth has been ahead of him all along — the rigid Ilhamori enforcer who has already, through her own forced proximity to bakarn resisters, begun to question everything she enforced. Harkim watches her treat them as equals. He finds this strange.
 
 ### The War Inside
 
@@ -170,7 +170,7 @@ And the anomaly from the capital will not stop nagging.
 
 The Provosts built and maintained the bakarn classification for generations. When it was suspended, they didn't fight. They just waited. Patient. Unconcerned. As if the classification system was never actually important to them. As if they had something else.
 
-Harkim opens a notebook. Quiet observations. Things that don't add up. The Provosts' strange indifference. Energy consumption figures for the Ivory Tower that don't match its visible operations. A classified Theraris unit with no official mandate. Small things. Data points that don't fit the model.
+Harkim opens a notebook. Quiet observations. Things that don't add up. The Provosts' strange indifference. Energy consumption figures for the Ivory Tower that don't match its visible operations. A classified Ilhamori unit with no official mandate. Small things. Data points that don't fit the model.
 
 He doesn't know what the Globehall is. He won't learn for years.
 
@@ -182,9 +182,9 @@ But the question is planted: *if they don't need the bakarn system, what do they
 
 In the years between the Compact War and Xion and Elara's state visit to Uratha, Harkim builds.
 
-The notebook fills. One man cannot document an anomaly of the size he's mapping — cannot simultaneously track energy consumption records, personnel files, Theraris deployment patterns, and the systematic disappearance of bakarn even after the official classification is abolished. He recruits carefully, through channels, with the patient caution of a man who has spent a decade hiding his sister and learned the discipline required for invisible work.
+The notebook fills. One man cannot document an anomaly of the size he's mapping — cannot simultaneously track energy consumption records, personnel files, Ilhamori deployment patterns, and the systematic disappearance of bakarn even after the official classification is abolished. He recruits carefully, through channels, with the patient caution of a man who has spent a decade hiding his sister and learned the discipline required for invisible work.
 
-The underground he builds is not a revolutionary cell. It is an evidence-gathering operation. Its members are, largely, people like him: people who noticed something that didn't fit and couldn't let it go. Former bakarn who watched neighbors disappear and were told to stop asking. Junior scholars whose research touched anomalies the Theraris audited and redirected. Emerald Tower scholars — the ones who noticed that familiar faces were still disappearing after the reforms, who worked closely enough to the bakarn to feel their absence.
+The underground he builds is not a revolutionary cell. It is an evidence-gathering operation. Its members are, largely, people like him: people who noticed something that didn't fit and couldn't let it go. Former bakarn who watched neighbors disappear and were told to stop asking. Junior scholars whose research touched anomalies the Ilhamori audited and redirected. Emerald Tower scholars — the ones who noticed that familiar faces were still disappearing after the reforms, who worked closely enough to the bakarn to feel their absence.
 
 They are watchers. They are note-keepers. They do not know what they are documenting, exactly. They know its shape: a facility that doesn't exist on any blueprint, consuming power at a rate inconsistent with its official non-existence, staffed by personnel assigned to locations that cannot be found, surrounded by a pattern of disappearance that began before the Compact War and continued through the reforms and never, at any point, stopped.
 
@@ -240,9 +240,9 @@ By the end of the occupation, his gratitude to her is genuine. Whether he has re
 
 She is, more than any other person, the human face of the evidence that breaks his framework. Every exception eventually has a face.
 
-### Thalia Neth (Former Theraris Inspector, Resistance Leader)
+### Thalia Neth (Former Ilhamori Inspector, Resistance Leader)
 
-She is ahead of him throughout Book 4, which unsettles him more than almost anything else. The rigid Theraris enforcer, the product of Uratha's most politically compromised Tower, was forced by circumstances to revise her framework before he was forced to revise his. She has already made the journey he's partway through. Watching her treat bakarn resisters as equals is, early in the occupation, strange to him. Later, it is instructive.
+She is ahead of him throughout Book 4, which unsettles him more than almost anything else. The rigid Ilhamori enforcer, the product of Uratha's most politically compromised Tower, was forced by circumstances to revise her framework before he was forced to revise his. She has already made the journey he's partway through. Watching her treat bakarn resisters as equals is, early in the occupation, strange to him. Later, it is instructive.
 
 Neth's path and Harkim's run parallel without quite converging — she arrives at disillusionment through different experience, and they meet somewhere in the middle of the resistance, both of them changed, with different shapes of change. She is not a mentor to him. She is a data point he didn't expect.
 

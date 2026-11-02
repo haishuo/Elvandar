@@ -208,7 +208,7 @@ These industries persist primarily as shadows of their former significance, main
 
 Vartonne's financial system remains built around imperial institutions that function increasingly poorly in the post-imperial reality:
 
-- The Imperial Treasury continues to issue currency, though its value has steadily declined  
+- The Imperial Treasury continues to issue its **Imperial jenel**, distinguished in trade as the *Vartonnian jenel*, though its value has steadily declined
 - Noble estates increasingly rely on complex financial arrangements to maintain appearances  
 - Traditional banking houses provide loans secured against ancestral properties  
 - Agricultural futures markets operate under antiquated regulations  

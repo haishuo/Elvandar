@@ -193,8 +193,8 @@ mining conscription system, and `People/Kalden Erulius.md` has him redirecting *
 considerable natural resources"* into the imperial project. **The credentialing was paid for out of mines and
 farms, not out of finance, and the twenty-year project must never be attributed to banking.**
 
-**The Imperial Mark is a legitimacy instrument, not monetary policy.** Kalden's profile on one face and the
-old imperial seal on the other, struck fifteen years ago in place of the modest Erulian Talent — and canon
+**Kalden's Imperial jenel is a legitimacy instrument, not monetary policy.** Kalden's profile on one face and the
+old imperial seal on the other, struck fifteen years before Book 1 alongside ordinary denar coinage — and canon
 glosses it itself as *"a deliberate statement about the Principality's claims to legitimacy."* Kalden's sheet
 files the coinage in the **credentialing** list, beside the Amber Palace, the Imperial Chancellery, the
 Aspirant Guard and the Hall of Ancestors. It is a vanity mint with a serious purpose, and that purpose is the

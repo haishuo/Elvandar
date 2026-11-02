@@ -50,7 +50,7 @@ Second Name.”
 | Name | Books | Who | Register |
 |---|---|---|---|
 | **Tiberian Valanar** | 5–8 | The Tiger Prince. Xion and Elara's son; **Melina's twin**, born hours apart after the Compact War. Named for his grandfather | Old Halauri |
-| **Melina Valanar** | 5–8 | The Spider Queen. His twin — **named for Xion's dead sister** | Old Halauri |
+| **Melina Valanar** | 5–8 | **The Kaleidoscope** — her in-world epithet, from her eyes. *Spider Queen* is planning shorthand only and never said in-story. His twin — **named for Xion's dead sister** | Old Halauri |
 | **Kai Issamil** | 5–7 | The Iron Boar. **Kael's son**; holds the line behind Tiberian | Balishan |
 
 **Tiberian's two diminutives are split by speaker, and it looks deliberate.** Melina teases him as
@@ -118,7 +118,7 @@ day. Neither has ever said so to the other on the page.
 | **Lira** | Harkim's sister |
 | **Perrin Halmore** | Bakarn resistance organizer |
 | **Wilka Zarnstran** | Chief Acquisitor, Gunastran |
-| **Thalia Neth** | Former Theraris Inspector |
+| **Thalia Neth** | Former Ilhamori Inspector |
 | **Emmett Thorne** | Research Director; warns Harkim at midnight |
 | **Darius Severen** | Erulian commander; once a Urathan scholar |
 | **Bregan Haldorn** | Field Commander, Gunastran |
@@ -129,6 +129,7 @@ day. Neither has ever said so to the other on the page.
 |---|---|---|
 | **Bittek** | Slaver lieutenant under Ronas. One name — commoners have no other. The one antagonist in the series written with no redeeming feature; present across all four acts and killed by Tiberian in Act IV. Design and guardrails in `book6_outline.md` | Proto-Balishan |
 | **Garrin** | Ronas's most capable lieutenant. Tries to hold the cartel together after his death and is the last legible actor in the Warrens; Bittek kills him in Act III | Proto-Balishan |
+| **Nessa Halcin** | Melina Valanar's personal handmaid and closest friend, from a minor house. Co-runs the Orb Weaver, which was her idea. Given name **kept** on the author's ruling, 2026-11-02 — see *Coined 2026-11-01*, below. Sheet: `People/Nessa Halcin.md` | Native charter-name (*Halcin*) |
 
 ## Houses and factions
 
@@ -265,11 +266,33 @@ disqualified on **sound rather than spelling**: its onset is a hard /k/, and Boo
 *Kai* and *Kael*: a fourth hard-K onset in one book, when the rule in this file is to say the name aloud
 beside every short name already there. **Spelling it with a C does not help the reader hearing it.** Also
 rejected: *Aldric*, the only tested candidate returning repository hits. Clean and still free for later:
-*Halvor*, *Gorran*, *Nerrin*, *Orrin*, *Halcin*, *Loken*, *Wendric*.
+*Halvor*, *Gorran*, *Nerrin*, *Orrin*, *Loken*, *Wendric* — and *Halcin*, spent 2026-11-01 as a house name.
 
 **He is deliberately the more solid-sounding of the pair.** *Bittek* is thin-vowelled and slightly
 ridiculous; *Garrin* has weight. The contrast is doing work — the competent man and the toad who kills him
 should not sound like they belong to the same weight class.
+
+## Coined 2026-11-01 — Nessa Halcin
+
+**The given name is the author's, and it has two collisions.** Both are recorded here so they are weighed
+rather than discovered later. **Ruled 2026-11-02: *Nessa* stays.** If either collision is ever resolved, it is
+Nessa Lind who moves, not the handmaid; until then the Provost is minor enough to share the name.
+
+- ***Nessa Lind*, the Urathan Medicine Provost** (`Places/Uratha/Uratha_ The Land of Scholars.md`). Same
+  given name. One mention, in one place dossier, never spoken, not previously in this register — so the
+  smaller footprint is hers. But she heads the Pearl Tower, and the Provosts are Book 8's antagonists, so
+  she may yet matter. **She is the one that moves, if either does** — author's ruling, 2026-11-02, which leaves
+her unchanged for now.
+- ***Kess* in the same book, on the stressed syllable.** *NESS-a* and *KESS* rhyme, and Book 6 carries both.
+  This is the co-occurrence test, not similarity in the abstract: whether it bites depends on whether
+  Melina's handmaid and Tiberian's fighter ever share a sentence. They are on opposite sides of the twins and
+  may not.
+
+***Halcin*** was a rejected commoner candidate from the Garrin coinage, now spent as a **native charter-name
+on a minor house** — opaque, two syllables, like *Hadris* and *Darfi*. **HAL-sin**, /ˈhal.sin/. H was free
+in Book 6 (*Hadris* is Book 3). A house name was required because Nessa is noble: see **Who Gets a Second
+Name**. *Whitmore*, an existing impoverished minor house in `houses_of_kahaan.md`, was considered and passed
+over because it carries a Restorationist alignment this character does not need.
 
 ## Retired before use — do not reintroduce
 

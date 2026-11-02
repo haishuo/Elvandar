@@ -198,7 +198,7 @@ Here the gemstone metaphor breaks down, deliberately. Onyx does not catch light.
 
 The Onyx Tower is Uratha's intelligence faculty. Officially, it studies information systems, social dynamics, cryptography, and the theoretical foundations of statecraft. Its graduates write papers on deception theory and institutional control. They have tenure. They attend conferences. They present their findings at the Quarterly Colloquia with the same academic formality as any other discipline.
 
-The Theraris — Uratha's magical police — recruits quietly and consistently from Onyx Tower alumni lists. Its relationship with the Tower is not officially acknowledged. It is, however, well understood by anyone paying attention, in the same way that certain real-world academic programs and certain real-world intelligence services share a relationship that everyone knows about and no one documents.
+The Ilhamori — Uratha's magical police — recruits quietly and consistently from Onyx Tower alumni lists. Its relationship with the Tower is not officially acknowledged. It is, however, well understood by anyone paying attention, in the same way that certain real-world academic programs and certain real-world intelligence services share a relationship that everyone knows about and no one documents.
 
 The Onyx Tower's scholars are the people who designed the official documentation confirming that the Ebony Tower does not exist. They did so using peer-reviewed methods of institutional concealment. When Xion Kemvimore observes that the Provosts' choice to hide the Globehall underground proves they know it's wrong — the people who built that concealment apparatus were Onyx Tower graduates. They are very good at their work.
 
@@ -296,9 +296,9 @@ The Emerald Tower was not consulted during the Globehall's construction. This wa
 
 ---
 
-## The Theraris: Enforcers of Academic Protocol
+## The Ilhamori: Enforcers of Academic Protocol
 
-To maintain Uratha's system of regulated free inquiry, the nation employs the service whose full legal title is ***Vela Theraris, Rava Eshais va Koiathu Vedaris Kethae*** — “The Constituted Commission for Licensed Inquiry, Civic Order, and Extraordinary Mandates.” Its normal complete name is ***Vela Theraris***; in ordinary speech, it is simply ***the Theraris***. This elite force serves as magical police and investigative bureau combined:
+To maintain Uratha's system of regulated free inquiry, the nation employs **the Ilhamori**, formally **Vela Theraris, Rava Eshais va Ilhamori Kethae** — “The Constituted Commission for Licensed Inquiry, Civic Order, and Extraordinary Mandates.” The short formal title is **Ilhamori Kethae**, “Commission for Extraordinary Mandates”; ordinary speech drops the generic commission-word and calls the service **the Ilhamori**. The name is pronounced **il-ha-MO-ri**; `Languages/Urathan.md` holds its linguistic analysis. This elite force serves as magical police and investigative bureau combined:
 
 - They enforce the rulings of the Council of Provosts
 - They hunt those who practice unsanctioned magic or conduct unregistered research
@@ -306,9 +306,9 @@ To maintain Uratha's system of regulated free inquiry, the nation employs the se
 - They report directly to the Council of Provosts, bypassing normal departmental hierarchies
 - Their training combines magical combat, investigation techniques, and academic knowledge
 - They are recruited exclusively from the scholarly class, with preference for those with Onyx Tower backgrounds or multi-disciplinary training
-- When a scholar joins the Theraris, they shed their tower robe entirely; institutional identity replaces disciplinary identity. Their livery is a deep ink-blue — darker and more uniform than Sapphire Tower's blue — with no tower-color body and no cuff rank bands. A silver service pin at the collar marks their commission. Most Urathans read the deep blue as an extension of law and order, which is the Sapphire Tower's domain; that Theraris recruits come predominantly from the Onyx Tower is not publicly documented, and the color misdirection is not accidental
+- When a scholar joins the Ilhamori, they shed their tower robe entirely; institutional identity replaces disciplinary identity. Their livery is a deep ink-blue — darker and more uniform than Sapphire Tower's blue — with no tower-color body and no cuff rank bands. A silver service pin at the collar marks their commission. Most Urathans read the deep blue as an extension of law and order, which is the Sapphire Tower's domain; that Ilhamori recruits come predominantly from the Onyx Tower is not publicly documented, and the color misdirection is not accidental
 
-Theraris officers are feared and respected in equal measure. While they do not prohibit any field of study outright, they are merciless in punishing those who circumvent Uratha's bureaucratic requirements for research. Their presence ensures that while knowledge may be free, access to it remains tightly controlled by the academic hierarchy.
+Ilhamori officers are feared and respected in equal measure. While they do not prohibit any field of study outright, they are merciless in punishing those who circumvent Uratha's bureaucratic requirements for research. Their presence ensures that while knowledge may be free, access to it remains tightly controlled by the academic hierarchy.
 
 The organization has several specialized divisions:
 
@@ -318,7 +318,7 @@ The organization has several specialized divisions:
 - **The Nullifiers** — Trained to contain and neutralize dangerous magical experiments
 - **The Auditors** — Review research proposals and conduct surprise inspections of active projects
 
-Several of the highest-ranking Theraris officers are secretly aware of the Globehall's existence and serve as its guardians, though most members of the organization remain ignorant of this abomination. The pipeline from the Onyx Tower to the Theraris means that the people best equipped to uncover the Globehall's existence are precisely the people most institutionally committed to concealing it.
+Several of the highest-ranking Ilhamori officers are secretly aware of the Globehall's existence and serve as its guardians, though most members of the organization remain ignorant of this abomination. The pipeline from the Onyx Tower to the Ilhamori means that the people best equipped to uncover the Globehall's existence are precisely the people most institutionally committed to concealing it.
 
 ---
 

@@ -46,7 +46,7 @@ The process has a horrifying resonance with Hauren technology — similar princi
 
 ### The State Visit
 
-The book opens on an ordinary morning. No ominous feelings. No lingering goodbyes. Tiberian is in the middle of something when his mother kisses him on the cheek. Melina says something mildly sarcastic; Xion laughs. The door closes. That's it. No one goes to bed the night before thinking: *this is the last normal day.*
+The book opens on an ordinary morning. No ominous feelings. No lingering goodbyes. Tiberian is in the middle of something when his mother kisses him on the cheek. Melina says something mildly sarcastic; Xion laughs. The door closes. That's it. No one goes to bed the night before thinking: *this is the last normal day.* (The family has just come through a conspiracy most of the court never knew existed, and Melina is the reason it came through. The morning is calm because she made it calm. Nobody says so, and nobody should. See `Offstage.md`, *The Children of the Great Hunt*.)
 
 Xion and Elara arrive in Uratha. It is a triumph. The alliance that survived the Compact War. The Crown that was returned and blazed to life. The reforms Elara championed in Alliance territory now reflected in Uratha's own abolished bakarn system. Everything suggests progress. Partnership. Vindication.
 
@@ -74,7 +74,7 @@ Thousands of crystalline spheres. Each one a person. Each one screaming.
 
 Xion follows Elara. When he sees the Globehall, the healer — the man whose core drive is protecting the vulnerable, whose entire revolution began because he couldn't walk past a suffering child — is so incensed he tries to destroy it immediately.
 
-But Theraris officers — Uratha's magical police — swarm them before he can finish. In desperation, Xion "locks" the Globehall with a magical mechanism and refuses to give the Provosts access. If he can't free the trapped minds, he can at least deny the Provosts the use of them.
+But Ilhamori officers — Uratha's magical police — swarm them before he can finish. In desperation, Xion "locks" the Globehall with a magical mechanism and refuses to give the Provosts access. If he can't free the trapped minds, he can at least deny the Provosts the use of them.
 
 ### The Stalemate
 
@@ -132,9 +132,9 @@ And then it reforms. The Engineer reasserts itself. Panic is a data point. Her p
 
 ### The Investigation
 
-Melina begins a campaign to discover the truth — spy thriller investigation, deploying the intelligence network that Farleen built and that Melina inherited as a strategic asset. Pieces come in fragments: the state visit went as planned for the first few days. Then communications stopped. The Urathan delegation claims Xion and Elara extended their stay voluntarily. This is obviously false — Elara would never leave Balisha without word to her children.
+Melina begins a campaign to discover the truth — spy thriller investigation, deploying **her own network** — the Orb Weaver and what she has built around it since Book 6 (`People/Melina Valanar.md`, *The Orb Weaver*), not an apparatus handed down to her. Pieces come in fragments: the state visit went as planned for the first few days. Then communications stopped. The Urathan delegation claims Xion and Elara extended their stay voluntarily. This is obviously false — Elara would never leave Balisha without word to her children.
 
-Melina traces the lie backward. The diplomatic communications are fabricated. The Provosts' explanations shift subtly each time they're questioned. There are inconsistencies in the security reports. Theraris deployment patterns changed on a specific date — the same date the last genuine communication from her parents was sent.
+Melina traces the lie backward. The diplomatic communications are fabricated. The Provosts' explanations shift subtly each time they're questioned. There are inconsistencies in the security reports. Ilhamori deployment patterns changed on a specific date — the same date the last genuine communication from her parents was sent.
 
 Slowly, methodically, Melina pieces together what happened. Not the full truth — not yet — but enough to know her parents are alive, imprisoned, and that the Provosts are desperately trying to maintain a fiction while dealing with something they can't control.
 
@@ -144,7 +144,7 @@ And then she finds **Danshall Harkim**.
 
 Or rather — Harkim finds her. The notebook he started in the epilogue of Book 4 has become something else entirely. In the years since the Compact War, the Topaz Tower researcher has quietly built a bakarn underground inside Uratha — a network of people who, like him, noticed that the post-war reforms never stuck, that the Provosts' indifference to their own classification system was not apathy but *evidence*. People who have been watching, recording, asking questions the Provosts assumed no one would think to ask. That the underground's architect is a Topaz scholar is fitting: the tower that spent centuries doing the essential work while being told it wasn't quite scholarship has produced a man who is very good at building things that function without being noticed.
 
-Harkim doesn't know what the Globehall is. He's never been inside the Ebony Tower's nonexistent basement. But he has been mapping its shadow for years. The energy consumption anomalies. The classified Theraris unit. The personnel records that don't match any visible facility. The bakarn who disappeared and were never accounted for — not during the old system, but *after* the reforms. Disappearances that no one investigated because no one with power cared about missing bakarn.
+Harkim doesn't know what the Globehall is. He's never been inside the Ebony Tower's nonexistent basement. But he has been mapping its shadow for years. The energy consumption anomalies. The classified Ilhamori unit. The personnel records that don't match any visible facility. The bakarn who disappeared and were never accounted for — not during the old system, but *after* the reforms. Disappearances that no one investigated because no one with power cared about missing bakarn.
 
 He has the shape of the thing without its name.
 
@@ -154,7 +154,7 @@ What Harkim brings to Melina is not just information. It's *years* of informatio
 
 ### The Deeper Truth
 
-The investigation leads Melina to the Globehall's existence. Not through the front door — through the convergence of Harkim's internal data and Melina's external intelligence. The energy consumption of the Ivory Tower doesn't match its visible operations. The Theraris has a classified unit with no official mandate. There are personnel records for staff assigned to a facility that doesn't appear on any blueprint. And there are Harkim's records — the bakarn who vanished, the patterns of disappearance, the Provosts' systematic indifference to a classification system they had spent generations building.
+The investigation leads Melina to the Globehall's existence. Not through the front door — through the convergence of Harkim's internal data and Melina's external intelligence. The energy consumption of the Ivory Tower doesn't match its visible operations. The Ilhamori has a classified unit with no official mandate. There are personnel records for staff assigned to a facility that doesn't appear on any blueprint. And there are Harkim's records — the bakarn who vanished, the patterns of disappearance, the Provosts' systematic indifference to a classification system they had spent generations building.
 
 When the full picture assembles — the scope of what the Provosts have been doing, the horror of the Globehall, the realization that this trusted ally has been committing this atrocity for decades — Melina's Kaleidoscope fires at a speed no one has ever seen. The Spider Queen processes the implications: diplomatic, military, moral, strategic.
 
@@ -172,7 +172,7 @@ And then Melina decides.
 
 The specifics of the rescue are a structural question: does Tiberian lead a military intervention? Does Melina orchestrate an infiltration? Do they combine approaches — Tiberian's force creating opportunity for Melina's precision?
 
-What matters: **Harkim's underground makes it possible.** Whatever form the rescue takes, it depends on people inside Uratha — Harkim's network, the bakarn who have been watching and waiting and documenting, the quiet infrastructure of resistance that a junior researcher started building the day he opened a notebook in a liberated city. They know the internal layouts, the guard rotations, the Theraris deployment gaps. They are the reason Melina can plan a rescue instead of an invasion.
+What matters: **Harkim's underground makes it possible.** Whatever form the rescue takes, it depends on people inside Uratha — Harkim's network, the bakarn who have been watching and waiting and documenting, the quiet infrastructure of resistance that a junior researcher started building the day he opened a notebook in a liberated city. They know the internal layouts, the guard rotations, the Ilhamori deployment gaps. They are the reason Melina can plan a rescue instead of an invasion.
 
 Harkim is not a soldier. He's not leading a charge. He's the man who opened the door — who spent years building the network that gives Melina's precision something to work with and Tiberian's force somewhere to strike. The junior researcher from Empirica, the true believer whose faith cracked in a six-month war and never healed, has become the person without whom the rescue doesn't happen.
 

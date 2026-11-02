@@ -36,7 +36,7 @@ The occupation establishes itself. Field Commander Bregan Haldorn issues proclam
 
 Harkim observes the occupation through a scholar's lens. He is horrified by the violence against his fellow researchers, by the confiscation of knowledge, by the desecration of academic spaces. He barely notices what's happening in the bakarn districts. They're not his world. The Compact has less interest in controlling bakarn areas — no valuable knowledge there, in the Compact's assessment. In Harkim's assessment too, if he's honest.
 
-A midnight visit from Research Director Emmett Thorne — the highest-ranking Urathan official remaining in Empirica — introduces two critical elements: Thorne knows about Lira (he "made arrangements" years ago to help keep her hidden), and the former Theraris Inspector Thalia Neth has been asking about researchers with "unusual cognitive profiles." Trust no one.
+A midnight visit from Research Director Emmett Thorne — the highest-ranking Urathan official remaining in Empirica — introduces two critical elements: Thorne knows about Lira (he "made arrangements" years ago to help keep her hidden), and the former Ilhamori Inspector Thalia Neth has been asking about researchers with "unusual cognitive profiles." Trust no one.
 
 **What the reader sees:** The cost of the Book 3 political decisions arrives as lived experience. And a protagonist whose worldview the reader should find uncomfortable — because Harkim genuinely believes in a system the reader can already see is wrong.
 
@@ -54,7 +54,7 @@ He encounters **Perrin Halmore**, a bakarn dockworker who notices his modified f
 
 **Commander Darius Severen** — an Erulian officer who was once a defected Urathan scholar — is a particularly dangerous antagonist because he understands Urathan society from the inside. Harkim survives by leaning into the class prejudice Severen expects to see. The performance works because it *isn't entirely* a performance — and that overlap makes Harkim uncomfortable for the first time. Why was it so easy to play the part?
 
-A threatening note forces Harkim and Lira to relocate to a bakarn district, where they discover Inspector Neth — the very person Thorne warned against — is now coordinating resistance. Neth's journey is ahead of Harkim's: the rigid Theraris enforcer has already been forced by circumstance to question the system. Harkim watches her treat bakarn resisters as equals and finds it strange.
+A threatening note forces Harkim and Lira to relocate to a bakarn district, where they discover Inspector Neth — the very person Thorne warned against — is now coordinating resistance. Neth's journey is ahead of Harkim's: the rigid Ilhamori enforcer has already been forced by circumstance to question the system. Harkim watches her treat bakarn resisters as equals and finds it strange.
 
 Neth asks Lira to serve as a living repository for knowledge the Compact is destroying. Harkim refuses to risk his sister. But his refusal has a second, unexamined layer: some part of him recoils at the idea of Lira's extraordinary gift being entrusted to bakarn networks.
 
@@ -116,7 +116,7 @@ The new Harkim sees it differently. He sees an institution performing reform whi
 
 Lira teaches. Not at a new integrated school — that didn't happen. She tutors children privately, the way she always has, still technically hidden, still technically classified as something less than what she is. The emergency is over. The exception Harkim built around his sister — *she's an outlier, the system is still correct* — is gone. He can no longer pretend the system misfired in one case. He knows now that it misfires constantly, systematically, by design. And the people who designed it don't seem to care whether it exists or not.
 
-The final scene: Harkim begins keeping a notebook. Quiet observations. Things that don't add up. The Provosts' strange indifference. The energy consumption figures for the Ivory Tower that don't match its visible operations. A classified Theraris unit with no official mandate. Small things. Data points that don't fit the model.
+The final scene: Harkim begins keeping a notebook. Quiet observations. Things that don't add up. The Provosts' strange indifference. The energy consumption figures for the Ivory Tower that don't match its visible operations. A classified Ilhamori unit with no official mandate. Small things. Data points that don't fit the model.
 
 He doesn't know what the Globehall is. He won't learn for years. But the question is planted: if the Provosts don't need the bakarn system, what do they have instead?
 

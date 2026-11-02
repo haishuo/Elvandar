@@ -222,7 +222,7 @@ a birthday beat the answer is no.
 
 **Downstream check.** Elara is 21 at the marriage. She and Xion wait through the Compact War and the twins
 are conceived only after victory; the birth remains approximately two years after Book 1 without requiring
-either parent to pursue a pregnancy during the fighting. The twins are sixteen when Book 5 opens, roughly
+either parent to pursue a pregnancy during the fighting. **Tiberian is the elder by a few hours and is therefore the heir** *(author's ruling, 2026-11-02)*. The twins are sixteen when Book 5 opens, roughly
 eighteen years after Book 1. **Melina Kemvimore is unaffected. Rosik is 44 in Book 1 and approximately 64
 in Book 7.** Eighteen at Melina's birth is his chronological floor: any younger would require his childhood
 training, rise to premier Long Knife, failed Kemvimore assignment, defection, manufactured identity and

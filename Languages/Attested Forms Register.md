@@ -201,14 +201,14 @@ Its Collegiate register can deliberately create HIE-looking and NEO forms.
 | **Venn** | P1 | High Provost | Urathan vernacular or clipped institutional name; UNK |
 | **Iyanna Mereth** | P1 | History Provost | Vernacular + possible Collegiate/HIE house form; UNK |
 | **bakarn** | P3 | Bound service class | Urathan vernacular / legal register; deeper route UNK |
-| **Theraris / Vela Theraris** | P3, approved replacement | Academic protocol enforcers | Ordinary **the Theraris**; common formal **Vela Theraris**; clipped from the full legal title generated in Modern Urathan Plate 1 |
+| **Ilhamori** | P0, protected 2026-10-31 | Academic protocol enforcers | **Ilhamori Kethae** → **the Ilhamori**; *ilham-ori* “extraordinary mandate.” Full legal title, bounded legal vocabulary, and **il-ha-MO-ri** pronunciation in `Urathan.md`. |
 | **Globehall** | P1 | Urathan institution as rendered in prose | Working Modern Urathan Plate 2 generates native **Limzhomor**; the reader-facing form remains a translation and neither native form nor plate is approved |
 | **Ivory, Amethyst, Sapphire, Ruby, Topaz, Emerald, Pearl, Onyx, Ebony Towers** | P1 / P3 | Tower system | Reader-facing translations remain fixed; working Modern Urathan Plate 2 generates **Palmur Dur, Zhalkar Dur, Nirkar Dur, Senkar Dur, Selkar Dur, Halkar Dur, Mosar Dur, Noskar Dur,** and **Nosyel Dur**, all unapproved |
 
 The old guide's habit of calling any scholarly-looking form “Old Halauri” is retired. *Ormuth* and
 *Mereth* may be genuine inherited or borrowed forms, but they may equally be later Urathan creations
-whose prestige depends on looking ancient. The former P3 service-name *Ilhamori* and its “eternal flame”
-analysis are retired.
+whose prestige depends on looking ancient. *Ilhamori* is restored and protected as the service-name;
+its unsupported “eternal flame” analysis remains retired.
 
 ## Terinoki forms
 
@@ -274,7 +274,7 @@ Wilka, Bregan*) may represent native patterns, international names, or an imperi
 | **Kalden Erulius** | P1 | Prince | *Kalden* may be Imperial-Balishan naming prestige; *Erulius* is Erulian dynastic/state form |
 | **Salvian Ostrus** | P2 | Last Aspirant Guard captain | Settled offstage figure; strongly Erulian corpus |
 | **Darius Severen** | P2 | Commander and former Urathan scholar | Future recurring form; Erulian corpus or cross-cultural biography |
-| **Thalia Neth** | P2 | Former Theraris Inspector | Cross-cultural life permits mixed Urathan/Erulian analysis; future form |
+| **Thalia Neth** | P2 | Former Ilhamori Inspector | Cross-cultural life permits mixed Urathan/Erulian analysis; future form |
 
 The present Latinate feel is an intentional Erulian register. It is evidence for sound aesthetics, not
 evidence that Erulian must secretly be Halauri. Whether the resemblance reflects distant relationship,
@@ -337,7 +337,8 @@ evidence** for a language's phonology unless independently adopted later:
 - Terinoki examples: *Vorinok, Daman*; *Takama* and *Shizan* are now actual cantons.
 - Far Eastern examples: *Tan Wei, Mi Ko*.
 - Rejected Book 6 candidates: *Nillek, Havvik, Duvvin, Gossek, Dolch, Grask, Corran, Aldric, Halvor,
-  Gorran, Nerrin, Orrin, Halcin, Loken, Wendric*.
+  Gorran, Nerrin, Orrin, Halcin, Loken, Wendric*. *Halcin* was spent as a minor-house charter-name on
+  2026-11-01 (*Nessa Halcin*, Book 6) and is now P3.
 - Retired and unavailable for reuse: *Hedrin Vall, Kaiden Voss, Ver'anar, Vrek, Kira Voss, Lydia Karven,
   House Vex, Silas Vex, Marcus Vex,* and *Marcus Nerrick*.
 

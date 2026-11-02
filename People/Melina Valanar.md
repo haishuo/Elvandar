@@ -1,4 +1,4 @@
-# Melina Valanar: The Spider Queen
+# Melina Valanar: The Kaleidoscope
 
 ## The Eyes That Calculate
 
@@ -6,11 +6,25 @@ Melina Valanar's eyes change color.
 
 This is the royal trait of House Valanar — the involuntary chromatic shifts that mark the imperial bloodline, the trait that once identified her mother in a crowded market square and set the entire story in motion. In Elara, the color changes betray emotion: fear shifts to amber, fury to violet, love to deep blue. The empress learned, over decades, to maintain royal blue as her public face — composure as performance, control as survival.
 
-Melina perfected what her mother practiced. Her eyes hold royal blue even under extreme stress, a discipline so complete that when they finally do shift — when her parents vanish in Uratha and don't return — the change is described as "a BIG deal for the normally tightly controlled princess." The Spider Queen's composure is so total that its fracture constitutes an event.
+Melina perfected what her mother practiced. Her eyes hold royal blue even under extreme stress, a discipline so complete that when they finally do shift — when her parents vanish in Uratha and don't return — the change is described as "a BIG deal for the normally tightly controlled princess." Her composure is so total that its fracture constitutes an event.
 
 But there is a third mode, neither the controlled blue nor the emotional shift. When Melina processes complex strategic problems, her eyes flash through rapid prismatic patterns — cycling through the full chromatic spectrum faster than observers can track. They call it "the Kaleidoscope." It both fascinates and intimidates, because it is the visible evidence of a mind working at a speed and complexity that others can't follow.
 
 Her mother's eyes betray feeling. Melina's betray thought.
+
+### What she is called — author's ruling, 2026-11-01
+
+**In the world, she is *the Kaleidoscope*.** The name of the eye-phenomenon became the name of the woman, the
+way her brother is *the Tiger Prince* — and his epithet, unlike the one this sheet used to carry, is what
+people in the story actually call him.
+
+***Spider Queen* is not in-world.** Nobody in the books calls her that, and no narration in her POV or anyone
+else's should either. It survives in the planning documents — this sheet included — as the author's shorthand
+for how she works: the web, the centre, the threads. **It may stay there; it must never reach a page.**
+
+**This also keeps the Orb Weaver safe.** A broker named for a spider would point straight at a princess the
+city called a spider. Because the city calls her something else entirely, the echo lives only in the
+planning documents, and nobody in Kaha'an can hear it.
 
 ---
 
@@ -80,7 +94,7 @@ Very low, but not absent. Melina designs systems and strategies, but these are E
 
 Melina's lowest drive, by some distance. She does not accumulate for accumulation's sake. The Merchant accumulates substrate — wealth, leverage, position, holdings — while the Truth Seeker accumulates *understanding*, which is a fundamentally different psychological transaction. Melina wants the world legible, not owned.
 
-She shares this Merchant-bottom placement with her parents, her brother, Silvanno, Farleen, and every member of the Caretaker-primary cluster around the Valanar throne. The post-cartel-era Balisha continues to be governed by people for whom accumulation is genuinely not motivating. Melina's variant of this is particularly clean: she has access to the Crown's full strategic apparatus, sees the entire kingdom's resource flows from her central command position, and has no interest in directing any of it toward personal or institutional accumulation. Her command of the Five Pillars is the largest concentration of operational capability in Elvandar, and she uses it for protection and information, not for growth.
+She shares this Merchant-bottom placement with her parents, her brother, Silvanno, Farleen, and every member of the Caretaker-primary cluster around the Valanar throne. The post-cartel-era Balisha continues to be governed by people for whom accumulation is genuinely not motivating. Melina's variant of this is particularly clean: she has access to the Crown's full strategic apparatus, sees the entire kingdom's resource flows from her central command position, and has no interest in directing any of it toward personal or institutional accumulation. Her command of the Five Pillars is the largest concentration of operational capability in Elvandar, and she uses it for protection and information, not for growth. **The Orb Weaver is the test case and it passes:** she co-runs a profitable underworld brokerage and the profit never pulls on her. The commerce in it is Nessa Halcin's — see *The Orb Weaver*, below.
 
 **Shadow:** Like Tiberian, her lack of Merchant drive means she has no native instinct for *the strategic value of accumulation* — defensive reserves, contingency alliances, leverage hoarded for crises. Her Truth Seeker primary partially compensates, because mapping reveals where reserves *should* be kept — but mapping the need is not the same as feeling the pull to maintain it. When the next generation must think in terms of multi-decade institutional preservation rather than emergency response, this is the drive she and her brother will most have to learn to *simulate*. Their parents did not have to either. The Valanar restoration has been Caretaker work running on borrowed time, and the Merchant drive their family lacks is the drive that, in any other ruling line, would have ensured the borrowed time had been topped up.
 
@@ -185,11 +199,105 @@ When the twins reach their parents, they face the impossible question: what to d
 
 ---
 
+## The Orb Weaver
+
+*Author's idea, 2026-11-01. Decisions below are his.*
+
+**How does an imperial princess know what she knows about the Warrens?** The people who hold that knowledge
+are exactly the people who would avoid a woman like Melina because of who she is. Her Bittek file is
+"well-sourced," her dependency networks are mapped "street by street," and until now nothing said where any
+of it came from. **This is the answer.**
+
+**The Orb Weaver is an underworld information broker in Kaha'an — by the middle of Book 6, one of the best —
+and it is Melina and her handmaid Nessa Halcin**, jointly, and nobody else. It deals only through
+intermediaries. Nessa is the last intermediary anyone can reach, and if asked she says that she too only
+passes notes onward and has never met the Orb Weaver. Full sheet: `People/Nessa Halcin.md`.
+
+**It was Nessa's idea, and it is born during Book 6, not before it.** The relocation plan needs what a
+princess cannot get; Nessa, raised in a minor house that has always lived close to moneylenders and favour
+trading, knows where the door is. **The brokerage grows across the eighteen months**, so it is built out of
+the same delay that is killing people, and a sixteen-year-old is not being asked to have a decade's
+reputation already.
+
+**It is a real broker, and it trades with criminals.** A broker that refused criminal custom would have no
+custom. Melina's one line is **narrow, on purpose: she will sacrifice the Orb Weaver if what it learns is
+directly dangerous to Tiberian or her family.** Short of that, she sells.
+
+**Nessa's cover has a second floor**, and it has a consequence on this side. If anyone in the trade works out
+that the go-between lives in the palace, Nessa admits to being the Orb Weaver's *palace informant* — the
+smaller confession that hides the larger one (detail on her sheet). **For that to stay credible, the Orb
+Weaver has to sell real palace information now and then.** So Melina is a princess choosing which of her own
+household's secrets go to market. **That follows from the design rather than being added to it**; it sits
+under the same narrow line, and it is the author's to use or leave alone.
+
+### It is a tool, not an identity
+
+**This is the opposite of what Master Fen is to her father**, and nobody should ever say so. *Fen* was close
+enough to Xion's soul to be almost the same thing. The Orb Weaver is, for Melina, a magnificent piece of work
+she has no feeling about — **which is the Merchant-last placement doing exactly what it predicts**: she can
+run a profitable trade without the profit ever pulling on her, and she could close it the same way. The
+commerce is Nessa's; see her sheet. **The attachment is Nessa's too**, and if the Orb Weaver ever has to be
+burned, the grief is hers and not Melina's.
+
+**There is no planned burning.** *(Author's ruling, 2026-11-01: no reason to burn the Orb Weaver unless the
+logic of the story calls for it.)*
+
+### What it costs her — this must be on the page
+
+**Melina is Caretaker third, and she knowingly sells information to people who will use it on the Warrens
+she is trying to save.** That is strong characterization and it stays — but under §3 of the working rules it
+only *is* characterization if the text charges her for it. **The agreed beat** *(author's approval,
+2026-11-01)*: at some point in the eighteen months, something the Orb Weaver sold turns up below as damage
+she can trace to herself. **She does not stop.** She notes it and goes on. One beat is enough; do not
+repeat it louder.
+
+### Who does not know
+
+**Nobody but the two of them. Not Farleen** *(author's ruling, 2026-11-01)*, **not her parents, and not
+Tiberian.** The last one has its own cost: Mira Fen is already *"one of the very few things she keeps from
+Tiberian, who she otherwise tells everything"* (above), and this makes two. The reason is not hard to find —
+her brother is Caretaker primary, he would object to the line in exactly the place it is narrowest, and he
+would act — but **it is a second secret from the person she tells everything, and the page should know
+that**, even if it never says so.
+
+**And her father in particular.** She takes his judgments more seriously than anyone watching would guess,
+and a brokerage that sells to the Warrens' predators is not a thing he would approve. **She has built
+something she knows he would hate, and kept it from him.** That is a real cost and it is hers to carry. Do
+not stage a discovery scene to collect it.
+
+### What it does in Book 6
+
+**It makes the Bittek failure worse in the right way.** Without the Orb Weaver her model would be confidently
+wrong from the outside. With it, it is confidently wrong *from inside the underworld itself*: the profile is
+good intelligence from people who know Bittek, and it is still wrong. **And it uses the mechanism the book
+already has.** A broker is a market, and a market only exists while people want things. When the Warrens stop
+being *for* anything, the Orb Weaver's sources go blind in exactly the place the model does, at the same
+moment. Detail in `book6_outline.md`.
+
+### Between Book 7 and Book 8: its first real test
+
+**The heirs of the hunting houses plan to kill Tiberian, and they plan to do it through her.** They believe
+she resents the brother who will inherit, and that she is the inside woman who can get past Kess. She pieces
+the plot together from soirée questions and the Orb Weaver's own buyers. With Nessa she peels the waverers
+away by selling them the truth. She tells Tiberian only once the rest go ahead anyway, and then she tells him everything except where some of
+the pieces came from. *They sounded me out, and I put the rest together* is true, and it keeps the Orb Weaver
+hidden. The true believers are never charged. She knows every name. **The narrow line meets
+a real threat to her family for the first time, and the instrument holds; nothing is burned.** Account in
+`Offstage.md`, *The Children of the Great Hunt*.
+
+### What it does in Book 8
+
+**It is the network she investigates with.** When her parents fail to come back from Uratha, the instrument
+she reaches for is her own, not one she inherited *(author's ruling, 2026-11-02)*. See `book8_outline.md`,
+Part 2.
+
+---
+
 ## Relationships
 
 ### Tiberian Valanar (Twin Brother)
 
-The central relationship. He is her push to action; she is his strategic conscience. Born hours apart after the war, inseparable ever since. She teases him as "Tiber the Tiger" when his aggression needs checking — the affectionate diminutive that reminds him he's still her brother before he's the Tiger Prince. He tells her "stop analyzing and start DOING" when her brilliance becomes a cage.
+The central relationship. He is her push to action; she is his strategic conscience. Born hours apart after the war — **he is the elder by a few hours, which makes him the heir, and she has no problem with it** *(author's ruling, 2026-11-02)* — inseparable ever since. She teases him as "Tiber the Tiger" when his aggression needs checking — the affectionate diminutive that reminds him he's still her brother before he's the Tiger Prince. He tells her "stop analyzing and start DOING" when her brilliance becomes a cage.
 
 Their partnership is the emotional and strategic core of the Five Pillars. When they work in concert — her planning creating space for his action, his boldness executing what her analysis designs — they are formidable. When they operate alone, each defaults to their worst tendency: he charges without thinking; she thinks without charging.
 
@@ -198,6 +306,13 @@ The magic system confirms it: "They succeed most when Melina's planning creates 
 ### Silvanno Larannas
 
 Political mentor. Melina appreciates Silvanno's insights into institutional politics and diplomatic nuance — skills learned from decades of navigating the Water cartel's relationship with the throne. He knew her father in his youth, providing a family connection that transcends the merely professional. From Silvanno, she learns the art of political reading that her engineering drive naturally seeks: how institutions actually work beneath their official structures.
+
+### Nessa Halcin (Handmaid)
+
+Almost a sister — what Kai is to Tiberian, on the princess's side. Placed as her personal handmaid by a minor
+house that wanted access, and became, over a shared childhood, her closest friend: thick as thieves,
+sleepovers, giggling about boys. **She is one of the two people who know Melina feels far more than she
+shows**; Tiberian is the other. Co-runs the Orb Weaver, which was her idea. See `People/Nessa Halcin.md`.
 
 ### Kai
 

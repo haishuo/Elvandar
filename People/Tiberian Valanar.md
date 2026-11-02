@@ -108,7 +108,7 @@ He shares this Merchant-bottom placement with everyone in his immediate orbit �
 
 ## Backstory
 
-Born after the Compact War, once victory finally made a future feel possible, Tiberian and his twin sister Melina entered a world still rebuilding from The Rending. Their parents had transformed Balisha from a cartel-controlled city-state into the heart of a new empire, but that transformation was ongoing, fragile, and contested.
+Born after the Compact War, once victory finally made a future feel possible, Tiberian and his twin sister Melina — he the elder by a few hours, and therefore the heir *(author's ruling, 2026-11-02)* — entered a world still rebuilding from The Rending. Their parents had transformed Balisha from a cartel-controlled city-state into the heart of a new empire, but that transformation was ongoing, fragile, and contested.
 
 Tiberian grew up in the Imperial Palace, raised with the weight of the Valanar legacy but encouraged to forge his own path. His father — the former grain merchant's son who became a healer, a revolutionary, and an emperor consort — modeled compassion as the foundation of leadership. His mother — the hidden princess who claimed the Ruby Throne and rebuilt an empire — modeled decisive authority and the willingness to fight for what matters.
 
@@ -168,6 +168,14 @@ The trilogy concludes with the old order destroyed completely. Kalden's claims t
 *(Corrected 2026-08-02: this previously read "Rosik's network is dismantled forever," which contradicts the four separate places `book7_outline.md` establishes that he spent the entire Kaha'an network buying the model before he ever moved. **There is nothing to dismantle.** What follows is an audit of residual purchases — a clerk who sold a roster, a mason who confirmed a stair — and its finding is that the liquidation was total.)*
 
 **And Tiberian's last beat in the trilogy is not a victory.** It is the after-action briefing, where he and his sister cannot agree on one sentence about what their father did in the corridor — he read it as proof that Xion always knows the right thing and has been asking himself since whether he could have done the same; **she watched the same act and saw no weighing in it at all.** He is wrong, and nobody corrects him, and the reader who has Book 1 knows he is reading a wound as a virtue. The line goes unwritten and the report goes up without it. See `Book 7 - Last Debts/book7_outline.md`, "The closing scene."
+
+### Between Book 7 and Book 8
+
+**A noble conspiracy tries to kill him, and it never gets within fifty feet.** Its whole plan was to recruit
+his sister as the poisoner. Melina takes it apart and tells him once it is going ahead anyway, **all of it, including that she was meant
+to be the poisoner.** He is angry for her before he is concerned for himself, and **he never doubts her for a
+moment**; do not write him doing so. He tells Kess. **It is not the first attempt on his life, nor the last**; a target on him is an ordinary fact of who he
+is. Account in `Offstage.md`, *The Children of the Great Hunt*.
 
 ---
 

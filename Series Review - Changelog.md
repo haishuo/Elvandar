@@ -12134,3 +12134,173 @@ with Kalden calling it nonsense after the war. Kalden ran with it.
 - **Master List §6:** ruling added, including *do not write Xion as having cultivated the fantasy*.
 
 No prose, beat drafts, skeletons or Royal Road output changed.
+
+
+---
+
+## 2026-10-03 — National currencies and Elara's official Imperial jenel
+
+**Author-approved.** Created `Languages/Currencies of Elvandar.md` as the authority for approved currency names: jenel (Balisha and Vartonne), zhenel (Uratha), denar (Erulius), drask (Gunastran), tarn (Terinok), serel (Silaris). Bounded approved imperial derivation and Urathan sound development are distinguished from deeper etymologies still to be designed.
+
+Kalden's portrait coin is renamed from **Imperial Mark** to his claimed **Imperial jenel**. Ordinary Erulian **denars** continue alongside it; the old Mark-replaces-Talent account is superseded. Preserved its introduction fifteen years before Book 1, portrait/seal design, and credentialing function. Once Elara is fully established, Kaha'an's imperial mint issues her portrait **official Imperial jenel**. Her authority is actual; Kalden's naming is a claim. Exchange values and exact denomination ratios remain unset.
+
+Conformed the Erulian and Vartonnian cultural dossiers, Kaha'an's banking dossier and Greystone entry, Kalden's character sheet, Languages README, and the master list. Greystone's existing sound-coin statement is bounded to before Elara's full establishment; no later price advantage for her coin is invented. Existing copper/silver prose stands. No prose, beat drafts, skeletons, or Royal Road output changed; no chapter scene was added.
+
+---
+
+## 2026-10-31 — Ilhamori restored as a protected shortened institutional name
+
+**Authorial direction.** Restored **the Ilhamori** for Uratha's special police. The author has used this
+name since the organization's inception and understands it as a shortening of a longer institutional
+title. Its former P3 classification captured textual exposure but missed that authorial constraint;
+the name is now P0. The full title, literal translation, historical route, pronunciation, and mechanism
+of shortening remain open. Future language design must accommodate the name.
+
+**Separated the name from its unsupported gloss.** The sound shape already fits the working language.
+The failed “eternal flame” derivation did not justify rejecting the name itself. That gloss remains
+retired; the neutral silver service pin stands. The 2026-08-22 Vela Theraris / the Theraris replacement
+and its full legal title are superseded. Earlier changelog entries are preserved as history. Working
+lexical *theraris* and the proposed Tower titles containing it are unaffected.
+
+**Conformed the live footprint.** Updated the Uratha dossier, Book 4 and Book 8 outlines, Danshall
+Harkim's sheet, Names, the Urathan language authority, the attested-forms register, Languages README,
+Modern Urathan Plates 1–2, and the master review record. No chapter prose, beat draft, skeleton, or
+Royal Road output changed. No full title or etymology was invented in this pass.
+
+---
+
+## 2026-10-31 — Ilhamori full title and linguistic derivation completed
+
+**Implemented at the author's request to fill the restoration's naming gap.** Retained the selected
+English designation, “The Constituted Commission for Licensed Inquiry, Civic Order, and Extraordinary
+Mandates,” and constructed **Vela Theraris, Rava Eshais va Ilhamori Kethae**. The short formal title is
+**Ilhamori Kethae**; ordinary reference drops the generic commission-word to give **the Ilhamori**.
+
+**Added two explicit Modern Collegiate legal stems.** **Ilham** names an authorized exception to the
+standing allocation of powers; **ori** names an operative warrant or mandate. Ordinary modifier–head
+compounding gives *ilham-ori*, “extraordinary mandate,” with no special sound change. The mandate-name
+denotes the institution through shortening and metonymy. Collegiate stress gives **il-ha-MO-ri**,
+/il.ha.ˈmo.ri/. The final *i* belongs to *ori*, not a plural or police suffix. The words are newly
+designed vocabulary, not discoveries in previous notes or claims of ancient Halauri attestation.
+Their pre-Urathan etymologies remain unassigned; the institutional derivation itself is complete.
+
+**Checked the terms outside the protected name.** Recorded *velaori* (access warrant), *ravaori*
+(civic directive), *ilhamis* (exceptional-jurisdiction status), and *ilhamu* (pertaining to exceptional
+authorization) using existing compounding and derivation. Distinguished mandates from law, compact,
+and permission. Preserved *theraris* as inquiry vocabulary and *Vela Theraris* as one domain inside the
+full title, not the institution's short name. No unlimited officer discretion or new story event follows
+from the wording. The unsupported “eternal flame” gloss remains retired.
+
+**Conformed:** `Languages/Urathan.md` as the authority, Modern Urathan Plates 1–2, the attested-forms
+register, Languages README (including its previously missed P0 list), the Uratha dossier, and the master
+review record. Removed the live title/shortening placeholders. The wider language plates remain working.
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-01 — The Orb Weaver and Nessa Halcin (Book 6)
+
+**Author's idea and rulings.** Melina Valanar and her handmaid Nessa Halcin jointly run the **Orb Weaver**, an
+underworld information broker in Kaha'an, through intermediaries. It answers how an imperial princess holds
+the Warrens intelligence `book6_outline.md` already relied on. Born during Book 6 and Nessa's idea; Melina's
+line is narrow and the book charges her for it once; Farleen does not know; no planned burning.
+
+Created `People/Nessa Halcin.md` (stack proposed, awaiting approval). Added *The Orb Weaver* and a Nessa
+relationship entry to `People/Melina Valanar.md`, with a note in her Merchant section. Added placement to
+`book6_outline.md`: Act I (origin, and that it keeps the reader–character distance), Act II (the one cost
+beat, kept clear of the child and the confrontation), Act III (the Bittek file is the Orb Weaver's work, and
+the broker goes blind with the model). Registered *Nessa Halcin* in `Names.md` with both given-name collisions
+(*Nessa Lind*; *Kess*) recorded; *Halcin* spent as a minor-house charter-name, noted in the attested-forms
+register; *House Halcin* added to `houses_of_kahaan.md`. Master list: ruling in §6, guardrails in §5, the
+name and stack in §7.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-01 — Melina's in-world epithet is *the Kaleidoscope*
+
+**Author's ruling.** *Tiger Prince* is Tiberian's in-world epithet; *Spider Queen* is not Melina's — it is
+planning shorthand only and must never reach a page. Her in-world epithet is *the Kaleidoscope*. Swept: no
+prose uses either. Retitled `People/Melina Valanar.md` to *The Kaleidoscope*, added the ruling under *The Eyes
+That Calculate*, and replaced one narrating use (*"The Spider Queen's composure"* → *"Her composure"*).
+Updated her `Names.md` row; master list §5 guardrail and §6 ruling. Remaining planning uses in her sheet and
+`book8_outline.md` stand, per the ruling.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-01 — Nessa's second cover: the palace informant
+
+**Author's design.** If the trade connects the Orb Weaver's go-between to the palace, Nessa confesses to being
+the broker's palace informant, which hides the larger truth. Questions about her time with Melina are met with
+the handmaid's job itself. Added *The cover has a second floor* to `People/Nessa Halcin.md`, which limits it
+to underworld audiences. Added to `People/Melina Valanar.md` the consequence that the cover needs the Orb
+Weaver to sell real palace information occasionally, recorded as the author's to use. Master list: §6 ruling
+extended and a §5 guardrail added.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — Nessa Halcin's given name kept
+
+Author's ruling: ***Nessa* stays.** The collision with *Nessa Lind*, the Urathan Medicine Provost (one mention,
+`Places/Uratha/Uratha_ The Land of Scholars.md`), is accepted; if it is ever resolved, the Provost is the one
+renamed. `Names.md` row and *Coined 2026-11-01* note updated, and the free-initials fallback dropped as moot;
+`People/Nessa Halcin.md` guardrail 5 no longer calls the name provisional. Master list: status table and §7
+narrowed to her stack, which is still awaiting approval.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — Nessa Halcin's stack approved
+
+Author's approval of the stack proposed 2026-11-01: **Caretaker → Spirited Competitor → Founder → Merchant →
+Truth Seeker → Engineer → Creator.** `People/Nessa Halcin.md` marked approved. Master list: §7 question closed
+(name and stack both settled), the ruling recorded under the Orb Weaver in §6, §3 Book 6 note and status table
+updated to nothing open.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — *Grand Hunt* → *Great Hunt*
+
+Continuity fix to match Book 1 ch10, which names it the *Great Hunt* (as do its beat draft, the Book 1
+skeleton and `People/Elara Valanar.md`). *Grand Hunt* survived in `People/Ronas Dermir.md` (three places) and
+`Series Review - Master List.md` (one) and `book6_outline.md` (one). All five corrected; no *Grand Hunt* remains outside `TGMS - OLD/`.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — Twin birth order and succession
+
+Author's ruling: **Tiberian is the elder twin by a few hours and is therefore the heir; Melina has no problem
+with it.** Previously unrecorded. Added to `People/Tiberian Valanar.md`, `People/Melina Valanar.md` (*Tiberian
+Valanar (Twin Brother)*) and `Story Timeline.md`; ruling in master list §6.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — Book 8: Melina investigates with her own network
+
+Author's ruling. `book8_outline.md` Part 2 had Melina "deploying the intelligence network that Farleen built and
+that Melina inherited as a strategic asset" — written before the Orb Weaver existed. Now **her own network**, the
+Orb Weaver and what she has built around it since Book 6. `People/Melina Valanar.md` gains *What it does in Book
+8* under *The Orb Weaver*. No other document claimed the inheritance. Master list: the Orb Weaver is
+now a §2 cross-book thread (B6 → B8), and the §6 ruling's "no cross-book thread" line is updated to point at it.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — Offstage: *The Children of the Great Hunt*
+
+New `Offstage.md` entry, on the author's design. It covers Elara's ban on the Great Hunt and, between Book 7
+and Book 8, the conspiracy of the hunting houses' heirs to kill Tiberian by recruiting Melina as the inside
+woman. The Long Knives decline as bad business, and a lesser house takes the job. Melina infers the plot, she
+and Nessa peel the waverers away through the Orb Weaver, and the attempt fails far short of Kess.
+
+Pointers added: `People/Tiberian Valanar.md` (*Between Book 7 and Book 8*), `People/Melina Valanar.md` (*The
+Orb Weaver → Between Book 7 and Book 8: its first real test*), `People/Nessa Halcin.md` (the cover is tested
+and holds), and `book8_outline.md` (the opening morning). Master list: §6 ruling, and two details opened in §7
+(what Tiberian is told; what becomes of the plotters).
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — *The Children of the Great Hunt*: Tiberian told, and the aftermath
+
+Author's approval of both open details. `Offstage.md` gains the telling: she tells Tiberian all of it, with
+"they sounded me out" as the true cover that keeps the Orb Weaver hidden, and he never doubts her. It also
+gains *Afterward*: the lesser house is broken, the investigation stops at the conspirators' go-betweens, the
+true believers are never charged, and she knows every name. Pointers updated on both twins' sheets. Master
+list: §7 items closed into the §6 ruling, and the status table is back to 0.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.

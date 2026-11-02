@@ -509,7 +509,7 @@ outliving it rather than by winning it — a distinction the family is quietly c
 **Post-Rending Transformation**: Became the clearing house of the Golden Path. Effectively all east–west
 trade crossing Elvandar settles in paper somewhere on Vessel Street, and Greystone writes or endorses a
 great deal of it, alongside a thin row of resident foreign factors. Much of what crosses their counters is
-denominated in the Erulian **Imperial Mark**, which is simply the soundest coin in circulation and carries
+denominated in the Erulian **jenel**, which, before Elara's full establishment, is the soundest coin in circulation and carries
 Kalden's profile on one face — a fact Vessel Street handles thousands of times a day and has never once
 found interesting. *(Erulius is **not** a financial centre and this is not a hint that it is; see*
 `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md`*.)*
@@ -630,6 +630,10 @@ House Thornwood specialized in landscape design and maintained the beautiful gar
 
 ### House Greystone
 **Status**: The Vessel Street clearing house — no longer a peripheral entry. See **The Money Trade** above.
+
+### House Halcin
+**Status**: Minor house with a charter and little else; lives close to moneylenders and favour-trading  
+**Political Alignment**: None worth the name. Placed a daughter, Nessa, as Princess Melina's personal handmaid for the access, and does not know what she has built with it — see `People/Nessa Halcin.md`
 
 ### House Fairwind
 **Status**: Former ship captains who lost their vessels but retained their titles  

@@ -178,6 +178,11 @@ and feeds nobody this winter. They pick the fix that solves it forever over the 
 for people who have no vote and are not in the room. **The word *Warrens* is never said in Book 5, and
 nobody notices the trade.**
 
+**The Orb Weaver.** B6: born on the page as Nessa's idea, built into the best broker in Kaha'an through the
+eighteen months, and blind in Act III for the same reason the model is. → **B8 Part 2: it is the network
+Melina investigates with** — her own, not one inherited from Farleen *(author's ruling, 2026-11-02)*.
+Authority: `People/Melina Valanar.md`, *The Orb Weaver*; `book8_outline.md`, Part 2.
+
 **The Warrens chair.** B1 ch1: Xion frozen while Tam is taken. → B3 ch1: he asks that the council's first
 sitting be about the Warrens, *"because there was a chair in this room that nobody was sitting in and it
 was going to stay empty until somebody went down there and asked."* → B3 ch3: deferred, and nobody argues,
@@ -594,7 +599,8 @@ now a settled ruling; see [§6](#6-settled-rulings).
 
 **B6-1 is closed.** Both open questions were ruled on 2026-08-14 — see [§6](#6-settled-rulings). Book 6's
 design work has nothing outstanding; `book6_outline.md` holds the structure and `People/Bittek.md` holds
-the character.
+the character. **The Orb Weaver was added 2026-11-01** (see [§6](#6-settled-rulings)); Nessa Halcin's name
+and stack were both settled 2026-11-02, so nothing on it is open.
 
 **B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
 
@@ -783,13 +789,23 @@ Vartonnian or Kaha'ani daughter branch.
 
 `Languages/Design Plates/Modern Urathan - Plate 1.md` is the **working, unapproved** full-language
 proposal. It derives a brisk Imperial-Balishan vernacular beneath a deliberately archaizing Collegiate
-register, then tests that machinery on Uratha's state intelligence and research-enforcement service. The
-generated full title is *Vela Theraris, Rava Eshais va Koiathu Vedaris Kethae*, “The Constituted Commission
-for Licensed Inquiry, Civic Order, and Extraordinary Mandates.” **Approved 2026-08-22:** the common
-formal name is ***Vela Theraris*** and ordinary speech uses ***the Theraris***. The two-word form is a
-complete service-name on the same terms as *Arol Batae* and *Kaha Batae*, not an incomplete clipping.
-P3 *Ilhamori* and its unsupported “eternal flame” analysis are retired. This bounded approval does not
-approve the remainder of Modern Urathan Plate 1.
+register. **Authorial direction, 2026-10-31:** restore **the Ilhamori** as the protected **P0** name of
+Uratha's state intelligence and research-enforcement service. The author has used the name since the
+organization's inception and understands it as the familiar shortening of a longer institutional title.
+Its former P3 classification measured textual exposure, not authorial attachment, and no longer applies.
+**Completed at the author's request, 2026-10-31:** **Vela Theraris, Rava Eshais va Ilhamori Kethae**,
+“The Constituted Commission for Licensed Inquiry, Civic Order, and Extraordinary Mandates.” Short
+formal **Ilhamori Kethae** becomes everyday **the Ilhamori**, **il-ha-MO-ri**, /il.ha.ˈmo.ri/.
+New Modern Collegiate legal stems **ilham** (authorized exception to ordinary jurisdiction) and **ori**
+(operative warrant or mandate) combine regularly as *ilham-ori*. The mandate-name then denotes the
+service. `Languages/Urathan.md` records the full analysis, lexical distinctions, and productive family.
+No special sound change or acronym is used. The stems' pre-Urathan origins remain unassigned; that does
+not leave the title or its shortening unresolved. The 2026-08-22 **Vela Theraris / the Theraris**
+service-name is superseded; its licensed-inquiry phrase survives within the revised full title. The
+unsupported “eternal flame” analysis remains retired, and the silver service pin stands. The working
+lexical *theraris* and its use in proposed Tower titles are unaffected. This ruling does not approve the
+wider language plate. Current outlines, dossier, sheet, and registers are conformed; no chapter prose,
+beat draft, skeleton, or Royal Road output required alteration.
 
 `Languages/Design Plates/Modern Urathan - Plate 2.md` is the **working, unapproved** Tower-name test. It
 treats the familiar English Tower names as reader-facing translations, distinguishes physical **durdom**
@@ -1216,6 +1232,16 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 - **She is right about the world she knows, and the world she knows stops existing.** *"Father can be reached. He always can."* Her death must not read as naivety — she is the most accurate reader of Rosik alive, and Xion agrees with her, and they are both wrong.
 - **The meeting interval must vary and never become a fixed weekly ritual.** Currently: "day after tomorrow," "next week," "tomorrow," "three days," "two days," off-rhythm. A schedule would telegraph the death.
+
+### Melina Valanar and Nessa Halcin — the Orb Weaver
+
+- **It is a tool to Melina and nobody says so.** The contrast with Master Fen is for the reader; no character draws it.
+- **It was Nessa's idea.** Never retell the origin with Melina proposing it.
+- **The cost is collected once.** One traced-damage beat in the eighteen months; she notes it and goes on. Do not repeat it louder, and keep it clear of the dead child and of the midnight confrontation.
+- **Nessa's fallback cover (*palace informant*) is for the underworld only.** Never played to a palace audience.
+- **Nobody else knows** — not Farleen, not her parents, not Tiberian. No discovery scene is planned; do not stage one to collect the cost.
+- **Nessa is not Farleen, and not a window onto Melina.** She has a real second drive (the game), and she never explains her friend to anyone.
+- **In-world, Melina is *the Kaleidoscope*. *Spider Queen* never reaches a page** — no dialogue, no narration. It is planning shorthand only.
 
 ---
 
@@ -2314,7 +2340,7 @@ error**: a single "banking houses" bullet in a geography file inflated into a cl
 finance lives. The subject invites it; do not reinstate either.)* **Vartonne is a debtor** — declining
 currency, endemic noble debt, export terms favouring Kaha'ani buyers. **Erulian wealth is extractive** —
 mines, farms, timber, heavy taxation and the conscription system, per its own Economy section and Kalden's
-sheet; **the twenty-year credentialing project must never be attributed to banking**, and the Imperial Mark
+sheet; **the twenty-year credentialing project must never be attributed to banking**, and Kalden's Imperial jenel
 is a legitimacy instrument, filed on Kalden's sheet beside the Amber Palace and the Hall of Ancestors. **By
 Book 7 Erulius is mortgaged to the roots.** **Uratha has no money trade and is not to be given one. Terinok
 refuses paper on principle** (*"Thal'krev, thal'zhuum"* — payment in advance), so a Terinok contract must be
@@ -2601,7 +2627,7 @@ inconsistency in Tiberian rather than as characterization of whoever is begging.
 his sheet names the exact failure mode: the drift always happens in his longest and most serious speeches,
 because the temptation is to let him speak "properly" when the content is grave. **A balanced antithetical
 epigram is the wrong instrument**, however well it states the sentiment — the register wants dropped
-auxiliaries, *ain't*, *got*, and the historical present. The Grand Hunt speech is the one licensed rise and
+auxiliaries, *ain't*, *got*, and the historical present. The Great Hunt speech is the one licensed rise and
 is explicitly not licence for this one.
 
 ---
@@ -2856,6 +2882,96 @@ reveal and cannot arrive a chapter early.
 Tam at twelve (ch12/14/16, consistent), Xion *"since he was nine years old"* (backstory), the sixty-nine-year-old
 Aspirant Guard in `Offstage.md`, and *"a population figure eleven years old"*, already ruled correct on
 2026-08-03. No other survival of the older chronology remains in the prose.
+
+---
+
+### Currency names and the official Imperial jenel — author's ruling, 2026-10-03
+
+Authority: `Languages/Currencies of Elvandar.md`. National names are approved: Balishan/Vartonnian **jenel**, Urathan **zhenel**, Erulian **denar**, Gunastran **drask**, Terinoki **tarn**, Silarian **serel**. Approval does not promote whole working language plates or unbuilt native etymologies.
+
+Kalden's high-value portrait issue is styled **Imperial jenel**, alongside ordinary denars; it does not replace them. **Imperial Mark / Erulian Talent** and the replacement account are retired. His issue remains a succession credential, not evidence of a financial centre.
+
+Once fully established, **Elara's portrait issue from the imperial mint in Kaha'an is the official Imperial jenel**. Shared names do not confer equal legitimacy. Her minting need not answer Kalden deliberately; its ordinary authority is enough to infuriate him. No scene or chapter placement is mandated, and legitimacy does not dictate relative exchange values.
+
+Denominations, metal contents, conversion ratios, deeper unbuilt etymologies, and the exact date of Elara's issue remain design extensions. Existing copper/silver descriptions, including Janice's copper, stand; no prose replacement pass is authorized. Linked place dossiers and Kalden's sheet conformed; no chapters, beat drafts, skeletons, or Royal Road output changed.
+
+### The Orb Weaver — author's ruling, 2026-11-01
+
+**The author's idea, and it answers a rule 1 gap.** `book6_outline.md` relied on Melina having
+"well-sourced" files on the lieutenants and dependency networks mapped "street by street," and never said
+how an imperial princess got intelligence the underworld would never give her. **The Orb Weaver is an
+underworld information broker run jointly by Melina and her handmaid Nessa Halcin**, through intermediaries;
+Nessa claims to be one more go-between. Authority: `People/Melina Valanar.md`, *The Orb Weaver*, and
+`People/Nessa Halcin.md`.
+
+**Decided in the same exchange:** (1) Melina's line is narrow — she sells to criminals, and burns it only for
+information directly dangerous to her family — and **the book charges her for that once**, with a
+traced-damage beat in the eighteen months. (2) Nessa is a minor-house noblewoman placed as handmaid for her
+family's advancement, and became almost a sister. (3) **The Orb Weaver is born during Book 6 and it was
+Nessa's idea.** (4) Farleen does not know. (5) **There is no planned burning** — not unless the logic of the
+story calls for it.
+
+**Nessa's cover has a second floor** *(author's design, same day)*. If the trade connects the go-between to the
+palace, she confesses to the smaller thing: she is the Orb Weaver's *palace informant*. That explains her
+proximity, explains any palace-sourced intelligence, and advertises the broker's reach. Time spent with the
+princess is simply her job. **It is an underworld cover only**; inside the palace she is a handmaid and nothing
+else. **Consequence, recorded for the author:** the informant story stays credible only if the Orb Weaver sells
+real palace information from time to time, so Melina chooses which of her own household's secrets to sell,
+under the same narrow line. Detail on both sheets.
+
+**It does not conflict with the 2026-08-20 ruling that Melina has no pre-series intelligence masterpiece.**
+That ruling deleted a résumé event no story depended on. The Orb Weaver is born on the page, inside Book 6,
+and Act III depends on it. **It is now a cross-book thread** *(2026-11-02)*: Book 8's investigation runs on it —
+see [§2](#2-cross-book-threads), *The Orb Weaver*.
+
+**Nessa's name and stack, settled 2026-11-02.** *Nessa* stays; if the collision with Nessa Lind, the Urathan
+Medicine Provost, is ever resolved, the Provost is renamed (`Names.md`, *Coined 2026-11-01*). Her stack,
+**Caretaker → Spirited Competitor → Founder → Merchant → Truth Seeker → Engineer → Creator**, is approved as
+proposed and drawn to complement Melina's (`People/Nessa Halcin.md`).
+
+### Melina is *the Kaleidoscope* in-world; *Spider Queen* is not — author's ruling, 2026-11-01
+
+**Tiberian's *Tiger Prince* is what people in the story call him. Melina's *Spider Queen* is not**, and never
+was: it is the planning documents' shorthand for how she works. **Her in-world epithet is *the
+Kaleidoscope***, after her eyes — the name of the phenomenon became the name of the woman. A sweep found
+*Spider Queen* only in planning files (her sheet, `Names.md`, `book8_outline.md`) and in no prose; Books 5–8
+have no chapters yet. **The planning uses may stay. None may reach a page.** Her sheet is retitled *The
+Kaleidoscope* and carries the ruling.
+
+**It also settles a risk the Orb Weaver raised**: a spider-named broker would have pointed straight at a
+princess the city called a spider. The city does not.
+
+### Tiberian is the elder twin and the heir — author's ruling, 2026-11-02
+
+**Tiberian is older by a few hours, and that makes him the successor. Melina has no problem with it.** Nothing
+in canon had recorded the birth order. Recorded on both twins' sheets and in `Story Timeline.md`. Any plot that
+assumes she resents the succession is a misreading by the people in it, not by the book.
+
+### The Children of the Great Hunt — author's design, 2026-11-02
+
+**New `Offstage.md` entry.** Elara bans the Great Hunt among her first edicts and declines to arrest the
+two-fifths of the nobility who hunted. **Their children inherit the resentment without the background.**
+Between Book 7 and Book 8 they plot to kill Tiberian by **recruiting Melina as the inside woman.** Their
+reasoning is that she must resent the brother who will inherit, and Kess makes direct force hopeless. The Long
+Knives, under a successor Mistress, **decline it as bad business and do not interfere**, which would be worse
+business. A hungry lesser house, unnamed, takes it. **Melina assembles the plot by inference**, from soirée
+questions and the Orb Weaver's own buyers. **She and Nessa peel the waverers away**, and the Orb Weaver does
+it by selling them true information. **Nessa's cover is not burned.** The true believers try anyway. Melina
+tells Tiberian, he tells Kess, and the attempt never gets within fifty feet. **No scene**: attempts on him are
+ordinary.
+
+**Why it stays Offstage:** burning Nessa, or an attempt that came close, would be too consequential to leave
+unstaged. Both are ruled out for exactly that reason. Staged, it would also be a smaller copy of Book 8's
+Part 2 puzzle. **What depends on it:** the Orb Weaver enters Book 8 proven, and Book 8's ordinary morning is
+earned. Placement is after Book 7 so that it neither spends Melina's Book 7 lesson early nor runs alongside
+Rosik's network, which she would then have to have missed. Pointers on both twins' sheets, Nessa's sheet and
+`book8_outline.md`.
+
+**Closed the same day:** Melina tells Tiberian **everything, including that she was meant to be the
+poisoner**. The conspirators' approaches to her are her cover for knowing, so the Orb Weaver stays hidden at
+the cost of one omitted source. He never doubts her. **The plotters:** the lesser house is broken, and the
+investigation stops at the conspirators' own go-betweens, so the true believers are never charged. She knows
+every name.
 
 ---
 

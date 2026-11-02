@@ -31,8 +31,8 @@ its full prose blast radius is conformed.
 
 ## Name protection
 
-The following P0 forms—and only these forms—are protected by the author's rulings of 2026-08-21 and
-2026-08-22:
+The following P0 forms are protected by the author's rulings of 2026-08-21, 2026-08-22, and
+2026-10-31:
 
 - **Xion**
 - **Elara**
@@ -41,6 +41,7 @@ The following P0 forms—and only these forms—are protected by the author's ru
 - **Rosik**
 - **Kaha'an** — including its use as the transferable “Royal Seat” title
 - **Arol Batae** — the complete institutional name “Old Guard”; *arol* means “old” within it
+- **Ilhamori** — the familiar shortened name of Uratha's special police; full title and derivation in `Urathan.md`
 
 The approved language history must accommodate these spellings and pronunciations, but it need not make
 them ordinary native formations. A protected name can be archaic, foreign, dynastic, learned, or
@@ -66,6 +67,7 @@ decisions, corpus locations, and an earlier reconstruction attempt. Their invent
 derivations, and “passed tests” are **candidate material only**. They do not constrain a design plate and
 must not be cited as canon until individually recovered through an approved plate.
 
+- **`Currencies of Elvandar.md`** — approved national currency names, the imperial *jenel* family, ordinary Erulian denars versus Kalden's special issue, and Elara's official Imperial jenel; deeper unbuilt etymologies and denominations are explicitly bounded
 - **`Ethnolinguistic History.md`** — the culture-first historical foundation: who was in contact with whom,
   when linguistic change could occur, and which questions must be answered before grammar is designed
 - **`Language Families.md`** — the settled Halauri ancestry of Balishan, the human-nativized Surface
@@ -85,7 +87,9 @@ must not be cited as canon until individually recovered through an approved plat
   ancient native suite *Halauren / Halauri*; Halauren Name Transmission Plate 1 keeps
   native and human names separate; Surface Halauric Bridge Plate 1 tests forty-one unrelated cognates and
   generates approved modern *Hauren / Haureni*; Modern Urathan Plate 1 is a working daughter-language
-  proposal whose final test generated the approved **Vela Theraris / the Theraris** service-name stack;
+  proposal whose bounded service-name construction now establishes protected **Ilhamori** from
+  **Ilhamori Kethae**, with the full title and legal vocabulary in `Urathan.md` (the 2026-08-22
+  replacement is superseded);
   Modern Urathan Plate 2 is the working native-name and charter-title proposal for the Tower system;
   Modern Urathan Plate 3 establishes the approved decimal and indefinitely recursive numeral system;
   Modern Balishan Plate 1 is the working national/Kaha'ani daughter-language proposal and its independent

@@ -49,7 +49,7 @@ several cities while remaining the same legal and scholarly body. A structure ca
 belonging to any **Dur**.
 
 Common Tower names are open institutional compounds: material-name before **Dur**. Their two-word shape is
-ordinary and complete, on the same broad terms as **Arol Batae, Kaha Batae,** and **Vela Theraris**.
+ordinary and complete, on the same broad terms as **Arol Batae** and **Kaha Batae**.
 
 ## 3. The traditional material lexicon
 
@@ -266,7 +266,7 @@ front of it.
 | **Ebony Tower** | P3 | Preserved as the translation of illicit **Nosyel Dur**, explicitly not a legal Tower |
 | **Globehall** | P1 | Preserved as the translation of generated **Limzhomor** |
 | English College subtitles | canon dossier only | Replaced at the native level by generated Collegiate charter titles; English descriptions remain useful translations |
-| **Vela Theraris / the Theraris** | approved | Compatible; the same title grammar and distinction between legal and social names remain intact |
+| **Ilhamori** | P0 | Protected shortened service-name; full title and derivation established in `../Urathan.md`. Working lexical **Theraris** in this plate's Tower titles means inquiry and does not name the police. |
 
 ## 10. Approval boundary and iteration controls
 

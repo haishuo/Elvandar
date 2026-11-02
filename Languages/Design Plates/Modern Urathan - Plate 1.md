@@ -1,16 +1,17 @@
 # Modern Urathan — Design Plate 1
 
-**Status:** WORKING — language system not canon; the **Theraris / Vela Theraris** service-name suite is
-approved<br>
+**Status:** WORKING — language system not canon; **Ilhamori** is the protected service-name, restored
+2026-10-31; its bounded title and derivation are established in `../Urathan.md`<br>
 **Created:** 2026-08-22<br>
 **Historical focus:** The national standard in the fourth century after independence, with ordinary
 vernacular, Collegiate, and cited-Halauri registers<br>
 **Generative test:** The full legal title, common formal name, and conversational name of Uratha's state
 intelligence and research-enforcement service
 
-This plate designs Modern Urathan as a daughter of Imperial Balishan. It does not use *Ilhamori*, the
-current map-city names, or the existing Book 3 Urathan personal names to choose its sounds, roots, or
-morphology. Those forms are compared only after the language and institutional naming machinery exist.
+This plate originally designed Modern Urathan as a daughter of Imperial Balishan before testing existing
+service, city, and personal names. Authorial direction on 2026-10-31 now protects *Ilhamori*: future
+iteration must preserve its bounded title and shortening as recorded in `../Urathan.md`. The current
+map-city names and existing Book 3 Urathan personal names retain their separate exposure classifications.
 
 The exact site and local population of Urath IV's founding academy remain open. This plate therefore
 designs the **academy-descended national standard**, whose Imperial-Balishan ancestry is settled, without
@@ -380,72 +381,48 @@ public functions are:
 Its title should therefore sound like procedural guardianship, not violence. The concealment is strongest
 when every word in the official name is technically true.
 
-### Generated and approved name stack
+### Protected name and completed title
 
-> **Vela Theraris, Rava Eshais va Koiathu Vedaris Kethae**<br>
-> *vela thera-ar-is, rava esha-is va koi-ath-u veda-ar-is ketha-e*<br>
-> licensed.access demonstrated.inquiry-DISC-REL civic law-REL and boundary-from-REL govern-DISC-REL classify-BODY<br>
-> **“The Constituted Commission for Licensed Inquiry, Civic Order, and Extraordinary Mandates.”**
+**Full legal:** **Vela Theraris, Rava Eshais va Ilhamori Kethae** — “The Constituted Commission for
+Licensed Inquiry, Civic Order, and Extraordinary Mandates.”
 
-The title is modern Collegiate Urathan, not an authentic ancient Halauri institution-name. It uses old
-material to authorize a body whose exact combination of powers belongs to Urathan history.
+**Short formal:** **Ilhamori Kethae** — Commission for Extraordinary Mandates.<br>
+**Everyday:** **the Ilhamori**, **il-ha-MO-ri**, /il.ha.ˈmo.ri/.
 
-The legal grammatical head is final: **Kethae**, “constituted body of authoritative classification and
-inspection.” That does not make it the institution's social name. Uratha has many commissions; speakers
-identify this one by the distinctive opening domain of its title instead:
+`../Urathan.md` is the authority for the complete analysis and bounded lexical expansion. New Modern
+Collegiate stems **ilham**, an authorized exception to ordinary jurisdiction, and **ori**, an operative
+warrant or mandate, combine regularly as **ilham-ori**. These are newly designed legal vocabulary, not
+previously attested ancient roots. Their pre-Urathan etymologies are not asserted.
 
-| Register | Form | Use |
-|---|---|---|
-| Full legal | **Vela Theraris, Rava Eshais va Koiathu Vedaris Kethae** | Charters, warrants, oaths, and first reference in the most formal documents |
-| Common formal | **Vela Theraris** | The normal complete institutional name |
-| Conversational | **the Theraris** | Ordinary speech and subsequent reference |
+The full title uses the existing modifier–head grammar and three coordinated domains before **Kethae**.
+Shortening retains its distinctive extraordinary-mandates domain, then drops the generic institutional
+head. The mandate-name comes to denote the service. No acronym, one-off sound change, or police suffix
+is required. The *i* belongs to **ori**. Reader-facing ranks remain **Ilhamori Inspector** and
+**Ilhamori officer**.
 
-**Vela Theraris** is not an awkward halfway abbreviation or a concession to a one-word model. It is a
-complete two-word service-name, on the same structural terms as **Arol Batae** and the older **Kaha
-Batae**. **The Theraris** is merely the familiar clipping used when nobody could mistake the institution.
-The name therefore behaves like the surviving, distinctive portion of a much larger legal title.
+### What the earlier test established — and what it did not
 
-Careful Collegiate pronunciation of **Theraris** is **theh-RAH-riss**, /θe.ˈra.ris/. The wider plate has
-not yet established a vernacular contraction, so the spelling and three-syllable pronunciation stand in
-both approved short forms.
+*Ilhamori* is phonotactically possible. Its former “eternal flame” gloss did not follow from the inherited
+**ash** “fire” and **ora** “old; former,” or the working Halauri **hara** “fire; active heat” and **arol**
+“old; long-established.” “Old” also does not by itself supply “eternal.” No derivation from those roots
+was established. The suggested pieces *ilha, hamor,* and *-i* were not a demonstrated analysis.
 
-Reader-facing prose can retain the translated rank **Inspector**:
+That rejected gloss does not invalidate the name. The completed construction in `../Urathan.md` uses
+new legal stems and ordinary compounding without reviving the unsupported fire-and-eternity analysis.
 
-> former **Theraris Inspector** Thalia Neth
-
-The service-name works as organization, modifier, and institutional affiliation without pretending that
-all its members form an ethnic people.
-
-### Rejected short-name candidate — inherited legal register
-
-**Ketat**, /ˈke.tat/, is the ordinary inherited formation *ket + -at*, “statutorily recognized
-commission.” A full vernacular title could use the same dependent phrases and end in **Ketat**. This is
-the cleanest Mossad-like solution—everyone calls a long-named body simply “the Commission”—but it lacks
-the conspicuous archaizing prestige Uratha usually chooses for its highest institutions.
-
-### Rejected short-name candidate — archival euphemism
-
-**Rienae**, /ri.e.ˈna.e/, “constituted preservation body,” could head a title presenting the service as
-the guardian of accumulated knowledge. It is an excellent euphemism and a weaker description of its
-daily public work. It would fit an archival or continuity service better than the bureau that visibly
-conducts inspections and arrests.
-
-### The existing form *Ilhamori*
-
-*Ilhamori* is phonotactically possible but does not arise from this plate. The inherited words for fire
-and old continuity are **ash** and **ora**; the working Halauri roots are **hara** and **arol**. Neither
-route produces the old “eternal flame” gloss. The apparent pieces *ilha, hamor,* and *-i* have no generated
-institutional relationship, and rescuing them would require roots coined only for this one P3 outcome.
-
-The approved **Theraris / Vela Theraris** suite therefore retires ***Ilhamori***. It does not receive a
-derivation merely because it was written first.
+The 2026-08-22 replacement **Vela Theraris / the Theraris** as the service-name is superseded. Its
+licensed-inquiry phrase survives within the revised full legal title, not as the institutional short name.
+The earlier candidates **Kethae, Ketat,** and **Rienae** are not competing service-names.
+The working roots and word-building examples remain available as language material; in particular,
+*theraris* remains a proposed word for the domain of demonstrated inquiry. See the changelog for the
+original generation and approval history.
 
 ## 11. Existing-form compatibility — after generation
 
 | Existing form | Exposure | Plate result |
 |---|---|---|
 | **Uratha / Urathan** | P1 | Fully compatible as inherited Imperial polity name and relational derivative; neither selected the new sound changes |
-| **Ilhamori** | P3 | Legal sound shape, failed generated etymology; retired in favor of **Theraris / Vela Theraris** |
+| **Ilhamori** | P0 | Completed title and shortening in `../Urathan.md`: *ilham-ori* “extraordinary mandate”; **Ilhamori Kethae** shortened to **the Ilhamori** |
 | **bakarn** | P3 | Legal vernacular shape; meaning and history remain to be generated independently |
 | **Leowin Draskin** | P1 | Requires a later name-by-name inheritance test; it did not control this plate |
 | **Elaris Venn** | P1 | Compatible with mixed ordinary and Collegiate naming; etymology unassigned |
@@ -455,10 +432,11 @@ derivation merely because it was written first.
 
 ## 12. Approval boundary
 
-Authorial approval on 2026-08-22 establishes only the service-name stack in §10: the full legal title,
-common formal **Vela Theraris**, conversational **the Theraris**, and careful pronunciation of
-**Theraris**. The remainder of this plate is still working machinery, including its general sound changes,
-grammar, other roots, and proposed social registers.
+The 2026-08-22 service-name approval is superseded by the 2026-10-31 protection of **Ilhamori** and its
+status as a shortened institutional name. The subsequent authorized completion establishes the full
+title, shortening, and bounded legal vocabulary recorded in `../Urathan.md`. The wider plate remains
+working machinery except where a feature has separately been approved in `../Urathan.md` or another
+bounded ruling.
 
 Approval of the wider plate would establish:
 
@@ -469,7 +447,7 @@ Approval of the wider plate would establish:
 - Four formal source routes, including Urathan inferential **mae**.
 - Inherited versus re-Halaurized institutional morphology.
 - The first ordinary and Collegiate naming machinery.
-- The wider linguistic machinery from which the already approved state-service name was generated.
+- Further linguistic machinery beyond the already established service-title construction.
 
 It would not yet establish rural dialects, bakarn varieties, the High Exam's exact language, Tower jargon,
 native script details, city names, the founding academy's local substrate, or the personal etymologies of
@@ -481,8 +459,8 @@ the existing cast.
   formation; decide how audible unstressed reduction should be.
 - **Collegiate distance:** make it closer to ordinary Urathan or even more conspicuously re-Halaurized.
 - **Institutional grammar:** keep cultivated verb-final findings or restrict them to quotations and titles.
-- **Service name:** fixed as common formal **Vela Theraris** and conversational **the Theraris**; do not
-  reopen **Kethae, Ketat, Rienae,** or *Ilhamori* as competing short names while iterating the language.
+- **Service name:** preserve protected **Ilhamori** and its completed title and shortening in
+  `../Urathan.md`. Do not replace the name or restore the unsupported “eternal flame” gloss.
 - **Register politics:** decide whether ordinary speakers admire Collegiate pronunciation, mock it, fear
   it, or shift among all three responses by context.
 

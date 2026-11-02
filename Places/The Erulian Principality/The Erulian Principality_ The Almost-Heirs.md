@@ -54,7 +54,7 @@ The Principality's greatest strength lies in its balanced and abundant natural r
 - **Forestry**: The eastern forests provide high-quality timber, particularly valuable for shipbuilding and luxury furniture  
 - **Manufacturing**: Recent partnerships with Gunastran have accelerated industrial development, though still lagging behind Gunastran's technological sophistication
 
-The Erulian currency, the "Imperial Mark," features Prince Kalden's profile on one side and the old imperial seal on the other—a deliberate statement about the Principality's claims to legitimacy. This currency was introduced just fifteen years ago, replacing the more modest "Erulian Talent" that had been in circulation since the empire's collapse.
+Ordinary Erulian currency is the **denar**. Fifteen years before Book 1, Kalden introduced a separate high-value issue styled the **Imperial jenel**, bearing his profile on one side and the old imperial seal on the other. It asserts imperial succession rather than replacing everyday denar coinage. Its declared value in denars remains unset. See `Languages/Currencies of Elvandar.md` for the authoritative currency ruling and the distinction from Elara's later official Imperial jenel.
 
 ## Social Structure and Bondage System
 

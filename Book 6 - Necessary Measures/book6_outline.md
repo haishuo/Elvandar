@@ -128,6 +128,19 @@ writing him small are all on his sheet — `People/Bittek.md`, which is authorit
 before writing a line of him. This outline carries where he appears and what happens; it deliberately does
 not carry his characterization twice.
 
+**Where the street-by-street knowledge comes from: the Orb Weaver.** *(Added 2026-11-01, the author's idea.)*
+The people who know the Warrens are exactly the people who would avoid an imperial princess on sight, so
+Melina's mapping needs a source she cannot have as herself. **Act I is where the Orb Weaver is born** — an
+underworld information broker run by Melina and her handmaid **Nessa Halcin**, through intermediaries, known
+to nobody else. **It is Nessa's idea**, and Nessa's minor-house upbringing is the doorway. It is a real
+broker and trades with criminals; Melina's only line is information directly dangerous to her family. **What
+it is, who knows, and what it costs each of them is on the sheets** — `People/Melina Valanar.md`, *The Orb
+Weaver*, and `People/Nessa Halcin.md`. This outline carries placement only.
+
+**It does not close the distance Act I depends on.** The Orb Weaver makes Melina better informed, not closer.
+She still never goes below; what reaches her is still paper. The reader is underground and the characters are
+reading reports — the Orb Weaver's reports are simply far better ones.
+
 **What the reader should feel:** Urgency that the characters don't fully share. The reader can see the cost of delay because the reader has been underground. The characters are looking at reports.
 
 ---
@@ -159,6 +172,17 @@ belief, and **that distinction is the engine of Act IV.** See his sheet.
 **Do not have any character say this out loud in Act II**, least of all Ronas, whose sheet forbids him from
 naming protective work as protective work. What the scene shows is a boss disciplining a subordinate. The
 reader assembles the rest.
+
+**By Act II the Orb Weaver is one of the best brokers in Kaha'an**, and it grew out of the same eighteen months
+as everything else. **The book collects its price once, somewhere in this interval** *(author's approval,
+2026-11-01)*: something the Orb Weaver sold turns up below as damage Melina can trace to herself. She does not
+stop. She notes it and goes on. One beat, not a thread.
+
+**Keep it well clear of the child and of the confrontation.** The child dies of the delay, and Act II's single
+emotion is the cost of delay made visceral; if the reader can connect that death to something the Orb Weaver
+sold, the act acquires a second engine and both get weaker. **And Tiberian does not know about the Orb
+Weaver**, so it cannot appear in the midnight scene in any form — not as an accusation, not as a thing she
+nearly says.
 
 **The confrontation:**
 
@@ -233,7 +257,7 @@ What she gets is not a contest.
 
 **And he is offered a way out first.** Tiberian gives him one last chance to stand down, which costs a Caretaker primary nothing to offer and which Ronas refuses on the only ground he has ever stood on: he would rather die as the Slaver King than live as king of nothing. **The offer is load-bearing and not a courtesy** — Ronas is the one man down there who could actually *deliver* a stand-down, so extending it is sound practice as well as character. Anyone later who gets no such offer is being refused a negotiation rather than refused mercy, and the difference must stay visible.
 
-**The refusal is Ronas's last line and it has to be in Ronas's mouth.** His voice is locked (`People/Ronas Dermir.md`, "The voice — LOCKED") and the sheet's stated failure mode is drift toward clean Standard English in exactly this kind of speech — the long, serious, dignified one. **A balanced epigram is the wrong instrument here**, however well it states the sentiment; the register wants dropped auxiliaries, *ain't*, *got*, and the historical present. The Grand Hunt speech is the one licensed rise in register and it is not licence for this.
+**The refusal is Ronas's last line and it has to be in Ronas's mouth.** His voice is locked (`People/Ronas Dermir.md`, "The voice — LOCKED") and the sheet's stated failure mode is drift toward clean Standard English in exactly this kind of speech — the long, serious, dignified one. **A balanced epigram is the wrong instrument here**, however well it states the sentiment; the register wants dropped auxiliaries, *ain't*, *got*, and the historical present. The Great Hunt speech is the one licensed rise in register and it is not licence for this.
 
 And the psychos are loose.
 
@@ -246,6 +270,13 @@ Now Ronas is gone entirely. And every predator, every psychopath, every violent 
 **Book 2 already wrote this diagnosis, in Farleen's mouth and in Xion's head, and Book 6 should use the same mechanism rather than invent one.** B2 ch14: the Surface Warrens had always run on an arithmetic — who you were, who you belonged to, what it would cost a man to touch you — and everybody down there could do the sum from ten paces. Then Farleen comes back and says: *"Nobody's counting… It isn't that it's violent. It's that it's stopped being **for** anything."* And Xion, doing the thing his father made him able to do, looks for the plan across three days of reports. *"There wasn't one."*
 
 **A model is a representation of actors pursuing ends. That is what modelling *is*.** Melina's eighteen months correctly captured every part of the Warrens that had an objective function — Ronas's organisation, the water dependencies, the receiving capacity, the sequencing, and the lieutenants' *incentives*. **Her model did not miss a variable. It reached the edge of what a model can be.** You cannot forecast the behaviour of men who have stopped wanting things, because there is no quantity in them to forecast. The violence takes nothing, opens no negotiation, guards no asset, frightens nobody toward any table. It is not a worse version of the scenario she planned for. It is a different category of event, and no amount of further refinement would have produced it, because refinement makes a model *more precise about actors* and the problem is that the actors stopped being actors.
+
+**The Orb Weaver goes blind at the same moment, and for the same reason.** *(Added 2026-11-01.)* A broker is a
+market, and a market only exists while people want things: information is worth buying because someone means
+to do something with it. When the Warrens stop being *for* anything, there is nothing left to sell and no one
+left who knows anything worth selling. **Her eyes and her model fail in the same place in the same week**, and
+neither failure is visible from the other, because they were always the same instrument. Show it, as a
+silence; do not have anyone explain it.
 
 **State the principle once, in the narration, and never as a proverb in anyone's mouth.** The more carefully a thing is built proof against failure, the more particular the failure that finds it — and a plan's blind spot always sits exactly where its author was most confident. **No modern saying, no fool-and-foolproof line**; it is out of register and it would flatten the thing into a joke.
 
@@ -279,6 +310,11 @@ predicts he consolidates, because that is what a man with his appetites does. **
 holds a tap, hurts people, and lets the system rot underneath him. **A gap in a model is a known unknown a
 careful person hedges against; a detailed and confident wrong answer is what gets people killed** — and it
 sits, exactly as the principle above says, where its author was most confident.
+
+**And the file is the Orb Weaver's work, which is what makes it hurt.** *(Added 2026-11-01.)* It is not a
+princess guessing from a palace. It is good intelligence bought from people who have known Bittek for twenty
+years, assembled by the best mind in the empire, and it is still wrong — because the people selling it were
+modelling him too, and they were modelling an actor.
 
 **The betrayal, and why it is not a scheme.** Ronas's death leaves one lieutenant of real capability —
 **Garrin**, not Ronas's equal, but a competent man attempting to hold some of the cartel together. **Garrin is
