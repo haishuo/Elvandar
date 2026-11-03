@@ -918,12 +918,18 @@ and each part of it was a fair inference from what the court can see.
   felt cheated that he would inherit. Surely, being cool and unreadable and her grandfather's granddaughter,
   she could be brought to trade the rest of her family for a crown.
 
-**They needed her twice over.** First, to do the killing. Since the Green Cities, Kess Ashwood had not left
-Tiberian's side, and the Arol Batae stood around his parents. Force was not going to succeed, and **what they
-needed was someone already inside**, with access to the family's food, rooms and habits, who could make
-possible what force could not. That meant poison, and the family table. Second, **for the blood.** The palace
-stood sealed for twenty years until a Valanar laid her hand on its doors, and no regime they could build would
-get through them without one. **She was to open the palace, and she was not to rule it.**
+**They wanted her twice over, and they needed her once.** First, they wanted her to do the killing. Since the
+Green Cities, Kess Ashwood had not left Tiberian's side, and the Arol Batae stood around his parents. Force was
+the worse road by far, and **what they wanted was someone already inside**, with access to the family's food,
+rooms and habits, who could make easy what force made desperate. That meant poison, and the family table.
+Second, and this they needed, **the blood.** The palace stood sealed for twenty years until a Valanar laid her
+hand on its doors, and no regime they could build would get through them without one. **She was to open the
+palace, and she was not to rule it.**
+
+**Her cooperation was preferred, and it was not required.** They would much rather the princess helped them
+willingly. If, as they thought unlikely, she would not, the family would die by other means, the lesser house's
+means, and she would be taken and married to their man regardless. **They did not need her consent, only her
+person.** A captive bride opens a door as well as a willing one.
 
 ### The face
 
@@ -956,7 +962,7 @@ will stay loyal to the dead. Those are individuals, not a veto.
 **So the killing was the whole of the force required.** The poison would do its work at the family table, and
 the lesser house would deal with whatever the poison could not reach. By morning the circle would present
 itself as a council keeping order in a stricken city, as the Coterie once had. Melina would be proclaimed and
-married. **Decrees would go out in her name, a living Valanar this time rather than a missing one**, and the
+married, willing or not. **Decrees would go out in her name, a living Valanar this time rather than a missing one**, and the
 machinery would carry on. Her blood made the regime legal as well as letting it into the palace.
 
 **Their weight was real but borrowed in part.** A few of the ringleaders were heads of their houses by then,
@@ -1017,7 +1023,8 @@ looked toward a broker or her palace informant.
 
 ### The attempt
 
-**The true believers and the lesser house went ahead anyway**, without the inside woman they had never had.
+**The true believers and the lesser house went ahead anyway**, without the inside woman they had never had, on
+the plan they had held in reserve: kill the three by force and take her.
 Melina had resisted telling anyone until then. That was strategy, not shame: Tiberian charges, and if he had
 known while the waverers were being peeled away, he would have gone straight at the circle and wrecked the
 quiet work. **Once they committed to the attempt that risk was gone.** She told Tiberian first, and then the
@@ -1030,8 +1037,8 @@ of the pieces came through her own market. **Tiberian was angry for her before h
 because the insult was to her. Nobody in the family doubted her for a moment.
 
 **It came to nothing.** They had too little intelligence, their resources were crippled by every defection,
-and the plan had been built around a woman who was never theirs. **They did not get past Kess or the Arol
-Batae. They did not get within fifty feet of any of the three.**
+and the plan they fell back on was the one they had always known was worse. **They did not get past Kess or
+the Arol Batae. They did not get within fifty feet of any of the three, and they never laid a hand on her.**
 
 ### The reckoning
 
@@ -1086,8 +1093,8 @@ only by its executions. The morning is calm because Melina made it calm, and nob
 **What it is not.** It is not Melina's coming-of-age; Book 7 holds that. It is not a second Book 8 puzzle; told
 as account and not as scene, it gives the reader the fact and leaves Book 8 the experience. **And it is not
 the Taking of the Tiger Prince again.** That was force and it reached him. This is the answer to the guard
-the Taking created, an attempt to get past Kess by recruiting the one person already inside. It did not
-reach any of them.
+the Taking created, an attempt to get past Kess by recruiting the one person already inside, with seizing her as
+the fallback. It did not reach any of them.
 
 **What it does to Kalden's claim.** His sheet and the Book 7 outline say the claim dies with him on the Golden
 Path, and as a claim it does: nobody after him believes in it. **What survives is the costume.** The circle

@@ -2989,7 +2989,10 @@ on the Coterie precedent the machinery serves whoever holds it. So killers are a
 and the circle governs in the name of a living Valanar. The ringleaders are a mix: a few heads of houses supply
 the resources, and the heirs are betting their parents fall in line. Their belief that the Arol Batae would
 stand down for a Valanar on the throne is stated and never tested. **Kalden's son is the banner, not an
-embarrassment**: the son of their side's fallen champion, chosen for the one thing he never chose. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
+embarrassment**: the son of their side's fallen champion, chosen for the one thing he never chose.
+**And her cooperation is preferred, not required** *(author's ruling, the same day)*. If she will not help,
+the family dies by the lesser house's means and she is taken as a captive bride. They need her person, not her
+consent, and the failed attempt was that fallback. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 

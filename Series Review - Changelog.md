@@ -12387,3 +12387,13 @@ Author's correction and approval. Changes to the `Offstage.md` entry:
 Master list: §6 ruling extended.
 
 No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — *The Children of the Great Hunt*: the captive-bride fallback
+
+Author's ruling. The circle prefers Melina's willing help and does not require it. If she refuses, the family
+dies by the lesser house's means and she is taken and married by force: they need her person, not her
+consent. In `Offstage.md`, "they needed her twice over" becomes *wanted twice, needed once*, and the failed
+attempt is now that fallback. They never lay a hand on her. `People/Melina Valanar.md` and the §6 ruling are
+amended to match.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.

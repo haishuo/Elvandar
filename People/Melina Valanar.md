@@ -277,9 +277,10 @@ moment. Detail in `book6_outline.md`.
 ### Between Book 7 and Book 8: its first real test
 
 **The heirs of the hunting houses plan to remove the dynasty, all but her, and they plan to do it through
-her.** They believe she resents the brother who will inherit. They need her as the poisoner at the family
+her.** They believe she resents the brother who will inherit. They want her as the poisoner at the family
 table, and they need her blood to open the palace for the face they mean to marry her to, an unacknowledged
-son of Kalden's. She pieces it together from soirée questions and the Orb Weaver's own buyers. With Nessa she
+son of Kalden's. **Her cooperation is preferred and not required**: if she refuses, the family dies by force
+and she is taken as a captive bride. She pieces it together from soirée questions and the Orb Weaver's own buyers. With Nessa she
 peels the waverers away by selling them the truth. Once the rest go ahead anyway, she tells her family
 everything except where some of the pieces came from. *They sounded me out, and I put the rest together* is
 true, and it keeps the Orb Weaver hidden from them.
