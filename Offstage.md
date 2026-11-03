@@ -900,9 +900,10 @@ in that position talk. Then someone said something dangerous as a joke, and nobo
 obliquely, whether he was serious, and the silence was an answer. **The next gathering was a great deal more
 tense than the last.**
 
-**What they wanted was not a death. It was a regime change.** Killing one Valanar would leave the others
-ruling, and the order that had made their houses small would go on exactly as before. **So the plan was to
-remove the dynasty, all but one of it.** Their reasoning was not stupid. It was wrong in every particular,
+**What they wanted was not a death. It was the Coterie back, with themselves in its chairs.** For twenty years
+the city had been ruled in the Valanar name by people who were not Valanars, and their houses had been great
+under it. Killing one Valanar would leave the others ruling, and the order that had made their houses small
+would go on exactly as before. **So the plan was to remove the dynasty, all but one of it.** Their reasoning was not stupid. It was wrong in every particular,
 and each part of it was a fair inference from what the court can see.
 
 - **Elara was out of the question.** She had made the policies and would never unmake them. On matters like
@@ -964,6 +965,14 @@ the lesser house would deal with whatever the poison could not reach. By morning
 itself as a council keeping order in a stricken city, as the Coterie once had. Melina would be proclaimed and
 married, willing or not. **Decrees would go out in her name, a living Valanar this time rather than a missing one**, and the
 machinery would carry on. Her blood made the regime legal as well as letting it into the palace.
+
+**The only thing the old Coterie never had to deal with was the palace**, and that is the whole difference
+between their plan and the original. The Coterie could rule in the name of a dynasty that was missing; they had
+to rule in the name of one that was sitting in the throne room. **So the throne would hold puppets**: Melina to
+open the doors, sit the throne and say nothing, and Kalden's son beside her to listen and sign. Both were to
+behave as though they were not there, rubber-stamping whatever the council put in front of them, while the
+council governed the city as the Coterie had. **It was a restoration, and what it restored was the
+interregnum.**
 
 **Their weight was real but borrowed in part.** A few of the ringleaders were heads of their houses by then,
 and they gave the plot its resources. Most were heirs, who gave it its conviction, and who were betting that

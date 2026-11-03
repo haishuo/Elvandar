@@ -2992,7 +2992,11 @@ stand down for a Valanar on the throne is stated and never tested. **Kalden's so
 embarrassment**: the son of their side's fallen champion, chosen for the one thing he never chose.
 **And her cooperation is preferred, not required** *(author's ruling, the same day)*. If she will not help,
 the family dies by the lesser house's means and she is taken as a captive bride. They need her person, not her
-consent, and the failed attempt was that fallback. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
+consent, and the failed attempt was that fallback.
+**The goal is the Coterie restored, with themselves in its chairs** *(author's framing, the same day)*. It is
+the Coterie's interregnum with puppets on the throne: Melina to open the palace and say nothing, and Kalden's
+son to sign. The council governs as the Coterie did. The palace and its wards are the only difference from the
+original. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 

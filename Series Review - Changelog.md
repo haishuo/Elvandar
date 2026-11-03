@@ -12397,3 +12397,12 @@ attempt is now that fallback. They never lay a hand on her. `People/Melina Valan
 amended to match.
 
 No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — *The Children of the Great Hunt*: the goal is the Coterie restored
+
+Author's framing. In `Offstage.md`, the circle's aim is now stated as the Coterie back with themselves in its
+chairs. The morning-after section gains the puppet throne: Melina and Kalden's son rubber-stamp, the council
+governs, and the palace's wards are the only difference from the original. "What it restored was the
+interregnum." §6 ruling amended to match.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.
