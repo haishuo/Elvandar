@@ -2981,8 +2981,9 @@ twenty-year case as a mask. The finding, the peeling and the telling stand, now 
 ending inverts.** Melina spends the Orb Weaver to convict, and the ringleaders she names are **publicly
 executed for high treason**. It is justice, and it also buries the only men who guessed her; she knew that when
 she wrote the list, and the text charges her for it in one sentence. One of them calls her the Orb Weaver in
-the cells, and she tells him he will take it to the grave. **The waverers are never named, and Kalden's son is
-spared.** Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
+the cells, and she tells him he will take it to the grave. **Kalden's son is spared, publicly.** *(Cut on review
+the same day: an earlier draft left the waverers unnamed and had nobody remark the son's pardon. Neither
+survives a public treason trial.)* Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 

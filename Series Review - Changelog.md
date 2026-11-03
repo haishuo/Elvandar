@@ -12362,3 +12362,13 @@ Pointers revised:
 Master list: §6 ruling extended.
 
 No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — *The Children of the Great Hunt*: two lines cut
+
+Author's review. Both lines were cut because a public treason trial makes them incoherent:
+- the waverers left unnamed, with Melina still seeing them at soirées;
+- "nobody marks the mercy" on Kalden's son.
+
+The son is still spared, now explicitly in the open. Master list §6 ruling amended to match.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.

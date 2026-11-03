@@ -1023,11 +1023,10 @@ learns it.**
 morning. Enjoy your final meal, good sir.* It is the only thing anyone remembers her saying about the whole
 affair.
 
-**The lesser house was broken. The waverers were never named.** They had left before the attempt, and she let
-them stay left. **She knows every one of them, and she goes on seeing them at soirées.**
+**The lesser house was broken.**
 
-**Kalden's son was spared.** He had never wanted any of it, and the crown did not hang a man for what was
-intended for him. **Nobody marks the mercy, then or after.**
+**Kalden's son was spared, and it was done in the open.** He had never wanted any of it, and the crown would
+not hang a man for what had been intended for him.
 
 **Nessa's cover was never burned.** The secret went to the gallows with the only men who had guessed it, and
 her standing to the trade as the Orb Weaver's palace informant survived intact. **It was nearer a thing than
