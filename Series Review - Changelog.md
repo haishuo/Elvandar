@@ -12372,3 +12372,18 @@ Author's review. Both lines were cut because a public treason trial makes them i
 The son is still spared, now explicitly in the open. Master list §6 ruling amended to match.
 
 No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — *The Children of the Great Hunt*: the coup made explicit
+
+Author's correction and approval. Changes to the `Offstage.md` entry:
+- New section, *The morning after, as they planned it*.
+  - On the Coterie precedent, Kaha'an's machinery serves whoever holds it, so the killing is the whole force
+    required. The circle governs in Melina's name.
+  - The ringleaders are a mix of heads of houses and heirs. The heirs' bet that their parents fall in line
+    is never tested.
+  - The circle's reading of the Arol Batae is stated and never tested.
+- *The face* gains why the name is Kalden's: their fallen champion, and the cause continued.
+
+Master list: §6 ruling extended.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.

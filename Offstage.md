@@ -931,11 +931,42 @@ get through them without one. **She was to open the palace, and she was not to r
 wanting nothing.** He had no faction, no ambition and no house behind him, which was the point. Kalden's
 legitimate kin came with the creditor houses that now owned the rump attached. A bastard came with nothing
 but the name, and **the name came with twenty years of legal work** that had been probably winning until Elara
-appeared. They did not believe in the claim. **They wore it.** He was to marry the princess, her blood would
+appeared. They did not believe in the claim. **They wore it.**
+
+**And the name was the point, not an embarrassment.** To the city, Kalden was the man who poisoned its empress
+and besieged its walls. **To this circle he was their side's champion**, the last man who tried to bring the
+old order back, allied with Rosik at the end, and they had watched him die on the Golden Path. His son was the
+cause continued: the old guard's banner on a quiet man who had never asked to carry it. **He was chosen for
+the one thing about himself he never chose.** That Kaha'an hated the name did not trouble them, because
+popular feeling is not what decides who governs Kaha'an. He was to marry the princess, her blood would
 answer the wards, his father's case would answer the lawyers, and the circle would answer for both of them.
 
 **He did not want it.** He was told what was intended for him rather than asked, in the way the Nika crowd
 took Hypatius. That is why he survives.
+
+### The morning after, as they planned it
+
+**None of this happened.** It is what they expected, and it is the reason the plan needed killers and not an
+army. **Kaha'an has no institution that is loyal to the dynasty for its own sake.** After the Rending the
+Coterie took the city without converting anyone: three cartels held what mattered, every decree went out in
+the Valanar name, and Vessel Street, the customs houses and the tax rolls went on working under them for
+twenty years. **The machinery serves whoever is holding it.** Some will object, some will resign, and some
+will stay loyal to the dead. Those are individuals, not a veto.
+
+**So the killing was the whole of the force required.** The poison would do its work at the family table, and
+the lesser house would deal with whatever the poison could not reach. By morning the circle would present
+itself as a council keeping order in a stricken city, as the Coterie once had. Melina would be proclaimed and
+married. **Decrees would go out in her name, a living Valanar this time rather than a missing one**, and the
+machinery would carry on. Her blood made the regime legal as well as letting it into the palace.
+
+**Their weight was real but borrowed in part.** A few of the ringleaders were heads of their houses by then,
+and they gave the plot its resources. Most were heirs, who gave it its conviction, and who were betting that
+parents who had let the Hunt go without a fight would fall in line once the thing was done. **That bet was
+never tested.**
+
+**Neither was the Arol Batae.** The circle reckoned that the desert people who raised Elara guard the throne
+and the blood, and that a Valanar on the throne would keep them in their barracks. It was a fair inference
+from what the court can see. **Whether it was true nobody ever learned**, because the plot never got that far.
 
 **Every part of it was wrong.** Tiberian is the elder by a few hours, he is the heir, and she has never minded.
 Her drive to win is fifth in her stack and her drive to accumulate is last. He is the person she keeps almost

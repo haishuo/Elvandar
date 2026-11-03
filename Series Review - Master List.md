@@ -2983,7 +2983,13 @@ executed for high treason**. It is justice, and it also buries the only men who 
 she wrote the list, and the text charges her for it in one sentence. One of them calls her the Orb Weaver in
 the cells, and she tells him he will take it to the grave. **Kalden's son is spared, publicly.** *(Cut on review
 the same day: an earlier draft left the waverers unnamed and had nobody remark the son's pardon. Neither
-survives a public treason trial.)* Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
+survives a public treason trial.)* **Then the coup made explicit**, in a new section *The morning after, as they
+planned it*. On the author's correction, no Kaha'an institution has an independent loyalty to the dynasty, and
+on the Coterie precedent the machinery serves whoever holds it. So killers are all the force the plan needs,
+and the circle governs in the name of a living Valanar. The ringleaders are a mix: a few heads of houses supply
+the resources, and the heirs are betting their parents fall in line. Their belief that the Arol Batae would
+stand down for a Valanar on the throne is stated and never tested. **Kalden's son is the banner, not an
+embarrassment**: the son of their side's fallen champion, chosen for the one thing he never chose. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 
