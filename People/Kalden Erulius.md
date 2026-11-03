@@ -262,7 +262,7 @@ Meanwhile, Rosik — who never needed the army to succeed — attempts his assas
 
 He dies unceremoniously at the end of an Arol Batae spear.
 
-The Almost-Heir becomes the Never-Was. His claims to imperial legitimacy die with him on the Golden Path, a hundred miles short of Kaha'an's walls. The Erulian Principality — or what remained of it — is now simply a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes next.
+The Almost-Heir becomes the Never-Was. His claims to imperial legitimacy die with him on the Golden Path, a hundred miles short of Kaha'an's walls. *(As claims. Before Book 8 a conspiracy wears his name as a mask on a son he never acknowledged, without believing in it; see `Offstage.md`, *The Children of the Great Hunt*.)* The Erulian Principality — or what remained of it — is now simply a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes next.
 
 **And the someone else is the twelve houses that told him not to.** *(Settled 2026-08-05; full note in `Book 7 - Last Debts/book7_outline.md`, "Who held the paper." One line of fact, not a thread — Erulius does not appear in Book 8.)* The creditors were domestic and they were never lending on the assumption he would win. **Nobody advances against a sanctioned rump state mortgaging its mines to attack the strongest power on the continent unless the price assumes failure** — which is not lending, it is buying the mines cheaply and waiting. **He thought he was raising an army; they thought they were buying a country at a discount, and they were right, and it took about six weeks.**
 

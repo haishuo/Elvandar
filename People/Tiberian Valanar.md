@@ -171,11 +171,13 @@ The trilogy concludes with the old order destroyed completely. Kalden's claims t
 
 ### Between Book 7 and Book 8
 
-**A noble conspiracy tries to kill him, and it never gets within fifty feet.** Its whole plan was to recruit
-his sister as the poisoner. Melina takes it apart and tells him once it is going ahead anyway, **all of it, including that she was meant
-to be the poisoner.** He is angry for her before he is concerned for himself, and **he never doubts her for a
-moment**; do not write him doing so. He tells Kess. **It is not the first attempt on his life, nor the last**; a target on him is an ordinary fact of who he
-is. Account in `Offstage.md`, *The Children of the Great Hunt*.
+**A noble conspiracy tries to kill him and both his parents, and it never gets within fifty feet.** Its
+whole plan was to recruit his sister as the poisoner and then as the bride of its puppet. Melina takes it
+apart, and once it is going ahead anyway she tells him first, **all of it, including that she was meant to be
+the poisoner and the bride.** He is angry for her before he is concerned for himself, and **he never doubts her
+for a moment**; do not write him doing so. Kess and the Arol Batae know within the hour, and the ringleaders
+are executed. **It is not the first attempt on his life, nor the last**; a target on him is an ordinary fact
+of who he is. Account in `Offstage.md`, *The Children of the Great Hunt*.
 
 ---
 

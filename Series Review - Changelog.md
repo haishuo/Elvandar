@@ -12341,3 +12341,24 @@ Continuity fixes:
 Master list: §6 Union ruling extended.
 
 No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-02 — *The Children of the Great Hunt* rewritten: the Hypatius version
+
+Author's design, after Hypatius and the Nika riots. `Offstage.md` entry rewritten:
+- The conspiracy targets the dynasty: Elara, Xion and Tiberian.
+- Melina is recruited as the poisoner and as the blood to open the palace, married to an unacknowledged son of
+  Kalden's who never wanted it.
+- New sections: *The face* and *The reckoning*.
+- Melina spends the Orb Weaver to convict. The ringleaders she names are publicly executed, and the text
+  prices the convenience to her.
+- The cell exchange is recorded.
+- The waverers are unnamed, Kalden's son is spared, and Nessa's cover survives.
+
+Pointers revised:
+- `People/Melina Valanar.md`, `People/Tiberian Valanar.md`, `People/Nessa Halcin.md`.
+- `book8_outline.md`: the court now knows of the conspiracy only by its executions.
+- `People/Kalden Erulius.md` and `book7_outline.md`: the claims die "as claims" and survive as a mask.
+
+Master list: §6 ruling extended.
+
+No prose, beat drafts, skeletons, or Royal Road output changed.

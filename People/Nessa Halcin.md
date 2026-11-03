@@ -102,9 +102,10 @@ an admitted informant is a security matter and the end of her post. To the palac
 handmaid. **Never write a scene where she plays the underworld story to a palace audience**; it would be the
 mistake of someone much less good at this than she is.
 
-**It is tested once and it holds.** Between Book 7 and Book 8 she works the waverers of a conspiracy against
-Tiberian, as the broker's face, and the informant cover comes through unburned. See `Offstage.md`, *The
-Children of the Great Hunt*.
+**It is tested once and it holds, barely.** Between Book 7 and Book 8 she works the waverers of a conspiracy
+against the Imperial House, as the broker's face. Melina then spends the Orb Weaver to convict the ringleaders,
+and the men who guess the truth go to the gallows with it. **The informant cover comes through unburned.** It
+is the nearest the game has come to costing her the thing she would mind losing. See `Offstage.md`, *The Children of the Great Hunt*.
 
 ### What it costs her
 

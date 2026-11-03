@@ -276,14 +276,20 @@ moment. Detail in `book6_outline.md`.
 
 ### Between Book 7 and Book 8: its first real test
 
-**The heirs of the hunting houses plan to kill Tiberian, and they plan to do it through her.** They believe
-she resents the brother who will inherit, and that she is the inside woman who can get past Kess. She pieces
-the plot together from soirée questions and the Orb Weaver's own buyers. With Nessa she peels the waverers
-away by selling them the truth. She tells Tiberian only once the rest go ahead anyway, and then she tells him everything except where some of
-the pieces came from. *They sounded me out, and I put the rest together* is true, and it keeps the Orb Weaver
-hidden. The true believers are never charged. She knows every name. **The narrow line meets
-a real threat to her family for the first time, and the instrument holds; nothing is burned.** Account in
-`Offstage.md`, *The Children of the Great Hunt*.
+**The heirs of the hunting houses plan to remove the dynasty, all but her, and they plan to do it through
+her.** They believe she resents the brother who will inherit. They need her as the poisoner at the family
+table, and they need her blood to open the palace for the face they mean to marry her to, an unacknowledged
+son of Kalden's. She pieces it together from soirée questions and the Orb Weaver's own buyers. With Nessa she
+peels the waverers away by selling them the truth. Once the rest go ahead anyway, she tells her family
+everything except where some of the pieces came from. *They sounded me out, and I put the rest together* is
+true, and it keeps the Orb Weaver hidden from them.
+
+**Then she spends it.** To convict, she points the crown's investigators at what only her books could show,
+and she names the ringleaders, who are executed for high treason. It was justice. **It also buried the only
+men who could work out who she is, and she knew that when she wrote the list.** That knowledge is the price;
+she does not pretend otherwise to herself, and nobody else learns it. One of them works it out in the cells,
+and she tells him he will take it to the grave. **The family-first line meets a real threat for the first
+time, and the instrument is spent and survives; nothing is burned.** Account in `Offstage.md`, *The Children of the Great Hunt*.
 
 ### What it does in Book 8
 

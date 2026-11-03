@@ -2973,6 +2973,19 @@ the cost of one omitted source. He never doubts her. **The plotters:** the lesse
 investigation stops at the conspirators' own go-betweens, so the true believers are never charged. She knows
 every name.
 
+**Revised the same day — the Hypatius version.** *(Author's design, 2026-11-02, after the Nika riots.)* **The
+target is the dynasty, not the heir**: Elara, Xion and Tiberian are to die. **Melina is recruited twice**: as
+the poisoner at the family table, and as the blood that opens the sealed palace. She is to marry **an
+unacknowledged son of Kalden's**, a face with no faction who never wanted it, and they wear his father's
+twenty-year case as a mask. The finding, the peeling and the telling stand, now told to the whole family. **The
+ending inverts.** Melina spends the Orb Weaver to convict, and the ringleaders she names are **publicly
+executed for high treason**. It is justice, and it also buries the only men who guessed her; she knew that when
+she wrote the list, and the text charges her for it in one sentence. One of them calls her the Orb Weaver in
+the cells, and she tells him he will take it to the grave. **The waverers are never named, and Kalden's son is
+spared.** Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
+morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
+survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
+
 ### The Erulian Union — author's design, 2026-11-02
 
 **New file, `Places/The Erulian Principality/The Erulian Union.md`.** The Union had nine references and no

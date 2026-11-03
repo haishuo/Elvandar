@@ -46,7 +46,7 @@ The process has a horrifying resonance with Hauren technology — similar princi
 
 ### The State Visit
 
-The book opens on an ordinary morning. No ominous feelings. No lingering goodbyes. Tiberian is in the middle of something when his mother kisses him on the cheek. Melina says something mildly sarcastic; Xion laughs. The door closes. That's it. No one goes to bed the night before thinking: *this is the last normal day.* (The family has just come through a conspiracy most of the court never knew existed, and Melina is the reason it came through. The morning is calm because she made it calm. Nobody says so, and nobody should. See `Offstage.md`, *The Children of the Great Hunt*.)
+The book opens on an ordinary morning. No ominous feelings. No lingering goodbyes. Tiberian is in the middle of something when his mother kisses him on the cheek. Melina says something mildly sarcastic; Xion laughs. The door closes. That's it. No one goes to bed the night before thinking: *this is the last normal day.* (The family has just come through a conspiracy the court knows only by its executions, and Melina is the reason it came through. The morning is calm because she made it calm. Nobody says so, and nobody should. See `Offstage.md`, *The Children of the Great Hunt*.)
 
 Xion and Elara arrive in Uratha. It is a triumph. The alliance that survived the Compact War. The Crown that was returned and blazed to life. The reforms Elara championed in Alliance territory now reflected in Uratha's own abolished bakarn system. Everything suggests progress. Partnership. Vindication.
 

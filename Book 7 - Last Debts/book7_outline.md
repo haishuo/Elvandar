@@ -564,7 +564,7 @@ The Competitor's final contest ends not with defeat but with irrelevance. He did
 
 **Emotional arc: The past is finally past**
 
-The aftermath. Kalden's claims to imperial legitimacy die with him on the Golden Path a hundred miles east of the city he never reached. The mercenaries scatter. The Erulian Principality — or what remains of it — is a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes.
+The aftermath. Kalden's claims to imperial legitimacy die with him on the Golden Path a hundred miles east of the city he never reached. *(As claims; the name is later worn as a mask by men who do not believe in it — `Offstage.md`, *The Children of the Great Hunt*.)* The mercenaries scatter. The Erulian Principality — or what remains of it — is a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes.
 
 **Who held the paper — settled 2026-08-05, and it is one line of fact rather than a thread.** The question is worth answering because a reader who thinks about it will ask, and worth answering *briefly* because **nothing downstream rests on it**: Erulius does not appear in Book 8. **The creditors are domestic** — the twelve original noble houses and the Erulian banking houses of the Amber District, the same twelve who counselled austerity after the Compact War and were overruled. No new party, nobody named, and no foreign power required.
 
