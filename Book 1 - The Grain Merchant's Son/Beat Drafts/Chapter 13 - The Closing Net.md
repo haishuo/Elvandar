@@ -69,9 +69,9 @@
 
 27. The reveal, and it must be wonder rather than squalor. An entire city beneath Kaha'an. Buildings clustered like mushrooms on a forest floor, built into and around massive pillars holding up a ceiling lost in the dark. Streets climbing the chamber walls on switchbacks or descending to deeper levels. Hanging lamps and cooking fires making islands of light, revealing markets, workshops, taverns, homes. Elara breathes one word. Farleen names it: the city beneath the city, sixty thousand people living in the bones of the old world. This is not the slum Xion imagined. It is a civilisation forced underground that refused to disappear.
 
-28. He asks how they find Tam in this. Farleen's answer is specific and awful: if the Slavers took him he was probably sold to the salvage crews working the collapsed sections, because they use children for the tight spaces.
+28. He asks where they go. He means where they start; she hears where they hide, and answers that way — somewhere nobody's looking, in upper tiers that turn over too fast for anyone to ask. **Tam is not named aloud on the ledge.** Xion assumes the purpose is understood and does not notice that it is not, which is the gap ch14 opens.
 
-29. Elara tells Farleen she has fulfilled her obligation and can go. Farleen refuses — they do not know the Warrens, and Xion has been down here twice as Master Fen, and below here the surface rules do not apply. Elara objects again, hard, and Xion overrules her: they do not know this place, and if the boy is deep in Slaver territory they need someone who does. Three fugitives, bound by necessity and divided by everything else, and the chapter ends without any of that being fixed.
+29. Elara tells Farleen she has fulfilled her obligation and can go. Farleen refuses — they do not know the Warrens, and Xion has been down here twice as Master Fen, and below here the surface rules do not apply. Elara objects again, hard, and Xion overrules her: they do not know this place, and they need someone who does. Three fugitives, bound by necessity and divided by everything else, and the chapter ends without any of that being fixed.
 
 ---
 

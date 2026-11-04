@@ -12406,3 +12406,18 @@ governs, and the palace's wards are the only difference from the original. "What
 interregnum." §6 ruling amended to match.
 
 No prose, beat drafts, skeletons, or Royal Road output changed.
+
+## 2026-11-04 — B1 ch13: the ledge no longer tells Farleen about Tam
+
+Continuity fix, author-approved. Ch13 had Xion ask Farleen *"How do we find Tam in this?"* and refer to Tam
+"two hundred meters down", with Farleen answering about scavenger crews and "going deeper". Ch14 has her learn
+of Tam for the first time. Ch13 conformed to ch14:
+
+- *"How do we find Tam in this?"* → *"Where do we go?"*; Farleen's scavenger answer → *"Somewhere nobody's
+  looking. The upper tiers turn over fast—people come down, people vanish, nobody asks."*
+- *"And you know how to get there?"* → *"And you know where that is?"*
+- *"If we're going deeper, we'll need to be careful"* → *"Wherever we go, we'll need to be careful."*
+- Xion's *"And if Tam is two hundred meters down in Slaver territory..."* and the trailing sentence cut.
+
+Beat draft ch13 beats 28–29 conformed. Master list: C-29 added to resolved craft items. Royal Road Book 1
+regenerated.

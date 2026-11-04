@@ -286,13 +286,13 @@ The sound was overwhelming—thousands of voices echoing off stone, children cry
 
 Xion stared at the impossible vista. This wasn't the slum he'd imagined. This was an entire civilization, forced underground but refusing to simply disappear.
 
-"How do we find Tam in this?" he asked.
+"Where do we go?" he asked.
 
-Farleen was quiet for a moment. "If the Slavers took him, they probably sold him to the scavengers—the salvage crews that work the collapsed sections. Dangerous work. They use children for the tight spaces. The scavengers operate throughout the Midlevels, maybe deeper."
+Farleen was quiet for a moment. "Somewhere nobody's looking. The upper tiers turn over fast—people come down, people vanish, nobody asks."
 
-"And you know how to get there?"
+"And you know where that is?"
 
-"I know enough." She looked at him, and something complicated moved behind her eyes. "But you need to understand—down here, the surface rules don't apply. The Warrens have their own powers. Their own laws. If we're going deeper, we'll need to be careful."
+"I know enough." She looked at him, and something complicated moved behind her eyes. "But you need to understand—down here, the surface rules don't apply. The Warrens have their own powers. Their own laws. Wherever we go, we'll need to be careful."
 
 "We?" Elara's voice was sharp. "You fulfilled your obligation. You got us inside. You can leave now."
 
@@ -308,7 +308,7 @@ Farleen met her gaze levelly. "I could. But you don't know the Warrens, and he�
 
 She turned to him, eyes flashing amber. "You can't be serious. She tried to kill you!"
 
-"I know." He looked at Farleen, at the desperate determination on her face. "But she's right about one thing. We don't know this place. And if Tam is two hundred meters down in Slaver territory..." He trailed off, the impossibility of it settling on his shoulders.
+"I know." He looked at Farleen, at the desperate determination on her face. "But she's right about one thing. We don't know this place."
 
 "So we bring along the woman who betrayed you? The spy who was reporting your every move to your enemies?"
 
