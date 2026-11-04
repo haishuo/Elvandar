@@ -263,6 +263,12 @@ lands once** — a paragraph of weight, then one flat line. Ch9's *Now the think
 **Handle a class of problem in one pass, not piecemeal.** If a habit appears in nine places,
 fix all nine together so the books get one consistent through-line.
 
+**One trunk. Work directly on `main` — author's ruling, 2026-11-04.** Never create a branch or a
+worktree; commit to `main` and push. This is a manuscript, not a codebase, and branches here only
+strand work: by 2026-11-04 three had accumulated, one carrying nine commits main did not have. If a
+session finds itself on any other branch, fast-forward `main` to it, switch to `main`, and delete the
+branch.
+
 **Record what you do.** The editorial record is two files, and they have different jobs:
 
 - `Series Review - Master List.md` — the **working document**. Organized by rule tier, and carrying
