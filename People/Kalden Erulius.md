@@ -254,7 +254,7 @@ Kalden turns purple. Then green. Then falls down dead.
 
 In the olden days they would have called it apoplectic rage. **It was a massive stroke** — the culmination of years of drinking, weight gain, uncontrolled fury, and the catastrophic spike of blood pressure that comes when reality delivers its final, unanswerable contradiction to the story a man has told himself his entire life. The finish line he ran toward for decades turned out to have no one standing at it. Not even the right opponent.
 
-The mercenaries look at each other. Their client is dead. There is no one to pay them. They disband. The army that was supposed to restore the Erulian Principality to imperial glory dissolves the way mercenary armies always dissolve when the money stops — quickly, quietly, and without sentiment.
+The mercenaries look at each other. Their client is dead. There is no one to pay them. They take the rings, the purse, the sword and the boots, and leave the collar on him, because it is cloth and nobody wants it. They disband. The army that was supposed to restore the Erulian Principality to imperial glory dissolves the way mercenary armies always dissolve when the money stops — quickly, quietly, and without sentiment.
 
 Kalden Erulius dies not in battle, not by assassination, not even by his own hand. He dies of the thing that killed him slowly across the entire series: the inability to accept reality. His body simply ran out of capacity to sustain the delusion.
 
@@ -447,7 +447,8 @@ a defeat he cannot hold in his head at all.
 collision between forty years of self-narrative and a calm unimpressed young man finishes him where he
 stands — a massive stroke, every accumulated ruin of his body coming due at once. His mercenaries were loyal to
 coin and not to crown; they disperse the moment their client hits the ground, and strip his body of
-valuables on the way out. **It is a farcical death and it must stay farcical.** He was owed a battle by
+valuables on the way out — rings, purse, sword, boots. They leave the imperial collar, because it is cloth and
+gold thread and not worth the carrying. **It is a farcical death and it must stay farcical.** He was owed a battle by
 his own story and does not get one line of it.
 
 **And it is the last time he ruins a sound plan by being Kalden — which is what he has done every previous

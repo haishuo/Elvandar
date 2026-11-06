@@ -400,7 +400,7 @@ In ch22 Xion says, at the top of his voice, that healers are not judges, that th
 
 **The mechanism, which Kalden never heard, and the geography that made it sound.** Erulius is east of Kaha'an across the Balishan Desert, and **the Golden Path is the only road** — leaving it is death, so Kalden's army cannot flank, feint or choose an approach. **Rosik never had to predict where Tiberian would go**; there was nowhere else for either of them to be. Two armies closing on one road meet about a hundred miles east of the city, and the engagement keeps Tiberian, Kess and the Arol Batae contingent committed there for what should be the better part of a day. **His estimate is empirical, not abstract:** Kalden and Tiberian have fought one campaign to its conclusion already and it occupied Tiberian for most of a day, and Rosik discounts for terrain but not for the opponent, because it is the same opponent. **The only observed result of *Kalden versus Tiberian* is measured in hours.** His sample size is one, and the variable that mattered was not in it — the Kalden of Silaris was years younger and considerably less ruined. That window puts Kaha'an on a war footing — **and a city on a war footing looks outward.** That was the window. Rosik burned what little of his network still existed in the capital to establish where Xion would be, went in on the old Long Knife tradecraft he had before he was ever a grain lord, and meant to take him inside the chaos.
 
-**What defeated it was contingency, not error.** Kalden's accumulated medical ruin all came due at once and he died of a massive stroke **without swinging a sword**, and his mercenaries — loyal to coin and not to crown — dispersed the moment their client hit the ground, stripping his body of valuables on the way out. Nobody could have forecast that, least of all a man reasoning from Silaris. **The farce of Kalden's death is not evidence that Rosik was wrong.** A later pass reading that sequence will be tempted to treat the whole scheme as a botch; it was not. It was correct, and it was beaten by a heart.
+**What defeated it was contingency, not error.** Kalden's accumulated medical ruin all came due at once and he died of a massive stroke **without swinging a sword**, and his mercenaries — loyal to coin and not to crown — dispersed the moment their client hit the ground, stripping his body of valuables on the way out and leaving the imperial collar on him, because it was cloth (author's ruling 2026-11-06; thread in §2, *The collar*). Nobody could have forecast that, least of all a man reasoning from Silaris. **The farce of Kalden's death is not evidence that Rosik was wrong.** A later pass reading that sequence will be tempted to treat the whole scheme as a botch; it was not. It was correct, and it was beaten by a heart.
 
 **And he goes in blind, which is the whole tragedy of it.** He is inside Kaha'an with no network left — he burned all of it buying the model. **He has no way on earth to know Kalden is dead** — he knows only that the plan is in motion, so he continues. What he can read is the building: guard posture tightening, the corridor he expected to be thin no longer thin. His craft tells him conditions have worsened. **It does not and cannot tell him why**, and for all he knows this is a lull inside a campaign still running. He reads a bad hour. It is the end. He goes, because the network is spent and there is no second attempt to hold anything back for, and a spear finds a man who a day earlier would have walked past it unseen.
 
@@ -549,6 +549,20 @@ is not a neutral default for a new expert role; it is a thumb already on the sca
 or four invented roles of comparable weight and see which way they lean. If the notable slots have been
 running one way, cast the other. **Ruled 2026-08-02: the ch3 battle-mage and the ch4 factor are male**; the
 guide and Thulgrav stay as written.
+
+**The collar.** B2 ch8: Aurelan the Third's collar, copied thread for thread from a portrait, settled a final
+quarter-inch in the mirror before Kalden receives the news that ends his claim — and the chapter closes on
+*"He did not remove the collar."* The ch8 beat-draft footer says it outright: he will wear it until he dies;
+it just won't mean what he needs it to mean. → B5, the parley at Silaris: *the collar goes on for the
+occasion*, and he loses to a sixteen-year-old in it. → **B7, the Golden Path:** he dies in it two minutes into
+the battle, and the mercenaries who strip his corpse of rings, purse, sword and boots **leave the collar**,
+because it is cloth and gold thread and not worth the carrying. **The plant is the valuation.** Kalden priced
+the collar politically; the men who loot him price it economically; once nobody believes the politics it is
+cloth. **Nobody on the page may say so** — no mercenary laughs, Tiberian does not remark on it, the narration
+lists what was taken and that the collar stayed, and stops. The reader has been watching him settle it since
+Book 2 and does the rest. *Author's ruling, 2026-11-06. Detail in `Book 7 - Last Debts/book7_outline.md`,
+"The Death of Kalden Erulius"; B2 ch8 is do-not-touch and its gold thread stands — it is why the collar has
+to be cut off and unpicked to be worth anything, which is why nobody does.*
 
 ---
 

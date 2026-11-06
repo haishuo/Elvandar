@@ -12421,3 +12421,21 @@ of Tam for the first time. Ch13 conformed to ch14:
 
 Beat draft ch13 beats 28–29 conformed. Master list: C-29 added to resolved craft items. Royal Road Book 1
 regenerated.
+
+## 2026-11-06 — B7: the mercenaries leave the collar
+
+Author's ruling. The Book 7 outline had Kalden's mercenaries loot *"the imperial collar, the rings, the purse,
+the sword."* They now take the rings, the purse, the ruby-hilted sword and the boots, and **leave the collar**,
+because it is cloth and gold thread and not worth the carrying: the one thing he valued above everything he
+owned is the one thing nobody thinks worth taking. The scene is not to explain this — no mercenary laughs, no
+remark from Tiberian, no narration; the physical facts and the collar still on him.
+
+- `Book 7 - Last Debts/book7_outline.md`: "The Death of Kalden Erulius" looting beat rewritten; the Structural
+  Notes coda ("stripped of his costumes") rewritten, since the costume is now the one thing not stripped.
+- `People/Kalden Erulius.md`: both death passages (Book 7 section; "And he dies without swinging a sword")
+  name what is taken and that the collar stays.
+- Master list: §2 gains the thread *The collar* (B2 ch8 → B5 parley → B7); the Rosik's-plan paragraph notes
+  the collar left.
+
+B2 ch8's *"He did not remove the collar"* and its beat-draft footer (*he'll wear the collar until he dies*) were
+already the plant; nothing in Book 2 changed. No prose, beat drafts, skeletons, or Royal Road output changed.
