@@ -278,7 +278,7 @@ should not sound like they belong to the same weight class.
 rather than discovered later. **Ruled 2026-11-02: *Nessa* stays.** If either collision is ever resolved, it is
 Nessa Lind who moves, not the handmaid; until then the Provost is minor enough to share the name.
 
-- ***Nessa Lind*, the Urathan Medicine Provost** (`Places/Uratha/Uratha_ The Land of Scholars.md`). Same
+- ***Nessa Lind*, the Urathan Medicine Provost** (`Places/Uratha/The Government of Uratha.md`). Same
   given name. One mention, in one place dossier, never spoken, not previously in this register — so the
   smaller footprint is hers. But she heads the Pearl Tower, and the Provosts are Book 8's antagonists, so
   she may yet matter. **She is the one that moves, if either does** — author's ruling, 2026-11-02, which leaves

@@ -12439,3 +12439,7 @@ remark from Tiberian, no narration; the physical facts and the collar still on h
 
 B2 ch8's *"He did not remove the collar"* and its beat-draft footer (*he'll wear the collar until he dies*) were
 already the plant; nothing in Book 2 changed. No prose, beat drafts, skeletons, or Royal Road output changed.
+
+### 2026-11-07 - Uratha government document
+
+Moved the government and Ilhamori sections verbatim into [The Government of Uratha](Places/Uratha/The%20Government%20of%20Uratha.md). The national profile links to both from their former locations. Updated the officeholder references for Nessa Lind in the cast register and Iyanna Mereth in the Book 3 *Hubris* beat draft.

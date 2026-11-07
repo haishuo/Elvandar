@@ -1261,6 +1261,10 @@ line is **live chess imagery applied to a person**, not chess etymology.
 
 ## 6. Settled rulings
 
+**Successor governments (2026-11-07).** Each national profile will link to a separate government document.
+Uratha's Council of Provosts, Scholar-King, and Ilhamori are documented in
+[The Government of Uratha](Places/Uratha/The%20Government%20of%20Uratha.md).
+
 Decided. Retained so they are not reopened or re-flagged.
 
 ### Kalden never meets Elara or Xion, and how Xion read him anyway — author's ruling, 2026-09-26

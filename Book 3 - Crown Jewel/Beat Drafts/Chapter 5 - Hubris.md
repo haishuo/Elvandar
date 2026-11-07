@@ -93,7 +93,7 @@ The agreement is reached: anything material or economic behind the door belongs 
 
 ## What the prose settled, recorded 2026-08-02 (chapter drafted, 4,453 words)
 
-**The Sapphire scholar is Iyanna Mereth, the History Provost.** The draft called for an unnamed scholar; using the canon officeholder (`Places/Uratha/Uratha_ The Land of Scholars.md`) costs nothing, invents nobody, and quietly raises the weight — the Hauren tradition is being catalogued by the head of the tower that keeps Uratha's historical record, which will matter enormously in retrospect and reads at the time as exactly what it is: a woman who loves her subject getting to talk about it at dinner. **She is given the best twenty minutes at the table and no significance whatever.**
+**The Sapphire scholar is Iyanna Mereth, the History Provost.** The draft called for an unnamed scholar; using the canon officeholder (`Places/Uratha/The Government of Uratha.md`) costs nothing, invents nobody, and quietly raises the weight — the Hauren tradition is being catalogued by the head of the tower that keeps Uratha's historical record, which will matter enormously in retrospect and reads at the time as exactly what it is: a woman who loves her subject getting to talk about it at dinner. **She is given the best twenty minutes at the table and no significance whatever.**
 
 **The escort carries the chapter's first unease, four days before anything else does.** Uratha sends nine scholars and no soldiers, and Xion gets two readings off it and cannot tell which he has been handed — *we do not need to send swords to you*, or *we do not think of you as the sort of thing swords are for.* One line, dropped, never returned to.
 
