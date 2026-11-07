@@ -1271,6 +1271,8 @@ The national profile introduces the High Exam. The government document is the re
 Uratha's customs for accepting office and seeking reelection, the Council's vote of no confidence,
 and the High Provost's interim succession are settled in the [Scholar-King entry](Places/Uratha/The%20Government%20of%20Uratha.md#the-scholar-king).
 
+The Scholar-King can issue temporary military-service orders on the authority of the office. Permanent classification reform requires the Council's assent. [Diplomatic and wartime authority](Places/Uratha/The%20Government%20of%20Uratha.md#diplomatic-and-wartime-authority)
+
 The [Council's casting-vote rule](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) governs the Book 3 Crown offer. [The offstage vote](Offstage.md#the-vote-on-the-scholars-crown) sets Draskin's mandate and the risk to his office if he gives up exclusivity. Xion never witnesses the division.
 
 Decided. Retained so they are not reopened or re-flagged.

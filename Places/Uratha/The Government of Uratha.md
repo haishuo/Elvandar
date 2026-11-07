@@ -34,6 +34,12 @@ Elected from among the Council of Provosts, the Scholar-King represents the high
 
 Leowin is regarded as a competent administrator but uninspiring leader, lacking the visionary qualities of earlier Scholar-Kings. His election represented a compromise between factions on the Council, and his rule has been characterized by maintenance of the status quo rather than innovation.
 
+#### Diplomatic and wartime authority
+
+The Scholar-King represents Uratha abroad and can settle terms within the mandate the Council has granted. In the Hauren negotiations the Provosts had already authorized the exchange of the Crown for exclusive access. Draskin could agree to exclude a chamber from the compact at the table.
+
+During a military emergency the Scholar-King may issue temporary orders governing military service on the authority of the office. Commanders can act on receipt of the order, without waiting for a Council vote. In the Compact War this power allowed Draskin to admit *bakarn* to integrated units for the duration of the emergency. The High Exam continued to determine civilian status. A permanent change to classification requires the Council's assent. [The wartime decree and its aftermath](#military-service-during-the-compact-war)
+
 #### Election and the return to scholarship
 
 The Scholar-King serves a ten-year term. By custom, a colleague puts a Provost's name forward. The Council expects a candidate to accept with some reluctance. A decade in the Ivory Tower costs a scholar time with students and can leave an inquiry unfinished for someone else to pursue. Many Provosts feel that sacrifice keenly. An ambitious Provost takes care to let colleagues speak first, too.

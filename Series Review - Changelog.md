@@ -12459,3 +12459,7 @@ Recorded the Scholar-King's casting vote in the Uratha government document and t
 ### 2026-11-07 - The High Exam and bakarn status
 
 Moved the detailed account of the High Exam, bakarn life, and the political tensions around classification into the government document. Added the established school tracks, examination arrangements, enforcement, and temporary military-service exception. The national profile now introduces the system and links to the full account.
+
+### 2026-11-07 - The Scholar-King's wartime authority
+
+Recorded Draskin's power to issue the Compact War military-service decree without prior Council assent and the Council's authority over permanent classification reform. The government document places the wartime ruling alongside his diplomatic mandate for Hauren.
