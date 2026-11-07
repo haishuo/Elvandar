@@ -12447,3 +12447,7 @@ Moved the government and Ilhamori sections verbatim into [The Government of Urat
 ### 2026-11-07 - Election and removal of Uratha's Scholar-King
 
 Recorded the expectation of reluctant service, the customary return to scholarship after ten years, and the distinction between seeking a second term and accepting the Council's invitation. Defined the five-of-seven confidence threshold and the High Provost's immediate interim succession, eligibility, and emergency election session seven days after removal.
+
+### 2026-11-07 - The Council's vote on the Scholar's Crown
+
+Recorded the Council's offstage authorization of the Crown offer and Draskin's authority to negotiate access in Kaha'an in the Uratha government document.

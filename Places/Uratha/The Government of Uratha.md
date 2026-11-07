@@ -19,6 +19,8 @@ The ruling body of Uratha consists of the heads of each Tower — the great acad
 
 The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. Ordinary decisions require consensus, making the process frustratingly slow but thorough.
 
+**The Scholar's Crown.** The Council's consent is required to give up custody of the Crown. In Book 3, after the dispatches from Hauren reached the Ivory Tower and before Draskin left for Kaha'an, the Provosts voted to offer its permanent return to Balisha in exchange for expanded and exclusive Urathan scholarly access to Hauren. Draskin had authority to settle the terms of access, including the exclusion of the sealed chamber. The vote took place in Uratha. Xion first hears the offer at the negotiating table in [Chapter 12](../../Book%203%20-%20Crown%20Jewel/Chapters/Chapter%2012%20-%20The%20Scholar's%20Crown.md).
+
 ### The Scholar-King
 
 Elected from among the Council of Provosts, the Scholar-King represents the highest authority in Uratha:

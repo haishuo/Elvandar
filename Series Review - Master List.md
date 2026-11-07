@@ -1268,6 +1268,8 @@ Uratha's Council of Provosts, Scholar-King, and Ilhamori are documented in
 Uratha's customs for accepting office and seeking reelection, the Council's vote of no confidence,
 and the High Provost's interim succession are settled in the [Scholar-King entry](Places/Uratha/The%20Government%20of%20Uratha.md#the-scholar-king).
 
+The Council's authorization for Draskin's Book 3 Crown offer is recorded under [the Council of Provosts](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts). The vote takes place offstage.
+
 Decided. Retained so they are not reopened or re-flagged.
 
 ### Kalden never meets Elara or Xion, and how Xion read him anyway — author's ruling, 2026-09-26
