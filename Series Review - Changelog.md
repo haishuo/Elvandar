@@ -12443,3 +12443,7 @@ already the plant; nothing in Book 2 changed. No prose, beat drafts, skeletons, 
 ### 2026-11-07 - Uratha government document
 
 Moved the government and Ilhamori sections verbatim into [The Government of Uratha](Places/Uratha/The%20Government%20of%20Uratha.md). The national profile links to both from their former locations. Updated the officeholder references for Nessa Lind in the cast register and Iyanna Mereth in the Book 3 *Hubris* beat draft.
+
+### 2026-11-07 - Election and removal of Uratha's Scholar-King
+
+Recorded the expectation of reluctant service, the customary return to scholarship after ten years, and the distinction between seeking a second term and accepting the Council's invitation. Defined the five-of-seven confidence threshold and the High Provost's immediate interim succession, eligibility, and emergency election session seven days after removal.

@@ -1265,6 +1265,9 @@ line is **live chess imagery applied to a person**, not chess etymology.
 Uratha's Council of Provosts, Scholar-King, and Ilhamori are documented in
 [The Government of Uratha](Places/Uratha/The%20Government%20of%20Uratha.md).
 
+Uratha's customs for accepting office and seeking reelection, the Council's vote of no confidence,
+and the High Provost's interim succession are settled in the [Scholar-King entry](Places/Uratha/The%20Government%20of%20Uratha.md#the-scholar-king).
+
 Decided. Retained so they are not reopened or re-flagged.
 
 ### Kalden never meets Elara or Xion, and how Xion read him anyway — author's ruling, 2026-09-26

@@ -17,20 +17,32 @@ The ruling body of Uratha consists of the heads of each Tower — the great acad
 - **The Foreign Affairs Provost** — Galvin Tarus, head of the Onyx Tower, handling diplomatic relations — and rather more besides
 - **The Scholar-King** — Presides over all from the Ivory Tower, the administrative heart of Uratha
 
-The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. Decisions require consensus, making the process frustratingly slow but thorough.
+The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. Ordinary decisions require consensus, making the process frustratingly slow but thorough.
 
 ### The Scholar-King
 
 Elected from among the Council of Provosts, the Scholar-King represents the highest authority in Uratha:
 
 - The current Scholar-King, Leowin Draskin, was elected five years ago from the Department of Cosmological Studies
-- Unlike traditional monarchs, the Scholar-King serves a ten-year term
-- Re-election is permitted but has become increasingly rare in recent centuries
 - The Scholar-King traditionally wears the Scholar's Crown at official functions
 - With the Crown's silence, elaborate ceremonies now involve the Crown being briefly displayed but not worn
 - The Scholar-King maintains the fiction that they consult privately with the Crown on matters of importance
 
 Leowin is regarded as a competent administrator but uninspiring leader, lacking the visionary qualities of earlier Scholar-Kings. His election represented a compromise between factions on the Council, and his rule has been characterized by maintenance of the status quo rather than innovation.
+
+#### Election and the return to scholarship
+
+The Scholar-King serves a ten-year term. By custom, a colleague puts a Provost's name forward. The Council expects a candidate to accept with some reluctance. A decade in the Ivory Tower costs a scholar time with students and can leave an inquiry unfinished for someone else to pursue. Many Provosts feel that sacrifice keenly. An ambitious Provost takes care to let colleagues speak first, too.
+
+At the end of the term, the customary course is to step down and resume scholarly work. The Council may ask the incumbent to serve again, and accepting a second term under those circumstances is honorable. Asking for one is considered vulgar. Reelection remains lawful and has grown rare in recent centuries.
+
+#### Loss of confidence
+
+The Council may remove a sitting Scholar-King through a vote of no confidence. Each of the seven Provosts has one vote, including the High Provost. The Scholar-King has none on the motion. Removal requires two-thirds of the full seven seats, or five affirmative votes. An absence or abstention leaves that threshold at five.
+
+Removal takes effect when the motion carries. The sitting High Provost immediately becomes interim Scholar-King, and the vote itself calls the Council into emergency session seven days later to elect a successor. The High Provost serves until the Council elects the next Scholar-King and is eligible for election on the same terms as the other Provosts.
+
+A Scholar-King who learns privately that five colleagues will vote for removal has good reason to step down before the session. A public announcement of a return to scholarship gives the incumbent a dignified departure and can spare the Provosts a formal breach with a colleague.
 
 ---
 
