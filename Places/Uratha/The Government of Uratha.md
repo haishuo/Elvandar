@@ -17,6 +17,8 @@ The ruling body of Uratha consists of the heads of each Tower — the great acad
 - **The Foreign Affairs Provost** — Galvin Tarus, head of the Onyx Tower, handling diplomatic relations — and rather more besides
 - **The Scholar-King** — Presides over all from the Ivory Tower, the administrative heart of Uratha
 
+Each of the seven Towers elects its own Provost. Every Full, Senior, Master, and Grand Scholar on that Tower's faculty has one vote. The faculty's choice takes the Tower's seat on the Council. [Scholarly ranks](Uratha_%20The%20Land%20of%20Scholars.md#the-scholarly-hierarchy)
+
 The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. Ordinary decisions require consensus, making the process frustratingly slow but thorough.
 
 On formal motions in which the Scholar-King participates, each of the seven Tower Provosts casts one vote and the Scholar-King casts an eighth. In a tie, the Scholar-King's vote counts twice and the side the Scholar-King supported prevails. A motion of [no confidence](#loss-of-confidence) is decided by the seven Provosts alone.
@@ -42,9 +44,15 @@ During a military emergency the Scholar-King may issue temporary orders governin
 
 #### Election and the return to scholarship
 
-The Scholar-King serves a ten-year term. By custom, a colleague puts a Provost's name forward. The Council expects a candidate to accept with some reluctance. A decade in the Ivory Tower costs a scholar time with students and can leave an inquiry unfinished for someone else to pursue. Many Provosts feel that sacrifice keenly. An ambitious Provost takes care to let colleagues speak first, too.
+The seven sitting Tower Provosts elect both the Scholar-King and the High Provost in a single ballot. All seven stand. Each ranks the other six from first to sixth. Only the seven Tower seats carry a vote in this election.
 
-At the end of the term, the customary course is to step down and resume scholarly work. The Council may ask the incumbent to serve again, and accepting a second term under those circumstances is honorable. Asking for one is considered vulgar. Reelection remains lawful and has grown rare in recent centuries.
+The count begins with first preferences. The candidate with the fewest votes drops out, and each ballot counted for that candidate passes to its highest-ranked remaining candidate. For a tie at the bottom, the tellers work backward through earlier rounds. At each count they retain only the candidates tied for the fewest votes among those still being compared. A sole lowest candidate drops out. If the tie persists through the first count, a public drawing of lots decides which of those candidates drops out.
+
+Counting continues until two candidates remain, even if one has already won a majority. The finalist with more votes becomes Scholar-King and moves to Ivory. The faculty of the departing Provost's Tower elects a successor to its seat. The runner-up becomes High Provost and keeps their Tower seat.
+
+The Scholar-King serves a ten-year term. The Council expects the scholar it chooses to accept with some reluctance. A decade in the Ivory Tower costs a scholar time with students and can leave an inquiry unfinished for someone else to pursue. Many Provosts feel that sacrifice keenly.
+
+At the end of the term, the customary course is to step down and resume scholarly work. Before a succession election, the Council may separately invite the incumbent to serve a second term. Acceptance renews the term and is honorable. Asking for the invitation is considered vulgar. Second terms have grown rare in recent centuries.
 
 #### Loss of confidence
 

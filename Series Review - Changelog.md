@@ -12463,3 +12463,7 @@ Moved the detailed account of the High Exam, bakarn life, and the political tens
 ### 2026-11-07 - The Scholar-King's wartime authority
 
 Recorded Draskin's power to issue the Compact War military-service decree without prior Council assent and the Council's authority over permanent classification reform. The government document places the wartime ruling alongside his diplomatic mandate for Hauren.
+
+### 2026-11-07 - Uratha's Tower and succession elections
+
+Recorded the Full Scholar voting threshold for each Tower and the seven Provosts' ranked election for both national offices. The government document gives the transfer and tie rules, the finalists' Tower seats, and the separate invitation for a second term.
