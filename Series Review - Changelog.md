@@ -12451,3 +12451,7 @@ Recorded the expectation of reluctant service, the customary return to scholarsh
 ### 2026-11-07 - The Council's vote on the Scholar's Crown
 
 Recorded the Council's offstage authorization of the Crown offer and Draskin's authority to negotiate access in Kaha'an in the Uratha government document.
+
+### 2026-11-07 - The division on the Crown offer
+
+Recorded the Scholar-King's casting vote in the Uratha government document and the four-to-four division, the Towers' reasons, and Draskin's need to secure exclusivity in *Offstage*. The master list links both rulings.

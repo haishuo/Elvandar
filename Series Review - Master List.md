@@ -1268,7 +1268,7 @@ Uratha's Council of Provosts, Scholar-King, and Ilhamori are documented in
 Uratha's customs for accepting office and seeking reelection, the Council's vote of no confidence,
 and the High Provost's interim succession are settled in the [Scholar-King entry](Places/Uratha/The%20Government%20of%20Uratha.md#the-scholar-king).
 
-The Council's authorization for Draskin's Book 3 Crown offer is recorded under [the Council of Provosts](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts). The vote takes place offstage.
+The [Council's casting-vote rule](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) governs the Book 3 Crown offer. [The offstage vote](Offstage.md#the-vote-on-the-scholars-crown) sets Draskin's mandate and the risk to his office if he gives up exclusivity. Xion never witnesses the division.
 
 Decided. Retained so they are not reopened or re-flagged.
 
