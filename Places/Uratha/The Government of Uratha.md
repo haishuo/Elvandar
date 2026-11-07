@@ -50,6 +50,76 @@ A Scholar-King who learns privately that five colleagues will vote for removal h
 
 ---
 
+## The High Exam and *Bakarn* Status
+
+The cornerstone of Urathan society is the High Exam, a comprehensive test that every citizen must take at age sixteen, with profound consequences for the entirety of their life thereafter.
+
+- Those who pass join the scholarly class and can pursue academic advancement
+- Those who fail become *bakarn*, or "beast-kin" in the Urathan tongue
+- The *bakarn* are considered intellectually inferior and relegated to manual labor and service positions
+- The exam is notoriously difficult, with a pass rate of approximately 30%
+- Preparation begins in early childhood, with families investing significant resources in tutoring
+
+### Preparation and examination
+
+Early aptitude testing already divides children into school tracks. Children from scholarly households have better-equipped classrooms and can receive private tutoring. Children in the practical track spend those years learning skills that carry little weight in the examination hall. Examiners can also mark an intelligible answer down for imprecision when a child uses a form unfamiliar in Collegiate Urathan. [Primary schools and examination grounds](The%20Physical%20Geography%20of%20Uratha.md#educational-facilities) · [Language and the High Exam](../../Languages/Urathan.md#bakarn-varieties)
+
+The major cities hold the exam annually, with lodging for candidates from outlying settlements. At the same guarded complex, successful candidates find recruiters for the academic departments. Candidates who fail go to a separate processing area for assignment to labor training.
+
+### The Meritocracy Argument
+
+Uratha's official position is that the High Exam is fair. Every citizen sits the same test. Performance reflects capacity. The system rewards merit and only merit. Those who fail had the same opportunity as those who passed; their failure reflects their limitations, not the system's.
+
+This argument is made in complete sincerity by the people who benefit from it, which is part of what makes it so effective and so insidious.
+
+The exam does not test raw intellect. It tests *prepared* intellect — which is to say, it tests how much investment a child's parents were able to make in their education. A scholar's child grows up surrounded by books, educated conversation, and people who model intellectual life as the natural state of existence. A bakarn's child grows up with none of this. The exam then measures both children by the same standard and declares the outcome a reflection of their innate capacity.
+
+Children of scholars pass at dramatically higher rates than children of bakarn. The official explanation is that intelligence is heritable and scholars are intelligent, so of course their children perform better — that's the meritocracy functioning correctly. The circularity of this reasoning is invisible to those inside it because the circularity *is* the ideology. You cannot falsify it from within the framework.
+
+This is precisely the kind of statistical analysis that the Emerald Tower has occasionally attempted to publish. The papers do not clear peer review. Reviewers — who are, by definition, scholars, meaning they passed the exam — consistently identify methodological concerns. The sample sizes. The controls. The framing. There is always something. A junior scholar who attempts this research three times learns, without being told explicitly, what the field rewards and what it does not. They redirect their work. They tell themselves they will return to it when they have more seniority. They rarely return to it.
+
+*We're scholars here, not politicians* — which is the biggest lie in Uratha, delivered with complete conviction by people who have never examined whether their scholarship might itself be a political act.
+
+### The Token
+
+There is always the token.
+
+The token is a bakarn-born scholar — genuinely exceptional, genuinely brilliant, elevated through the system by the identification and investment of a sympathetic faculty member at the right moment. The token is real. Their achievement is real. And they are required, implicitly and permanently, to serve as proof that the system works.
+
+Every time an uncomfortable question is raised about bakarn pipeline disparities, their name comes up. They are no longer a person. They are an argument. Some of them internalize this entirely — it is easier to believe you were simply exceptional enough to clear a fair system than to conclude that everything you suffered was in service of a lie. Others know exactly what they are and live with that knowledge quietly, because the door is behind them now and they didn't build it.
+
+The token almost always ends up elevated to a high-prestige tower. Amethyst. Sapphire. Ivory. Somewhere visible, where their presence can say *see, the heights are open to all.* Not Emerald, where their presence would simply raise further questions about everyone they left behind.
+
+The Emerald Tower has the fewest tokens. This is not an accident.
+
+### The *Bakarn* Experience
+
+For those who fail the High Exam, life follows a dramatically different path:
+
+- Immediate reassignment to labor training programs
+- Required to wear identifying markers denoting their status: undyed or coarse grey fabric, with no tower color and no cuff markings — the visual antithesis of the scholar's robe. Every tower color is vivid and named; bakarn wear the color of nothing
+- Housed in separate quarters, often in the outskirts of academic centers
+- Limited access to certain areas of cities, particularly academic buildings
+- Strict curfews and movement restrictions
+- Minimal educational opportunities beyond practical skills training
+
+Despite these restrictions, the *bakarn* have developed vibrant subcultures in each major Urathan city. Their folk traditions, practical crafts, and oral histories represent a parallel knowledge system entirely unrecognized by the academic establishment. Some have developed significant practical expertise that scholars depend upon but rarely acknowledge. The Emerald Tower depends on bakarn agricultural labor more directly than any other institution, which is one reason its scholars are better positioned than most to notice when familiar faces disappear without adequate explanation.
+
+In the service quarters, labor assignment centers organize work details and distribution points issue rations. The Council's [Ilhamori](#the-ilhamori-enforcers-of-academic-protocol) pursue escaped *bakarn*. Residents also maintain their own workshops, teaching spaces, and networks for sharing supplies. [The bakarn quarters](The%20Physical%20Geography%20of%20Uratha.md#the-bakarn-quarters)
+
+### The *Bakarn* Question
+- The growing bakarn population shows signs of discontent
+- Underground networks have developed for sharing information and resources
+- Some bakarn communities have developed practical innovations that scholars unknowingly depend upon
+- A few radical scholars have begun questioning the ethical foundations of the system — concentrated, unsurprisingly, in the Emerald Tower
+- The system is structurally dependent on the people it has systematically degraded, which is a vulnerability no one in power wants to examine
+
+### Military service during the Compact War
+
+After the bombardment of the Ivory Tower, the Scholar-King suspended *bakarn* classification for military service and authorized integrated units. Some who fought beside scholars received commendations. The military exception lapsed after the war. The High Exam continued, and the committees considering reform left the division between scholar and *bakarn* substantially intact. [Book 4 outline](../../Book%204%20-%20Harkim's%20War/book4_outline.md)
+
+---
+
 ## The Ilhamori: Enforcers of Academic Protocol
 
 To maintain Uratha's system of regulated free inquiry, the nation employs **the Ilhamori**, formally **Vela Theraris, Rava Eshais va Ilhamori Kethae** — “The Constituted Commission for Licensed Inquiry, Civic Order, and Extraordinary Mandates.” The short formal title is **Ilhamori Kethae**, “Commission for Extraordinary Mandates”; ordinary speech drops the generic commission-word and calls the service **the Ilhamori**. The name is pronounced **il-ha-MO-ri**; `Languages/Urathan.md` holds its linguistic analysis. This elite force serves as magical police and investigative bureau combined:

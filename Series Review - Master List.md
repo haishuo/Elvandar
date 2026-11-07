@@ -1265,6 +1265,9 @@ line is **live chess imagery applied to a person**, not chess etymology.
 Uratha's Council of Provosts, Scholar-King, and Ilhamori are documented in
 [The Government of Uratha](Places/Uratha/The%20Government%20of%20Uratha.md).
 
+The national profile introduces the High Exam. The government document is the reference for
+[the exam and *bakarn* status](Places/Uratha/The%20Government%20of%20Uratha.md#the-high-exam-and-bakarn-status), including the military-service exception during the Compact War.
+
 Uratha's customs for accepting office and seeking reelection, the Council's vote of no confidence,
 and the High Provost's interim succession are settled in the [Scholar-King entry](Places/Uratha/The%20Government%20of%20Uratha.md#the-scholar-king).
 

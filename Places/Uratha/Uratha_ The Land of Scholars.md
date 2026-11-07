@@ -203,52 +203,7 @@ The Emerald Tower has stopped expecting a rise in prestige. It has been necessar
 
 ## The High Exam and Social Stratification
 
-The cornerstone of Urathan society is the High Exam, a comprehensive test that every citizen must take at age sixteen, with profound consequences for the entirety of their life thereafter.
-
-- Those who pass join the scholarly class and can pursue academic advancement
-- Those who fail become *bakarn*, or "beast-kin" in the Urathan tongue
-- The *bakarn* are considered intellectually inferior and relegated to manual labor and service positions
-- The exam is notoriously difficult, with a pass rate of approximately 30%
-- Preparation begins in early childhood, with families investing significant resources in tutoring
-
-### The Meritocracy Argument
-
-Uratha's official position is that the High Exam is fair. Every citizen sits the same test. Performance reflects capacity. The system rewards merit and only merit. Those who fail had the same opportunity as those who passed; their failure reflects their limitations, not the system's.
-
-This argument is made in complete sincerity by the people who benefit from it, which is part of what makes it so effective and so insidious.
-
-The exam does not test raw intellect. It tests *prepared* intellect — which is to say, it tests how much investment a child's parents were able to make in their education. A scholar's child grows up surrounded by books, educated conversation, and people who model intellectual life as the natural state of existence. A bakarn's child grows up with none of this. The exam then measures both children by the same standard and declares the outcome a reflection of their innate capacity.
-
-Children of scholars pass at dramatically higher rates than children of bakarn. The official explanation is that intelligence is heritable and scholars are intelligent, so of course their children perform better — that's the meritocracy functioning correctly. The circularity of this reasoning is invisible to those inside it because the circularity *is* the ideology. You cannot falsify it from within the framework.
-
-This is precisely the kind of statistical analysis that the Emerald Tower has occasionally attempted to publish. The papers do not clear peer review. Reviewers — who are, by definition, scholars, meaning they passed the exam — consistently identify methodological concerns. The sample sizes. The controls. The framing. There is always something. A junior scholar who attempts this research three times learns, without being told explicitly, what the field rewards and what it does not. They redirect their work. They tell themselves they will return to it when they have more seniority. They rarely return to it.
-
-*We're scholars here, not politicians* — which is the biggest lie in Uratha, delivered with complete conviction by people who have never examined whether their scholarship might itself be a political act.
-
-### The Token
-
-There is always the token.
-
-The token is a bakarn-born scholar — genuinely exceptional, genuinely brilliant, elevated through the system by the identification and investment of a sympathetic faculty member at the right moment. The token is real. Their achievement is real. And they are required, implicitly and permanently, to serve as proof that the system works.
-
-Every time an uncomfortable question is raised about bakarn pipeline disparities, their name comes up. They are no longer a person. They are an argument. Some of them internalize this entirely — it is easier to believe you were simply exceptional enough to clear a fair system than to conclude that everything you suffered was in service of a lie. Others know exactly what they are and live with that knowledge quietly, because the door is behind them now and they didn't build it.
-
-The token almost always ends up elevated to a high-prestige tower. Amethyst. Sapphire. Ivory. Somewhere visible, where their presence can say *see, the heights are open to all.* Not Emerald, where their presence would simply raise further questions about everyone they left behind.
-
-The Emerald Tower has the fewest tokens. This is not an accident.
-
-### The *Bakarn* Experience
-
-For those who fail the High Exam, life follows a dramatically different path:
-
-- Immediate reassignment to labor training programs
-- Required to wear identifying markers denoting their status: undyed or coarse grey fabric, with no tower color and no cuff markings — the visual antithesis of the scholar's robe. Every tower color is vivid and named; bakarn wear the color of nothing
-- Housed in separate quarters, often in the outskirts of academic centers
-- Limited access to certain areas of cities, particularly academic buildings
-- Strict curfews and movement restrictions
-- Minimal educational opportunities beyond practical skills training
-
-Despite these restrictions, the *bakarn* have developed vibrant subcultures in each major Urathan city. Their folk traditions, practical crafts, and oral histories represent a parallel knowledge system entirely unrecognized by the academic establishment. Some have developed significant practical expertise that scholars depend upon but rarely acknowledge. The Emerald Tower depends on bakarn agricultural labor more directly than any other institution, which is one reason its scholars are better positioned than most to notice when familiar faces disappear without adequate explanation.
+Every Urathan takes the High Exam at sixteen. About three in ten pass and enter the scholarly class. The rest are classified as *bakarn* and assigned to manual labor or service. Families know what turns on the result long before a child enters the examination hall. A scholar's child grows up with the books, tutoring, and academic speech the exam rewards. [The High Exam and *bakarn* status](The%20Government%20of%20Uratha.md#the-high-exam-and-bakarn-status)
 
 ---
 
@@ -424,13 +379,6 @@ While not as industrially focused as Gunastran, Uratha has developed significant
 - Theoretical frameworks have calcified into dogma
 - Young scholars find it difficult to challenge established authorities without endangering their careers
 - Some argue the High Exam eliminates potential innovators by filtering for conformity over creativity
-
-### The *Bakarn* Question
-- The growing bakarn population shows signs of discontent
-- Underground networks have developed for sharing information and resources
-- Some bakarn communities have developed practical innovations that scholars unknowingly depend upon
-- A few radical scholars have begun questioning the ethical foundations of the system — concentrated, unsurprisingly, in the Emerald Tower
-- The system is structurally dependent on the people it has systematically degraded, which is a vulnerability no one in power wants to examine
 
 ### Resource Allocation
 - Resources typically devoted to practical concerns are increasingly directed toward theoretical pursuits

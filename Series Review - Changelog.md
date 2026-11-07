@@ -12455,3 +12455,7 @@ Recorded the Council's offstage authorization of the Crown offer and Draskin's a
 ### 2026-11-07 - The division on the Crown offer
 
 Recorded the Scholar-King's casting vote in the Uratha government document and the four-to-four division, the Towers' reasons, and Draskin's need to secure exclusivity in *Offstage*. The master list links both rulings.
+
+### 2026-11-07 - The High Exam and bakarn status
+
+Moved the detailed account of the High Exam, bakarn life, and the political tensions around classification into the government document. Added the established school tracks, examination arrangements, enforcement, and temporary military-service exception. The national profile now introduces the system and links to the full account.
