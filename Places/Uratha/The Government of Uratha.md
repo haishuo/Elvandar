@@ -19,6 +19,10 @@ The ruling body of Uratha consists of the heads of each Tower — the great acad
 
 Each of the seven Towers elects its own Provost. Every Full, Senior, Master, and Grand Scholar on that Tower's faculty has one vote. The faculty's choice takes the Tower's seat on the Council. [Scholarly ranks](Uratha_%20The%20Land%20of%20Scholars.md#the-scholarly-hierarchy)
 
+A Provost serves a renewable five-year term. The Tower's voting faculty may recall its Provost early by a two-thirds vote. The Scholar-King or the Council may send the faculty a formal recommendation for removal with reasons. The decision belongs to the faculty, which may retain its Provost.
+
+Where continued access to sensitive orders poses an immediate danger, the Council may suspend that access. A credible accusation that a Provost has passed military orders to an enemy is grounds for such a suspension. The suspension triggers an emergency session of the Tower's voting faculty to consider recall. A conviction for treason vacates the seat. The Tower elects the replacement whenever a seat falls vacant.
+
 The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. The Council handles ordinary business by consensus. Any Provost may bring a motion. If another Provost seconds it, the chair must put it to a recorded vote.
 
 On formal motions in which the Scholar-King participates, each of the seven Tower Provosts casts one vote and the Scholar-King casts an eighth. In a tie, the Scholar-King's vote counts twice and the side the Scholar-King supported prevails. A motion of [no confidence](#loss-of-confidence) is decided by the seven Provosts alone.
@@ -67,6 +71,16 @@ A Scholar-King who learns privately that five colleagues will vote for removal h
 #### Vacancy during a term
 
 Upon the Scholar-King's death, resignation, or removal, the sitting High Provost immediately becomes interim Scholar-King. The vacancy itself calls the seven Provosts into emergency session seven days later to elect both officers. The High Provost serves until the election and stands on the same terms as the other six Provosts.
+
+---
+
+## Local administration and petitions
+
+Local service officials can spend the funds already appropriated to their service. If a canal bank fails in Agraria, the superintendent of the Irrigation Control Center can close the gates, call out a crew, and pay for repairs from the irrigation budget. The Agriculture Provost answers to the Council for Emerald's irrigation spending across Uratha. If the repair requires funds appropriated to another Tower, the Provost must take the transfer to the Council. [Agraria](The%20Physical%20Geography%20of%20Uratha.md#agraria)
+
+Sapphire-trained magistrates hear petitions concerning the application of existing law. A scholar held by the Ilhamori for unlicensed research can produce the license in question. If it covers the work, the magistrate can order the scholar's release.
+
+The law gives *bakarn* few rights. A worker assigned to a labor detail under another person's name can petition a magistrate directly. The magistrate can order the clerk to correct the roll. The assignment center still decides where the petitioner works, and the curfew applies on the way home. Changing the rules of classification requires the Council's assent.
 
 ---
 

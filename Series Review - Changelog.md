@@ -12483,3 +12483,7 @@ Corrected the earlier account of a Council invitation. Any incumbent may stand i
 ### 2026-11-08 - Motions before the Council of Provosts
 
 Recorded each Provost's right to bring a motion and the chair's duty to put it to a recorded vote once another Provost seconds it.
+
+### 2026-11-08 - Tower accountability, local spending, and petitions in Uratha
+
+Recorded renewable five-year terms, faculty recall, emergency suspension of access, and vacancy upon conviction for treason. Added local spending authority and the jurisdiction of Sapphire-trained magistrates, including the narrow remedy available to a *bakarn* facing an incorrectly applied order.
