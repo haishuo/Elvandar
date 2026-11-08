@@ -1262,7 +1262,7 @@ line is **live chess imagery applied to a person**, not chess etymology.
 ## 6. Settled rulings
 
 **Successor governments (2026-11-07).** Each national profile will link to a separate government document.
-Uratha's Council of Provosts, Scholar-King, and Ilhamori are documented in
+Uratha is an academic oligarchy with an elected Scholar-King. Its Council of Provosts and Ilhamori are documented in
 [The Government of Uratha](Places/Uratha/The%20Government%20of%20Uratha.md).
 
 The national profile introduces the High Exam. The government document is the reference for

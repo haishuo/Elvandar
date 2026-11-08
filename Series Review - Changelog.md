@@ -12491,3 +12491,7 @@ Recorded renewable five-year terms, faculty recall, emergency suspension of acce
 ### 2026-11-08 - Bakarn testimony, family, and personal property
 
 Recorded criminal protection, the sufficiency of a single credible *bakarn* witness, family recognition, reassignment, and inheritance of personal belongings. Marriage across classifications is lawful and socially unusual. Each spouse retains their own status.
+
+### 2026-11-08 - Uratha's form of government
+
+The government document now opens with Uratha's classification as an academic oligarchy with an elected Scholar-King and explains its epistocratic claim to legitimacy through the Agriculture Provost's electorate.

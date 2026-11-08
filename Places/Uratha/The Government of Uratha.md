@@ -1,8 +1,8 @@
 # The Government of Uratha
 
-## Government and Political Structure
+Uratha is an **academic oligarchy with an elected Scholar-King**. It claims legitimacy on **epistocratic** grounds, teaching that those who have demonstrated knowledge are qualified to govern. The academy decides what counts as knowledge, examines every citizen at sixteen, and confers the faculty rank that carries a vote. The Agriculture Provost answers to the agricultural scholars who elect him. Most of the people who plant and harvest Uratha's food have no vote in choosing him.
 
-Uratha's entire society is structured like a massive university, complete with departments, faculties, and a rigid hierarchical system that determines every citizen's place.
+## Government and Political Structure
 
 ### The Council of Provosts
 
