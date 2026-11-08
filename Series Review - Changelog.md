@@ -12487,3 +12487,7 @@ Recorded each Provost's right to bring a motion and the chair's duty to put it t
 ### 2026-11-08 - Tower accountability, local spending, and petitions in Uratha
 
 Recorded renewable five-year terms, faculty recall, emergency suspension of access, and vacancy upon conviction for treason. Added local spending authority and the jurisdiction of Sapphire-trained magistrates, including the narrow remedy available to a *bakarn* facing an incorrectly applied order.
+
+### 2026-11-08 - Bakarn testimony, family, and personal property
+
+Recorded criminal protection, the sufficiency of a single credible *bakarn* witness, family recognition, reassignment, and inheritance of personal belongings. Marriage across classifications is lawful and socially unusual. Each spouse retains their own status.

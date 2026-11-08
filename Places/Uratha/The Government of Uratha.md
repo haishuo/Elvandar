@@ -141,6 +141,14 @@ Despite these restrictions, the *bakarn* have developed vibrant subcultures in e
 
 In the service quarters, labor assignment centers organize work details and distribution points issue rations. The Council's [Ilhamori](#the-ilhamori-enforcers-of-academic-protocol) pursue escaped *bakarn*. Residents also maintain their own workshops, teaching spaces, and networks for sharing supplies. [The bakarn quarters](The%20Physical%20Geography%20of%20Uratha.md#the-bakarn-quarters)
 
+### Testimony, family, and personal property
+
+The murder of a *bakarn* is prosecuted as murder. A *bakarn* may report a crime and testify against a scholar. A magistrate who believes a *bakarn* witness may convict on that testimony alone. The magistrate judges credibility, and some give a scholar's account more weight because of the speaker's rank.
+
+Urathan law recognizes *bakarn* marriages and parenthood. Parents may raise their children, though a labor reassignment can separate a family even when both spouses object. A scholar and a *bakarn* may marry. Such marriages are socially unusual. Classification attaches to the individual, and the marriage confers none of the scholar's privileges on the *bakarn* spouse. The usual work assignments, curfew, and restrictions on access to academic buildings still apply.
+
+A *bakarn* may own personal belongings, including tools, and leave them to a child or another heir. Taking those belongings is theft under the same law that protects a scholar's possessions.
+
 ### The *Bakarn* Question
 - The growing bakarn population shows signs of discontent
 - Underground networks have developed for sharing information and resources

@@ -1279,6 +1279,8 @@ Any Provost may bring a motion. A second from another Provost requires the chair
 
 The Tower faculty controls ordinary recall of its Provost. Local officials spend within existing appropriations. A *bakarn* may petition a magistrate to correct a misapplied order, while work assignments and curfew remain enforceable under the classification rules. [Tower accountability](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) · [Local administration and petitions](Places/Uratha/The%20Government%20of%20Uratha.md#local-administration-and-petitions)
 
+A *bakarn* witness's testimony alone can sustain a scholar's conviction. Uratha recognizes *bakarn* families and personal property. Marriage to a scholar is lawful and confers no scholarly privileges. [Testimony, family, and personal property](Places/Uratha/The%20Government%20of%20Uratha.md#testimony-family-and-personal-property)
+
 The [Council's casting-vote rule](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) governs the Book 3 Crown offer. [The offstage vote](Offstage.md#the-vote-on-the-scholars-crown) sets Draskin's mandate and the risk to his office if he gives up exclusivity. Xion never witnesses the division.
 
 Decided. Retained so they are not reopened or re-flagged.
