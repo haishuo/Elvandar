@@ -12467,3 +12467,7 @@ Recorded Draskin's power to issue the Compact War military-service decree withou
 ### 2026-11-07 - Uratha's Tower and succession elections
 
 Recorded the Full Scholar voting threshold for each Tower and the seven Provosts' ranked election for both national offices. The government document gives the transfer and tie rules, the finalists' Tower seats, and the separate invitation for a second term.
+
+### 2026-11-07 - Second-term elections and mid-term vacancies in Uratha
+
+Clarified that accepting a second-term invitation places the incumbent on the ballot and reopens the High Provostship. Extended immediate interim succession and the seven-day emergency election timetable to death and resignation.
