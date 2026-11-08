@@ -19,7 +19,7 @@ The ruling body of Uratha consists of the heads of each Tower — the great acad
 
 Each of the seven Towers elects its own Provost. Every Full, Senior, Master, and Grand Scholar on that Tower's faculty has one vote. The faculty's choice takes the Tower's seat on the Council. [Scholarly ranks](Uratha_%20The%20Land%20of%20Scholars.md#the-scholarly-hierarchy)
 
-The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. Ordinary decisions require consensus, making the process frustratingly slow but thorough.
+The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. The Council handles ordinary business by consensus. Any Provost may bring a motion. If another Provost seconds it, the chair must put it to a recorded vote.
 
 On formal motions in which the Scholar-King participates, each of the seven Tower Provosts casts one vote and the Scholar-King casts an eighth. In a tie, the Scholar-King's vote counts twice and the side the Scholar-King supported prevails. A motion of [no confidence](#loss-of-confidence) is decided by the seven Provosts alone.
 

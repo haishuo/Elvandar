@@ -12479,3 +12479,7 @@ Recorded the fresh count of the original ballots among all seven Tower Provosts 
 ### 2026-11-07 - The custom of asking a Scholar-King to stand again
 
 Corrected the earlier account of a Council invitation. Any incumbent may stand in the regular ranked election. A personal request from fellow Provosts gives the candidacy social approval. An incumbent who enters unasked risks losing colleagues' votes.
+
+### 2026-11-08 - Motions before the Council of Provosts
+
+Recorded each Provost's right to bring a motion and the chair's duty to put it to a recorded vote once another Provost seconds it.

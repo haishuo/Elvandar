@@ -1275,6 +1275,8 @@ Each Tower elects its own Provost by faculty vote at the rank of Full Scholar an
 
 The Scholar-King can issue temporary military-service orders on the authority of the office. Permanent classification reform requires the Council's assent. [Diplomatic and wartime authority](Places/Uratha/The%20Government%20of%20Uratha.md#diplomatic-and-wartime-authority)
 
+Any Provost may bring a motion. A second from another Provost requires the chair to put the motion to a recorded vote. [Council procedure](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts)
+
 The [Council's casting-vote rule](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) governs the Book 3 Crown offer. [The offstage vote](Offstage.md#the-vote-on-the-scholars-crown) sets Draskin's mandate and the risk to his office if he gives up exclusivity. Xion never witnesses the division.
 
 Decided. Retained so they are not reopened or re-flagged.
