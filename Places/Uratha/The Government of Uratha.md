@@ -44,7 +44,7 @@ During a military emergency the Scholar-King may issue temporary orders governin
 
 #### Election and the return to scholarship
 
-The seven sitting Tower Provosts elect both the Scholar-King and the High Provost in a single ranked ballot. In an open succession all seven stand and each ranks the other six from first to sixth. Only the seven Tower seats carry a vote.
+The seven sitting Tower Provosts elect both the Scholar-King and the High Provost in a single ranked ballot. All seven stand, and each ranks the other six. At the end of a term the sitting Scholar-King may also enter the election. If the incumbent stands, each Provost ranks the incumbent alongside the other six candidates. Only the seven Tower seats carry a vote. Every candidate for Scholar-King needs four of those seven votes, on first preferences or through transfers.
 
 The count begins with first preferences. The candidate with the fewest votes drops out, and each ballot counted for that candidate passes to its highest-ranked remaining candidate. For a tie at the bottom, the tellers work backward through earlier rounds. At each count they retain only the candidates tied for the fewest votes among those still being compared. A sole lowest candidate drops out. If the tie persists through the first count, a public drawing of lots decides which of those candidates drops out.
 
@@ -52,9 +52,7 @@ In an open succession, counting continues until two candidates remain, even if o
 
 The Scholar-King serves a ten-year term. The Council expects the scholar it chooses to accept with some reluctance. A decade in the Ivory Tower costs a scholar time with students and can leave an inquiry unfinished for someone else to pursue. Many Provosts feel that sacrifice keenly.
 
-At the end of the term, the customary course is to step down and resume scholarly work. The Council may first invite the incumbent to stand for a second term. Accepting the invitation is honorable. Asking for it is considered vulgar. Second terms have grown rare in recent centuries.
-
-An accepted invitation puts the incumbent on the ballot alongside the seven Provosts. Each Provost ranks the incumbent and the other six Provosts. The Council has already asked the Scholar-King to stay, so the election to Ivory is ordinarily a formality. The High Provostship is decided afresh at the same election and may pass to another Tower even when the Scholar-King returns for a second term.
+At the end of the term, the customary course is to step down and resume scholarly work. Several Provosts may approach the incumbent privately and ask them to stand again. Taking up that request is honorable. The incumbent is free to enter on their own initiative, though doing so unasked is considered vulgar. Colleagues who approved of a Scholar-King's first term may rank another candidate higher if they think the incumbent too eager to keep the office. An invitation is a sign of support. The election determines whether that support amounts to a majority. Second terms have grown rare in recent centuries.
 
 Once the incumbent wins a majority, the tellers count the original ballots again for High Provost. All seven Tower Provosts start this count. The tellers skip the reelected Scholar-King on every ballot and credit each vote to the highest-ranked Provost listed on it. They apply the same transfer and tie rules, using only rounds from this count for countback. The first Provost to receive four votes becomes High Provost.
 

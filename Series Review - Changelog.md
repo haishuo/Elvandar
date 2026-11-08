@@ -12475,3 +12475,7 @@ Clarified that accepting a second-term invitation places the incumbent on the ba
 ### 2026-11-07 - High Provost count after reelection
 
 Recorded the fresh count of the original ballots among all seven Tower Provosts once the incumbent Scholar-King wins reelection.
+
+### 2026-11-07 - The custom of asking a Scholar-King to stand again
+
+Corrected the earlier account of a Council invitation. Any incumbent may stand in the regular ranked election. A personal request from fellow Provosts gives the candidacy social approval. An incumbent who enters unasked risks losing colleagues' votes.
