@@ -12471,3 +12471,7 @@ Recorded the Full Scholar voting threshold for each Tower and the seven Provosts
 ### 2026-11-07 - Second-term elections and mid-term vacancies in Uratha
 
 Clarified that accepting a second-term invitation places the incumbent on the ballot and reopens the High Provostship. Extended immediate interim succession and the seven-day emergency election timetable to death and resignation.
+
+### 2026-11-07 - High Provost count after reelection
+
+Recorded the fresh count of the original ballots among all seven Tower Provosts once the incumbent Scholar-King wins reelection.

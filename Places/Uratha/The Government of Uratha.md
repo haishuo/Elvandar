@@ -56,6 +56,8 @@ At the end of the term, the customary course is to step down and resume scholarl
 
 An accepted invitation puts the incumbent on the ballot alongside the seven Provosts. Each Provost ranks the incumbent and the other six Provosts. The Council has already asked the Scholar-King to stay, so the election to Ivory is ordinarily a formality. The High Provostship is decided afresh at the same election and may pass to another Tower even when the Scholar-King returns for a second term.
 
+Once the incumbent wins a majority, the tellers count the original ballots again for High Provost. All seven Tower Provosts start this count. The tellers skip the reelected Scholar-King on every ballot and credit each vote to the highest-ranked Provost listed on it. They apply the same transfer and tie rules, using only rounds from this count for countback. The first Provost to receive four votes becomes High Provost.
+
 #### Loss of confidence
 
 The Council may remove a sitting Scholar-King through a vote of no confidence. Each of the seven Provosts has one vote, including the High Provost. The Scholar-King has none on the motion. Removal requires two-thirds of the full seven seats, or five affirmative votes. An absence or abstention leaves that threshold at five.
