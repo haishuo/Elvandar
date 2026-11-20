@@ -3068,6 +3068,13 @@ member, and the Orb Weaver and House Umberlow never touch.** She does not find t
 the rescue and does not brake Tiberian. Recorded on the Irene, Nessa, Melina and Tiberian sheets. *(The
 rescue's form remains open.)*
 
+**Nessa catches him, then he volunteers her at dinner — author's ruling 2026-11-20.** The register of the
+marriage is that **Tiberian is happy because Irene is happy**: he does not follow half of her business and
+does not need to. After the price quarrel, Nessa teases him into admitting it (*"Only to people with
+eyes"*), and after that he raises Irene at a family dinner unprompted, which he has never done with any
+woman. Both are recorded in the marriage entry with the author's dialogue verbatim, including Elara and
+Tiberian's usual exchange about the balls. The dialogue is the author's text and is not to be trimmed.
+
 Tiberian marries Irene Umberlow at eighteen between Books 7 and 8. [The Marriage of the Tiger Prince](Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md)
 holds the courtship and the blue dress. [The Children of the Great Hunt](Offstage/The%20Children%20of%20the%20Great%20Hunt.md)
 holds Lucien Vey's part in the conspiracy. Celestine refuses Lucien's request, believes his promise to

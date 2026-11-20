@@ -99,6 +99,62 @@ A few days later he brought her flowers and apologized. He told her she was righ
 have asked. Irene had expected him to lose interest after the argument. When he came back having
 thought about what she had said, she began to take his courtship seriously.
 
+## Only to people with eyes
+
+Tiberian was happy because Irene was happy. He did not understand half of what she told him about her
+business, and it did not matter: she was beaming, and that was enough for him. Nessa noticed before he
+admitted it.
+
+> Nessa: "Tiberian, I noticed you spent two hours talking to Irene the other day."
+>
+> Tiberian: -defensively- "She was very interesting!"
+>
+> Nessa: "... interesting? I didn't know you had any interest in banking."
+>
+> Tiberian: "Hey, I know stuff!"
+>
+> Nessa: "Really. Define 'compound interest', I *dare* you."
+>
+> Tiberian: "..."
+>
+> Nessa: -grins-
+>
+> Tiberian: "L-look, it was complicated!"
+>
+> Nessa: "I'm sure it was." -she sighs- "Look, in all seriousness though, Tiberian - I've never seen you smile in that way before."
+>
+> Tiberian: "I smile!"
+>
+> Nessa: "Not like that you don't. When Irene walks into the room, you look like the sun has risen for the first time in your life."
+>
+> Tiberian: -looks away- "Is it that obvious?"
+>
+> Nessa: "Only to people with eyes."
+
+## The dinner
+
+Tiberian never raised a woman at the family table of his own accord. He had to be prompted, and the
+conversation nearly always ran the same way.
+
+> Elara: "Tiberian, a very nice young lady asked after you this morning."
+>
+> Tiberian: "Yes, mother."
+>
+> Elara: -sighs- "Son, I understand you hate these social functions, but would it *kill* you to not look like someone is stabbing you when you attend?"
+>
+> Tiberian: "It might."
+>
+> Elara: "Well, either way, you're meeting this girl. She's from a respectable family - the Alrics I believe."
+>
+> Tiberian: -overly dramatic sigh- "Oh very well, mother, if you insist."
+>
+> Elara: "And try not to look like you're marching to your own funeral!"
+>
+> Tiberian: "No promises, mother!"
+
+After Nessa caught him, there was a family dinner at which Tiberian brought up Irene himself, without
+being asked. Nobody at the table needed it explained.
+
 ## What Nessa told him
 
 Nessa had grown up in Melina's rooms and thought of Tiberian as something close to a brother. She felt
