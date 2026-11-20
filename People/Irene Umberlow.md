@@ -134,7 +134,7 @@ thinks with very little restraint.
 The flowers matter because he comes back with a specific apology. He understands that she should
 have been asked. She can take his affection seriously after that because he has heard a sharp
 answer from her and still wants to see her. When she asks for his word before the wedding, they
-both know what an apparently small intervention can cost her. [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md)
+both know what an apparently small intervention can cost her. [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince)
 holds the courtship and the promise.
 
 ## Book 8: Shattered Mirror

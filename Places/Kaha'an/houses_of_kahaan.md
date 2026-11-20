@@ -643,7 +643,7 @@ Kaha'an. The mechanism, and what replaced it, is in
 `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
 
 Between Books 7 and 8, Irene Umberlow is trying to restore the family's fortunes. See
-[The Marriage of the Tiger Prince](../../The%20Marriage%20of%20the%20Tiger%20Prince.md).
+[The Marriage of the Tiger Prince](../../Offstage.md#the-marriage-of-the-tiger-prince).
 
 ---
 

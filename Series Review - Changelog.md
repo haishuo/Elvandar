@@ -12563,3 +12563,7 @@ Recorded House Halcin as a minor barony and Nessa as a baron's daughter sent to 
 ### 2026-11-19 - House Halcin's hopes for Nessa
 
 Recorded on Nessa's sheet that sending a daughter to the palace is a common move for a minor barony, and that House Halcin hoped only that she would acquit herself well and perhaps become lady-in-waiting to a member of the imperial house. Nobody expected her to become Melina's closest friend.
+
+### 2026-11-19 - The Tiger Prince's marriage moves into Offstage
+
+Moved *The Marriage of the Tiger Prince* from a standalone root file into `Offstage.md`, after *The Children of the Great Hunt*, with its sections demoted one level and a note on what depends on it. Repointed every link to it in the character sheets, `Names.md`, `Story Timeline.md`, `houses_of_kahaan.md`, the Book 8 outline and the master list. Recorded that Irene is introduced in Book 8 on the page and not planted in Book 7. No chapter prose, beat drafts or Royal Road output changed.

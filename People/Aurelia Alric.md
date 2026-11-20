@@ -16,7 +16,7 @@ Celestine makes a remark at Irene's expense than to risk embarrassing a friend i
 begins these encounters herself. Her laughter still helps Celestine establish how the room will take
 the remark. There is no established personal feud between Aurelia and Irene.
 
-See [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md) for the
+See [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince) for the
 Alrics' pursuit of the match and Aurelia's part in the blue-dress incident.
 
 ## Guardrails

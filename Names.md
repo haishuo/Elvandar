@@ -140,7 +140,7 @@ day. Neither has ever said so to the other on the page.
 | **[Lucien Vey](People/Lucien%20Vey.md)** | Principal financier of the Children of the Great Hunt; executed for high treason |
 | **[Aurelia Alric](People/Aurelia%20Alric.md)** | Young woman of Count Alric's house, whose family presses for a match with Tiberian |
 
-See [The Marriage of the Tiger Prince](The%20Marriage%20of%20the%20Tiger%20Prince.md).
+See [The Marriage of the Tiger Prince](Offstage.md#the-marriage-of-the-tiger-prince).
 
 ## Houses and factions
 

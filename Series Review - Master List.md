@@ -3045,7 +3045,13 @@ survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page
 
 ### The Marriage of the Tiger Prince — author's design, 2026-11-19
 
-Tiberian marries Irene Umberlow at eighteen between Books 7 and 8. [The Marriage of the Tiger Prince](The%20Marriage%20of%20the%20Tiger%20Prince.md)
+**Moved into `Offstage.md` and Irene enters Book 8 as a major character — author's ruling 2026-11-19.**
+The account now lives in `Offstage.md` under *The Marriage of the Tiger Prince*; the standalone root file is
+gone and every link points at the new section. **Book 8 introduces her on the page**, at the opening
+morning and through Melina's Part 2. **She is not planted in Book 7.** Her Book 8 role is under
+discussion and not yet written into the outline.
+
+Tiberian marries Irene Umberlow at eighteen between Books 7 and 8. [The Marriage of the Tiger Prince](Offstage.md#the-marriage-of-the-tiger-prince)
 holds the courtship and the blue dress. [The Children of the Great Hunt](Offstage.md#the-children-of-the-great-hunt)
 holds Lucien Vey's part in the conspiracy. Celestine refuses Lucien's request, believes his promise to
 withdraw, and learns otherwise at his arrest. Lucien is publicly executed with the other ringleaders.

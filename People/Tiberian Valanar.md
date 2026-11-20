@@ -181,7 +181,7 @@ of who he is. Account in `Offstage.md`, *The Children of the Great Hunt*.
 
 **He marries Irene Umberlow before Book 8.** Elara wants him married and requires him at the balls,
 where the young women presented to him soon blur together. He meets Irene on Vessel Street and seeks
-her out there, of his own accord. [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md)
+her out there, of his own accord. [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince)
 records the courtship.
 
 ---
@@ -251,7 +251,7 @@ and stops it. With Kess he extends freedom without being told. With Irene he has
 bargaining looks to him like a fight he can win on her behalf. He hears it, comes back with a specific
 apology, and before the wedding gives his word to leave the restoration of House Umberlow in her hands.
 **He keeps it.** Do not write the Crown's custom drifting her way, or anyone arranging it for him. See
-[The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md) and Irene's sheet.
+[The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince) and Irene's sheet.
 
 ### Kai
 

@@ -26,7 +26,7 @@ giving up the position he already thinks of as his. His conviction leaves him sl
 loyalty he has purchased.
 
 [The Children of the Great Hunt](../Offstage.md#the-children-of-the-great-hunt) holds his part in the
-conspiracy and his execution. [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md)
+conspiracy and his execution. [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince)
 holds his dealings with Celestine and the consequences for her.
 
 ## Guardrails

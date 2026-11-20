@@ -166,7 +166,7 @@ Weaver.** That costs Melina, not Nessa — see Melina's sheet.
 and she feels obliged to tell him about anyone he is being asked to consider. She does it with tact and
 never by running anyone down. During his courtship, when he says Celestine Vey seems very nice, Nessa
 quietly tells him what she saw Celestine do to Irene over the blue dress and leaves the judgment to him.
-See [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md).
+See [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince).
 
 ### Celestine Vey and Irene Umberlow
 
