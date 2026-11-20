@@ -209,7 +209,7 @@ are exactly the people who would avoid a woman like Melina because of who she is
 of it came from. **This is the answer.**
 
 **The Orb Weaver is an underworld information broker in Kaha'an — by the middle of Book 6, one of the best —
-and it is Melina and her handmaid Nessa Halcin**, jointly, and nobody else. It deals only through
+and it is Melina and her handmaid Nessa Halcin**, jointly, and through Book 7 nobody else. It deals only through
 intermediaries. Nessa is the last intermediary anyone can reach, and if asked she says that she too only
 passes notes onward and has never met the Orb Weaver. Full sheet: `People/Nessa Halcin.md`.
 
@@ -259,6 +259,13 @@ Tiberian, who she otherwise tells everything"* (above), and this makes two. The 
 her brother is Caretaker primary, he would object to the line in exactly the place it is narrowest, and he
 would act — but **it is a second secret from the person she tells everything, and the page should know
 that**, even if it never says so.
+
+**Book 8 makes it three people, and the third is his wife.** Irene Umberlow finds the Orb Weaver by its
+money when it is pushed abroad, and brings it to Melina as suspected treason. Melina brings her in, on
+Irene's terms: she will not raise it with Tiberian, she will not lie to him if he asks directly, and she
+will tell him anything touching his safety. **Melina accepts a secret that is now one direct question from
+ending**, and Irene carries it with more guilt than Melina ever has. Irene keeps the books afterward without
+being an active member. See `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
 
 **And her father in particular.** She takes his judgments more seriously than anyone watching would guess,
 and a brokerage that sells to the Warrens' predators is not a thing he would approve. **She has built

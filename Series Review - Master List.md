@@ -3054,8 +3054,19 @@ changelog keeps its old references as history. `CLAUDE.md` and `AGENTS.md` recor
 **Moved into Offstage and Irene enters Book 8 as a major character — author's ruling 2026-11-19.**
 The account now lives in `Offstage/The Marriage of the Tiger Prince.md`; the standalone root file is
 gone and every link points at it. **Book 8 introduces her on the page**, at the opening
-morning and through Melina's Part 2. **She is not planted in Book 7.** Her Book 8 role is under
-discussion and not yet written into the outline.
+morning and through Melina's Part 2. **She is not planted in Book 7.**
+
+**Irene's Book 8 role — author's ruling 2026-11-19, written into `book8_outline.md`.** Six people see
+the parents off. When they do not return, Irene notices that nobody changed the return arrangements, so
+the extension was not Elara's. **She finds the Orb Weaver by its money** when it is pushed abroad to buy
+information inside Uratha, reads it as treason, and **takes it to Melina, not Tiberian**. Nessa's
+informant cover is useless before a palace audience, and Melina brings her in. **Her terms:** she will not
+raise it with Tiberian; she will not lie if he asks directly; anything touching his safety she tells him.
+She hates hypocrisy and carries the secret with more guilt than Melina or Nessa. The rescue is paid for
+through channels she keeps. **After the book she keeps the Orb Weaver's books without being an active
+member, and the Orb Weaver and House Umberlow never touch.** She does not find the Globehall, is not at
+the rescue and does not brake Tiberian. Recorded on the Irene, Nessa, Melina and Tiberian sheets. *(The
+rescue's form remains open.)*
 
 Tiberian marries Irene Umberlow at eighteen between Books 7 and 8. [The Marriage of the Tiger Prince](Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md)
 holds the courtship and the blue dress. [The Children of the Great Hunt](Offstage/The%20Children%20of%20the%20Great%20Hunt.md)

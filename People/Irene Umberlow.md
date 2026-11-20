@@ -145,8 +145,30 @@ an ordinary commercial concession harder for her to read, especially when the pe
 also does business with the Crown. Tiberian can keep his promise and she can still have to work
 out what people expect from being agreeable to his wife.
 
-Her presence at the send-off and her part in the response after Xion and Elara disappear are
-open for the draft. Her possible involvement in the earlier Great Hunt investigation remains open
+She is at the send-off, and the book introduces her there, through Elara's eyes. When the parents do
+not come back, her first contribution is the one only she would think of: if Elara had extended the
+visit herself, someone would have changed the return arrangements, and nobody did.
+
+**She finds the Orb Weaver by its money.** Pushed abroad to buy information inside Uratha, the
+brokerage moves coin and goods east, and the trail lands in Irene's field. She reads it as treason in
+the household and **takes it to Melina, not to Tiberian**, because she knows what he does with a
+problem. Melina brings her in. **Her terms:** she will not raise it with Tiberian; if he asks her
+directly she will not lie to him; anything touching his safety she tells him regardless. She puts the
+Orb Weaver's foreign payments on a sound footing, and the rescue is paid for through channels she now
+keeps. Full placement in `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
+
+**The secret costs her more than it costs either of the others.** She hates hypocrisy. Melina and
+Nessa have kept the Orb Weaver from Tiberian for two years; she has been married a few months, to a
+man she quarrelled with over not being asked. Her terms are how she keeps the lie by omission from
+becoming a lie.
+
+**After the book she keeps the Orb Weaver's books.** She cannot un-know it, so she may as well do it
+properly. She is not an active member. **The Orb Weaver and House Umberlow are separate, and she is
+very careful about it**: no money, custom or credit passes between them. The brokerage trades with
+criminals, and her own house would refuse that custom. The separation is how she lives with keeping
+its books.
+
+Her possible involvement in the earlier Great Hunt investigation remains open
 in the [editorial record](../Series%20Review%20-%20Master%20List.md#the-marriage-of-the-tiger-prince--authors-design-2026-11-19).
 
 ---
@@ -189,7 +211,9 @@ of personal closeness is open.
 Nessa understands the price of a favor and who will pay to keep his name out of a conversation.
 Irene's knowledge comes from doing repeat business in her own name, where it matters that the
 other party will return and know whom he is dealing with. Their judgment can agree for different
-reasons. Irene has no established knowledge of the Orb Weaver's identity.
+reasons. **From Book 8 she knows Nessa and Melina are the Orb Weaver**, and keeps its books. Nessa
+remains its face and runs its commerce. Irene would like to fix Nessa's books and has to remember
+whose idea the brokerage was; the friction is real and stays light.
 
 ### Celestine Vey and Aurelia Alric
 
@@ -224,6 +248,9 @@ likes it enough to wear it repeatedly. Its use at court is established in the ma
 - **With people she trusts.** She is frank about a disappointment and has enough humor to enjoy
   telling a story against herself. One way to tell she is at ease is that she can mention a
   problem before she has decided what to do about it.
+- **About hypocrisy.** She hates it, in herself most of all. She will keep a confidence and say so;
+  she will not say one thing and do another. When she has to keep something back, she sets terms
+  that tell her exactly where silence would turn into a lie.
 
 ### The Central Tension
 
@@ -247,3 +274,8 @@ wants it and trust that she can still make the decision afterward.
 6. **The dress goes before Lucien's arrest, never after.** It is a slight returned between two young
    women at court. Sent to a woman whose brother the Crown had just executed, it would be a different
    act by a different person. Keep it at the betrothal.
+7. **She keeps the Orb Weaver from Tiberian on terms, and the terms hold.** She never raises it. If he
+   asks directly, she tells him the truth. Anything touching his safety, she tells him regardless.
+   Never write her lying to his face about it, and never write the secret as costless to her.
+8. **The Orb Weaver and House Umberlow never touch.** No money, custom or credit passes between them.
+   She keeps the brokerage's books; she does not stake her house's name on it.

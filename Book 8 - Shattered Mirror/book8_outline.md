@@ -48,7 +48,7 @@ The process has a horrifying resonance with Hauren technology — similar princi
 
 The book opens on an ordinary morning. No ominous feelings. No lingering goodbyes. Tiberian is in the middle of something when his mother kisses him on the cheek. Melina says something mildly sarcastic; Xion laughs. The door closes. That's it. No one goes to bed the night before thinking: *this is the last normal day.* (The family has just come through a conspiracy the court knows only by its executions, and Melina is the reason it came through. The morning is calm because she made it calm. Nobody says so, and nobody should. See `Offstage/The Children of the Great Hunt.md`.)
 
-Tiberian is married to Irene Umberlow by this point. See [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md).
+Six people at the door: Xion and Elara, Tiberian and **Irene**, Melina and Nessa. **Irene is introduced here, on the page.** Tiberian married her a few months ago, after the conspiracy was over, and the reader has never met her. So the morning does it in a few strokes through Elara's eyes: the new daughter-in-law, a baron's daughter with a business of her own, seeing them off before she goes to it. **It is a family that has grown by one, not a cast list**, and the introduction must not carry more weight than the morning can. Account of the courtship: [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md).
 
 Xion and Elara arrive in Uratha. It is a triumph. The alliance that survived the Compact War. The Crown that was returned and blazed to life. The reforms Elara championed in Alliance territory now reflected in Uratha's own abolished bakarn system. Everything suggests progress. Partnership. Vindication.
 
@@ -124,6 +124,8 @@ The expected return time passes. They're late. That's the first data point, and 
 
 Then they're very late. Still not panic — but Tiberian sends a message to the Urathan delegation. The response is cordial and technically unresponsive. *The visit has been extended at the Empress's request. She is engaged in important discussions.* Tiberian frowns. Melina reads the message three times.
 
+**Irene asks the question nobody else thinks to ask.** A state visit has a return booked: passage, escort, provisions, a household expecting them on a given day. If the Empress had extended the visit herself, her own household would have been told to change the arrangements. Irene asks whether anyone was. Nobody was. It is one data point among Melina's many, and it is the first that says the extension did not come from Elara. **It comes from the Balishan side.** Uratha has no money trade and is not given one here.
+
 Then they're *really* late, and Melina starts making inquiries. Discrete ones, then less discrete ones. The Urathan responses shift subtly each time — not contradictory enough to call a lie, but never quite the same story twice. Experienced diplomats know the difference between an inconvenient truth being managed and an answer being given. Melina knows. This is the pivot.
 
 Tiberian freaks out. The Tiger Prince's first instinct: march on Uratha. Demand answers. If answers aren't forthcoming, demand them louder, with an army.
@@ -139,6 +141,18 @@ Melina begins a campaign to discover the truth — spy thriller investigation, d
 Melina traces the lie backward. The diplomatic communications are fabricated. The Provosts' explanations shift subtly each time they're questioned. There are inconsistencies in the security reports. Ilhamori deployment patterns changed on a specific date — the same date the last genuine communication from her parents was sent.
 
 Slowly, methodically, Melina pieces together what happened. Not the full truth — not yet — but enough to know her parents are alive, imprisoned, and that the Provosts are desperately trying to maintain a fiction while dealing with something they can't control.
+
+### The Ledger
+
+**The Orb Weaver has to work abroad, and fast.** It was built to work Kaha'an's underworld. Finding her parents means buying information inside Uratha, and Uratha has no money trade, so payment has to travel east as coin or goods, by sea. That is new ground. Nessa is Merchant fourth: competent, improvising in a market she does not know. Melina is Merchant last and does not think in money at all. **The brokerage's one weakness is the dimension neither of its owners thinks in**, and the trail it leaves lands in the only field Irene works in.
+
+What Irene sees is money moving from inside the palace toward Uratha, during a crisis with Uratha. **She reads it as treason in the household**, not as a secret brokerage. **She takes it to Melina, not to Tiberian.** The price quarrel taught her exactly what he does with a problem, and a suspected traitor in his sister's rooms is the worst thing she could put in his hands. From Melina's side of the page, this is the analyst caught out by a method she does not have: her sister-in-law at the door with a ledger.
+
+**Nessa's cover is no use here.** The palace-informant story is for the underworld. To a palace audience an admitted informant is a security matter, and Nessa's sheet forbids her ever playing it to one. Melina can lie to her brother's wife or bring her in. **She brings her in.**
+
+**Irene's terms.** She will not bring it up with Tiberian. **If he asks her directly, she will not lie to him.** Anything that touches his safety, she tells him regardless. Melina accepts terms that leave the secret one direct question from ending. **Irene feels this far more than either of them.** Melina and Nessa have kept it from Tiberian for two years and live with it. Irene hates hypocrisy, she has been married a few months, and the marriage rests on *he should have asked*. The guilt is hers and the page should know it.
+
+**What she does with it is the work she is good at.** She puts the Orb Weaver's foreign payments on a sound footing, moving coin and goods east through trade that looks like trade. Nessa remains the face and runs the commerce, and the friction between them stays light: Irene wants to fix Nessa's books, and the brokerage was Nessa's idea. **Irene does not find the Globehall, does not lead the investigation and does not touch Harkim's part of it.** Her contribution is that the search can be paid for without anyone seeing it paid.
 
 ### Harkim
 
@@ -175,6 +189,8 @@ And then Melina decides.
 The specifics of the rescue are a structural question: does Tiberian lead a military intervention? Does Melina orchestrate an infiltration? Do they combine approaches — Tiberian's force creating opportunity for Melina's precision?
 
 What matters: **Harkim's underground makes it possible.** Whatever form the rescue takes, it depends on people inside Uratha — Harkim's network, the bakarn who have been watching and waiting and documenting, the quiet infrastructure of resistance that a junior researcher started building the day he opened a notebook in a liberated city. They know the internal layouts, the guard rotations, the Ilhamori deployment gaps. They are the reason Melina can plan a rescue instead of an invasion.
+
+**Whatever form it takes, it has to be paid for without the treasury showing it.** A visible mobilization against an Alliance partner would tell the Provosts they have been found. The money moves through the channels Irene now keeps.
 
 Harkim is not a soldier. He's not leading a charge. He's the man who opened the door — who spent years building the network that gives Melina's precision something to work with and Tiberian's force somewhere to strike. The junior researcher from Empirica, the true believer whose faith cracked in a six-month war and never healed, has become the person without whom the rescue doesn't happen.
 
@@ -223,6 +239,8 @@ Eight books. Beginning, middle, end. Done.
 ## Structural Notes
 
 **The implicated Provosts:** References to the Provosts concealing or defending the Globehall concern the implicated inner circle, not every Tower or every member of the Council. The distribution of responsibility and the five Towers seeking removal are established in [Offstage](../Offstage/The%20Failed%20Vote%20Against%20Draskin.md). Draskin holds office during this book through his [third election victory](../Offstage/Draskin%27s%20Three%20Terms.md); his continued tenure is not an extension of his original term.
+
+**Irene in Book 8:** She was created after this outline was first written, and the book now has to carry her. **She is introduced on the page** at the opening morning, not planted in Book 7. Her contribution is her own instrument: the return arrangements in *The Silence*, the Orb Weaver's foreign money in *The Ledger*, and the quiet funding of the rescue. **She is not at the rescue, does not brake Tiberian (that is Melina's), and has no investigative breakthrough.** Her price is the secret she now keeps from her husband on terms. After the book she keeps the Orb Weaver's books without being an active member, and keeps it strictly apart from House Umberlow. See `People/Irene Umberlow.md`.
 
 **The mirror metaphor:** The title — Shattered Mirror — works on multiple levels. Uratha is the mirror: a civilization that appeared to reflect enlightenment but actually concealed horror. The Globehall shatters that reflection. Elara's Hauren-connection is a mirror too: the Haureni technology that she marveled at in Book 3 has a dark reflection in the Globehall's extraction process. And the family dynamic is a mirror: the children rescue the parents, reversing the direction of protection that defined the original trilogy.
 

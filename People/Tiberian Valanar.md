@@ -194,6 +194,11 @@ Elara, imprisoned and defiant, promises the Urathan Provosts exactly what they s
 
 She's not wrong. Tiberian's compassion-fury, the defining synthesis of his character, is precisely what the Provosts should be afraid of. But the rescue requires Melina's intelligence work to locate their parents — spy thriller investigation, piecing together the truth about the Globehall — and when the twins finally reach Xion and Elara, they face the same impossible choice: how to end the horror of the Globehall without becoming monsters themselves.
 
+**He still does not know about the Orb Weaver, and from Book 8 his wife does.** Irene keeps it from him on
+terms she set herself: she will not raise it, she will not lie if he asks her directly, and she tells him
+anything touching his safety. The rescue he wants to lead is paid for through channels she now keeps. See
+`People/Irene Umberlow.md` and the Book 8 outline, *The Ledger*.
+
 ---
 
 ## Relationships
