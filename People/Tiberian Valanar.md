@@ -179,11 +179,15 @@ for a moment**; do not write him doing so. Kess and the Arol Batae know within t
 are executed. **It is not the first attempt on his life, nor the last**; a target on him is an ordinary fact
 of who he is. Account in `Offstage.md`, *The Children of the Great Hunt*.
 
+**He marries Irene Umberlow before Book 8.** Elara requires him to attend the balls. He seeks Irene out
+of his own accord. [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md)
+records the courtship.
+
 ---
 
 ## Book 8: Shattered Mirror
 
-When their parents don't return from the diplomatic mission to Uratha, Tiberian's response is visceral: he "freaks out." This is the Caretaker-Competitor in extremis — the two people he loves most are missing, and every instinct screams *go, find them, bring them back.*
+When their parents don't return from the diplomatic mission to Uratha, Tiberian's response is visceral: he "freaks out." His parents are missing, and every instinct screams *go, find them, bring them back.*
 
 Elara, imprisoned and defiant, promises the Urathan Provosts exactly what they should fear: "My son has his father's compassion and my fury. You've just guaranteed Uratha burns."
 

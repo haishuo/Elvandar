@@ -12507,3 +12507,9 @@ Added Council scheduling and personal-attendance rules, the five-Provost no-conf
 Added two accounts to *Offstage*: Draskin's ordinary first election, invited wartime-service reelection, and uninvited third victory through the ranked ballot; and the failed post-Book 8 removal vote, uneven Tower implication, Sapphire's evidence work and absence, Amethyst's recusal, the two-year bar, the Valanar twins' reactions, the Ilhamori approach to Belus, and the proposed but unpassed unanimity amendment. Recorded the boundary of the settled account without inventing a subsequent outcome.
 
 Linked the tenure and aftermath from the story timeline and Book 8 outline. Clarified the outline's reference to the implicated inner circle and removed the implication that ending the Globehall also disposes of every political opponent. Updated the master list's cross-book thread, settled rulings, and open questions. No chapter prose, beat drafts, or Royal Road output changed.
+
+### 2026-11-19 - The Marriage of the Tiger Prince and Lucien Vey
+
+Added the standalone account of the courtship and marriage of Tiberian Valanar and Irene Umberlow between Books 7 and 8, including Celestine Vey's public slight about Irene's blue dress, Aurelia Alric's laughter, and Irene's gift of the same dress after the wedding. Recorded Celestine's refusal to help Lucien and her discovery at his arrest that he broke his promise.
+
+Named Lucien as the principal financier and organizer of the Children of the Great Hunt, the man who brought in the lesser house and one of the ringleaders publicly executed. Linked the two accounts. Reconciled the surviving Umberlow barony with the collapse of its banking business and registered the four new names. Linked the marriage from the chronology, Tiberian's sheet and the Book 8 outline.

@@ -168,10 +168,9 @@ who built the Coterie in the year after the Rending would not have thought of it
 **And the Rending is what did it.** Money houses were a great power in pre-Rending Kaha'an, and the
 catastrophe fell on them harder than on anyone. Every other house lost assets; the money houses lost
 **counterparties**. Their capital was claims — against estates that had become desert overnight, against
-caravans that stopped, against families that died at the harvest festival — and a house whose book *is* the
-house does not survive the book going bad. See `houses_of_kahaan.md`: **House Umberlow**, the Paper Lords,
-who are in the Lost Houses for this reason and not for any dramatic one. **Grain lost its land and had a
-business left to reinvent. Umberlow had nothing left to reinvent, because the promises were the business.**
+caravans that stopped, against families that died at the harvest festival. See `houses_of_kahaan.md`: **House Umberlow**, the Paper Lords.
+Their baronial line survived in poverty, but the defaults ended their banking business. **Grain lost its
+land and had a business left to reinvent. For Umberlow, the promises were the business.**
 
 **So Kaha'an's money trade died, and no successor state inherited it. Nothing needs to have.** *(Twice
 corrected, 2026-08-05, on the author's instruction — first for claiming the trade relocated to Vartonne, then

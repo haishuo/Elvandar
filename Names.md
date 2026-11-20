@@ -131,6 +131,17 @@ day. Neither has ever said so to the other on the page.
 | **Garrin** | Ronas's most capable lieutenant. Tries to hold the cartel together after his death and is the last legible actor in the Warrens; Bittek kills him in Act III | Proto-Balishan |
 | **Nessa Halcin** | Melina Valanar's personal handmaid and closest friend, from a minor house. Co-runs the Orb Weaver, which was her idea. Given name **kept** on the author's ruling, 2026-11-02 — see *Coined 2026-11-01*, below. Sheet: `People/Nessa Halcin.md` | Native charter-name (*Halcin*) |
 
+## Between Books 7 and 8
+
+| Name | Who |
+|---|---|
+| **Irene Umberlow** | Impoverished baroness working to restore House Umberlow; marries Tiberian Valanar |
+| **Celestine Vey** | A marquis's daughter who seeks to marry Tiberian; Lucien's elder sister |
+| **Lucien Vey** | Principal financier of the Children of the Great Hunt; executed for high treason |
+| **Aurelia Alric** | Young woman of Count Alric's house, whose family presses for a match with Tiberian |
+
+See [The Marriage of the Tiger Prince](The%20Marriage%20of%20the%20Tiger%20Prince.md).
+
 ## Houses and factions
 
 | Name | Who |
@@ -143,7 +154,7 @@ day. Neither has ever said so to the other on the page.
 | **Master Garrett Caldris** | Backs the Erulian claim |
 | **Lord Mallory** | Vartonne. Absurd, and that is the whole of his stake |
 | **House Greystone** | The Vessel Street clearing house. Head is the **Factor-Principal**, unnamed on purpose — coin it when a chapter needs him, likely Book 8 |
-| **House Umberlow** | Extinct. The pre-Rending money house, destroyed by the Rending's defaults. Never spoken on the page |
+| **House Umberlow** | Baronial line of the Paper Lords. Its banking business failed after the Rending and the family survived in poverty |
 
 ## Supporting-canon names with no book assignment
 
@@ -312,11 +323,8 @@ Zarnstran*, **House Vex** → *Sedranne*, **Silas Vex** → *Bregan Haldorn*, **
 **Initials in use across the series:** A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, V, W, X, Z.
 Free series-wide: **Q, U, Y**.
 
-**U is spent in the record but not on the page.** *House Umberlow*, coined 2026-08-05, is an extinct house
-that appears in canon files only and is never said aloud by anyone. **The scarcity this list tracks is
-names in dialogue**, so U remains available for a spoken name; the entry is here so Umberlow is not
-"discovered" later and treated as a collision. If U is ever wanted for a character, take it — a dead house
-in a geography file will not be confused with anybody.
+**U is in the canon record.** *House Umberlow*, coined 2026-08-05, supplies Irene's house name in
+the account of Tiberian's marriage. Its current appearances are in canon records outside chapter prose.
 
 **Initials spoken in Book 3:** A, C, D, E, F, H, I, K, L, M, O, R, S, T, V, X.
 Free in Book 3: **G, N, P, U, W, Y, Z** — B and O were spent on Brennek and Ormuth, 2026-08-04; H

@@ -163,7 +163,7 @@ here may later resolve as INH, SUB, HIE, NEO, or MIX.
 | **Lyanna Valoreth** | P3 | Former imperial guard | Given name and ceremonial-looking house UNK |
 | **Garrett Caldris** | P3 | Restorationist master | Both halves UNK |
 | **Mallory** | P3 | Vartonnese lord | Deliberate comic effect is the only current constraint |
-| **Umberlow** | P3 | Extinct money house | Confirmed TR; native transparent compound remains uncoined and off-screen |
+| **Umberlow** | P3 | Surviving baronial house, formerly the Paper Lords | Confirmed TR; native transparent compound remains uncoined and off-screen |
 | **Valan, Urath, Tharen, Sera, Mariath, Korin** | P2–P4 | Valanar throne-name pool | NEO / HIE as an accumulated imperial institution; individual roots not established |
 
 ### Supporting Kaha'an house corpus

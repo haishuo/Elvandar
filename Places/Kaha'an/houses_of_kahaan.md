@@ -503,8 +503,8 @@ were braver.
 **Pre-Rending Status**: Minor merchant house, wealthy and socially unrecognised. Cleared bills for
 caravan traffic; too small for the estate credit that made Umberlow.
 
-**The Rending's Impact**: Survived the defaults that destroyed House Umberlow, and inherited the trade by
-outliving it rather than by winning it — a distinction the family is quietly conscious of.
+**The Rending's Impact**: Survived the defaults that ended Umberlow's banking business and inherited the
+trade by outliving it rather than by winning it — a distinction the family is quietly conscious of.
 
 **Post-Rending Transformation**: Became the clearing house of the Golden Path. Effectively all east–west
 trade crossing Elvandar settles in paper somewhere on Vessel Street, and Greystone writes or endorses a
@@ -590,30 +590,6 @@ House Silverbrook maintained imperial legal precedents and court chronicles. The
 
 ---
 
-### House Umberlow - "The Paper Lords"
-**Previous Status**: Great house; the largest of Kaha'an's money houses  
-**Fate**: Destroyed by the Rending's defaults within two years; no surviving line
-
-House Umberlow held the imperial capital's money trade — deposits, bills drawn against the provinces,
-credit advanced to the great agricultural houses against harvests not yet in. Their wealth was the largest
-in the city that was not land, and they were reckoned untouchable for exactly that reason.
-
-**The Rending destroyed them more completely than it destroyed anyone who died in it.** Every other house
-lost assets. Umberlow lost **counterparties**. Their capital was claims — against estates that became
-desert in an afternoon, against caravans that stopped arriving, against families like House Meridian who
-were simply gone — and a house whose book *is* the house does not survive its book going bad. Kemvimore
-lost its land and had a business left to reinvent; Umberlow had nothing left to reinvent, because the
-promises were the business. They were solvent on paper for some months and were not solvent at all, and the
-distinction closed on them the first winter.
-
-**This is the reason no financier sits on the Coterie**, and it is a better reason than an oversight. The
-Coterie was assembled in the year the only question was who keeps the city alive until spring, by three
-people who held food, water and metal. In that year a money house is the most worthless institution in
-Kaha'an. The mechanism, and what replaced it, is in
-`Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
-
----
-
 ### House Thornwood - "The Garden Keepers"
 **Previous Status**: Landscape architects and agricultural aesthetics  
 **Fate**: Purpose eliminated by environmental transformation
@@ -642,6 +618,30 @@ House Thornwood specialized in landscape design and maintained the beautiful gar
 ### House Ironwood
 **Status**: Former forest managers whose purpose was eliminated by environmental change  
 **Political Alignment**: Seeking relevance through any available opportunity
+
+### House Umberlow - "The Paper Lords"
+**Rank**: Barony before and after the Rending
+
+**Status**: Formerly the largest of Kaha'an's money houses. The Rending's defaults destroyed its business within two years and left the baronial line impoverished.
+
+House Umberlow held the imperial capital's money trade — deposits, bills drawn against the provinces,
+credit advanced to the great agricultural houses against harvests not yet in. Their wealth was the largest
+in the city that was not land, and they were reckoned untouchable for exactly that reason.
+
+**The Rending ruined the Paper Lords.** They lost their **counterparties**. Their capital was claims
+against estates that became desert in an afternoon, caravans that stopped arriving, and families like
+House Meridian who were simply gone. Kemvimore lost its land and still had a trade to reinvent. For
+Umberlow, the promises were the business. They looked solvent on paper for a few months, until the
+first winter made it plain that their debts would come due and the money to pay them would never arrive.
+
+**This is the reason no financier sits on the Coterie**, and it is a better reason than an oversight. The
+Coterie was assembled in the year the only question was who keeps the city alive until spring, by three
+people who held food, water and metal. In that year a money house is the most worthless institution in
+Kaha'an. The mechanism, and what replaced it, is in
+`Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
+
+Between Books 7 and 8, Irene Umberlow is trying to restore the family's fortunes. See
+[The Marriage of the Tiger Prince](../../The%20Marriage%20of%20the%20Tiger%20Prince.md).
 
 ---
 

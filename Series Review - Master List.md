@@ -2373,9 +2373,9 @@ no seat."** Houses in `Places/Kaha'an/houses_of_kahaan.md`; full reasoning in th
 
 **Kaha'an has a money trade and it holds no political power, on purpose.** The Rending was a mass-default
 event: it destroyed the money houses more completely than anyone, because their capital was claims against
-estates that had just become desert. **House Umberlow**, the pre-Rending great house, is extinct and is in
-the Lost Houses for exactly this reason — it exists to be the answer to *why is there no banker on the
-Coterie*.
+estates that had just become desert. **House Umberlow** lost its banking business to those defaults.
+The baronial line survived in poverty. The disappearance of its business still explains why no banker
+sat on the Coterie.
 
 **Nobody inherited it, and no successor state is to be written as a financial centre.** *(Twice corrected
 2026-08-05 on the author's checks — first for saying Vartonne, then for saying Erulius. **Both were the same
@@ -3042,6 +3042,18 @@ son to sign. The council governs as the Coterie did. The palace and its wards ar
 original. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa's sheet, and the Book 8
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
+
+### The Marriage of the Tiger Prince — author's design, 2026-11-19
+
+Tiberian marries Irene Umberlow at eighteen between Books 7 and 8. [The Marriage of the Tiger Prince](The%20Marriage%20of%20the%20Tiger%20Prince.md)
+holds the courtship and the blue dress. [The Children of the Great Hunt](Offstage.md#the-children-of-the-great-hunt)
+holds Lucien Vey's part in the conspiracy. Celestine refuses Lucien's request, believes his promise to
+withdraw, and learns otherwise at his arrest. Lucien is publicly executed with the other ringleaders.
+House Umberlow has always been a barony. The Rending ended its banking business and left the family
+impoverished. Irene is trying to restore its fortunes.
+
+Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
+remain open for the Book 8 draft.
 
 ### The Erulian Union — author's design, 2026-11-02
 

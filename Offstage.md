@@ -893,7 +893,11 @@ Book 2 rather than backing Rosik.
 
 **When:** The ban, among Elara's first edicts after Book 1. The conspiracy, between Book 7 and Book 8.
 **Who:** Melina Valanar and Nessa Halcin; Elara, Xion and Tiberian Valanar, and Kess Ashwood; the heirs of the
-hunting houses; an unacknowledged son of Kalden Erulius; the Long Knives; a lesser house of assassins.
+hunting houses, including Lucien Vey; an unacknowledged son of Kalden Erulius; the Long Knives; a lesser
+house of assassins.
+
+Lucien's approach to his sister Celestine and the consequences for Tiberian's courtship are recorded in
+[The Marriage of the Tiger Prince](The%20Marriage%20of%20the%20Tiger%20Prince.md).
 
 ### The ban
 
@@ -923,6 +927,12 @@ It began as idle talk. The young nobles saw each other at soirées and masquerad
 in that position talk. Then someone said something dangerous as a joke, and nobody laughed. Someone asked,
 obliquely, whether he was serious, and the silence was an answer. **The next gathering was a great deal more
 tense than the last.**
+
+**Lucien Vey turned the talk into a conspiracy.** The fall of the Grain cartel had cost his house much of
+its old wealth and influence. He became the circle's principal financier, began giving orders and got men
+who had spent their evenings complaining to commit themselves. The money gave him the authority to do it.
+Every man he ordered about was a noble in his own right, and Lucien treated them like servants. The circle
+owed its ability to act to a man much of it could barely stand.
 
 **What they wanted was not a death. It was the Coterie back, with themselves in its chairs.** For twenty years
 the city had been ruled in the Valanar name by people who were not Valanars, and their houses had been great
@@ -998,10 +1008,10 @@ behave as though they were not there, rubber-stamping whatever the council put i
 council governed the city as the Coterie had. **It was a restoration, and what it restored was the
 interregnum.**
 
-**Their weight was real but borrowed in part.** A few of the ringleaders were heads of their houses by then,
-and they gave the plot its resources. Most were heirs, who gave it its conviction, and who were betting that
-parents who had let the Hunt go without a fight would fall in line once the thing was done. **That bet was
-never tested.**
+**Their weight was real but borrowed in part.** Alongside Lucien's money, a few ringleaders who were heads of
+their houses supplied resources of their own. Most were heirs, who gave the plot its conviction and were
+betting that parents who had let the Hunt go without a fight would fall in line once the thing was done.
+**That bet was never tested.**
 
 **Neither was the Arol Batae.** The circle reckoned that the desert people who raised Elara guard the throne
 and the blood, and that a Valanar on the throne would keep them in their barracks. It was a fair inference
@@ -1026,8 +1036,8 @@ standing with the crown on a single contract. **They did not interfere, either.*
 other houses' contracts, however ill-advised, would soon have no clients of its own. That would be worse
 business still.
 
-**A lesser house took the job instead**: a smaller outfit, hungry to make its name, which saw the Long Knives'
-refusal as an opening rather than a warning.
+**Lucien found a lesser house that took the job instead.** The smaller outfit was hungry to make its name
+and saw the Long Knives' refusal as an opening rather than a warning.
 
 ### How she found it
 
@@ -1045,8 +1055,9 @@ my family.* She could not confirm it without warning them.
 ### How it was taken apart
 
 **Melina and Nessa peeled it apart from the inside.** Not everyone in it was a true believer, and the pattern
-that showed her the plot also showed her the people with doubts. Their questions to the broker sounded like
-looking for an exit rather than planning a killing. **Melina found them. Nessa worked them.** The Orb Weaver
+that showed her the plot also showed her the people with doubts. Lucien had already given some of them a
+reason to want out. Their questions to the broker sounded like looking for an exit rather than planning a
+killing. **Melina found them. Nessa worked them.** The Orb Weaver
 sells nothing but information, and it did not need to sell anything else. The doubters were told, accurately
 and for a price, what they were part of: that the Long Knives had turned the job down; that Kess Ashwood had
 not left the prince's side since the Green Cities; that an empress who once declined to arrest two-fifths of
@@ -1082,7 +1093,7 @@ what she told them she could only have known from her own books. **The family co
 first time that rule was ever called on.** She did not burn the brokerage. She used it hard enough that it
 could be seen.
 
-**The ringleaders, as she identified them, were tried for high treason and publicly executed.** That was
+**The ringleaders she identified, including Lucien Vey, were tried for high treason and publicly executed.** That was
 justice, plainly: they had tried to murder the empress, her consort and her heir, and no society treats
 regicide lightly. **It was also convenient, and she knew it.** The men who could put the pieces together were
 the men who had run the buying, and the men who had run the buying were the ringleaders. She wrote the list,
