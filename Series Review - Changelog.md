@@ -12547,3 +12547,7 @@ Added to *The Marriage of the Tiger Prince* why Celestine's belief in Lucien's p
 ### 2026-11-19 - House Vey's losses and the Hunt
 
 Reconciled House Vey's losses: *Offstage* now matches the marriage chronicle and Celestine's sheet (a substantial share of its wealth and much of its influence; the house remains rich). Recorded on both Vey sheets that House Vey was a hunting house, as *Offstage* already lists Lucien among the heirs of the hunting houses. Neither sibling remembers the Hunt. Celestine's view of it is left open. No chapter prose, beat drafts or Royal Road output changed.
+
+### 2026-11-19 - Irene is the baron's daughter
+
+Irene no longer holds the Umberlow title. Her father, Baron Umberlow, is alive and old, and she handles almost all of the house's real financial business. Updated the marriage chronicle, Irene's backstory and relationships, and her entry in `Names.md`. Recorded the ruling in the master list. No chapter prose, beat drafts or Royal Road output changed.

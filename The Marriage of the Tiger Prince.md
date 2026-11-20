@@ -27,9 +27,10 @@ Aurelia Alric thought Tiberian handsome and would have been content to marry him
 wanted the match a great deal more than she did. At the balls she kept company with Celestine. Aurelia
 rarely started anything with Irene, but she laughed when Celestine did.
 
-Irene Umberlow was an impoverished baroness. Her house had once been the Paper Lords, the richest money
-house in the capital, and its fortune had gone with the Rending. Irene was trying to restore it. She went
-to the balls for the people at them, the nobles with goods to sell and credit to extend. She liked her
+Irene Umberlow was the daughter of an impoverished baron. Baron Umberlow was old, and Irene handled
+almost all of the house's real financial business. Her house had once been the Paper Lords, the richest
+money house in the capital, and its fortune had gone with the Rending. Irene was trying to restore it.
+She went to the balls for the people at them, the nobles with goods to sell and credit to extend. She liked her
 blue dress and wore it to every ball because it was the one good dress she could afford. She never
 approached the prince. She had better things to do with an evening, and she did not think marriage to
 the crown prince of Balisha a realistic goal for someone like her.
@@ -89,7 +90,7 @@ Nessa had grown up in Melina's rooms and thought of Tiberian as something close 
 he ought to know who he was being asked to consider. When Elara mentioned that Celestine had been asking
 after him again, and Tiberian said she seemed very nice, Nessa said nothing against her. Afterward, and
 quietly, she told him about the evening of the blue dress, and left him to decide how nice a woman was
-who was lovely to the crown prince and not to a baroness with one good gown.
+who was lovely to the crown prince and not to a baron's daughter with one good gown.
 
 ## The Vey siblings
 

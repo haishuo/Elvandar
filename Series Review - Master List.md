@@ -3101,8 +3101,11 @@ decided: that borrowing is a possible way for Irene into the Great Hunt investig
 instrument.)*
 
 **House Vey was a hunting house**, as `Offstage.md` already said; both Vey sheets now carry it, and
-House Vey's losses now read the same everywhere. **Open:** what Celestine thinks of the Hunt, and
-whether Irene holds the Umberlow barony herself or is a baron's daughter.
+House Vey's losses now read the same everywhere. **Open:** what Celestine thinks of the Hunt.
+
+**Irene is the baron's daughter, author's ruling 2026-11-19.** Baron Umberlow is alive and old, and
+Irene handles almost all of the house's real financial business. How he regards her trading and the
+match is open.
 
 Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
 remain open for the Book 8 draft.

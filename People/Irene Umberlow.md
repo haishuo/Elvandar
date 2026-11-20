@@ -89,7 +89,7 @@ little weight in the decision.
 House Umberlow has always been a barony. Before the Rending it held the largest banking business
 in Kaha'an. Provincial bills, deposits and advances against future harvests made its fortune. The
 Rending took the estates, trade routes and debtors on which its claims depended. The family kept its
-rank and its knowledge of the business. Irene inherited both in a house that could barely afford
+rank and its knowledge of the business. Irene grew up with both in a house that could barely afford
 to dress her for court. [House Umberlow](../Places/Kaha%27an/houses_of_kahaan.md#house-umberlow---the-paper-lords)
 holds the history.
 
@@ -152,6 +152,12 @@ in the [editorial record](../Series%20Review%20-%20Master%20List.md#the-marriage
 ---
 
 ## Relationships
+
+### Baron Umberlow (Father)
+
+Her father holds the title. He is old, and Irene handles almost all of the house's real financial
+business. The contracts may go out in the baron's name, but the bargains are hers. How he regards her
+trading, and the match, is open.
 
 ### Tiberian Valanar (Husband)
 
