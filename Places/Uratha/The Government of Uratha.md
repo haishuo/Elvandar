@@ -6,7 +6,7 @@ Uratha is an **academic oligarchy with an elected Scholar-King**. It claims legi
 
 ### The Council of Provosts
 
-The ruling body of Uratha consists of the heads of each Tower — the great academic institutions that form both the physical and intellectual spine of Urathan civilization. Each Provost holds dual authority as both head of their Tower's scholarly discipline and as a provincial governor in all but name:
+The ruling body of Uratha consists of the heads of each Tower — the great academic institutions that form both the physical and intellectual spine of Urathan civilization. Each Provost holds dual authority as both head of their Tower's scholarly discipline and as a provincial governor in all but name. The officeholders below are those of the opening books:
 
 - **The High Provost** — Currently Elaris Venn, head of the Amethyst Tower (Theoretical Magic), who serves as first among equals on the Council
 - **The War Provost** — Kandor Belus, head of the Ruby Tower, responsible for defense and martial training; often seen as the most practical-minded member
@@ -27,18 +27,22 @@ The Council meets weekly in the Central Chamber of the Ivory Tower. Their delibe
 
 On formal motions in which the Scholar-King participates, each of the seven Tower Provosts casts one vote and the Scholar-King casts an eighth. In a tie, the Scholar-King's vote counts twice and the side the Scholar-King supported prevails. A motion of [no confidence](#loss-of-confidence) is decided by the seven Provosts alone.
 
+The Scholar-King sets the dates of Council votes and must give every Provost the required formal notice. A Provost's unavailability does not automatically postpone a duly notified vote. Council votes must be cast in person; neither a proxy nor a written ballot sent in advance can substitute for attendance.
+
+Constitutional changes require the Council's assent. The Scholar-King may propose an amendment but cannot enact one by decree or change the rules of removal on the authority of the office alone.
+
 **The Scholar's Crown.** A permanent transfer of custody requires a Council vote. Draskin carried the Book 3 motion on his casting vote. His mandate required exclusive foreign scholarly access to Hauren. He could negotiate its extent, including the exclusion of the sealed chamber. The [account of the Crown vote](../../Offstage.md#the-vote-on-the-scholars-crown) gives the division and each Tower's reasons.
 
 ### The Scholar-King
 
 Elected from among the Council of Provosts, the Scholar-King represents the highest authority in Uratha:
 
-- The current Scholar-King, Leowin Draskin, was elected five years ago from the Department of Cosmological Studies
+- At the beginning of the series, Scholar-King Leowin Draskin is approximately five years into his first term, elected from the Department of Cosmological Studies
 - The Scholar-King traditionally wears the Scholar's Crown at official functions
 - With the Crown's silence, elaborate ceremonies now involve the Crown being briefly displayed but not worn
 - The Scholar-King maintains the fiction that they consult privately with the Crown on matters of importance
 
-Leowin is regarded as a competent administrator but uninspiring leader, lacking the visionary qualities of earlier Scholar-Kings. His election represented a compromise between factions on the Council, and his rule has been characterized by maintenance of the status quo rather than innovation.
+At the beginning of the series, Leowin is regarded as a competent administrator but uninspiring leader, lacking the visionary qualities of earlier Scholar-Kings. His first election represented a compromise between factions on the Council, and his administration has favored maintenance of the status quo rather than innovation. Unlike many of his colleagues, he enjoys politics. The bargains and rivalries of the Council are work he wants to do, rather than an interruption of the scholarship he would prefer to resume. By Book 8 he is serving a third term; [the account of his reelections](../../Offstage.md#draskins-three-terms) records how he remains in office.
 
 #### Diplomatic and wartime authority
 
@@ -56,7 +60,7 @@ In an open succession, counting continues until two candidates remain, even if o
 
 The Scholar-King serves a ten-year term. The Council expects the scholar it chooses to accept with some reluctance. A decade in the Ivory Tower costs a scholar time with students and can leave an inquiry unfinished for someone else to pursue. Many Provosts feel that sacrifice keenly.
 
-At the end of the term, the customary course is to step down and resume scholarly work. Several Provosts may approach the incumbent privately and ask them to stand again. Taking up that request is honorable. The incumbent is free to enter on their own initiative, though doing so unasked is considered vulgar. Colleagues who approved of a Scholar-King's first term may rank another candidate higher if they think the incumbent too eager to keep the office. An invitation is a sign of support. The election determines whether that support amounts to a majority. Second terms have grown rare in recent centuries.
+At the end of the term, the customary course is to step down and resume scholarly work. Several Provosts may approach the incumbent privately and ask them to stand again. Taking up that request is honorable. The incumbent is free to enter on their own initiative, though doing so unasked is considered vulgar. Colleagues who approved of a Scholar-King's first term may rank another candidate higher if they think the incumbent too eager to keep the office. An invitation is a sign of support. The election determines whether that support amounts to a majority. Second terms have grown rare in recent centuries; third terms are almost unheard of. There is no legal limit on the number of terms, and a third candidacy uses the same election rules.
 
 Once the incumbent wins a majority, the tellers count the original ballots again for High Provost. All seven Tower Provosts start this count. The tellers skip the reelected Scholar-King on every ballot and credit each vote to the highest-ranked Provost listed on it. They apply the same transfer and tie rules, using only rounds from this count for countback. The first Provost to receive four votes becomes High Provost.
 
@@ -64,11 +68,21 @@ Once the incumbent wins a majority, the tellers count the original ballots again
 
 The Council may remove a sitting Scholar-King through a vote of no confidence. Bringing the motion requires the sponsorship of four of the seven Provosts. Once that requirement is met and no waiting period applies, the chair must put it to a recorded vote. Each of the seven Provosts has one vote, including the High Provost. The Scholar-King has none on the motion. Removal requires two-thirds of the full seven seats, or five affirmative votes. An absence or abstention leaves that threshold at five.
 
+Five of the seven Provosts must be present for a no-confidence vote to be valid. A Provost who attends but recuses from the vote counts toward this quorum without casting a ballot. The Scholar-King does not count toward it. Sponsoring the motion does not substitute for attending and voting. Without a quorum, no valid vote has occurred and no waiting period begins.
+
 Removal takes effect when the motion carries.
 
 If the motion fails, no further motion of no confidence may be brought against that Scholar-King for two years from the date of the failed vote. Ordinary Council business continues under the usual voting rules during this period.
 
 A Scholar-King who learns privately that five colleagues will vote for removal has good reason to step down before the session. A public announcement of a return to scholarship gives the incumbent a dignified departure and can spare the Provosts a formal breach with a colleague.
+
+The [failed vote after Book 8](../../Offstage.md#the-failed-vote-against-draskin) records how Draskin uses the scheduling power, quorum, and waiting period to retain office despite five Towers seeking his removal.
+
+#### Criminal immunity while in office
+
+While in office, the Scholar-King is immune from criminal prosecution in Urathan courts for conduct undertaken under claimed official authority. The protection includes alleged abuses of that authority: an accusation that an official act was criminal does not itself lift the immunity. Its stated purpose is to prevent criminal proceedings from being used to disable the national executive. The Council is expected to remove an officeholder whose alleged conduct makes continued service unacceptable, allowing the courts to determine criminal guilt afterward. A no-confidence vote does not require a prior criminal conviction and does not itself establish guilt.
+
+The immunity postpones prosecution; it does not make the conduct lawful or extinguish criminal responsibility. Investigators may gather and preserve evidence while the Scholar-King remains in office, and other participants may be prosecuted. The protection ends when the Scholar-King leaves office, whether through removal, resignation, or the expiration of a term without reelection. Proceedings against the former officeholder may then begin. Remaining in office after a failed no-confidence vote preserves the immunity for as long as the incumbent continues to hold office.
 
 #### Vacancy during a term
 
@@ -171,7 +185,7 @@ To maintain Uratha's system of regulated free inquiry, the nation employs **the 
 - They enforce the rulings of the Council of Provosts
 - They hunt those who practice unsanctioned magic or conduct unregistered research
 - Their authority extends throughout Urathan territory
-- They report directly to the Council of Provosts, bypassing normal departmental hierarchies
+- They are accountable to the Council of Provosts collectively, bypassing normal departmental hierarchies; operational orders ordinarily come through the Scholar-King, whose authority to issue them continues while the office is held, including after a failed no-confidence vote
 - Their training combines magical combat, investigation techniques, and academic knowledge
 - They are recruited exclusively from the scholarly class, with preference for those with Onyx Tower backgrounds or multi-disciplinary training
 - When a scholar joins the Ilhamori, they shed their tower robe entirely; institutional identity replaces disciplinary identity. Their livery is a deep ink-blue — darker and more uniform than Sapphire Tower's blue — with no tower-color body and no cuff rank bands. A silver service pin at the collar marks their commission. Most Urathans read the deep blue as an extension of law and order, which is the Sapphire Tower's domain; that Ilhamori recruits come predominantly from the Onyx Tower is not publicly documented, and the color misdirection is not accidental

@@ -151,6 +151,8 @@ observed, and nothing a Balishan character could point at. → **B8: the Globeha
 arrive already knowing what this institution does to a mind it finds interesting. **The thread is the study,
 not the object.** Full ruling in `Places/Uratha/Uratha_ The Land of Scholars.md`, "What ch13 does to them."
 
+**Draskin's wartime standing and continued tenure.** B4's Continental War supplies the reason colleagues ask him to seek a second term. He volunteers for a third without an invitation and wins through initial support sufficient to survive elimination and subsequent transfers. By B8 he is in that third term. The Globehall's exposure leads to the post-book removal crisis, not an automatic vacancy. [Three terms](Offstage.md#draskins-three-terms) · [Failed removal](Offstage.md#the-failed-vote-against-draskin)
+
 **The empty Grain chair.** B2 ch16–19: Rosik exiled, the cartel broken, Melina Kemvimore dead. → **B3 ch1,
 already written and doing the whole job**: *"The first was Grain. There was no one to send… the thing that
 had made those parts into a cartel had been a single man's attention, and that attention was somewhere east
@@ -1282,6 +1284,10 @@ The Tower faculty controls ordinary recall of its Provost. Local officials spend
 A *bakarn* witness's testimony alone can sustain a scholar's conviction. Uratha recognizes *bakarn* families and personal property. Marriage to a scholar is lawful and confers no scholarly privileges. [Testimony, family, and personal property](Places/Uratha/The%20Government%20of%20Uratha.md#testimony-family-and-personal-property)
 
 The [Council's casting-vote rule](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) governs the Book 3 Crown offer. [The offstage vote](Offstage.md#the-vote-on-the-scholars-crown) sets Draskin's mandate and the risk to his office if he gives up exclusivity. Xion never witnesses the division.
+
+**Uratha's post-Book 8 constitutional crisis (2026-11-19).** The Scholar-King schedules duly notified votes; Council ballots require personal attendance. Five Provosts constitute a no-confidence quorum, including an attending Provost who recuses; the Scholar-King does not count. Criminal immunity for acts undertaken under claimed official authority lasts while the office is held, permits evidence gathering and prosecution of other participants, and ends on departure from office. The Ilhamori are accountable to the Council collectively and ordinarily receive operational orders through the Scholar-King. Constitutional amendments require Council assent, not an executive decree. [Government rules](Places/Uratha/The%20Government%20of%20Uratha.md)
+
+Draskin enjoys politics. An ordinary first election is followed by an invited second candidacy based on wartime service, then an uninvited third candidacy won through the ranked ballot. Second terms are rare and third terms almost unheard of, but legally permitted. [Offstage](Offstage.md#draskins-three-terms) owns that history. [The failed vote and its aftermath](Offstage.md#the-failed-vote-against-draskin) own the four-to-zero result, the five Towers' opposition, the uneven implication of the Towers, the approach to Belus, and the proposed unanimity amendment. The amendment has not passed; no subsequent outcome is established. Book 8 ends the Globehall, not every ensuing constitutional dispute.
 
 Decided. Retained so they are not reopened or re-flagged.
 
@@ -3083,6 +3089,8 @@ where Book 5 has Tiberian at sixteen.
 ---
 
 ## 7. Open questions
+
+**Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, and Draskin's proposed unanimity amendment. What follows remains open. Sapphire scholars' individual complicity and Amethyst's intent in supplying the quorum are not established. The exact minimum notice period for Council votes and the full constitutional-amendment procedure remain unspecified; the settled rules require notice and Council assent. [Account](Offstage.md#the-failed-vote-against-draskin) · [Government](Places/Uratha/The%20Government%20of%20Uratha.md)
 
 **One language-history foundation is open:** the founding date and local population of Urath IV's academy.
 Urathan's genealogy, Balishan's deeper Halauric ancestry, Vartonne's settlement history, Valan I Valanar's

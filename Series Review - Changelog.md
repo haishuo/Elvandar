@@ -12499,3 +12499,11 @@ The government document now opens with Uratha's classification as an academic ol
 ### 2026-11-19 - Sponsorship and waiting period for Urathan no-confidence motions
 
 Recorded the requirement for four Provosts to sponsor a no-confidence motion, retaining the five affirmative votes required for removal. A failed vote bars another no-confidence motion against that Scholar-King for two years from the vote. Clarified the exception to the ordinary proposer-and-seconder procedure in the government document and updated the settled ruling in the master list.
+
+### 2026-11-19 - Draskin's third term and the constitutional crisis after Book 8
+
+Added Council scheduling and personal-attendance rules, the five-Provost no-confidence quorum and treatment of recusal, temporary criminal immunity for acts undertaken under claimed official authority, Council assent for constitutional changes, and the Ilhamori's operational chain of command to the Uratha government document. Clarified the opening-books officeholder snapshot and the legal possibility and social rarity of a third term.
+
+Added two accounts to *Offstage*: Draskin's ordinary first election, invited wartime-service reelection, and uninvited third victory through the ranked ballot; and the failed post-Book 8 removal vote, uneven Tower implication, Sapphire's evidence work and absence, Amethyst's recusal, the two-year bar, the Valanar twins' reactions, the Ilhamori approach to Belus, and the proposed but unpassed unanimity amendment. Recorded the boundary of the settled account without inventing a subsequent outcome.
+
+Linked the tenure and aftermath from the story timeline and Book 8 outline. Clarified the outline's reference to the implicated inner circle and removed the implication that ending the Globehall also disposes of every political opponent. Updated the master list's cross-book thread, settled rulings, and open questions. No chapter prose, beat drafts, or Royal Road output changed.

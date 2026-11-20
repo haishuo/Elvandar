@@ -204,7 +204,9 @@ The series ends with the Valanar family's story complete.
 
 The Globehall is resolved — however the impossible choice plays out, the horror is ended. Uratha must rebuild itself honestly, without the crutch of extracted minds, without the lie of the silent Crown. The shattered mirror — the beautiful civilization that hid atrocity in its basement — is swept away.
 
-The Valanars return to Balisha. The empire is whole. The enemies are all gone — Kalden dead, Rosik dead, the cartels dismantled, the Warrens transformed, and now Uratha's secret exposed and addressed. The world is changed. The old order is gone. The next generation has proven themselves.
+The Valanars return to Balisha. The empire is whole. Kalden is dead, Rosik is dead, the cartels are dismantled, the Warrens transformed, and now Uratha's secret is exposed and the atrocity ended. The world is changed. The next generation has proven themselves.
+
+Ending the Globehall does not itself remove Draskin from office or complete Uratha's political reconstruction. The constitutional crisis following the book is recorded in [Offstage — The Failed Vote Against Draskin](../Offstage.md#the-failed-vote-against-draskin), outside the family's final adventure.
 
 **For Harkim:** The war that started in Book 4 is over. Not the Continental War — that ended in six months. *Harkim's* war. The private one, fought against a system he once believed in, then doubted, then quietly mapped from the inside for years. The notebook became a network. The network helped break open the worst secret on the continent. And Lira — his sister, the woman he hid out of love and not conviction — can finally live in a world where no one needs to hide what they are.
 
@@ -217,6 +219,8 @@ Eight books. Beginning, middle, end. Done.
 ---
 
 ## Structural Notes
+
+**The implicated Provosts:** References to the Provosts concealing or defending the Globehall concern the implicated inner circle, not every Tower or every member of the Council. The distribution of responsibility and the five Towers seeking removal are established in [Offstage](../Offstage.md#the-failed-vote-against-draskin). Draskin holds office during this book through his [third election victory](../Offstage.md#draskins-three-terms); his continued tenure is not an extension of his original term.
 
 **The mirror metaphor:** The title — Shattered Mirror — works on multiple levels. Uratha is the mirror: a civilization that appeared to reflect enlightenment but actually concealed horror. The Globehall shatters that reflection. Elara's Hauren-connection is a mirror too: the Haureni technology that she marveled at in Book 3 has a dark reflection in the Globehall's extraction process. And the family dynamic is a mirror: the children rescue the parents, reversing the direction of protection that defined the original trilogy.
 
