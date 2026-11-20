@@ -3042,6 +3042,17 @@ original. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa'
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 
+### The Union and Kaha'an by Book 7 — author's ruling, 2026-11-20
+
+**The grain trade grew into a warm relationship.** By Book 7 Kaha'an and the Erulian Union are on good
+terms, through bilateral agreements or simply good diplomatic standing. **The Union is still not in the
+Tripartite Alliance.** In Book 8 this is cover that Irene, Melina and Nessa can use for moving the Crown's
+rescue money without Uratha seeing it. Recorded in `The Erulian Union.md`, *By Book 7: a friend, not an ally*.
+
+**Open:** whether the relationship rests on formal agreements; whether anyone in the Union government
+knowingly helps; and the exact route the money takes. The Port Valen return-ships corridor has been
+discussed but is not recorded.
+
 ### The Partition of Erulius — author's design, 2026-11-20
 
 **New entry, `Offstage/The Partition of Erulius.md`.** After Kalden's death his creditors own the rump and

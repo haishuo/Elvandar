@@ -81,6 +81,22 @@ Warrens**. It is not the empty Grain chair refilled, since nobody coordinates it
 Kaha'an eats, and the empty chair*). **Never write it as a solution to the Warrens.** It is the reason the
 Noble District eats well while the Warrens do not.
 
+### By Book 7: a friend, not an ally
+
+**The trade became a relationship.** The grain contract was the Union's first order of business, and it kept
+working. By Book 7 Kaha'an and the Union are on warm terms, the kind of relationship that bilateral
+agreements, or simply good diplomatic standing, build up around a trade both sides depend on. *(Author's
+ruling, 2026-11-20.)*
+
+**The Union is not in the Tripartite Alliance**, which remains Balisha, Uratha and Terinok. Nothing about
+the relationship needs the Alliance. It is two governments that do a great deal of business together and
+have every reason to keep it going.
+
+**What depends on it.** In Book 8 the Crown pays for the rescue, and the money has to move without Uratha
+seeing it (`Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*). The Union borders Uratha, and a
+long, friendly, well-regulated trade makes Balishan money and cargo in Port Valen unremarkable. That is
+the kind of cover Irene, Melina and Nessa can use. How exactly they use it is not yet set.
+
 ### With the rump: less than geography would predict
 
 **The rump is the Union's natural partner**, being the closest and sharing a border, roads and rivers. **They
@@ -109,5 +125,8 @@ him, and the narration does not either.**
 - **The twelve houses' Heartland estates.** The noble holdings in the Heartlands either were lost when the
   Union left, or are held across a hostile border by absentee landlords. Unsettled. If lost, it is one more
   reason those houses were willing to buy the rump cheaply.
+- **The form of the Book 7 relationship.** Whether it rests on formal bilateral agreements or only on good
+  diplomatic standing is unsettled, and so is whether anyone in the Union government knowingly helps with
+  the Book 8 rescue money.
 - **Its currency.** Presumably it kept the denar. Nothing depends on it. See `Languages/Currencies of
   Elvandar.md`.
