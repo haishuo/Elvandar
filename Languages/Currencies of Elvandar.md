@@ -16,7 +16,7 @@
 
 The sound-forms are approved. Proposed deeper etymologies are research/design briefs, not completed native-language derivations. In particular, do not reverse-engineer “coin” from *Thal'krev, thal'zhuum*: the phrase is attested, its internal analysis is not settled.
 
-The old imperial coin is the **jenel**. Related names in successor states do not establish interchangeable coins, equal value, or a common modern monetary authority. Vartonne's currency remains depreciating. Uratha gains no money trade; Terinok continues to require advance payment and refuse paper on principle. Erulian wealth remains extractive, not evidence of a continental financial centre.
+The old imperial coin is the **jenel**. Related names in successor states do not establish interchangeable coins, equal value, or a common modern monetary authority. Vartonne's currency remains depreciating. Uratha has banks of its own but no banking houses of international reach; Terinok continues to require advance payment and refuse paper on principle. Erulian wealth remains extractive, not evidence of a continental financial centre.
 
 ## Kalden's Imperial jenel
 

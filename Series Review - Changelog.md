@@ -12595,3 +12595,7 @@ Recorded where the money for Tiberian's rescue comes from: the Balishan Crown, o
 ### 2026-11-20 - The Union and Kaha'an by Book 7
 
 Added *By Book 7: a friend, not an ally* to `The Erulian Union.md`: the grain trade has grown into warm relations with Kaha'an, through bilateral agreements or good diplomatic standing, and the Union is still outside the Tripartite Alliance. It notes that this is cover Irene, Melina and Nessa can use for the Book 8 rescue money. Added the relationship's form and the Union's knowledge to the file's open questions. Recorded the ruling in the master list. No chapter prose, beat drafts or Royal Road output changed.
+
+### 2026-11-20 - Uratha has banks
+
+Reworded three statements that Uratha "has no money trade", which read as though Uratha had no money or no banks. The intended meaning, per the 2026-08-05 cut of Urathan factors on Vessel Street, is that Uratha has no banking houses of international reach. Uratha has its currency (the zhenel), a treasury and domestic banks, as any state does. Changed in `Languages/Currencies of Elvandar.md`, `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` and the master list's Erulian economy ruling. Earlier changelog entries keep their wording as history.

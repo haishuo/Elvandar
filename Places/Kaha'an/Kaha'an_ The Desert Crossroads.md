@@ -255,8 +255,9 @@ combine, because they are competing for the same lease next year. **That is a fa
 political nullity than portable capital was**, and it is the reason financiers have always survived next door
 to violent men.
 
-**Two neighbours are not in this trade and should not be written into it.** **Uratha** has no money trade in
-canon at all and is not to be given one to fill a sentence. **Terinok** is a cash economy on purpose —
+**Two neighbours are not in this trade and should not be written into it.** **Uratha** has money, a treasury
+and banks of its own, as any state does, but no banking houses of international reach, and it is not to be
+given any to fill a sentence. **Terinok** is a cash economy on purpose —
 *"Thal'krev, thal'zhuum"*, no coin no swords, full payment in advance, no deductions, no renegotiation — which
 is a standing refusal to accept paper, and it is the reason a Terinok contract has to be funded before it can
 be signed. That constraint bites in Book 7.

@@ -2384,7 +2384,8 @@ currency, endemic noble debt, export terms favouring Kaha'ani buyers. **Erulian 
 mines, farms, timber, heavy taxation and the conscription system, per its own Economy section and Kalden's
 sheet; **the twenty-year credentialing project must never be attributed to banking**, and Kalden's Imperial jenel
 is a legitimacy instrument, filed on Kalden's sheet beside the Amber Palace and the Hall of Ancestors. **By
-Book 7 Erulius is mortgaged to the roots.** **Uratha has no money trade and is not to be given one. Terinok
+Book 7 Erulius is mortgaged to the roots.** **Uratha has domestic banks but no banking houses of international reach, and is not to be given
+any. Terinok
 refuses paper on principle** (*"Thal'krev, thal'zhuum"* — payment in advance), so a Terinok contract must be
 funded before it is signed; that constraint bites in Book 7.
 
