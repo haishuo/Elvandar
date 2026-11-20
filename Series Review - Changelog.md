@@ -12517,3 +12517,7 @@ Named Lucien as the principal financier and organizer of the Children of the Gre
 ### 2026-11-19 - Irene and Tiberian's first meeting and quarrel
 
 Added their meeting on Vessel Street, the quarrel over Tiberian securing Irene's price without asking, and his return with flowers and an apology. Recorded Irene's insistence before the wedding that she restore House Umberlow herself, and Tiberian's promise to leave that work in her hands.
+
+### 2026-11-19 - Vey, Alric and Umberlow character sheets
+
+Created and registered character sheets for Celestine Vey, Lucien Vey, Aurelia Alric and Irene Umberlow from the recovered dossiers. Carried forward Irene's Merchant primary and Caretaker secondary. Added Celestine's attempt to visit her imprisoned brother and the Marquis of Vey's refusal to the marriage chronicle. The lesser guild's proposed name and Irene's possible role in the Great Hunt investigation remain open.

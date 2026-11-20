@@ -79,10 +79,14 @@ She was furious. One of the people he meant to kill was the man she meant to mar
 told him to stop seeing his friends and put an end to it. Lucien promised he would. She believed him.
 He went on with it and kept it from her.
 
-His arrest was how Celestine learned he had lied. He was tried and publicly executed for high treason
-with the other ringleaders. Celestine had refused him outright. She had also trusted his promise and
-given Tiberian no warning. She had meant to marry the prince. Now any honest account she could give
-him began with how much she had known about the threat to his life.
+His arrest was how Celestine learned he had lied. She tried to visit him in prison. Her father forbade
+it. He feared that a visit from his daughter would be taken as a show of solidarity with Lucien and
+give the court reason to suspect the rest of House Vey. She never got to see her brother in prison.
+
+Lucien was tried and publicly executed for high treason with the other ringleaders. Celestine had
+refused him outright. She had also trusted his promise and given Tiberian no warning. She had meant
+to marry the prince. Now any honest account she could give him began with how much she had known
+about the threat to his life.
 [The Children of the Great Hunt](Offstage.md#the-children-of-the-great-hunt) records Lucien's part
 in the conspiracy and its defeat.
 

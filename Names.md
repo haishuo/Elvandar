@@ -135,10 +135,10 @@ day. Neither has ever said so to the other on the page.
 
 | Name | Who |
 |---|---|
-| **Irene Umberlow** | Impoverished baroness working to restore House Umberlow; marries Tiberian Valanar |
-| **Celestine Vey** | A marquis's daughter who seeks to marry Tiberian; Lucien's elder sister |
-| **Lucien Vey** | Principal financier of the Children of the Great Hunt; executed for high treason |
-| **Aurelia Alric** | Young woman of Count Alric's house, whose family presses for a match with Tiberian |
+| **[Irene Umberlow](People/Irene%20Umberlow.md)** | Impoverished baroness working to restore House Umberlow; marries Tiberian Valanar |
+| **[Celestine Vey](People/Celestine%20Vey.md)** | A marquis's daughter who seeks to marry Tiberian; Lucien's elder sister |
+| **[Lucien Vey](People/Lucien%20Vey.md)** | Principal financier of the Children of the Great Hunt; executed for high treason |
+| **[Aurelia Alric](People/Aurelia%20Alric.md)** | Young woman of Count Alric's house, whose family presses for a match with Tiberian |
 
 See [The Marriage of the Tiger Prince](The%20Marriage%20of%20the%20Tiger%20Prince.md).
 

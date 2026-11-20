@@ -3056,6 +3056,15 @@ The chronicle establishes that Irene and Tiberian meet on Vessel Street. Their f
 his intervention in her trade without asking. Before the wedding he promises to leave the restoration
 of House Umberlow in her hands.
 
+Character sheets drawn from the recovered dossiers are in `People/` for Celestine Vey, Lucien Vey,
+Aurelia Alric and Irene Umberlow. Irene is Merchant primary and Caretaker secondary. Her other
+ranks and percentages and the three other stacks are open. The chronicle records Celestine trying
+to visit Lucien after his arrest and the Marquis of Vey forbidding it.
+
+**Open for the Great Hunt:** *Gray Mantles* remains a provisional name for the lesser house.
+Whether Irene contributes to the investigation, and how the wedding would line up with that
+contribution, remain undecided.
+
 Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
 remain open for the Book 8 draft.
 
