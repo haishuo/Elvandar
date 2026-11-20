@@ -190,7 +190,7 @@ have a perfectly good evening until Celestine comes over. She can also go home a
 interested in what she has to do tomorrow than in finding an answer for next time.
 
 Aurelia's laughter gives the slight an audience. Irene has reason to remember who laughed, even
-if she has little reason to make a feud of it. When she sends Celestine the dress after the wedding,
+if she has little reason to make a feud of it. When she sends Celestine the dress at the betrothal,
 she borrows Celestine's gift for saying a thing with perfect courtesy and leaves her to receive
 it. Irene permits herself that one pleasure and gets on with her work.
 
@@ -233,4 +233,7 @@ wants it and trust that she can still make the decision afterward.
 4. **Keep her intelligence specific.** She understands terms, credit and incentives. Her sharpest
    observations should come from what she has reason to know in the course of that work.
 5. **The dress is a single act of revenge.** She meant it to land and enjoyed sending it. Her
-   life after the wedding gives her plenty else to think about.
+   life after the betrothal gives her plenty else to think about.
+6. **The dress goes before Lucien's arrest, never after.** It is a slight returned between two young
+   women at court. Sent to a woman whose brother the Crown had just executed, it would be a different
+   act by a different person. Keep it at the betrothal.

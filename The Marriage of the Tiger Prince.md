@@ -90,12 +90,20 @@ about the threat to his life.
 [The Children of the Great Hunt](Offstage.md#the-children-of-the-great-hunt) records Lucien's part
 in the conspiracy and its defeat.
 
-## The wedding and the gift
+## The betrothal and the gift
+
+Tiberian asked Irene to marry him after Celestine had refused her brother, while Lucien was still at
+liberty and nobody outside the conspiracy knew it had gone on. When the betrothal was announced, Irene
+sent Celestine the blue dress with a note.
+
+> *You have admired this dress so often that I thought you would like to have it. Please accept it with my compliments.*
+
+Lucien's arrest came after it.
+
+## The wedding
 
 Before they married, Irene made Tiberian promise to let her restore House Umberlow herself. She wanted
 his word that he would leave the house's fortunes in her hands, even when he saw a way to improve them.
 He gave it. In time she grew easier about asking her husband for help. The choice to ask was hers.
 
-They married before Book 8. After the wedding Irene sent Celestine the blue dress with a note.
-
-> *You have admired this dress so often that I thought you would like to have it. Please accept it with my compliments.*
+They married after the trial and the executions, before Book 8.

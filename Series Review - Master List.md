@@ -3070,8 +3070,16 @@ independent Umberlow business that can outlast her enough to tolerate some ineff
 Irene's percentages and the three other characters' stacks remain open.
 
 **Open for the Great Hunt:** *Gray Mantles* remains a provisional name for the lesser house.
-Whether Irene contributes to the investigation, and how the wedding would line up with that
-contribution, remain undecided.
+Whether Irene contributes to the investigation remains undecided. If she does, it falls during the
+betrothal.
+
+**Sequence settled, author's ruling 2026-11-19:** Lucien approaches Celestine and is refused → Tiberian
+and Irene are betrothed → **Irene sends the dress** → Lucien is arrested, tried and executed → the
+promise and the wedding. **The dress never follows the execution.** Sent to a woman whose brother the
+Crown had just hanged, it would be a political signal against House Vey and a crueler act than the
+one the record wants. It would also let grief into a beat built for one emotion (rule 3). The order
+also keeps Irene away from the family table the conspirators meant to poison, and keeps a possible
+heir out of their plan. Recorded as guardrail 6 on Irene's sheet.
 
 Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
 remain open for the Book 8 draft.
