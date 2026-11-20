@@ -12521,3 +12521,7 @@ Added their meeting on Vessel Street, the quarrel over Tiberian securing Irene's
 ### 2026-11-19 - Vey, Alric and Umberlow character sheets
 
 Created and registered character sheets for Celestine Vey, Lucien Vey, Aurelia Alric and Irene Umberlow from the recovered dossiers. Carried forward Irene's Merchant primary and Caretaker secondary. Added Celestine's attempt to visit her imprisoned brother and the Marquis of Vey's refusal to the marriage chronicle. The lesser guild's proposed name and Irene's possible role in the Great Hunt investigation remain open.
+
+### 2026-11-19 - Irene Umberlow's expanded character sheet
+
+Expanded Irene's sheet in the principal-character format, with paradigm analysis, backstory, chronology, relationships, personal characteristics and guardrails. Developed her pleasure in commerce, her instinct to provide for the people she loves, the effect of her new title on her dealings and the terms on which she accepts Tiberian's help. The sheet carries the consequences of the courtship and links to the marriage chronicle for the events.

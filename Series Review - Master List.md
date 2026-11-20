@@ -3061,6 +3061,10 @@ Aurelia Alric and Irene Umberlow. Irene is Merchant primary and Caretaker second
 ranks and percentages and the three other stacks are open. The chronicle records Celestine trying
 to visit Lucien after his arrest and the Marquis of Vey forbidding it.
 
+[Irene's expanded sheet](People/Irene%20Umberlow.md) records her commercial judgment, her reasons for
+building reserves, and the pressure her new rank puts on ordinary dealings. The promise leaves the
+restoration in her hands. She can still ask Tiberian for help on her own terms.
+
 **Open for the Great Hunt:** *Gray Mantles* remains a provisional name for the lesser house.
 Whether Irene contributes to the investigation, and how the wedding would line up with that
 contribution, remain undecided.
