@@ -177,11 +177,11 @@ apart, and once it is going ahead anyway she tells him first, **all of it, inclu
 the poisoner and the bride.** He is angry for her before he is concerned for himself, and **he never doubts her
 for a moment**; do not write him doing so. Kess and the Arol Batae know within the hour, and the ringleaders
 are executed. **It is not the first attempt on his life, nor the last**; a target on him is an ordinary fact
-of who he is. Account in `Offstage.md`, *The Children of the Great Hunt*.
+of who he is. Account in `Offstage/The Children of the Great Hunt.md`.
 
 **He marries Irene Umberlow before Book 8.** Elara wants him married and requires him at the balls,
 where the young women presented to him soon blur together. He meets Irene on Vessel Street and seeks
-her out there, of his own accord. [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince)
+her out there, of his own accord. [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md)
 records the courtship.
 
 ---
@@ -228,7 +228,7 @@ the crown is still drafting terms, and with a number of people assuming she has 
 changes is her**, not him: somewhere in the going she works out that she could have walked away at any
 point and nobody would ever have stopped her, that it happened on a watch nobody assigned her, and that
 it will not happen twice. When it is over **he does not ask about it**, which is the same thing he has
-always done and the reason any of it worked. **Full account: `Offstage.md`, "The Taking of the Tiger Prince."**
+always done and the reason any of it worked. **Full account: `Offstage/The Taking of the Tiger Prince.md`.
 
 **Their battlefield coordination is real and needs no instruction**, because they are paradigm twins:
 Caretaker primary, Spirited Competitor secondary, reading the same priorities in the same situations.
@@ -251,7 +251,7 @@ and stops it. With Kess he extends freedom without being told. With Irene he has
 bargaining looks to him like a fight he can win on her behalf. He hears it, comes back with a specific
 apology, and before the wedding gives his word to leave the restoration of House Umberlow in her hands.
 **He keeps it.** Do not write the Crown's custom drifting her way, or anyone arranging it for him. See
-[The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince) and Irene's sheet.
+[The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md) and Irene's sheet.
 
 ### Kai
 

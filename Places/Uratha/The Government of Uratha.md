@@ -31,7 +31,7 @@ The Scholar-King sets the dates of Council votes and must give every Provost the
 
 Constitutional changes require the Council's assent. The Scholar-King may propose an amendment but cannot enact one by decree or change the rules of removal on the authority of the office alone.
 
-**The Scholar's Crown.** A permanent transfer of custody requires a Council vote. Draskin carried the Book 3 motion on his casting vote. His mandate required exclusive foreign scholarly access to Hauren. He could negotiate its extent, including the exclusion of the sealed chamber. The [account of the Crown vote](../../Offstage.md#the-vote-on-the-scholars-crown) gives the division and each Tower's reasons.
+**The Scholar's Crown.** A permanent transfer of custody requires a Council vote. Draskin carried the Book 3 motion on his casting vote. His mandate required exclusive foreign scholarly access to Hauren. He could negotiate its extent, including the exclusion of the sealed chamber. The [account of the Crown vote](../../Offstage/The%20Vote%20on%20the%20Scholar%27s%20Crown.md) gives the division and each Tower's reasons.
 
 ### The Scholar-King
 
@@ -42,7 +42,7 @@ Elected from among the Council of Provosts, the Scholar-King represents the high
 - With the Crown's silence, elaborate ceremonies now involve the Crown being briefly displayed but not worn
 - The Scholar-King maintains the fiction that they consult privately with the Crown on matters of importance
 
-At the beginning of the series, Leowin is regarded as a competent administrator but uninspiring leader, lacking the visionary qualities of earlier Scholar-Kings. His first election represented a compromise between factions on the Council, and his administration has favored maintenance of the status quo rather than innovation. Unlike many of his colleagues, he enjoys politics. The bargains and rivalries of the Council are work he wants to do, rather than an interruption of the scholarship he would prefer to resume. By Book 8 he is serving a third term; [the account of his reelections](../../Offstage.md#draskins-three-terms) records how he remains in office.
+At the beginning of the series, Leowin is regarded as a competent administrator but uninspiring leader, lacking the visionary qualities of earlier Scholar-Kings. His first election represented a compromise between factions on the Council, and his administration has favored maintenance of the status quo rather than innovation. Unlike many of his colleagues, he enjoys politics. The bargains and rivalries of the Council are work he wants to do, rather than an interruption of the scholarship he would prefer to resume. By Book 8 he is serving a third term; [the account of his reelections](../../Offstage/Draskin%27s%20Three%20Terms.md) records how he remains in office.
 
 #### Diplomatic and wartime authority
 
@@ -76,7 +76,7 @@ If the motion fails, no further motion of no confidence may be brought against t
 
 A Scholar-King who learns privately that five colleagues will vote for removal has good reason to step down before the session. A public announcement of a return to scholarship gives the incumbent a dignified departure and can spare the Provosts a formal breach with a colleague.
 
-The [failed vote after Book 8](../../Offstage.md#the-failed-vote-against-draskin) records how Draskin uses the scheduling power, quorum, and waiting period to retain office despite five Towers seeking his removal.
+The [failed vote after Book 8](../../Offstage/The%20Failed%20Vote%20Against%20Draskin.md) records how Draskin uses the scheduling power, quorum, and waiting period to retain office despite five Towers seeking his removal.
 
 #### Criminal immunity while in office
 

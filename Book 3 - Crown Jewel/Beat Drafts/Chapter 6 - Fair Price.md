@@ -100,7 +100,7 @@ with a bag of Marks and a lieutenant with a gap in his week, and the entire Comp
 every gang in the Warrens into one organisation, and he shut the labour off for **two months** and outlasted
 three cartels who were certain he would blink — the surface economy seized up within weeks and kept seizing.
 **That is the demonstration that he can close the shafts**, it is already canon on his sheet and in
-`Offstage.md`, and this chapter has been referencing it since beat 20. The clause is credible precisely
+`Offstage/The Forming of the Coterie.md`, and this chapter has been referencing it since beat 20. The clause is credible precisely
 because Kaha'an watched him do it once and has never forgiven him for it.
 
 **What it costs, which is the only reason it is a beat and not a line of paperwork.** Xion asks a man to

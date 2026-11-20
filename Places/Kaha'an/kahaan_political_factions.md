@@ -12,7 +12,7 @@ Four things operate on axes this document cannot measure, and each is noted in i
 price of water.
 
 **Rebuilt 2026-08-01.** The previous version predated the settled account of how the Coterie formed
-(`Offstage.md`, "The Forming of the Coterie") and described a conventional contested monarchy — loyalists
+(`Offstage/The Forming of the Coterie.md`) and described a conventional contested monarchy — loyalists
 awaiting restoration, pragmatists backing the regime, conspirators backing a rival. **That framing does
 not survive the legal architecture.** What follows is the same political landscape re-read through it.
 
@@ -236,7 +236,7 @@ of it.
 consolidated the independent gangs, demanded a seat, was refused, and **withdrew slave labour from the
 surface for two months** — the deep scavenging, the corpse retrieval, the tunnel maintenance. The surface
 economy seized. The Slavers absorbed the loss without breaking. The Coterie blinked. See
-`People/Ronas Dermir.md` and `Offstage.md`.
+`People/Ronas Dermir.md` and `Offstage/The Forming of the Coterie.md`.
 
 **He did not threaten conventional war. He demonstrated dependency**, and the distinction is the whole of
 his political intelligence: the surface treats the Warrens as disposable while relying on the work it

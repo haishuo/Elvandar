@@ -109,7 +109,7 @@ mistake of someone much less good at this than she is.
 **It is tested once and it holds, barely.** Between Book 7 and Book 8 she works the waverers of a conspiracy
 against the Imperial House, as the broker's face. Melina then spends the Orb Weaver to convict the ringleaders,
 and the men who guess the truth go to the gallows with it. **The informant cover comes through unburned.** It
-is the nearest the game has come to costing her the thing she would mind losing. See `Offstage.md`, *The Children of the Great Hunt*.
+is the nearest the game has come to costing her the thing she would mind losing. See `Offstage/The Children of the Great Hunt.md`.
 
 ### What it costs her
 
@@ -166,7 +166,7 @@ Weaver.** That costs Melina, not Nessa — see Melina's sheet.
 and she feels obliged to tell him about anyone he is being asked to consider. She does it with tact and
 never by running anyone down. During his courtship, when he says Celestine Vey seems very nice, Nessa
 quietly tells him what she saw Celestine do to Irene over the blue dress and leaves the judgment to him.
-See [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince).
+See [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md).
 
 ### Celestine Vey and Irene Umberlow
 

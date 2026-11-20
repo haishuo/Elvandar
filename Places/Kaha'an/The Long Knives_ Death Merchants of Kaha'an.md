@@ -14,7 +14,7 @@ were methods of keeping a forbidden threshold invisible before they became a pro
 Two millennia erased the original Late Open Halauri name, the identity of the patron, and the reason the
 Door mattered. The charge survived. The current guild does not know this history; it knows only that the
 Door and its approaches have belonged to the order since time immemorial. The full authoritative account
-is `Offstage.md`, **“The First Charge of the Long Knives.”**
+is `Offstage/The First Charge of the Long Knives.md`.
 
 ### The Long Drift
 

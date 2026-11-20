@@ -203,7 +203,7 @@ weapon and assassination craft the order retained, not the threshold it was crea
 Do not coin the lost title as decorative Halauri. Its semantic burden is known—trusted human custodians
 charged to deny the final approach—but its form must wait for institutional vocabulary tested through the
 grammar.
-Full historical account: `Offstage.md`, “The First Charge of the Long Knives.”
+Full historical account: `Offstage/The First Charge of the Long Knives.md`.
 
 ### Dynastic and Personal Names
 
@@ -434,7 +434,7 @@ The Vartonnese imperial tradition treats throne-name taking as part of what *con
 
 **Given names are frequently Balishan, surnames Erulian**, on the evidence available — *Kalden* is Proto-Balishan (*"The Steady One"*) carried by the house of *Erulius*. A principality whose entire identity is a claim on the **Balishan** imperial succession has an obvious reason to name its sons in the language of the throne it wants, and the pattern should be assumed to run through the nobility. Retainers and commoners are Erulian in both halves.
 
-**Worked example.** *Salvian Ostrus* — the last captain of the Aspirant Guard (`Offstage.md`, "The Recruitment of Kalden Erulius"). *Salv-* is an Erulian root for *keeping, preserving, holding in trust*, which is an ordinary and slightly old-fashioned thing to name a child, and which the man's life makes quietly ironic: he preserved nothing. Nobody in the books remarks on it and nobody should.
+**Worked example.** *Salvian Ostrus* — the last captain of the Aspirant Guard (`Offstage/The Recruitment of Kalden Erulius.md`). *Salv-* is an Erulian root for *keeping, preserving, holding in trust*, which is an ordinary and slightly old-fashioned thing to name a child, and which the man's life makes quietly ironic: he preserved nothing. Nobody in the books remarks on it and nobody should.
 
 ### Gunastran
 - Heavy consonant clusters, *-stran / -grav / -dorn* endings

@@ -290,7 +290,7 @@ and she names the ringleaders, who are executed for high treason. It was justice
 men who could work out who she is, and she knew that when she wrote the list.** That knowledge is the price;
 she does not pretend otherwise to herself, and nobody else learns it. One of them works it out in the cells,
 and she tells him he will take it to the grave. **The family-first line meets a real threat for the first
-time, and the instrument is spent and survives; nothing is burned.** Account in `Offstage.md`, *The Children of the Great Hunt*.
+time, and the instrument is spent and survives; nothing is burned.** Account in `Offstage/The Children of the Great Hunt.md`.
 
 ### What it does in Book 8
 

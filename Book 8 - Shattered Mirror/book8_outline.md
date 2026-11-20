@@ -46,9 +46,9 @@ The process has a horrifying resonance with Hauren technology — similar princi
 
 ### The State Visit
 
-The book opens on an ordinary morning. No ominous feelings. No lingering goodbyes. Tiberian is in the middle of something when his mother kisses him on the cheek. Melina says something mildly sarcastic; Xion laughs. The door closes. That's it. No one goes to bed the night before thinking: *this is the last normal day.* (The family has just come through a conspiracy the court knows only by its executions, and Melina is the reason it came through. The morning is calm because she made it calm. Nobody says so, and nobody should. See `Offstage.md`, *The Children of the Great Hunt*.)
+The book opens on an ordinary morning. No ominous feelings. No lingering goodbyes. Tiberian is in the middle of something when his mother kisses him on the cheek. Melina says something mildly sarcastic; Xion laughs. The door closes. That's it. No one goes to bed the night before thinking: *this is the last normal day.* (The family has just come through a conspiracy the court knows only by its executions, and Melina is the reason it came through. The morning is calm because she made it calm. Nobody says so, and nobody should. See `Offstage/The Children of the Great Hunt.md`.)
 
-Tiberian is married to Irene Umberlow by this point. See [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince).
+Tiberian is married to Irene Umberlow by this point. See [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md).
 
 Xion and Elara arrive in Uratha. It is a triumph. The alliance that survived the Compact War. The Crown that was returned and blazed to life. The reforms Elara championed in Alliance territory now reflected in Uratha's own abolished bakarn system. Everything suggests progress. Partnership. Vindication.
 
@@ -208,7 +208,7 @@ The Globehall is resolved — however the impossible choice plays out, the horro
 
 The Valanars return to Balisha. The empire is whole. Kalden is dead, Rosik is dead, the cartels are dismantled, the Warrens transformed, and now Uratha's secret is exposed and the atrocity ended. The world is changed. The next generation has proven themselves.
 
-Ending the Globehall does not itself remove Draskin from office or complete Uratha's political reconstruction. The constitutional crisis following the book is recorded in [Offstage — The Failed Vote Against Draskin](../Offstage.md#the-failed-vote-against-draskin), outside the family's final adventure.
+Ending the Globehall does not itself remove Draskin from office or complete Uratha's political reconstruction. The constitutional crisis following the book is recorded in [Offstage — The Failed Vote Against Draskin](../Offstage/The%20Failed%20Vote%20Against%20Draskin.md), outside the family's final adventure.
 
 **For Harkim:** The war that started in Book 4 is over. Not the Continental War — that ended in six months. *Harkim's* war. The private one, fought against a system he once believed in, then doubted, then quietly mapped from the inside for years. The notebook became a network. The network helped break open the worst secret on the continent. And Lira — his sister, the woman he hid out of love and not conviction — can finally live in a world where no one needs to hide what they are.
 
@@ -222,7 +222,7 @@ Eight books. Beginning, middle, end. Done.
 
 ## Structural Notes
 
-**The implicated Provosts:** References to the Provosts concealing or defending the Globehall concern the implicated inner circle, not every Tower or every member of the Council. The distribution of responsibility and the five Towers seeking removal are established in [Offstage](../Offstage.md#the-failed-vote-against-draskin). Draskin holds office during this book through his [third election victory](../Offstage.md#draskins-three-terms); his continued tenure is not an extension of his original term.
+**The implicated Provosts:** References to the Provosts concealing or defending the Globehall concern the implicated inner circle, not every Tower or every member of the Council. The distribution of responsibility and the five Towers seeking removal are established in [Offstage](../Offstage/The%20Failed%20Vote%20Against%20Draskin.md). Draskin holds office during this book through his [third election victory](../Offstage/Draskin%27s%20Three%20Terms.md); his continued tenure is not an extension of his original term.
 
 **The mirror metaphor:** The title — Shattered Mirror — works on multiple levels. Uratha is the mirror: a civilization that appeared to reflect enlightenment but actually concealed horror. The Globehall shatters that reflection. Elara's Hauren-connection is a mirror too: the Haureni technology that she marveled at in Book 3 has a dark reflection in the Globehall's extraction process. And the family dynamic is a mirror: the children rescue the parents, reversing the direction of protection that defined the original trilogy.
 

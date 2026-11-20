@@ -114,7 +114,7 @@ By Book 7, she is staying. *Staying is the closest thing to trust she knows how 
 
 ### The kidnapping, between Books 6 and 7
 
-**Full account: `Offstage.md`, "The Taking of the Tiger Prince."** The last of the Slavers took Tiberian
+**Full account: `Offstage/The Taking of the Tiger Prince.md`. The last of the Slavers took Tiberian
 while she was away on one of her absences. **She came back, found him gone, and went and got him** — alone, unauthorised, and without telling anyone, while the crown was still drafting terms.
 
 **What it settled in her**, which is the part that matters here: she worked out that she could have walked
@@ -195,7 +195,7 @@ In wolf form she would be a timber wolf — somewhat smaller than the gray wolve
 - **Pack proximity.** She is, increasingly, where Tiberian is. Not because he requires this. Because the pack-protective drive has finally found something it can attach to, and proximity is its first expression.
 - **Economical speech.** She does not waste words. She does not explain things that do not need explaining. Her communication, when it happens, is precise and minimal — closer to the gray wolf register-shift than to surface-noble conversation.
 - **Stillness under attention.** She has the predator's stillness when observed, the same stillness the gray wolves carry in human form. People notice without always being able to name what they are noticing. It is the quality of being calculated by something that is also calculating distance.
-- **She tracks by scent, and it works on unfamiliar ground.** Between Books 6 and 7 she followed Tiberian through half-built Green Cities she had never walked — raw structures, no settled patterns, nothing she could have navigated by habit (`Offstage.md`, "The Taking of the Tiger Prince"). This is not a flourish. It is the reason a stranger cannot move through a building she is in.
+- **She tracks by scent, and it works on unfamiliar ground.** Between Books 6 and 7 she followed Tiberian through half-built Green Cities she had never walked — raw structures, no settled patterns, nothing she could have navigated by habit (`Offstage/The Taking of the Tiger Prince.md`). This is not a flourish. It is the reason a stranger cannot move through a building she is in.
 
 ### Why Rosik Kemvimore's plan is shaped the way it is
 

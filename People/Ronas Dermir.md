@@ -135,8 +135,7 @@ He styled himself **Slaver King**. The title was not granted by anyone — there
 
 ### Forcing the Coterie
 
-*Full sequence, including what the Coterie was and why it was built to hold exactly three: `Offstage.md`,
-"The Forming of the Coterie."*
+*Full sequence, including what the Coterie was and why it was built to hold exactly three: `Offstage/The Forming of the Coterie.md`.*
 
 The Coterie at that point was a three-way arrangement between Rosik Kemvimore (Grain), Tania Larannas (Water), and Sa Ko Ren (Iron). The three of them had divided the post-Rending city among themselves and had no interest in admitting a fourth. The Warrens were assumed to be ungovernable and therefore not worth seating.
 

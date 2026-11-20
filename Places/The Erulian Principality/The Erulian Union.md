@@ -5,7 +5,7 @@ War.** It took the best farmland on the continent, the largest port in Elvandar,
 both, and it did so without a battle, because the prince it left had no army to send after it.
 
 **It never appears on the page.** Erulius is absent from Book 8, and no outline visits the Union. This file
-exists so that the references to it scattered across Kalden's sheet, `Offstage.md`, the Kaha'an economy and
+exists so that the references to it scattered across Kalden's sheet, `Offstage/`, the Kaha'an economy and
 the Book 5 and Book 7 outlines stay consistent, and so that the border is drawn once. *(Author's design,
 2026-11-02.)*
 
@@ -13,8 +13,7 @@ the Book 5 and Book 7 outlines stay consistent, and so that the border is drawn 
 
 ## How it formed
 
-**The order is the whole explanation, and it is already canon** (`People/Kalden Erulius.md`; `Offstage.md`,
-*The Compact War*). Kalden lost the war. He met the reparations by taxing his people and kept the court in full
+**The order is the whole explanation, and it is already canon** (`People/Kalden Erulius.md`; `Offstage/The Compact War.md`). Kalden lost the war. He met the reparations by taxing his people and kept the court in full
 splendour, and he stopped paying the army. **The army walked away first**: the Provincial Legions, after more
 than a decade of arrears, some four or five years before Book 5. Within a year a third of the principality
 refused taxation and formed the Union, **so it is three or four years old when Book 5 opens**, and its trade

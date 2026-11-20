@@ -37,7 +37,7 @@ cost the family, refuses to help him and believes him when he promises to stop. 
 better, he is in prison and her father will not let her see him. The conventions she can usually turn
 to her advantage give her very little room to act when her own family is the one drawing away.
 
-See [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince) for the
+See [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md) for the
 courtship, Lucien's arrest and the blue dress.
 
 ## Guardrails

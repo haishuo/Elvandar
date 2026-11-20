@@ -15,7 +15,7 @@ The Warrens has no unified government. Power is fragmented among multiple compet
 
 ### **Origin: The Charge That Outlived Its Meaning**
 
-The full canon account is `Offstage.md`, **“The First Charge of the Long Knives.”** The guild descends from
+The full canon account is `Offstage/The First Charge of the Long Knives.md`. The guild descends from
 a human custodial order commissioned by Hauren when the city sealed roughly two thousand years ago. Its
 founding charge was to control the last surviving surface approach to the Brass Door and discourage anyone
 from reaching it. Surveillance, hidden movement, route control, and silent killing began as instruments of

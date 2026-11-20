@@ -92,7 +92,7 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 > (the army walks ~4–5 years before *Walled Garden*, the Union secedes within a year).
 > Xion and Elara wait until victory before trying for children. Tiberian and Melina Valanar are conceived
 > after the war and born roughly nine months later.
-> *Not yet dated. Full account and its open holes: `Offstage.md`.*
+> *Not yet dated. Full account and its open holes: `Offstage/The Compact War.md`.*
 
 **Year ~1062 BR** — **Events of *Walled Garden***
 > The Silaris crisis and the Gallery War. The twins are sixteen. *Year approximate; derived from the
@@ -107,7 +107,7 @@ This timeline outlines major historical events on the continent of **Elvandar**,
 > Kalden Erulius and Rosik Kemvimore make the last play of the old order, and both die within a day of
 > each other. Rosik is approximately sixty-four: old enough that the infiltration requires the precise
 > thinning and timing he builds, but young and practiced enough to believe rationally that he can still
-> execute it. *Between this book and the last, the Taking of the Tiger Prince — see `Offstage.md`.*
+> execute it. *Between this book and the last, the Taking of the Tiger Prince — see `Offstage/The Taking of the Tiger Prince.md`.*
 
 **Year ? BR** — **Events of *Shattered Mirror***
 > The state visit to Uratha and the Globehall. *Interval after Book 7 not established.*

@@ -288,8 +288,9 @@ and the flags never retired. A flag that outlives its problem is worse than no f
 reader trusts it and cuts good material. C-6 pointed at the best passage in ch25 and nearly got
 it deleted.
 
-**`Offstage.md` is canon that never got a scene.** Settled authorial history — the taking of the Tiger
-Prince between Books 6 and 7, and whatever follows it — told as account rather than as scene. **It binds
+**`Offstage/` is canon that never got a scene.** Settled authorial history — the taking of the Tiger
+Prince between Books 6 and 7, and whatever follows it — told as account rather than as scene, **one
+file per story**, with the entry tests in `Offstage/README.md`. **It binds
 on the same terms as a character sheet:** a contradiction with it is a bug, not an alternative reading. An
 entry earns its place only if something in the books depends on it being true; if nothing downstream rests
 on it, it is trivia. **One source, and everything else points at it** — sheets carry the consequence for
@@ -455,7 +456,7 @@ Templates/           document patterns
 Tools/               royalroad_export.py — regenerates every Royal Road/ folder
                      sync_art.sh — moves images between the repo and Backblaze B2
 Character Art/       Structured visual archive. README tracked; raster files live in B2. See below.
-Offstage.md                  canon that never got a scene — see below
+Offstage/            canon that never got a scene, one file per story — see below
 Names.md                     the cast register — every named person, Books 1-8; check before coining
 Story Timeline.md            in-series chronology (authoritative on timing)
 Global Historical Timeline.md

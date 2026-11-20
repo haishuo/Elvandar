@@ -32,7 +32,7 @@ The target is Xion. It was always Xion.
 
 Rosik finds Kalden and reads him in seconds: a broken man with resources (mortgageable, at least), a grievance (bottomless), and no capacity for self-assessment (none whatsoever). The perfect tool.
 
-**Rosik's pitch:** Everything Kalden wants to hear, **and not one word of it false.** Real inside knowledge of Kaha'an (true, and useful only for infiltration — he does not say so). Kalden's previous march on the capital cited as a credential (true, and it lands because Kalden remembers being cheated rather than beaten). A shared hatred of Xion (true, for different reasons). And a question about the funds phrased so that admitting to a difficulty is a humiliation, which makes mortgaging the principality Kalden's own idea. **Rosik never promises a victory** — he declines to correct the one Kalden builds for himself, and Kalden hears that as confidence. Full account and truth-values: `Offstage.md`, "The Recruitment of Kalden Erulius." **The last Aspirant Guard captain tries to stop it and is dismissed for it**, which is the last entry in Kalden's ledger.
+**Rosik's pitch:** Everything Kalden wants to hear, **and not one word of it false.** Real inside knowledge of Kaha'an (true, and useful only for infiltration — he does not say so). Kalden's previous march on the capital cited as a credential (true, and it lands because Kalden remembers being cheated rather than beaten). A shared hatred of Xion (true, for different reasons). And a question about the funds phrased so that admitting to a difficulty is a humiliation, which makes mortgaging the principality Kalden's own idea. **Rosik never promises a victory** — he declines to correct the one Kalden builds for himself, and Kalden hears that as confidence. Full account and truth-values: `Offstage/The Recruitment of Kalden Erulius.md`. **The last Aspirant Guard captain tries to stop it and is dismissed for it**, which is the last entry in Kalden's ledger.
 
 **Kalden's response:** He believes it because he has to. The alliance feels like destiny — two wronged men united against a common enemy. He mortgages his remaining territory to hire mercenaries. He borrows against the northern mines, against the Amber Palace itself, against everything that remains. He commits every last resource to what he believes is his final vindication.
 
@@ -155,8 +155,7 @@ makes an otherwise impossible old man briefly lucky.**
 
 **And underneath the Arol Batae there is Kess Ashwood, who is the actual problem.** Everything else in
 the apparatus can be modelled, thinned, or timed. She cannot. She is dual-natured, pit-bred, and she
-**tracks by scent** — she found Tiberian across half-built cities she had never walked (`Offstage.md`,
-"The Taking of the Tiger Prince"). A stranger moving wrong through a corridor is not a puzzle she has to
+**tracks by scent** — she found Tiberian across half-built cities she had never walked (`Offstage/The Taking of the Tiger Prince.md`). A stranger moving wrong through a corridor is not a puzzle she has to
 solve; it is the one thing she reads instantly. And if she reads him, the fight is not close. **Rosik
 does not survive four seconds with Kess Ashwood**, and he is far too good at assessing capability not to
 know it.
@@ -205,7 +204,7 @@ this plan that runs on money was closed to him before he started.
 So he goes looking for a war he does not have to buy — and Kalden Erulius does not need to be paid,
 recruited, or convinced of anything. **He needs to be agreed with.** Rosik has only to say, accurately
 and in the right order, things the man already believes — and **every claim he makes is true.** The full
-pitch and its truth-values are at `Offstage.md`, "The Recruitment of Kalden Erulius"; the short version
+pitch and its truth-values are at `Offstage/The Recruitment of Kalden Erulius.md`; the short version
 is that his real inside knowledge of Kaha'an is infiltration intelligence and worthless for a siege, that
 he cites Kalden's last march on the capital as a credential rather than a catastrophe, and that he asks
 about money in a form that makes admitting to a difficulty a humiliation, so that mortgaging Erulius is
@@ -221,7 +220,7 @@ is no point at which he can be turned, because nobody is holding him.
 
 **One man saw it and said so.** Captain Salvian Ostrus, the last of the Aspirant Guard, Kalden's butler
 when Kalden was a boy — he went to his prince and asked him not to do this, and was dismissed from the
-house the same day. Account in `Offstage.md`. **Rosik never had to answer him**, which is the purest form
+house the same day. Account in `Offstage/The Recruitment of Kalden Erulius.md`. **Rosik never had to answer him**, which is the purest form
 of the standing rule that Rosik encounters no resistance: the only person who read him correctly was
 removed by somebody else while he stood there and said nothing.
 
@@ -240,7 +239,7 @@ several years younger and considerably less ruined.
 
 **On the second data point, which is why Rosik is confident he will march at all.** This is not Kalden's
 first march on Kaha'an. During the Compact War he abandoned a sound pincer to besiege the capital and
-lost his war doing it — see `Offstage.md`, "The King's Gambit." **He did not learn anything from it**, and
+lost his war doing it — see `Offstage/The King's Gambit.md`. **He did not learn anything from it**, and
 he could not have: his sheet is explicit that he absorbs defeat as persecution rather than processing it,
 so twenty years on he remembers being cheated rather than being baited. **The precedent does not deter
 him. It is proof of exactly the flaw Rosik is levering**, and Rosik has both readings — Silaris says
@@ -346,7 +345,7 @@ Before the storm, the reader sees what Tiberian and Melina have built. The Warre
 
 **Kai** is here, as he always is — at Tiberian's side, handling the operational machinery of the relocation the way he handled the logistics at Silaris. Steady, dry, competent. The reader sees a partnership that has deepened through two crises.
 
-**Kess** is here too, and she has largely finished arriving — on her own terms, at her own pace, and for reasons of her own. **Between this book and the last, Tiberian was taken** by the final remnant of the Slavers while she was away on one of her absences, and **she went and got him back herself** — alone, unauthorised, while half the court assumed she had finally run. What it changed was her, not him. She worked out that she could have left at any point and nobody would have stopped her, and that the day it happened was a day she was not there. *Full account: `Offstage.md`, "The Taking of the Tiger Prince."* **She is still not his soldier and still takes no orders** — but she does not leave any more. She's not Tiberian's soldier and she's not anyone's subordinate, but she's *present*. The woman who ran from the arena and shadowed Tiberian's team through the Warrens is starting, slowly, to accept that these people might be what they appear to be. She's still guarded. She may always be guarded. But she's staying. For Kess, staying is the closest thing to trust she knows how to offer.
+**Kess** is here too, and she has largely finished arriving — on her own terms, at her own pace, and for reasons of her own. **Between this book and the last, Tiberian was taken** by the final remnant of the Slavers while she was away on one of her absences, and **she went and got him back herself** — alone, unauthorised, while half the court assumed she had finally run. What it changed was her, not him. She worked out that she could have left at any point and nobody would have stopped her, and that the day it happened was a day she was not there. *Full account: `Offstage/The Taking of the Tiger Prince.md`.* **She is still not his soldier and still takes no orders** — but she does not leave any more. She's not Tiberian's soldier and she's not anyone's subordinate, but she's *present*. The woman who ran from the arena and shadowed Tiberian's team through the Warrens is starting, slowly, to accept that these people might be what they appear to be. She's still guarded. She may always be guarded. But she's staying. For Kess, staying is the closest thing to trust she knows how to offer.
 
 This is the world the old enemies are about to try to destroy. The reader needs to see it working before it's threatened.
 
@@ -564,7 +563,7 @@ The Competitor's final contest ends not with defeat but with irrelevance. He did
 
 **Emotional arc: The past is finally past**
 
-The aftermath. Kalden's claims to imperial legitimacy die with him on the Golden Path a hundred miles east of the city he never reached. *(As claims; the name is later worn as a mask by men who do not believe in it — `Offstage.md`, *The Children of the Great Hunt*.)* The mercenaries scatter. The Erulian Principality — or what remains of it — is a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes.
+The aftermath. Kalden's claims to imperial legitimacy die with him on the Golden Path a hundred miles east of the city he never reached. *(As claims; the name is later worn as a mask by men who do not believe in it — `Offstage/The Children of the Great Hunt.md`.)* The mercenaries scatter. The Erulian Principality — or what remains of it — is a territory with mortgaged mines and an empty palace, waiting for someone else to decide what it becomes.
 
 **Who held the paper — settled 2026-08-05, and it is one line of fact rather than a thread.** The question is worth answering because a reader who thinks about it will ask, and worth answering *briefly* because **nothing downstream rests on it**: Erulius does not appear in Book 8. **The creditors are domestic** — the twelve original noble houses and the Erulian banking houses of the Amber District, the same twelve who counselled austerity after the Compact War and were overruled. No new party, nobody named, and no foreign power required.
 

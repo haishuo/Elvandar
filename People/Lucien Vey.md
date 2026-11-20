@@ -25,8 +25,8 @@ advance money on a promise. The careful houses on Vessel Street will not. He has
 giving up the position he already thinks of as his. His conviction leaves him slow to see how little
 loyalty he has purchased.
 
-[The Children of the Great Hunt](../Offstage.md#the-children-of-the-great-hunt) holds his part in the
-conspiracy and his execution. [The Marriage of the Tiger Prince](../Offstage.md#the-marriage-of-the-tiger-prince)
+[The Children of the Great Hunt](../Offstage/The%20Children%20of%20the%20Great%20Hunt.md) holds his part in the
+conspiracy and his execution. [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md)
 holds his dealings with Celestine and the consequences for her.
 
 ## Guardrails

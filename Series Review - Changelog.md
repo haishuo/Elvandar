@@ -12567,3 +12567,7 @@ Recorded on Nessa's sheet that sending a daughter to the palace is a common move
 ### 2026-11-19 - The Tiger Prince's marriage moves into Offstage
 
 Moved *The Marriage of the Tiger Prince* from a standalone root file into `Offstage.md`, after *The Children of the Great Hunt*, with its sections demoted one level and a note on what depends on it. Repointed every link to it in the character sheets, `Names.md`, `Story Timeline.md`, `houses_of_kahaan.md`, the Book 8 outline and the master list. Recorded that Irene is introduced in Book 8 on the page and not planted in Book 7. No chapter prose, beat drafts or Royal Road output changed.
+
+### 2026-11-19 - Offstage split into a folder
+
+Split `Offstage.md` (about 17,000 words, eleven entries) into `Offstage/`, one file per entry named by its title, with headings promoted one level and internal links rewritten. Moved the opening statement and the "What belongs here" tests into `Offstage/README.md`, with an index of the entries. Repointed every link and prose reference across the character sheets, outlines, place and language files, timelines and the master list to the entry's own file, and verified that all 96 resolve. Updated the Offstage rule and the layout diagram in `CLAUDE.md` and `AGENTS.md`. Earlier changelog entries keep their references to `Offstage.md` as history. No chapter prose or Royal Road output changed.

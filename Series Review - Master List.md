@@ -151,7 +151,7 @@ observed, and nothing a Balishan character could point at. → **B8: the Globeha
 arrive already knowing what this institution does to a mind it finds interesting. **The thread is the study,
 not the object.** Full ruling in `Places/Uratha/Uratha_ The Land of Scholars.md`, "What ch13 does to them."
 
-**Draskin's wartime standing and continued tenure.** B4's Continental War supplies the reason colleagues ask him to seek a second term. He volunteers for a third without an invitation and wins through initial support sufficient to survive elimination and subsequent transfers. By B8 he is in that third term. The Globehall's exposure leads to the post-book removal crisis, not an automatic vacancy. [Three terms](Offstage.md#draskins-three-terms) · [Failed removal](Offstage.md#the-failed-vote-against-draskin)
+**Draskin's wartime standing and continued tenure.** B4's Continental War supplies the reason colleagues ask him to seek a second term. He volunteers for a third without an invitation and wins through initial support sufficient to survive elimination and subsequent transfers. By B8 he is in that third term. The Globehall's exposure leads to the post-book removal crisis, not an automatic vacancy. [Three terms](Offstage/Draskin%27s%20Three%20Terms.md) · [Failed removal](Offstage/The%20Failed%20Vote%20Against%20Draskin.md)
 
 **The empty Grain chair.** B2 ch16–19: Rosik exiled, the cartel broken, Melina Kemvimore dead. → **B3 ch1,
 already written and doing the whole job**: *"The first was Grain. There was no one to send… the thing that
@@ -201,7 +201,7 @@ clause as four months of passage, minuted, on the schedule, non-lapsing. **That 
 *Recorded here because `book6_outline.md` currently contains no version of this beat at all.* The author
 recalls one — Ronas protesting *you can't just move sixty thousand people*, invoking a deal with Elara,
 and Melina answering that she is not her mother and he never had a deal with **her** — and it is not in
-the Book 6 outline, the series outline, `Offstage.md`, or this document. It was a conversation that never
+the Book 6 outline, the series outline, `Offstage/`, or this document. It was a conversation that never
 got written down. **The version below is a proposal, not a ruling.**
 
 **Why the remembered version no longer works.** *You never had a deal with me* repudiates a written
@@ -380,7 +380,7 @@ lay behind the Door were lost across two millennia; the mandate survived and the
 Modern-Balishan-named **Long Knives**. The Mistress does **not** know the history. Her leverage theory is a
 modern rationalization for the duty she inherited. The modern route map was rebuilt through deaths after
 the founding route knowledge was lost—it is not a two-thousand-year-old chart—and Book 3's *the route is
-the guild* remains untouched. `Offstage.md`, “The First Charge of the Long Knives,” is the single source.
+the guild* remains untouched. `Offstage/The First Charge of the Long Knives.md`, is the single source.
 
 **The wound in front of him — B1 ch22 planted, Book 7 collects.** *The authority for this book is `Book 7 - Last Debts/book7_outline.md`, which is detailed and predates all of this; everything below has been reconciled against it, and the one place it was overridden is flagged there in its own structural note.* *Planned, not written. Constraints only; the staging belongs to Book 7's beat drafts.*
 
@@ -414,7 +414,7 @@ Then, in order: **(1)** Melina, holding the city, gets a field report so fast an
 
 **POV: Melina for the death, Tiberian for the arrival.**
 
-**Kalden does not know he is a diversion, and that is the point of him.** He believes this is his great glory. He believes **Rosik Kemvimore is the only man in Elvandar who truly understands him** — that a pincer of siege from without and subversion from within will take the city, and that he will finally have Xion Valanar kneeling and his destiny restored. Rosik knew from the first day that the attack was doomed and **never said so — and never said otherwise either.** He does not lie to Kalden at any point; the full pitch and its truth-values are at `Offstage.md`, "The Recruitment of Kalden Erulius." **Every claim he makes is true, and the deception is entirely in the order he makes them and in his declining to correct what Kalden infers.** When Kalden describes the city falling, Rosik neither agrees nor disagrees; he moves to the next practical question, and Kalden experiences that as confidence. **Do not write Rosik promising a glorious victory.** Silence where a correction belonged is the instrument, and it is the same one as the omission in the pitch — the craft is not lying, it is knowing which true thing to say and when to say nothing. Even if some part of Kalden suspects, his sheet is explicit that he cannot process a defeat except as persecution, so he never lets the suspicion finish forming.
+**Kalden does not know he is a diversion, and that is the point of him.** He believes this is his great glory. He believes **Rosik Kemvimore is the only man in Elvandar who truly understands him** — that a pincer of siege from without and subversion from within will take the city, and that he will finally have Xion Valanar kneeling and his destiny restored. Rosik knew from the first day that the attack was doomed and **never said so — and never said otherwise either.** He does not lie to Kalden at any point; the full pitch and its truth-values are at `Offstage/The Recruitment of Kalden Erulius.md`. **Every claim he makes is true, and the deception is entirely in the order he makes them and in his declining to correct what Kalden infers.** When Kalden describes the city falling, Rosik neither agrees nor disagrees; he moves to the next practical question, and Kalden experiences that as confidence. **Do not write Rosik promising a glorious victory.** Silence where a correction belonged is the instrument, and it is the same one as the omission in the pitch — the craft is not lying, it is knowing which true thing to say and when to say nothing. Even if some part of Kalden suspects, his sheet is explicit that he cannot process a defeat except as persecution, so he never lets the suspicion finish forming.
 
 **This is Rosik's own teaching applied to a person.** B2 ch12: *every structure has one member bearing more of the load than the rest; find it, pull it, and stand back while the weight does the work of falling.* Kalden's pride is that member. Rosik did not recruit an ally — he located a load-bearing vanity, pulled it, and stood back. **He never explains any of this to anyone, on the page or off it.**
 
@@ -1283,11 +1283,11 @@ The Tower faculty controls ordinary recall of its Provost. Local officials spend
 
 A *bakarn* witness's testimony alone can sustain a scholar's conviction. Uratha recognizes *bakarn* families and personal property. Marriage to a scholar is lawful and confers no scholarly privileges. [Testimony, family, and personal property](Places/Uratha/The%20Government%20of%20Uratha.md#testimony-family-and-personal-property)
 
-The [Council's casting-vote rule](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) governs the Book 3 Crown offer. [The offstage vote](Offstage.md#the-vote-on-the-scholars-crown) sets Draskin's mandate and the risk to his office if he gives up exclusivity. Xion never witnesses the division.
+The [Council's casting-vote rule](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) governs the Book 3 Crown offer. [The offstage vote](Offstage/The%20Vote%20on%20the%20Scholar%27s%20Crown.md) sets Draskin's mandate and the risk to his office if he gives up exclusivity. Xion never witnesses the division.
 
 **Uratha's post-Book 8 constitutional crisis (2026-11-19).** The Scholar-King schedules duly notified votes; Council ballots require personal attendance. Five Provosts constitute a no-confidence quorum, including an attending Provost who recuses; the Scholar-King does not count. Criminal immunity for acts undertaken under claimed official authority lasts while the office is held, permits evidence gathering and prosecution of other participants, and ends on departure from office. The Ilhamori are accountable to the Council collectively and ordinarily receive operational orders through the Scholar-King. Constitutional amendments require Council assent, not an executive decree. [Government rules](Places/Uratha/The%20Government%20of%20Uratha.md)
 
-Draskin enjoys politics. An ordinary first election is followed by an invited second candidacy based on wartime service, then an uninvited third candidacy won through the ranked ballot. Second terms are rare and third terms almost unheard of, but legally permitted. [Offstage](Offstage.md#draskins-three-terms) owns that history. [The failed vote and its aftermath](Offstage.md#the-failed-vote-against-draskin) own the four-to-zero result, the five Towers' opposition, the uneven implication of the Towers, the approach to Belus, and the proposed unanimity amendment. The amendment has not passed; no subsequent outcome is established. Book 8 ends the Globehall, not every ensuing constitutional dispute.
+Draskin enjoys politics. An ordinary first election is followed by an invited second candidacy based on wartime service, then an uninvited third candidacy won through the ranked ballot. Second terms are rare and third terms almost unheard of, but legally permitted. [Offstage](Offstage/Draskin%27s%20Three%20Terms.md) owns that history. [The failed vote and its aftermath](Offstage/The%20Failed%20Vote%20Against%20Draskin.md) own the four-to-zero result, the five Towers' opposition, the uneven implication of the Towers, the approach to Belus, and the proposed unanimity amendment. The amendment has not passed; no subsequent outcome is established. Book 8 ends the Globehall, not every ensuing constitutional dispute.
 
 Decided. Retained so they are not reopened or re-flagged.
 
@@ -1303,12 +1303,12 @@ and above all it breaks the King's Gambit, which works only because *"anyone who
 Xion would have laughed at it."*
 
 **The question it raised was how Xion could read Kalden without ever meeting him**, and the answer is now
-written into `Offstage.md`, "The King's Gambit" → "What Xion saw", which is the single source. In short:
+written into `Offstage/The King's Gambit.md` → "What Xion saw", which is the single source. In short:
 he reads a sequence of moves, not a face — the secrecy he clocked in B3 ch15, the refusal he gave in his own
 name in ch16, the Compact's timing he can reckon in ch21 — and nobody on the Compact's side can take that
 read, because the evidence was secret.
 
-**The same pass fixed a timing error.** `Offstage.md` had Xion *"watching Kalden shout about him for years"*
+**The same pass fixed a timing error.** `Offstage/` had Xion *"watching Kalden shout about him for years"*
 before the Gambit, but the Compact War follows Book 3 directly and the Gambit is its opening phase. Xion
 does not play a fantasy that already exists. Kalden's and Xion's sheets conform.
 
@@ -1316,15 +1316,14 @@ does not play a fantasy that already exists. Kalden's and Xion's sheets conform.
 to believe it for one campaign, and would have been content to see it called nonsense afterwards. **The
 twenty-year overmind is Kalden's own construction, built after the defeat**: losing to a *nobody healer* is
 unbearable, so the nobody has to become a mastermind. Xion is the author of Kalden's lost war, not of his
-delusion; Rosik is the one who feeds the delusion deliberately. Single source: `Offstage.md`, "The King's
-Gambit"; mechanism on `People/Kalden Erulius.md`, "The imaginary Xion". **Do not write Xion as having
+delusion; Rosik is the one who feeds the delusion deliberately. Single source: `Offstage/The King's Gambit.md`; mechanism on `People/Kalden Erulius.md`, "The imaginary Xion". **Do not write Xion as having
 cultivated the fantasy, or as owning it.**
 
 **Tiberian meets him first at Silaris — author's ruling, 2026-09-26.** A parley before the Gallery War,
 recorded in `Book 5 - Walled Garden/book5_outline.md`, "The parley at Silaris". It makes the Golden Path a
 recognition rather than a stranger: *"You."*, *"Could not even be bothered to come himself"*, *"his bastard
 son — AGAIN?!"* This resolves a three-way disagreement: Kalden's sheet already had *"again"*, the Book 7
-outline did not, and `Offstage.md` said *"a calm young stranger."* **Kalden must not use the word *bastard*
+outline did not, and `Offstage/` said *"a calm young stranger."* **Kalden must not use the word *bastard*
 at Silaris**, because Tiberian's *"*bastard* is a new one"* has to stay true.
 
 ### A name collision needs weight on both sides — author's ruling, 2026-08-21
@@ -2215,7 +2214,7 @@ is seven flat statements of function, and "Warrens" was the only metaphor in it.
 **Kaha'an's Warrens stay, and the whole canon was swept to confirm nothing else needed touching.** Every
 other instance of the word in the series is Kaha'an's, and there it is correct: genuinely underground,
 genuinely winding, sixty thousand people in tunnels, and load-bearing across Books 1, 2, 3 and 6, the
-series outline, `Offstage.md`, and four `Places/Kaha'an/` files.
+series outline, `Offstage/`, and four `Places/Kaha'an/` files.
 
 **The distinction, so this is not re-opened.** **Kaha'an names things the way cities do** — by accretion
 and association, by whoever said it first, with nobody appointed to check. **Uratha names things the way an
@@ -2595,7 +2594,7 @@ one.** Making Bittek one of the wild ones was floated as a payoff — Melina Kem
 they're worse"* turning out to be partly about him. **That payoff cannot exist.** It requires the reader to
 recognise someone, and **Book 2's prose never individuates a single one of Ronas's lieutenants** — they are a
 pure category, verified by search. There is nobody there to recognise, so the "connection" would have been a
-fact with no reader-facing surface at all: exactly the trivia `Offstage.md`'s third test is designed to
+fact with no reader-facing surface at all: exactly the trivia `Offstage/README.md`'s third test is designed to
 reject.
 
 **What replaced it is better and is the opposite of it.** Bittek's only governor is fear of the man who
@@ -2651,10 +2650,10 @@ down.** Ronas refuses: he would rather die as the Slaver King than live as king 
 
 **This had never been written down anywhere, and the author believed it had.** Checked before recording, and
 the finding is worth keeping because it is the reassuring answer rather than the alarming one: `book6_outline.md`
-said only that "the crown moves against him" and that "he goes down swinging," `Offstage.md` said "when Ronas
+said only that "the crown moves against him" and that "he goes down swinging," `Offstage/` said "when Ronas
 went down," and neither sheet named a hand. **A search of every commit in the repository's history returns
 nothing** — so it was never recorded and lost, it was simply never recorded. **Nothing is wrong with the
-archive; the ruling was living in one head.** That is precisely the gap `Offstage.md` and this section exist
+archive; the ruling was living in one head.** That is precisely the gap `Offstage/` and this section exist
 to close, and the lesson is that a *fate* is exactly the kind of fact that feels too settled to write down.
 
 **Recorded in four places:** `book6_outline.md` (Act III and the structural note), `People/Ronas Dermir.md`
@@ -2923,7 +2922,7 @@ reveal and cannot arrive a chapter early.
 
 **Swept for siblings and clean.** The remaining *"N years old"* instances across Books 1–3 are all correct:
 Tam at twelve (ch12/14/16, consistent), Xion *"since he was nine years old"* (backstory), the sixty-nine-year-old
-Aspirant Guard in `Offstage.md`, and *"a population figure eleven years old"*, already ruled correct on
+Aspirant Guard in `Offstage/`, and *"a population figure eleven years old"*, already ruled correct on
 2026-08-03. No other survival of the older chronology remains in the prose.
 
 ---
@@ -2992,7 +2991,7 @@ assumes she resents the succession is a misreading by the people in it, not by t
 
 ### The Children of the Great Hunt — author's design, 2026-11-02
 
-**New `Offstage.md` entry.** Elara bans the Great Hunt among her first edicts and declines to arrest the
+**New Offstage entry** (`Offstage/The Children of the Great Hunt.md`). Elara bans the Great Hunt among her first edicts and declines to arrest the
 two-fifths of the nobility who hunted. **Their children inherit the resentment without the background.**
 Between Book 7 and Book 8 they plot to kill Tiberian by **recruiting Melina as the inside woman.** Their
 reasoning is that she must resent the brother who will inherit, and Kess makes direct force hopeless. The Long
@@ -3043,16 +3042,23 @@ original. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa'
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 
+### Offstage is a folder — author's ruling, 2026-11-19
+
+**`Offstage.md` is now `Offstage/`, one file per story**, named by the entry's title. `Offstage/README.md`
+carries the three entry tests, the register rule and the index. At the split the file was about 17,000
+words in eleven entries. Every reference across the repository points at the entry's own file; the
+changelog keeps its old references as history. `CLAUDE.md` and `AGENTS.md` record the new path.
+
 ### The Marriage of the Tiger Prince — author's design, 2026-11-19
 
-**Moved into `Offstage.md` and Irene enters Book 8 as a major character — author's ruling 2026-11-19.**
-The account now lives in `Offstage.md` under *The Marriage of the Tiger Prince*; the standalone root file is
-gone and every link points at the new section. **Book 8 introduces her on the page**, at the opening
+**Moved into Offstage and Irene enters Book 8 as a major character — author's ruling 2026-11-19.**
+The account now lives in `Offstage/The Marriage of the Tiger Prince.md`; the standalone root file is
+gone and every link points at it. **Book 8 introduces her on the page**, at the opening
 morning and through Melina's Part 2. **She is not planted in Book 7.** Her Book 8 role is under
 discussion and not yet written into the outline.
 
-Tiberian marries Irene Umberlow at eighteen between Books 7 and 8. [The Marriage of the Tiger Prince](Offstage.md#the-marriage-of-the-tiger-prince)
-holds the courtship and the blue dress. [The Children of the Great Hunt](Offstage.md#the-children-of-the-great-hunt)
+Tiberian marries Irene Umberlow at eighteen between Books 7 and 8. [The Marriage of the Tiger Prince](Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md)
+holds the courtship and the blue dress. [The Children of the Great Hunt](Offstage/The%20Children%20of%20the%20Great%20Hunt.md)
 holds Lucien Vey's part in the conspiracy. Celestine refuses Lucien's request, believes his promise to
 withdraw, and learns otherwise at his arrest. Lucien is publicly executed with the other ringleaders.
 House Umberlow has always been a barony. The Rending ended its banking business and left the family
@@ -3106,7 +3112,7 @@ lenders who lend on a promise, which the careful houses on Vessel Street will no
 decided: that borrowing is a possible way for Irene into the Great Hunt investigation through her own
 instrument.)*
 
-**House Vey was a hunting house**, as `Offstage.md` already said; both Vey sheets now carry it, and
+**House Vey was a hunting house**, as `Offstage/` already said; both Vey sheets now carry it, and
 House Vey's losses now read the same everywhere. **Open:** what Celestine thinks of the Hunt.
 
 **Irene is the baron's daughter, author's ruling 2026-11-19.** Baron Umberlow is alive and old, and
@@ -3146,7 +3152,7 @@ predicts, because both sides remember. **Kalden reads the Kaha'an trade as proof
 of the first things the post-war overmind feeds on, and his sheet now says so.
 
 **Left open in the file, deliberately:** what became of the twelve houses' Heartland estates, and the Union's
-currency. Nothing depends on either. Pointers added to Kalden's sheet, `Offstage.md`, and both Erulian place
+currency. Nothing depends on either. Pointers added to Kalden's sheet, `Offstage/`, and both Erulian place
 files.
 
 **Extended the same day: the Union dated, the army split from the Guard, and Silaris shopping.** *(Author's
@@ -3166,7 +3172,7 @@ ruling, 2026-11-02.)*
   The Gallery War is two personal retinues and no state army. **The economics are never stated as a theme**,
   because they are the third use of the Grain-chair and Book 7-creditor shape.
 
-**Two continuity fixes found on the way:** `Offstage.md` had the twins "born during this war", where both
+**Two continuity fixes found on the way:** `Offstage/` had the twins "born during this war", where both
 timelines have them conceived after it. Kalden's ledger table had him "blocked by an eighteen-year-old",
 where Book 5 has Tiberian at sixteen.
 
@@ -3174,7 +3180,7 @@ where Book 5 has Tiberian at sixteen.
 
 ## 7. Open questions
 
-**Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, and Draskin's proposed unanimity amendment. What follows remains open. Sapphire scholars' individual complicity and Amethyst's intent in supplying the quorum are not established. The exact minimum notice period for Council votes and the full constitutional-amendment procedure remain unspecified; the settled rules require notice and Council assent. [Account](Offstage.md#the-failed-vote-against-draskin) · [Government](Places/Uratha/The%20Government%20of%20Uratha.md)
+**Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, and Draskin's proposed unanimity amendment. What follows remains open. Sapphire scholars' individual complicity and Amethyst's intent in supplying the quorum are not established. The exact minimum notice period for Council votes and the full constitutional-amendment procedure remain unspecified; the settled rules require notice and Council assent. [Account](Offstage/The%20Failed%20Vote%20Against%20Draskin.md) · [Government](Places/Uratha/The%20Government%20of%20Uratha.md)
 
 **One language-history foundation is open:** the founding date and local population of Urath IV's academy.
 Urathan's genealogy, Balishan's deeper Halauric ancestry, Vartonne's settlement history, Valan I Valanar's

@@ -178,7 +178,7 @@ the Brass Door alive, and its modern form was found by the Long Knives over year
 and a great many corpses. Their founding custodians once guarded the approach, but two millennia of
 collapse, flooding, lost records, and institutional drift destroyed whatever route knowledge those humans
 received. The Mistress's map is not an ancient chart or a rediscovery of marked ways. It is theirs because
-they bought it again, and it cannot be inferred. (See `Offstage.md`, “The First Charge of the Long Knives,”
+they bought it again, and it cannot be inferred. (See `Offstage/The First Charge of the Long Knives.md`,
 and `The Warrens_ Factions and Power Structures.md`.)
 
 ### **The Freight Road That Used to Be Here**
@@ -227,7 +227,7 @@ freight entrance, reached in the open period by a cut haul road that was collaps
 was sealed as a contingency. The Haureni expected the remaining natural caves and the lock to defeat
 almost anyone, but they did not leave the last physical threshold to probability alone: they commissioned
 a trusted human custodial order to control its surviving approaches. That order became the Long Knives;
-the full account is in `Offstage.md`. The Haureni did not “depart”—they continued to live in Hauren for
+the full account is in `Offstage/The First Charge of the Long Knives.md`. The Haureni did not “depart”—they continued to live in Hauren for
 the next two millennia behind the seal, ending only twenty years ago in the Rending. The Door remained
 sealed throughout: 2,000 years of Haureni choosing isolation, followed by 20 years of nobody being left
 to open it.

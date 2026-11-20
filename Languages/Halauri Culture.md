@@ -273,8 +273,7 @@ On the surface:
 One deliberately created human institution crosses the boundary. At the sealing, Hauren commissions a
 small trusted human order to guard the surviving approach to the Brass Door. The order's Late Open
 Halauri name is eventually lost; its mandate decays into tradition, and its modern Balishan name is
-translated as **the Long Knives**. The full history belongs to `Offstage.md`, “The First Charge of the Long
-Knives.” Linguistically, it is a model of extreme institutional retention: function and technique can
+translated as **the Long Knives**. The full history belongs to `Offstage/The First Charge of the Long Knives.md`. Linguistically, it is a model of extreme institutional retention: function and technique can
 survive after the founding name, patron, explanation, and object of the duty have all become opaque.
 
 The communities on either side thus preserve different things. Hauren preserves unparalleled archives

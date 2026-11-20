@@ -347,7 +347,7 @@ thing he has ever done — which is why it worked. Kalden Erulius did not know h
 nobody who had stolen his prize; Xion played that man, and Kalden abandoned a sound war plan to
 besiege Kaha'an with cavalry and no siege train. **It is his father's method — find the load-bearing
 member, pull it, stand back — pointed at a man Rosik will pull the identical lever on twenty years later.**
-Full account and its costs in `Offstage.md`, "The King's Gambit."
+Full account and its costs in `Offstage/The King's Gambit.md`.
 
 **Two inherited sights, and both of them hold *him*.** Mira gave him the healer's eye and Rosik gave him
 the geometry, and the thing that separates him from his father is not which one he uses but **how it is

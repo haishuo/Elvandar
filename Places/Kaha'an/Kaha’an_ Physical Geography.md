@@ -204,7 +204,7 @@ leaving only the natural caverns it had been driven through. A small trusted hum
 guarding those surviving approaches; it became the Long Knives, although the modern guild remembers only
 the charge and not its source. The Haureni turned inward, and the surface gradually forgot Hauren
 existed. By the time the Balishan Empire rose a few centuries later, Hauren was already legend. Full
-account: `Offstage.md`, “The First Charge of the Long Knives.”
+account: `Offstage/The First Charge of the Long Knives.md`.
 
 What remained, after the Great Shaft was destroyed, were two access routes — neither of them intended for routine traffic:
 
@@ -371,7 +371,7 @@ told the story on the way past, and the joke is old enough now that the telling 
 teller's benefit. **It is the cheapest kind of history a city can own: the enemy came, and was
 insufficient, and the ground remembers him for it.**
 
-*Full account: `Offstage.md`, "The King's Gambit." The name is a Balishan coinage and Erulius has never
+*Full account: `Offstage/The King's Gambit.md`. The name is a Balishan coinage and Erulius has never
 used it.*
 
 ---

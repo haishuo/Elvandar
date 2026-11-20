@@ -134,7 +134,7 @@ The Long Knives know more than anyone else in the Warrens:
 
 They do not know why. Their guild descends from the human order Hauren commissioned at the sealing to
 guard the last surviving approach. The founding name and explanation are lost; only the charge remains.
-Full canon account: `Offstage.md`, “The First Charge of the Long Knives.”
+Full canon account: `Offstage/The First Charge of the Long Knives.md`.
 
 **What They Know:**
 

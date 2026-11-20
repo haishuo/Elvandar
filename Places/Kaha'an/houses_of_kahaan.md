@@ -111,7 +111,7 @@ Unlike the other cartel houses, House Ren has no pre-Rending history—it was cr
 
 **Pre-Rending Status**: Did not exist. Sa Ko Ren arrived as a penniless Terinoki warrior with no noble connections or inherited resources.
 
-**The Rending's Impact**: Roughly a year after the catastrophe, Sa Ko reached the singular Wild Sands refugee cache recorded in `Offstage.md`, "The Forming of the Coterie." The windfall supplied founding capital; her warrior training was what let her reach it and survive.
+**The Rending's Impact**: Roughly a year after the catastrophe, Sa Ko reached the singular Wild Sands refugee cache recorded in `Offstage/The Forming of the Coterie.md`. The windfall supplied founding capital; her warrior training was what let her reach it and survive.
 
 **Post-Rending Transformation**: Sa Ko spent the windfall on forges, workshops, trained artisans and production capacity rather than political leverage. Through disciplined organization and exacting standards, she established dominance over Kaha'an's metal industries. She created House Ren through achievement rather than inheritance, earning noble recognition through demonstrated capability. She owns and directs the production system; the metalworking belongs to Iron's craftspeople.
 
@@ -643,7 +643,7 @@ Kaha'an. The mechanism, and what replaced it, is in
 `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
 
 Between Books 7 and 8, Irene Umberlow is trying to restore the family's fortunes. See
-[The Marriage of the Tiger Prince](../../Offstage.md#the-marriage-of-the-tiger-prince).
+[The Marriage of the Tiger Prince](../../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md).
 
 ---
 
