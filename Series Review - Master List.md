@@ -3042,6 +3042,26 @@ original. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa'
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 
+### The Partition of Erulius — author's design, 2026-11-20
+
+**New entry, `Offstage/The Partition of Erulius.md`.** After Kalden's death his creditors own the rump and
+cannot rule it, so they sell. **Gunastran buys futures on the still-productive mines. Uratha takes the north,
+including Eruliath and the Amber Palace. The Union takes the rest of the land and declines the capital.** It
+is not Urathan greed, on the same terms as Balisha and Silaris. This completes the Book 7 outline's *Who held
+the paper*, where the creditors bought cheap and waited: they were waiting for a buyer.
+
+**Open, and not yet recorded anywhere:**
+- Exactly which land the Union takes (the western marches are the likely share).
+- Whether Uratha holds the mines subject to Gunastran's futures.
+- The fate of the mining conscription system, which stayed with the mines.
+- Whether the new Urathan territory has any connection to the Globehall. If none is meant, the record should
+  say so, since a reader may infer one.
+- The partition's place in `Story Timeline.md`.
+- The twelve houses' Heartland estates, already open in the Union doc.
+
+**Pointers not yet added:** the Book 7 outline's *Who held the paper*, `The Erulian Union.md` and the Uratha
+place files do not yet mention the partition.
+
 ### Offstage is a folder — author's ruling, 2026-11-19
 
 **`Offstage.md` is now `Offstage/`, one file per story**, named by the entry's title. `Offstage/README.md`

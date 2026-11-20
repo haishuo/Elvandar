@@ -41,5 +41,6 @@ One file per story. Each stands alone; cross-references between them are links.
 - [The Forming of the Coterie](The%20Forming%20of%20the%20Coterie.md)
 - [The Children of the Great Hunt](The%20Children%20of%20the%20Great%20Hunt.md)
 - [The Marriage of the Tiger Prince](The%20Marriage%20of%20the%20Tiger%20Prince.md)
+- [The Partition of Erulius](The%20Partition%20of%20Erulius.md)
 - [Draskin's Three Terms](Draskin%27s%20Three%20Terms.md)
 - [The Failed Vote Against Draskin](The%20Failed%20Vote%20Against%20Draskin.md)

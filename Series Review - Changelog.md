@@ -12583,3 +12583,7 @@ Added two sections to `Offstage/The Marriage of the Tiger Prince.md`, after the 
 ### 2026-11-20 - Tiberian's sheet: happy because she is happy
 
 Added the register of the marriage to Tiberian's Irene section: he is happy because Irene is happy, and does not need to understand her business for that. Points to *Only to people with eyes* in the marriage entry.
+
+### 2026-11-20 - The Partition of Erulius
+
+Added `Offstage/The Partition of Erulius.md` and indexed it in `Offstage/README.md`. After Kalden's death his creditors sell the rump: Gunastran buys futures on the mines, Uratha takes the north including Eruliath and the Amber Palace, and the Union takes the rest of the land. Recorded the entry and its open questions in the master list. No other file changed; pointers from the Book 7 outline and place files are listed as not yet added.
