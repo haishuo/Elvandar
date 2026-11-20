@@ -156,8 +156,9 @@ in the [editorial record](../Series%20Review%20-%20Master%20List.md#the-marriage
 ### Baron Umberlow (Father)
 
 Her father holds the title. He is old, and Irene handles almost all of the house's real financial
-business. The contracts may go out in the baron's name, but the bargains are hers. How he regards her
-trading, and the match, is open.
+business. The contracts may go out in the baron's name, but the bargains are hers. **She learned the
+trade from him**, and he is entirely in favor of her practicing it. He is also delighted by the match,
+as any father would be whose daughter is marrying the most eligible man in Kaha'an.
 
 ### Tiberian Valanar (Husband)
 

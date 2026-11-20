@@ -12551,3 +12551,7 @@ Reconciled House Vey's losses: *Offstage* now matches the marriage chronicle and
 ### 2026-11-19 - Irene is the baron's daughter
 
 Irene no longer holds the Umberlow title. Her father, Baron Umberlow, is alive and old, and she handles almost all of the house's real financial business. Updated the marriage chronicle, Irene's backstory and relationships, and her entry in `Names.md`. Recorded the ruling in the master list. No chapter prose, beat drafts or Royal Road output changed.
+
+### 2026-11-19 - Baron Umberlow
+
+Recorded on Irene's sheet that she learned the trade from her father, that he backs her practicing it, and that he is delighted by the match. Closed the corresponding open item in the master list.
