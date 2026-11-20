@@ -179,8 +179,9 @@ for a moment**; do not write him doing so. Kess and the Arol Batae know within t
 are executed. **It is not the first attempt on his life, nor the last**; a target on him is an ordinary fact
 of who he is. Account in `Offstage.md`, *The Children of the Great Hunt*.
 
-**He marries Irene Umberlow before Book 8.** Elara requires him to attend the balls. He seeks Irene out
-of his own accord. [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md)
+**He marries Irene Umberlow before Book 8.** Elara wants him married and requires him at the balls,
+where the young women presented to him soon blur together. He meets Irene on Vessel Street and seeks
+her out there, of his own accord. [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md)
 records the courtship.
 
 ---
@@ -232,6 +233,25 @@ always done and the reason any of it worked. **Full account: `Offstage.md`, "The
 **Their battlefield coordination is real and needs no instruction**, because they are paradigm twins:
 Caretaker primary, Spirited Competitor secondary, reading the same priorities in the same situations.
 That is compatibility, not obedience. **Do not write her as devoted, imprinted, or owing him anything.**
+
+### Irene Umberlow (Wife)
+
+**By the time he meets her, the balls have done their work on him.** Weeks of pleasant, well-dressed
+young women presented for his consideration, and he can no longer keep them apart. He escapes most of
+those evenings early. Irene on Vessel Street is in the middle of a deal; she knows who he is, nods, and
+goes back to her carts. **That is what makes her stand out, before anything else about her does.** He
+goes back to the quay to find her, and the courtship happens where she works, not in a ballroom.
+
+Her primary is Merchant, which sits last in his stack, and the shadow recorded above is the instinct for
+reserves he does not have. He does not marry her for it and should never be written thinking of her as
+an asset. It is why her talk of holding a cargo for a better offer interests him instead of boring him.
+
+**The price quarrel is his intervention shadow in miniature**: someone is overcharging her, so he goes
+and stops it. With Kess he extends freedom without being told. With Irene he has to be told, because her
+bargaining looks to him like a fight he can win on her behalf. He hears it, comes back with a specific
+apology, and before the wedding gives his word to leave the restoration of House Umberlow in her hands.
+**He keeps it.** Do not write the Crown's custom drifting her way, or anyone arranging it for him. See
+[The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md) and Irene's sheet.
 
 ### Kai
 

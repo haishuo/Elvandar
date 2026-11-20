@@ -1,55 +1,59 @@
 # The Marriage of the Tiger Prince
 
 **When:** Between Books 7 and 8. Tiberian is eighteen.
-**Who:** Tiberian Valanar and Irene Umberlow, Celestine and Lucien Vey, Aurelia Alric, and Empress Elara.
+**Who:** Tiberian Valanar and Irene Umberlow, Celestine and Lucien Vey, Aurelia Alric, Nessa Halcin, and
+Empress Elara.
 
-## Vessel Street
-
-Tiberian first met Irene on Vessel Street. The war was over, and he had gone down to the quay to see
-whether a berth still reserved for military use could be returned to civilian traffic. Irene was there
-about a delayed cargo from Port Valen. She had a buyer for part of the lot and could have carts there
-that afternoon. She offered the seller less than he wanted and showed him what he would save by getting
-the goods out of the warehouse before he owed another day's storage. Tiberian was there long enough
-to hear him take the offer.
-
-Deals like that were how Irene meant to restore House Umberlow. She liked making money and intended to
-make a great deal of it. She knew what a reserve meant to a household that had gone without one. She
-wanted the people she loved to be able to get through a bad month without wondering what they would
-have to sell.
-
-## The crown prince comes to the balls
+## The balls
 
 By the time Tiberian came home from the war, there was no bachelor in Kaha'an whose marriage mattered
-more. He was eighteen, handsome, well liked, and already famous as the Tiger Prince. Some young women
-went to the balls to try their luck. Some went because their families had decided to try it for them.
-Tiberian would have been happy to leave them to their evenings. Elara required him to appear. Standing
-about like a statue would do if that was the best he could manage, but the crown prince had to be seen.
+more. He was eighteen, handsome, well liked, and already famous as the Tiger Prince. Elara told him he
+should think about marrying soon, and that meant the balls. He would rather have been almost anywhere
+else. She required him to appear. Standing about like a statue would do if that was the best he could
+manage, but the crown prince had to be seen.
+
+Young women were presented to him, or presented themselves. Some came to try their luck. Some came
+because their families had decided to try it for them. They were pleasant, well mannered and well
+dressed, and within a few weeks he could no longer keep them apart. He left most of those evenings as
+early as he decently could, and some of them earlier.
 
 Celestine Vey was the daughter of a wealthy marquis. She was beautiful, perfectly mannered and wanted
 the marriage for herself. About thirty percent of House Vey's wealth had been tied up with the Grain
 cartel. Its fall cost the house money and influence, though the Veys remained rich. Celestine could see
-what marrying the heir would do for her family, and she meant to have him.
+what marrying the heir would do for her family, and she meant to have him. She was charming to
+Tiberian and charming to his mother, who thought her a very nice young woman.
 
 Aurelia Alric thought Tiberian handsome and would have been content to marry him. Count Alric's family
 wanted the match a great deal more than she did. At the balls she kept company with Celestine. Aurelia
 rarely started anything with Irene, but she laughed when Celestine did.
 
 Irene Umberlow was an impoverished baroness. Her house had once been the Paper Lords, the richest money
-house in the capital, and its fortune had gone with the Rending. Irene was trying to restore it. The
-prince had daughters of marquises and counts to choose from, and she assumed he would choose one of
-them. She liked her blue dress and wore it to every ball because it was the one good dress she could
-afford. They recognized each other at the first ball, and Tiberian began to seek her out himself.
+house in the capital, and its fortune had gone with the Rending. Irene was trying to restore it. She went
+to the balls for the people at them, the nobles with goods to sell and credit to extend. She liked her
+blue dress and wore it to every ball because it was the one good dress she could afford. She never
+approached the prince. She had better things to do with an evening, and she did not think marriage to
+the crown prince of Balisha a realistic goal for someone like her.
 
-## The blue dress
+## Vessel Street
 
-At the third ball Celestine sought Irene out in company. She complimented her on how well she wore the
-blue dress and made a point of remembering the two other evenings on which she had done so. She made
-thrift sound like a quality she greatly admired. Everyone who heard her knew what she meant. Aurelia
-laughed. Irene could scarcely object to being complimented, and an open quarrel with a marquis's
-daughter was a luxury her house could afford even less than a second dress.
+Tiberian first met Irene on Vessel Street. The war was over, and he had gone down to the quay to see
+whether a berth still reserved for military use could be returned to civilian traffic. Nobody needed
+the crown prince for it, which was part of why he went. Irene was there about a delayed cargo from Port
+Valen. She had a buyer for part of the lot and could have carts there that afternoon. She offered the
+seller less than he wanted and showed him what he would save by getting the goods out of the warehouse
+before he owed another day's storage. Tiberian was there long enough to hear him take the offer.
 
-Celestine was always civil to Nessa Halcin. Whatever Nessa's family's standing, Nessa had the ear of
-Princess Melina, and Celestine knew what it would cost to give her a reason to use it.
+Irene knew who he was. Everybody on the quay did. She nodded to him and went back to her carts. After
+weeks of young women who had dressed for him, she was the first with something better to do. He did
+not remember her from the balls; she had never come near him there.
+
+Deals like that were how Irene meant to restore House Umberlow. She liked making money and intended to
+make a great deal of it. She knew what a reserve meant to a household that had gone without one. She
+wanted the people she loved to be able to get through a bad month without wondering what they would
+have to sell.
+
+Tiberian went back to Vessel Street to find her. Most of the courtship happened there, along the quay
+and in the warehouses and counting rooms where she did business, and very little of it in a ballroom.
 
 ## The price
 
@@ -67,6 +71,25 @@ could scarcely imagine him offering.
 A few days later he brought her flowers and apologized. He told her she was right and that he should
 have asked. Irene had expected him to lose interest after the argument. When he came back having
 thought about what she had said, she began to take his courtship seriously.
+
+## The blue dress
+
+At one ball Celestine sought Irene out in company. She complimented her on how well she wore the blue
+dress and made a point of remembering the two other evenings on which she had done so. She made thrift
+sound like a quality she greatly admired. Everyone who heard her knew what she meant. Aurelia laughed.
+Irene could scarcely object to being complimented, and an open quarrel with a marquis's daughter was a
+luxury her house could afford even less than a second dress. Tiberian had already left.
+
+Nessa Halcin had not. Celestine was always civil to Nessa. Whatever Nessa's family's standing, Nessa had
+the ear of Princess Melina, and Celestine knew what it would cost to give her a reason to use it. She saw
+no such cost in being uncivil to Irene in front of her. Repeated anywhere, the remark would still sound
+like praise.
+
+Nessa had grown up in Melina's rooms and thought of Tiberian as something close to a brother. She felt
+he ought to know who he was being asked to consider. When Elara mentioned that Celestine had been asking
+after him again, and Tiberian said she seemed very nice, Nessa said nothing against her. Afterward, and
+quietly, she told him about the evening of the blue dress, and left him to decide how nice a woman was
+who was lovely to the crown prince and not to a baroness with one good gown.
 
 ## The Vey siblings
 

@@ -20,7 +20,9 @@ in the room as a measure of what that person is worth.
 She has patronized Irene for years. Before there was any question of rivalry, Irene's poverty was
 reason enough for Celestine to make a little display of noticing it. She is scrupulously civil to
 Nessa, whose friendship with Melina gives her a way to answer an insult. Tiberian mostly sees the
-manners Celestine uses around him. Irene knows exactly how those same manners sound when they are
+manners Celestine uses around him, and Elara thinks her a very nice young woman. **She is sweet to
+her date and screams at the waiter**: lovely to the people she needs, careless with the ones she
+does not. It is Nessa who tells Tiberian the difference. Irene knows exactly how those same manners sound when they are
 being used against her.
 
 Celestine loves Lucien and has better political judgment than he does. She sees what his plan could

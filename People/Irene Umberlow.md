@@ -115,8 +115,10 @@ the goods to go after he leaves.
 
 ## Between Books 7 and 8
 
-Tiberian seeks her out after they recognize each other at the first ball. Irene likes his company
-and takes it for granted that he will eventually go back to the women whose families can offer a
+Irene goes to the balls for the nobles with goods and credit, and she never approaches the prince.
+She has better things to do with an evening, and she does not think marriage to him a realistic
+goal for someone like her. On Vessel Street she knows who he is, nods, and goes back to her carts.
+When he comes back to the quay to find her, she likes his company and takes it for granted that he will eventually go back to the women whose families can offer a
 match on his scale. She is more susceptible to the court's judgments than she likes to admit.
 She can dismiss the idea that Celestine knows her worth and still assume Celestine has a much
 better chance of being wanted.

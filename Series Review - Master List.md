@@ -3081,6 +3081,16 @@ one the record wants. It would also let grief into a beat built for one emotion 
 also keeps Irene away from the family table the conspirators meant to poison, and keeps a possible
 heir out of their plan. Recorded as guardrail 6 on Irene's sheet.
 
+**The courtship happens away from the balls, author's ruling 2026-11-19.** Elara wants Tiberian
+married and requires him at the balls. The young women presented to him blur together, and he
+escapes most of those evenings early. **That blur is the main reason Irene stands out.** She goes to
+the balls for business, never approaches him, and does not think the match realistic. They first
+meet on Vessel Street, and he does not remember her from any ballroom. He courts her where she works.
+**He does not witness Celestine's slight over the blue dress. Nessa does**, and she tells him, tactfully,
+after he remarks that Celestine seems very nice. Nessa thinks of him as close to a brother. Celestine
+is sweet to her date and screams at the waiter. Recorded on the Tiberian, Irene, Nessa and Celestine
+sheets.
+
 Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
 remain open for the Book 8 draft.
 

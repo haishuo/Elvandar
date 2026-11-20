@@ -158,6 +158,12 @@ web and Nessa knows what each thread will sell for.
 Has known her all his life, as everyone in the princess's household has. **He does not know about the Orb
 Weaver.** That costs Melina, not Nessa — see Melina's sheet.
 
+**She thinks of him as something close to a brother**, which comes with being all but a Valanar herself,
+and she feels obliged to tell him about anyone he is being asked to consider. She does it with tact and
+never by running anyone down. During his courtship, when he says Celestine Vey seems very nice, Nessa
+quietly tells him what she saw Celestine do to Irene over the blue dress and leaves the judgment to him.
+See [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md).
+
 ### Her family
 
 House Halcin wanted a ladder and got one. They do not know where it goes.

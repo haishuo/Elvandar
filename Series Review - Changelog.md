@@ -12533,3 +12533,9 @@ Recorded the author's approval of Irene's full order and added the reasoning for
 ### 2026-11-19 - The blue dress moves to the betrothal
 
 Moved Irene's gift of the blue dress from after the wedding to the announcement of the betrothal, before Lucien's arrest. Split the chronicle's closing section into the betrothal and the wedding, and placed the wedding after the trial and executions. Updated Irene's sheet to match and added a guardrail that the dress is never sent after the execution. Recorded the settled sequence in the master list. No chapter prose, beat drafts or Royal Road output changed.
+
+### 2026-11-19 - The courtship moves off the ballroom floor
+
+Reordered *The Marriage of the Tiger Prince* so that the balls come first. Elara wants Tiberian married, the young women presented to him blur together, and he escapes most of those evenings. Irene goes to the balls for business and never approaches him. They first meet on Vessel Street, where she nods and goes back to her carts, and he courts her there. Removed their recognition at the first ball. Tiberian is no longer present for the blue-dress slight; Nessa Halcin witnesses it and tells him after he remarks that Celestine seems very nice. Added Nessa to the account's participants.
+
+Added an Irene section to Tiberian's relationships and updated his Between Books entry. Updated Irene's Between Books entry, Nessa's Tiberian relationship and Celestine's function. Recorded the ruling in the master list. No chapter prose, beat drafts or Royal Road output changed.
