@@ -12555,3 +12555,7 @@ Irene no longer holds the Umberlow title. Her father, Baron Umberlow, is alive a
 ### 2026-11-19 - Baron Umberlow
 
 Recorded on Irene's sheet that she learned the trade from her father, that he backs her practicing it, and that he is delighted by the match. Closed the corresponding open item in the master list.
+
+### 2026-11-19 - Nessa's rank and the blue dress's history
+
+Recorded House Halcin as a minor barony and Nessa as a baron's daughter sent to the palace at about nine to train as a lady-in-waiting, later Melina's handmaid, replacing the earlier account of a handmaid placed in infancy. Moved the blue dress to the start of *The Marriage of the Tiger Prince*: the taunting began about two years before the courtship, when Irene first came to the balls at around sixteen. Nessa witnessed it, was ignored by Celestine for years, and was then admitted to Celestine's circle once her friendship with Melina became plain. Nessa's report to Tiberian is now its own short section. Updated the Nessa, Celestine, Melina and Irene sheets, House Halcin in `houses_of_kahaan.md`, and `Names.md`. Recorded the ruling in the master list. No chapter prose, beat drafts or Royal Road output changed.

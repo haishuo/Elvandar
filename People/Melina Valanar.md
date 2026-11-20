@@ -316,8 +316,9 @@ Political mentor. Melina appreciates Silvanno's insights into institutional poli
 
 ### Nessa Halcin (Handmaid)
 
-Almost a sister — what Kai is to Tiberian, on the princess's side. Placed as her personal handmaid by a minor
-house that wanted access, and became, over a shared childhood, her closest friend: thick as thieves,
+Almost a sister — what Kai is to Tiberian, on the princess's side. A baron's daughter, sent to the palace at
+about nine by a minor house that wanted access; she trained as a lady-in-waiting, became Melina's handmaid,
+and over a shared childhood became her closest friend: thick as thieves,
 sleepovers, giggling about boys. **She is one of the two people who know Melina feels far more than she
 shows**; Tiberian is the other. Co-runs the Orb Weaver, which was her idea. See `People/Nessa Halcin.md`.
 

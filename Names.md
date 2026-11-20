@@ -129,7 +129,7 @@ day. Neither has ever said so to the other on the page.
 |---|---|---|
 | **Bittek** | Slaver lieutenant under Ronas. One name — commoners have no other. The one antagonist in the series written with no redeeming feature; present across all four acts and killed by Tiberian in Act IV. Design and guardrails in `book6_outline.md` | Proto-Balishan |
 | **Garrin** | Ronas's most capable lieutenant. Tries to hold the cartel together after his death and is the last legible actor in the Warrens; Bittek kills him in Act III | Proto-Balishan |
-| **Nessa Halcin** | Melina Valanar's personal handmaid and closest friend, from a minor house. Co-runs the Orb Weaver, which was her idea. Given name **kept** on the author's ruling, 2026-11-02 — see *Coined 2026-11-01*, below. Sheet: `People/Nessa Halcin.md` | Native charter-name (*Halcin*) |
+| **Nessa Halcin** | Melina Valanar's handmaid and closest friend; a baron's daughter, from the minor barony of House Halcin. Co-runs the Orb Weaver, which was her idea. Given name **kept** on the author's ruling, 2026-11-02 — see *Coined 2026-11-01*, below. Sheet: `People/Nessa Halcin.md` | Native charter-name (*Halcin*) |
 
 ## Between Books 7 and 8
 

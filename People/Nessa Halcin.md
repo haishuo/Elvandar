@@ -2,13 +2,14 @@
 
 ## The Handmaid
 
-Nessa Halcin was placed in the Imperial Palace as Princess Melina's personal handmaid when both girls were
-small, and she was placed there for a reason. House Halcin is a minor house — a name, a charter and not much
-else — and a daughter in the princess's own rooms was the best piece of access the family had ever been
-offered. Her parents saw a ladder. That is all she was meant to be.
+Nessa Halcin is a baron's daughter. She was sent to the Imperial Palace at about nine to train as a
+lady-in-waiting, and she was sent there for a reason. House Halcin is a minor barony — a name, a charter and
+not much else — and a daughter in the princess's household was the best piece of access the family had ever
+been offered. Her parents saw a ladder. At nine she was barely more important than any other baron's
+daughter, and she later became Princess Melina's handmaid. That is all she was meant to be.
 
-It did not stay that. Somewhere between the ages at which neither girl can remember a first meeting, the
-appointment turned into the friendship it was supposed to look like. They grew up in the same rooms, learned
+It did not stay that. Over the next few years the appointment turned into the friendship it was supposed to
+look like. They grew up in the same rooms, learned
 the same court on the same days, and became what Kai Issamil is to Tiberian: **almost a sister**, and on the
 private side of the princess's composure. They are thick as thieves. They giggle about boys at sleepovers.
 Nessa is one of the two people alive — Tiberian is the other — who knows that the cool, unreadable Princess
@@ -155,7 +156,7 @@ web and Nessa knows what each thread will sell for.
 
 ### Tiberian Valanar
 
-Has known her all his life, as everyone in the princess's household has. **He does not know about the Orb
+Has known her since she came to the palace as a girl, as everyone in the princess's household has. **He does not know about the Orb
 Weaver.** That costs Melina, not Nessa — see Melina's sheet.
 
 **She thinks of him as something close to a brother**, which comes with being all but a Valanar herself,
@@ -163,6 +164,16 @@ and she feels obliged to tell him about anyone he is being asked to consider. Sh
 never by running anyone down. During his courtship, when he says Celestine Vey seems very nice, Nessa
 quietly tells him what she saw Celestine do to Irene over the blue dress and leaves the judgment to him.
 See [The Marriage of the Tiger Prince](../The%20Marriage%20of%20the%20Tiger%20Prince.md).
+
+### Celestine Vey and Irene Umberlow
+
+**She watched Celestine from below, and then from inside her circle.** At nine and for some years after, a
+baron's daughter training as a lady-in-waiting was nobody Celestine needed to notice, and Nessa saw high
+society from that angle: as herself at functions, and later as Melina's handmaid. From about sixteen she saw
+Celestine take up Irene as a favourite target, the blue dress among much else. When Celestine worked out that
+Nessa and Melina were genuine friends, she admitted Nessa to her circle and ranked her roughly with a count's
+daughter like Aurelia, and plainly thought it generous. **Nessa could not have cared less.** She is civil
+back, she is unimpressed, and she remembers everything she saw before the invitation came.
 
 ### Her family
 

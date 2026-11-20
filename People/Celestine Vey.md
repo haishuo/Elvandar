@@ -17,13 +17,20 @@ seat him where he can do the least harm. She enjoys knowing who can be invited t
 favor can be asked without making its recipient feel used. She also tends to take a person's place
 in the room as a measure of what that person is worth.
 
-She has patronized Irene for years. Before there was any question of rivalry, Irene's poverty was
-reason enough for Celestine to make a little display of noticing it. She is scrupulously civil to
-Nessa, whose friendship with Melina gives her a way to answer an insult. Tiberian mostly sees the
-manners Celestine uses around him, and Elara thinks her a very nice young woman. **She is sweet to
-her date and screams at the waiter**: lovely to the people she needs, careless with the ones she
-does not. It is Nessa who tells Tiberian the difference. Irene knows exactly how those same manners sound when they are
-being used against her.
+She has patronized Irene since they were both about sixteen and Irene first came to the balls. Before
+there was any question of rivalry, Irene's poverty was reason enough for Celestine to make a little
+display of noticing it. The blue dress was a favorite subject and far from the only one.
+
+**Rank is how she reads a room.** Her circle is for the daughters of dukes, marquises and counts. A
+baron's daughter barely warrants a glance, which is why she spent years not noticing Nessa Halcin. The
+moment she understood that Nessa and Melina were genuine friends, Nessa was invited in and treated as
+roughly a count's daughter's equal, Aurelia's level, and Celestine considered that generous of her. She
+has been scrupulously civil to Nessa ever since. Nessa does not care, and Celestine has not noticed.
+
+Tiberian mostly sees the manners Celestine uses around him, and Elara thinks her a very nice young
+woman. **She is sweet to her date and screams at the waiter**: lovely to the people she needs, careless
+with the ones she does not. It is Nessa who tells Tiberian the difference. Irene knows exactly how those
+same manners sound when they are being used against her.
 
 Celestine loves Lucien and has better political judgment than he does. She sees what his plan could
 cost the family, refuses to help him and believes him when he promises to stop. By the time she knows

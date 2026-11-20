@@ -193,7 +193,8 @@ reasons. Irene has no established knowledge of the Orb Weaver's identity.
 
 ### Celestine Vey and Aurelia Alric
 
-Irene understands exactly what Celestine is doing when she praises the dress. For years the
+Irene understands exactly what Celestine is doing when she praises the dress. Since they were both
+about sixteen and Irene first came to the balls, the
 difference in their standing has let Celestine choose the terms of those encounters. Irene can
 have a perfectly good evening until Celestine comes over. She can also go home and be far more
 interested in what she has to do tomorrow than in finding an answer for next time.

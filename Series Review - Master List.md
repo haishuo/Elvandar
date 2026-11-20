@@ -3107,6 +3107,17 @@ House Vey's losses now read the same everywhere. **Open:** what Celestine thinks
 Irene handles almost all of the house's real financial business. **She learned the trade from him**, he
 backs her practicing it, and he is delighted by the match.
 
+**Nessa is a baron's daughter, and the blue dress predates the courtship — author's ruling 2026-11-19.**
+House Halcin is a minor barony. Nessa was sent to the palace at **about nine** (the author's estimate, eight
+to ten) to train as a lady-in-waiting, and later became Melina's handmaid. This **replaces** her sheet's
+earlier line that she was placed as handmaid when both girls were too small to remember a first meeting.
+Irene began going to balls at about sixteen, when Celestine, Aurelia and Nessa were all about the same age,
+and the taunting began then, roughly two years before the courtship. The dress was a favorite subject among
+many. Nessa saw most of it. Celestine ignored her for years as a mere baron's daughter, then admitted her to
+her circle at about a count's daughter's level once she saw Nessa and Melina were genuine friends, and
+thought it generous. Nessa did not care. Recorded on the Nessa, Celestine, Melina and Irene sheets,
+`houses_of_kahaan.md` and `Names.md`.
+
 Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
 remain open for the Book 8 draft.
 

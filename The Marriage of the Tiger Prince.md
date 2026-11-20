@@ -4,6 +4,32 @@
 **Who:** Tiberian Valanar and Irene Umberlow, Celestine and Lucien Vey, Aurelia Alric, Nessa Halcin, and
 Empress Elara.
 
+## The blue dress
+
+The blue dress was older than the courtship by about two years. Irene began going to balls at around
+sixteen, mostly for access to the nobles and their money, and also because a baron's daughter was
+nobility, whatever her house could afford. Celestine, Aurelia and Nessa Halcin were all about the same
+age.
+
+At one of those early balls Celestine sought Irene out in company. She complimented her on how well she
+wore the blue dress and made a point of remembering the two other evenings on which she had done so.
+She made thrift sound like a quality she greatly admired. Everyone who heard her knew what she meant.
+Aurelia laughed. Irene could scarcely object to being complimented, and an open quarrel with a
+marquis's daughter was a luxury her house could afford even less than a second dress. After that
+Celestine made a point of finding her. The dress was a favorite subject, and there were a good many
+others.
+
+Nessa saw most of it. She was a baron's daughter too, sent to the palace at about nine to train as a
+lady-in-waiting, and in those years Celestine had no reason to look at her. Nessa went to the same
+functions, first as herself and later as Princess Melina's handmaid, and saw society from an angle
+Celestine never thought about. As Nessa became Melina's confidante, she also watched Celestine change
+toward her. A baron's daughter was ordinarily beneath Celestine's notice. A baron's daughter with the
+princess's ear was invited into her circle and treated as something like Aurelia's equal, which
+Celestine plainly considered generous. Nessa could not have cared less.
+
+Celestine never thought twice about being uncivil to Irene in front of her. Repeated anywhere, the
+remarks would still sound like praise.
+
 ## The balls
 
 By the time Tiberian came home from the war, there was no bachelor in Kaha'an whose marriage mattered
@@ -73,24 +99,13 @@ A few days later he brought her flowers and apologized. He told her she was righ
 have asked. Irene had expected him to lose interest after the argument. When he came back having
 thought about what she had said, she began to take his courtship seriously.
 
-## The blue dress
-
-At one ball Celestine sought Irene out in company. She complimented her on how well she wore the blue
-dress and made a point of remembering the two other evenings on which she had done so. She made thrift
-sound like a quality she greatly admired. Everyone who heard her knew what she meant. Aurelia laughed.
-Irene could scarcely object to being complimented, and an open quarrel with a marquis's daughter was a
-luxury her house could afford even less than a second dress. Tiberian had already left.
-
-Nessa Halcin had not. Celestine was always civil to Nessa. Whatever Nessa's family's standing, Nessa had
-the ear of Princess Melina, and Celestine knew what it would cost to give her a reason to use it. She saw
-no such cost in being uncivil to Irene in front of her. Repeated anywhere, the remark would still sound
-like praise.
+## What Nessa told him
 
 Nessa had grown up in Melina's rooms and thought of Tiberian as something close to a brother. She felt
 he ought to know who he was being asked to consider. When Elara mentioned that Celestine had been asking
 after him again, and Tiberian said she seemed very nice, Nessa said nothing against her. Afterward, and
-quietly, she told him about the evening of the blue dress, and left him to decide how nice a woman was
-who was lovely to the crown prince and not to a baron's daughter with one good gown.
+quietly, she told him about the blue dress, and left him to decide how nice a woman was who was lovely
+to the crown prince and not to a baron's daughter with one good gown.
 
 ## The Vey siblings
 

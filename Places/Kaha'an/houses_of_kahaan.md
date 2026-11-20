@@ -608,8 +608,10 @@ House Thornwood specialized in landscape design and maintained the beautiful gar
 **Status**: The Vessel Street clearing house — no longer a peripheral entry. See **The Money Trade** above.
 
 ### House Halcin
+**Rank**: Barony
+
 **Status**: Minor house with a charter and little else; lives close to moneylenders and favour-trading  
-**Political Alignment**: None worth the name. Placed a daughter, Nessa, as Princess Melina's personal handmaid for the access, and does not know what she has built with it — see `People/Nessa Halcin.md`
+**Political Alignment**: None worth the name. Sent a daughter, Nessa, to the palace at about nine to train as a lady-in-waiting; she became Princess Melina's handmaid. Done for the access, and the house and does not know what she has built with it — see `People/Nessa Halcin.md`
 
 ### House Fairwind
 **Status**: Former ship captains who lost their vessels but retained their titles  
