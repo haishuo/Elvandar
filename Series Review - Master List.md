@@ -3100,6 +3100,10 @@ lenders who lend on a promise, which the careful houses on Vessel Street will no
 decided: that borrowing is a possible way for Irene into the Great Hunt investigation through her own
 instrument.)*
 
+**House Vey was a hunting house**, as `Offstage.md` already said; both Vey sheets now carry it, and
+House Vey's losses now read the same everywhere. **Open:** what Celestine thinks of the Hunt, and
+whether Irene holds the Umberlow barony herself or is a baron's daughter.
+
 Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
 remain open for the Book 8 draft.
 
