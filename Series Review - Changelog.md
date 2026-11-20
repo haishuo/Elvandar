@@ -12513,3 +12513,7 @@ Linked the tenure and aftermath from the story timeline and Book 8 outline. Clar
 Added the standalone account of the courtship and marriage of Tiberian Valanar and Irene Umberlow between Books 7 and 8, including Celestine Vey's public slight about Irene's blue dress, Aurelia Alric's laughter, and Irene's gift of the same dress after the wedding. Recorded Celestine's refusal to help Lucien and her discovery at his arrest that he broke his promise.
 
 Named Lucien as the principal financier and organizer of the Children of the Great Hunt, the man who brought in the lesser house and one of the ringleaders publicly executed. Linked the two accounts. Reconciled the surviving Umberlow barony with the collapse of its banking business and registered the four new names. Linked the marriage from the chronology, Tiberian's sheet and the Book 8 outline.
+
+### 2026-11-19 - Irene and Tiberian's first meeting and quarrel
+
+Added their meeting on Vessel Street, the quarrel over Tiberian securing Irene's price without asking, and his return with flowers and an apology. Recorded Irene's insistence before the wedding that she restore House Umberlow herself, and Tiberian's promise to leave that work in her hands.

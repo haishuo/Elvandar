@@ -3,6 +3,20 @@
 **When:** Between Books 7 and 8. Tiberian is eighteen.
 **Who:** Tiberian Valanar and Irene Umberlow, Celestine and Lucien Vey, Aurelia Alric, and Empress Elara.
 
+## Vessel Street
+
+Tiberian first met Irene on Vessel Street. The war was over, and he had gone down to the quay to see
+whether a berth still reserved for military use could be returned to civilian traffic. Irene was there
+about a delayed cargo from Port Valen. She had a buyer for part of the lot and could have carts there
+that afternoon. She offered the seller less than he wanted and showed him what he would save by getting
+the goods out of the warehouse before he owed another day's storage. Tiberian was there long enough
+to hear him take the offer.
+
+Deals like that were how Irene meant to restore House Umberlow. She liked making money and intended to
+make a great deal of it. She knew what a reserve meant to a household that had gone without one. She
+wanted the people she loved to be able to get through a bad month without wondering what they would
+have to sell.
+
 ## The crown prince comes to the balls
 
 By the time Tiberian came home from the war, there was no bachelor in Kaha'an whose marriage mattered
@@ -24,7 +38,7 @@ Irene Umberlow was an impoverished baroness. Her house had once been the Paper L
 house in the capital, and its fortune had gone with the Rending. Irene was trying to restore it. The
 prince had daughters of marquises and counts to choose from, and she assumed he would choose one of
 them. She liked her blue dress and wore it to every ball because it was the one good dress she could
-afford. Tiberian liked Irene and began to seek her out himself.
+afford. They recognized each other at the first ball, and Tiberian began to seek her out himself.
 
 ## The blue dress
 
@@ -36,6 +50,23 @@ daughter was a luxury her house could afford even less than a second dress.
 
 Celestine was always civil to Nessa Halcin. Whatever Nessa's family's standing, Nessa had the ear of
 Princess Melina, and Celestine knew what it would cost to give her a reason to use it.
+
+## The price
+
+Early in the courtship Irene complained to Tiberian in private about a price she had been quoted by a
+merchant she expected to deal with again. She was blowing off steam. Tiberian went to see the man and
+came back pleased with himself. The merchant had agreed to give her the price she wanted.
+
+Irene was furious. The next time she went to that merchant, how was she supposed to know whether he
+was quoting the price he was willing to take or the one he thought the crown prince expected? She had been
+building a business on the strength of her own bargains, and Tiberian had changed one without asking
+her. They were alone, and she raised her voice. She still thought he would tire of her and go back to
+the daughters of wealthier houses. She saw little reason to swallow her anger for a marriage she
+could scarcely imagine him offering.
+
+A few days later he brought her flowers and apologized. He told her she was right and that he should
+have asked. Irene had expected him to lose interest after the argument. When he came back having
+thought about what she had said, she began to take his courtship seriously.
 
 ## The Vey siblings
 
@@ -57,7 +88,10 @@ in the conspiracy and its defeat.
 
 ## The wedding and the gift
 
-Tiberian courted Irene and married her before Book 8. After the wedding Irene sent Celestine the blue
-dress with a note.
+Before they married, Irene made Tiberian promise to let her restore House Umberlow herself. She wanted
+his word that he would leave the house's fortunes in her hands, even when he saw a way to improve them.
+He gave it. In time she grew easier about asking her husband for help. The choice to ask was hers.
+
+They married before Book 8. After the wedding Irene sent Celestine the blue dress with a note.
 
 > *You have admired this dress so often that I thought you would like to have it. Please accept it with my compliments.*

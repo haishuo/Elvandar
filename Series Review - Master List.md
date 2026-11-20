@@ -3052,6 +3052,10 @@ withdraw, and learns otherwise at his arrest. Lucien is publicly executed with t
 House Umberlow has always been a barony. The Rending ended its banking business and left the family
 impoverished. Irene is trying to restore its fortunes.
 
+The chronicle establishes that Irene and Tiberian meet on Vessel Street. Their first quarrel is over
+his intervention in her trade without asking. Before the wedding he promises to leave the restoration
+of House Umberlow in her hands.
+
 Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
 remain open for the Book 8 draft.
 
