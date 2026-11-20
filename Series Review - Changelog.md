@@ -12579,3 +12579,7 @@ Wrote Irene into the Book 8 outline: the six-person send-off and her introductio
 ### 2026-11-20 - Nessa catches Tiberian, and the dinner
 
 Added two sections to `Offstage/The Marriage of the Tiger Prince.md`, after the price quarrel: *Only to people with eyes*, in which Nessa teases Tiberian into admitting how he feels about Irene, and *The dinner*, which records his usual exchange with Elara about the balls and the dinner at which he first raises Irene unprompted. Both carry the author's dialogue verbatim. Recorded in the master list. No chapter prose, beat drafts or Royal Road output changed.
+
+### 2026-11-20 - Tiberian's sheet: happy because she is happy
+
+Added the register of the marriage to Tiberian's Irene section: he is happy because Irene is happy, and does not need to understand her business for that. Points to *Only to people with eyes* in the marriage entry.

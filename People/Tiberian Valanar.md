@@ -247,6 +247,11 @@ those evenings early. Irene on Vessel Street is in the middle of a deal; she kno
 goes back to her carts. **That is what makes her stand out, before anything else about her does.** He
 goes back to the quay to find her, and the courtship happens where she works, not in a ballroom.
 
+**He is happy because she is happy.** That is the register of the marriage. He does not understand half
+of what she tells him about her business, and it does not matter: she is beaming, and that is enough for
+him. He will listen for two hours to a deal he could not explain afterward. See the marriage entry in
+`Offstage/`, *Only to people with eyes*.
+
 Her primary is Merchant, which sits last in his stack, and the shadow recorded above is the instinct for
 reserves he does not have. He does not marry her for it and should never be written thinking of her as
 an asset. It is why her talk of holding a cargo for a better offer interests him instead of boring him.
