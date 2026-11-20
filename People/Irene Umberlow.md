@@ -154,8 +154,9 @@ brokerage moves coin and goods east, and the trail lands in Irene's field. She r
 the household and **takes it to Melina, not to Tiberian**, because she knows what he does with a
 problem. Melina brings her in. **Her terms:** she will not raise it with Tiberian; if he asks her
 directly she will not lie to him; anything touching his safety she tells him regardless. She puts the
-Orb Weaver's foreign payments on a sound footing, and the rescue is paid for through channels she now
-keeps. Full placement in `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
+Orb Weaver's foreign payments on a sound footing. **The rescue is paid for by the Crown**, and her part
+is making the Crown's money invisible to Uratha, through channels she now keeps. None of it is
+Umberlow money. Full placement in `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
 
 **The secret costs her more than it costs either of the others.** She hates hypocrisy. Melina and
 Nessa have kept the Orb Weaver from Tiberian for two years; she has been married a few months, to a

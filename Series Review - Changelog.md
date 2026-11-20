@@ -12587,3 +12587,7 @@ Added the register of the marriage to Tiberian's Irene section: he is happy beca
 ### 2026-11-20 - The Partition of Erulius
 
 Added `Offstage/The Partition of Erulius.md` and indexed it in `Offstage/README.md`. After Kalden's death his creditors sell the rump: Gunastran buys futures on the mines, Uratha takes the north including Eruliath and the Amber Palace, and the Union takes the rest of the land. Recorded the entry and its open questions in the master list. No other file changed; pointers from the Book 7 outline and place files are listed as not yet added.
+
+### 2026-11-20 - The Crown pays for the rescue
+
+Recorded where the money for Tiberian's rescue comes from: the Balishan Crown, out of the imperial treasury, and neither House Umberlow nor the Orb Weaver. Tiberian can authorize the money himself. Irene's part is moving it so that Uratha cannot see it. Updated the rescue paragraph in the Book 8 outline, Irene's and Tiberian's Book 8 sections, and the master list ruling on Irene's role. No chapter prose, beat drafts or Royal Road output changed.

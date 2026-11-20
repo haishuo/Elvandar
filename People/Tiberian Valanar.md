@@ -196,7 +196,8 @@ She's not wrong. Tiberian's compassion-fury, the defining synthesis of his chara
 
 **He still does not know about the Orb Weaver, and from Book 8 his wife does.** Irene keeps it from him on
 terms she set herself: she will not raise it, she will not lie if he asks her directly, and she tells him
-anything touching his safety. The rescue he wants to lead is paid for through channels she now keeps. See
+anything touching his safety. The rescue he wants to lead is paid for by the Crown, and he can authorize that himself; what he cannot
+do is hide it from Uratha, and the money moves through channels she now keeps. See
 `People/Irene Umberlow.md` and the Book 8 outline, *The Ledger*.
 
 ---

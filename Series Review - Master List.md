@@ -3082,7 +3082,8 @@ the extension was not Elara's. **She finds the Orb Weaver by its money** when it
 information inside Uratha, reads it as treason, and **takes it to Melina, not Tiberian**. Nessa's
 informant cover is useless before a palace audience, and Melina brings her in. **Her terms:** she will not
 raise it with Tiberian; she will not lie if he asks directly; anything touching his safety she tells him.
-She hates hypocrisy and carries the secret with more guilt than Melina or Nessa. The rescue is paid for
+She hates hypocrisy and carries the secret with more guilt than Melina or Nessa. **The Crown pays for the rescue** (author's ruling 2026-11-20): the imperial treasury's money, not
+Umberlow's or the Orb Weaver's, made invisible to Uratha by Irene. It is paid for
 through channels she keeps. **After the book she keeps the Orb Weaver's books without being an active
 member, and the Orb Weaver and House Umberlow never touch.** She does not find the Globehall, is not at
 the rescue and does not brake Tiberian. Recorded on the Irene, Nessa, Melina and Tiberian sheets. *(The
