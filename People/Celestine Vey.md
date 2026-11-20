@@ -39,6 +39,11 @@ courtship, Lucien's arrest and the blue dress.
   where she has every advantage.
 - She chooses targets who have little room to answer. Her insults should survive being repeated
   aloud as compliments.
-- She believes Lucien's promise until his arrest. She refuses to fund or join the conspiracy.
+- She believes Lucien's promise until his arrest. She refuses to fund or join the conspiracy. **The
+  belief is not naive and it is not free.** It is a fair inference, since Lucien was the circle's
+  money, and it is also the only belief that let her keep her brother. Never write it as simple
+  trust.
+- Lucien never names her, and nobody outside House Vey knows she was asked. She can never confess
+  her silence and will never be accused of it. That is what it costs her.
 - Her grief is real. Let it coexist with the vanity, affection and social cruelty she brought into
   the story.

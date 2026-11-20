@@ -20,7 +20,8 @@ alliances together.
 
 His personal purse has limits, which is what brings him to Celestine. He expects sympathy from
 someone who understands what House Vey lost. After she refuses, he gives her the promise she wants
-to hear and keeps going. He has put enough of himself into the venture that abandoning it would mean
+to hear and keeps going. He borrows against what he expects to inherit, from lenders who will
+advance money on a promise. The careful houses on Vessel Street will not. He has put enough of himself into the venture that abandoning it would mean
 giving up the position he already thinks of as his. His conviction leaves him slow to see how little
 loyalty he has purchased.
 
@@ -35,5 +36,7 @@ holds his dealings with Celestine and the consequences for her.
 - His practical initiative is part of what makes his domineering manner costly. He has real work
   to his credit and reads far too much obligation into it.
 - His resentment comes from family memory. He cannot speak as a witness to the Coterie's government.
+- **He never names Celestine**, under questioning or at trial. It is the one loyalty in the venture
+  he did not buy, and the only one that holds.
 - His pressure makes the wavering men susceptible to an approach. Melina and Nessa do the work
   that draws them away.

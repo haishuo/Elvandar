@@ -3091,6 +3091,15 @@ after he remarks that Celestine seems very nice. Nessa thinks of him as close to
 is sweet to her date and screams at the waiter. Recorded on the Tiberian, Irene, Nessa and Celestine
 sheets.
 
+**Celestine's silence is priced, author's ruling 2026-11-19.** Her belief in Lucien's promise stands,
+and it is neither naive nor free. It is a fair inference, because Lucien was the circle's money, and it
+is the only belief that let her keep her brother. **Lucien never names her**, so nobody outside House
+Vey learns he went to her. She can never confess the silence and will never be accused of it. **Where
+Lucien's money came from after she refused:** he borrowed against what he expected to inherit, from
+lenders who lend on a promise, which the careful houses on Vessel Street will not. *(Open, not
+decided: that borrowing is a possible way for Irene into the Great Hunt investigation through her own
+instrument.)*
+
 Irene enters Book 8 as Tiberian's wife. Her presence at the send-off and her role after the disappearance
 remain open for the Book 8 draft.
 

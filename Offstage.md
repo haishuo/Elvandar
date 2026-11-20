@@ -931,6 +931,8 @@ tense than the last.**
 **Lucien Vey turned the talk into a conspiracy.** The fall of the Grain cartel had cost his house much of
 its old wealth and influence. He became the circle's principal financier, began giving orders and got men
 who had spent their evenings complaining to commit themselves. The money gave him the authority to do it.
+When his own purse ran short he borrowed against what he expected to inherit, from lenders willing to
+advance money on a promise.
 Every man he ordered about was a noble in his own right, and Lucien treated them like servants. The circle
 owed its ability to act to a man much of it could barely stand.
 
