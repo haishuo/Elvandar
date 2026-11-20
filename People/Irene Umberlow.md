@@ -2,7 +2,9 @@
 
 ## Paradigm Analysis
 
-**Merchant → Caretaker.** The remaining five ranks and the percentages are unsettled.
+**Merchant → Caretaker → Founder → Engineer → Truth Seeker → Spirited Competitor → Creator**
+
+*Order approved 2026-11-19. Percentages are unset.*
 
 ### Merchant (Primary)
 
@@ -34,6 +36,49 @@ today and wants to get to him. Irene is liable to ask how that person is going t
 rest of the month. They can each see something the other has missed. Under pressure she can be
 overprotective in her own way, deciding how much security another person needs before asking what
 he was willing to risk.
+
+### Founder (Third)
+
+Irene wants there to be an Umberlow business after her. Personal wealth would give her the means
+to live comfortably and look after her family. She would still have work to do. She wants the house
+to have a sound business that can carry on without her at the table, and she can accept slower
+growth to give it that footing.
+
+This is where Founder outranks Engineer. If folding an otherwise sound line of trade into another
+house would make it run more smoothly, Irene would keep it under the Umberlow name as long as the
+money and her family's security were comparable. The house has to be able to carry the cost. Within
+that limit, she will put up with some inefficiency to keep an independent business worth passing on.
+
+### Engineer (Fourth)
+
+Irene takes satisfaction in getting the pieces of a deal to work together. On Vessel Street she
+has a buyer and transport ready, and she knows what the seller saves by getting the goods out of
+the warehouse that day. Each part of the arrangement makes the next one possible. Once a deal
+works, she is interested in what would make it easier to do again. She can live with an awkward step
+if it protects a dependable relationship or keeps sound trade in the family's hands.
+
+### Truth Seeker (Fifth)
+
+She wants to know what a promise is worth and what the other party will actually agree to. One
+reason the price quarrel angers her is that Tiberian's intervention makes a useful fact harder to
+discover. At the next negotiation, how will she know whether the merchant is willing to take her
+price or simply afraid to refuse the crown prince? When she has enough reliable information to
+make a sound decision, she is comfortable proceeding. Melina is more likely to keep following an
+unanswered question.
+
+### Spirited Competitor (Sixth)
+
+Irene enjoys getting the last word on occasion. Sending Celestine the blue dress is one of those
+occasions. On Vessel Street she will cheerfully let a merchant think he got the better of her if
+she leaves with terms she likes and he comes back to do business next month. The pleasure of
+winning is easy to give up when the bargain is worth more.
+
+### Creator (Seventh)
+
+Irene has taste and can devise an arrangement nobody at the table has considered. Making the deal
+possible is what satisfies her about inventing the terms. If somebody else's arrangement serves
+the purpose, she is happy to use it as it stands. Putting her own stamp on the work carries
+little weight in the decision.
 
 ---
 

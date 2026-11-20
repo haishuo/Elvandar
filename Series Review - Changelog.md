@@ -12525,3 +12525,7 @@ Created and registered character sheets for Celestine Vey, Lucien Vey, Aurelia A
 ### 2026-11-19 - Irene Umberlow's expanded character sheet
 
 Expanded Irene's sheet in the principal-character format, with paradigm analysis, backstory, chronology, relationships, personal characteristics and guardrails. Developed her pleasure in commerce, her instinct to provide for the people she loves, the effect of her new title on her dealings and the terms on which she accepts Tiberian's help. The sheet carries the consequences of the courtship and links to the marriage chronicle for the events.
+
+### 2026-11-19 - Irene Umberlow's paradigm order
+
+Recorded the author's approval of Irene's full order and added the reasoning for ranks three through seven to her sheet. Founder outranks Engineer because she wants an independent Umberlow business that can carry on after her, even when a different arrangement would run more efficiently.

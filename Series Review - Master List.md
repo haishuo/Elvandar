@@ -3057,13 +3057,17 @@ his intervention in her trade without asking. Before the wedding he promises to 
 of House Umberlow in her hands.
 
 Character sheets drawn from the recovered dossiers are in `People/` for Celestine Vey, Lucien Vey,
-Aurelia Alric and Irene Umberlow. Irene is Merchant primary and Caretaker secondary. Her other
-ranks and percentages and the three other stacks are open. The chronicle records Celestine trying
-to visit Lucien after his arrest and the Marquis of Vey forbidding it.
+Aurelia Alric and Irene Umberlow. The chronicle records Celestine trying to visit Lucien after
+his arrest and the Marquis of Vey forbidding it.
 
 [Irene's expanded sheet](People/Irene%20Umberlow.md) records her commercial judgment, her reasons for
 building reserves, and the pressure her new rank puts on ordinary dealings. The promise leaves the
 restoration in her hands. She can still ask Tiberian for help on her own terms.
+
+**Irene's paradigm order, approved 2026-11-19:** Merchant → Caretaker → Founder → Engineer →
+Truth Seeker → Spirited Competitor → Creator. Founder outranks Engineer because she values an
+independent Umberlow business that can outlast her enough to tolerate some inefficiency.
+Irene's percentages and the three other characters' stacks remain open.
 
 **Open for the Great Hunt:** *Gray Mantles* remains a provisional name for the lesser house.
 Whether Irene contributes to the investigation, and how the wedding would line up with that
