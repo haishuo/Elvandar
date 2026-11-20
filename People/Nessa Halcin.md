@@ -5,8 +5,11 @@
 Nessa Halcin is a baron's daughter. She was sent to the Imperial Palace at about nine to train as a
 lady-in-waiting, and she was sent there for a reason. House Halcin is a minor barony — a name, a charter and
 not much else — and a daughter in the princess's household was the best piece of access the family had ever
-been offered. Her parents saw a ladder. At nine she was barely more important than any other baron's
-daughter, and she later became Princess Melina's handmaid. That is all she was meant to be.
+been offered. It is a common enough move for a minor barony, and the hope behind it was modest: that
+she would acquit herself well and, with luck, secure a place as lady-in-waiting to some member of the
+imperial house, which might open a few doors for House Halcin. At nine she was barely more important
+than any other baron's daughter. Nobody imagined she would become Melina's closest friend. That is all
+she was meant to be.
 
 It did not stay that. Over the next few years the appointment turned into the friendship it was supposed to
 look like. They grew up in the same rooms, learned
@@ -177,4 +180,5 @@ back, she is unimpressed, and she remembers everything she saw before the invita
 
 ### Her family
 
-House Halcin wanted a ladder and got one. They do not know where it goes.
+House Halcin hoped for a lady-in-waiting's place and a few open doors. They got a great deal more, and they
+do not know where it goes.
