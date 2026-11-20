@@ -23,7 +23,7 @@ A Provost serves a renewable five-year term. The Tower's voting faculty may reca
 
 Where continued access to sensitive orders poses an immediate danger, the Council may suspend that access. A credible accusation that a Provost has passed military orders to an enemy is grounds for such a suspension. The suspension triggers an emergency session of the Tower's voting faculty to consider recall. A conviction for treason vacates the seat. The Tower elects the replacement whenever a seat falls vacant.
 
-The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. The Council handles ordinary business by consensus. Any Provost may bring a motion. If another Provost seconds it, the chair must put it to a recorded vote.
+The Council meets weekly in the Central Chamber of the Ivory Tower. Their deliberations follow strict academic protocols, with position papers submitted in advance, formal presentations, and ritualized debate. The Council handles ordinary business by consensus. Any Provost may bring an ordinary motion. If another Provost seconds it, the chair must put it to a recorded vote. A motion of [no confidence](#loss-of-confidence) requires four Provosts to sponsor it and is subject to the waiting period below.
 
 On formal motions in which the Scholar-King participates, each of the seven Tower Provosts casts one vote and the Scholar-King casts an eighth. In a tie, the Scholar-King's vote counts twice and the side the Scholar-King supported prevails. A motion of [no confidence](#loss-of-confidence) is decided by the seven Provosts alone.
 
@@ -62,9 +62,11 @@ Once the incumbent wins a majority, the tellers count the original ballots again
 
 #### Loss of confidence
 
-The Council may remove a sitting Scholar-King through a vote of no confidence. Each of the seven Provosts has one vote, including the High Provost. The Scholar-King has none on the motion. Removal requires two-thirds of the full seven seats, or five affirmative votes. An absence or abstention leaves that threshold at five.
+The Council may remove a sitting Scholar-King through a vote of no confidence. Bringing the motion requires the sponsorship of four of the seven Provosts. Once that requirement is met and no waiting period applies, the chair must put it to a recorded vote. Each of the seven Provosts has one vote, including the High Provost. The Scholar-King has none on the motion. Removal requires two-thirds of the full seven seats, or five affirmative votes. An absence or abstention leaves that threshold at five.
 
 Removal takes effect when the motion carries.
+
+If the motion fails, no further motion of no confidence may be brought against that Scholar-King for two years from the date of the failed vote. Ordinary Council business continues under the usual voting rules during this period.
 
 A Scholar-King who learns privately that five colleagues will vote for removal has good reason to step down before the session. A public announcement of a return to scholarship gives the incumbent a dignified departure and can spare the Provosts a formal breach with a colleague.
 

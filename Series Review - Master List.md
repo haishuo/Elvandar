@@ -1275,7 +1275,7 @@ Each Tower elects its own Provost by faculty vote at the rank of Full Scholar an
 
 The Scholar-King can issue temporary military-service orders on the authority of the office. Permanent classification reform requires the Council's assent. [Diplomatic and wartime authority](Places/Uratha/The%20Government%20of%20Uratha.md#diplomatic-and-wartime-authority)
 
-Any Provost may bring a motion. A second from another Provost requires the chair to put the motion to a recorded vote. [Council procedure](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts)
+Any Provost may bring an ordinary motion. A second from another Provost requires the chair to put the motion to a recorded vote. A no-confidence motion requires four Provosts to sponsor it and five affirmative votes to remove the Scholar-King. If it fails, no further no-confidence motion may be brought against that Scholar-King for two years from the failed vote (author's ruling, 2026-11-19). [Council procedure](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) · [Loss of confidence](Places/Uratha/The%20Government%20of%20Uratha.md#loss-of-confidence)
 
 The Tower faculty controls ordinary recall of its Provost. Local officials spend within existing appropriations. A *bakarn* may petition a magistrate to correct a misapplied order, while work assignments and curfew remain enforceable under the classification rules. [Tower accountability](Places/Uratha/The%20Government%20of%20Uratha.md#the-council-of-provosts) · [Local administration and petitions](Places/Uratha/The%20Government%20of%20Uratha.md#local-administration-and-petitions)
 

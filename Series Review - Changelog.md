@@ -12495,3 +12495,7 @@ Recorded criminal protection, the sufficiency of a single credible *bakarn* witn
 ### 2026-11-08 - Uratha's form of government
 
 The government document now opens with Uratha's classification as an academic oligarchy with an elected Scholar-King and explains its epistocratic claim to legitimacy through the Agriculture Provost's electorate.
+
+### 2026-11-19 - Sponsorship and waiting period for Urathan no-confidence motions
+
+Recorded the requirement for four Provosts to sponsor a no-confidence motion, retaining the five affirmative votes required for removal. A failed vote bars another no-confidence motion against that Scholar-King for two years from the vote. Clarified the exception to the ordinary proposer-and-seconder procedure in the government document and updated the settled ruling in the master list.
