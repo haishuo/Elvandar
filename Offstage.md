@@ -928,8 +928,8 @@ in that position talk. Then someone said something dangerous as a joke, and nobo
 obliquely, whether he was serious, and the silence was an answer. **The next gathering was a great deal more
 tense than the last.**
 
-**Lucien Vey turned the talk into a conspiracy.** The fall of the Grain cartel had cost his house much of
-its old wealth and influence. He became the circle's principal financier, began giving orders and got men
+**Lucien Vey turned the talk into a conspiracy.** The fall of the Grain cartel had cost his house a
+substantial share of its wealth and much of its old influence, though the Veys remained rich. He became the circle's principal financier, began giving orders and got men
 who had spent their evenings complaining to commit themselves. The money gave him the authority to do it.
 When his own purse ran short he borrowed against what he expected to inherit, from lenders willing to
 advance money on a promise.

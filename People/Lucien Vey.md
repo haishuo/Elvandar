@@ -36,6 +36,9 @@ holds his dealings with Celestine and the consequences for her.
 - His practical initiative is part of what makes his domineering manner costly. He has real work
   to his credit and reads far too much obligation into it.
 - His resentment comes from family memory. He cannot speak as a witness to the Coterie's government.
+- **House Vey was a hunting house.** The Marquis hunted before Elara's ban, and the ban is part of the
+  grievance Lucien inherits. He was too young to remember it and never saw the prey; he knows the Hunt
+  as a privilege his family lost, not as what it was.
 - **He never names Celestine**, under questioning or at trial. It is the one loyalty in the venture
   he did not buy, and the only one that holds.
 - His pressure makes the wavering men susceptible to an approach. Melina and Nessa do the work

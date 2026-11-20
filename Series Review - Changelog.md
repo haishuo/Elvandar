@@ -12543,3 +12543,7 @@ Added an Irene section to Tiberian's relationships and updated his Between Books
 ### 2026-11-19 - Celestine's silence and Lucien's money
 
 Added to *The Marriage of the Tiger Prince* why Celestine's belief in Lucien's promise was reasonable and what it let her keep, that Lucien financed the rest of the conspiracy by borrowing against his expected inheritance from lenders who advance money on a promise, and that he never named his sister. Added the borrowing to the Children of the Great Hunt in *Offstage*. Updated Celestine's guardrails and Lucien's function and guardrails. Recorded the ruling in the master list, with Irene's possible route into the investigation noted as open. No chapter prose, beat drafts or Royal Road output changed.
+
+### 2026-11-19 - House Vey's losses and the Hunt
+
+Reconciled House Vey's losses: *Offstage* now matches the marriage chronicle and Celestine's sheet (a substantial share of its wealth and much of its influence; the house remains rich). Recorded on both Vey sheets that House Vey was a hunting house, as *Offstage* already lists Lucien among the heirs of the hunting houses. Neither sibling remembers the Hunt. Celestine's view of it is left open. No chapter prose, beat drafts or Royal Road output changed.

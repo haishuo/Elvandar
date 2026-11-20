@@ -45,5 +45,7 @@ courtship, Lucien's arrest and the blue dress.
   trust.
 - Lucien never names her, and nobody outside House Vey knows she was asked. She can never confess
   her silence and will never be accused of it. That is what it costs her.
+- **House Vey was a hunting house**, and her father hunted before Elara's ban. She was too young to
+  remember it and never saw the prey. What she thinks of it now is open; do not settle it in passing.
 - Her grief is real. Let it coexist with the vanity, affection and social cruelty she brought into
   the story.
