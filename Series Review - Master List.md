@@ -25,7 +25,7 @@ them before it is proposed against the prose.
 | **Craft — Book 2** | 0 | — |
 | **Book 3 — in draft** | 1 | Places-vs-map audit unfinished |
 | **Book 6 — in draft** | 0 | — |
-| **Open questions** | 0 | — |
+| **Open questions** | 3 | Uratha after Book 8; Urath IV's academy; the twins' long conversation |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied. Book 3 is live work rather than review findings — see [§3](#3-outstanding-work).

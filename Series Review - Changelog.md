@@ -12627,3 +12627,7 @@ On the author's ruling, rewrote the courtship in `Offstage/The Marriage of the T
 ### 2026-11-21 - Tiberian puts it off, and Melly
 
 On the author's design, added to `book8_outline.md`, *The Ledger*, the scene after Irene tells Tiberian: he comes to Melina, defers his questions until their parents are home with the promise of a long conversation, asks only whether the Orb Weaver can find them, trusts her *for now* (line trimmed to *"Good enough. For now."*), and turns back to ask her to find them; she answers *"That's the plan."* Irene is not present and the omission is not argued in the scene. Recorded that the long conversation must be paid in Part 3 or in `Offstage/`, and added its content to the master list's open questions. Ruled that Tiberian and Nessa call Melina *Melly* and Irene never does: added to Melina's *What she is called*, to Tiberian's relationship entry for Melina, as Nessa's guardrail 5 (the house-name guardrail is now 6), and as Irene's guardrail 9. Melina's and Tiberian's Book 8 sections updated. Recorded that *Melly* must be seeded before Book 8. No chapter prose, beat drafts or Royal Road output changed.
+
+### 2026-11-21 - Open-questions count corrected
+
+The master list's status table said 0 open questions while §7 carried two (Uratha after Book 8; the founding of Urath IV's academy), and a third was added today (the twins' long conversation). Set the row to 3 and named them.
