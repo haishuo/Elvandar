@@ -3369,7 +3369,7 @@ no-confidence motion** and the other four Towers joined him. **He wants to avoid
 country that fights badly, that is expertise. **The Uratha he remembers is its civic culture, which was real**;
 what he cannot recognise is Draskin governing through the Ilhamori in the open.
 
-**The strike** (`Offstage/The Strike on the Ivory Tower.md`): with every lawful route closed and a purge in
+**The strike** (now in `Book 9 - Fair Game/book9_outline.md`, *The Opening*; first recorded in `Offstage/` and moved the same day): with every lawful route closed and a purge in
 prospect, he sends a small, fast Ruby force to take Draskin into custody, knowing he exceeds his office and
 expecting to lose his seat. **The Ilhamori fight it off**, on their own ground, in the close fighting they train
 for; no leak is needed. **Draskin declares him in rebellion**, which gives him emergency authority, a real
@@ -3382,15 +3382,15 @@ legitimate target (what he becomes), and a game at all (Draskin *enjoys politics
 Creator → Merchant, checked against his decisions. The author may reorder it. Physical presence and voice are
 unset.
 
-**Changed:** new `People/Kandor Belus.md`; new `Offstage/The Strike on the Ivory Tower.md` and the Offstage
+**Changed:** new `People/Kandor Belus.md`; new `Offstage/The Strike on the Ivory Tower.md` (since moved into Book 9's outline and deleted) and the Offstage
 index; the Failed Vote account (Belus proposed the motion; the ending points to the strike); a sheet link in
 *The Government of Uratha*; a row in `Names.md`.
 
 ## 7. Open questions
 
-**Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, Draskin's proposed unanimity amendment, Belus's failed strike on the Ivory Tower and Draskin's declaration that he is in rebellion ([Strike](Offstage/The%20Strike%20on%20the%20Ivory%20Tower.md)). What follows remains open: whether Belus escapes, how the four other Towers answer, what Balisha does, and how it ends.
+**Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, Draskin's proposed unanimity amendment, Belus's failed strike on the Ivory Tower and Draskin's declaration that he is in rebellion ([Book 9](Book%209%20-%20Fair%20Game/book9_outline.md)). What follows remains open: whether Belus escapes, how the four other Towers answer, what Balisha does, and how it ends.
 
-**A ninth book (author, 2026-11-21).** Mainly from Kandor Belus's point of view, on Book 4's model; working title *Fair Game*. **The folder exists** (`Book 9 - Fair Game/book9_outline.md`, a seed holding only what is settled). The series outline, the Book 8 outline and Belus's sheet still describe eight books or a book under consideration; updating them is deferred at the author's direction. Undecided: strict single POV or a secondary thread; where the twins' long conversation is paid if it is. Sapphire scholars' individual complicity and Amethyst's intent in supplying the quorum are not established. The exact minimum notice period for Council votes and the full constitutional-amendment procedure remain unspecified; the settled rules require notice and Council assent. [Account](Offstage/The%20Failed%20Vote%20Against%20Draskin.md) · [Government](Places/Uratha/The%20Government%20of%20Uratha.md)
+**A ninth book (author, 2026-11-21).** Mainly from Kandor Belus's point of view, on Book 4's model; working title *Fair Game*. **The folder exists** (`Book 9 - Fair Game/book9_outline.md`, holding everything settled or proposed for it, including the strike). The series outline and the Book 8 outline still describe eight books; updating them is deferred at the author's direction. Undecided: strict single POV or a secondary thread; where the twins' long conversation is paid if it is. Sapphire scholars' individual complicity and Amethyst's intent in supplying the quorum are not established. The exact minimum notice period for Council votes and the full constitutional-amendment procedure remain unspecified; the settled rules require notice and Council assent. [Account](Offstage/The%20Failed%20Vote%20Against%20Draskin.md) · [Government](Places/Uratha/The%20Government%20of%20Uratha.md)
 
 **One language-history foundation is open:** the founding date and local population of Urath IV's academy.
 Urathan's genealogy, Balishan's deeper Halauric ancestry, Vartonne's settlement history, Valan I Valanar's

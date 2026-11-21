@@ -44,4 +44,3 @@ One file per story. Each stands alone; cross-references between them are links.
 - [The Partition of Erulius](The%20Partition%20of%20Erulius.md)
 - [Draskin's Three Terms](Draskin%27s%20Three%20Terms.md)
 - [The Failed Vote Against Draskin](The%20Failed%20Vote%20Against%20Draskin.md)
-- [The Strike on the Ivory Tower](The%20Strike%20on%20the%20Ivory%20Tower.md)

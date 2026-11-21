@@ -15,9 +15,8 @@ calls *both true and embarrassing* (`Places/Uratha/Uratha_ The Land of Scholars.
 better what a civil war would cost, because nobody knows better how badly Uratha fights.
 
 *(Sheet created 2026-11-21 on the author's ruling. The events are recorded in
-[The Failed Vote Against Draskin](../Offstage/The%20Failed%20Vote%20Against%20Draskin.md) and
-[The Strike on the Ivory Tower](../Offstage/The%20Strike%20on%20the%20Ivory%20Tower.md); this sheet carries
-what they mean for him.)*
+[The Failed Vote Against Draskin](../Offstage/The%20Failed%20Vote%20Against%20Draskin.md) and in
+[Book 9's outline](../Book%209%20-%20Fair%20Game/book9_outline.md); this sheet carries what they mean for him.)*
 
 ---
 
@@ -103,12 +102,11 @@ was exceeding his office. He believed he was acting as a patriot, and if it cost
 
 ---
 
-## What Is Proposed For Him — under consideration, 2026-11-21
+## Book 9: Fair Game
 
-**The author is considering a ninth book, told mainly from Belus's point of view**, on the model of Book 4,
-which is told entirely from Harkim's. Working title ***Fair Game***, not fixed. **Nothing in the series
-outline or the Book 8 outline has been changed for it**, and both still describe eight books. If it goes
-ahead, this section moves to that book's outline. See the master list, *Open questions*.
+**He is the main point of view of Book 9**, on the model of Book 4, which is told entirely from Harkim's. The
+book opens with the strike. Its plan, the title's meanings and what is still open are in
+`Book 9 - Fair Game/book9_outline.md`; this sheet does not restate them.
 
 ---
 
