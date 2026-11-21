@@ -3412,6 +3412,28 @@ Book 9 outline; Belus's sheet.
 never decodes them**. **Loyalty, singular**: the Failed Vote account, Belus's sheet and the series outline
 said *loyalties* and were corrected.
 
+### Leowin Draskin: the fear of execution, and the arrest that fails — author's ruling, 2026-11-21
+
+**Draskin gets a sheet** (`People/Leowin Draskin.md`). **His reason is the fear of execution**, not love of the
+office. The immunity only postpones prosecution, so his only safe position is permanent office. A plea deal
+(Amethyst and Onyx handed over) *might* get him prison; staying in office gets him two certain years. The vote,
+the amendment and the purge all extend the office's protections, and a purged Council would also re-elect him.
+**His coalition is a hostage arrangement.** Guardrail 1: never write him as wanting power for its own sake.
+
+**He is a bureaucrat, not a general.** The declaration is a warrant to him. **The Ilhamori go to arrest Belus and
+Ruby soldiers stop them**, on Ruby's strength (holding fortified positions). That is where the civil war starts,
+and the first time Draskin understands he has lost control. It mirrors Belus's mistake; nobody points at it.
+Recorded in `book9_outline.md`, *The Opening*.
+
+**Draskin's stack is proposed, not ruled**: Merchant → Spirited Competitor → Founder → Engineer → Truth Seeker →
+Creator → Caretaker, checked against B3 ch12. Physical presence unset.
+
+**Reshaped open questions in Book 9's outline:** *Whether Belus escapes* is replaced by *where the Ruby Tower
+stands* and *whom the officers obey*. *Draskin's later letters* added as a proposal.
+
+**Changed:** new `People/Leowin Draskin.md`; the Book 9 outline; Belus's sheet; sheet links in *The Government
+of Uratha* and `Names.md`.
+
 ## 7. Open questions
 
 **Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, Draskin's proposed unanimity amendment, Belus's failed strike on the Ivory Tower and Draskin's declaration that he is in rebellion ([Book 9](Book%209%20-%20Fair%20Game/book9_outline.md)). What follows remains open: whether Belus escapes, how the four other Towers answer, what Balisha does, and how it ends.

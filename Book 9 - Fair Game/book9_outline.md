@@ -108,6 +108,32 @@ war rather than a suppression. And the immunity covers *conduct undertaken under
 so every emergency order Draskin gives is shielded too, and raises the price of ever leaving office.
 [The Government of Uratha](../Places/Uratha/The%20Government%20of%20Uratha.md)
 
+### Why Draskin will not give up
+
+*(Author's ruling, 2026-11-21.)* **His fear is execution.** He enjoys politics and likes the office, and neither
+is the reason. If he leaves office they will pin everything on him, and he will die. The immunity only
+postpones prosecution, so serving out his term does not save him. A plea deal, Amethyst and Onyx handed over,
+*might* get him prison instead. Staying in office gets him two certain years before another motion can be
+brought, and two years to find a way to survive. **Every move he makes extends what the office protects**: the
+vote, the amendment, the purge, and a purged Council that would also re-elect him. Character and reasoning in
+full: `People/Leowin Draskin.md`.
+
+### The arrest that fails
+
+**Draskin is a politician, not a general, and he does not know he has started a civil war.** To him the
+declaration is a warrant: the Ilhamori will arrest Belus and that will be the end of it, because that is how
+it would be handled bureaucratically. **The Ilhamori go to make the arrest, and Ruby soldiers stop them.**
+
+**It fails for the strike's reason, reversed.** Ruby's strength is holding fortified positions
+(`Places/Uratha/Uratha_ The Land of Scholars.md`, *The Ruby Tower*); the Ruby Tower is one, held by the War
+College, and now the Ilhamori are the ones out of their element. **Belus sent soldiers to do police work, and
+Draskin sends police to put down a rebellion.** Each uses his own instrument on the other's problem. **Nobody
+points at it.**
+
+**This is where the civil war starts.** Before it, a failed strike and a warrant; after it, an armed standoff.
+**It is the first time Draskin begins to understand that events are moving in a direction he can no longer
+control.** Belus cannot see that from inside him, and the book does not go there.
+
 ---
 
 ## THE TITLE
@@ -177,14 +203,21 @@ twins appear, they are somewhere new.
   could be a broker he buys information from and cannot identify, with the reader knowing exactly who it is.
 - **Irene's channels.** Uratha has no banking houses of international reach, and a civil war there is in part
   a war about how money moves. Money could reach Belus by routes he never sees.
-- **His province.** As a Provost, Belus governs a province in all but name. If he escapes, that is what turns a
-  failed strike into a civil war rather than a rounded-up conspiracy.
+- **His province.** As a Provost, Belus governs a province in all but name. If the war spreads beyond his Tower,
+  it is his base.
+- **Draskin's later letters.** *Proposed, not ruled.* His first letter is exact. If a later one comes after the
+  blocked arrest, the precision can slip, a word too many or a threat said aloud, and the reader watches a
+  frightened man lose control from outside, with nothing explained.
 
 ---
 
 ## Open
 
-- **Whether Belus escapes** after the strike, and to where. This is the hinge of the book.
+- **Where the Ruby Tower stands**, in the capital beside the Ivory Tower or in Ruby's province. The arrest is
+  blocked there, so Belus may not need to escape at all; the geography decides the shape of the war.
+- **Whom the officers obey.** Draskin's emergency authority lets him order the army without the Council, and
+  Uratha's officers are Ruby-trained. When the Scholar-King orders the army and its War College refuses, the
+  answer is probably the book's central military question.
 - **How the other four Towers answer** the declaration.
 - **What Balisha does**, and whether the Alliance's terms bear on it.
 - **Strict single POV or a secondary thread.** Book 4's strictness is the leaning; a Melina thread would bring

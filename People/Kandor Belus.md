@@ -148,7 +148,9 @@ not write it as a lie he refuses to see.
 ### Leowin Draskin
 
 His opponent, and the man he holds responsible. Draskin *enjoys politics*; for him it has always been a game.
-Belus's grievance is not that it is a game but that it is not fair.
+Belus's grievance is not that it is a game but that it is not fair. **What drives Draskin is the fear of
+execution**, not love of the office (`People/Leowin Draskin.md`). After the strike, the Ilhamori sent to arrest
+Belus are stopped by Ruby soldiers.
 
 ### The other opposing Towers
 
