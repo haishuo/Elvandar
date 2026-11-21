@@ -137,7 +137,8 @@ loses the war, and he runs**, because he will not die. Too famous to be sheltere
 with as much liquid wealth as he can carry after one last "official" act, liquidating the Ivory Tower's
 treasury. **He goes to Kaha'an**, where nobody would expect him. His money is coin, so he must deposit it, and to
 an Urathan a bank is a strongbox; he avoids the large houses as too discerning and picks a small one eager for
-his business. **It is House Umberlow.** He does not know it is Irene Valanar's.
+his business. **It is House Umberlow.** He does not know it is Irene Valanar's, and nobody in his position would: knowing a
+house's name is not knowing its family, and a fugitive cannot ask (Book 9's outline, *He walks into a bank*).
 
 **He never meets her.** A clerk takes the deposit, asks nothing, and writes everything down, including where he
 is staying. **He takes *no questions* to mean *no knowledge*.** Irene reads the ledger, stops on the line, and

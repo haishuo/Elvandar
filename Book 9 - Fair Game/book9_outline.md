@@ -239,11 +239,16 @@ strongbox**, somewhere you deposit money, not a house that reads it. He reckons 
 among them, would be too discerning and ask too many questions, and that a smaller house would be eager for
 his business. He chooses one. **Over the door it says Umberlow.**
 
-**He does not know whose house it is.** In Uratha the Crown Prince's marriage was news only as *the prince found
-a pretty young wife, and by all accounts she's quite nice*; nobody there noticed which minor barony she came
-from. If he knows of her at all, he knows her as Irene Valanar, and *Umberlow* is a name he half-knows and
-connects to nothing. *Proposed, for rule 1:* Onyx briefed him on threats, and a baron's daughter's small house
-was not one; by the time he flees he is cut off from Onyx anyway.
+**He does not know whose house it is, and nobody in his position would.** *(Author's ruling, 2026-11-21.)*
+The gap is two steps and he would need both. **First, that House Umberlow has an heir at all.** A Scholar-King
+may know the name by reputation (the Paper Lords, a respected banking house, *good to see they've revived*),
+but knowing a house is not knowing its family; for all he knows it has four sons and is expanding into
+carpentry. **Second, that the heir is the Crown Prince's wife.** In Uratha the marriage was news only as *the
+prince found a pretty young wife, and by all accounts she's quite nice*, and even a name would not help: *Irene*
+is not rare, and this series has never kept names unique (Melina Valanar is named for Melina Kemvimore).
+**And he cannot ask.** A fugitive does not go round Kaha'an enquiring who owns the money house he is about to
+use, because questions are what get a stranger noticed. The one way he could have found out is closed to him by
+the reason he is there.
 
 **Irene is not there.** She is the Crown Prince's wife and is rebuilding a house; she has clerks, and she is
 not at the counter. **A clerk takes the deposit** and asks him nothing, which is exactly the welcome Draskin
