@@ -25,7 +25,7 @@ them before it is proposed against the prose.
 | **Craft — Book 2** | 0 | — |
 | **Book 3 — in draft** | 1 | Places-vs-map audit unfinished |
 | **Book 6 — in draft** | 0 | — |
-| **Open questions** | 3 | Uratha after Book 8; Urath IV's academy; the twins' long conversation |
+| **Open questions** | 4 | Uratha after Book 8; Urath IV's academy; the twins' long conversation; a ninth book |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied. Book 3 is live work rather than review findings — see [§3](#3-outstanding-work).
@@ -3361,9 +3361,36 @@ where Book 5 has Tiberian at sixteen.
 
 ---
 
+### Kandor Belus, and the strike on the Ivory Tower — author's ruling, 2026-11-21
+
+**Belus gets a sheet** (`People/Kandor Belus.md`). **He did not know about the Globehall**; he knew the Crown
+was silent, and that is not the same thing. Book 8 costs him horror, not guilt. **He proposed the
+no-confidence motion** and the other four Towers joined him. **He wants to avoid war**, and as War Provost of a
+country that fights badly, that is expertise. **The Uratha he remembers is its civic culture, which was real**;
+what he cannot recognise is Draskin governing through the Ilhamori in the open.
+
+**The strike** (`Offstage/The Strike on the Ivory Tower.md`): with every lawful route closed and a purge in
+prospect, he sends a small, fast Ruby force to take Draskin into custody, knowing he exceeds his office and
+expecting to lose his seat. **The Ilhamori fight it off**, on their own ground, in the close fighting they train
+for; no leak is needed. **Draskin declares him in rebellion**, which gives him emergency authority, a real
+treason and a split opposition. Whether the declaration is itself lawful is contested.
+
+**The title's three meanings**, if *Fair Game* is used: a fair contest (what Belus thought he was owed), a
+legitimate target (what he becomes), and a game at all (Draskin *enjoys politics*). Nobody states it.
+
+**Belus's stack is proposed, not ruled**: Founder → Caretaker → Spirited Competitor → Engineer → Truth Seeker →
+Creator → Merchant, checked against his decisions. The author may reorder it. Physical presence and voice are
+unset.
+
+**Changed:** new `People/Kandor Belus.md`; new `Offstage/The Strike on the Ivory Tower.md` and the Offstage
+index; the Failed Vote account (Belus proposed the motion; the ending points to the strike); a sheet link in
+*The Government of Uratha*; a row in `Names.md`.
+
 ## 7. Open questions
 
-**Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, and Draskin's proposed unanimity amendment. What follows remains open. Sapphire scholars' individual complicity and Amethyst's intent in supplying the quorum are not established. The exact minimum notice period for Council votes and the full constitutional-amendment procedure remain unspecified; the settled rules require notice and Council assent. [Account](Offstage/The%20Failed%20Vote%20Against%20Draskin.md) · [Government](Places/Uratha/The%20Government%20of%20Uratha.md)
+**Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, Draskin's proposed unanimity amendment, Belus's failed strike on the Ivory Tower and Draskin's declaration that he is in rebellion ([Strike](Offstage/The%20Strike%20on%20the%20Ivory%20Tower.md)). What follows remains open: whether Belus escapes, how the four other Towers answer, what Balisha does, and how it ends.
+
+**A ninth book, under consideration (author, 2026-11-21).** Mainly from Kandor Belus's point of view, on Book 4's model; working title *Fair Game*, not fixed. The series outline and the Book 8 outline still say eight books and have not been changed. Undecided: whether it is written; strict single POV or a secondary thread; where the twins' long conversation is paid if it is. Sapphire scholars' individual complicity and Amethyst's intent in supplying the quorum are not established. The exact minimum notice period for Council votes and the full constitutional-amendment procedure remain unspecified; the settled rules require notice and Council assent. [Account](Offstage/The%20Failed%20Vote%20Against%20Draskin.md) · [Government](Places/Uratha/The%20Government%20of%20Uratha.md)
 
 **One language-history foundation is open:** the founding date and local population of Urath IV's academy.
 Urathan's genealogy, Balishan's deeper Halauric ancestry, Vartonne's settlement history, Valan I Valanar's

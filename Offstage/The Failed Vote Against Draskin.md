@@ -6,7 +6,7 @@ Responsibility is unevenly distributed among the Towers. Ivory is deeply implica
 
 Pearl, Topaz, Emerald, Sapphire, and Ruby seek Draskin's removal. They are variously uninvolved or horrified. Sapphire's custody of law and records means the inquiry may reach its own scholars; neither the extent of their knowledge nor particular scholars' complicity is settled. The Tower nevertheless supports removal. It distinguishes the political judgment that Draskin should leave office from the criminal findings that must be proved in court.
 
-All five Provosts sponsor a motion of no confidence. Sapphire's Provost is personally away overseeing the preservation and examination of evidence for the subsequent prosecutions. Draskin schedules the vote for that absence, giving the required formal notice while knowing the Provost cannot return in time. The constitution permits no proxy or advance written ballot. Sapphire's sponsorship cannot be counted as its vote.
+All five Provosts sponsor a motion of no confidence. **Kandor Belus proposes it, and the other four join him** *(author's ruling, 2026-11-21)*. Sapphire's Provost is personally away overseeing the preservation and examination of evidence for the subsequent prosecutions. Draskin schedules the vote for that absence, giving the required formal notice while knowing the Provost cannot return in time. The constitution permits no proxy or advance written ballot. Sapphire's sponsorship cannot be counted as its vote.
 
 | Tower | Attendance and vote |
 |---|---|
@@ -29,4 +29,4 @@ Draskin treats the request as an assertion of administrative authority. Belus re
 
 Draskin also seeks a constitutional amendment requiring all seven Provosts to vote for removal. He cannot enact that change himself and does not have the assent of the five opposing Towers. The proposal is not an accomplished amendment. Together with the Ilhamori visit, it makes his determination to remain in office unmistakable: leaving office would end the immunity that prevents his prosecution.
 
-This account ends with the failed vote, the approach to Belus, and the proposed amendment. It establishes no subsequent coup, successful amendment, removal, or prosecution. The governing rules are in [The Government of Uratha](../Places/Uratha/The%20Government%20of%20Uratha.md#loss-of-confidence).
+This account ends with the failed vote, the approach to Belus, and the proposed amendment. What follows is [The Strike on the Ivory Tower](The%20Strike%20on%20the%20Ivory%20Tower.md). Neither account establishes a successful amendment, removal, or prosecution. The governing rules are in [The Government of Uratha](../Places/Uratha/The%20Government%20of%20Uratha.md#loss-of-confidence).

@@ -104,6 +104,7 @@ day. Neither has ever said so to the other on the page.
 | **Storm-Marshal Ilareth** | Tor'anar, Balisha's war-magic corps | Balishan ceremonial |
 | **Leowin Draskin** | Scholar-King of Uratha | Proto-Balishan both halves |
 | **High Provost Venn** | Uratha | — |
+| **Kandor Belus** | War Provost, Ruby Tower. Proposes the no-confidence motion against Draskin after Book 8, then leads the failed strike on the Ivory Tower. See `People/Kandor Belus.md` | — |
 | **Iyanna Mereth** | History Provost, Sapphire Tower. The Brass Door is her subject | Old Halauri *-eth* |
 | **Adren Thulgrav** | Gunastran lead engineer, ~50. **She/her** | Old Gunastran |
 | **Ondra Kelgrav** | Gunastran | Old Gunastran |

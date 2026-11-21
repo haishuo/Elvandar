@@ -9,7 +9,7 @@ Uratha is an **academic oligarchy with an elected Scholar-King**. It claims legi
 The ruling body of Uratha consists of the heads of each Tower — the great academic institutions that form both the physical and intellectual spine of Urathan civilization. Each Provost holds dual authority as both head of their Tower's scholarly discipline and as a provincial governor in all but name. The officeholders below are those of the opening books:
 
 - **The High Provost** — Currently Elaris Venn, head of the Amethyst Tower (Theoretical Magic), who serves as first among equals on the Council
-- **The War Provost** — Kandor Belus, head of the Ruby Tower, responsible for defense and martial training; often seen as the most practical-minded member
+- **The War Provost** — Kandor Belus, head of the Ruby Tower, responsible for defense and martial training; often seen as the most practical-minded member ([sheet](../../People/Kandor%20Belus.md))
 - **The History Provost** — Iyanna Mereth, head of the Sapphire Tower, keeper of historical records and traditional knowledge
 - **The Sciences Provost** — Tolrin Fax, head of the Topaz Tower, overseeing applied sciences and technological development
 - **The Agriculture Provost** — Daven Harth, head of the Emerald Tower, managing food production, distribution, and natural sciences
