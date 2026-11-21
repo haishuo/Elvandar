@@ -88,6 +88,21 @@ them at the same moment. The office protects him only while the people around hi
 Belus's strike shows that the guarantee was never guaranteed. **The man who cheated within the rules needs
 everyone else to play fair.** Nobody says so.
 
+**He does not see it, and that is not an oversight: it is his skill seen from behind.** *(Author's ruling,
+2026-11-21.)* Cheating while everyone else plays fair is close to the job description. Every bargain he has
+made, every vote timed with proper notice, every small thing conceded fast to hold the two that mattered, works
+only because the other players stay at the table. In his whole career nobody in the Council has overturned it,
+and a politician who planned for opponents sending soldiers would be a worse politician. **Assuming everyone
+plays fair is the ground his competence stands on**, so rigging the rules while relying on them does not feel
+like a contradiction to him. B3 ch12 says *he read everything correctly*; inside the room, he does. The room is
+the assumption.
+
+*A reading, not a ruling:* Book 8 may have taught him the wrong lesson. He has met one man who refused to play,
+Xion, who locked the Globehall and would not open it; but Xion was a prisoner and Draskin held the force. What
+he could take from it is that a refusal can be outlasted if you hold the Ilhamori. **Belus is the first refusal
+with force behind it**, and nothing in Draskin's experience prepares him for that. Book 8 does not need to change
+for this.
+
 **His coalition is a hostage arrangement.** The implicated Ilhamori leadership, Onyx and Amethyst have their own
 interest in his survival, because his fall exposes them. They know he could sell them to save himself. He keeps
 them close because they are the only thing he has to sell. **Everyone around him is held in place by the fear
@@ -119,7 +134,8 @@ the office* is the easy reading and the wrong one. He does enjoy it; that is a f
 **2. He is very good at the game.** B3 ch12 is the standard: precise, unhurried, without vanity, reading
 everything correctly, and he *never in his life told anybody what he expected*. Do not make him a fool so that
 his opponents look clever. His mistakes after Book 8 come from fear and from fighting outside his instrument,
-not from stupidity.
+not from stupidity. **Like Belus's, they come from his competence**: each man fails at the edge of what he is
+good at, never through weakness.
 
 **3. He did not intend a civil war.** He thinks in warrants and votes. Do not let him plan the war or welcome
 it; he finds it out when the arrest fails.

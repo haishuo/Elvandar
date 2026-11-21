@@ -12667,3 +12667,7 @@ On the author's ruling, created `People/Leowin Draskin.md`: his reason after Boo
 ### 2026-11-21 - Draskin: control, the shrunken horizon, and the guarantee
 
 On the author's ruling, added three things to `People/Leowin Draskin.md`, *Why He Does Not Give Up*: the fear beneath the fear of death is losing control of his fate, since out of office it is in others' hands; how he survives past two years is tomorrow's problem, which is fear shrinking a patient man's horizon, not a different personality; and his guarantee holds only while everyone else keeps the rules he is rigging. Extended *The Central Tension*: the war his clinging produced puts his fate in soldiers' hands, so the blocked arrest is his worst fear arriving by the route he took to avoid it.
+
+### 2026-11-21 - Draskin: why he does not see it
+
+On the author's ruling, added to `People/Leowin Draskin.md` that his reliance on others keeping the rules he rigs is not an oversight but his profession's own assumption: his whole craft depends on the other players staying at the table, so the contradiction is invisible to him. Added, marked as a reading rather than a ruling, that Book 8's Xion may have taught him a refusal can be outlasted while he holds the force, and that Belus is the first refusal with force behind it. Extended guardrail 2: like Belus's, his mistakes come from his competence.
