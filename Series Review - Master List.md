@@ -3104,9 +3104,27 @@ Tiberian decides about the Orb Weaver and about the omission) is open.
 
 **Melly.** Tiberian and Nessa call Melina *Melly*. Nessa using the blood brother's diminutive, and being
 allowed to, is how close she is, shown and not said. **Irene never does** (her guardrail 9). Rationed, and
-**it must be seeded before Book 8**, when Books 5–7 are drafted.
+**it must be seeded before Book 8**; placed the same day, below.
 
 **Changed:** the Book 8 outline (*The Ledger*); the Tiberian, Melina, Nessa and Irene sheets.
+
+### Nessa in Book 5, and where *Melly* is seeded — author's ruling, 2026-11-21
+
+**Nessa is on the page from Book 5.** She has been Melina's handmaid since about nine, so by Book 5 the
+friendship already exists, and her absence from that outline was a gap left by the order she was created in.
+The outline's own Kai principle decides it: she proposes the Orb Weaver at the start of Book 6, and the reader
+needs to know her first. **Two beats** (`book5_outline.md`, *Melina and Nessa*): a private scene where the
+reader first sees past Melina's composure, and one remark, not analysis, that Silaris's art is being sold
+before it can be seized, the way a minor house sells its silver. **Household, not council**: not in the family
+debate, no scene with Tiberian.
+
+***Melly* is seeded three times:** Nessa in that private scene (the first time the reader hears it);
+Tiberian answering Melina in the Silaris debate; and Tiberian in Book 6's working-late confrontation, which
+Book 8's *please find them* echoes. **Not Book 7**: a third earnest use from him before Book 8 would make it
+louder, not different.
+
+**Changed:** the Book 5 outline (Act I, the debate, structural notes); the Book 6 outline (the Orb Weaver's
+introduction, the confrontation); the Melina, Nessa and Tiberian sheets.
 
 **Open:** what Tiberian does with the Orb Weaver after Book 8, and how he takes Melina's omission from the
 conspiracy account.

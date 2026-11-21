@@ -18,6 +18,10 @@ private side of the princess's composure. They are thick as thieves. They giggle
 Nessa is one of the two people alive — Tiberian is the other — who knows that the cool, unreadable Princess
 Melina feels a great deal and is simply not expressive.
 
+**The reader meets her in Book 5**, years into the friendship and before the Orb Weaver exists: a private
+scene with Melina, and one remark about Silaris's art being sold before it can be seized, the way a minor
+house sells its silver *(author's ruling, 2026-11-21; `book5_outline.md`, *Melina and Nessa*)*.
+
 And it was Nessa who said, at the start of Book 6, *we could just ask them. Not as you.*
 
 ---
@@ -159,7 +163,7 @@ for the secret to leak, it is there; until one does, leave it alone.
 
 **5. She calls Melina *Melly*.** *(Author's ruling, 2026-11-21.)* So does Tiberian: she uses
 the blood brother's diminutive and is allowed to. That is the closeness shown rather than stated, which is
-what guardrail 2 asks for. Ration it, and seed it before Book 8. See Melina's sheet, *What she is called*.
+what guardrail 2 asks for. Ration it. Hers is the first *Melly* the reader hears, in Book 5. See Melina's sheet, *What she is called*.
 
 **6. She is a noblewoman and she carries a house name.** *Halcin* is a native charter-name on a minor house —
 see `Names.md` for the coinage. Her given name was kept on the author's ruling, 2026-11-02.

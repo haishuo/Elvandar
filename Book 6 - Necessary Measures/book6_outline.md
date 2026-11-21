@@ -131,7 +131,8 @@ not carry his characterization twice.
 **Where the street-by-street knowledge comes from: the Orb Weaver.** *(Added 2026-11-01, the author's idea.)*
 The people who know the Warrens are exactly the people who would avoid an imperial princess on sight, so
 Melina's mapping needs a source she cannot have as herself. **Act I is where the Orb Weaver is born** — an
-underworld information broker run by Melina and her handmaid **Nessa Halcin**, through intermediaries, known
+underworld information broker run by Melina and her handmaid **Nessa Halcin**, whom the reader has known since
+Book 5 (`book5_outline.md`, *Melina and Nessa*), through intermediaries, known
 to nobody else. **It is Nessa's idea**, and Nessa's minor-house upbringing is the doorway. It is a real
 broker and trades with criminals; Melina's only line is information directly dangerous to her family. **What
 it is, who knows, and what it costs each of them is on the sheets** — `People/Melina Valanar.md`, *The Orb
@@ -197,6 +198,10 @@ And he absorbs that. Because she's right. Silaris taught him that. The Gallery W
 But then he says something quieter:
 
 *"I would rather make mistakes trying to help them than make none while they suffocate."*
+
+**He calls her *Melly* here** *(author's ruling, 2026-11-21)*, and it marks the turn from accusation to plea.
+This is the scene Book 8 echoes, when he turns back at the door and asks her to find their parents: here he is
+begging her to act, there he is trusting her to. **Do not point at the rhyme.**
 
 This is the line the book turns on. Not because it's a rhetorical triumph — Melina can dismantle it logically in seconds. But because the alternative has been tested for eighteen months and the result is a dead child and a water cartel in the tunnels.
 

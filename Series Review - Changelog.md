@@ -12631,3 +12631,7 @@ On the author's design, added to `book8_outline.md`, *The Ledger*, the scene aft
 ### 2026-11-21 - Open-questions count corrected
 
 The master list's status table said 0 open questions while §7 carried two (Uratha after Book 8; the founding of Urath IV's academy), and a third was added today (the twins' long conversation). Set the row to 3 and named them.
+
+### 2026-11-21 - Nessa in Book 5, and Melly seeded
+
+On the author's ruling, put Nessa Halcin on the page in Book 5. Added *Melina and Nessa* to Act I of `book5_outline.md` with two beats, a private scene with Melina and a remark that Silaris's art is being sold before it can be seized, and a structural note beside Kai's. Seeded *Melly*: Nessa in the private scene, Tiberian in the Silaris debate (Book 5) and in the working-late confrontation (`book6_outline.md`). Book 6's Orb Weaver paragraph now treats Nessa as returning, not new. Updated Melina's *What she is called* and Book 5 arc, Nessa's opening section and guardrail 5, and Tiberian's entry for Melina. Recorded the ruling in the master list. No chapter prose, beat drafts or Royal Road output changed.

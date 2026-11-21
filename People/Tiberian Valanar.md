@@ -212,7 +212,8 @@ do is hide it from Uratha, and the money moves through the Orb Weaver's channels
 
 The emotional core of his life. Born hours apart after the Compact War, inseparable ever since. Melina is his strategic conscience — the analytical mind that tempers his aggressive instincts, the voice that asks whether the charge is wise before he makes it. He is her push to action — the emotional force that breaks her out of analysis paralysis, the reminder that perfect planning is worthless if it never becomes action.
 
-**He calls her *Melly*** *(author's ruling, 2026-11-21)*, rarely and in earnest; so does Nessa. See Melina's sheet, *What she is called*. She teases him as "Tiber the Tiger" when he needs humbling. He tells her "stop analyzing and start DOING" when she needs moving. Their complementary strengths — his boldness and her brilliance, his passion and her patience — make them a formidable team when working in concert and a dangerous liability when either operates alone.
+**He calls her *Melly*** *(author's ruling, 2026-11-21)*, rarely and in earnest; so does Nessa. He first does it in Book 5's Silaris debate, and again in Book 6's
+working-late confrontation. See Melina's sheet, *What she is called*. She teases him as "Tiber the Tiger" when he needs humbling. He tells her "stop analyzing and start DOING" when she needs moving. Their complementary strengths — his boldness and her brilliance, his passion and her patience — make them a formidable team when working in concert and a dangerous liability when either operates alone.
 
 Their relationship is the evolution of their parents' partnership: Xion and Elara needed each other to change the world. Tiberian and Melina need each other to run it.
 

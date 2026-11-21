@@ -60,6 +60,30 @@ Before the crisis arrives, the reader meets **Kai Issamil** — Kael's son. A si
 
 Kai has his father's practical temperament, his economical speech, his understated competence. Where Tiberian runs hot, Kai runs steady. They complement each other the way Xion and Kael always did — and the parallel should feel natural, not forced.
 
+### Melina and Nessa
+
+*(Author's ruling, 2026-11-21.)* **Nessa Halcin has been Melina's handmaid for years by now**, since she came
+to the palace at about nine, and the friendship is already what it will be: almost a sister, thick as thieves.
+**The reader meets her here, in Book 5, and not in Book 6 at the moment she proposes the Orb Weaver.** A
+reader who meets her and her biggest idea in the same breath takes the idea for her job; a reader who already
+knows her hears it from a friend. Character in full: `People/Nessa Halcin.md`.
+
+**Beat one, early, and it does for Melina what the whetstone does for Tiberian.** A private scene, nothing at
+stake: the two of them in Melina's rooms, light and warm, the giggling her guardrail 3 calls load-bearing.
+**This is where the reader first sees past Melina's composure**, and nobody explains it: the book has to make
+a cool, unreadable princess likable, and so far the outline shows her only in debates and in rooms where she
+says nothing. **Nessa calls her *Melly*.** It is the first time the reader hears the name, and it passes
+without comment.
+
+**Beat two, once the crisis has reached the court: Nessa's instrument, once and small.** Silaris's creditors
+are threatening to seize its cultural works as collateral. Nessa, who grew up in a minor house and knows how
+such houses sell their silver (quietly, through a third party, so the name stays out of it), guesses aloud to
+Melina that some of those pieces are already being sold before anyone can seize them. **A passing remark to
+Melina, not analysis**, and not intelligence work: it must not take over Melina's reading of the crisis, and it
+must not become a proto-Orb Weaver. It is the turn of mind Book 6 builds the brokerage on, shown once, a book
+early. **She is household, not council**: she is not in the family debate, and she has no scene with Tiberian
+in this book.
+
 ### The Crisis Reaches Balisha
 
 Reports reach the Valanar court: Silaris is failing. The intelligence is detailed and dire — food riots, infrastructure collapse, master artists seeking asylum in Gunastran and Uratha, creditors threatening to seize cultural assets as collateral. The reader already knows what's at stake — they were just there.
@@ -68,7 +92,9 @@ Reports reach the Valanar court: Silaris is failing. The intelligence is detaile
 
 **Tiberian's response** is immediate and moral. **Not Kalden**, because Kalden would strip-mine the place. They asked us. He understands the treaty prevents it, and his answer is that treaties can be renegotiated; the bottom line is that people are suffering *right now* while the court discusses it. Balisha has resources. Balisha has Hauren technology that could solve Silaris's infrastructure problems overnight. Balisha has a moral obligation to preserve Elvandar's greatest cultural treasure. People are suffering RIGHT NOW. The path is obvious.
 
-**Melina's response** is analytical and cautious. What's Balisha's actual capacity to integrate a failing city-state? What are the resource requirements? The political ramifications with other successor states? The legal frameworks? "Brother, your heart is in the right place, but we need a plan, not just good intentions."
+**Melina's response** is analytical and cautious. What's Balisha's actual capacity to integrate a failing city-state? What are the resource requirements? The political ramifications with other successor states? The legal frameworks? "Brother, your heart is in the right place, but we need a plan, not just good intentions." **Tiberian answers her
+with *Melly***, at full heat: the name he uses when he means it. It is the second time the reader hears it, and
+the first from him. Nessa's came first, and nobody points out that the two of them share it.
 
 **The family debate:** Elara is torn — Tiberian's moral clarity resonates with the soldier in her, but Melina's caution echoes the hard lessons of governance. Xion worries about repeating imperialistic patterns — a powerful empire absorbing a weaker neighbor under the banner of "help" is a story as old as empire itself. The family tension is real and unresolvable through discussion alone.
 
@@ -221,6 +247,12 @@ chair and demonstrably didn't. **Give her nothing to say about it** — see `Peo
 **Farleen's evolution:** By this point in the series, Farleen has transformed from romantic rival into something else entirely — the head of Balisha's intelligence network, the spy who found her purpose in protection. Her role in Book 5 is behind the scenes: the intelligence that informs the Silaris response, the agents who track Kalden's movements. She has become indispensable in a way that has nothing to do with the love triangle.
 
 **Kai Issamil — three beats, one book:** Beat one: low-stakes friendship scene, whetstone and banter, the reader learns who Kai is and how long these two have known each other. Beat two: Kai is the first person Tiberian tells about Silaris, and his response is operational — *let me make sure we don't burn the wrong half*. Beat three: under fire in the Gallery War, covering each other, *told you this was a bad idea*. By the time Kai descends into the Warrens with Tiberian in Book 6, the reader has spent a full book watching this partnership work. The Melina principle: if someone's going to matter, the reader needs to know them first.
+
+**Nessa Halcin — two beats, one book** *(author's ruling, 2026-11-21)*: the private scene with Melina, and
+the remark about Silaris's art being sold before it can be seized (Act I, *Melina and Nessa*). The Kai
+principle applies to her: she proposes the Orb Weaver at the start of Book 6, and the reader needs to know her
+first. **Both twins' uses of *Melly* are seeded here**: Nessa's in beat one, Tiberian's in the Silaris
+debate. See `People/Melina Valanar.md`, *What she is called*.
 
 **Tone:** Broader than Book 4's survival narrative, but more personal than Book 3's geopolitics. The focus is on character — two young people learning who they are through a crisis that tests everything they assumed about themselves.
 

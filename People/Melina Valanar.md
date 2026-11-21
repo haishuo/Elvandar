@@ -30,9 +30,10 @@ planning documents, and nobody in Kaha'an can hear it.
 **Nessa**, and the second is the point: the handmaid uses the same diminutive as the princess's blood brother
 and is allowed to, which says how close she is without anyone saying it. **Irene never calls her *Melly*.**
 What grows between them is professional respect, and the name belongs to the two people who have it by
-right. **It must be seeded before Book 8**, where Tiberian's *Melly* carries the
-Orb Weaver scene (`book8_outline.md`, *The Ledger*); a name first heard there would read as invented for the
-moment. It is rationed: affection, never a tic.
+right. **It is seeded in Books 5 and 6**, so that Tiberian's *Melly* in Book 8's Orb Weaver scene
+(`book8_outline.md`, *The Ledger*) is a name the reader knows: **Nessa first**, in her private scene with
+Melina in Book 5; **Tiberian** answering her in the Silaris debate; and **Tiberian again** in Book 6's
+working-late confrontation, the scene Book 8 echoes. It is rationed: affection, never a tic.
 
 ---
 
@@ -139,6 +140,10 @@ The Silaris crisis places Melina in opposition to her brother for the first time
 She isn't wrong. The questions are valid. The concerns are real. But when Kalden moves on Silaris and Tiberian intervenes with a small force, Melina must contend with the reality that her caution, if followed, would have allowed the looting of Elvandar's greatest cultural treasure.
 
 **The Lesson:** She learns to trust her analytical instincts even when they argue against popular moral positions. Her restraint wasn't wrong — but neither was Tiberian's passion. The synthesis is the point: analysis that enables action, rather than analysis that prevents it.
+
+**Nessa is on the page from Book 5** *(author's ruling, 2026-11-21)*: a private scene in which the reader first
+sees past Melina's composure, and one remark about Silaris's art being sold before it can be seized. See
+`book5_outline.md`, *Melina and Nessa*.
 
 ### Book 6: Necessary Measures (Age 16–18)
 
