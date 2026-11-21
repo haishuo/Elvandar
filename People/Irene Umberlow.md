@@ -183,6 +183,14 @@ business. The contracts may go out in the baron's name, but the bargains are her
 trade from him**, and he is entirely in favor of her practicing it. He is also delighted by the match,
 as any father would be whose daughter is marrying the most eligible man in Kaha'an.
 
+**He kept the house away from Rosik.** Through the Coterie years he never tied House Umberlow to Kemvimore,
+as the Veys did, and the house stayed poor for it. When Rosik fell, it had nothing to lose. He did not
+trust Rosik, for a banker's reasons; the account is in
+[House Umberlow](../Places/Kaha%27an/houses_of_kahaan.md#house-umberlow---the-paper-lords). **What Irene
+learned from him was more than technique: do not tie the house to someone else's power.** It is why she
+made Tiberian promise to let her restore House Umberlow herself, and why the Orb Weaver and House Umberlow
+never touch.
+
 ### Tiberian Valanar (Husband)
 
 With Tiberian she can be direct enough to raise her voice and comfortable enough to bring him

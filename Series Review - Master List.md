@@ -3043,6 +3043,19 @@ original. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa'
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 
+### Baron Umberlow stayed away from Rosik — author's ruling, 2026-11-21
+
+**Through the Coterie years Baron Umberlow never tied his house to Kemvimore**, as House Vey did, and House
+Umberlow stayed poor for it. He did not trust Rosik, for a banker's reasons: cartel credit is a leash, Rosik's
+power was made of promises, and Rosik never said what the money was for. **It was a decision not to go, not a
+refusal**, so Rosik's no-resistance guardrail holds. When Rosik fell the house had nothing to lose and came out
+with a clean name. **It is the inherited root of Irene's independence**: her promise from Tiberian and the
+separation of the Orb Weaver from House Umberlow. Recorded in `houses_of_kahaan.md` and Irene's sheet;
+Greystone's "only people who watched it happen" line adjusted to match.
+
+**Open:** whether the baron was head of the house at the Rending or its heir. If his characterization keeps
+growing, he may need a sheet of his own.
+
 ### The Union and Kaha'an by Book 7 — author's ruling, 2026-11-20
 
 **The grain trade grew into a warm relationship.** By Book 7 Kaha'an and the Erulian Union are on good

@@ -12599,3 +12599,7 @@ Added *By Book 7: a friend, not an ally* to `The Erulian Union.md`: the grain tr
 ### 2026-11-20 - Uratha has banks
 
 Reworded three statements that Uratha "has no money trade", which read as though Uratha had no money or no banks. The intended meaning, per the 2026-08-05 cut of Urathan factors on Vessel Street, is that Uratha has no banking houses of international reach. Uratha has its currency (the zhenel), a treasury and domestic banks, as any state does. Changed in `Languages/Currencies of Elvandar.md`, `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` and the master list's Erulian economy ruling. Earlier changelog entries keep their wording as history.
+
+### 2026-11-21 - Baron Umberlow stayed away from Rosik
+
+Added to House Umberlow in `houses_of_kahaan.md`: through the Coterie years Baron Umberlow never tied the house to Kemvimore, as House Vey did, because he did not trust Rosik. The house stayed poor for twenty years and came out of the cartel's fall with nothing lost and a clean name. It is recorded as a decision not to go, not a refusal, so Rosik still encounters no resistance. Adjusted Greystone's line from "the only people who watched it happen and lived" to "the only money house that watched it happen and kept its business". Added the baron's choice to Irene's sheet under her father, as the root of her own refusal to tie the house to anyone else's power. Recorded the ruling in the master list. No chapter prose, beat drafts or Royal Road output changed.

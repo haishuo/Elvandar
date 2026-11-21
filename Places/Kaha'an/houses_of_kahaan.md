@@ -533,8 +533,8 @@ against each other for the same lease. They are clients of whoever holds the gat
 buys service, not a seat.**
 
 Greystone lends short, against goods in a warehouse, and declines anything secured on a promise from a
-cartel or a crown. **It is the lesson of House Umberlow, learned by the only people who watched it happen
-and lived.** Full mechanism, including why neither Rosik nor Elara can borrow, in
+cartel or a crown. **It is the lesson of House Umberlow, learned by the only money house that watched it happen
+and kept its business.** Full mechanism, including why neither Rosik nor Elara can borrow, in
 `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
 
 ---
@@ -641,6 +641,27 @@ Coterie was assembled in the year the only question was who keeps the city alive
 people who held food, water and metal. In that year a money house is the most worthless institution in
 Kaha'an. The mechanism, and what replaced it, is in
 `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
+
+**Through the Coterie years the house stayed poor, and stayed out.** *(Author's ruling, 2026-11-21.)* The
+cartels absorbed the city's credit function, and Grain ran on paper: promissory notes, debt-markers, twenty
+years of who owed what. The Umberlows knew paper better than anyone in Kaha'an, and tying the house to
+Kemvimore was the obvious way back. House Vey did exactly that, and it was a large part of how the Veys grew
+rich. **Baron Umberlow did not.**
+
+**He did not trust Rosik, and his reasons were a banker's.** A cartel lends against what it also sells, so
+there is no walking away from its credit. The baron had watched every promise his house held turn to desert
+in an afternoon, and Rosik's power was made of promises. Rosik also never explained himself, and to a banker
+that is a borrower who will not say what the money is for.
+
+**It was a decision not to go to Rosik, not a refusal of him.** In the years after the Rending a money house
+had nothing Rosik needed, and nobody came to ask. The baron simply never went. Rosik never felt it and very
+likely never noticed, and the whole cost fell on House Umberlow, which stayed poor for twenty years. **Never
+write it as the baron turning Rosik down**: Rosik encounters no resistance.
+
+**It proved right.** When Rosik fell, the houses tied to Grain paid for it; the Veys lost about thirty percent
+of their wealth and their influence with it. The Umberlows lost nothing, because nothing of theirs was in it,
+and they came out of the cartel's fall with a clean name just as Elara's court began judging houses by their
+ties to it.
 
 Between Books 7 and 8, Irene Umberlow is trying to restore the family's fortunes. See
 [The Marriage of the Tiger Prince](../../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md).
