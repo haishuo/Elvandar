@@ -503,7 +503,7 @@ were braver.
 **Pre-Rending Status**: Minor merchant house, wealthy and socially unrecognised. Cleared bills for
 caravan traffic; too small for the estate credit that made Umberlow.
 
-**The Rending's Impact**: Survived the defaults that ended Umberlow's banking business and inherited the
+**The Rending's Impact**: Survived the defaults that ended Umberlow as a great house and inherited the
 trade by outliving it rather than by winning it — a distinction the family is quietly conscious of.
 
 **Post-Rending Transformation**: Became the clearing house of the Golden Path. Effectively all east–west
@@ -533,8 +533,8 @@ against each other for the same lease. They are clients of whoever holds the gat
 buys service, not a seat.**
 
 Greystone lends short, against goods in a warehouse, and declines anything secured on a promise from a
-cartel or a crown. **It is the lesson of House Umberlow, learned by the only money house that watched it happen
-and kept its business.** Full mechanism, including why neither Rosik nor Elara can borrow, in
+cartel or a crown. **It is the lesson of House Umberlow, learned by the money house that watched it happen from
+closest and came through it whole.** Full mechanism, including why neither Rosik nor Elara can borrow, in
 `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
 
 ---
@@ -624,11 +624,18 @@ House Thornwood specialized in landscape design and maintained the beautiful gar
 ### House Umberlow - "The Paper Lords"
 **Rank**: Barony before and after the Rending
 
-**Status**: Formerly the largest of Kaha'an's money houses. The Rending's defaults destroyed its business within two years and left the baronial line impoverished.
+**Status**: Formerly the largest of Kaha'an's money houses. The Rending's defaults destroyed the great house within two years. The baronial line survived, impoverished, with a small operation of its own.
 
 House Umberlow held the imperial capital's money trade — deposits, bills drawn against the provinces,
 credit advanced to the great agricultural houses against harvests not yet in. Their wealth was the largest
 in the city that was not land, and they were reckoned untouchable for exactly that reason.
+
+**A barony richer than most of the houses that outranked it.** *(Author's ruling, 2026-11-21.)* A title
+reflects land, and the Umberlows' wealth was paper. They held little territory beyond their premises
+in Kaha'an, kept correspondents and branch offices across the empire, and governed nothing. A count or a
+marquis could outrank the baron at court and owe his house a great deal of money. **House Umberlow was a
+patron of other houses and never a client of one**, and for generations that was the thing the family was
+proudest of.
 
 **The Rending ruined the Paper Lords.** They lost their **counterparties**. Their capital was claims
 against estates that became desert in an afternoon, caravans that stopped arriving, and families like
@@ -636,32 +643,68 @@ House Meridian who were simply gone. Kemvimore lost its land and still had a tra
 Umberlow, the promises were the business. They looked solvent on paper for a few months, until the
 first winter made it plain that their debts would come due and the money to pay them would never arrive.
 
+**The great house died; a small one survived.** The family kept its title, its name, its knowledge of the
+trade and a small operation: broking, and modest discounting for merchants who wanted it. That is as much as
+a house can run with no capital and a name that reminds every counterparty of a default.
+
 **This is the reason no financier sits on the Coterie**, and it is a better reason than an oversight. The
 Coterie was assembled in the year the only question was who keeps the city alive until spring, by three
 people who held food, water and metal. In that year a money house is the most worthless institution in
 Kaha'an. The mechanism, and what replaced it, is in
 `Places/Kaha'an/Kaha'an_ The Desert Crossroads.md` — "Who clears the money, and why they hold no seat."
 
-**Through the Coterie years the house stayed poor, and stayed out.** *(Author's ruling, 2026-11-21.)* The
-cartels absorbed the city's credit function, and Grain ran on paper: promissory notes, debt-markers, twenty
-years of who owed what. The Umberlows knew paper better than anyone in Kaha'an, and tying the house to
-Kemvimore was the obvious way back. House Vey did exactly that, and it was a large part of how the Veys grew
-rich. **Baron Umberlow did not.**
+**Through the Coterie years most of Vessel Street's lending houses attached themselves to Grain, Water or
+Iron.** *(Author's ruling, 2026-11-21.)* The cartels lent against what they sold, and a house that handled a
+cartel's paper got its business and its favour. Independent lending stayed legal and became much less
+profitable. House Vey tied itself to Kemvimore, and it was a large part of how the Veys grew rich. **Baron
+Umberlow attached his house to none of the three, although any of them could have raised its fortunes.**
 
-**He did not trust Rosik, and his reasons were a banker's.** A cartel lends against what it also sells, so
-there is no walking away from its credit. The baron had watched every promise his house held turn to desert
-in an afternoon, and Rosik's power was made of promises. Rosik also never explained himself, and to a banker
-that is a borrower who will not say what the money is for.
+**His reasons were part judgment and part pride, and the pride was real.**
 
-**It was a decision not to go to Rosik, not a refusal of him.** In the years after the Rending a money house
-had nothing Rosik needed, and nobody came to ask. The baron simply never went. Rosik never felt it and very
-likely never noticed, and the whole cost fell on House Umberlow, which stayed poor for twenty years. **Never
-write it as the baron turning Rosik down**: Rosik encounters no resistance.
+- **Rosik** he distrusted, for a banker's reasons. A cartel lends against what it also sells, so there is
+  no walking away from its credit. The baron had watched every promise his house held turn to desert in an
+  afternoon, and Rosik's power was made of promises. Rosik also never explained himself, and to a banker
+  that is a borrower who will not say what the money is for.
+- **Tania** offered the same subordination with water instead of grain.
+- **Sa Ko Ren** was the best of the three, and he passed her over too. She had arrived penniless a year after
+  the Rending and had no record yet, and a man who had seen his house's foundations go once would not stake
+  what was left on a newcomer. But she put her windfall into forges rather than leverage, which is the one
+  kind of cartel a banker can lend to on honest terms. **He was probably wrong about her.**
+- **And under all three, pride.** For centuries House Umberlow had been the patron. He would not be the first
+  Umberlow to put the house under another house's authority, and he could imagine exactly what his ancestors
+  would have said if he did.
 
-**It proved right.** When Rosik fell, the houses tied to Grain paid for it; the Veys lost about thirty percent
-of their wealth and their influence with it. The Umberlows lost nothing, because nothing of theirs was in it,
-and they came out of the cartel's fall with a clean name just as Elara's court began judging houses by their
-ties to it.
+**This was a mistake as well as a principle, and the record should not tidy it.** Iron would likely have
+served the house better than independence did, and his daughter grew up poorer for his stubbornness. He has
+had his own doubts about it. **People make mistakes**, and nothing in the series makes this one turn out to
+have been secretly for the best.
+
+**It was a decision not to go to any of them, not a refusal.** A ruined money house had nothing a cartel
+needed badly enough to come asking, and nobody did. The baron simply never went. Rosik never felt it and very
+likely never noticed, and the whole cost fell on House Umberlow. **Never write it as the baron turning Rosik
+down**: Rosik encounters no resistance.
+
+**About Rosik he was right.** When Rosik fell, the houses tied to Grain paid for it; the Veys lost about thirty
+percent of their wealth and their influence with it. The Umberlows lost nothing, because nothing of theirs was
+in it, and they came out of the cartel's fall with a clean name just as Elara's court began judging houses by
+their ties to it. Being right about one patron did not make him right about all three.
+
+**After the restoration the market opened, and the house had nothing to bring to it.** Rosik fell at about
+the time Irene was born, so the house had most of two decades of an open market and did not recover in
+them. **A bank sells trust, and this one had defaulted on everyone**; nobody deposits money with that name.
+**A bank lends money, and this one had none**; opening the market did not give it capital. And the houses
+that had served the cartels kept their customers, their capital and their relationships after the cartels
+fell. The baron kept the house alive and independent, which was his whole achievement in those years. By the
+time a recovery needed an energetic merchant, he was old, and his daughter was not yet grown.
+
+**So he trained her**, in credit, collateral, risk, negotiation and the house's own history and practice, and
+in its independence. She is his heir and, unusually for an heir, she wanted the work. He did not try to make a
+copy of himself. She inherited his independence without all of his rigidity.
+
+**Irene restores it by trading before she lends.** A defaulted house with no capital earns its way back to
+banking one cargo at a time, which is why she is on the quay buying delayed lots and hiring carts rather than
+writing credit. **Three contributions, not to be run together: the restoration opened the market, the baron
+kept the house alive to use it, and Irene is the one making it pay.**
 
 Between Books 7 and 8, Irene Umberlow is trying to restore the family's fortunes. See
 [The Marriage of the Tiger Prince](../../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md).

@@ -89,7 +89,7 @@ little weight in the decision.
 House Umberlow has always been a barony. Before the Rending it held the largest banking business
 in Kaha'an. Provincial bills, deposits and advances against future harvests made its fortune. The
 Rending took the estates, trade routes and debtors on which its claims depended. The family kept its
-rank and its knowledge of the business. Irene grew up with both in a house that could barely afford
+rank, its knowledge of the business and a small operation, but not the great house. Irene grew up with both in a house that could barely afford
 to dress her for court. [House Umberlow](../Places/Kaha%27an/houses_of_kahaan.md#house-umberlow---the-paper-lords)
 holds the history.
 
@@ -155,7 +155,7 @@ the household and **takes it to Melina, not to Tiberian**, because she knows wha
 problem. Melina brings her in. **Her terms:** she will not raise it with Tiberian; if he asks her
 directly she will not lie to him; anything touching his safety she tells him regardless. She puts the
 Orb Weaver's foreign payments on a sound footing. **The rescue is paid for by the Crown**, and her part
-is making the Crown's money invisible to Uratha, through channels she now keeps. None of it is
+is making the Crown's money invisible to Uratha, through the Orb Weaver's channels, which she now keeps. None of it is
 Umberlow money. Full placement in `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
 
 **The secret costs her more than it costs either of the others.** She hates hypocrisy. Melina and
@@ -183,13 +183,20 @@ business. The contracts may go out in the baron's name, but the bargains are her
 trade from him**, and he is entirely in favor of her practicing it. He is also delighted by the match,
 as any father would be whose daughter is marrying the most eligible man in Kaha'an.
 
-**He kept the house away from Rosik.** Through the Coterie years he never tied House Umberlow to Kemvimore,
-as the Veys did, and the house stayed poor for it. When Rosik fell, it had nothing to lose. He did not
-trust Rosik, for a banker's reasons; the account is in
-[House Umberlow](../Places/Kaha%27an/houses_of_kahaan.md#house-umberlow---the-paper-lords). **What Irene
-learned from him was more than technique: do not tie the house to someone else's power.** It is why she
-made Tiberian promise to let her restore House Umberlow herself, and why the Orb Weaver and House Umberlow
-never touch.
+**He kept the house independent, and it cost them.** Through the Coterie years most of Vessel Street's lending
+houses attached themselves to Grain, Water or Iron, and he attached House Umberlow to none of them, although
+any could have raised its fortunes. Partly it was judgment: he distrusted Rosik for a banker's reasons, and
+about Rosik he was right. Partly it was pride: for centuries the Umberlows had been the patrons, and he would
+not be the first to become a client. **Passing over Sa Ko Ren was probably a mistake**, and Irene grew up
+poorer for it. He has had his doubts. The account is in
+[House Umberlow](../Places/Kaha%27an/houses_of_kahaan.md#house-umberlow---the-paper-lords).
+
+**He trained her, and did not try to make a copy of himself.** She is his heir and she wanted the work, so
+his goal and hers have always run together. **What she learned from him was more than technique: do not tie
+the house to someone else's power.** It is why she made Tiberian promise to let her restore House Umberlow
+herself, and why the Orb Weaver and House Umberlow never touch. She has his independence without all of
+his rigidity. **He is proud enough to have refused the great cartels and loving enough to see that she may
+do what he could not.**
 
 ### Tiberian Valanar (Husband)
 
@@ -204,7 +211,10 @@ to concede on an order that size and what it might cost him elsewhere in the bar
 questions belong in the same conversation. There is room for affectionate exasperation when
 either of them forgets to ask the other one.
 
-His promise is about the restoration of the house. In time she becomes readier to ask him for a
+His promise is about the restoration of the house: no Crown authority, Crown money or royal favour put to
+work for it. **It does not touch her own security**, which as his wife is not in question; the house could
+fail and she would not go without. She wants the house to succeed on its merits, not because she needs it to.
+In time she becomes readier to ask him for a
 hand, and he becomes better at hearing the size of the request. Sometimes all she wants is for
 him to sit with her while she works out what she wants to do.
 

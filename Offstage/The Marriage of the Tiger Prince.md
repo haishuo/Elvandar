@@ -204,7 +204,9 @@ Lucien's arrest came after it.
 
 Before they married, Irene made Tiberian promise to let her restore House Umberlow herself. She wanted
 his word that he would leave the house's fortunes in her hands, even when he saw a way to improve them.
-He gave it. In time she grew easier about asking her husband for help. The choice to ask was hers.
+He gave it. The promise was about the Crown: no imperial authority, no Crown money and no royal favour
+would be put to work for the house. It did not touch her own security, which as Tiberian's wife was never in
+doubt. In time she grew easier about asking her husband for help. The choice to ask was hers.
 
 They married after the trial and the executions, before Book 8.
 

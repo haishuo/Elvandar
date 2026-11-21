@@ -3056,6 +3056,36 @@ original. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa'
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 
+### House Umberlow and the Interregnum — author's ruling, 2026-11-21
+
+**Extends and partly revises the ruling below.** House Umberlow was a barony richer than most of the houses
+that outranked it, because its wealth was paper, not land: a patron of other houses, never a client.
+**The Rending ended the great house but not the family's business**: a small operation survived, broking and
+modest discounting. Under the Coterie **most of Vessel Street's lending houses attached themselves to
+Kemvimore, Larannas or Ren**; independent lending stayed legal and became much less profitable. **The baron
+attached his house to none of them**, partly from judgment (he was right about Rosik) and partly from pride,
+and **passing over Sa Ko Ren was probably an outright mistake.** It is recorded as one and must not be
+tidied into a secret blessing. It remains a decision not to go, not a refusal, so Rosik's guardrail holds.
+
+**Chronology:** Rosik fell at about the time Irene was born, so the house had most of two decades of an open
+market and did not recover, because a defaulted house has no trust and no capital, and the cartels'
+former houses kept their customers. The baron kept it alive; by the time a recovery needed a young merchant
+he was old and Irene was not grown. He trained her. **She rebuilds by trading before lending.** Three
+contributions, kept separate: the restoration opened the market, the baron kept the house alive, and Irene
+makes it pay.
+
+**Tiberian's promise is about the Crown**: no imperial authority, Crown money or royal favour for the house.
+Her own security as his wife is a separate matter. **The Book 8 rescue money moves through the Orb Weaver's
+channels and never through House Umberlow's trade**; the outline and both sheets now say so.
+
+**Changed:** `houses_of_kahaan.md` (House Umberlow rewritten; Greystone's two lines), the Desert Crossroads
+doc (the surviving operation and the cartel-aligned houses), Irene's sheet (*The Paper Lords*, her father, the
+promise), the Offstage *Wedding* paragraph, the Book 8 outline and Tiberian's sheet (the channels).
+
+**Open, not recorded:** whether Irene is an only child; Kemvimore's rank (no duchy is recorded and none was
+added). **The baron now probably needs a sheet of his own** under the 2026-08-14 ruling; his characterization
+currently lives in Irene's sheet and the house entry.
+
 ### Baron Umberlow stayed away from Rosik — author's ruling, 2026-11-21
 
 **Through the Coterie years Baron Umberlow never tied his house to Kemvimore**, as House Vey did, and House

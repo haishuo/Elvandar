@@ -169,7 +169,7 @@ who built the Coterie in the year after the Rending would not have thought of it
 catastrophe fell on them harder than on anyone. Every other house lost assets; the money houses lost
 **counterparties**. Their capital was claims — against estates that had become desert overnight, against
 caravans that stopped, against families that died at the harvest festival. See `houses_of_kahaan.md`: **House Umberlow**, the Paper Lords.
-Their baronial line survived in poverty, but the defaults ended their banking business. **Grain lost its
+Their baronial line survived in poverty with a small operation, but the defaults ended the great house. **Grain lost its
 land and had a business left to reinvent. For Umberlow, the promises were the business.**
 
 **So Kaha'an's money trade died, and no successor state inherited it. Nothing needs to have.** *(Twice
@@ -269,6 +269,12 @@ Grain shadow treasury is *"strongboxes of promissory notes and debt-markers"* an
 what (B2 ch13) — Rosik is the largest creditor in Kaha'an and simply has no bank's word for it. At the
 bottom, the intake pipe of the Slaver cartel is **debt**: Tam is taken on fabricated debts in B1 ch1, and
 `People/Ronas Dermir.md` records the quota system manufacturing debtors when real ones run short.
+
+**Most of Vessel Street's native lending houses attached themselves to one of the three great cartels** —
+Kemvimore, Larannas or Ren. *(Author's ruling, 2026-11-21.)* The cartel lent against what it sold, and the
+houses that handled its paper got its business and its favour. Independent lending stayed legal and became
+much less profitable. One house that stayed out on principle, and paid for it, is in `houses_of_kahaan.md`: **House
+Umberlow**.
 
 #### The two questions this has to answer, and it does
 
