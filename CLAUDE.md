@@ -1,6 +1,6 @@
 # Elvandar — working rules
 
-This repository is an eight-book fantasy series in draft. There is no code here. The work is
+This repository is a nine-book fantasy series in draft. There is no code here. The work is
 prose, beat drafts, character sheets, and worldbuilding canon, and the standards below are
 editorial standards, not engineering ones. The one exception is `Tools/`, which holds the
 Royal Road export script; nothing else here is code.
@@ -457,7 +457,7 @@ Tools/               royalroad_export.py — regenerates every Royal Road/ folde
                      sync_art.sh — moves images between the repo and Backblaze B2
 Character Art/       Structured visual archive. README tracked; raster files live in B2. See below.
 Offstage/            canon that never got a scene, one file per story — see below
-Names.md                     the cast register — every named person, Books 1-8; check before coining
+Names.md                     the cast register — every named person, Books 1-9; check before coining
 Story Timeline.md            in-series chronology (authoritative on timing)
 Global Historical Timeline.md
 The Seven Paradigms.md       the characterization framework

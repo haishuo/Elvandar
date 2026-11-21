@@ -12651,3 +12651,7 @@ On the author's direction, filled `Book 9 - Fair Game/book9_outline.md` with eve
 ### 2026-11-21 - Nine books; the Ruby Tower is a war college
 
 On the author's direction, updated the series outline for nine books: retitled it, reworded the opening line, changed Book 8's summary to end the Valanar story rather than the series, added a Book 9 entry under *Uratha's Reckoning*, added a ninth theme, and rewrote the closing paragraph to end *Nine books. Done.* In the Book 8 outline, *The Ending* now ends the family's story and points the Draskin crisis at Book 9, its last line reads *The family's story. Beginning, middle, end. Done.*, and *The torch passes* names Book 9 as Uratha's book, which must not soften Book 8's ending. Added the author's note to *The Ruby Tower* in `Uratha_ The Land of Scholars.md`: a war college, not a police force, which is why the strike fails; pointed the Book 9 outline and Belus's guardrail 4 at it. Removed the Book 9 outline's deferred-updates note. CLAUDE.md, AGENTS.md and Names.md still say eight books and were not changed.
+
+### 2026-11-21 - CLAUDE.md and AGENTS.md say nine books
+
+On the author's direction, changed *an eight-book fantasy series* to *a nine-book fantasy series* in `CLAUDE.md` and `AGENTS.md`, and the `Names.md` description in their layout sections to *Books 1-9*. Changed `Names.md`'s own header to *Books 1–9* to match. Left two incidental uses of *eight* in `CLAUDE.md`: a hypothetical (*a character in eight books*) and the 2026-08-05 measurement of the repository's size, which is history.

@@ -1,7 +1,7 @@
 
 # Names — the series register
 
-Every named person in Elvandar, Books 1–8, with the book span and one line on who they are.
+Every named person in Elvandar, Books 1–9, with the book span and one line on who they are.
 Built 2026-08-04 from a full sweep of `Book */Chapters/`, `Book */Beat Drafts/`, the Books 4–8
 outlines, `People/`, `Places/`, `Offstage.md` and the timelines. `TGMS - OLD/` excluded.
 

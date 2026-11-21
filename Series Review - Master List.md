@@ -3398,9 +3398,8 @@ forces can make an arrest, as marines can do a police action, without being bett
 trained for it, who in Uratha are the Ilhamori. Recorded in *The Ruby Tower* (`Uratha_ The Land of
 Scholars.md`) as the reason the strike fails; Book 9's outline and Belus's guardrail 4 point at it.
 
-**Not changed, and they still say eight:** `CLAUDE.md` and `AGENTS.md` (*an eight-book fantasy series*; *Books
-1-8* for `Names.md`) and `Names.md`'s own header. Uses of *eight books* in character sheets refer to the
-Valanar span and stand.
+**`CLAUDE.md`, `AGENTS.md` and `Names.md`'s header now say nine books too** (same day). Uses of *eight books*
+in character sheets refer to the Valanar span and stand.
 
 **Changed:** the series outline; the Book 8 outline (*The Ending*, *The torch passes*); *The Ruby Tower*; the
 Book 9 outline; Belus's sheet.
