@@ -117,7 +117,7 @@ is the nearest the game has come to costing her the thing she would mind losing.
 **In Book 8 the Orb Weaver has to buy information inside Uratha**, and paying for it means moving coin and
 goods east by sea. That is ground Nessa does not know, and she improvises. The trail lands in Irene Umberlow's
 field, Irene brings it to Melina as suspected treason, and the informant cover is no use: Irene is a palace
-audience. Melina brings her in. See `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
+audience. Melina brings her in, and Irene refuses to keep it from Tiberian and tells him. See `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
 
 **Nessa is still the face and still runs the commerce.** Irene keeps the books, during the crisis and after
 it, without being an active member. **The brokerage remains Nessa's idea and Nessa's game**, and Irene
@@ -152,7 +152,7 @@ of the eight. The giggling over boys is real and stays on the page. **It is plat
 romance subplot or a source of jealousy unless the author places one.
 
 **4. Farleen does not know.** *(Author's ruling, 2026-11-01.)* Until Book 8 nobody does except the two of them;
-then Irene does (see *Irene keeps the books*, above). **Her own
+then Irene does, and she tells Tiberian (see *Irene keeps the books*, above). **Her own
 family does not know either** — they placed her for influence and have no idea what she has built with it.
 That is background and nothing more: no scene depends on it, and it is not a seed. If a story ever needs a way
 for the secret to leak, it is there; until one does, leave it alone.
@@ -174,8 +174,8 @@ web and Nessa knows what each thread will sell for.
 ### Tiberian Valanar
 
 Has known her since she came to the palace as a girl, as everyone in the princess's household has. **He does not know about the Orb
-Weaver.** That costs Melina, not Nessa — see Melina's sheet. From Book 8 his wife knows, on terms she set
-herself; see `People/Irene Umberlow.md`.
+Weaver.** That costs Melina, not Nessa — see Melina's sheet. In Book 8 his wife finds out, refuses to keep it from him,
+and tells him; see `People/Irene Umberlow.md`.
 
 **She thinks of him as something close to a brother**, which comes with being all but a Valanar herself,
 and she feels obliged to tell him about anyone he is being asked to consider. She does it with tact and

@@ -179,9 +179,9 @@ for a moment**; do not write him doing so. Kess and the Arol Batae know within t
 are executed. **It is not the first attempt on his life, nor the last**; a target on him is an ordinary fact
 of who he is. Account in `Offstage/The Children of the Great Hunt.md`.
 
-**He marries Irene Umberlow before Book 8.** Elara wants him married and requires him at the balls,
-where the young women presented to him soon blur together. He meets Irene on Vessel Street and seeks
-her out there, of his own accord. [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md)
+**He marries Irene Umberlow before Book 8.** His parents want him married, and he goes to the balls
+willingly and hopefully, until a dozen of them have worn him down. He escapes the thirteenth to the harbor,
+sees Irene in the middle of a deal, and goes back until he finds her. [The Marriage of the Tiger Prince](../Offstage/The%20Marriage%20of%20the%20Tiger%20Prince.md)
 records the courtship.
 
 ---
@@ -194,9 +194,10 @@ Elara, imprisoned and defiant, promises the Urathan Provosts exactly what they s
 
 She's not wrong. Tiberian's compassion-fury, the defining synthesis of his character, is precisely what the Provosts should be afraid of. But the rescue requires Melina's intelligence work to locate their parents — spy thriller investigation, piecing together the truth about the Globehall — and when the twins finally reach Xion and Elara, they face the same impossible choice: how to end the horror of the Globehall without becoming monsters themselves.
 
-**He still does not know about the Orb Weaver, and from Book 8 his wife does.** Irene keeps it from him on
-terms she set herself: she will not raise it, she will not lie if he asks her directly, and she tells him
-anything touching his safety. The rescue he wants to lead is paid for by the Crown, and he can authorize that himself; what he cannot
+**He learns about the Orb Weaver in Book 8, from his wife.** Irene finds it, refuses Melina's request to keep
+it from him, and tells him, because they vowed at their wedding to keep no secrets. He also learns that
+Melina left it out when she told him everything about the conspiracy against his life. With his parents
+missing, the rescue comes first; what he does with the Orb Weaver afterward is open. The rescue he wants to lead is paid for by the Crown, and he can authorize that himself; what he cannot
 do is hide it from Uratha, and the money moves through the Orb Weaver's channels, which she now keeps. See
 `People/Irene Umberlow.md` and the Book 8 outline, *The Ledger*.
 
@@ -242,16 +243,17 @@ That is compatibility, not obedience. **Do not write her as devoted, imprinted, 
 
 ### Irene Umberlow (Wife)
 
-**By the time he meets her, the balls have done their work on him.** Weeks of pleasant, well-dressed
-young women presented for his consideration, and he can no longer keep them apart. He escapes most of
-those evenings early. Irene on Vessel Street is in the middle of a deal; she knows who he is, nods, and
-goes back to her carts. **That is what makes her stand out, before anything else about her does.** He
-goes back to the quay to find her, and the courtship happens where she works, not in a ballroom.
+**By the time he meets her, the balls have done their work on him.** He went to the first one hoping, and
+found that every young woman there was trying to show she would suit him, which hid who she was. A dozen
+balls later he escapes to the harbor. Irene is in the middle of a deal, with no reason to perform anything
+for him; she knows who he is, nods, and goes back to her carts. **That is what makes her stand out.** He does
+not know her name, keeps going back to the berth without daring to speak to her, and learns it from the
+dockmaster. The courtship happens where she works, not in a ballroom.
 
 **He is happy because she is happy.** That is the register of the marriage. He does not understand half
 of what she tells him about her business, and it does not matter: she is beaming, and that is enough for
-him. He will listen for two hours to a deal he could not explain afterward. See the marriage entry in
-`Offstage/`, *Only to people with eyes*.
+him. He will listen for two hours to a deal he could not explain afterward. Nessa sees it before he admits it,
+watching him dance with her. See the marriage entry in `Offstage/`.
 
 Her primary is Merchant, which sits last in his stack, and the shadow recorded above is the instinct for
 reserves he does not have. He does not marry her for it and should never be written thinking of her as

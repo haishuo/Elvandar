@@ -1,8 +1,8 @@
 # The Marriage of the Tiger Prince
 
 **When:** Between Books 7 and 8. Tiberian is eighteen.
-**Who:** Tiberian Valanar and Irene Umberlow, Celestine and Lucien Vey, Aurelia Alric, Nessa Halcin, and
-Empress Elara.
+**Who:** Tiberian Valanar and Irene Umberlow, Celestine and Lucien Vey, Aurelia Alric, Nessa Halcin, Melina
+Valanar, and Empress Elara and Xion.
 
 ## The blue dress
 
@@ -33,15 +33,54 @@ remarks would still sound like praise.
 ## The balls
 
 By the time Tiberian came home from the war, there was no bachelor in Kaha'an whose marriage mattered
-more. He was eighteen, handsome, well liked, and already famous as the Tiger Prince. Elara told him he
-should think about marrying soon, and that meant the balls. He would rather have been almost anywhere
-else. She required him to appear. Standing about like a statue would do if that was the best he could
-manage, but the crown prince had to be seen.
+more. He was eighteen, handsome, well liked, and already famous as the Tiger Prince. **His parents wanted
+him married, and married for love**, and thought eighteen the right age to begin. Neither had any useful
+experience of how it is usually done; their own marriage had come about in circumstances nobody could
+recommend. They knew a ball was a poor way to learn who somebody was, and they could think of no better way
+to introduce their son to a great many eligible young women. **Tiberian agreed.** He had been to a few balls
+before, though not many, and never as the man the evening was for. The war had taken most of his
+adolescence.
 
-Young women were presented to him, or presented themselves. Some came to try their luck. Some came
-because their families had decided to try it for them. They were pleasant, well mannered and well
-dressed, and within a few weeks he could no longer keep them apart. He left most of those evenings as
-early as he decently could, and some of them earlier.
+**He went to the first one hoping.** *(Author's ruling, 2026-11-21.)* He had been taught the etiquette, the
+introductions and the dances, and he took them seriously. He thought he might meet someone that night. The
+young women presented to him were beautiful, gracious and accomplished, and he saw it. The trouble came in
+conversation. The first was interested in his campaigns, which was reasonable. So was the second, and the
+third. Whatever he cared about, it turned out, so did she, and when he asked what she enjoyed, the answer
+was chosen to show how well they would suit. He left disappointed and still hopeful. Perhaps they had been
+nervous. Perhaps he had asked the wrong questions.
+
+**The women were not the problem. The format was.** A crown prince cannot accept a few hundred dinner
+invitations from prospective brides, and the balls exist to solve that. But every young woman there knew who
+he was and what the evening was for, and his presence at so conventional an occasion suggested he wanted
+conventional things. So they offered him an agreeable future consort, and many offered him the war, because
+everyone assumed that was what the Tiger Prince wanted to talk about. He would have been delighted by a woman
+who cared about music, or building, or almost anything, including things he did not share. **The one answer
+he could do nothing with was *whatever interests you, Your Highness.*** He was trying to learn who she was;
+she was trying to show she would make a good wife. Some of the women he met he would have liked very much,
+and one or two he might have loved, and the evenings hid them from him.
+
+**He kept going, and it wore him down.** He went back a dozen times, tried different questions, looked for
+common ground, and met what felt like the same woman a few hundred times. His reports at dinner shrank from a
+hopeful account after the first ball to *not particularly*, then *fine*, then *no, Mother*. Nobody blamed
+anybody; everyone knew the method was poor, and nobody had a better one. Tiberian never raised a woman at the
+family table of his own accord, and by the last of those evenings the conversation nearly always ran the same
+way.
+
+> Elara: "Tiberian, a very nice young lady asked after you this morning."
+>
+> Tiberian: "Yes, mother."
+>
+> Elara: -sighs- "Son, I understand you hate these social functions, but would it *kill* you to not look like someone is stabbing you when you attend?"
+>
+> Tiberian: "It might."
+>
+> Elara: "Well, either way, you're meeting this girl. She's from a respectable family - the Alrics I believe."
+>
+> Tiberian: -overly dramatic sigh- "Oh very well, mother, if you insist."
+>
+> Elara: "And try not to look like you're marching to your own funeral!"
+>
+> Tiberian: "No promises, mother!"
 
 Celestine Vey was the daughter of a wealthy marquis. She was beautiful, perfectly mannered and wanted
 the marriage for herself. About thirty percent of House Vey's wealth had been tied up with the Grain
@@ -59,28 +98,69 @@ money house in the capital, and its fortune had gone with the Rending. Irene was
 She went to the balls for the people at them, the nobles with goods to sell and credit to extend. She liked her
 blue dress and wore it to every ball because it was the one good dress she could afford. She never
 approached the prince. She had better things to do with an evening, and she did not think marriage to
-the crown prince of Balisha a realistic goal for someone like her.
+the crown prince of Balisha a realistic goal for someone like her. She may well have been at some of the same balls. He never
+noticed her, because she never came looking for him.
 
-## Vessel Street
+## The harbor
 
-Tiberian first met Irene on Vessel Street. The war was over, and he had gone down to the quay to see
-whether a berth still reserved for military use could be returned to civilian traffic. Nobody needed
-the crown prince for it, which was part of why he went. Irene was there about a delayed cargo from Port
-Valen. She had a buyer for part of the lot and could have carts there that afternoon. She offered the
+By the thirteenth ball he needed an evening off. A berth on the Maulom quay, below Vessel Street, was still
+reserved for military use and could be returned to civilian traffic. It was a real matter, and it did not
+need the crown prince: Kai, a junior officer or the harbor office could have settled it. Tiberian presented
+it as though it did, and his mother, who knew perfectly well what it was, let him go. He had earned one
+evening. **He was not looking for anyone. He was getting away from looking.**
+
+Irene was there about a delayed cargo from Port Valen. She had a buyer for part of the lot and could have carts there that afternoon. She offered the
 seller less than he wanted and showed him what he would save by getting the goods out of the warehouse
 before he owed another day's storage. Tiberian was there long enough to hear him take the offer.
 
-Irene knew who he was. Everybody on the quay did. She nodded to him and went back to her carts. After
-weeks of young women who had dressed for him, she was the first with something better to do. He did
-not remember her from the balls; she had never come near him there.
+He noticed first that she was beautiful, which by then did not distinguish her from anybody. What held him
+was the rest. She was quick and clever and plainly good at this, she had seen the seller's problem before the
+seller had, and she was enjoying herself. **She had no reason to perform anything for him.** She was doing
+business, and he was seeing who she was without a ballroom in the way.
 
-Deals like that were how Irene meant to restore House Umberlow. She liked making money and intended to
+Irene knew who he was. Everybody on the quay did. She nodded to him and went back to her carts. **He did not
+know who she was**: not her name, not her house or whether she had one, not where she lived or whether she
+was married. He did not remember her from the balls; she had never come near him there.
+
+**He went back.** The berth was the only place he had ever seen her, so he found more reasons to inspect it.
+Sometimes she was there and sometimes she was not. The man who had led soldiers through a war could not make
+himself walk up to her, because for the first time he cared what the answer would be. He looked at papers he
+had no need to look at, and left. The quay noticed.
+
+**The dockmaster took pity on him.** He had worked out which berth the prince kept inspecting, and for whom.
+One morning he told Tiberian that Lady Umberlow was not in today, and discovered that the prince did not
+know her name. He gave it to him and told him she came down on market days, so he might come back in two
+days and perhaps try speaking to her. **He gave the name and nothing else.** Tiberian still did not know she
+was a baron's daughter.
+
+## The dinner
+
+That evening, at a family dinner with his parents, Melina and Nessa, Tiberian raised a woman of his own
+accord for the first time, while trying very hard to seem not to. He asked his father, as though idly,
+whether he had heard of House Umberlow. Xion had: an old banking house, much reduced since the Rending.
+Tiberian learned at the table that the house was baronial, and his questions moved from the house to the
+baron's children and then to whether the baron's daughter was seeing anyone. Elara, who had sat through
+twelve balls' worth of *no, Mother*, put it together aloud. Nessa, who had known for some time whom he kept
+going down to the harbor to look at, supplied the berth. He protested that he had not properly met her,
+which was true and did not help. Melina watched and ate her dinner.
+
+**His parents were delighted, and nothing more yet.** They did not know Irene, and nobody treated her as a
+daughter-in-law. What mattered was that their son had finally found someone he wanted to know.
+
+**Melina knew too, and said nothing.** Whom her brother married was his business. She would have stepped in
+for a real danger, and a baron's daughter with a business of her own was not one.
+
+## Courting her
+
+On market day he came back and spoke to her. Most of the courtship happened there, along the quay and in
+the warehouses and counting rooms where she did business, and very little of it in a ballroom. He learned
+what she meant to do with House Umberlow. She found that the Tiger Prince was kind and funny and actually
+interested in whether she was happy, which she had not expected.
+
+Deals like the Port Valen cargo were how Irene meant to restore House Umberlow. She liked making money and intended to
 make a great deal of it. She knew what a reserve meant to a household that had gone without one. She
 wanted the people she loved to be able to get through a bad month without wondering what they would
 have to sell.
-
-Tiberian went back to Vessel Street to find her. Most of the courtship happened there, along the quay
-and in the warehouses and counting rooms where she did business, and very little of it in a ballroom.
 
 ## The price
 
@@ -99,61 +179,10 @@ A few days later he brought her flowers and apologized. He told her she was righ
 have asked. Irene had expected him to lose interest after the argument. When he came back having
 thought about what she had said, she began to take his courtship seriously.
 
-## Only to people with eyes
+## At a ball
 
-Tiberian was happy because Irene was happy. He did not understand half of what she told him about her
-business, and it did not matter: she was beaming, and that was enough for him. Nessa noticed before he
-admitted it.
-
-> Nessa: "Tiberian, I noticed you spent two hours talking to Irene the other day."
->
-> Tiberian: -defensively- "She was very interesting!"
->
-> Nessa: "... interesting? I didn't know you had any interest in banking."
->
-> Tiberian: "Hey, I know stuff!"
->
-> Nessa: "Really. Define 'compound interest', I *dare* you."
->
-> Tiberian: "..."
->
-> Nessa: -grins-
->
-> Tiberian: "L-look, it was complicated!"
->
-> Nessa: "I'm sure it was." -she sighs- "Look, in all seriousness though, Tiberian - I've never seen you smile in that way before."
->
-> Tiberian: "I smile!"
->
-> Nessa: "Not like that you don't. When Irene walks into the room, you look like the sun has risen for the first time in your life."
->
-> Tiberian: -looks away- "Is it that obvious?"
->
-> Nessa: "Only to people with eyes."
-
-## The dinner
-
-Tiberian never raised a woman at the family table of his own accord. He had to be prompted, and the
-conversation nearly always ran the same way.
-
-> Elara: "Tiberian, a very nice young lady asked after you this morning."
->
-> Tiberian: "Yes, mother."
->
-> Elara: -sighs- "Son, I understand you hate these social functions, but would it *kill* you to not look like someone is stabbing you when you attend?"
->
-> Tiberian: "It might."
->
-> Elara: "Well, either way, you're meeting this girl. She's from a respectable family - the Alrics I believe."
->
-> Tiberian: -overly dramatic sigh- "Oh very well, mother, if you insist."
->
-> Elara: "And try not to look like you're marching to your own funeral!"
->
-> Tiberian: "No promises, mother!"
-
-After Nessa caught him, there was a family dinner at which Tiberian brought up Irene himself, without
-being asked. Nobody at the table needed it explained.
+Later in the courtship he danced with Irene at a ball. Nessa, watching from the side of the room, saw him
+smile in a way she had not seen at any of the others. He had spent a dozen of those evenings being polite.
 
 ## What Nessa told him
 
@@ -209,6 +238,10 @@ would be put to work for the house. It did not touch her own security, which as 
 doubt. In time she grew easier about asking her husband for help. The choice to ask was hers.
 
 They married after the trial and the executions, before Book 8.
+
+**At the wedding they vowed to keep no secrets from one another.** *(Author's ruling, 2026-11-21.)* Book 8
+tests the vow within months, and Irene keeps it: see `Book 8 - Shattered Mirror/book8_outline.md`, *The
+Ledger*.
 
 **What depends on it.** Irene enters Book 8 as Tiberian's wife and as a major character, and the book
 introduces her on the page; this account is how she got there. *(Moved here from a standalone file,

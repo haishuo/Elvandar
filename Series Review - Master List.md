@@ -3056,6 +3056,41 @@ original. Nessa's cover survives. Pointers revised on both twins' sheets, Nessa'
 morning. **Kalden's "claims die with him" line** (his sheet; Book 7 Act IV) now notes that they die as claims and
 survive as a costume. The son is **unnamed**; coin him from `Names.md` if a page ever needs him.
 
+### The courtship reordered, and Irene tells Tiberian — author's ruling, 2026-11-21
+
+**The courtship, in order** (`Offstage/The Marriage of the Tiger Prince.md`). His parents want him married
+for love and use the balls because nothing better exists. **Tiberian goes willingly and hopefully**, and a
+dozen balls wear him down: the women are not the problem, the format is, because every one of them is
+trying to show she would suit him. **He escapes the thirteenth** on a berth transfer at the Maulom quay that
+does not need him, sees Irene in the middle of a deal, and does not learn her name. **He keeps going back
+without daring to speak to her**, and the dockmaster gives him her name and nothing else. **The family
+dinner comes next**: he asks about House Umberlow as if idly, learns at the table that it is baronial, and
+gives himself away; Elara puts it together and Nessa supplies the berth. Melina knows and does not
+interfere. **Then he courts her**, then the price quarrel, then **a short beat at a ball**, where Nessa sees
+him smile dancing with Irene as he never did with the others. **Rule 1 decided the order**: in the old
+version the dinner came after weeks of courtship, when his interest could not have been news.
+**Cut:** the *Only to people with eyes* dialogue, at the author's decision. Elara's verbatim exchange about
+the balls is kept and placed at the worn-down end of the balls. The dinner is recorded as a summary.
+
+**The wedding vow** (author's ruling): **no secrets from one another.**
+
+**Irene tells Tiberian** (`book8_outline.md`, *The Ledger*). Melina brings her in and asks her to keep the
+Orb Weaver from Tiberian. **Irene refuses**: she will not lie to her husband, she thinks he may surprise
+Melina, and with his parents missing there will never be a better time. *If you won't tell him, I will.*
+She tells him. **It costs her Melina**, and what grows between them is professional respect. Tiberian also
+learns that Melina left the Orb Weaver out of the conspiracy account. **Supersedes her terms.**
+
+**Irene's appearance** (author's ruling): dark hair, dark eyes, olive complexion, beautiful; the image is the
+daughter of a Renaissance Venetian banking family. Recorded on her sheet and in *Basic Physical
+Characteristics*.
+
+**Changed:** the marriage entry (*The balls*, *The harbor*, *The dinner*, *Courting her*, *At a ball*, the
+vow); the Book 8 outline (*The Ledger*, the rescue, the structural note, and the stale *no money trade*
+phrase); the Irene, Tiberian, Melina and Nessa sheets; *Basic Physical Characteristics*.
+
+**Open:** what Tiberian does with the Orb Weaver after Book 8, and how he takes Melina's omission from the
+conspiracy account.
+
 ### House Umberlow and the Interregnum — author's ruling, 2026-11-21
 
 **Extends and partly revises the ruling below.** House Umberlow was a barony richer than most of the houses
@@ -3151,16 +3186,16 @@ morning and through Melina's Part 2. **She is not planted in Book 7.**
 the parents off. When they do not return, Irene notices that nobody changed the return arrangements, so
 the extension was not Elara's. **She finds the Orb Weaver by its money** when it is pushed abroad to buy
 information inside Uratha, reads it as treason, and **takes it to Melina, not Tiberian**. Nessa's
-informant cover is useless before a palace audience, and Melina brings her in. **Her terms:** she will not
-raise it with Tiberian; she will not lie if he asks directly; anything touching his safety she tells him.
-She hates hypocrisy and carries the secret with more guilt than Melina or Nessa. **The Crown pays for the rescue** (author's ruling 2026-11-20): the imperial treasury's money, not
+informant cover is useless before a palace audience, and Melina brings her in. **Her original terms are superseded (2026-11-21):**
+she refuses to keep it from Tiberian and tells him; see *Irene tells Tiberian* below. **The Crown pays for the rescue** (author's ruling 2026-11-20): the imperial treasury's money, not
 Umberlow's or the Orb Weaver's, made invisible to Uratha by Irene. It is paid for
 through channels she keeps. **After the book she keeps the Orb Weaver's books without being an active
 member, and the Orb Weaver and House Umberlow never touch.** She does not find the Globehall, is not at
 the rescue and does not brake Tiberian. Recorded on the Irene, Nessa, Melina and Tiberian sheets. *(The
 rescue's form remains open.)*
 
-**Nessa catches him, then he volunteers her at dinner — author's ruling 2026-11-20.** The register of the
+**Nessa catches him, then he volunteers her at dinner — author's ruling 2026-11-20. Superseded 2026-11-21**
+by *The courtship reordered* below: the dinner now comes first and *Only to people with eyes* is cut. The register of the
 marriage is that **Tiberian is happy because Irene is happy**: he does not follow half of her business and
 does not need to. After the price quarrel, Nessa teases him into admitting it (*"Only to people with
 eyes"*), and after that he raises Irene at a family dinner unprompted, which he has never done with any

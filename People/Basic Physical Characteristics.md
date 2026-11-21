@@ -89,6 +89,7 @@ if image perspective, posture, hair, or footwear creates an apparent discrepancy
 | **Tiberian Valanar** | Sixteen throughout Book 5; about eighteen by the late-Book-6 Warrens descent **A/T** | **5′10″ / 178 cm at sixteen and still 5′10″ at the late-Book-6 encounter** **A** | Athletic adolescent fighter; trained and capable, not adult-bulky **A** | Dark, lightly wavy, shorter loose side-sweep with clearer forehead in the 2026-09-26 facial anchor **A** | Royal blue in the locked reference model **A** | Natural complexion of the approved 2026-09-26 parent-based facial anchor; do not add a training-derived tan **A** | Facial structure favors Elara — especially brows, cheekbones, and direct gaze — while the mouth, eyes, and hair retain Xion **A** |
 | **Melina Valanar** | Sixteen throughout Book 5 **A/T** | **5′8″ / 173 cm at sixteen** **A** | Slender, composed adolescent; not a front-line fighter's build **A/S** | Dark, worn in the loose practical braid of the 2026-09-26 facial anchor **A** | Royal blue at rest; the Kaleidoscope cycles prismatic colours during complex cognition **A/S** | Natural complexion of the approved 2026-09-26 parent-based facial anchor **A** | Facial structure favors Xion — longer/narrower face, observant eyes, nose and mouth — with Elara's royal composure and colouring **A** |
 | **Kai Issamil** | Tiberian's generation **S** | Unset **U** | Unset; the *Iron Boar* epithet may suggest stockier than Kael, but the text does not establish it **S/U** | Unset **U** | Unset **U** | Unset **U** | Practical, unobtrusive presentation inherited from Kael is suggested, not physically fixed **S/U** |
+| **Irene Umberlow** | About eighteen at the courtship, between Books 7 and 8; exact age open **A/U** | Unset **U** | Unset **U** | Dark **A** | Dark **A** | Olive **A** | Beautiful. Image direction: the daughter of a Renaissance Venetian banking family. One good blue dress through the courtship **A** |
 
 ## Source anchors
 
@@ -117,6 +118,8 @@ The tables are concise by design. These are the principal textual anchors behind
   Measures/book6_outline.md` (aging but still decisively violent). Age, build, colouring, facial hair,
   absence of additional facial scars, rough lower-Warrens presentation, and **6′0″ / 183 cm** height are
   the author's 2026-08-22 approved visual rulings.
+- **Irene Umberlow:** `People/Irene Umberlow.md` and `Offstage/The Marriage of the Tiger Prince.md`. Hair,
+  eyes, complexion and the Venetian image direction are the author's 2026-11-21 ruling. No art exists yet.
 - **Bittek:** `People/Bittek.md` and `Book 6 - Necessary Measures/book6_outline.md` establish the cowardice,
   counterfeit fighting-man identity, conspicuous knife, borrowed reputation, and inability to enter a fair
   contest. Age range, comparative height, build, colouring, facial structure, total absence of scars, padded

@@ -152,16 +152,19 @@ visit herself, someone would have changed the return arrangements, and nobody di
 **She finds the Orb Weaver by its money.** Pushed abroad to buy information inside Uratha, the
 brokerage moves coin and goods east, and the trail lands in Irene's field. She reads it as treason in
 the household and **takes it to Melina, not to Tiberian**, because she knows what he does with a
-problem. Melina brings her in. **Her terms:** she will not raise it with Tiberian; if he asks her
-directly she will not lie to him; anything touching his safety she tells him regardless. She puts the
+problem. Melina brings her in, and asks her to keep it from Tiberian. **Irene refuses.** On their wedding day
+she and Tiberian vowed to keep no secrets from each other, and she will not lie to her husband. She tells
+Melina she thinks he may surprise her, and that with his parents missing there will never be a better time;
+*if you won't tell him, I will*. **And she tells him.** *(Author's ruling, 2026-11-21.)* She puts the
 Orb Weaver's foreign payments on a sound footing. **The rescue is paid for by the Crown**, and her part
 is making the Crown's money invisible to Uratha, through the Orb Weaver's channels, which she now keeps. None of it is
 Umberlow money. Full placement in `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
 
-**The secret costs her more than it costs either of the others.** She hates hypocrisy. Melina and
-Nessa have kept the Orb Weaver from Tiberian for two years; she has been married a few months, to a
-man she quarrelled with over not being asked. Her terms are how she keeps the lie by omission from
-becoming a lie.
+**What it costs her is Melina.** A few months into the family, she defies the most dangerous woman in the
+palace when the family most needs to hold together. She does it because she hates hypocrisy, because the
+marriage began with *he should have asked*, and because Melina is now asking her to decide what Tiberian
+can be trusted with. What grows between the two women afterward is professional respect, not sisterly
+closeness.
 
 **After the book she keeps the Orb Weaver's books.** She cannot un-know it, so she may as well do it
 properly. She is not an active member. **The Orb Weaver and House Umberlow are separate, and she is
@@ -225,8 +228,9 @@ Melina keeps following the relationships in a problem until she understands the 
 Irene can spend half an afternoon tracking down one term because it will tell her who can afford
 to wait. If they were given the same unsettled account, Irene's first question would be who has to
 pay and by when. Melina's would be what else stops working if the money fails to arrive. They
-could give each other better questions. The wedding gives them a family relationship. The degree
-of personal closeness is open.
+could give each other better questions. The wedding gives them a family relationship. **What grows
+between them is professional respect rather than sisterly closeness**, and Book 8 sets it: Irene refuses
+to keep the Orb Weaver from Tiberian and tells him herself.
 
 Nessa understands the price of a favor and who will pay to keep his name out of a conversation.
 Irene's knowledge comes from doing repeat business in her own name, where it matters that the
@@ -254,7 +258,9 @@ it. Irene permits herself that one pleasure and gets on with her work.
 
 ### Physical Presence
 
-Her appearance and exact age are open. She has one good blue dress during the courtship and
+**Dark hair, dark eyes and an olive complexion**, and beautiful. *(Author's ruling, 2026-11-21.)* The image
+is the daughter of a Renaissance Venetian banking family, which is what she is in everything but the
+geography. Her exact age is open; she is about eighteen at the courtship. She has one good blue dress during the courtship and
 likes it enough to wear it repeatedly. Its use at court is established in the marriage chronicle.
 
 ### Behavioral Patterns
@@ -269,8 +275,8 @@ likes it enough to wear it repeatedly. Its use at court is established in the ma
   telling a story against herself. One way to tell she is at ease is that she can mention a
   problem before she has decided what to do about it.
 - **About hypocrisy.** She hates it, in herself most of all. She will keep a confidence and say so;
-  she will not say one thing and do another. When she has to keep something back, she sets terms
-  that tell her exactly where silence would turn into a lie.
+  she will not say one thing and do another. She will not keep a secret from her husband, and the first
+  time it is asked of her, she refuses.
 
 ### The Central Tension
 
@@ -294,8 +300,8 @@ wants it and trust that she can still make the decision afterward.
 6. **The dress goes before Lucien's arrest, never after.** It is a slight returned between two young
    women at court. Sent to a woman whose brother the Crown had just executed, it would be a different
    act by a different person. Keep it at the betrothal.
-7. **She keeps the Orb Weaver from Tiberian on terms, and the terms hold.** She never raises it. If he
-   asks directly, she tells him the truth. Anything touching his safety, she tells him regardless.
-   Never write her lying to his face about it, and never write the secret as costless to her.
+7. **She does not keep the Orb Weaver from Tiberian.** They vowed at their wedding to keep no secrets, and
+   when Melina asks her to keep this one she refuses and tells him herself. Never write her keeping it, and
+   never write the telling as costless: it costs her Melina's goodwill.
 8. **The Orb Weaver and House Umberlow never touch.** No money, custom or credit passes between them.
    She keeps the brokerage's books; she does not stake her house's name on it.

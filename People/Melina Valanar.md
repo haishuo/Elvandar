@@ -260,12 +260,13 @@ her brother is Caretaker primary, he would object to the line in exactly the pla
 would act — but **it is a second secret from the person she tells everything, and the page should know
 that**, even if it never says so.
 
-**Book 8 makes it three people, and the third is his wife.** Irene Umberlow finds the Orb Weaver by its
-money when it is pushed abroad, and brings it to Melina as suspected treason. Melina brings her in, on
-Irene's terms: she will not raise it with Tiberian, she will not lie to him if he asks directly, and she
-will tell him anything touching his safety. **Melina accepts a secret that is now one direct question from
-ending**, and Irene carries it with more guilt than Melina ever has. Irene keeps the books afterward without
-being an active member. See `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
+**Book 8 ends it, and it is his wife who does.** *(Author's ruling, 2026-11-21.)* Irene Umberlow finds the
+Orb Weaver by its money when it is pushed abroad, and brings it to Melina as suspected treason. Melina brings
+her in and asks her to keep it from Tiberian. **Irene refuses**: they vowed at their wedding to keep no
+secrets, and she tells Melina that if she will not tell him, Irene will. She does. **The secret is taken out
+of Melina's hands**, and Tiberian also learns that Melina left the Orb Weaver out when she told him everything
+about the conspiracy. What grows between Melina and Irene is professional respect. Irene keeps the books
+afterward without being an active member. See `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
 
 **And her father in particular.** She takes his judgments more seriously than anyone watching would guess,
 and a brokerage that sells to the Warrens' predators is not a thing he would approve. **She has built
