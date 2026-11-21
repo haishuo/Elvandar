@@ -1632,6 +1632,18 @@ leaves Kai and the squad conducting the larger operation, and approaches without
 eighteen-year-old prince of exactly his own height, mistakes the Tiger Prince's reputation for the same kind of
 manufactured intimidation he uses himself, and accepts the only fight of his life because he believes it is
 already won. **No strike team is present or nearby for the confrontation.**
+
+**Bittek's death revised, author's ruling 2026-11-21.** **Bittek has no combat experience at all**: his
+fighting record is enforcers' violence he took credit for and beatings of restrained prisoners, and he
+sincerely remembers both as hard fights won. **Kai objects to Tiberian going alone, and the objection stays
+valid**: neither knows whether Bittek can fight, and Tiberian accepts the risk rather than claiming to know.
+Tiberian comes ready for a hard fight. **Bittek attacks first and runs onto Tiberian's routine counter**,
+because he has never learned that a counter can come, and the counter is fatal. There is no duel and no
+finishing blow. Tiberian is briefly surprised; he never sees or exploits the incompetence beforehand.
+**Supersedes the version in which Bittek lost, begged and was finished.** Rule 3 is unchanged: one emotion,
+and the bill arrives in the next scene. Recorded in `book6_outline.md`, *Bittek at the taps*, and
+`People/Bittek.md`. **Open:** whether Bittek gets any words out, and the continuity question of what
+Melina's well-sourced Bittek file says about his fighting, if Tiberian sees it.
 The approved scene reference is archived at `Character Art/Scenes/Tiberian and Bittek/At the Taps.png`:
 both men stand naturally at the failing water station before either weapon is drawn, with Bittek's padded
 breadth and hand on the immaculate knife carrying the performance while Tiberian supplies no theatrical

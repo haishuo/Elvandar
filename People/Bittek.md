@@ -62,6 +62,26 @@ entirely out of beating people who could not fight back.
 **He believes the counterfeit.** That is the single most important thing about him after the appetite, and it
 is what walks him into the last scene of his life.
 
+### He has never fought — author's ruling, 2026-11-21
+
+**Bittek has no combat experience at all.** Not a poor fighter: no fighter. He has never sparred, never trained
+against anyone resisting, and never been in a real armed fight. The reason is simple. He dislikes pain,
+danger, embarrassment and discomfort, and learning to fight requires accepting all four. His threat-reading
+has let him avoid every situation that would have taught him.
+
+**His fighting record is made of two kinds of incident, and only two.** Slaver enforcers beat someone while he
+supervises, and he takes the credit. Or enforcers hold a helpless prisoner or slave while he does the
+beating, and he later remembers a hard win over a dangerous man. **His reputation as a fighter is entirely
+false. His reputation for cruelty and danger is earned**: he is genuinely dangerous to anyone who cannot
+resist him, above all because of the armed men he commands. What he has no idea of is a fight against
+someone who can hit back.
+
+**The self-deception is sincere.** He does not think *I am a fraud and people believe me*. In a crisis his
+perception is exact, and survival overrides vanity. Afterward, once he is safe, memory rebuilds the event
+to fit the self-image: blind flight becomes a brilliant withdrawal, and a beating given to a man in chains
+becomes a hard fight won. **He believes the revised account.** That is how a man survives twenty years in
+the Warrens and stays convinced he is formidable.
+
 ### Founder, Engineer, Creator, Caretaker (the rest)
 
 **Founder:** none. He does not want the cartel, he wants no one above him, and he would not rebuild anything.
@@ -148,6 +168,12 @@ by approaching the taps truly alone, with no hidden squad or nearby reserve, and
 appearance he cannot resist: an eighteen-year-old prince of exactly his own height whom he believes he can beat.
 That assumption kills him, and it is characterization rather than a plot hole to be patched.
 
+**What Bittek does not know about Tiberian, Tiberian does not know about Bittek.** Tiberian and Kai know only
+the reputation and the twenty years, and his escapes prove nothing about his fighting. **Never let Tiberian
+see through him before the fight, and never let him exploit a weakness he has not yet seen.** The death
+itself — one exchange, a routine counter Bittek runs onto because he has never learned that a counter can
+come — is in `book6_outline.md`, *Bittek at the taps*.
+
 **6. He is not the lieutenant who killed Melina Kemvimore.** Ronas executed that man immediately in Book 2.
 The revenge frame it would import would wreck both this design and Book 6's Act IV.
 
@@ -191,6 +217,8 @@ If Book 6 drafting produces something worth pinning, pin it here.
   understand.
 - **Escapes by putting other people between himself and the danger**, and reads each escape as evidence of his
   own brilliance.
+- **Rewrites what he did once he is safe**, and believes the rewrite. Never in the moment: under threat he
+  sees clearly. Only afterward.
 
 ### The Central Tension
 
@@ -201,6 +229,8 @@ with the appetite.** He wants, he takes what is nearest, he is frightened of who
 the last person who could hurt him is dead he becomes, immediately and completely, everything he was already
 prepared to be.
 
-He dies begging — and what he begs with is another betrayal, selling somebody else, mid-sentence. **He never
-gets the dignity of a genuine surrender**, which is the last fact about him and the reason his death costs
-Tiberian nothing.
+He dies of the first counter in the first real fight of his life, in an attack he started, because he never
+learned that the other man could hit back. If he gets anything out before he dies, it is panic and a reflex
+to sell somebody else. **He gets no courage, no dignity and no last insight, and he does not live long
+enough to remember it as a victory.** His one skill, avoiding every fight that could hurt him, is exactly
+why he never learned to survive one.

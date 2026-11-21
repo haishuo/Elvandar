@@ -385,34 +385,76 @@ the column, and disappears through the Warrens before overwhelming force can rea
 works.** A man who never enters a contest he might lose is maddeningly difficult to bring to one, and treating
 that as mere contemptible weakness would let Tiberian make exactly the mistake Bittek survives by inviting.
 
-Tiberian recognises that visible force will never catch him. He leaves Kai and the strike team conducting the
-larger operation and approaches the taps **truly alone** — no soldiers hidden in the next corridor, no reserve
-waiting to close the exits. The apparent vulnerability is the trap. Bittek sees an eighteen-year-old prince who
-stands exactly his own height and decides that this is finally a contest whose outcome is certain in *his*
-favour.
+Tiberian recognises that visible force will never catch him. **Kai objects, and Kai is right.** *(Author's
+ruling, 2026-11-21.)* Tiberian is the crown prince, and what happens to him happens to the empire. **And
+neither of them knows whether Bittek can fight.** The reader does; they do not. What they know is a fearsome
+reputation and twenty years survived in the Warrens, and the escapes prove nothing, because an excellent
+fighter would also decline to face several elite soldiers at once. Tiberian concedes every point. He does not
+claim to know Bittek is a fraud. He will not order someone else to take a risk he would refuse himself, so he
+takes it. **The objection stays valid after the fight is over**: Tiberian's courage does not make the decision
+safe in hindsight, and the book must not treat it as though it did. This is a calculated risk, not protagonist
+invincibility.
+
+He leaves Kai and the strike team conducting the larger operation and approaches the taps **truly alone** —
+no soldiers hidden in the next corridor, no reserve waiting to close the exits, no last-second intervention.
+The apparent vulnerability is the trap. Bittek sees an eighteen-year-old prince who stands exactly his own
+height and decides that this is finally a contest whose outcome is certain in *his* favour.
 
 **Bittek badly misjudges Tiberian, and the mechanism is not ignorance.** He knows the reputation perfectly
 well and dismisses it as propaganda, because he manufactures his own the same way: he built his standing on
 beating people who could not fight back and letting the story do the rest, so he assumes the Tiger Prince's
-standing is the identical con with better tailoring. **A fraud assumes everyone else is a fraud.** That
+standing is the identical con with better tailoring. **A fraud assumes everyone else is a fraud.** What he
+sees confirms it: a young man of ordinary height and athletic but unremarkable build, without the bulk Bittek
+associates with dangerous men, and without an escort. Bittek thinks himself perceptive for seeing through it,
+and an explicit warning about Tiberian's record would only look to him like another attempt to fool him. That
 assumption is what kills him, and it is characterization rather than a plot hole to be patched.
 
-**The fight is not one.** Sloppy brawling learned on people in chains against a man trained by Terinok
-warriors who fought a real war. It should be brief to the point of embarrassment.
+**Each man walks in expecting the wrong fight.** Tiberian comes ready for a hard and dangerous one. He does not
+swagger, mock or assume he will win, because his training and his war have taught him what an armed
+confrontation can do, and nothing he knows about Bittek justifies taking him lightly. Bittek is delighted: an
+important man has finally walked up to him unguarded, and he can humiliate him in person at no risk. **Neither
+knows what the other expects.**
 
-**He begs, and what he begs with is another betrayal** — he is selling somebody else, mid-sentence, when
-Tiberian ends it. **This is the load-bearing detail.** He never gets the dignity of a genuine surrender, so
-Tiberian is not executing a broken man who has given up; he is refusing to buy from a man who is still, in
-his final seconds, exactly what he has been since Act I. **And it preserves the asymmetry with Ronas**, who
-was offered a stand-down and refused it: Ronas got that offer because Ronas could actually deliver one. Bittek
-is being refused a *negotiation*, not the mercy Ronas was given, because he controls nothing and can deliver
-nothing. **Keep that distinction legible** or the refusal reads as Tiberian being inconsistent rather than as
-the last fact about Bittek.
+**The fight is one exchange.** *(Author's ruling, 2026-11-21; supersedes the earlier version, in which Bittek
+lost, begged and was then finished.)* Bittek attacks first. Tiberian answers with a sequence his Terinoki
+instructors drilled into him and his war confirmed: off the line, parry, counter, in one movement. **It is
+routine.** He is not reading Bittek's technique, diagnosing anything or devising a special move; he is doing
+what he does when someone attacks him. Against anyone with the least experience, the counter is a modest
+wound, because the other man expects it and gives ground or covers. **Bittek keeps coming.** He has never
+been in an exchange with someone who strikes back. He knows a visible swing can hurt him; he has never
+learned that a counter can come out of his own attack. And he believes Tiberian cannot fight either. So he
+carries on forward, not out of courage, calculation or despair, but because he does not know he should stop,
+and **his own momentum turns a routine counter into a fatal wound.** That is this exchange, not a rule that
+untrained men are harmless. By the time he understands, it is over, and there is no chance to run.
 
-He dies at the end of Tiberian's sword, soiling himself.
+**Tiberian is surprised.** He came for a hard fight, did something ordinary, and the man is dying. For an
+instant he does not quite take it in — *oh* — and only afterward might he work out that Bittek had no idea
+how to defend himself. **He never sees the incompetence before the exchange, and he never exploits it.** This
+is not a feat of swordsmanship. Tiberian did something unremarkable by the standards of his training, and
+Bittek's ignorance made the result remarkable. The surprise is brief and understated, not a moment of moral
+reflection or triumph.
+
+**The counter is what kills him.** There is no extended duel and no finishing blow on a helpless man. He may
+stay conscious for a moment, long enough for the reflex of his whole life to show — panic, and an attempt to
+bargain by selling somebody else. If that beat stays, it is a reflex rather than a proposal, and it must not
+open another confrontation. **Whether he gets any words out is left open**; do not write him elaborate last
+lines. He dies of the wound already given, soiling himself, with no courage, dignity, insight or
+self-justification. **He never lives long enough to remember it as a victory.** It is the one encounter with
+reality he cannot edit afterward.
+
+**The irony that carries the scene:** his one real skill, avoiding every fight that could hurt him, kept him
+alive for twenty years and is exactly why he never learned to survive one. The first real fight of his life
+is against the Tiger Prince, and it lasts one exchange.
+
+**And it keeps him distinct from Ronas**, who was offered a stand-down and refused it. Ronas was offered one
+because he could actually deliver one. Bittek is offered nothing and asks for nothing: he dies in an attack he
+started, on a counter he never saw coming. **The two deaths reveal two different men**, and the contrast must
+stay legible.
 
 **Rule 3 applies here in its purest form and the scene takes one emotion.** No grief, no irony, no *what does
-this make me*, no arc-closure, and above all **no reflection from Tiberian inside the scene.** This is the
+this make me*, no arc-closure, and above all **no reflection from Tiberian inside the scene.** His surprise is
+not reflection, and it does not compete with the reader's satisfaction: **the reader gets catharsis, and
+Tiberian gets a fight that was shorter than he expected.** This is the
 one place in a book of grey where the reader is allowed to feel good without qualification, and the entire
 value of it is that nothing dilutes it. **The bill arrives in the next scene, not this one.**
 
