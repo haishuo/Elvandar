@@ -185,10 +185,11 @@ as any father would be whose daughter is marrying the most eligible man in Kaha'
 
 **He kept the house independent, and it cost them.** Through the Coterie years most of Vessel Street's lending
 houses attached themselves to Grain, Water or Iron, and he attached House Umberlow to none of them, although
-any could have raised its fortunes. Partly it was judgment: he distrusted Rosik for a banker's reasons, and
-about Rosik he was right. Partly it was pride: for centuries the Umberlows had been the patrons, and he would
-not be the first to become a client. **Passing over Sa Ko Ren was probably a mistake**, and Irene grew up
-poorer for it. He has had his doubts. The account is in
+any could have raised its fortunes. He considered it, and **pride decided it**: for centuries the Umberlows
+had been the patrons, and he would not be the first to put the house under another's command. Afterward he
+gave himself better reasons — Rosik and Tania could not be trusted, Sa Ko was too new — which are true as far
+as they go and are not the whole reason, **and he knows it.** About Rosik he was right. **Passing over Sa Ko
+Ren was probably a mistake**, and Irene grew up poorer for it. He has had his doubts. The account is in
 [House Umberlow](../Places/Kaha%27an/houses_of_kahaan.md#house-umberlow---the-paper-lords).
 
 **He trained her, and did not try to make a copy of himself.** She is his heir and she wanted the work, so

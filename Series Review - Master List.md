@@ -3063,8 +3063,11 @@ that outranked it, because its wealth was paper, not land: a patron of other hou
 **The Rending ended the great house but not the family's business**: a small operation survived, broking and
 modest discounting. Under the Coterie **most of Vessel Street's lending houses attached themselves to
 Kemvimore, Larannas or Ren**; independent lending stayed legal and became much less profitable. **The baron
-attached his house to none of them**, partly from judgment (he was right about Rosik) and partly from pride,
-and **passing over Sa Ko Ren was probably an outright mistake.** It is recorded as one and must not be
+considered them and attached his house to none.** *(Restructured the same day.)* **Pride is the real reason**:
+he would not be the first Umberlow to put the house under another's command. He rationalized it afterward —
+Rosik and Tania could not be trusted, Sa Ko was too new — and those reasons are true but not the whole of it,
+and he knows it. Write him as a man who made an emotional decision and dressed it afterward. He was right
+about Rosik, and **passing over Sa Ko Ren was probably an outright mistake.** It is recorded as one and must not be
 tidied into a secret blessing. It remains a decision not to go, not a refusal, so Rosik's guardrail holds.
 
 **Chronology:** Rosik fell at about the time Irene was born, so the house had most of two decades of an open

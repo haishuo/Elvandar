@@ -659,20 +659,24 @@ cartel's paper got its business and its favour. Independent lending stayed legal
 profitable. House Vey tied itself to Kemvimore, and it was a large part of how the Veys grew rich. **Baron
 Umberlow attached his house to none of the three, although any of them could have raised its fortunes.**
 
-**His reasons were part judgment and part pride, and the pride was real.**
+**He considered it, and pride decided it.** He weighed all three seriously, and then he would not do it.
+For centuries House Umberlow had been the patron. **He would not be the first Umberlow to put the house under
+another house's command**, and he could imagine exactly what his ancestors would have said if he did. That is
+the real reason, and the heart of it is stubborn pride.
 
-- **Rosik** he distrusted, for a banker's reasons. A cartel lends against what it also sells, so there is
-  no walking away from its credit. The baron had watched every promise his house held turn to desert in an
-  afternoon, and Rosik's power was made of promises. Rosik also never explained himself, and to a banker
-  that is a borrower who will not say what the money is for.
-- **Tania** offered the same subordination with water instead of grain.
-- **Sa Ko Ren** was the best of the three, and he passed her over too. She had arrived penniless a year after
-  the Rending and had no record yet, and a man who had seen his house's foundations go once would not stake
-  what was left on a newcomer. But she put her windfall into forges rather than leverage, which is the one
-  kind of cartel a banker can lend to on honest terms. **He was probably wrong about her.**
-- **And under all three, pride.** For centuries House Umberlow had been the patron. He would not be the first
-  Umberlow to put the house under another house's authority, and he could imagine exactly what his ancestors
-  would have said if he did.
+**Then he rationalized it, and he knows he did.** Pride makes a poor reason even in a man's own head, so he
+gave himself better ones, and they are true as far as they go:
+
+- **Rosik and Tania could not be trusted.** About Rosik this was sound banker's judgment. A cartel lends
+  against what it also sells, so there is no walking away from its credit. The baron had watched every
+  promise his house held turn to desert in an afternoon, and Rosik's power was made of promises. Rosik also
+  never explained himself, and to a banker that is a borrower who will not say what the money is for.
+- **Sa Ko Ren was too new.** She had arrived penniless a year after the Rending and had no record yet. That
+  was true, and it was mostly pride finding a reason. She put her windfall into forges rather than leverage,
+  which is the one kind of cartel a banker can lend to on honest terms. **He was probably wrong about her.**
+
+**They are true, they are not the whole reason, and he knows it.** Write him as a man who made an emotional
+decision and dressed it afterward, not as a strategist who weighed three patrons on their merits.
 
 **This was a mistake as well as a principle, and the record should not tidy it.** Iron would likely have
 served the house better than independence did, and his daughter grew up poorer for his stubbornness. He has
