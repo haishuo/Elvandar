@@ -1642,8 +1642,9 @@ because he has never learned that a counter can come, and the counter is fatal. 
 finishing blow. Tiberian is briefly surprised; he never sees or exploits the incompetence beforehand.
 **Supersedes the version in which Bittek lost, begged and was finished.** Rule 3 is unchanged: one emotion,
 and the bill arrives in the next scene. Recorded in `book6_outline.md`, *Bittek at the taps*, and
-`People/Bittek.md`. **Open:** whether Bittek gets any words out, and the continuity question of what
-Melina's well-sourced Bittek file says about his fighting, if Tiberian sees it.
+`People/Bittek.md`. **Open:** whether Bittek gets any words out. *(Melina's Bittek file is not a
+continuity problem: her sources saw incidents where he did not need to fight, which proves nothing about
+whether he can, so Tiberian's uncertainty holds even if he reads it.)*
 The approved scene reference is archived at `Character Art/Scenes/Tiberian and Bittek/At the Taps.png`:
 both men stand naturally at the failing water station before either weapon is drawn, with Bittek's padded
 breadth and hand on the immaculate knife carrying the performance while Tiberian supplies no theatrical
