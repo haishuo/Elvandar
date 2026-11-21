@@ -110,6 +110,26 @@ he has.**
 
 ---
 
+## In Escaping Execution, He Guarantees It
+
+*(Author's ruling, 2026-11-21.)* **Had he sued for leniency at once** and turned state's evidence on Onyx,
+Amethyst and the mages he knew were involved in the Globehall and in holding the Valanars, **he might genuinely
+have avoided execution.** Might: nothing guaranteed it, but the chance was real. **After the civil war, with
+thousands dead, there is no chance.** Once he is brought before a Sapphire court, his fate is sealed.
+
+**His one real error is a pricing error, and he is a Merchant.** He weighed a plea deal that *might* save him
+against an office that was *certain* for two years, and he priced both wrong:
+
+- **He overvalued certainty.** The guarantee held only while everyone else kept the rules (above).
+- **He let the deal lose its value.** At first he had something to sell: Onyx, Amethyst, the Globehall's mages,
+  the people behind holding the Valanars, and his own crime was concealment and complicity in a conspiracy with
+  many hands. **Every move he made afterward shrank what he had to sell and grew what he owed**, until the
+  worst thing against him was no longer anyone he could hand over. It was his own war.
+
+**The trader dies of a bad trade: he held a position while it fell.** Nobody in the book says so.
+
+---
+
 ## A Politician, Not a General
 
 **He is a bureaucrat, and he thinks in procedure.** When Belus's strike fails, Draskin declares him in rebellion
@@ -190,4 +210,5 @@ real*. His government later held them prisoner. They will not lift a hand for hi
 problem that instrument cannot solve. Every move he makes to stay safe makes the war he did not plan more
 certain. **He clung to the office so that his fate would never be in other people's hands, and the war it
 produced puts it in the hands of soldiers**, the one kind of people he cannot manage. The blocked arrest is not
-only the moment he sees events slipping; it is his worst fear arriving by the route he took to avoid it.
+only the moment he sees events slipping; it is his worst fear arriving by the route he took to avoid it. **And
+the execution he fled is the one he makes certain.**

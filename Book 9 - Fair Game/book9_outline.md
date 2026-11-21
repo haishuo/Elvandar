@@ -136,6 +136,25 @@ control.** Belus cannot see that from inside him, and the book does not go there
 
 ---
 
+### What the war costs Draskin
+
+*(Author's ruling, 2026-11-21.)* **The civil war costs thousands of lives**, which makes it a real war of months,
+not a skirmish. **And it closes the door he could have used.** Had Draskin sued for leniency at once and turned
+state's evidence on Onyx, Amethyst and the mages behind the Globehall and the holding of the Valanars, he
+*might* have escaped execution. After the war there is no chance: **once he is brought before a Sapphire court,
+his fate is sealed.** In trying to escape execution, he guarantees it. He mispriced the trade, overvaluing the
+office's certainty and letting the plea deal lose its value until his own war outweighed everyone he could
+hand over (`People/Leowin Draskin.md`, *In Escaping Execution, He Guarantees It*).
+
+*Proposed, not ruled:* in a Belus-POV book, Draskin's end most likely happens off the page or reaches Belus as
+report. That suits him: the man who never told anyone what he expected goes out without the reader seeing it.
+
+*Observation, not a beat (rule 4):* Belus expected to pay for the strike and may face the same courts. If both men
+answer to Sapphire, the book holds one man who accepted his price in advance and one who refused his and watched
+it grow. Nobody says it. Whether Belus is tried is open.
+
+---
+
 ## THE TITLE
 
 ***Fair Game* carries three meanings, and nobody on the page states any of them.**
@@ -225,7 +244,8 @@ twins appear, they are somewhere new.
 - **The twins' long conversation** (`book8_outline.md`, *The Ledger*): paid here, in Book 8's close, or in
   `Offstage/`. A strict Belus POV cannot show it.
 - **Belus's stack** is proposed on his sheet, not ruled; his physical presence and voice are unset.
-- **How it ends.**
+- **How it ends.** Settled so far: if Draskin is brought before a Sapphire court, he is executed. Whether and
+  how he is taken, what happens to Belus and whether he is tried, and how the war ends are open.
 
 ---
 

@@ -3434,6 +3434,13 @@ stands* and *whom the officers obey*. *Draskin's later letters* added as a propo
 **Changed:** new `People/Leowin Draskin.md`; the Book 9 outline; Belus's sheet; sheet links in *The Government
 of Uratha* and `Names.md`.
 
+### Draskin guarantees the execution he fled — author's ruling, 2026-11-21
+
+Had Draskin turned state's evidence at once, he *might* have escaped execution. **The civil war costs thousands of
+lives**, and after it, **a Sapphire court seals his fate.** Recorded on his sheet (*In Escaping Execution, He
+Guarantees It*) as a Merchant's mispricing, and in `book9_outline.md`, *What the war costs Draskin*. **Book 9's
+ending is still open** beyond that: whether and how he is taken, Belus's fate and any trial, and how the war ends.
+
 ## 7. Open questions
 
 **Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, Draskin's proposed unanimity amendment, Belus's failed strike on the Ivory Tower and Draskin's declaration that he is in rebellion ([Book 9](Book%209%20-%20Fair%20Game/book9_outline.md)). What follows remains open: whether Belus escapes, how the four other Towers answer, what Balisha does, and how it ends.

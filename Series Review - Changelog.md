@@ -12671,3 +12671,7 @@ On the author's ruling, added three things to `People/Leowin Draskin.md`, *Why H
 ### 2026-11-21 - Draskin: why he does not see it
 
 On the author's ruling, added to `People/Leowin Draskin.md` that his reliance on others keeping the rules he rigs is not an oversight but his profession's own assumption: his whole craft depends on the other players staying at the table, so the contradiction is invisible to him. Added, marked as a reading rather than a ruling, that Book 8's Xion may have taught him a refusal can be outlasted while he holds the force, and that Belus is the first refusal with force behind it. Extended guardrail 2: like Belus's, his mistakes come from his competence.
+
+### 2026-11-21 - In escaping execution, Draskin guarantees it
+
+On the author's ruling, added a section to `People/Leowin Draskin.md`: had he turned state's evidence at once he might have escaped execution; after a civil war with thousands dead, a Sapphire court seals his fate. Recorded the error as a Merchant's mispricing (certainty overvalued, the plea deal allowed to lose its value) and extended *The Central Tension*. In `book9_outline.md`, added *What the war costs Draskin*: the war's scale (thousands dead, months), the closed door and the sealed fate; a proposal that his end happens off the page; and an observation, under rule 4, about Belus possibly facing the same courts. Updated *How it ends* in *Open* with what is settled and what is not.
