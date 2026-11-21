@@ -73,6 +73,21 @@ arithmetic as he sees it:
 - **The purge**, through the Ilhamori and the suspension clause. A purged Council also elects the Scholar-King,
   and terms are renewable; if he can never leave alive, he needs a fourth term, and a fifth.
 
+**Underneath the fear of death is the fear of losing control of his fate.** *(Author's ruling, 2026-11-21.)*
+If he ever loses the office, **his entire fate is in the hands of others.** A plea deal is not only uncertain;
+it hands the decision to prosecutors, magistrates and the Towers he would be betraying. In office, every outcome
+still runs through him. A man who has spent his life setting terms cannot bear to be the one terms are set for.
+
+**How he gets past the two years is tomorrow's problem.** In Book 3 he is patient: he holds the few things that
+matter and waits. Here he buys two years knowingly, without a plan for the third. **That is what fear does to a
+patient man**: the horizon shrinks to *stay alive this year*. On the page it reads as a change in him, a man who
+used to think in terms now thinking in reprieves, never as a different personality.
+
+**His guarantee is only as good as everyone else's willingness to keep the rules.** He rigs them and depends on
+them at the same moment. The office protects him only while the people around him choose to obey it, and
+Belus's strike shows that the guarantee was never guaranteed. **The man who cheated within the rules needs
+everyone else to play fair.** Nobody says so.
+
 **His coalition is a hostage arrangement.** The implicated Ilhamori leadership, Onyx and Amethyst have their own
 interest in his survival, because his fall exposes them. They know he could sell them to save himself. He keeps
 them close because they are the only thing he has to sell. **Everyone around him is held in place by the fear
@@ -157,4 +172,6 @@ real*. His government later held them prisoner. They will not lift a hand for hi
 
 **The most skilled politician in Uratha, fighting for his life with the only instrument he has**, against a
 problem that instrument cannot solve. Every move he makes to stay safe makes the war he did not plan more
-certain.
+certain. **He clung to the office so that his fate would never be in other people's hands, and the war it
+produced puts it in the hands of soldiers**, the one kind of people he cannot manage. The blocked arrest is not
+only the moment he sees events slipping; it is his worst fear arriving by the route he took to avoid it.
