@@ -197,7 +197,10 @@ She's not wrong. Tiberian's compassion-fury, the defining synthesis of his chara
 **He learns about the Orb Weaver in Book 8, from his wife.** Irene finds it, refuses Melina's request to keep
 it from him, and tells him, because they vowed at their wedding to keep no secrets. He also learns that
 Melina left it out when she told him everything about the conspiracy against his life. With his parents
-missing, the rescue comes first; what he does with the Orb Weaver afterward is open. The rescue he wants to lead is paid for by the Crown, and he can authorize that himself; what he cannot
+missing, the rescue comes first, and he says so himself: he goes to Melina, sets the questions aside until
+their parents are home, asks only whether the Orb Weaver can find them, and trusts her provisionally, *for
+now*. Before he leaves he asks her, as a son and not as a prince, to find them. What he decides afterward is
+the long conversation he has promised her, and it is open. The rescue he wants to lead is paid for by the Crown, and he can authorize that himself; what he cannot
 do is hide it from Uratha, and the money moves through the Orb Weaver's channels, which she now keeps. See
 `People/Irene Umberlow.md` and the Book 8 outline, *The Ledger*.
 
@@ -209,7 +212,7 @@ do is hide it from Uratha, and the money moves through the Orb Weaver's channels
 
 The emotional core of his life. Born hours apart after the Compact War, inseparable ever since. Melina is his strategic conscience — the analytical mind that tempers his aggressive instincts, the voice that asks whether the charge is wise before he makes it. He is her push to action — the emotional force that breaks her out of analysis paralysis, the reminder that perfect planning is worthless if it never becomes action.
 
-She teases him as "Tiber the Tiger" when he needs humbling. He tells her "stop analyzing and start DOING" when she needs moving. Their complementary strengths — his boldness and her brilliance, his passion and her patience — make them a formidable team when working in concert and a dangerous liability when either operates alone.
+**He calls her *Melly*** *(author's ruling, 2026-11-21)*, rarely and in earnest; so does Nessa. See Melina's sheet, *What she is called*. She teases him as "Tiber the Tiger" when he needs humbling. He tells her "stop analyzing and start DOING" when she needs moving. Their complementary strengths — his boldness and her brilliance, his passion and her patience — make them a formidable team when working in concert and a dangerous liability when either operates alone.
 
 Their relationship is the evolution of their parents' partnership: Xion and Elara needed each other to change the world. Tiberian and Melina need each other to run it.
 

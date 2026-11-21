@@ -3088,6 +3088,26 @@ Characteristics*.
 vow); the Book 8 outline (*The Ledger*, the rescue, the structural note, and the stale *no money trade*
 phrase); the Irene, Tiberian, Melina and Nessa sheets; *Basic Physical Characteristics*.
 
+### Tiberian puts it off, and *Melly* — author's ruling, 2026-11-21
+
+**After Irene tells him, Tiberian goes to Melina and defers the reckoning** (`book8_outline.md`, *The
+Ledger*). A long silence; then he sets the priority himself: a million questions, but their parents are
+missing, and once they are home *we are having a long conversation, Melly.* She understands and does not
+bargain. He asks only whether the Orb Weaver can find them; she does not know, but it may be their best
+chance. *"Good enough. For now."* (trimmed from *"Good enough for me. For now."*). He turns back from the
+door: *"Melly… please find them."* *"That's the plan,"* which is not a promise. **Irene is not in the room.
+The omission is not argued in this scene**; the *million questions* hold it. Rule 3 is why: the rescue keeps
+its single drive.
+
+**The long conversation must be paid**, in Part 3's closing chapters or in `Offstage/`. Its content (what
+Tiberian decides about the Orb Weaver and about the omission) is open.
+
+**Melly.** Tiberian and Nessa call Melina *Melly*. Nessa using the blood brother's diminutive, and being
+allowed to, is how close she is, shown and not said. **Irene never does** (her guardrail 9). Rationed, and
+**it must be seeded before Book 8**, when Books 5–7 are drafted.
+
+**Changed:** the Book 8 outline (*The Ledger*); the Tiberian, Melina, Nessa and Irene sheets.
+
 **Open:** what Tiberian does with the Orb Weaver after Book 8, and how he takes Melina's omission from the
 conspiracy account.
 
@@ -3333,6 +3353,8 @@ founding dynasty and coalition, and the ordinary distinction between Balisha and
 The open foundation is described in
 `Languages/Urathan.md` and `Languages/Ethnolinguistic History.md`; it is a design question rather than an
 error in prose.
+
+**The twins' long conversation after Book 8.** Tiberian promises it in *The Ledger* (`book8_outline.md`); what he decides about the Orb Weaver and about Melina's omission is unset, and where it is paid (Part 3's close or `Offstage/`) is unset. It must be paid somewhere.
 
 **Previously open items remain closed.** The three items opened on 2026-08-02 were all ruled on the same day
 and are recorded in the changelog: the birthdays are pinned (`Story Timeline.md`), the Mistress's relation

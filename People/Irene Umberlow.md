@@ -305,3 +305,6 @@ wants it and trust that she can still make the decision afterward.
    never write the telling as costless: it costs her Melina's goodwill.
 8. **The Orb Weaver and House Umberlow never touch.** No money, custom or credit passes between them.
    She keeps the brokerage's books; she does not stake her house's name on it.
+9. **She never calls Melina *Melly*.** *(Author's ruling, 2026-11-21.)* That name belongs to Tiberian and
+   Nessa. Irene calls her Melina. What is between them is professional respect, and the name would claim a
+   closeness she does not have.

@@ -26,6 +26,14 @@ for how she works: the web, the centre, the threads. **It may stay there; it mus
 city called a spider. Because the city calls her something else entirely, the echo lives only in the
 planning documents, and nobody in Kaha'an can hear it.
 
+**To two people she is *Melly*.** *(Author's ruling, 2026-11-21.)* **Tiberian** calls her that, and so does
+**Nessa**, and the second is the point: the handmaid uses the same diminutive as the princess's blood brother
+and is allowed to, which says how close she is without anyone saying it. **Irene never calls her *Melly*.**
+What grows between them is professional respect, and the name belongs to the two people who have it by
+right. **It must be seeded before Book 8**, where Tiberian's *Melly* carries the
+Orb Weaver scene (`book8_outline.md`, *The Ledger*); a name first heard there would read as invented for the
+moment. It is rationed: affection, never a tic.
+
 ---
 
 ## Paradigm Analysis
@@ -266,7 +274,9 @@ her in and asks her to keep it from Tiberian. **Irene refuses**: they vowed at t
 secrets, and she tells Melina that if she will not tell him, Irene will. She does. **The secret is taken out
 of Melina's hands**, and Tiberian also learns that Melina left the Orb Weaver out when she told him everything
 about the conspiracy. What grows between Melina and Irene is professional respect. Irene keeps the books
-afterward without being an active member. See `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
+afterward without being an active member. **Tiberian puts it off**: the rescue comes first, and once their
+parents are home they are having a long conversation. She does not argue the terms, and when he asks her to
+find them she tells him that is the plan, which is not a promise. See `Book 8 - Shattered Mirror/book8_outline.md`, *The Ledger*.
 
 **And her father in particular.** She takes his judgments more seriously than anyone watching would guess,
 and a brokerage that sells to the Warrens' predators is not a thing he would approve. **She has built
