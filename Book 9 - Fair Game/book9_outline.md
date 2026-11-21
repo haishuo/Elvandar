@@ -212,6 +212,91 @@ twins appear, they are somewhere new.
 
 ---
 
+## THE ENDING: THE LEDGER IN KAHA'AN
+
+*(Author's design, 2026-11-21.)* **The middle of the book, the war itself, is not yet worked out. Draskin's side
+loses it**, and afterward Uratha has a government Balisha recognises and courts it trusts.
+
+### He flees
+
+**He will not die, so when his side is losing, he runs.** As himself he has nowhere to go: nobody shelters the
+architect of the Globehall and the man who held Empress Elara and her Consort prisoner, probably not even
+Gunastran. Kalden is dead, the twelve houses own what is left of Erulius, and the Union is Kaha'an's friend.
+**So he takes off the scholar's robes and goes incognito**, with as much liquid wealth as he can carry, having
+used the office for **one last "official" act: liquidating the Ivory Tower's treasury.** *(Whether the
+constitution allows it is unsettled; that he does it under his signature is what makes the money traceable.)*
+
+**He goes to Kaha'an.** Nobody would ever expect it, which may make it the best hiding place there is. It is a
+large, cosmopolitan trade city where foreigners come and go, and a wealthy older gentleman is nothing unusual.
+He knows the city: he negotiated the Crown compact there himself. The Valanar court is not omniscient and does
+not patrol every street of its own capital. He means to spend the rest of his days with his head down.
+
+### He walks into a bank
+
+**He has to, within days.** Uratha has no banking houses of international reach, so his wealth arrived as
+**coin, carried**: chests of zhenel he can neither carry about nor safely sit on. **To an Urathan a bank is a
+strongbox**, somewhere you deposit money, not a house that reads it. He reckons the large houses, Greystone
+among them, would be too discerning and ask too many questions, and that a smaller house would be eager for
+his business. He chooses one. **Over the door it says Umberlow.**
+
+**He does not know whose house it is.** In Uratha the Crown Prince's marriage was news only as *the prince found
+a pretty young wife, and by all accounts she's quite nice*; nobody there noticed which minor barony she came
+from. If he knows of her at all, he knows her as Irene Valanar, and *Umberlow* is a name he half-knows and
+connects to nothing. *Proposed, for rule 1:* Onyx briefed him on threats, and a baron's daughter's small house
+was not one; by the time he flees he is cut off from Onyx anyway.
+
+**Irene is not there.** She is the Crown Prince's wife and is rebuilding a house; she has clerks, and she is
+not at the counter. **A clerk takes the deposit** and asks him nothing, which is exactly the welcome Draskin
+chose a small house for. **He takes *no questions* to mean *no knowledge*.** A Kaha'an money house does not
+ask, because it writes everything down: the coin, its stamps, the name he gives, and **where he is staying,
+which the house records.** It is the fair-game assumption one last time: he reads someone else's institution
+by his own country's rules.
+
+### She reads the ledger
+
+**Irene meets him in her books, never in person.** She reads accounts, and in a small house the newest and
+largest is the first she reads. **A fortune in zhenel coin from a foreign gentleman, the same week Uratha's
+treasury goes missing**, stops her. She could not have known his face anyway; she was a small child at most when
+he came to Kaha'an in Book 3, and she was not at the rescue in Book 8. **Book 8 was her sister-in-law at the door
+with a ledger; this is her own desk and her own ledger, and he never knows.** The ledger gives his lodging, so
+the finding needs nobody else. **She tells Tiberian at once**, as her vow and her guardrail 7 require; there is
+no conflict in it, and Book 8's argument does not re-run.
+
+**Merchant against Merchant.** Draskin's primary is Merchant and so is Irene's. The man who dies of a bad trade
+makes his last bad trade with a better trader: **his final mispricing is choosing which house to trust with his
+money.**
+
+### Procedure, honestly followed
+
+**Once he is unmasked, Elara and Xion go through the proper procedure and extradite him to Uratha.** He stands
+trial before a Sapphire court and is sentenced to death (*What the war costs Draskin*, above).
+
+- **It costs Elara.** The woman he imprisoned has every claim to try him herself, and Balisha's courts would
+  convict. She hands him over. That is her justice as an instrument, not a temper, and the page must charge her
+  for the restraint rather than treat it as free.
+- **It is Xion.** The man the Ilhamori overpowered in the Globehall does not want revenge; he wants the case
+  heard where the crime was done.
+- **It is the title's last turn.** Draskin spent the book cheating within the rules, and what ends him is
+  procedure honestly followed: a lawful extradition, a court, a trial. The game is finally played fair, and it
+  kills him. **Nobody says it.**
+
+### Whose eyes, and how it ends
+
+**The move to Kaha'an is argued, not assumed.** Book 9 is told from Belus on Book 4's model, and Belus cannot
+see Kaha'an. CLAUDE.md permits moving the camera for a reason one would write down, and names *we are ending the
+entire book here and this is a cinematic pull-away*. This is that argument. **The scene is Irene's**: a woman
+reading accounts, stopping on one line, and going to find her husband. Not Draskin's, who has no interior in
+this book (his guardrail 6). The reader already knows what *Umberlow* means.
+
+**It must not take the war's ending from Belus.** The war ends on his side of the book. The ledger is what
+follows it, and it is short. Played straight, for inevitability, never with a wink, because thousands are dead.
+
+*Proposed, not ruled:* the book pulls away to Irene's ledger and then **returns to Belus** for the verdict or its
+news, so the last beat is his: the man who accepted his price in advance, watching the man who refused his
+finally pay it. Apply the end-sooner test; the verdict may be enough.
+
+---
+
 ## AVAILABLE, NOT PLACED
 
 *Nothing here is decided. These are resources the book can draw on.*
@@ -221,7 +306,8 @@ twins appear, they are somewhere new.
 - **The Orb Weaver, from outside.** In this book it is no longer a secret from Tiberian. From Belus's side it
   could be a broker he buys information from and cannot identify, with the reader knowing exactly who it is.
 - **Irene's channels.** Uratha has no banking houses of international reach, and a civil war there is in part
-  a war about how money moves. Money could reach Belus by routes he never sees.
+  a war about how money moves. Money could reach Belus by routes he never sees. (Her part in the ending is
+  placed: *The Ending*, above.)
 - **His province.** As a Provost, Belus governs a province in all but name. If the war spreads beyond his Tower,
   it is his base.
 - **Draskin's later letters.** *Proposed, not ruled.* His first letter is exact. If a later one comes after the
@@ -244,8 +330,8 @@ twins appear, they are somewhere new.
 - **The twins' long conversation** (`book8_outline.md`, *The Ledger*): paid here, in Book 8's close, or in
   `Offstage/`. A strict Belus POV cannot show it.
 - **Belus's stack** is proposed on his sheet, not ruled; his physical presence and voice are unset.
-- **How it ends.** Settled so far: if Draskin is brought before a Sapphire court, he is executed. Whether and
-  how he is taken, what happens to Belus and whether he is tried, and how the war ends are open.
+- **How it ends**, beyond what *The Ending* settles: what happens to Belus and whether he is tried; how the war
+  itself is won; whether the last beat returns to him.
 
 ---
 

@@ -25,7 +25,7 @@ them before it is proposed against the prose.
 | **Craft — Book 2** | 0 | — |
 | **Book 3 — in draft** | 1 | Places-vs-map audit unfinished |
 | **Book 6 — in draft** | 0 | — |
-| **Open questions** | 4 | Uratha after Book 8; Urath IV's academy; the twins' long conversation; Book 9's contents |
+| **Open questions** | 4 | Uratha after Book 8; Urath IV's academy; the twins' long conversation; Book 9's contents (the war, Belus's fate) |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied. Book 3 is live work rather than review findings — see [§3](#3-outstanding-work).
@@ -3440,6 +3440,23 @@ Had Draskin turned state's evidence at once, he *might* have escaped execution. 
 lives**, and after it, **a Sapphire court seals his fate.** Recorded on his sheet (*In Escaping Execution, He
 Guarantees It*) as a Merchant's mispricing, and in `book9_outline.md`, *What the war costs Draskin*. **Book 9's
 ending is still open** beyond that: whether and how he is taken, Belus's fate and any trial, and how the war ends.
+
+### Book 9's ending: the ledger in Kaha'an — author's design, 2026-11-21
+
+**Draskin's side loses the war.** He flees incognito with Ivory's liquidated treasury, to **Kaha'an**, deposits
+his coin at a small house that turns out to be **House Umberlow**, and does not know it is Irene's. **She is not
+at the counter**: a clerk takes the deposit and records everything, his lodging included. **Irene finds him in
+her ledger**, tells Tiberian, and **Elara and Xion extradite him through proper procedure**; a Sapphire court
+sentences him to death. Placement: `book9_outline.md`, *The Ending*; consequence on his sheet, *How He Ends*.
+
+**The Kaha'an scene is a camera move argued under CLAUDE.md's *cinematic pull-away*, and it is Irene's**, short,
+played straight, and must not take the war's ending from Belus. *Proposed:* the last beat returns to Belus for the
+verdict. **Unsettled:** whether the constitution lets a Scholar-King liquidate Ivory's treasury; how the war is
+won; Belus's fate.
+
+**Flagged, not changed:** the series outline says Book 9 *does not hand the camera back to the Valanars*, which this
+coda qualifies; and Irene's and Elara's sheets carry nothing of Book 9 yet (Irene's ledger; Elara's priced
+restraint in handing him over).
 
 ## 7. Open questions
 

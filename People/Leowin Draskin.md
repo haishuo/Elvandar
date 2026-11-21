@@ -130,6 +130,27 @@ against an office that was *certain* for two years, and he priced both wrong:
 
 ---
 
+## How He Ends
+
+*(Author's design, 2026-11-21. Full placement: `Book 9 - Fair Game/book9_outline.md`, *The Ending*.)* **His side
+loses the war, and he runs**, because he will not die. Too famous to be sheltered as himself, he goes incognito,
+with as much liquid wealth as he can carry after one last "official" act, liquidating the Ivory Tower's
+treasury. **He goes to Kaha'an**, where nobody would expect him. His money is coin, so he must deposit it, and to
+an Urathan a bank is a strongbox; he avoids the large houses as too discerning and picks a small one eager for
+his business. **It is House Umberlow.** He does not know it is Irene Valanar's.
+
+**He never meets her.** A clerk takes the deposit, asks nothing, and writes everything down, including where he
+is staying. **He takes *no questions* to mean *no knowledge*.** Irene reads the ledger, stops on the line, and
+tells Tiberian. **Elara and Xion extradite him through proper procedure; a Sapphire court tries him and
+sentences him to death.**
+
+**Every part of it is him.** He flees because he will not die. He chooses the least expected city because he never
+told anybody what he expected. He reads a foreign money house by Urathan rules, as he read the Council by the
+assumption that everyone plays fair. **His last mispricing is which house to trust with his money**, and he makes
+it with a better trader, whose primary is also Merchant. **What kills him is procedure honestly followed.**
+
+---
+
 ## A Politician, Not a General
 
 **He is a bureaucrat, and he thinks in procedure.** When Belus's strike fails, Draskin declares him in rebellion
@@ -168,7 +189,8 @@ page that may be the only way the reader sees it. The narration never explains h
 available to him. Do not write his allies as loyal to him or him to them.
 
 **6. He has no on-page interior in Book 9.** The book is Belus's. Draskin is seen from outside: through his
-letters, his orders, and what happens when they are carried out.
+letters, his orders, and what happens when they are carried out. **In Kaha'an he is a line in Irene's ledger**, and
+the scene is hers, not his.
 
 ---
 
@@ -180,6 +202,11 @@ His opponent. Belus wants him gone and tried; Draskin wants to live. **Neither i
 reads Belus's refusal to reaffirm exactly right. He misreads what Belus's Tower can do. See `People/Kandor
 Belus.md`.
 
+### Irene Valanar, born Umberlow
+
+He has never met her and never does. He chooses her house to hide his money in without knowing it is hers, and
+she finds him in her books.
+
 ### Onyx, Amethyst, and the implicated Ilhamori
 
 Fellow hostages. See *Why He Does Not Give Up*.
@@ -187,7 +214,8 @@ Fellow hostages. See *Why He Does Not Give Up*.
 ### Elara and Xion Valanar
 
 He negotiated the Crown compact with them in Book 3 and was gracious at the end, *and the warmth in it was
-real*. His government later held them prisoner. They will not lift a hand for him.
+real*. His government later held them prisoner. They will not lift a hand for him. **When he is found in their city,
+they extradite him through proper procedure** rather than try him themselves.
 
 ---
 
