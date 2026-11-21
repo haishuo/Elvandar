@@ -224,13 +224,13 @@ The children who rescue them have one last test: prove that the values they inhe
 
 ## THE ENDING
 
-The series ends with the Valanar family's story complete.
+The Valanar family's story ends here, complete.
 
 The Globehall is resolved — however the impossible choice plays out, the horror is ended. Uratha must rebuild itself honestly, without the crutch of extracted minds, without the lie of the silent Crown. The shattered mirror — the beautiful civilization that hid atrocity in its basement — is swept away.
 
 The Valanars return to Balisha. The empire is whole. Kalden is dead, Rosik is dead, the cartels are dismantled, the Warrens transformed, and now Uratha's secret is exposed and the atrocity ended. The world is changed. The next generation has proven themselves.
 
-Ending the Globehall does not itself remove Draskin from office or complete Uratha's political reconstruction. The constitutional crisis following the book is recorded in [Offstage — The Failed Vote Against Draskin](../Offstage/The%20Failed%20Vote%20Against%20Draskin.md), outside the family's final adventure.
+Ending the Globehall does not itself remove Draskin from office or complete Uratha's political reconstruction. The constitutional crisis following the book is recorded in [Offstage — The Failed Vote Against Draskin](../Offstage/The%20Failed%20Vote%20Against%20Draskin.md), outside the family's final adventure, and what comes of it is Book 9's, told from Uratha ([book9_outline.md](../Book%209%20-%20Fair%20Game/book9_outline.md)).
 
 **For Harkim:** The war that started in Book 4 is over. Not the Continental War — that ended in six months. *Harkim's* war. The private one, fought against a system he once believed in, then doubted, then quietly mapped from the inside for years. The notebook became a network. The network helped break open the worst secret on the continent. And Lira — his sister, the woman he hid out of love and not conviction — can finally live in a world where no one needs to hide what they are.
 
@@ -238,7 +238,7 @@ Harkim's War is finally won.
 
 And the story knows when to end.
 
-Eight books. Beginning, middle, end. Done.
+The family's story. Beginning, middle, end. Done.
 
 ---
 
@@ -264,7 +264,7 @@ The Provosts are different. They are the culmination of the series' deepest them
 
 **Xion and Elara's final characterization:** Imprisoned but unbroken. Xion dismantles the Provosts' logic with cold precision — the same diagnostic mind that found a hidden princess and destroyed his father's coalition, now aimed at institutional self-deception. Elara's fury is visceral and direct — she can HEAR the victims, she is receiving their agony through the walls. Together they are exactly what they've always been: a healer and a warrior, refusing to compromise.
 
-**The torch passes:** After Book 8, the series is complete. Xion and Elara's active role in history ends. Tiberian and Melina have proven they can lead. The world is changed. No endless sequels. No diminishing returns. Just a complete saga told with discipline and purpose.
+**The torch passes:** After Book 8, the Valanar story is complete. Xion and Elara's active role in history ends. Tiberian and Melina have proven they can lead. The world is changed. **Book 9 (*Fair Game*) is Uratha's book**, told mainly from Kandor Belus on Book 4's model; it must not reopen the family's story, and this book's ending must not be softened to set it up.
 
 **Seeds and payoffs resolved:**
 - **Book 3:** The Urathans' strange eagerness. The Crown ceremony shock. Provost Venn's hunger. All of it explained.

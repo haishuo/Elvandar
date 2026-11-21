@@ -2,8 +2,7 @@
 
 **Status: in planning.** *(Folder created 2026-11-21 on the author's direction.)* This outline holds what has
 been settled or proposed for Book 9 so far; anything marked *proposed* or *open* is not yet ruled. The series
-outline and the Book 8 outline still describe eight books and have not yet been updated; that is deferred, not
-forgotten. The title is a working title.
+outline and the Book 8 outline were updated for nine books on 2026-11-21. The title is a working title.
 
 **Narrative Engine:** Uratha's civil war. After Book 8 the Council fails to remove Leowin Draskin, Kandor
 Belus tries to arrest him with a small strike on the Ivory Tower, the strike fails, and Draskin declares him
@@ -62,7 +61,9 @@ Provost and expects to lose his seat when it is over.** He goes anyway, for the 
 **The strike fails, and on its merits.** The Ilhamori fight the Ruby force off. They are the service that
 arrests powerful mages who do not want to be arrested, and in Book 8 they overpowered Xion in the Globehall
 itself. The Ivory Tower is their ground, and taking it is close, room-by-room work of exactly the kind they
-train for. Ruby trains for the field. **The force was kept small to limit bloodshed, and it is too small to
+train for. **Ruby is a war college, not a police force** (`Places/Uratha/Uratha_ The Land of Scholars.md`,
+*The Ruby Tower*): it can do an arrest, as marines can do a police action, but it is not better at it than
+the people trained for it, and its strength is holding fortified positions, not taking them. **The force was kept small to limit bloodshed, and it is too small to
 overwhelm the defenders: the same choice that makes it humane makes it lose.** No leak or betrayal is
 established, and none is to be added unless the author places one.
 
@@ -179,6 +180,3 @@ that made it decent. **Every step is in character, and every step makes the next
 
 **His horror at the Globehall is not guilt.** He did not know (`People/Kandor Belus.md`, *What He Knew*). The
 Uratha he fights for is its civic culture, and it was real. Do not write his patriotism as self-deception.
-
-**What is still to update elsewhere when the author is ready:** the series outline; Book 8's *Eight books.
-Done.* and *the torch passes*; the master list's ninth-book entry once it stops being open.

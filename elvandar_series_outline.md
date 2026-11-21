@@ -1,6 +1,6 @@
-# The Elvandar Series — Complete 8-Book Outline
+# The Elvandar Series — Complete 9-Book Outline
 
-*An eight-book saga: the original trilogy of Xion and Elara, a ground-level war interlude, and the next generation's inheritance. Each book below is summarized at a consistent level of detail.*
+*A nine-book saga: the original trilogy of Xion and Elara, a ground-level war interlude, the next generation's inheritance, and a closing book told from inside Uratha. Each book below is summarized at a consistent level of detail.*
 
 ---
 
@@ -116,7 +116,22 @@ Xion and Elara make their first state visit to Uratha in person — and somethin
 
 Xion tries to destroy it on sight and is overwhelmed by Uratha's magical police — but not before he *locks* the Globehall with a mechanism only he can open, and refuses the Provosts access. It traps everyone: the Provosts cannot kill two allied heads of state, cannot release them without exposure, cannot fall behind their rivals without the harvested knowledge they have grown too dependent to reproduce — and cannot unlock the vault without Xion. The interrogations that follow are a contest of wills the Provosts cannot win: Xion methodically shredding the euphemisms they hide behind (a "crowning achievement" buried in a basement that officially does not exist), Elara promising them, with the screaming still audible through the walls, exactly what her children will do to this place when they learn of it.
 
-Back home, **Tiberian and Melina** realize their parents have vanished on a diplomatic mission and mount a quiet, desperate investigation, Melina's own tight control cracking as she assembles the truth. When they finally reach Uratha, the family faces the impossible question Xion could not answer alone: the minds in the Globehall have endured decades of agony, and destroying it may kill everyone inside. Is that mercy or murder? The next generation must end the horror without becoming monsters to do it. Xion and Elara survive — unbroken and uncompromising, but rescued by their children rather than saving themselves. It is their last great adventure, and the moment the torch passes for good. The series ends with the Valanar family's story complete: a beginning, a middle, and an end.
+Back home, **Tiberian and Melina** realize their parents have vanished on a diplomatic mission and mount a quiet, desperate investigation, Melina's own tight control cracking as she assembles the truth. When they finally reach Uratha, the family faces the impossible question Xion could not answer alone: the minds in the Globehall have endured decades of agony, and destroying it may kill everyone inside. Is that mercy or murder? The next generation must end the horror without becoming monsters to do it. Xion and Elara survive — unbroken and uncompromising, but rescued by their children rather than saving themselves. It is their last great adventure, and the moment the torch passes for good. The Valanar family's story ends here, complete: a beginning, a middle, and an end.
+
+---
+
+## Uratha's Reckoning
+
+### Book 9: Fair Game
+**Status:** In planning
+
+**POV:** Mainly Kandor Belus, Uratha's War Provost — a full shift away from the Valanars, on Book 4's model.
+
+The Globehall is ended, but the man implicated in it still sits in the Ivory Tower. Four Provosts vote to remove Scholar-King Leowin Draskin and none to keep him, and the motion fails on the arithmetic: he had timed the vote, with every formal notice given, for an absence he knew could not be covered. **Belus proposed that motion.** He is a soldier who wants no war, because no one knows better how badly Uratha fights one, and when Draskin sends the Ilhamori to ask him to *reaffirm his loyalties* and reaches for an amendment that would make him unremovable, Belus sees a purge coming and every lawful door shut. So he chooses the smallest intervention he can design: a small, fast strike from the Ruby Tower to take Draskin into custody, knowing it exceeds his office and will cost him his seat. **It fails.** The Ilhamori are the service that arrests mages who do not want to be arrested, the Ivory Tower is their ground, and the War College was built for war, not arrests. Draskin declares him in rebellion — and the attack hands him the emergency powers, the real treason and the divided opposition that the vote never could.
+
+What follows is Uratha's civil war, seen from the side of the man who wanted to avoid it and started it. The title carries the book: Belus believed he was owed a fair contest, Draskin kept every rule and rigged the result, and the moment Belus broke the rules openly he became fair game. **Balisha is a foreign power here**, seen from outside: Elara and Xion will not lift a hand for the man whose "hospitality" they have just escaped, and what they do instead is Balisha's choice, not Belus's.
+
+**Brackets:** Book 4 — Uratha's war from the ground, through a junior scholar; Book 9 — Uratha's war from the top, through its War Provost. **It does not reopen the Valanar story**, which Book 8 ends. Plan: `Book 9 - Fair Game/book9_outline.md`.
 
 ---
 
@@ -132,7 +147,7 @@ Three optional companion books retell **Book 2, *The One You Feed*,** from other
 
 ## Series Themes
 
-The eight-book arc, book by book:
+The nine-book arc, book by book:
 
 1. **Discovery and Hope** — can idealism find power?
 2. **Corruption and Cost** — what does power cost idealism?
@@ -142,7 +157,8 @@ The eight-book arc, book by book:
 6. **Paralysis to Action** — learning when to stop planning and start doing.
 7. **Old Debts Settled** — eliminating the ghosts of the past for good.
 8. **Final Horror, Final Triumph** — one last test, then rest.
+9. **Fair Game** — can a contest be fair when one side keeps every rule and rigs the result?
 
 **Overarching questions:** What does it cost to change a broken world? Can idealism survive power? What does the next generation do with its inheritance? And — when is the story over?
 
-After eight books, the Valanar family's story is complete. The world is changed, the old order is gone, the next generation has proven itself, and the story knows when to end. No endless sequels, no diminishing returns — a complete saga told with discipline and purpose. Eight books. Done.
+After eight books, the Valanar family's story is complete. The world is changed, the old order is gone, the next generation has proven itself, and the family's story knows when to end. **The ninth book is Uratha's**: it takes up what the family's last adventure left unfinished, from inside the country where it happened, and does not hand the camera back to the Valanars. No endless sequels, no diminishing returns — a complete saga told with discipline and purpose. Nine books. Done.

@@ -122,7 +122,8 @@ it. The page must not treat it as free, and it does not need anyone else to tell
 
 **4. The strike fails on its merits.** The Ilhamori are the service that arrests powerful mages who do not want
 to be arrested, and in Book 8 they overpowered Xion in the Globehall. Taking the Ivory Tower is close,
-room-by-room work on their ground, and Ruby trains for the field. **No leak or betrayal is needed**, and none
+room-by-room work on their ground, and Ruby is a war college, not a police force: it can make an arrest, as
+marines can, without being better at it than the people trained for it. **No leak or betrayal is needed**, and none
 is to be added unless the author places one.
 
 **5. His restraint and his failure are the same choice.** Do not separate them: he sized the force to his

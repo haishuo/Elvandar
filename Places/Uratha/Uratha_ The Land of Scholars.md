@@ -130,6 +130,8 @@ The Compact War's opening strike targeted Uratha specifically, and this is worth
 
 That the Ruby Tower's limitations were then partly absorbed by Terinok's presence in the alliance is both true and embarrassing. Uratha's military college was shored up in the field by the nation its scholars condescend to most openly. The War Provost, Kandor Belus, has been warning about the preparedness gap for years. The Council listens politely and returns to its position papers.
 
+**It is a war college, not a police force.** *(Author's note, 2026-11-21.)* The Ruby Tower is Uratha's military academy, its West Point: it trains officers to fight wars, and nothing in it is designed for arrests, close work inside buildings, or taking one man alive. Its forces can physically do that job, as marines sent on a police action can, but that does not make them better at it than the people trained for it, and in Uratha the people trained for it are the Ilhamori. Its strength is holding fortified positions, not taking them. This is why Belus's strike on the Ivory Tower fails (`Book 9 - Fair Game/book9_outline.md`).
+
 ### The Topaz Tower
 *College of Applied Sciences and Engineering*
 

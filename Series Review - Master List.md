@@ -25,7 +25,7 @@ them before it is proposed against the prose.
 | **Craft — Book 2** | 0 | — |
 | **Book 3 — in draft** | 1 | Places-vs-map audit unfinished |
 | **Book 6 — in draft** | 0 | — |
-| **Open questions** | 4 | Uratha after Book 8; Urath IV's academy; the twins' long conversation; a ninth book |
+| **Open questions** | 4 | Uratha after Book 8; Urath IV's academy; the twins' long conversation; Book 9's contents |
 
 **Nothing outstanding in either finished book.** Every item ever filed against Books 1 and 2 is closed,
 withdrawn, or applied. Book 3 is live work rather than review findings — see [§3](#3-outstanding-work).
@@ -3386,11 +3386,30 @@ unset.
 index; the Failed Vote account (Belus proposed the motion; the ending points to the strike); a sheet link in
 *The Government of Uratha*; a row in `Names.md`.
 
+### Nine books, and the Ruby Tower is a war college — author's ruling, 2026-11-21
+
+**The series is nine books.** Book 8 ends the Valanar family's story and still lands as an ending (*The family's
+story. Beginning, middle, end. Done.*); its ending must not be softened to set up Book 9. **Book 9 is Uratha's**,
+mainly from Kandor Belus on Book 4's model, and does not hand the camera back to the Valanars. The series
+outline has a Book 9 entry under *Uratha's Reckoning*, a ninth theme, and ends *Nine books. Done.*
+
+**The Ruby Tower is a war college, not a police force** (author's note). It is Uratha's military academy; its
+forces can make an arrest, as marines can do a police action, without being better at it than the people
+trained for it, who in Uratha are the Ilhamori. Recorded in *The Ruby Tower* (`Uratha_ The Land of
+Scholars.md`) as the reason the strike fails; Book 9's outline and Belus's guardrail 4 point at it.
+
+**Not changed, and they still say eight:** `CLAUDE.md` and `AGENTS.md` (*an eight-book fantasy series*; *Books
+1-8* for `Names.md`) and `Names.md`'s own header. Uses of *eight books* in character sheets refer to the
+Valanar span and stand.
+
+**Changed:** the series outline; the Book 8 outline (*The Ending*, *The torch passes*); *The Ruby Tower*; the
+Book 9 outline; Belus's sheet.
+
 ## 7. Open questions
 
 **Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, Draskin's proposed unanimity amendment, Belus's failed strike on the Ivory Tower and Draskin's declaration that he is in rebellion ([Book 9](Book%209%20-%20Fair%20Game/book9_outline.md)). What follows remains open: whether Belus escapes, how the four other Towers answer, what Balisha does, and how it ends.
 
-**A ninth book (author, 2026-11-21).** Mainly from Kandor Belus's point of view, on Book 4's model; working title *Fair Game*. **The folder exists** (`Book 9 - Fair Game/book9_outline.md`, holding everything settled or proposed for it, including the strike). The series outline and the Book 8 outline still describe eight books; updating them is deferred at the author's direction. Undecided: strict single POV or a secondary thread; where the twins' long conversation is paid if it is. Sapphire scholars' individual complicity and Amethyst's intent in supplying the quorum are not established. The exact minimum notice period for Council votes and the full constitutional-amendment procedure remain unspecified; the settled rules require notice and Council assent. [Account](Offstage/The%20Failed%20Vote%20Against%20Draskin.md) · [Government](Places/Uratha/The%20Government%20of%20Uratha.md)
+**Book 9's contents.** Book 9 (*Fair Game*) is adopted, and the series outline and Book 8 outline now describe nine books (2026-11-21). Still open: strict single POV or a secondary thread; where the twins' long conversation is paid; how it ends. The rest is in `Book 9 - Fair Game/book9_outline.md`, *Open*.
 
 **One language-history foundation is open:** the founding date and local population of Urath IV's academy.
 Urathan's genealogy, Balishan's deeper Halauric ancestry, Vartonne's settlement history, Valan I Valanar's
