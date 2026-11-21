@@ -3404,6 +3404,14 @@ in character sheets refer to the Valanar span and stand.
 **Changed:** the series outline; the Book 8 outline (*The Ending*, *The torch passes*); *The Ruby Tower*; the
 Book 9 outline; Belus's sheet.
 
+### The letters — author's ruling, 2026-11-21
+
+**Draskin, by Ilhamori courier:** *Do you reaffirm your loyalty to the Scholar-King Leowin Draskin?* **Belus:**
+*The Ruby Tower will answer to the Council of Provosts, as it always has.* Exact words, in `book9_outline.md`,
+*The Opening*, which is their one source. Both are deniable, both men know what was said, and **the narration
+never decodes them**. **Loyalty, singular**: the Failed Vote account, Belus's sheet and the series outline
+said *loyalties* and were corrected.
+
 ## 7. Open questions
 
 **Uratha after Book 8.** The crisis is settled through the failed removal vote, the Ilhamori approach to Belus, Draskin's proposed unanimity amendment, Belus's failed strike on the Ivory Tower and Draskin's declaration that he is in rebellion ([Book 9](Book%209%20-%20Fair%20Game/book9_outline.md)). What follows remains open: whether Belus escapes, how the four other Towers answer, what Balisha does, and how it ends.

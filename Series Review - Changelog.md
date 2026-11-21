@@ -12655,3 +12655,7 @@ On the author's direction, updated the series outline for nine books: retitled i
 ### 2026-11-21 - CLAUDE.md and AGENTS.md say nine books
 
 On the author's direction, changed *an eight-book fantasy series* to *a nine-book fantasy series* in `CLAUDE.md` and `AGENTS.md`, and the `Names.md` description in their layout sections to *Books 1-9*. Changed `Names.md`'s own header to *Books 1–9* to match. Left two incidental uses of *eight* in `CLAUDE.md`: a hypothetical (*a character in eight books*) and the 2026-08-05 measurement of the repository's size, which is history.
+
+### 2026-11-21 - Draskin's and Belus's letters; *loyalties* to *loyalty*
+
+On the author's ruling, wrote the exchange of letters into `book9_outline.md`, *The Opening*, verbatim: Draskin's *Do you reaffirm your loyalty to the Scholar-King Leowin Draskin?*, delivered by Ilhamori officers, and Belus's *The Ruby Tower will answer to the Council of Provosts, as it always has.* Recorded what each word does, that both letters are deniable, and that the narration never decodes them. Changed *reaffirm his loyalties* to the singular in the Failed Vote account, Belus's sheet and the series outline; the account now points at the letter's exact words in Book 9, and Belus's sheet records his reply.

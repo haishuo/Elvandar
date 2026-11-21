@@ -87,7 +87,8 @@ his, and so was its failure. He wanted Draskin out of office so that the immunit
 prosecute him, and the nation could have justice. **Draskin defeated it lawfully and in bad faith**, and the
 failed vote barred another motion for two years.
 
-**Then the Ilhamori came to ask him to reaffirm his loyalties**, and Draskin began moving toward the unanimity
+**Then the Ilhamori brought him a letter asking him to reaffirm his loyalty**, and he answered that the Ruby
+Tower would answer to the Council of Provosts, as it always had (exact words in Book 9's outline), and Draskin began moving toward the unanimity
 amendment. Belus read it as preparation for a purge: accusations, suspensions, replacement Provosts, and an
 amendment passed by the replacements. Draskin permanent, and permanently immune. **He concluded that if he
 did nothing soon, Uratha as he knew it would vanish**, and that every lawful route was closed.

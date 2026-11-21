@@ -37,13 +37,37 @@ through its War Provost.
 
 **What comes before it is Offstage.** The vote has failed and the two-year prohibition bars another motion.
 **Belus proposed that motion**, and the other four Towers joined him, so the lawful route was his and so was its
-failure. Draskin has sent Ilhamori officers to ask Belus to *reaffirm his loyalties*, and has begun moving
-toward an amendment requiring all seven Provosts to vote for removal.
+failure. Draskin has begun moving toward an amendment requiring all seven Provosts to vote for removal.
+
+**Then the letters.** *(Author's ruling, 2026-11-21.)* Ilhamori officers bring Belus a question from the
+Scholar-King, in writing:
+
+> *Do you reaffirm your loyalty to the Scholar-King Leowin Draskin?*
+
+Belus answers, in writing:
+
+> *The Ruby Tower will answer to the Council of Provosts, as it always has.*
+
+**These are the exact words, and they must land as written.** Both letters are civil and correct, could be read
+aloud in Council, and could be shown to no magistrate as either a threat or a defiance. **Both men know
+exactly what the other has said.**
+
+- **Draskin's** *reaffirm* presumes a loyalty already given, so anything short of yes is its withdrawal. *The
+  Scholar-King Leowin Draskin* fuses the office with the man, and loyalty to the man is the real request. It is
+  a yes-or-no question, which makes any third answer an answer. **The letter is civil and the couriers are
+  not.**
+- **Belus** refuses the frame and gives no yes or no that could be quoted. *The Ruby Tower*, not *I*: the
+  institution answers, not the man. *Will answer to* replaces loyalty with accountability. *The Council of
+  Provosts* is the body that has just voted four to none to remove the man asking. *As it always has* is his
+  reply to *re-*: nothing needs reaffirming, because nothing on his side has changed.
+
+**The narration never decodes them.** Belus may take a long time over his reply, and that is all the page
+shows. If the reader needs the letters explained, they have not worked.
 
 **Belus concludes that the lawful routes are closed.** Removal has failed on the arithmetic and cannot be tried
 again for two years. Prosecution is blocked by the immunity. Recall belongs to a Tower's own faculty, and
 Ivory's will not recall its Scholar-King. Draskin cannot pass the amendment against five Towers, but Belus
-reads the Ilhamori visit as preparation for a purge: accusations, suspensions, vacated seats, replacement
+reads the letter and its couriers as preparation for a purge: accusations, suspensions, vacated seats, replacement
 Provosts, and an amendment passed by the replacements. Draskin permanent, and permanently immune. **If he does
 nothing soon, he believes, Uratha as he knows it will vanish.**
 

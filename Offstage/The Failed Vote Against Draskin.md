@@ -23,7 +23,7 @@ Amethyst's presence supplies the fifth Provost required for a valid proceeding. 
 
 Tiberian Valanar is incensed. To him, the procedure has protected the man implicated in his parents' imprisonment and the Globehall without anyone defending his fitness to rule. Melina works to restrain him. She shares his judgment of Draskin but sees how foreign intervention could divide the five opposing Towers or give Draskin a national emergency around which to rally support.
 
-Belus is equally angry. Draskin then orders Ilhamori officers to approach him and ask him to *reaffirm his loyalties*. Operational orders ordinarily pass through the Scholar-King, and Draskin still holds that office. The implicated Ilhamori leadership also has its own interest in his survival. His instruction reaches Belus through a service whose role in suppressing the Globehall's discovery has just been exposed.
+Belus is equally angry. Draskin then orders Ilhamori officers to approach him and ask him to *reaffirm his loyalty*, in a letter whose exact words are in Book 9 ([book9_outline.md](../Book%209%20-%20Fair%20Game/book9_outline.md)). Operational orders ordinarily pass through the Scholar-King, and Draskin still holds that office. The implicated Ilhamori leadership also has its own interest in his survival. His instruction reaches Belus through a service whose role in suppressing the Globehall's discovery has just been exposed.
 
 Draskin treats the request as an assertion of administrative authority. Belus reads it as a threat against the military leadership for having voted to remove him, and as possible preparation for a purge. Loyalty to Uratha is being tested through submission to the incumbent.
 
