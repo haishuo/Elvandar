@@ -12683,3 +12683,7 @@ On the author's design, added *The Ending* to `book9_outline.md`: Draskin's side
 ### 2026-11-21 - Why Draskin cannot know whose house it is
 
 On the author's ruling, rewrote the paragraph in `book9_outline.md`, *He walks into a bank*: he would need two steps, knowing House Umberlow has an heir and connecting her to the Crown Prince's wife, and nobody in his position would make either; *Irene* is not a rare name; and a fugitive cannot ask. Removed the proposed clause that Onyx briefed him only on threats. Added a one-line pointer on `People/Leowin Draskin.md`, *How He Ends*.
+
+### 2026-11-21 - Irene's and Elara's sheets for Book 9
+
+Added *Book 9: Fair Game* to `People/Irene Umberlow.md`: she finds Draskin in her own ledger, not at the counter; tells Tiberian at once; the scene is hers and is the book's one argued move away from Belus; what becomes of the deposit is open and bound by her guardrails. Added guardrail 10, *She never meets Draskin*. Added *Book 9: She Hands Him Over* to `People/Elara Valanar.md`: she will not aid Draskin; she and Xion extradite him by proper procedure; the restraint is priced, since she gives the case to the country that built the Globehall, against her Founder-sixth stack. Elara's sheet has no Book 4–8 sections, so the Book 9 section follows Book 3's.

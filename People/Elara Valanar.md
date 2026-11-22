@@ -277,6 +277,24 @@ She couldn't have predicted it. Neither could Xion. They made a sound decision t
 
 ---
 
+## Book 9: She Hands Him Over
+
+*(Author's design, 2026-11-21. Full placement: `Book 9 - Fair Game/book9_outline.md`, *The Ending*.)* **She will
+not lift a hand for Draskin**, the man whose government's "hospitality" she has just come home from. When
+Uratha's civil war breaks out, Balisha is seen in Book 9 only from outside, as a foreign power's choice.
+
+**When he is found hiding in her own city**, through Irene's ledger, **she and Xion extradite him to Uratha by
+proper procedure**, and a Sapphire court tries him and sentences him to death. She does not try him herself.
+
+**That restraint costs her, and the page must charge her for it.** She has every claim: he imprisoned her and
+her husband, and she heard the Globehall's victims through the walls. Balisha's courts would convict. **She gives
+the case to the country that built the Globehall**, trusting its courts with the man who ran it. It is her
+justice as an instrument, not a temper, the same register as her *no* over Silaris in Book 5, and Founder is
+sixth in her stack: building another nation's institutions by trusting them is not what she would choose for its
+own sake. Never write the handover as easy, and never let anyone, including her, explain it.
+
+---
+
 ## Relationships
 
 ### Xion Kemvimore

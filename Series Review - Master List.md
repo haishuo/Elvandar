@@ -3455,8 +3455,7 @@ verdict. **Unsettled:** whether the constitution lets a Scholar-King liquidate I
 won; Belus's fate.
 
 **Flagged, not changed:** the series outline says Book 9 *does not hand the camera back to the Valanars*, which this
-coda qualifies; and Irene's and Elara's sheets carry nothing of Book 9 yet (Irene's ledger; Elara's priced
-restraint in handing him over).
+coda qualifies; and Irene's and Elara's sheets, which were updated the same day.
 
 ## 7. Open questions
 

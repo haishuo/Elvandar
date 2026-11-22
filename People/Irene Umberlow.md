@@ -177,6 +177,31 @@ in the [editorial record](../Series%20Review%20-%20Master%20List.md#the-marriage
 
 ---
 
+## Book 9: Fair Game
+
+*(Author's design, 2026-11-21. Full placement: `Book 9 - Fair Game/book9_outline.md`, *The Ending*.)* **She
+finds Leowin Draskin in her own ledger.** After Uratha's civil war he flees incognito to Kaha'an with the Ivory
+Tower's treasury in coin, and to hide it he chooses a small money house that will be glad of his business. It is
+hers. He does not know that, and nobody in his position would.
+
+**She is not at the counter.** By now she is the Crown Prince's wife and is rebuilding a house; she has clerks.
+A clerk takes the deposit, asks nothing, and writes everything down, including where the depositor is
+staying. **She meets him the way she meets everything, in the books.** The newest and largest account in a small
+house is the first she reads, and a fortune in zhenel from a foreign gentleman, the week Uratha's treasury goes
+missing, stops her. She could not have known his face. **She tells Tiberian at once**; there is no conflict in
+it, and Book 8's argument does not re-run.
+
+**It is her instrument at its plainest, and the scene is hers.** Book 8 was a sister-in-law at the door with a
+ledger; this is her own desk and her own ledger, and he never knows. **Merchant against Merchant**: Draskin's
+last mispricing is which house to trust with his money, and he makes it with a better trader. Book 9 is told
+from Kandor Belus, and this is the one move away from him, argued as the book's pull-away; it is short and
+played straight.
+
+**Open:** what becomes of the deposit, which is Uratha's treasury. Guardrails 1–3 and 8 still bind it: it is
+House Umberlow's business, handled as business, and nothing about it touches the Orb Weaver.
+
+---
+
 ## Relationships
 
 ### Baron Umberlow (Father)
@@ -308,3 +333,6 @@ wants it and trust that she can still make the decision afterward.
 9. **She never calls Melina *Melly*.** *(Author's ruling, 2026-11-21.)* That name belongs to Tiberian and
    Nessa. Irene calls her Melina. What is between them is professional respect, and the name would claim a
    closeness she does not have.
+10. **She never meets Draskin.** *(Author's design, 2026-11-21.)* In Book 9 he is a line in her ledger and a
+   clerk's record of his lodging. She does not confront him, interrogate him or watch him taken; she reads, and
+   she tells her husband.
