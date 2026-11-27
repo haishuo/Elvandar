@@ -1644,7 +1644,10 @@ finishing blow. Tiberian is briefly surprised; he never sees or exploits the inc
 and the bill arrives in the next scene. Recorded in `book6_outline.md`, *Bittek at the taps*, and
 `People/Bittek.md`. **Closed 2026-11-27, author's ruling:** he dies moments after he understands, with at
 most a single *oh*; the panic, the bargain and the soiling belonged to the superseded slower death and are
-cut. **Same day: Tiberian's fundamentals are Elara's**, trained before Terinok finished his education, so the
+cut. **The reason is rules 1 and 2, for both men:** the old version made Tiberian execute a helpless,
+begging man, which he would not do; sparing him would have let Bittek run, which is what he always does.
+Only a death too fast for either choice keeps both in character. The lost grovelling is a priced sacrifice;
+do not restore it. Full reasoning in `book6_outline.md`, *Bittek at the taps*. **Same day: Tiberian's fundamentals are Elara's**, trained before Terinok finished his education, so the
 counter that kills Bittek is hers (`book6_outline.md`, `People/Tiberian Valanar.md`). *(Melina's Bittek file is not a
 continuity problem: her sources saw incidents where he did not need to fight, which proves nothing about
 whether he can, so Tiberian's uncertainty holds even if he reads it.)*

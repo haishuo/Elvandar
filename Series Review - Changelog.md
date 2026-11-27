@@ -12691,3 +12691,7 @@ Added *Book 9: Fair Game* to `People/Irene Umberlow.md`: she finds Draskin in he
 ### 2026-11-27 - Bittek dies at once; Tiberian's fundamentals are Elara's
 
 On the author's ruling, cut from `book6_outline.md`, *Bittek at the taps*, and `People/Bittek.md`, *The Central Tension*, the panic, the bargain by selling somebody else, and the soiling: they belonged to the superseded version in which Bittek lived long enough to beg, and he now dies moments after he understands, with at most a single *oh*. Closed the open question of whether he gets any words out. On the same ruling, the counter that kills him is now Elara's teaching, refined in Terinok and confirmed by the war, rather than his Terinoki instructors'; added his training to the backstory in `People/Tiberian Valanar.md`. Recorded both in the master list.
+
+### 2026-11-27 - Why Bittek dies at once, recorded
+
+Added the author's reasoning to `book6_outline.md`, *Bittek at the taps*, and the master list: the old version had Tiberian execute a man who could not fight and was begging, against his character; sparing him would have let Bittek run, against his; a death too fast to beg or flee is the only version that keeps both men themselves. The lost satisfaction of seeing him grovel is recorded as a deliberate price, not to be restored.

@@ -445,7 +445,19 @@ reflection or triumph.
 man. *(Author's ruling, 2026-11-27.)* He dies moments after he understands: at most a single word, *oh*, and
 then he is gone. **There is no time for anything else** — no panic, no bargain, no attempt to sell somebody
 else, no soiling himself; those beats belonged to the superseded version in which he lived long enough to beg,
-and they do not fit a death this fast. Do not write him last lines. He gets no courage, insight or
+and they do not fit a death this fast. Do not write him last lines.
+
+**Why the death has to be this fast — the author's reasoning, so it is not relitigated.** In the old version
+Tiberian's first counter cut Bittek, the first wound of his life turned him into a blubbering mess, he begged
+and offered to betray someone else, and Tiberian executed him mid-betrayal because the book needed him dead.
+That made Tiberian **kill a man who plainly could not fight and was no threat to him**, which is wholly
+against who Tiberian is: a rule 2 violation committed for the plot's convenience. But sparing him fails
+rule 2 the other way, because a wounded Bittek left alive does what he has always done and finds a gap to run
+through; he does not sit still and get captured. **Either survival beat breaks one of the two men.** The only
+version that keeps both of them themselves is a death too quick for Bittek to beg, bargain or run, and for
+Tiberian to face any choice about him at all. The price is real and was paid knowingly: the reader loses the
+satisfaction of watching him grovel. **Do not restore the begging, the bargain or a finishing blow** to get
+it back. He gets no courage, insight or
 self-justification. **He never lives long enough to remember it as a victory.** It is the one encounter with
 reality he cannot edit afterward.
 
