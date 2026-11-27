@@ -421,8 +421,10 @@ important man has finally walked up to him unguarded, and he can humiliate him i
 knows what the other expects.**
 
 **The fight is one exchange.** *(Author's ruling, 2026-11-21; supersedes the earlier version, in which Bittek
-lost, begged and was then finished.)* Bittek attacks first. Tiberian answers with a sequence his Terinoki
-instructors drilled into him and his war confirmed: off the line, parry, counter, in one movement. **It is
+lost, begged and was then finished.)* Bittek attacks first. Tiberian answers with a sequence his mother drilled
+into him before Terinok refined it and his war confirmed it: off the line, parry, counter, in one movement.
+*(Author's ruling, 2026-11-27: his fundamentals are Elara's. She trained him before he was sent to Terinok
+to finish his education, and a parry-and-riposte is a fundamental.)* **It is
 routine.** He is not reading Bittek's technique, diagnosing anything or devising a special move; he is doing
 what he does when someone attacks him. Against anyone with the least experience, the counter is a modest
 wound, because the other man expects it and gives ground or covers. **Bittek keeps coming.** He has never
@@ -439,11 +441,11 @@ is not a feat of swordsmanship. Tiberian did something unremarkable by the stand
 Bittek's ignorance made the result remarkable. The surprise is brief and understated, not a moment of moral
 reflection or triumph.
 
-**The counter is what kills him.** There is no extended duel and no finishing blow on a helpless man. He may
-stay conscious for a moment, long enough for the reflex of his whole life to show — panic, and an attempt to
-bargain by selling somebody else. If that beat stays, it is a reflex rather than a proposal, and it must not
-open another confrontation. **Whether he gets any words out is left open**; do not write him elaborate last
-lines. He dies of the wound already given, soiling himself, with no courage, dignity, insight or
+**The counter is what kills him, and quickly.** There is no extended duel and no finishing blow on a helpless
+man. *(Author's ruling, 2026-11-27.)* He dies moments after he understands: at most a single word, *oh*, and
+then he is gone. **There is no time for anything else** — no panic, no bargain, no attempt to sell somebody
+else, no soiling himself; those beats belonged to the superseded version in which he lived long enough to beg,
+and they do not fit a death this fast. Do not write him last lines. He gets no courage, insight or
 self-justification. **He never lives long enough to remember it as a victory.** It is the one encounter with
 reality he cannot edit afterward.
 

@@ -12687,3 +12687,7 @@ On the author's ruling, rewrote the paragraph in `book9_outline.md`, *He walks i
 ### 2026-11-21 - Irene's and Elara's sheets for Book 9
 
 Added *Book 9: Fair Game* to `People/Irene Umberlow.md`: she finds Draskin in her own ledger, not at the counter; tells Tiberian at once; the scene is hers and is the book's one argued move away from Belus; what becomes of the deposit is open and bound by her guardrails. Added guardrail 10, *She never meets Draskin*. Added *Book 9: She Hands Him Over* to `People/Elara Valanar.md`: she will not aid Draskin; she and Xion extradite him by proper procedure; the restraint is priced, since she gives the case to the country that built the Globehall, against her Founder-sixth stack. Elara's sheet has no Book 4–8 sections, so the Book 9 section follows Book 3's.
+
+### 2026-11-27 - Bittek dies at once; Tiberian's fundamentals are Elara's
+
+On the author's ruling, cut from `book6_outline.md`, *Bittek at the taps*, and `People/Bittek.md`, *The Central Tension*, the panic, the bargain by selling somebody else, and the soiling: they belonged to the superseded version in which Bittek lived long enough to beg, and he now dies moments after he understands, with at most a single *oh*. Closed the open question of whether he gets any words out. On the same ruling, the counter that kills him is now Elara's teaching, refined in Terinok and confirmed by the war, rather than his Terinoki instructors'; added his training to the backstory in `People/Tiberian Valanar.md`. Recorded both in the master list.

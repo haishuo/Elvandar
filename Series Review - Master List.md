@@ -1642,7 +1642,10 @@ because he has never learned that a counter can come, and the counter is fatal. 
 finishing blow. Tiberian is briefly surprised; he never sees or exploits the incompetence beforehand.
 **Supersedes the version in which Bittek lost, begged and was finished.** Rule 3 is unchanged: one emotion,
 and the bill arrives in the next scene. Recorded in `book6_outline.md`, *Bittek at the taps*, and
-`People/Bittek.md`. **Open:** whether Bittek gets any words out. *(Melina's Bittek file is not a
+`People/Bittek.md`. **Closed 2026-11-27, author's ruling:** he dies moments after he understands, with at
+most a single *oh*; the panic, the bargain and the soiling belonged to the superseded slower death and are
+cut. **Same day: Tiberian's fundamentals are Elara's**, trained before Terinok finished his education, so the
+counter that kills Bittek is hers (`book6_outline.md`, `People/Tiberian Valanar.md`). *(Melina's Bittek file is not a
 continuity problem: her sources saw incidents where he did not need to fight, which proves nothing about
 whether he can, so Tiberian's uncertainty holds even if he reads it.)*
 The approved scene reference is archived at `Character Art/Scenes/Tiberian and Bittek/At the Taps.png`:

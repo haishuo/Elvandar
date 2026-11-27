@@ -230,7 +230,8 @@ the last person who could hurt him is dead he becomes, immediately and completel
 prepared to be.
 
 He dies of the first counter in the first real fight of his life, in an attack he started, because he never
-learned that the other man could hit back. If he gets anything out before he dies, it is panic and a reflex
-to sell somebody else. **He gets no courage, no dignity and no last insight, and he does not live long
-enough to remember it as a victory.** His one skill, avoiding every fight that could hurt him, is exactly
+learned that the other man could hit back. **He dies moments after he understands** — at most a single
+*oh* — and there is no time for panic, bargaining or anything else *(author's ruling, 2026-11-27)*. **He gets
+no courage, no last words and no last insight, and he does not live long enough to remember it as a
+victory.** His one skill, avoiding every fight that could hurt him, is exactly
 why he never learned to survive one.

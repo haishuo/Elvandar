@@ -114,6 +114,8 @@ Tiberian grew up in the Imperial Palace, raised with the weight of the Valanar l
 
 The result was a young man who absorbed both lessons and synthesized them into something new: moral fury expressed through direct action. Where Xion healed and Elara ruled, Tiberian charges.
 
+**His fundamentals are his mother's** *(author's ruling, 2026-11-27)*. Elara trained him herself before he was sent to Terinok to finish his education; footwork, the parry and the riposte, everything he does without thinking, came from her and from twenty years of Arol Batae practice behind her. Terinok refined it and his war confirmed it. When his body answers an attack before his mind does, it is answering the way Elara taught it.
+
 His relationship with Silvanno — who knew his father in the idealistic circle of The Amber Leaf — provides a connection to the older generation's experience and diplomatic wisdom. He views Silvanno as a mentor and uncle figure, learning from the Water cartel heir's experience navigating institutional politics.
 
 ---
