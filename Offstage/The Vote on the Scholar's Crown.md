@@ -6,7 +6,7 @@
 |---|---|
 | Amethyst — Elaris Venn | The dispatches had persuaded Venn that her scholars needed sustained access to Hauren. She would administer the research herself. |
 | Topaz — Tolrin Fax | Fax shared Emerald's respect for the trust Uratha had received. He also believed its engineers could learn to build and repair things whose workings had been lost. Putting that knowledge to use was part of what the academy owed the people it served. He wanted the chance to do the work himself. |
-| Pearl — Nessa Lind | Lind had to consider the patients her physicians still lost. She wanted Urathan physicians to be able to study whatever Hauren might teach them. |
+| Pearl — Petra Lind | Lind had to consider the patients her physicians still lost. She wanted Urathan physicians to be able to study whatever Hauren might teach them. |
 | Ivory — Scholar-King Leowin Draskin | Draskin was prepared to return the Crown for an exclusive compact and to negotiate it with Elara in person. |
 
 | Against | Reason |

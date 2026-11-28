@@ -2986,8 +2986,9 @@ That ruling deleted a résumé event no story depended on. The Orb Weaver is bor
 and Act III depends on it. **It is now a cross-book thread** *(2026-11-02)*: Book 8's investigation runs on it —
 see [§2](#2-cross-book-threads), *The Orb Weaver*.
 
-**Nessa's name and stack, settled 2026-11-02.** *Nessa* stays; if the collision with Nessa Lind, the Urathan
-Medicine Provost, is ever resolved, the Provost is renamed (`Names.md`, *Coined 2026-11-01*). Her stack,
+**Nessa's name and stack, settled 2026-11-02.** *Nessa* stays. The collision with the Urathan Medicine
+Provost was resolved 2026-11-28 by renaming her **Petra Lind** (`Names.md`, *Coined 2026-11-01*); the handmaid's
+full name became *Vanessa* the same day. Her stack,
 **Caretaker → Spirited Competitor → Founder → Merchant → Truth Seeker → Engineer → Creator**, is approved as
 proposed and drawn to complement Melina's (`People/Vanessa Halcin.md`).
 

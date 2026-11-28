@@ -106,6 +106,7 @@ day. Neither has ever said so to the other on the page.
 | **High Provost Venn** | Uratha | — |
 | **Kandor Belus** | War Provost, Ruby Tower. Proposes the no-confidence motion against Draskin after Book 8, then leads the failed strike on the Ivory Tower. See `People/Kandor Belus.md` | — |
 | **Iyanna Mereth** | History Provost, Sapphire Tower. The Brass Door is her subject | Old Halauri *-eth* |
+| **Petra Lind** | Medicine Provost, Pearl Tower. Was *Nessa Lind* until 2026-11-28 — see *Coined 2026-11-01*, below | — |
 | **Adren Thulgrav** | Gunastran lead engineer, ~50. **She/her** | Old Gunastran |
 | **Ondra Kelgrav** | Gunastran | Old Gunastran |
 | **Veldrin Torkal** | Consortium Chair, Master Engineer, Gunastran | Old Gunastran |
@@ -294,7 +295,10 @@ choice stands, and the full name is rarely spoken, so the V barely lands.
 rather than discovered later. **Ruled 2026-11-02: *Nessa* stays.** If either collision is ever resolved, it is
 Nessa Lind who moves, not the handmaid; until then the Provost is minor enough to share the name.
 
-- ***Nessa Lind*, the Urathan Medicine Provost** (`Places/Uratha/The Government of Uratha.md`). Same
+- ***Nessa Lind*, the Urathan Medicine Provost** — **resolved 2026-11-28: she is now *Petra Lind***, on the
+  author's ruling. *Sera* was proposed first and passed over: it is spent on Sera Quillin (B1 ch10), on a
+  bakarn woman in `Uratha_ The Land of Scholars.md`, and in the Valanar throne-name pool. The note as it stood:
+  (`Places/Uratha/The Government of Uratha.md`). Same
   given name. One mention, in one place dossier, never spoken, not previously in this register — so the
   smaller footprint is hers. But she heads the Pearl Tower, and the Provosts are Book 8's antagonists, so
   she may yet matter. **She is the one that moves, if either does** — author's ruling, 2026-11-02, which leaves

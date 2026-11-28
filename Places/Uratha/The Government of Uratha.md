@@ -13,7 +13,7 @@ The ruling body of Uratha consists of the heads of each Tower — the great acad
 - **The History Provost** — Iyanna Mereth, head of the Sapphire Tower, keeper of historical records and traditional knowledge
 - **The Sciences Provost** — Tolrin Fax, head of the Topaz Tower, overseeing applied sciences and technological development
 - **The Agriculture Provost** — Daven Harth, head of the Emerald Tower, managing food production, distribution, and natural sciences
-- **The Medicine Provost** — Nessa Lind, head of the Pearl Tower, overseeing health services and medical research
+- **The Medicine Provost** — Petra Lind, head of the Pearl Tower, overseeing health services and medical research
 - **The Foreign Affairs Provost** — Galvin Tarus, head of the Onyx Tower, handling diplomatic relations — and rather more besides
 - **The Scholar-King** — Presides over all from the Ivory Tower, the administrative heart of Uratha. Leowin Draskin from before Book 1 ([sheet](../../People/Leowin%20Draskin.md))
 

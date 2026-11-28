@@ -12699,3 +12699,7 @@ Added the author's reasoning to `book6_outline.md`, *Bittek at the taps*, and th
 ### 2026-11-28 - Nessa Halcin's full name is Vanessa
 
 On the author's ruling, Melina's handmaid is **Vanessa Halcin**, and *Nessa* is what everyone who knows her calls her. Renamed `People/Nessa Halcin.md` to `People/Vanessa Halcin.md` and noted the nickname in its opening. Replaced the full name and the sheet path across the register, the master list, the Book 5 and 6 outlines, two Offstage accounts, the attested-forms register, and the Melina, Irene and Celestine sheets. Bare *Nessa* is unchanged everywhere. `Names.md` records the ruling and notes that *Vanessa* is V-initial, which the coinage guidance closes; the author's choice stands. No chapter prose changed, so Royal Road needs no regeneration. Entries above this one keep the old name as history.
+
+### 2026-11-28 - The Medicine Provost is Petra Lind
+
+On the author's ruling, renamed the Urathan Medicine Provost from *Nessa Lind* to **Petra Lind**, which resolves her collision with Vanessa (Nessa) Halcin. Changed `Places/Uratha/The Government of Uratha.md` and the Pearl Tower row of `Offstage/The Vote on the Scholar's Crown.md`. Added her to the Uratha table in `Names.md` and marked the collision resolved there and in the master list. *Sera* was considered first and passed over because it is already spent three times. She appears in no chapter prose or beat draft.
