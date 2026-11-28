@@ -130,7 +130,7 @@ day. Neither has ever said so to the other on the page.
 |---|---|---|
 | **Bittek** | Slaver lieutenant under Ronas. One name — commoners have no other. The one antagonist in the series written with no redeeming feature; present across all four acts and killed by Tiberian in Act IV. Design and guardrails in `book6_outline.md` | Proto-Balishan |
 | **Garrin** | Ronas's most capable lieutenant. Tries to hold the cartel together after his death and is the last legible actor in the Warrens; Bittek kills him in Act III | Proto-Balishan |
-| **Nessa Halcin** | Melina Valanar's handmaid and closest friend; a baron's daughter, from the minor barony of House Halcin. Co-runs the Orb Weaver, which was her idea. Given name **kept** on the author's ruling, 2026-11-02 — see *Coined 2026-11-01*, below. Sheet: `People/Nessa Halcin.md` | Native charter-name (*Halcin*) |
+| **Vanessa Halcin** | Melina Valanar's handmaid and closest friend; a baron's daughter, from the minor barony of House Halcin. Co-runs the Orb Weaver, which was her idea. **Full name *Vanessa*; called *Nessa* by everyone who knows her** (author's ruling, 2026-11-28) — see *Coined 2026-11-01*, below. Sheet: `People/Vanessa Halcin.md` | Native charter-name (*Halcin*) |
 
 ## Between Books 7 and 8
 
@@ -284,7 +284,11 @@ rejected: *Aldric*, the only tested candidate returning repository hits. Clean a
 ridiculous; *Garrin* has weight. The contrast is doing work — the competent man and the toad who kills him
 should not sound like they belong to the same weight class.
 
-## Coined 2026-11-01 — Nessa Halcin
+## Coined 2026-11-01 — Vanessa Halcin
+
+**2026-11-28: the full name is *Vanessa*; *Nessa* is what everyone who knows her calls her**, and remains the
+name on the page. *Vanessa* is V-initial, which the guidance below closes for new coinages; the author's
+choice stands, and the full name is rarely spoken, so the V barely lands.
 
 **The given name is the author's, and it has two collisions.** Both are recorded here so they are weighed
 rather than discovered later. **Ruled 2026-11-02: *Nessa* stays.** If either collision is ever resolved, it is

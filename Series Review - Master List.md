@@ -615,7 +615,7 @@ now a settled ruling; see [§6](#6-settled-rulings).
 
 **B6-1 is closed.** Both open questions were ruled on 2026-08-14 — see [§6](#6-settled-rulings). Book 6's
 design work has nothing outstanding; `book6_outline.md` holds the structure and `People/Bittek.md` holds
-the character. **The Orb Weaver was added 2026-11-01** (see [§6](#6-settled-rulings)); Nessa Halcin's name
+the character. **The Orb Weaver was added 2026-11-01** (see [§6](#6-settled-rulings)); Vanessa Halcin's name
 and stack were both settled 2026-11-02, so nothing on it is open.
 
 **B3-2 — two threads inherited from `_WORKING_NOTES.md`, which was salvaged and deleted 2026-08-04.**
@@ -1249,7 +1249,7 @@ line is **live chess imagery applied to a person**, not chess etymology.
 - **She is right about the world she knows, and the world she knows stops existing.** *"Father can be reached. He always can."* Her death must not read as naivety — she is the most accurate reader of Rosik alive, and Xion agrees with her, and they are both wrong.
 - **The meeting interval must vary and never become a fixed weekly ritual.** Currently: "day after tomorrow," "next week," "tomorrow," "three days," "two days," off-rhythm. A schedule would telegraph the death.
 
-### Melina Valanar and Nessa Halcin — the Orb Weaver
+### Melina Valanar and Vanessa Halcin — the Orb Weaver
 
 - **It is a tool to Melina and nobody says so.** The contrast with Master Fen is for the reader; no character draws it.
 - **It was Nessa's idea.** Never retell the origin with Melina proposing it.
@@ -2962,9 +2962,9 @@ Denominations, metal contents, conversion ratios, deeper unbuilt etymologies, an
 **The author's idea, and it answers a rule 1 gap.** `book6_outline.md` relied on Melina having
 "well-sourced" files on the lieutenants and dependency networks mapped "street by street," and never said
 how an imperial princess got intelligence the underworld would never give her. **The Orb Weaver is an
-underworld information broker run jointly by Melina and her handmaid Nessa Halcin**, through intermediaries;
+underworld information broker run jointly by Melina and her handmaid Vanessa Halcin**, through intermediaries;
 Nessa claims to be one more go-between. Authority: `People/Melina Valanar.md`, *The Orb Weaver*, and
-`People/Nessa Halcin.md`.
+`People/Vanessa Halcin.md`.
 
 **Decided in the same exchange:** (1) Melina's line is narrow — she sells to criminals, and burns it only for
 information directly dangerous to her family — and **the book charges her for that once**, with a
@@ -2989,7 +2989,7 @@ see [§2](#2-cross-book-threads), *The Orb Weaver*.
 **Nessa's name and stack, settled 2026-11-02.** *Nessa* stays; if the collision with Nessa Lind, the Urathan
 Medicine Provost, is ever resolved, the Provost is renamed (`Names.md`, *Coined 2026-11-01*). Her stack,
 **Caretaker → Spirited Competitor → Founder → Merchant → Truth Seeker → Engineer → Creator**, is approved as
-proposed and drawn to complement Melina's (`People/Nessa Halcin.md`).
+proposed and drawn to complement Melina's (`People/Vanessa Halcin.md`).
 
 ### Melina is *the Kaleidoscope* in-world; *Spider Queen* is not — author's ruling, 2026-11-01
 

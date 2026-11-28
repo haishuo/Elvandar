@@ -1,14 +1,14 @@
 # The Marriage of the Tiger Prince
 
 **When:** Between Books 7 and 8. Tiberian is eighteen.
-**Who:** Tiberian Valanar and Irene Umberlow, Celestine and Lucien Vey, Aurelia Alric, Nessa Halcin, Melina
+**Who:** Tiberian Valanar and Irene Umberlow, Celestine and Lucien Vey, Aurelia Alric, Vanessa Halcin, Melina
 Valanar, and Empress Elara and Xion.
 
 ## The blue dress
 
 The blue dress was older than the courtship by about two years. Irene began going to balls at around
 sixteen, mostly for access to the nobles and their money, and also because a baron's daughter was
-nobility, whatever her house could afford. Celestine, Aurelia and Nessa Halcin were all about the same
+nobility, whatever her house could afford. Celestine, Aurelia and Vanessa Halcin were all about the same
 age.
 
 At one of those early balls Celestine sought Irene out in company. She complimented her on how well she

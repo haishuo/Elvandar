@@ -62,11 +62,11 @@ Kai has his father's practical temperament, his economical speech, his understat
 
 ### Melina and Nessa
 
-*(Author's ruling, 2026-11-21.)* **Nessa Halcin has been Melina's handmaid for years by now**, since she came
+*(Author's ruling, 2026-11-21.)* **Vanessa Halcin has been Melina's handmaid for years by now**, since she came
 to the palace at about nine, and the friendship is already what it will be: almost a sister, thick as thieves.
 **The reader meets her here, in Book 5, and not in Book 6 at the moment she proposes the Orb Weaver.** A
 reader who meets her and her biggest idea in the same breath takes the idea for her job; a reader who already
-knows her hears it from a friend. Character in full: `People/Nessa Halcin.md`.
+knows her hears it from a friend. Character in full: `People/Vanessa Halcin.md`.
 
 **Beat one, early, and it does for Melina what the whetstone does for Tiberian.** A private scene, nothing at
 stake: the two of them in Melina's rooms, light and warm, the giggling her guardrail 3 calls load-bearing.
@@ -248,7 +248,7 @@ chair and demonstrably didn't. **Give her nothing to say about it** — see `Peo
 
 **Kai Issamil — three beats, one book:** Beat one: low-stakes friendship scene, whetstone and banter, the reader learns who Kai is and how long these two have known each other. Beat two: Kai is the first person Tiberian tells about Silaris, and his response is operational — *let me make sure we don't burn the wrong half*. Beat three: under fire in the Gallery War, covering each other, *told you this was a bad idea*. By the time Kai descends into the Warrens with Tiberian in Book 6, the reader has spent a full book watching this partnership work. The Melina principle: if someone's going to matter, the reader needs to know them first.
 
-**Nessa Halcin — two beats, one book** *(author's ruling, 2026-11-21)*: the private scene with Melina, and
+**Vanessa Halcin — two beats, one book** *(author's ruling, 2026-11-21)*: the private scene with Melina, and
 the remark about Silaris's art being sold before it can be seized (Act I, *Melina and Nessa*). The Kai
 principle applies to her: she proposes the Orb Weaver at the start of Book 6, and the reader needs to know her
 first. **Both twins' uses of *Melly* are seeded here**: Nessa's in beat one, Tiberian's in the Silaris

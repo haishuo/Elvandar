@@ -131,12 +131,12 @@ not carry his characterization twice.
 **Where the street-by-street knowledge comes from: the Orb Weaver.** *(Added 2026-11-01, the author's idea.)*
 The people who know the Warrens are exactly the people who would avoid an imperial princess on sight, so
 Melina's mapping needs a source she cannot have as herself. **Act I is where the Orb Weaver is born** — an
-underworld information broker run by Melina and her handmaid **Nessa Halcin**, whom the reader has known since
+underworld information broker run by Melina and her handmaid **Vanessa Halcin**, whom the reader has known since
 Book 5 (`book5_outline.md`, *Melina and Nessa*), through intermediaries, known
 to nobody else. **It is Nessa's idea**, and Nessa's minor-house upbringing is the doorway. It is a real
 broker and trades with criminals; Melina's only line is information directly dangerous to her family. **What
 it is, who knows, and what it costs each of them is on the sheets** — `People/Melina Valanar.md`, *The Orb
-Weaver*, and `People/Nessa Halcin.md`. This outline carries placement only.
+Weaver*, and `People/Vanessa Halcin.md`. This outline carries placement only.
 
 **It does not close the distance Act I depends on.** The Orb Weaver makes Melina better informed, not closer.
 She still never goes below; what reaches her is still paper. The reader is underground and the characters are

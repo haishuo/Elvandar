@@ -247,7 +247,7 @@ In time she becomes readier to ask him for a
 hand, and he becomes better at hearing the size of the request. Sometimes all she wants is for
 him to sit with her while she works out what she wants to do.
 
-### Melina Valanar and Nessa Halcin
+### Melina Valanar and Vanessa Halcin
 
 Melina keeps following the relationships in a problem until she understands the whole arrangement.
 Irene can spend half an afternoon tracking down one term because it will tell her who can afford

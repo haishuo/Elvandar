@@ -338,7 +338,7 @@ evidence** for a language's phonology unless independently adopted later:
 - Far Eastern examples: *Tan Wei, Mi Ko*.
 - Rejected Book 6 candidates: *Nillek, Havvik, Duvvin, Gossek, Dolch, Grask, Corran, Aldric, Halvor,
   Gorran, Nerrin, Orrin, Halcin, Loken, Wendric*. *Halcin* was spent as a minor-house charter-name on
-  2026-11-01 (*Nessa Halcin*, Book 6) and is now P3.
+  2026-11-01 (*Vanessa Halcin*, Book 6) and is now P3.
 - Retired and unavailable for reuse: *Hedrin Vall, Kaiden Voss, Ver'anar, Vrek, Kira Voss, Lydia Karven,
   House Vex, Silas Vex, Marcus Vex,* and *Marcus Nerrick*.
 

@@ -1,8 +1,9 @@
-# Nessa Halcin: The Other Half of the Orb Weaver
+# Vanessa Halcin: The Other Half of the Orb Weaver
 
 ## The Handmaid
 
-Nessa Halcin is a baron's daughter. She was sent to the Imperial Palace at about nine to train as a
+Vanessa Halcin is a baron's daughter, and **Nessa** to everyone who knows her — which is the only name the books
+use for her outside a formal introduction *(author's ruling, 2026-11-28)*. She was sent to the Imperial Palace at about nine to train as a
 lady-in-waiting, and she was sent there for a reason. House Halcin is a minor barony — a name, a charter and
 not much else — and a daughter in the princess's household was the best piece of access the family had ever
 been offered. It is a common enough move for a minor barony, and the hope behind it was modest: that

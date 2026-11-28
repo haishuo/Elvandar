@@ -1,7 +1,7 @@
 # The Children of the Great Hunt
 
 **When:** The ban, among Elara's first edicts after Book 1. The conspiracy, between Book 7 and Book 8.
-**Who:** Melina Valanar and Nessa Halcin; Elara, Xion and Tiberian Valanar, and Kess Ashwood; the heirs of the
+**Who:** Melina Valanar and Vanessa Halcin; Elara, Xion and Tiberian Valanar, and Kess Ashwood; the heirs of the
 hunting houses, including Lucien Vey; an unacknowledged son of Kalden Erulius; the Long Knives; a lesser
 house of assassins.
 

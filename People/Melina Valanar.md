@@ -103,7 +103,7 @@ Very low, but not absent. Melina designs systems and strategies, but these are E
 
 Melina's lowest drive, by some distance. She does not accumulate for accumulation's sake. The Merchant accumulates substrate — wealth, leverage, position, holdings — while the Truth Seeker accumulates *understanding*, which is a fundamentally different psychological transaction. Melina wants the world legible, not owned.
 
-She shares this Merchant-bottom placement with her parents, her brother, Silvanno, Farleen, and every member of the Caretaker-primary cluster around the Valanar throne. The post-cartel-era Balisha continues to be governed by people for whom accumulation is genuinely not motivating. Melina's variant of this is particularly clean: she has access to the Crown's full strategic apparatus, sees the entire kingdom's resource flows from her central command position, and has no interest in directing any of it toward personal or institutional accumulation. Her command of the Five Pillars is the largest concentration of operational capability in Elvandar, and she uses it for protection and information, not for growth. **The Orb Weaver is the test case and it passes:** she co-runs a profitable underworld brokerage and the profit never pulls on her. The commerce in it is Nessa Halcin's — see *The Orb Weaver*, below.
+She shares this Merchant-bottom placement with her parents, her brother, Silvanno, Farleen, and every member of the Caretaker-primary cluster around the Valanar throne. The post-cartel-era Balisha continues to be governed by people for whom accumulation is genuinely not motivating. Melina's variant of this is particularly clean: she has access to the Crown's full strategic apparatus, sees the entire kingdom's resource flows from her central command position, and has no interest in directing any of it toward personal or institutional accumulation. Her command of the Five Pillars is the largest concentration of operational capability in Elvandar, and she uses it for protection and information, not for growth. **The Orb Weaver is the test case and it passes:** she co-runs a profitable underworld brokerage and the profit never pulls on her. The commerce in it is Vanessa Halcin's — see *The Orb Weaver*, below.
 
 **Shadow:** Like Tiberian, her lack of Merchant drive means she has no native instinct for *the strategic value of accumulation* — defensive reserves, contingency alliances, leverage hoarded for crises. Her Truth Seeker primary partially compensates, because mapping reveals where reserves *should* be kept — but mapping the need is not the same as feeling the pull to maintain it. When the next generation must think in terms of multi-decade institutional preservation rather than emergency response, this is the drive she and her brother will most have to learn to *simulate*. Their parents did not have to either. The Valanar restoration has been Caretaker work running on borrowed time, and the Merchant drive their family lacks is the drive that, in any other ruling line, would have ensured the borrowed time had been topped up.
 
@@ -222,9 +222,9 @@ are exactly the people who would avoid a woman like Melina because of who she is
 of it came from. **This is the answer.**
 
 **The Orb Weaver is an underworld information broker in Kaha'an — by the middle of Book 6, one of the best —
-and it is Melina and her handmaid Nessa Halcin**, jointly, and through Book 7 nobody else. It deals only through
+and it is Melina and her handmaid Vanessa Halcin**, jointly, and through Book 7 nobody else. It deals only through
 intermediaries. Nessa is the last intermediary anyone can reach, and if asked she says that she too only
-passes notes onward and has never met the Orb Weaver. Full sheet: `People/Nessa Halcin.md`.
+passes notes onward and has never met the Orb Weaver. Full sheet: `People/Vanessa Halcin.md`.
 
 **It was Nessa's idea, and it is born during Book 6, not before it.** The relocation plan needs what a
 princess cannot get; Nessa, raised in a minor house that has always lived close to moneylenders and favour
@@ -337,13 +337,13 @@ The magic system confirms it: "They succeed most when Melina's planning creates 
 
 Political mentor. Melina appreciates Silvanno's insights into institutional politics and diplomatic nuance — skills learned from decades of navigating the Water cartel's relationship with the throne. He knew her father in his youth, providing a family connection that transcends the merely professional. From Silvanno, she learns the art of political reading that her engineering drive naturally seeks: how institutions actually work beneath their official structures.
 
-### Nessa Halcin (Handmaid)
+### Vanessa Halcin (Handmaid)
 
 Almost a sister — what Kai is to Tiberian, on the princess's side. A baron's daughter, sent to the palace at
 about nine by a minor house that wanted access; she trained as a lady-in-waiting, became Melina's handmaid,
 and over a shared childhood became her closest friend: thick as thieves,
 sleepovers, giggling about boys. **She is one of the two people who know Melina feels far more than she
-shows**; Tiberian is the other. Co-runs the Orb Weaver, which was her idea. See `People/Nessa Halcin.md`.
+shows**; Tiberian is the other. Co-runs the Orb Weaver, which was her idea. See `People/Vanessa Halcin.md`.
 
 ### Kai
 

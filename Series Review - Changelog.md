@@ -12695,3 +12695,7 @@ On the author's ruling, cut from `book6_outline.md`, *Bittek at the taps*, and `
 ### 2026-11-27 - Why Bittek dies at once, recorded
 
 Added the author's reasoning to `book6_outline.md`, *Bittek at the taps*, and the master list: the old version had Tiberian execute a man who could not fight and was begging, against his character; sparing him would have let Bittek run, against his; a death too fast to beg or flee is the only version that keeps both men themselves. The lost satisfaction of seeing him grovel is recorded as a deliberate price, not to be restored.
+
+### 2026-11-28 - Nessa Halcin's full name is Vanessa
+
+On the author's ruling, Melina's handmaid is **Vanessa Halcin**, and *Nessa* is what everyone who knows her calls her. Renamed `People/Nessa Halcin.md` to `People/Vanessa Halcin.md` and noted the nickname in its opening. Replaced the full name and the sheet path across the register, the master list, the Book 5 and 6 outlines, two Offstage accounts, the attested-forms register, and the Melina, Irene and Celestine sheets. Bare *Nessa* is unchanged everywhere. `Names.md` records the ruling and notes that *Vanessa* is V-initial, which the coinage guidance closes; the author's choice stands. No chapter prose changed, so Royal Road needs no regeneration. Entries above this one keep the old name as history.

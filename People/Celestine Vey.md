@@ -22,7 +22,7 @@ there was any question of rivalry, Irene's poverty was reason enough for Celesti
 display of noticing it. The blue dress was a favorite subject and far from the only one.
 
 **Rank is how she reads a room.** Her circle is for the daughters of dukes, marquises and counts. A
-baron's daughter barely warrants a glance, which is why she spent years not noticing Nessa Halcin. The
+baron's daughter barely warrants a glance, which is why she spent years not noticing Vanessa Halcin. The
 moment she understood that Nessa and Melina were genuine friends, Nessa was invited in and treated as
 roughly a count's daughter's equal, Aurelia's level, and Celestine considered that generous of her. She
 has been scrupulously civil to Nessa ever since. Nessa does not care, and Celestine has not noticed.
